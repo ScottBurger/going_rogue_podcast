@@ -18,16 +18,17 @@ The combined ranking data can be found below:
 | Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev |
 |  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
 | FTL: Faster Than Light      | 1          | 1          | 2         | 1.33     | 1.00        | 0.58    |
-| Invisible, Inc.             | 3          | 2          | 1         | 2.00     | 2.00        | 1.00    |
+| Invisible, Inc.             | 4          | 2          | 1         | 2.33     | 2.00        | 1.53    |
 | Binding of Isaac: Rebirth   | 2          | 3          | 2         | 2.33     | 2.00        | 0.58    |
-| Dungeons of Dredmor         | 4          | 6          | 4         | 4.67     | 4.00        | 1.15    |
-| Din's Curse                 | 8          | 4          | 5         | 5.67     | 5.00        | 2.08    |
-| Pineapple Smash Crew        | 6          | 5          | 7         | 6.00     | 6.00        | 1.00    |
-| Sword of the Stars: The Pit | 7          | 8          | 5         | 6.67     | 7.00        | 1.53    |
-| Cargo Commander             | 5          | 10         | 8         | 7.67     | 8.00        | 2.52    |
-| Hack, Slash, Loot           | 9          | 11         | 8         | 9.33     | 9.00        | 1.53    |
-| A Valley Without Wind       | 10         | 7          | 11        | 9.33     | 10.00       | 2.08    |
-| Realm of the Mad God        | 11         | 9          | 10        | 10.00    | 10.00       | 1.00    |
+| Stacklands                  | 3          | 5          | 4         | 4.00     | 4.00        | 1.00    |
+| Dungeons of Dredmor         | 5          | 7          | 5         | 5.67     | 5.00        | 1.15    |
+| Din's Curse                 | 9          | 4          | 6         | 6.33     | 6.00        | 2.52    |
+| Pineapple Smash Crew        | 7          | 6          | 8         | 7.00     | 7.00        | 1.00    |
+| Sword of the Stars: The Pit | 8          | 9          | 6         | 7.67     | 8.00        | 1.53    |
+| Cargo Commander             | 6          | 11         | 9         | 8.67     | 9.00        | 2.52    |
+| Hack, Slash, Loot           | 10         | 12         | 9         | 10.33    | 10.00       | 1.53    |
+| A Valley Without Wind       | 11         | 8          | 12        | 10.33    | 11.00       | 2.08    |
+| Realm of the Mad God        | 12         | 10         | 11        | 11.00    | 11.00       | 1.00    |
 
 
 
