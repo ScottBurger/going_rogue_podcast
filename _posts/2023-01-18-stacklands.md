@@ -2,8 +2,19 @@
 layout: post
 title: "Stacklands"
 date: 2023-01-18
-file: 
-description: "
+file: https://grogpod.s3.us-west-2.amazonaws.com/stacklands-audio.mp3
+description: "Stack 'em up! This week we're playing the 2022 (literal) card game by the Sockpop Collective that became way more popular than they could have imagined. Join our Strange Portal of discussion about walls of carrots, ninjas, magic dust, and booster packs as we build a village of slowly completing progress bars in this relaxed and chill game of survival.
+
+
+Next episode: Risk of Rain
+
+Contact us at grogpodzone@gmail.com!
+
+https://grogpod.zone
+
+Intro music: Thelonious Monk Quartet - 'Round Midnight
+
+Outro music: Stacklands Village Theme
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -11,8 +22,8 @@ voices: "scott, will, colin"
 cover-img: /assets/img/stacklands.jpeg
 thumbnail-img: /assets/img/stacklands.jpeg
 share-img: /assets/img/stacklands.jpeg
-duration: "1:07:26"
-length: 130882851
+duration: "59:08"
+length: 114757512
 tags: ["2022", modern rogue]
 ---
 
