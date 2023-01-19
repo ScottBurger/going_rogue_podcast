@@ -1,35 +1,25 @@
 ---
 layout: post
-title: "Invisible, Inc."
-date: 2023-01-04
-file: https://grogpod.s3.us-west-2.amazonaws.com/invisible-mp3.mp3
-description: "Call me Sna- uh, er, Inc. Invisible, Inc. The tactical espionage (action?) game by renknown developers Klei Entertainment! Your mission, should you choose to download it, is to tune in on our descriptions of cybernetic noir, wireless daemon hacking, and comparisons with X-Com.
-
-Next episode: Stacklands
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Bill Evans - Romain
-
-Outro music: Vince de Vera and Jason Garner - Plastech Cybermedical
+title: "Stacklands"
+date: 2023-01-18
+file: 
+description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/invisible_inc.jpg
-thumbnail-img: /assets/img/invisible_inc.jpg
-share-img: /assets/img/invisible_inc.jpg
+cover-img: /assets/img/stacklands.jpeg
+thumbnail-img: /assets/img/stacklands.jpeg
+share-img: /assets/img/stacklands.jpeg
 duration: "1:07:26"
 length: 130882851
-tags: ["2015", modern rogue]
+tags: ["2022", modern rogue]
 ---
 
 
-Call me Sna- uh, er, Inc. Invisible, Inc. The tactical espionage (action?) game by renknown developers Klei Entertainment! Your mission, should you choose to download it, is to tune in on our descriptions of cybernetic noir, wireless daemon hacking, and comparisons with X-Com.
 
-Next episode: Stacklands
+
+Next episode: Risk of Rain
 
 Contact us at grogpodzone@gmail.com!
 
