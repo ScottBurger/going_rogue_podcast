@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Risk of Rain"
-date: 2024-02-01
+date: 2023-02-01
 file: https://grogpod.s3.us-west-2.amazonaws.com/riskofrain-audio.mp3
 description: "Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 10 year old (but timeless in our hearts) loot-collecting roguelike platformer with an incredibly enduring legacy. Be a Burning Witness to a podcast where two Meat Nuggets try to convince the third that his Tough Times could really just be solved by seven Crowbars and a Hydraulic Gauntlet.
 
