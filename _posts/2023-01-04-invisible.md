@@ -23,7 +23,7 @@ thumbnail-img: /assets/img/invisible_inc.jpg
 share-img: /assets/img/invisible_inc.jpg
 duration: "1:07:26"
 length: 130882851
-tags: ["2015", modern rogue]
+tags: ["2015", squad management]
 ---
 
 
