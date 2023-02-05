@@ -23,7 +23,7 @@ thumbnail-img: /assets/img/riskofrain1.jpeg
 share-img: /assets/img/riskofrain1.jpeg
 duration: "1:08:37"
 length: 53061253 
-tags: ["2013", modern rogue]
+tags: ["2013", platformer]
 ---
 
 Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 10 year old (but timeless in our hearts) loot-collecting roguelike platformer with an incredibly enduring legacy. Be a Burning Witness to a podcast where two Meat Nuggets try to convince the third that his Tough Times could really just be solved by seven Crowbars and a Hydraulic Gauntlet.
