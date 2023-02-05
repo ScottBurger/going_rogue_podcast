@@ -20,7 +20,7 @@ thumbnail-img: /assets/img/207430_library_hero.jpg
 share-img: /assets/img/207430_library_hero.jpg
 duration: "1:09:18"
 length: 134588287
-tags: ["2012", episode bundle, modern rogue, traditional roguelike]
+tags: ["2012", episode bundle, traditional roguelike, platformer, twin stick shooter ]
 ---
 
 
