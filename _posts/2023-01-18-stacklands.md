@@ -24,7 +24,7 @@ thumbnail-img: /assets/img/stacklands.jpeg
 share-img: /assets/img/stacklands.jpeg
 duration: "59:08"
 length: 114757512
-tags: ["2022", modern rogue]
+tags: ["2022", deckbuilder]
 ---
 
 Stack 'em up! This week we're playing the 2022 (literal) card game by the Sockpop Collective that became way more popular than they could have imagined. Join our Strange Portal of discussion about walls of carrots, ninjas, magic dust, and booster packs as we build a village of slowly completing progress bars in this relaxed and chill game of survival.
