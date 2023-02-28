@@ -17,20 +17,21 @@ The combined ranking data can be found below:
 
 | Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev |
 |  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
-| FTL: Faster Than Light      | 2          | 1          | 2         | 1.67     | 2.00        | 0.58    |
-| Invisible, Inc.             | 6          | 2          | 1         | 3.00     | 2.00        | 2.65    |
-| Fights in Tight Spaces      | 4          | 3          | 2         | 3.00     | 3.00        | 1.00    |
-| Binding of Isaac: Rebirth   | 3          | 5          | 2         | 3.33     | 3.00        | 1.53    |
-| Risk of Rain                | 1          | 4          | 6         | 3.67     | 4.00        | 2.52    |
-| Stacklands                  | 5          | 7          | 5         | 5.67     | 5.00        | 1.15    |
-| Dungeons of Dredmor         | 7          | 9          | 6         | 7.33     | 7.00        | 1.53    |
-| Din's Curse                 | 11         | 6          | 8         | 8.33     | 8.00        | 2.52    |
-| Pineapple Smash Crew        | 9          | 8          | 10        | 9.00     | 9.00        | 1.00    |
-| Sword of the Stars: The Pit | 10         | 11         | 8         | 9.67     | 10.00       | 1.53    |
-| Cargo Commander             | 8          | 13         | 11        | 10.67    | 11.00       | 2.52    |
-| Hack, Slash, Loot           | 12         | 14         | 11        | 12.33    | 12.00       | 1.53    |
-| A Valley Without Wind       | 13         | 10         | 14        | 12.33    | 13.00       | 2.08    |
-| Realm of the Mad God        | 14         | 12         | 13        | 13.00    | 13.00       | 1.00    |
+| FTL: Faster Than Light      | 2          | 1          | 3         | 2.00     | 2.00        | 1.00    |
+| Fights in Tight Spaces      | 5          | 3          | 3         | 3.67     | 3.00        | 1.15    |
+| Binding of Isaac: Rebirth   | 3          | 5          | 3         | 3.67     | 3.00        | 1.15    |
+| Invisible, Inc.             | 7          | 2          | 2         | 3.67     | 2.00        | 2.89    |
+| Risk of Rain                | 1          | 4          | 7         | 4.00     | 4.00        | 3.00    |
+| Warsim: The Realm of Aslona | 4          | 10         | 1         | 5.00     | 4.00        | 4.58    |
+| Stacklands                  | 6          | 7          | 6         | 6.33     | 6.00        | 0.58    |
+| Dungeons of Dredmor         | 8          | 9          | 7         | 8.00     | 8.00        | 1.00    |
+| Din's Curse                 | 12         | 6          | 9         | 9.00     | 9.00        | 3.00    |
+| Pineapple Smash Crew        | 10         | 8          | 11        | 9.67     | 10.00       | 1.53    |
+| Sword of the Stars: The Pit | 11         | 12         | 9         | 10.67    | 11.00       | 1.53    |
+| Cargo Commander             | 9          | 14         | 12        | 11.67    | 12.00       | 2.52    |
+| Hack, Slash, Loot           | 13         | 15         | 12        | 13.33    | 13.00       | 1.53    |
+| A Valley Without Wind       | 14         | 11         | 15        | 13.33    | 14.00       | 2.08    |
+| Realm of the Mad God        | 15         | 13         | 14        | 14.00    | 14.00       | 1.00    |
 
 
 
