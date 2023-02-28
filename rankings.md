@@ -18,9 +18,9 @@ The combined ranking data can be found below:
 | Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev |
 |  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
 | FTL: Faster Than Light      | 2          | 1          | 3         | 2.00     | 2.00        | 1.00    |
+| Invisible, Inc.             | 7          | 2          | 2         | 3.67     | 2.00        | 2.89    |
 | Fights in Tight Spaces      | 5          | 3          | 3         | 3.67     | 3.00        | 1.15    |
 | Binding of Isaac: Rebirth   | 3          | 5          | 3         | 3.67     | 3.00        | 1.15    |
-| Invisible, Inc.             | 7          | 2          | 2         | 3.67     | 2.00        | 2.89    |
 | Risk of Rain                | 1          | 4          | 7         | 4.00     | 4.00        | 3.00    |
 | Warsim: The Realm of Aslona | 4          | 10         | 1         | 5.00     | 4.00        | 4.58    |
 | Stacklands                  | 6          | 7          | 6         | 6.33     | 6.00        | 0.58    |
