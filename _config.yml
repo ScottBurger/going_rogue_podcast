@@ -24,7 +24,7 @@ lang: en
 
 navbar-links:
   Subscribe: "subscribe"
-  Hosts: "hosts"
+  About: "about"
   Episodes: "tags"
   Rankings: "rankings"
   # Patreon: "patreon"
