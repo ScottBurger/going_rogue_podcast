@@ -13,7 +13,18 @@ when finished:
 * top 'anti-gems' = avg rank vs review rank
 -->
 
-The combined ranking data can be found below:
+<!--
+ongoing short lists (matching youtube playlists?):
+
+top 3 most popular rogues
+top 3 hidden gems
+top 3 most widely disagreed on games (std dev)
+-->
+
+
+The full combined ranking data can be found below:
+
+(Special thanks to https://tabletomarkdown.com/convert-spreadsheet-to-markdown)
 
 | Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev |
 |  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
@@ -37,7 +48,7 @@ The combined ranking data can be found below:
 
 
 
-<!-- special thanks to https://tabletomarkdown.com/convert-spreadsheet-to-markdown -->
+
 
 
 
