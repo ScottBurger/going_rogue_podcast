@@ -24,7 +24,7 @@ top 3 most widely disagreed on games (std dev)
 
 The full combined ranking data can be found below:
 
-(Special thanks to https://tabletomarkdown.com/convert-spreadsheet-to-markdown)
+(Special thanks to [tabletomarkdown.com](https://tabletomarkdown.com/convert-spreadsheet-to-markdown))
 
 | Game | Scott Rank | Colin Rank | Will Rank | Avg | Median | Std Dev |
 |  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
