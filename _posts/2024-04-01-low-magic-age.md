@@ -9,9 +9,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/cogmind.jpeg
-thumbnail-img: /assets/img/cogmind.jpeg
-share-img: /assets/img/cogmind.jpeg
+cover-img: /assets/img/low_magic_age.jpeg
+thumbnail-img: /assets/img/low_magic_age.jpeg
+share-img: /assets/img/low_magic_age.jpeg
 duration: ""
 length:  
 tags: ["2017", traditional roguelike]
