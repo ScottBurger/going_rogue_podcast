@@ -14,7 +14,7 @@ thumbnail-img: /assets/img/low_magic_age.jpeg
 share-img: /assets/img/low_magic_age.jpeg
 duration: ""
 length:  
-tags: ["2017", traditional roguelike]
+tags: ["2017", squad management]
 ---
 
 
