@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hand of Fate 1 / Hand of Fate 2 (with Dahlia)"
+title: "Hand of Fate 1 / 2 (with Dahlia)"
 date: 2024-04-15
 file: 
 description: "
@@ -9,9 +9,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/low_magic_age.jpeg
-thumbnail-img: /assets/img/low_magic_age.jpeg
-share-img: /assets/img/low_magic_age.jpeg
+cover-img: /assets/img/hof2.jpeg
+thumbnail-img: /assets/img/hof2.jpeg
+share-img: /assets/img/hof2.jpeg
 duration: ""
 length:  
 tags: ["2015", "2017", episode bundle, deckbuilder]
