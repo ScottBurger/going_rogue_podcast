@@ -13,7 +13,7 @@ https://grogpod.zone
 
 Intro music: Teru - Lincoln Center Jazz Orchestra
 
-Outro music: Low Magic Age combat theme
+Outro music: Low Magic Age - combat theme
 
 "
 explicit: "yes" 
@@ -37,7 +37,7 @@ https://grogpod.zone
 
 Intro music: Teru - Lincoln Center Jazz Orchestra
 
-Outro music: Low Magic Age combat theme
+Outro music: Low Magic Age - combat theme
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FzRY9SO9zbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
