@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Low Magic Age"
-date: 2023-03-28
+date: 2023-03-29
 file: https://grogpod.s3.us-west-2.amazonaws.com/low_magic_age_edit.mp3
 description: "Roll for initiative! This week's episode has us examining the world of Dungeons and Dragons through the DnD combat simulator Low Magic Age. Join us for dicussions on vancian magic, royalty free music overlaps with previous episodes, and summoner-based arena races! We put the pal back in paladin and wonder why it is that you can't make an Asamir chatoic evil.
 
@@ -37,7 +37,7 @@ https://grogpod.zone
 
 Intro music: Teru - Lincoln Center Jazz Orchestra
 
-Outro music: 
+Outro music: Low Magic Age - Battle Music
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FzRY9SO9zbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
