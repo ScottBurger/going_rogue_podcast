@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hand of Fate 1 / 2 (with Dahlia)"
+title: "Hand of Fate 1 / 2 (with Dahlia Tolleth)"
 date: 2024-04-15
 file: 
 description: "
@@ -14,7 +14,7 @@ thumbnail-img: /assets/img/hof2.jpeg
 share-img: /assets/img/hof2.jpeg
 duration: ""
 length:  
-tags: ["2015", "2017", episode bundle, deckbuilder]
+tags: ["2015", "2017", episode bundle, deckbuilder, Guest - Dahlia Tolleth]
 ---
 
 
