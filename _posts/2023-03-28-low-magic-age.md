@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Low Magic Age"
-date: 2023-03-29
+date: 2023-03-28
 file: https://grogpod.s3.us-west-2.amazonaws.com/low_magic_age_edit.mp3
 description: "Roll for initiative! This week's episode has us examining the world of Dungeons and Dragons through the DnD combat simulator Low Magic Age. Join us for dicussions on vancian magic, royalty free music overlaps with previous episodes, and summoner-based arena races! We put the pal back in paladin and wonder why it is that you can't make an Asamir chatoic evil.
 
