@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hand of Fate 1 / 2 (with Dahlia Tolleth)"
+title: "Hand of Fate 1 + 2 (with Dahlia Tolleth)"
 date: 2024-04-15
 file: 
 description: "
