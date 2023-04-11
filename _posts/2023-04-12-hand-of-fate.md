@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Hand of Fate 1 + 2 (with Dahlia Tolleth)"
+title: "Hand of Fate 1+2 (with Dahlia Tolleth)"
 date: 2023-04-12
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/hand-of-fate-final.mp3
 description: "I am GROGPOD. I take care of the place while the Master is away. What's that? Oh HAND of Fate! Yes that's the game (not movie) that we're playing this week. Join us as we talk through two games of card shuffling, gnome-kicking, moustache twirling mania with our special guest Dahlia Tolleth! The Master would definitley approve of you listening to this episode. Prepare to explore some trap-laden dungeons, negotiate with bandis and play some metronome-based fishing minigames with Hand of Fate 1 and it's well-polished sequel Hand of Fate 2. It will be dark soon. There is no way out of not downloading this podcast. It will be dark soon.
 
 
@@ -23,8 +23,8 @@ voices: "scott, will, colin"
 cover-img: /assets/img/hof2.jpeg
 thumbnail-img: /assets/img/hof2.jpeg
 share-img: /assets/img/hof2.jpeg
-duration: ""
-length:  
+duration: "01:19:47"
+length: 55268172 
 tags: ["2015", "2017", episode bundle, deckbuilder, Guest - Dahlia Tolleth]
 ---
 
