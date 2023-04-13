@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Streets of Rogue"
-date: 2024-05-01
+date: 2023-04-26
 file: 
 description: "
 
@@ -9,9 +9,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/low_magic_age.jpeg
-thumbnail-img: /assets/img/low_magic_age.jpeg
-share-img: /assets/img/low_magic_age.jpeg
+cover-img: /assets/img/streets_of_rogue.jpeg
+thumbnail-img: /assets/img/streets_of_rogue.jpeg
+share-img: /assets/img/streets_of_rogue.jpeg
 duration: ""
 length:  
 tags: []
