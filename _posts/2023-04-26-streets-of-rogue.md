@@ -14,7 +14,7 @@ thumbnail-img: /assets/img/streets_of_rogue.jpeg
 share-img: /assets/img/streets_of_rogue.jpeg
 duration: ""
 length:  
-tags: []
+tags: ["2019", sandbox rpg, solo dev]
 ---
 
 
