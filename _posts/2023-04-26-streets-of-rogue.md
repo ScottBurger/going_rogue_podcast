@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Streets of Rogue"
+title: "Streets of Rogue / Loop Hero"
 date: 2023-04-26
 file: 
 description: "
@@ -14,7 +14,7 @@ thumbnail-img: /assets/img/streets_of_rogue.jpeg
 share-img: /assets/img/streets_of_rogue.jpeg
 duration: ""
 length:  
-tags: ["2019", sandbox rpg, solo dev]
+tags: ["2019", "2021", sandbox rpg, solo dev, episode bundle, deckbuilder]
 ---
 
 
