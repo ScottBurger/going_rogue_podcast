@@ -41,8 +41,8 @@ Outro music: Craig Barnes - Slum Scrum
 
 <iframe
   frameborder="0"
-  width="400"
-  height="200"
+  width="200"
+  height="100"
   src="https://grogpod.s3.us-west-2.amazonaws.com/streets-of-rogue.mp3">
 </iframe>
 
