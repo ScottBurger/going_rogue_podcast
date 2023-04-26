@@ -30,23 +30,25 @@ The full combined ranking data can be found below:
 |  :----: |  :----: |  :----: |  :----: |  :----: | :----: | :----: |
 | FTL: Faster Than Light      | 3          | 1          | 3         | 2.33     | 3.00        | 1.15    |
 | Hand of Fate 2              | 5          | 4          | 3         | 4.00     | 4.00        | 1.00    |
-| Binding of Isaac: Rebirth   | 4          | 7          | 3         | 4.67     | 4.00        | 2.08    |
-| Invisible, Inc.             | 9          | 3          | 2         | 4.67     | 3.00        | 3.79    |
-| Cogmind                     | 1          | 2          | 11        | 4.67     | 2.00        | 5.51    |
-| Fights in Tight Spaces      | 7          | 5          | 3         | 5.00     | 5.00        | 2.00    |
-| Risk of Rain                | 2          | 6          | 9         | 5.67     | 6.00        | 3.51    |
-| Warsim: The Realm of Aslona | 6          | 13         | 1         | 6.67     | 6.00        | 6.03    |
-| Stacklands                  | 8          | 10         | 7         | 8.33     | 8.00        | 1.53    |
-| Hand of Fate                | 10         | 9          | 8         | 9.00     | 9.00        | 1.00    |
-| Dungeons of Dredmor         | 11         | 12         | 9         | 10.67    | 11.00       | 1.53    |
-| Din's Curse                 | 15         | 8          | 11        | 11.33    | 11.00       | 3.51    |
-| Pineapple Smash Crew        | 13         | 11         | 14        | 12.67    | 13.00       | 1.53    |
-| Sword of the Stars: The Pit | 14         | 15         | 11        | 13.33    | 14.00       | 2.08    |
-| Low Magic Age               | 16         | 16         | 14        | 15.33    | 16.00       | 1.15    |
-| Cargo Commander             | 12         | 18         | 16        | 15.33    | 16.00       | 3.06    |
-| A Valley Without Wind       | 18         | 14         | 19        | 17.00    | 18.00       | 2.65    |
-| Hack, Slash, Loot           | 17         | 19         | 16        | 17.33    | 17.00       | 1.53    |
-| Realm of the Mad God        | 19         | 17         | 18        | 18.00    | 18.00       | 1.00    |
+| Binding of Isaac: Rebirth   | 4          | 8          | 3         | 5.00     | 4.00        | 2.65    |
+| Loop Hero                   | 6          | 6          | 3         | 5.00     | 6.00        | 1.73    |
+| Invisible, Inc.             | 11         | 3          | 2         | 5.33     | 3.00        | 4.93    |
+| Cogmind                     | 1          | 2          | 13        | 5.33     | 2.00        | 6.66    |
+| Fights in Tight Spaces      | 9          | 5          | 3         | 5.67     | 5.00        | 3.06    |
+| Risk of Rain                | 2          | 7          | 11        | 6.67     | 7.00        | 4.51    |
+| Warsim: The Realm of Aslona | 8          | 15         | 1         | 8.00     | 8.00        | 7.00    |
+| Streets of Rogue            | 7          | 9          | 8         | 8.00     | 8.00        | 1.00    |
+| Stacklands                  | 10         | 12         | 8         | 10.00    | 10.00       | 2.00    |
+| Hand of Fate                | 12         | 11         | 10        | 11.00    | 11.00       | 1.00    |
+| Dungeons of Dredmor         | 13         | 14         | 11        | 12.67    | 13.00       | 1.53    |
+| Din's Curse                 | 17         | 10         | 13        | 13.33    | 13.00       | 3.51    |
+| Pineapple Smash Crew        | 15         | 13         | 16        | 14.67    | 15.00       | 1.53    |
+| Sword of the Stars: The Pit | 16         | 17         | 13        | 15.33    | 16.00       | 2.08    |
+| Low Magic Age               | 18         | 18         | 16        | 17.33    | 18.00       | 1.15    |
+| Cargo Commander             | 14         | 20         | 18        | 17.33    | 18.00       | 3.06    |
+| A Valley Without Wind       | 20         | 16         | 21        | 19.00    | 20.00       | 2.65    |
+| Hack, Slash, Loot           | 19         | 21         | 18        | 19.33    | 19.00       | 1.53    |
+| Realm of the Mad God        | 21         | 19         | 20        | 20.00    | 20.00       | 1.00    |
 
 
 
