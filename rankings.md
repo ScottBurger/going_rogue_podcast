@@ -34,12 +34,12 @@ The full combined ranking data can be found below:
 | Hand of Fate 2              | 5          | 4          | 3         | 4.00     | 4.00        | 1.00    |
 | Binding of Isaac: Rebirth   | 4          | 8          | 3         | 5.00     | 4.00        | 2.65    |
 | Loop Hero                   | 6          | 6          | 3         | 5.00     | 6.00        | 1.73    |
-| Invisible, Inc.             | 11         | 3          | 2         | 5.33     | 3.00        | 4.93    |
 | Cogmind                     | 1          | 2          | 13        | 5.33     | 2.00        | 6.66    |
+| Invisible, Inc.             | 11         | 3          | 2         | 5.33     | 3.00        | 4.93    |
 | Fights in Tight Spaces      | 9          | 5          | 3         | 5.67     | 5.00        | 3.06    |
 | Risk of Rain                | 2          | 7          | 11        | 6.67     | 7.00        | 4.51    |
-| Warsim: The Realm of Aslona | 8          | 15         | 1         | 8.00     | 8.00        | 7.00    |
 | Streets of Rogue            | 7          | 9          | 8         | 8.00     | 8.00        | 1.00    |
+| Warsim: The Realm of Aslona | 8          | 15         | 1         | 8.00     | 8.00        | 7.00    |
 | Stacklands                  | 10         | 12         | 8         | 10.00    | 10.00       | 2.00    |
 | Hand of Fate                | 12         | 11         | 10        | 11.00    | 11.00       | 1.00    |
 | Dungeons of Dredmor         | 13         | 14         | 11        | 12.67    | 13.00       | 1.53    |
