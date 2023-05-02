@@ -1,4 +1,6 @@
-Every other week we play one of the top 100(ish) games in the roguelike pantheon then rank em. If you're interested in our raw source data that we use to guide the podcast, [you can find that here](https://docs.google.com/spreadsheets/d/1mPCzKz2UP8r3KgRMSSi4KuuKImWZFT7KJEBENuinGTw/edit?usp=sharing).
+Every other week we play one of the top games in the roguelike pantheon then rank em. If you're interested in our raw source data that we use to guide the podcast, [you can find that here](https://docs.google.com/spreadsheets/d/1mPCzKz2UP8r3KgRMSSi4KuuKImWZFT7KJEBENuinGTw/edit?usp=sharing).
+
+Two major rules that we abide by are: 1) it's okay to like or not like a game, and 2) all devs go to heaven.
 
 * [Scott rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=1410426659)
 * [Will rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=73210139)
