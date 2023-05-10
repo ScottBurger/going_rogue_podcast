@@ -22,8 +22,8 @@ voices: "scott, will, colin"
 cover-img: /assets/img/loop_hero.jpeg
 thumbnail-img: /assets/img/loop_hero.jpeg
 share-img: /assets/img/loop_hero.jpeg
-duration: ""
-length:  
+duration: "01:11:57"
+length: 49587264 
 tags: ["2019", "2021", sandbox rpg, solo dev, episode bundle, deckbuilder]
 ---
 
