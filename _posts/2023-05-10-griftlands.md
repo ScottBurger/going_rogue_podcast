@@ -23,7 +23,7 @@ cover-img: /assets/img/griftlands.jpeg
 thumbnail-img: /assets/img/griftlands.jpeg
 share-img: /assets/img/griftlands.jpeg
 duration: "01:12:06"
-length: 56313171 
+length: 56313170 
 tags: ["2021", deckbuilder]
 ---
 
