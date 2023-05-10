@@ -17,7 +17,7 @@ length:
 tags: ["2021", deckbuilder]
 ---
 
-
+When you walk in Griftlands, you better watch your back. There's no room for heroes, just mercenaries and hacks. Every decision counts, every card in your hand. Gonna need luck to get through this land. Join us as the podcast hosts use both our battle and negotiation decks to convince each other about Griftlands' rankings this week. Tune in for Will's chicanery-level rant on games that aren't Slay the Spire. Better call Sal Ik-Derrick! 
 
 Next episode: Monster Train
 
