@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Streets of Rogue / Loop Hero"
+title: "Griftlands"
 date: 2023-05-10
 file: 
 description: "
@@ -25,9 +25,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Tom Waits - Down in the Hole
 
-Outro music: 
+Outro music: Griftlands OST - Smith Boss Battle Theme
 
 
 <div class="embed-responsive embed-responsive-16by9">
