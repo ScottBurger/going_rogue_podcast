@@ -9,9 +9,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/loop_hero.jpeg
-thumbnail-img: /assets/img/loop_hero.jpeg
-share-img: /assets/img/loop_hero.jpeg
+cover-img: /assets/img/griftlands.jpeg
+thumbnail-img: /assets/img/griftlands.jpeg
+share-img: /assets/img/griftlands.jpeg
 duration: ""
 length:  
 tags: ["2021", deckbuilder]
