@@ -27,6 +27,8 @@ length: 56313170
 tags: ["2021", deckbuilder]
 ---
 
+<iframe id="embedPlayer" src="https://embed.podcasts.apple.com/us/podcast/grogpod-roguelike-podcast/id1650474911?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="width: 100%; max-width: 660px; overflow: hidden; border-radius: 10px; transform: translateZ(0px); animation: 2s ease 0s 6 normal none running loading-indicator; background-color: rgb(228, 228, 228);"></iframe>
+
 When you walk in Griftlands, you better watch your back. There's no room for heroes, just mercenaries and hacks. Every decision counts, every card in your hand. Gonna need luck to get through this land. Join us as the podcast hosts use both our battle and negotiation decks to convince each other about Griftlands' rankings this week. Tune in for Will's chicanery-level rant on games that aren't Slay the Spire. Better call Sal Ik-Derrick! 
 
 Next episode: Monster Train
