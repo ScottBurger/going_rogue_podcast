@@ -29,6 +29,8 @@ tags: ["2015", squad management]
 
 Call me Sna- uh, er, Inc. Invisible, Inc. The tactical espionage (action?) game by renknown developers Klei Entertainment! Your mission, should you choose to download it, is to tune in on our descriptions of cybernetic noir, wireless daemon hacking, and comparisons with X-Com.
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/invisible-inc/id1650474911?i=1000592479096&theme=auto"></iframe>
+
 Next episode: Stacklands
 
 Contact us at grogpodzone@gmail.com!
