@@ -30,6 +30,8 @@ tags: ["2015", "2017", episode bundle, deckbuilder, Guest - Dahlia Tolleth]
 
 I am GROGPOD. I take care of the place while the Master is away. What's that? Oh HAND of Fate! Yes that's the game (not movie) that we're playing this week. Join us as we talk through two games of card shuffling, gnome-kicking, moustache twirling mania with our special guest Dahlia Tolleth! The Master would definitley approve of you listening to this episode. Prepare to explore some trap-laden dungeons, negotiate with bandis and play some metronome-based fishing minigames with Hand of Fate 1 and it's well-polished sequel Hand of Fate 2. It will be dark soon. There is no way out of not downloading this podcast. It will be dark soon.
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/hand-of-fate-1-2-with-dahlia-tolleth/id1650474911?i=1000608634973&theme=auto"></iframe>
+
 
 Next episode: Streets of Rogue
 
