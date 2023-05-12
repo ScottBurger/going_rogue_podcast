@@ -29,6 +29,7 @@ tags: ["2022", deckbuilder]
 
 Stack 'em up! This week we're playing the 2022 (literal) card game by the Sockpop Collective that became way more popular than they could have imagined. Join our Strange Portal of discussion about walls of carrots, ninjas, magic dust, and booster packs as we build a village of slowly completing progress bars in this relaxed and chill game of survival.
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/stacklands/id1650474911?i=1000595351787&theme=auto"></iframe>
 
 Next episode: Risk of Rain
 
