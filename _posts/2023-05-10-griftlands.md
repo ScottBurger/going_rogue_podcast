@@ -26,10 +26,9 @@ duration: "01:12:06"
 length: 56313170 
 tags: ["2021", deckbuilder]
 ---
+When you walk in Griftlands, you better watch your back. There's no room for heroes, just mercenaries and hacks. Every decision counts, every card in your hand. Gonna need luck to get through this land. Join us as the podcast hosts use both our battle and negotiation decks to convince each other about Griftlands' rankings this week. Tune in for Will's chicanery-level rant on games that aren't Slay the Spire. Better call Sal Ik-Derrick! 
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/griftlands/id1650474911?i=1000612443225&theme=auto"></iframe>
-
-When you walk in Griftlands, you better watch your back. There's no room for heroes, just mercenaries and hacks. Every decision counts, every card in your hand. Gonna need luck to get through this land. Join us as the podcast hosts use both our battle and negotiation decks to convince each other about Griftlands' rankings this week. Tune in for Will's chicanery-level rant on games that aren't Slay the Spire. Better call Sal Ik-Derrick! 
 
 Next episode: Monster Train
 
