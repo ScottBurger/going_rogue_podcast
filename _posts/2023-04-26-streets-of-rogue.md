@@ -29,6 +29,8 @@ tags: ["2019", "2021", sandbox rpg, solo dev, episode bundle, deckbuilder]
 
 THE OOZE! IT SPREADS! We have a surprise double-feature this time because we accidentally beat our planned episode of Streets of Rogue too quickly. It turns out the apes that run this podcast ooked too hard for the new mayoral election and won in a landslide. So to balance out the podcast, we're also talking about Devolver Digital's surprise roguelike hit Loop Hero! Join us to hear about drug-hunting robots, zombie apocalypses, and the heat death of the universe. Brother may I have some more loops?
 
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/streets-of-rogue-loop-hero/id1650474911?i=1000610742715&theme=auto"></iframe>
+
 Next episode: Griftlands
 
 Contact us at grogpodzone@gmail.com!
