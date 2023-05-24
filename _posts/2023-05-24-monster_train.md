@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Monster Train"
+title: "Monster Train (with Joe Homes)"
 date: 2023-05-24
 file: https://grogpod.s3.us-west-2.amazonaws.com/monster_train.mp3
-description: "We're on the Highway to roguelike deckbuilding Hell this week, riding a Crazy Train filled with demons, sentient blackberry bushes, and occultic Lumières! We are also joined by special guest Joe Homes from Cephalofair Games: publisher of the award-winning tabletop deckbuilding game Gloomhaven, so there will be at least one person here who knows what they're talking about in terms of game design. Come listen in on one of our highest rated games in a long while, as we discuss stategies to beat 4 story-tall gem gods and consume tasty, tasty, morsels. 
+description: "We're on the Highway to roguelike deckbuilding Hell this week, riding a Crazy Train filled with demons, sentient blackberry bushes, and occultic Lumières! We are also joined by special guest Joe(with  Homes from Cephalofair Games: publisher of the award-winning tabletop deckbuilding game Gloomhaven, so there will be at least one person here who knows what they're talking about in terms of game design. Come listen in on one of our highest rated games in a long while, as we discuss stategies to beat 4 story-tall gem gods and consume tasty, tasty, morsels. 
 
 Next episode: Darkest Dungeon II
 
