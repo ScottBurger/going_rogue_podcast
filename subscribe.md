@@ -14,6 +14,5 @@ Find our podcast on your favorite platforms!
 * [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 * [YouTube](https://www.youtube.com/@grogpodcast)
-* [YouTube Shorts](https://www.youtube.com/@grogpodcast-shorts)
 
 Don't see your platform of choice on here? Send us a message and we'll get it on there for you.
