@@ -16,7 +16,7 @@ duration: "01:13:28"
 length: 58860812 
 tags: ["2023", squad management]
 ---
-Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, 
+Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, you too can battle eldritch horrors beyond your comprehension! Listen in on another contentious episode where the hosts try to keep their stress levels below the meltdown threshold.
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/monster-train-with-joe-homes/id1650474911?i=1000614262629&theme=auto"></iframe>
 
