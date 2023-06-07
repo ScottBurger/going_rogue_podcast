@@ -27,7 +27,7 @@ tags: ["2023", squad management]
 ---
 Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, you too can battle eldritch horrors beyond your comprehension! Listen in on another contentious episode where the hosts try to keep their stress levels below the meltdown threshold. 
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/xxxxxxx&theme=auto"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/darkest-dungeon-ii/id1650474911?i=1000615959666&theme=auto"></iframe>
 
 Next episode: Shattered Pixel Dungeon
 
