@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/shattered.jpeg
 share-img: /assets/img/shattered.jpeg
 duration: "01:17:40"
 length: 60298789 
-tags: ["2014", traditional roguelike, mobile game]
+tags: ["2014", traditional roguelike, mobile game, open source]
 ---
 asdfasdfads
 
