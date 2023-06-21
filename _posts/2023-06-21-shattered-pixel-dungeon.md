@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Shattered Pixel Dungeon"
-date: 2023-06-20
-file: 
+date: 2023-06-21
+file: https://grogpod.s3.us-west-2.amazonaws.com/pixel_dungeon.mp3
 description: "You have 1 new message: a podcast episode about the hit roguelike mobile game Shattered Pixel Dungeon! We explore the android/ios sphere for the first time with an influential open source and community-driven spin on the dungeon crawling genre. Join us old boomers as we puzzle out why all the kids are looking at their phones all the time. 
 
 Next episode: Enter the Gungeon
@@ -21,8 +21,8 @@ voices: "scott, will, colin"
 cover-img: /assets/img/shattered.jpeg
 thumbnail-img: /assets/img/shattered.jpeg
 share-img: /assets/img/shattered.jpeg
-duration: "01:17:40"
-length: 60298789 
+duration: "01:08:26"
+length: 53444831  
 tags: ["2014", traditional roguelike, mobile game, open source]
 ---
 You have 1 new message: a podcast episode about the hit roguelike mobile game Shattered Pixel Dungeon! We explore the android/ios sphere for the first time with an influential open source and community-driven spin on the dungeon crawling genre. Join us old boomers as we puzzle out why all the kids are looking at their phones all the time. 
