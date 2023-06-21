@@ -15,7 +15,7 @@ duration: "01:17:40"
 length: 60298789 
 tags: ["2014", traditional roguelike, mobile game, open source]
 ---
-asdfasdfads
+You have 1 new message: a podcast episode about the hit mobile game roguelike Shattered Pixel Dungeon! we explore the android/ios sphere for the first time with an influential open source and community-driven spin on the dungeon crawling genre. 
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/zzzzzzzzz&theme=auto"></iframe>
 
