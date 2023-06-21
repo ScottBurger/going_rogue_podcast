@@ -41,20 +41,20 @@ The full combined ranking data can be found below:
 | 9            | Risk of Rain                | 2          | 8          | 13        | 7.67     | 8.00        | 5.51    |
 | 10           | Griftlands                  | 6          | 11         | 9         | 8.67     | 9.00        | 2.52    |
 | 11           | Streets of Rogue            | 10         | 10         | 9         | 9.67     | 10.00       | 0.58    |
-| 12           | Warsim: The Realm of Aslona | 11         | 17         | 1         | 9.67     | 11.00       | 8.08    |
-| 13           | Stacklands                  | 13         | 14         | 9         | 12.00    | 13.00       | 2.65    |
-| 14           | Hand of Fate                | 15         | 13         | 12        | 13.33    | 13.00       | 1.53    |
-| 15           | Darkest Dungeon 2           | 8          | 19         | 15        | 14.00    | 15.00       | 5.57    |
-| 16           | Dungeons of Dredmor         | 16         | 16         | 13        | 15.00    | 16.00       | 1.73    |
-| 17           | Din's Curse                 | 20         | 12         | 15        | 15.67    | 15.00       | 4.04    |
-| 18           | Pineapple Smash Crew        | 18         | 15         | 19        | 17.33    | 18.00       | 2.08    |
-| 19           | Sword of the Stars: The Pit | 19         | 20         | 15        | 18.00    | 19.00       | 2.65    |
-| 20           | Low Magic Age               | 21         | 21         | 19        | 20.33    | 21.00       | 1.15    |
-| 21           | Cargo Commander             | 17         | 23         | 21        | 20.33    | 21.00       | 3.06    |
-| 22           | A Valley Without Wind       | 23         | 18         | 24        | 21.67    | 23.00       | 3.21    |
-| 23           | Hack, Slash, Loot           | 22         | 24         | 21        | 22.33    | 22.00       | 1.53    |
-| 24           | Realm of the Mad God        | 24         | 22         | 23        | 23.00    | 23.00       | 1.00    |
-
+| 12           | Warsim: The Realm of Aslona | 11         | 18         | 1         | 10.00    | 11.00       | 8.54    |
+| 13           | Stacklands                  | 13         | 15         | 9         | 12.33    | 13.00       | 3.06    |
+| 14           | Hand of Fate                | 16         | 14         | 12        | 14.00    | 14.00       | 2.00    |
+| 15           | Shattered Pixel Dungeon     | 15         | 12         | 15        | 14.00    | 15.00       | 1.73    |
+| 16           | Darkest Dungeon 2           | 8          | 20         | 15        | 14.33    | 15.00       | 6.03    |
+| 17           | Dungeons of Dredmor         | 17         | 17         | 13        | 15.67    | 17.00       | 2.31    |
+| 18           | Din's Curse                 | 21         | 13         | 15        | 16.33    | 15.00       | 4.16    |
+| 19           | Pineapple Smash Crew        | 19         | 16         | 20        | 18.33    | 19.00       | 2.08    |
+| 20           | Sword of the Stars: The Pit | 20         | 21         | 15        | 18.67    | 20.00       | 3.21    |
+| 21           | Low Magic Age               | 22         | 22         | 20        | 21.33    | 22.00       | 1.15    |
+| 22           | Cargo Commander             | 18         | 24         | 22        | 21.33    | 22.00       | 3.06    |
+| 23           | A Valley Without Wind       | 24         | 19         | 25        | 22.67    | 24.00       | 3.21    |
+| 24           | Hack, Slash, Loot           | 23         | 25         | 22        | 23.33    | 23.00       | 1.53    |
+| 25           | Realm of the Mad God        | 25         | 23         | 24        | 24.00    | 24.00       | 1.00    |
 
 
 
