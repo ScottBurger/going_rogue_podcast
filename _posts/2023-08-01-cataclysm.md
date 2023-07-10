@@ -13,12 +13,12 @@ thumbnail-img: /assets/img/gungeon.jpeg
 share-img: /assets/img/gungeon.jpeg
 duration: "01:37:36"
 length: 74587971 
-tags: ["2013", traditional roguelike]
+tags: ["2013", traditional roguelike, open source]
 ---
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/&theme=auto"></iframe>
 
-Next episode: Cataclysm: ???
+Next episode: ???
 
 Contact us at grogpodzone@gmail.com!
 
