@@ -2,6 +2,10 @@
 
 The 2023 release of Cataclysm: Dark Days Ahead on Steam has garnered some controversy in various channels like Discord. For the [GROGPOD Roguelike Podcast](https://grogpod.zone), I sought out some major developers from CDDA to get their take on the situation. 
 
+Kevin Garande is one of the [top all time contributors to CDDA](https://github.com/CleverRaven/Cataclysm-DDA/graphs/contributors) and is considered to be the project lead.
+
+Dave Seguin is one of the [most recently active contributors to CDDA](https://github.com/CleverRaven/Cataclysm-DDA/graphs/contributors?from=2021-12-10&to=2023-07-10&type=c).
+
 
 ## As one of the top contributors of CDDA, were you aware of any plans to have KorgGenT place the game for commercial release on Steam?
 
