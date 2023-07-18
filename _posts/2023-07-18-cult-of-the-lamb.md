@@ -26,7 +26,7 @@ length: 74587971
 tags: ["2022", colony sim, hack and slash]
 ---
 
-Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! MINE STONE! Obey our glorious leaders commands! This week we meditate on the nature of organized labor and religious indoctrination with Cult of the Lamb. What lies beneath the adorable art and crown that sits atop our infallible and fluffly leader's head? Tune in for how to build your very own machine learning model to cheat at Knucklebones. That's not a commandment, right? No microphone problems, in the name of The Lamb!
+Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! MINE STONE! Obey our glorious leaders commands! This week we meditate on the nature of organized labor and religious indoctrination with Cult of the Lamb. What lies beneath the adorable art and crown that sits atop our infallible and fluffly leader's head? Tune in for how to build your very own machine learning model to cheat at Knucklebones. That's not a commandment, right? The Lamb is good, the Lamb is great, we surrender our will as of this date! No microphone problems, in the name of The Lamb!
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/&theme=auto"></iframe>
 
