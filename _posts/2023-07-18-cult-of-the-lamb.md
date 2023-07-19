@@ -9,7 +9,7 @@ Next episode: Cataclysm: Dark Days Ahead
 
 Contact us at grogpodzone@gmail.com!
 
-Request an episode at https://forms.gle/jcPaSrzzT467Z9x6A
+[Request an episode here!](https://forms.gle/jcPaSrzzT467Z9x6A)
 
 https://grogpod.zone
 
