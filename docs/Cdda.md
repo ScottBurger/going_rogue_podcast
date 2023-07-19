@@ -2,6 +2,8 @@
 
 ![cdda](https://cdn.cloudflare.steamstatic.com/steam/apps/2330750/header.jpg?t=1682737875)
 
+See our other interview doc with CDDA developers [Kevin Garande and Dave Seguin here.](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda-steam.md)
+
 ## How did you get interested in video games?
 Well this is a bit of a tricky question. I'm a millenial, so it pretty much tracks that I play video games as a matter of course. I don't really want to give my life story, but The types of video games I played in my developmental years were RTS.
 
