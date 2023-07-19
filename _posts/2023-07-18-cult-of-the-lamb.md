@@ -2,7 +2,7 @@
 layout: post
 title: "Cult of the Lamb"
 date: 2023-07-19
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/lamb.mp3
 description: "Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! MINE STONE! Obey our glorious leaders commands! This week we meditate on the nature of organized labor and religious indoctrination with Cult of the Lamb. What lies beneath the adorable art and crown that sits atop our infallible and fluffly leader's head? Tune in for how to build your very own machine learning model to cheat at Knucklebones. That's not a commandment, right? No microphone problems, in the name of The Lamb!
 
 Next episode: Cataclysm: Dark Days Ahead
@@ -23,8 +23,8 @@ voices: "scott, will, colin"
 cover-img: /assets/img/lamb.jpeg
 thumbnail-img: /assets/img/lamb.jpeg
 share-img: /assets/img/lamb.jpeg
-duration: "01:37:36"
-length: 74587971 
+duration: "01:28:25"
+length: 69211825 
 tags: ["2022", colony sim, hack and slash]
 ---
 
