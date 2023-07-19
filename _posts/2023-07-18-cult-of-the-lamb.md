@@ -9,6 +9,8 @@ Next episode: Cataclysm: Dark Days Ahead
 
 Contact us at grogpodzone@gmail.com!
 
+Request an episode at https://forms.gle/jcPaSrzzT467Z9x6A
+
 https://grogpod.zone
 
 Intro music: Archie Shepp - Like a Blessed Baby Lamb
@@ -33,6 +35,8 @@ Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! M
 Next episode: Cataclysm: Dark Days Ahead
 
 Contact us at grogpodzone@gmail.com!
+
+Request an episode at https://forms.gle/jcPaSrzzT467Z9x6A
 
 https://grogpod.zone
 
