@@ -2,6 +2,8 @@
 
 ![cdda](https://cdn.cloudflare.steamstatic.com/steam/apps/2330750/header.jpg?t=1682737875)
 
+Interview for the [GROGPOD Roguelike Podcast](https://grogpod.zone]
+
 See our other interview doc with CDDA developers [Kevin Garande and Dave Seguin here.](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda-steam.md)
 
 ## How did you get interested in video games?
