@@ -4,6 +4,9 @@ title: "Cataclysm: Dark Days Ahead"
 date: 2023-08-01
 file: 
 description: "
+
+You can find our dev interview doc on the website
+
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -15,6 +18,8 @@ duration: "01:37:36"
 length: 74587971 
 tags: ["2013", traditional roguelike, open source]
 ---
+
+You can find [our dev interview here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda.md)
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/&theme=auto"></iframe>
 
