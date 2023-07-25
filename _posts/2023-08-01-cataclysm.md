@@ -11,9 +11,9 @@ You can find our dev interview doc on the website
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/gungeon.jpeg
-thumbnail-img: /assets/img/gungeon.jpeg
-share-img: /assets/img/gungeon.jpeg
+cover-img: /assets/img/cdda.png
+thumbnail-img: /assets/img/cdda.png
+share-img: /assets/img/cdda.png
 duration: "01:37:36"
 length: 74587971 
 tags: ["2013", traditional roguelike, open source]
