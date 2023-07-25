@@ -19,6 +19,9 @@ length: 74587971
 tags: ["2013", traditional roguelike, open source]
 ---
 
+Humanity's greatest desire is to drive crudely build, ascii-tiled cars in Cataclysm: Dark Days Ahead.
+
+
 You can find [our dev interview here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda.md)
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/&theme=auto"></iframe>
