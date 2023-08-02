@@ -32,33 +32,34 @@ The full combined ranking data can be found below:
 
 | Overall Rank | Game                        | Scott rank | Colin rank | Will rank | Avg rank | Median rank | Std Dev |
 | ------------ | --------------------------- | ---------- | ---------- | --------- | -------- | ----------- | ------- |
-| 1            | FTL: Faster Than Light      | 3          | 1          | 4         | 2.67     | 3.00        | 1.53    |
-| 2            | Monster Train               | 6          | 2          | 2         | 3.33     | 2.00        | 2.31    |
-| 3            | Hand of Fate 2              | 8          | 5          | 4         | 5.67     | 5.00        | 2.08    |
-| 4            | Binding of Isaac: Rebirth   | 5          | 10         | 4         | 6.33     | 5.00        | 3.21    |
-| 5            | Cogmind                     | 1          | 3          | 17        | 7.00     | 3.00        | 8.72    |
-| 6            | Loop Hero                   | 10         | 7          | 4         | 7.00     | 7.00        | 3.00    |
-| 7            | Invisible, Inc.             | 16         | 4          | 2         | 7.33     | 4.00        | 7.57    |
-| 8            | Fights in Tight Spaces      | 13         | 6          | 4         | 7.67     | 6.00        | 4.73    |
-| 9            | Risk of Rain                | 2          | 8          | 15        | 8.33     | 8.00        | 6.51    |
-| 10           | Griftlands                  | 7          | 12         | 10        | 9.67     | 10.00       | 2.52    |
-| 11           | Cult of the Lamb            | 14         | 9          | 9         | 10.67    | 9.00        | 2.89    |
-| 12           | Streets of Rogue            | 11         | 11         | 10        | 10.67    | 11.00       | 0.58    |
-| 13           | Warsim: The Realm of Aslona | 12         | 20         | 1         | 11.00    | 12.00       | 9.54    |
-| 14           | Enter the Gungeon           | 4          | 16         | 13        | 11.00    | 13.00       | 6.24    |
-| 15           | Stacklands                  | 15         | 17         | 10        | 14.00    | 15.00       | 3.61    |
-| 16           | Hand of Fate                | 18         | 15         | 14        | 15.67    | 15.00       | 2.08    |
-| 17           | Shattered Pixel Dungeon     | 17         | 13         | 17        | 15.67    | 17.00       | 2.31    |
-| 18           | Darkest Dungeon 2           | 9          | 22         | 17        | 16.00    | 17.00       | 6.56    |
-| 19           | Dungeons of Dredmor         | 19         | 19         | 15        | 17.67    | 19.00       | 2.31    |
-| 20           | Din's Curse                 | 23         | 14         | 17        | 18.00    | 17.00       | 4.58    |
-| 21           | Pineapple Smash Crew        | 21         | 18         | 22        | 20.33    | 21.00       | 2.08    |
-| 22           | Sword of the Stars: The Pit | 22         | 23         | 17        | 20.67    | 22.00       | 3.21    |
-| 23           | Low Magic Age               | 24         | 24         | 22        | 23.33    | 24.00       | 1.15    |
-| 24           | Cargo Commander             | 20         | 26         | 24        | 23.33    | 24.00       | 3.06    |
-| 25           | A Valley Without Wind       | 26         | 21         | 27        | 24.67    | 26.00       | 3.21    |
-| 26           | Hack, Slash, Loot           | 25         | 27         | 24        | 25.33    | 25.00       | 1.53    |
-| 27           | Realm of the Mad God        | 27         | 25         | 26        | 26.00    | 26.00       | 1.00    |
+| 1            | FTL: Faster Than Light      | 3          | 1          | 5         | 3.00     | 3           | 2.00    |
+| 2            | Monster Train               | 6          | 2          | 3         | 3.67     | 3           | 2.08    |
+| 3            | Hand of Fate 2              | 8          | 5          | 5         | 6.00     | 5           | 1.73    |
+| 4            | Binding of Isaac: Rebirth   | 5          | 10         | 5         | 6.67     | 5           | 2.89    |
+| 5            | Cogmind                     | 1          | 3          | 18        | 7.33     | 3           | 9.29    |
+| 6            | Loop Hero                   | 10         | 7          | 5         | 7.33     | 7           | 2.52    |
+| 7            | Invisible, Inc.             | 17         | 4          | 3         | 8.00     | 4           | 7.81    |
+| 8            | Fights in Tight Spaces      | 13         | 6          | 5         | 8.00     | 6           | 4.36    |
+| 9            | Risk of Rain                | 2          | 8          | 16        | 8.67     | 8           | 7.02    |
+| 10           | Luck Be A Landlord          | 14         | 14         | 1         | 9.67     | 14          | 7.51    |
+| 11           | Griftlands                  | 7          | 12         | 11        | 10.00    | 11          | 2.65    |
+| 12           | Streets of Rogue            | 11         | 11         | 11        | 11.00    | 11          | 0.00    |
+| 13           | Cult of the Lamb            | 15         | 9          | 10        | 11.33    | 10          | 3.21    |
+| 14           | Warsim: The Realm of Aslona | 12         | 20         | 2         | 11.33    | 12          | 9.02    |
+| 15           | Enter the Gungeon           | 4          | 16         | 14        | 11.33    | 14          | 6.43    |
+| 16           | Stacklands                  | 16         | 17         | 11        | 14.67    | 16          | 3.21    |
+| 17           | Hand of Fate                | 19         | 15         | 15        | 16.33    | 15          | 2.31    |
+| 18           | Shattered Pixel Dungeon     | 18         | 13         | 18        | 16.33    | 18          | 2.89    |
+| 19           | Darkest Dungeon 2           | 9          | 22         | 18        | 16.33    | 18          | 6.66    |
+| 20           | Dungeons of Dredmor         | 20         | 19         | 16        | 18.33    | 19          | 2.08    |
+| 21           | Din's Curse                 | 24         | 14         | 18        | 18.67    | 18          | 5.03    |
+| 22           | Pineapple Smash Crew        | 22         | 18         | 23        | 21.00    | 22          | 2.65    |
+| 23           | Sword of the Stars: The Pit | 23         | 23         | 18        | 21.33    | 23          | 2.89    |
+| 24           | Low Magic Age               | 25         | 24         | 23        | 24.00    | 24          | 1.00    |
+| 25           | Cargo Commander             | 21         | 26         | 25        | 24.00    | 25          | 2.65    |
+| 26           | A Valley Without Wind       | 27         | 21         | 28        | 25.33    | 27          | 3.79    |
+| 27           | Hack, Slash, Loot           | 26         | 27         | 25        | 26.00    | 26          | 1.00    |
+| 28           | Realm of the Mad God        | 28         | 25         | 27        | 26.67    | 27          | 1.53    |
 
 
 
