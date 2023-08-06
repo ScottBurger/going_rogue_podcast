@@ -9,9 +9,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
-cover-img: /assets/img/landlord.jpeg
-thumbnail-img: /assets/img/landlord.jpeg
-share-img: /assets/img/landlord.jpeg
+cover-img: /assets/img/last_spell.jpeg
+thumbnail-img: /assets/img/last_spell.jpeg
+share-img: /assets/img/last_spell.jpeg
 duration: "59:18"
 length: 46988001 
 tags: ["2023", "2022", squad management, solo dev, bullet heaven]
