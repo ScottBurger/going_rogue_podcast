@@ -32,6 +32,8 @@ Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! M
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/cult-of-the-lamb/id1650474911?i=1000621600960&theme=auto"></iframe>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4yevGkczV3H4xRRwUdywJ2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Next episode: Cataclysm: Dark Days Ahead
 
 Contact us at grogpodzone@gmail.com!
