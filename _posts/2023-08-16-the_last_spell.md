@@ -29,7 +29,7 @@ tags: ["2023", squad management, solo dev, bullet heaven]
 
 Hold onto your Brotatoes! You demanded, we listened: listener request week is over and from the ashes of our submissions arose the bullet heaven Brotato and the tower defense zombie horde killhouse The Last Spell. We are also joined by a new full-time member of the podcast: previous guest Andrew Harshman! With so much content to cover, will we be able to channel our summoner energies together before the hour is up?
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/&theme=auto"></iframe>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/brotato-the-last-spell/id1650474911?i=1000624610873&theme=auto"></iframe>
 
 Next episode: Eldritch
 
