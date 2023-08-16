@@ -7,6 +7,7 @@ Two major rules that we abide by are:
 * [Scott rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=1410426659)
 * [Will rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=73210139)
 * [Colin rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=2046262583)
+* [Andrew rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=1897153161)
 * [Guest rankings](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=847369508)
 
 <!-- 
