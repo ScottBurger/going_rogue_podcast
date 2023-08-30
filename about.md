@@ -14,4 +14,4 @@ Andrew Harshman - dnd, 40k, minis, metal, and occasionally minis made of metal. 
 
 ## Frequents Guests
 
-Woody Ciskowski - Co-host of the [Ultra64/Wii-Universe podcast](https://ultra64podcast.podbean.com/)
+Woody Ciskowski - Co-host emeritus of the [Ultra64/Wii-Universe podcast](https://ultra64podcast.podbean.com/)
