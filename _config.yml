@@ -83,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: The Going ROgue Gaming PODcast (GROGPOD) is a bi-weekly show about Roguelike games. We cover the full spectrum of modern roguelike games, from the moder modern, action-oriented games like Binding of Isaac to the more traditonal roguelike designs of games like Cogmind. Join us each episode as we unpack what makes a roguelike game fun and then rank it against the compendium we've compiled thus far. 
+rss-description: The GROGPOD Roguelike Podcast is a bi-weekly show about four friends talking about a featured Roguelike game. We cover the full spectrum of titles, from the more modern, action-oriented games like Binding of Isaac and Hades to the traditonal roguelike designs of games like Cogmind and Caves of Qud. Join us each episode as we unpack what makes a roguelike game fun (or not) and then rank it against the compendium we've compiled thus far. 
 
 ###########################
 # --- General options --- #
