@@ -39,13 +39,23 @@ Hold onto your Brotatoes! You demanded, we listened: listener request week is ov
 
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/brotato-the-last-spell/id1650474911?i=1000624610873&theme=auto"></iframe>
 
+---
+
 1:42 - The GROGPOD Grows!
+
 4:09 - Brotato game stats 
+
 5:46 - One sentence description 
+
 23:22 - The Last Spell game stats
+
 25:00 - One sentence description
+
 27:00 - Our story begins
+
 1:11:30 - Rankings and final thoughts
+
+---
 
 Next episode: Eldritch
 
