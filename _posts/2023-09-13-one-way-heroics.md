@@ -3,7 +3,7 @@ layout: post
 title: "One Way Heroics"
 date: 2023-09-13
 file: https://grogpod.s3.us-west-2.amazonaws.com/one+way+heroics.mp3
-description: "One way or another, we were going to play this hit indie JRPG roguelike! Its One Way Heroics week for this dimension, as we take a keen eye at some anime pixel mobs and try not to wall ourselves in with a creeping black wall of doom. We must move forwards, not backwards! Upwards not forwards! And always twirling, twirling, twirling towards the 2000 KM goal to save the kingdom from the dark dragon of doom.
+description: "One way or another, we were going to play this hit indie JRPG roguelike! Its One Way Heroics week for this dimension, as we take a keen eye at some anime pixel mobs and try not to wall ourselves in with a creeping black wall of doom. We must move forwards, not backwards! Upwards not forwards! And always twirling, twirling, twirling towards the 2000 KM goal to save the kingdom from the dark dragon of interdimensional death.
 
 Next episode: Cataclysm: Dark Days Ahead
 
