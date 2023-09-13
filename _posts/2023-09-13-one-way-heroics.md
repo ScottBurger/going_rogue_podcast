@@ -31,6 +31,11 @@ One way or another, we were going to play this hit indie JRPG roguelike! Its One
 
 <iframe frameborder="0" width="400" height="150" src="https://grogpod.s3.us-west-2.amazonaws.com/one+way+heroics.mp3"></iframe>
 
+Listen on:
+* [Custom RSS](https://grogpod.zone/feed.xml)
+* [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911)
+* [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw)
+* [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) 
 
 Next episode: Cataclysm: Dark Days Ahead
 
