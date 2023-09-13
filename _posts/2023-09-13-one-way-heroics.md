@@ -24,7 +24,7 @@ thumbnail-img: /assets/img/owh.jpeg
 share-img: /assets/img/owh.jpeg
 duration: "01:13:36"
 length: 51270048 
-tags: ["2013", Solo Dev, Traditional Roguelike]
+tags: ["2013", solo dev, traditional roguelike]
 ---
 
 One way or another, we were going to play this hit indie JRPG roguelike! Its One Way Heroics week for this dimension, as we take a keen eye at some anime pixel mobs and try not to wall ourselves in with a creeping black wall of doom. We must move forwards, not backwards! Upwards not forwards! And always twirling, twirling, twirling towards the 2000 KM goal to save the kingdom from the dark dragon of doom.
@@ -42,5 +42,5 @@ Intro music: Thelonious Monk - Straight No Chaser
 Outro music: Beginning Theme 1 - Saia Hyouseki, Boss Dead Theme 2 - Jinfa Dragon Symphony
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o_vZH1ab2nA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
