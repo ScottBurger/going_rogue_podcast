@@ -42,7 +42,7 @@ The full combined ranking data can be found below:
 | 7            | Loop Hero                   | 12         | 8          | 5         | 8           | 8.25     | 8           | 2.87    |
 | 8            | Invisible, Inc.             | 19         | 5          | 3         | 9           | 9.00     | 7           | 7.12    |
 | 9            | Fights in Tight Spaces      | 15         | 7          | 5         | 10          | 9.25     | 9           | 4.35    |
-| 10           | One Way Heroics             | 7          | 17         |           | 5           | 9.67     | 7           | 6.43    |
+| 10           | One Way Heroics             | 7          | 17         | 9         | 5           | 9.67     | 7           | 6.43    |
 | 11           | Enter the Gungeon           | 4          | 20         | 14        | 1           | 9.75     | 9           | 8.81    |
 | 12           | Risk of Rain                | 2          | 9          | 17        | 11          | 9.75     | 10          | 6.18    |
 | 13           | Luck Be A Landlord          | 16         | 15         | 1         | 12          | 11.00    | 14          | 6.88    |
