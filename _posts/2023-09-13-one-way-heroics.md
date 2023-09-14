@@ -35,7 +35,23 @@ Listen on:
 * [Custom RSS](https://grogpod.zone/feed.xml)
 * [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911)
 * [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw)
-* [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) 
+* [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+3:13 - game stats
+
+6:23 - one sentence description
+
+8:17 - let’s talk JRPGs
+
+16:54 - our story begins
+
+58:00 - rankings and final thoughts
+
+1:04:04 - similar games
+
+---
 
 Next episode: Cataclysm: Dark Days Ahead
 
