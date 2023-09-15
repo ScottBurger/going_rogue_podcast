@@ -29,7 +29,7 @@ tags: ["2013", solo dev, traditional roguelike]
 
 One way or another, we were going to play this hit indie JRPG roguelike! Its One Way Heroics week for this dimension, as we take a keen eye at some anime pixel mobs and try not to wall ourselves in with a creeping black wall of doom. We must move forwards, not backwards! Upwards not forwards! And always twirling, twirling, twirling towards the 2000 KM goal to save the kingdom from the dark dragon of doom.
 
-<iframe frameborder="0" width="400" height="100" src="https://grogpod.s3.us-west-2.amazonaws.com/one+way+heroics.mp3"></iframe>
+<iframe frameborder="0" width="800" height="300" src="https://grogpod.s3.us-west-2.amazonaws.com/one+way+heroics.mp3"></iframe>
 
 [Custom RSS](https://grogpod.zone/feed.xml) / [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) / [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) / [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
