@@ -5,6 +5,11 @@ date: 2023-06-21
 file: https://grogpod.s3.us-west-2.amazonaws.com/pixel_dungeon.mp3
 description: "You have 1 new message: a podcast episode about the hit roguelike mobile game Shattered Pixel Dungeon! We explore the android/ios sphere for the first time with an influential open source and community-driven spin on the dungeon crawling genre. Join us old boomers as we puzzle out why all the kids are looking at their phones all the time. 
 
+1:31 - game stats
+4:31 - one sentence summary
+46:50 - reddit meltdown
+54:28 - rankings and final thoughts
+
 Next episode: Enter the Gungeon
 
 Contact us at grogpodzone@gmail.com!
@@ -27,7 +32,22 @@ tags: ["2014", traditional roguelike, mobile game, open source]
 ---
 You have 1 new message: a podcast episode about the hit roguelike mobile game Shattered Pixel Dungeon! We explore the android/ios sphere for the first time with an influential open source and community-driven spin on the dungeon crawling genre. Join us old boomers as we puzzle out why all the kids are looking at their phones all the time. 
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/shattered-pixel-dungeon/id1650474911?i=1000617805231&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/pixel_dungeon.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 1:31 - game stats
+* 4:31 - one sentence summary
+* 46:50 - reddit meltdown
+* 54:28 - rankings and final thoughts
+
+---
 
 Next episode: Enter the Gungeon
 
