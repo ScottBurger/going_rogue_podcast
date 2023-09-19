@@ -5,6 +5,11 @@ date: 2023-01-04
 file: https://grogpod.s3.us-west-2.amazonaws.com/invisible-mp3.mp3
 description: "Call me Sna- uh, er, Inc. Invisible, Inc. The tactical espionage (action?) game by renknown developers Klei Entertainment! Your mission, should you choose to download it, is to tune in on our descriptions of cybernetic noir, wireless daemon hacking, and comparisons with X-Com.
 
+2:20 - game stats
+3:50 - one sentence summary
+50:37 - rankings and final thoughts
+56:04 - listener emails
+
 Next episode: Stacklands
 
 Contact us at grogpodzone@gmail.com!
@@ -29,7 +34,22 @@ tags: ["2015", squad management]
 
 Call me Sna- uh, er, Inc. Invisible, Inc. The tactical espionage (action?) game by renknown developers Klei Entertainment! Your mission, should you choose to download it, is to tune in on our descriptions of cybernetic noir, wireless daemon hacking, and comparisons with X-Com.
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/invisible-inc/id1650474911?i=1000592479096&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/invisible-mp3.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 2:20 - game stats
+* 3:50 - one sentence summary
+* 50:37 - rankings and final thoughts
+* 56:04 - listener emails
+
+---
 
 Next episode: Stacklands
 
