@@ -5,6 +5,12 @@ date: 2023-04-26
 file: https://grogpod.s3.us-west-2.amazonaws.com/streets-of-rogue.mp3
 description: "THE OOZE! IT SPREADS! We have a surprise double-feature this time because we accidentally beat our planned episode of Streets of Rogue too quickly. It turns out the apes that run this podcast ooked too hard for the new mayoral election and won in a landslide. So to balance out the podcast, we're also talking about Devolver Digital's surprise roguelike hit Loop Hero! Join us to hear about drug-hunting robots, zombie apocalypses, and the heat death of the universe. Brother may I have some more loops?
 
+1:44 - Streets of Rogue game stats
+2:31 - one sentence summary
+24:10 - Loop Hero game stats
+25:23 - one sentence summary
+57:47 - rankings and final thoughts
+
 Next episode: Griftlands
 
 Contact us at grogpodzone@gmail.com!
@@ -29,7 +35,23 @@ tags: ["2019", "2021", sandbox rpg, solo dev, episode bundle, deckbuilder]
 
 THE OOZE! IT SPREADS! We have a surprise double-feature this time because we accidentally beat our planned episode of Streets of Rogue too quickly. It turns out the apes that run this podcast ooked too hard for the new mayoral election and won in a landslide. So to balance out the podcast, we're also talking about Devolver Digital's surprise roguelike hit Loop Hero! Join us to hear about drug-hunting robots, zombie apocalypses, and the heat death of the universe. Brother may I have some more loops?
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/streets-of-rogue-loop-hero/id1650474911?i=1000610742715&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/streets-of-rogue.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 1:44 - Streets of Rogue game stats
+* 2:31 - one sentence summary
+* 24:10 - Loop Hero game stats
+* 25:23 - one sentence summary
+* 57:47 - rankings and final thoughts
+
+---
 
 Next episode: Griftlands
 
