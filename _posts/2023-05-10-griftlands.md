@@ -5,6 +5,11 @@ date: 2023-05-10
 file: https://grogpod.s3.us-west-2.amazonaws.com/griftlands-mp3.mp3
 description: "When you walk in Griftlands, you better watch your back. There's no room for heroes, just mercenaries and hacks. Every decision counts, every card in your hand. Gonna need luck to get through this land. Join us as the podcast hosts use both our battle and negotiation decks to convince each other about Griftlands' rankings this week. Tune in for Will's chicanery-level rant on games that aren't Slay the Spire. Better call Sal Ik-Derrick! 
 
+1:10 - game stats
+3:06 - one sentence summary
+6:02 - our story begins
+1:01:21 - rankings and final thoughts
+
 Next episode: Monster Train
 
 Contact us at grogpodzone@gmail.com!
@@ -28,7 +33,22 @@ tags: ["2021", deckbuilder]
 ---
 When you walk in Griftlands, you better watch your back. There's no room for heroes, just mercenaries and hacks. Every decision counts, every card in your hand. Gonna need luck to get through this land. Join us as the podcast hosts use both our battle and negotiation decks to convince each other about Griftlands' rankings this week. Tune in for Will's chicanery-level rant on games that aren't Slay the Spire. Better call Sal Ik-Derrick! 
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/griftlands/id1650474911?i=1000612443225&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/griftlands-mp3.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 1:10 - game stats
+* 3:06 - one sentence summary
+* 6:02 - our story begins
+* 1:01:21 - rankings and final thoughts
+
+---
 
 Next episode: Monster Train
 
