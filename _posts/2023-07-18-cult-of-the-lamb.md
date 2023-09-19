@@ -5,6 +5,12 @@ date: 2023-07-19
 file: https://grogpod.s3.us-west-2.amazonaws.com/lamb.mp3
 description: "Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! MINE STONE! Obey our glorious leaders commands! This week we meditate on the nature of organized labor and religious indoctrination with Cult of the Lamb. What lies beneath the adorable art and crown that sits atop our infallible and fluffly leader's head? Tune in for how to build your very own machine learning model to cheat at Knucklebones. That's not a commandment, right? No microphone problems, in the name of The Lamb!
 
+1:22 - game stats
+3:29 - one sentence summary
+12:15 - our story begins
+53:42 - rankings and final thoughts
+1:01:20 - listener emails
+
 Next episode: Cataclysm: Dark Days Ahead
 
 Contact us at grogpodzone@gmail.com!
@@ -30,7 +36,23 @@ tags: ["2022", colony sim, hack and slash]
 
 Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! MINE STONE! Obey our glorious leaders commands! This week we meditate on the nature of organized labor and religious indoctrination with Cult of the Lamb. What lies beneath the adorable art and crown that sits atop our infallible and fluffly leader's head? Tune in for how to build your very own machine learning model to cheat at Knucklebones. That's not a commandment, right? The Lamb is good, the Lamb is great, we surrender our will as of this date! No microphone problems, in the name of The Lamb!
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/cult-of-the-lamb/id1650474911?i=1000621600960&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/last_spell.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 1:22 - game stats
+* 3:29 - one sentence summary
+* 12:15 - our story begins
+* 53:42 - rankings and final thoughts
+* 1:01:20 - listener emails
+
+---
 
 
 
