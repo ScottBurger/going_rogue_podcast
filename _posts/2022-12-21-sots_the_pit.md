@@ -5,6 +5,9 @@ date: 2022-12-21
 file: https://grogpod.s3.us-west-2.amazonaws.com/the_pit-audio.mp3
 description: "A space plague has broken out, but you have to break in to The Pit! Join us as we dive through 30 floors of monsters and robots with shotguns, psionics, and hyper intelligent dolphins and explore the cartoonishly styled traditional roguelike from the Sword of the Stars creative universe.
 
+1:12 - game stats
+1:00:42 - rankings and final thoughts
+
 Next episode: Invisible, Inc.
 
 Contact us at grogpodzone@gmail.com!
@@ -29,7 +32,20 @@ tags: ["2013", traditional roguelike]
 
 A space plague has broken out, but you have to break in to The Pit! Join us as we dive through 30 floors of monsters and robots with shotguns, psionics, and hyper intelligent dolphins and explore the cartoonishly styled traditional roguelike from the Sword of the Stars creative universe.
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/sword-of-the-stars-the-pit/id1650474911?i=1000590909956&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/the_pit-audio.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 1:12 - game stats
+* 1:00:42 - rankings and final thoughts
+
+---
 
 Next episode: Invisible, Inc.
 
