@@ -1,0 +1,15 @@
+{
+  "title": "Aua-uff-Code!",
+  "subtitle": "Programmieren und Programmieren lernen",
+  "description": "Ein Podcast, mit dem zwei Lernende ihre Erfahrungen beim Lernen teilen.",
+  "cover": "https://aua-uff-co.de/img/logo-360x360.png",
+  "feeds": [
+    {
+      "type": "audio",
+      "format": "mp3",
+      "url": "https://aua-uff-co.de/episodes.mp3.rss",
+      "directory-url-itunes": "https://itunes.apple.com/at/podcast/aua-uff-code!/id1099454611",
+      "variant": "high"
+    }
+  ]
+}
