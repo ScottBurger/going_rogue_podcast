@@ -5,6 +5,11 @@ date: 2023-06-07
 file: https://grogpod.s3.us-west-2.amazonaws.com/darkestdungeon2.mp3
 description: "Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, you too can battle eldritch horrors beyond your comprehension! Listen in on another contentious episode where the hosts try to keep their stress levels below the meltdown threshold. 
 
+2:00 - game stats
+3:57 - one sentence summary
+5:41 - our story begins
+1:01:58 - rankings and final thoughts
+
 Next episode: Shattered Pixel Dungeon
 
 Contact us at grogpodzone@gmail.com!
@@ -27,7 +32,22 @@ tags: ["2023", squad management]
 ---
 Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, you too can battle eldritch horrors beyond your comprehension! Listen in on another contentious episode where the hosts try to keep their stress levels below the meltdown threshold. 
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/darkest-dungeon-ii/id1650474911?i=1000615959666&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/darkestdungeon2.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 2:00 - game stats
+* 3:57 - one sentence summary
+* 5:41 - our story begins
+* 1:01:58 - rankings and final thoughts
+
+---
 
 Next episode: Shattered Pixel Dungeon
 
