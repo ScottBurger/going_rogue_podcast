@@ -5,6 +5,11 @@ date: 2022-11-09
 file: https://grogpod.s3.us-west-2.amazonaws.com/hack-valley-pineapple.mp3
 description: "We kick off the roguelikes of 2012 with a collection of the some pretty extreme indie titles: Hack, Slash, Loot - a coffeebreak length roguelike with inventory slots as small as your character, the overall bamboozling title A Valley Without Wind, and the explosive squad-based shooter Pineapple Smash Crew. Thanks again for David Williamson and Rich Edwards for providing indie game dev Q&A for this episode. You can find their full responses at grogpod.zone.
 
+4:49 - Hack, Slash, Loot
+23:20 - A Valley Without Wind
+43:02 - Pineapple Smash Crew
+59:21 - Rankings and final thoughts
+
 Next episode: Cargo Commander / Realm of the Mad God / Din's Curse
 
 Contact us at grogpodzone@gmail.com!
@@ -26,13 +31,29 @@ tags: ["2012", episode bundle, traditional roguelike, platformer, twin stick sho
 
 We kick off the roguelikes of 2012 with a collection of the some pretty extreme indie titles: Hack, Slash, Loot - a coffeebreak length roguelike with inventory slots as small as your character, the overall bamboozling title A Valley Without Wind, and the explosive squad-based shooter Pineapple Smash Crew. Thanks again for David Williamson and Rich Edwards for providing indie game dev Q&A for this episode. You can find [David's full response here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/hack.md#qa-with-david-williamson-of-hack-slash-loot) and you can [find Rich's one here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/pineapple.md#qa-with-rich-edwards-of-pineapple-smash-crew).
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/hack-slash-loot-a-valley-without-wind-pineapple-smash-crew/id1650474911?i=1000585696366&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/hack-valley-pineapple.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* 4:49 - Hack, Slash, Loot
+* 23:20 - A Valley Without Wind
+* 43:02 - Pineapple Smash Crew
+* 59:21 - Rankings and final thoughts
+
+---
 
 Next episode: Cargo Commander / Realm of the Mad God / Din's Curse
 
 Contact us at grogpodzone@gmail.com!
 
 Intro music: Pharoah Sanders - You've Got To Have Freedom
+
 Outro music: Syphus - Fragmentation Symphony
 
 <div class="embed-responsive embed-responsive-16by9">
