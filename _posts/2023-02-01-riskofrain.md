@@ -7,6 +7,7 @@ description: "Today's forecast is partly sunny with a Risk of Rain. Join us to t
 
 1:28 - game stats
 3:24 - one sentence summary
+14:20 - our story begins
 54:20 - rankings and final thoughts
 
 Next episode: Fights in Tight Spaces
@@ -44,6 +45,7 @@ Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 
 
 * 1:28 - game stats
 * 3:24 - one sentence summary
+* 14:20 - our story begins
 * 54:20 - rankings and final thoughts
 
 ---
