@@ -23,9 +23,26 @@ It's finally here, our episode on one of the major traditional roguelike corners
 
 As noted, we've done a few [developer interviews for CDDA which you can find here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda.md). Thanks to the devs for taking the time to answer some of our questions!
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/&theme=auto"></iframe>
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/zzzzzzzzzz" type="audio/mpeg">
+  </audio>
+</div>
 
-Next episode: ???
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+
+---
+
+* xx - game stats
+* xx - one sentence description
+* xx - let’s talk JRPGs
+* xx - our story begins
+* xx - rankings and final thoughts
+* xx - similar games
+
+---
+
+Next episode: A GROGPOD fight club special episode to celebrate our 1 year anniversary of the podcast! We'll be tackling the topic of "What Is A Roguelike?" There will be blood!
 
 Contact us at grogpodzone@gmail.com!
 
