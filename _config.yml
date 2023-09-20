@@ -92,9 +92,9 @@ rss-description: The GROGPOD Roguelike Podcast is a bi-weekly show about four fr
 # Select which social network share links to show in posts
 share-links-active:
   twitter: false
-  facebook: true
+  facebook: false
   linkedin: false
-  reddit: true
+  reddit: false
   # instagram: true # have to add in custom functionality for?
 
 # How to display the link to your website in the footer
