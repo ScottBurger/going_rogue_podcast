@@ -60,7 +60,7 @@ The full combined ranking data can be found below:
 | 25           | [Pineapple Smash Crew](https://grogpod.zone/2022-11-09-pineapple/)                  | 25         | 22         | 27        | 23          | 24.25    | 24          | 2.22    |
 | 26           | [Eldritch](http://grogpod.zone/2023-08-30-eldritch/)                                | 26         | 26         | 17        | 31          | 25.00    | 26          | 5.83    |
 | 27           | [Sword of the Stars: The Pit](https://grogpod.zone/2022-12-21-sots_the_pit/)        | 27         | 29         | 21        | 24          | 25.25    | 26          | 3.50    |
-| 28           | [Cataclysm: Dark Days Ahead](https://grogpod.zone/2023-09-26-cataclysm)             | 32         | 25         | 17        | 33          | 26.75    | 29          | 7.41    |
+| 28           | [Cataclysm: Dark Days Ahead](https://grogpod.zone/2023-09-27-cataclysm)             | 32         | 25         | 17        | 33          | 26.75    | 29          | 7.41    |
 | 29           | [Cargo Commander](https://grogpod.zone/2022-11-23-madgod/)                          | 24         | 32         | 29        | 26          | 27.75    | 28          | 3.50    |
 | 30           | [Low Magic Age](https://grogpod.zone/2023-03-29-low-magic-age/)                     | 29         | 30         | 27        | 25          | 27.75    | 28          | 2.22    |
 | 31           | [A Valley Without Wind](https://grogpod.zone/2022-11-09-pineapple/)                 | 31         | 27         | 32        | 27          | 29.25    | 29          | 2.63    |
