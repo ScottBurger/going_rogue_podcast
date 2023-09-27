@@ -13,7 +13,7 @@ As noted, we've done a few developer interviews for CDDA which you can find here
 1:02:16 - rankings and final thoughts
 1:16:50 - similar games
 
-Next episode: A GROGPOD fight club special episode to celebrate our 1 year anniversary of the podcast! We'll be tackling the topic of "What Is A Roguelike?" There will be blood!
+Next episode: A GROGPOD fight club special episode to celebrate our 1 year anniversary of the podcast! We'll be tackling the topic of 'What Is A Roguelike?' There will be blood!
 
 Contact us at grogpodzone@gmail.com!
 
