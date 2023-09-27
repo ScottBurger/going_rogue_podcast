@@ -5,7 +5,7 @@ date: 2023-09-27
 file: https://grogpod.s3.us-west-2.amazonaws.com/cdda_final.mp3
 description: "It's finally here, our episode on one of the major traditional roguelike cornerstones: Cataclysm: Dark Days Ahead. Humanity's greatest desire is to drive crudely built, ascii-tiled cars in open source videogame projects. That and escape from zombies, of course. Tune in as we spend half an hour trying to open up menu systems and try to see just how big this fantastical world of "New England" really is. There's only so much time to listen to this episode before XE037 finds you and adds you to the blobular collective!
 
-As noted, we've done a few developer interviews for CDDA which you can find here: https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda.md Thanks to the devs for taking the time to answer some of our questions!
+As noted, we've done a few developer interviews for CDDA which you can find here: 'https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda.md' Thanks to the devs for taking the time to answer some of our questions!
 
 2:57 - game stats
 6:12 - one sentence description
