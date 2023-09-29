@@ -7,11 +7,12 @@ description: "It's finally here, our episode on one of the major traditional rog
 
 As noted, we've done a few developer interviews for CDDA which you can find here: https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/Cdda.md Thanks to the devs for taking the time to answer some of our questions!
 
-2:57 - game stats
-6:12 - one sentence description
-15:20 - our story begins
-1:02:16 - rankings and final thoughts
-1:16:50 - similar games
+1:30 - game stats
+5:12 - one sentence description
+6:37 - >>>>CDDA fans trigger warning alert<<<<
+14:36 - our story begins
+1:03:02 - rankings and final thoughts
+1:17:52 - similar games
 
 Next episode: A GROGPOD fight club special episode to celebrate our 1 year anniversary of the podcast! We'll be tackling the topic of 'What Is A Roguelike?' There will be blood!
 
@@ -49,11 +50,12 @@ As noted, we've done a few [developer interviews for CDDA which you can find her
 
 ---
 
-* 2:57 - game stats
-* 6:12 - one sentence description
-* 15:20 - our story begins
-* 1:02:16 - rankings and final thoughts
-* 1:16:50 - similar games
+* 1:30 - game stats
+* 5:12 - one sentence description
+* 6:37 - >>>>CDDA fans trigger warning alert<<<<
+* 14:36 - our story begins
+* 1:03:02 - rankings and final thoughts
+* 1:17:52 - similar games
 
 ---
 
