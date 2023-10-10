@@ -46,9 +46,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: https://www.youtube.com/watch?v=qAeMI8w_9xc&t=238s
+Intro music: Bill Evans - Nardis https://www.youtube.com/watch?v=qAeMI8w_9xc&t=238s
 
-Outro music: https://www.youtube.com/watch?v=-6FXeupOp04
+Outro music: https://www.youtube.com/watch?v=-6FXeupOp04 or https://www.youtube.com/watch?v=Sp07rRgDQCw
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
