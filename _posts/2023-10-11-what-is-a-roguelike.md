@@ -38,7 +38,6 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 
 ---
 
-Next episode: A GROGPOD fight club special episode to celebrate our 1 year anniversary of the podcast! We'll be tackling the topic of "What Is A Roguelike?" There will be blood!
 
 Next episode: Rimworld
 
