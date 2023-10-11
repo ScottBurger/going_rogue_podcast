@@ -41,7 +41,10 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 
 * 2:56 - Today's fight club topic: What is a roguelike game?
 * 4:07 - Our story begins / why do we care?
-* 56:42 - How rogue-like is this game?
+* 13:30 - One-sentence summaries of roguelike genre definitions
+* 15:30 - What is the original 1980 Rogue, the first games like Rogue, the Berlin Interpretation
+* 30:00 - What are rogue-lites? 2008's Spelunky, Binding of Isaac, and Rogue Legacy
+* 56:42 - How roguelike is this game?
 
 ---
 
