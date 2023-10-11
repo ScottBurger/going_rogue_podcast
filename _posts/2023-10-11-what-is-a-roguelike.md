@@ -2,8 +2,18 @@
 layout: post
 title: "What Is A Roguelike?"
 date: 2023-10-11
-file: 
-description: "
+file: https://grogpod.s3.us-west-2.amazonaws.com/what-is-roguelike.mp3
+description: "Happy GROGSversary! As we celebrate one whole year of doing this program, we combine our forces to attempt our own answer at the unsolvable question of 'what is a roguelike?' In possibly our longest episode to date, we dive into the pre-history of rogue-games, the infamous Berlin Interpretation, and just how 'rogue-lite' games fit into all this. We talk about jazz subgenres, whether or not Minecraft is a roguelike game, Solitaire (yes that one), hierarchies of game design needs, and who could forget Elf Metal! Of course, no one can be told what a roguelike is, you have to experience them for yourself. Show notes available on the website!
+
+Next episode: Rimworld
+
+Contact us at grogpodzone@gmail.com!
+
+https://grogpod.zone
+
+Intro music: Bill Evans - Nardis 
+
+Outro music: Tarn Adams - Dwarf Fortress mode theme 
 
 "
 explicit: "yes" 
@@ -12,16 +22,16 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/rogue_diagram.png
 thumbnail-img: /assets/img/rogue_diagram.png
 share-img: /assets/img/rogue_diagram.png
-duration: "59:18"
-length: 46988001 
+duration: "1:40:31"
+length: 74662764  
 tags: ["2023", grogpod]
 ---
 
-Happy GROGSversary! As we celebrate one whole year of doing this program, we combine our forces to attempt our own answer at the unsolvable question of "what is a roguelike?" Of course, no one can be told what a roguelike is, you have to experience them for yourself. 
+Happy GROGSversary! As we celebrate one whole year of doing this program, we combine our forces to attempt our own answer at the unsolvable question of "what is a roguelike?" In possibly our longest episode to date, we dive into the pre-history of rogue-games, the infamous Berlin Interpretation, and just how "rogue-lite" games fit into all this. We talk about jazz subgenres, whether or not Minecraft is a roguelike game, Solitaire (yes that one), hierarchies of game design needs, and who could forget Elf Metal! Of course, no one can be told what a roguelike is, you have to experience them for yourself. 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="https://grogpod.s3.us-west-2.amazonaws.com/xxxxxx" type="audio/mpeg">
+    <source src="[https://grogpod.s3.us-west-2.amazonaws.com/xxxxxx](https://grogpod.s3.us-west-2.amazonaws.com/what-is-roguelike.mp3)" type="audio/mpeg">
   </audio>
 </div>
 
@@ -29,14 +39,15 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 
 ---
 
-* 1:30 - game stats
-* 5:12 - one sentence description
-* 6:37 - >>>>CDDA fans trigger warning alert<<<<
-* 14:36 - our story begins
-* 1:03:02 - rankings and final thoughts
-* 1:17:52 - similar games
+* 
 
 ---
+
+As promised, below you can find some of our notes referenced in this chonker of a recording:
+
+* [Scott's 16 pages of show notes](https://docs.google.com/document/d/1jDmdS0MaSsVQwTmsHj7cwZHdk9KmAvupVkad8zpuW3U/edit)
+* [Will's hierarchy of game needs](https://docs.google.com/document/d/1FD0pGN9g0kH-7r5jJ83KIjXnx8jDumZ9g2GiPcu3AmY/edit)
+* [Colin's google sheet of undebateably roguey-ness scores ](https://docs.google.com/spreadsheets/d/1lvmApRcS-iEliRU2Dvh7Ybrz7mpEo5cf55p7k5_aX9I/edit#gid=0)
 
 Next episode: Rimworld
 
