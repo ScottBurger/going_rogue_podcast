@@ -47,6 +47,9 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 * 49:32 - Are "-lite" games less hardcore? Does metaprogression matter?
 * 56:42 - How roguelike is this game? (Minecraft, Diablo, X-Com, Into the Breach, Deep Rock Galactic, Don't Starve, Inscryption, Gloomhaven)
 * 1:08:30 - Data-driven roguey-ness and Steam tags
+* 1:16:28 - Can board games be roguelikes?
+* 1:20:55 - Do music genres suffer the same problem that the rogue-community has?
+* 1:27:00 - Summary and final thoughts
 
 ---
 
