@@ -46,6 +46,7 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 * 30:00 - What are rogue-lites? 2008's Spelunky, Binding of Isaac, and Rogue Legacy
 * 49:32 - Are "-lite" games less hardcore? Does metaprogression matter?
 * 56:42 - How roguelike is this game? (Minecraft, Diablo, X-Com, Into the Breach, Deep Rock Galactic, Don't Starve, Inscryption, Gloomhaven)
+* 1:08:30 - Data-driven roguey-ness and Steam tags
 
 ---
 
