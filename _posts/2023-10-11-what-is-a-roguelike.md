@@ -39,7 +39,9 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 
 ---
 
-* 
+* 2:56 - Today's fight club topic: What is a roguelike game?
+* 4:07 - Our story begins / why do we care?
+* 56:42 - How rogue-like is this game?
 
 ---
 
