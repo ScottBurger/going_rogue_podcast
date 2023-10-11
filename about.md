@@ -18,9 +18,9 @@ Woody Ciskowski - Co-host emeritus of the [Ultra64/Wii-Universe podcast](https:/
 
 ## What is a Roguelike?
 
-If you've never heard of roguelike games before, strap in for a fun and widely varying genre! Generally speaking, roguelike games involve run-based gameplay and a large degree of random variety with the idea being that every time you pick up and play, it should be a fun and unique experience. 
+If you've never heard of roguelike games before, strap in for a fun and widely varying genre! Generally speaking, roguelike games involve run-based gameplay and a large degree of random variety with the idea being that every time you pick up and play, it should be a fun and unique experience. We recorded a lengthy [deep-dive episode with our thoughts on the topic which you can find here.](http://grogpod.zone/2023-10-11-what-is-a-roguelike/)
 
-But don't take our word for it! Defining the genre is a historically tricky problem, dating all the way back to the era of UseNet.[Check out some examples of how people have been thinking about the genre over time here](https://github.com/ScottBurger/going_rogue_podcast/wiki/What-is-a-roguelike-database).
+But don't take our word for it! Defining the genre is a historically tricky problem, dating all the way back to the era of UseNet. [Check out some examples of how people have been thinking about the genre over time here](https://github.com/ScottBurger/going_rogue_podcast/wiki/What-is-a-roguelike-database).
 
 ## Show Me The Data!
 
