@@ -44,6 +44,7 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 * 13:30 - One-sentence summaries of roguelike genre definitions
 * 15:30 - What is the original 1980 Rogue, the first games like Rogue, the Berlin Interpretation
 * 30:00 - What are rogue-lites? 2008's Spelunky, Binding of Isaac, and Rogue Legacy
+* 49:32 - Are "-lite" games less hardcore? Does metaprogression matter?
 * 56:42 - How roguelike is this game?
 
 ---
@@ -56,6 +57,7 @@ As promised, below you can find some of our notes referenced in this chonker of 
 
 Next episode: Rimworld
 
+
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
@@ -65,5 +67,5 @@ Intro music: Bill Evans - Nardis
 Outro music: Tarn Adams - Dwarf Fortress mode theme 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U6xezFfEtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
