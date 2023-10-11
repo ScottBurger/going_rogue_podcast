@@ -31,7 +31,7 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="[https://grogpod.s3.us-west-2.amazonaws.com/xxxxxx](https://grogpod.s3.us-west-2.amazonaws.com/what-is-roguelike.mp3)" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/what-is-roguelike.mp3" type="audio/mpeg">
   </audio>
 </div>
 
