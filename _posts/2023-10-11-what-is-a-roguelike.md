@@ -5,6 +5,18 @@ date: 2023-10-11
 file: https://grogpod.s3.us-west-2.amazonaws.com/what-is-roguelike.mp3
 description: "Happy GROGSversary! As we celebrate one whole year of doing this program, we combine our forces to attempt our own answer at the unsolvable question of 'what is a roguelike?' In possibly our longest episode to date, we dive into the pre-history of rogue-games, the infamous Berlin Interpretation, and just how 'rogue-lite' games fit into all this. We talk about jazz subgenres, whether or not Minecraft is a roguelike game, Solitaire (yes that one), hierarchies of game design needs, and who could forget Elf Metal! Of course, no one can be told what a roguelike is, you have to experience them for yourself. Show notes available on the website!
 
+2:56 - Today’s fight club topic: What is a roguelike game?
+4:07 - Our story begins / why do we care?
+13:30 - One-sentence summaries of roguelike genre definitions
+15:30 - What is the original 1980 Rogue, the first games like Rogue, the Berlin Interpretation
+30:00 - What are rogue-lites? 2008’s Spelunky, Binding of Isaac, and Rogue Legacy
+49:32 - Are “-lite” games less hardcore? Does metaprogression matter?
+56:42 - How roguelike is this game? (Minecraft, Diablo, X-Com, Into the Breach, Deep Rock Galactic, Don’t Starve, Inscryption, Gloomhaven)
+1:08:30 - Data-driven roguey-ness and Steam tags
+1:16:28 - Can board games be roguelikes?
+1:20:55 - Do music genres suffer the same problem that the rogue-community has?
+1:27:00 - Summary and final thoughts
+
 Next episode: Rimworld
 
 Contact us at grogpodzone@gmail.com!
