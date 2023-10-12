@@ -67,6 +67,7 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
 
 As promised, below you can find some of our notes referenced in this chonker of a recording:
 
+* [Our collected list of roguelike definitions over the years](https://github.com/ScottBurger/going_rogue_podcast/wiki/What-is-a-roguelike-database)
 * [Scott's 16 pages of show notes](https://docs.google.com/document/d/1jDmdS0MaSsVQwTmsHj7cwZHdk9KmAvupVkad8zpuW3U/edit)
 * [Will's hierarchy of game needs](https://docs.google.com/document/d/1FD0pGN9g0kH-7r5jJ83KIjXnx8jDumZ9g2GiPcu3AmY/edit)
 * [Colin's google sheet of undebateably roguey-ness scores ](https://docs.google.com/spreadsheets/d/1lvmApRcS-iEliRU2Dvh7Ybrz7mpEo5cf55p7k5_aX9I/edit#gid=0)
