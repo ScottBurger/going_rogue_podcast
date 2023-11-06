@@ -36,7 +36,7 @@ thumbnail-img: /assets/img/rogue_diagram.png
 share-img: /assets/img/rogue_diagram.png
 duration: "1:40:31"
 length: 74662764  
-tags: ["2013", grogpod]
+tags: ["2023", grogpod]
 ---
 
 Happy GROGSversary! As we celebrate one whole year of doing this program, we combine our forces to attempt our own answer at the unsolvable question of "what is a roguelike?" In possibly our longest episode to date, we dive into the pre-history of rogue-games, the infamous Berlin Interpretation, and just how "rogue-lite" games fit into all this. We talk about jazz subgenres, whether or not Minecraft is a roguelike game, Solitaire (yes that one), hierarchies of game design needs, and who could forget Elf Metal! Of course, no one can be told what a roguelike is, you have to experience them for yourself. 
