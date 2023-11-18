@@ -31,7 +31,7 @@ The full combined ranking data can be found below:
 
 (Special thanks to [tabletomarkdown.com](https://tabletomarkdown.com/convert-spreadsheet-to-markdown))
 
-| Overall Rank | Game                                                                                | Playoff Category         | Scott Score | Colin Score | Will Score | Andrew Score | Avg Score | Median | Std Dev |
+| Overall Rank | Game                                                                                | GROGPOD Category         | Scott Score | Colin Score | Will Score | Andrew Score | Avg Score | Median | Std Dev |
 | ------------ | ----------------------------------------------------------------------------------- | --------------------- | ----------- | ----------- | ---------- | ------------ | --------- | ------ | ------- |
 | 1            | [FTL: Faster Than Light](https://grogpod.zone/2022-12-07-ftl/)                      | Squad Management      | 9.2         | 10          | 7.5        | 9.8          | 9.13      | 10     | 1.14    |
 | 2            | [Rimworld](https://grogpod.zone/2023-10-25-rimworld/)                               | Squad Management      | 8.5         | 8           | 10         | 9.70         | 9.05      | 9      | 0.95    |
