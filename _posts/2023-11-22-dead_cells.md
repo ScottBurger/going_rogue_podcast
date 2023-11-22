@@ -12,6 +12,7 @@ We round out this season of the podcast with a great one, but we've covered a lo
 16:55 - Our story begins
 1:08:29 - Rankings and final thoughts
 1:17:50 - Similar games
+1:21:48 - Roguelike playoffs preview!
 
 Next episode: GROGPOD Roguelike Playoffs - the Omegabowl!
 
@@ -55,6 +56,7 @@ We round out this season of the podcast with a great one, but we've covered a lo
 * 16:55 - Our story begins
 * 1:08:29 - Rankings and final thoughts
 * 1:17:50 - Similar games
+* 1:21:48 - Roguelike playoffs preview!
 
 ---
 
