@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dead Cells"
+title: "Dead Cells (with Woody Ciskowski)"
 date: 2023-11-22
 file: https://grogpod.s3.us-west-2.amazonaws.com/dead_cells.mp3
 description: "That gooey flopping sound isn't your GROGsgiving dinner quite yet, it's the sound of you being reanimated for another run of the 2018 hit action platformer Dead Cells! Join the crew and returning guest Woody as we slice, dice, parry, and pray for mercy against monstrous bosses and darkening sephulcurs. Feel the guitar-strumming beat of a French co-op gamedev's masterpiece and strap in for some fast kickin', low biome times, and meta-progression? You bet!
