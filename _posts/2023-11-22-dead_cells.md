@@ -2,26 +2,41 @@
 layout: post
 title: "Dead Cells"
 date: 2023-11-22
-file: 
-description: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/dead_cells.mp3
+description: "That gooey flopping sound isn't your GROGsgiving dinner quite yet, it's the sound of you being reanimated for another run of the 2018 hit action platformer Dead Cells! Join the crew and returning guest Woody as we slice, dice, parry, and pray for mercy against monstrous bosses and darkening sephulcurs. Feel the guitar-strumming beat of a French co-op gamedev's masterpiece and strap in for some fast kickin', low biome times, and meta-progression? You bet!
+
+We round out this season of the podcast with a great one, but we've covered a lot of great games this year. Our next episode will feature a playoff tournament of our top rated games to see who takes the ultimate crown this year. Place your votes here and use your democratic power to help us crown a champion: https://forms.gle/2L8b5ofM9odFf9b17. 
+
+Next episode: GROGPOD Roguelike Playoffs - the Omegabowl!
+
+Contact us at grogpodzone@gmail.com!
+
+https://grogpod.zone
+
+Intro music: Coleman Hawkins & Ben Webster - Prisoner of Love
+
+Outro music: Valmont - ClockTower
+
+"
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/rimworld.jpeg
-thumbnail-img: /assets/img/rimworld.jpeg
-share-img: /assets/img/rimworld.jpeg
-duration: "1:24:36"
-length: 59102352  
-tags: ["2018", platformer]
+cover-img: /assets/img/deadcells.jpeg
+thumbnail-img: /assets/img/deadcells.jpeg
+share-img: /assets/img/deadcells.jpeg
+duration: "1:27:23"
+length: 63453600  
+tags: ["2018", platformer, Guest - Woody Ciskowski]
 ---
 
-Have you ever thought to yourself 'Is it possible to import my friends into this game and harvest their skin for the leather of my chairs?' Then you've tuned to the right episode! In an accidentally relevant-to-spooky-season selection, we turn to Rimworld! But wait, that's not a roguelike, you'll inevitably shout at your podcast feed. We decided to pull some editorial leeway this time with the defense of 'well if Dwarf Fortress did it...' Join our starving colonists as they try to figure out how to grow potatoes and fight off insectoid invasions and mind pulse machines as they dig too deep and unleash the terrors of internet connectivity issues.
+That gooey flopping sound isn't your GROGsgiving dinner quite yet, it's the sound of you being reanimated for another run of the 2018 hit action platformer Dead Cells! Join the crew and returning guest Woody as we slice, dice, parry, and pray for mercy against monstrous bosses and darkening sephulcurs. Feel the guitar-strumming beat of a French co-op gamedev's masterpiece and strap in for some fast kickin', low biome times, and meta-progression? You bet!
 
+We round out this season of the podcast with a great one, but we've covered a lot of great games this year. Our next episode will feature a playoff tournament of our top rated games to see who takes the ultimate crown this year. [Place your votes here and use your democratic power to help us crown a champion](https://forms.gle/2L8b5ofM9odFf9b17). 
 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="https://grogpod.s3.us-west-2.amazonaws.com/rimworld-audio.mp3" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/dead_cells.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -34,7 +49,6 @@ Have you ever thought to yourself 'Is it possible to import my friends into this
 ---
 
 
-
 Next episode: GROGPOD Roguelike Playoffs - the Omegabowl!
 
 
@@ -42,7 +56,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Coleman Hawkins & Ben Webster - Prisoner of Love
 
 Outro music: Valmont - ClockTower
 
