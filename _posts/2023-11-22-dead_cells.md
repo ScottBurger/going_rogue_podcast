@@ -7,6 +7,12 @@ description: "That gooey flopping sound isn't your GROGsgiving dinner quite yet,
 
 We round out this season of the podcast with a great one, but we've covered a lot of great games this year. Our next episode will feature a playoff tournament of our top rated games to see who takes the ultimate crown this year. Place your votes here and use your democratic power to help us crown a champion: https://forms.gle/2L8b5ofM9odFf9b17. 
 
+4:27 - Game stats
+13:48 - One sentence description
+16:55 - Our story begins
+1:08:29 - Rankings and final thoughts
+1:17:50 - Similar games
+
 Next episode: GROGPOD Roguelike Playoffs - the Omegabowl!
 
 Contact us at grogpodzone@gmail.com!
@@ -44,7 +50,11 @@ We round out this season of the podcast with a great one, but we've covered a lo
 
 ---
 
-
+* 4:27 - Game stats
+* 13:48 - One sentence description
+* 16:55 - Our story begins
+* 1:08:29 - Rankings and final thoughts
+* 1:17:50 - Similar games
 
 ---
 
