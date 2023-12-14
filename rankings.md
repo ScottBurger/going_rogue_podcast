@@ -26,6 +26,8 @@ top 3 hidden gems
 top 3 most widely disagreed on games (std dev)
 -->
 
+[At the end of every year, we rank the games for that year in a playoff tournament](https://grogpod.zone/tags/#omegabowl). A good place to start if you want to hear condensed thoughts on the top games.
+
 
 The full combined ranking data can be found below:
 
