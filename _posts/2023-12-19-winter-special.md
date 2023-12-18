@@ -32,6 +32,14 @@ The end of season 1 of the podcast is here and to celebrate we are pitting our t
 
 * Winter mail sack
 * Interview with Huw Millward, solo dev of Warsim: The Realm of Aslona
+* Warsim dev history and future
+* How to stay inspired and creative?
+* How to build an indie game community?
+* Windows CMD design and spaghetti code
+* Kitfox remasters of Dwarf Fortress and Caves of Qud
+* Ascii art aesthetics
+* Spreadsheet optimization
+* Randomness vs proc gen
 * 
 
 ---
