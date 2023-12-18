@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2023 Winter Special"
-date: 2023-12-19
-file: https://grogpod.s3.us-west-2.amazonaws.com/omegabowl1.mp3
+title: "2023 Winter Special - listener emails and dev interview with Huw Millward"
+date: 2023-12-20
+file: 
 description: "
 "
 explicit: "yes" 
@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/rogue.jpeg
 share-img: /assets/img/rogue.jpeg
 duration: "1:46:16"
 length: 85880627
-tags: ["2023", grogpod, omegabowl]
+tags: ["2023", grogpod, interview]
 ---
 
 The end of season 1 of the podcast is here and to celebrate we are pitting our top games in a playoff tournament fight to the death! If you're new to the podcast or the genre this is a great place to start. With a wide range of categories from platformer rogues, to solo dev efforts, to squad management simulators, there's something for everyone today. Thanks to all the listeners that voted as well!
@@ -30,13 +30,15 @@ The end of season 1 of the podcast is here and to celebrate we are pitting our t
 
 ---
 
-
+* Winter mail sack
+* Interview with Huw Millward, solo dev of Warsim: The Realm of Aslona
+* 
 
 ---
 
 
 
-Next episode: Season 2 starts with xxx!
+Next episode: Season 2 starts with Rogue Tower!
 
 Contact us at grogpodzone@gmail.com!
 
