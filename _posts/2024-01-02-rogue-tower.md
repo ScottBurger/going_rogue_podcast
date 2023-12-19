@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2023 Winter Special"
+title: "Rogue Tower"
 date: 2024-01-02
-file: https://grogpod.s3.us-west-2.amazonaws.com/omegabowl1.mp3
+file: 
 description: "
 "
 explicit: "yes" 
@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/rogue.jpeg
 share-img: /assets/img/rogue.jpeg
 duration: "1:46:16"
 length: 85880627
-tags: ["2023", grogpod, omegabowl]
+tags: ["2022", tower defense, solo dev]
 ---
 
 Season 2 is here! And we have a game to talk about!
