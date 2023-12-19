@@ -30,7 +30,7 @@ The end of season 1 of the podcast is here and to celebrate we are pitting our t
 
 ---
 
-* Winter mail sack
+
 * Interview with Huw Millward, solo dev of Warsim: The Realm of Aslona
 * Warsim dev history and future
 * How to stay inspired and creative?
@@ -40,7 +40,13 @@ The end of season 1 of the podcast is here and to celebrate we are pitting our t
 * Ascii art aesthetics
 * Spreadsheet optimization
 * Randomness vs proc gen
-* 
+* Gamedev feature strategy
+* Steam reviews and marketing strategy
+* ChatGPT
+* Gamedev persistence and community engagement
+* Favorite games and gamedev pen pals
+* -----
+* Winter mail sack
 
 ---
 
