@@ -8,15 +8,17 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/rogue.jpeg
-thumbnail-img: /assets/img/rogue.jpeg
-share-img: /assets/img/rogue.jpeg
+cover-img: /assets/img/warsim_bees.png
+thumbnail-img: /assets/img/warsim_bees.png
+share-img: /assets/img/warsim_bees.png
 duration: "1:46:16"
 length: 85880627
-tags: ["2023", grogpod, interview]
+tags: ["2023", grogpod, interview, mail sack]
 ---
 
-The end of season 1 of the podcast is here and to celebrate we are pitting our top games in a playoff tournament fight to the death! If you're new to the podcast or the genre this is a great place to start. With a wide range of categories from platformer rogues, to solo dev efforts, to squad management simulators, there's something for everyone today. Thanks to all the listeners that voted as well!
+Ah it's the holiday season (backup singers: the holiday season) and the GROGPOD is coming 'round for a special winter break episode! We've been asked by listeners for a while to do a developer interview so who better to bring on the program than amazing solo dev Huw Milward of previous episode Warsim: The Realm of Aslona! 
+
+We kick off the first hour of the program with Huw, Will, and I chatting by the fireplace with our 'nog in hand about topics like inspiration, marketing strategy, and of course ChatGPT. Join us after the interview for some listener letters too!
 
 
 
