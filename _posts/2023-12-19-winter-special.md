@@ -20,6 +20,8 @@ Ah it's the holiday season (backup singers: the holiday season) and the GROGPOD 
 
 We kick off the first hour of the program with Huw, Will, and I chatting by the fireplace with our 'nog in hand about topics like inspiration, marketing strategy, and of course ChatGPT. Join us after the interview for some listener letters too!
 
+[Find Warsim on Steam here](https://store.steampowered.com/app/659540/Warsim_The_Realm_of_Aslona/)
+
 
 
 <div class="container">
@@ -60,9 +62,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Huw Warren - Porto Alegre
 
-Outro music: 
+Outro music: Warsim 8bit main theme
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
