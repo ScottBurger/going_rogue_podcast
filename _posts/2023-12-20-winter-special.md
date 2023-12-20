@@ -5,7 +5,7 @@ date: 2023-12-20
 file: https://grogpod.s3.us-west-2.amazonaws.com/winter_special.mp3
 description: "It's the holiday season (backup singers: the holiday season) and the GROGPOD is coming 'round for a special winter break episode! We've been asked by listeners for a while to do a developer interview so who better to bring on the program than amazing solo dev Huw Milward of previous episode Warsim: The Realm of Aslona! 
 
-We kick off the first hour of the program with Huw, Will, and I chatting by the fireplace with our 'nog (grog?) in hand about topics like inspiration, marketing strategy, and of course ChatGPT. Join us after the interview for some listener letters too! 
+We kick off the first hour of the program with Huw, Will, and I chatting by the fireplace with our 'nog (grog?) in hand about topics like inspiration, marketing strategy, and of course: ChatGPT. Join us after the interview for some listener letters too! 
 
 Next episode: Season 2 starts with Rogue Tower!
 
