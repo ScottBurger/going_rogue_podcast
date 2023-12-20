@@ -47,22 +47,21 @@ We kick off the first hour of the program with Huw, Will, and I chatting by the 
 ---
 
 
-* Interview with Huw Millward, solo dev of Warsim: The Realm of Aslona
-* Warsim dev history and future
-* How to stay inspired and creative?
-* How to build an indie game community?
-* Windows CMD design and spaghetti code
-* Kitfox remasters of Dwarf Fortress and Caves of Qud
-* Ascii art aesthetics
-* Spreadsheet optimization
-* Randomness vs proc gen
-* Gamedev feature strategy
-* Steam reviews and marketing strategy
-* ChatGPT
-* Gamedev persistence and community engagement
-* Favorite games and gamedev pen pals
-* -----
-* Winter mail sack
+* 2:20 - Interview with Huw Millward, solo dev of Warsim: The Realm of Aslona
+* 6:25 - Warsim dev history and future
+* 10:45 - How to stay inspired and creative?
+* 13:00 - How to build an indie game community?
+* 16:39 - Windows CMD design and spaghetti code
+* 18:18 - Kitfox remasters of Dwarf Fortress and Caves of Qud
+* 21:00 - Ascii art aesthetics, SanctuaryRPG, WORD GAME
+* 26:39 - Randomness vs proc gen
+* 34:24 - Gamedev feature strategy
+* 37:48 - Steam reviews and marketing strategy
+* 49:13 - ChatGPT
+* 55:40 - Gamedev persistence and community engagement
+* 58:30 - Favorite games and gamedev pen pals
+* 1:05:43 - Emails: How long to evaluate a roguelike game?
+* 1:18:31 - Emails: Mystery Dungeon games
 
 ---
 
