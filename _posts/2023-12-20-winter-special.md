@@ -23,6 +23,8 @@ We kick off the first hour of the program with Huw, Will, and I chatting by the 
 1:05:43 - Emails: How long to evaluate a roguelike game?
 1:18:31 - Emails: Mystery Dungeon games
 
+[One Way Heroics music fix for Steam Deck](https://www.protondb.com/app/266210)
+
 Next episode: Season 2 starts with Rogue Tower!
 
 Contact us at grogpodzone@gmail.com!
