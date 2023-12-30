@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Rogue Tower"
-date: 2024-01-02
+date: 2024-01-03
 file: 
 description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/rogue.jpeg
-thumbnail-img: /assets/img/rogue.jpeg
-share-img: /assets/img/rogue.jpeg
+cover-img: /assets/img/rogue_tower.jpg
+thumbnail-img: /assets/img/rogue_tower.jpg
+share-img: /assets/img/rogue_tower.jpg
 duration: "1:46:16"
 length: 85880627
 tags: ["2022", tower defense, solo dev]
@@ -41,7 +41,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: https://www.youtube.com/watch?v=n2rVnRwW0h8
+Intro music: 
 
 Outro music: 
 
