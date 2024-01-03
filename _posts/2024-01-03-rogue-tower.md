@@ -32,7 +32,7 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="[https://grogpod.s3.us-west-2.amazonaws.com/](https://grogpod.s3.us-west-2.amazonaws.com/rogue_tower.mp3)" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/rogue_tower.mp3" type="audio/mpeg">
   </audio>
 </div>
 
