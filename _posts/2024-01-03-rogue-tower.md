@@ -44,7 +44,14 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
 
 ---
 
+[A link to Will's crazy spreadsheet optimization tool can be found here](https://docs.google.com/spreadsheets/d/1W7YtorhMXfT9gPvn2lNK3sgWBInoJyHKGUtjwXKtYl4/edit?usp=sharing)
 
+And because I totally spaced on the similar games segment, if you're a fan of Rogue Tower you should also check out:
+* [The Last Spell](https://grogpod.zone/2023-08-16-the_last_spell/)
+* Dungeon of the Endless
+* Tower Tactics: Liberation
+* Bardbarian
+* [Bloons TD6 Roguelike mod](https://www.youtube.com/watch?v=N2NLAKqDmZA)
 
 Next episode: Wildermyth
 
