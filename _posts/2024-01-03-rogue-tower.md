@@ -22,7 +22,7 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/rogue_tower.jpg
 thumbnail-img: /assets/img/rogue_tower.jpg
 share-img: /assets/img/rogue_tower.jpg
-duration: "1:46:16"
+duration: "1:03:40"
 length: 49911227
 tags: ["2022", tower defense, solo dev]
 ---
@@ -39,8 +39,10 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 ---
-
-
+* 1:47 - game stats
+* 3:13 - one sentence description
+* 30:47 - deep lore
+* 50:12 - rankings and final thoughts
 
 ---
 
@@ -64,5 +66,5 @@ Intro music: George Shearing - I Didn't Know What Time It Was
 Outro music: Andrew R. Mason - Orcs Attack!
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nh8VUl8IQRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
