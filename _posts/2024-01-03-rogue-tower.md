@@ -46,7 +46,7 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
 
 ---
 
-[A link to Will's crazy spreadsheet optimization tool can be found here](https://docs.google.com/spreadsheets/d/1W7YtorhMXfT9gPvn2lNK3sgWBInoJyHKGUtjwXKtYl4/edit?usp=sharing)
+[A link to Will's crazy spreadsheet optimization tool can be found here](https://docs.google.com/spreadsheets/d/1RRsIP-vOeK0ZyU9eIU-5paGzr5-qcQbSzamYKNjHf48/edit#gid=408409009)
 
 And because I totally spaced on the similar games segment, if you're a fan of Rogue Tower you should also check out:
 * [The Last Spell](https://grogpod.zone/2023-08-16-the_last_spell/)
