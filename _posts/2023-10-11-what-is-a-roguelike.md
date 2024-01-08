@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "What Is A Roguelike?"
@@ -71,6 +72,8 @@ As promised, below you can find some of our notes referenced in this chonker of 
 * [Scott's 16 pages of show notes](https://docs.google.com/document/d/1jDmdS0MaSsVQwTmsHj7cwZHdk9KmAvupVkad8zpuW3U/edit)
 * [Will's hierarchy of game needs](https://docs.google.com/document/d/1FD0pGN9g0kH-7r5jJ83KIjXnx8jDumZ9g2GiPcu3AmY/edit)
 * [Colin's google sheet of undebateably roguey-ness scores ](https://docs.google.com/spreadsheets/d/1lvmApRcS-iEliRU2Dvh7Ybrz7mpEo5cf55p7k5_aX9I/edit#gid=0)
+
+Check out Scott's tangentially related [talk on The Data Science of Roguelikes here!](https://youtu.be/IliQZm5Itng)
 
 Next episode: Rimworld
 
