@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rogue Tower"
+title: "Wildermyth"
 date: 2024-01-17
 file: 
 description: "
@@ -10,15 +10,15 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/rogue_tower.jpg
-thumbnail-img: /assets/img/rogue_tower.jpg
-share-img: /assets/img/rogue_tower.jpg
+cover-img: /assets/img/wildermyth.jpeg
+thumbnail-img: /assets/img/wildermyth.jpeg
+share-img: /assets/img/wildermyth.jpeg
 duration: "1:03:40"
 length: 49911227
-tags: ["2022", tower defense, solo dev]
+tags: ["2019", squad management]
 ---
 
-Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring an army of orcs and goblins marching on your doom in Rogue Tower. What other podcast can you find deep dives on tower defense strategy in the form of thrilling spreadsheet functions and macros? The Excel fincancial modelling world cup may have just ended, but this game sure EXCELs at metal tunes, one-more-turn-itis, and laser-blasting pyramids. Does Will hold a world record for this game? Send in your armies of Boron-encased glass panes and find out for yourself!
+
 
 
 <div class="container">
@@ -30,10 +30,9 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 ---
-* 1:47 - game stats
-* 3:13 - one sentence description
-* 30:47 - deep lore
-* 50:12 - rankings and final thoughts
+*  - game stats
+*  - one sentence description
+*  - rankings and final thoughts
 
 ---
 
