@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "What Is A Roguelike?"
@@ -11,7 +10,7 @@ description: "Happy GROGSversary! As we celebrate one whole year of doing this p
 13:30 - One-sentence summaries of roguelike genre definitions
 15:30 - What is the original 1980 Rogue, the first games like Rogue, the Berlin Interpretation
 30:00 - What are rogue-lites? 2008’s Spelunky, Binding of Isaac, and Rogue Legacy
-49:32 - Are “-lite” games less hardcore? Does metaprogression matter?
+49:32 - Are '-lite' games less hardcore? Does metaprogression matter?
 56:42 - How roguelike is this game? (Minecraft, Diablo, X-Com, Into the Breach, Deep Rock Galactic, Don’t Starve, Inscryption, Gloomhaven)
 1:08:30 - Data-driven roguey-ness and Steam tags
 1:16:28 - Can board games be roguelikes?
