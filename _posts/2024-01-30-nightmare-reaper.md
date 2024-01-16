@@ -15,7 +15,7 @@ thumbnail-img: /assets/img/wildermyth.jpeg
 share-img: /assets/img/wildermyth.jpeg
 duration: "1:03:40"
 length: 49911227
-tags: ["2019", squad management]
+tags: ["2019", shooter]
 ---
 
 
