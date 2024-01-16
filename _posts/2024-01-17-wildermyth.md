@@ -38,7 +38,7 @@ tags: ["2019", squad management]
 
 
 
-Next episode: ????
+Next episode: Nightmare Reaper
 
 Contact us at grogpodzone@gmail.com!
 
