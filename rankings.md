@@ -39,7 +39,7 @@ The full combined ranking data can be found below:
 | 2            | [Dead Cells](https://grogpod.zone/2023-11-22-dead_cells/)                           | Platformer            | 9.4         | 9.5         |            | 8.5          | 9.13      | 9      | 0.55    |
 | 3            | [Rimworld](https://grogpod.zone/2023-10-25-rimworld/)                               | Squad Management      | 8.5         | 8.0         | 10         | 9.70         | 9.05      | 9      | 0.95    |
 | 4            | [Monster Train](https://grogpod.zone/2023-05-24-monster_train/)                     | Deckbuilder           | 7.9         | 9.5         | 8          |              | 8.47      | 8      | 0.90    |
-| 5            | [Binding of Isaac: Rebirth](https://grogpod.zone/2022-10-26-isaac/)                 | Top Down Shooter      | 8.6         | 7.0         | 7.5        | 9.7          | 8.20      | 8      | 1.20    |
+| 5            | [Binding of Isaac: Rebirth](https://grogpod.zone/2022-10-26-isaac/)                 | Top Down Shooter      | 8.75        | 7.0         | 7.5        | 9.7          | 8.24      | 8      | 1.22    |
 | 6            | [The Last Spell](https://grogpod.zone/2023-08-16-the_last_spell/)                   | Squad Management      | 7.6         | 8.0         | 6          | 9.9          | 7.88      | 8      | 1.60    |
 | 7            | [Enter the Gungeon](https://grogpod.zone/2023-07-04-gungeon/)                       | Top Down Shooter      | 9           | 6.0         | 6          | 10.0         | 7.75      | 8      | 2.06    |
 | 8            | [Hand of Fate 2](https://grogpod.zone/2023-04-12-hand-of-fate/)                     | Deckbuilder           | 7.7         | 8.0         | 7.5        |              | 7.73      | 8      | 0.25    |
@@ -50,28 +50,29 @@ The full combined ranking data can be found below:
 | 13           | [Loop Hero](https://grogpod.zone/2023-04-26-streets-of-rogue/)                      | Deckbuilder           | 7.4         | 7.5         | 7.5        |              | 7.47      | 8      | 0.06    |
 | 14           | [Fights in Tight Spaces](https://grogpod.zone/2023-02-15-fits/)                     | Deckbuilder           | 7.1         | 7.5         | 7.5        |              | 7.37      | 8      | 0.23    |
 | 15           | [Risk of Rain](https://grogpod.zone/2023-02-01-riskofrain/)                         | Platformer            | 9.3         | 7.5         | 5          |              | 7.27      | 8      | 2.16    |
-| 16           | [Griftlands](https://grogpod.zone/2023-05-10-griftlands/)                           | Deckbuilder           | 7.8         | 7.0         | 6.5        |              | 7.10      | 7      | 0.66    |
-| 17           | [Streets of Rogue](https://grogpod.zone/2023-04-26-streets-of-rogue/)               | Solo Dev              | 7.3         | 7.0         | 6.5        |              | 6.93      | 7      | 0.40    |
-| 18           | [One Way Heroics](http://grogpod.zone/2023-09-13-one-way-heroics/)                  | Solo Dev              | 7.85        | 6.0         |            | 6.9          | 6.92      | 7      | 0.93    |
-| 19           | [Warsim: The Realm of Aslona](https://grogpod.zone/2023-03-01-warsim/)              | Solo Dev              | 7.2         | 5.0         | 8.5        |              | 6.90      | 7      | 1.77    |
-| 20           | [Cult of the Lamb](https://grogpod.zone/2023-07-19-cult-of-the-lamb/)               | Squad Management      | 6.4         | 7.0         | 7          |              | 6.80      | 7      | 0.35    |
-| 21           | [Stacklands](https://grogpod.zone/2023-01-18-stacklands/)                           | Deckbuilder           | 6.6         | 6.0         | 6.5        |              | 6.37      | 7      | 0.32    |
-| 22           | [Shattered Pixel Dungeon](https://grogpod.zone/2023-06-21-shattered-pixel-dungeon/) | Traditional Roguelike | 6.9         | 7.0         | 4.5        |              | 6.13      | 7      | 1.42    |
-| 23           | [Hand of Fate](https://grogpod.zone/2023-04-12-hand-of-fate/)                       | Deckbuilder           | 6.1         | 6.0         | 5.5        |              | 5.87      | 6      | 0.32    |
-| 24           | [Dungeons of Dredmor](https://grogpod.zone/2022-10-12-dredmor/)                     | Traditional Roguelike | 5.4         | 5.0         | 5          |              | 5.13      | 5      | 0.23    |
-| 25           | [Darkest Dungeon 2](https://grogpod.zone/2023-06-07-darkest-dungeon-2/)             | Squad Management      | 6.5         | 4.0         | 4.5        |              | 5.00      | 5      | 1.32    |
-| 26           | [Pineapple Smash Crew](https://grogpod.zone/2022-11-09-pineapple/)                  | Top Down Shooter      | 5.2         | 5.5         | 4          |              | 4.90      | 5      | 0.79    |
-| 27           | [Din's Curse](https://grogpod.zone/2022-11-23-madgod/)                              | Solo Dev              | 3.8         | 6.0         | 4.5        |              | 4.77      | 5      | 1.12    |
-| 28           | [Brotato](https://grogpod.zone/2023-08-16-the_last_spell/)                          | Top Down Shooter      | 6.2         | 6.5         | 4.5        | 1.1          | 4.58      | 5      | 2.48    |
-| 29           | [AK-xolotl](https://grogpod.zone/2023-11-08-akxolotl/)                              | Top Down Shooter      | 2.8         | 4.0         | 3          | 7            | 4.20      | 4      | 1.94    |
-| 30           | [Sword of the Stars: The Pit](https://grogpod.zone/2022-12-21-sots_the_pit/)        | Traditional Roguelike | 3.9         | 4.0         | 4.5        |              | 4.13      | 4      | 0.32    |
-| 31           | [Eldritch](http://grogpod.zone/2023-08-30-eldritch/)                                | Solo Dev              | 4.5         | 4.5         | 5          | 1.7          | 3.92      | 5      | 1.52    |
-| 32           | [Cargo Commander](https://grogpod.zone/2022-11-23-madgod/)                          | Platformer            | 5.3         | 3.0         | 3          |              | 3.77      | 3      | 1.33    |
-| 33           | [Low Magic Age](https://grogpod.zone/2023-03-29-low-magic-age/)                     | Squad Management      | 2.9         | 3.0         | 4          |              | 3.30      | 3      | 0.61    |
-| 34           | [Cataclysm: Dark Days Ahead](http://grogpod.zone/2023-09-27-cataclysm/)             | Traditional Roguelike | 1.2         | 5.0         | 5          | 0.1          | 2.83      | 3      | 2.55    |
-| 35           | [A Valley Without Wind](https://grogpod.zone/2022-11-09-pineapple/)                 | Platformer            | 2           | 4.5         | 2          |              | 2.83      | 2      | 1.44    |
-| 36           | [Hack, Slash, Loot](https://grogpod.zone/2022-11-09-pineapple/)                     | Traditional Roguelike | 2.4         | 2.0         | 3          |              | 2.47      | 2      | 0.50    |
-| 37           | [Realm of the Mad God](https://grogpod.zone/2022-11-23-madgod/)                     | Top Down Shooter      | 1           | 3.0         | 2.5        |              | 2.17      | 3      | 1.04    |
+| 16           | [Wildermyth](https://grogpod.zone/2024-01-17-wildermyth/)                           | Squad Management      | 7.83        | 7.0         | 7          | 7            | 7.21      | 7      | 0.41    |
+| 17           | [Griftlands](https://grogpod.zone/2023-05-10-griftlands/)                           | Deckbuilder           | 7.8         | 7.0         | 6.5        |              | 7.10      | 7      | 0.66    |
+| 18           | [Streets of Rogue](https://grogpod.zone/2023-04-26-streets-of-rogue/)               | Solo Dev              | 7.3         | 7.0         | 6.5        |              | 6.93      | 7      | 0.40    |
+| 19           | [One Way Heroics](http://grogpod.zone/2023-09-13-one-way-heroics/)                  | Solo Dev              | 7.85        | 6.0         |            | 6.9          | 6.92      | 7      | 0.93    |
+| 20           | [Warsim: The Realm of Aslona](https://grogpod.zone/2023-03-01-warsim/)              | Solo Dev              | 7.2         | 5.0         | 8.5        |              | 6.90      | 7      | 1.77    |
+| 21           | [Cult of the Lamb](https://grogpod.zone/2023-07-19-cult-of-the-lamb/)               | Squad Management      | 6.4         | 7.0         | 7          |              | 6.80      | 7      | 0.35    |
+| 22           | [Stacklands](https://grogpod.zone/2023-01-18-stacklands/)                           | Deckbuilder           | 6.6         | 6.0         | 6.5        |              | 6.37      | 7      | 0.32    |
+| 23           | [Shattered Pixel Dungeon](https://grogpod.zone/2023-06-21-shattered-pixel-dungeon/) | Traditional Roguelike | 6.9         | 7.0         | 4.5        |              | 6.13      | 7      | 1.42    |
+| 24           | [Hand of Fate](https://grogpod.zone/2023-04-12-hand-of-fate/)                       | Deckbuilder           | 6.1         | 6.0         | 5.5        |              | 5.87      | 6      | 0.32    |
+| 25           | [Dungeons of Dredmor](https://grogpod.zone/2022-10-12-dredmor/)                     | Traditional Roguelike | 5.4         | 5.0         | 5          |              | 5.13      | 5      | 0.23    |
+| 26           | [Darkest Dungeon 2](https://grogpod.zone/2023-06-07-darkest-dungeon-2/)             | Squad Management      | 6.5         | 4.0         | 4.5        |              | 5.00      | 5      | 1.32    |
+| 27           | [Pineapple Smash Crew](https://grogpod.zone/2022-11-09-pineapple/)                  | Top Down Shooter      | 5.2         | 5.5         | 4          |              | 4.90      | 5      | 0.79    |
+| 28           | [Din's Curse](https://grogpod.zone/2022-11-23-madgod/)                              | Solo Dev              | 3.8         | 6.0         | 4.5        |              | 4.77      | 5      | 1.12    |
+| 29           | [Brotato](https://grogpod.zone/2023-08-16-the_last_spell/)                          | Top Down Shooter      | 6.2         | 6.5         | 4.5        | 1.1          | 4.58      | 5      | 2.48    |
+| 30           | [AK-xolotl](https://grogpod.zone/2023-11-08-akxolotl/)                              | Top Down Shooter      | 2.8         | 4.0         | 3          | 7            | 4.20      | 4      | 1.94    |
+| 31           | [Sword of the Stars: The Pit](https://grogpod.zone/2022-12-21-sots_the_pit/)        | Traditional Roguelike | 3.9         | 4.0         | 4.5        |              | 4.13      | 4      | 0.32    |
+| 32           | [Eldritch](http://grogpod.zone/2023-08-30-eldritch/)                                | Solo Dev              | 4.5         | 4.5         | 5          | 1.7          | 3.92      | 5      | 1.52    |
+| 33           | [Cargo Commander](https://grogpod.zone/2022-11-23-madgod/)                          | Platformer            | 5.3         | 3.0         | 3          |              | 3.77      | 3      | 1.33    |
+| 34           | [Low Magic Age](https://grogpod.zone/2023-03-29-low-magic-age/)                     | Squad Management      | 2.9         | 3.0         | 4          |              | 3.30      | 3      | 0.61    |
+| 35           | [Cataclysm: Dark Days Ahead](http://grogpod.zone/2023-09-27-cataclysm/)             | Traditional Roguelike | 1.2         | 5.0         | 5          | 0.1          | 2.83      | 3      | 2.55    |
+| 36           | [A Valley Without Wind](https://grogpod.zone/2022-11-09-pineapple/)                 | Platformer            | 2           | 4.5         | 2          |              | 2.83      | 2      | 1.44    |
+| 37           | [Hack, Slash, Loot](https://grogpod.zone/2022-11-09-pineapple/)                     | Traditional Roguelike | 2.4         | 2.0         | 3          |              | 2.47      | 2      | 0.50    |
+| 38           | [Realm of the Mad God](https://grogpod.zone/2022-11-23-madgod/)                     | Top Down Shooter      | 1           | 3.0         | 2.5        |              | 2.17      | 3      | 1.04    |
 
 
 
