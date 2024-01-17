@@ -2,8 +2,18 @@
 layout: post
 title: "Wildermyth"
 date: 2024-01-17
-file: 
-description: "
+file: https://grogpod.s3.us-west-2.amazonaws.com/wildermyth.mp3
+description: "Gather round children, it's story time! This week we're talking about the pop-up storybook RPG Wildermyth! We're fighting gorgons with poison blood, turning into wolf people, and replacing arms with pirate hooks. You know, the normal things you always read about in kids books. It's time to customize your coworkers, pick your pet, and save the lands from mechanical clockwork monsters!
+
+Next episode: Nightmare Reaper
+
+Contact us at grogpodzone@gmail.com!
+
+https://grogpod.zone
+
+Intro music: Wayne Shorter - Wild Flower
+
+Outro music: Wildermyth Overworld
 
 
 "
@@ -13,8 +23,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/wildermyth.jpeg
 thumbnail-img: /assets/img/wildermyth.jpeg
 share-img: /assets/img/wildermyth.jpeg
-duration: "1:03:40"
-length: 49911227
+duration: "1:04:46"
+length: 52476379
 tags: ["2019", squad management]
 ---
 
@@ -23,7 +33,7 @@ tags: ["2019", squad management]
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/wildermyth.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -36,7 +46,7 @@ tags: ["2019", squad management]
 
 ---
 
-
+Gather round children, it's story time! This week we're talking about the pop-up storybook RPG Wildermyth! We're fighting gorgons with poison blood, turning into wolf people, and replacing arms with pirate hooks. You know, the normal things you always read about in kids books. It's time to customize your coworkers, pick your pet, and save the lands from mechanical clockwork monsters!
 
 Next episode: Nightmare Reaper
 
@@ -44,9 +54,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music:
+Intro music: Wayne Shorter - Wild Flower
 
-Outro music: 
+Outro music: Wildermyth Overworld
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
