@@ -28,6 +28,7 @@ length: 52476379
 tags: ["2019", squad management]
 ---
 
+Gather round children, it's story time! This week we're talking about the pop-up storybook RPG Wildermyth! We're fighting gorgons with poison blood, turning into wolf people, and replacing arms with pirate hooks. You know, the normal things you always read about in kids books. It's time to customize your coworkers, pick your pet, and save the lands from mechanical clockwork monsters!
 
 
 
@@ -45,8 +46,6 @@ tags: ["2019", squad management]
 *  - rankings and final thoughts
 
 ---
-
-Gather round children, it's story time! This week we're talking about the pop-up storybook RPG Wildermyth! We're fighting gorgons with poison blood, turning into wolf people, and replacing arms with pirate hooks. You know, the normal things you always read about in kids books. It's time to customize your coworkers, pick your pet, and save the lands from mechanical clockwork monsters!
 
 Next episode: Nightmare Reaper
 
