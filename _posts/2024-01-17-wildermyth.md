@@ -41,9 +41,10 @@ Gather round children, it's story time! This week we're talking about the pop-up
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 ---
-*  - game stats
-*  - one sentence description
-*  - rankings and final thoughts
+* 1:29 - game stats
+* 2:23 - one sentence description
+* 53:58 - rankings and final thoughts
+* 1:01:10 - similar games
 
 ---
 
