@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nightmare Reaper"
-date: 2024-01-30
+date: 2024-01-31
 file: 
 description: "
 
@@ -10,9 +10,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/wildermyth.jpeg
-thumbnail-img: /assets/img/wildermyth.jpeg
-share-img: /assets/img/wildermyth.jpeg
+cover-img: /assets/img/nightmare.jpeg
+thumbnail-img: /assets/img/nightmare.jpeg
+share-img: /assets/img/nightmare.jpeg
 duration: "1:03:40"
 length: 49911227
 tags: ["2019", shooter]
@@ -44,9 +44,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music:
+Intro music: Charles Mingus - Orange Was the Color of Her Dress, Then Silk Blues
 
-Outro music: 
+Outro music: Andrew Hulshult - Lucid Mayhem
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
