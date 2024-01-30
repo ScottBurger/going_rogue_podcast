@@ -18,7 +18,7 @@ length: 49911227
 tags: ["2019", shooter]
 ---
 
-
+Reap and tear! This week we're DOOMing it up with the BOOMer shooter rogue Nightmare Reaper. We all go a little mad sometimes, but what better way to relieve that stress with some out-of-left-field minigames? Keep an eye out for the trumpet skeleton, platforming puzzles, and bolwing ball-launching shotguns. Oh and did I mention there was a chainsaw grappling hook? One more time for the folks in the back: chainsaw. grappling. hook.
 
 
 <div class="container">
