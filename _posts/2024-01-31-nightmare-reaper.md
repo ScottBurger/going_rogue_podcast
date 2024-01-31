@@ -43,6 +43,7 @@ Reap and tear! This week we're DOOMing it up with the BOOMer shooter rogue Night
 *  2:34 - one sentence description
 *  10:25 - our story begins
 *  1:21:29 - rankings and final thoughts
+*  1:27:50 - similar games
 
 ---
 
