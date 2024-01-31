@@ -56,7 +56,7 @@ The full combined ranking data can be found below:
 | 19           | [One Way Heroics](http://grogpod.zone/2023-09-13-one-way-heroics/)                  | Solo Dev              | 7.85        | 6.0         |            | 6.9          | 6.92      | 7      | 0.93    |
 | 20           | [Warsim: The Realm of Aslona](https://grogpod.zone/2023-03-01-warsim/)              | Solo Dev              | 7.2         | 5.0         | 8.5        |              | 6.90      | 7      | 1.77    |
 | 21           | [Cult of the Lamb](https://grogpod.zone/2023-07-19-cult-of-the-lamb/)               | Squad Management      | 6.4         | 7.0         | 7          |              | 6.80      | 7      | 0.35    |
-| 22           | [Nightmare Reaper](https://grogpod.zone/2024-01-30-nightmare-reaper/)               | Shooter               | 6.5         | 6.5         | 5.5        | 8.2          | 6.68      | 7      | 1.12    |
+| 22           | [Nightmare Reaper](https://grogpod.zone/2024-01-31-nightmare-reaper/)               | Shooter               | 6.5         | 6.5         | 5.5        | 8.2          | 6.68      | 7      | 1.12    |
 | 23           | [Stacklands](https://grogpod.zone/2023-01-18-stacklands/)                           | Deckbuilder           | 6.6         | 6.0         | 6.5        |              | 6.37      | 7      | 0.32    |
 | 24           | [Shattered Pixel Dungeon](https://grogpod.zone/2023-06-21-shattered-pixel-dungeon/) | Traditional Roguelike | 6.9         | 7.0         | 4.5        |              | 6.13      | 7      | 1.42    |
 | 25           | [Hand of Fate](https://grogpod.zone/2023-04-12-hand-of-fate/)                       | Deckbuilder           | 6.1         | 6.0         | 5.5        |              | 5.87      | 6      | 0.32    |
