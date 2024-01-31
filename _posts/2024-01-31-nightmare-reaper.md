@@ -39,9 +39,10 @@ Reap and tear! This week we're DOOMing it up with the BOOMer shooter rogue Night
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 ---
-*  - game stats
-*  - one sentence description
-*  - rankings and final thoughts
+*  1:17 - game stats
+*  2:34 - one sentence description
+*  10:25 - our story begins
+*  1:21:29 - rankings and final thoughts
 
 ---
 
