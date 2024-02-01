@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Against the Storm"
-date: 2024-02-27
+date: 2024-02-28
 file: 
 description: "
 
@@ -10,15 +10,17 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/wildermyth.jpeg
-thumbnail-img: /assets/img/wildermyth.jpeg
-share-img: /assets/img/wildermyth.jpeg
+cover-img: /assets/img/against_the_storm.jpeg
+thumbnail-img: /assets/img/against_the_storm.jpeg
+share-img: /assets/img/against_the_storm.jpeg
 duration: "1:03:40"
 length: 49911227
 tags: ["2022", squad management]
 ---
 
+Lousy Smarch weather!
 
+Man it's wet out there. Check me through will you?
 
 
 <div class="container">
