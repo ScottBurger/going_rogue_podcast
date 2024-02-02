@@ -15,7 +15,7 @@ thumbnail-img: /assets/img/against_the_storm.jpeg
 share-img: /assets/img/against_the_storm.jpeg
 duration: "1:03:40"
 length: 49911227
-tags: ["2022", squad management]
+tags: ["2022", colony sim]
 ---
 
 Lousy Smarch weather!
