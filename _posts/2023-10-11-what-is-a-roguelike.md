@@ -74,6 +74,8 @@ As promised, below you can find some of our notes referenced in this chonker of 
 
 Check out Scott's tangentially related [talk on The Data Science of Roguelikes here!](https://youtu.be/IliQZm5Itng)
 
+See how the genre has [evolved over time with our definitions timeline here.](https://github.com/ScottBurger/going_rogue_podcast/wiki/What-is-a-roguelike-database)
+
 Next episode: Rimworld
 
 
