@@ -20,6 +20,8 @@ tags: ["2022", colony sim]
 
 Lousy Smarch weather!
 
+Yes m'lord? Right-o. Work work.
+
 Man it's wet out there. Check me through will you?
 
 
