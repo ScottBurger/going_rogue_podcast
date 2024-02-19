@@ -24,7 +24,7 @@ thumbnail-img: /assets/img/owh.jpeg
 share-img: /assets/img/owh.jpeg
 duration: "01:13:36"
 length: 51270048 
-tags: ["2013", solo dev, traditional roguelike]
+tags: ["2013", solo dev, traditional roguelike, mystery dungeon]
 ---
 
 One way or another, we were going to play this hit indie JRPG roguelike! Its One Way Heroics week for this dimension, as we take a keen eye at some anime pixel mobs and try not to wall ourselves in with a creeping black wall of doom. We must move forwards, not backwards! Upwards not forwards! And always twirling, twirling, twirling towards the 2000 KM goal to save the kingdom from the dark dragon of doom.
