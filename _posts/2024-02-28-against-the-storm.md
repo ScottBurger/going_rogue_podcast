@@ -42,7 +42,7 @@ Man it's wet out there. Check me through will you?
 
 
 
-Next episode: xxxxx
+Next episode: Balatro
 
 Contact us at grogpodzone@gmail.com!
 
