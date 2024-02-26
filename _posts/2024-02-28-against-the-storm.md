@@ -18,7 +18,7 @@ length: 49911227
 tags: ["2022", colony sim]
 ---
 
-Lousy Smarch weather!
+Lousy Smarch weather! Come in from the cold and warm up with an episode on the recent hit citybuilder roguelite Against the Storm. We've got biscuits and pie, jerky, and a nice dry roof to keep your resolve high. 
 
 Yes m'lord? Right-o. Work work.
 
