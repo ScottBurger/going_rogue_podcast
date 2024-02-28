@@ -42,8 +42,8 @@ Lousy Smarch weather! Come in from the cold and warm up with an episode on the r
 * 1:19 - game stats
 * 3:30 - one sentence description
 * 9:30 - our story begins
-*  - rankings and final thoughts
-*  - similar games
+* 1:06:00 - rankings and final thoughts
+* 1:16:48 - similar games
 
 ---
 
