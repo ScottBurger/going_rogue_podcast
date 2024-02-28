@@ -2,7 +2,7 @@
 layout: post
 title: "Against the Storm"
 date: 2024-02-28
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/against_the_storm.mp3
 description: "Lousy Smarch weather! Come in from the cold and warm up with an episode on the recent hit citybuilder roguelite Against the Storm. We've got biscuits and pie, jerky, and a nice dry roof to keep your resolve high. There's lots to talk about between lizard happiness, a Queen that no one has confirmed exists or not, and everyone's favorite topic: supply chain logistics! Man it's wet out there. Check me through will you?
 
 Next episode: Balatro
