@@ -27,7 +27,7 @@ thumbnail-img: /assets/img/monster_train.jpeg
 share-img: /assets/img/monster_train.jpeg
 duration: "01:13:28"
 length: 58860812 
-tags: ["2020", deckbuilder, Guest - Joe Homes]
+tags: ["2020", deckbuilder, Guest Episode]
 ---
 We're on the Highway to roguelike deckbuilding Hell this week, riding a Crazy Train filled with demons, sentient blackberry bushes, and occultic Lumières! We are also joined by special guest Joe Homes from Cephalofair Games: publisher of the award-winning tabletop deckbuilding game Gloomhaven, so there will be at least one person here who knows what they're talking about in terms of game design. Come listen in on one of our highest rated games in a long while, as we discuss stategies to beat 4 story-tall gem gods and consume tasty, tasty, morsels. 
 
