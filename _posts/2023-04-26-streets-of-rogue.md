@@ -30,7 +30,7 @@ thumbnail-img: /assets/img/loop_hero.jpeg
 share-img: /assets/img/loop_hero.jpeg
 duration: "01:11:57"
 length: 49587264 
-tags: ["2019", "2021", sandbox rpg, solo dev, episode bundle, deckbuilder]
+tags: ["2019", "2021", sandbox rpg, solo dev, deckbuilder]
 ---
 
 THE OOZE! IT SPREADS! We have a surprise double-feature this time because we accidentally beat our planned episode of Streets of Rogue too quickly. It turns out the apes that run this podcast ooked too hard for the new mayoral election and won in a landslide. So to balance out the podcast, we're also talking about Devolver Digital's surprise roguelike hit Loop Hero! Join us to hear about drug-hunting robots, zombie apocalypses, and the heat death of the universe. Brother may I have some more loops?
