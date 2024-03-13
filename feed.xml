@@ -39,7 +39,7 @@ layout: null
         <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
         <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grogpod_logo_big.png" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grog_logo_2.png" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>{{ post.duration }} </itunes:duration>
       </item>
