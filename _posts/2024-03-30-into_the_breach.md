@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Into the Breach"
-date: 2024-03-27
+title: "Into the Breach (with Woody Ciskowski)"
+date: 2024-03-30
 file: 
 description: "
 
@@ -9,15 +9,17 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/balatro.jpeg
-thumbnail-img: /assets/img/balatro.jpeg
-share-img: /assets/img/balatro.jpeg
+cover-img: /assets/img/into_the_breach.jpeg
+thumbnail-img: /assets/img/into_the_breach.jpeg
+share-img: /assets/img/into_the_breach.jpeg
 duration: "1:31:38"
 length: 72421224 
-tags: ["2018", squad management]
+tags: ["2018", squad management, Guest Episode]
 ---
 
-T
+backdate to 3/27.
+
+We did it listeners, we saved the city! This week we revisit Subset Games with their hit mecha-tactics bug squisher puzzle roguelike: Into the Breach. 
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -37,15 +39,15 @@ T
 
 
 
-Next episode: xxxxx
+Next episode: Star of Providence
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Stanley Turrentine - June Bug
 
-Outro music: 
+Outro music: Ben Prunty - Into the Breach
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
