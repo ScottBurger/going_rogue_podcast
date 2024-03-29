@@ -21,8 +21,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/into_the_breach.jpeg
 thumbnail-img: /assets/img/into_the_breach.jpeg
 share-img: /assets/img/into_the_breach.jpeg
-duration: "1:31:38"
-length: 72421224 
+duration: "1:37:22"
+length: 1417437078 
 tags: ["2018", squad management, Guest Episode]
 ---
 
