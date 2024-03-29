@@ -22,7 +22,7 @@ cover-img: /assets/img/into_the_breach.jpeg
 thumbnail-img: /assets/img/into_the_breach.jpeg
 share-img: /assets/img/into_the_breach.jpeg
 duration: "1:37:22"
-length: 1417437078 
+length: 78912991
 tags: ["2018", squad management, Guest Episode]
 ---
 
