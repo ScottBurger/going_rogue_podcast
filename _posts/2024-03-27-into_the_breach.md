@@ -37,11 +37,11 @@ We did it listeners, we saved the city! This week we revisit Subset Games with t
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 ---
-*   - game stats
-*   - one sentence description
-*   - our story begins
-*   - rankings and final thoughts
-*   - similar games
+* 1:39 - game stats
+* 3:00 - one sentence description
+* 14:21 - our story begins
+* 1:15:49 - rankings and final thoughts
+* 1:28:50 - similar games
 
 ---
 
