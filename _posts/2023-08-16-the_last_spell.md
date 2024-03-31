@@ -32,7 +32,7 @@ thumbnail-img: /assets/img/last_spell.jpg
 share-img: /assets/img/last_spell.jpg
 duration: "01:27:11"
 length: 68232481
-tags: ["2023", squad management, solo dev, twin stick shooter]
+tags: ["2023", squad management, solo dev, top down shooter]
 ---
 
 Hold onto your Brotatoes! You demanded, we listened: listener request week is over and from the ashes of our submissions arose the bullet heaven Brotato and the tower defense zombie horde killhouse The Last Spell. We are also joined by a new full-time member of the podcast: previous guest Andrew Harshman! With so much content to cover, will we be able to channel our summoner energies together before the hour is up?
