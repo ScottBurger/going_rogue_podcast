@@ -42,7 +42,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: I Want More - Donny McCaslin
+Intro music: Time-Lapse City - GoGo Penguin
 
 Outro music: Tonal Dissonance - garoslaw
 
