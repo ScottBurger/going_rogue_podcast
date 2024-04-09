@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/into_the_breach.jpeg
-thumbnail-img: /assets/img/into_the_breach.jpeg
-share-img: /assets/img/into_the_breach.jpeg
+cover-img: /assets/img/providence.jpeg
+thumbnail-img: /assets/img/providence.jpeg
+share-img: /assets/img/providence.jpeg
 duration: "1:37:22"
 length: 78912991
 tags: ["2017", top down shooter]
