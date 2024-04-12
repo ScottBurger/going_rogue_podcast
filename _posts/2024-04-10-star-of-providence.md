@@ -60,6 +60,7 @@ Team D-13 were kind enough to give a quick Q&A on how Star of Providence came ab
 * 1:07:27 - rankings and final thoughts
 * 1:16:32 - similar games
 * 1:19:40 - upgrade terminal podcast shoutout
+
 ---
 
 
