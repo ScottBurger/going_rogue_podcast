@@ -2,7 +2,7 @@
 layout: post
 title: "Star of Providence"
 date: 2024-04-10
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/star-of-providence.mp3
 description: "Ghostly squeal! This week we're descending the floors of an ancient facility filled with ghosts, mages, machines, talking cats, and bullets! So, so many bullets. What else would you expect from the bullet hell game that is Star of Providence? A charming, NES-inspired modern throwback, Star of Providence puts us to the test with harrowing boss fights, secret endings, and more guns than you can shake a sword that shoots bullets at! 
 
 Team D-13 were kind enough to give a quick Q&A on how Star of Providence came about for us. Give it a look-see here!
