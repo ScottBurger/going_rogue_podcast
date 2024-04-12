@@ -7,17 +7,12 @@ description: "Ghostly squeal! This week we're descending the floors of an ancien
 
 Team D-13 were kind enough to give a quick Q&A on how Star of Providence came about for us. Give it a look-see here!
 
-2:24 - game stats
-
-3:30 - one sentence description
-
-19:58 - our story begins
-
-1:07:27 - rankings and final thoughts
-
-1:16:32 - similar games
-
-1:19:40 - upgrade terminal podcast shoutout
+1:52 - game stats
+2:52 - one sentence description
+19:20 - our story begins
+1:07:47 - rankings and final thoughts
+1:17:24 - similar games
+1:20:25 - upgrade terminal podcast shoutout
 
 Next episode: Returnal
 
@@ -54,12 +49,12 @@ Team D-13 were kind enough to give a quick Q&A on how Star of Providence came ab
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 
 ---
-* 2:24 - game stats
-* 3:30 - one sentence description
-* 19:58 - our story begins
-* 1:07:27 - rankings and final thoughts
-* 1:16:32 - similar games
-* 1:19:40 - upgrade terminal podcast shoutout
+* 1:52 - game stats
+* 2:52 - one sentence description
+* 19:20 - our story begins
+* 1:07:47 - rankings and final thoughts
+* 1:17:24 - similar games
+* 1:20:25 - upgrade terminal podcast shoutout
 
 ---
 
