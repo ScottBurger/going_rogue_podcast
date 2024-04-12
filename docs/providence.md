@@ -4,7 +4,7 @@
 
 Interview for the [GROGPOD Roguelike Podcast](https://grogpod.zone)
 
-See our other interviews with roguelike devs here
+[See our other interviews with roguelike devs here](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/000_interview_list.md)
 
 ## How did the four members of the team first meet? 
 Sup, thanks for reaching out!
