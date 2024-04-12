@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Star of Providence"
-date: 2024-04-12
+date: 2024-04-15
 file: 
 description: "
 "
@@ -15,6 +15,10 @@ duration: "1:37:22"
 length: 78912991
 tags: ["2017", top down shooter]
 ---
+
+Ghostly squeal! This week we're descending the floors of an ancient facility filled with ghosts, mages, machines, talking cats, and bullets! So, so many bullets. What else would you expect from the bullet hell game that is Star of Providence? A charming, NES-inspired modern throwback, Star of Providence puts us to the test with harrowing boss fights, secret endings, and more guns than you can shake a sword that shoots bullets at! 
+
+Team D-13 were kind enough to give a quick Q&A on how Star of Providence came about for us. [Give it a look-see here!](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/providence.md)
 
 
 <div class="container">
