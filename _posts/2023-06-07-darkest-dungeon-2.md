@@ -28,7 +28,7 @@ thumbnail-img: /assets/img/1940340_library_hero.jpg
 share-img: /assets/img/1940340_library_hero.jpg
 duration: "01:17:40"
 length: 60298789 
-tags: ["2023", squad management]
+tags: ["2023", squad management, early access]
 ---
 Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, you too can battle eldritch horrors beyond your comprehension! Listen in on another contentious episode where the hosts try to keep their stress levels below the meltdown threshold. 
 
