@@ -28,7 +28,7 @@ thumbnail-img: /assets/img/low_magic_age.jpeg
 share-img: /assets/img/low_magic_age.jpeg
 duration: "56:31"
 length: 38607444
-tags: ["2017", squad management]
+tags: ["2017", squad management, early access]
 ---
 
 Roll for initiative! This week's episode has us examining the world of Dungeons and Dragons through the DnD combat simulator Low Magic Age. Join us for dicussions on vancian magic, royalty free music overlaps with previous episodes, and summoner-based arena races! We put the pal back in paladin and wonder why it is that you can't make an Asamir chatoic evil.
