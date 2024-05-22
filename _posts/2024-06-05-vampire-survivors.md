@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vampire Survivors / Halls of Torment"
+title: "Vampire Survivors (with Woody Ciskowski)"
 date: 2024-06-05
 file: 
 description: "
@@ -9,12 +9,12 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/barony.jpg
-thumbnail-img: /assets/img/barony.jpg
-share-img: /assets/img/barony.jpg
+cover-img: /assets/img/vampire.jpeg
+thumbnail-img: /assets/img/vampire.jpeg
+share-img: /assets/img/vampire.jpeg
 duration: "1:22:53"
 length: 69737856
-tags: ["2024", deckbuilder, early access]
+tags: ["2021", top down shooter, Guest Episode]
 ---
 
 Chip chap chipchipchap! For our listener-requested episode this week, we are dungeon diving through Barony: the voxelized roguelike with split-screen co-op! Listen to our encounters with horrible gnomes, armies of human villagers, and Pac-Man ghost scouts. There's a lot to unpack from a game with just one axis of movement, be it spellcrafting, hunger management, commanding your army of the Zap Brigade against the minotaur, and navigating halls of rolling boulders. Lucky for you there's a robust tutorial system...if you survive! Drop in and listen or we'll drop you into The Underworld!
@@ -50,5 +50,5 @@ Intro music:
 Outro music: 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="xxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
