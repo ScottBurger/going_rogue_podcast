@@ -38,16 +38,15 @@ Chip chap chipchipchap! For our listener-requested episode this week, we are dun
 ---
 
 
-
-Next episode: 
+Next episode: Holocure: Save the Fans!
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Giorgio Gaslini - Conservatorismo Puro
 
-Outro music: 
+Outro music: William Davies‎‎ - The Beginning, Filippo Vicarelli - It's Raining Minotaurs
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
