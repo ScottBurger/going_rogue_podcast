@@ -9,7 +9,6 @@ You can find a [link to our custom RSS feed to point your pod-catching software 
 Find our podcast on your favorite platforms!
 
 * [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911)
-* [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw)
 * [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
 * [YouTube](https://www.youtube.com/@grogpod_roguelike_podcast)
 
