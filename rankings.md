@@ -40,7 +40,8 @@ The full combined ranking data can be found below:
 | 3            | [Balatro](https://grogpod.zone/2024-03-13-balatro/)                                 | Deckbuilder           | 8.0         | 9.5         | 9.5        | 7.9          | 8.73      | 9.0    | 0.90    |
 | 4            | [Dead Cells](https://grogpod.zone/2023-11-22-dead_cells/)                           | Platformer            | 9.4         | 9.5         |            | 6.9          | 8.59      | 9.5    | 1.49    |
 | 5            | [Monster Train](https://grogpod.zone/2023-05-24-monster_train/)                     | Deckbuilder           | 7.9         | 9.5         | 8.0        |              | 8.47      | 8.0    | 0.90    |
-| 6            | [Into the Breach](https://grogpod.zone/2024-03-27-into_the_breach/)                 | Squad Management      | 9.2         | 7.5         | 8.5        | 7.9          | 8.26      | 8.0    | 0.75    |
+| 6            | [Vampire Survivors](https://grogpod.zone/2024-06-05-vampire-survivors/)             | Top Down Shooter      | 9.0         | 8.0         | 8.5        | 8.1          | 8.40      | 8.5    | 0.45    |
+| 7            | [Into the Breach](https://grogpod.zone/2024-03-27-into_the_breach/)                 | Squad Management      | 9.2         | 7.5         | 8.5        | 7.9          | 8.26      | 8.0    | 0.75    |
 | 8            | [Luck Be A Landlord](https://grogpod.zone/2023-08-02-landlord/)                     | Deckbuilder           | 7.8         | 7.0         | 9.0        |              | 7.93      | 8.0    | 1.01    |
 | 9            | [Binding of Isaac: Rebirth](https://grogpod.zone/2022-10-26-isaac/)                 | Top Down Shooter      | 8.8         | 7.0         | 7.5        | 8.1          | 7.84      | 8.0    | 0.76    |
 | 10           | [Enter the Gungeon](https://grogpod.zone/2023-07-04-gungeon/)                       | Top Down Shooter      | 9.0         | 6.0         | 6.0        | 10.0         | 7.75      | 7.5    | 2.06    |
@@ -59,7 +60,7 @@ The full combined ranking data can be found below:
 | 23           | [Returnal](https://grogpod.zone/2022-11-23-madgod/)                                 | Shooter               | 8.6         | 6.5         | 5.5        |              | 6.87      | 6.5    | 1.58    |
 | 24           | [Wildermyth](https://grogpod.zone/2024-01-17-wildermyth/)                           | Squad Management      | 7.8         | 7.0         | 7.0        | 5.6          | 6.86      | 7.0    | 0.91    |
 | 25           | [Cult of the Lamb](https://grogpod.zone/2023-07-19-cult-of-the-lamb/)               | Squad Management      | 6.4         | 7.0         | 7.0        |              | 6.80      | 7.0    | 0.35    |
-| 26           | [Tales of Maj'Eyal](https://grogpod.zone/2024-02-14-tome/)                          | Traditional Roguelike | 9.0         | 7.5         | 6.5        | 3.1          | 6.53      | 7.0    | 2.49    |
+| 26           | [Tales of Maj'Eyal](https://grogpod.zone/2024-02-14-tome/)                          | Traditional Roguelike | 8.9         | 7.5         | 6.5        | 3.1          | 6.51      | 7.0    | 2.46    |
 | 27           | [Stacklands](https://grogpod.zone/2023-01-18-stacklands/)                           | Deckbuilder           | 6.6         | 6.0         | 6.5        |              | 6.37      | 6.5    | 0.32    |
 | 28           | [Barony](https://grogpod.zone/2024-05-08-barony/)                                   | Dungeon Crawler       | 7.0         | 6.5         | 6.0        | 5.8          | 6.31      | 6.5    | 0.55    |
 | 29           | [Shattered Pixel Dungeon](https://grogpod.zone/2023-06-21-shattered-pixel-dungeon/) | Traditional Roguelike | 7.0         | 7.0         | 4.5        |              | 6.17      | 7.0    | 1.44    |
