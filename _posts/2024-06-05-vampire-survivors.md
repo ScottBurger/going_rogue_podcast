@@ -29,11 +29,11 @@ Adoro l'aglio! The time has come to suck the blood out one of the most popular r
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 1:09 - game stats
-* 3:00 - one sentence description
-* 6:50 - our story begins
-* 1:07:48 - rankings and final thoughts
-* 1:15:18 - similar games
+* 2:42 - game stats
+* 7:25 - one sentence description
+* 18:33 - our story begins
+* 1:06:35 - rankings and final thoughts
+* 1:14:25 - similar games
 
 ---
 
