@@ -2,7 +2,7 @@
 layout: post
 title: "Vampire Survivors (with Woody Ciskowski)"
 date: 2024-06-05
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/vampire-survivors.mp3
 description: "
 
 "
@@ -12,16 +12,17 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/vampire.jpeg
 thumbnail-img: /assets/img/vampire.jpeg
 share-img: /assets/img/vampire.jpeg
-duration: "1:22:53"
-length: 69737856
+duration: "1:22:14"
+length: 68498363 
 tags: ["2021", top down shooter, Guest Episode]
 ---
 
-Chip chap chipchipchap! For our listener-requested episode this week, we are dungeon diving through Barony: the voxelized roguelike with split-screen co-op! Listen to our encounters with horrible gnomes, armies of human villagers, and Pac-Man ghost scouts. There's a lot to unpack from a game with just one axis of movement, be it spellcrafting, hunger management, commanding your army of the Zap Brigade against the minotaur, and navigating halls of rolling boulders. Lucky for you there's a robust tutorial system...if you survive! Drop in and listen or we'll drop you into The Underworld!
+Adoro l'aglio! The time has come to suck the blood out one of the most popular roguelikes of all time: Vampire Survivors! A wild tale of a 5-dollar indie game that created its own sub-genre of bullet-heaven one-stick shooters, Vampire Survivors is nothing short of the gamedev dream. We celebrate bizarre Italian nomenclature with returning guest Woody and try to suss out what could possibly be the plot of a Vampire Survivors tv show. Grab some Tirajisú for dessert and strap in for a tasty treat of a game, but just keep an eye out for a gigantic Katamari of skeletons looking to run you over.
+
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/vampire-survivors.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -33,7 +34,6 @@ Chip chap chipchipchap! For our listener-requested episode this week, we are dun
 * 6:50 - our story begins
 * 1:07:48 - rankings and final thoughts
 * 1:15:18 - similar games
-* 1:16:36 - listener email from the Wildermyth developers!
 
 ---
 
