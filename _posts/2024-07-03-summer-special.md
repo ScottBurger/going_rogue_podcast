@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Dreams"
+title: "2024 Summer Special - Roguelike Music Fest and listener emails"
 date: 2024-07-03
 file: 
 description: "
@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/into_the_breach.jpeg
 share-img: /assets/img/into_the_breach.jpeg
 duration: "1:37:22"
 length: 78912991
-tags: ["1998", mystery dungeon, traditional roguelike]
+tags: ["2024", grogpod, mail sack]
 ---
 
 
