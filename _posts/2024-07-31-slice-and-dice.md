@@ -8,12 +8,12 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/jupiter.jpg
-thumbnail-img: /assets/img/jupiter.jpg
-share-img: /assets/img/jupiter.jpg
+cover-img: /assets/img/slice.jpg
+thumbnail-img: /assets/img/slice.jpg
+share-img: /assets/img/slice.jpg
 duration: "1:37:22"
 length: 78912991
-tags: ["2021", solo dev, deckbuilder]
+tags: ["2021", solo dev, deckbuilder, dungeon crawler]
 ---
 
 Yahtzee!
