@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/slice.jpg
 share-img: /assets/img/slice.jpg
 duration: "1:37:22"
 length: 78912991
-tags: ["2021", solo dev, deckbuilder, dungeon crawler]
+tags: ["2021", solo dev, deckbuilder, dungeon crawler, mobile game]
 ---
 
 Yahtzee!
