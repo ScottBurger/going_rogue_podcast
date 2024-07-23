@@ -14,7 +14,7 @@ thumbnail-img: /assets/img/vampire.jpeg
 share-img: /assets/img/vampire.jpeg
 duration: "1:22:14"
 length: 68498363 
-tags: ["2021", top down shooter, Guest Episode]
+tags: ["2021", top down shooter, mobile game, Guest Episode]
 ---
 
 Adoro l'aglio! The time has come to suck the blood out one of the most popular roguelikes of all time: Vampire Survivors! A wild tale of a 5-dollar indie game that created its own sub-genre of bullet-heaven one-stick shooters, Vampire Survivors is nothing short of the gamedev dream. We celebrate bizarre Italian nomenclature with returning guest Woody and try to suss out what could possibly be the plot of a Vampire Survivors tv show. Grab some Tirajisú for dessert and strap in for a tasty treat of a game, but just keep an eye out for a gigantic Katamari of skeletons looking to run you over.
