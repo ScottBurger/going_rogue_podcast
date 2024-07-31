@@ -30,7 +30,7 @@ It is a good day to dice! This week we polish up some D6's for the dungeon crawl
 ---
 * 1:46 - game stats
 * 3:27 - one sentence description
-* 20:15 - our story begins (??)
+* 18:00 - our story begins (??)
 * 1:02:39 - rankings and final thoughts
 * 1:10:04 - similar games
 
@@ -49,5 +49,5 @@ Intro music: Thelonius Monk - April in Paris
 Outro music: Louigi Verona - Ancient Books of Magic
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEJJJdoTllo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
