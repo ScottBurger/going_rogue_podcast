@@ -16,7 +16,9 @@ length: 59842459
 tags: ["2017", deckbuilder]
 ---
 
-50th episode spectacular
+Caw caww!! It's almost every episode that we reference Slay the Spire in some way, so what better time to finally cover it for the podcast than on our 50th episode spectacular?! Listen in as some Spire pros educate some Ascension 0 players on skills, powers, and attacks. Every card is a block card if you try hard enough in this episode, but is Claw, in fact, Law? Who watches The Watcher? Why didn't my Fairy Bottle trigger? With about 1,200 hours of gameplay under our Champion Belts, surely we can Slay these questions along with the beating of that hideous Heart!
+
+
 
 
 <div class="container">
@@ -38,15 +40,15 @@ tags: ["2017", deckbuilder]
 
 
 
-Next episode: ???????????
+Next episode: Void Bastards
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Dave Brubeck - Take Five
 
-Outro music: 
+Outro music: Clark Aboud - Exordium, The Guardian Emerges
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
