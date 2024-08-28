@@ -30,11 +30,19 @@ Caw caww!! It's almost every episode that we reference Slay the Spire in some wa
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 1:46 - game stats
-* 3:27 - one sentence description
-* 18:00 - our story begins (??)
-* 1:02:39 - rankings and final thoughts
-* 1:10:04 - similar games
+* 2:24 - game stats
+* 3:33 - one sentence description
+* 12:37 - our story begins
+* 23:32 - the characters and archetypes
+* 47:20 - general gameplay
+* 52:00 - ascension mode
+* 1:03:00 - ideal win percentage
+* 1:08:00 - Slay the Spire 2 wishlist
+* 1:11:52 - Downfall
+* 1:16:00 - music and art
+* 1:18:50 - victory...?
+* 1:26:46 - rankings and final thoughts
+* 1:44:57 - similar games
 
 ---
 
