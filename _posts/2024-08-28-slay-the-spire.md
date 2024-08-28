@@ -2,7 +2,7 @@
 layout: post
 title: "Slay the Spire"
 date: 2024-08-28
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/slay-the-spire.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,19 +11,19 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/spire.jpg
 thumbnail-img: /assets/img/spire.jpg
 share-img: /assets/img/spire.jpg
-duration: "1:15:06"
-length: 59842459 
+duration: "1:53:28"
+length: 91846292 
 tags: ["2017", deckbuilder]
 ---
 
-Caw caww!! It's almost every episode that we reference Slay the Spire in some way, so what better time to finally cover it for the podcast than on our 50th episode spectacular?! Listen in as some Spire pros educate some Ascension 0 players on skills, powers, and attacks. Every card is a block card if you try hard enough in this episode, but is Claw, in fact, Law? Who watches The Watcher? Why didn't my Fairy Bottle trigger? With about 1,200 hours of gameplay under our Champion Belts, surely we can Slay these questions along with the beating of that hideous Heart!
+Caw caww!! It's almost every episode that we reference Slay the Spire in some way, so what better time to finally cover it for the podcast than on our 50th episode spectacular?! Listen in as some Spire pros educate some Ascension 0 players on skills, powers, potions, relics and attacks. Every card is a block card if you try hard enough in this episode, but is Claw, in fact, Law? Who watches The Watcher? Why didn't my Fairy Bottle trigger? With about 1,200 hours of gameplay under our Champion Belts, surely we can Slay these questions along with the beating of that hideous Heart! But will this game be the one that finally ascends the Spire that is our rankings list? You'll have to tune in to our longest (and therefore highest quality) episode to date! Or just skip ahead to the rankings timestamp with those fancy Wing Boots of yours.
 
 
 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/slay-the-spire.mp3" type="audio/mpeg">
   </audio>
 </div>
 
