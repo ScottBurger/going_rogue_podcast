@@ -10,8 +10,10 @@ Find our podcast on your favorite platforms!
 
 * [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911)
 * [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
-* [YouTube](https://www.youtube.com/@grogpod_roguelike_podcast)
-  
+* [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0)
+
+
+## Other Stuff
 * [Steam Curator](https://store.steampowered.com/curator/43937063-GROGPOD)
 * [Mastodon](https://mastodon.gamedev.place/@grogpod)
 
