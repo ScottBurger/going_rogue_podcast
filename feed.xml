@@ -15,7 +15,7 @@ layout: null
     
     <link>{{ '' | absolute_url }}</link>
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grog_logo_itunes.png" />
+    <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grog_logo_itunes_3k.png" />
     <language>{{ site.lang }}</language>
     <itunes:category text="Leisure">
       <itunes:category text="Video Games"/>
@@ -39,7 +39,7 @@ layout: null
         <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
         <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
-        <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grog_logo_itunes.png" />
+        <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grog_logo_itunes_3k.png" />
         <itunes:explicit>yes</itunes:explicit>
         <itunes:duration>{{ post.duration }} </itunes:duration>
       </item>
