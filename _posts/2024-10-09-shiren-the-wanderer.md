@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/spire.jpg
 share-img: /assets/img/spire.jpg
 duration: "1:15:06"
 length: 59842459 
-tags: ["2017", deckbuilder]
+tags: ["1995", mystery dungeon, traditional roguelike]
 ---
 
 50th episode spectacular
