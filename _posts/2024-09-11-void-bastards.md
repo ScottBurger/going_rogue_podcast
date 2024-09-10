@@ -2,26 +2,26 @@
 layout: post
 title: "Void Bastards"
 date: 2024-09-11
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/void-bastards.mp3
 description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/spire.jpg
-thumbnail-img: /assets/img/spire.jpg
-share-img: /assets/img/spire.jpg
-duration: "1:15:06"
-length: 59842459 
-tags: ["2017", deckbuilder]
+cover-img: /assets/img/void_bastards.jpg
+thumbnail-img: /assets/img/void_bastards.jpg
+share-img: /assets/img/void_bastards.jpg
+duration: "1:20:05"
+length: 64179697 
+tags: ["2019", shooter]
 ---
 
-50th episode spectacular
+Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for derelict spaceship looting zaniness with Void Bastards! A 2.5D space shooter with more mutated freaks than the typical bus stop in Yoker, we try to appease the voice from the Stanley Parable with some bureaucratic busywork in the form of gun shooting. All the while fending off space pirates, space whales, and assessing if that gas station sandwhich you just spent your credits on is or is not going to give you a parasite to start talking with a Glaswegian accent.
 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/void-bastards.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -38,7 +38,7 @@ tags: ["2017", deckbuilder]
 
 
 
-Next episode: ???????????
+Next episode: Inscryption
 
 Contact us at grogpodzone@gmail.com!
 
