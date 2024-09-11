@@ -28,11 +28,11 @@ Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for dere
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 1:46 - game stats
-* 3:27 - one sentence description
-* 18:00 - our story begins (??)
-* 1:02:39 - rankings and final thoughts
-* 1:10:04 - similar games
+* 1:19 - game stats
+* 2:33 - one sentence(?) description
+* 10:45 - our story begins
+* 1:03:48 - rankings and final thoughts
+* 1:12:37 - similar games
 
 ---
 
