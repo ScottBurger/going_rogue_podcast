@@ -16,7 +16,7 @@ length: 64179697
 tags: ["2019", shooter]
 ---
 
-Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for derelict spaceship looting zaniness with Void Bastards! A 2.5D space shooter with more mutated freaks than the typical bus stop in Yoker, we try to appease the voice from the Stanley Parable with some bureaucratic busywork in the form of gun shooting. All the while fending off space pirates, space whales, and assessing if that gas station sandwich you just spent your credits on is or is not going to give you a parasite to start talking with a Glaswegian accent.
+Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for derelict spaceship looting zaniness with Void Bastards! A 2.5D space shooter with more mutated freaks than the typical bus stop in Yoker, we try to appease the voice from the Stanley Parable with some bureaucratic busywork in the form of gun shooting. All the while fending off space pirates, space whales, and assessing if that gas station sandwich you just spent your credits on is or is not going to give you a parasite to start talking with a Glaswegian accent, aye?
 
 
 <div class="container">
@@ -49,5 +49,5 @@ Intro music: Chip Whickham - Space Walk
 Outro music: Ryan Roth - Walk the Plank!
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FWiXSBDWaUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
