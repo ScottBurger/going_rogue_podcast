@@ -20,7 +20,7 @@ Woody Ciskowski - Co-host emeritus of the [Ultra64/Wii-Universe podcast](https:/
 
 Dahlia Tolleth - All around cool person
 
-Joe Homes - Board game geek
+Joe Homes - Games industry vet, Believer Entertainment
 
 Daniru17 - [Twitch streamer](https://m.twitch.tv/daniru17/home)
 
