@@ -17,8 +17,11 @@ Andrew Harshman - dnd, 40k, minis, metal, and occasionally minis made of metal. 
 [Guest epidoses can be found here](https://grogpod.zone/tags/#Guest%20Episode)
 
 Woody Ciskowski - Co-host emeritus of the [Ultra64/Wii-Universe podcast](https://ultra64podcast.podbean.com/)
+
 Dahlia Tolleth - All around cool person
+
 Joe Homes - Board game geek
+
 Daniru17 - [Twitch streamer](https://m.twitch.tv/daniru17/home)
 
 
