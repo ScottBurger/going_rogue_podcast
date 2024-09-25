@@ -28,14 +28,14 @@ tags: ["2017", deckbuilder, honorary rogue, Guest Episode]
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 4:06 - game stats
-* 6:20 - final warning for spoilers!!!
-* 6:59 - one sentence description and honorary roguelike candidacy
-* 15:45 - act 1: our story begins
-* 34:55 - act 2
-* 57:16 - act 3 and finale
-* 1:23:24 - rankings and final thoughts
-* 1:34:50 - similar games
+* 3:45 - game stats
+* 5:50 - final warning for spoilers!!!
+* 6:44 - one sentence description and honorary roguelike candidacy
+* 15:19 - act 1: our story begins
+* 34:28 - act 2
+* 55:58 - act 3 and finale
+* 1:24:11 - rankings and final thoughts
+* 1:36:00 - similar games
 
 ---
 
