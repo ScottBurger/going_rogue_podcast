@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/inscryption.jpg
 share-img: /assets/img/inscryption.jpg
 duration: "1:43:49"
 length: 84205725 
-tags: ["2017", deckbuilder, honorary rogue, Guest Episode]
+tags: ["2021", deckbuilder, honorary rogue, Guest Episode]
 ---
 
 (Play along for now) Ah yes Inscryption! A completely normal game of deckbuilding between you and a crazed lunatic in a desolate cabin. A winner of numerous game awards for ... totally normal reasons ... we celebrate the end of Spooktember with sacrificing squirrels for blood to feed our science experiment grizzly bears. (Hit the download button) You're also looking at your podcast feed thinking "ah but this isn't a roguelike game!" You might be right, but at least a solid third of this game is, and we felt it important and interesting enough to round up to being an honorary inclusion in the conversation. (Rate the podcast 5 stars) That being said, this is a completely spoiler heavy episode! So if by some happenstance you haven't played it, we strongly recommend you do so before listening. Don't fiddle with that shackle around your wrist, we have some Transcending to do!
