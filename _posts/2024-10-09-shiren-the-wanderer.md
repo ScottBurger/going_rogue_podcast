@@ -28,18 +28,18 @@ Bam! It's listener request week again and this time we're blowing the dust out o
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 2:39 - game stats
-* 5:14 - one sentence description
-* 19:53 - our story begins
-* 32:50 - dungeon clearing strategy
-* 41:47 - metaprogression
-* 45:09 - ending and late game, NPCs
-* 1:00:24 - pokemon mystery dungeon
-* 1:05:00 - item strategy
-* 1:12:08 - Fay's puzzle dungeon
+* 2:02 - game stats
+* 4:38 - one sentence description
+* 18:54 - our story begins
+* 30:09 - dungeon clearing strategy
+* 41:37 - metaprogression
+* 45:00 - ending and late game, NPCs
+* 1:00:28 - pokemon mystery dungeon
+* 1:05:42 - item strategy
+* 1:11:55 - Fay's puzzle dungeon
 * 1:18:20 - Shiren 6
-* 1:26:51 - rankings and final thoughts
-* 1:44:45 - similar games
+* 1:28:04 - rankings and final thoughts
+* 1:46:30 - similar games
 
 ---
 
