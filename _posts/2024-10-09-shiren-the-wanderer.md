@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/shiren_grid.jpg
 share-img: /assets/img/shiren_grid.jpg
 duration: "1:54:51"
 length: 90165047  
-tags: ["1995", mystery dungeon, traditional roguelike, Guest: Helen Gagther]
+tags: ["1995", mystery dungeon, traditional roguelike, Guest Episode]
 ---
 
 Bam! It's listener request week again and this time we're blowing the dust out of our SNES cartridges to play Mystery Dungeon: Shiren the Wanderer! A game with a long legacy of nostalgia and fanning the flames of the Mystery Dungeon franchise from a Dragon Quest spinoff, Shiren also comes in a dual-screen form for the Nintendo DS. So for our first console-exclusive we talk about the 1990s landscape of traditional roguelikes, pokemon mystery dungeon games, dirty cheating by route of save states, and really celebrate the first official foray into the Mystery Dungeon franchise for the podcast. That little monster ringing the bell sound you hear is the summoning for us to cover some more of these games in the future for sure!
