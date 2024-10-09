@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mystery Dungeon: Shiren the Wanderer (with Helen/Gagther)"
+title: "Mystery Dungeon: Shiren the Wanderer (with Helen Gagther)"
 date: 2024-10-09
 file: https://grogpod.s3.us-west-2.amazonaws.com/shiren.mp3
 description: "
