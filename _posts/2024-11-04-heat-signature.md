@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/shiren_grid.jpg
-thumbnail-img: /assets/img/shiren_grid.jpg
-share-img: /assets/img/shiren_grid.jpg
+cover-img: /assets/img/heat_signature.jpg
+thumbnail-img: /assets/img/heat_signature.jpg
+share-img: /assets/img/heat_signature.jpg
 duration: "1:54:51"
 length: 90165047  
 tags: ["2017", top-down shooter]
