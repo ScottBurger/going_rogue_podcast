@@ -2,7 +2,7 @@
 layout: post
 title: "Heat Signature"
 date: 2024-11-06
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/heat_signature.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,17 +11,17 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/heat_signature.jpg
 thumbnail-img: /assets/img/heat_signature.jpg
 share-img: /assets/img/heat_signature.jpg
-duration: "1:54:51"
-length: 90165047  
+duration: "1:31:50"
+length: 76580904 
 tags: ["2017", top-down shooter]
 ---
 
-Glitch or Treat! On the final day of Space Halloween we dive deep into an acidy nebula of factions in dire need of some liberation.
+Glitch or Treat! On the final day of Space Halloween we dive deep into an acidy nebula of warring factions in dire need of some liberation. The Foundry, The Glitchers, Offworld Security, and Sovereign are vying for control, but they didn't account for one thing: you. Enter Heat Signature: the tense, tactical, turn-based puzzle shooter leveraging the use of teleporters, time-slowing devices, bullet-reflecting shields, and rusty pipe wrenches. Join us as we make embark on Mistake-level missions, crash some space ships (for liberation purposes that is) and stand in awe of the real legends exacting their revenge with only 10 minutes to live.
 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/heat_signature.mp3" type="audio/mpeg">
   </audio>
 </div>
 
@@ -31,13 +31,7 @@ Glitch or Treat! On the final day of Space Halloween we dive deep into an acidy 
 * 2:02 - game stats
 * 4:38 - one sentence description
 * 18:54 - our story begins
-* 30:09 - dungeon clearing strategy
-* 41:37 - metaprogression
-* 45:00 - ending and late game, NPCs
-* 1:00:28 - pokemon mystery dungeon
-* 1:05:42 - item strategy
-* 1:11:55 - Fay's puzzle dungeon
-* 1:18:20 - Shiren 6
+* xx:xx - ending spoilers
 * 1:28:04 - rankings and final thoughts
 * 1:46:30 - similar games
 
@@ -56,5 +50,5 @@ Intro music: Artemis - Lights Away From Home
 Outro music: John Halpart - Quantum Immortality
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OTsf8s-WDyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
