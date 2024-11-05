@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heat Signature"
-date: 2024-11-05
+date: 2024-11-06
 file: 
 description: "
 "
@@ -45,7 +45,7 @@ Glitch or Treat! On the final day of Space Halloween we dive deep into an acidy 
 
 
 
-Next episode: Gunfire Reborn?
+Next episode: World of Horror
 
 Contact us at grogpodzone@gmail.com!
 
