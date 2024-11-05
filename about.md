@@ -24,6 +24,8 @@ Joe Homes - Games industry veteran at Believer Entertainment
 
 Daniru17 - [Twitch streamer](https://m.twitch.tv/daniru17/home)
 
+Helen - [Mystery Dungeon expert](https://twitter.com/gagther)
+
 
 ## What is a Roguelike?
 
