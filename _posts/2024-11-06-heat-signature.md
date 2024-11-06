@@ -45,7 +45,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: Artemis - Lights Away From Home
+Intro music: Horace Silver - Liberated Brother
 
 Outro music: John Halpart - Quantum Immortality
 
