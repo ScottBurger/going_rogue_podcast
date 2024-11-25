@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "World of Horror"
-date: 2024-11-20
+date: 2024-11-26
 file: 
 description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/heat_signature.jpg
-thumbnail-img: /assets/img/heat_signature.jpg
-share-img: /assets/img/heat_signature.jpg
+cover-img: /assets/img/world_of_horror.jpg
+thumbnail-img: /assets/img/world_of_horror.jpg
+share-img: /assets/img/world_of_horror.jpg
 duration: "1:31:50"
 length: 76580904 
 tags: ["2020", solo dev]
@@ -45,9 +45,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: Artemis - Lights Away From Home
+Intro music: Pucho & The Latin Soul Brothers - Slippin' Into Darkness
 
-Outro music: John Halpart - Quantum Immortality
+Outro music: World of Horror OST - School Combat
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
