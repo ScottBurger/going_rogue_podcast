@@ -49,5 +49,5 @@ Intro music: Pucho & The Latin Soul Brothers - Slippin' Into Darkness
 Outro music: World of Horror OST - School Combat
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2dliKXTitDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
