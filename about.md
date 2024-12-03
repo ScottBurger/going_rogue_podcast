@@ -33,6 +33,10 @@ If you've never heard of roguelike games before, strap in for a fun and widely v
 
 But don't take our word for it! Defining the genre is a historically tricky problem, dating all the way back to the era of UseNet. [Check out some examples of how people have been thinking about the genre over time here](https://github.com/ScottBurger/going_rogue_podcast/wiki/What-is-a-roguelike-database).
 
+## What is a "GROGPOD"?
+
+Originally the podcast was titled the "Going ROgue Gaming PODcast", with the idea of covering rogue games of all sorts, but with the option of "going rogue" onto other game genres as well. It turned out to be a mouthful and awful for SEO purposes, so we shortened it to GROGPOD. Not only does it optimize for weirdness, but if you use your imagination you can just assume it means something like "ROG-POD" or "Roguelike-Podcast", with an extra floating G that could stand for anything your heart desires. "Great Roguelike Podcast", "Good Roguelike Podcast" or "Garbage Roguelike Podcast" depending on how poorly one of the hosts rated your favorite game.
+
 ## Show Me The Data!
 
 If you're reading this far, you're probably interested in the data we use to drive the show. [You can find all of our historical data snapshots on rogue-type games here](https://github.com/ScottBurger/going_rogue_podcast/wiki/Roguelike-Steam-Dataset).
