@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Risk of Rain 2 (with Woody Ciskowski)"
+title: "Risk of Rain 2"
 date: 2024-12-06
 file: 
 description: "
@@ -8,12 +8,12 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/heat_signature.jpg
-thumbnail-img: /assets/img/heat_signature.jpg
-share-img: /assets/img/heat_signature.jpg
+cover-img: /assets/img/risk2.jpg
+thumbnail-img: /assets/img/hrisk2.jpg
+share-img: /assets/img/risk2.jpg
 duration: "1:31:50"
 length: 76580904 
-tags: ["2019", shooter, Guest Episode]
+tags: ["2019", shooter]
 ---
 
 In threeeee deeeee
@@ -45,9 +45,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: Artemis - Lights Away From Home
+Intro music: Seatbelts - "Tank!"
 
-Outro music: John Halpart - Quantum Immortality
+Outro music: Chris Christodoulou - …con lentitud poderosa 
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
