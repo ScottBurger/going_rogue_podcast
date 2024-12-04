@@ -9,7 +9,7 @@ explicit: "yes"
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/risk2.jpg
-thumbnail-img: /assets/img/hrisk2.jpg
+thumbnail-img: /assets/img/risk2.jpg
 share-img: /assets/img/risk2.jpg
 duration: "1:34:14"
 length: 67577808 
