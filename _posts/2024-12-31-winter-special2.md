@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/heat_signature.jpg
-thumbnail-img: /assets/img/heat_signature.jpg
-share-img: /assets/img/heat_signature.jpg
+cover-img: /assets/img/paxwest.jpg
+thumbnail-img: /assets/img/paxwest.jpg
+share-img: /assets/img/paxwest.jpg
 duration: "1:21:37"
 length: 74710909 
 tags: ["2024", grogpod, interview]
@@ -44,6 +44,7 @@ In threeeee deeeee
 
 ---
 
+[See the "What is a Souls-like" debate club full video here](https://www.youtube.com/watch?v=tkX-CoQicVs)
 
 
 Next episode: Season 3 starts fresh with a mystery game!
