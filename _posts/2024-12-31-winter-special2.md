@@ -16,7 +16,7 @@ length: 74710909
 tags: ["2024", grogpod, interview]
 ---
 
-In threeeee deeeee
+The winter special episode is here! This week I turn back the clock 3 months to a number of interviews I did with developers and panelists at PAX West here in Seattle. A ton of fun, I got to talk to a lot of really cool and fun people who entertained my nonsense questions. With so many great games played and talked about, I'm already penciling out my plans for next year's possibilities! Check the timestamps below for interviews with friends of all sorts and their games and studios.
 
 
 <div class="container">
@@ -32,7 +32,7 @@ In threeeee deeeee
 * 9:11 - Vampire Survivors tournament champion interview with Alan
 * 14:58 - Slay the spire board game playtest with Nathan and Erin
 * 22:17 - Barony with Josiah Colborn from Turning Wheel Games
-* 33:56 - "What is a rogue-like?" with Jenna Stoeber and Anica Cihla
+* 33:56 - "What is a rogue-like?" with Jenna Stoeber and Anica Cihla, [see their "What Defines A Soulslike?" panel VOD here](https://www.youtube.com/watch?v=tkX-CoQicVs)
 * 41:30 - Rogue Climber with Christian and Eric from Imaginary Game Studios
 * 46:04 - AO: Containment Breach with Jules aka Prismatix-
 * 49:52 - Ultra Mega Cats
@@ -43,8 +43,6 @@ In threeeee deeeee
 * 1:17:37 - Show wind down
 
 ---
-
-[See the "What is a Souls-like" debate club full video here](https://www.youtube.com/watch?v=tkX-CoQicVs)
 
 
 Next episode: Season 3 starts fresh with a mystery game!
