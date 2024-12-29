@@ -30,7 +30,7 @@ The winter special episode is here! This week I turn back the clock 3 months to 
 ---
 * 4:18 - Live on the streets!
 * 9:11 - Vampire Survivors tournament champion interview with Alan
-* 14:58 - Slay the spire board game playtest with Nathan and Erin
+* 14:58 - Slay the Spire board game playtest with Nathan and Erin
 * 22:17 - Barony with Josiah Colborn from Turning Wheel Games
 * 33:56 - "What is a rogue-like?" with Jenna Stoeber and Anica Cihla, [see their "What Defines A Soulslike?" panel VOD here](https://www.youtube.com/watch?v=tkX-CoQicVs)
 * 41:30 - Rogue Climber with Christian and Eric from Imaginary Game Studios
