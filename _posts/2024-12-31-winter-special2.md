@@ -45,7 +45,7 @@ The winter special episode is here! This week I turn back the clock 3 months to 
 ---
 
 
-Next episode: Season 3 starts fresh with a mystery game!
+Next episode: Season 3 starts fresh with a mystery game!!
 
 
 Contact us at grogpodzone@gmail.com!
