@@ -15,8 +15,9 @@ jobs:
           -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
           jekyll/builder:$JEKYLL_VERSION /bin/bash -c "\
-          apk add --no-cache ruby=2.7.8-r0 ruby-dev build-base && \
-          gem install bundler -v '~> 2.3.0' && \
+          apk update && \
+          apk add --no-cache ruby=2.5.9-r0 ruby-dev=2.5.9-r0 ruby-bundler build-base && \
+          bundle config set --local path 'vendor/bundle' && \
           bundle install && \
           chmod 777 /srv/jekyll && \
           jekyll build --future"
