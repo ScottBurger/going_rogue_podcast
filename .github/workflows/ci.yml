@@ -1,4 +1,3 @@
-
 name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
@@ -13,4 +12,4 @@ jobs:
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "gem update --system && chmod 777 /srv/jekyll && jekyll build --future"
+          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "apk add --no-cache ruby=3.1.0 && gem update --system && chmod 777 /srv/jekyll && jekyll build --future"
