@@ -1,4 +1,3 @@
-
 name: Beautiful Jekyll CI
 on: [push, pull_request]
 jobs:
@@ -7,10 +6,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      
       - name: Build the site in the jekyll/builder container
         run: |
           export JEKYLL_VERSION=3.8
           docker run \
-          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          -v ${{ github.workspace }}:/srv/jekyll \
+          -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "apk add --no-cache ruby-full && gem update --system && chmod 777 /srv/jekyll && jekyll build --future"
+          jekyll/builder:$JEKYLL_VERSION /bin/bash -c "\
+          apk add --no-cache ruby=2.7.8-r0 ruby-dev build-base && \
+          gem install bundler -v '~> 2.3.0' && \
+          bundle install && \
+          chmod 777 /srv/jekyll && \
+          jekyll build --future"
