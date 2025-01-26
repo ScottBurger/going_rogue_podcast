@@ -16,7 +16,7 @@ length: 74710909
 tags: ["2024", grogpod, interview]
 ---
 
-The winter special episode is here! This week I turn back the clock 3 months to a number of interviews I did with developers and panelists at PAX West here in Seattle. A ton of fun, I got to talk to a lot of really cool and fun people who entertained my nonsense questions. With so many great games played and talked about, I'm already penciling out my plans for next year's possibilities! Check the timestamps below for interviews with friends of all sorts and their games and studios.
+The winter special episode is here! This week we turn back the clock 3 months to a number of interviews Scott did with developers and panelists at PAX West here in Seattle. A ton of fun, he got to talk to a lot of really cool and fun people who entertained my nonsense questions. With so many great games played and talked about, we're already penciling out plans for next year's possibilities! Check the timestamps below for interviews with friends of all sorts and their games and studios.
 
 
 <div class="container">
