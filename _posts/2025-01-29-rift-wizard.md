@@ -2,7 +2,7 @@
 layout: post
 title: "Rift Wizard"
 date: 2025-01-29
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard.mp3
 description: "
 "
 explicit: "yes" 
@@ -16,25 +16,26 @@ length: 96563136
 tags: ["2020", traditional roguelike, solo dev]
 ---
 
-Welcome back Wizard, to the ruins of the universe! This week we pick up the coffeebreak hit of the traditional roguelike space Rift Wizard: a solo-dev effort by Dylan K. White, in which we skitter about pondering orbs of memory and battling all sorts of spritely monsters and mages. Armed with a spellbook a mile long and wild passive skills to boot, we will finally exact our revenge on the evil red wizard Mordred for waking us up from our nap.
+Welcome back Wizard, to the ruins of the universe! This week we pick up the coffeebreak hit of the traditional roguelike space Rift Wizard: a solo-dev effort by Dylan White, in which we skitter about pondering orbs of memory and battling all sorts of spritely monsters and mages. Armed with a spellbook a mile long and wild passive skills to boot, we will finally exact our revenge on the evil red wizard Mordred for waking us up from our nap.
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxxxxxx3" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard.mp3" type="audio/mpeg">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 1:34 - game stats
-* 3:03 - one sentence description
-* 23:18 - our story begins and spoiler alert warning
-* 1:32:28 - rankings and final thoughts
-* 1:42:43 - similar games
+* 2:46 - game stats
+* 3:48 - one sentence description
+* 31:14 - our story begins and spoiler alert warning
+* 1:12:04 - rankings and final thoughts
+* 1:21:09 - similar games
 
 ---
 
+Scott's source code dump of all the [Rift Wizard spells and skills google sheet can be found here.](https://docs.google.com/spreadsheets/d/138efPbH7AgsARwiemFfd1euvw9f-m8E1g1F4KFHgDLc/edit?gid=2025145576#gid=2025145576)
 
 Next episode: Remnant from the Ashes
 
@@ -44,7 +45,7 @@ https://grogpod.zone
 
 Intro music: Jerry Granelli - I Put a Spell on You
 
-Outro music: K. Hoops - Rift Wizard BGM
+Outro music: K. Hoops - Rift Wizard main menu theme
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
