@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/rift_wizard.jpg
 thumbnail-img: /assets/img/rift_wizard.jpg
 share-img: /assets/img/rift_wizard.jpg
-duration: "1:54:40"
-length: 96563136 
+duration: "1:27:20"
+length: 74158080 
 tags: ["2020", traditional roguelike, solo dev]
 ---
 
