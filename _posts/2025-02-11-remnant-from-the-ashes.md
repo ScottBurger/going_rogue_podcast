@@ -8,12 +8,12 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/rift_wizard.jpg
-thumbnail-img: /assets/img/rift_wizard.jpg
-share-img: /assets/img/rift_wizard.jpg
+cover-img: /assets/img/remnant.jpg
+thumbnail-img: /assets/img/remnant.jpg
+share-img: /assets/img/remnant.jpg
 duration: "1:54:40"
 length: 96563136 
-tags: ["2020", traditional roguelike, solo dev]
+tags: ["2019", honorary rogue, shooter]
 ---
 
 This week in "wait, that's not a roguelike!" we tackle the Fallout-Souls game Remnant: From the Ashes! A lot of high-budget games that aren't rogue-first have been coming out with rogue modes and Remnant is no exception with it's DLC-based mode Survival. 
