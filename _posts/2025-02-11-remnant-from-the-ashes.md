@@ -16,7 +16,7 @@ length: 96563136
 tags: ["2020", traditional roguelike, solo dev]
 ---
 
-
+This week in "wait, that's not a roguelike!" we tackle the Fallout-Souls game Remnant: From the Ashes! A lot of high-budget games that aren't rogue-first have been coming out with rogue modes and Remnant is no exception with it's DLC-based mode Survival. 
 
 <div class="container">
   <audio controls style="width: 100%;">
