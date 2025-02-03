@@ -41,7 +41,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Kenny Dorham - I Had The Craziest Dream
 
 Outro music: 
 
