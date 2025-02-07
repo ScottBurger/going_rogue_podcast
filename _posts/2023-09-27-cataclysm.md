@@ -33,7 +33,7 @@ thumbnail-img: /assets/img/cdda.png
 share-img: /assets/img/cdda.png
 duration: "01:37:36"
 length: 74587971 
-tags: ["2013", traditional roguelike, open source]
+tags: ["2013", traditional roguelike, open source, interview]
 ---
 
 It's finally here, our episode on one of the major traditional roguelike cornerstones: Cataclysm: Dark Days Ahead. Humanity's greatest desire is to drive crudely built, ascii-tiled cars in open source videogame projects. That and escape from zombies, of course. Tune in as we spend half an hour trying to open up menu systems and try to see just how big this fantastical world of "New England" really is. There's only so much time to listen to this episode before XE037 finds you and adds you to the blobular collective!
