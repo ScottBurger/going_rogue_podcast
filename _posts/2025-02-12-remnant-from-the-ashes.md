@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remnant: From the Ashes"
-date: 2025-02-11
+date: 2025-02-12
 file: 
 description: "
 "
@@ -16,7 +16,7 @@ length: 96563136
 tags: ["2019", honorary rogue, shooter]
 ---
 
-This week in "wait, that's not a roguelike!" we tackle the Fallout-Souls game Remnant: From the Ashes! A lot of high-budget games that aren't rogue-first have been coming out with rogue modes and Remnant is no exception with it's DLC-based mode Survival. 
+This week in "wait, that's not a roguelike!" we tackle the Souls-like shooter Remnant: From the Ashes! A lot of high-budget games that aren't rogue-first have been coming out with rogue modes and Remnant is no exception with it's DLC-based mode: Survival. Join us to complain about getting bodied by bosses, watching out for archers, and trying to figure out just how much chocolate you need in a cake before you call it a chocolate cake.
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -43,7 +43,7 @@ https://grogpod.zone
 
 Intro music: Kenny Dorham - I Had The Craziest Dream
 
-Outro music: 
+Outro music: Remnant OST - Black Wolf and Bloodshed
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
