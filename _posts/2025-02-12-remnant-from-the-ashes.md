@@ -2,7 +2,7 @@
 layout: post
 title: "Remnant: From the Ashes"
 date: 2025-02-12
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/remnant.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/remnant.jpg
 thumbnail-img: /assets/img/remnant.jpg
 share-img: /assets/img/remnant.jpg
-duration: "1:54:40"
-length: 96563136 
+duration: "1:35:27"
+length: 80422433 
 tags: ["2019", honorary rogue, shooter]
 ---
 
@@ -20,18 +20,19 @@ This week in "wait, that's not a roguelike!" we tackle the Souls-like shooter Re
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxxxxxxxxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/remnant.mp3" type="audio/mpeg">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 2:46 - game stats
-* 3:48 - one sentence description
-* 31:14 - our story begins and spoiler alert warning
-* 1:12:04 - rankings and final thoughts
-* 1:21:09 - similar games
+* 2:18 - game stats
+* 3:54 - one sentence description
+* 13:29 - our story begins
+* 1:07:55 - community correspondence
+* 1:16:04 - rankings and final thoughts
+* 1:25:25 - similar games
 
 ---
 
