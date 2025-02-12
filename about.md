@@ -35,7 +35,7 @@ But don't take our word for it! Defining the genre is a historically tricky prob
 
 ## What is a "GROGPOD"?
 
-Originally the podcast was titled the "Going ROgue Gaming PODcast", with the idea of covering rogue games of all sorts, but with the option of "going rogue" onto other game genres as well. It turned out to be a mouthful and awful for SEO purposes, so we shortened it to GROGPOD. Not only does it optimize for weirdness, but if you use your imagination you can just assume it means something like "ROG-POD" or "Roguelike-Podcast", with an extra floating G that could stand for anything your heart desires. "Great Roguelike Podcast", "Good Roguelike Podcast" or "Garbage Roguelike Podcast" depending on how poorly one of the hosts rated your favorite game.
+Originally the podcast was titled the "Going ROgue Gaming PODcast", with the idea of covering rogue games of all sorts, but with the option of "going rogue" onto other game genres as well. It turned out to be a mouthful and awful for SEO purposes, so we shortened it to GROGPOD. Not only does it optimize for weirdness, but if you use your imagination you can just assume it means something like "ROG-POD" or "Roguelike-Podcast", with an extra floating G that could stand for anything your heart desires. "Great Roguelike Podcast", "Good Roguelike Podcast" or "Garbage Roguelike Podcast" depending on how poorly one of the hosts rated your favorite game. Heck, even "grognard" works to some extent.
 
 ## Show Me The Data!
 
