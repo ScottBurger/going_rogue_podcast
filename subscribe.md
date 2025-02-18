@@ -14,7 +14,7 @@ Find our podcast on your favorite platforms!
 
 
 ## Other Stuff
-* [Steam Curator](https://store.steampowered.com/curator/43937063-GROGPOD)
+* [Steam Curator](https://store.steampowered.com/curator/45182589/)
 * [Mastodon](https://mastodon.gamedev.place/@grogpod)
 
 Don't see your platform of choice on here? Send us a message and we'll get it on there for you.
