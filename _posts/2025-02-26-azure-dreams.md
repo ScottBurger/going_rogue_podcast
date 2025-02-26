@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure Dreams"
-date: 2025-02-25
+date: 2025-02-26
 file: 
 description: "
 "
@@ -16,7 +16,7 @@ length: 96563136
 tags: ["1997", mystery dungeon, traditional roguelike]
 ---
 
-This week in "wait, that's not a roguelike!" we tackle the Fallout-Souls game Remnant: From the Ashes! A lot of high-budget games that aren't rogue-first have been coming out with rogue modes and Remnant is no exception with it's DLC-based mode Survival. 
+Ah... I can see into your mind... So you like mystery dungeons? You like grid-based dungeon cralwers don't you? Psycho Mantis can see that you enjoy Konami games, which is why we're talking Azure Dreams! A 1990's monster collecting game that was maybe too ahead of its time for its own good, we talk town building, relationship drama, the extreme price of eggs, and just what awaits us at the top of a 40-story monster tower. 
 
 <div class="container">
   <audio controls style="width: 100%;">
