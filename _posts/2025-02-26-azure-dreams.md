@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/remnant.jpg
-thumbnail-img: /assets/img/remnant.jpg
-share-img: /assets/img/remnant.jpg
+cover-img: /assets/img/azure_dreams_genai.PNG
+thumbnail-img: /assets/img/azure_dreams_genai.PNG
+share-img: /assets/img/azure_dreams_genai.PNG
 duration: "1:54:40"
 length: 96563136 
 tags: ["1997", mystery dungeon, traditional roguelike]
@@ -35,7 +35,7 @@ Ah... I can see into your mind... So you like mystery dungeons? You like grid-ba
 
 ---
 
-Next episode: Azure Dreams
+Next episode: Noita
 
 Contact us at grogpodzone@gmail.com!
 
