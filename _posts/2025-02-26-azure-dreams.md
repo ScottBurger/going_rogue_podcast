@@ -16,7 +16,7 @@ length: 101871192
 tags: ["1997", mystery dungeon, traditional roguelike]
 ---
 
-Ah... I can see into your mind... So you like mystery dungeons? You like grid-based dungeon crawlers don't you? Psycho Mantis can see that you enjoy Konami games, which is why we're talking Azure Dreams! A 1990's monster collecting game that was maybe too ahead of its time for its own good, we talk town building, relationship drama, the extreme price of eggs, and just what awaits us at the top of a 40-story monster tower. 
+Ah... I can see into your mind... So you like mystery dungeons? You like obscure JRPGs don't you? Psycho Mantis can see that you enjoy Konami games, which is why we're talking Azure Dreams! A 1990's monster collecting game that was maybe too ahead of its time for its own good, we talk town building, relationship drama, the extreme price of eggs, and just what awaits us at the top of a 40-story monster tower. 
 
 <div class="container">
   <audio controls style="width: 100%;">
