@@ -37,6 +37,8 @@ Ah... I can see into your mind... So you like mystery dungeons? You like grid-ba
 
 ---
 
+(thumbnail art by dhbs90)
+
 Next episode: Noita
 
 Contact us at grogpodzone@gmail.com!
