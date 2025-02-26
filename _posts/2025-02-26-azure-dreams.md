@@ -2,7 +2,7 @@
 layout: post
 title: "Azure Dreams"
 date: 2025-02-26
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/azure-dreams.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/azure_dreams_genai.PNG
 thumbnail-img: /assets/img/azure_dreams_genai.PNG
 share-img: /assets/img/azure_dreams_genai.PNG
-duration: "1:54:40"
-length: 96563136 
+duration: "2:03:28"
+length: 101871192 
 tags: ["1997", mystery dungeon, traditional roguelike]
 ---
 
@@ -20,18 +20,20 @@ Ah... I can see into your mind... So you like mystery dungeons? You like grid-ba
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxxxxxxxxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/azure-dreams.mp3" type="audio/mpeg">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
 
 ---
-* 2:46 - game stats
-* 3:48 - one sentence description
-* 31:14 - our story begins and spoiler alert warning
-* 1:12:04 - rankings and final thoughts
-* 1:21:09 - similar games
+* 1:52 - game stats
+* 6:42 - one sentence description
+* 30:40 - our story begins
+* 1:06:38 - !!spoiler alert!! top of the monster tower and ending
+* 1:34:08 - community correspondence
+* 1:42:57 - rankings and final thoughts
+* 1:54:49 - similar games
 
 ---
 
