@@ -48,5 +48,5 @@ Intro music: Cannonball Adderley - One Man's Dream
 Outro music: Azure Dreams OST - Tower Theme No.1
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvvKkSje_tI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
