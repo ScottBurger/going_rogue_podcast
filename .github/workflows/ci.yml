@@ -1,5 +1,7 @@
 name: Beautiful Jekyll CI
-on: [push, pull_request]
+on:
+  push:
+    branches: ['master']
 jobs:
   build:
     name: Build Jekyll
