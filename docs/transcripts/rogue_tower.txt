@@ -1,0 +1,1149 @@
+0:26
+Hello everyone and welcome to a new you, a new year, a new season of the same old Rogue Like podcast.
+I am your host of the Grog Pod Rogue Like podcast where we we talk about Rogue like games, whatever they may be, big or small, you're here to enjoy them all.
+0:47
+I am your slow hobbling goblin boss of the podcast Scott Burger and attacking the pod castle from the other three lanes are my Co host.
+This is Will, I guess.
+I'm your your poison spraying Creeping Cough Tower, ready to slow you down and take your Shields.
+1:06
+And I'm calling a weird robot man who's going to shoot a missile that goes so, so fast at your tower.
+Fired dead missiles.
+And I am a member of the shambling monster horde.
+Unique, charmingly simple walking animation.
+1:23
+And no name.
+Oh yeah.
+My name's Andrew Harshman, by the way.
+Well, let's just say I don't.
+I wasn't paying attention, really, to many of the enemy.
+Now this.
+Game, but we will discuss.
+That who is?
+Who is this man?
+Who?
+How'd you get?
+The fuck?
+Wait, what's the name of the first boss Oogie?
+1:38
+They're all oogies.
+They're all.
+Oogie, they're all ooged out.
+They all have mangoes and other things going on.
+I'm Andrew with two OS.
+Oh.
+There we go.
+This week we are talking about our voxelized Helms Deep simulator Rogue Tower, released January 28th, 2022.
+1:58
+I think this is APC exclusive.
+I don't think this exists on any of their platforms.
+Oh, get wrecked console players.
+Console plebs.
+This was developed and published by Die of Death Games, which is a one man op.
+2:15
+We have a a solo dev entry this week by Andrew R Mason, a game dev and applied mathematics major at U Wisconsin Whitewater.
+Side note, this always kind of bugs me whenever I hear people reference UW because we're based out here in the Seattle area and I instantly think, oh, he's he's from University of Washington.
+2:36
+No University of Wisconsin, but but guitarist D&D player, martial artist all around.
+Very interesting fellow released 2021 Dice Knight Mystery of the Muy Rye.
+2:51
+I'm pronouncing that right.
+I've got to pronounce something wrong on every episode here.
+B&D themed top down shooter looks interesting and then next year he 2022 published what we're talking about.
+Today Rogue Tower and Rogue Tower rolls in at our number 167th most popular Rogue Light game with 4773 total reviews.
+3:14
+Andrew, you got one sentence to describe Rogue Tower before Robo Oogie is gonna come burst down your gates.
+Well, Rogue Tower is voxel based tower defense game in which you are defending your sort of Eisengard looking tower from a unending slew of goblins, Orcs, Orlox, Gretchen, Ogres, zombies, ghosts, etcetera.
+3:45
+Robots.
+And of course the rogue like elements are that every level you have to choose to expand the map, and you choose different locations, and each tile is randomized in unique, interesting and engaging ways.
+And in my case, you actually only ever expanded a total of 17 times.
+4:08
+That's actually the maximum that the game allows you to do.
+Well, listeners, I'm getting the laugh.
+Speaking of, I was chuckling at the console, the console lights not having access to this game, and now I'm getting chuckled at by all of the rogues Council of Rogue Tower Masters listeners, let me, let me let you in here on just a little bit behind the scenes.
+4:32
+Here the discord has been for Andrew Harshman, A a wasteland of data and excel spreadsheets and all sorts of tomfoolery that I can't be bothered to have any idea what's going on.
+These three fellows, nerds, fine fellows, gentlemen's and scholars.
+4:52
+All of them.
+I've just been having a hoot of a time.
+This is actually a two-part game.
+There's the actual Rogue Tower game and there's the game of the data science, which I don't have the brain for, but these three do.
+And I didn't actually get around to playing this game until, oh, I don't know, the latter half of this week, this past week, And so I've logged 6 hours, but everybody else has gotten quite accomplished this game.
+5:13
+So yeah.
+Anyway, so yeah, 17 levels.
+That's as far as I know.
+That's as far as you can get in the game.
+Will silently nodding his head in, I'm guessing, bemusement and disappointment it you.
+Nailed it right there.
+5:28
+Skype.
+I just the game so it didn't have any pull for you at all, Andrew.
+Oh, no.
+I mean no, no, no, I well, it'll be reflected in the scores.
+I've right away found it to be pretty entertaining.
+But the way that I play games is I I I tend toward a lazier type of gaming which is not wanting to do any homework and wanting to play games by feel as opposed to playing games efficiently.
+5:55
+And so if I'm if I'm really invested in a game, I'll like do a little research on some strategies but there's no way I'm gonna be doing any number crunching or math or or or what have you.
+So, yeah, so I I definitely saw the appeal.
+6:13
+But yeah, I I, I I enjoyed the game.
+I'm kind of stalled out a little bit at this point because I don't fully grok all of the mechanics.
+Like I don't even understand the, the, the, the mechanics enough to put them into begin to put them in.
+6:30
+Oh my.
+Yeah, that I had the the opposite experience.
+I mean, I so I played this game twice and then like once when it came out, I believe, and then we just, we played it again here.
+And so I've completely forgotten all the strategies from before, which is great, 'cause then you can go into it like, Oh yeah, I know it was a good game.
+They introduced new content.
+6:46
+So in the game there are like, you know, it's either one, there's a essentially your tower's in the middle and there's like 4, you know, because it's, you know, everything's based on blocks, There's like 4 pathways possible coming off of it.
+When you start you have one path.
+Well, if you're playing on pro mode, there's four.
+Well, yeah, there's four.
+Directions it can go.
+7:02
+You start off with only going with your path in One Direction.
+And so, yeah.
+So the difficulty is just based on the number of of of of pathways that you're starting out with, but one when you're starting out.
+But for me, there was just an always a drive and a satisfying curve where it's like, OK, in the beginning you're going along, you only have one tower and then you're placing it and eventually, oh, you learned that, oh, I can hurt health.
+7:25
+There's like three things in the game.
+There's health, there's armor, and there's Shields.
+And each of these different units specializes in each in one of those kind of formats of of damage.
+And so you're learning, oh, at this level, that's when they introduce armor.
+I have to have some armor things.
+And, oh, there's a boss.
+7:41
+So you have to have lots of, like, you know, change your dudes to focus on the dude with most health.
+And so the game really has this nice way of teaching you through failure and over and over and over again that like, hey, you shouldn't be thinking about, you need to have shield damage on level 16.
+And then, oh, you need to be able to do investments.
+7:57
+You need to have these things that do investing in the game.
+And there's all these dynamics layered in.
+And I think, I think the math of it really shines through the fact that this guy is, you said a math major or math.
+Game design and math.
+Applied mathematics, Yes.
+Yeah.
+No, that really shines through I think with just how well balanced I think the whole game is and how well from like beginning to end that all of these, you know, the the, the upgrades versus the the quantity that you have.
+8:24
+Like, there's a bunch of trade-offs that you're making and all of them feel very balanced.
+And so I know Colin and I, yeah, we didn't nerd it out.
+I'm making a bunch of spreadsheets.
+So, like, yeah, just right.
+But I think the point is that, like, you don't have to do that.
+Like, you can actually just play this game by feel.
+And you get most of it right because the game is so responsive to, like, if you just dump all your upgrades into like one thing, you just lose because you don't have enough of, like the, you know, you don't have enough armor damage or the thing that you're lacking.
+8:49
+And so this game is is.
+I don't know, I thought it was beautifully done.
+Think about it a lot.
+But you don't need to like write an Excel spreadsheet with various stack ranking things to figure out exactly needs to get upgrade, which is what we do.
+But yeah, I think it does.
+9:06
+It does a lot of good.
+It does a pretty good job of ramping up the difficulty like naturally in my opinion and like it.
+There's pretty much always like a little bit like this is one of the strongest just one more run games that we've played for me in a long time like I felt a deep, deep, like I need to go to bed.
+9:30
+Like you cannot play another one of these games.
+You I'm, it's already too late.
+I'm going to go immediately from this game to bed.
+So I'm going to be defending my tower in my dream.
+I'm going to you.
+I I had like just a little bit of that Tetris effect where I'm like like putting my head down to sleep, closing my eyes and like things are coming towards the center of my vision.
+9:51
+Like, Oh no, I've been staring at this for too long.
+But yeah, I think it does a good job of you have to think about it, but like, you can kind of get by on vibes for a while.
+You really only need to start truly like crunching the numbers and like being super strategic.
+10:07
+Once you get to those, either the late levels in single lane, or if you're trying to do the four way tower different, legitimately very difficult.
+So I was primarily alternating, primarily doing this.
+I was mostly yeah, we'll just switch back and forth between like one lane and two lanes.
+10:24
+Is that the right way to do it?
+Or are you supposed to, like, play one lane until you've unlocked all of the permanent upgrades?
+And then question, how long is that supposed to take?
+Six hours?
+And I feel like I'm not making any progress.
+10:40
+I think it should.
+It should be like 10 to 15 hours by like when you unlock everything, like it's not like a a super a super long time and and like the way you do it doesn't really matter it just, but if you do like like if you do it all in just one like you're you're you get bonus experience for trying new things essentially.
+And so the game tries to incentivize you to like try two, try 3.
+10:58
+And even if you fail on four, like just try it early on just to get a bunch of experience so you can like buy all the rest of the upgrades and towers and test them out.
+It's a fine idea I.
+Think my biggest criticism with this game is it's clarity.
+11:14
+Yeah.
+And like, Andrew, when you were saying in the Discord how like you were playing for what?
+Like one, like 2/2 plus hours or something, and you didn't know that you could upgrade your towers, I was right there with you, 'cause I was like, what the Hell's what?
+Like Will and Connor are talking about all these upgrades and stuff?
+11:30
+Like, I don't know what they're talking about.
+And then I realized he could click on the towers and they have these little upgrade menus on each one.
+To be clear, sorry, at the two hour point I realized that there was a upgrades button on the main menu.
+I didn't.
+That escaped me and it's right there.
+11:47
+It's obvious enough, I suppose, but it wasn't until maybe 4 hours that I realized you can click on the towers and that you could upgrade them.
+And I have no idea how that's I get that there's three upgrades and it's like you can upgrade their damage, you can upgrade their like shield damage, their you can upgrade and their armor damage.
+12:09
+Health, armor or shield?
+So I understand that idea, the basic idea that like this tower will do more damage to that stat, But I don't understand why.
+What determines those prices?
+It's like exponential growth.
+It it depends.
+12:25
+So, so there this is the thing, This is why I had to do data collection exactly this is the what.
+So when I didn't understand exactly that I'm like huh it looks like the ballista is it cost and then you start with 10, the next one cost us like 20 I think and then it just adds another 10 to each each time.
+12:40
+Whereas other ones it starts at like like 30 and then it like increases by 30 each time.
+And so each of them has like its own like sort of equation for determining what the next incremental cost will be.
+And so that like the cost increases and as that increases the total, like damage you're getting per the cost of the entire package of the upgraded unit.
+13:01
+Like it, it can be balanced against like the number of upgrades that you're dumping into each of the each of the the tiers of shield health and armor.
+And so that's why we need to create these spreadsheets, because otherwise you're just guessing about, oh how many units do I need, how many upgrades?
+13:17
+And like what should I be upgrading and so.
+So you have a ballista traveling W at 35 miles an hour.
+So listeners, last night I I was under the impression that like the towers were, but they also level by themselves.
+13:34
+Is that correct?
+And they don't tell you this at all, but it's like whatever they're looking at is what they're going to level.
+Even if they're not shooting, if they're looking at something, they're gaining experience for the thing that they're looking at.
+And that's why telling them which thing to priority.
+That note, I just wanna let everybody know the visual of the voxel based ballistas just sort of rotating and turning and tracking different targets is very satisfying and engaging for I don't know what reason but I like the look of this game and the animations are simple but I think it is I I.
+14:09
+Mostly like the aesthetic of this game, I wish there was a.
+Cool animation of the tower being destroyed at the end.
+Yeah, and I do wish so the most of it.
+I like.
+It's like a good, simple, clean aesthetic and it does it.
+It's a it's a very good solo dev style or animating like.
+14:27
+Totally.
+You can.
+You can have it look good without needing like AAA graphic.
+My biggest criticism of the of the style is that it's sometimes very difficult to figure out like what height level your tower is going to be on.
+And I don't know, maybe you guys didn't.
+14:44
+Really like this is a number, right?
+I mean.
+Yeah, but you can't.
+Like when as the shading like for the shadows is going across.
+Sometimes it's impossible to tell if you're looking like the IT doesn't have a little like squares around the things you're like.
+I don't know if this is like too high or three highs.
+14:59
+You basically have to hover over every square to figure out if it's three high or all.
+Right.
+Well, they're here.
+That matters a lot for the towers because it is a just straight upgrade to have them on like 3 high.
+Terrain indeed.
+And to be clear, when we are saying again, there's a lot of I still don't understand the upgrade system like so they automatically level, but I should also manually be levelling them or not?
+15:23
+In some cases, well, that's about that's why like.
+Optimal do so you should do so.
+Clear cut answers like.
+OK, so I've got for instance I got the the Vampire Tower up here on my spreadsheet and it's saying that and it's saying that if you have a quantity of 10 vampire towers then you should upgrade them to to 9 levels in order to optimize your damage per cost.
+15:43
+OK, what should I do at level 10 when I have 10 ballistas?
+At level 10.
+You need practical.
+Like simple dumbed down answers.
+Where's the prima strategy guide that we that we need in plain English with all the little cartoons and stuff?
+15:58
+All right, just very simple you here's.
+Number one you know, my StarCraft 1 StarCraft Brute War Primate guides had very few cartoons.
+Cross towers do upgrade them.
+No idea what a.
+Frost Tower, but only a little bit.
+Cross towers are the ones that slow everybody down.
+Right well I'm I got I got the Tesla ones I got the mortars and I got the the this is all I have seen at this juncture and I finally I still have not seen an occult site I don't know what that is so will that card stop bothering me already by the way sorry.
+16:30
+So what I was going to say is, so I I OK, so it depends on the number of OK, what's the rule of thumb?
+Should the average player Hey listener base, if you're going and going to try this game out, should you be engaging with the clicking on towers and upgrading their different stats system?
+16:48
+Basically.
+It's the more expensive the tower, the more you should probably be upgraded, the more.
+Expensive.
+The tower.
+Interesting because listeners, you see as you place more of an individual type of tower, whether it's a ballista or a mortar or a vampire tower or a zombie tower or a lava gate or I'm making up, I'm assuming that there's a million that I haven't seen that because it's so bad at this game.
+17:12
+It does.
+The price goes up as you add more and more, right?
+Your first ballista is what?
+Like 10 gold or something 15?
+But your first laser pyramids 1000 gold laser, the second one is 1200, so that one goes up quick.
+Not sure if you're joking, all right, but yes.
+17:27
+As you place for, so you're.
+Saying that at my 20th ballista, I should place the 20th ballista for a lot of gold and then I should upgrade it because that's how the math is pretty.
+Much.
+Yeah.
+OK.
+All right.
+So.
+Generally you should be using it OK, because after I'd talked to you all on Discord about it, I got the impression that well, I guess I shouldn't upgrade them manually.
+17:49
+So I guess I.
+Just stop.
+You probably shouldn't be manually upgrading the ballistas like the intro level tower.
+You shouldn't upgrade manually.
+I'm sorry, the what?
+The intro.
+Level like the Ballista, it's the.
+It's the basic based here.
+Oh, OK.
+I thought you were like.
+Curious.
+It's like your balloon shooting.
+18:05
+More maps.
+And I was like what?
+All right, so again, again, folks, to be clear, not not 6 minutes.
+I've played six hours of this game and I've enjoyed basically all of it, but I have very little idea of what's happening.
+18:21
+There is a guide.
+There's a manual on the front, on the front manual that I have.
+Oh, OK Well, I have a looked at, but sorry Sir, I I keep meeting to ask this other question.
+All right.
+So there's another mechanic.
+So here's like my real quick let me let me just preface this with how I've been going about playing this game.
+18:38
+It's like it's a tower defense game, so I want to maximize my towers abilities, ability to shoot enemies.
+So that means I want to put a tower where it has a large radius.
+That is that it's going to cover a lot of area, it's going to cover a lot of track, It's going to have many opportunities to shoot.
+18:57
+Get in them corners.
+In between levels, when you get to pick a new path to expand, I'm trying to get the path to double back on itself so that I can put towers in between those tracks so it has opportunity to shoot the in effect.
+19:12
+Best case scenario, you know twice the times.
+Right.
+Three times.
+Even.
+And another thing, another important thing that we were talking about a few minutes ago is that the height at which you place your towers, there's what 3 levels?
+Is it 1-2 and three?
+Yeah, with the base. 4 Excuse me.
+19:29
+So the higher.
+The.
+Power.
+The more damage it does, I think.
+I.
+Think it's just a range.
+It's.
+The list is that for all.
+Range and damage and so like if it's on a Level 3 one, it's plus three damage and plus like 1 1/2 range.
+Plus three base damage.
+19:45
+That's not including the multiplier here.
+I mean, come on.
+Yeah, which to be clear, I also didn't realize that it changed how that worked for a long time.
+I've watched 60 hours into this game.
+So good winter break.
+20:00
+Well, now that no one's listening anymore, because we've gotten so deep into strategy, maybe we should talk about what's actually in this game.
+What's in this game?
+So we've talked about types of towers, but there's twelve of them.
+And I like with like other tower defense type games that I've played, they've always been kind of like, yeah, they're all like sort of the same thing.
+20:22
+There's a lot of like different wacky stuff in here between.
+Like you have one of them is a biplane that flies around and shoots stuff.
+You have a pyramid that shoots lasers.
+You have like Colin, you were talking about the Frost Tower.
+That's just like this snowy castle that slows everyone down.
+20:37
+What does the what does the Vampire Tower do?
+Like, I I don't really know what that does, but it looks like just like a bunch of blood flying across the screen bleed.
+Effect.
+Well, it can have that.
+This is the one that I was very skeptical about, 'cause I'm like, what the heck is this doing?
+I'm seeing like a swirl.
+I don't really, there's not really any indication as to what actually is happening.
+20:55
+But once you get it in isolation, you can really observe what it does.
+It's just like anything that's in this big old like circle.
+It just does just damage to everything all at once.
+And it does it about 6 * a minute, I think.
+Is that right?
+I got my old guide over here and so, so basically like and then the upgrades for it increase the the, the radius and so you could just basically have it covering like half the map essentially attacking everything all at once that's overpowered.
+21:22
+Yeah.
+So for for in terms of like melting down units like it's, it's pretty much one of the best.
+Interesting other things that you have in this game are support buildings, which unlike your main tower that you're trying to defend, we've been using the word tower kind of interchangeably.
+Your home base that you're trying to defend Fortress.
+21:39
+I believe it's Fortress.
+Your your home base, the thing that you're trying to defend is also a tower.
+Doesn't shoot stuff though.
+And it looks like a asterisk here.
+It looks like Orthank, which is technically the name of the tower.
+In Eisengard, oh, thank you.
+Correction noted.
+I appreciate that.
+21:55
+Colin, were you watching the whole Lord of the Rings trilogy the other day, or is it just?
+Just we watched.
+Yeah, it was yesterday, New Year's Day.
+We watched the all three extended editions back-to-back in a row for 12 hours straight, excellent, as we do every year.
+Well, like like The Lord of the Rings.
+You have your haunted house support building, you have your mana bank.
+22:14
+You got your mana siphon, you have your mines and universities, and these are all things that you use to increase the the health points of your main fortress.
+Things that you use to increase, like how much mana you're collecting over time in that mana is used by various towers for for bonus effects.
+22:36
+And without fail, you always, for me at least, I ran into the the problem of, oh, if I put one of these support buildings at at like a corner between two things, surely it will get the bonus for both of those, right?
+22:52
+Man doesn't always.
+One of them's not on the right level because you can't tell.
+No, it's not even that.
+It's like it's they don't so like for example the the mine, a mine is what they call it.
+You put that like if there's if there's like I think the OR deposits on the map is like the map feature and let's say there's like two of them like Kitty corner from each other.
+23:15
+So you're like OK you can put a mine on like the third part.
+This is really great for a podcast where I'm like mining out with my hand gestures here.
+But like you put a mine where it's like it's it's touching one end it's touching the other on this four placement grid and I'm like OK great I'm going to get the bonus from both of those things but it doesn't you only get the bonus from one of them.
+23:38
+Am I right?
+Correct.
+I right people.
+You are correct, but not for the read something about how many houses the haunted houses do.
+Get it for if you're next.
+To two things.
+Because I don't know why there's only so many miners, Scott, they can't.
+They can't.
+They're too busy to go to both.
+23:54
+Minds.
+I guess that's fair.
+You gotta have someone to to pull back those ballista bolts.
+And then I guess maybe the biggie for this game is the upgrade system, which I almost wanna say makes this game a deck builder in some sense.
+24:10
+Asterisk, asterisk, asterisk with like, like.
+You mean a very.
+Light sprinkling of deck building.
+Going on.
+So we have to just disentangle here because there's the upgrades for the towers themselves individually, and then there are the cards that you draw at the end of each round, which upgrades all of your towers.
+24:27
+Yeah, you're talking about the cards, upgrade cards, yeah, yeah.
+And which another?
+I think maybe my biggest bone to pick with this game outside of the outside of the UI is when I was first playing, I'm like, OK, awesome.
+I can like pick what upgrades I want.
+24:43
+Great.
+I'll go into the, like the meta progression upgrade menu.
+I'll pick those things.
+I think I've got it figured out.
+And then I didn't realize there was like a a system that you had to unlock in order to make sure that you kept the opportunity to draw upgrade cards, if that makes sense.
+25:00
+So it's like when you first boot up Rogue Tower, you're fresh install, you're trudging along, you're like, oh wait, I I only upgraded my stuff like three times and that's it.
+I thought there was more stuff in here, Okay.
+And then a little time later, you're perusing through your upgrade card collection, huh?
+25:18
+There's one in here for what was my Google Doc say specifically, there's one in here for card draw, being able to draw an additional card every time you draw upgrades and other things like that.
+And you unlock that with experience and to some degree and like there's draw frequency and stuff.
+25:35
+Like, on one hand I can see that being a gate pepped upgrade mechanic, because at the beginning you don't really have anything unlocked, right?
+So what's the point of having more opportunities to unlock stuff if you haven't unlocked things?
+Like you haven't unlocked new towers, you haven't unlocked different bonuses to those towers for you to pick from at the end of the round?
+25:54
+I kind of get that, but that felt like like a design anti pattern to me to some degree where it's like oh, at the end of the round you should be able to like upgrade your stuff right?
+But it it seemed like weird that that was buried in an upgrade menu for me.
+26:09
+I.
+Think that like having more card draw, like you start off what you can only draw like you draw and you pick from three.
+Yeah, and it's like every few rounds, I think.
+Or like it's not every.
+Round I think that I think it.
+Should start off when you can upgrade because that just feels more fun.
+26:25
+Like picking the upgrade cards is part of the fun of this.
+Well, I mean, you could you could argue though that like in the beginning, it's trying to teach you about positioning more than anything.
+And like, so the focus is on, oh, I need to like put things high up.
+I need to put things in the corners and like and then eventually as you unlock that stuff and it's like, oh, OK, now you think about more about those other dynamics and like the what upgrades to choose.
+26:47
+And so it's just not inundating you with all that information too quickly.
+And you do level up pretty quickly.
+And so it's not like a huge, huge barrier to getting all the card draw.
+Yeah, I guess, like, I'm, I'm probably being, like, overly nitpicky about it.
+But yeah, I think that like the and this is where I'm kind of conflicted about, like wishing certain elements of this game were, like, more fleshed out.
+27:11
+But also understanding that, like, hey, if you're like a solo dev and you're just like making a game to, like put out into the Internet for fun, and then you're just like, all right, well, I'm moving on to something else, a different project.
+Like, I feel like that's a totally valid approach that like, I probably shouldn't harp too much on.
+27:30
+Like, well, this game obviously needs online multiplayer, and this game obviously needs all these other things attached to it that obviously don't like.
+You're still allowed to get well it.
+Did need a first person mode?
+It has was added.
+Yeah, exactly.
+OK, so you got you.
+You did see the goodness touch grass mode, then yeah.
+27:48
+I thought that was actually pretty pretty cute.
+Cute little thing to goof around in anyway, Yeah, it's tough to say.
+It's like surely if this wasn't a solo dev and it was like a small studio, these sorts of quality of life things and the the conveyance of this sort of information would be better.
+28:10
+I guess we have we have Google.
+I I don't know, I didn't really bother Googling anything about.
+The.
+Iggy what is the community like?
+Is there a lot of support or not?
+Like the wiki, the Wikipedia right now actually didn't have the three most recently added towers, and so I had to go in there and do some manual data extraction from the game and start to like, actually write in.
+28:32
+Hey, here's the damage value, the health, the, the mana cost, all that stuff you're.
+Doing the Lord's work.
+Yeah, actually I got to post this to the subreddit.
+You'll probably do that later, I.
+Believe.
+Oh yeah.
+Clear.
+He only edited his his personal Excel spreadsheet.
+Oh, I thought you were saying that you all in addition.
+28:49
+No, he's hoarding it greatly, like.
+A Right.
+Well, right now I think I have a world record, I'm pretty sure.
+Wow.
+Oh really?
+And so I can't share my strategies.
+We've got a champion here, folks.
+Climb in.
+29:04
+That talk about getting into the 70s?
+In Single Path without the March of Madness or March of Monsters, Mark Madness is.
+There a leaderboard.
+Question.
+No.
+So I'm the best I could do was I I I perused through some Youtubes, through the the subreddit.
+29:20
+I couldn't find anyone who got up to to beating levels level 70.
+So I feel like beating level 69 right now that's that's the current, that's the tops.
+For Got some accomplished rogues listening?
+You better watch out there's.
+And bring it on.
+Title.
+29:36
+That's that's a level 69 will.
+Means that you did.
+Yeah, then I restarted because I wanted to focus on specific towers and I haven't got back up.
+But wait, wait, you.
+Actually did because I remember for a while you were stuck there at 59, no?
+Oh wait, maybe it was.
+I think you're missing because I'm pretty sure I shot way past you there, Colin.
+29:52
+I'm pretty sure I just.
+Got confused.
+Didn't even have the spreadsheet open.
+Well, now I don't know because I restarted the game.
+So more like Tilt Town.
+Yeah, Well done, Well played.
+That's that is intense.
+Wow, 70 whole levels?
+And about how long does a 70 level run take?
+30:07
+Too long?
+Well, so that's The thing is you learn quickly that there are mods for this game and the the dev actually promotes the use of these mods.
+I think they should probably be part of the game, but things like speeding it up two or three times, that is very important to to enjoying the game as you get to these.
+30:25
+Like essentially when before I had this mod, it was like 15 minutes to go through a single round, like in the 60s.
+And it's just like you're just sitting there waiting for these monsters to be digested and it just takes.
+Oh, what is it?
+Sarlac it.
+Takes way too.
+Yeah, it takes way too long.
+That's.
+Oh, is that called I I couldn't quite hear you there.
+30:41
+You're right, I was only on 59.
+Oh, there we go.
+Lookout.
+Yeah, so I'm looking at the wiki right now and a would you all like to hear the the lore?
+Yeah, we didn't even, we didn't get the story time.
+The oh, we better cover that first then, I suppose before we dip into specific monster description.
+31:00
+But I I will do this quick teaser here so there's many different enemies.
+The first sort of tier of enemies are mostly kind of standard D&D Tolkien esque fair of goblins and trolls and orcs and things.
+It says here in the Troll Wiki article here.
+31:17
+Troll is a type of monster in the game, and actually it says that for basically every monster except for the goblin, which says goblin is a type of monster in the game, it is the most basic and the easiest to deal with.
+31:34
+Period.
+Come on, I wanted a little bit of something, something, somebody with, you know, a little bit.
+More, there is a description in the game.
+Oh, interesting.
+Like there's there.
+Like Monsterpedia or whatever monster.
+I'm.
+Just looking it up now.
+31:49
+Monster Manual.
+We'll have to dip into that.
+A manual full of monsters.
+Can you imagine?
+Goblins are weakened based on enemies.
+They pose very little threat, but they can become threatening in large numbers.
+They're electrical, blah blah blah blah blah blah.
+And they're your super ones.
+They do actually start saying silly things.
+OK, all right, now we're talking.
+32:06
+You're also reading directly underneath the little quote box that has the full deep lore.
+Oh.
+My gosh, you're.
+Right for each one where the cyclops entry reads.
+Originally.
+From a.
+Strange Island in the sea.
+Cyclopses are some of the strongest living creatures in the world.
+32:23
+With more than twice the overall durability of a troll, they are truly menacing.
+However, they're easily tricked with bad puns.
+All right.
+Yeah.
+Part of me there is, in fact, well, good.
+I'm not disappointed, and I should not have underestimated A fellow Andrews DM ING and lore's spinning ability real quickly.
+32:42
+The trolls here.
+Yes, yes, I skipped right past the the italicized text. 1000 pardons.
+Again, I think this is a good lesson we're we're understanding my level of perceptive ability, and when I say that I missed a menu or I missed a feature, maybe take that with a grain of salt, all right?
+Trolls are very large and slow.
+32:59
+They have a considerable amount of girth to chip away.
+Yeah, it's making them relentless foes.
+Worse yet, their bodies possess the ability to regenerate at incredible speeds, giving them even more.
+So I think we can take that lesson from the trolls.
+We can learn a whole lot that, hey, that's that's a good stuff.
+33:15
+It should be noted very briefly, the last thing I wanted to mention, the Goblin.
+If you look at the close up of the Gray fix of the beautiful vector graphics, he has a little Mohawk.
+That's fun.
+So later the enemies do get weirder and different uh, and one of the the rounds they do elemental enemies and they have the of course Olival elementals, fire, elemental earth, air and water, and then the last one, which is of course boron.
+33:44
+Many scholars believe there are only four elements.
+However, there does exist a fifth and more powerful element, Boron, which I I found that like most of the other jokes, I was like, whatever, this is fine, but I really did like the like trying to figure out like what is this weird window pane enemy.
+It's like it's boron the Fifth Element.
+34:02
+That's the element outstanding.
+Yeah, I think there's.
+Little jokes about them.
+There is like this game does have a lot of charm in it and I kind of wish that there was either like a Rogue Tower Two or like another like expansion on top of this game or or some sort of like polishing phase or something.
+34:23
+I feel like this is, this is like the aesthetic and whimsy of a game that you can kind of see in like a like a pretty successful Nintendo title, Like a first party Nintendo title where it's like oh like cutesy graphics and like big explosions.
+34:38
+I forget if there's like like physics in it, like when the when the mortar tower shoots like a big arcing mortar and you see it can come flying down and then lands at a big pile of enemies.
+I don't remember if they like, like their bodies just go like flying through the air or not.
+34:55
+Do they know head shakes.
+But I feel like that would be something that that would like theme very well in here with like all sorts of craziness like that and like biplanes and you have like giant like rail guns that shoot across the map.
+35:11
+I think we we missed the opportunity to talk about tower defenses and our experiences with them from our God what was it the the last tower or the last spell episode but StarCraft tower defense maps we're we're all we're all experienced with those.
+35:32
+Right.
+So good.
+Yes.
+Yes.
+Getting some head shakes.
+Oh.
+Sure have have played a little bit of them.
+What separates that from here in terms of Rogita?
+Right the the tile randomization.
+Is that the only aspect?
+I guess that in card, card draw, right?
+35:48
+Yeah, card, card.
+Yeah, sure, of course, because you can't really.
+Like if you unlock everything, you can't really plan a specific build.
+You might not see the card that you want.
+Which is why part of the meta strategy is to like, actually nuke your game file and essentially only pick up the cards for the specific towers that you want in your final build.
+36:07
+That's interesting.
+Instead of 12 towers, you're only dealing with six towers or something like that.
+Indeed, that that makes sense 'cause I consistently have the issue of like, well, I'd love to use stuff that uses mana, but I so rarely get both a card that grants me mana or the mana gathering building.
+36:27
+Frustrated.
+And then having like, oh, I have all these sweet upgrades for this, you know, laser firing pyramid, but I do not have the mana to use it.
+And also I can't turn off the tower, so it's constantly draining my mana to zero.
+36:44
+And like I can't delete it because I've invested like 4000 gold in this stupid tower.
+But I don't have.
+I didn't draw any of the mana cards.
+Yeah, that, that.
+That was one thing that stuck out to me, like from an early play perspective, where I drew this thing that was like, Oh yeah, I'll, I'll build this tower, use this mana, OK?
+37:05
+And then like, building the tower and then not having any mana to support it, 'cause I never drew any mana siphons and AI had no idea what those were at the time.
+But I thought, well like should should the game allow you to like paint yourself in that corner of like because it's like the pure random card draw you have that risk of like, well, like do I want to build this thing before I have the capacity to actually power it or do I like do the reverse of that and get the mana siphon and not have?
+37:34
+Well, I guess there's a lot of towers that use mana, but like, no, like no mana cubes on the map.
+Like you're almost at the mercy of like, the map Gen. to some degree.
+That's.
+Why you got the mana banks?
+Yeah, the pro tip mana siphons are the the worst investment.
+I mean, I mean like you can get them if you absolutely need mana, but yeah, generally speaking it's best to be avoided which.
+37:51
+I think is yet yet another very specific gameplay question, putting multiple mana siphons on one mana cube.
+Oh my, wait, wait, no.
+You can do multiple mana siphons on one cube, but one siphon near more than one cube does nothing.
+Yeah, I see.
+38:06
+OK.
+OK.
+OK.
+All right.
+Well, thank good.
+At least the the one time that I built 4 mines on one thing did something.
+Thank goodness.
+Well, The thing is that about all the stuff, you just click on the thing and it'll tell you is it actually working, How much is it.
+Producing.
+And so a lot of this mystery can be solved just by clicking around, which is not intuitive, but.
+38:26
+No, I mean, a house would do it.
+Sure.
+That makes sense.
+Yeah.
+Yeah, cuz I did do that once with the houses.
+Protect I am going to bring.
+This is the worst criticism of this game, which is it's very, very bad.
+No, no, no.
+I have all the worst ones.
+No, no, no, no no.
+You may not have understood how bad this one is.
+38:43
+The the clicking UI.
+If you are hovering over something and you click on it, it will click on both the thing that's popped up and the thing underneath it.
+Oh no.
+Which is very, very bad design.
+Deeply frustrating.
+Very bad.
+38:59
+I've deleted I deleted towers before like I had the menu open and then I get the pop up.
+I say I want to get this and I hit select.
+The select penetrated through this the option and deleted the tower and I'm like the fuck is this?
+That's why you got always got to check your backdrop.
+You know you're lining up a shot.
+39:15
+You basically do you learn the trick of like you have to.
+When you're like going to click something, you have to go off to the side to make sure you don't accidentally click through on something not.
+Really.
+Well, you know, that's just another one of those solo dev quirks.
+And I know that, like the the developer's going to wind up listening to this eventually and he's just going to be like these guys with the UI stuff.
+39:32
+This game was like, was so close to being like an absolute time vortex for me on the Steam deck on the couch.
+This is your Steam deck corner, by the way.
+And I was.
+I was.
+Step.
+Out onto the porch with me onto the steam deck.
+39:50
+The steam.
+Kickback.
+The steam, the planks of this wooden deck here, I really was was hoping that like, OK, this would be something I could fire up on the on the Steam deck, loaf on the couch and like, 'cause it's it's it's like perfect for that type of, you know, you're you're sitting back, you're listening to your favorite Rogue like video game podcast.
+40:12
+You have this going.
+You might have like another couple windows open on your computer.
+It's like, it's a really great background thing to just noodle on.
+It's not quite an idol game, but it's like it's kind of going in that direction in in a good way, I think.
+And I thought, OK, this will be great on the Steam deck.
+40:27
+I can just half pay attention to what's on the TV.
+Cat in the lab.
+Rogue Towers are blowing up everything.
+The UI.
+Oh my God.
+This will maybe be the last time I harp on it but like it is just so like.
+I don't know how you describe this in an audio format but like zoomed out and like any attempts that I made to like zoom in.
+40:47
+And I know there's like a scaling thing in the game, but it was just like.
+No, there isn't scaling.
+If you zoom out, all the words get small.
+Well, yeah, I guess.
+And I yeah.
+And you can't.
+There's no resolutions that I saw to change to.
+41:03
+And again, we're kind of nitpicking here to some degree, but I was kind of bummed that like, yeah, it does not look great on the steam deck.
+It's functional if you have a microscope or real thick glasses or something.
+But the other like Killer Killer for me was Steam Cloud Save.
+41:23
+Because this game, like you're going in and you're spending all of your XP on stuff and you're unlocking all these different towers and things and you're making all this really good investments in meta progression, booted up on the Steam deck, you got to start all over again.
+That's rough.
+41:39
+Yeah, this game has.
+No.
+Saving.
+Yeah, no saving mid run, right?
+Which would be great on the Steam deck 'cause you could just suspend and pause with the button there like I think.
+You can't save mid run, which is upsetting.
+I wonder why that is, 'cause all the time I get a the call to play some squad, I'd be in the middle of some rogue tower.
+41:55
+I'm like, well, I'm gonna just have this running in the background basically.
+And so I would just run both games at once.
+And sure, that was great for for our performance.
+All of a sudden the the 100 hours of of game time is explained.
+But yeah, I don't know, like I feel like these these things of like oh the dev should add this, the dev should do this differently.
+42:13
+Like I I am kind of more interested to see what he'll do next as opposed to like focusing more on like polishing this game up to some degree I guess like I would.
+I'd be curious to see him do like a bunch of like micro game ideas, 'cause there's a lot of really good ideas in this game.
+42:32
+There's not like a Nintendo level of Polish on it.
+But I don't think you really needed to have fun here.
+And I think like in Andrew Nye's case, we're like we've only put, I don't know, 6 to 8 hours in it or so.
+Like, that's That seems like a perfectly valid amount of time.
+I don't think we need to go and beat The Who is the final boss then it's some.
+42:50
+It's also.
+Variant.
+Oogie Prime.
+Big Brain Oogie.
+We don't need to like big dunk 90 hours to be Big Brain Oogie if we can just, like, boot it up, putz around for five hours, and be like, all right, that was fun.
+What else?
+Don't you?
+Don't you want to beat the oogie?
+When the Oogie beats you, Are you not enraged?
+43:08
+Yes, I actually that is the strong one more turn aspect where I was like I think the furthest I got I think was maybe level 35.
+And.
+When you get a real good run going and yeah, you get beat by some stupid thing that you forgot to do.
+And it's always like the like the Super slow moving back and forth.
+43:26
+Oogie Boss is coming in.
+He's the last bot like enemy on the map and all of your turrets are firing and like last line of defense.
+Everything is being thrown at him and you.
+You are doing that mental math in your head of like, OK, you see the health bar going down.
+You see him getting closer and closer to Fortress, and you're just like.
+43:43
+He's gonna make it up like 4000 gold leftover and you're like, Oh no, I never spent my stuff last round.
+Oh God.
+Upgrade, Upgrade.
+Yeah, yeah, that's rough.
+I remember at one point.
+Not real.
+I didn't.
+I didn't realize that he'll one shot you.
+44:00
+I'm like, well, I'm in full hell.
+So, I mean, I'm sure I could take the hit from the big guy and it's like, Oh no, he's the boss, OK?
+I thought he was just like a guy who's bigger than.
+The other there are other named like mini bosses that do like five times more damage or something.
+44:15
+But if an oogie gets you, it's game over.
+He Oogs you.
+That's it.
+Well, you've spent a lot of time in the Bloons tower defense game, correct?
+What and I guess like and yeah, so we did talk about our last spell game which was like tower defense on RPG steroids.
+44:33
+This is a very much more tower defense without the RPG steroids, but like balloons, obviously not a rogue leg.
+So we probably won't talk about here.
+But there is like a mod for it.
+Like in your 100 plus hours of balloonsing, like what would what would be like your ideal rogui tower defense game be if you could take elements from like that rogue tower last spell like all these types of things I.
+45:00
+Think there should be, yeah preset maps.
+I think the the the random tiles is interesting but that that to me doesn't.
+And so like the challenge is can you beat the the single way, the two way, the three-way, so on.
+But really there should be a like a a selection of standard maps and they had different like shapes and like that way.
+45:17
+The challenge is can you beat that shape or whatever better than other people can.
+Or like with a with fewer.
+Resources or with I mean like I think the the drawing a tile at random is like honestly that my the what I'm calling the world world record run was 100% the result of just good luck where where the here's what happens when you every time you expand the map it's drawing randomly from a pool of like I don't know like 50 different like tiles and so if you happen to draw one that splits early on that's it you're like you're going out and your your tile splits.
+45:48
+The one I had I went 2028 tiles without seeing a split and not only that but it like circled back in on itself and so I could have all the lanes shooting at it multiple times and it was just this insane set up and so that level of randomness like at least a fun.
+I think like you could have outrageous runs, but you can also get robbed and I think that's fun.
+46:07
+But like I want the option to have like the set maps too.
+So you can like check off the achievements of like here's the Figure 8 here's the whatever and.
+You know what they should have is they should have the same the thing that they have in like Monster Train or so the Spire where it's like the Daily Challenge, there you go where.
+46:23
+Daily Challenge doesn't.
+Even need to be.
+It doesn't even need to be like preset by someone.
+It's just like it picks a random map and it's like, here's the seed.
+Everyone does the same seed and like.
+See how well you can do on that scene and you're going to get like.
+You know, you know what, You know what game did that and I don't think I've mentioned it so far this podcast.
+46:42
+So it needs to be done.
+Slay the Spire, I think, yeah.
+In fact, Slay the Spire has done that pre.
+Mechanic never heard of that tower defensive.
+One of the ones that I was talking about was like the the pre like challenge of the day, yeah.
+Yeah, sure.
+That would be good.
+And maybe it's like maybe some of them are like, OK, it's not, it's not going to take into account the towers that you have locked.
+47:02
+It's going to be you Here's, here's the random set of upgrades that you have unlocked.
+So like oh you know what we decided to you're not going to get the the vampire lair on this one.
+You have to beat it with cannons and mortars instead like only black powder based towers.
+47:20
+It's like, you know, figure out how we can do it.
+Good.
+But before we get to rankings, which I feel like we're coming on to, that vibe is coming.
+I wanna talk about the music.
+Yeah.
+The music is really.
+Good.
+Really, really good with an asterisk.
+47:36
+What?
+Two metal.
+It is somewhat repetitive and if you've played it for 60 hours and if you're looking at so wait, I first of all I want to say I actually, I I really, really like the music in this.
+It's got like a a harpsichord, weird metal harpsichord vibe is so good.
+47:58
+Like the intro song is great.
+It's like perfectly fits, like the weird quirky like dev vibe.
+I'm pretty sure that the dev is the composer.
+I would be.
+I'd by that.
+Because we hope so.
+Will found his YouTube channel and he right and he had other music for like a different game.
+48:15
+He made that.
+That wasn't me.
+What was it, Scott I?
+Think it was probably me.
+Yeah, yeah.
+And so yeah, and not to be confused.
+With these Stradivarius tracks that were being dropped in this cabin.
+So I And there after the first, the first like 10 levels or whatever, it starts branching into like different genres of enemies to be like, oh, after the 1st 10 levels, you're either going to get the, the, the spooky people, the robots or the elemental people or whatever.
+48:45
+But when it splits into that, it still has the same music for the three different enemy types.
+I think that they should each have their own theme.
+It shouldn't be like because it's it's the same like four or five songs like in the same sequence of orders.
+And so, like, you know, I know in my brain like every time like that level 16 hit, like this is this like, it's like I could just, it goes in my head and it's like, OK, it'd be awesome if that corresponded with one of the enemy types rather than having to OK, I click on it and like, one of them's got more Shields than the other.
+49:22
+One of them's got more armor.
+So I'm going to have to, like, change my strategy just slightly based off of that.
+And I have to go, like, stare at the little tiny enemies as they're, like rushing by and they're like all kind of crammed in together.
+It'd be awesome if the music gave you that, The very good and awesome music.
+For sure for.
+Sure, that's my question.
+49:37
+Will didn't even know I had music, so.
+No, I turned that music off right away.
+Come on, did you give it a shot?
+No, I and the fact that I learned how to like make sure that I could like reduce this.
+Like by default you can't minimize the size of this game.
+There's some settings you can change within the steam like setting.
+49:54
+Basically I wanted it on like 3/4 of my screen so I could watch a show.
+I mean, you'd boot up some.
+Star Trek over here.
+Watch.
+Some Seinfeld right.
+Imagine if Seinfeld had a harpsichord sound contract.
+That would be something.
+But yeah, the the, the, yes, it is.
+Very sort of.
+What's the deal with UI scaling anyway?
+50:12
+What is that?
+Deal with that.
+There's a proud tradition in a fantasy themed power metal of harpsichord usage.
+Lots of songs will have little harpsichord intros and things like that, if not just harpsichord throughout.
+It's nice to have that there.
+And then you got this awesome, great like double bass drum going on with the.
+50:29
+Track Oh yeah, The double.
+The double kick drum.
+Really, really solid.
+And then in place of like you'd expect there to be like a guitar, there's instead like a traditional.
+And anyway it sounds good.
+So it's like you get like that sort of that marching exciting metal theme and vibe about it without some of the harsher instrumentals that sometimes turn off and metal good soundtrack good stuff most.
+50:56
+And the the other sound effects are all like, you know, fine, there's nothing like grading or annoying about them which sometimes you can you can run into.
+So it's not really a standout, but it's like it's not disrupted and it like works.
+It's kind of fun hearing of all your all your ballistas blazing and to to jump off at this point.
+51:15
+I was I was gonna bring up the music if you if you didn't.
+Colin.
+Hey, Andrew seems wildly confused about this game.
+Has no idea what he's doing, hardly understands it.
+And yet I've played it for six hours and I have had fun throughout that time.
+Why is that?
+51:32
+I think that the yeah, there's a lot of charming elements about it.
+The music, the presentation, this general sort of like feel of like placing things down and seeing the game play on.
+Pretty engaging.
+The the draw of one more run is is really big for sure.
+51:49
+The enemies have little little bits of dialogue, which are kind of cute.
+My favorite one is Nobody's Gonna Kill Me Immediately gets killed.
+What a loser.
+And furthermore the the tile placement.
+52:04
+Although it does, you know add maybe too much randomization, it would be great if there were preset maps or some sort of an option for preset maps or preset challenges as we've discussed the randomized tile and picking where the tile you want to place a new tile.
+That system I found to be very engaging and exciting and kept things like fresh and so yeah, it's I think a well presented and well designed game for sure.
+52:30
+It is fun, even if you are floundering like me, to grok everything that's happening.
+Rating time?
+That sounds like a rating.
+Yep.
+Yeah.
+What's your rating, Andrew?
+Well, it's coming in at #7 on the list.
+52:46
+So hey, pretty high.
+I think it, I was having a little bit of a tough time deciding.
+This has happened a couple times where I am sort of looking where I wanna place the game in the stack rank and I find one way heroics and I have to think pretty hard about it.
+53:04
+And while I think one way heroics is probably it basically just came down to like which one did was just more raw fun.
+And I think the there was AI was having more fun, more of the time playing Rogue Tack, so it beat out One way Heroics and is #7 on my list.
+53:23
+I think for me I'm probably like my number my numeric rank or rating is probably harsher than it sounds.
+And yeah, like I was trying to like look through my list of games of like well, does Rogue Tower belong higher than this game or not?
+53:39
+And I think my litmus test was Brotato, where similar like solo dev effort.
+But like Brotato doesn't really have a theme.
+It's.
+I don't know.
+It's fine.
+I can see why people like it.
+I don't think it's really for me.
+I think Rogue Tower has a lot of stuff that's like I would like, but I think it's anchored a lot by its UI.
+54:01
+And I think if if like if this was a game that was developed by the studio by like the lead dev and like a couple like UI people and like a dedicated UX person and then Mason was just like the guy with like all the programming behind the scenes, it would be like soup like 2 thumbs way up.
+54:20
+But I think my 6 out of 10 for ranking like sounds harsher than it is 'cause I did have fun playing this.
+I did have a really strong like MU oogie.
+I'm gonna get you with my new upgrades this time effect.
+I don't think this game on my list is higher than Broteo and I think I had more like understandable fun with Hand of Fate then then Rogue Tower.
+54:46
+Like, I I get I get why Colin and Will are gonna rate this higher.
+But yeah, on my list it's gonna fall right in between Hand of Fate and Dungeons of Dreadmore.
+It's it's fine.
+You know it's like, I think it's I think the music is great.
+I think like the music actually gives this game like an extra like point and 1/2 on my system.
+55:04
+But yeah, I think like, the music is good.
+I think like the overall gameplay flow is very good.
+The UI stuff holds it back a lot.
+But like, yeah, I think I'm I'm interested to see what this dev has more to offer.
+Anyway, wait a minute.
+So when you say you understand what we what?
+What we're going to say?
+55:19
+What do you think we're going to say?
+You're going to say, oh, I love figuring.
+Out the puzzle of how to optimize for 15 hours.
+Fucking right right there.
+I'll.
+Tell you what I mean.
+That's the thing, All this UI griping that you all have.
+I mean, like, yeah, I get it.
+I click through things and I I deleted a tower once.
+55:36
+And then what happens?
+You learn and then you don't.
+Do that again like the part.
+Of the fun of this game.
+Yeah.
+It's just like you don't know what the fuck is going on.
+You're like what why is that thing upgrading?
+Like it's just sitting there.
+Why is it upgrading at armor?
+Why is it like, oh, then you eventually learn these things or like you get so invested that you look it up on the Internet and or you, in my case, you get a spreadsheet out and you heart, you start extracting data and you start building extremely complicated spreadsheets with lots of cool little lines and like you know and that's just like.
+56:04
+As soon as I B lookup and H lookup.
+Oh yeah, I mean, we're going to do index matching all over the place here.
+We've got.
+I had to I had to ask ChatGPT to give me the the, the, the, the formula to turn a summation into like an actual value.
+I forgot the term for that.
+That's how good at math I am right now.
+56:20
+But like it it like works beautifully.
+But like.
+The fact is, if I have to get a spreadsheet out because I'm so interested, it's automatically going to be at least an 8.
+And I'll tell you what, War SIM got the same This one.
+I gave it an 8.5 war SIM, also an 8.5 war SIM.
+56:36
+I had in a spreadsheet out because I needed to know how to win in the Coliseum and it had that similar.
+Sort of like how the heck do I beat it?
+And I'll tell you what, when you beat the four way for the first time, feels really fucking every time you beat each one of these things for the first time.
+It's super rewarding.
+And then, as I like to tell myself, the world record for single one lane without the March of monsters like, Oh my goodness, it's pretty rewarding, right?
+57:01
+Nobody.
+Can someone challenge that, show me evidence that you can beat me.
+Otherwise, I posted mine to the subreddit and everyone saying, well, the two people that responded that they've ever.
+Seen all right.
+So 8.5 ties ties it for the third place with Warsim so it's true.
+57:21
+Only behind Rimworld and Luckbia.
+Landlord.
+So truly a phenomenal game.
+Highly recommend.
+I'll start right with the score.
+I also rated an 8.5 between Cogmind and our other tower defense game.
+The last spell I think this come, this game in many way comes close to my platonic ideal of like a path of game that I get drawn down like the weird.
+57:48
+It's like not not really a small game but it's very very focused.
+I I, I think I've said often on this podcast before that like I could play a lot of these games with ASCII graphics or like I don't, I don't need the graphics in order for it to really catch my attention.
+58:08
+If it has good gameplay, I think this comes pretty close to like that ideal The graphics are there and they fit the low, the simple aesthetic of like, we're not worried about graphics.
+58:24
+We're putting the best graphics in here that are for just that raw tower defense goodness.
+But then there's like some fun stuff in there.
+Like they you know that there's some good colors in there at the ends and like you upgrade some stuff and it's got like, well, you're shooting the arrows and it's got the the colored flames that go behind them.
+58:45
+Like that's fun.
+The music is pretty good, even if it does get a little bit retentive if you play it for 60 hours.
+The gameplay is excellent.
+I think the the way that all of the upgrade systems and the math and all that, like how they interact with each other actually is a very like.
+59:05
+It lets you get pretty in depth into it if you want to like try and figure out the puzzle of it.
+And it's not.
+There isn't a single answer to what is the best, the best system like there are ones that are better or worse.
+But there you can you can get very far in this game using very very different strategy which I find to be enjoyable.
+59:24
+Like you can be like, no, I don't want to play with ballistas.
+I'm going to do everything else and still do like go very far and play play it well.
+I think it's a little bit Hanford by the a lack of like final Polish.
+But in in like in the end I don't think it really really needs it.
+59:43
+Like, it's not a it's it's not a AAA game and you can get by like none of the none of the little UI quirks really make it unplayable.
+It's just just like, oh, that's kind of annoying or oh, that took me longer to figure out than I than I feel like I should have, but I did in the end.
+1:00:00
+So yeah, it's #5 overall for me, 8.5, I think it's a really good game.
+I think it's it's a fun you can get fun out of it for six hours or 60 hours.
+So I think you get pulled in pretty quickly.
+1:00:15
+Well, that's going to land it overall at our new number 12.
+Out of the 37 games that we've played and our number one for this season.
+Yeah, will so far, one for one with the 100% batting average, it's going to place Rogue Tower just behind Invisible, Inc and just ahead of Loop Hero on our mega overall super list.
+1:00:41
+Yeah, if you want to write into the show to tell Will just how wrong he is about his world record attempt, you can do that with grogpodzone@gmail.com.
+You can find us on Mastodon at Grogpod game dev dot plays and our website where we have all this stuff all bundled up together neatly.
+1:01:00
+Grogpod dot Zone, other episodes, etcetera, etcetera, etcetera.
+Colin, have you finally made a decision on what game we're we're going to be playing for next episode?
+No, the coin must.
+The coin is no.
+The challenge coin?
+The challenge coin All right, so it's between Heads Into the Breach or Tails Wildermuth 2 quite different games so Tails Wildermuth.
+1:01:23
+Wow.
+Fuck.
+Fuck.
+Will Will is deeply upset by this.
+I feel like the challenge coin has always gone against the anti will pitch.
+I don't like this coin.
+Coin.
+I don't.
+Actually, so I don't know.
+1:01:39
+I don't know if we'll like Wildermuth.
+I can tell you right now that I'm not a huge fan of the aesthetics of the art, but I think the rest of the game looks really interesting and it's what I want out of the future of games, so I'm excited to play it.
+Yeah.
+I think it's a it's an interesting interesting next thing for us to to look into but but until then that's gonna wrap up our our first episode of this new second season of the show which is completely different as you can tell from all the other the ones that we've done.
+1:02:09
+And yeah, until our our next episode of is it Wilder Myth or Wilder Myth.
+I don't know.
+I guess we'll find out when we cover it.
+Someone will write it right into the show Grogpa games on a Gmail, I think.
+It's so last year, but yeah, I guess we're we're gonna find out.
+1:02:27
+Hopefully they say the title interaction cinematic.
+Welcome to Wilder Myth.
+Yeah, yeah.
+Rogue Tower 2.0 Yeah, well, to play us out from this episode, no, that's not the song Black Diamond by Stradivarius that you're hearing.
+1:02:44
+It's something else just as good, the chaotic goblin forces of Ugi bearing down on your portrait.

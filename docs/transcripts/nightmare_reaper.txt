@@ -1,0 +1,1497 @@
+0:00
+None.
+0:31
+Hello, listeners.
+You've been locked up in here for days.
+We've controlled your every move.
+We've told you what to eat, what to think, what to say, and when you show a glimmer of independent thought, we strap you down and inject you with Rogue, like video games and call it a treatment today.
+0:49
+Well I am your today I am your certified medical professional, host of the Grog Pod rug like podcast, Scott Burger and screaming and torment from the other asylum rooms with me are my Co hosts.
+That's.
+Right.
+1:04
+It's me orderly Andrew Harshman, happy to be here.
+I am not insane, Will Wright.
+And it's me, Colin, a random Super Mario Brothers level inserted into this fantasy.
+This week we are talking the American healthcare simulator Nightmare Reaper, released in Early Access July 16th, 2019 and one Point OD in March 20th 2022.
+1:34
+This is a game that you can kind of almost find it anywhere.
+It's on Steam, PlayStation, Xbox, which or where else you need to find it DOS.
+Maybe it this was developed and published by Blazing Bit Games from Montreal, Canada.
+1:53
+Previous developers of a game called Macabillis Macabillis kind of a schmump RPG in 2015 and then 20/19 with Nightmare Reaper sort of a one man op in air quotes.
+I think this was.
+2:08
+I think the developer said that he it was a mostly solo dev effort but with quote a lot of help from from other people.
+But let's see, we got Nightmare Reaper rolling in on the Gurney in the hospital here to our number 200 and 34th most popular rogue like game with 3200 total reviews.
+2:29
+Andrew, what's the one sentence prescription of what one does in Nightmare?
+Reaper Oh well.
+I think I'm going to have to write this out for daily 10 milligrams of nightmare fueled 2.5 D aesthetic retro looter shooter extravaganza with, you know, the optional supplements of a.
+2:58
+Quality heavy metal soundtrack indeed.
+So I right out of the gate I was surprised to see that there was no in Perma Death.
+In the scam.
+And I thought immediately, Wow, what's I wonder how Rogue like of an experience we're actually in for.
+3:17
+And I think I determined pretty early that this this is definitely a Rogue light in my humble estimation, but I'm sure we'll be discussing it at length.
+Yeah, I think this is, this is an interesting game because this is our first shooter that we've had on the pod so far like an actual like first person shooter shooter and not a an area that one would really associate with with games with ROGI elements per SE.
+3:48
+But this has been kind of on following a trend of resurgence from this genre I guess of old question mark.
+But there's there's been a lot of of these games called Boomer Shooters coming out recently, which I guess is like an apartment turn for your 3D Realms style, like you said.
+4:10
+Is your grandpa shooter.
+Yeah, I mean like.
+Yeah, 2.5 D games, Games that look 3 dimensional, but behind the scenes they're they're kind of technically 2 dimensional games, but they are tricking you into looking 3 dimensional.
+4:26
+Now I of course Nightmare Reaper I assume is running in like Unity or Unreal or something, but it definitely has that aesthetic of old, wherein it's a rather rudimentary 3D environment populated by 2D Sprite objects and.
+4:42
+Monsters and creatures and the like.
+And this is following hot on the heels of other games that have had quite a positive reception to them, like Dusk, a medieval ultra kill.
+I think we can all kind of say that the publisher New Blood Interactive has been doing some good work on that.
+5:01
+But other notables that I've I've been seeing I've been like getting back into this genre.
+I think largely from seeing like Andrew Hirschman is now playing this game like say so things like Cultic or the the re release of Blood H Rot Proteus, Warhammer 40K Bolt Gun was one that just recently came out.
+5:21
+There's like there's a a growing resurgence of like these lo fi first person shooter games that I think because of the lower like graphical complexity, like you don't have to model like a gun that's like 10 million polygons.
+5:37
+It's just like a flat 2D Sprite.
+You can put a lot more.
+I guess your time to creativity is a lot shorter maybe and it seems like there's there's just been like a big explosion explosion of of these types of games.
+5:54
+A nightmare Reaper being a good tip of the spear for how those games have infiltrated it.
+The the rogue genre as well.
+But it's probably fair to say that Colin, you and Will shooters maybe not your first choice of genre, and particularly boomer shooters as they are so so-called.
+6:16
+Indeed.
+And I'm I'm glad that you're bringing up this this topic because I wanted to get that that information as well because I know this is a genre that.
+Is.
+I'm very fond of, definitely one of my top genres, and I knew it was yours as well, Scott, but unclear, I mean, surely I I remember we've played Counter Strike together, right?
+6:37
+Yeah, Counter Strike.
+Well known for its 2D sprites and fake rotating 3D environment.
+But you know.
+Games in which you WASD around and shoot things.
+Sure.
+Despite having 1000 hours into a game that is just a shooter and squad, I don't I'm not good at them.
+6:58
+So in some ways a game like this is better for me than a game like Counter Strike.
+Because Counter Strike I realize on actual skill and for this it's just like well I could just get the chainsaw grappling and that's fun.
+So I I I'm, I feel like I'm I'm will might be more down on it but I'm I'm medium on this.
+7:18
+I actually, I like it better than top down shooters.
+Interesting.
+Because I'm even worse at those.
+Yeah I mean like I I you you correctly assessed my opinion on this stuff.
+I I'm, I'm not a big fan I I like first person shooters don't get me wrong.
+7:35
+Like like Colin said the game we played over 1000 hours of a game called Squad.
+Prior to that it was like what is it Planetside 2 I think and then I.
+Forgot about the Planetside Counter Strike?
+All the battlefields we played a lot of.
+All the battlefields.
+But those are all shooters that you don't have to be good at to enjoy.
+7:53
+Not that I'm presuming skill here or anything, but I'm I feel.
+Like there's a big there's a big divide between multiplayer shooters and single player shooters.
+Well I I played my fair share of single player shooters as well and and I I like to think that well, some of them really I I think are are fantastic.
+8:09
+Well, maybe not fantastic.
+None of them ever hit my like the top of my my tier list.
+What am I thinking of?
+A game with a a girl called Elizabeth.
+Some like, yeah, that game had a great time.
+8:24
+I thought the setting and the narrative really drove the story forward.
+But coming back to this game, just to kind of that was all the context I I hated Doom.
+I hated the remake of Doom.
+I don't like.
+To be clear, there's Doom like 1991, and then there's like the recent remake Doom 2016.
+8:47
+Did I not just say that the original the 1st?
+You're just you're blanket bombing the whole.
+They're all they're they're they, don't they?
+I, I, I get, I get it.
+You're going in there.
+And the fun is supposed to be coming like from like.
+The metal sound, the gore, you're you're so powerful.
+You're killing all this stuff.
+9:02
+You're ripping the skull off this thing it's so bad at.
+It doesn't.
+It doesn't really do it for me though.
+I I I found that the same feeling in this game where I'm just like, Yep, I'm running around.
+Things are blowing up in their little 2D fashion and didn't matter what kind of gun I was using.
+9:20
+You know a shotgun a a flaming eyeball of kicking them.
+I don't know.
+It just it didn't really hit that.
+Like, this is fun.
+This is like a OK, now we're at the end of the level yet.
+Oh, there it is.
+Good.
+I I could have gone back and looked at all the secrets.
+No, you want me to stare at every wall and trying to find the little cracks I can't be wasting my time with?
+9:39
+That I like to think that there's in the far future, some avid listener.
+This program is eagerly playing each game episode by episode while listening to our podcast and just getting excessive whiplash going from our turn based wholesomeness of Wilder myth last.
+9:55
+Episode to our.
+Asylum, screaming, shotgunning, Doom clone for this week and just being like, Oh my God, well, I think a, it kind of underscores how broad and diverse this genre is.
+But yeah, like, there's going to be stuff that's like some things are going to resonate with some audiences, some things are not going to resonate with other audiences.
+10:16
+And that's perfectly OK.
+And yeah, I think, I think for this game, it really kind of sets the stage in like maybe the 1st 10 seconds that you play it where you wake up.
+So your story, our story begins with the player character.
+10:34
+Well, yeah, I guess.
+Do you do you start in the the gun part of the game or do you start in the hospital part?
+I forget.
+Great question.
+I am racking my brain trying to remember.
+It's been a very long time since I.
+Played that first part in one one of those places.
+10:51
+Yeah, I I want to say.
+What are the other?
+I want to say you start in the quote, UN quote, dream world, where you are running around basically a doom level, gunning down zombies and monsters and things.
+And eventually you'll take enough damage and you'll you'll be like, Oh no, I'm dying.
+11:09
+And your hand, your player character's hands will reach up across the screen.
+They're covered in blood, and then you blink and you wake up in an asylum room, a hospital room, that there's really not much going on here other than a whiteboard with I guess a map of the city question mark and some notes.
+11:27
+I guess a note left by your doctor, but not maybe not to you, kind of detailing the the interview process with the player character patient of oh, it was my first day meeting the patient and she seemed wildly out of control and really kind of painting a mystery of who this person is and and so forth.
+11:49
+And really, you don't have much to do in this single room other than yank at the door that's not moving, looking around, looking out the window and then just lying down on the bed and going to sleep back to the dream where you start the game, I guess maybe for real.
+12:07
+The nightmare is real and you come back into the Doom level and you run around gunning monsters, picking up guns and such and trying to find, trying to find the exit until you are, well, you find the exit and then you are taken back out of the drain to the hospital.
+12:23
+And that's, I think the the main part of the gameplay loop here is that sound, right?
+That is those are the that's those are the broad strokes you.
+Missed the one big thing, though.
+Oh yeah.
+I mean the Mario levels.
+The Mario levels.
+Indeed, the meta progression, if you will, is done.
+12:43
+We'll get to, we'll get to Mario, alright?
+OK, OK.
+But so yeah, each level, you are only given one chance to get through that particular iteration of the level.
+If you die, boom, you go back to the hospital, you have to start the level over again.
+Now it's the same.
+12:58
+Level, but it's been reconfigured.
+So there is like procedural.
+Not exactly procedural, but randomly generated levels.
+It's got, you know, a nice library of of modules.
+The modules are all sort of shuffled together and populated.
+The, the.
+13:15
+The.
+Each level is like themed should be noted.
+You play through a level like I believe it's there's there's three parts generally and.
+The so the the the exact placement of the enemies is always randomized, but each of those 3 sections is going to have the same is is pulling from the same hopper of monsters.
+13:39
+But like the way that it's the levels laid out, where the secrets are located, where the loots located, where the exact monsters are placed is going to be different each time.
+And the game does a pretty good job of giving you a fresh experience, even if you have to replay a level over and over again.
+Because you you got, you got got.
+13:56
+But during that time you pick up loot.
+And the one crucial thing that I want to point out, Scott, is that crucial part of the the loop is that when you get to the end of the level, before you go back to the hospital, if you successfully complete the level, you're given the opportunity to keep one of the guns that you have looted and bring that with you on to the next level and.
+14:18
+But even if you die in that level, you still you still keep that weapon, you just have an opportunity to to change out which weapon you want to keep.
+Indeed, but if you find a new weapon if you want to keep.
+That new weapon, you do have to successfully complete it.
+That has been an issue for me once or twice.
+14:35
+Well, I think like.
+And then the asylum section should be noted real quick that it does begin to expand a little bit.
+Every time you beat a level.
+There's a new doctor's note as you get further and further in the game the your the door into your room is left ajar or can be open and you can start exploring the hospital a little bit.
+14:53
+I mean, I'm 12 hours in and I've only explored like 3 hospital levels and admittedly the asylum.
+Section is underwhelming in my opinion.
+This game is, I think, too long.
+What is the completion time?
+I I looked it up and let's see here.
+15:12
+According to Google, takes 20 hours.
+To beat the main game.
+Oh.
+Which yeah, I think like that sounds right.
+I saw I was watching a developer interview and he said it was something like maybe generously like 30 to 40 hours to beat.
+I think maybe he was talking about like 100% in it.
+15:29
+But other people's like YouTube playthroughs I see like maybe an hour ish per per three stage level.
+So like 10, yeah, but 11:50, maybe 14 sounds about right, I think.
+Well, they're not.
+15:46
+They're not on the levels I'm on at the moment and with the weapon selection that I have, I have poorly chosen.
+I liked this game a lot more until today.
+I I was playing a lot of it and then I took like a break over the weekend.
+I was busy and I sat down with it today for a few hours and it was the worst few hours I've had with this game.
+16:07
+I'm I'm on some hard levels and I picked a bad gun to hold on to.
+Basically.
+Are stuck and you can't beat it with.
+Yeah, well, so I have the well.
+I finally have moved on to a new gun, but I there were like 3 or 4, pardon me, two or three levels where I was stuck with this legendary rocket launcher.
+16:26
+That was awesome, except for these levels which are very tight and cramped, and the amount of me blowing myself up I was getting to be very annoying.
+And then I finally found a gun that I thought would be my salvation going forward, and I could see myself keeping it throughout the rest of the game.
+16:45
+A plasma rifle.
+A very good, sort of like general purpose assault rifle.
+High damage, cool effects, good sound effects.
+And alas, I was.
+I got to the end of the level and I was not allowed to keep it because I have yet to upgrade the meta progression upgrade of saving Level 3 weapons.
+17:02
+So I had to cast it back and instead now I have like some legendary magic book, which is, I don't know, it's OK, but it's kind of underwhelming.
+Anyway, that spiel that I just did kind of highlights the fear that I had going to this episode, which sort of the level of granularity, that's the the level.
+17:21
+Of detail in the commentary that that I have come prepared with is a few layers deeper than just like is this a clone of Doom or not?
+What makes it different from other FP s, s like?
+I have some notes that are are are very are very in depth but real.
+17:40
+Quick about.
+I'm sure we'll get to some of them.
+Yeah, about the weapons.
+Great selection of weapons.
+I think the weapon of this.
+Game feels good.
+It is.
+It is really nice.
+I think there's a good diversity of weapons you have.
+And they all have random effects, different different stats, different.
+Cool.
+Neat abilities, sorry go ahead.
+17:57
+Yeah, and like and lots of wackiness to it too.
+Where like I think a lot of the weapon design in this game feels really tight and smart, like the knife.
+So every every weapon in this game has a main attack and a secondary attack.
+18:13
+A pretty cool but B like the the types of secondary attacks that you have going on are actually like pretty interesting for shooter games also, particularly for this genre.
+Like your melee melee weapons.
+You know you have things like knives, claymores and like the knife.
+18:33
+Like just to kind of under score this, like the knife just has like a really quick quick like infinite ammo slash thing and then the secondary thing you can throw the knife.
+And I believe the throwing knife also has infinite ammo right.
+Yeah that I felt was like like good idea, very good idea.
+18:49
+Possibly the best idea in this game is the chainsaw grappling cook where just chef's kiss of of weapon ideas.
+But you have other things that are like you have 3 ammo types, you have light ammo, heavy ammo and magic ammo and light ammo.
+19:08
+Things are, you know, like pistols, I guess.
+You can get a bow sawed off, shotguns, SM GS, a mini gun, heavy stuff, you know, You got your regular bazookas, grenade launchers, sticky grenades, all sorts of good ideas and magic items in here like poison Staffs, tones of fire that like really cool, like open up away from your view and like the pages are flipping back and forth like towards the enemies, which I thought was kind of cool.
+19:38
+Yeah, all of these have like, distinct, sort of.
+Projectiles and behavior, which like makes it engaging and interesting and adds a lot of variety that isn't just, you know, aim as quickly as you can at the most vulnerable part of the enemy and hit left click like there is a lot more going on in the weapon selection than just shoot as fast as you can.
+19:59
+Can you drill into that?
+Because that was my experience is like, there's the enemy take whatever weapon you have, doesn't matter which one and just click it and.
+It goes well, see I I feel like there's maybe a missed.
+Opportunity in the design.
+I wish that there was like a some kind of a skill tree that you could, you know, reroll constantly to kind of build a new type of playing style to to, to that that plays to the strengths of whatever legendary weapon you're currently like bringing from level to level.
+20:32
+So to drill.
+Down into that, the for example.
+Well, I mean the way that the actual, like physical projectiles work.
+Like, they're not all just bullets.
+They're not all just tiny projectiles flying straightforward.
+So right out of the gate, like in the very first level, as you say, Scott, like the example of the knife.
+20:51
+It's like it's a melee, you know, horizontally cutting weapon that you have to be close to use it or you can use the projectile, which I think is a little slower, I don't quite recall.
+So like.
+Each weapon has different.
+Behavior that isn't just like in Counter Strike out, like in all the sort of the rifles and things sort of behave the same way.
+21:10
+There are bullets where it is a small projectile and it's going more or less forward.
+Of course you have variety in how.
+Quickly those bullets.
+Move.
+But then with these different types of weapons, the projectiles are different sizes.
+They have different like, you know, Ballistics in that for example the the grenade launcher that I was, I was riding for a while that I was complaining about.
+21:28
+In a very short.
+Range, but you have to kind of account for like the arc all the different magic weapons.
+Some of them are like heat sinking, some of them automatically go out.
+Some of them spawn creatures that you can create.
+So I guess about my point what I was.
+Saying initially is that yeah, since the projectiles all behave differently each gun, you do have to use it in a way that isn't all Sammy cuz I mean it would have been.
+21:53
+How boring would it have been if all of these different weapons were just reskins of an AKA 7?
+Well, what I'm saying is that they're they're not.
+There's distinct, you know, behavioral differences.
+I but the the, the lived experience though.
+OK, I've got that magic staff.
+22:08
+It's got the heat seeking and or the eyeball thing.
+I don't know what I'm holding exactly.
+But I think I know what you're talking about.
+The eyeball.
+But.
+Yeah.
+It lies around and attacks enemies.
+I think you can.
+If I'm not mistaken, I I only picked up that weapon a guy handful of times, but I believe, I believe you could control it.
+Like you have, like a laser.
+22:24
+Pointer and you can kind of dictate.
+Where it goes I I might be kind of kind of guessing, but.
+Well, do you know where I always wanted to go?
+Where is that?
+Right to the thing that I wanted to shoot.
+That's why I'm always clicking and it's going out there onto the target.
+22:40
+And so it's just always this game of like, Yep, it's it's some form of click, left clicking on the target and maybe you have to wait a second before it blows up and and and in some cases maybe you have a shotgun where there's lots of pellets.
+Maybe you have, you know, rapid fire, maybe you're shooting ice things.
+But in every single case it's just different.
+22:56
+Elemental effects too.
+Yeah, elemental effects, yeah.
+And there are grenade.
+There is an arc sometimes, but in every case, it's always just like, you know, it's it's you.
+You're killing the thing by either, you know, explosive by causing damage to it.
+Well, well, I mean, I will admit that in a shooter game, indeed you will, you will be needing to shoot, OK?
+23:17
+Let's think about Halo.
+Can we think about Halo for a moment?
+That's you want to talk about like interesting, like a first person shooter where yeah, the like, all the enemies are not just simply like point at them and shoot.
+Some of them have little shield things.
+They then there's a little weak spot at the bottom where you can shoot through the bottom or the top, but most of the time you have to throw a grenade behind it.
+23:37
+Other ones are, you know, they have a very dangerous close range of broad attacks that can jump at you.
+And so like invisibility, we're talking like a true, like you have to adapt to what the enemies are doing And this one, they're all running at you or they're all flying at you.
+23:52
+I mean, it didn't feel like it didn't give me that level of engagement that you would get out of something with better enemy.
+Design in the example that you're giving of Halo, yeah, there is great shooting gameplay variety in the enemy behavior.
+Absolutely.
+I think in this game the.
+24:08
+Shooting variety the.
+Shooting.
+Experience.
+The variety that's offered is in the different levels and the different wacky weapon combinations and things.
+And I will admit that I too felt like in the first, oh, I don't know, half a dozen levels or so.
+24:27
+The first, you know, 4-5 hours.
+Yeah, it was a lot of enemies running towards me or flying towards me.
+So I I see where you're coming from.
+I think that's later in the game.
+There is a bit more variety and enemy behavior, but you know, they could stand to be more certainly.
+24:47
+But I I think you're undervaluing the.
+The diversity of experiences to be had from the arsenal in this game, I think the guns behave distinctly and.
+That it is it is interesting, and that perhaps it's limited by the weapon selection and the level design that's offered in the first six hours of the game.
+25:07
+Yeah, I think, I think that's it 100% because I think that like I'm I'm sort of in in the middle where like I think the weapons like play really well, but they're not given an opportunity to play really well.
+And and I was thinking this exactly same thing about Halo with like the Halo sandbox and you get into like a combat environment and there's a lot of different movement options.
+25:29
+You have to like Juke your enemies out and A, there's a lot fewer of them.
+But B, like your, your decision making ability in that combat space is much more fluid and frantic.
+I found myself like, yeah, and the first like handful of of worlds and levels and Nightmare Reaper to just kind of be cheesing the game by like going into a big combat arena and then backing out immediately into the little doorway and just being like, OK, come to me bam, bam, bam.
+25:57
+Until I got this legendary shotgun that had a an affix to it of like, shoots random, shoots a random projectile.
+And at first I thought that meant, like, oh, it'll shoot a different random projectile every time.
+But it's just like, oh, this one shoots like the same projectile, just, you know, out of the selection of whatever.
+26:18
+And it shot out like these.
+I can only describe them as demonic bowling balls from the shotgun, No idea what they really were.
+But that really opened up the play space for me because I'm like, OK, now, like, I have this, like, laughably overpowered weapon.
+26:34
+I can go into these environments that I think are like, OK, maybe Andrew, you can fill us in on the movement mechanics here in a minute.
+But like the the movement in the early part of the game feels a little stifling and maybe if you have the chainsaw grappling hook, you can kind of get around that a little bit.
+26:51
+But like it's it feels a little limiting and overwhelming from a movement perspective, which I can kind of get for like that early game.
+Like, you know, it's it's hard.
+You know, you want to make like a pun punishing, you know, overbearing experience to keep that kind of live die, repeat gameplay loop going.
+27:09
+But yeah, like once I was kind of able to get a little bit more fluid movement options like OK, this feels like it's starting to move like evolve a little bit getting some higher level weapons with some like more interesting and fixes to him Like OK yeah, like this is starting to to feel more combat arena.
+27:30
+E like you would see in like a Doom 2016 or like Doom Eternal kind of deal.
+But it I felt like it just took too long to get there and I had this really bad experience of a playing the demo, like, I don't know, six months ago and really liking it.
+And I'm like, oh man, this feels great.
+27:46
+I can't wait to play this for the podcast eventually.
+So I was super excited when Andrew picked and I'm like, yes, OK great.
+I had bought like the actual version, but the I I put maybe like five or six hours into the demo before kind of burning out.
+I'll put this away for later, but surely my demo progress will carry over, right?
+28:05
+No, I had to start all the way over from the beginning.
+Like, OK, let's give a shot.
+Let's start over from the beginning.
+And it just, it felt so grindy to get back in.
+I'm like, oh, I don't know if I really want to.
+I think I've gotten to the same part where I fell off last time.
+28:21
+And if it was like having those movement options that you kind of alluded to Andrew, as the game opens up, if those came in a little earlier, I feel like I would be more into it than where I'm currently at.
+Indeed.
+28:38
+You're where you were when you fell off before.
+Are you feeling the same fall off at that same spot?
+I think I'm feeling worse actually, because when I was playing the demo I think now I I might be wrong, listeners can write and then correct me.
+But when I was playing the demo, I thought for sure one of the traversal movement options was being able to ledge grab and being able to like oh like these.
+29:00
+There's platforming sections throughout the game.
+They're optional.
+You get some nice loot at the end of oh.
+Thank God for that.
+Some of those are terrible.
+I know they're OK.
+I mean, like they're they're not great, But like, you know, there's.
+Some of them I That was, yeah.
+No, generally I thought it was.
+It was.
+29:15
+It was good addition.
+But there are a few like but.
+They but there were a bunch of times where I have just missed the ledge of of a platform puzzle and be like and then you have to like jump through a spike pit to get to the start and then you got to try it all over again.
+I thought, I am gaslighting myself 100% into thinking that the demo had a ledge grab option to it.
+29:35
+That when you go through this bamboozling upgrade tree system I think is has been moved to a an upgrade tree unlock and I saw that I'm like wait a minute, I thought I had that option before.
+29:51
+Are you telling me this whole time I've been playing with something that got moved into this goofy upgrade system and then, like, my enthusiasm just kind of dived off a Cliff off of that?
+Interesting.
+I I had no idea that the such an option was in store for us.
+So like, yeah, the early levels are kind of these, they're like cave themed and it's like very fairly tight quarters you're you're it's the level design is pretty rudimentary initially and in terms of movement.
+30:22
+Yeah, yeah, you're kind of slow.
+WASD movement.
+You're jumping around, You have a decent jump height.
+That's about it.
+And then as you play the game, over the course of the next like 10 hours, you unlock a dash, which can be used to help you get over, you know, gaps and things, and to avoid attacks and things like that.
+30:42
+Eventually get a double jump.
+Eventually you get a better dash, you get faster, you get a grappling hook at like level, at like, pardon me, at like hour 8, but I agree that's way too slow.
+These upgrades should be coming quicker and it's unfortunate that the game is hasten that way.
+31:02
+Can we talk about?
+I think it's an issue for sure.
+I think we have to talk about the real nightmare of this game of the upgrade system.
+Yeah.
+All right.
+So number one, we got to figure out a term for this.
+Where a game gives you an upgrade that feels like should have just been the bog standard default, that's that's like a terrible feeling.
+31:26
+It's like, all right, great.
+I unlocked this thing and it's like, Oh yeah, I really should have had this right at the gate, like, you're.
+Starting like ammo pools.
+Way too small.
+Initially I think you're only out able to carry like 2 guns and that is that's no good because the fast-paced gameplay is getting broken up by you not having enough ammo and needing to switch guns.
+31:46
+So you have to like, pull open your inventory, drag one of the guns that's not selected into one of the hotkeys.
+Eventually I'm at. 4 gun slots at the moment and four feels pretty good and it probably just should be that's.
+Probably just be standard.
+And there's all these little tiny upgrades that are OH, plus, plus five additional ammo, plus five additional health, plus I.
+32:08
+Think one of the small.
+Percentage of like, oh, go ahead. 2% weapon quality upgrade.
+Give me a break.
+And and of course, it's been alluded to.
+Who wants to?
+Who wants to tell us?
+All of this unfortunateness is wrapped in a mini game.
+32:24
+Yeah, you're playing Super Mario 3.
+Like, wait wait wait, no.
+That would be a huge improvement if it was Super Mario 3.
+This.
+Hey, Super Mario.
+It Super Mario 3 is to this as Doom Eternal is to Doom original in terms of quality.
+32:43
+Well, yeah, something to that effect.
+Except that Doom is, of course, a genre creating a classic.
+But yeah, this so in order to yeah so you pull up the skill tree.
+It's not even a skill tree, excuse me, because they're not really branching points.
+32:59
+It's like you pull up the meta unlocks and it is laid out in this QT UI where it's like your character has like a handheld that looks like that, you know, flip open Gameboy Advance.
+Nintendo.
+DS or something.
+Yeah, DS and and and you have a little overworld, like you're playing Super Mario Brothers 3 and you move your little character to a upgrade says hey, plus 10 maximum ammo of whatever type.
+33:25
+And then in order to it's.
+There's a requirement in game money currency that you've been collecting throughout the levels, dropped by enemies and whatnot.
+Not only do you have to pay the money, you also have to.
+Then beat a little side scroller level which is.
+All four of us I I don't know.
+33:41
+I read a little bit online.
+Some people seem to like this feature.
+You know.
+That it breaks it up.
+That it's like relaxing.
+All four of us hated it.
+Well, I will say when I was, when I was in the demo, when I was in the demo phase of playing this game, I thought it was cute and I thought it was unique and novel.
+33:58
+And I think the the more that I've engaged with it, the more that I've come to realize this might be in my short list of like, worst video game tech trees of all time.
+Initially.
+All right.
+Well.
+I I mean, I was like, down initially to do it like a handful of times, but then I realized just how many.
+34:17
+So I'm on.
+I'm on the 6th.
+I'm about to get to the 6th.
+World.
+Of unlocks and the they start.
+They keep introducing mechanics like new mechanics to these levels.
+They also give you two other games to unlock different things, one that's like kind of a Pokémon parody, another one which is like a space.
+34:35
+Game Not interested.
+I'm here to play an FPS.
+I'm.
+Here to loot these random levels and to have a good time and to get that satisfying feedback of destroying waves of enemies and successfully navigating the level and making.
+34:53
+It on to the.
+Next challenge, I am not here to play a subpar side scrolling now.
+Mercifully, I did some research and there's an option to disable these games.
+35:08
+Now you still have to deal with the interface of like moving around the little map and like clicking on it, but at least you no longer have to beat the levels to successfully unlock the thing.
+And maybe there was a pop up message I could have missed it.
+We know I have a bad track record of missing in game information, but this they need to, like, make it abundantly clear that these are optional mini games.
+35:30
+I would never have found it.
+Yeah, never in a million years.
+Even after I was told it.
+Existed, I had trouble navigating the the.
+The menu to find it, I'm like, well, I don't see it on this list.
+It's like, oh, I can scroll up and down, but it was it was not a super good user experience.
+35:45
+It was not clear that I could.
+Scroll up and down and then.
+Furthermore, there is actually three different.
+Ones that you have to disable and yeah, not not great, a bunch of waste of time upgrades and then it's all bundled in.
+Just this horrible mini game situation.
+36:02
+Doesn't this make you doubt the competence of the developer when they think that this is such a great feature that it has to be included in the game, and only after getting feedback that it sucks do they Begrudgingly, I had the option to turn it on.
+36:18
+Who did?
+It wasn't.
+Begrudgingly.
+We don't know that for sure, I.
+Mean well, they have an.
+Option to skip it, and also unfortunately I'm at the point in my gameplay experience where I only have to go to unlock something.
+I don't know.
+Once an hour.
+Like, very rarely, but at the beginning.
+Of the game.
+You're doing it all the.
+Time and it's just like this is God awful.
+36:36
+And now we we have brainstormed a bunch of great ways to to fix this this issue.
+And there are, I mean, offering an option to just turn off great, that's convenient.
+But like there's there's potential here to make something a little bit better and it's unfortunate that they did not.
+36:53
+The designers did not explore ways to make this less grading.
+Well, I think that like this game launched in Early Access in 2019 and then one point O in 2022.
+So there was plenty of time for changes to be made to that.
+And I think like the accessibility stuff like that was probably an answer to it.
+37:11
+But I think like we might be in the minority of people that were like it's it's not for us.
+Like, I I mean, yeah, I don't know.
+But I can imagine, like throughout that early Access testing period, if people really hated it, they would have taken it out or done something like different.
+37:31
+Because it doesn't.
+It's not, like, integral into the mechanics of the game.
+Like, it's not like, oh, the whole, like the plot of Nightmare Reaper revolves around the goofiness of this mini game.
+Like it seems like something that either could have been like an like an optional side thing.
+37:49
+Like, it almost reminds me of like no one's going to get.
+This it feels like an opportunity to have done.
+Something interesting and instead it was to the end result is just something that's frustrating.
+Or like you take for.
+Like us at least.
+Like Project Gotham Racing had a little mini game in it that some people might remember called Geometry Wars, and it was a side thing.
+38:09
+It didn't have anything to do with the main game, but it was like a fun, neat little Easter egg.
+And I think that like the little, like platforming Pokémon and I don't know, like space exploration game mini games that are in this, like, yeah, they're they're like cute in their own right.
+38:25
+And if like those were like linked together into some like, Easter egg thing that existed like like in the hospital, Like if you were running around the hospital and you found like an arcade cab and you just like, went into play that and it was like totally separate from the rest of the game.
+Like, that would be like a fun kind of kind of thing, but.
+38:43
+Like, or maybe it was like you get like a little bit of extra money for for for beating the arcade game, just like a little perk or something.
+But.
+Totally, but by default requiring it to get the.
+Unlock, which mostly unlocks garbage, but there.
+39:00
+Are a few that are necessary and they are like just sort of sprinkled in and so.
+It's like you have to engage with the system.
+Andrew, you were talking about the grappling hook, the traversal mechanism, that for that being basically necessary for some of the later.
+Well, sorry to be clear, the grappling hook you get by default, it's like you pick it up in a level.
+39:18
+But for example, I recently I was shocked.
+I'm just going through the monotony of unlocking stuff and going through the little Mario overworld.
+And then I saw.
+Like, I like the last I, I, I, I just unlocked something super boring that was like, you know, plus whatever percentage of like coins or something.
+39:34
+It's like, OK, great.
+I guess I'll be seeing more of this mini game.
+Interface and then the next block I saw was Mid air dash and like whoa what?
+Like this is this gem is hidden in here and so you know it's not as if I could have like ignored the entire upgrade system.
+39:52
+It's like, no, you got to get to like worlds four of the upgrade system and get this pretty not necessarily mandatory, but like.
+Supremely useful movement ability mid air dash you.
+Kidding me?
+Come on, that's.
+Great.
+And to to stick it in in a hard to reach spot like that, it's just pretty pretty silly.
+40:11
+But will does it make me doubt the competence the designing prowess of the designer?
+I mean, it is a pretty baffling choice.
+But I think this I I think the designer.
+Of Nightmare Reaper, Mr. Reaper, Mr. or Miss or Jon Reaper.
+40:27
+Whoever they are, I think has definitely a talent for retro FPS design.
+Well, let me let me give my my hypothesis here and we'll see if this.
+Is.
+Oh yeah, please, please.
+This is what this is.
+What I don't know is this the first game this person has developed?
+40:44
+No, they they developed another kind of shoot em up RPG game in 2015.
+Well, I'm a I'm a stick by this.
+Anyways, I I think what happened was that like way back when they were getting their CS degree or whatever and they're they're making these really like, you know, intro to video game design classes basically made you know these kind of three terrible little mini games.
+41:07
+And then like, hey, you know, I'm making this new game.
+What do I do with this old coat?
+Oh, I know I recycle it.
+I'm just going to stick that right into the game.
+Perfect.
+And that's what happened here because that's the only thing that like it's just it's as a stand alone thing.
+41:22
+It looks like a a very much an undergraduate students like first game ever made.
+Like with just absolutely the worst quality and the most infuriating gameplay where like you're like a little Mario.
+Like the puzzles are like you have to jump at the right time when the overhead hang is like right next to your head and you just can't.
+41:41
+And then when you die, you don't die.
+You come back and you do it over and over again, 'cause they won't let you out.
+You have to finish it and you're just it's just it's a madding.
+It's a madding.
+I never told you the definition of insanity.
+It's.
+It's pretty rough.
+It's like the the mini games are are baffling and frustrating, but I don't think that like that.
+42:01
+That makes me doubt like the developer's competence and I feel like like Nightmare Reaper as like a game outside of the tech tree.
+I really like and I want like I have this maybe like a whole page and a half of stuff in my Google doc here.
+Like what would I do with like this theme to make it better or different.
+42:21
+But like I I feel like this game is was is successful for for a developer here and kudos to them and I hope they they take this I think this this theme the idea of like you're in in a same in asylum and like you don't know if like what's real and what's like your your psychosis is like is a great idea.
+42:41
+I just don't think it's like perfectly executed here but I think this game is successful enough for them to kind of take the concept and like do do it like a nightmare reap or two with it and as long as it doesn't have the tech tree mini games I think it should probably be pretty good.
+But Andrew I wanted to get your opinion because you're you're very skilled at these old school style shooters.
+43:06
+I I sometimes get into a rut with them with level design and I think particularly with procedural generation here in Nightmare Reaper.
+It may be adds to the frustration factors where I have no idea where to go and this was particularly bad in my playthrough last night where I was.
+43:28
+Oh oh wait, oh, I'm sorry, I I misunderstood.
+Initially I thought you were saying in general with retro games, but this was an exception.
+No.
+Apparently you're having navigation.
+Issues with with the game, I mean that we are discussing, OK.
+Yeah, cuz like this one's felt like especially difficult because yeah, you have like these prefab like rooms that are then randomly assembled on top of each other.
+43:49
+That works like pretty well, but there's a lot of dead ends and I was about to fight the second boss the other day and I was literally running around the the map for like 10-15 minutes.
+Normally they take like, you know, a little less than 10 minutes each to beat, which is not too bad.
+44:07
+But I was like doubling my time because I was like, I don't know where the hell to go to find this final boss fight.
+And it was like, OK, I've explored over here and you have your little mini map on the side of the of the screen, which is kind of.
+Helpful.
+The mini map is helpful, but the doors.
+44:22
+Yeah, the the, the door color is very similar to the wall color and it's like only one pixel tall and you're just like where the hell is it?
+I was like hunting around forever.
+I eventually found it, but I was like oh man, like that, just it just sapped so much energy out of me to find it.
+44:40
+So my question to you Andrew is as someone who's very skilled in these classic style 2.5 D shooters, did that Like did it feel like you were well prepped to find those those kind of exits to to parts of the level or did it or was this like also was challenging?
+44:58
+Great question.
+So the kind of.
+Part of the.
+Sort of foundational one.
+One of the big elements of FPS design in general, especially retro FPS design, is the level is the level design itself.
+45:20
+It's that'll you know, make or break an old school FPS.
+And there are lots of examples throughout gaming history of good and bad level design.
+But.
+This this game is very.
+Interesting in that it doesn't.
+45:35
+It's not really beholden to the same.
+Type of rules the not the exact same retro level design rules.
+So old school.
+Let's see, You're like you know, talking about like the 3D Realms 2.5 D games, like, you know, Blood and Duke Nukem.
+45:54
+Also, Quake is a pretty decent example.
+They are often maligned for being confusing and labyrinthian, and it's easy to get lost in these levels and not know where to go.
+46:09
+Exactly what you're describing, where there's like, there'll be a lot of backtracking.
+For example, all right, I found the key card.
+Now I'm going to backtrack to the level to where I I saw the door and I'm going to use it.
+And that can be really frustrating.
+Or it can be really interesting, like what you do with that backtracking and.
+46:28
+This particular this game has a little bit of backtracking, but it's less of a it's it's less of an issue because they're not like especially sprawling levels.
+What's my point?
+This game is sometimes difficult to navigate for a different reason, because the levels aren't like designed in a bespoke way with like a intended path.
+46:53
+Sometimes an old school FPS is on that intended path.
+Would be like really.
+Out there and it'd be like, wow.
+I don't know why the designer would expect me to figure that out, but in this game the intended route is, well, randomly generated cuz you've got all these different modules put together.
+47:10
+The mini map, I guess is, yeah, it's the biggest problem.
+The mini map does not do a very good job of filling itself out.
+It will leave a bunch of blank spaces, that of walls that you didn't walk right up to, which is really frustrating.
+So I had similar experiences to you.
+The short answer is I had similar experiences at times because you're looking for that one little like cube of of color that's a little bit different.
+47:34
+And there are different cubes that are or colors that indicate like there's different doors, like there's a red key and a blue key and a yellow key.
+And yeah, that is frustrating.
+And it doesn't feel good to be like midway through a level and be like, well, I'm lost.
+47:50
+Should I just quit and reroll and have it generate me a new layout?
+Because there were a few times when that happened.
+Generally I was not lost, but it did happen recently.
+I recently found myself running around a level because it turned out that I needed to go down an elevator.
+I needed to use an elevator, but the elevator was already down at the bottom of the shaft.
+48:10
+So I would jump to the bottom of the shaft and be like, well, there's nowhere to go.
+And then I realized, Oh no wait, there is in fact a button back up at the top of the shaft, not next to the entrance to the elevator, but like in the elevator shaft.
+It's like, well, that's sloppy and a bummer.
+And in this game where you don't have to worry as much about old school retro FPS getting lost.
+48:31
+It somehow found a new way to be to to get the player lost, which is is a bummer.
+Yep.
+Can I ask you, I'm gonna ask you a question about this cuz I think it.
+I mean, I know my answer here, but would this would this be better if each level was just bespoke and built with like, you know, a purpose in mind?
+48:49
+I don't think so, because we have plenty of games like that already this.
+Just because just because plenty of games do, that doesn't mean it's in general.
+If more games are doing it, it might in fact mean that that's a good.
+Sure, sure, sure.
+If the levels were bespoke and then you wouldn't get to enjoy the wealth of weaponry I.
+49:10
+Don't think I have a middle ground.
+I have a middle ground question to Andrew about this.
+I think what Will's getting at is instead of like, I mean like the levels that we have Nightmare Reaper right now are like, they're kind of bespoke.
+They're like, you know, obviously, like modules that are like glommed onto each other randomly, semi randomly.
+49:28
+But like what about something like Enter the Gungeon, where like those are like prefab rooms.
+Like they're very like specific.
+They have like very specific purposes to them and they are designed as like combat arenas.
+Like you go in combat arena time, right get you know get your gun out, start shooting stuff.
+49:46
+And then when that's over you have an option to do like pick pick like what you know room you want to go to next to kind of do something different versus what we have now which is just kind of like every room is a combat encounter.
+Well, I guess like except for the platforming stuff but and there's like dead ends.
+50:03
+Like it feels like the what Will's getting at is more of like what if we had more kind of like enter the Gungeon style levels here versus what we currently have.
+Really what I'm getting at I.
+Mean like, no, that's definitely what you're.
+Doing.
+I mean so.
+But yeah, you know I was I was thinking about that will and what this game what what the challenge often times with FPS for what for single player FPS games is entering an encounter.
+50:31
+Losing, dying and then having that opportunity to.
+All right, well, I'm going to try this challenge again.
+I'm going to try a different, you know, weapon.
+I'm going to try a different approach.
+I'm going to try to explore the level, see if I can come at this from a different angle, like this particular combat encounter is besting.
+Me.
+And I need to figure it out because it's a bit of a a combat puzzle.
+50:49
+And so this game unfortunately kind of robs you of that ability, because every time you die, you're not going to.
+You're not.
+Going to get an opportunity for that encounter again except for with the exception of the bosses.
+The bosses are all kind of set.
+So it's.
+51:05
+I'm a little bit torn about about that.
+I think on the one hand it's great that there's like such a.
+There's so much this game offers so much variety and like replayability and like because of the.
+Way the game is structured where you only get one chance at a particular.
+51:22
+Level and then it re rolls it because of that the level of.
+Content and the experience is is like way longer and.
+I appreciate that there being a longer experience to enjoy and I think on average Nightmare Reaper has the depth and breadth of content to make that experience worthwhile.
+51:46
+But when the game is not working, like in my case of having picked the wrong gun to save, and I've and I've read a few similar stories online about that where it's like, Oh yeah, you know, I, I I picked the right, wrong gun to come over or I I picked the wrong gun.
+52:02
+At the end of the level, and then it just so happened by chance, that particular gun did not mesh well with the next level that I was given, and now there is an opportunity to loot new guns mid level.
+But unfortunately the choice of gun that you save does does sort of inform that.
+52:20
+Yeah, I think there's there's, there's you come to nightmare Reaper for that randomized experience and and if you want to play highly linear first person shooters, there's a ton of great ones, all the ones that Scott just discussed.
+There, there.
+There is another option though and I and I want to like point to one of my favorite games of all time, Seven Days to Die.
+52:41
+They have the points of interest though those POI which are all very bespoke, they're all amazed essentially.
+But they they are designed in a way that you know here's your entrance point.
+They make it so that this is the easiest like essentially the path of least resistance.
+And so you can like cheese it up and you just carve your way through like the house if you wanted to.
+53:00
+But like, it's much more difficult.
+And and what they what you get out of that is like really interesting experiences where you're walking in suddenly the ground cracks underneath you, 'cause you walked onto a plank then you're falling into a pit with like all these things around you And like you know it's it's action-packed, it's exciting, it's surprising.
+53:17
+And it's really it's just every time it's done with a kind of an artist sort of like flair for like innovation about what what this experience is.
+And every POI is different.
+And so I'm I can just and they're all kind of like based on like a kind of a level like level 1-2 and three like of difficulty.
+53:33
+And so very similar to this though you could just have like every time you die and start another level you're getting a different POI sort of experience where it's the same sort of level but it's a still a bespoke experience.
+I think that that might be a more interesting way of doing it.
+53:49
+Right.
+Because honestly, how I feel right now is like I'm going to hold down West and I'm going to hold down left click and that's my experience.
+I'm just flooring it and I'm running through and I'm just like there's there's not really much of a reason to sometimes going a little A&D so that I can, you know, dodge them.
+54:04
+I don't see the issue.
+Here.
+Huh.
+I don't see the issue.
+Yeah, it's just not fun.
+That's the problem.
+Well, I I think that that particular strategy, the grappling hook, which you should, I don't think we've pointed out the way the the chainsaw grappling hook works right click is the grappling hook and that connects you to an enemy and then.
+54:22
+Flings you towards it so that you are now within chainsaw range, which is is admittedly fairly fun.
+Also you can use it to navigate.
+The strategy you're describing will I can tell you will not hold up in the later levels and I think maybe the hold down W and shooting the fact that that is a viable strategy for.
+54:40
+As long as it is in the game.
+Is probably a design problem and again speaks back to speaks to the issue we were.
+Discussing earlier where it's like the.
+Meaningful Upgrades, Yeah, the meaningful upgrades should be front loaded a bit.
+More.
+I would say that's, yeah, navigation, I don't know it can, yeah, it can be a bit of an issue.
+55:04
+But as far as like the design, the the idea of like having like this bespoke design levels is sort of there in that the modules are pretty well designed.
+But again, the way that they're gonna be laid out is is different each time and.
+55:22
+Yeah, it's.
+It's it's this is a very interesting game and I was ready to like come in and and discuss like a lot of like very pedantic, like specific things.
+But yeah, instead we're having sort of this more broad strokes conversation, which I I I think is good and valuable too.
+55:42
+What was your favorite gun to my favorite gun I've yet to find?
+It no of all the.
+The so, the the subtypes.
+Thanks for asking Colin.
+Let me tell you.
+For all the talking I did about how oh wow, all these projectiles behave differently and it's so interesting, I had so much variety.
+55:59
+I really like the AK47.
+It's a good execution of the AK47.
+The double barreled shotgun is very good.
+Very reminiscent of the, you know, Doom shotgun, Doom 2 shotgun of course of the Super shotgun I should say.
+And of course the Blood double barreled shotgun, which is an incredible weapon but it turns like wackier and more interesting guns Early on.
+56:18
+I got a legendary Molotov cocktail which had the statistic on it of plus 300% projectile size.
+So you'd.
+See the little?
+Bottle and I'd throw it.
+And then it would be just giant on my screen and it would explode in this.
+56:34
+Huge fireball.
+And it would send out like this flaming shrapnel and it was like it was pretty rad.
+And what was nice about that is that like, I, I the right click is you just like shoot a small thing of flame.
+It's like she drinks it and then like breathes fire.
+So I had the opportunity to do a bunch of splash damage at a little bit of range or I could in you know close quarters do that.
+56:54
+And God, I wish I had that Molotov cocktail on the on the boat level, the boat level where I was stuck with my burst firing air cannon or whatever it's called grenade launcher that I kept blowing myself up with.
+Yeah.
+So that's that's a lot of fun.
+57:11
+But you know what I wanted to bring up on the topic of the guns.
+I think one of the stronger parts of the of the game, these gun sprites, boy, these gun sprites need, hey, there we go.
+These gun sprites need an upgrade.
+They are.
+I am not.
+57:27
+It's it's barely an exaggeration when I say these guns look like they're out of Wolfenstein.
+Really.
+I.
+Thought they I thought they looked pretty good cause like some of the some of the weapons like you have like historical World War 2 guns you have something.
+57:43
+Like in Wolfenstein.
+Yeah, exactly.
+Well, does Wolfenstein have the the the bug launcher from Half Life in it like?
+Oh, is that what that is?
+I couldn't figure out what the.
+Reference is.
+I'm almost certain that that's what.
+That is, I mean, like, sure.
+These graphics look like they're from World War 2.
+I so part of the reason that I compared to Wolfenstein is that it has it they with many of the weapons they went the route of the perspective is the gun is in the middle of the screen.
+58:11
+It's in the middle bottom of the screen and point towards you like a Wolfensteiner Czech's quest.
+And whereas my preference is a more modern, the gun is coming in from, you know, a rightward angle, a sort of 3/4 angle.
+And I realized when you got this many guns, that's hard to do.
+58:27
+You know, maybe it's not in our budget, maybe you're just a single developer, but I think it needs to be done.
+And it's a very big, a very big part of shooters.
+The feeling that you get the the gameplay experience is how those guns look and the feedback that you get when you are shooting them because that is, you know, since it's a shooter, you know the main thing that you're going to be doing.
+58:48
+But all right, well, I'm not getting much buy in from you all on that.
+What do you think?
+How about this?
+All right.
+What do you all think of?
+Oh, and the hand models.
+Oh, good.
+Grief.
+Those things are.
+Not good.
+Feel like I didn't like the gun in the center thing.
+59:04
+Doesn't bother me at all.
+I see.
+Well, at the very least, would you, would you at least agree that if the gun was still in the center but at, oh, I don't know, double the resolution, that would be better, right?
+Maybe.
+You know, here's the thing, because the, the, the the, the number of pixels expressed present in these gun models is low.
+59:24
+And it's.
+I mean I can also.
+See, I can also disagree.
+I just I I don't think that this game is trying to sell itself on graphics.
+Ah, well then let me ah, you then, you say that call.
+I you could say I would prefer for the aesthetic styling to be better, but I think you could do good guns with the number of pixels that are here.
+59:49
+I thought the guns were fine looking.
+I didn't think that they were particularly terrible or particularly good.
+Understood.
+Well, I mean, there are.
+Some exceptions, I guess.
+Even it's not that I hate every model, but I just hate the majority of them.
+OK, but with regards to the level of detail.
+1:00:06
+And and to.
+Be clear, listeners like you could double the resolution of these weapons sprites and it would still look 100% retro.
+Like it's it's there's there's there's room.
+For it's not as if.
+It would suddenly look, you know, uncanny and.
+Clash with the rest of the the art direction because you can do.
+1:00:21
+Something more like a like weapon Sprite complexity of something like Proteus maybe right?
+Where it's like like something spritey, but like there's more detail.
+In them.
+But the base indeed the basis of I think the Proteus weapons are probably based on 3D models, maybe just based on looking at like a style.
+1:00:39
+But yeah, like I I want to see a, A even a Doom.
+Level of of weapon detail, Duke Nukem level, Shadow Warrior level.
+But you you you said something calling that they're not concerned so much that that this the game.
+1:00:57
+The the main goal of this game is not necessarily to to look visually complicated or or complex or impressive.
+I wanted to ask you on the topic everyone.
+What do you all think of the enemy sprites from a from a technical standpoint, what do you think of the enemies?
+1:01:15
+I think they were fine, but because this game is way too long, I think they overstayed their welcome because the the sprites of things like.
+Well, before you get too much, I'm here.
+I'm here to shock you, Said They are.
+Fine.
+1:01:31
+The word was used was fine.
+Would it shock you to learn that these, the sprites that we were playing with, are in fact a recently released graphical update?
+And these.
+Fine.
+Monster sprites used to be way worse, and that's the reason I didn't buy this game for so long.
+1:01:49
+I'm like, look at his screenshots.
+I'm like, Yikes, I don't know.
+This is this is muddy.
+This looks like, you know, licensed the Doom engine back in the 90s to like make a a low budget game and hey, look, I understand, Solo Dev, we salute you.
+1:02:07
+But once you start making some cash in that early access, you got to put that money back into the project.
+You got to hire yourself an artist and and upgrade.
+I think that's what they finally did and I believe that the graphical update that I'm referring to where they redid all of the monster sprites came out I in like the last year maybe approximately and it's tough to find direct comparisons.
+1:02:26
+It's not.
+It's not really documented anywhere, but I've I've seen some screenshots and some footage and it's like boy that's unfortunate and I'm hoping that maybe a weapon upgrade is on on a weapon Sprite upgrade is on the horizon but maybe they're not interested in that Maybe perhaps I'm in the minority but yeah.
+1:02:44
+And I I I think that the sprites look pretty decent, but they do unfortunately kind of look like in my opinion.
+Like I I.
+Kind of look like a like a first, like an early release and the fact that this is.
+The upgrade is like, kind of unfortunate.
+Yeah, it's garbage day.
+1:02:59
+It's just they're terrible.
+Well, I mean, like they're all, they're all visually distinct.
+They're visually.
+DISTINCT That's a nice way of putting it, yeah.
+I mean, like you have.
+They're recognizable.
+They're readable.
+That's true.
+Like you can see.
+An enemy and go.
+I know what that enemy's gonna do to.
+Me, I know how I gotta deal with this.
+Guy, I can see those stupid ass shotgun zombies from across the map and I'm like, I ain't going anywhere near them because they are the bait of my existence.
+1:03:21
+And like the flying, like the flying demon things, I guess.
+Like there's a couple of them that I kind of get.
+Kind of dragon.
+Like.
+Yeah, like, I think like, they're visually interesting and they're definitely like different looking than things like the big bloated corpse guys that explode.
+1:03:40
+Those guys are very aggravating.
+Then I think they're fine, but like, yeah, like if there was, if there was more enemy variety.
+Which?
+To be clear, the game does continue to.
+Now that I'm 13 hours in, I mean I'm I'm, I'm seeing with every couple of levels.
+I see a new enemy is what I'm that's what I'm trying to say.
+1:03:58
+So it does.
+Switch it up and each level, in addition with having a different theme, it's again drawing from a different popper of enemies.
+But I get what you're saying, there are there were stretches where it's like, yo, I'm really sick of seeing, you know, X anime or Y enemy.
+And I was.
+1:04:14
+Very happy to be.
+Seeing them like their visuals or sick of the enemy.
+Sick of dealing with them.
+Pardon me, I should be to be clear.
+To be clear, I don't think there's any in this release of the game.
+I don't think there's any enemy Sprite that I find repulsive, as I may have if I had tried to play this game earlier.
+1:04:32
+So sorry, it's it is.
+Coming off as me being a little insulting to the art department.
+Slash to our solo dev.
+I think the current enemy sprites are on average.
+Pretty decent and I think some of the monster designs are pretty cool, but one would have.
+1:04:50
+Hoped that this would have been the starting point, and in an alternate timeline we would have had the current sprites when the game one point OD or the when the game was in Early Access and we would be on to an even better version.
+But that's the point of Early Access, sure, like true or like.
+Not the the BS AAA Early Access, but like actual Early Access of like I am making this game.
+1:05:11
+Does anyone actually like is it worth my time to continue making it?
+Does anyone have interest in this?
+Sure, sure, sure.
+And it's.
+It's totally valid to be like, hey, these are, you know, these, these graphics, these sprites are good enough.
+It'll allow me to make a playable experience and to fine tune the gameplay and everything, and that is like, evident.
+1:05:28
+In I I think.
+That the well done gameplay experience of the final game and oh we'll go back at some point and maybe update the sprites you know if we if we.
+Have the Looking at the Super early sprites from Factorio is amazing because they're so, so, so bad.
+1:05:45
+But it doesn't matter because I mean, especially for a game like Factorio where it's like I don't care about what it looks like, I care about the raw factory numbers.
+I think this is like that.
+I think that's part of the appeal of games like this is that you're not trying to get visual verisimilitude like you're not trying to make the real world or like, oh.
+1:06:09
+No, no, certainly not verisimilitude, but I I feel.
+That the genre, just by its very nature, the visuals are so important because it is literally from a first person perspective.
+And that you don't necessarily need to have the most realistic graphics, but you need to have cohesive and engaging and visceral graphics, whether they be photorealistic or whether they be stylized.
+1:06:32
+And I think the original sprites were not of a a quality and a style that was.
+I really.
+Appropriately engaging.
+I wish I could find.
+Actual pictures of the the original Sprite so I but anyway.
+1:06:50
+Them too hard before I've seen them.
+Understood.
+I yeah, I could have came prepared with some things, but why don't I even bring this up?
+I just thought this was kind of like, this is sort of a funny fact to it.
+That's it's like, oh, if you think the sprites are kind of rough now, Will, Can you imagine what they looked like a couple years ago, anyway?
+1:07:08
+Moving on, but we'll get to it in a minute with with our similar game segment.
+But oh indeed.
+But there's another it's definitely more of a Rogue experience first person shooter 2.5 D Sprite based game called Post Void.
+1:07:24
+Holy shit.
+You want to talk graphics?
+Oh my God.
+Like I almost had to dig my eyes out with a spoon when I was playing that game.
+Like it is.
+It is a game, let me tell you.
+But but but before we do that, I don't know, have we?
+1:07:42
+Have we said everything that we want to say about Nightmare Reaper before slapping some arbitrary numbers on this all?
+Right, Obligatory did this game have music?
+Did it slap or not?
+Yeah, I think the soundtrack for this game is is pretty dope.
+I think like, again, like because this game goes on for so long, I feel like the soundtrack kind of got too repetitive for me.
+1:08:05
+But I think, like on its own, just listening to the tracks individually, I think they're good.
+I don't know from Andrew, from your more thoroughly developed metal palette than mine, like, does.
+Does our composer Andrew, does he pass the podcast Andrew's Bar for for metal music?
+1:08:31
+So I definitely like the soundtrack, certainly.
+I do think it's.
+I do feel like it's a little seamy, so.
+OK, so it's a little seamy.
+That being said, it does not.
+It's not grading.
+So though I wish there was a little bit more variety and more tracks, I find that it's not annoying.
+1:08:53
+At no point do I feel like with Wilder Myth where I had to, like, turn the music off because I was just sick of hearing.
+Because there's there's.
+There's sort of a risk you take like if you go for like a very specific melody, you know, like if you're hearing that melody over and over again the, you know, the repetitive nature of that can become an unpleasant experience.
+1:09:12
+I I feel like they did a pretty good job and you know, the main, the main track, I think certainly, yeah, matches and it's, it's pretty solid.
+Yeah, definitely.
+I dig it.
+Is there a?
+Do we know what the name of?
+That main combat theme is.
+Do we have any idea what that is?
+I was looking it up because for playing the podcast episode out, Nightmare Reaper, OST.
+1:09:38
+I gotta spell everything wrong here.
+Gosh what was it?
+Cuz yeah, I feel like that combat theme, especially in the first few levels or world, it's the same combat theme and anytime that you encounter an enemy, it just starts playing the thing over again.
+Like, I get it.
+I've heard this theme before and for games like like Hades or something that are much more like combat Room, like yeah, you're going to have like the combat music go, and then you're going to have something to break that music up as you do different choices along the way.
+1:10:11
+Yeah, I think if if you didn't have to do 3 levels per world and it was just the one world, and each world had different combat, encounter theme to it, a plus.
+But I think the repetitiveness gets a little on on me.
+Those graphics don't look so bad.
+1:10:30
+Andrew just posted a picture of the old.
+Graphics.
+They're fine.
+I mean if the design goal, if the art library, if you know if the art Bible says.
+Ms. Paint think Ms. Paint then I suppose these enemies rights are fine but in my estimation no it's definitely better now.
+1:10:53
+It's it is it is improvement.
+Thank goodness.
+I'm glad that they.
+I'm glad they really said that's great, I'm glad it's.
+Finally in the budget, but I feel like 4 years was a little took a little long.
+Those those flying enemies look way uglier in that original art.
+1:11:08
+I think the current version is a pretty substantial upgrade.
+I will say this for early access stuff.
+Yeah, you wanna focus on gameplay mechanics and stuff 1st and art can definitely come later.
+But art is a pretty integral component.
+Yeah, I can totally see this being like placeholder are, you know, you get like 80% the way they're like, yeah, this is generally what I want them to look like.
+1:11:30
+Indeed, I was just.
+I was kind of shocked to learn that it took so long for there to be an upgrade.
+An update I should say.
+Well, let's see here.
+Let me real quick here double check my notes to see if there's anything, anything worth mentioning.
+1:11:48
+Question General question for the for the panel here.
+How much of A rogue like?
+Experience.
+Is this the fact that there is no true perma death?
+Well, it's perma death per level, right?
+Like if you die in that level, you have to start the level over again.
+There's no.
+I was thinking about this earlier today because there's no checkpoint system like you have for other plastic shooters of of the type in.
+1:12:13
+In the developer interview that I was watching, he said that this game is not Rogue Light or Light.
+It's just like it's a boomer shooter that has roguish elements to it.
+But does that make it?
+That's a good way to put it, yeah.
+It feels like it.
+Makes a Rogue Light I.
+Mean not the not.
+1:12:30
+The you put like the.
+Eyedropper what their art is.
+You put the one little eyedropper bit of Rogue lightness into it.
+Does that contaminate the whole game as Rogue Light now, or does it have to pass a certain threshold?
+Yeah, I think it was.
+It had to have three out of the five properties.
+What did they say a long time ago?
+That that rule I'm sure applies here, here, turn, basically.
+1:12:48
+Like it wasn't just Will making stuff up.
+And then, I mean, I think it was pretty good.
+Definitive source.
+It's true.
+Yeah, No, this is.
+Sure, sure.
+Well, you got to define it somewhere, and I think that's as good a definition as anywhere.
+Yeah, it's it's simply got a little.
+Bit further on the the less rogue light.
+1:13:04
+Right on we do.
+But and then I wanted to add, I just wanted to comment that yo, this story, it's a neat device, but like I think the actual content execution is rough.
+It's a missed opportunity for sure.
+As I mentioned before, each after you beat, each level would y'all after you beat.
+1:13:23
+A level Go and read the doctor notes because it would give you a new Doctor.
+No detail I did because I thought like, oh this is going to provide some interesting insight into the story and and and crucially I thought after each stage, so the three stages per level.
+1:13:40
+I thought after each stage the hospital main hub would open up some.
+But it doesn't.
+It open it only opens up after each world if or each what did I say level world after each three grouping thing that you play that's when you get like oh now the door is open OK great.
+1:13:56
+But now I can only go into the hallway like I I feel like it's it's not really.
+I want like more of that like I think it's an interesting like cool concept that yeah for like nightmare Reaper Two would be like way cooler to expand upon but yeah.
+1:14:14
+I think.
+I think like for this game, I guess the like the the real quick brush over of my pages of like, oh and then I would do this and I would do this for my armchair general perspective.
+Like, I think this game would be better if it was more roguey, if this game was more like a a Hades or tiny rogues of like you, you're descending down various levels.
+1:14:35
+And like story wise, so far I haven't really gotten anything super compelling.
+And if this game was like you starting off like talking to the doctor and then like you like you kill the doctor and then you're escaping the hospital and going down into the sewers and then going into like caves and further down into like hell or something.
+1:14:53
+And like you become the nightmare Reaper and then you come back up out of hell and like start raining torment on people on the streets, that would be way cooler.
+And I feel like that's something that like you could do in this universe.
+But like, yeah, I feel like there's there's a lot of really cool stuff to explore with this Lauren theme.
+1:15:13
+Indeed, it just isn't.
+Isn't here for this game, but I could.
+I, I, I, I agree.
+I think it's a great excuse to be like well, we have like every type of gun or gun like object possible because the setting is in someone's head, someone's you know, mentally degraded brain that's going through various mental trials and tribulations and and and things.
+1:15:38
+And I I think that I'm not totally sure what the game has tried to say just yet.
+Maybe it'll become more clear when I beat it.
+I'm not sure what it's trying to say about about emotional trauma and like navigating emotional trauma and like, dealing with mental.
+1:16:00
+Issues.
+But yeah, I agree there's definitely an opportunity here and hopefully it can be better seized and executed in in the sequel.
+I I just wanted to mention briefly with regards to the the story the doctor's notes I feel like are kind of a neat idea but again I'm 13 hours in and the the the the long and short of it is.
+1:16:26
+Patient was admitted.
+Patient was admitted.
+The player character who is a pretty cool character should be noted the real quick the character design she looks cool she looks awesome great love it.
+Woman with a bunch of guns and sometimes horns sometimes wings sometimes blaming hands always with a gun.
+1:16:43
+Great cool.
+Dig it.
+Anyway, the the the story so far in 13 hours slowly revealed to me, is patient was admitted because she committed some horrible crime.
+Doctor is researching her background or whatever, finds out that she comes from a horribly abusive situation.
+1:17:04
+Now I've I've got finally gotten to a point that's like kind of interesting, which is like and I am going to do whatever it takes to cure her, even though the methods and it's like, oh what is the what is the method?
+Does it have something to do with these wild visions that I'm experiencing It's like, but yo this they're just spoon.
+They're they're just doling out these teeny tiny one sentence updates and it's it reminds me of of my experience in Hades where it's like, yo, I just played ten hours and you're going to give me one sentence of additional story like way too slow.
+1:17:34
+I need more story.
+More quickly and so that is annoying.
+I that I was not a fan of, that's that I'm not a fan of.
+Maybe it'll get better in the final act.
+Maybe it'll those updates will come quicker and will be be more.
+There'll be some wild reveals.
+We'll see.
+1:17:49
+And then the other thing is, I think it's, I think there was an opportunity to like, empower, empower victims of bad situations.
+Like this character is.
+And it's like, ah, she's sort of like, you know, reclaiming her like agency and like fighting these demons, literally these inner demons.
+1:18:11
+She's battling them.
+She is the Reaper of nightmares, etcetera, etcetera.
+I think there was an opportunity for that, and it's kind of missed by the fact that your character is canonically, at least at this stage in, in the storyline as far as I can tell, is canonically a criminal who's like committed some horrible, like murder or mass murder.
+1:18:32
+And it feels bad to be.
+Playing a IRL Mass.
+Murderer.
+You know what this game is?
+Maybe there'll be a reveal we'll see.
+This game is missing that scene from Arnold's Total Recall where the the Doctor comes in.
+He's like you have to make a decision quaid.
+1:18:47
+You have to take the pill and come back to reality or you can live in your psychosis filled nightmare for the rest of your life and then you know, yeah, yeah, and then like you kill the dog and like there's some there's some choice to be made.
+There.
+Sure, indeed.
+1:19:03
+I'm hoping that there will eventually be a reveal that is.
+Oh yeah.
+Actually, you know, I don't.
+Think it needs a story?
+Well, I I the fact that it's there, I guess you could just totally ignore it.
+It's just it it again.
+I can't.
+Once I realized, wait, I'm I'm in this asylum because, like, I murdered somebody or I burned it like an orphanage now or something.
+1:19:22
+It's still mysterious, so who knows, Maybe it'll be.
+It absolutely does need, I think need to expand on this.
+I think this is the one thing that maybe like sets it apart.
+And I think that taking from to you know with the way Scott intro this whole episode from the TN GS frame of mind with Riker not knowing like is he insane or not.
+1:19:42
+Like that is the sort of thing like you know suddenly he's in the hospital suddenly he's on the on the on the enterprise and it's just like you bet I'm agitated.
+I may not I may be surrounded by insanity but I am not insane.
+Like that sort of dialogue could have really done well.
+1:19:57
+I think hiring a voice actor and really digging into that would at least keep me engaged because otherwise one of mine I'm just holding W and left click.
+So that's all you.
+Need for a chainsaw?
+I mean, come on.
+Indeed.
+Well, I thank you all for playing this game.
+1:20:15
+It's ever ever since I it's this game has been on my radar a bit.
+For a long.
+Time.
+But then when I heard, oh, they upgraded the the monster.
+Sprites.
+I was like, oh boy.
+And it was majorly on my.
+My radar.
+Glad I had an.
+Opportunity to finally play it and with good company at that.
+1:20:32
+All right, let's do it.
+Let's slap some arbitrary numbers on here.
+Let's see, let's maybe go in order of of how much play time thoroughness come and pick us off with with your hundreds of hours of game time here.
+1:20:50
+Wait, are we Are we going least to most?
+Least to most, yes.
+Oh, very good.
+Yes.
+Well, I'll start then.
+I I feel like so I didn't.
+I did not have enough time to play video games in the last week or two, so I did not get very much play time into this, but I got a taste.
+1:21:09
+I got the beginning.
+I got some Mario levels, I got to to run around, I got the chainsaw gun, the chainsaw grappling hook gun, and I had like a decent time.
+I'm going to give it a 6.5.
+1:21:25
+It's generally not like my kind of game, but I'm also going to reserve the right because I I think I am going to try to play more of this game in the future.
+So I might revisit that score at a future time and either become more frustrated at the game or discovered the delights of various combinations of grenade launchers and large molotovs.
+1:21:45
+So does.
+That make me, yeah, yeah, 5.5 not hitting the not going to hit the the recommend threshold.
+Yeah, these these old, old, old first, you know, old style, Doom style first person shooter, Mario's, all the stuff we talked about, just not going to cut it for me.
+1:22:07
+And when I look at like the list of rankings here, it's like, Oh yeah, Eldridge was like the, I think the most similar game and I gave that one A5.
+And so I feel like, yeah, this is a better game than Eldridge, but like it's still not going to be passing the recommend threshold.
+So 5.5 feel pretty good about that.
+1:22:24
+Well, I think I I like the concept of this game a lot.
+I like the the Boomer shooter aesthetic.
+I think there's there's a lot of unexplored territory to apply that to more actual like rogue, rogue style mechanics.
+1:22:42
+But I think this game it's it might be just like a curse of like too much of a good thing.
+Like if the levels were shorter, if there were fewer of them, if the tech tree was dramatically simplified and you know you were able to go through more kind of a run based nature instead of a level instance one.
+1:23:00
+I think that would that would make this game I think better for me.
+So my score for it is a is a 6.5 you know it's I I think it's good.
+I think like if people play the demo, they can kind of get a sense of like, will this be for me or not?
+1:23:19
+And I think for the people that it will be for, I think they'll have a good time with it.
+And yeah, I think we kind of talked basically about everything in it.
+Just make those small changes and you'll, you'll climb up a point or two on this arbitrary video game podcast rankings.
+1:23:36
+But yeah, Andrew, take us home.
+Hey, you know, what does it matter?
+Like what our opinions are.
+This game's already successful.
+It already has a good, solid, Hardy fan base.
+I'm definitely gonna keep playing it so you know it.
+1:23:51
+It definitely was good enough for me for my experience, but I expected to like this game more, which I'm I'm, I'm kind of saddened about.
+However, it did.
+Offer me some pretty unique, fun and engaging experiences and I'm sure it will continue to.
+1:24:13
+I'm putting it down.
+On my ranking list behind Let's see here behind him to the Ganja, behind Last Bell, behind FTL, Binding of Isaac, Rimworld, Dead Cells #7 Nightmare Reaper.
+1:24:29
+Which I kind of flip flop and like how I rank these games.
+Like I will to some extent take into account I flip flop between like how much do I actually like it and how much of A like, impressive game do I think it is That may not necessarily be for me in this case, I'm definitely leaning into like, well, for me this game edges out Wilder Myth, so it's ahead of Wilder Myth just on.
+1:24:52
+Like my personal preference for this type of.
+Genre.
+And that's just, you know, a totally, you know, personal thing.
+It is.
+I'm, yeah, I'm real torn about this game.
+On the one hand, I think here's my greatest accolade, or Nightmare Reaper.
+Is that there was a period of over a decade that we're we're starting to get out of now, thankfully.
+1:25:17
+A period wherein for single.
+Player shooter fans, there were a lack of games with good shooting that you could just sit down and simply play.
+There were the we were.
+We were.
+1:25:32
+Up to our eyeballs, we were lousy with shooters.
+There were single players which felt good to play but were just loaded down with unskippable cutscenes and unskippable first person set pieces.
+1:25:49
+It was very.
+Difficult to find a game where you could just like jump in and start shooting things, and that may sound like a simple ask, but the greatest example that comes to mind is Max Payne 3 is an incredibly tight shooting experience, but it is so awful to replay because the load times are very long, the cutscenes are very long, the story is very thick, and you your experience is just constantly being interrupted.
+1:26:22
+Your your shooting experience is just constantly being interrupted.
+Which is fine the first time you play it, but once you already know the story beats, you just want to play the game.
+And Nightmare Reaper gives you a practically A practically an endless supply of shooting opportunities that are going to have variety each time because those combinations of levels are going to be different.
+1:26:43
+The placement of enemies and of course the loot.
+The all important, engaging, interesting loot is going to keep your experience fresh and keep your experience from being anything but a nightmare boy. #7 on my list.
+1:27:01
+Well, that's going to put the aggregate rankings for Nightmare Reaper at #22 of the 39 games that we've played just behind Cult of the Lamb and just ahead of Stack Lands.
+Yeah, we've kind of danced around similar, similar games.
+1:27:17
+This is definitely like the first first person shooter game that we've had on here.
+I kind of talked a little bit about the the eyeball bleeding actual Nightmare that is the graphics of Post Void which I think is more kind of like your standard rogue like experience.
+1:27:33
+Andrew, you just got the VR headset so I would recommend for you to check out Compound which definitely has that same kind of like old school art aesthetics to it maybe a little more 3D modeled and and complexified.
+But yeah, the VR exclusive with this kind of graphic set in a rogue environment sounds like an interesting combo project.
+1:27:55
+Warlock I I put a question mark next to you because it's another that that feels very similar to this and it's like is it really roguey?
+I don't know, but I feel like that is maybe a more focused experience than what we get with Nightmare Reaper.
+Two sides of the same coin.
+1:28:10
+I think if you if you like this game, you probably like that one a lot.
+Impaler is another 3D Realm style looking aesthetic game of just you're in an arena, you impale stuff.
+It's one room.
+Go kill, go kill.
+Brains Force reboot is that but way faster.
+1:28:26
+Void bastards.
+I played on on Game Pass a long time ago and that was a lot of fun.
+Now here here's some games that I think are maybe more our style for the podcast.
+There's Mortal Sin, a first person kind of Chivalry style game with let's say an interesting art palette to it.
+1:28:48
+It works.
+It works very well, but interesting.
+You have Rogue Dash FP for literal first person 1980 old school rogue, if you can believe it.
+With graphics.
+You have Barony, which is like the same idea but like with actual graphics and like what if Minecraft was a rogue?
+1:29:09
+Like but for real.
+And then kind of at the top of the list in terms of popularity are Robo Quest which you are a robot running around.
+It's like you're a robot.
+Borderlands rogue like run around shooting stuff.
+1:29:25
+So you can think of it that way.
+And then God, what was the last one that I was thinking of?
+You are it's four player.
+Let's see if I can get Google to work here. 4 player shooter.
+1:29:41
+Rogue like gunfire reborn.
+That's it.
+You're a bunch of furries running around shooting stuff online Co-op furry shooter, not really furry shooter, but you know your animals, your your two Chinese mythological animals running around shooting stuff.
+1:29:58
+I think Roblox is better, but you know, to each their own.
+So yeah a lot of similar rogues in the in the genre, a lot more than I thought there would be and it's growing every day.
+So I think we're going to have a lot of interesting choices to choose from coming down the line.
+Yeah, if you want to to get in contact with the show, we've gotten some very nice listener emails.
+1:30:21
+You can contact us at grogpodzone@gmail.com.
+Mastodon is Grogpod at game dev dot place and Grogpod dot zone is where you can find all of our stuff in one spot.
+Yeah, send us, send us some stuff of what you guys would want to see covered on a on a future listener request episode.
+1:30:38
+We've got one coming up after this next episode, so send in, send in your request, and we'll we'll rifle through them.
+But until then our next episode that I'm forcing everyone to sit down and joy.
+We've been talking a lot about graphical powerhouses and Colin's already smiling.
+1:30:59
+Our next graphical powerhouse traditional rogue like game is Drum Roll Please Tales of Mahjay all, and I'm just going to say it right out of the gate here Will.
+I'm going to link you to the old The RPG tile set to download to actually make the graphics palatable.
+1:31:19
+Oh, it's.
+One of those.
+You're you're going to tear your tongue out.
+Now the thing.
+Is bear your tongue out.
+Yeah it's it's that it's that graphically intense but but there are like graphical tile set mod packs that are very easy to install on Steam.
+1:31:35
+I installed them myself.
+I'm like OK great this will this will be the way to get Will into the genre.
+It's all cool down based.
+It's like, what if Diablo?
+Or yeah, what if Diablo was a rogue like, but for real and with Super Nintendo graphics?
+That seems like it could it.
+1:31:50
+We could get Will over the board to to not hate this game after 20 minutes.
+But I don't.
+Know.
+You bet I'm agitated.
+Oh yeah, well you totally stole my my play out with that.
+Because yeah, I was.
+1:32:06
+I had.
+It's exactly what exactly.
+I should have pulled some different quotes from Riker from that episode.
+But yeah, we yeah, this episode.
+Yeah, to play us out.
+We might be surrounded by insanity, but we are not insane.
+1:32:25
+The only insane thing here are the metal shredding tunes of demons being hunted down with by chainsaw grappling clicks.

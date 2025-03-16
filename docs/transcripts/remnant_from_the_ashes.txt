@@ -1,0 +1,1346 @@
+0:23
+This.
+Greetings friends, and welcome to another episode of the Grog Pod Roguelike Podcast, wherein each episode we set sail to talk about roguelike games, or in this case, roguelike parts of games.
+0:45
+Then we scream about genre definitions, rank them and revisit them at the end of the Euro Mega Bowl.
+I am your 10 foot tall 4 armed alien with a burlap sack on its head.
+Host of the podcast Scott Berger.
+And with me are my infinitely respawning minion Co host.
+1:03
+It's being weird.
+Creepy goofball merchant.
+What do you have for me?
+Some roots, some dust.
+Some, some, some some.
+Niblets.
+Give them over to me and perhaps I'll exchange those for Andrew Harshman.
+And to Jazai, a triangle boss, Colin.
+1:22
+No the triangle.
+Most fearsome the.
+Most the most ideal Platonic boss.
+This week we are talking Remnant from the Ashes, release August 19th, 2019.
+Released on PC, PlayStation, Xbox, and if you can believe it, Nintendo Switch.
+1:41
+This game was developed by Gunfire Games, who you might remember from the Darksiders series.
+Darksiders 2 and 3 from 2015 and 2018 respectively.
+And then 2019 with Remnant a a prequel I guess in 2020 called Kronos before the Ashes.
+2:00
+And then we have our sequel to our today tonight's game Remnant 2 recently released in 2023.
+This name Remnant was published by originally when you boot the game up, it says perfect world, who were acquired by Gearbox, who were then acquired by Embracer.
+2:21
+And so now when you look at the steam page, it says Arc games, but they have previously published the torchlight series Torchlight one and two 2009 2012 other game.
+Other notables have a nice death.
+We said Remnant 2 and also most recently hyper light breaker, which possible stay tuned question mark.
+2:41
+We'll keep an eye on the that review call Remnant clocks in on our rankings or I guess our popularity charts here.
+And I have 5 asterisks next to the number as the number 29th most popular blank game, we'll say for now with 52,000 and 37 total reviews.
+3:03
+And your average player has about about 30-7 hours of gameplay in it.
+Andrew, you've found a computer terminal from the 1960s.
+What does the terminal log say about what one does in Remnant from the Ashes?
+3:20
+Remnant from the Ashes, if you can remember what the actual title of the game is, is a post apocalyptic third person shooter with some rogue like elements and some souls like elements as well.
+3:38
+And you can traverse the world in a optional but recommended three player Co-op experience where you were going to battle and adventure your way through a wide array of interesting locations, fighting interesting enemies and obtaining interesting loot, all tied together with some pretty tight gun and game and sword play.
+4:05
+Now people looking at this episode title are slamming the brakes on the highway causing traffic jams.
+Hey, wait a minute.
+Remnant from the ashes.
+First, first bullet point.
+I got to kick us off with our philosophy Fight Club for the evening.
+We all, we all enjoy baked goods, right?
+4:23
+We all enjoy a, a, a, a chocolate cake, let's say kicking off our philosophy Fight Club and I'll, I promise this will be relevant 2 minutes from now, So hit that.
+Fast forward 32nd button, how much chocolate do you need in a cake for it to be a chocolate cake?
+4:45
+Wow.
+I think that that's the wrong baked good brownies.
+I think it's chocolate chip cookies because it is discreet small chunks.
+If you have one single chocolate chip in a chocolate chip cookie, is it a chocolate chip cookie?
+Question for the philosophers.
+5:00
+I expect it's a shame Will is not here 'cause I'm sure he would have a very strong and a very accurate correct opinion.
+That's a great question I made to, to, to, to, to, to follow the exercise and give you an answer.
+When I think of a chocolate cake, by golly, I think of it's got chocolate frosting and it's got chocolate innards.
+5:20
+And I'm I'm I'm looking for that classic experience.
+Generally when I hear if I if I order that at the baked good shop.
+Well, the objective.
+Burger Baked good shop.
+The objective answer is a minimum of 35% cocoa solids to be called chocolate.
+So so if.
+5:36
+You're specified by the European Union Food Rules.
+So if you're watching one of these fancy cooking shows and they're making a cake that is a like a yellow cake sponge, maybe you have some like vanilla frosting in between the individual layers and I don't know, you have some like gross fondant thing on top and there's a light, the ever lightest dusting of chocolate on top.
+6:01
+Is it now a chocolate cake?
+Not.
+Not generally.
+You know what I think this is Neapolitan ice cream like they are, they are separate and distinct.
+So like what Scott is getting at here is there are multiple game modes in this game, one of which is a roguelike kind of in this most recent playthrough, I played that exclusively.
+6:31
+So for for the last two weeks this game has been 100% roguelike as is as if I only ate the chocolate part of this Neapolitan ice cream.
+Oh, right, there are other flavors in this chocolate.
+Ice cream, yeah.
+I think the cake that you're describing might not be a chocolate cake, but it's definitely a chocolate cake.
+6:52
+Very good.
+Yeah, I think like this and I think this, this kind of like branches off into how do you distinct, like distinctify something like an action RPG from a rogue light game where like all these like nebulous, like made-up genre definitions of things start like bleeding into each other.
+7:14
+And you're just like, I don't know, I just want to like shoot some monsters or whatever.
+And so when, when Andrew, you picked this game on our schedule a while ago, you're like, I want to play this roguelike game Remnant.
+And I thought to myself, I don't really remember a whole lot from that.
+7:29
+I'm excited to go back to it 'cause I remember it being an interesting experience, but I don't really remember there being like that many roguy elements to it.
+And I think that like, and so my question here, to follow up on my chocolate cake analogy is what do we think are like the minimum viable criteria for roguiness in a game?
+7:51
+And I think like we mentioned that like there's a like a distinct mode here that's much more focused with that.
+But does that question like apply to the other modes?
+Well, I picked this game not knowing that it had a rope like DLC.
+I picked it based on the merit based on its its original launch merits of that it has it has Diablo esque, you know, random map generation and I don't know for my money that it's straining the definition, but I thought it was rogue enough.
+8:28
+And then when I yeah, and when Scott, when you informed me that oh wait, there's actually a distinct a specific a quote survival mode, as they call it, I was like, well, even better.
+What a what a deal.
+So yeah, it's I guess the the, the the way that the game does the map layouts is meaningful gameplay impacting randomness.
+8:54
+That's is what is the main feature that I'm looking for with roguelikes.
+Now more people are slamming their brakes on the highway.
+I think like you are I and I think that you're right that the randomization is a key aspect.
+But I'm wondering to what degree do you need randomization plus perma death?
+9:13
+That's the sticking point, yeah.
+Well, I mean, so it really depends on how are we are, what are we reviewing?
+Are we reviewing the game as a whole, or are we reviewing or slash discussing the survival rogue light part of it, in which case there is perma death?
+9:34
+That's true, yeah.
+And I think that like there's my Google Doc here has has both components and I think like it, it probably behooves us to focus a lot on the survival mode because, you know, that's that's why I think what we dumped the most time into.
+9:49
+But like there is there's like gradations and like varying degrees to which there is quote roguiness in this game where it's like the development of this is like almost like like inverted from what you come to expect from this show of like, you know, the game starts off as like well, the main mode, adventure mode is kind of like your classic Diablo experience or no, your main mode is the story mode.
+10:16
+Adventure mode is like, what if you just just did one of those biomes?
+How about and then the survival mode we'll get to in a minute is like your pure rogue light mode with that kind of stuff like more kind of purely generated.
+So I think like this game also starts to like merge in elements of like souls, like designs into it for the the main story in adventure modes, less so for the survival mode.
+10:49
+But yeah, maybe maybe we should just jump into it because I think there's probably a lot here to talk about, namely the the story.
+Oh yes.
+The very highly memorable story that we all remembered.
+11:04
+Well, I remembered it when I started playing it and I was like, wow, this game seems so familiar.
+What what game does this remind me of?
+And then it took me about 10 minutes to realize, oh, it was the first time I played this.
+And then but but before I refunded it.
+Well, I think also for for listener context when we were looking for a new social game to play and you know the.
+11:29
+In 2019.
+In 29, like many years, many moons ago and importantly, with more than three people, we were like, oh, this game seems interesting.
+Like you know, a lot of us like souls style gameplay.
+11:44
+This seems and to be clear, we we like Diablo style games also this thing seems seems like it's like ticking a lot of boxes.
+How about this?
+And it just happened to be that the the tactic Cool Millsim Game squad came out very shortly after, and then we ditched literally everything else in favor of that.
+12:03
+Also, couldn't you not play more than?
+It was.
+Three player Max at that point, right?
+It is, yeah.
+That's and it is.
+Yeah, so it was.
+Yeah.
+So it's like was great because a lot of times we can only get three people to play, but it hard ruled out four people playing, which sucked.
+12:20
+That's true, yeah.
+Which there's there's very few enemy VIX in this game, yeah.
+Well, and I think we will get, we'll, we'll probably get back to this when we talk about the other modes in that it does feel like the game is designed specifically around player counts.
+12:37
+And if you don't have the correct player count, then you IE three people, it is a different experience.
+So they do not scale difficulty based off of how many people you're have playing.
+Yeah, I think the the the genre bending of souls and action RPG Diablo style gameplay here will will be interesting to talk about.
+13:00
+But this intro with all of its memorable moments, gosh, our story, our story beginning with me remembering, man, I, I remember playing this game, but I don't remember like this intro sequence.
+Am I playing like a Zelda game?
+13:16
+Right.
+It feels so Zelda Y like Zelda in like it's like Link has been transported Link's.
+Awakening, you're like on a boat and it's like flashing and you're like, oh, I'm playing it on a Game Boy.
+And, and like your character, like literally, I thought this was like some sort of like almost Final Fantasy level Zelda Wind Waker game 'cause you are starting off on an like a tiny ship with just a sail to keep you company and this big gut sword on your back.
+13:45
+Like boy, I can't wait to to sail across the sea to this big ominous tower.
+And the, the voiceover is making mentions of Dragons and all of the previous heroes that haven't, haven't made it this for you're our only hope hero.
+You can do it.
+And there's this, you know, this big ominous tower up in front of you.
+14:04
+You're like, oh boy, I gotta like, OK, like this is, this is clearly setting my expectation of I need to go and like, fight the monsters that have been like plaguing my village.
+There's this big tall tower.
+You know, this is like a, a, a kind of a trope that we see in in Rogue games pretty often.
+14:22
+You know, there there's a big tower, you got to climb a bunch of floors to it.
+You have to slay the Spire.
+Yeah, exactly.
+You're going to have to be building a deck along the way, archetypes and all that.
+And and then your your boat is capsized in a storm and then you awaken question mark on tutorial Island, which I think for the most part does a good job of like explaining like, hey, here's here's the movement mechanics.
+14:51
+This is how you vault over debris and stuff.
+And if I remember right, you just have like your sword for this, like just your melee, right?
+Perhaps my memory is hazy because I did not replay the tutorial, but I don't have like negative memories of the tutorial.
+15:08
+But it does feel like a link awakens in the Fallout universe and you have like a fight.
+I remember there being a fight in a parking lot.
+So maybe I'm misremembering with like, I don't know, some high school going to see the movies, going to the cinema.
+15:23
+After none of your fights in high school involved you in a sword and monsters that are glowing from the inside.
+No, but it it did require three people for it to be balanced properly, that's for sure.
+So yeah, I guess you maybe get you sure, you're saying you get your gun, get your gun later, but it's not a very long tutorial.
+15:43
+It's my recollection.
+And so that's nice.
+Gets the end of the game.
+No, it's not very long and you're you're saved by like.
+Just imagine you're running around in in links awakening.
+You're you're bashing moblins and everything.
+And then all of a sudden the SWAT team rolls in out of nowhere with automatic submachine gun starts blasting all these monsters and stuff.
+16:01
+You're like, hey, wait a minute.
+I I have a note in my here of like, you know, Robin Williams from Jumanji with the beard going, what year is it of just like what is going on here?
+And then, you know, your, your character kind of like passes out again, you're like.
+16:20
+And then.
+Fun fact that skip that scene is skipped if you die if you lose to the monsters.
+Well, I think, I think you're supposed to die in that, in that intro sequence, 'cause I also remember I'm like, man, am I just like really bad at this?
+Is that why we didn't like gel with it the first time?
+16:37
+Well.
+I died.
+I mean I did not see the Jumanji man appear.
+I just woke up in the hospital type.
+Type Joe Jumanji Robert Robin Williams was literally like me shouting at the monitor like I don't like what is going on.
+What time period is this supposed to be?
+16:53
+I.
+Oh, I see.
+Why are there guns?
+I I like I'm just running around with a sword bashing demons.
+That could be any time period.
+And then like now there's car like burning cars.
+It's like post apocalyptic world space.
+Anyway, your player character passes out and you wake up in Ward 13, Lucky number 13, which for all intents and purposes is an underground missile silo I suppose.
+17:21
+Yeah, it's very like Metro 2033, but instead of Russia and like the Midwest or something, like a lot of people promising to take you places for one bullet, things like that.
+Yeah, it's it.
+Yeah, it is a it's a missile silo.
+17:36
+And kind of this is your home base, your hub, which for my money does not feel very alive or even necessary, to be honest.
+But the IT, it is a hub world.
+It feels, it feels kind of too big and sprawling for my liking.
+17:52
+But hey, that's OK.
+It's not the end of the world, I guess.
+I mean, it is the end of the world in the game.
+But anyway, I digress.
+Yeah, yeah.
+So I, I feel like the the intro sequence pretty good.
+You wake up in this like grimy.
+18:09
+It feels, I don't know, like I, I feel like it's.
+Just the matrix, like you wake up at the weird, yeah.
+But like, like somehow like less personality, I guess.
+Budget Zion.
+Budget, yeah, we'd exactly it's like.
+18:27
+XI ZI dash ON applied directly to the forehead.
+Apply to the directly to the forehead.
+Yeah, I think like.
+This game I don't believe had an especially large budget and it explains, I think some of some of the lack of production value.
+18:48
+I mean, they did they, hey, they did a whole lot with I think what they had.
+I mean, I we're, we're really nitpicking here.
+I don't think that this is the core of the game.
+No, no.
+No, it's fine.
+It it is this is the chocolate dusting on top of the cake not to be judged by your your you should be judging the game based off of the combat and the the stuff that you get to after you leave the hub world.
+19:12
+Yeah.
+And to be clear, like this, this game is is pretty popular like we said, like it was like the 29th like it.
+So if this game was tagged Rogi in any regard, it is tagged with procedural generation, not with permadeth, though, But if it was tagged like rogue light or action rogue light or whatever, it would be like in the top 30 of most popular just from like the number of steam reviews.
+19:38
+So like it is like there is a a big base of following and like enough to warrant a sequel even, which is which is pretty nice.
+And I guess like that.
+That's also another pump the brake moment on for us as well 'cause like a lot of the the gripes that I might have about the story or adventure mode may be fixed in the sequel question mark.
+19:59
+Yeah, I meant to.
+I meant to play it the sequel, but I failed to do that.
+Oops.
+Good question.
+Good question.
+Yeah.
+And I think, I mean, on the whole I, you know, up front, I think this is pretty good game and definitely warranted a sequel, that's for sure.
+20:15
+And it.
+It'll be it's a lot so much to talk about.
+It's a shame Will Wright isn't here, but I guess as we've.
+Determined Ramsay of our of our chocolate cake.
+Game again.
+Andrew when you were cake is.
+20:32
+Raw.
+It's got a soggy bottom, Andrew, when you were playing through the story.
+Yes.
+What what was your kind of take away 'cause like, I don't think we we didn't really play any of the story Co-op at all.
+20:49
+Like we played a lot of the survival mode, which we got to in a minute Co-op.
+But the the survival mode or the gosh, the story mode.
+I played a considerable amount solo.
+Andrew, you played, you played Co-op that some some more.
+21:07
+What was the Co-op take on it?
+Co-op experience was at the the the core campaign played very well with two people and that was enjoyable.
+I played it a few years ago, quite a few years ago.
+I guess at this point, not the game wasn't brand new, but it was relatively new and I have positive, I have positive memories of that and I felt like it ran it.
+21:32
+It played well with two people and that the actual, I mean, they, they maybe didn't invest a ton of funds in the in the hub world because why would you?
+But they invested a lot of time and effort in the actual gameplay and the environments and the variety of enemies and all of that is, is is quite nice.
+21:52
+I do remember getting hung up on a number of bosses and and really kind of grinding away at trying to beat some of these bosses, but they're, you know, we're all like memorable and enjoyable.
+And this game.
+I, I think it it in terms of the overall like vibe and expectation and the experience.
+22:13
+Recently I I had AI had Eureka moment.
+I made the connection.
+I'm like, oh, this is kind of what I was hoping that Hellgate London would be like way back in the day.
+I don't know either of you played Hellgate London or even heard of it.
+It was like it was being before it came out, it was like this kind of big deal.
+22:30
+It's like, oh, this is the new Diablo and they were showing off these screenshots like Oh my gosh, this graphics looks good.
+This is going to be.
+I was expecting like a Diablo like experience.
+And then the game finally came out and I remember very distinctly being at like a land party.
+I just built a new computer.
+I got a hold of Hillgate London.
+22:46
+I installed it and I was immediately so disappointed because I'd like never played and I don't want to make an enemy of the MMO community, but like I'd never played an MMO before.
+And like the standard of like a lifeless hub world where everyone just kind of standing there and maybe they're not even voiced.
+23:05
+Maybe it's just just text.
+Like those things I had never seen before.
+And like the fact that this game was an MMO.
+I, I wasn't, I wasn't, I wasn't familiar with those like standards, those like sort of production standards that people take for granted.
+23:22
+And I mean, there's a trade off there of course, 'cause I was expecting a, you know, very like bespoke, tightly like designed and presented like early 2000s or late 90s Blizzard experience.
+Anyway, this game has a very similar vibe.
+And it's like, ah, this is more like what I was I was hoping for, like running around in the demon infested post apocalypse landscape of like some city, perhaps not London in this case, I think it's more of AI.
+23:49
+Don't know where we in Boston or something.
+No, it's all.
+It feels like any town USA and I feel like.
+Like any city, USA.
+And I feel like I don't know my, my and again, like I was not setting myself up for success playing this game solo And also having just played a lot of Sekuro where like, like I've, I've played a like a lot of souls games and like, it's a genre that I I really like and I find it like really like tedious and frustrating at times, but very rewarding.
+24:22
+And so I'm like, OK, this, this game is like it's, it's a souls light game with Diablo stuff.
+Like it's, it's, it's ticking all the boxes.
+It's got all this stuff.
+And it felt like it just immediately fell flat for me.
+Where like you leaving Ward 13 to go out into, into your earth Biome.
+24:41
+And I'm like, and to be clear, like I'd, I complain a lot about Destiny 2 on this podcast, but I put like 100 plus hours into that game.
+So I had something going for it.
+I'm like, OK, like this is gonna have some kind of like, it's got loot, it's got like dark themes, there's demons and stuff.
+24:58
+Awesome.
+It's ticking again, ticking all the boxes.
+And then I'm let loose into this earth environment and it just felt like super barren to me.
+Playing solo again.
+I'm I'm kind of like painting myself in the corner here, but like all the enemies felt like super far away.
+25:14
+And I'm like, am I?
+Am I missing something here?
+Like it feels like I'm like there's something some element that's not quite here.
+And I feel like the anytime USA Ness of it is also a little unfocused cause like me screaming, what year is it?
+I think it's supposed to be like 1960s.
+25:31
+But like I I couldn't get any of that vibe at all because I wasn't sure if it was supposed to be like like diesel punk.
+Like there, there's there's enough leather dusters in this game to put the wild, Wild West movie with Will Smith to shame.
+25:48
+And I was expecting in any minute like a giant mechanical spider to come around the corner.
+But I don't know, like it.
+It felt like there wasn't some kind of like interesting art direction or something missing from this like initial design.
+26:05
+And I feel like there's this game design aspect of like, like level design where you start the game with the second best level in your game and then like you can middle around with the rest and then like the best level, like you have to stay safe for like somewhere close to the end. 2nd to last level.
+26:22
+Yeah, something like that and I feel.
+Like because you can never make the final level with the boss that can never be the best.
+Like it's just, it's too.
+Hard, except in the case for Dark Souls.
+But when when I'm let loose into this earth environment, I'm like, oh, like, is this just like the worst Biome like to start with?
+26:39
+Because like you have all these like and like the the set design is interesting, but there's something about it that feels like, like a Langoliers movie of like, just like soulless nothingness.
+For souls like, it's very soulless.
+26:56
+No, it does feel I I agree to some extent.
+The game feels a little derivative at times, a little generic at times, but honestly, like given the choice between like this and Destiny I, I think I prefer the character and like world designs.
+27:12
+Yeah, to.
+Be clear like I I would not recommend people to go and play Destiny, but like especially now but like there was something about.
+Like I I hear where you're coming.
+From yeah, like the, the compactness of like the main hub zone it, it felt like there was something happening and like I'm let loose and like, OK, like you are, you are tasked by the by the the leader of ward 13.
+27:38
+Like, hey, go and touch this crystal.
+Go and warp out to to earth and go and fight, fight some monsters.
+I think like it was also not super clear to me, like what my mission was, but I think it's supposed to be like, oh, you're supposed to find that tower.
+Hey, remember that tower from the tutorial?
+Go and find it.
+27:54
+It's out there somewhere like we have hints and reports of like people seeing something we need you to go out and hunt for it kind of deal.
+You know, OK, like let's let's do that.
+Let's go out and hunt for it.
+And I think like the the design philosophy of this like main hub system is kind of interesting.
+28:15
+I think, Andrew, this is what you were getting at with see, it is, it is roguiness because you have this, this main, like, let's take the earth map for example.
+You have like it's, it's chunked up into zones.
+So you'll, you'll start at the founder's hideout, then you'll go to Fairview.
+28:32
+But ah, you have a choice to make between like, oh, like, can I go and do this like the side thing over here, which will be like a, a choose one from three of an event of some sort.
+And then you'll continue on the, the critical path.
+And then you'll go through this other area, which will be another choose one from three from a different pool kind of deal.
+28:53
+And there will be like items and like NPCS and things to encounter along the way.
+But it's interesting because like the the main hub of this Earth zone with all of like the very cool, like giant towers of of blooming root, this this virus tree like virus that has taken over the earth.
+29:15
+I thought of this as like sort of an indirect sequel to Mark Wahlberg's The Happening.
+The trees have taken over.
+This is the logical standard.
+So like the IT looks, it looks very cool and there's like, there's different stuff and like environments that you encounter along your way.
+29:34
+And so I thought like, oh, this is this is what Andrew was talking about when he meant meaningful gameplay impacting randomization.
+Would this scenario be better if it had permanent?
+Oh well, not from what you're describing.
+29:52
+How long does it take you?
+How long does it take to beat this game while.
+Solo, it felt like way too long.
+Like way too long here.
+Here's the problem is I don't think that this game is a rogue like game, not the base game.
+30:07
+The base game is just a video game.
+It's just a first person shooter's story video game.
+Like it's got some randomization elements in it, but it's not rogue like.
+It's and trying to blindly apply the rogue like bullet points to it would not necessarily make it better.
+30:29
+Devil's advocate here, a game that is very highly regarded in Rogue Dom and considered very roguy.
+Very light on the randomization aspect.
+Risk of Rain too.
+It's a shooter.
+The levels are not very randomized, but the stuff in the levels are randomized.
+30:48
+It has permadath.
+Yeah, but you'd need to have, I, I think you'd need to completely overhaul this game in order to, you'd need to make it like Risk of Rain 2 does not take that many hours to beat if you're good.
+31:04
+There's not a story really like, I don't think that's what necessarily this game is trying to be.
+It's trying to take a couple of like hints of Rogue and put them in there to like make a more compelling game, but still not like break beyond the genre of like a story shooter kind of game.
+31:25
+Looters.
+I I don't really want to call it a looter shooter.
+It felt a lot like Destiny to me in terms of like kind of it's gunplay gameplay, but not in terms of how you're interacting with a long term gun scaling, all that kind of stuff, right?
+31:42
+Yeah, I think the fact that like risk ring 2 has perma death like that automatically, that's what a lot of people, you know, just by by that that is one of the main things that most folks would point to and be like, well, that's a rogue like.
+So the fact that it has perma death allows the rest of the game to the randomness is less important in establishing it in that genre.
+32:04
+Perhaps.
+But I, I, I, I think Remnants is perhaps it's it's a very interesting case study in how roguelike and roguelike features and and gameplay options can be applied to many different games to make them more interesting or to increase the longevity or to get some some additional content out of it.
+32:31
+And I think, and it, I, I, I think this game shows that by applying those rogue like elements, you can get a lot of bang for your buck as a developer and as as a player.
+And I think it's for that reason that we're seeing more and more rogue like elements creeping into a lot of different games across.
+32:53
+The game scape.
+Pull back to the baking analogy we started the show with.
+Yes, I don't know if necessarily you can even say that this is applying rogue like elements to a game.
+It's like you are, you have two, you have a cake and you have a chocolate chip cookie.
+33:09
+Both of them use many of the same ingredients to create different outcomes.
+I, I feel like you're applying the ingredients of some randomization here and some level procedural design here and you're creating a, a thing that's got the flavour of randomization.
+33:29
+And then if you applied some other different ingredients, you'd end up with a different kind of game.
+That's a roguelike game, which they do in the mode that we, I mean, that I played more of for, for actually prepping this podcast, the survival mode, which is like, oh, we took all those elements.
+33:50
+Then we added the other ones that you need to make a a roguelike cookie, IE true randomization starting from a lot less and perma death and short runs I mean.
+Before we jump into the survival mode specifically, just to kind of like cap out on the story mode, like you'll you'll go through like a given Biome.
+34:14
+You'll encounter like these kind of random events along the way, but like the main Biome itself can have like some like random like they're they're basically like randomly slapped together prefabs in a way.
+You'll encounter some some mini bosses along the way.
+And then you'll encounter a world boss that again could be like pick one of two kind of deal.
+34:35
+And then you'll have some sort of story event at the end of that.
+And then after After Earth, you'll go to the keepers tower where I feel like the the deeper you go in this game, the more they realize that the the facial animations of people talking was a little jarring and more and more of the NPCS have their faces covered or just don't have animated mouths at all.
+34:57
+But.
+Smart, Smart designers, opposite of coward developers.
+Smart developers.
+Wise.
+Clever.
+All devs go to heaven episode.
+You go to the Keeper's tower and the keeper is like, Oh, yes, and I think this was the tower you were looking for, but it doesn't quite look like what I was expecting.
+35:16
+And they say, oh, yes, your request takes you across many, many places you're going to you're going to have to go and, and it basically like your goal is to hunt down this one guy who kind of like knows what what the deal is with all these monsters, but this one guy could be anywhere.
+35:33
+So you got to go to the labyrinth, which is this.
+It's it's the starting hub area from the survival mode.
+That's the labyrinth Biome.
+But it's like it's like another hub world in a way.
+I thought, oh, this will be interesting.
+Like there'll be different NPCS.
+35:49
+This will kind of like reset the hub and I won't be stuck in like like a knock off metro zone.
+But no, it also felt kind of bare.
+But that's like, you're well, I don't know it, it felt like another kind of way to link together all these different Biome art ideas that they had where to be clear, like they're they're interesting.
+36:12
+I think the earth is like the least interesting one.
+But your next mission takes you to a desert planet with like this big eclipse going on.
+And it's the same kind of deal with like random prefab stuff and and PCs and bosses and stuff.
+You go through that Biome and then you meet this, this gigantic bag headed guy who's like, oh, would you would you know, I'm, I'm offering you some, you know, shortcut to take.
+36:37
+Do you want to take the shortcut?
+And you can either like take his Faustian bargain or not, but trigger another boss fight.
+But then you go to swampland, then you go to Mystic forest land, you go to Iceland and you you kind of repeat this process throughout.
+36:53
+And then I think the story culminates with you basically finding the guy you were looking for.
+He says, Oh, well, we have one more place to go.
+And you kind of come back to the, where you started at Ward 13.
+But it's like the, the we're kind of clowning on like the, the, the metro knock off.
+37:12
+But like there's lower floors to it that have more lower to them on like hidden in it's, it felt kind of like a Halo 3 cop out of like, oh, all the lore is hidden in these computer terminals, but one of them is like this magic mirror that is like, oh, they were doing all this human experimentation with dreams and stuff.
+37:31
+You go through the mirror, you go to this parallel dimension where this dreamer person is, and you fight this dreamer and.
+It's a big.
+Spoilers yeah, Oh, by the way, spoiler alert, rewind your episode to Fast forward away from that.
+You fight this this super boss and then I believe that that resolves the story and Hooray you saved the day story mode in a nutshell adventure mode.
+37:54
+Your second option is just like one of those tracks.
+It's just like just the earth Biome you run around you.
+You can practice fighting bosses that way a lot easier and you can re roll those at any given moment.
+So if you're like this, this earth realm sucks.
+38:11
+I want some other events here.
+I'm just going to re roll this one and then you can try it again or you could do whatever other by home you want.
+It's interesting 'cause you're not locked in at the start.
+You don't have to like play through the story to unlock all the other ones.
+You can just say fuck it, I'm going to Ice world and just go right to Ice world.
+38:28
+Yeah.
+And practice those bosses there, which and you know it, it follows the same kind of progression of like linked together prefab some events along the way and it's a good way to kind of like grind bore specific items.
+38:45
+I think like also probably a smarter way than how Diablo does it.
+I didn't play Diablo 4.
+I know a lot of everyone else in the group did, but like.
+Some Diablo four?
+Yeah.
+Wait, was Diablo?
+Which one's the most recent?
+1D four or five, Yeah.
+39:00
+Right, it's hard.
+To keep track.
+But yeah, I think like adventure mode is a smart take on that with like, oh, I just want to play this one Biome and like I know this one boss has like a sick drop to it.
+I need that for my build.
+Do this Other thing is I I feel like that's a good way to do it.
+39:18
+The difficulties I think are are done because they just add more health to the enemies and scale poorly.
+But whatever this is all LED us to the survival mode, which I think you know, you, you download a roguelike podcast, like they're going to talk about roguelike games, and 40 minutes into an episode they're like, Oh yes, we finally get to the roguiness.
+39:39
+The survival mode comes bundled in with the Swamp of Corsus DLC for Remnant, which I think was a little poorly received, mostly for the Biome and not necessarily for the survival mode, because I thought the survival mode here was the best part of the game for me.
+39:58
+Yeah, you know, it's, you know, you got it a swamp, right.
+But I I think choosing a swamp Biome as your DLCI think goes maybe a bit of a misstep.
+That's how you know it's a Souls game, right?
+Well, how many good swamp levels can you think of in Ninja Gaiden?
+40:18
+One there was kind of a swampy zone which had good music, I think, if I'm, if I'm remembering correctly.
+But like, yeah, you've got the the the the horrible swamp and Arc Souls.
+Is that one or two blight town?
+They all the it's every souls game has sometimes multiple horrible swamps.
+40:34
+Oh no, not more than one you got.
+Demon Souls has a swamp zone, which stinks.
+I'm grasping at straws.
+You're trying to think of another example.
+But anyway, I guess I don't know.
+Stalker had a had an OK one, but anyway, yeah, the the the this DLC I, I did not know even existed, as I mentioned previously, and I think it is yeah.
+41:00
+I mean, what a nice addition, especially if you're like a seasoned remnant player.
+And it's like, gosh, you know, I want to jump in and I want to play some more.
+I want to put my skills to the test.
+Like, this is a great way to add a add a new mode that lets you, you know, have a, a fairly complete, you know, gameplay experience in a relatively short period of time.
+41:19
+And it is randomized in such a way that you get a, you know, pretty fresh feeling experience.
+Or, or if you're a complete noob and you just want to like pal around your friends and you don't have to build a, you know, you don't have to have a rough find build.
+41:34
+It's just like, I don't know, there's only like 4 guns that I can buy at the beginning.
+I guess I'm using a sniper rifle.
+Cool.
+In Indeed, yeah, I guess you're yeah.
+And even even those those yeah options, the the weapons, it's kind of a a novel set up in that I don't know if you've played too many Rogue games where it's Oregon Trail style in that you start with a budget and you get to like go to the supply store and buy your starting equipment.
+42:00
+I like that everyone.
+I liked that.
+It felt very Counter Strike Y to me where like you, you have a very limited pool of resources and importantly, like the the stuff that you can pick from, like you have to like strategize with your other teammates of like.
+42:17
+That that's the part that I liked.
+Yeah, 'cause it's not refilling.
+So it's like there's four guns and there's three of us, and we get to distribute those guns amongst us how we choose.
+And notably, you can't drop them once you pick them up.
+Yeah.
+I mean, that is kind of weird, but.
+42:34
+A little odd.
+Yeah, but but yeah, I think like this, the survival mode is, is interesting on that regard.
+I played again.
+I I, I played number of runs through it solo where I thought, oh man, the solo experience for this feels much, much more tighter, much more focused than the main story of the game.
+42:56
+And I was like, it felt like it was clicking with me a lot better.
+But I feel like every time solo I ran up to a boss fog wall and had to fight a boss.
+It just I don't like, I, I feel like I know how to play in souls games where like, you know, you, you have like the, the little minions running around.
+43:15
+You got to like figure out what, what the gimmick is with the boss.
+OK, I understand their, their pattern now I've cleared out all of the minions.
+Wait a minute.
+I thought I cleared out all the minions.
+Why are the minions back?
+More minions it summons.
+Yeah, I feel like this game is a standout in that the minions keep coming and your ammo reserves are limited, but those minions keep coming, damn it.
+43:42
+And maybe like, we just got unlucky with like, lots of boss fights that had those infinite minions.
+But man, I don't know, like, that that really graded up against me where like, I felt like I had figured out the gimmick of the boss.
+I'm like, OK, I just need time to wear them down.
+43:58
+I know where the weak point is.
+I know how to like dodge this attack and do that, and then some minion would just like punch me in the back of the head and I'd be dead.
+But with two other people there to distract minions and shoot at the boss and do the teamwork, it felt like a much better experience.
+44:18
+And like the light bulb kind of went off for me of like, OK, I feel like this game was clearly designed around three player play and maybe two player to some extent, but not for solo at all.
+Like for me, it didn't feel fun at all solo in any of the modes, but three people, it felt like dynamic, interesting, like there were decisions to be made and.
+44:41
+Especially with the survival, you could start specializing your builds.
+So be like, I'm not going to worry as much about armor, I'm going to just DPS versus.
+I don't think you can do that at all, really.
+And then maybe if you're better than I am at video games, but.
+But yeah, what's what's interesting about the the survival mode is that instead of you going through like 11 big Biome like in the story or adventure mode and fighting several mini bosses related to that Biome and then fighting the big world boss at the end of that Biome.
+45:19
+In survival mode it's even more constrained where you have like let's say you start with the earth Biome.
+You run through that, you I think you fight one mini boss and then you are like, OK, you did it, you fought the boss.
+Congrats.
+45:35
+Oh, maybe, I think there's two bosses if I remember.
+Right.
+There's like a mini boss and a slightly less mini boss.
+Yeah and then once you beat that slightly less mini boss you are presented with, with your crystal again, like, oh finally that you can use to work back to the world stone.
+45:52
+Yeah, we got to get back to the worldstone.
+Watch out for Archers.
+And you, you teleport back to the main starting hub and you can you can start your buy process all over again.
+The the stores have refreshed.
+You can pick different guns and and I guess like you'll, you'll find a chess along the way throughout the level that will have loot.
+46:14
+We, oh, we should probably talk about that, how the trait system is different as well with survival mode where you're running through like one of these, one of these given biomes you're, you're looting.
+It felt like the loot was much faster too, like stuff was dropping a lot.
+And you'd have to be like, the whole session is like an hour long often times.
+46:32
+So yeah, if it was as slow as the main game, you would just get like nothing like, cool, I've got a gun that I started with.
+And a shovel and a monocle.
+A rat.
+Yes, I conquer the tower.
+And And one glove.
+Single solitary glove and and God help you if one person finds the right hand glove and the other left hand glove, because there's no way to trade your items.
+46:56
+There might be in the main game.
+I don't, I don't I know.
+I don't think so anyway.
+Yeah.
+So in in like in campaign, you're you have these you have traits and you can spend them and you can build a build.
+But in survival mode, you just randomly find these mysterious tomes in a level you'll find, I don't know, maybe between 2:00 and 5:00, maybe if you're lucky.
+47:22
+And those just randomly like rolls on a big giant table the whole game and you get like some random traits, which is kind of interesting.
+But it's it's it's kind of too bad that you don't get to build your build as you go along.
+Now you can do a little bit of that trade building back in the hub world, back in the labyrinth, in between, in between maps, biomes to some limited extent.
+47:47
+And I don't know, it felt kind of, it felt like a little bit of a bummer because it's, it is like each tome is like plus 5% to, you know, whatever trait, you know, your stamina regen or your damage, your melee speed, etcetera, etcetera.
+48:03
+So that it doesn't feel super satisfying.
+But I don't know, I, I, I guess it's an OK way of doing it.
+And it's, I would guess, enjoyable and novel if you're a Remnant master and you're just looking for more, more content in gameplay modes.
+48:21
+Were there meaningful decisions to make?
+I would say that there aren't really.
+During the during the level that only happens during the hub world.
+Maybe 'cause I, I want to say when we were like rifling through chests for tones of things like obviously and again, like this, this another felt kind of like a sticking point of like, it's like Tome of Swiftness is all it says.
+48:45
+You're like, well, I'm sure this has something to do with movement speed, right?
+And then you pick it up and it's like, oh, plus plus 2% dodge speed or whatever.
+You're like, OK, I now have that trait.
+I can now like up that trait another 2% every tome that I pick up.
+49:04
+And so Colin, if you're running around and you've unfurl a chest and that tome falls out, like yeah, you could like loot monkey grab it for yourself, but it wouldn't do you anything if you're specking in a different direction.
+And if you'd like over voice chat and you're like, hey, Scott, come pick up this thing.
+It'll like it'll synergize with your build really well that.
+49:21
+I like are so much coordination.
+Oh, right, Scott's going for a Tomb of Swiftness build.
+Classic Scott.
+We've got to get up that eight.
+You know, if we get four of these, it'll be 8% swifter.
+But no, that I mean that, that that is a important point, I guess to to highlight that it does tell you the type.
+49:42
+So I suppose if, if you were better versed with the game than we are, there is some coordination, some interesting decisions to be made.
+The more interesting decision, the more immediate decision to make is that the this mode constantly the the world is is constantly leveling up and enemies are getting stronger and stronger and that is time based.
+50:06
+So you are making a a somewhat interesting decision of like should I just like Sprint through and rush rush rush rush rush.
+Do I have time to loot or would I be better off pushing through and staying ahead of the enemy leveling, which I I found, but you know, I don't know maybe that maybe that's just me.
+50:23
+I also gravitated towards that mode in Haiti's the speed run mode felt it's.
+The same.
+Felt good to play.
+Vibe in risk of rain, they've got the.
+Of course.
+Yeah, yeah, yeah.
+Yeah, same, same, same mechanic.
+I, I like, I like that as a mechanic, just as a, yeah, gives you another decision to make, like priorities to weigh, etcetera.
+50:48
+Like I think if you didn't have that, there's not that many things that you can choose to, there's not that many big decisions to make.
+Like it keeps you from like creeping through the levels, which is nice.
+I I I appreciate an external source of like tension.
+51:05
+Momentum.
+Yeah, yeah, exactly.
+Because otherwise I my, my worst gamer instinct is to like go down every single side path, make sure that every single nook and cranny has been checked, slow roll through the level and Snape thing from a distance, etcetera.
+51:20
+Which is more effective but less fun, so I appreciate that.
+Scott, do do you, do you like the the push, the gentle push that the game is giving you to keep moving?
+I mean, I think so.
+Or this mode rather.
+Excuse me?
+51:36
+Yeah, 'cause like it, it gives you that, that difficulty wall to climb up, to bounce out, like the fact that you're getting stronger, 'cause if you didn't have that there, then you would just be like an unstoppable snowball after like two or three bosses or something.
+But I feel like what's missing from this here that Hades and risk of rain capitalize on is some sort of boss fight at the end.
+52:01
+Like you're building up your way through survival and it doesn't really need to matter that like you're going from 1 Biome to another.
+But like the I don't know if the world bosses are like drawn from the pool that like the mini bosses are.
+52:18
+I think they are, but like, like people way better at this game than us can like do world record runs of survival mode that go like 10 plus hours or something crazy.
+We're like in our runs, we were getting like maybe 30, maybe 40 minutes before the three of us were getting completely knocked out.
+52:39
+So like there, there is a, a large amount of player skill involved, but like building up to what it just kind of seems like, you know, well, like just sees is, you know, how far can you go, which is like, you know, OK, that's fine.
+But if there was like a unique new world boss to survival mode, that's like OK, after 5 realms or something, you're going to fight like the soup, the, the, the, the, the Super boss that's unique to this mode.
+53:07
+That would be kind of interesting and cool.
+Maybe it's not super necessary, but otherwise it just felt kind of like a high score sort of arcade game, which I think I'm OK with.
+But yeah, I don't know, I feel conflicted about it.
+53:22
+It is it is kind of interesting.
+It seems like more often than not we're saying, gosh, an endless mode would be nice, a nice to have, but that's the default, I suppose, since you yeah, it's kind of a it's this is this is a unique design situation where I imagine they made it endless because.
+53:40
+Well, if you want to be working towards one specific like bespoke boss fight goal, you go play the campaign that is.
+That is interesting.
+And yeah, as far as I know, there's no unique content to this mode that's.
+53:55
+Not no, but I think it's a better way to experience the content of the game.
+Yeah, I think it's pretty.
+I think it's pretty successful and the fact that it's that it was coupled with a less than appealing swamp mode with a less than appealing boss and also the fact that they called survival is such a weird branding choice in my opinion.
+54:18
+I guess you are trying to survive, you're trying to go as far as you can, but like what?
+Would you?
+What would you pick?
+Well, Adventure mode has already been taken by a different a different setting.
+Yeah, I don't know.
+Something.
+Something that in something that evokes roguiness.
+54:34
+Death run.
+Yeah, sure, something.
+Hardcore mode.
+So question for you you 2 who have played the base game more than like 2 hours, What is the content for this survival mode drawn from like?
+54:50
+Are these levels very similar to the levels in the main game?
+Are the bosses like mini bosses in some of the like random earth levels and desert levels and stuff like that?
+Correct.
+Yeah.
+OK.
+So like it's it's.
+Convincing it down it's.
+Like so the the the the boss that we died on last night was Triangle boss Platonic triangle flying shooting triangle fire spew at us.
+55:18
+I could fight him somewhere in one of the desert levels.
+You too could fight Triangle, yes.
+OK.
+The only, I think notable difference between survival and adventure slash story mode is the fact that like in survival mode, like the main, the main hub thing that you're running through is very linear.
+55:40
+It's it's just almost like a straight corridor.
+Whereas with adventure and story mode like that, that playscape is like is kind of like the main, main line of it.
+But there's like other kind of like prefab things like slapped onto it where like, oh, I can go into this, this little desert, like village and murder inhabitants.
+56:04
+Yeah.
+And there might be a test in there or some NPC or someone that you can talk to to to get like a a sick drop or some some sweet fashion souls as it were.
+Some bug armor.
+Get that right glove and there might be a, you know, like A1 draw one from three pool of like different kind of events and things like that.
+56:27
+Like for example, like running through adventure mode, I ran into an event that I'm like, oh, this seems kind of cool.
+I wish like I had seen this in the story mode when I did it the first time 'cause I think adventure mode draws from like a more like fuck it, like anything goes kind of pool.
+56:46
+Whereas story mode is maybe like a little more pared down.
+So it's not like I think I ran into like.
+Like on the Rails.
+Yeah, I think I ran into like an end game event for one of these things and I'm like, oh that like this is cool, but like I have no idea like who Doctor Leto is and why I need to escape his lab.
+57:06
+I only just got here from like a like a highway underpass which seemed a little weird.
+How many genders are there?
+I just got here.
+Doctor Lido.
+I just got here.
+Interesting.
+Interesting.
+Well, yeah, I Well, darn.
+57:22
+I should have played a little bit more of that.
+I I was under the impression that adventure mode was more of just like, let's practice the game, let's practice the fights.
+Yeah, you're you're practicing escaping the lab.
+It is it.
+Is that and I wish, I wish there was more and I noodled around with the difficulty settings where I'd been playing on like noob easy mode the whole time or normal mode I guess.
+57:43
+And I thought, Oh well, like clearly if this is like a loot game, then upping the difficulty should make everything harder, but I should get more loot faster, right?
+But I think upon the like more that I was experimenting with this that it was basically just like, oh, the enemy's enemy's health is just goes from like 100 to like 110% or 120% and that's.
+58:08
+Like that?
+Yeah, It didn't feel very inspired or like, you know, if there was like, oh, only these bosses here are gated behind hard or impossible or apocalypse difficulty or like it was like, you know, the monsters had like one extra move or they had some other thing to like, I don't know, you know, make a different decision in combat for.
+58:29
+What game are we talking about like a couple games ago about how would have add interesting difficulty?
+I mean we're always talking about that.
+I feel like Hades does well in in adding the heat stuff.
+Are you thinking?
+Like slice and dice with like curse systems or sure.
+58:49
+It's this is a, yeah, an age-old thing in games, I feel like.
+Yeah, How do you add, how do you add something that's an interesting difficulty addition that's not just more hit points, because more hit points is often times like just just less fun.
+59:08
+Speaking of days.
+To.
+Me or I mean basically it's it's the the two easy options are add more hit points to enemies or make enemies take more of your hit points away.
+You know, I remember try you ever tried to do like Halo legendary or like into the early and they're just like get one shot sniped from across like the the level.
+59:31
+That's not very much fun either.
+First, it's.
+Fun.
+Hades, I mean, Haiti does a pretty good job of adding new enemy mechanics.
+You have to go faster.
+You've got like little weird things that get tacked onto you.
+Like, small little penalties that just like, once they add up, you're like, OK, like the enemies have like one layer of shielding on them.
+59:54
+How does that change my approach to this?
+Like what do I have to do differently about my build in order to solve this new puzzle?
+Right, exactly that make you think about something or make you change your build or change your gameplay in some way rather than well, just shoot them more times.
+1:00:12
+That's not a fun sure I I feel.
+For I feel for developers because it's like, you know, well if they come up with some new bespoke, interesting boss behavior.
+Oh yeah, you know, and like.
+Bullshit.
+Let's put this in the main game.
+Like this is cool, you know, like we don't want to write.
+1:00:28
+It let's just add another whole fucking sequence on you.
+You're right.
+There's like, oh, OK, thanks.
+Great suggestion.
+Ways we were suggesting that all developers look into what's called scope creep.
+And if you could.
+Y'all could just do a bunch of that, that'd be great.
+No, it's, it's tricky.
+1:00:43
+But like for my money, I guess here's something that that doesn't require a a bunch more development time for my money.
+If if it's choice between enemies with more hit points or in Boo and just more enemies.
+Like I'd much rather there just be more enemies to shoot at or back in back in the day.
+1:01:01
+Like the hardest difficulty of Duke Nukem 3D is that the enemies respawn, which it made for like pretty enjoyable because like, Oh well, you know, it seems like a small change, but but it was quite significant because you didn't fight your way through part of the level and then coming back through the level.
+1:01:18
+Oh, you'd have to fight them again unless you like give them a part.
+But anyway, I digress.
+Yeah, I'm curious.
+The fact that we are getting like pretty pretty rocked, pretty white, pretty pretty demolished in normal mode.
+I can only imagine I was looking at like that that that difficulty screen.
+1:01:33
+It goes all the way up to Apocalypse with like a red with a frowny face on it.
+Oh my God, that looks.
+How many difficulties are there between what we were playing and Red Skull Apocalypse?
+Or 6 four, yeah.
+I think there's like somehow, but like The thing is once and an adventure and story mode.
+1:01:55
+Once you get like enough gear snowballing, then it's like, oh, this, like the story mode is almost kind of become trivial and then you're like, oh, maybe I'll like re roll the difficulty here to be like more like scaled to what I'm playing at.
+I had, you know, I I wound up experimenting with open lobbies 'cause I'm like, oh, like this will be interesting from the souls like perspective.
+1:02:19
+I was getting bodied by singe, the dragon boss from the earth, earth story mode.
+Cool boss fight.
+Loved the, like, the atmosphere of like, all the exploding, flaming stuff.
+And maybe my build wasn't like super optimized for it, but like, I was having fun.
+1:02:36
+I was getting frustrated from like, the infinite ads that were just killing me every time.
+So I'm like, all right, open up the lobby system.
+Let's go ads.
+Yeah, Like MMO minions.
+Isn't that what what they're called?
+Yeah, yeah.
+Precisely.
+Yeah, it's an MMO.
+Term Wow.
+I guess I haven't played enough MMO.
+1:02:53
+Those those.
+Minions are called ads Ads in this.
+There's there's big plus signs running around AD.
+ADSI see what you're saying?
+Yeah, yeah, yeah.
+It's a this is a pay to win game.
+So I'm I'm I'm fighting this big dragon boss fight, getting frustrated.
+I open up the lobby, some dude joins with like crazy high level gear.
+1:03:11
+He clearly looks like he's been playing from like a different game.
+What year is it?
+Exactly I like we walk through the the boss gate together and before I could reload my gun the first time the boss is dead, he just shot.
+1:03:27
+I don't know, he just like Hadouken some massive beam Adam.
+I think like kind of in classic Elden ring style that you find where like you know, just like some I just saw like some giant energy beam shoot out of his gun and the boss was dead in literally 2 seconds.
+And I thought, OK, now I can see why it's called easy mode.
+1:03:45
+And I rolled with that guy for a long time.
+Like he like the the community for this game is is very nice in that if you roll into the remnant discord and say I need help with this boss please bam there'll be someone in 5 minutes joining your game to just like roll through whatever with you.
+1:04:01
+You communicate with them in any way besides just telling them that you need to find to go back to the Worldstone.
+We need to go to the Worldstone.
+Let's.
+Find the Worldstone.
+There are the the, the baked in emotes that you can do and for the most part, like we were just doing that.
+I don't know if there's proxy voice chat in this game.
+1:04:18
+I didn't voice chat with anybody outside of.
+I I I thought I saw the option.
+Sure.
+There's probably a push to talk but but I never wound up talking.
+I hate strangers so I don't want to talk to them.
+Unless you're talking to like 90 of them at the same time.
+And then of course, so, so like we roll and like I had rolled through the desert Biome and I don't know, maybe like 7 or 8 minutes with this guy.
+1:04:42
+He was literally just like running his and I was running as fast as I could to keep up with him and he was just like tornadoing through the whole level just tearing everything apart.
+Bosses were just a complete joke to him.
+We eventually like got stalled out on a couple bosses and I and he left but I think he like he could have easily just like tanked the whole game for me and I had still had starting gear.
+1:05:04
+But survival mode like you know you are restarting from the beginning every time.
+So anyone that starts survival mode is starting on equal footing as as per your traditional, not traditional as per your standard action roguelike experience.
+1:05:22
+Indeed.
+But yeah, it definitely felt like the game was like, oh, like some guy who's like, level, you know, 999 joining your game, Like, OK, like the enemies are just going to get like evaporated in two seconds.
+It didn't feel like it.
+1:05:37
+It's scaled to make either his equipment weaker or the enemy's stronger.
+For me.
+I'm not sure which one of that would solve it, but.
+It'd be interesting to play the survival mode with said stranger who is obviously better at the game than us.
+Yeah, or maybe, maybe not Andrew.
+1:05:55
+I'm assuming Andrew, you're that you're better than we are just in general at all first person shooters.
+There's two other Andrews.
+Yeah, well, I mean, I don't know, The person you're describing is God.
+Sounds pretty God like, for sure.
+Yeah, it would be.
+For sure better than me.
+For them, yeah.
+1:06:10
+For the I'm curious what what that player that you played with Scott, of their experience has been with the survival mode.
+But in general, I think the survival mode is a quite successful way of, of, of applying some rogue like design principles to a game and in many ways improving it, or at least, you know, repackaging it in a novel and interesting way.
+1:06:34
+And I, I think the greater lesson to be learned is that, yeah, a lot, a lot of games benefit from some of those features.
+And one of the best things about roguelike games is that you can remix and stretch content and stretch it almost sounds like, I don't know, cheapening it.
+1:06:53
+But like you can, you can take existing content and breathe new life into it with with certain.
+You can Polish it off, sure.
+You can take off.
+I mean, I, I, I certainly think that there's ways that you could do this in a way that cheapens the game, but I don't think that that's what this is.
+1:07:11
+I think this is, it's remixing the stuff that they made before into a new, into a new package that might fit your play style a little bit better.
+Like maybe I don't want to play like I, I, I feel like I've had this problem a lot with games where we don't end up all on the same page.
+1:07:35
+Any of the survival crafting games that we've ended up trying to play where it's like, oh, Scott, you couldn't play this weekend.
+Well, we put in 20 hours.
+So here's the loot that we got.
+Just try and catch up versus I like, I, I like a new mode where you can maybe start off in different skill footings, but you're starting off no matter what on the same page gear wise.
+1:07:58
+And like, that's a, that's a nice thing to have in your game.
+But then also it could be that Scott is around that weekend and so is Andrew.
+Oh, let's go and do the main campaign and we'll all be on the same level all together.
+1:08:15
+It gives you a little bit more flexibility in terms of like how do you want to engage with this, the work that the developer has done to create this world.
+And you can you can tailor their work towards what fits with your time, your, your time frame, your experiences, your, your desires out of the game.
+1:08:36
+So I like that there's more options.
+Different ways to engage with that content and some content like, you know, I, I played the single player, but I, I didn't necessarily see all of the levels and bosses and things that we got to experience with survival mode.
+But enough about how great we are.
+How about that community, Scott you?
+1:08:55
+You.
+You dug into the discord.
+Depths.
+Yep, there.
+And said, hey folks, what's?
+Going on yeah, I I so we have some some some stuff to to re offer from the community here who I think like has spent more time and maybe have more a little bit more insight into the non survival aspects of the game.
+1:09:15
+But I think there's like there's some good tidbits in here as well.
+So I'll read off a a a couple of these here.
+So this one from Harold sacks says I like souls likes, but I don't like souls.
+I'm not good at these games but I like them.
+1:09:31
+Remnant is great because I don't have.
+I don't have to have it be balls to the wall hard as fuck all the time, but if I want that I can just re roll a world at a different difficulty.
+I also really enjoy the boss battles.
+They did a good job differentiating the bosses in the second game in my opinion.
+1:09:48
+Also, the fact that the game is ranged combat means that a lot of the camera fuckery that is common in melee games of this type just isn't present in Remnant.
+And boy howdy do I appreciate that a ton.
+Yeah, I can appreciate the the melee camera aspect.
+1:10:05
+I think there were a lot of times in Dark Souls 1 and 2 where you're just like, I just have to get my character like up against the thigh of the dragon, and then the dragon is like rotating around and you're just like slash, slash, slash.
+And yeah, I think the boss fights, like if they just didn't have infinite minions, I would like them a lot more.
+1:10:23
+But this does feel like a game that's like a Souls like for people that don't like Souls.
+Yeah, I, I get what you're saying.
+I I haven't played a ton of souls games and well, I let it be let it be known that I was early to the souls train hopping onto the souls train.
+1:10:43
+I was tracking demons souls back when it was hadn't it was only available in Japan.
+I'm like, oh, I got to import that.
+Fortunately, I, I, I wasn't able to, but I got a hold of it like the day it launched in in the United States.
+I'm like, this is this is good.
+This is something special, but boy howdy is it kind of tough.
+1:11:01
+I got to go play first person shooter.
+But yeah, I think, I think that makes sense.
+Yeah.
+That it, it takes advantage of some of the the Souls design philosophy and features, but packages it up and in a way that is more approachable.
+1:11:16
+And yeah, for my money also, I think, I think more appealing the the fact that there's a focus on shooting.
+I really appreciate quite a bit.
+And it let me say that the Harold Sacks, the Harold Sack, that's a great item actually, if you can roll that what here on your table.
+1:11:31
+That's the name of the fellow, the person who wrote in.
+Was.
+Harold Sacks And I was, I was making a goof that it's an item, but it's not.
+That's it's just a joke.
+It was a goof.
+Yeah.
+Great.
+Great point.
+Yeah.
+You're.
+1:11:47
+You have a lot of great camera control.
+Never, never was there an issue with my camera.
+That's for darn sure.
+Except before I had an opportunity to turn off the camera wobble.
+The camera wiggle is too strong.
+It's too much.
+We don't need it.
+Switch it off please.
+Another one here from Rybred 2528 says.
+1:12:06
+For me, the feel of the game is spot on.
+When you shoot enemies, you get a real sense of the impact of your firearms.
+It's extremely satisfying for a third person shooter.
+What kept me around is the grind and the variety.
+I love the rabbit hole of finding new bosses in new zones as you continue to reroll maps.
+1:12:23
+Yeah, it is a bit more friendly to newcomers than Souls games as well.
+Definitely, definitely friendlier.
+And yeah, I, I agree that the gunplay feels good.
+It's, it is very enjoyable getting into that, that rhythm and that game loop of blasting and blasting.
+1:12:39
+And like, I resumed my game that I had my, my like, I don't know, 8-8 ish hour or something like that into a run.
+And it was cool going back to that gear.
+I had this like neat pistol with like an alternate mode where it like would open up and shoot these big like shotgun blasts of like a radioactive stuff.
+1:13:00
+All the different, the mod system and everything is really cool.
+I can relate to this this next one here from Ronnie Meister who says I've tried to suggest my friend to play any souls like for years and finally convince them to try remnant 2IN Co-op we had such a blast that we kept revisiting the game and they even started to play other souls likes.
+1:13:19
+So yeah, for me, it's an ability to play souls like in Co-op, which I guess like is a thing to underline that like souls or souls like games have notoriously obtuse Co-op mechanics where like, oh, I'd love to play like Dark Souls 2 Co-op with Andrew, but I got to get the summoning stone.
+1:13:39
+I got to go to this very specific area.
+I have to like wait for like basically him to see the message and then I summon him and then he's only available for like 1 boss fight.
+Great.
+Yeah, I think like if you, if you have friends and you're able to, to trick their, you know, very packed schedules into doing Co-op.
+1:14:00
+Yeah, I think that the coop here, especially if you get everyone on Discord and you can hear them like my God, the big butt monster is about to swing at me kind of thing.
+Swamp ass monster.
+That's a good time, the gas.
+Or the triangle you got.
+1:14:18
+There's two bosses in this game. 2 days of bosses.
+There are big butts, and they're big triangles.
+I can't forget the little little that's just a little guy.
+Just a little guy.
+I.
+Love the little guy yeah good good.
+Again earlier I I maybe wasn't clear that on average I like the design, direction and the aesthetic of this game and like the bosses are all as this is one of the discord folks mentioned the the bosses are distinct and interesting and memorable.
+1:14:45
+Even just a giant floating triangle was was which sounds very simple was was very memorable and it was a good fight for sure for sure that's fun, though, that the person's friend was that was their sort of gateway drug into other souls games.
+1:15:02
+Definitely, definitely.
+I think yeah, you don't see a ton.
+This isn't a super popular formula, but I think it's a good formula of souls light with a lot of shooting.
+I think it's it's it's good.
+And remnants does it in such a way that it feels good to play.
+Indeed, indeed.
+1:15:19
+And of course, that brings us to no, I don't know.
+Are there any other?
+I'm looking through my notes here.
+Mostly I just wanted to get in there that hey, this is like Destiny but like if the design was more interesting.
+And it's also like Hell Gate London how I imagined it would be, but it wasn't.
+1:15:38
+It's better than both of those games.
+Is there music?
+Check it out.
+Check it out.
+Yeah, I guess.
+Like, shoot.
+Yeah.
+What?
+Is the music.
+When I was hunting for for music to to play this episode out with initially, I have a bullet point, my big long Google doc here somewhere of like, you know, I when I was playing it, I thought the music felt very mid and very like generic action movie trailer music.
+1:16:00
+But when I actually like went to stop and listen to it, like outside of the game, like I actually like this is it's it's pretty good.
+You know, like it's it feels like it doesn't it doesn't distract you from the boss combat, but it's it's just kind of like there in the background.
+1:16:18
+But if you take a moment to actually stop and listen to it, like it's it's pretty good.
+I think like I was pleasantly surprised at like, oh, do I want to pick this one or, or this one, or maybe even this one.
+Like, well, this one was also pretty good When I was actually like playing the game, I couldn't like, I couldn't tell you like, I don't know what the difference between any of this music is because there's just so much other stuff happening.
+1:16:40
+But in isolation, I think it's pretty good.
+Indeed.
+Yeah, sadly, I didn't.
+I didn't take the time to actually sit down and listen to it.
+I was basically listening to my own music or podcast the whole time.
+So sorry about that Remnant composer.
+1:16:59
+I, I played with music on and I don't remember it.
+So I, I'm sure it, it was not grading, but I don't remember it as being particularly stand out.
+So it's about that time, time for time to time to judge.
+I think it's that time and I think like normally if we go in ascending order of rankitude, like I feel like I'm always the one ending on the positive note.
+1:17:24
+But I think at this, I think this time I'm the one kicking off with like the the stink vapors here and.
+Stink vapors coming in hot.
+And I think like to be clear, this isn't me like trying to like yuck someone else's Yum in particular.
+I think it's just like I I'm was maybe not setting myself up for the optimal experience, but I think if the game requires or like is designed around A3 player experience, then like maybe you should be forcing randos into the game.
+1:17:53
+So I guess like score wise for me, I'm gonna give it a 6.6, which puts it just ahead of Darkest Dungeon 2.
+And just like, I guess tying with Stacklands and Terminus zombie survivors, you know, like there's, there's good and bad here, I feel like, and I think the good, the good goods are good and the bad bads are bad.
+1:18:17
+It did not feel for me especially fun to like beat my head against a wall with like gear that I'm not entirely sure how to grind for against like these bosses that seem like they were designed with two other people in my party to be doing stuff.
+1:18:32
+Clearly it's a it's a get good scrub skill issue on my part because there are people who can just like speed, you know, like your classic souls thing of like going and beating the final boss with just like the starting stick and like no armor and like your naked fat or like you're just speed rolling everywhere kind of deal.
+1:18:51
+That was not me.
+And so yeah, I feel like the the voice acting, Oh yeah, the voice acting for the main character, especially on solo is like non-stop and really annoying.
+I thought I was hunting for an option to turn that off because I can there's only so many times I can I can take the that was terrible voice line, but if.
+1:19:15
+Was it over?
+Damn it, it's like, well, you didn't expect you're gonna have to reload your gun.
+Gotta.
+Get back to the Worldstone the but I think the goods here are pretty good.
+I think that like the the art design of like the levels and the enemies are very cool.
+1:19:33
+Some of the some of the armor I think could be a little cooler.
+But once like you get the cool stuff, it looks pretty cool.
+The boss fights are cool.
+The sound design also pretty good.
+Survival mode I think is the thing that clicked with me the most because you could see all that.
+Like you could experiment with all these weird weapons and stuff that I've never seen before.
+1:19:53
+And like all these other different bosses and biomes.
+I did appreciate with adventure mode, I could just like choose whatever world to go to.
+I didn't have to unlock anything.
+But yeah, I think like this game you have to play it at least with one other person and to have any kind of fun.
+1:20:10
+In my experience, all of the Co-op experiences felt way more fun for me than the solo ones.
+And yeah, I think like if the game was like, if Remnant two or three was like a more expanded upon survival mode, maybe I'd like it a little more.
+1:20:27
+But you know, it's like for all things considered, I I had a good fun time playing with other people.
+I'll go next.
+I feel a little bit weird about rating this game at all because it's just not the game for me.
+1:20:43
+I am not the a Dark Souls kind of person.
+I and I honestly, I feel like the more we've done this podcast, just as I've gotten older in general, it's like, I don't really like 3 DI think that, you know, we should stick with just two dimensions.
+1:21:01
+That was the right amount.
+And so like Dark Souls shooters in first person shooters in general or third person shooters, I'm just I'm not very good at them and I don't get as much out of them.
+So I'm giving it a 6.7 as a This is just kind of how I enjoyed it, but I have a hard time rating it as a Were I someone who enjoyed this genre of game more, how would I like it?
+1:21:29
+And I think I think it's a good game.
+I think that there's a lot of stuff in here that is good.
+I like I liked the level design and the boss designs.
+I thought that they were the bosses specifically were fairly.
+1:21:45
+They had good gimmicks like the the weird boss that splits into more bosses that splits into more bosses like.
+I feel like.
+We didn't, I didn't actually end up playing against that many bosses, but each one felt like it was a truly unique boss.
+Like it wasn't just here is a bag of hit points and A and a gun or a bag of hit points and a sword.
+1:22:05
+Like they all had like something about them that you had to like think and make decisions on how, how were you going to modify how you play to, to defeat this boss And you could not use the same tactics on one versus the other.
+Like 1 was like, oh, you have to like really hide behind stuff and pop out and shoot.
+1:22:22
+Then there was like, oh, you need to find the one that's glowing and you need to make sure that that one gets hit, otherwise you'll get swamped.
+I thought the guns for what they were, I did enjoy playing them.
+1:22:39
+I thought, I think the the comment that the guns felt, it felt very like chunky and powerful.
+Like I, yeah, I agree with that.
+Like especially some of the ones that were like the one shotgun, the sniper rifle, the Hunter's pistol.
+I had a lot of have fun playing to be like just sniping guys from a distance.
+1:22:56
+That felt great.
+But overall I think it's it's it doesn't have a it's a good game.
+I don't think it's a great game.
+And then it just doesn't hit for the kinds of games that I like to play at this moment in my life.
+1:23:12
+So take that for what you will.
+If you disagree with my general taste in video games, you'll probably like it more than me.
+And that's.
+Yeah.
+Well, I on the other hand, unlike Colin, 2D is not enough for me.
+In fact, it's 2.5 D because I love retro shooters.
+1:23:31
+But we'll round up to 3D in this case, Remnant.
+I thought when I when I remembered this game and having played it and enjoyed it, I thought that'll be a novel interesting choice for the podcast.
+I bet the I bet these fellas have never heard of this game and that turned out, oh, wait, no, they all played it five years ago.
+1:23:52
+I'm more impressed.
+But nonetheless, I think it was an interesting opportunity.
+And again, that lesson of hey, rogue like, rogue like elements have can do a lot for you, can do a lot for you developers and can improve a lot of games.
+I think that that lesson is nicely highlighted in this in this game.
+1:24:12
+If you go to Steam at this moment and you check out Remnant one, it is still $39.99.
+And I think there's a pretty good reason for that, that it's, it's nearish full price being six years old because hey, it's a, it's a pretty full, you know, page.
+Is this not Remnant 1?
+1:24:28
+Pardon.
+Me this is remnant 1 remnant from the ashes #1 is commanding 40 dollars $39.99 I guess to to be quick.
+We got it for 75% off there.
+Was sale.
+It does go on sale for $9 pretty pretty frequently.
+1:24:44
+Well, Even so, yeah, all all this to say of like the games we've covered, this is what it be like, you know, higher production value looking games.
+It is a pretty, you know, kind of complete package.
+It's, it's, it's a little more it's, it's sort of, you know, a, it's like a AA game.
+1:25:00
+It's like it, it looks a lot like a AAA game and plays not dissimilar to that.
+And I think it's a good as, as that one person from the discord mentioned.
+I think it's a good entry point for people who are are sort of interested in rogue like dumb and just to to speak to the quality of the the single player experience, unlike us here.
+1:25:26
+My wife is good at games and she played through I believe most of the first one and the second one by herself and and had a good old time.
+And she has a very high opinion of this game and I have a pretty high opinion of it as well.
+In fact, I, I thought, as it turns out during lockdown, she and I only played it for I was, I was shocked to learn what I've only played this game for like 8 hours.
+1:25:49
+I thought, I thought I'd invested way more time in it.
+So I, I think that's maybe indicative of what an enjoyable time I had because I, I thought that it was longer and more epic and grand.
+And I'm absolutely looking forward to playing Remnant 2, which someone very kindly gifted to me on during Christmas.
+1:26:07
+So I am giving this game a 7.89 and it is my new number 10 because every other episode the game is my new number 10.
+So it's all fitting and it's a good way.
+It's a good, it's a good way of like, you know, showing that, hey, this, this game, I think is, is quite good and it's worth your time.
+1:26:28
+And it looks good to boot, so long as your character is wearing a helmet.
+Well, that will transition us to what are some similar games here.
+And this was quite the the experience because like this is like somehow like a growing area of like games are maybe not like Rogi on the face of it and don't like kind of pitch themselves as but have like some kind of roguiness ish to them.
+1:27:00
+Or like some games that are just like straight up AAA games that have just like, fuck it, we're just gonna throw a roguelike mode in here.
+So ones that that are, I guess rogue first Witch fire is one that has come out relatively recently, relatively good production value, first person shooter, very hell gate Lindeny kind of deal.
+1:27:20
+I think that it kind of nails the vibe of what it's going for.
+Tyrants realm is like a third person beat em up souls like with with a very fun looking PS1 aesthetic to it.
+And I think like stay tuned and 1/2 for later this year.
+1:27:41
+Elden Ring night rain might be one for us to to take a look at.
+Riding it already for getting your SO owned.
+Getting your souls like I can't wait for the poison swamps but other games that are are kind of shootery and maybe debatably roguishness on some degree.
+1:28:01
+Warhammer vermin tide 2, deep rock, deep rock galactic.
+Also worth checking out, but the AAA ones that I have on here that have like straight up rogue like modes.
+I think I I don't know if I had these backwards.
+God of War Ragnarok Valhalla, I think has a rogue like straight up AAA game, very high production value, has a dedicated roguelike mode to it.
+1:28:25
+Now The Last of Us too has a dedicated roguelike mode that they've added.
+The Division 2 has a roguelike mode that they've added and even I think a few days ago, and I wish will was here to to share in this balloons tower defense 6 recently just came out with a dedicated roguelike mode that yeah, Collins furrowed eyebrows, I think warrant the huh.
+1:28:54
+But yeah, there's there's no shortage of games that have have decided to use some of their big, big budget for dedicated rogue modes.
+I guess I'm not sure if you put balloons in the AAA or AA category, but anyway.
+Part of the genre.
+Of all the balloon based well I think that is going to wind down remnant here.
+1:29:16
+If you want to write in about how much chocolate you think goes into a chocolate cake, grog pod zoneagmail.com place to do it.
+Grog pod at game dev dot place is our Mastodon where you can see pictures of stuff I guess that I post there.
+I don't know.
+Grog pod dot zone, the website that's that has all the things, all the stuff that you could ever expect from a website.
+1:29:39
+Well, Scott, what are we playing next week or next episode 2 weeks from now?
+What what game did you pick?
+Scott, What was your?
+Your Scott, what game did you pick?
+Scott, I picked Speaking of 2.5 D and weird, weird graphics.
+1:29:59
+We're dialing the clock back again.
+We're, we're firing up some emulators.
+We're going to eBay to spend, gosh, what is it now?
+Like $150 on the PlayStation One exclusive Mystery Dungeon slash dating simulator as your dreams.
+1:30:21
+As your dreams.
+Yes, we there have been hints of it, It's been mentioned several times.
+It looks very intriguing.
+You're going to give us instructions on how to play this though, right?
+Yes, we're.
+Going to take turns.
+I don't have to actually, I don't have to.
+We're not going to have to come over to your parents house and and play on your, your Dreamcast on the in the in the basement on your CRTTV 0.
+1:30:45
+Man, that would I feel like that would actually be a pretty pretty great experience.
+But I'm coming to realize that save states are such a a quality of life upgrade for some of these older games.
+But yeah, fire up your fire up your CDRS and get burned in there.
+1:31:07
+We're we're going to be jumping into a monster tower with some potentially really poorly aged PS1 graphics.
+But but yeah.
+Oh, I can.
+I can hear the texture warp a Colin.
+I'm excited.
+Oh boy.
+1:31:24
+All right.
+Real quick though, what are the chances that Will's actually going to be on the next episode?
+Because.
+I don't think.
+How he's going to enjoy this one, you're going to get a we're going to get a whole earful about how, oh, games only look good if they meet XYZ criteria.
+1:31:42
+I mean, there's some hot anime women here though, so.
+Also Angelert, they are all about the age of 15.
+I'll fix it and stretch it out, don't worry.
+Straight to the Azure Dreams jail it is.
+1:31:59
+And so this will be an interesting game though, because yeah, it's a forerunner.
+It's a it's a progenitor to like modern 3D rogue like games.
+I'm very interested to see how this goes.
+Is this a turn based combat?
+1:32:14
+Yes, this is.
+This is very well forget about Will being here.
+I might not be here.
+I can't, of course.
+It's very much in a similar vein to Sheeran the Wanderer and the Mystery Dungeon kind of series to it, except if you thought that Sheeran needed more Pokémon battles in it and monster taming and monster breeding and egg collection.
+1:32:39
+I think this was something I had on the schedule for some time last year, but it kept getting bumped in favor of other things.
+I thought, OK, I need to plant a flag in the sand.
+I keep seeing people reference stuff to Azure Dreams.
+And yes, as Colin is posting in in our Zoom chat here, all sorts of wild art involved in the pool area.
+1:33:03
+Specifically, there's town building.
+There are.
+Oh boy, these graphics.
+Relationships that you can manage and yeah, a a mystery to unsolve at the top of the forty floor monster tower.
+1:33:18
+So we will we will fire up our our very legally acquired PlayStation emulators and and follow along from there.
+But that's gonna do it for our remnant.
+That's that's that that are all the ashes scattered that remain from our remnant episode here and the play us out from this one will be attempt #5248 for putting that six legged wolf to sleep with a bullet faced lullaby.

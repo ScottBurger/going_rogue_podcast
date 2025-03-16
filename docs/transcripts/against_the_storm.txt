@@ -1,0 +1,1346 @@
+0:17
+Hello and welcome.
+Come on in from the cold out there, take off your raincoat and cozy up by the warm glowing warming glow of the Grog Pod Rogue Like podcast where each episode we use our tools to break open a small, medium or large rogue style game and deliver it to you, the listeners for that sweet sweet Amber.
+0:38
+I am the Beaver architect who did a new addition to the Guggenheim Scout Burger and currently feasting on biscuits and ale to keep their happiness up for this episode are my Co hosts.
+I am a bloodthirsty lizard who just wants to sit by the fire.
+0:55
+Your friend Colin.
+I am Andrew Hershman, known for my relatively pleasant aesthetic and exterior, which is hiding a frustrating experience at its core will.
+1:13
+Yeah, and this is this is Will Wright, your armadillo looking human.
+Well this episode we are pleased to talk about our Seattle area weather simulator.
+Against the Storm released an Early Access November 1st, 2022 and recently One Point OD December 8th, 2023.
+1:35
+This is a game that you can find on Steam and interestingly Xbox Game Pass, but the PC only version of it.
+Question mark makes me wonder if there's plans for console releases in the future.
+But anyway, it's your PC exclusive episode for today I guess.
+1:55
+The Storm is brought to us by the developer Aramite Games out of Roclaw, Poland who I think is another Dead Cells style game dev Co-op where it's only it's only 6 people and I think they all pay themselves the same which is always a fun thing to to call out when that happens and published by Hooded Horse who have I think a a pedigree with other kind of city builder type strategy games with some notable entries of Empires of the Undergrowth.
+2:29
+I don't know if I have any idea how to pronounce this one.
+Niecesi NECESSE and then last year or 2022 with Terra Invicta and then 2023 with Against the Storm again, players of this game, your average player of this game to get a sense of content, has about 80 hours of gameplay in it.
+2:53
+It's only been out for like a month.
+Yeah, suffering some from some blight rod here.
+Yeah, this.
+Well, we'll get into it.
+This game has got some some dedicated fans and some deep content to it so and and that's just the average, the like.
+3:11
+The 90th percentile's like 300 plus hours, so and Against the Storm rolls in on our popularity rankings at the 50th most popular Rogue.
+Like with 21,836 total reviews, the will will the listeners are at maximum in patience with my stats ramblings.
+3:31
+How would you describe Against the Storm in one sentence to calm them down?
+Oh man, one sentence here.
+It's a fuck.
+What?
+An extraordinarily aggravating city builder.
+3:49
+I don't.
+Know it's Yeah, that's the one sentence.
+Yeah, that's what it is.
+Perhaps it's some kind of art piece, Maybe it's like this meta piece of content where you're supposed to be managing your, you know, villagers mood and in reality you're having to regulate your own emotions and not get too aggravated.
+4:09
+At least that was part of my experience.
+But but seriously what?
+What is it folks?
+I haven't played a lot of city builders.
+It's it is a city management worker management game set in a semi whimsical semi unique fantasy world with rogue like elements with the which is absolute.
+4:36
+Let us underline I didn't get that far on the game.
+But like Rogue like the fact that I I'm not even.
+I mean I'm on a podcast about rogue likes.
+So obviously I I'm invested to some extent.
+But like I would if there was like when the gamer, like the great schism happens and we all have to divide up into our chosen game genres of choice and fight to the death.
+4:59
+Like I'm throwing my lot in with you know FPS like meatheads like easy day one.
+I, I, I, I I do not like.
+I don't feel like being a rogue like gamer is at the core of my identity, but when you said that this was the 50th most popular, I felt like a little bit of oh boy anger just boiling up.
+5:19
+Like what?
+An what an affront to.
+Rogue it's it's an important.
+It's fairly rogue like.
+It's an important measurement of nuance in that the way that that data set is built and ranked is if any game on Steam is tagged with even 1 tag, so it gets up on there.
+5:40
+Gotcha, Gotcha.
+Nonetheless, it is a startling.
+That's a startling statistic to me, I mean.
+So let's let's start off with people like this game.
+A lot.
+A lot.
+A lot.
+Universal acclaim.
+Well, near universal.
+5:56
+After this episode, I think.
+What, what is it?
+It's overwhelmingly positive on Steam.
+No way.
+There's no way.
+It is.
+It is very highly highly rated.
+Not even just.
+Let me say Burley's very positive, overwhelmingly positive for all reviews.
+6:13
+So like people, many people like this game we are going to be the outliers on.
+This review and I did not expect to have to break out the grog pod.
+A disclaimer mobile for this one with a a bright a bright red neon sign that's buzzing.
+6:31
+It says all devs go to heaven and it's OK to like or not like a game.
+I I thought for sure, especially after our tome episode where I'm like, you know what?
+Will had a rough go.
+We're gonna pitch him an underhanded softball with this one.
+It's got city building.
+6:46
+It has roguiness stuff in it.
+Yeah.
+And it has Beavers.
+Well more does will want harpies you know it's it's got everything on the 10 that the that we could be going for and to I think as we were putting in our rankings just before hitting that record button I was like oh you know I'm glad that this game is is really jiving it for some people but but yeah this this may have been a a whiff on our part but we're dedicated to the listeners who submitted us to cover this episode.
+7:25
+We're gonna not.
+Maybe he's got.
+It I'm glad.
+I'm glad we played it.
+I I think it was an interesting game and I'm excited to talk about it with you guys.
+We've been holding back in this past week because I didn't want to like blow all of the talking points because I want to talk about it with you then, but I'm excited to get into it.
+7:45
+Because and and it's interesting because I think most of us, Andrew may be being the odd man out this week, but most of us having a pretty decent affinity for sieve.
+Maybe I guess 4X games in general although I'm not sure.
+8:01
+Well anyway, Factorio, we're all pretty big factorial heads.
+StarCraft, Warcraft, it's definitely Andrews camp.
+Gross.
+Punk, which I feel like is the most similar game to this.
+I mean, I put in 20 hours of that game.
+Like, not, not a huge amount, but like, I played it through and enjoyed it.
+8:18
+And surely taking all those games and putting them into a big Vitamix blender and hitting that unpause button and having go, Surely the end result would be some kind of delicious slurry that we would all enjoy, right?
+Not quite.
+8:34
+And we're gonna talk about why.
+Well, I think.
+Wants to lead us off.
+Well, OK, so maybe I always like the.
+Story so far, perhaps.
+Yeah like so the the story a positive.
+I yeah, like, I think this game starts on a very interesting note where you you boot it up and you're greeted with this very kind of tantalizing tutorial and and tutorial and cinematic sequence where it's like, you know, you have like this very cool sequence of like storms and this very deeply nice narrator voice who's not suffering from a cold that says the world is plagued by the blight storm, a vile cycle of destruction ravaging everything in its path.
+9:22
+The only safe haven is the smoldering city where mysterious, scorched queen reigns.
+And then it goes on to say you are one of her viceroys, a pioneer sent out into the Wilds, tasked with establishing new settlements and acquiring valuable resources for the Crown.
+9:41
+Your goal in this game is to help rebuild the smouldering city and secure the future of the Queen's subjects.
+That that kind of starts us off, and I think right after that it drops you right into the first tutorial almost seamlessly.
+9:57
+And it's like.
+The first of many tutorials I.
+Mean.
+I only played two so.
+And Andrew, you you must have played that tutorial a few times.
+I I will.
+Let's get into this a little later.
+10:13
+The tutorial experience.
+Let's maybe stay on topic with this story.
+Importantly, this world is is populated by a a coalition of multiple humanoid races.
+You got your normie boring ass humans and then you've got the the the other core people presented are the Beaver folk and the lizard folk and later the harpy folk.
+10:40
+And then it's unclear to me exactly what flavor of person the queen is, but she her aesthetic is that of a of a of a Raven or a a crow.
+And so it's kind of, you know, if I was presented, if I sat down at a convention for a one shot and I was presented with the setting of this game, I'd be like, this is interesting, this is cool, this is novel, this is not your standard fair.
+11:07
+So yeah, I think one of the strongest points of this game is the setting IMO.
+But at the same time, I feel like this game, like that's that's it in terms of the story.
+It's just like you're you're kind of like dropped this info bomb at the at the beginning.
+11:25
+You're like, OK, great.
+Like, I'm I'm excited to go out on my mission to do this thing and then maybe like 90 minutes of tutorials later, I'm like, what am I supposed to be doing again?
+Yeah, all right.
+Real, real question.
+I Scott, I know you, you got the furthest in this game.
+11:41
+Did you, did you do any of the seals?
+Did you unlock anything?
+I did, yeah.
+I I put does.
+Anything change after that?
+Because I'm I'm like 1 mission away from being able to do it and I don't know if I'm gonna get to that, so.
+Do you how?
+Give me those spoilers.
+11:56
+How mad do you wanna be?
+Yeah, I'll.
+I'll spoil you.
+So when?
+Close your ears for spoilers.
+Yeah.
+I think the screenshot that I have I had to go back and find like the actual thing that happened because I I had quote, beaten the game I guess with the first quote boss.
+12:19
+And I was like OK is that it?
+Like something must have happened some like kind of narrative catharsis or something with like how much how much effort has been put into like the setting and world building and like lower question mark.
+12:36
+The the end game screen for this after you you finish up a a seal which we'll get to in a minute is there's like a little like Walrus portrait in the corner and it says seal Reforge, exclamation mark.
+It's done.
+12:52
+The sealed ones are imprisoned once again.
+Thank you Viceroy.
+You not only have saved our world but also rekindled the flame of hope in our people.
+The faith in something that until now was only a legend of old.
+And then you hit the button to say reset the seat.
+There's like the the storm or season or something, and then the the storm, the titular light storm, comes in and annihilates all the settlements that you put down and that, and you're back at square one again, like.
+13:20
+I'm sorry, I might understand that they copied their homework from like an NES victory screen.
+That's awful.
+And I feel like it would.
+Well, yeah, I don't know if it's if it's different for any of the higher level seals.
+13:37
+Let's assume yes, but like how many players are gonna see that?
+I mean it.
+I have 20 hours in this game and I have only cleared the the the bronze hurdle seal to go.
+13:53
+I have.
+Well now.
+Now I have the opportunity to reforge either the bronze or Lead seal.
+And after the lead comes silver and then gold, and then platinum, and then, you guessed it folks, Cobalt.
+14:09
+And then Titanium.
+And finally the final boss of this game, Zinc the.
+Zinc.
+What would we do in a world without zinc?
+No, Adamantine is the final one, and that is.
+And so each.
+With their own exciting new Read me document worth of victory text.
+14:30
+Wow.
+Yeah.
+And those are are are those completing the the game or is that like the equivalent of Ascension levels in Slate Aspire or other?
+It's.
+I feel like it's kind of both because this game is sort of weird in the sense that you're you're dropped in on this like hexagonal board to say, OK, here's your starting city in the middle.
+14:55
+That's where all of your meta progression upgrades are, where you can go and upgrade like, oh, now you can get this building, or your workers will move 5% faster, or now you can unlock this other more advanced game system or or things like that.
+15:12
+And you're expanding out from there in a pretty linear fashion of like, all right, it took me also an embarrassingly long time to figure out, like, what is my goal exactly?
+Like what?
+What should I be doing here?
+15:27
+I had a similar issue.
+And so you're you're basically your meta goal is you build cities out in more or less a straight line from the center the center village to try to get to one of these giant like it's it's got a cool effect on the on like this game board.
+15:46
+It's like this big glowing spheroid thing, like, ah, cool, like there's the goal.
+I gotta gotta go there and I've gotta like start a settlement there.
+And when you do so you enter the city building phase and you eventually like UN uncork one part of the forest.
+Like, ah, there's where one of the sealed ones are and they're trying to get out and you complete the mission to lock them back in and then boom, you're done.
+16:14
+And then you hit hit the reset button and you can do it again at a higher ascension level.
+Like like the rest of the game this is present.
+The presentation is very good.
+I am like it's cool that there's like this over world and that there is like this sense of progress as you as you may, as you as you build town after town.
+16:36
+If if one was lucky enough to make more than you know one successful town, I wouldn't know anything about that nearly six hours and I have.
+I have yet to get a victory which is unfortunate for me.
+16:54
+But yeah, the the that overworld is neat, and it's unfortunate to hear that.
+Is it neat?
+It's kind of.
+Is it neat?
+I've got to push back on it it.
+Could be neat It could be.
+It's a neat idea I.
+17:10
+Think I mean I'm gonna, I'm gonna lump this in with the Citadel.
+As in I'm gonna lump in all of the things that are outside of the the specific build the build, the settlement game.
+I think I might have the opposite opinion.
+I I find that the the city building part of it if you were building one single city, I think it's an OK game.
+17:31
+I think it's everything else around it.
+That's that kind of is is tedious.
+It's like, cool you're building a city in a straight line.
+Like was there any interesting parts of picking where to build a city?
+Could it could have just been Click Next and it would have been the same experience for me.
+17:50
+Right.
+I think there's.
+And and you're going into the Citadel where you get the upgrades, it's like cool, plus 1% chance that your worker gets double resources.
+I cannot care less about that because less than that is 0%.
+It's the minimum bear like those are.
+18:05
+I'm not excited about upgrades like that.
+Indeed indeed in a rogue like I look for interesting meta progression upgrades.
+I look for interesting run modifiers and in my 6 hours of playing this game just under 6 hours 5.8 I think didn't encounter a lot And so when I heard from column that the meta progressions were a lot of plus 2% to X or Yi was just like Oh no and is there a term for this?
+18:31
+Is there is there a Al Pacino from heat?
+Don't waste my motherfucking time meta progression upgrade.
+Well, yeah, cause 'cause we see this, we see this with some other games, right?
+Where it's like, oh, I've grinded for 10 hours and I finally was able to upgrade the thing to make my character run 5% faster.
+18:49
+But like, would you actually notice that it's kind of we, I guess it's got to be some kind of phrase of like not grade or not.
+Grade I like that.
+It's where like would.
+Call it a mid grade.
+Oh, mid.
+19:05
+Grade.
+I know you did mention though that you unlock new buildings.
+At the city also that's neat.
+Some of them, some of them do do things so like it's like upgrade.
+Oh, if that's the case, then like just boil it down to like, you know the make.
+Not every upgrade tree needs to be the Path of Exile.
+19:24
+Like Path Tree.
+Like like let's just chill out.
+Like you can have less stuff and more impactful.
+Make them less things that are more impactful, basically.
+OK, so I think like we've.
+19:39
+We've talked about the actual.
+Game Yeah, I think like the actual city building part of this game, once you get it is really good.
+But there is that caveat of once you get it because man, I did, I did the first tutorial and I think I followed like kind of every step.
+19:58
+But it was it's a it's such a very different experience than your standard StarCraft build order.
+You know, go into the menu, find the building, OK, put that down and then then you know I have to go and get some upgrade.
+Currency and that allows me to build the 2nd tier thing.
+20:16
+Like I was bouncing between this and Halo Wars and like just to kind of see like well, like similar kind of like a very different style of RTS Ishness and comparing that to like Factorios, tutorials and everything.
+20:33
+Like yeah, this, this Against the Storm is a very different experience than kind of anything we've seen before maybe to its detriment.
+But I think it tries to go for go for the the fences with really trying to push on roguiness from a city builder perspective and like city builder stuff like sieve, like Factorio, it's it's very static, right.
+20:58
+You have static tech trees.
+You have static things that you pick from, and you know, how do you go about solving that problem of?
+Well, it's just the same stuff every time.
+Is what it's trying to go after.
+Well the sieve has like just these sort of emerging gameplay where the actual dynamics of the politics it's very like it's you have to adjust to to the various scenarios This game I and I and I have and I've been quiet and and the reason is because I tell you what I got less than two hours in this game I and and so if by all means you can you can you know say that my evaluation here is way wrong that I needed you know could put 10 hours in before I love it but a game's got to have a hook a game has to get like get and and for me they just there was no hook the city that that aspect that you're talking about the city building like the what makes it rogue like well a rogue like I should say is just the Groves as far as I can tell the Groves which are which is a in my view an incredibly stupid mechanic I I I fucking like as soon as they did like told me this is how the game works.
+21:58
+You clear forests with like these choppers to like open up an area.
+As soon as you carve a straight path in through the woods into this thing then you unlock some kind of random event essentially.
+And I'm just looking at the overworld the map and all these Groves of like these mystery areas and I'm like this doesn't make any sense like this as a as a structure for like a place.
+22:20
+Like why are there all these unexplored area why do I have to chop a tree down like see what's beyond it.
+Like you can walk through a forest like that's just like a very I understand that like that's just the way the game works but like it just doesn't make sense.
+I don't know some of the.
+Some of the Bramble in my backyard.
+22:36
+Some of the Bramble in my backyard you cannot walk through.
+You got to chop your way through that for sure, but Even so the.
+Rogue like Element or the like this, this whole like random stuff you as you expand out and you just got to chop some trees down and build in really awkward ways to accommodate the minimum amount of clearing.
+It's just.
+I don't know.
+22:52
+It was all tedious chores I think.
+I think the other aspect that adds the rogue like element in is the what buildings you get.
+Yeah, yeah, yeah.
+It's really great.
+It's the beginning of everyone of my runs of it.
+Yeah, sure.
+Sorry.
+23:07
+Go on, Andrew.
+I was.
+Just.
+At the beginning, at the beginning of all my runs, the game randomizes itself to screw me over in different ways.
+Like, Oh yeah, give me that plantation rock'n'roll.
+I'm going to start early.
+I'm going to have a great, you know, crop season.
+The whole town run didn't see a single piece of fertile soil.
+23:25
+And that could have been because I picked a train spot on the overworld that I didn't understand that.
+Like, it's just it.
+There is none there.
+But yeah, different, different buildings.
+It's always, it's always a new surprise.
+What building you won't have access to that is crippling.
+23:41
+Pardon me is is?
+Derailing your entire situation, I have, and I'm sure if I had 20 hours in, I'd I wouldn't fall pregnant as much anybody.
+Knows about this game I have.
+Never excited about something new, only annoyed I didn't have something.
+23:57
+I feel like that's my problem.
+Like every time I saw the buildings, I'm like, wait, is this something that I can do?
+Or I'm like, oh finally, thank God.
+It was never like, oh, I'm excited about this cool new weapon that I get to try out.
+It's only like finally my economy can stop being broken and I can build fabrics that not at the the makeshift crafting house and like, yeah, we can, we can stop.
+24:20
+Being a jerky based fashion and food economy, we can finally clothe our folks and actual fabric.
+Instead of lengths of Alberto, I think one of the.
+I I think one of the hindrances there also is that there's there's buildings that depend on others from supply chain sequence perspective.
+24:42
+It's like the the game doesn't explicitly tell you that there's like your your tier one tech and your Tier 2 tech buildings.
+Like coming back to like a StarCraft example.
+You know, like here's all the buildings that you can build with just minerals and then here's the buildings you can build with minerals and and gas and there's some of the gas related buildings that are dependent on the mineral ones.
+25:01
+But it's like if if you just took your your total suite of playing cards and and like threw the half of them out, but you still had some of like the the Tier 2 tech buildings in your hand that you couldn't do anything with because your tier one building didn't exist in that build sequence.
+25:21
+It's like well.
+You know, don't, don't.
+Give me the option to pick it then, right?
+I mean, am I, am I thinking about this right where, you know, I feel like I had multiple times where I'm playing through and I'm like, OK, do I want this for later?
+25:37
+Well, I can't do anything with this now, but maybe I'll get, yeah, like maybe I'll get the building that is like earlier in the production sequence later, which seems backwards to me.
+It feels like like you could totally do that random draw from like your tier one buildings and then say OK, once you have those tier one buildings established, random draw from the ones that are Tier 2 off of that.
+26:02
+It's like.
+Rogue Tower, where you have to pick the right to pick the rogue to give access to the upgrades.
+Oh wow.
+There.
+Was a fun game.
+Oh, what a time I had in a in a genre that I couldn't give a crap about.
+26:19
+Same thing with this genre.
+I can't.
+I couldn't give two Beavers tilts off of AI.
+Don't know skinny.
+Or something, something.
+There, there is a cannibalism option.
+Where you get it's it's a blueprint.
+I think.
+26:34
+No, it's a blueprint.
+Cornerstone.
+No, not.
+Blueprint a cornerstone.
+Excuse me, I'm a mistake.
+How dare you?
+But like city builders, I'm sorry, what was I saying?
+Anyway, the point I was trying to illustrate was that Rogue Tower I thought was fun in a genre that I don't care about.
+26:49
+And then this is another genre I don't care about and I had the opposite experience anyway, calling going going way back and I think this speaks to.
+I just wanted to bring up a .1 of many points I think that will be brought up about the UI that we are we are discussing currently.
+The the you never had were excited to get a new thing.
+27:07
+You were either disappointed or relieved.
+I was playing the game like 30 minutes ago while blasting the soundtrack to Scarface.
+I'm like, come on, I can get one win.
+I can do it three times.
+Speed.
+I'm like channeling all my RTS skills, like let's go push it to the limit.
+27:25
+It was like to push it to the limit montage.
+Except if only if, like, Al Pacino had gotten out of the van and immediately gotten just hit by a car and splattered across the roadway.
+Because my last run was probably the worst of them all.
+But anyway, so OK, the bluestone, the blue, the bluestone, pardon me, the blueprint option comes up and it says, hey, here's some new buildings.
+27:49
+This, I think, is a very tangible example of problems with the UI.
+Of course I'm looking at the blueprints.
+I'm trying to achieve my orders so that I can complete the town successfully.
+There's no way to look at reference your orders while you are in the blueprint menu, right?
+28:06
+But then close the blueprint.
+Menu open.
+The orders look through those very quickly commit to memory like what the what I my my goals are OK then go back to the blueprint and then it's like right do.
+I Why?
+Why have you done?
+This to me this this.
+This this order goal subquest requires luxury goods, which requires wine.
+28:29
+This building does something.
+Does it wait to go back in, check if I have something that does this?
+Like you need a production tree on the side every time you're trying to make a decision because like, yeah, you get you get some of those orders where you just can't finish them because then you didn't draw the right building.
+28:50
+Well, I think like also this game tries to solve that boxed in problem by maybe being too flexible.
+Because you have in your city building experience, you have your death timer that's increasing, which is the Queen's impatience.
+29:09
+And if that, like that's a that's a a red meter that fills up like at a continuous rate.
+And if it gets to the full thing, then the Queen's had enough of it.
+And you know what you're you're fired from this city planning exercise.
+You are no longer the.
+29:25
+Viceroy, you're just the regular Roy.
+And to mitigate that you can fulfill the Queen's orders which are little again more randomized objectives that come in sort of piece meal over time and you crack it open, you're like well, OK, I think it gives you a choice of like which one you want to do and you're like, OK, I'll, I'll pick this one.
+29:50
+I think I have the stuff to do this.
+Maybe if you if you remember what buildings you have and if you complete that then you get reputation.
+Which I think this is a clever thing where like as the impatience meter increases and you fulfil those objectives that meter slides over to the other side for the reputation meter And if you Max that out for your main gameplay Lube then you win you win the city building exercise.
+30:19
+So it it not only decreases that, but it increases your your good score meter at the same time.
+Which is I think a a really satisfying thing when you get this good domino effect going of like oh man, OK I've solved that one and I like wound up solving like 3 or 4 orders a long time ago but they were blocked.
+30:39
+So now I can like click click click click and the like.
+The meter just goes like like all the way to the left and it's like oh that feels so satisfying and you unlock all these options simultaneously.
+I think there's The other way that you can build that good points meter is by making your citizens bliss out of their minds with biscuits and pie and jerky and making sure that they don't flip their shit when it gets rainy out.
+31:09
+You know your standard Seattle experience basically.
+So when the, when the.
+By the fire inside your cave.
+Exactly.
+And and crucially the the fire and like town building experience part of it I think you know again I've I've I've kind of had that third eye awakening moment of like Oh my God, I think I finally understand this game after 20 hours of playing it.
+31:37
+I can I can get why people find it popular and good because when you get that series of dominoes to fall in line or if like if you can't if you're boxing, you're like shit.
+I can't complete these objectives in time.
+Like I don't want to fail as this meter is increasing.
+31:56
+All right.
+Well I'm just going to wait for like get the trader here and sell, sell sell.
+Bye bye bye and like get all the candy that I can for all of my people and make them like as happy as possible until like the critical threshold is passed.
+32:11
+Oh OK, I've won.
+Great.
+Right as the the demon monster like spawns out from the other side of the map and is like shooting lasers and killing people.
+You're like, well my job here is done.
+Go start a new city, that is.
+We might be.
+Unearthing as as we are making our way through this impenetrable forest, through the these Groves discovering new glades, it might be uncovering a theme, an underlying issue that exists with this game where that is another example.
+32:44
+Like you're just trying to get the bar up high enough so that you can like, jump ship.
+That's like keep your people just happy long enough and it's like, oh cool, like some kind of weird like.
+But anyway, what I was going to say is that that that is something that kind of strains credulity in like the the in, like, the the the, like the game setting.
+33:05
+Same thing with, like the Glades, like why is the forest impenetrable?
+Why can't we just walk to the glade?
+Same thing with like the Queen's impatience.
+It's like, that's a neat mechanic.
+But like the idea that like, oh, she's just like generally annoyed at you and that's why you have to abandon all of these people to starvation.
+It's like there's there's a lot of stuff in the flavor of the game and the story of the game that streams credulity.
+33:25
+It's like, why would that be a thing?
+I don't know.
+And once you.
+Go to the next city.
+Your old city's fine.
+It stays there forever.
+It's like that city was like on the edge of collapse so that it just squeaked it out.
+Like, no, the second you leave, it's fine.
+Maybe the maybe the guy who's running that city after I leave should be the one who's actually doing the exploring.
+33:44
+The mayor.
+I'm just a viceroy, yeah.
+Yeah, yeah.
+The viceroy, yeah.
+Just just to hang out long enough to get over the finish line and then that's, that's it.
+I think I have.
+I think I have a solution to a solution please.
+To some of.
+34:00
+Our woes which might mostly stem from the non city building part, and I think I was.
+I was talking about this in in the discord a few days ago about our Omega Bowl 1 winner game FTL Faster Than Light where combat in that game is not the only thing that you do and in this game city building is the only thing that you do effectively.
+34:30
+I think the solution here is if against the storm, like the city building was like a core crucial component, but not the only one.
+And that as you're expanding out from the main city again, like if you kind of think of it it through the lens of like the FTL mode, you're expanding away from the rebel fleet, you're expanding away from the storm maybe.
+34:56
+And that you're encountering story quest, you're unraveling like the lore of the game as you're going around, you know, you're encountering traitors.
+You're exploring the like like that kind of FTL style like map system or slay.
+The Spire map system I think has been aped by so many games because it works so well.
+35:15
+And I'm not super convinced that, like, the hexagonal grid expansion in this game really works because there's no real incentive to.
+You know, how like in sieve, like you can decide like, oh, I'm going to like greedily expand my Alexander campaign all the way across in a linear fashion.
+35:35
+Go grab the city state so no one else can grab it.
+And you have like the Super long Extendo Empire versus like a Venice one that's like very small and compact.
+Like in Against the Storm you have the same kind of hexagonal like grid system but there's no incentive to like like build your cities like in a circle around the the forbidden place at the at the center, right.
+35:59
+Your goal is to expand expand in a linear fashion out to the seal to beat it.
+Like there's no real point in like arcing or like snaking back.
+And I know that like on higher difficulties there is because it's like, oh, I if I go, you have more time.
+A.
+36:15
+Because crucially the point of beating the seals is to give you more time to beat more seals, which I'm not.
+I'm not super thrilled about as like a a hook.
+But at the same time like my thought for this was, you know, if you had an FTL style just like node, node and edge map where OK, I'm gonna go here story beat, done in like 230 seconds I'm gonna go over here you know merchant adventure.
+36:50
+OK, great.
+And then OK, now I've come to the city building thing.
+This is the combat in Slave Aspire.
+This is the combat in FTL, but a combat.
+In one of those lasts for what, 5 minutes?
+10 minutes at most?
+The building a city here is an hour to two hours at minimum.
+37:11
+So like your your story beat to city building would be like a 95% ratio towards city building.
+I mean so my like my problem is less that like if you want to have a just facility building that's fine, you can do that.
+37:28
+But within a run what what is a run?
+Is it a single city or is it getting all the way to the seal?
+Because there doesn't feel like there's that much in be like linking your cities together.
+Like you can trade with the ones behind you after you get the next one, but it's not like it really gives you much of an advantage and how you did or what you built in your first city doesn't have that much of an effect.
+37:54
+Like, I don't feel like you're progressing within a run.
+It's like a couple of independent cities that happen one after the other.
+But like City 2 versus City three are it's like, Oh well, one's starting in a in a a forest and one's starting in a different kind of forest.
+38:16
+They're basically like fundamentally the same game.
+You're doing the same loop and there's not enough variation between them or or progression within a run or or whatever.
+Like, it's just kind of like a cool.
+You're playing it again.
+Yeah, and.
+Once you so there, there's a thing also here that might work better as maybe the main game sequence, and that's when.
+38:42
+Let's see if I remember this right.
+I think if you if you beat the Adamantine seal, which is Prestige 20, Ascension 20, effectively you unlock something called the Queen's Hand Trial which is to this point.
+38:58
+We've been saying that like you know you expand a city out from the main center hub and you know you go through the sequence of city building and you you you will either succeed or fail.
+And I believe, correct me if I'm wrong, but if you fail like that city is like still there on the map and has some sort of, I don't know, like adjacency bonus or something that influences like your placement of the next thing.
+39:24
+So there's that kind of like light build up element as you go on.
+But the Queen's Hand trial is like it's permadeath mode.
+It is if you fail once you fail that whole string of sequences.
+And I almost wonder if like I don't know if that's better.
+39:44
+It feels like that that's kind of what this game wants to be and like get rid of all the all the meta upgrades and just make it like as you progress further towards like the seal and it should just be a seal.
+It's I'm.
+40:01
+To Will's point about.
+Talking with like this is our weekly Slay the Spire sequence.
+But for how much Will talks about Slay the Spire being the greatest game ever created?
+I was writing down so much of my notes for this game like, well, it should just take this thing from Slave Aspire and it should just take this thing from Slave Aspire.
+40:19
+Also this game.
+Should just be slave aspire.
+That's the best part.
+Because because I think like if it's if you have this like central starting node and you're like building cities out and it's like you're you're getting more of your tech tree enabled the further you get out.
+40:39
+And then by the time you're at that final seal you have all of your like more complex game mechanics ready to go.
+You have all of your trade networks with your previous cities radio and you're like, all right, I'm ready to take on this final boss, let's do it.
+And then you beat that final boss and you're like, all right, I've like, that was it.
+40:57
+I've beaten the storm.
+I finally pushed everything back.
+I've saved the land for all of the Beavers.
+We can now live in happiness and peace like that.
+That's what I want.
+That's what I want out of this game.
+But instead, it's like a reset button.
+Like, OK, Congrats, you beat it.
+Press the button to have the storm come back in and kill everyone.
+41:17
+Yeah, I think, like, there, there's no, there's no heart.
+Like, not, not, no pun intended.
+But there's no like like big boss heart.
+There's no Spire heart to this game of this is your big bad that you have to go and fight and beat and when you beat them.
+41:35
+This is something that I feel like I can narratively be accomplished with.
+I agree completely.
+I.
+Think I think there's such a huge opportunity there to like take this idea of the queen and have some kind of big twist at the end where instead of this her being like wanting to expand the empire maybe that was the evil entity all along.
+41:53
+And I don't know they're just you can work something in here and to make it so that there's a big build up to a big fight or a big town growth session.
+I don't know where I don't that's it's not very epic.
+Can we talk for a second about the art I?
+I kind of like the art in this game, although I feel like that in that position.
+42:12
+Check it.
+Looks like World of Warcraft.
+It looks like Warcraft Three, and whether you like it or not, it resonates with a lot of people.
+Like World of Warcraft was able to survive on looking basically the same for over a decade.
+42:27
+And that's because for a lot of people it looks, it's like it walks this fine line of being like a little bit cartoony, a little bit stylized, but still kind of grounded and a little bit gritty, a little bit cool and and it kind of it's stylized enough that it is not ravaged by the passage of time.
+42:49
+And personally it works for me in this particular game, I think.
+I think the graphics and the sound are really great and are probably the the couple of things I enjoy without any caveats.
+43:04
+And yeah.
+I'm I'm definitely not a Warcraft player.
+I'm definitely much more of a StarCraft homeboy.
+But like, I I'm, I feel like this aesthetic has been growing on me over time.
+We're like, I I definitely didn't play Wow, but like this kind of like very fantastical, you know fantasy but like edgy kind of fantasy to it.
+43:31
+I I feel like it works for this game specifically.
+I feel like if this game was more like like big robots and like Warhammer style aesthetic it, I'm not sure if it would work as well.
+But yeah, I mean, I I feel like it's fine, you know, it's it's a neutral positive for me.
+43:48
+Go well.
+Would it be accurate to wait, Wait.
+Let will let will.
+Let will go.
+All right.
+So I do it.
+Please, please.
+I mean, I'm a I'm a.
+Strong negative here.
+This is, it's repulsive to me.
+It's part of the reason, like, I mean, I'm, I was, I got an hour and a half in or whatever, and then I'm like, OK, I'm in the middle of the second tutorial, take it.
+44:07
+I can't take it anymore.
+I open the game up again.
+I'm greeted with these graphics.
+I'm greeted with the why the fuck am I doing this?
+Like sort of like And I'm just like all that comes together into like, no, I just immediately alt F4 and then that happened multiple times.
+But like this art style?
+Really.
+44:23
+Really.
+It it hurts.
+Me, I don't know what about it in particular.
+I think I could probably analyze it.
+We could figure it out exactly.
+But like, there's just something grotesque about the the all of the just how I think everything just looks like it's got too much in it.
+It's just like all the mass of something usual, and then you just expand it out.
+44:40
+Everything's just getting like, I don't know, bulky and disgusting.
+I didn't even know the humans were humans for the longest time there because they look like like I started this out with like armadillos like these characters.
+The.
+Little units running around, yeah, the little units running around, they.
+44:57
+Look so stupid and.
+I don't understand.
+Why are Beavers getting along with dinosaurs getting along with humans like this?
+You know this is a fairy.
+Tale world where you can have any species working all together in harmony.
+But like if you look at the.
+Unit portrait Have you looked at the unit portrait of the The Lizard Dinosaur Men?
+45:15
+They've got a terrible goatee.
+Wait, do they eat?
+It right now.
+Hell yeah, they.
+Do there's.
+Deep dogs and cats living.
+Together turn this into factorial.
+Give me factorial graphics and I'm feeling a lot better about this game.
+But the grungy, metallic oily.
+45:34
+Yeah, it's it's not high.
+Resolution there's there's no special in fact it would probably take way fewer assets in order to create or like less expense to create less detailed assets to make it a factorial style and it would be better.
+And so it's just like, why wouldn't you just go that route instead of like designing all these ridiculous, stupid ugly buildings and people and and and environments.
+45:52
+You know, I I.
+I get where you're coming from.
+I mean it's it it.
+I think it's just it is a known quantity.
+This is a known style of artwork that works for a lot of people.
+It resonates with a lot of gamers.
+And I think thematically it's like when you're going to design this, this fantasy game, it's like, well, what are our options for an indie studio of six people who are all getting the the same thing?
+46:16
+Good on you by the way.
+Well, you know we can.
+We can do this tried and true thing that a lot of people like, and unfortunately you're just by luck of the draw.
+Don't happen to be one of those people, Will.
+I know and I don't.
+46:31
+It's just hard.
+To come by these days I.
+Mean to be clear.
+I'm not fanatical about it, but I think it's a pretty for me.
+I would describe this game as cozy core like it's it's a it's a cozy gaming experience and I think the graphics are pretty work with that that that coziness factor for me known core.
+46:51
+Though I understand.
+Why?
+Like, I don't really like the graphics, but I'm I'll, I'll repeat my line of I can't really give a negative score to graphics.
+Once it gets below a certain goodness level, I just stop seeing it.
+But like, I I, I understand why developers gravitate towards this style.
+47:11
+It makes it easier to differentiate things.
+So, like, it's this style though, like, it's not shibby but like bigger heads, bigger icons or exaggerated, yeah, proportions of stuff.
+47:27
+It makes it super easy to see like what this building is versus this building or like what this dude is versus this dude.
+It's like, well, you know, yeah, we could have just all like various slightly different versions of humans.
+They all look basically the same, which would be maybe more realistic, but it would be harder to differentiate them from a glance.
+47:48
+And so you you, you go into a style like this where it's like, yeah, you can build something that like, I didn't love the rest of the UI, but I was able to tell the buildings apart, so you got to.
+Have and maybe that's kind of my problem, no, I think.
+I was this game.
+48:04
+I was in the same bucket even on like the final boss fight of the Bronze Seal.
+Like I was routinely getting different building types, like misappropriated, where I'm like, OK, I need bricks to do this thing.
+Where can I find bricks frantically scrolling around the map?
+48:20
+I bet it's under a tent.
+Somewhere or theoretically.
+You could tell them apart, and I hear crucially.
+Well, the actual solution to this is that most of the building shapes and sizes and colors of the tops, like it's it's like if you had played StarCraft for the first time, you're like, God, all these buildings are just like metal Spears and they just all look the same.
+48:41
+And like, I can't tell the difference between my barracks in an Academy.
+But like you know if you're one of those people who's had like 80, a hundred hours in this game, like, yeah, obviously you're gonna know what the difference between your wood cutting cart is and what your kiln is.
+But for for us, like, that's like, and for me in particular, like on that final boss fight, I was routinely fumbling between them and we haven't talked about it yet.
+49:05
+But I've been routinely using the recipes panel as a crutch for like, this is, this is where my face is for like most of the game.
+And that is the thing.
+Like you bring up and you're like, OK, I need, I need this ingredient.
+But what is the thing that makes this ingredient and what consumes it?
+49:23
+And once again, once you grok it, there is a very nice panel that you can search for bricks and it will bring up the list of buildings that you have available that you've randomly drawn in this run that can make bricks.
+49:41
+And then you can say, all right, well, I'd like to either find where this is on the map or like click and be able to like put it down immediately.
+And I think like part of that aspect of clicking on the thing and being able to build it like in two steps is really solid.
+49:57
+And being able to see like there's like a little slider allows you to see like, oh, this is all the stuff that consumes Briggs, which is helpful.
+And like that that like menu system has been like kind of the focal point of how I've been building a lot of stuff in my successful runs which like I'm, I'm surprised that Andrew, like you, you haven't like really passed a lot of your city building runs which not to brag or anything, but I was like.
+50:28
+I think you mean to say any of my city.
+Building.
+Runs like I I.
+Hadn't failed.
+I hadn't failed any of mine and I was like, is this game too easy?
+Like to admit and admittedly like all of my runs came down to like The wire where like the impatience meter was almost totally full.
+50:43
+And then I just like Domino affected all of the the Rep stuff like right at the end or I was like, all right, well, I I know I can just, like go into like these smaller Glades and just like break open some of these caches for for Reb.
+All right.
+Well, I'm gonna wait for the trader to come in buy, like all their tools out and then just like crack, crack, crack all these things like simultaneously.
+51:04
+It did come down to the wire for a lot of them.
+But I don't think I failed any of my cities for that that whole SEAL run.
+Well, interesting.
+I wouldn't say this is an attack on my gaming skills but it feels adjacent to that one heck's over.
+51:20
+No real quick I I I will address that that this topic but but first the recipes menu.
+Interesting.
+We talk a lot about Rogue likes that we don't like it when a game requires you to have the wiki open in a separate tab.
+What do we think about games where the wiki's just built into the game?
+51:37
+Is that better or?
+Worse, I think it's better.
+It's probably.
+Better so you don't alt tab I I should have used that maybe?
+All right, so let me break it down for you real quick.
+Here was my experience.
+So the week that we picked this game, I sat down with the tutorial.
+51:55
+Little did I know, it was tutorial number one.
+And it's kind of late.
+And I played through it and I was like, all right, well, this seems like, you know, fine.
+This seems like pleasant enough.
+It's I like the rain sound effects.
+I like the the, the, the presentation.
+And then I I did the first tutorial.
+52:13
+I didn't realize it was one of multiple tutorials.
+I then started the second tutorial and was like, whoa whoa whoa.
+I don't have time tonight to do another tutorial.
+OK, thank you very much.
+Or tutorial Part 2, whatever it was.
+So then I left the game alone for like a week, came back, hit continue or play or whatever.
+52:32
+And then it dropped me back into what I didn't realize was tutorial number two.
+I thought that it had reset my tutorial progress and I was like, forget that crap.
+I'm not replaying that garbage.
+Give me a break.
+So I skipped that.
+52:48
+So basically I went into my first couple of city building attempts with only the 1st tutorial under my belt and like 0 city builder experience.
+I played Skylines for like a weekend and that was fun.
+Like I just.
+Sat.
+Down and just like had a fun casual time for like 4 hours.
+53:06
+It wasn't even a weekend, it was like an evening.
+And I was like wow, that was fun.
+That was that was a good old time.
+Like it made sense to me.
+The the the UI seemed rockable and I I I was at like no points frustrated or confused or anything.
+53:23
+And that's what I thought I was getting myself into like a city builder slash like black and white experience. 300 hours into factorial.
+Hey, there you go.
+So yeah, so like the first couple of times, the first couple of town attempts that I did, like, I I didn't even know that you could substitute ingredients.
+53:43
+I didn't.
+I didn't know that until like today, and it was like kind of a footnote in the second tutorial when I decided, all right, let me go back and actually play the second tutorial, which is like.
+Basically like the core game mechanic of the city building experience, you would indeed so.
+Part of that's on me.
+53:59
+The other part of it is like the the player experience was that that was my player experience.
+Like that was my my I and I I went back and screenshot it 'cause I was like, am I tripping?
+Like I thought it reset my tutorial progress?
+And I I went back and checked and both tutorials start with more or less the same screen, like the text is slightly different.
+54:20
+So in my defense, it was reasonable for me to think that I was back at tutorial one and it was.
+And I, you know, it might have been foolish of me to be like, well, I'm going to skip the tutorials from now on.
+I know enough.
+But like, you know, again, don't waste my time game.
+Like, yeah, I mean.
+54:36
+Again, you're not you're not totally out of base because I was doing the 4th tutorial for learning how blight rot works and being able to use a rain punk.
+Which word of the day?
+54:52
+Excellent word but like but in that tutorial I this was after I'd beaten the bronze seal also.
+So you would think that like me with 20 hours of game experience would would know this.
+But I was like, I don't know, I was maybe like 45 minutes into the tutorial I had to save and quit.
+55:08
+And then it came back to it today or yesterday and I was I had that same exact experience.
+I'm like, did my progress save it all.
+And I wrote down a bullet point in my Google doc of like rain Punk tutorial.
+Progress not saved 5X or five exclamation marks, but I deleted it because I was like, oh wait no, this is just where I left off and it took me like a good 20 seconds to realize wait no, this isn't like the starting town.
+55:32
+This is just what it looks like.
+This is just what it.
+Looks like every time in a game that is supposed to be a rogue light with randomized elements, we were bamboozled.
+At least you temporarily.
+Well, thank you.
+That makes me feel a little bit better about like totally goofing and like missing all the core mechanics.
+55:48
+But even if I went back and did that like I I have been having just a terrible time navigating this UI at at every turn I feel like a new challenge is being presented like just the way of like reading.
+56:05
+I realize StarCraft is very different and it's very simple in comparison.
+So forgive me, I'm just a simple minded StarCraft RTS player.
+But like to me that like that that interface makes sense.
+It's clear to me when I have the resources that I need.
+It's clear to me when I can start building a building and not.
+56:22
+It's clear to me.
+I just, I feel like the game, and this could just be a city builder thing.
+I'm not aware of it.
+It does not.
+It was not.
+I was not understanding what was happening in the game.
+Well, I want.
+I want to.
+Hear I want to hear Will and Collins take about how Factorio's UI works so much better for this kind of supply chain logistics problem that we're solving in this game.
+56:51
+Well.
+I know Colin's got like a probably more in depth analysis, but just like what comes to mind for me, absolutely not true I.
+Feel like you've talked?
+About a lot.
+So maybe I'm sorry I.
+Didn't mean to speak you about that before you talk, but like it's you.
+You never have to look at your hands and know like anything you want to do with by.
+57:08
+Just like with what's available on with your hands on the Wazed.
+Everything.
+'S, just like you can just.
+Immediately do it and just always the shortest route to like in the fewest and most simple way to get there.
+And so like if you wanted to like copy a blueprint and paste it or like switch your menu to the second menu to pick like this it's it's all like.
+57:27
+Very.
+Accessible and it's super easy to learn.
+It's been a while since I played Factoria, so I don't have like the the specific stop of mind, but I know relearning it is just like, you know, like riding a bike in many ways indeed.
+Are there hot keys for the different weapons or the weapons?
+57:43
+Pardon me the different classifications of see, I just wanna play in FPS.
+Are there hotkeys for the different types of buildings in in?
+This game in this game.
+'Cause I mean.
+Let me ask.
+You a question.
+Have you tried clicking Control, Alt or shift?
+And see what that does.
+57:59
+Absolutely not so.
+That's like half the way you should be playing this game is if you wait really alt, it shows you all of the people in all of your game in in all of your buildings.
+You can scroll through use the scroll wheel to place and pull other people like it.
+58:16
+It doesn't do a good job of explaining its UI, but there is a lot of UI stuff that's in this game.
+So like and and honestly like I.
+That's why we talked about a little bit earlier today on Discord.
+But I was like, I want to go back and look through all that because there there is a lot of stuff.
+58:34
+I think that it does have all of the information laid out in a pretty decent way throughout the game.
+It just never tells you what it is.
+You just have to like hover over things and understand how city builders work and then you'll be like, oh cool, that little plus there means that this building will add that capability.
+58:56
+And I.
+Think that part explains that to you.
+But once you understand it, you're like, oh cool, this is actually a pretty useful screen here, and I acknowledge.
+That a lot of my troubles that I've been having would be solved, you know, if I were to, I don't know, get paid an hourly rate to like sit down and learn this game.
+59:17
+But I was just.
+I don't know, I I I was very quickly stuck in the cycle of I don't like this game in part because I don't understand it, but I do not want to take any steps to understand it because I don't like it.
+So it's just like this doesn't do a good job of my explaining.
+59:33
+Itself.
+OK, All right.
+I.
+I've got a solution here and we we just talked about this with Colin saying the FTL style thing of combat being like 90% of your time investment and like little story beats being like inconsequential.
+If this game started with like like taking 5 to 10 minutes to beat a city building sequence and then maybe got to like 10 to 15 minutes for the your next one and then 20 to 25 minutes for the next one.
+1:00:03
+And then by the time and like maybe you start on a smaller map or smaller map size and then you know that your final boss fight for the seal you're on, like the full map size.
+You have everything at your disposal, you have all the tools that you've been building up this whole time.
+You're ready to go.
+1:00:18
+It's the final knockout match, but you know.
+Put on the training wheels when you first load the game.
+Don't send like people off into into traffic on the highway going the wrong direction with all of like all this crazy horn honking and stuff going on and the tutorials aren't.
+1:00:36
+Great.
+Like I wanted.
+I was like, oh, I should try and do the third tutorial And it's like, cool, here's a blank city.
+Here's like the start of a normal game.
+Like am I just gonna play a full city now?
+Like I'm pretty sure I figured this all out and I'm just doing the tutorial to like you're just putting it to completion.
+1:00:53
+Missing something?
+Yeah, and to make that stupid thing on the left side of the screen go away and it's like, I probably don't need it.
+I think I understand how this game works, but maybe I don't.
+I don't know, Like I it should like have the tutorial be integrated into your first run or something like that.
+1:01:11
+You know who does.
+Tutorialization really well is Rimworld.
+Do they?
+At least from my experience having played it relatively recently, too long?
+Since I learned how to right?
+Yeah, like the.
+Same for me.
+I mean I don't remember that at all.
+It it does, it does the same thing.
+It hot drops you like all right your game is started but like when you encounter something it's like big flashing yellow symbol in the upper right.
+1:01:31
+It's like click on the thing this is the text like.
+I'm gonna.
+Explain how the system works.
+And this is like, go and click on this thing.
+All right, try it for yourself now.
+I feel like Rimworld's Like in In Situ tutorial is really good.
+1:01:47
+And on the same side.
+Colin, I remember you complaining about Factorial's tutorial being a factorial tutorial.
+Is No, no, no.
+Well.
+So I looked at it again today to compare.
+It's very different and much better because it's like they've made it better.
+1:02:03
+Yeah.
+Because I know what old tutorial you're talking about.
+It's totally different now and it's very much like a little narrated sequence.
+I timed it took you 5 minutes to beat the the very first thing and it's just like go and chop down some trees, go and put the wood in the thing to make the box.
+1:02:18
+You got coal now.
+Great, you're done.
+OK, I would like to learn the next thing please.
+And like that kind of chunk of vacation and that little small little bite sized bit once you like brings you back for more I think instead of like all right now play a game of a whole game of Factorio and good luck 100 hours.
+1:02:35
+Later 100.
+Hours later.
+What is real quick?
+What is the aesthetic?
+What is the setting of Factorio?
+I I don't know.
+Unimportant.
+Anything about it?
+Unimportant diesel.
+Curiosity.
+Oh, diesel punk.
+All right.
+Interesting.
+1:02:50
+Neat.
+Neat.
+Neat industrial core.
+None of these.
+Beavers.
+None of these muskrats.
+Just one man in.
+Robots.
+One man in robots.
+There's so many.
+Bugs.
+Oh yeah, and you're.
+Fighting bugs.
+All right, Bugs.
+We got bugs.
+Am I to understand?
+Yeah, where was the combat?
+1:03:06
+In this game, I want things to come fight you.
+I need you needed some combat, You need some tower defense shit in here.
+This is what I thought.
+Honestly, that would make it better.
+But.
+Like I'd As it turns out, that was.
+That was not my biggest issue.
+The lack of combat, I mean.
+I I understand where you're coming from and I think that like, I get it.
+1:03:26
+And at the same time, like, I think this game tries to sell itself as like the the cozy, the the cozy core city builder where you're not explicitly, like killing enemies or anything.
+I mean you there are things that like you cut open a forest glade and like, oh, you better solve this puzzle in the next 5 minutes or it's gonna spawn this demon that's gonna start shooting missiles at your at your little dudes and like they are dying by the dozen.
+1:03:52
+But look, look at that.
+I completed the city.
+Not my problem anymore.
+Like, there are things that will kill your villagers in sometimes hilarious fashion.
+But yeah, I feel like there's no, there's no really external threat.
+I don't think the the story does a real good job of like saying the reason why you're fighting against the storm is this to do what?
+1:04:18
+So that that kind of like antagonistic villain is sort of missing?
+I remember when.
+I was a young lad playing one of the Zelda games and my father commented, gosh, this game is so violent, you just attack everything.
+Including the.
+Plants, including the pots, you're just destroy, destroy.
+1:04:36
+Destroy and.
+He was kind of goofing around.
+It was also goofing around when he gave me grief for like shooting a guard who who was not aware of my presence, like in Goldeneye, and saying, you know, he was probably just sitting there like thinking about his family.
+I was looking forward to going home anyway.
+1:04:53
+But pardon me.
+All this to say, I think it's admirable and interesting that this game exists and it's popular and it's fun for a lot of people.
+And violence is not the core interaction in the in the in the gameplay loop, but it should be.
+1:05:10
+At no point are you?
+Like marshalling.
+Like, you know, it's not like Age of Empires.
+We're having to like call back all your villagers and start a militia and go like fight the forest troll or something.
+And I don't know, I think I, I kind of like that about this game that that's like fresh and novel, that you're not constantly fighting because it's not supposed to be an RTS game, right?
+1:05:33
+I just wish it had the UI of an RTS game.
+What what kind of combat would you envision in this game, Colin?
+What what, what?
+What do you what were you hoping this game would?
+Actually know it could be a different game if you did that, but do we wanna do scores or do we have to do as we wanna?
+1:05:51
+Talk about it, I think.
+And then, did we miss any big?
+Categories.
+Oh, I've.
+I have a a snarky bullet point in my Google Doc that says the the scorched Queen doesn't actually exist because you don't see her in the game at all.
+And that everyone is being gaslit by the Viceroy into saying, oh, I'm doing this on behalf of the Queen.
+1:06:10
+Don't worry about it, you'll yeah.
+You'll the Queen is the it's the heart within us all, the beating heart of the game.
+Yeah, I think we could probably move on to rankings.
+Well, we'll get mine out.
+Of the way then maybe?
+Sure.
+Right.
+1:06:27
+Yeah.
+So I I thought a bit about this again, like there's probably a bit of variance you can tie around this, but when I look at the my rankings and I think of a game like Darkest Dungeon 2, which you know that was a that was a painful experience for me.
+I feel like it falls into that category and I'm going to give it the same score.
+1:06:45
+It's a 4.5 for me, which puts it 26 that of how how many have we done at this point done. 41 games.
+All right, so it's.
+It's not so high up there for me and and and usually I'll just add this and usually I can think of like here are the things like you were talking about to fix the game but like the just the very structure of this game I I just there's I'm not sure a new game like Colin proposed that's how you solve this one.
+1:07:09
+I'll go next.
+So after having spent the last better, better more than an hour bashing this game, I feel like perhaps I have not made my opinion of.
+I actually did enjoy the city building part of it.
+1:07:24
+I found it maybe slightly repetitive to have to do it over again.
+But I did like the city building loop and even like, I started off putting this game to the 6.5 when we started the podcast and I bumped it up to seven while we've been talking about it because I'm like, oh, I'll never play this game again and I'm like talking about again.
+1:07:43
+I do kind of want to play it right now after we're done.
+It's like it's got, it's got a little bit of a hook into me and I like I I think mostly my criticisms are that I'm disappointed because on the surface it looks like a game that I should really like and a lot of people really do like it.
+1:07:59
+And so I wanted it to be, you know, a nine or a 10 out of 10.
+And I don't think it's that.
+I think there's a lot of stuff in there that is not fully baked and maybe it could get better.
+1:08:16
+I don't think it's ever going to get up to a 10 out of 10.
+Excellent game for me, but I think it could get up to, I think that with a little bit more dev work on it and I it sounds like they are continuing to do stuff like Scott was saying that they're opposed to something earlier today on our Discord about how they're adding like a production graph in there.
+1:08:34
+It's like I think that they might get to a point where it's a got good UII.
+Mean factorial has been in development for like 8 years.
+So it's really not fair to say like well, why isn't that as good as factorial?
+It's like well factorial wasn't as good factorial when it was like one month out of release.
+1:08:51
+So I I I think that the the the core loop is it's got some aspects of it that I I like.
+I do really like playing city building type games so I I understand why people like it.
+So I'm going to go to 7.
+1:09:08
+Why sure as heck.
+I'm not going to bookend to this episode, so I'm going to go next, if I may.
+So yeah, it is.
+It is OK.
+All devs go to heaven.
+It is OK to not like a game.
+It's also OK to like a game, you know, God bless Raven, Raven Queen, Bless Scorch, Glad that the Scorch Queen.
+1:09:29
+I'm glad that this game, you know, works for a lot of folks and they know, what the heck does my opinion matter?
+Listeners, what?
+What have I done to?
+To offend you I.
+Am sorry.
+I've I've maxed out the impatience meter of the listeners.
+1:09:46
+The first episode I was officially on this podcast was a listener choice episode, and it was wonderful.
+The last spell I thought I was going to be terrible at, I thought I wasn't going to like it because it's not a genre of game that I usually go in for.
+But it turned into my personal, probably my personal game of the year.
+1:10:02
+I got to say, of all the games I actually played to completion of last year, now I didn't play there.
+There are a lot of that that's obviously, you know, pretty intensely.
+But again, my personal game of the year.
+And now we have this Lister's Choice episode and it absolutely was not my type of game.
+1:10:19
+It was doomed from the start, probably, and I made mistakes along the way.
+I I I sincerely tried and I was able to get 5.8 hours into it, basically, if if if I may, one more brief tale.
+1:10:37
+I remember getting a call when I was a wee lad.
+Not that wee of a lad, I don't know, maybe like a teenager.
+I got a phone call from my mom and she said, hey, you know, I'm, I'm, I'm goofing around on the computer and I see this black and white game.
+Black and white is a is is not dissimilar game.
+1:10:55
+It's similar thematically.
+You're a God and you're trying to watch over these people.
+You're managing the mood of your people.
+It's an RTS game and she's like, this seems kind of neat and you're showing me some of the cinematics and stuff.
+It's kind of fun.
+I'm trying to play this game, she said.
+And I was trying to remotely walk my mom through playing this game, and she had no.
+1:11:12
+Idea what she was doing.
+Like the very concept of moving the camera was like foreigner.
+She never played like a game in her life.
+And I sometimes reflect on that experience and I think wow like people's perspective are so different.
+And I was like, what would it be like to be like my mother, where I have no idea how to play a video game, what a foreign concept.
+1:11:31
+And I now understand exactly what my mother felt like while.
+Playing this game.
+I was bamboozled and confused the entire time and I accepted a lot of that's on me.
+But also some of it is on the game.
+And for me personally, I'm putting this at my third worst game.
+1:11:53
+Obviously very subjective, but like I would rather play Eldridge, I would rather get Eldridge's notepad ending than the one that you described Scott.
+And yeah, you know, it's unfortunate 'cause I I went into this episode very optimistic and I'm sorry, I just ain't ate my ate my bag.
+1:12:13
+Well, I guess.
+I'll I'll bring us home here.
+I'll zoom in on my my good bullet points on my Google doc here.
+I think the this game started really high in my rankings and then tumbled further and further down the longer I played it, because I think that end game is sorely lacking.
+1:12:33
+I think like like Darkest Dungeon Two.
+I think it has a lot of fixable problems and I think that if I come back to this game, I don't know, maybe like a year from now it probably could be like totally different.
+They've like solved all the things that we've been whining about.
+1:12:50
+But yeah, I think like the the weak spots are are it's end game, the kind of like the medic progression stuff.
+I think the city building goes on for too long, but I think the good parts, there's a lot of good to be had here.
+I think the the art aesthetic is not for everyone but I think it's very well done here.
+1:13:09
+I think like the the art style for what they're going for they really nailed it and for the most part I I like and I'm not usually a fantasy type person.
+I think the background music for this game is really good and I've been like listening to it while coding and it's it's very focusing and calming and like I was having having a hard time picking which one to like relaxingly play the episode out with.
+1:13:31
+They're yeah.
+I think like the devs have like clearly been busting their ass building this game.
+Maybe they just need some time to sit back and Polish some Polish up some stuff.
+And I think that like the the swing for the fences of making a a Rogi City builder is a not something that we've seen very often and so it's a welcome sight to see.
+1:13:56
+But BI think they kind of got it for the most part there.
+It's kind of clunky in some ways, but I think like it it it kind of works.
+And I will say like when I was really getting into it and in the later cities that I was building out towards the the final boss, like I was super locked in and super in the zone and like really focused and like all right, I got to do this thing to get this thing and this thing to get this thing.
+1:14:20
+And then when I finally beat it, it was like I needed a pack of smokes to relax afterwards.
+I'm like and like as a result like that kind of tempered my my want to immediately start up a new round of like oh I got to go got to do the one more turn thing here of one more city.
+1:14:38
+It was like it was such a like oh I finally like cleared that that experience.
+But it was like but that felt like justified and like all right well I finally beat that thing.
+It was like a big relief and I think if if the game for me, if it wasn't like really jiving I wouldn't have been so locked in at the time.
+1:14:58
+So even if it did start really high in my rankings I think it's it's like settled in in a reasonably good spot.
+I'm gonna give it a a 7.8 which ties it with Grifflands.
+I think Grifflands has a similar kind of thing where like, yeah, like, you know, like the main thing that you do in the game is good and like the art is really good.
+1:15:16
+But like the the overall progression of it, there's something off about it.
+It could be good, it could be really good if there was like some tweaks here and some tweaks there, maybe focus and streamline down a little bit.
+But yeah, I I think that's in relatively pleasant company there and unfortunately that's going to, that's going to put our aggregate ranking for Against the Storm 27th out of 41 games that we played.
+1:15:46
+You know, I I feel like this might be #1.
+For standard deviation though, most divisive game that we've played so far, Most divisive.
+Game Since looking through the list of mine, which was Will's favorite game, yeah, I feel like there there might be something here where if like ADLC or like a big content patch comes out, it might be worth revisiting.
+1:16:10
+And you know these scores are not set in stone.
+They could change.
+They could change at any time people.
+But you know it's it's one of those things that like this game will work for a lot of people.
+It just didn't work for for us today.
+And I also like I was kind of glad for us to cover this early in the year because if we get the bug bitten, I don't know sometime in the summer or fall and come back to it and it's like a totally different experience, we might change those rankings and it and it might climb back up our list.
+1:16:37
+So we're giving it a an intentional long runway here, I think for for similar games, a little bit about Factoria.
+Ever heard of it, Factoria?
+Frost Punk.
+1:16:54
+I think is is similar but also different in the aspect that's, would you say it's more of like a, it's not really a board game, but it's more of like your standard city builder experience, right?
+It's not really.
+It's a little more pure, purely city building you know you're doing.
+It it's like if you didn't have the wood chopping aspect of the glazing, you just did the events right to some.
+1:17:16
+Degree the city.
+Building aspect of.
+Dwarf Fortress is like the only major mainstream comparison that we can kind of draw to.
+Maybe, I don't know, like the last spell has a lot of a lot of similarities, but one game that we haven't really talked about that I think we kind of danced around the topic of of like what if this game was only the city building part?
+1:17:37
+And like that was it is the game dot age or dotage I guess, which is a a pun on the old guy that you play in the game.
+That's like it's supposed to be a Rogi City builder and like that's it.
+Like it's just the city building experience.
+There's no like outside meta progression.
+1:17:55
+That's just the city, which I think is maybe a more focused experience of what we're looking for.
+Or it's a recent game that came out called Roots of Yggdrasil, which I think might it.
+It might be following in the footsteps of these games that are trying to take the rogueness formula to city builders more generally.
+1:18:15
+I think in a previous episode we talked about Keeper RL, which might be something adjacent to here, and we also talked a little bit about Song of 6 Syx, which also might be a thing.
+I bought that game and I played a little bit of it and I forgot that it existed.
+1:18:33
+But Colin, you've also you've you've played a more.
+Beaverific game of Timberborn.
+Oh yeah.
+I mean, this is very similar to Timberborn.
+I feel like Timberborn, Frostpunk and whatever this game is that we're playing right now, they're all very similar.
+1:18:52
+They've got a similar vibe, like Timberborn even has Beavers in it.
+So there you go.
+But like they've got a, you know a natural disaster, you're fighting against season based hurtful events.
+I mean like Timber Born has like the drought season where it's like all the water goes away so all your power goes away and all your crops wither and die and hopefully you stored enough water or all your Little Beaver boys are going to die, which kind of feels like the storm.
+1:19:22
+Not at all in any way.
+It is a predefined like 2 or or.
+I don't know, maybe it's different now.
+I played it a while ago but it was like 3 predefined maps and a set projection progression.
+1:19:37
+And then like when I played it, they really only had one faction and I know they've added two or three since then.
+But yeah, well, one more that I'll add on here.
+I'm only adding.
+It in like the similar games grouping as like it's similar in the aspect that it's like the literal exact opposite experience but it's still, I don't know, I'm I'm throwing it in there just for funsies.
+1:20:00
+The the app version of Spirit Island I feel like is Colin's giving me the face I think like from what I've played I I I see it.
+Yeah, from what I've played of it.
+On on the app it's like.
+What if what if instead of, like you being the bad guy, cutting down the forest and like opening up all these bad things that are happening, what if you were the forest?
+1:20:19
+Like pounding these settlers that were coming into nature with like an iron fist.
+And you know, it's got randomization elements.
+It's a board game, obviously.
+But you know, like, to what extent can board games overlap with rogue stuff?
+I'm just going to throw it in there for for funsies because I played it and I thought it was fun.
+1:20:37
+It reminded me of this game, but for.
+Yeah, so.
+So let's check out some of those games.
+If you like this.
+There's some stay tunes in there.
+In the meantime, if you want to e-mail us some suggestions of other games that you would like for us to say all devs go to heaven for, you can send those to our e-mail at grogpodzone@gmail.com.
+1:21:02
+You can check out all of our ramblings on Mastodon with Grogpod at game dev dot place and our website with all this stuff as Grogpod dot zone rankings and all those good things that's going to close out this week, but for our next episode, Will, you might have an ace up your sleeve.
+1:21:23
+Oh yeah, I'm very excited for this one.
+This is you guys are all.
+In for a real treat.
+Bellatro is just came out literally a week ago.
+It's it's it's not going to be because nothing can actually beat slay this buyer.
+I don't think it's actually possible, but it's up there at that level it's it's it's very you know they're at least within you know they're a very short distance of each other.
+1:21:48
+I think Bellatro the new hotness I.
+Am shocked that we are playing such a new game.
+That's Wow.
+Who knew games in a row this this game got mentioned on.
+Like a?
+Pretty mainstream kick Kickstarter theme to some of you might know podcast, that's how.
+1:22:04
+That's how like well known We're just getting around.
+This is the new Hotness indie game on the rise and Bellatro.
+What a what a great name.
+Well, Scott, Scott, you know, suggested it from.
+From what?
+Like a discord for for watching rogue lights or yeah, I think like this was something that was blowing up.
+1:22:22
+Kind of all over the interspace.
+And when I I had seen people compare it to slay the Spire, I'm like, but they compare everything to slay the Spire.
+And to see, like the thing that was catching my eye was the the concurrent player count.
+1:22:40
+And seeing it just like skyrocket upwards And I'm like, well, this is clearly just a flash in the pan.
+And it kept growing.
+And like, it has this kind of snowball phenomenon.
+I'm like, all right, well, let's drop it into Will's view and he'll poo poo it in five seconds and that'll be the end of it.
+And then Will's like, I just played it.
+1:22:56
+It's the greatest thing since sliced bread.
+Like what monster have we unleashed?
+It's it's a thing of beauty.
+These are happiest times when.
+You get to get a great video game going on and so it's it's seven days out.
+I think I have 46 hours of the game already, so this full time job.
+1:23:13
+I should.
+I should be ashamed to be.
+Honest of this level of.
+Enjoying a game?
+But there it is.
+All right, Well, join us for our next episode with.
+Balatro.
+Not Balatro.
+I think it's.
+1:23:29
+I don't know.
+Maybe.
+Maybe it is Blog Draw?
+Like, I haven't actually looked at any pronunciation, guys.
+That's what it says on Wikipedia anyway.
+So, but anyway, thank you for joining us and to play us out from this episode.
+Go and grab some biscuits and pie, sit down next to the nice warm hearth, put on some Against the Storm soundtrack and let's watch the drizzle fall.
+1:23:57
+The.
+1:25:24
+The.

@@ -1,0 +1,1387 @@
+0:21
+Greetings friends, or should I say editor Vevus Ustavat and welcome to the Grogpod Rouge like podcast where each episode we arrive at a mysterious mountain of a roguelike.
+We delve deep to find its secrets and eventually get exploded by horrors beyond our comprehension, only to revisit those horrors at the end of your recap episode.
+0:45
+I Am Your Called Me Silvia, host of the podcast Scott Berger and with me are my Gaggle of Hummies Co hosts.
+Hey, it's Andrew Harshman, Noise Man today for this episode.
+And along with us, we've got Colin.
+1:02
+Smith, I don't have any Finnish words for you.
+I'm just a corpse at the bottom of a pool of acid.
+Outstanding.
+And we, of course, we have a guest.
+Yes, I am Tyler Pittman.
+I am the bottle of poison that you douse yourself with whenever you're on fire.
+Excellent.
+1:20
+Very important, Very important.
+This this week we are talking the standard Suomi simulator Noita released Early access September 24th, 2019 and one point Oing October 15th, 2020.
+This is a game that you could only find on APC because that's the only thing that'd be capable of running it at a high level.
+1:40
+So you can find it on Steam, Humble, Itch, GOG, the the usual places.
+This was developed and published by Nola Games, who can only really be described as The Avengers level combination of Finnish game developers, including but not limited to the the Developer from Crayon Physics Deluxe, Petri Puro, and I'm going to butcher all these names too.
+2:04
+I'd I'd used all of my Finnish pronunciation for butchering the intro the the developer from S tier puzzle game The Swapper Ali Harjola Harjola we have the developer from S tier puzzle game logical puzzle programming Sakaban game Baba is you RV Takari Takari RV Takari Baba is you with support from legend of of Grimrock Co founder Co founder God.
+2:41
+Legend of Grimrock people.
+What legend of Grimrock Co founder anti T honan and sound design from a guy who worked on Dicey Dungeons and environmental station Alpha Nilo Takailinen and with the the stylish musical underpinnings from Finnish psychedelic funk fusion rock band from Grotto Wow.
+3:09
+See Scott's been practicing all week for his his try out as the next big Finnish pro wrestling announcer.
+I'm very excited to to see how that goes.
+Yes, of course.
+Yeah, we have a there's a full band involved in in the development of this game.
+3:25
+Yeah, pretty, pretty wild stuff, which we'll get to in a minute.
+But of course, the the Super important stats that everyone tunes in and immediately tunes out for your average player of Noita has about 106 hours of gameplay in it, and it ranks in on the charts of the number 23rd most popular roguelike game on Steam with 73,976 total reviews.
+3:45
+Wow, wow.
+Tyler, as our special guest for this episode, you've encountered a growing a glowing, even green tablet that has one sentence describing what one does in Noita on it.
+What does it say?
+4:02
+The tablet says Noita is a narrative free particle physics game that does absolutely nothing to hold your hand.
+It's true.
+It's accurate to me.
+I almost feel like Noita is the kind of game that it doesn't even hold your hand.
+It grabs your hand and just slices it off and says well obviously you should have known better.
+4:19
+Well.
+It pulls you.
+It's it's a hand pulling you down into that pit of pit filled with acid.
+There's grabbing involved.
+Now, Tyler, I'm curious you you've requested to be a a special guest on this episode.
+Well, I mean, it might have been some pressure, I don't know.
+4:36
+May have been some peer pressure involved, but I'm kind of curious, Tyler, what what what is sort of your your history and and background with Noita?
+Well I so Noita is it's been on Steam forever and it always jumps in your face every time there's any kind of sale and I've always promptly ignored it.
+4:54
+Just skipped right past it, can barely even see it anymore.
+And then but then Andrew's like, hey, you should get on the pod sometime.
+We're we're reviewing Noida so you know you're interested.
+And I said sure.
+So then I picked up the game and so I I have no background with Noida before it's spawned into existence as soon as Andrew mentioned it.
+5:12
+Yeah, yeah, yeah, exactly.
+Spawned right into existence.
+It was procedurally generated.
+Yeah.
+And.
+And so finally we have a guest.
+And I'm speaking as as someone who was a guest on the show at one point.
+And so I found the script too.
+Enough of these simps coming in just, oh, they love the game.
+5:28
+Rose colored glasses.
+I'm talking like rose colored, you know, like, like ocular implants.
+Like we got these guests coming in.
+We already know, oh, they love the game, It's their favorite game in the world, etcetera, etcetera.
+But now we have a guest with a supreme meter of, of, of evaluating games.
+5:48
+We're going to get a true opinion from the Pit man here.
+So what?
+We're not jumping into ratings, are we?
+No, not yet.
+No, no, no, no, sorry, but I'm just saying I just.
+I want to That was a fast episode.
+I mean that's that's about as fast as your runs in this game will.
+6:04
+Last, but yeah, Tyler, of course, Tyler Pittman of, of, of 900 hours of Hades fame.
+You know, Tyler is a roguelike expert.
+Do you have anything to say as to speak to your, your, your background with roguelikes at all?
+6:23
+Anything you you want to mention?
+Yeah, so I, I, I like, I didn't realize that I was a roguelike fan until I started listening to Grog Pod, because I've always kind of been in denial about it.
+Like obviously have tons of hours on Hades and such and played tons of others, but like a new one comes out that's popular and I'm immediately cynical about it.
+6:42
+I'm like, oh, look, it's a, a rogue light game that is also a Metroidvania and it has pixelated graphics.
+How to talk about a gimmick and then then suddenly boom, I have 400 hours on it.
+So, but yeah, so I didn't realize I was a roguelike fan until I've heard all your reviews that I'm like, actually, yeah, I like all of these games.
+7:04
+I guess I am a roguelike fan.
+That's right, it's taken over the gaming industry by golly.
+Well, yeah, I think this this game for me anyway, was something where I saw I I think it yeah, just kind of sprang up into the ether one day and I had already put in like a zillion hour.
+7:24
+Well, a zillion.
+I had to beaten the swapper and I was like, oh man, like this is from like the the same kind of creative brainchild as the swapper and Baba is you.
+Baba is you.
+I'd never really got super into because it like I felt like it was like 3 digits of IQ above my current level.
+7:42
+But I've played some legend of Grimrock.
+I've played, I dabbled a little bit with some dicey dungeons and I just saw like this kind of like power combo of like, OK, like big, big name.
+Well, big name for the finished game space coming out.
+And it it felt like it kind of kicked all the boxes for me almost immediately.
+8:01
+Like yes, highly chunky pixelated graphics like weirdness off the chart, you're kind of zany sandbox of synergies like you would get from a Binding of Isaac kind of deal or or even, you know, Hades to some degree.
+8:17
+And I was like, sign, sign me up 100%.
+And yeah, like I'd, I'd put 20 hours or so in before this podcast recording.
+But I knew like when we started the podcast, I'm like, this is a 100%.
+Like we would be doing journalistic malfeasance to, to not cover this at some point.
+8:37
+And so I like, I deliberately held myself back from like playing it for a long time.
+And I don't think, like, my skills in the game had really improved until like, you know, this, this last two weeks or so.
+I'm like, OK, let's, let's try getting into it.
+8:52
+And yeah, there's a.
+There's kind of a lot to unpack here, I think.
+Oh, there is Oh yes, indeed yeah, Noida more like I do Noida like this game very much.
+In fact, I I don't I don't like it a lot, but I but I somehow played it for like 30 hours.
+9:14
+So there's a lot I really dislike about this game, but a lot I found very enjoyable, primarily the, the main game, the the gunplay loop, the, the, the way in which you control your character.
+9:32
+It is this is a side scroller and you are moving around with WASD.
+You're oh teeny tiny on the screen.
+Oh, oh, but I don't know what it does in pixel size, something like that.
+And, and critically so you're aiming around with your mouse, of course.
+9:48
+And critically you have the ability to levitate and move around.
+Like imagine the controls of like an old timey like helicopter game where it's just single input and you're like pressing on it to to fly Ohio.
+You're a jet pack man, except your jet.
+Pack is magic.
+Except it's magic.
+10:04
+Yeah, precisely.
+And oh, it's, it's pretty crisp.
+It's pretty cool and, and, and groovy.
+And you couple that with some absolutely excellent feedback.
+Like I'm talking great particle effects and explosion effects and physics.
+10:21
+And it is if it, if it weren't for this like core gameplay, I would have been over this game in a minute.
+That's bad.
+So I have the exact opposite reaction of like, well, I'm terrible at this game and I basically can't play it because I'm so bad at it and I just die immediately all the time.
+10:42
+But it's fascinating to me.
+All the other stuff is so cool and interesting that I want to play it more because like I have the just the steam, the Steam thing open on the other half of my screen and I'm just watching it loop doing like awesome crazy spells and I'm like, man, what on earth?
+11:01
+Like this is a game.
+This is part of the game I didn't really experience.
+When do I get to do that?
+I want to be able to just like spray flames throughout the the realm and melt all of the things into gold and rain it on the head of my enemies or I I don't even know what these some of these things are doing but like I love the particle effects physics simulator idea of a game.
+11:27
+Yeah, I I think this game's like biggest selling point is its biggest weakness in that like it is it is a for for the programmers listening to this show, I feel like this this game is a a gateway drug into linked list programming where like it is it is effectively a visual like logical programming language almost that you are sequencing this kind these kind of spell things.
+11:59
+I mean, you know what?
+Once you know, once you've built in a couple programs in Noida, then you know.
+Yeah, sure.
+Well, I couldn't get even Hello world.
+To display once, you can play Doom on your wand in Noida.
+I'm kind of surprised that hasn't been done yet already.
+12:15
+But yeah, I think like this game has like amazing looking just flame effects.
+Like it's, it's billed as a as a falling sand game where every pixel is like on fire or freezing or acidic.
+12:31
+And what do you feel it when you walk around and you see like little smoke particles jittering about?
+I think like this game looks amazing for it's it's aesthetic that it's going for cause like not a lot of like 2D.
+12:47
+You know, it it, it does feel very trophy of like Oh yeah, another pixelated indie 2D side scrolling Metrovic.
+Great.
+Except like this is like Worms on steroids where indeed like every 5 seconds some part of the screen is either shaking or exploding for some crazy reason.
+13:08
+Yeah, and those and those particle effects and things, they don't clash with what is a very simple aesthetic.
+Sorry, we're going to say Todd.
+I said yeah, and it's all functional too, like that.
+And that little bit of smoke physics on the ground that that that's going to catch you on fire and kill you or like it.
+13:23
+It even gets to the point where you can get head shots on those tiny little pixels.
+It's.
+Very impressive.
+Yeah.
+I feel like this is one of the few games where it's not an aesthetic choice to be a pixel art game.
+Like the pixels are the game.
+You could not do this in like a a 3D weird art style because it would it it's yeah, it's not an aesthetic choice.
+13:47
+It's the game physics.
+Yeah, I mean like the game can barely run on like, well, barely at I guess like late game high level situations were like the entire level is like transmuting to gold and falling down and all these particle effects are happening and stuff.
+Like I was, I was kind of impressed that my Steam Deck could could keep up for the most part, but that fan was working overtime further, further and further that I got.
+14:10
+But but gosh, yeah, like where do you even start with which?
+Is critically, we're talking so much about the, the physics system and everything.
+The, the tagline, the starting, the start, the first line of the description on Steam is that Noida is a magical action rogue light set in a world where every pixel is physically simulated.
+14:33
+And it it certainly delivers on that.
+Here's a question.
+Is it a rogue light or is it a rogue like?
+I feel like it is more rogue like than most of the games we review in that you start fresh every single time and you die and it's quick and you start over again.
+14:53
+Great.
+I mean it's not it's not a top down turn based game, but I feel like it's got the vibe of of a true rogue like a lot more than.
+I'm curious like Tyler, from your perspective, like what's what's your take on this sort of like torture genre definition?
+15:12
+I consider a rogue light to be anything that has like a meta progression where you can take material rewards and carry them forward into future runs.
+And Noida doesn't have any of those.
+So yeah, I think it's more of a of a rogue like.
+15:29
+Yeah, I think if if to to answer your questions of Colin, excuse me, Colin had a question.
+Sorry, I'm I'm I'm mixing up those now.
+The the one thing that's like keeping it from being a the truest, the truest of true rogue like game is that though it's it's trying hard to not the game is is trying very hard to give you absolutely no information.
+15:56
+Like we're talking Johnny tight lips over here, like, oh, you picked up a shining rock.
+I don't know what it does.
+It makes a little humming noise.
+So in a true, true, true rogue like in rogue, it's like you pick up a potion and you have no idea what it does.
+Like like you pick up a magic.
+I have no idea what it does.
+So like if Noida had a mode true rogue like mode where this every spell was a mystery, then maybe it would be a roguelike and that would be the only way to make this game eve any more frustrating.
+16:23
+I don't think it would actually be playable, you know, and didn't know what the spells were.
+Yeah and I think that like the the core ethos of this game is experimentation, often with debilitating and hilarious when it doesn't happen to you.
+16:38
+Results where Andrew was lamenting in the discord of of like what what is this?
+What is this thing I just picked up or this substance here ambrosia.
+I have no idea what this thing does.
+It's description is not super helpful and like yeah, that's true.
+16:53
+And I think that like you know the but then.
+Oh, sorry, go ahead.
+I think like the game encourages you to like figure out, well, hey, what like what does this button do?
+Press the button and then either rewards you or explodes you and rag dolls your your pathetic wizard corpse flying across the map.
+Critically, I did follow up.
+17:10
+I'm like, OK, well, I, I, I poured the ambrosia on the ground and I stepped in it and sure enough, like a little icon appeared, a little teeny tiny icon appeared in the top right hand corner that said, like your defense is up or, or some, some buff, right?
+So it's like, OK, that's cool.
+So sometimes the experimentation works out.
+17:27
+Other times you're into a good run.
+You get to the little safe zone between the areas, you craft what you think is a great one and you go, let me try it out.
+Let me fire it up and it turns out you've actually crafted, or maybe the game is just RRRRRNG dropped for you.
+17:43
+The wand that kills you instantly, which happened to me multiple times.
+Like, oh, I, I, I forgot that this, you know, this effect wasn't a projectile effect.
+So the electrical explosion went off in my poor, poor pasty wizardy face.
+18:01
+And I think for the most part the descriptions are are like reasonably clear or.
+Give no I disagree I.
+I think, I think they kind of give you a hint as to what you're in for.
+Like what's when you start the game, you'll, you'll start with kind of like, you know, your, your crummy basic spells like a spark bolt or something and it says a week, but enchanting sparkling projectile and you shoot it and yeah, it just sparks around.
+18:26
+Sure, or like a a splitter bolt, a short lived magical bolt.
+Yep, makes sense versus something like a a nuke spell that is just described as take cover, exclamation mark.
+What what does that do?
+I, I wonder if the take cover is any indication, But it's one of those things that like, you know, if you're, if you're listening this, you've never played Noida before and you're like propane tank, someone's a propane tank.
+18:52
+Be careful what you wish for.
+And you're like, what on earth does that mean?
+Is that going to just like kill me instantly?
+Like, and now you're sort of like hesitating about clicking this the, the cast button.
+It's like, I don't know if I want to do this actually, but I got to click it.
+19:08
+I got to see what happens and then you'll collapse that wave function.
+To find out whether or not that actually was a good or a bad idea.
+You'll go to your your friend discord and shout OMGI.
+Can't believe this thing blew me up.
+What?
+What else was I expecting from a a giga disc projectile summons a large serrated disc with a curious flight pattern.
+19:29
+Wink, wink.
+Wink wink.
+What else would you expect from a game that has a built in death replay gift saving functionality, which is pretty cool.
+And I very much appreciate that that exists.
+No, I guess the spell descriptions are not that bad.
+19:47
+And they do have like stats, like you can look at like a bunch of gobbledygook numbers that I, I can't hardly understand, but like critically, it's like how much damage it does, here's how much mana, etcetera, etcetera.
+And you know the I I would have liked a little more.
+20:04
+If it was any less, it'd be unplayable.
+But I guess, I guess they they barely met the bar of of playability for me.
+I guess spell descriptions and then the potions, they're just totally vague.
+The random items totally vague.
+Yes, very vague potions like invisibilityum or flamuxium or swamp.
+20:23
+Well, you, you, you joke, but like invisibilium, like I mean like I poured it on the ground and like there's the interface is not super clear like am I invisible?
+Am I not?
+Should I drink it?
+Which you can drink potions on this game, by the way, which I didn't know until you I I googled around and did a bunch of researchers.
+20:40
+This game demands research.
+Wait, how do you drink potions?
+You like either right click the item or.
+Don't pass through it on the ground.
+I think it's like you, you right click it from the the hot bar at the top.
+Because crucially, crucially, I think this is like either impossible or very hard to do on the Steam Deck with the with the joypad controls where I'm like, OK, I want to drink this potion of molten steel because I don't know what it does.
+21:08
+I better, better do it.
+Who knows what's going to happen?
+Or molten aluminium and refreshing.
+And I your options, at least with the, the the controller inputs, which I might I will say like at first I thought were kind of like awkward, but I kind of grew used to it over time and now feel totally fine to play with.
+21:29
+Like your only options with the the game pad are either to spray it on the ground or to just eat the potion and just have it like crack and explode.
+But having those potion jars is, is super valuable, which I'm, I'm sure we'll get to in a minute.
+But for putting out emergency fires, you'll, you'll definitely want something either filled with blood or vomit or, you know, like your standards are on where you're where you're putting out your, your wizard Cape out of out of fire with a fungus blood as you do in most normal games.
+21:57
+Yes, as as Tyler, as you alluded to in your introduction, sometimes when you're on fire and there are no lakes to hop into, sometimes your only choice is to douse yourself with poison, which this is one of the items on my my, my long list of things I really hate about this game, which is sometimes the game spawns you into a new run with a terrible potion.
+22:25
+So you start with you start with two wands and one potion and you you got to have water.
+You got to have blood.
+You got to have something to put out environmental hazards, either to douse to, to put out a fire on yourself or to dilute like pools of acid and other dangerous stuff.
+22:42
+And sometimes it'll, yeah, just give you these crappy potions.
+And it's like, yo, this is, I feel like, I feel like water should be part of the starting loadout and then another potion.
+But what?
+What can you do?
+They need to teach this wizard how to stop, drop and roll.
+And I say that as a joke, but also as a real.
+23:00
+Like you should be able to like, slowly lay down and roll yourself around and and put out the fire like water.
+Good for running around.
+But yeah.
+Are you saying this very very soulsy rogue platformer game needs a a dodge roll button?
+23:18
+Yeah, boom, boom, boom.
+But oh boy, we're getting ahead of ourselves.
+I mean, we're talking about all this wonderful looking game, the side scroll with the, oh, wonderful procedural generation.
+You're traversing, you're crawling through a dungeon, you're trying to make your way to the next area, the next zone, battling beasts, collecting magic items, crafting wands.
+23:39
+But oh, to to what purpose?
+What is the what is the the finish storyline here, Scott?
+Yeah, our, our story, I guess I'll put it in air quotes that I didn't actually know existed to this game until I actually sought out because I, like I had played this game beforehand and I think this was patched in at a later time.
+24:02
+And I had never seen this until maybe like 3 days ago. 40 plus hours in where if you are, if you're you're cracking open your your your fresh disc from the store of Noida, you're popping it into your computer and you are watching for the first time.
+24:19
+You hit the new game and you are greeted with what I can only describe as something like a a Finnish creation myth where the the camera kind of pans over the sky.
+There's no text to any of this, which I think is is great.
+24:34
+I think like this intro cinematic is very mysterious.
+It it like lasts like less than 60 seconds or something, but it starts with like the this view the stars and the stars kind of pop in and take the form of some kind of elegant goose or swan of sorts that lays some egg in the stars, cracks apart.
+24:58
+I'm already hooked.
+At $8 a dozen.
+And then from that cosmic egg, there's there's some wispy things that come out and one part of the egg, there's little wispies and triangles and stars that come out, and there's little mountains underneath it.
+25:15
+Oh, is that that must be the world being created from this egg.
+And then the egg cracks open again.
+And out of this egg comes these big ugly tentacles and spiky electrical bolts and what can only be described as pipes with, I guess valves on them.
+25:36
+And it looks like the egg is kind of like dripping ooze.
+So I feel like we have the the kind of two sides of the world creation myth of oh, the world is created and along with it all this dangerous, grotesque technology.
+And then the stars come into color and just spell out the the the title of Noita.
+25:55
+Welcome.
+And from that it just it very slowly pans down from the mountains.
+It passes by a little curious rock formation to kind of give you a hint of maybe what's to come later.
+And it just lands down at the ground and awakening from I guess sleeping on the ground in front of the campfire here at the entrance to this mysterious cave is you.
+26:19
+You are a purple wizard with a wand and you are out for adventure.
+Go find it.
+That is your story.
+Yeah, and you know, hey, that that intro I thought was cool.
+You walk through, you walk into the entrance to the the cavern system that runs through this mountain you're going to be descending through and you've got these little oh, these little light up runes are are coming up on these obelisks that are oh, very elegantly explaining to you the controls.
+26:51
+And that is when the explanations stop.
+I don't know if the game even explains how to like add spells to wands.
+I I had to I had to Google it.
+Maybe it does.
+Maybe something flashes up on the screen and you know, I suppose it's pretty self-explanatory at the at the end of the day.
+27:11
+But I thought perhaps I, I was, I had D&D brain.
+I was thinking like, oh, maybe these are separate from like the wands or something.
+But yeah, what do we what do we think of the story?
+Lack of story.
+I from one could have done with a little bit more.
+I think it would have been really cool to like at the beginning of each run, there's like a different constellation that appears and kind of gives a little more context and a little bit.
+27:34
+And also, like, every time I picked up a scroll, it was just like, yeah, all right, Was I?
+I can't make heads or tails of this Like what's what's happening?
+Yeah, there are.
+Crucially, there are like these big like honking green tablets that you'll find scattered throughout the world that you pick it up and it it it's filled with like gobbledygook runes, but like they slowly morph into.
+27:59
+Something less.
+Understandable.
+It took me a long time to realize that you if you hovered over, it turned into something.
+I was like, oh, I'm just waiting until I was holding on to them, waiting for them to get translated by some other item.
+I think just.
+Learning that I did, I had no idea it's.
+28:15
+It's yeah, you can blink and you miss it.
+I think way back in the early access days, it was, it was just the text and then like you just pick it up and the text, it's just right there.
+So I think they've added in that like there's this runic stuff and then it like it slowly changes into the language thing.
+I, I, I like that.
+28:32
+I feel like it adds like a little bit of like texture and flavor to the world at the expense of like, yeah, it is kind of like obtuse.
+And, you know, like the, the stuff that's written on on those tablets, like the, the tablets are kind of like sequenced.
+28:48
+I think there's like, I don't know, like 12 of them or something that you can you can collect and they kind of spell out like the like the broader lore of this world.
+So there is like a very kind of Soulsian story of like, you know, you can go if.
+You if that's code for not very good storytelling, I'm sorry to say a lot of the time this whole like environmental storytelling.
+29:08
+It's like, look, half the time the devs do claim, you know, supposedly are doing this.
+It's it is is accidental and it's because they had a broader vision.
+But like we're we're had didn't have enough time.
+Half the time, let's say half the time environmental storytelling is is is Dark Souls in Dark Souls in storytelling is not so great in my opinion.
+29:32
+Just my opinion.
+I feel like it's there's many games where it's just not important.
+Like the, the point of this game isn't the story, right?
+You're it's environmental storytelling, IE it's just flavour, It's flavour text.
+Sure, you're you're right.
+29:48
+At the end of the day, it's not super important, but like, I don't know, the first like 10 hours where I was, there was this weird bell curve.
+In my experience of this game.
+It was like, wow, this is awesome, this is great.
+And then like really nose dive and then came back up the first like 10:00-ish hours.
+30:05
+I'm like, wow, I'm having such a great time.
+It's so fun.
+Like I wish I knew why I was here.
+That's.
+All I don't need to know why, I just know that cave exists.
+Cave exists that there's.
+There's no plot to cave diving.
+There's really like an optional an optional thing that's missing here that I think the original Dark Souls does really well, which is the undead.
+30:27
+Was it the Undead Asylum?
+Like the tutorial level that's like gated off from the rest of the broader thing of like, you know, you wake up into like in prison and it kind of like spoon feeds you like, OK, here's how to do this thing.
+Here's how to do this thing.
+Now let's put it all together with you fighting this like overly like grotesque, like super boss that you're like, Oh my God, I have like what?
+30:49
+Like you're expecting me to do this and I feel like that's kind of what's missing from here.
+Like I do appreciate the very quick turn around of like, oh, I just died.
+Let me hit new game and just be bam right back in it in like like half a second.
+Very welcome.
+It's pretty.
+Fast.
+31:04
+Yeah, the Asylum Demon boss fight is is every fight in this game.
+You're just barely hanging on some of the time.
+Like in in Noida, like you're saying it doesn't it doesn't teach you at all that like, hey, there are there are these spells like the sequence to them is extremely important.
+31:24
+You can like manipulate the sequence to them only in certain areas.
+And like that's that's your goal.
+Like in theory, like the game would be good enough to tell you that without you having to like alt tab.
+Go to Google and then find the Noida wiki to have it teach you that.
+31:42
+But it but yeah, I think it does kind of crucially crucially do that One thing that I think is maybe like a little bit of a stopgap, which God bless the the modding community for this game.
+One way that I kind of like cut my teeth on how to learn the the wand spell logic school was to go into the mod scrolling, scrolling the the steam workshop spell lab mod where the the there's an older version of this.
+32:18
+And I think Tyler, you'll, you'll be excited to talk in a minute about the newer version, but the older version of it crucially has like these spell challenges of like, oh, like click challenge level 1, do like 10 DPS to this little dummy thing.
+I do that click, click, click, click.
+32:33
+OK, now do 50 DPS.
+And here's like some spells to kind of like, what combination of this stuff are you going to do?
+And it kind of like gives you hints along the way.
+And there's like, I don't know, 20 or 30 of these kind of challenge things that ramp up and difficulty.
+A good idea that I think maybe could have been leaned on a little harder with like an intro or something Hard to say.
+32:54
+But like I think I wound up going through like half of those and be like, OK, I think I kind of get it with like, this is how you put the spell next to this one to make this big effect going and then promptly forgot all of it until I was doing more experimentation.
+But it sounded like Tyler, that you were trying to get Andrew to do a a different version of the spell lab to look to like learn how all this stuff gets put together.
+33:20
+Yeah, so I kind of followed my experience with the game was kind of the same as Andrew's where like, you know, I started, oh, this is so awesome.
+And then as as I died more and more and more and realized, oh, this game is actually just brutal.
+I'm not failing the game.
+It's just, it is this random I, I hit that, that bottom and then I, I, I needed a mod to get out of it to start going back up again.
+33:42
+And that's, that's what I found in the spell lab shoved mod the original version, It didn't load.
+What's why I, I couldn't get it to work.
+So I found that one and it worked, but being able to experiment like that was, was pretty awesome without having to go through because like, you know, you die all the time, but that's totally OK.
+34:01
+You find some new shiny thing that you don't know what it does, you click it and then you die, you know, whatever.
+But to get to that point, you have to repeat the 1st floor.
+You have to play for like 15 minutes to, you know, accumulate enough gold to get enough stuff to put in your wand to move forward.
+I, I found that loop very frustrating.
+34:17
+So being able to jump into it with, you know, having full control over spells and stuff like that, that, that made the game a lot more appealing to me.
+Yeah, I think that makes sense.
+There's plenty of times where you find a cool wand or a cool spell and either you die immediately or you use it like one or two times and you're like, oh, I can see the power of this.
+34:40
+But then I got eaten by a acid monster and you won't see that spell again for a couple hours because there's a whole lot of spells and especially if you're like, I'm not 100% sure if that was good or not.
+34:57
+It was cool.
+I don't know.
+I don't, I didn't like have time to play around with it.
+I I did not play with us the spell lab and Eve moderate.
+And I kind of want to go do that right now just so I can look at all the other cool spells and figure out what would I have wanted.
+35:14
+And what's what's interesting is that you can take that spell lab outside of like this little confined area and you can just like run it's it's almost like a like a game genie in a way of like just running through the game of like, OK, like, yeah, let's start level 1.
+I think I'm going to spawn this like super wand with like 40 slots and a limited mana and like 0 recharge time.
+35:35
+And I'm just going to put like all these giga black holes on it.
+Let's try to stop me now game.
+But yeah, like, like Colin's saying, there's, there's a lot of stuff in here.
+There are 106 passive perks, there are 422 distinct spells and there are 184 different enemies in this game where the the spells themselves, it's it's maybe a little hard to kind of see, but if you if you get real close to that screen, you look real close.
+36:06
+You can see that they have kind of colored borders around them Where those those are sort of your guide of spell crafting, where red are your standard projectiles, orange are standard or static projectiles.
+You have, I just clicked away from the thing that I was reading.
+36:25
+You got your static projectiles.
+You have passive spells that just kind of sit on the wand.
+There are utility spells.
+You got projectile modifiers, you have materials, multicasts and then this whole like Greek alphabet of and like music notes and other like wacky things that you can come across throughout your, your travels and Noita land that if cleverly combined can create stuff of just absolute like wild nonsense of power.
+36:57
+And I have to say like it doesn't take a whole lot of spells to do so.
+It just takes putting them in the right order.
+And I think this is where like for me, like the, the interesting possibility of a, a space of it just kind of like goes crazy where the first few levels I think you're, you're not really super focused on like grinding enemies, I don't think.
+37:20
+Or at least like in my case, I, I was like, I don't really like care about getting gold so much 'cause later in the game you're finding so many.
+They're almost like loot pinatas of wands where they like they, they have so many slots with so many spells on me like God, I don't know what to do with this, but I'll keep it for safekeeping.
+37:40
+And you'll just be like dumpster diving through all these caves, finding junk and you'll eventually come to to the holy mountain shop where you can then be like, OK, now I am in a in a safe spot where I can kind of rejigger these around.
+Safe spot.
+Excuse me?
+Asterisk.
+It is.
+37:56
+It is the most dangerous spot if you actually spot.
+No, it is a spot with no enemies.
+Also summon 1 Yeah on accident.
+You are your own.
+You are your own worst enemy.
+We all know.
+This That's right, And that's why I famously exploded myself in an electric explosion.
+38:14
+I wonder what happens if you put bouncing stuff on saw blades you.
+Do not that is another one of the classic recipes for the wand that kills you instantly.
+Yeah.
+So going back real quick to these mods like this is stuff that should be like accessible in in the menu or the holy mountain used to have like a little doorway where it's like, Oh, you walk into the the training room, the Dojo where you cannot be hurt.
+38:44
+And you can test things out and have an opportunity to understand and, and and and figure out how to build a good wand.
+Because I still, I mean, if someone sat me down and said, all right, Hey, explain how like the twins spelled or like the split spell works, like I'm not totally sure I would know how to explain it.
+39:04
+Like I'm pretty sure it needs to go on the left.
+Pretty sure we're going left to right.
+And I'm pretty sure it'll it'll just cast the next, you know, the two and the third.
+But then like how that is different from like scatter spells, I'm not totally certain.
+Well or like are these you can figure it out on the non shuffle wand.
+39:22
+But then if if you put it in shuffle like how does?
+That Oh yeah.
+Like OK, how does it pick its next spell from the shuffle wand list?
+It's like I quite like 25 minutes just with with like 3 wands just switching spells back and forth trying to figure out like exactly what the sequence logic is before realizing that I could just go read the wiki and it would tell me and I wouldn't have to do the work anymore.
+39:49
+And that's which is.
+A shame.
+I want, I want it to be able to be figured out.
+I mean, granted, I think I had it figured out for the most part, but.
+Well, not me, not for this.
+FPS Meathead Yeah, it was still a lot of like cognitive overhead to figure out like how is this wand going to to work?
+40:08
+Or like if you're and that's it.
+If you're in the holy mountain and you can actually swap stuff around, it's fine.
+If you are in the field and you find a new wand and you don't really know what the spells do and you have to just kind of like look at the spell sequence and figure out how would this work?
+40:26
+I feel like there's an interesting discussion point here about like visual, not quite like programming, but like visual, like logic puzzles and like how they're constrained.
+Because I think like the constraint here is like, hey, like, I don't know how you would do this dynamically.
+40:45
+And like, the game is already like stretched to its limits already.
+But like, I don't know how you would do this in such a way that like, it wouldn't just be like complete visual overload, but like the game relies on the spells being in a, in a horizontal bar.
+And yeah, like if you have something that's like, OK, cast 3 spells and then like do like, then you put the three spells next to each other.
+41:07
+But like, you know, there's there's no good way to and I'm trying I'm reading off this Google doc that has like this pictorial representation.
+I'm trying to describe it because radio auditory medium, but like there's no good way to like.
+Oh, no, no, you got to keep going, Scott.
+41:23
+This is this is like your defense.
+OK, you're back.
+In you have got a row, you got a linked list of spells and each linked list has a pointer going to the other list and and.
+I'm trying to remember all of my stupid interview questions that that have been hoisted on me.
+And now you have to reverse the linked list.
+41:38
+Anyway, you you have like the power of these spells comes from like them being crucially non shuffle wands so that the programming logic matters.
+Shuffle wands we'll get to in a second.
+But I think they do have a use for them, although I think it's feels kind of antithetical to how the game is designed.
+41:58
+And like the sequence of these.
+Yeah, like you do like, OK, a wand non shuffle that will cast one spell and you start it by saying, oh, I won't actually want to cast 3 spell or like do it like a triple spell cast.
+And the first spell is like a thing with like a trigger on it.
+42:15
+The second spell is the thing with the trigger and the third spell is the thing with the trigger on it.
+And that first spell with the trigger does something that maybe it like it splits and it shoots two other spells.
+So now you're thinking like, well hang on a minute.
+It's basically just like turning like this row of spells into like a like a tree, like a sequenced tree and like this like grouping makes sense.
+42:39
+And I I think that like the the wand training thing that we were just describing that I just forgot the name of that despite putting spell.
+Lab.
+Despite putting hours into it, I'm like, what the hell is that thing going that I believe spell Lab does have a way for you to like visually understand like the like the wand programming logic.
+43:03
+And I never, I've never really kind of like cared to get that deep into I'm just more like, all right, I'm going to put like 3 spells on here and see what happens.
+All right now my shotgun has a fire effect.
+Great, let's go blast some dudes.
+Like that was kind of the extent of my like deep diving into like the wand programming.
+43:21
+But like you definitely need to know it if you're going to try to like fight all the way to the end to the boss.
+Actually I I'm saying that but it might not be totally necessary because you could just cast sea of lava every time and just grind that way so it better.
+43:37
+Just get 11 wand that just machine guns something.
+It's got one spell in it and it just cycles so fast that it doesn't matter.
+Got Yeah, that's the other.
+You got 6 spark bolts in there and you're just like ripping stuff.
+Yeah.
+43:53
+The other, the other side of this equation are the ones themselves where Andrew, you were kind of saying like you wanted more numbers, boy, you got some numbers on these things.
+You got like.
+It's true.
+Down to like the the point O1 of like spell recharge time, cast delay between spells, mana recharge rates, mana capacity, all these kinds of things that would just like drive will into a into a coma with optimization.
+44:22
+I think like this, this sort of stuff is interesting in terms of like, OK, yeah, you could just have like one or two spells.
+And if you put it on a on like a, a wand that has really good stats, bam, you're you're golden.
+And then this is where I think shuffle wands come into usefulness where yeah, it's it's shuffled.
+44:39
+It's functionally useless from a programming perspective.
+But if you just put like, you know, six or seven black hole spells on there in a row, you just smash that.
+Like it doesn't matter if it's shuffled, if it's all the same spell and then you're just like, all right, I'm off to the race.
+It's black holing everything.
+44:55
+Indeed, and, you know, eventually I got sort of a rudimentary understanding of, of, of wand building and everything, but I, I'm, I'm still very unsure on, on a lot of stuff.
+And it is kind of unfortunate that the game basically pretty close to like, you know, requires you to either install a mod or go to Reddit or what have you.
+45:18
+I was, I was fighting that for a while because I'm like, oh, it's, it's going to be, it's going to, it's going to be a really great gaming experience to like experiment and, and have that triumph of figuring things out.
+And unfortunately, I did not make it very far.
+And my most successful run barely depended on my one building skills.
+45:35
+Like I, I got a couple of, I got a couple of ones that were good and I at least understood them enough that it's like I could make a decision like I'm going to take this one, not this one.
+It's sort of Cedra.
+Here's how I'm going to here's going to be my attack order and thank goodness for my, my, my, my 18 charges of giant fire bolt, which is described as the most powerful version of fire bolt.
+46:01
+And it was wanted to cast 10 of them at a time.
+It was sick.
+So I'd like pull that out, open up the fight with that and then switch over to like the like the fungus spore explosion wand that I had, which had infinite charges and I'd taken the perk which allowed stuff to kind of home a little bit.
+46:20
+And it was it was a very fun and beautiful thing.
+Once you get cooking in this game, once you get, once you get going, this game is a very good time.
+Yeah, I think my.
+Favorite wands were all the ones that were just the, So even with the ability to create you know, a wand with like 6 giga nukes or white holes or whatever.
+46:38
+My favorite ones were always still the ones that just had a lot of one really simple spell or just spells that had similar trajectories and stuff like that.
+You can just run through like it's an AK47 and just mow everything down.
+The simple ones.
+I like those ones the best.
+Indeed, to quote will, there's all these different things you can do with magic.
+46:58
+You can you can freeze enemies, you can you can make them your friend.
+Why would I want to do any of that?
+I want them dead.
+I believe to quote Will, I want them dead.
+And that is very true in this game.
+And I mean, look, I I will admit like, hey, it's cool that the game has like depth in the spell system that like you can like combine these different effects in different cool, interesting ways.
+47:20
+But a lot of the time it's just like, get all this, like these crappy, you know, this, this go, you go the shop and it's bunch of crappy spells like I just want the I just want the ones that will get them dead.
+And I think maybe a, a really good way to build this like experiment by doing instead of like reading a bunch of texts is the daily practice run mode.
+47:40
+So what we've been describing thus far is like, you know, you boot up the game and there's just like the start a new, a new game, the standard Noida experience.
+You can also do a daily run, which is like the same seed for everyone playing the game that resets midnight GMT time.
+47:58
+But you also have a daily practice run, which I I think like crucially for games like this that have a ton to experiment with, like, and the expectation is, yeah, you're going to die fast and you're going to die a lot.
+Restarting back to the start kind of feels like, I don't know, I'm like, do I really want to go through like the same starting level again?
+48:19
+I think the daily practice run mode here works really well and I wish other rogue games of this sort had it where it will put you in a randomized spot with random items, usually in kind of like a safe ish place And it's it's the same seed.
+48:36
+So you if you died, you can start it again like from the same spot.
+And it gives you like that kind of practice to build up like OK, all right, now I know what's kind of coming at me.
+I can kind of prep ahead of time and see like what can I experiment with this, this time to get a little bit further.
+And the one that I was doing, I think for for people listening 10 years from now, the I think believe it was the March 10th, 2025 daily practice run, which also you can set your game or your computer clock to whatever date and you can play the run from that date.
+49:10
+Well, I'm pretty sure.
+Is it just like a?
+Is it so?
+It's not like being published from the Internet.
+It's like a a seed, like the time is the seed or something.
+I believe it's it's a seeded off of the date from your your computer clock.
+Yeah, always.
+Good.
+So you could also, what I'm hearing is you could also set your clock forward in time, get really, really good at the daily challenge and then impress your friends.
+49:36
+Whoa, whoa, whoa.
+And if I was smarter, I would have done that instead of like putting all of my daily reports in of like, Yep, died to another low level spider in in the fungal caverns again.
+But the the practice run, the one that I had going really well again, like to Tyler's point, like didn't I wasn't engaging like with the spell crafting mechanic really at all.
+49:56
+Like I had picked up this perk that was like when you levitate, you shoot sparks.
+And then I picked up another perk that was like, like all your projectiles home in on enemies.
+And I had the pert, the glass cannon perk that was five times more damage, but your health is capped at 50.
+50:11
+So I was just like standing next to a wall and like levitating.
+And then the little sparks would fly through the wall and kill enemies on the other side of the wall.
+And just like all these explosions happening like this is great.
+And then I threw all of my chainsaw spells into a shuffle wand and was like, 'cause you're doing 5X damage, you just like drill baby drill all the way through the level.
+50:31
+And the jungle took like a whopping 7 seconds for me to just like plow through.
+And there's, there's like stuff in in the level that is is warranting exploration.
+But my challenge goal was, OK, how far could I get?
+So crucially, I had I had challenged the other podcast Co hosts to see if they could make it as far as the 4th Biome 4th with an asterisk the the Hesi base.
+51:00
+Tyler, how far have you gotten thus far in your in your travels through Noida land?
+Before I just started cheating with the wand hacking, I made it to the EC base OK.
+Yeah.
+Yeah, I I couldn't get past that though.
+Otherwise we wouldn't have let him on the podcast.
+51:16
+Listeners, don't worry.
+And what was what was sort of your experience in in like getting that far?
+I felt like when I got that far, I mostly kind of scrubbed my way through.
+Like I just kind of stumbled into the most optimal path of the Holy Mountain.
+51:32
+And it's like, Oh well, should I, should I continue to the next floor?
+Should I grind here for a little while, maybe find a better wand or something?
+And some circumstance always forced me to move forward, like, you know, being chased by a swarm of enemies or being on fire.
+And you got to hop into the health pool once you get into the into the water pool once you get into Holy Mountain.
+51:52
+Done that more than a few times, but yeah.
+Like water I know of is the pool.
+I made, yeah, I made it to he see base.
+I don't feel like I earned it, but I also don't feel like I earned a lot of deaths either.
+So, you know, it's kind of a crapshoot.
+Yeah, balances out.
+Now my my challenge to the to the Co host of like getting getting down like a few levels going straight down.
+52:14
+Did anyone try going left or right at the start?
+Or I guess by right meaning trying to get up over that mountain?
+Wait, you mean the like the the?
+Very, very start.
+Very start.
+Yeah, I went.
+Through the pool and I found the secret tablet at the end and died trying to swim back out.
+52:30
+Does that count?
+Ripped that.
+That was to the left, right?
+Yeah, yeah, yeah, yeah.
+Secret.
+Now I I had a bit like, like teed up to to kick this off.
+I'm like, God, what the hell is Colin talking about?
+So that your your quote normal run in Noita starts you at the surface, this nice idyllic little little park area and you walk in to the mines or you start with the mines.
+52:58
+I think like this, this game also has a really great like like kind of engagement with the physics system of like, Hey, here's this little thing here that you can kick and this minecart will go sailing down this mine shaft and maybe 50% of the time land on an enemy and you're like, got it, Noida, that's what I'm here for.
+53:19
+You'll enter.
+So you'll go from the surface, which has some other stuff to explore.
+Let's say you'll go down into the mines and there's, there's like some, some branching paths off to either side.
+You can go to the left to the collapsed mines, which is a little bit higher risk, high reward of, of loot there.
+53:39
+Or you can go to the right where there's this big honkin lava pit.
+And if you are, you know, if you are blessed enough to have a, a potion flask filled with blood or water or something that can solidify the, the top of that lava pit.
+53:56
+And you can, you can jet pack across to the other side.
+There's a little rope bridge that will take you to a little mystical shrine with an orb that will give you some extra health.
+The am Am I the only one that's?
+You will immediately be killed by the monster though if you hang around.
+54:16
+Yeah, I think, I think I know what you're talking about.
+I there was a bridge.
+There was a bridge in my.
+I saw it and yeah, I was attacked by a monster and killed by.
+It I got crossed, I got the orb of storm and then died.
+Yeah, and only because you had you had hinted at this, I don't think I would have found it otherwise.
+54:36
+I remember in the early access days, like the the big lava lake was there and there was like there was like it felt like, Oh, there's clearly something on the other side of there.
+The rope bridge wasn't there at the time.
+So it was another kind of like there's this big honkin chasm there with the underneath the rope bridge that the the bot again, early access, the boss wasn't there.
+54:55
+So the first time I encountered the boss, I'm like, holy shit, but like actual jump scare.
+But this big giant chasm is almost kind of like level skip where like, oh, it's like, oh man, I don't want to go through the through the mines and the coal pits or the snow or the again.
+55:11
+I just want to get all the way down to the snowy depths.
+You just trundle across that that lava lake, eat yourself down the hole and BAM, you're at the bottom of the snowy depths already.
+You'll miss a lot.
+But depending if you're trying to do a passive, a speed run, who knows how and OK, so that that'll get you down to the snowy depths.
+55:32
+Between each one of these layers is a holy a holy mountain, which is your quote safe zone where you're you're not 100% safe but it's where your shop you can get more spells and wands and such.
+After you get your health refreshed, of course, and your spells refreshed.
+55:48
+And your water.
+So the mines, you know, you got some branches, they're culpits.
+You have the the crucial branch of the fungal caverns which allow you to, like all good games, go on a mushroom based acid trip by just eating columns of giant pink weird fungus and transmuting one of the types of of materials of the game into one other random 1.
+56:18
+So in theory in theory you could phase shift all the rock in the game to gold or lava depending on a roll the dice.
+Hell yeah, the meaningful randomization I crave if you transmit everything.
+56:34
+To gold, did you then mine all the gold?
+Yeah, you can get up.
+To this is pretty wild nonsense.
+I don't know how common it is for for that to happen, but typically the you get out of the culpits to the left fungal caverns that will have like some pretty decent wands as well.
+56:50
+And I think that's a bigger draw of like, oh, like there's some really good wands in there.
+There's obviously like a lot of very dangerous enemies.
+So it kind of depends on like am I feeling like I'm on a, on a good roll with this kind of deal?
+Lots of good, meaningful decisions to be made.
+57:06
+What a shame Will is has a has a phobia, a side scroller phobia, and he's unfortunately not here.
+After after the cold pits, you'll go to the snowy depths where I think now now the game starts in a.
+Way where boy?
+57:22
+The, the difficulty just kind of like the, I feel like the difficulty for each one of these levels is exponentially more difficult than the last one.
+And you, you start to feel it at the snowy depths.
+That's when the curve starts going up and you're like, Oh my God.
+Like there's these jet pack wearing aliens with guns that up until this point you're just like, like, I was not expecting this at all.
+57:44
+Traveling in packs, hunting you down throughout the level.
+Snipers, did you know that they can?
+Follow you back up into the Holy Mountain.
+Oh hell yeah.
+If you if you say wait, no, I'll just go back to the safety of that safe room.
+They will follow you and they will kill you.
+58:00
+Yeah, yeah.
+And as you leave the safe room, the the IT begins to collapse and that's like a grim portent of of what is to come.
+Yeah, as soon as starting with the snowy depths, the game.
+This is what, number six on my list of items I do Noita like about this game?
+58:18
+Where it just.
+The game just drops you as soon as you enter a new Biome.
+It just drops you into a fucking shitstorm.
+It's just like there is there is everything is trying to kill you.
+There's explosions going off after when you kill enemies, most of the time they're on fire or they're in a puddle of acid, like Xenomorph style.
+58:36
+And like, you just have to get into this like rigorous this, this very strict rhythm of like shooting things, focusing fire, making sure you're, you're very diligent about finishing what you start.
+You can't, you can't run away because you're going to run into another pack of enemies.
+58:52
+And then as soon as you kill something, you have to douse it in water and pick up the gold that it's dropping because the gold will disappear.
+And like, I mean, this rhythm is it's very punishing, but it is pretty rewarding.
+I mean, I got to admit, you know, it can be pretty fun.
+You know the snowy depths you got?
+You got packs of orcs, mercenaries, Martians.
+59:12
+What the Hell's going on with the enemies in this game?
+Yeah, I, I, I took.
+The he see to be kind of like the the protectors of the like you have dug too deep.
+And I, I got the sense that, like from the game's quote storytelling that the mines like the I mean the first level, like you, you go down to the mines and like in theory, whoever was mining were killed by like these glowing red eyed monsters lurking in the in the dark or by like these.
+59:44
+Well, I guess there there are miners who kind of look like they're zombified or possessed, like, you know, hucking TNT bundles at you and shooting their shotguns and everything.
+And I guess it's kind of unclear to me if those are he see themselves or if they are just like miners that have.
+1:00:04
+Been unlucky in their success for hunting for gold only to get fireballed from a a flaming mage at the bottom of the level.
+But anyway, you come to the snowy depths, there are jetpack wearing aliens ready to to bomb and there's there's like tanks with laser sights.
+1:00:23
+Like it is quite a jump up in difficulty, but I think the game is is trying to give you a little bit of stuff to go on because like scattered throughout the snowy depths are like big, big like locks, Gosh, I don't know, like capsules embedded in the snow that if you have something that can dig through it, if you got some acid, you got a good digging wand.
+1:00:47
+There's some good loot in there.
+Sometimes guarded by jetpack wearing aliens with guns.
+But yeah, I think I have found many a wand there.
+I'm like, oh, this, this could be quite useful.
+1:01:03
+If nothing else, just having like a bazillion spells on it that I can then reformulate into something.
+Yeah, that's something that's very useful, something fairly unique about this game is that sometimes you will find loot in the form of a wand and well, maybe, you know, it's not great now, but you can like the Grinch, you can take that back to your, you know, layer and repair it and work on it and like add different spells.
+1:01:24
+Like, yeah, maybe the stats of the wand are are really good, but you know, maybe, you know, the spells are lackluster.
+So there there's something nice about that.
+It's like you can find, it's not, it's not like a, you know, binary thing.
+This is good loot or this is bad loot.
+It's like, oh this could be useful to me.
+Tyler, I'm curious to get your take on the music.
+1:01:41
+Throughout these levels, I thought the music was really good actually, especially when like I don't, I don't know if they're mini bosses or something, but they would always play this special kind of frantic zany music whenever a like a mini boss would show up.
+And you know, I, I would enjoy the music while I could before, before I was mercilessly shredded.
+1:02:02
+But yeah, I, I enjoy the music a lot.
+It kind of reminded me of some of the music from like Terraria or maybe I'm just mixing up aesthetics, but I kind of had like a re logic vibe to it.
+Yeah, I I enjoyed it overall.
+Yeah, there's a a a quite a good two-part documentary on the making of the music for this game.
+1:02:24
+I don't know where the third part is.
+It's definitely not on the the from Grotto YouTube page, even though they say that there's like, you know, the making of one out of three, but it's this it's this funk fusion, like psychedelic funk fusion finish band that is just like I think they just did all improv over the course of like a few weekends for the the soundtrack to this, which has.
+1:02:47
+This very like folk metal without the metal sort of sound.
+This European folk music, very cool drums and and and this sort of mystical sound to it lots of.
+Twangs and twang.
+Got to have got to have some twang and a good rogue like.
+1:03:06
+So are you saying Scott, that the music, since it was improv is was just as random as the rogue likes We procedurally?
+Generated Finnish folk music, yes, I am saying that.
+And I think like as you, as you progress through these levels, like the music does become it, it does like change shape into a more kind of like mechanical, like industrial sort of form to it.
+1:03:33
+Because as you go down past the underground jungle, which is just a a vine nightmare of acid and and cannibalistic flowers, you get to the vault and that's where like, oh, like my wand that could dig through the jungle in seven seconds doesn't work on the all like the steel beam, the can't melt steel beams meme.
+1:03:56
+Of the vault.
+It this is where I feel like that creation myth thing from the beginning is starting to come into play.
+Like, oh, it's getting more technological, more like, oh, this is like the Vadnais of, of the, the deep underground parts of the world instead of like your, your standard trolls and demons.
+1:04:13
+It's like the menace of technology kind of thing.
+And you go from the vault with with like more technological horrors down to the temple of the art.
+And I lasted maybe a solid 15 seconds there before I was killed by my in a typical mode of fashion.
+1:04:30
+By my own curiosity, what happens if I drill into this giant purple crystal kaboom?
+Well then that solves what that is.
+It's it's worse than that, Scott.
+Like the kaboom, it then sends out like jets these these like streaking lines of energy that then also explodes.
+1:04:47
+Like you have to shoot it from afar and then get even further away.
+Like it's, it's pretty gnarly.
+But now after wool from the crystals if you do that.
+I don't think there is anything to be gotten as far as I know, but at that point, like every enemy is dropping like a big fistful of Nuggets and it's it's a good time so.
+1:05:09
+For how for how difficult the game is getting at these stages, like your loot rewards are also getting exponentially crazier and like the gold drops are also matching the difficulty I think.
+But after this final level, the temple of the art you you are at final boss time.
+1:05:25
+Andrew, was this the the experience that you were describing with the lava?
+Yeah, I don't want to get into the details, but the bottom line is your boy got to the final boss.
+That's that's pretty cool.
+It Yeah.
+And it's it's quite the dramatic ending.
+1:05:41
+Alas, I died instantly.
+But yeah, it's the laboratory.
+Is that what it's called?
+I think so.
+I think, yeah, I think it's, I think it's the laboratory.
+Good stuff, good stuff.
+And there's some kind of item waiting for you.
+1:05:56
+Like, it'd be really cool if I knew what that item was.
+And it'd be really cool if like, there was some storyline that I could be like, oh, at last the magical sphere or whatever.
+But it'd be really cool if I didn't, if I didn't have to clear space in my inventory.
+And I, I, I absent mindedly threw a teleportation potion over my shoulder, and then once the boss activated, I ran into it and got teleported into lava.
+1:06:20
+That would have been really cool if that hadn't and but at last, you know, we make mistakes.
+And after a 90 minute run where I was just creeping along, being so careful and and feeling so good about myself and my skill to get got unfortunate.
+1:06:36
+Yeah, but but my understanding is that, oh, there's a bunch of, there's a bunch of end game, There's a bunch of alternates modes and runs and stuff like any good rogue like, you know, you beat the final boss, but they're not the actual final boss.
+Yeah, how, how much do we want to be spoiled on the on the scope here?
+1:06:52
+Because so far, like I've I've I've, I've deliberately constrained our scope for the purposes of a two week book club evaluation here.
+Well, I mean I.
+Have been looking at the the like 60,000 feet map view.
+1:07:08
+Yeah, so I guess like.
+All the different level pockets that you can dig to.
+I'm gonna.
+Finish game.
+We need to respect their measurement system.
+So I just posted in in the chat here link.
+You click that link and it's gonna open up like, oh, this looks like a familiar sight.
+This is the the holy mountain with a little bit of the snowy depths here.
+1:07:26
+And if you scroll out all the way out, there is there's quite a bit more involved than just the snowy depths.
+Oh.
+Wow, maybe about three times as much more than you originally.
+Mama.
+Maybe 30 times as much so the.
+1:07:46
+Well, I mean, this is a game where like, you know, one of the the pillars of it is, is exploration.
+That's that's in that achievement of discovering a new Biome.
+I don't know how much we want to talk about it.
+How far can you fall before it starts hurting you?
+Is there unlimited fall before damage?
+1:08:02
+I think there's unlimited fall damage or yeah, I think you are.
+You are free from falling before dying.
+There's some pretty long falls in this math thing.
+So, yeah, I think crucially, what we've described so far as a zero orb run of, of, you know, you collect one of these orbs of true knowledge and they're scattered throughout the world where I, I kind of hinted that like, hey, did anyone go over the mountain at the start?
+1:08:30
+You go over the mountain far to the I, I guess I'm just going to call it E across the desert.
+There's a big, a big pyramid that has an orb on top of it.
+There's there's orbs like all basically in every Biome.
+I guess it's the shorthand to it.
+1:08:48
+And your your goal to get a different ending here is to go and collect said orbs and then go and trigger the final boss fight.
+So if you if you get any number or if you get 00 to gosh, what is it?
+No, Yeah, I guess there's there's kind of 22 flavors of this.
+1:09:08
+Ending 1 is like, OK, you pick up the mysterious Mac Guffin at the end, you kill the boss and you're like, all right, that's great.
+Actually, you know what, I'm going to have to step away.
+I think I'll be playing more of this game and I don't know if I necessarily want to be spoiled.
+So I'm going to, I'm going to pop my headphones off here and I'll, I'll wait for the all clear signal of, I don't know, two hands.
+1:09:28
+Yeah, I'll give 2 thumbs.
+Up.
+Thank you.
+Tyler, are you are you interested in hearing the the spoiler here?
+Yes, I am.
+OK, collecting, collecting the end game Mac Guffin after beating the final boss, you'll pick up or you'll be tell her to the final level where you are dropped into a pit of gold and you suffocate on your own gold to death.
+1:09:53
+Now if you pick up some orbs and you head back up to the top and you go above where the the starting mountain area is, there's an altar.
+And if you have less than 4 orbs, the world will turn into toxic gold 5 to 10.
+1:10:08
+The that'll trigger a new game plus 11 orbs gives you the pure ending where the whole world turns to gold.
+And then yeah, good gold because you're not you're not suffocated by it.
+And then your little gold counter goes to an Infinity symbol, which is nice.
+1:10:25
+And then if if you are skilled enough to go to these two other parallel universes in your world, collect all of the 11 orbs from there, go back and you get the 33 orb ending.
+It will say the world has been restored and everyone is much happier and enemies will no longer attack you.
+1:10:47
+And yeah, it's just, it's just a good time all around.
+So I think and then there's there's some extra stuff that you can get in off of that, but that's kind of the gist of it.
+All right, I'm going to give Andrew the two thumbs signal here back up that it is free and clear.
+You are you are free and clear to re engage.
+1:11:04
+Now.
+That the deep spoilers have have been.
+And that's how you beat the ultimate Mega boss.
+All right.
+And yeah, people are going to think, wow, I'm just giving it a really good score, but not so much.
+Yes, but I'm I'm back.
+1:11:21
+Apparently I'm I'm invested enough.
+It's a real fool, real, real love, hate relationship with this game.
+Yeah.
+Well, anyway, but yeah, it's great to hear.
+Oh, yeah.
+Well, when?
+When?
+You get to the 300 foot tall Mecca Noida that you have to fight at the end, then then he'll be like, oh, oh great.
+1:11:38
+Got the Mecca Noida.
+The secret of Noida is revealed at the end of the game.
+It turns out Noida was a sled and.
+But basically, basically pretty much Jelly in.
+Well done, Well played.
+1:11:54
+Well played.
+Yeah.
+So it's good to hear that, you know, hey, there's more.
+There's more to be done.
+Which, hey, love that love.
+Love to love to see it.
+Mark of a good rogue like is that there is stuff to keep you coming back.
+1:12:10
+Yeah, just kind of scrolling through my notes here.
+I don't know if there's any other things that we haven't quite talked about.
+We've talked about some of the enemies, some of the biomes, the.
+Favorite perk mine was the spider man.
+1:12:26
+You got their crazy spider legs.
+My God, yes.
+Yeah, favorite perks?
+Good question.
+I got to think.
+I like, I definitely did like the one, the one where like you, you leave sparks and I think that like there's some of them that seem kind of like useless or stupid at first where you're just like this one called never skip leg day, which just makes your kicks super strong.
+1:12:51
+But you can, you can kick some pretty beefy stuff.
+And when those things go sailing like enemies that you thought were like impossible, they'll just like be immediately blown up.
+I like the one that says personal laser beam and it's just like kind of the picture of the the the Noita mage with like a green laser shooting out of its face.
+1:13:12
+Some of them are really good like projectile eater, which will which will sometimes delete enemy projectiles that are hitting you from the rear.
+There's one that's just homunculus where a friendly homunculus will be spawned at every holy mountain.
+1:13:29
+Invisibility, like you'll just be invisible and like permanent invisibility.
+That helped me out in a couple Solid Snake moments.
+But yeah, I think there is unlimited spells is a good one.
+Worm, a tractor.
+I'm not quite sure how good that is.
+But like there was one of them where you killed an enemy and then like a rat or two would spawn out of the corpse.
+1:13:51
+And that that felt very useful for some of these later levels where there's just like tons of enemies and like, OK, I just got to kill one to like redirect their, their focus and then like I can kind of escape from the situation.
+Mournful spirit is a funny one where kind of the same idea.
+1:14:08
+Someone will die and then they'll just kind of like leave a little floating ghost that will do chip damage.
+But there are some that are like straight up good like fire immunity, explosion immunity.
+All great, All great.
+Yeah, the perk, the perks in this game are really good and should be.
+1:14:24
+The dev should be commended for the amount of them, the variety of them and, and like how they are tangible and interesting and, and like the leg one or the the crazy spider legs.
+It's like it gives you something like unique.
+It's not just a boost to stats.
+1:14:40
+It's not just a number change, not something boring.
+We talk about this a lot.
+It's like, you know, perks that make a bespoke interesting difference are are very cool.
+So there's a lot of good ones.
+Changed your play style.
+I'll tell you my least favorite 1 is when you get hit, you get teleported is not great.
+1:15:01
+And maybe that can be stacked with like some other effects that like make it better.
+But let's like you can't ever finish a fight like practically and you will sometimes be electrified and and then teleported into a body of water and tie.
+And it's it's it's not good.
+1:15:17
+It was almost as bad as that one curse from Monolith.
+That's not what it's called.
+Star Providence, where it's like you take damage from like hitting walls.
+Tyler, did you have a favorite perk?
+Well, I think my sense of perks is so skewed because like I I got the unlimited spells one on my first run and I'm like oh man, the game this the perks in this game are awesome Second run, you know, not not like not damaged by poison.
+1:15:47
+I'm like, oh man, these perks are so great and then and then they get more and more like, Oh yeah, the don't skip leg Day 1 was great.
+But yeah, I mean it.
+I like unlimited spells because it's pure axe.
+Pure axe and magic, Yeah, the there's a ton of perks.
+1:16:06
+Sometimes it is.
+It is pretty disappointing and it happens I feel like fairly regularly where you get to the holy mountain and like the perk selection is crap.
+You can reroll the perks, but in early early in the run it's pretty cost prohibitive.
+Yeah, like it's 200 gold where, you know, if you're done with the first level, you have like 305 hundred gold, so.
+1:16:27
+Yeah, and I think that there's like there's some like high level metagame Y stuff about perks and things that like if you are able to like if you want how much depending on how much you want to anger the gods, if you are like drilling your way out of holy mountains to go back to previous levels.
+1:16:48
+And if you have like a perk that's like, oh, like I I can like pick up more perks from before.
+I think like you can go back to previous levels and like collect more perks that way.
+So there's there's all sorts of wild nonsense you can get into this game once like, I feel like the the crucial aspects are you need something to do like high DPS or like clear out something to like clear out enemies and like digging.
+1:17:12
+Like digging is is like an unstated like crucial part of this game where like it, it just offers you such like good movement through sticky situations that if you don't have something to dig or like teleport or like otherwise move yourself to another area, then you kind of feel boxing.
+1:17:33
+And then on top of that, like, you know, being able to go back to previous sections, which I think this is, this is kind of hinted at from the, the snowy depths with the big, the big chasm, kind of giving you a, a gameplay hint of like, hey, like you should maybe go back and explore stuff if you can wink, wink.
+1:17:53
+So I think that there's like, there's ways to to kind of like bank off of off of those previous perks and go and explore other areas as well, which I think is is encouraged.
+I just wish those other areas are maybe a little easier to get at as opposed to getting some crazy overpowered digging one having to like traverse half of the map to get to the pyramid or the things under the pyramid or stuff that's like 2 kilometers up in the sky.
+1:18:28
+Yeah, yeah, there's some, there's some weird stuff on this map that you posted, Scott.
+Yeah, some curious business happening in this game.
+Indeed, indeed.
+Well, plenty, plenty to explore before very likely revisiting it at the end of the year for the Omega Bowl, but we'll have to see if any other indie, tough as nails, pixelated platformers come up to kind of steal Noida's Noida's spot.
+1:18:56
+I I have one in the hopper that will be it'll be curious to see if it's if it's tougher or more straightforward than Noida, But we'll we'll have to see when we cross that Rubicon that that flaming the the lava lake of that game once we get to it.
+1:19:14
+But do we have any other, any other things we want to talk about Noida before we get to the rankings zone, the rankings Biome?
+I had a question.
+So at the beginning of the game, at the end of the beginning of every run, there is a like a minecart and then a hill.
+And you can like kick the minecart down the hill and ride it down if you're, if you're successful.
+1:19:34
+Like I, I spent so much time in the mines that I started to get superstitious like thinking, oh, if I ride the mine, ride the cart down the hill, does this change my run somehow?
+Like am I like, is it harder?
+Did anybody find any special bonuses for that?
+1:19:52
+Or is that just purely like aesthetic?
+I think it's got to be aesthetic.
+There are some kinds of like bio modifiers that will pop up I don't think.
+It's humid here, it's dark here.
+Or.
+Something I don't think those are depending on how cool you can surf the minecart though.
+1:20:12
+Well, hey, guess what Tyler?
+I didn't find anything with the minecart.
+I think it's mostly there just to kind of teach you how to use Kik and whatnot.
+However, great minds think alike.
+A lot of a lot of other people have thought the same thing.
+And there is a mod to turn that cart into a skateboard that's pretty cool.
+1:20:32
+So that's quite the mod.
+Run modifier and you skated.
+Around in the mines.
+I I just heard this from a friend.
+I didn't I didn't go and install it.
+I did install the Warhammer like Space marine mod which makes the game way too easy but it's a lot of fun.
+1:20:50
+The the the Noida 40K mod I just have a bullet point underneath that saying lol.
+Just from you have been conquered in the name of the Emperor.
+Yeah, yeah, the mod scene for this game is pretty, pretty insane.
+There's like 1500 of them on the Steam workshop.
+1:21:07
+They will disable your achievements, but I, I don't know how much people really care about that, but some that are like kind of kind of great are the edit wand always mod of just being able to like edit, edit your wand whenever, wherever.
+There's some popular ones like health containers, like enemies have a chance to drop health.
+1:21:26
+Containers.
+There is one that will spawn a a rare chunk.
+So like all the procedurally generated biomes are kind of like stapled together chunks?
+Prefab chunks.
+One of the chunks to be an anvil of Destiny is the mod that allows you to like combine wands and like almost kind of like a wand breeding system in a way.
+1:21:51
+You combine like wands with potions and things.
+One that I think is a good accessibility one if you're like just starting out and you're like, oh man, I don't want to get good at like laser sighting these dudes is the starting homing wand.
+That just makes your starting wand have the always cast homing spell on it, which is like it feels like a good stopgap for like making the early game a little easier.
+1:22:14
+So that way you can just kind of like breeze through then like not get bludgeoned by these like creepies and getting shotgun to death.
+But like eventually you'll be replacing that one with something anyway.
+So you'll be like, all right, I don't really need this, but it does help kind of like smooth over that that early game curve some.
+1:22:31
+I found that one to be quite, quite useful.
+There's a mini map mod.
+There's one that has more shop options, a dead isn't dead mod where you checkpoint at the holy mountains so when you die you just go back to the reroll zone.
+An auto gold collector I think would be quite nice.
+1:22:46
+No gold despawns.
+There's one that just adds all the items from the Risk of Rain games as an item collection.
+Excellent.
+There's one that allows you to like pick a perk at the start of the game, which I think is an interesting one.
+Most of these are just like make the game a little easier.
+1:23:05
+Yeah, I think there's a lot of accessibility ones.
+There's one The Entangled World's Co-op mod, if you give that one a Google, that is just a straight up multiplayer mod.
+There's like a straight up multiplayer for this game.
+I don't know how on earth they got it to work, but you know, I and I don't know.
+1:23:22
+Like a multiplayer type of game?
+Like it's bad enough having to dodge my own giga disc projectiles flying back at me.
+Play Sawblade Catch.
+You you just but there is a PvP mod as well with and I and I I don't know how like how quote ironic it is of a scene, but like a growing question mark scene of Noida PvP multiplayer Noida E sports.
+1:23:53
+Not something I thought I would ever have to say, but yeah, the mod scene is pretty wild.
+There's one that adds like 300 new enemies and bosses if you really wanted more bosses to get picked apart by yeah, there is basically this is one of those games are like anything that you can think of.
+1:24:12
+There's a mod for it and probably worth checking out or.
+Should we get into rankings?
+Is that?
+Is it that time finally that time for rankings?
+Yeah, I guess with the when, whenever we have special guests on the show, I would I'd like to let them have the last word.
+But maybe before we do that, we'll go in ending on a high note mode.
+1:24:32
+Andrew, while we have you kick us off.
+Kick, kick, kick that minecart of ratings down.
+The hole I've been adjusting things on the fly, which is something Noida does not let you do unless you get the perk to modify ones in the field.
+All right, so basically I, I'm very darned about this game.
+1:24:54
+I think it really shoots itself in the foot by not offering a little more in the way of descriptions, a little more in the way of a practice room, a built in spell lab type thing.
+There's also a lot, a lot of I found on the Internet on Reddit and whatnot, a lot of like, I, I guess they're fun, like secret uses of spells, but sometimes some of those are frustrating.
+1:25:22
+It's like, well, how would anybody guess that?
+How would anybody figure that?
+But anyway, I digress.
+Initially I gave it a higher ranking, but then I noticed on my list that I had the entire time I was playing this game, of course, was comparing it in my brain space to rift Wizard and I'm like rift wizard now that was a fun time, a fun, fun the entire time and not like this horrible bell curve of doom.
+1:25:46
+But then I noticed, Oh, wait, I have ranked Noida way above Rift Wizard.
+Like that cannot stand.
+So then I put it below Rift Wizard.
+Well, that doesn't really feel great.
+And so I was kind of, I don't know, trying to balance it between like, you know, my personal opinion versus like what I think is, is like some like objectively a better game.
+1:26:07
+Bottom line is I split the difference and Noida scores 7.08 points on my scale on my on my rate ranking system, my rating system.
+I think.
+I think it might be worth the frustration to try to learn this game and play it.
+1:26:26
+I think it's rewarding enough.
+I'm pretty sure I mentioned previously that hey, you know Finland highs per capita, number of metal bands in the country.
+And I was told by the great front man Yoan, front man of of Corpiclani folk metal legends, I asked him, why do you think that is?
+1:26:45
+Why do you think is the most metal bands per capita?
+And he said, well, you know, in Finland, it is it is dark for a great period of the year.
+And there's, you know, not not a lot to do during that time.
+And you need to make the both the make the best of it.
+You know, while it's while you're in living under that shadow and making music is a great way to do it.
+1:27:02
+You may as well make some oh heavy, some some some metal music, something intense.
+And Noida definitely is intense in some ways that are really appealing in some ways that are not.
+And it's not for everybody.
+1:27:18
+Not unlike the metal music genre, which actually no metal is for everybody.
+You just got to get good.
+So yeah, 7.08 points for me.
+Colin.
+I'm going to roll in with an 8.0.
+I didn't get to play this game quite as much as I wanted to.
+1:27:37
+I was out skiing pretty much all of last week so and I and unlike Scott, I do not have a Steam Deck so I was not able to play it on the plane.
+But from the amount I've played, I I really like the physics simulator as game.
+1:27:56
+I think they do a really good job of integrating it in to like having it be a very dynamic system when you're running around and things are exploding.
+I, I love when you run around and you can just hear things exploding off in the distance.
+You're like, I haven't even interacted with this part.
+1:28:11
+And since they're already killing each other down there, throwing bombs at, at, you know, like the, the little monster, sometimes they fight each other and just like, oh, they set part of the mine on fire.
+So it feels kind of like a, like it's a little bit of a living world and it feels like everything is truly interacting.
+1:28:29
+Like it's not a static map.
+And I, that appeals to me a lot just aesthetically.
+I really like the pixel art, the way that it, it looks, even if it didn't have all the dynamic stuff that uses pixels as the actual building blocks of the world.
+1:28:48
+I like the way that it, it represents everything.
+I think the biggest drawback is for me was just, it was hard to learn how to do everything.
+And so like if you pick up a, if you pick up a wand, you don't really know what it does and you pause to look at it, you're not actually paused.
+1:29:09
+So you can die in that menu.
+I feel like that's an easy, an easy loss from them.
+And yeah, so some of that, some of confusion, but overall, I, I, I like it a lot.
+I plan on playing more of it so I can get the full the full Noida experience.
+1:29:26
+Full metal Noida.
+I guess I'll, I'll go next and we'll have Tyler bring us home here.
+Noida is going to rank pretty high for me.
+A 9.4 ties it with dead cells and risk of rain 2 just ahead of risk of rain 1 and slay the Spire.
+1:29:43
+I think like this game just has like Scott game written all over it.
+And I think that like the biggest criticism I have for it is the the learning curve feels like it doesn't need to be as as difficult as it is.
+I think like the difficulty of the game is fine, but like teaching like the crucial spell, like editing mechanic is not very well done.
+1:30:07
+And I feel like there's a missed opportunity at the beginning to have that kind of like teaching moment of of like here's how the how this really complicated system works.
+I'd like that it is super complicated.
+I just wish there was a little bit better of an Omramp.
+I think Noida has a really amazing aesthetic and like the sense of wonder about it.
+1:30:26
+It feels very magical, like magic with AK that like it feels otherworldly.
+It feels very unique and alien and I just want to explore every little corner of it and experiment with every little thing in it.
+1:30:42
+And it a lot of these games, you know, you, you go on like a 3045 minute run, you die and you're like, well, that's a bummer.
+I didn't really anticipate that.
+Well, I'll pick this up tomorrow and see what nonsense I can get up to with this.
+With Noida, I'm very much in that one more turn loop of I'm dead.
+1:31:00
+I immediately have to start a new game and see what wild nonsense I can get up to.
+I it has that that extreme draw of I need to stay up past my bedtime to play this game because I have to see what other crazy thing is around this other corner that I haven't explored yet.
+1:31:17
+I love the mod scene.
+The community for this game is super, super active and and interesting to to spy on and see all of these these Wanda arsenals that the Noida discord is putting together.
+I'm just like, wow, this this game has has quite a lot going for it, So pretty high for me.
+1:31:35
+I was very glad that there's a listener request episode.
+I was very happy that listeners had requested this one.
+We were going to get to it eventually, but I'm glad that, you know, people had had written in to say you, you guys got to cover Noida.
+I'm like, OK, you convinced me.
+Hard sell.
+1:31:51
+I guess that leaves us with with Tyler.
+Tyler, bring us home on on your thoughts for for Noida.
+Your your number one game of the grog pod that you've that you've played.
+What are your thoughts?
+Yeah, so I I already kind of hit on my kind of big frustrations with it early on that it doesn't really respect your time.
+1:32:11
+So you can't rush through a floor.
+You you have to you have to kind of crawl through it and accumulate wands.
+Be careful, don't die.
+And so if you die to something that is completely random, like you get teleported into a VAT of acid or that you accidentally touch a like an orange pixel and get caught on fire and you all you have is an acid potion to put it out.
+1:32:36
+That all kind of felt very frustrating to me.
+And I, I kind of peeked it like the general feedback about this game before I started playing it.
+And you know, the common joke is it's just a physics, It's more of a physics simulator than a game.
+I kind of wrote that off when I read that.
+1:32:52
+And and then as I started playing it more and discovered like the spell lab mod and stuff like that, where you're kind of taking away the progression of the game to interact with it more as a physics engine.
+Like you know, you can create a wand and spawn a bunch of black holes and watch the very impressive physics engine work.
+1:33:11
+Like you know, the the the black hole starts vibrating and then all the pixels around it start vibrating and the bricks start to shear into the clean lines and like slowly crumble apart as it's not just a pre baked animation.
+It's actually like the pixel physics, very cool to watch and being able to create custom wands and jump through the levels and stuff like that and just shred things mindlessly.
+1:33:36
+Just more interacting with it as a physics simulator than a game itself made the game a lot more enjoyable to me.
+So leaning into the physics aspect of it is kind of save the game for me, or at least brought it up above A5.
+So like the the lack of story and narration didn't really bother me that much.
+1:33:56
+I kind of I kind of dug the oppressive solitude souls like experience of it.
+I don't know what any of this stuff is.
+I don't care.
+I'm just kind of I'm trying to survive everyone.
+I'm just trying to survive and get gold, I guess.
+So yeah, I probably I don't have like relative rankings for things on this podcast because it's my first episode on here.
+1:34:21
+But so I don't know what I'd put it above or below.
+I just know that I would give it a six, a solid 6.
+Point O Yeah, I guess I'm kind of curious what what would be, what are sort of your top the three or so Rogue games that you've already played?
+Hades definitely followed by Hades too.
+1:34:38
+I have a problem.
+And then maybe like Dungeons of bread more.
+Or actually, I think my number one would be FTL now that I'm thinking about it.
+Yeah, FT LS good.
+Very well.
+Before, before we we sign off this, this was a hard game to to find similar games for 'cause this is such a wild and unique experience.
+1:35:03
+But I think from like, I think there's, there's a few games that aren't, that are not rogues that are kind of similar ish.
+Andrew, I think you had mentioned sold at which the more I'd looked at, I'm like, yeah, I could kind of see that.
+There's another game that's sort of like a very finish Worms like called the Liero LIERO, which is like a free to play multiplayer combat arena with destructible terrain.
+1:35:26
+There's a game, Rain World, which is very, it's not quite a rogue game, but it's a very systems driven environmental like like the environment is like happening all around you.
+Big world's very cool.
+Yeah, it's it's it's very it's it's as unique and weird as as Noida is for Rogue games.
+1:35:46
+Like I feel like risk of rain 1 and 2 are like aesthetically similar enough that like there there's just wild nonsense happening all the time, crazy synergies, chunky pixel art from the first one.
+Risk of rain returns, I guess.
+Also streets of rogue is also very like wild and like systems driven where like who knows what's going to happen this run like zombies could, you know, take over the city kind of deal.
+1:36:10
+Andrew had had mentioned rift wizard and I'm like, you know what, there's like a disturbing like amount of similarity between Noida and rift wizard.
+The more that I thought about it, including the purple riffs at the bottom of the Biome in Noida, like there might there might be something on here.
+1:36:27
+Cube Chaos is a game that I think is is similar from the aspect of like the sequential like linked list wand programming language maybe I haven't dabbled with it a whole lot.
+It feel it has column game written all over.
+1:36:42
+It what?
+Was that cube cube chaos?
+This is a game that like it's I think it's like a like like a borderline auto battler between like you on one side, enemy on the other side and you're kind of like queuing up action sequences.
+I believe in a similar Noida fashion to have a Wanda programming is I'm pretty sure.
+1:37:03
+And then the last one on here, Tyler, you'd mentioned dungeons and Dreadmore.
+I feel like from the traditional like 90s roguelike into the spectrum net hack is somewhat similar to Noida in the sense of like wild nonsense giant like totally obtuse world with like way too much to explore and hmm, what's this thing?
+1:37:24
+I should experiment with it and then being instagibbed by a a poison potion that you'll now you know next time not to mess with it.
+I feel like at in those capacities.
+Net hack is is similar.
+1:37:40
+But but yeah, gosh, the Noida is such a unique thing that that it's it's hard to find similar things for.
+So as we wind down here, if you want to to write in for our next listener request episode, send those requests in Grog podzone@gmail.com.
+1:37:59
+The website Grogpod dot zone.
+The contacts tab up there is a little Google form.
+People still people submit stuff into the Google form still for what games we should check out next and our Mastodon Grogpod at game dev dot place Tyler, like you're the, you know, the the special guest of of the day here.
+1:38:16
+Do you have anything you'd want to plug while you're here?
+Nope, just call your mom.
+Always good advice.
+Yeah.
+So I think that's going to finally wrap.
+We're going to douse doused this episode with some worm blood here and wind us down from Noida.
+1:38:34
+Will isn't here to tease our next episode, but he has picked a very interesting one.
+Daisomancer is is our next game that we're playing.
+A very interesting card driven look.
+Looks like a Spire like on the surface, but imagine if if you had the the willpower to roll the dice and change any number on the screen based on the dice roll, what would you change?
+1:39:00
+Isomancer.
+So keep an eye out for that for for next time.
+But to play out this episode will be some psychedelic tunes for eating shrooms and dousing your flaming robes in blood too.

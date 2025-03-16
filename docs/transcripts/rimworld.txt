@@ -1,0 +1,1232 @@
+0:12
+Greetings and welcome to yet another episode of the Grog Pod Rogue Like podcast, where each episode of this podcast we descend from orbit and land on a barren, desolate rogue like game, Big or small, light or light, depending on the definition of the day, depending on how we're feeling or how the dice has rolled.
+0:35
+And we try to rank these in the pantheon of other games that we've talked about in previous episodes as I guess as as best we can, while fighting off waves of cannibalistic Raiders in the process.
+I am your host of the said podcast, a plushy Muffalo stuffed animal Scott burger and landing with me on this godforsaken hellscape of a planet with me in their own escape pods are my Co hosts.
+1:02
+This is Will, the rare Thrumbo, so you're going to need at least a level 20 training if you want to have a chance of taming me.
+And this is Andrew Harshman reporting in from whatever barren wasteland we've landed on.
+I am, of course, the Space Colonists pet that gets turned into Shishkapabs within the first seven days of the play period.
+1:25
+And I'm Colin, your Arctic settler who managed to capture a thrumbo in a room and slowly starve it slash shoot it to death so I my probably could eat.
+Yes, well welcome returning listeners.
+1:40
+And maybe a swath of new listeners who might be joining the podcast since since my non non-stop shilling of it on the most recent Rogue like Celebration event where I was lucky enough to be selected as a guest speaker to be talking about my talk title at the time.
+2:01
+The quote Data Science of Rogue Lakes where we had all sorts of fun deep dives into the data where do we get the data?
+What does the data say about stuff And I'll I'll post.
+I guess they they haven't split it out into individual videos yet they just have like the day one day two like 8 hour live streams maybe I'll dump a time stamp from that into the show notes.
+2:29
+But once that once that standalone video gets put up I think I'll I'll.
+Probably just put that up here as well.
+But part of that discussion was that rogue lakes are enormous genre.
+There's in fact earlier today we've had yet another reset the counter boys moment of people coming into the rogue like Discord asking what the definition is.
+2:49
+So you might be clicking on this episode and going, huh Rimworld, you got some explaining to do.
+So I think we've we've talked about in our episode just previous to this one what is the extent of what makes a rogue game or rogue not game Light or like or all that nonsense.
+3:08
+Rogue Dark.
+Yeah there were this is this is Rogue Lakes after dark is this episode in which yeah so let's let's jump right into it.
+Our our episode this week, which I think is probably succinctly put as an MBA program in video game form.
+3:27
+Rimworld originally released on way back.
+I think we're almost closing in on the 10 year anniversary from the early PC Kickstarter of Rimworld November 2013, released on Steam I guess five years later October 2018 and believe it or not available on consoles PlayStation and Xbox One from July 2022 onwards.
+3:57
+This Rimworld was published and developed by Ludian Studios based out in Ottawa Canada or neighbors to the north and founded by someone who I'm 100% sure this is like AD and D name generated name and or a Rimworld alias founded by Tynan Sylvester in 2013.
+4:20
+It's a very D&D name, and where this game would roll up in our data set if it landed on our data set, it's.
+I guess we'll get into it in a minute, but this game is not explicitly tagged as a rogue like per SE.
+But if it was, if it did land on our data set, it would be the number seven most popular rogue big hand gesture.
+4:44
+Like we say, Rogue Light, right?
+Sure.
+Yeah, I think like, yeah, I think if if Door Fortress is enough to be canonized as like an honorary rogue, I think that kicks open the floodgates for for rim rolls.
+Oh, so if this one were to fall into our data set, it would be the number seven most popular Rogue guide rogue type game with 168,618 Nice kind of palindromic number there.
+5:08
+Total reviews.
+Will Colonist is about to snap, and you have to describe this game in one sentence to keep them sane.
+It's a top down colony management simulation game.
+There you go.
+5:24
+Very succinctly.
+I'm glad you didn't call on me.
+Well.
+There's a lot more depth to it than that, but you want one sentence?
+That's that.
+That's the sentence.
+It's also, you know, one of the top 3 greatest games of all time in my opinion, Obviously the, So that's the correct opinion.
+5:44
+But I was so glad that I was very glad that I got the pick.
+I've been wanting to play this game for so long I I I play it again.
+I should say I I played it.
+I think I put 520 hours into it within like the time of between getting it and like I don't know like a few years ago and I know they they came up with a whole bunch of new DLCI, hadn't played any of the the royalty DLC, the ideology, the what is it bio mechanics or the the robotics or genetech, I think biotech, yeah, biotech, that's it.
+6:15
+And so even in the the recent playthroughs in the past what we've had two weeks or I think you were just saying you're looking at my steam and it was like 40 plus hours in the past two weeks and I I can't even.
+I wish I could give you an evaluation of the DLC, but I have had so little experience with it.
+6:31
+Which is to say that like there's just so much content in this game that like I had like I've had several colonies for instance and like just the died off very quickly.
+The first one I There was a pregnancy, which is new to me.
+And in the one that I've been playing for the last 40 hours, no pregnancy.
+6:46
+And so you're just like, you may or may not come across many of the major aspects of the DLC, just because there's just so much other stuff going on and it's incredibly complex and the replayability is so high.
+It's just, Oh my God, if you haven't played Brim World, you're you're missing out.
+7:02
+I I'm envious of you 'cause you get the experience of having to you're getting to play it for the first time.
+So you you said colony SIM?
+Or I think yeah, we've touched on Colony SIM.
+What?
+What separates this from something like like a SIM Ant?
+7:19
+Or I'm struggling to think of some other colony Sims like. 20.
+Years.
+Well, I don't think that this game, unlike SIM Ant, it's not available in my 6th grade shop class.
+They they don't have Room World installed on those Mac computers.
+Yeah, what is the difference?
+7:35
+I I haven't had a whole lot of.
+Colony Simulator experience.
+In my opinion it's it's they all kind of they have a lot of the similar mechanics where everything is being simulated in real time.
+And the difference for for me on this one is it's got a very compelling narrative that I love.
+7:54
+But also there is just a so much depth to like all the different characteristics like just just take one characteristics like temperature.
+For instance.
+And temperature is a major part in the game, as someone Colin would say this as someone who's in the who's playing in the Arctic.
+Like your your ponds will start to like get hypothermia.
+8:10
+They'll start to collect all these different status effects, these mood losses when they sleep in the cold and when it's too hot.
+They they have the opposite they can catch on fire.
+And so just with temperature and needing to freeze things and like certain things will rot at certain temperatures.
+8:26
+And like, there's just so much complexity around all that stuff, but it all follows.
+What you would expect, I think so.
+It's a very good, I think, approximation of what the world is as we know it, which is something I really appreciate because you're not.
+It's not inventing a whole bunch of well.
+It is inventing some new things, but for the for the most part, the world as we know it, like makes a lot of sense.
+8:46
+You get shots in the the arm, you have an arm wound and suddenly your manipulation percent goes down.
+And so like a lot of that stuff just is very intuitive.
+If you have someone who's a very good doctor and they patch up that arm, there's a good chance that you won't get infected.
+Or if you have a sterile environment that you won't get infected.
+9:01
+But if you're you know.
+Patching it up in the middle of like blood and guts and people's vomits, there's a good chance you'll get infected, die from the infection and all that fun stuff.
+So that that level of depth and complexity, I think really just adds so much to the game.
+Yeah, and I mean I think the the, I'm sure that there were games before, but the the err, Colony simulator is of course for Fortress and I think that Rimworld is the successor and.
+9:33
+I don't want to say culmination but it is it is the the one that that first truly polished off War Fortress and made it into a playable version.
+Like I think it takes a lot of the brutality of War Fortress the the the true like losing is fun options.
+9:54
+Like I think most of the other the colonists Sims that came before something like prison Architect like you didn't really you know you didn't lose.
+And like, the only reason I could say Rimworld is a colony simulator is it is absolutely possible to lose.
+10:09
+I've lost.
+I lost multiple runs trying to survive in the Arctic, which is my preferred method of playing.
+For some reason, including one where they didn't, they didn't even make it past the first night I decided to build too far away.
+10:25
+From where they started and they all froze to death while trying to carry supplies to the new like place they were going to build.
+So, so I have a bullet point in here that maybe we'll we'll keep expanding on these comparisons with Dwarf Fortress that for it feels like to me Rim World is like the Warcraft three to Dwarf Fortress's StarCraft.
+10:50
+Does that sound right?
+Is that Is that too analogous?
+Am I digging too deep?
+I.
+Have no idea what you mean by that.
+What I mean is like more maybe I'm just reiterating what Colin just said, like a more polished sort of like user user friendly.
+11:09
+Maybe I'm thinking of just like the the map editor and specifically, but like, yeah, I think I'm just gonna like, yeah, Echo Colin's point that it for my love of Dwarf Fortress, it does feel like Rimworld is the more streamlined, polished version.
+11:28
+Maybe I'll stop there.
+Yeah, I can see where you I can see a little bit where the comparison is like War Forces, a little bit grittier.
+It's definitely a lot of jankier.
+StarCraft, the original StarCraft had a good deal of jank in it, and then, you know, Warcraft three came along.
+11:43
+The graphics are a little cutesier, a little both great games.
+In both categories, both comparisons.
+Yeah, but being able to click things and that's that's that's the, I mean we've talked about this in the past like how big a deal like that UI and the ability like with the Cataclysm for instance being the most recent like that was abysmal to play and this was a relative delight.
+12:13
+And if only that had that game had this interface.
+I mean it's got a lot of similar properties It's it's like a large tile based simulation.
+If this that game, if that game had like this game's graphics and the ability to click things, I bet you I would fucking love Cataclysm.
+That's that seems to be what we missed there.
+12:29
+But like this game, it's just kind of all.
+Or even literally Dwarf Fortress like the new Steam release came further, but like.
+I think that Dwarf Fortress thematically makes more sense than Rimworld, which is a weird space western and you kind of have to hand wave away.
+12:46
+Like why?
+Why are you living in this planet?
+Why can't you just like have normal houses?
+Why are people trying to cannibalize you?
+But also, I have space guns.
+I feel like that's maybe my my biggest criticism of the game is the theme.
+13:05
+But maybe before jumping into that we'll we'll jump into like how how does this game begin.
+So in our typical Our Story Begins segment we have.
+Oh wait, I know this one Brotato has crash landed on a planet.
+13:24
+Oh.
+Sorry to interrupt.
+Yeah, so you have, well, you have to generate the potato planet 1st.
+And by doing so, well, even before doing that, you have I and I need to call this out every time that I find it.
+13:39
+The tutorial option.
+This game's tutorial I think is really good, but maybe not super good because I feel like it it gives you like, you know, the the, the kind of like keys to the playground.
+13:57
+You're like, OK, yeah, I think I can get bootstrapped and started here.
+And then as soon as the tutorial is like, OK, you think you like, you're behind the driver's seat of the car that you were driving for the first time.
+All right, good luck.
+Hop on the freeway.
+You're like, Oh my God, oncoming traffic kind of a deal.
+14:15
+Generally, I feel like when we come across a a game with a good tutorial, it's worth calling out.
+I think Rimworld has a good tutorial mode.
+Well, we're back after the evil Comcast destroyed our first colony.
+Scott, you were talking about the tutorial.
+Yes.
+In typical Rogue like fashion you know whenever we have to restart the recording maybe we'll let's just start the whole podcast over again.
+14:38
+I'm your host Scott Burger no.
+Yeah so I think the tutorial mode in this game is good.
+Andrew, this was your also well.
+Good, but not great, I believe you were quoted as saying.
+And I don't know what a great tutorial would be at like it doesn't need to hand hold me all the way to the end.
+14:56
+Probably not, but Andrew, did you do the tutorial?
+Well, I absolutely did the tutorial.
+I did the tutorial twice because I could not get I could not get my little meatballs cooking and I'm not exactly sure what happened.
+15:13
+It felt like the game was soft locked, but I'm sure I messed something up and upon restarting the tutorial and making sure I was following the the the the the procedure.
+Step by step, very, very to the letter it went through.
+15:32
+And yeah, I did play it.
+Thoughts are that it's good, not great indeed.
+I felt like it gave me enough.
+It gave me the basics enough to play the game.
+I was, you know, doing a fair amount of Googling and I watched a few videos and I was.
+15:55
+Kind of dismayed initially.
+Oh no, I got to teach myself a game a like, like with Cataclysm.
+Oh no, I don't want to do this.
+I just want to sit down and play a game.
+And then I keep getting distracted by like more brainless, like FPS games and stuff.
+16:12
+It seems that I'm on a perpetual, like, you know, retro shooter kick.
+But when I would come back, you know I I I the tutorial did a decent job of putting that information in my brain.
+One thing that I'm either like forgot because a decent amount of time passed since I like successfully completed the tutorial and actually like you know, sunk a decent amount of time into a run was.
+16:40
+So either I forgot that it mentioned this or the tutorial doesn't mention it.
+That like in the tutorial mode.
+It your crops grow like Uber fast and so like my first couple of runs kept getting like kind of bogged down and I ended up like restarting because the crops were growing so slowly in comparison to the tutorial.
+17:01
+And I'm like why are they going so slow?
+Why?
+Why is the percentage stopping when the sun goes down?
+Well, obviously it's not like in the tutorial at all.
+What's the, What's the deal?
+And then like I thought, well maybe I picked a different part of the globe than like in the tutorial and so I restarted it again and then I.
+17:19
+Just started realizing the Arctic, where it's sunny all the time.
+Yeah, so I don't know if that's necessarily a failing of the of the tutorial, but yeah, there's just I I guess an example of how like the tutorial can't quite, you know, cover.
+Everything.
+And yeah, I mean as I started trying to like tech up and stuff it would have been nice if those things have been covered.
+17:42
+It's yeah, it's tough to say.
+I I was kind of surprised that for a fully released one point O game that's like so popular and was like in production like early Access or whatever for so long that there wasn't.
+I was surprised when I got to the end of the tutorial.
+Basically I was like, oh.
+17:58
+Really.
+That's all OK.
+I've been told this game is incredibly granular and deep.
+Oh, I'm a little worried that the tutorial took 10 minutes, but is so.
+I mean, luckily we have two RIM World experts with us who can.
+18:15
+Rim spurts experts on rimming here, who can tell us which of the the AI storytellers we should pick that could really just, like, hold our hands for us new people to get the most optimal play experience.
+I only play on the the standard person.
+18:34
+Yeah, you should do the, the, the, I think it's the classic and then like a the one of the not the first level of difficulty but like the second or third probably I think it's I believe it's something like a seven point scale for difficulty.
+Whichever one is right above strive to survive which the the like.
+18:53
+You're starting to actually make the game hard difficulty, which is the one I like.
+Yeah.
+Strive to survive is the one that like coming back into it.
+I think that's the most, like fun where like, yeah there's some challenge but like you definitely want to have some difficulty.
+But like, it's not overwhelmed.
+Like I didn't want to have to reset the colony a bunch of times.
+19:09
+I've already done the lessons learned.
+And so like that's the the thing that you guys are going through right now.
+I know it's especially like Scott you you you demonstrated what your colony look like to me and I'm just like Oh my goodness this is this is is interesting to see like Oh yeah, I guess wood walls.
+They are something.
+19:25
+They help you in the beginning.
+But well, ability is a lesson you learn very well.
+Well, there's a big difference for.
+So if people are coming to this game from Door Fortress, it's like the number one thing is that this is all as far as I know, maybe I'm like, my mind is yet to be open, but so this game is all on just one Z level.
+19:43
+So like one floor, if you will.
+So you can't dig down deep into the nice cozy cozy ground and be like, all right, well, I'm just going to dig out like room by room What I want here, you have to be very diligent with like, oh, I'm going to be like going around and like I guess mining these like surface deposits of rock and stuff and then building out my base on the surface here.
+20:07
+And your colonists are smart enough to at least put roofs on things.
+But but yeah, I was like Oh well, I have to like completely reset my door fortress mindset into.
+Like it's it's a similar but different approach of how you do this.
+Like same kind of colony management space.
+20:25
+Did either of you guys get killed by the bugs?
+The no.
+As a deep like building your colony dug deep within the rocks is extremely dangerous way to play the insects.
+20:41
+The the weird insectoids will.
+Infestation is what the the event is.
+Called.
+Yeah, yeah, yeah.
+They will eventually spawn in your base and you will have like the giant insect creatures spawn inside your base inside of all of your defenses, and it is extremely hard to get them out.
+20:58
+So, which is interesting because in my brain space I'm thinking like, OK, that's it's a similar idea with Dwarf Fortress.
+All right.
+So I guess we were talking about digging too deep.
+Indeed, yeah.
+Unfortunately, listeners, there there was a an escape pod mishap and Scott has been jettisoned down to the planet's surface.
+21:21
+So he is remote and he might sound a little tin canny.
+He's calling in over the Comm station, right?
+So AI storytellers I think are is a is a big aspect of this game.
+That's something you don't get with your Dwarf Fortress, is something you don't get with your Frost punks.
+21:40
+But it sounds like Colin and Will you only play with Cassandra Classic and not really with Phoebe, Chillax or Randy Random at all.
+OK, well I'll add this caveat.
+Like, never the chillax one, I have no interest in.
+Low difficulty.
+Low difficulty is the most boring thing.
+21:55
+Maybe if you really want to learn how to cook and you and that's like something you need to focus on without other distractions.
+But like difficulty makes the game fun and so often times like in previous playthroughs.
+I mean, I've had many, many, many over the 580 hours, but like the Randy random is one of my favorite things.
+22:13
+Because when you have like 50 cats like just pop onto your screen and they all suddenly join your colony like that's.
+I mean like that's an event that can happen in, in any case.
+But like that happening after some other like like positive, like you can have multiple negative things happening, multiple positives.
+It's like it's just completely crazy and it's that that makes it much more well difficult but like fun to have to mitigate.
+22:34
+And so if you do the maximum difficulty on on Randy Random, then you're in for like.
+Just a zany time and it can be like super fun to do that style of playthrough, just knowing that it can go sideways very quickly.
+Yeah, I think random events is very is something that I appreciate in games and makes for a lot of fun, especially after the game.
+22:55
+When you're, you know, evangelizing on behalf of a game that you've played, you can tell folks about, oh, here's the unique situation that played out in my game, and all these random scenarios came together to form a.
+Unique fun narrative and I I think it also sort of, Despite that not being something that was present in like the original game Rogue.
+23:15
+It speaks to the sort of the forebearers of the rogue genre and the and the like Dungeons and Dragons NIST, the Dungeons and Dragons themes that are present in throughout Rogue like games.
+23:30
+In original Dungeons and Dragons, there's a lot of random encounters and random tables and things of that nature, and so it's cool to kind of see that reflected in games like this.
+Well, it's not actually like random like in the sense that like.
+23:47
+Well, I mean obviously like it's it's pulling from a pool of possible events.
+But what I what I think is really interesting about like the base difficulty is that like it tries to do the balance of the positive and negative events.
+But then it also uses your total wealth as essentially the thing that calibrates the the the scale and the magnitude of all the events.
+24:05
+And so if you if you have lots of colonists and lots of wealth accumulated in your colony, you'll get like a horde of like 50 guys attacking you and like on a on a on a raid.
+And and and it doesn't and it'll like make sure that like when you're first starting you get like just mad maddened animals and then as you get a little further along this guy with a little knife.
+24:23
+But like so it's it's it it the difficulty ramps pretty closely with the your overall ability in the game in terms of the kind of your your static defense and all that fun stuff.
+And so I just really appreciate it's it's so good at self balancing into that super fun corridor between and that on that scale of difficulty and skill.
+24:44
+And so I think that it's really, it's a very nice attribute of this game as opposed to like a Dwarf Fortress or other games which is they don't care.
+They just like here's the punishment, Hammer, and it's landed on your face.
+Yeah, I I'm usually super into difficulty sliders and and stuff like that, but I feel like it works.
+25:03
+Well, for Rimworld, because it's such a malleable game, you can really customize how you want the experience to be like you can.
+You can absolutely make this more or less of a rogue like based off of your difficulty curve that you choose and how you want it to throw things at you you can like at the one end.
+25:28
+It's like getting to the end of this season will be a.
+Difficult task.
+And at the other end it's I'm building this like a SIM City style thing where I'm pretty sure I'm going to survive.
+There will be challenges that are thrown at me that will influence how my game progresses, but I don't.
+25:46
+I won't be at like true risk of losing at all, but you could still have a great time.
+I look at something like Factoria where like I don't really ever feel like I'm going to lose something like Factoria or SIM City, but it's still great game.
+You could do the same thing with Rimworld if you wanted.
+26:06
+Yeah, so on the one hand, permadeath like and not being able to save, it's not like a default, it is a conscious like choice you make when you start a new colony.
+So one might argue that, well, maybe that's not the most rogue like, but it's kind of counterbalanced, I feel like, by the fact that.
+26:31
+By the fact that it is very much a run based game and like seeing how far you get with a given given colony under you know whatever circumstances and whatever you know the narrator you know picks for you is very much seems like a focus of the game.
+26:51
+And it seems like there's there is, I guess technically a tangible goal that you're reaching towards in that.
+So your story begins, you know, you have all these different kind of scenarios to pick from and one of them, I think this is the tutorial one, is that your, your colony ship has broken apart and there's only three survivors that land on the planet.
+27:12
+And you know, it's not explicitly stated, but basically your victory condition for the game and Will and Colin, correct me if I'm wrong, is basically to build a spaceship and just get off the planet.
+Is that right?
+Yeah, that's a default one on.
+There's several more now, but yeah, that's.
+27:29
+That's what a lot of people aim for.
+It's like that Tom Hanks film.
+Yeah, either build a ship to get off, find the find the other ship that's already there, and defend for a while.
+If you have the DLC, you can become like an imperial noble person and they'll come like pick you up once they like you enough that there's another you can be like a become like a tech robot God or something.
+27:56
+I haven't.
+Really explored that one yet.
+But so Colin, when you and when you and Will are embarking on a new adventure in Rimworld, like, do you have like a specific goal in mind?
+Like, OK, like, I'm going to do this like, every time.
+28:12
+Or is it like, oh, I'm going to fire up a new run in Rimworld to do something different?
+I'm usually trying to do some sort of weird scenario, so like I I feel like I.
+I can't remember the last time I did a Let's just have like a couple of normal, normal people on a temperate map with no weirdness going on.
+28:33
+I'm always either in the Arctic or the desert or permanent eclipse, or like, I'm just going to click random on everything and see where I end up and go from there.
+So it's like maybe I'll be a jungle.
+Who knows?
+Maybe, like all my columnists might be incredibly bad to start with because I won't choose the best ones.
+28:54
+I feel like it's more interesting to try to do a a theme scenario of some sort.
+I'm the complete.
+Opposite, yeah.
+Yeah, no, I I want the game for me is beating the difficulty level.
+And so I want to choose all the optimal conditions I possibly can and have the only thing that I'm striving against not be like the shittiness of my pawns or the location I land.
+29:18
+I want the only thing that I'm, I'm fighting against to be the highest level of difficulty.
+Well, that's like historically been like my goal with this game.
+And now that I feel like I've accomplished that, it's like, well, now what?
+What else can I do?
+And I for this game I really want to explore the DLC.
+And so I I set the difficulty a little lower because I just didn't want to get absolutely wrecked right away.
+29:37
+And my goal is kind of like, well, I want need to stay alive long enough to like experience DLC.
+So I kind of made it like, well, I'm.
+I'm going to build an optimal base and in the past I've done, you know, a lot of analysis around optimal base design and this for this run I I think I did another like 20 hours of like outside the game, like research into, you know, room sizes have changed since the last, the optimal room sizes have changed, insulation conditions have changed, how much beauty, what kind of flooring has changed.
+30:06
+So I had to do a lot of research into like well, what's the proper structure?
+Obviously it's all based around the central freezer.
+How many?
+How many ACU?
+Do I need to you know all these things all these considerations hallways all the electricity and defenses and the kill boxes it's all very intricate puzzle and to put it all together and it's such a satisfying way when you're you're you're playing the game live and it's all coming together and it's working out just like you planned and your your defenses are holding against these big rates Oh it's just so satisfying and.
+30:36
+Yeah I'm I'm right now just talking about it.
+I feel my excitement to like play Rimworld like building in me and I'm like Oh my God am I calling me right now.
+I know where I where it's at and like I know what my objectives are.
+I just got the comms console the the drug productions just started so I need to start selling that flake Oh my God it's the get rich phase.
+30:53
+The get rich phase is like when things.
+Oh yeah, I forgot about how every Rimworld colony does end up devolving into you just being like.
+The Columbia drug Lord.
+Producer that's that's my big gripe I think is that like the optimal play invariably is being a drug Lord because Menu, the manufacturer of the specifically the drug flake is.
+31:16
+The most lucrative thing you can do in the game and turns out money is a really good replacement for pretty much any skill that your pawns need or like any like deficiencies you have.
+Your gear is really shitty and you don't have a good, you know you don't have a good artist, so you don't have any good art.
+31:31
+Like you just buy all that shit and you need some medicine.
+Buy all that shit.
+And so Flake is just the thing that turns into all the things you need to win.
+Just like in the real world.
+And at that point, why would you even want to leave your colony?
+Why would you want to escape on a ship?
+31:46
+Just hang out?
+That's.
+A That's a great city.
+Space Mansion.
+Interesting.
+What will I'm not, I'm not going to argue with you at all.
+You paint a beautiful picture and I and I think this will be reflected in my very much in my ranking.
+32:06
+You paint a beautiful picture.
+I I sense your excitement.
+It is palpable.
+It it inspires me to play this game a a bit more to to to go back to it and and continue to to keep at it.
+But sadly, I think just my my brain.
+32:25
+Works works differently and I think that this is the Rimworld's very good game.
+It is a very good game, but sadly it's just kind of not not my type of game.
+I I have a solution though for you before you like you know it sounds like you're you're you're kind of putting it aside and all that fun but like let me like prepare carefully is is a mod for the game and it's a mod I think yeah it's a rimworld I think after slave Aspire it's the game I put the most in in time and like and there's about I think. 800 different like children.
+32:55
+No 300 different like children backstories and I think 500 different adult backstories and these each of these things has like specific attributes that lead to like the total sum of the adult properties and what prepare carefully allows you to do is to select these things.
+And so the reason I I say this is like, oh that sounds really annoying.
+33:11
+Well I would hate to have to select from all these things in order to come up with people.
+But what you can do though is you can create your friends.
+When you have your.
+Friends in the.
+Game and you and you basically trying to match their abilities to the abilities of the characters.
+You know some kind of you know kind of a a a more of a abstract sense.
+33:30
+But like then suddenly you know you're running around and Colin he's on the front line and he just got a fucking headshot and he just lost like the left his left eye.
+You care a lot more and you start to like your investment in like, oh wow, looks like Colin just fell in love with.
+Maybe there's another some, some other person that you know in your life.
+33:48
+They fell in love and they get married organically in the game and it's just this happy story of how they have kids and it's just a really fun way of doing.
+It it's like The Sims.
+But you can be like Geordie Lavoorge on Star Trek.
+Right now I've I've actually, I've made that colony where everyone was.
+34:05
+I've had Picard Wharf and like I chose my prepare carefully.
+It was the whole crew down there.
+Every time someone would join to be a new TNG character and like oh oh.
+That's a.
+Very fun and enjoyable idea, but I was referencing.
+What I was representing was was when Jordy like starts hitting on like a holodeck like Rep replication of some famous engineer and then like later they get anyway they they get like married.
+34:31
+Terrible situation to get married.
+Anyway, she was married don't they?
+I thought.
+I thought later, like canonically in the movies, they get hit.
+No, she was.
+She was already married.
+We're sure, OK.
+I'm quite certain.
+I've seen this episode in the hologram.
+And that maybe.
+The hologram was married well.
+She she was a real person.
+34:46
+She was the person that built these enterprises engines.
+And so he he he needed her help to solve the situation with the radiation.
+They would fall into a trap.
+It doesn't matter, you know.
+Apparently I know way too much about.
+TNG I'm realizing but.
+But.
+I don't know her name, though, so I'm.
+35:03
+Still, I'm still unclear on if she he fell in love with the hologram or the hologram.
+OK, but and the hologram was married to.
+A different hologram.
+The person, the real person the hologram was based on was married.
+The hologram was single.
+35:18
+The hologram was very single, very eligible in fact, and she was very into him.
+So, you know, that's where the immoral problem arises.
+Yes.
+So basically what you're saying is you make it like The Sims, where you make your friends in The Sims, but then if they die, you can turn their skin into human leather chairs and you can eat their flesh.
+35:36
+Yeah.
+They're still useful, I think.
+Indeed, I'm curious.
+So the the meme that I see a lot on on the Intranets is that like the Internet would have you believe that Rimworld is like first, a colony simulator, but second an orgist harvesting business simulator.
+35:57
+So how how essential is that to to U2 Veteran Players Operations?
+It's.
+It's well it's it's very important to YouTube.
+I mean like as soon as you're like your your main your your, you know, the screen shows cannibalism is the best way or like oh fresh baby meat the only way to live like you, you know that you're you're you're just going to get some clicks.
+36:17
+And I still, I'm still really excited about there's an ideology where you want it.
+It's cannibalistic and baby meat gives you an extra like mood boost.
+And so I'm really looking forward to that fresh baby meat in the next playthrough.
+And that's of course the speed run Strat to become the the the space monarch and then have a ship come pick you.
+36:36
+Up that one I've I've never engaged in that.
+You have to like.
+You have to specifically like hunt out colonists that have that trait.
+Because if you don't like, shocker, most people don't want to be cannibals.
+36:52
+This true in game as well.
+If you cannibalize people in the game with a normal pawn, they're very upset.
+They're unworthy and they'll die.
+Don't have a mood break and then you'll cannibals will eat him.
+Yeah, we have not talked about mood breaks, which are frequent and almost excessive.
+37:10
+Which I imagine I maybe.
+I guess I'll let you expound upon it and quit, quit interrupting.
+But perhaps that is part of the fun in that, like you know, when you get comparable, when you get proficient in a game, you want it to be more difficult to be more engaging.
+To me, at, like, my level of play, it just kind of feels like a babysitter simulator.
+37:32
+And it's like, I don't, why do I have to?
+Why do I have to manage these people's moods?
+But part of the part of the issue is just the frustration with, like, not quite understanding all the systems and being like, well, I don't know why they're mad Oh.
+Because I think the monkey.
+Got killed or whatever.
+The pet monkey I should have realized ahead of time.
+37:48
+Anyway, sorry, do do continue.
+They happen too frequently.
+Perhaps, you say?
+I mean, I I think that they happen.
+I feel like they're very all or nothing.
+They're like I've gone on a murderous rampage.
+They're like, well, I guess I should have let you eat on that table.
+38:07
+Well, it's also an important distinguisher between how Rimworld does these kind of mood effects versus Door Fortress.
+Where in Door Fortress, if dwarves start getting into like a weird mood, they'll they'll either, if they're weird requirements are satisfied, they'll go and create some sort of unique work of art or some unique battle axe that has like menacing spikes on it or something cool.
+38:36
+Whereas it does seem very much more in in Rim World as far as I've played in, you know, the paltry 10:00-ish hours, 15 hours or so that yeah, this is like a a system that you have to manage.
+But it's more of like well like by by the way that you manage that their mood are is kind of like the way that you're progressing the base anyway in a sense.
+38:59
+Right.
+Yeah.
+Yep, exactly.
+It's removed as just a resource you have to manage.
+And you eventually learn how to best do things like you you learn that, hey, everyone has to eat in a dining room.
+And so if you have an impressive dining room, everyone shares together in that +6 perk for having an impressive dining room.
+39:17
+And so Oh yeah, and everyone likes to have their own bed.
+They don't like to be interrupted when they sleep.
+They like to be in the right temperature.
+And so there's a lot of like, base things you start to learn about, oh, I can just get rid of most of the negative attributes just by having, like a reasonable base.
+And then you know for the extra times when people are.
+39:33
+You know, having they lost you, you lost the pet unexpectedly.
+Shit happens.
+That's why you have, you have a bunch of smoke leaf just ready as you go.
+And so you said that you give them a drug policy which says if your mood is below 30% or your recreation is below 30%, just go light up, just chill out, you know, come back, you know, slow down your work just to take it easy, and then you're going to be good to go.
+39:53
+Sure, sure, yeah.
+Use use substances to regulate your mood.
+Just.
+Like, it's just like real.
+It's the perfect.
+That's very, very entertaining indeed.
+Yeah.
+Good, good.
+What a, what?
+A what a deal, what a deal.
+40:08
+I do, Yeah, enjoy.
+We're I guess past this topic.
+But it's just it's nice to hear you can like really, you know kind of customize your experience and and give yourself different like end goals and stuff 'cause sometimes I've I've encountered games similar to this where it seems like the simulation is the point and that there's not like any goals to be really to to achieve.
+40:30
+But Rimworld there you can make your own goals very easily and it provides a lot for you as well.
+So I I appreciate that they had the thought to like put in, yeah, their goal posts for the players to reach and quite a variety of them.
+40:48
+Yeah, I think, I think ultimately like, oh, go ahead, Scott.
+Oh, yeah.
+So I think I might be kind of in the same sort of slump zone that Andrew is currently in.
+Where Andrew was saying it kind of feels like a baby, a babysitter simulator.
+41:03
+And I think I'm in that spot right now as well because it doesn't like.
+I still have all the muscle memory for like, all right, dwarf orators like land and expand start building out all these workshops and stuff and all right, the dwarves know what to do.
+And if I set up this workshop, some dwarf is going to go in there and start cranking away on stuff once I set that thing up.
+41:23
+I think one of the things that's kind of unclear to me even after the tutorial which I I thought.
+Taught me how to do this.
+But then, well, you looked at my base on the live stream and you're just like, like, have you played a video game before that?
+Wasn't quite that made.
+I mean, and so I think one of the things was like, I don't really know how food in this game works, right.
+41:43
+So you land on the your colony and there's like a bunch of these resources sort of scattered around the map.
+And I thought that like, oh, if I just set like a stockpile zone here that like and like, yeah, the stockpile is like for everything.
+That I thought like the the Rimworld pond colonists would be smart enough forgotten to like pick stuff up and put it there.
+42:04
+But that doesn't really seem to be the case.
+And when you were looking at my base you were like look at all these like like food packs and stuff they have scattered around map.
+No wonder all of your colonists are are starving.
+You know you got to you got to get your food production in in a way.
+42:20
+So like that was just.
+Hauling the food back to your base.
+You had nobody hauling stuff.
+Well, yeah, that's that's that's a whole other thing.
+So is it that they weren't hauling or that like they weren't, it wasn't set to allow to haul?
+Yeah, it is really weird that when when you land like, all of the items that come with you are immediately set to like forbid, do not touch like.
+42:41
+I'm not sure why that is the default.
+It seems like they should be defaulted to.
+These are the important items, like the first thing I do in any run is.
+One forbid literally everything that they have forbidden.
+I've never found that to be like a useful thing.
+43:00
+Now you gotta you gotta leave silver and gold on the ground and don't put it in the zone 'cause otherwise you'll inflate your wealth.
+And that's just pro tip.
+Pro tips with Will here.
+Excellent.
+So, so wait.
+Oh, sorry, don't continue with your story.
+Yeah.
+43:16
+So is the idea that like, all right if someone, someone's jumping into Rimworld for the first time with like let's say 0 colony SIM experience or like anything anything remotely close to that.
+And like you know, I see that this game Rimworld is like one of like the highest rated games on Steam pretty consistently.
+43:33
+It's very popular.
+I want to jump in, but they don't really have much experience with it.
+Like they should start with the tutorial.
+Yes.
+Or is there like?
+A series of mods that they should pick up or like go and watch YouTube videos.
+I guess I'm I'm still like also in that state of like I don't really know like what the like not quote UN quote optimal early game is but like I don't know how to feed my people like it seems kind of like a critical.
+43:58
+I feel like I can just build a farm and have a stove.
+Those are the like, the two things that are important.
+Once you get there, like the you'll land with enough food to last you through when your first crop harvest comes in, which they will eat so long as it's in the hall zone.
+44:15
+HUL, not the dining hall.
+The You.
+Mean their their pre packaged food, yeah.
+Yeah, they'll they'll they'll haul it to the zone and then they'll go grab it and they'll go sit at a table.
+Just wanted to make sure I suppose.
+Maybe.
+Another step was missing.
+Yeah and you just like make a make a zone with some some farming.
+44:34
+Set it to make potatoes and they'll potatoes will grow and then they'll cook them into into meals, simple meals and your people will be filled.
+Yeah, you want to be thrilled they but they will be filled.
+Yeah, you want You want about 20 plots per pond.
+44:53
+If you're going to go pure vegetarian, if you're going to have meat, then you go 10 plots per pond and it doesn't matter if you go rice, potatoes or corn.
+Rice is a six day maturity, potatoes is 12 and corn is 22.
+It doesn't really matter.
+Corn is the has the highest yield for the for the least amount of effort.
+45:11
+But it's also on the field the longest.
+So there's all these things you learn about like, oh, well, in the beginning you want to plant a little bit of each and then slowly transition over to corn because that rice has got to be ready in six days.
+And that's when your stove is built, and that's when you can start eating good food and you have to eat the package stuff and.
+Then all this is the game teaches you this though, as you die over and over again and you realize, oh, that was a really shit base design right there.
+45:32
+I shouldn't have used wood.
+Oh, I need a larger room, 'cause everyone's complaining about the how, how cramped it was.
+Oh, I needed this and that.
+Like every this guy was walking ten, like waiting efficiently from this side of the map to that.
+Like you just gotta learn.
+And so for me, I think that learning is the fun of the game and like, I think once you start dying.
+45:50
+Like a dying will will make the getting more fun for you.
+And so if you're not dying, turn the difficulty up and then start like.
+And then you'll have a good time, 'cause you're like, Oh well, I just got punished real hard, 'cause I wasn't prepared for the mechanoid cluster, I didn't have siege set, or I didn't have siege ability set up.
+And no, I know, I know.
+46:05
+I need to have siege on my, on my, my research early on.
+And so these are the things.
+These are the things to your point.
+Yes the the the losing is part of the fun. 2 distinct 2 times I was distinctly having a good time that I specifically remember was like oh I'm feeling that fun hit in my brain space was when the pet monkey that had landed with my with my crew was which you know I don't know I was I was telling someone about this.
+46:37
+I I this might be inaccurate.
+There's like an option to build a a doggy door or like a pet door right flap.
+But since I had a monkey the monkey was just using the normal front door which like makes sense to me like no but anyway so the monkey who had like some fun like mundane like human name I can't remember.
+46:54
+But anyway, when that monkey got attacked by like a wild cat and was like fighting the Wildcat, and then I had to and then all the colony had to come together and defend the monkey.
+Like that was like a very fun, enjoyable experience.
+And then like I was trying to tame, we didn't kill the Wildcat.
+47:13
+I'm like, oh, maybe we can tame the Wildcat.
+We tried to tame it, really failed to do that.
+And we also failed to save the monkey and so it was a it was a delightfully entertaining mess.
+But yeah, so there's I I agree that the the the there's, there's fun and difficulty and rim roll does a good job of making that losing enjoyable, which is is very good indeed.
+47:35
+Now Scott, I had a similar experience to like the confusion of how to feed people in.
+I had confusion about how to hunt once I realized, oh, the crops are taking a long time to grow because obviously you know, they need sun and they need time.
+47:53
+I thought, Oh well, I better have.
+In the meantime while I'm waiting for the crops to grow, I should have some go out and hunt and we can eat meat in the meantime as it hurts me to say that as a vegan and we can have somebody go out and hunt the cyber gobbler, the cyber Turkey or whatever the space Turkey.
+48:11
+And so I had a bit of a difficult time figuring out like well I I just assume like once I give the hunt command like it'll go and that and I won't have to worry about it.
+But no, there was like a you know, there were there were other steps that needed to be taken.
+Like I needed to designate that you know, the dead animals should be hauled and I needed to go to my whole zone and designate that the whole zone.
+48:35
+You were allowed to put dead things there.
+And then I also needed to have like a butcher area and and.
+You need to set it so you get butchers forever so that it doesn't like, yeah, the bill.
+It doesn't like Butcher Three creatures and you're like, well, I've done butchering forever.
+48:50
+Yeah, so the bills should you just set it to forever.
+I was like, perfect to do that because I thought, Oh no, maybe it'll, like, use up my food stores.
+Most of the other stuff or something.
+Yeah.
+Most of the other stuff do forever is bad.
+But for butchering, that's the butchering would do forever.
+49:06
+Yeah, because you're basically, there's no reason you'd ever want to have a a thing that you've haunted down.
+And then here's like, well, my job here is done.
+Might as well just a little rot.
+Well, unless you like, specifically start like a custom modded scenario where you're doing like, I don't know, Texas Chainsaw Massacre or something, but interesting.
+49:22
+Well, that's kind of an annoying design choice, but or or not choice but a design lapse, perhaps.
+Interesting.
+Interesting.
+Well, how'd you fix that?
+How would you fix that?
+Well, I guess I in the case of the butchery thing, like maybe there shouldn't be a bill, it should just be like you're always doing that.
+49:41
+But I don't know, Would there be a situation where you might, you know, want to hold off if you're in like Arctic freezing conditions?
+Like maybe, I don't know, maybe there's somebody looking as a noob.
+I mean it could be something as simple as like for that specific station.
+49:59
+When you build it, it comes with that bill automatically set like that is.
+The default is Butcher Creature Forever and you can turn it off if you want, but.
+I think we're describing the system that and I guess we'll come to it in a little bit later when we talk about similar games specifically, but.
+50:21
+We were recommended by one of our listeners to check out the I guess it's kind of a colony SIM, but maybe more of like a city builder SIM if there's a difference against the storm and I was noodling around with it and like I think that's kind of what Andrew's describing is like you like, you build a building and instead of like.
+50:43
+Like in Rimworld, you build the butcher table and you have to go into the butcher table and you have to say oh I need like either set this to like repeat forever or do this X number of times.
+And against the sort of it's like you build this building and it's just like it's auto doing it for you basically as far as I I guess I I just brought it up as like a lot of this this podcast.
+51:04
+I'm trying to be very trying to trying to be objective and trying not to dip too much into my like sort of personal opinion.
+Cause again, I recognize that this is a good game.
+It's just maybe not a good game for my brain.
+No, I disagree.
+You should get into your personal opinion.
+51:21
+You don't like it.
+Me, I didn't like enter the dungeon well I so I just I did want to level like one one bit of you know practical criticism which is like well, if if two, if 2 veteran players agree, you should just always have it set to butcher infinitely, then like maybe that should be updated.
+51:39
+It should not have the bill option.
+But I mean the other tables it seems like it the bills make sense.
+Like with the food it's like well you got to designate what type of food, what level of meals you want made and things like that.
+So I kind of that that part made sense to me, though it was a little bit annoying to have to keep checking that.
+51:58
+I agree.
+I think, I think a quick I think there should be probably some settings that are like the default settings that you can opt out of, like in the main screen setting, like where it's like, yeah, when you make your first butcher station, it automatically has the bill to do this.
+When you make your first stove, it automatically has it set to like build 10 simple meals and like just that.
+52:15
+And like maybe there should just be settings outside of this so that every time you start a new game you're not always having to reset these bills.
+Or it's like put a put a corpse zone or a corpse an animal's corpse stockpile zone.
+Directly adjacent to the Butcher table.
+Whenever you put that down, like, yeah, these are all I think reasonable things as someone who likes a little bit more customization, because that's not always what you want to be doing.
+52:35
+Like, yeah, eventually it would change that stuff, but as a default for new players.
+Probably much easier to get into if that's if that's there.
+Fortunately, once you start getting a handle on it sounds like, yeah, it comes pretty sick.
+Yeah, I don't even think about this stuff anymore.
+So this is like, it's interesting to hear you guys both say, oh, I was confused by this or that actually.
+52:51
+So wait, I read.
+I read on Reddit like, oh, you got to watch out.
+You're everyone's going to get sick if like someone was describing a situation where like everybody died because like they didn't clean up all of the gore and like the charnel piles of of filth.
+I So I was like watching for that but it seemed like, I don't know it never became an issue and just to be safe I like put the butcher area like outside.
+53:14
+So I don't.
+Know you have to do the Do you have to like or when?
+When is it an issue that there's, like, too much butchered blood?
+That you need to.
+That's always an issue, but as soon as you get your first food poisoning and like, especially if you have low level, if you have low level cooks, you're gonna have lots of food poisoning and if you have a lot of gore from the butcher station next to the kitchen.
+53:33
+Or people running through that area because you make it a high traffic zone, then you make it so that you're going to have lots of food poisoning, which is high reduced speed, lots more.
+They have to eat.
+They just they just suck basically for a day.
+And 1/2 I'm glad I put it in the back alley, then butcher's alley.
+Classic.
+So one thing I was excited to see in Rimworld versus Dwarf Fortress is that like in the World Gen. system.
+54:00
+Like you see, like your globe is generated and all of like the other little sibs are populated on there.
+One thing that kind of blew my mind was being able to like send people from your town effectively out to other towns, not even just on like little quests or missions, but from what I can tell like you can, you can explore all of those other areas on the map.
+54:22
+Is that right?
+Yeah, I have not found it to be, like, particularly rewarding to do so.
+But you can I I guess maybe maybe it it's better now than it used to be.
+I haven't done any of the like let's be Raiders type of deal, but you can attack other settlements and stuff if you want.
+54:48
+Yeah, and never got into it either.
+I think it's.
+It for me like the tower defense sort of element of the game is much more fun and just forming a colony and making all the decisions about who all is going, what kind of supplies or how are they far, are they going, am I going to be OK until they get back?
+And like all that stuff was just like a lot of mental overhead.
+55:06
+Like those decisions for me just didn't feel that fun.
+And then all that happens on the over like the over world.
+Is it like the little dot that is them, you see them moving out there, they get there.
+Either there's a an event that takes place where they don't, you don't have to zoom in, or you zoom in and you essentially usually have to like quit, kill something, or you do.
+And then you have to form your reform your caravan, send it back and it's just like, Oh my God, let me do a Invest 1000 clicks in this little like caravan run.
+55:28
+That just is not, it's not as effective as just like being back at home and just making sure that they're cleaning up the butcher spot after they they butcher something.
+And growing flake.
+And growing flake, yes or yayo.
+55:46
+Or smoke leaf, I mean.
+Flake is the most cost effective.
+That's.
+I mean, Yayo's fine and all, but it's just not this as effective.
+Well, Yayo's for the colonists.
+Flake is for the Outsiders.
+Oh, that's that's fair enough.
+So Will you've you've dabbled a little bit with the, the DLCSI think we kind of touched on them, but there's three of them, each one released one per year the past few years.
+56:07
+So I wonder actually if we're gonna get one for 2023 or if they're gonna.
+Start doing other stuff, but in 2020 we had royalty, which is like royal titles, psychic powers, imperial tech and new quests. 2021 we had ideology which brought along belief systems, social roles, rituals, more more quests.
+56:27
+And 2022 last year was biotech, where will you mentioned being able to generate children, feasting on the earth, flesh, genetic modification and mechanoid boss fights.
+Like, all these things sound like wild and crazy, but I know that there's like, so, so there's the DLCS, which are like bottomless in and of themselves.
+56:48
+But there's there's also a pretty extensive mod scene in this game, yeah.
+Yeah.
+So Colin, you're you're nodding your head in agreement.
+I have not checked out any of the mods.
+I don't think Andrew and I have have gone down.
+Actually initially when I was feeling like, oh really, Cataclysm about situation initially I was like, oh, I need something to spice it up.
+57:11
+I hear there's mods and so I downloaded a this is very clever.
+The mod is called Grim World because it's a it's a Warhammer 40,000 mod, which adds like a custom scenario where you're like Imperium of man, like colonizers basically, and you're being sent off to a planet to like make it part of the Imperium.
+57:37
+And it adds little aesthetics to yeah, basically to make it look kind of like Warhammer.
+And so like you start off like with the the gear that you start with is like a bunch of like army military outfits and laser rifles and chain swords and things.
+57:55
+And that was kind of fun.
+I only did like one kind of brief run with that.
+But anyway, yeah, lots of mods I was seeing.
+Holy moly.
+Yeah, there's like.
+I know the I I I imagine the Biotech mod took or DLC took a little bit of the wind out of some of the sales, but there were a lot of mods before that were attempting to do that without having the true like back support.
+58:26
+So maybe, maybe those mods are even better now that you can.
+There's there's true support for for implementing like weird different species and furries and whatnot, but so like what?
+What do the what do the bio mods do exactly?
+58:43
+It's like you get a bionic arm and you're better at arm related tasks.
+Or like, what is it?
+What happens?
+Oh no, I mean, this is like different species.
+Like, there's what?
+Like one of the big ones I saw was like dinosaur stuff.
+The they put dinosaurs in it and they're like you could make human Dino hybrids and and all that fun stuff but I think it was like a little bit clunky.
+59:06
+I I never actually like played around with it extensively but it was trying to do something that the system wasn't really built to do versus now that the biotech modest or DLC has come out that is literally doing it has implemented a like.
+59:24
+Back end for what these modders were trying to do.
+So I'm sure that in the next year or maybe now they'll be able to take all their previous work and make it like much better with the specifically the back end for different species and different hybrid things and whatnot genes etcetera.
+59:48
+So I'm sure that people are people are pretty passionate about a lot of these mods.
+They're but.
+Real amounts of work into it, so and and from a newcomer's perspective, it was super easy to install mods.
+So yeah.
+Appreciate that.
+1:00:04
+Thank you Steam Workshop slash.
+Thank you devs.
+Yeah, there was a really cool mod like years ago.
+It was like a Mars colony, like a like a Mars landing simulator, but like 2026 level technology or something like very near future, very realistic.
+1:00:26
+But then it like the the creator stopped updating it and it didn't stay In Sync with the Rimworld like version control.
+And it stopped working, which was disappointing because it was like a really weird, it was like the most accurate Mars landing simulator that I've played, and it was not an actual game, it was just a mod for Rimworld.
+1:00:51
+So that was pretty cool.
+Yeah, my, my modding experience is very light.
+I mean, honestly, there's so much content just in the game itself.
+Like, even without these DLCS, there's just so much in there.
+Like all I did was prepare carefully, basically.
+And I think I did at some point.
+I was doing a.
+1:01:08
+Animals only sort of run where I just had one colonist that just tamed everything and that way it was.
+Neat.
+Yeah and that's that's a fun way of playing too.
+But like that's that I had different like I think some animal expansion there but I think yeah prepare Carefully is really the only one that I I, I paid a lot of attention to.
+1:01:31
+Do some scores.
+Say oh I just real briefly I was I was curious on the topic of mods.
+Is there any kind of like this would have to be like some kind of aftermarket like messing around with you know some some of the core files and stuff.
+1:01:47
+But is does this game have multiplayer?
+Is there a multiplayer mod?
+Or.
+Like I don't, I have no idea how it would work, but like is there any kind of Co-op or versus?
+And then my other question is like, would it be fun as like a versus RTS game question mark?
+1:02:04
+I don't think because time time stops whenever, like whenever the player, the player has complete control over that.
+And so you'd have to do both in real time.
+And.
+So if you try to do both in real time, like, I don't know, it'd become.
+I guess, yeah, like sort of a StarCraft S game where you're trying to micro a whole bunch of craziness happening at once.
+1:02:22
+Might work, I don't know.
+One thing that's kind of common in the Dwarf Fortress world is save sharing, where like you build something up and then you like you save your save world kind of a thing and like either someone takes over from where you're at or like.
+1:02:40
+You you build up something to try to go invade that person's Fort.
+Like yeah, I don't.
+I'm not sure really multiplayer would work per SE, but I imagine like if for example will built up like this really super stronghold base and then was able to pass the save over to me.
+1:02:58
+I think you can do this in Rimworld.
+Check me if I'm wrong.
+But then I would be able to say, OK, I'm.
+Like on this world, Will's base is on there.
+I'm going to start a new base and try to go and invade it.
+Is that something that you can do?
+I'm not sure.
+1:03:13
+I can imagine like a some sort of weird asynchronous thing where it's like once per season you send a raid out to like try and attack the other person's base and you're you're kind of like explicitly doing like micro versus macro something.
+1:03:30
+I don't, I don't know if you could just do like the normal game as a multiplayer and have it be like super fun.
+But you know people.
+From a brief Google search just now, it looks as if there are mods that claim to be multiplayer esque.
+1:03:50
+I don't.
+I don't, I don't know, Interesting.
+Interesting.
+Being able to do it and having it be a fun, enjoyable experience are two different things.
+And then another another question that is on the same topic, the topic of combat.
+Would this game be better for new people if there was a cataclysm safe mode auto pause that was so infuriating previously?
+1:04:17
+'Cause every time I got attacked like it was, it came as a surprise, 'cause I wasn't paying attention to the message.
+Just the game teaching you to build.
+Barbarian Madman here.
+I mean that that is the game teaching you to build zones.
+Like for your animals, if you don't want them wandering all over the map, you have to build a zone to keep them in it or a pen.
+1:04:33
+And so as soon as you do that, then you don't have that kind of encounter where your your your prized bonded animal is getting killed.
+It usually has a pop up that something's happening.
+Yeah, it was only sure.
+Sure it's not.
+This isn't like a.
+Complaint per SE.
+It just made gave me pause and I was like, well, you know, maybe Cataclysm was on to something.
+1:04:48
+There you get.
+The pop up be like an option.
+Andrew is being hunted by a polar bear.
+Be like what?
+Uh oh Andrew, you better run back to the Oh no.
+The polar bear's faster than you.
+Oh God, oh God, he's eating Andrew.
+Oh well, maybe we'll be Nope.
+1:05:04
+Oh, we can't even recover the corpse.
+Ripperoo indeed.
+Yeah.
+Well, there you, there you have it.
+And that's what that's what the experience playing this game is like.
+It's like being eaten alive by a Coca-Cola mascot.
+And that's a pretty good review.
+1:05:23
+So, sorry I cut off.
+Somebody was suggesting that we might go into.
+Rank ratings?
+Yes indeed.
+Well.
+Maybe maybe I'll start first because who knows how long my my 4G tether will last here.
+1:05:40
+But yeah, I thought this game was was good.
+I it was kind of an insane week for me.
+So I felt like I didn't have an opportunity to dump as many hours and do it as I wanted.
+But it definitely had that pull to it of like, oh, I should go back to the game and try this versus our Cataclysm experience, which was like.
+1:06:01
+Me feeling like a pit in my stomach of like Oh my God like I got to go back and like try to do something here.
+I guess maybe I'll try and really fighting that urge.
+So it's very much like pulling me in its direction which was good.
+I think the yeah, the tutorial mode I'll I'll say is worth checking out.
+1:06:19
+I think it gives you enough of an onboarding to to kind of get started the the visuals and like the UI and the UX involved like.
+Is is a big deal.
+I think like it.
+It doesn't get talked about enough when games do good UI, and for all the complexity that's going on in this game, it's kind of a triumph that there is like very simple, very straightforward menus of things to like point and click with a mouse and not using vim keys to do so.
+1:06:48
+That's a a welcome experience.
+I I mostly played my time this past couple weeks on the Steam deck and the fact that it's like natively playable on there, it was like mind blowing and it's actually not a bad experience.
+Like I would expect like oh, the font size will be super small.
+1:07:04
+It'll like chug really hard.
+No like it.
+It played really, really well.
+Like I was very shocked about that.
+So I think like top to bottom of the game is like really well engineered.
+The music in this game is really good.
+It's very fitting to the theme.
+I think the build copy button is an absolute life lifesaver from Door Fortress days.
+1:07:25
+But and yeah, things like the the community and like the wiki are also like highly skillfully engineered that it this is a game that, yeah, it's like if you're remotely interested in this kind of topic, I think you'll get a lot of value of.
+I think my only kind of gripe with this is that.
+1:07:43
+Some of the things are a little like terse for newbies, but I think it's like once you get over that hump, you're like, oh OK, I got it.
+And then I think the theme is a little weird where it's like, I think they're the Tyne and Sylvester the creator.
+The DND name guy was saying that it's like very Firefly inspired, which I like it kind of like I'm like, OK, I think I get it in terms of like dusters and cowboy hats, but like M Sixteens and like Uzis with Space Travel seem a little incongruous to me.
+1:08:11
+Maybe I'm just nitpicking, but like maybe I'm looking more for like like one of those Warhammer total conversion mods or like the Kenji one or if like, or if they're ideally if there's one from like the Expanse universe.
+I feel like that would theme really well in here.
+So yeah, I don't know, I don't like space western stuff.
+1:08:30
+I'm in on but.
+I think all the rest of the stuff, like, kind of ticks all the right boxes, and I can totally see myself spending a lot more time with this in the future too.
+So for me, it's going to clock in at my number six game that we've reviewed so far out of 34, just ahead of Monster Train and just behind The Binding of Isaac rebirth.
+1:08:49
+Again, this is something that I feel like that ranking might change over time.
+If I, like, spend more time with it, be like, Oh my God, this game's amazing 500 hours later.
+But I think after my my brief experience.
+You know, like top, top five, six, that's that's not so bad.
+1:09:08
+Wrong.
+I mean that's out of a list of almost 40, we're getting close to 40 that's that's quite, that's quite good.
+Yeah I'll, I'll go, I'll go next we'll we'll alternate between noobs and pros.
+1:09:23
+That's good.
+So I know Will is going to be angry about this.
+I'm going to rank this as our number four-game on this on our podcast list, despite it being one of my top five favorite games of all time.
+1:09:39
+I think that it is the best game that we've played so far in terms of how much I like the game.
+I don't think it is the best rogue like game.
+I think that if you are treating this solely as trying to find a rogue like experience out of it, it's a pretty good game.
+1:10:01
+But my favorite parts of it like and and the way I've been playing it in the last two weeks has been trying to like push the difficulties so that it is a true rogue like experience where you're losing often.
+And I find it like, I still like it a lot, but I think it's still a really good game.
+1:10:22
+There are parts of it that get a little bit repetitive like doing the intro based setup thing more than once.
+You're like well, I've already done this, it's not, it's not different enough to be like super thrilling and I like the mid game or late game more, which by the time you get to that point it is less of a rogue like and more like a city builder or something like that.
+1:10:47
+So I think it is a really good game.
+I simulation games are my jam and I know Will and I have talked about like if I was given a billion dollars and said hey go go like give this money to someone to make a video game.
+1:11:08
+My ultimate video game would be basically this but Amped themed.
+I want like I I think that an ants an Ant theme is the actual perfect theme for a colony simulator, like a weird fantasy Ant simulator where they're like intelligent Ant creature things.
+1:11:30
+I think that would be so fucking cool.
+That's not going to get made, but I would love it.
+So I'm gonna say #4 for Rogue likes number one so far out of games that we've played in terms of just sheer how much I like the game 'cause I love Room World.
+1:11:49
+Right on fantasy.
+And that's a very popular search term in certain corners of the Internet.
+So I was playing, and at one point of my my sort of longest playthrough, A Wildman showed up.
+1:12:06
+Just some Hulken Goon.
+Wandering around, but you know, hey, he wasn't hurting anybody.
+He wasn't stealing too much stuff.
+And so it just kind of let him hang around and after a few days he got friendlier and by golly, he he joined up and he started helping out around the colony he was.
+1:12:29
+Turned out he was actually pretty good at at building stuff, so.
+I thought that and that gave me quite a bit of joy.
+And I thought that was very entertaining, very simple, but like again, a fun little, you know, interaction, all these different complex systems working together to provide a unique fun experience of my, you know, my ragtag, a group of colonists trying to survive on this, on this planet.
+1:12:54
+And I I see a lot of myself in that, that Wildman.
+And it taught me that, you know, even a Neanderthal such as myself can find enjoyment in a game such as this.
+And though it was not as the the, the enjoyment wasn't as easily acquired and it wasn't as often that I was having big jumps of fun.
+1:13:20
+I still, you know, enjoyed my experience with Room World.
+My ranking is like.
+I mean if I if I was ranking this purely based on like oh, is it my favorite game, The most fun I've had it'd be it'd be pretty low.
+But I think in terms of like how objectively, like a good and impressive, like what an achievement this game is, I think it is just that it's quite an impressive as as like a student of game history and like game design and stuff.
+1:13:51
+I think Rimworld is quite an impressive.
+Game.
+And so I'm putting it at #4 on my list.
+All right, well, prepare yourselves for the correct answer here.
+1:14:10
+Yeah.
+So Rimworld, it is tied for first place of all games ever made with Factorio Slightest.
+By our Kerbal Space Program in Kenshi it is.
+It's it's I can't.
+I can't say which is the best of all these because each of them are perfect games in their own way, and the only games I've ever awarded the 10 out of 10 rating to out of literally hundreds in my list.
+1:14:34
+What about Kerbal Space Program?
+Kerbal got Kerbal Space Program was a 10 out of 10.
+What do you mean?
+Did you say that?
+I did say that.
+Not to worry.
+Good looking out not.
+To worry it's on the list, Don't worry, it is on the list.
+But yeah, Grim World is, I mean, 580 hours.
+1:14:52
+I mean that's that speaks for something here.
+And I think it's just such a diverse there's so much content in the game, there's such a diverse number of approaches you can take to the game.
+There's so many weird zany things you can do, so many weird zany ways you can die.
+And now with the new DLC, it's just there's just so much in there.
+1:15:10
+And for me opening it up at like every time I get like it's there's always a new goal that emerges.
+There's always a new pathway of achieving that goal and I think.
+Like, really, if I had to boil down the essence of what makes this game fun for me, it's this.
+It's like a an intensely scientific sort of problem.
+1:15:26
+You you're constantly presented with with questions and you have to form hypotheses.
+Like like for instance, like even just on this playthrough.
+This is the first time I've really thought, like, how much food do I actually need for each pawn?
+Like at at at a bare minimum.
+And like, what's the optimal amount of food to plant?
+1:15:42
+How what's the optimal cycle of food to plant?
+Like at which points in the as you begin the game, Like what's the build order you need to do.
+And so this is something that can be answered with enough analysis.
+And so I just love that this game pulls me out of actually playing the game into spreadsheets where I'm trying to figure this out I.
+1:15:57
+Feel so inspired.
+To be like I need to know like what is the right And I actually have a huge like a huge spreadsheet that's figuring out like OK, well this this plant this much rice, this much potatoes, this much corn.
+On this day you switch from rice to and it's just like it this is oh it's so satisfying when it works and I just I just fucking love it and it usually have the constant questions how do I do this How do I do that What's the optimal way of doing this Oh Oh my goodness.
+1:16:25
+I'm just.
+I just want to spark up some rim world right now and just, you know, just get that flake directly, you know, up the up the nose and get it go straight to excel.
+Yeah, right.
+Yeah.
+Excel.
+Excel.
+The ultimate.
+No.
+Excel's.
+Oh we're in G sheets now That's that's how you do these modern things.
+1:16:42
+But you know you want to be able to share and collaborate.
+In fact, I think I built a Rimworld spreadsheet or a a a G sheet like four or five years ago for prepare pick carefully where I put this.
+Like really complex like here is the results of like if you have to choose three colonists, these are the ideal three based on all of the thousands of reasons.
+1:17:02
+And like this is something I posted and it's fun even to this day.
+I can go on to that spreadsheet and there's still people.
+On there getting information about how to make prepare carefully like pawns perfect and I just, I love that about that the community there and I I love that there's a lot of other inquisitive minds out there who want to really maximize.
+1:17:20
+So that's I mean 10 out of 10.
+What else is there to say?
+It's it is a maximum game and that you all should play it.
+Which means sorry, did you officially state?
+Oh, it's.
+It's, it's one, it's it's number one game by far.
+1:17:38
+I mean, luck Be a Landlord is now slid in the number two.
+And in terms of like and then we have war SIM after that.
+And it's just like, well, Rimworld is just so far above like, I mean in terms of its content and replayability, like in terms of raw fun you experience while playing the game, yeah, they're all pretty similar, I think.
+1:17:55
+But Rimworld just has just so much more reliable dopamine.
+That last five, like there's not 580 hours worth of content in luck, be a landlord or wars.
+So like, yeah, that's it's that's why it's getting a 10 out of 10 here #1 rating.
+Right on, Just wanna make sure we got enough fanfare on that, number one.
+1:18:15
+Gotta make it a will.
+Yeah, well.
+That's gonna make Rimworld our overall number two game of the podcast.
+So far.
+What?
+It's just after FTL Faster than light.
+And oh, you guys.
+Monster train Finally.
+Monster Train has been demoted the number 3.
+1:18:33
+Oh, my word.
+But yeah, so if if you are interested in Rimworld or Rimworld adjacent things, obviously we've talked a lot about Dwarf Fortress a lot.
+Colin, I think you mentioned Prison Architect as, yeah, kind of similar.
+1:18:52
+It's definitely stylistically like the visuals were a direct inspiration.
+One that I've kind of had my eye on, just because it seems so absurd, is Timber Born the The Beaver Dwarf Fortress Simulator.
+1:19:12
+Also delightful, yeah?
+That's.
+A good one, but I do have AI Do have a short list here of games that I think this is a growing new genre of the rogue spectrum of games that are are colony builders but more explicitly trying to get into the rogue format.
+1:19:30
+So we we briefly touched on Against the Storm earlier that's worth calling out again just very recently released in the past few days as a game called dot Age which is like a it's a pun on the old Old Man character that you play as.
+1:19:47
+But it's like, what if Dor Fortress put Super Nintendo graphics, which seems very interesting and delightful.
+There's there's another one keeper RL we got what else on those Kingdom Newlands is is kind of another one.
+1:20:04
+One that's kind of come up a couple times which I'm kind of scared about is something called Ratropoulos.
+But Colin, to your point about bugs, we got bugs.
+I'm from Buenos Aires.
+Kill them all.
+There's a game on Steam called Bugos.
+Oh God.
+1:20:21
+Which give it a quick, give it a quick search.
+I believe is kind of exactly what you were describing 5 minutes ago.
+Well, not it's not quite.
+I think there we go, 22 GS Bogos.
+I mean, I can tell already from looking at the graphics there aren't going to be enough ants getting their their heads ripped off by enemy mandibles.
+1:20:43
+I want I want StarCraft one level graphics of like true True Grit.
+I I mean, I am the guy who has the the Ants textbook and read it for fun and ants are fucking metal dude.
+They're they're so brutal.
+1:21:00
+I want, I want a brutal one.
+I want them to be like spitting acid in each other's faces and like parasitizing the queen and supplanting them via like, mind control drugs.
+And I want I want like a weird.
+Yeah, like Kenshi or Marwind, like level, like kind of alien feel to it.
+1:21:19
+But I I will look at Bugos a little bit more.
+Well, I guess that's going to wind down our Our Rimworld episode here.
+If you want to write into the show and suggest some stuff for us to check out, e-mail us at groggpodzone@gmail.com.
+1:21:39
+We are on Mastodon at Grogpod.
+You'll know the one, and then our website is grogpod dot zone where you can find all of our other episodes and rankings and and fun stuff.
+Andrew what's What's our our game that we're looking at for next time?
+1:21:54
+Well, Scott, you, I think it can be safely said Axolotl questions.
+We're going to be playing AK Axolotl as in an Axolotl wielding an AK47.
+I'm talking Rogue Light.
+Top down shooting it up Schmups.
+1:22:12
+Not a schmups, but a twin stick shooter which has some fun art and has been getting pretty favorable reviews.
+Recently released this year I believe.
+Sweet.
+Let's walk and load.
+Yeah, I think that'll that'll be fun to play get getting back into the the Gungeon style action.
+1:22:33
+But for this episode to play us out from our frontier rim world, Colony on the rim of the Galaxy are some lo fi rim beats for you to get your flake production up and running.
+1:23:04
+The.
+1:23:40
+The.
+1:24:10
+The.

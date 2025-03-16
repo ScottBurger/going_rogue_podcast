@@ -1,0 +1,1517 @@
+0:00
+Music.
+0:38
+Greetings fellow pips and Pippins and welcome to the Grog Pod Roguelake podcast wherein each episode we tie an onion to our belt and talk about a rogue inspired game.
+Slap some numerical ranking number on it and see how it ranks up in the the end of season doomed prophecy Rogue Lake tournament of reviews that we do at the the end of the year.
+1:05
+I am your desiccated joint achy elder of the podcast village, Scott Berger, and with me are my townsfolk Co hosts.
+It's a lie.
+I'm not a townsfolk, I'm heat Death of the universe.
+Also your village, Colin.
+1:20
+And me, Andrew Ma Tosta Harshman.
+God damn it, this is Will who is supposed to be a toaster.
+But now I guess I'm the essence of over pipulation.
+That's a good one.
+This week we are exchanging 5 BS for 1/4 for the game dot.
+1:38
+A.
+No one's gonna know these references.
+I don't know this reference.
+I know we just watched these Simpsons references, so it's top of mind for me, but there's no audience member who's gonna know what the heck you're talking.
+About well see, they're targeted at similarly old people because we we are all extremely old.
+1:55
+I I could not.
+But it's not old though.
+It's like, and also a Simpsons junkie.
+Not just that, you have to be like on the inner of the inner circles I think.
+I think most people who listen to the show are crippling Simpsons addicts.
+I didn't get the reference because I forgot to watch the video that you posted in our discord.
+2:12
+That'll be your homework assignment for.
+The week.
+Oh, you shouldn't have said that.
+So.
+This week we are talking once again.
+We were talking dot age.
+Released October 4th, 2023.
+You can find it so far just on Steam.
+2:28
+I believe it might be coming to consoles at some point.
+Question mark I I have as a data pointing here.
+This was developed and published by Michelle Pirovano from Lombardi, Italy and it rolls in on our data set at the number 383 most popular roguelike game with 1892 total reviews.
+2:51
+And your average player of dot age has about 31 hours of playtime in it.
+Colin, you have just gained the positive trait describer, which means you have to summarize what one does in dot age in one sentence.
+It is a village simulator game where your village is guided by a cross of the elder man with prophecies of doom from 4 apocalyptic domains sent to destroy your village.
+3:20
+Fair enough.
+And you have a bunch of little, little little pips.
+They call them pips rather than meeples or or population or whatever, or ponds pips.
+I do kind of like the the the nomenclature for PIP and and specifically Pippins for the little little baby.
+3:40
+PIPS and over pipulation's pretty good.
+Yeah, that is true.
+But yeah, this is this is our second, I guess, not a very common sub genre for this sub genre of city builder rogue games, which isn't, isn't something you would tend to think of, but it's actually seems like it's it's starting to catch on as a concept.
+4:04
+Our our last rogue city builder game, I think is currently our lowest rated game of of the season, which was against the storm.
+And you know what?
+I I'm, I think I'm still an apologist for against the storm.
+I think I still have fond memories of that game.
+4:21
+I think in the aggregate it did not shape out so well.
+But but this game has a lot of similar ideas, but different, I would say execution.
+I think notably with with the art style, I think that I went back to our Against the Storm episode.
+4:37
+I was thinking myself, all right, what did we hate?
+OK, what did everyone else dislike about that game?
+And I think one of the principal complaints was like the art style for against the storm.
+It felt like very war crafty, whereas dot age I think is like right up in your face with like this very cute, charming, almost Super Nintendo like graphic graphical stuff.
+5:04
+Farmingly pixelated.
+Yes.
+Which which I was struck by the the fact that like it's infinitely like less of a workload to create the graphics for this game, but it's it's like as effective, if not better.
+It's certainly for will.
+5:19
+It's more appealing.
+Yeah, no, I, I, I actually forgot what that game was.
+I did like do a quick Googling because I I mixed that up with the there's another one where there was like a turn based tactics, some city building.
+I don't remember exactly what that one was, but yeah, against the storm, yeah, that was a shit game.
+5:34
+I hate.
+That you know it's it's OK to like or not like a game.
+All devs go to heaven and.
+Your, your average score is like a like a seven point, like 5.
+And you just like if you look at the histogram of your scores, there's sevens or eights, all of them across.
+The you know, I, I just, I just have so much love to give is the same.
+5:53
+And I think there is there's a lot of love to give out for this game as well.
+I think we we might have some criticisms of of this game as well, but that's pretty much.
+Perfect.
+I have on on our on my Google doc note here of of previous city builder games that we played.
+6:11
+I guess will you might be thinking of the last spell which was kind of like that turn based.
+Last spell was good.
+That game was good.
+I almost, I almost think that game suffered of like too much of a good thing.
+And I feel like that might be my similar criticism here.
+6:28
+Yeah, it is a similar problem.
+It's very time consuming, yes.
+And then I also have a note on here that Rim World doesn't count.
+And yeah, what?
+What else?
+The other.
+One I would put in the category is Stacklands.
+That feels like a similar vibe to me.
+6:47
+It's not exactly the same, but it's I have a lot of the criticisms I have for Stacklands I'm gonna have for this game as well.
+Well, yeah, I mean, it's it's interesting that, you know, it's it's been a little while since we've come to this idea of, of the city builder where it's it's a concept that like it feels very time investment heavy.
+7:08
+And that's it's kind of like an idea that goes antithetical to like quick run based natures of games.
+Although I was, I was just playing a different one earlier today that was taking like 90 minutes per run.
+I'm thinking, you know, is this is this really that much faster or slower?
+7:25
+But but yeah, I think like city builder games in general feel like a like a time investment.
+And it's an interesting thing to try to spin that on its head for.
+Well, we're gonna have this be something run based.
+7:41
+But I guess at a certain and this was this was something that one of the listeners wrote in on our summer music special episode of like, like, how long do you like these games?
+And I think we kind of all landed on the somewhere between like an hour to like 90 minutes feels about and you.
+8:00
+Know up to up to three hours is still, like, pretty good.
+Sure, yeah, I I think with the proviso if like you could you could like pause it and come back to it easily.
+Yeah and yeah.
+So I think that like some stuff that is weird with with other roguey colony SIM city builder games.
+8:21
+I think like really kind of stems around the tech tree and this is one of the things that like that like Dwarf Fortress and Rimworld are really kind of skimming the line here of like Dwarf Fortress and Rimworld both have static tech trees.
+Like you go, you open up a world in either of those games and you could like almost like blindly place down stuff to some degree.
+8:44
+Whereas with against the storm and particularly with this game dot age, you don't have that.
+How would how would we describe how the the tech tree in this game works?
+I mean, the, the tech tree works in almost the same way regardless of what sort of like random elements are pulled in.
+9:02
+And what I mean by that is, for instance, in the beginning there's, you need to have some sort of knowledge generating resource and you know, you could have, I think a library or like this.
+I, I don't remember the specific names, but there's a, there's a very, there's a bunch of different, like beginner sort of tech things.
+9:19
+And the differences are like, Oh yeah, this one you has to be adjacent to the city center.
+And, and this one over here is not adjacent to the city center.
+And so it's like, what what's the difference here?
+9:34
+It's like, OK, it's still still generates approximately the exact same amount of, you know, knowledge, but just under different conditions about like where it's positioned.
+And so it's, it's like this facade of differentiation.
+And that's true for, I think all the different like, you know, in this slot for like, oh, you're growing things.
+9:53
+OK, we're going to pick something.
+Maybe it's tomatoes.
+Oh, OK, great.
+Well, in this carrots, it's just like, and they're slightly they have to be close to a well, in this case, Oh, it has to be close to another crop.
+In this case.
+It's just the tech tree is a, like I said, a shallow facade of trying, trying to build something that looks like a diverse and interesting.
+10:14
+Like, you know, when I think about diverse and interesting, I think about StarCraft, for instance, and like, Oh yeah, like the different races are very different and what your build order is and how the, the, the the whole species operates.
+But here it's just like, oh, you get a slightly different building.
+10:32
+Well, yeah, 'cause 'cause you're just playing the medieval Warcraft humans for every run.
+Yeah, essentially and.
+And so I found the detectory solution to building in like a replayability through variation to be very shallow, which I don't.
+10:51
+It's all going to build towards the ultimate, my ultimate opinion here, which is that it's this game is really fun until you get your first win and then just call it good.
+Then just be that's it.
+There's no replayability at all.
+So as as an extremely old person in my mid 30s, my memory, Oh my memory is fading.
+11:09
+You need memories to unlock some of the stuff in this tech tree, and it took me an embarrassingly long amount of time to like, try to figure out how this memory system worked.
+Are you just saving up like memory points or whatever the heck the currency?
+Is well, so I I downloaded the demo to this game a long time ago and I was like, hey, this is kind of fun.
+11:28
+Like I could totally see us playing this at some point.
+And then like I was, I was excited when you picked it.
+So I was like, OK, great, we'll I'll be able to come back to this.
+I booted up my save from, I think I was like 5 hours in on the demo.
+I had no idea what was happening.
+I had no idea like what to do for anything.
+11:47
+And I eventually failed that, that colony and I was like, OK, that's fine.
+I'll start over from the beginning.
+But I was like, well, last time I was able to like plop a thing down from the tech tree, but now there's like this little like puzzle piece there and like, what's the deal with that?
+12:03
+Like I, I thought I was able to, to do something.
+And yeah, I think that like the, the aspect of how you unlock stuff in the tech tree is, is like, is interesting, but well, you're shaking your head.
+Well, I think, I think it's, I think it's interesting for the aspect of trying something different.
+12:23
+And so the idea is that like your, your elder has is trying to unlock their their memories of how how do you dig a well?
+Yeah, they had a stroke basically, and they just forgot a bunch of stuff.
+And now they're like, you know, your kid, like, hey, you, you play the piano and you know how to farm carrots, right?
+12:41
+And it's basically that kind of thing.
+And crucially, you have to build up these these memory points by surviving either passing or failing these events that happen and you get more points if you pass, but you still get some points if you if you fail, which is fine.
+13:01
+It helps keep the treadmill rolling.
+But as you accrue these points, this is this is your meta progression tree of aha.
+I've unlocked 10 memory points.
+Click Hooray.
+I've unlocked all these little things that add in to the tech tree and new events will pop up.
+13:17
+And now cats can come to the village and as VIPs and you know it.
+Should do it automatically.
+You shouldn't have to click, you shouldn't have to click a button.
+The vast majority of them is one after another and you're like, oh, going to click the button.
+13:33
+Was it going to be Oh, it's something that's mediocre to bad for my village.
+Cool, I'm glad I clicked that button.
+I really don't like this the memory tech tree.
+It is unsatisfying in the extreme.
+You you click a button it's bad and or it's things that you don't use in your run, so I don't care.
+13:56
+Right.
+It felt like at, at certain points, if you're, you're, you're barely, at least in my case, your village is barely hanging in.
+And then it's like, oh, well, I've, I've got some memory points, let's spend them.
+And it's like, congratulations.
+And you, you, you the the concept of sin has been introduced into your.
+14:14
+It's like, no, what it's like.
+Or, or you, you unlocked algae farms.
+We're not going to let you do that during this run, but like at some point in the future, 13 hours from now when you're doing your second run, you can have an allergy farm.
+Indeed.
+Now I'd like to point out that when you unlock these new things like, oh, now they're I can't think of a concrete example.
+14:34
+Like now you're some of the more, some of the better and more positive things that you can unlock.
+It's like now your pips will have like interpersonal relationships, like, oh, now that now there's friendship, the concept of friendship has arrived.
+The little hip character looks remarkably like our Scott Berger here, at least in my opinion.
+14:54
+On it.
+Maybe, Maybe not other people if I was like. 6 pixels tall.
+Yeah, yeah, yeah.
+Well, you know, it's, it's, it's an abstraction, of course, but yeah.
+So it's, it's kind of, I was, I, I thought it was neat that like, oh, cool.
+There's like more depth and like character and stuff that can happen.
+15:10
+But I I agree the way in which you unlock them seems totally unnecessary.
+And I'd be curious both with this and with the quote UN quote randomized tech tree, at what point during the development were those things introduced?
+Because it does feel kind of like a tacked on.
+15:26
+I don't know way to make it seem like, as you said, well, the sort of shallow facade of randomization that's a good.
+Question because it feels like in at least in like the the memory meta progression tech tree thing, you know, there there's like at most like one branching path of like, do you want to unlock this thing or this thing?
+15:46
+And I never really like felt like that was like like a cripplingly hard decision.
+I was just like, yeah, I guess I'll just pick up next time.
+Too.
+Yeah, it.
+Wasn't even a.
+Choice.
+It was just like, oh, you now have to lock two of them.
+So, yeah, I, I guess I can see what you're saying with the auto unlock thing.
+16:05
+I would have to imagine that the memory system came after the tech tree because it seems like the idea of the randomized tech tree with like limited options.
+I, I, I will maybe bat forward a little bit to say that like limiting your options scope for like your first run is probably a wise idea because there's, there's like a crazy amount of stuff in this game and I think almost, almost overwhelmingly so there it feels like.
+16:35
+Which is why I say it should unlock like I I I agree with you on that.
+Like you shouldn't get blasted in your first minute.
+But yeah, like if it was an auto unlock thing, it's like, oh, like you've accumulated 'cause I think Andrew shared a screenshot in the Discord of like, what's going wrong with my city here, and you had like 150 memory points banked up accidentally.
+16:58
+In indeed yeah, I that might have been me.
+That sounds like something I would do because yeah on on average, like they're not that impactful like so like, I don't know I guess it it was I was more interested in the day-to-day operations of my my town.
+17:15
+I mean, unless.
+You have that resource on your map where you're like, you're suddenly you're able like, you know, you have cows or you have birds, for instance.
+And like, oh, suddenly you need to have the thing that like gets you the, the bird hunter house, whatever the fuck it was called.
+You know, it's just like, oh, OK, well, and, and how how does that work?
+17:33
+Oh, it's exactly the same as the thing that harvests chickens, except it's a bird.
+It's just a generic bird.
+And it's just like, wow, yeah, that's.
+I mean, I guess I'm just making the same point where it's, you know, it's birds, it's pigs, it's cows.
+17:51
+Oh, cows and milk.
+Oh, milk helps you get cheese.
+Oh.
+Unfortunately, on this run, you didn't have this specific resource on your map.
+So the fuck are you unlocking this for?
+I don't know it.
+Yeah, I know, I I know the answer to this for for Will is certainly no, because Will doesn't really play a whole lot of complicated European tabletop board games.
+18:10
+But I wonder if Andrew and or Colin have played Agricola before.
+Yes.
+Oh, I played, yeah.
+I probably played like 20 or 30 hours into that game.
+Really.
+No.
+Of course, not well played.
+The concept of lying has been introduced to your village.
+18:30
+Oh yeah, just go in there.
+I've heard of it.
+I've I've definitely I've seen it in like every game store I've ever walked into.
+It's.
+A dream.
+That is a worker placement game of some sort, yeah.
+It's a worker placement.
+It's pretty brutal.
+Like it's like place these workers right or your family will starve.
+18:47
+So I mean, it's like it's a it's a real classic, like hardcore euro game where if you play it wrong, you should fundamentally break your economy and then you just lose when we.
+Were playing dot age, it felt, and I've only played Agricola like once or twice, but I kept thinking back to that and I might be the only I have.
+19:10
+I have this game here.
+I don't know if I've unleashing on everyone, but but key flower is another game that is very like worker is, you know, tabletop board game, very worker placement.
+Seasons change your tiles change based on seasons.
+19:26
+Put worker on thing to get item kind of stuff.
+Seems very kind of like sort of in the same genre overarching genre umbrella kind of as this game.
+And one of one of like the, you know, top tags for this game is a board game.
+19:46
+And that got me thinking of like, you know, are like, is, is this actually just a board game in a trench coat here?
+Here's the I'm gonna say, here's the difference.
+Agricola Board Game Geek says play time is 30 to 150 minutes.
+20:02
+So if you fuck up Agricola, you're only playing it for so many hours.
+I think this is maybe this is maybe a good example of where like it's a game concept that is a little too involved and like complicated and has too much stuff in it to be appropriate on in in a board game format.
+20:28
+But if you automate parts of it in in computer game form, you can sort of you can you can do more stuff.
+I guess you could if this was a board game, realistically, like, you know, the tile set would be like, I don't know, 5 by 5 maybe as opposed to this sprawling map that you have in this game.
+20:46
+Well, like.
+It's very it's.
+Very board gamey, Absolutely.
+Like to Colin's point with the with Stacklands being effect like I guess the Stacklands is almost like a digital board game and it makes me think that like Agricola, like a digital solo play version of Agricola if you squint your eyes hard enough could be considered a rogue leg or a rogue light city builder colony SIM question.
+21:13
+No, I get it.
+I mean, it's, it's it randomize it.
+It introduces randomization via what your various tile sets are.
+It's not exactly the same game every time you get the special buildings.
+I can't remember which.
+Yeah, you get the buildings are are different each time you play.
+21:31
+So the upgrade path is slightly different.
+So it's different tech tree.
+Is it a is it like AI think that this is the key thing here?
+Is it a branching tech tree, which is like significantly different up here and down here, or is it a straight line like what you have here?
+21:46
+Because I think that's really the thing that's missing with this.
+If you want to have true replayability, let me build the Zerg path up here where I need to get a whole bunch of like little things that are expendable and the pro toss down here, which are, you know, way more, you know, buff and they have extra Shields and they, you know, cost more but are more effective.
+22:04
+Right.
+And I guess for this, it would be like go for the food path where it's like this building, you know, you're gonna get all these building sets.
+It's like we we satisfy the gods through lots of food or this one's like sacrifice.
+The religious, the science one where you're focused on education, right?
+22:22
+Yeah, you can talk Warriors.
+Yeah, you can probably.
+Literal pips for happiness or something, I don't know.
+We should probably talk about the story to this game because we're kind of leading in that direction where where our story begins with dot age, where your your feeble elder leads a bunch of pips somehow into a verdant valley and you and you say, uh huh, yes, this is this is the spot that I've seen foretold.
+22:52
+We should build our our new lives here.
+Let me just remember how to dig a well really quick.
+And you plop down your, your command center effectively.
+And then you, you go to town.
+You, you are looking around the map trying to figure out where all the good fishing spots are, where to go put your, your workers to start like literally just putting like your meeples on the resource nodes on the map to get berries per turn and things.
+23:18
+And, and after a few rounds, your village elder will remember the prophecy.
+And the prophecy here is kind of the, the another thing that I, I sort of totally spaced on for the demo.
+This is the whole key to the game.
+23:34
+This is the point of the game.
+The prophecy is 8 rounds at least on normal mode from what I was playing, eight rounds of surviving wave after wave of cataclysms and dooms and, and things like that.
+23:52
+And so the the prophecy is this big scroll that unfurls onto the screen and you have 4 columns on it.
+Each one is a different domain, but you have a domain of sickness, one of fear, one of temperature and one of cataclysm.
+And along the way, as you are progressing through the, the days and seasons, as you are progressing up to the, the major challenge for that page of, of the scroll for your, your ultimate or your, your doom event for that level, you are encountering omens, which are little things that increase the difficulty for those domains over time.
+24:33
+And eventually you, you come to one of those, one of those doom events and aha, the temperature doom event has come.
+And depending on how well you've mitigated it, either you will pass or you will fail.
+I was astounded that Will was able to play a run of this game, passing every single one of those on.
+24:55
+Hard boom.
+Boom, pro gamer on hard.
+Mode because I I I think that like.
+Here's a question, Scott.
+Did you beat one?
+Did you beat a run?
+No.
+OK.
+Did you beat a run, Colin?
+I didn't.
+But I'm going to tell you right now that there is not a middle ground once you enter the late game, which is literally this is my biggest complaint of the game, is that you can't beat the game without basically not failing the latter half of the run.
+25:26
+Like if you fail one of them near the end, you just lose.
+So it it like there isn't really an in between point where you fail some of them and not succeed in all of them.
+That's that's not real.
+I mean like I think near.
+The near the end it gets increasingly like you get screwed if you lose.
+25:44
+I think, I think, well, I, I don't know this from the my earlier runs and trying to get my first win on on a normal mode, but it's like, yeah, you can like take one or two hits and like one, you might have a bunch of sickness, for instance.
+But what you do then is like you, you, you start turning out the like, you know, every turn to two or three pips.
+26:03
+And if you have two of the buildings, what you learn later is like, you want to backups of everything.
+Like you start to convert them back to healthy things.
+And like, even though, like, yeah, they're really sick or even if a bunch of people die, you already have your grave set up because you know, you have to have the buildings in advance of the problem.
+That's like where the biggest, that's all that the game is trying to teach you is like, Oh yeah, you have to be prepared for the thing before it happens.
+26:23
+And then when the thing happens, you can mitigate that terribleness and that's it's survivable, then you're pulling.
+All of your SU VS off of the altars and you're moving them over to the BBQ pits, right?
+I mean you.
+Treat it as like a this is emergency.
+Everyone who is like getting any you're doing anything that's not 100% to mitigate the thing that we just experienced or will experience, You're going to be doing that right now.
+26:45
+We're going to you're going to be building a fire pit.
+And even though watcher is a as a type of person, which would like, well, what you know, help with cooling and they would help with the watching the wind.
+They watch.
+They literally watch.
+They're the.
+Lifeguard.
+They're the lifeguard, yeah.
+And so.
+You have some professions and like, you know, I guess we haven't talked about, you know, the, all the various like 40 different jobs they might have and specializations and the bourgeoisie and their, all their legalities.
+27:10
+But the point I'm trying to make here is that, yeah, you, you, you just if even if someone specialized as a Baker Oregon, you know, if a chef or something, you just say, Nope, you're going to dig a hole and throw some wood on it and start generating heat.
+And that's because, or you're going to start chopping wood because right now the The thing is about to happen.
+27:30
+And that that's going to check your, it's going to essentially do a test on how much heat you've generated.
+And of the very simple way of imagining all these domains and these threats is there's two things.
+There's the, you know, for fear, there's the fear and happiness.
+And you every turn you generate a certain amount of happiness depending on which resources you're utilizing.
+27:49
+And fear is generated by the threats and all the, the, you know, the bad things going on.
+And at the end of this kind of countdown, I might say five turns to a thing or three turns until a third thing.
+And you have to be like, oh, shit.
+And ideally you've banked up enough so that you can survive it.
+28:05
+But if you haven't, you divert all your resources into it.
+And the goal is really just to make it so that once the the countdown is over, you have sort of, I'm not sure exactly math on this.
+I could have figured it out, I'm sure.
+But like an overwhelming majority of the happiness to fear, for instance.
+28:20
+And if you have it exactly even then what happens is they have this little dice roll and you click a button and then it slides left and right really fast.
+And then it settles and you either get inflicted with pain or with some kind of a, a boon.
+And it's that that percent chance is based on the, the level of majority up till the point where you get to 100% in the positive direction.
+28:42
+So that's that's essentially how the domain mechanic works there.
+Unless I'm missing something.
+No, that's.
+About right?
+Pretty accurate It's it's like if you were playing StarCraft and like every 5 minutes it goes all right, let's check to see if you have enough minerals banked up and yeah yes or no I.
+29:01
+Mean if you're going to put, if you want a StarCraft, it'd be every 5 minutes you get hit with a wave of enemies of some kind like Scott.
+I saw him freeze there and I'm guessing he's scrambling so he's he.
+Froze and he started having a vision, a vision of what the next episode will be.
+29:19
+Oh, thank good Elder, you've returned from your I had a vision.
+What's that?
+You're ordering us to preemptively, prematurely, pre proactively dig a bunch of graves?
+Oh, that doesn't sound good.
+I rolled.
+Poorly on my my Comcast survival check for 30 seconds.
+29:36
+Unfortunate.
+I think for for for StarCraft would be the have you built enough flying defense check or have you built enough like cloaking defense check?
+Indeed.
+Now I have a question at some point, will you said, hey, yo, if once the five day countdown shows up, like each each round is a day and it's it's all like turn based like before you, you, you, you know, assign all of your workers and how quickly your APM doesn't matter because you assign all your workers and then you hit the little like, okay, next day round, let's go to the next round and then all the stuff is executed anyway.
+30:16
+So will you said that when the countdown starts, like the doom countdown, if you don't already have the resource, then it's pretty much over, I think is what you said.
+And that was basically my experience every time, because I'd get, I'd get a, a thing that says, hey, in five days there's going to be a heat check and you better have enough heat.
+30:35
+And I'm like, oh, no, I haven't built bonfires or whatever.
+And then I'd try to divert a bunch of pips to go and do that and there wouldn't be enough time.
+So here's my question.
+Can you like open the scroll and like see what it's going to be before it gets to five?
+30:53
+Because I was only able to ever do that for like the big events.
+Yeah, you can only do it for the big event, Yeah.
+I see.
+Which domain it's going to be but but if you.
+Fail the big event, it's bad.
+Oh yeah, half your village.
+Dies or half the map is covered in snow 25.
+31:09
+Pips die well.
+There's like crucially, there's also like little things that happen along the way that are not like planned events that can also railroad you where I thought, oh, it'll be fine for me to starve my village because that's not, that's not heat related.
+31:28
+So I'm not going to have a problem with that.
+Oh, that's actually sickness related as it turns out.
+And I have 250 sickness points against me the next round.
+Mama, let's hit the go.
+Button and see what happens and then like my entire colony dies I.
+31:46
+I I was.
+I've been there.
+But Colin, you were saying about like being able to take a punch and how like later on in the game, it's like it it becomes like you, you can't like take even a single punch without losing your whole run.
+32:03
+So one note that I right.
+Right, you have to.
+I mean, you have to have preemptively blocked it, sure.
+Yeah.
+But how does that differ to something like Rim World, which I have not spent a whole lot of time in, but I know that in in Dwarf Fortress, at least there will be events that happen like later on as you are doing stuff that's like, oh, this is like a like run like colony ending event.
+32:32
+And there's basically nothing I can do about it but it but it has this kind of losing is fun element to it.
+I was that's.
+Exactly what I was going to say is I I feel like Rim world and Dwarf Fortress both have the losing and is fun element of like the the the final last stand is some sort of like enjoyable, maybe not enjoyable, but it is a memorable experience.
+32:56
+I'm not like when I'm playing Rim world, I'm not trying to win.
+I eventually just like get tired of the colony and you know, maybe you get to a win state, but they're not like A at the end of this thing.
+33:12
+You're done, you've beat the game.
+I mean OK, there is for room World, but like you don't.
+That's not like a real.
+Active achievement like there's not A at at 13 hours, you're done with this game.
+You're done with your run.
+You like the goal for Rim World will force us to to like get to some sustainable level and build some like weird thing versus This is like losing isn't fun.
+33:37
+Losing is you failing, yeah.
+I think that was one of the things that for for me, like when I could see, you know, like, obviously I make some like mistake, like, oh, OK, like half of my pips are dead, but I still have like I can still continue to the run.
+33:53
+And I'm thinking like, well, to what end?
+Because I know that this run is doomed.
+I guess I could crank out some more science points here, question mark.
+But but that's not how you get like bank up more meta progression.
+Like you have to survive more events to get the more meta progression.
+34:11
+So it's like, well, do I really want to to invest in like, you know, this, this doomed state here that's maybe going to get me like two or three more memory points question mark.
+It should.
+Kill you faster if you If you really do get into that fail state, it should just knock you out immediately.
+34:27
+Or.
+Yes, or I think if if it if you know that you're in a doomed state, it should at least have some kind of like more comedic element to it of like, oh, like all of my pips are on fire now.
+And like like this game has like so much charm in its animation and like pixel art that I feel like and and again, like we're comparing a a solo dev game against like one of the most like popular games on steam period that's been out for like 10 plus years.
+35:01
+So it's a little little different, but one thing that I would love in this game is like, you know, Oh my, my city is doomed.
+It's going to fail.
+That's fine.
+But look at how spectacularly things are blowing up.
+And that's a great point.
+And I think that like the the art style and humor in this game are well suited for that.
+35:21
+And maybe that's something that'll that will evolve over time into this game.
+I could totally see it happening, but I feel like that's something that like that doomed state.
+It doesn't feel losing is, Yeah, like you were saying, losing is not fun versus Rim World or Door Fortress.
+35:36
+So it's like, well, my whole, you know, necromancer has moved in and all of my dwarves have turned into vampires and they're eating each other.
+Let's let's watch it play out.
+You know, it's a it just becomes like a popcorn event at that point.
+And I feel like there's, you know, something something you could do similar here, you know, like have a like a a giant Saber toothed tiger roll in and start Goring all of your pips 1 by 1.
+36:00
+Like that would be funny.
+Like there's there's all sorts of room for that here, I think, because of how how good the the vibe is in this game.
+Well.
+Notably, I think that this that's I mean, you're, you're, you're pointing at something, which is that all of these catastrophes that you're facing are essentially just a dialogue screen that comes up.
+36:21
+And then the infliction of like a number of pips that have, you know, they're sick, they're stunned, they're on fire, they're they're frozen.
+They have, you know, they're they're they're, they just basically get a condition affected or, you know, on top of them or I guess, you know, some tiles sometimes will turn into snow or ash or something.
+36:42
+But it's just like a why isn't there this, this combat element?
+Or like, I shouldn't say maybe not combat, but like, let the creature, some kind of creature, some kind of personification of this very vague domain events like actually enter the screen.
+36:58
+Like what's causing people to be on fire?
+Like it's this is God.
+OK, I get it.
+It's this God thing that like is spiteful, but like make it not just like set random number of people on fire, make the fire breathing thing step onto the screen and start marching across and setting shit on fire and let your dudes like, you know, come out with like little Spears and like, you know, like give me something that isn't just oh, hey, guess what?
+37:23
+Yeah.
+I.
+Like you guys that are?
+Bleeding.
+I don't know, I feel.
+Like I feel like the domains themselves are are possibly too nebulous.
+Where aren't too lazy?
+Well, I wouldn't, I don't know that I would say lazy.
+I'd feel like the the, and in particular, I feel like the, the temperature one has the most interesting element to it, wherein in the summer months you want to mitigate or the hot months, you want to mitigate increasing heat with stuff that generates cold.
+37:53
+And then you want to do the reverse of that in the cold months, which I'm like, oh, that's interesting.
+But like, but like the sickness 1 doesn't really make sense to have that like push pull reversal mechanism to it.
+I wish that that there were more a that there were more domains possibly or will like you're saying, if they were replaced with like with like deities or something.
+38:17
+Like you have to, you know, manage this deity of fear or this deity of temperature, which which feels like it kind of fits into the theme of like, you know, medieval prophecy and stuff.
+And that, you know, the the the end big bad that I, you know, I hadn't gotten that far enough to get to the apocalypse event, but that feels like you would have some, some kind of big boss battle to look forward to.
+38:41
+No, no.
+All of them megazord together into one mega bad.
+DVD.
+No, it's.
+Actually even way it's way more lane than that.
+It's like, well, spoiler alerts here, but spoilers.
+Folks, you're going to want to go to this time stamp.
+38:59
+Yeah, hit hit us with it.
+So the very final, you know, omen of a series of events is like each each of the four gets really mad and in a certain order they start ticking down with their like different levels of doom things.
+But essentially, once you finish off the final dooms thing for the four, it's gone.
+39:17
+It's out of there.
+And so all the pips, they're working on generating health, they can be repurposed into generating whatever's next.
+And so basically it's just you have 3, then you have two, then you have one.
+And it's just like as soon as you have, because you've been banking it up, because you think ahead that because you've learned how to do the game, as soon as you bank up, like, Oh yeah, I've got like over 1000 of the the fear.
+39:40
+And right now you're generating 150 per turn, but I'm I'm generating 250 because I have fucking everything generating that resource.
+You're just like, OK, I guess I'm going to hit here.
+And then like, oh God, every turn is such a drag.
+39:55
+You got six turns of this and you're just like, all right, I'm winning.
+But I have to like tell these pips to do this thing over here.
+You have to do all the pip management, all the and then the.
+Game is like physically slow.
+You click the button and it lags for like 5 seconds before it starts working on this.
+40:11
+That's a hard 1:00, and you're just like.
+That's your computer, I think.
+That's not my computer is very.
+Good and well you.
+Didn't you?
+Didn't.
+Over clock enough for this game, you know, but the.
+Point is, it's not very exciting when you when you finally win and watch the little.
+40:28
+Pip walk across the screen, yeah.
+Are you?
+Treated to surely or treated to a cut scene of some sort, I.
+With my hard play through, I didn't see a single cut scene.
+It was essentially all the cut scenes they have, I think are for your first play through.
+They introduce, oh, these are the different domains and like this is they're demon, you know, they're very exciting, like, you know, essentially deities of sorts and like they have conversation with the elder or like the elders remembering things.
+40:53
+I didn't see a single one in the hard play through and it was just like a Oh well.
+What happens at the very end?
+You you the the final thing finishes and then you get the the the final the screen that says and here's your score.
+Oh, well, that's too bad, because the beginning of every run starts with, well, that that story sequence that you were referring to, Scott.
+41:14
+Interesting.
+Going way back to the whole like losing is is not fun.
+Yeah, it's interesting.
+The game will inflict like this.
+Horrible hole on you where it's like I got 50 workers and they all need to be doing not 50.
+41:30
+I guess an average amount, let's say an early playthrough is like 30 or something, 30 workers which all need to be doing exactly the right thing at the right time.
+Half of them are now out for.
+For 10.
+Rounds.
+41:46
+Yeah, that is pretty cool.
+So.
+A good way to summarize it is the game is constantly soft locking you.
+It's like, well, there's there's no way for me to win.
+There's not a way to do it.
+And I agree that some modifications, whether that be through, you know, some more involved animations or through, you know, giving you some more like story screens and kind of like randomized effects and like interpersonal events that happen to spice up the losing, I think would would help a lot.
+42:17
+Because, yeah, as it is, it's, it's a bummer.
+It's not a whole lot of fun.
+I I.
+Don't like that the game intense and advises you to try to 100% win every event.
+So like the way it it works is you get that little like slider that that jiggles back and forth if you don't quite have enough resources to 100% it.
+42:39
+But like the way to win is to just never had that happen, which seems like a core mechanic.
+I wish it was more like a slider of how good or bad it is and you're like you can never get to 100% or 0%.
+42:55
+It's just like, oh, it's the ratio between them and then it rolls A20 sided dice and how good or bad that is.
+It's like that is stuff that there.
+There is a degree of vadnais or goodness, but so like if for instance, if you had 80% good favorable outcomes, that's still like when you land in the good, there's still a, as far as I remember, and I could be misinterpreting this, but like you could have like up to a seventh level of goodness down to essentially neutral.
+43:24
+And so you're not.
+Based off of how far to the left or right it is in that column.
+The thing.
+Oh no.
+It'll Oh yeah, exactly.
+If you have the 100 percents, then it's going to give you like the the, you know the up to the maximum amount of goodness is possible from like essentially neutral up to that maximum amount it should do.
+43:41
+Better at advertising that.
+It just gives you.
+A solid green bar and then something happens at the end.
+It doesn't show you like, oh, the fact that it happened to be like the thing clicked back and forth and it landed on like pretty near the right side and that's why your thing wasn't that good.
+43:59
+I think if you have like a two negative or like you're very, you know, low chance of a negative event and like a 10% and you hit that, I'm pretty sure if it's like AI don't know the bounds, right?
+This is, you're right, it's not very well advertised.
+But like, I'm pretty sure that if it's like a -, 7 to seven that on this particular one, if you only have a 10% chance of getting negative, I think they limit it to like, oh, you can only have a -, 1 or -2 scale bad thing.
+44:26
+I could be wrong.
+I mean.
+That's my understanding is how it works because it would feel pretty bad to like almost pass and then get hit with like the maximum worst right?
+The maximum bad outcome.
+Oh, in fact.
+Absolutely everyone's on fire now and and in.
+Fact I had.
+44:42
+Was funny close to what happened to me.
+I mean granted I was I I lost on the the 7th of 8th dooms and it was like a 5050 chance and 25 out of my 50 pips just straight up died.
+Oh yeah, I think.
+You probably experience like OK, so 5050 will give you like a yeah, the. 7 is.
+45:01
+Possible, but like at at like a 10% probability or something like that?
+Imagine if it had been. 2575 you would have lost.
+They don't tell.
+You the degree, though, I, I never saw that like pop up.
+It was like this is the degree of bad you just earned.
+It's just like, oh, and suddenly like 3 pips are happy for three days.
+45:18
+Oh, is that?
+Is that not based on like the, I want to say pip, but they've we've already reserved that for the population.
+The little dots above the domain that indicate just how angry that domain is.
+45:33
+Isn't that, isn't that like the severity level?
+Is that what it is?
+I thought it was either that the severity.
+Level dictates how much vadnais is generated per turn when it decides to use that domain.
+So like it's got 7 pips of vadnais per it.
+45:49
+It's like an exponential thing.
+So it's like, oh, we're going to be generating 150 sickness per turn when you're.
+But that's not related to the outcome though, right?
+Or is it?
+I think it.
+Is.
+Sorry to interrupt, I think this.
+Is incredibly.
+Boring lesson to you, but the point is we are confused because I had kind of the opposite impression like, oh, if I get like way, way, way more of this domain, then that'll be really, really good.
+46:14
+And it's like, well, I'm not really.
+So whatever, regardless of whatever the IT is in, in the code, it's, it's clearly unclear to four players we can't figure out.
+So it would be nice, especially in a game that it has such a time investment for that information to be clear.
+46:31
+Because as we've, as we've established, you know, you can only take maybe one or two punches.
+And it really stinks to, you know, lose a run because of a misunderstanding, you know, fundamental misunderstanding with mechanics like this, Andrew, you know?
+46:47
+What?
+What is not boring?
+Oh wait, there is no combat.
+Oh, Santa Claus.
+Tell us about your Santa Claus run.
+And being able to, I have no idea how I unlocked this, but because I never got nearly as far as Will or Colin, who somehow did not unlock this, but being able to play is that is it, Yeah.
+47:08
+Got more memories than me.
+I really only.
+Played, I never unlocked a Santa.
+Interesting.
+So I.
+Either I must have hacked the game accidentally.
+DLC.
+Did you buy a DLC?
+No.
+But when I was picking it or picking it back up from demo mode, the UII don't know what had had gone awry between some update, but the UI was sort of all over the place and it took me some manipulation to get it back in focus.
+47:37
+And I don't know if I accidentally inputted some Konami code that unlocked Santa Claus, but yeah, we, we, we, I think we briefly talked about how there are different elders that you can pick from in this game.
+47:55
+The only other one that I played with, much to my surprise and joy was Santa Claus.
+And I thought this was like kind of more of what, what I was I was looking for out of this in that it, it's more of like a stylized scenario.
+48:12
+So you start in the winter as opposed to starting in the spring like you would in a normal one.
+It's a much shorter run.
+And the like, the way that the elder dynamic works is, is very different where you know, oh, now instead of having to, to develop these things to ward off the, the domains, you have to do that in addition to generating Christmas presents.
+48:34
+And I'm like, yes, this is this like suits, suits, like the the comedy and like art style of the game.
+So well, like your, your pips have little elf hats, which is just, it's just perfect.
+48:52
+And like I didn't, I didn't finish a whole run of it, but you have your Santa elder with a well, notably your demonic Santa elder who demands toys or will start killing your your pips as as retribution like all good Santa Claus.
+49:10
+Basically a Futurama.
+Santa Claus, Yes.
+It's debatable if he's a robot in this instance, but it would it would work pretty well.
+And I think that like this, this is kind of something that I feel like would make the game shine really well is like more of like these little interesting scenarios, like a Santa scenario like or a a pirate ship scenario, like smaller, more focused kind of bite size things.
+49:38
+And I was scrolling through like the Dwarf Fortress wiki has like this enormous list of like self-imposed challenges on here.
+I'm like, any one of these would be like probably super interesting to try to to do here in a similar manner.
+49:55
+I have a note in my Google doc that says like dot age is is in a good way, like door fortress for babies or like babies for store fortress where, you know, you go in with this expectation of, you know, losing is fun question mark and being able to like, all right, well, I'm going to go and like try to build a thing and it's going to blow up spectacularly and that's OK.
+50:17
+And I love that like, you know, having this this other kind of play style available.
+I wish there was more of it.
+And I wish that like you were able to unlock it faster.
+And I was astounded that Will you were saying like you put in a lot more time in this game than I did and you had you unlock any other elders.
+50:33
+Yeah.
+I.
+I've with within like the first I think 32 hours where I left up my first like play through.
+I unlocked the second the shaman and and then I guess during this hard run, I guess you get more experience when you do the hard, but the that that unlocked the captain and yeah, the shaman is just universally regarded as worse according to all the Reddit threads and on my personal experience verifies that.
+51:02
+It's just like, I know I complained about it in our Discord too.
+It's just like, yeah, it's just it you.
+Oh, so you you if you kill animals, it makes everyone sad.
+And also you need fur in order to make the thing that makes more pips.
+So you have to kill animals and make everyone sad in order to expand at all.
+51:20
+And it's just like, OK, well that.
+Sure.
+So now I just have to have more happiness generating things.
+But it just felt so.
+Like.
+Antithetical.
+I was like, oh, your virtue is that you don't kill things, and by the way, you need to kill things.
+51:37
+I didn't like that at all.
+I don't know what the captain does.
+I didn't play it.
+I didn't.
+I'm not that interested.
+Yo ho.
+Ho yeah, Scott, as you were describing the your Santa play through, I was surprised with how well the mechanics fits the that like story.
+51:54
+And it's like, Oh yeah, you need to generate the presents.
+The pips are in fact your elves at certain points you might need to, you might have a glut of of presents.
+You might need to burn them to generate heat.
+It's very amusing.
+Yeah.
+52:10
+I, I, I do like your idea of like a, a, a shorter run that's more niche.
+I'm.
+Pretty frustrated that I didn't unlock any of those things, so I played one run all the way through.
+I lost in the Cataclysm.
+52:26
+It took me 13 hours and I at the end of that did not unlock a different elder.
+I unlocked a bunch of different buildings and so when I started my next playthrough, there were different buildings for me to do, but they're not that different.
+And I didn't have enough fun enough.
+52:42
+I didn't have enough fun to play the same thing again.
+And I was like, I, you know what?
+I'm done.
+This was my that is enough of this game for me.
+And I feel like that's a bad design like you should be.
+If you put 13 hours into a single run, you should have unlocked something that's slightly that's different enough for it to be interesting.
+53:07
+And me like, you know, it that that spit me out and I'm like, I don't want I don't want to play this more because of how frustrating the end was.
+And I didn't have enough fun while playing it to invest that amount of time again to try to find something different.
+And it's like, oh, Santa mode, I would love to have played that, But then I didn't get that option.
+53:27
+So I'm not and I'm not going to play another 13 hour run to get that.
+Are you are?
+You sure you would have liked to play it?
+It sounds like you really don't like this game.
+I'm going to open it up real quick and see if I actually unlock that.
+I just didn't know that's fine.
+Let's.
+Take a look.
+Let's take a look.
+That's I think the problem is that I I like I like a lot of parts of the game and I feel like it just didn't come together for me, like it was a lot of broken promises.
+53:54
+Is this an?
+Early access game.
+It is, it is not early access.
+This game released one point O in last October but has been being worked on by the dev before release I think for like 9 years or something.
+54:12
+Oh, A.
+Macro and.
+So like you know, I, I can understand that you survived.
+Nine winters you telling me wow I couldn't even get through 1 winter so.
+Many of those apocalypse pages, yeah, I think like I can, I feel like I can see where the effort has gone in because there's a lot of like we've been kind of dunking on this game a lot.
+54:32
+But I think the there's a lot of good things about like the UI and like just the overall like the idea of like a turn based like colony SIM is like I've never played that before.
+And I think, like, it's done pretty well here, you know, I think like it, it opens up like that kind of genre in a way that like, you know, 20 years from now that like the only way that I'm able to play StarCraft is in this kind of turn based mode.
+55:01
+Like this would be like a really great way to do it, yeah.
+That's what I mean.
+Like I I had very high hopes for this game and probably I if I had lower expectations, I probably would have given this a higher score.
+But part of it is disappointment, and any.
+55:18
+Game I would recommend.
+I can see why you would think it's going to be the greatest game of all time, so it checks a lot.
+Of boxes.
+And then I'm grew disillusioned and frustrated and like, it's like anything where you go, if you go into a movie and you're like unexpectedly delighted, even if it's only mediocre, you, you think it's a fond experience.
+55:40
+Like, wow, that was way better than I thought it was going to be.
+And then if you go into something, you're like, wow, that's way worse than I thought it was.
+The like, even if it's the same final score, the one that was better than you thought is going to be a better memory.
+Yeah.
+It it's funny to me that you, you, you didn't do what I did, which is like, and I probably do this with most games is if I see that there was some early inefficiency and like what is clearly like a long term game, I just restart right away.
+56:07
+I'm like, oh, oh, I don't actually need to like dump three times as many resources as I I have in education or knowledge into that.
+I'll be like, OK, well, actually, because, you know, you get all these type things that suddenly you can't build and it's just like, because you don't have enough workers, they're like, oh, I'll just do a reset right there.
+56:25
+And that's how I treated this game until I got to like a, a point where I think when I finished my first game on normal, I had an unlock available because I restarted several times.
+The build order really matters early on and no, no, I had this is where the this is where the fun for me was, was like, how do you master that?
+56:46
+Like what is the right build order?
+How do you protect against domains and just doing this reset until you have the right OK, this strategy I, you know, I put two hours in the last one and then one hour in the one before that.
+This strategy here is going to do it.
+And then you get to the end and you're like, that's right, it feels.
+57:03
+Like it's safe, wasn't going.
+To do it if you hadn't, I've gotten, I expected the the game to boot me out and be like, OK, well you didn't do it right, therefore you died.
+But that didn't that just kept not happening.
+I kept getting by importantly.
+I quit before death every single time because I'm like, oh, I got it.
+57:22
+I don't need to watch this play out.
+Yeah, I'm a quitter.
+That's deep down, I guess that's what I am.
+You know, that's this isn't working out.
+Wade that white flag.
+Get out of there.
+True.
+I.
+I don't know, there might be some audio coming through on my end of some some Elden Ring being played, some heated Elden ring.
+57:40
+Similar similar vibe of potential frustration losing is.
+Fun and losing.
+I didn't like.
+Elden Ring either?
+Absolutely.
+But real quick, I do want to point out one thing interestingly, crucially, importantly, when you die in this game, the the game is the game.
+57:58
+The way that the, the story is sort of couched and set up is that instead of that village like being destroyed canonically, like dying and like you get to try again if the village elder goes, oh, wait, no, no, no, no, no, I've misremembered.
+That's not how the story goes.
+That's not what happened.
+Half of your pips didn't die of starvation and they go on a killing spree and and the last remaining amount, you know, died in a, in a, in a horrible windmill accident.
+58:23
+What actually happened was this.
+Let me let's start from the the story over from the beginning.
+And then like rewinds, which I thought was kind of cutesy and fun.
+We need it needs more of that in the losing.
+I feel like that sort of that sort of vibe.
+Now, very quickly, I feel like some people may may hear what we're saying or complaints and say, well, why don't you play the game on an easier mode?
+58:45
+And to the game's credit, when you go to start it up on normal, it says it pops up and says beware.
+Well, I'm paraphrasing.
+It's like dot age is a long and brutal game.
+Like Are you sure you want to play it on normal?
+And you go say yes, but here's the trouble.
+59:00
+Here's the trouble.
+When you go to select like the easiest setting, the little description really kind of puts you off, at least for me.
+It puts you off playing the easiest setting.
+It's like the description is like events like have very minor effect.
+It's like, well then if the if, if there's no impact to the gameplay, you know, to the these events, which are kind of the key feature, like the cornerstone of the game, why would I bother playing?
+59:26
+I don't know, the easiest mode.
+I I feel like the, the difficulty scaling is a little is is not great.
+I'm not totally sure what the solution is, but did anyone try to play the game on an easier setting?
+I did for, for one of my runs, I tried playing it on like super easy and the the shortest possible mode 'cause I was like, OK, like I, what's the, what's the full breadth of this is like, is, is easy, fast.
+59:58
+And particularly, like with this game coming hot off the heels of slice and dice, I feel like I, I'm OK with being bludgeoned over the head with difficulty so long as there's like a lesson to be learned.
+Or I, I have, I'm empowered with a new thing of like, OK, I got it.
+1:00:15
+Now, this next time I can do this other thing differently.
+But here is like, OK, I've spent so much time on this.
+Like I was in the middle of my second village or something.
+And I was like, OK, yeah, I think I'm, I think I'm starting to get it.
+I think I've like grokked the systems, but I'm going to quit anyway to just go into easy mode and see what happens.
+1:00:36
+And I kind of didn't really notice that much of a difference, to be honest.
+And I don't, and I don't know if that's just because I don't really like maybe I just didn't really understand what I was doing.
+But I think, yeah, like once it once it was one of those things where it's like, OK, yeah, I get like how to, how to beat the individual domains.
+1:00:56
+You restart and then it's like, OK, well now I'm, I'm back at square one.
+I have this, even if it is just a hundred turns, it's still like that still feels that's like 100 turns feels like what the default turn or like game length should be.
+1:01:13
+And then like you like maybe there's like a turbo mode like just below that where I have some of my notes in this Google doc are like being able to to start at like a different season or like start midway through a campaign with just stuff randomly thrown out at you.
+1:01:30
+And you're just like you're given like something that's already pre built.
+And then that way you're like, OK, now I can experiment with how the end game works without having to grind for 14 hours to get there.
+Yeah.
+I disagree completely.
+1:01:45
+I think that's a foolish idea and I I think it I would never want that.
+Coming from Sieve Boy over here.
+That is exactly Sieve.
+When I think about sieve.
+If you were to throw me into a random sieve game and sieve, I'm going to go ahead and say even though this is a rogue light podcast, we can't talk about non rogue light game.
+1:02:05
+Turn off now, everybody.
+Yeah, Sieve is a. 10 out of 10 game sieve is one of the sieve 5 in particular, I must make that Colin is a, you know, a fool, but 5 the best ever.
+But like if you if you were to throw me into a random sieve 5 game, like midway through, I'm not having a good time.
+1:02:23
+I I want to see it grow from its beginning to the end and there is so much more joy in like the and then I like got my close ally or what I what I wanted to believe was my close ally to fight this guy here and then I fucking fucked him when he was doing it and he was like, yeah, I.
+1:02:44
+I see what you're saying, but civis is like it's literal apples and oranges because it's so fully featured and so deep in every possible regard.
+And again, you know, it has like maybe more budget behind it than than dot age.
+We don't have for sure.
+But you know, if yeah, if dot age had the the budget of a Sid Meier game like that would be great and the.
+1:03:05
+Thing is that like they couldn't do the AI, there's no combat because to have an AI that makes decisions and like the like the, the amount of work that goes into that is like the that's where it gets the the breadth of like of, of work is done.
+1:03:21
+I think is that you have 16 different sieves.
+They have different specialties, they have different units to do Like no, like there's no way a single solo dev is going to make.
+That's why they're domains.
+They're four generic things you're fighting against instead of like this vast array of, you know, multifaceted civilizations that change at every era.
+1:03:41
+No, there's no way.
+All right, I've.
+Got it.
+So the the God of sickness is is Athens, the God of fear is Rome, temperature is Russia, and then cataclysm is Gandhi.
+What's say?
+Well, wouldn't it just be like slanesh and corn?
+1:03:59
+And what are the other ones, Andrew?
+Whoa, whoa.
+Whoa, whoa, whoa.
+Hey, you're making me look bad here.
+I'm supposed to be the Warhammer guy.
+Oh, yeah, you got.
+I mean, I'm I'm.
+I can't even run that up in the two the clockwork.
+One that's trying to be another Chaos God.
+Wow, look at this guy.
+1:04:14
+Fucking pose and the goopy one all in the way.
+That's not his name, Doctor.
+Gupenstein, anyway.
+Yeah, Yeah, that would be I, I, I do like this idea of the incarnation of these different domains.
+But you know, I guess that's maybe not the vision that our solo dev.
+1:04:33
+What are solo devs?
+If I can't even sacrifice blood for the blood God, that's.
+True and that's where skulls for the skull throne it's true and that's.
+Where I feel like more of these kind of thematic different elders that are quicker to unlock and again, like I'm just like dumping work on the devs plate and be like just make more assets, please, and just make more game.
+1:04:54
+It's super.
+Just hit the import game button.
+You know armchair dev over here.
+Nergl by the.
+Way that's there we are Nergl's the 4th one sorry, just real quick and get that out there.
+I know all four next.
+But here's the thing, yes it is harder for a solo dev to do stuff.
+1:05:13
+But this is me spending my time and money for a thing.
+It's irrelevant to me how many people worked on it.
+Like if I'm recommending hey you should spend 15 hours or 30 hours doing this thing.
+How many people worked on it on the back end is irrelevant because.
+1:05:29
+Scott's See, Scott's insane, so he thinks that like, oh, it's just so Dev.
+Therefore we have to throw them 1000 bones.
+We do.
+We must because we can admire.
+We can admire the effort, but if at the end of it it's like, well, I'm still the one who's playing it, so I didn't have fun because they didn't have enough resources to do the game as good as it could have been.
+1:05:53
+Well, I mean, I still didn't have as good of a time, I feel.
+Like it's a little mean spirited to, to, you know, look at your niece's macaroni collage and be like, what?
+A piece of crap I don't.
+Care how many people work, but it's not.
+My niece.
+It's someone else's niece and I'm not putting it on my wall.
+And you paid. $14.00 for it.
+1:06:10
+I paid 14.
+Dollars for your niece's shitty macaroni art.
+And to be, to be clear, to be fair.
+That's I I I'm I may be coming off a little harsh.
+This game is not You're Right on Bad Mac 100%.
+On the mark here, no.
+No, So I think like for for me, I think the the end point here is that yes, this is a solo dev game.
+1:06:30
+I think like we'll get to our our rankings here in a minute, but but I think because the game has only just come out in October, I feel like this game like would have probably benefited from an early access period, even though it's like it's pretty fully featured.
+Like you can play through the whole end of the game and like there's lots of stuff in it.
+1:06:49
+There's lots of things to do, but I feel like there's there's a lot of element of like community feedback that like this game's getting like a lot of really good press.
+People like it, which is great.
+And I imagine that over the years this game will get content updates and, and things like that that'll help flesh it out some more.
+1:07:07
+So it it might be that, you know, like a little less than a year out it, it might just need some more time in the oven to get that, to get that stuff that we're all complaining about in which.
+Case it'll be a better game perhaps.
+Now, you mentioned that, you mentioned that it's getting good press.
+1:07:25
+Yeah, I'm looking at the Steam, the page here real quick.
+These quotes are wow, wow, wow. dot Age is a masterpiece.
+It says here what compelling from its first moments.
+Each run teaches you something new.
+1:07:41
+Well, not for us, I guess.
+And then there's another one that says, I played over 150 games in 2023.
+And this right here, dot Age, that's my game of the year.
+That's too.
+Many games that's.
+That's that's a lot of games.
+That's true, that's true.
+So clearly it is connecting with certain people and and I can I I I mean I I I see where people are coming from like I I definitely had a lot of fun and it certainly generated a lot of happiness for me personally.
+1:08:11
+This pip right here, but it could be even better, apparently potentially hopefully, I guess we'll see now I'm.
+Looking OK, so I want to mitigate what you just said with the, the number of hours I see played by these recommended thumbs, which are which are Oh yeah, we have 18 hours.
+1:08:30
+We've got 22 hours.
+We've got 33 hours.
+Yeah, by all means.
+And this goes back to my original point.
+Play it through to the end of once, call it good and you can give it a thumbs up.
+Don't do anything more than that.
+In which case, I mean, that's that's pretty good value, entertainment value for 20 bucks.
+1:08:52
+Or. $17.59 Get it on.
+Sale, get it a half off, get it OK, $10.
+And it's weird.
+If you want to be thrifty in this day of indie games, I I rarely pay more than like $10.00 for a game.
+Right, exactly like I.
+Oh my God, it's a rough it's.
+1:09:07
+A rough market 1818.
+Dollars you got to, you got to give me at least I think at this point, like 50-60 hours I feel like.
+In this economy with these interest rates.
+Indeed.
+Here I am, you know, having played Slate Aspire for like, fucking 1000.
+Yeah, you owe.
+1:09:24
+Them money at this point.
+At this point, yeah, I just, can I give you more money?
+Is there a donates to Metacredit or it's called?
+Slate Aspire 2 and get ready for it is the donation button.
+Oh, my.
+Oh, well.
+So I think we have to jump into rankings.
+The ratings done.
+Yeah, otherwise that dam is going to break.
+1:09:41
+Let's see.
+Ratings, ratings, ratings.
+Let's have let's Andrew, let's you kick us off with ratings this time, OK?
+Here we go.
+So I played this game for approximately 8 hours, maybe somewhere between 8:00 and 10:00 hours.
+1:09:59
+I left it running for a little bit of AFK.
+So some pros.
+We got a fun concept.
+Fun, fun graphics.
+The animations are very entertaining.
+In fact, at one point I hit this weird there, there's options to like speed up the animations, which of course I, I suggest doing, but I don't, I didn't want them to be completely gone.
+1:10:23
+I liked seeing them run around and do their stuff And, and I, I enjoyed that visual feedback.
+They're like, hey, you know, the village is doing something.
+At one point I hit this weird glitch where the animations at the end of the day, like weren't happening, where like everyone like fast motion runs to their house, whatever.
+1:10:39
+I'm like, whoa, whoa, whoa, whoa, whoa.
+There's a major problem.
+And I immediately noticed and I immediately had to had to address the issue.
+So I mean, that speaks to, at least for me personally, the effectiveness of the aesthetic and the and the presentation and everything I think is really effective the interface wise.
+1:10:56
+I don't know if this is common for city builders because I ain't hardly played any of them, but the whole like single click interface was was nice, was interesting.
+I I enjoyed.
+And by that I mean, unlike StarCraft, like an RTS type experience where OK, you select your workers and then you order them to move to a particular place, like all you're doing is just clicking on the individual buildings like to give those orders like automatically a pip will go forth and do that thing.
+1:11:25
+And I thought that the the game was able to do that in a pretty elegant and straightforward way, which I was impressed by and helped streamline the experience.
+Like if it had more of a StarCraft type, left click, right click, select your things, order your things, the game will be even slower.
+1:11:41
+And that would be, that would be unfortunate.
+We've discussed a lot, a lot of issues with this, with this game.
+One of the issues that I had was when I first heard about it.
+And I have a bad, a bad track record of a bad habit of doing this with games and films and all sorts of media where I hear the concept and my brain automatically sort of auto generates like what I think that might be.
+1:12:03
+And when I heard that, oh, there's this crotchety, you know, profit of a village elder and you have to manage the city, I've, I, I immediately thought like, oh, cool.
+So I'm going to be like ordering around.
+I'm going to be controlling the elder and he's going to be like buffing people by going and, you know, making the work day go a little faster because he's, he's taking people's mind off of things with some long rambling story that doesn't go anywhere.
+1:12:30
+That involves, you know, five bees to 1/4 and, you know, wearing an onion on your belt or something.
+Unfortunately, the whole village elder thing is really just kind of an aesthetic and also a reason, an explanation for the mechanics, an explanation for the story, which I think is fun.
+1:12:47
+But I, I would have really hoped to have had there be like some kind of meaningful mechanical and controllable aspect to the the village elder.
+Exactly what it is, I'm not totally sure, but I was a little bit bummed that I didn't have a little more say in what the what kind of antics the village elder was getting up to.
+1:13:07
+All this being said, I, you know, had this had a number of playthroughs that were pretty brutal and ultimately ended in tragedy every time.
+But I really, you know, enjoyed, enjoyed my experience.
+1:13:23
+I was having a lot of fun pretty much, you know, all 10 hour 10:00-ish hours that I was playing.
+And this game is going to come in pretty reasonably high, actually surprisingly much higher than Against the storm.
+And one last detail before I get to my actual rating, I wanted to mention was one of my favorite things that I look for in a good roguelike experience is the emergent narrative that can sometimes happen, that story, which that can sometimes save the fun of a failed run.
+1:13:57
+It's like, well, at least I, I died in a spectacular and fun way.
+And that did happen here.
+And it has the potential to happen throughout your runs because of these different effects.
+And, and that can be applied to the, to the peep, the peeps, the pips and these different like random events that can happen in that I, I was, my economy was humming along, but it was very dependent on fishing.
+1:14:19
+And wouldn't you know it, a random event came up.
+It was called bad joke and someone told a bad joke to my fisherman, my only trained fisherman in the village.
+And because of this horrible joke, the fisherman wouldn't work for 10 days and my village starved to death on account of somebody having a crappy sense of humor.
+1:14:38
+What's the deal?
+What is?
+The deal.
+Anyway, all that being said, I think it's probably worth playing this game.
+It's it's pretty fun giving it a 5.64 coming in at #11 on my on my list, so almost cracking the top 10 pretty good.
+1:14:57
+Pretty good.
+I'm going to turn it over to Will.
+No, I'll go next.
+Oh, OK, I'm turning.
+It over to Colin.
+Also, I work for the caveat there, Andrew, your scores baffled me.
+Your your your average rating is so much lower than the rest of you.
+1:15:14
+Then they're like, I like this game a lot. 5.6 like oh OK that's OK.
+Cuz our end of our end of season at mega ball is is based on the aggregate average ranked value.
+So it doesn't, it doesn't really matter what we rank it, but I.
+I very quickly to address that though, it's mine is all about the stack rank.
+1:15:33
+Don't, don't listen to that number.
+It's #11 oh baby #11 what a deal.
+I think I'm referring to my score in the game because crucially, this game does have leaderboards.
+You can compare yourself to your friends, which who doesn't do that already Ready. 11 out of what, though?
+Oh, how many have I reviewed?
+1:15:50
+Great question, right?
+I mean like. 11 means nothing 28.
+Or 1000 you.
+Know will you are I'm sorry to be discussing this on air, but you're you're you're you.
+That's the exact question I asked myself when I first tuned into this podcast.
+Why are you doing a stack ranking?
+1:16:05
+And then I joined the thing.
+And then I suddenly I'm in, I'm, I've been, I've, I've, I've, I've adopted this, this mindset of ranking games.
+And then suddenly it gets switched up on me.
+Yeah.
+What is it out of?
+In my case it's out of 28.
+For you 28. 28 games.
+There we go.
+So maybe next season Andrew's ranking system will get a full renovation Anyway, Sorry, Colin.
+1:16:26
+Yes.
+What did you what did you think of this game?
+You're pretty pretty.
+Probably a nine out of 10, eh?
+6 out of 10 which I thought I saw.
+Your score, did you change it?
+No.
+No, OK.
+I remember Scott.
+That's what it was.
+I.
+I think this game has potential in the future.
+1:16:45
+I really like the idea of a worker placement board game, pip turn based rim world type game.
+But it was just, it was very long and very slow.
+And I feel like there's a lot of things on that that compounded with each other when I was already starting to grow frustrated near the end of the game.
+1:17:11
+Like just, I'm pretty sure it's not my computer's fault, but the game was running slowly, even like, OK, this little Pip has to run across the map and then he's like, look, I found three wood and like, I'm making like 40 wood a turn right now.
+1:17:28
+I do not care about this event.
+And you wasted 15 seconds of my time.
+Like I'm just animation.
+Speed you never.
+You never turned that up.
+I did.
+Turn that up.
+There is.
+I though apparently there was more.
+Animation speeds to turn up that I didn't see, I'll tell you.
+What like at the end with the whole like moving across to like do something at maximum it takes like 3 seconds with even if they had to move across the entire map with maybe I.
+1:17:52
+Didn't find all of the settings to turn up but I mean I'm probably salty because I lost so give it, you know, give.
+It a + .5 then I mean.
+I'm not going to.
+I would have given it a + .5 if I had felt any incentive to play after I lost.
+1:18:10
+But I think the my biggest criticism of the game is that after I spent a bunch of time playing, which was like a decent time, there was nothing else to draw me back.
+I didn't unlock a different elder.
+I unlocked buildings that, as will have said, were basically the same ish.
+1:18:28
+Like the gameplay didn't feel different.
+I played like a couple hours of a new new game and it was like, no, this is the same.
+And I just, I wanted it to be more than it was.
+And maybe it will be someday.
+But if you know you're playing it on August 13th, 2024, I don't think it's there yet.
+1:18:50
+For you, that's equivalent to Stackland's Doom, RL Into the Gungen and a Fate.
+Yeah, so.
+So for me, it's for me, it's 33 out of 53.
+Right, 33, Yeah, Oh boy.
+Scott, who takes the next year.
+1:19:07
+I'll, I'll let you will go and then we'll end in a positive note.
+That really makes me want to have the reverse.
+But all right, because I, I've seen your score.
+I know how I know how you are, Todd.
+Yeah, I'm.
+1:19:22
+Going to give it a 77010 writes it writes it right down to the the brass tacks here is that yeah, play that.
+As I said, play that one play through or I should say go through it.
+Experience the pain of like, oh, that's how this works.
+1:19:37
+Restart several times, realize the right build order, get through to a win and then never play the game ever again.
+And that'll take you probably like 20 hours.
+That's why I say with the price that you have on it, I mean, you expect at this point in the the the with games out there, you want to have more than one hour per dollar or you know, roughly, you know, you want to have.
+1:20:03
+A bit, a bit more than that for a, you know, a truly epic, great game.
+I had a great time in the beginning.
+I, I remember specifically we're playing other games for the, the, the, the podcast and I download this game and I was like, oh, well, you know, it's just, you know, quickly, I'll just spin this up.
+And I, I kept coming back to it.
+1:20:19
+I'm like, I really want to see like what, what was the right build order there?
+And I just kept being compelled to open this up.
+And that's why I inflicted on all of you guys is that I, I, I felt the compulsion that apparently none of you felt.
+And I feel bad now that you've that you've avoided really one of these core like feelings of engagement with video games and, and with fun in general.
+1:20:44
+So I did feel the compulsion I just let.
+It be known I was compelled there was.
+There was compelling.
+OK, I just compelled but there's.
+I was also frustrated while I was like that frustration.
+That's what drives you right?
+You're you failing.
+1:20:59
+You're hitting the wrong note.
+When you're playing an instrument, you practice, you do it again, then you get it right.
+And you.
+Yeah, but.
+There I mean, and that is the core of roguelikes is the you fail and then one more run.
+But there was not that that fail fail.
+Or like just call it quits.
+1:21:15
+Don't, don't try and see it through.
+That's I think one of the key things that we've come out has come out of the discussion is that like, don't watch the boring, slow, sad death.
+Just be like, oh, I mean I.
+Almost made it.
+If I made like one stupid mistake in round seven of eight, I think I would have won the normal the first time I played it.
+1:21:38
+Well, in any case, 7 What's that seven?
+The equivalent to A7 here is Colt of the Lamb, Wilder Myth, Lone Star.
+Yeah, those are all sevens and slightly better is loop hero, Hand of Fates fights and tight spaces and lose and worse is Stack land, streets of Rogue and Griff land.
+1:21:54
+So I think yeah, that's a really great.
+That's a seven.
+That is a solid 7 right there.
+Scott, go.
+Yeah, I'll, I'll.
+Bring this home.
+Yeah, I think this game, this game I like pretty well.
+I don't know if it's a 7 and an 8.
+1:22:12
+Just to out of curiosity, what what?
+What I'm?
+Just remarking on how all of your scores end up between 7:00 and 8:00.
+I mean preemptively for someone.
+You already have it there for someone.
+Who who blasts the the the liquid scale of like you know anything that's below an 8 is basically garbage.
+1:22:29
+I happen to have my rankings built out that way.
+Wait, is it liquored or liquored?
+If I don't.
+Know it was liquored.
+I've always I, I, I, I rarely have, I have never said liquored as in you know what, you know, drinking some Scotch and feeling liquored.
+1:22:46
+Is it is it Likert or?
+Oh my God, I thought it was like higher like.
+I don't know if this is a.
+Review of I've referred.
+No, this is OK.
+For those who are unaware, in the survey business of which both Scott and I have been involved, there's a scale called the Likert scale and it's got like a one to seven and of intensity.
+1:23:06
+According to according to Wikipedia, yeah, the.
+IPA which then I have to look up how IPA works again every time it.
+Says lick LIK in all caps and then upside down ERTI don't know, I think I'm right.
+No, I'm.
+Pretty sure.
+1:23:22
+That's this is what people are tuning in to the final rankings for is debates on and if it's liquored.
+I'm going to feel so fucking stupid.
+I I can't really.
+And it would hurt me a lot to know that it was.
+Oh yeah.
+No, never mind.
+1:23:37
+Scott is right, Yes.
+Vindicated.
+That means that means my ranking of this game is the true ever.
+Go up against Scott, he is our leader, is that.
+Possible Likert.
+Likert.
+Well, it's a.
+Person so no one knows how his name right names work.
+1:23:54
+It's like the worst.
+Name.
+It's like.
+The Resident Evil monster that that can't see and that has a big tongue that lashes at everything.
+All right, so his first name.
+Is Rensis, so there's he's already made that can't be.
+Real, but anyway so dot.
+Age welcome to the liquid scale podcast dot age.
+1:24:13
+I think the the things that I don't like about this game.
+I felt I felt like I was trying to go to the online wiki to find stuff and the wiki was a little sparse against solo dev effort, but I think like the in game wiki was pretty good but didn't have everything that I was trying to look for.
+1:24:32
+So I was a little lost there.
+It feels like yeah, I think we talked about the pace of unlocks for different game modes should be faster and have more variety.
+I think like like the core, the core gameplay experience is fine, but I feel like this game would really shine with some more of that kind of wacky variety.
+1:24:51
+Like you get the Santa Elder.
+The gameplay loop I think should definitely be shorter.
+I think when I when I got to the part where it's like, oh, this is this is the prophecy.
+And you get to the second page and you complete the second page and it's like, oh, this is this is the all of the prophecies going out to the doomsday and it goes to page 8.
+1:25:10
+I was, I just felt like the wind go way out of my sails.
+And I was like, like, I was having fun up to that point.
+And then I was like, well, I don't know, Am I going to still have fun like eight more prophecies from now?
+I don't know.
+And it just kind of felt like I, you know, I maybe I might be having fun from then, but but you know, when you're get your colony collapse disorder going at that point, you're like, well, now I know that it goes to 8 for the normal one.
+1:25:35
+Do I really want to sink that much time into one run of this?
+I'm not totally sure, but the things that I think this game has going for it, I think are really solid.
+I think this game's core gameplay loop is very solid.
+1:25:50
+I think it has a very good foundation and base to it that yeah, I think you could totally add more stuff to this DLC, mod packs, workshop mods, those those kinds of things.
+I think this would be a great playground for that.
+The graphics I think are amazing.
+1:26:06
+I think this is like the animation, the the graphical palette, just how everything kind of comes together feels very it, it feels like this could be released on Nintendo Switch and no one would bat an eye like, Oh yeah, this is totally a Nintendo game.
+1:26:24
+And I think the the UI is, is kind of is pretty busy but functional.
+I was kind of surprised at how well like, Oh yeah, I can just go over here and do this thing.
+And you wouldn't think that like playing a colony SIM game on the Steam Deck would be very easy, but it works really well here.
+1:26:41
+So I think this game would be well suited for like Switch for console games with the with the joypad interface turn based stuff.
+I think is done really well, kind of the core gameplay systems.
+Yeah, plays great on the steam deck.
+Somehow I didn't have any slow down on the steam deck.
+1:26:58
+So don't know what was what was going on there.
+And that is going to come out of the wash at a 7.6 on my liquor to scale of rankings just behind hand of fate two and just ahead or tying with the last spell.
+1:27:13
+Another game that I think is is good, but I think maybe would be twice as good if it was half as long, which I wouldn't.
+Yeah, yeah, it's it's a 7.
+You know, it's, it's in the seven to 8 range.
+Sure, why not?
+1:27:29
+I'll just lump it in with all the other games that have in the seven to 8 range.
+And yeah, I think I think that it'll that that seems like an appropriate spot for now.
+Similar games to this.
+We've talked a lot about Dwarf Fortress, Rim World, against the storm a little bit and and I just mentioned the last spell.
+1:27:46
+Definitely check some of those games out.
+Dwarf Fortress is A to do for us, for sure.
+Some games that have come out recently that I think have that kind of similar whimsiness to them that you get here, which again is like a new burgeoning realm of of rogue, Dom and city builders.
+1:28:03
+There's the Wandering Village, which is like you're building.
+It's like a city management rogue game on the back of a giant leviathan or like a giant monster, which it looks super cool.
+I'm like, hmm, that's an interesting aesthetic.
+I think I've mentioned in the past for similar games of Roots of Yeggersil, which is another kind of very, very nice cartoony looking graphics city builder game that that is has a very unique aesthetic to it.
+1:28:33
+One that I saw just today that was like, oh, this is I should do more research on this, but I'll mention it anyway.
+Cardboard town question mark seems like it might fit in here.
+And then I have some coming soons that haven't come out yet, but stay tuned for these.
+I played all the demos for these recently and I thought these were interesting.
+1:28:51
+There's Technotopia, which is like a city builder asterisk and you're not really building a city.
+Well, you are building a city, but it's like a 3D space luck be a landlord adjacency city builder, which is an interesting concept.
+1:29:07
+You have star ground, which is a cutesy Nintendoized version of of a city builder that like it's like what a factorial bit on the SNES, which has potential.
+I see Colin raising his eyebrows.
+And then you have Neon Garten, which is like a, it's like a sieve light in that you're building out a city and you're building out connections, placing buildings and districts around and stuff, but much quicker.
+1:29:37
+And it has that kind of like 1920s metropolis movie vibe to it, which is super cool.
+So give those a check out at your leisure, listener.
+Yeah, that's going to wind down our dot age show.
+We've all dot aged another 20 years doing this.
+1:29:57
+This episode you can send us your stories that don't go anywhere about how you were getting a new heel for your shoe down in Morganville, which is what they called Shelbyville back in the Those Times to Grog Pod Zone.
+No one's gonna.
+Get to grog.pod.zone@gmail.com if you still remember what e-mail is or if you're one of those hip new kids.
+1:30:18
+And that's like, Oh yeah, I'm totally with it.
+I'm definitely under the age of 30 and I know what Mastodon is.
+You can use a grogpod at game dev dot place to send us pictures of cats there and grogpod dot zone is where it's the one stop shop for everything.
+All right, all that is out of the way.
+1:30:35
+We've suffered long enough.
+We finally made it to 50 episodes of this podcast somehow most and I will say most podcasts don't make it past like two or three or even like 10.
+So the fact that we've gotten to 50 episodes is a monumentous occasion and it could not have done it without the present company involved.
+1:30:59
+So mostly we couldn't.
+Have done it without you because you do all of the work for the podcast.
+True.
+It's true.
+Yeah, it was.
+Up to me, this wouldn't be a podcast at all.
+So I mean.
+That's but for a book.
+Club that's also on the Internet?
+Exactly.
+Exactly the the book club you can listen to on your commute.
+1:31:16
+And for our big 50th episode spectacular, Colin has pulled out of or has has seen the prophecy of what lies ahead.
+Oh, you.
+Know it it's the one it's the only we refer to it every episode I don't actually know if we refer to it during this one well, we are so we got to got to get it in now it's.
+1:31:36
+Hard for playing alpha man play the.
+Spire.
+Play the Spire is that.
+The reference that we've had for this episode.
+I think so.
+I don't think we referenced a single time.
+There was no question the whole box.
+I'm sorry to.
+You know, be a party pooper, but I'm pretty sure Scott mentioned it, but it could be that could be Mr. Remembering.
+1:31:58
+I would.
+Remember any mention of Slate Aspire and there was none listeners.
+Ride in, tell us yes, yes or no, Slate Aspire, yay or nay.
+Well, I'm going to get some dirty looks.
+Can't wait to play that for the first time.
+No, that's I mean that is part of the reason you haven't felt for you.
+1:32:14
+I have not played.
+Oh, are you?
+I wish I was you right now.
+Oh, to only be in that position of never having played.
+This fire, Andrew.
+You are.
+I will not.
+Squander it you.
+Are in for a treat of not understanding what any of the cards do and then getting bludgeoned over the head by a a cackling weenery thief who steals all of your money.
+1:32:35
+You being like OK I can see why this game is so popular.
+No, no, you're painting it in the I don't know why are why are you trying to poison the I mean, it is.
+It is.
+It is a genre.
+It's a genre defining game.
+And we will be covering it here on the grog pod.
+1:32:54
+Hey is.
+Downfall included.
+On a grog pod.
+Latest fire is going up, Downfall coming down as the enemies is an expansion of mod.
+Are we allowed to do both?
+Because I tell you what I've done, I mean a hefty amount of both, but I could go for some variety.
+1:33:11
+Maybe we should just have like the downfall corner where you and I talk about it for like 5 minutes because I don't think it makes sense to try and get Andrew and Scott to play it for this.
+Like the base game has enough on its own, yeah.
+I think there's, I mean, if if Will's able to put almost 1000 hours into the base game, will Will.
+1:33:32
+Yeah, I think like we will definitely mention the downfall mode inadvertently.
+I don't know if it if it will warrant a separate ranking on the Google Sheet per SE, but yeah, we'll, we'll, we'll get there when we get there.
+But but yeah, will you?
+Haven't even played 1000 hours 900. 82 with 40I mean obviously 46 out of 46 by the end of next episode.
+1:33:54
+Yeah.
+No, I'll, I'll we'll be over the 1000.
+I mean, most of that time is it idling on the other half of the monitor while you're watching Star Trek?
+So no.
+No, I.
+I play.
+State.
+Aspire while the reruns of Star Trek or Seinfeld, essentially those two things are playing.
+1:34:11
+It's really the best way to live well.
+Yeah, that'll be that'll be our big 5 O is, is hackling that Spire that we've talked so much about.
+And yeah, that's it's gonna do it for a dot age episode.
+1:34:27
+And playing us out this time will be some some peaceful techno music that wait, wait, no, that's that's not how it happened.
+That's not how it happened to ball.
+It was actually peaceful medieval music that was playing us out from this episode.

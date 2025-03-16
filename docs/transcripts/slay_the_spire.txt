@@ -1,0 +1,1658 @@
+0:40
+Hello dot dot dot again, dot dot dot and welcome to the Grog pod roguelike podcast, wherein each episode we open up a treasure chest full of roguelike games, figure out how to rank how cursed they are and see which one ascends the tower victorious at the end of the season recap tournament.
+1:01
+I am you're talking whale host of the podcast, Scott Berger and let me just I'm just going to draw for from my Co host deck here.
+This is the miscalculation that led you to die on the 19th ascension when you're just about to get the 20.
+1:21
+The most annoying thing possible.
+Appearing in a smoke cloud, it's Andrew Harshman.
+And it's me, Colin, a doughnut.
+Well, we have finally made it to 50 episodes.
+1:36
+We did.
+We did a little bit of of me bowing to the Co hosts last episode, the end of our previous one.
+But I think I have to do it again because once again, very few podcasts make it this far and very few make it this far with people who actually listened to the program.
+1:56
+And yeah, nobody would tune into this program if it was just me babbling on.
+So we owe it all to the to the to the doughnut, to the smoke cloud thief and to the crippling blunder that that really makes the show possible.
+2:14
+But nobody wants to hear me lavish praise on the Co host like I do every episode.
+They want to hear about the revolutionary deck builder, the beating heart of deck builders.
+Slay the Spire released in early access sometime in late 2017.
+2:33
+I don't know if I have an exact date but one point O January 23rd 2019.
+This is another one of our you can find it everywhere games between PC, Switch, PlayStation, Xbox, iOS and Android.
+And this was made by Seattle based Megacrit Games.
+2:53
+It's headlined by Anthony Giovannetti and Casey Yano, among others who are are best known for this game.
+But they have also made I guess a game jam game called Dancing Duelists as well with their experimentation with the that was.
+3:10
+Just an experiment because they wanted to get off of Unity.
+Understandable.
+Understandable Sleigh the Spire rolls in or draws some some kind of pun here on our popularity rankings at the number seventh most popular roguelike game with 161,760 total reviews.
+3:30
+Again, this is it's probably more popular than that because it's on so many different platforms, but at least for Steam ratings anyway, your average player of slay the Spire has and yes, this is the the median average value 129 hours in it, which is eye boggling.
+3:49
+My my note here is just the eye boggling emoji and the Google doc.
+But Andrew, you have one sentence of energy remaining to describe Slay the Spire before mischievous thieves run off with your gold.
+4:05
+Oh I'm I'm low on HPI, got some pretty crappy relics.
+But I reach.
+For a potion, it's, it's a Will Wright potion and I, I'm going to toss it on the ground.
+And of course, Will deserves the right to describe this game in one sentence.
+4:22
+I didn't even think it was a question.
+I didn't prepare nothing.
+Oh, I was ready for that.
+Whatever it was.
+That's a hand off then I'm handing.
+There's only one sentence that comes to mind for me, which is that this latest Spire is the greatest game of all time, period.
+4:38
+That's.
+Exactly what one does in this game.
+Yeah.
+Very succinct summary.
+Just goat goat now it's the game.
+It's probably worth noting at the top here that we have quite the the distribution of involved time with this game.
+4:54
+Where we have we have Andrew with a fresh, fresh faced brand new player experience coming to the table.
+We have me with a a paltry 60 hours.
+I'm not even up towards towards the average level.
+5:10
+I'm like half of that got Colin with over 100 hours of gameplay in this game.
+Well, how many?
+How many?
+Hours more on phone.
+Yeah, I guess that's true.
+You got to add in your phone hours.
+But I think even if you added that in, I don't know that it would come close to Will's total play time count.
+I mean, no, I mean, I think last time two weeks ago it was at 980 and now I pushed it to the 1024 hours.
+5:34
+So, you know, somehow managing to play 44 hours of slate as well in the last two weeks with no problem, enjoying every minute of it.
+Yeah, it's.
+A fan fantastico.
+We didn't actually give an explanation of what this game is though.
+Sure, sure, sure.
+5:52
+The one sentence is it's a deck building game where you accumulate cards into your deck as you climb a tower to beat either the the final boss or the final final boss, the beating heart of the tower.
+Well, it's a it's it's a foundational game, though, right?
+It's it's the Genesis of Spire like games.
+6:09
+It's the.
+Sure, but if this is the first episode of this you're listening to and you don't know what Sleigh the Spire is, I do feel like we should explain what Slay the Spire is before we just talk about how it's the greatest game the whole time.
+If you're one of five people on Earth who are downloading a roguelike podcast who has never heard of Slay the Spire.
+6:28
+Welcome.
+Welcome.
+Yeah, I mean, you'd be.
+Surprised there's a lot of people who don't know like that play games that don't know what Slay the Spire is.
+That's true.
+I think that a lot of people who play games don't probably don't know what roguelakes are, but but yeah, but yeah, I think it's it's worth pointing out this is a a foundational game where we've we've talked a lot about some other deck builder games on this program.
+6:53
+Andrew has had the the other highest of high deck builder experiences with Bilatro and the other lowest of low deck builder expectations with Lone Star.
+It's not.
+You know the worst.
+7:08
+Well, it's the, I think it's the, I think it's the lowest rated deck builder game we've played on the program, but there.
+Are much worse game builders.
+Yes, that that's true.
+There are very much worse games out there.
+Lone Star is a perfectly cromulent game, but but we're not here to talk about ships in space.
+7:26
+We're here to talk about all of the Spire related mayhem that this game has unleashed.
+And I gotta say, I remember the very first time when when Slate Spire came out and Will was losing his mind saying, all right, you have to drop everything and play this game.
+7:44
+And at the time I thought, I don't know, it's it's OK, I guess I'm not really crazy about the art.
+I don't know, like really how to make the cards work.
+I don't know.
+8:01
+And I kind of put it down for a little bit.
+But this last playthrough session, maybe it's because we've played been playing so many other deck builders, but I've come back with a real appreciation for this game as a result.
+So right, right out the gate, I'd like to discuss this genre title of a deck building.
+8:21
+Now in the in the analog space, a deck building game, you literally from the ground up like choose every card that is going to appear in your deck.
+Whereas that doesn't seem to be at all standard in deck building video games.
+8:38
+Is that correct?
+You mean like in terms of deck construction?
+Deck construction.
+Yes, indeed.
+Building construction, I I think I don't know what that yeah, the construction exactly.
+Yeah, I mean.
+I'm, I'm looking through some of the other deck builder games that we've played here and I think that like a lot of them, well, a lot of them kind of stretch the definition of what a deck builder game is.
+8:58
+But a lot of them do do kind of start with sort of like a a pre built deck in a way.
+And you do kind of do that a little bit here depending on what character that you're picking.
+But but yeah, I think like when I was listening to the to the developers talk about inspirations for this game and then talking a lot about the the tabletop card game Dominion.
+9:24
+Yeah, I was gonna say that's where the real it's it's.
+Dominion is but.
+Like this the deck builders come from literal deck building like games, board games.
+Oh, maybe I don't understand the analog definition.
+I see.
+9:39
+OK, well, that that answers my question then.
+Great.
+I've played Dominion, all right.
+It's more like.
+Dominion.
+It's cool.
+I'm gonna go grab my my Dominion go grab it box of cards.
+And also perhaps the art was maybe a little bit informed by really intuition stuff of dominion.
+I joke, I joke.
+The art is perfectly it's it's it's generally I like it.
+10:00
+But I mean, you do bring up a good point about deck deck constructing.
+And in some of the other previous games that we've talked about, like griftlands, like hand of fate, like like bilatro monster train, like they all kind of come with sort of like pre built stuff.
+10:19
+They can come with stuff that's like, oh, you know, you've picked this character.
+So you start with this deck of 25 card that kind of sets you out the gate and that's more of like a prebuilt where like your deck has been previously constructed for you and then you know you make some modifications to it along the way.
+But this slate aspire you start I think and correct me expert if I am wrong, but I believe every character starts with the same 8 cards for attack and four defense.
+10:49
+And then along your travels throughout this haunted.
+And two and two special cards for each character.
+Sure.
+And, and among other stuff.
+But yeah, like it's, it's, it's very similar with how your game starts in terms of what's like the cards and what they do in your hand.
+11:07
+Except like you're saying for like that just that one little special spice.
+But maybe we should talk a little bit about, you know, the.
+So I'm curious from the new player experience perspective for this time.
+11:23
+When I booted it up, I, I went in thinking like, OK, I'm, I'm usually for this podcast.
+I usually like the the first player experience I have.
+I'm like, oh man, this game is really great and I rank it really high and then it tumbles down the ratings.
+I think I had the opposite case here where I was about to give it a spite score of of like a nine just to say like, I don't know if this is good, but it has to be in the.
+11:46
+Nines.
+But but my my player experience coming back to this was like, OK, like, let's let's really dive into it and really like look, look into seeing what everything has to offer with that kind of experience that I had in the in the back of my mind.
+12:03
+But Andrew, you didn't have this previous spider experience.
+So I'm curious, from your perspective, how good was the tutorial in teaching you how to play this game?
+I I have no memory of a tutorial.
+Is this a trick question?
+12:21
+This is a trick question because there is no tutorial.
+Yeah, does it?
+Does it have a tutorial?
+No, I think ascension 0 is the tutorial but.
+Indeed, indeed.
+I mean, it's it's it's fairly self-explanatory.
+This is only like the third deck builder I've ever played.
+12:38
+Yeah, that's a, that's a, that's a rather avant-garde choice.
+But you were you were immediately captivated by the intrinsically complicated and deeply woven story throughout this game.
+12:54
+This is this is Boy Scott.
+He's trying out his stand up on us.
+Yes, absolutely.
+I was, I was yeah, I I had booted up the game once before because someone it it had come highly recommended by a bunch of people.
+13:12
+And and actually, you know, I was, I had the opposite experience in about like, who knows about this game?
+Because I felt like everybody I mentioned it to knew what it was and people were like messaging me saying like, hey, so you're playing save Aspire.
+I talked to my friend who is now a Catholic monk and lives in a monastery.
+13:30
+He has played Slave the Spire like so to me, in my world, my little world, everybody knows Slave the Spire and so someone recommended it long ago.
+I bought it on on sale and I booted it up and I was like, oh, it's turn based.
+13:46
+Like I just come off of a gungeon high and I was like, oh, turn based, but I'm not in the mood for this.
+So I'd I'd booted it before.
+So when I booted it again to for to review it, I thought, well, surely I I missed some intro cinematic and I went looking for it and none was to be found.
+14:07
+Now one could argue that this game takes more of AI.
+Don't know, sort of a dark Soulsian, you know, environmental storytelling, item based storytelling, sort of a tactic.
+Which kind of does events based story event all the ways?
+14:25
+Yes, there we go.
+There we go, there we go.
+But yeah, you know, I would, I would have appreciated a little a little something, something at the beginning.
+I I guess it has a good main menu.
+It kind of sets the scene.
+No, that that that's this is the point of it, though It's it's stylistically very it, it's just down to the, the what matters.
+14:48
+And all you need to know is what's your goal?
+Your goal is to slay the Spire.
+You're not sitting here reading walls of text.
+This is not Griff Lands.
+You're playing chess doesn't have a story.
+There you go.
+Most board games don't really have a story.
+15:04
+Every piece has like a name and a bunch of information, so they're all like cultural touchstones anyway, right?
+Yeah, no story.
+Yeah, cultural touchstones like all of the different people's light aspire.
+So if you want, if you want more information, yeah, like I said, event based learning about the story.
+15:22
+So you get to learn, for instance, that NIA, when you pick up the cursed tome as a just as a, for instance, you get to learn that as you take damage, increase the amounts of damage and you're reading this tome, which gives you the information.
+You learn that Niao is actually a, an ancient, an ancient of resurrection and the ancient of resurrection was expelled and banished from the Spire.
+15:46
+And this whole sort of quest is for, you know, this is Niao as a vengeance against the Spire.
+And because it has the power of resurrection, you are essentially a pawn in his game.
+And that's why, you know, every time it brings you back, you know, gives you the dialogue, gives you the, oh, you're back again.
+16:05
+And it's just this big vendetta that you're involved in.
+Does it explain why Niao is a talking whale?
+Yeah, that's, that's not really relevant.
+I mean, like, OK, imagine.
+OK, so with Zelda, with all these, these games, why is there, why are these four fucking giants?
+16:21
+And, and was this the mask, Majora's Mask?
+There's four giants and they're have to come together in order to stop the moon from crashing into the planet, right?
+And so it's like what there's there's no explanation for this that why are there these four like what was the?
+16:39
+Well, you see, Four Giants is integral to the Jungian philosophy of storytelling and the hero's journey associated like Joseph Campbell's.
+Sure, sure to be.
+Clear I wasn't necessarily saying that it's like, you know, a, a straight up negative per SE.
+16:56
+I was I was just kind of surprised because when when whenever slave the Spire comes up on the podcast, I you know, I'm aware of like the little like Easter eggs that show up in other indie games.
+17:14
+And so I was like, I was I'm like, I'm anticipating OK, we're going to see that that distinctive helmet of the ironclad.
+I'm I'm curious to learn about that guy.
+And then and then, oh, there's the whale.
+Like, yeah, I'm, I'm kind of wondering.
+And then like the heart keeps getting brought up.
+17:29
+I'm like, Oh, there must be some something more I don't know direct to be known about the lore of this, of this Spire.
+And, and there was not, at least not initially.
+So I mean, I, I'm not saying it's necessarily a bad thing, just that I was, I was kind of surprised that there wasn't an opening text crawl of some sort.
+17:49
+And, and you're right, there are, you know, it's, it's it, there's definitely story if you're watching for it.
+And you know, even even the little text, pardon me, even the character selection screen has a little bit of information on each of the characters.
+I mean, this is all stuff I only know because of 15 minutes prior to the podcast.
+18:10
+I'm like, I'm reading about this exact thing.
+That's why I'm able to bring up the cursed tone.
+But like, no, the the the only I'm trying to make is that none of this is necessary.
+I don't need to know what Neo is.
+I don't.
+Neo.
+I didn't even know What wasn't it Neo?
+Yeah, yeah.
+I don't give a shit.
+What the fuck?
+This whale, this three.
+18:25
+Whale like when when the game starts, my vision that tunnel vision down and they're whatever choices in my like the rest of the screen is blacked out as I calculated in my head whether I should get a rare card or sacrifice my starting relic right Give me the give me.
+18:42
+The option in this barest form, like you get this much damage and this or this plus this, and it's just like, oh, thank you.
+Don't give me this whole story about how you're, you know, fighting for, you know, purity and justice.
+No, just tell me what the options are so I know what's critical.
+18:58
+It's just, oh, right down to what matters.
+And they highlight that text every time.
+And they do a real good job of making you so you don't have to read through all the boring stuff, which I mean, for me anyways, I don't.
+I just don't care about.
+I want to do calculations and I want to optimize.
+So this game's available on a lot of platforms.
+19:15
+I might understand that if it was made available on the Texas Instruments graphing calculator.
+That would be perfectly fine for Colin and Will.
+I have a note here that.
+Will and I have talked about this before about whether or not we think you could play this on a Game Boy and.
+And we decided no.
+19:31
+But SNES, we said yes.
+Is that right?
+Yeah, Yeah, I think so.
+Rock'n'roll I.
+Wait, that the incredible thing that's.
+Kind of goofing, but game.
+Boy Color, maybe not the original Game Boy.
+Probably on Game Boy Color, yeah.
+Game Boy Advance.
+True, True.
+Sure.
+And it would be still no, and I think it would be 95% is good on a Game Boy Color because like you know, look at look at Pokémon, you're just like you're, you're picking between 4 moves.
+19:58
+You could have that be 5 moves in its cards.
+And interestingly, oh, here's, here's an interesting tie in Pokémon actually has the the same, the same fairly unique video game art perspective in that when you're fighting, you see your Pokémon, the back of your Pokémon's head, and you also see the back of your character's head when you're resting at a campsite.
+20:22
+That's an interesting time.
+But all that to be said, being said Scott, that that was my new player experience for the first time.
+And I think that like to be clear, like this game I don't think needs a story per SE, cause a lot of the games that are high up on our list, Bilatro dead cells doesn't really have much of a hand holdy story.
+20:44
+Vampire survivors, no story Lucky a landlord.
+Like a line of text question mark.
+I would I would maybe go so far as to say that Enter the Gungeon's story is a little light, but these are all like, well, and I know, I know, you know.
+21:00
+People are swinging.
+Compared to these games you're listing?
+Come on.
+Like those are all like top tier games and they're not story driven games and they don't need to be.
+And I think they'll like the thing that was kind of tripping me up the first time I was playing this was like I was still set in that mindset of like, oh, I need, I need like a guiding purpose and I need the like the goal to do the thing.
+21:24
+But it's like that's what it says right when you boot it up.
+It's in the title of the game.
+You are there to slay a Spire.
+Nothing else matters.
+And really the the story of this game is you learning the systems of each of these different characters that you could pick from and how all of their different abilities work.
+21:45
+And like the the subtle magic underneath it all that even if you're playing a new character for the first time, once you've once you've grocked that and seen the light, it, it's becomes this like otherworldly experience.
+And it's really something that, yeah, I think like, I, I think like, I get it now as to why this game stands apart from all the others.
+22:08
+Otherworldly experience People out here have an other.
+The three of you have an otherworldly experience is why you're playing this game.
+I thought I was just having a fun video game experience but I I clearly haven't played enough so.
+You haven't you haven't played so long that you got dehydrated and your brain started producing chemicals to.
+22:29
+It gets spiritual.
+It gets very spiritual.
+I think when you're at 2:00 AM and you're, you know.
+Your.
+Lips are crap.
+Out to get to the the heart and you know you have worked the next day and you shouldn't be doing this, but you have to finish the run 'cause you can't pick it up the next day and know what's going on.
+22:45
+Sure, sure.
+Oh, yeah.
+And actually Speaking of runs, we've, we have this, I think the first person maybe to point this out on the show was, was our was frequent guest and friend of the pod, Woody.
+He pointed out that almost almost always when you quit a run of a roguelike and then you resume it hours later, that that run is almost always doomed.
+23:09
+But in this particular case, I, I had to go to work and then I, I came back and I was able to resume a game, which ended up being worked out pretty well.
+And yeah, it was, it was pretty exciting.
+Well, I mean, you know, just the regular, like third act awakened boss guy, you know, so, I mean, the stakes weren't, weren't that high.
+23:32
+They weren't, they weren't that high, but they were high enough and, and, and to be clear, very, very exciting, very fun.
+And, and I was, I was up until I don't know, like 1:00 AM on playing anyway.
+Hey, so the you, you mentioned Scott, the sort of, you know, distinct play styles and things.
+23:52
+And I, I do want to shout out how distinct the four main characters are.
+It's it's, it's pretty, it's, it's a nice selection of characters I reckon.
+24:09
+Although I've avoided playing the 4th character because it's like, yeah, that's much to think about.
+I I don't, I ain't got time to think about these stations.
+And all this stuff I wasn't.
+Wasn't one of the original the when it first came out there were only three, so she's she's still a new character.
+24:26
+Well, I can.
+I could tell that by the fact that the art is noticeably better IMO.
+And I share, I share the sentiment of like, ah man, like I've spent so much mental energy learning the systems of these other three characters.
+And the 4th one just seems like like a geometry textbook from another planet.
+24:47
+But like, I think I did one run that was just like a mess around like, well, I don't know what this does.
+Let's try this thing.
+And then I did another run like trying to follow what cards synergize with others.
+And then that's when the light turned on.
+I'm like, I get it now.
+25:03
+Now I can see how this one is different than the rest, but you can see how like like all the different systems interacting and then I'm just like, oh, no, the this is I'm I'm gonna turn into Will, aren't I?
+I'm gonna start climbing ascension levels and I'm going to be staying up till 2:00 AM at trying to beat ascension 20 because I've I've had this, I've been Jaxed with the the syringe and now I've seen it.
+25:30
+But yeah, like I can, I can totally sympathize with that.
+Like it seems, it seems like I think each of these characters has a bit of a learning curve because so you have you have 4 characters to pick from.
+You got your ironclad, a beefy sword wielding green skinned dude.
+25:50
+You have Green silent.
+He's.
+Got green skin?
+Olive, maybe zombified Green, Maybe you have the Silent.
+But anyway.
+A mummified wrapped dagger throwing skull deer skull wearing caped Spire ascender.
+26:10
+You have the defect who is a a robot.
+There's just a straight up robot in this game.
+And then you have the watcher who is a blind a blind monk.
+And each of these, each of these characters plays so different from each other that like ironclad and again, I'm going to be corrected here, very like attack or defense oriented.
+26:34
+And you're just your your focus is pummeling down the enemy, the silent.
+You have like combos involved and you're trying to, you know, poison your enemy as one of the one of your main archetypes of builds.
+Poison ships.
+26:50
+It's a ninja.
+It's a ninja archetype.
+Sure, yeah, a mum, a a mummy ninja.
+You got your defect.
+Who's?
+Your classic robot orb.
+You got orb magic.
+Defect is.
+The character when you pick, when you when, when it's Orban time and then the watcher who is like you are changing your stances and you are looking through your deck and you are dying, but you are not dying.
+27:18
+And that, that about sums it up, right?
+I feel like the watcher is like planning based archetype.
+It's it's about like trying to do things to predict and mitigate and but like plan out things, even though you really like most of the other ones.
+27:36
+You, it's truly it's you're, you're trying to do the best you can with the the hand that you have.
+But I feel like the Watcher requires you more so than the other three to try to plan out over multiple turns.
+Well, that's that left to right, it increases in that like Ironclad, like that's and that's the point of the game is that the difficulty scales with the character from left to right.
+28:00
+I mean, some might argue that Defect is the hardest, but.
+Maybe not complexity, Yeah, complexity in in how you have to think about the synergies and stuff, right.
+You have to think about the future and like what will happen, not just this hand, but in the next hand and like when I think about the end of this current deck that I'm in before the shuffle and all that fun stuff.
+28:19
+Now will I?
+I kind of fumble around build archetypes.
+What are what are archetypes in this game and why?
+Why does this game's like deck building feel so different than all the other ones that we played?
+So, well, I mean, like a lot of, I mean, this is the, the genesis of the deck builder in my opinion.
+28:38
+And so like a lot of things that we see that we have seen in other games are based on what we see in this.
+And so I think that it's, it's fair to say that like archetypes as a, an idea is a fundamental to a deck builder and, and to have enemies that challenge archetypes.
+28:53
+That's also a very important element of a deck builder.
+And with, with the archetypes that you see within this kind of game, well, they emerge from a, so each character has 75 cards and within those 75 cards, there are going to be, you know, there, there aren't discreet archetypes.
+29:11
+It's not like you can see a card that's, you know, labeled bash and you see, oh, this is, this is definitely the, the defense build for ironclad.
+You don't see that like archetype labeled on the card.
+What you, you see is that you kind of get the sense, Oh, this kind of synergizes more with this defensive build where I'm getting more block and more block and I get attacked with block.
+29:33
+Oh, that's interesting, attacking with block as opposed to attacking with like other things that make your, you know, general attack, not block more powerful.
+And so across all these different synergies or all these different, all these different cards, there's a between each card and every other card, there's a degree of synergy.
+29:53
+And that's why I say it's not really like a very, you know, discreet, you know, builds because some things are blended other things.
+But on average, I'd say that, you know, we do a clustering of this kind of thing, which is something I did for my graduate studies and my, you know, doing a cluster analysis of the best cards to have in the Ascension 20 winners of this game.
+30:15
+I looked at approximately 20,000 games or so that made it to Ascension 20 and one.
+And I looked at what are the builds that across the relics and the cards that these folks had.
+And it's like, yeah, well, there are definite strong themes when you need to divide it up into discrete groups.
+30:33
+Now, obviously the the threshold that you, and this is me just rambling here, but the threshold that you apply for, how discreet you want them to be, it can vary.
+And you can have, you know, more, more archetypes or fewer depending on how intense you want that threshold to be.
+30:48
+But the point is that like, it's beautiful in the sense that like when you play an ironclad, you know, you know, you, you draw your first couple of cards and they're focused on getting strength or like, and getting strength and like hitting multiple times.
+That is a very strong synergy and like exhausting things and having something happen when you exhaust the exhaust build, that's a strong synergy, the block build.
+31:12
+So you can see that there's these very three kind of like major synergies for every single character.
+And, and some anti synergies within that as well, because like the exhaust build, which is basically like you trash your cards as you play through, is a great build if that's what you're focused on.
+31:33
+But if you get some of those cards or if you, if you, if you choose to acquire some of those cards and you're doing a different archetype, it will ruin your game and you will lose because they're not good for that synergy.
+And vice versa.
+Like if you're doing a a block or if you're doing an exhaust one and you have the one that you, you do deal damage based off your defense, but you're barely building any defense and it's an anti energy.
+31:59
+It's not good.
+Yeah.
+And so, so and so the, the point here is that like, yeah, those, those three primary ones, but later on top of this is things like speed of your deck.
+And so some, some in some cases just drawing a lot of cards and playing them with like 0 cost cards and just getting things out very quickly.
+32:14
+That's another archetype, but it kind of layers into like other stuff.
+And so overall, I don't know, is there a three, Is there four?
+Is there 5 archetypes per character?
+It's, it's really hard to say what that line is, but there are many and they are adaptive.
+32:30
+And so if you are building one way, you can get a different card that you can get the best card for a different build and say, Oh yeah, I'm going to go in that direction.
+And that's kind of the, that's the beautiful thing.
+That's the balanced and calculated and just the best thing about this game is that, like you're not forced into certain directions.
+32:49
+There's not just three builds.
+There are an infinite number of builds in between, each conducive to, you know, the cars that you're presented with and the relics that you're presented with and the potions that you're presented with along the way.
+So, so here's here's an example me Googling Slay the Spire Ironclad tiered list and seeing someone has put all these cards into a tiered list.
+33:15
+That's great because I don't have any idea what these cards do.
+I see that scroll scroll scroll scroll scroll Reaper deal for damage to all enemies, heal for unblock damage exhaust.
+That's that's labeled pretty high.
+I think I'll take one of those please.
+33:33
+And then maybe like a few turns later, oh, I see, I see it again.
+Yeah, I'll take it.
+It's it's a highly rated card, right?
+It's it's really good.
+So surely I could have like six or seven of them in my deck and that would be even better, right?
+That's another thing, yeah, the the balance your deck has is not something that is is going to be apparent based on these tie ring systems.
+33:55
+These tier systems are like, if you have no, if you have just the starter deck and you're looking at a bunch of new cards, then like, yeah, then generally you want to get the ones that are higher tier.
+But if you're going down a certain build route or you have an abundance of a certain type of car, maybe you have too much defense and not enough offense.
+34:13
+And I think we've all hopefully been in that position where it's just like, Oh yeah, you can defend every single shot and you're going to be stuck here in the entire game if the enemy isn't scaling just like sitting here defending because you can't, you get that one strike out because you removed all your strikes except for 1:00 and you're just yeah, that's a unfortunate position to be in.
+34:30
+So teaching you the, the balance of the speed of your deck and the amount of draw that you have the, the block, the the attack and you know, effects that you play, powers that you play.
+These are kind of, I think the five I'm probably, I'm probably forgetting other sorts of categories of things that you want to have balanced into a viable end build.
+34:53
+Obviously all this stuff is very dependent on the relics that you have too, but that's just kind of goes without saying, I want to say.
+But the relics are are really the, the rare relics and, and the the, you know, boss relics, I think are the more determining for what your build looks like then what your cards are.
+35:12
+And that's something that I think that you looked at recently in your builds.
+Yeah, I mean like this was something that like I didn't like.
+And this was the eye opening moment for me was like, I didn't get the the balance of strategy of when.
+So like, you know, you're starting, you're starting a fresh silent run.
+35:29
+You're like, OK, I would like to start a poison build today.
+Please give me one poison build.
+None of these cards that I'm being offered look like they go well with poison.
+Nah, I'm not going to I'm not going to do these.
+Where's my poison card?
+You know, keep fighting, get to a shop.
+35:46
+Finally, poison card.
+It's only been 9 floors of of the dungeon, but I finally got that poison card.
+I'm ready to go.
+All of my relics that I've picked up through events or fighting mini bosses on on the various acts haven't given me any stuff that goes with poison.
+36:07
+Well that's fine.
+I'll just take up like 25 poison cards, right?
+And yeah, I think when you were saying, you know, you have to pay attention to how your cards synergize with each other.
+Even if you're picking up some C tier and B tier cards, if they synergize well and you keep that balance well in terms of your deck size and like how fast you can draw them.
+36:31
+And then you get a relic from a a mini boss.
+It's like oh you're not going to need poison because you just got an item that upgrades all of your 0 cost Shiv cards to do 6 extra damage or something crazy.
+36:47
+And I'm like.
+Well, I guess I'm doing a shipbuild now.
+And so I think that's like that's the thing that we haven't seen, didn't see in Griff lands, didn't see in Monster Train as much, didn't see in some of these other deck builder games of various sorts.
+37:06
+Is this very subtly hinted at a system of like it?
+It feels like there's no wasted space in this game, and that even bad cards still have some kind of effect that build into a broader system where when you're starting out, you're like, well, I don't know if I'm going to be doing an exhaust build today, but I might get three or four cards that are leaning in that direction.
+37:31
+And then Oh well, I've gotten the relic that also builds on that.
+That's great, but what about the times where stuff doesn't go that way?
+Like.
+I'm kind of curious like on on the quote easy mode ascension level zero, like I have an embarrassingly low win rate.
+37:53
+I think I've only won I've won I so I've I've won on ascension one with each of the characters except the watchers so far.
+But I think I only have like maybe two wins total, which with each of them out of maybe like, I don't know, 20 so well.
+You're doing better than me.
+38:09
+I got, I got one and literally it came down to the final card that I played and it was the last card I had.
+And I was like doing the math, I'm like, no, I'm, I lose.
+And then I forgot about some, I don't know, right or some right or some buff or whatever that I, that I had where I dealt like one little extra bit of chip damage and but like one more round and I would have been, would have been done.
+38:30
+So yeah.
+Well, real quick, going back a moment, you said, you know, we haven't seen this in other games.
+This sort of this subtle is a, is a keyword that you used.
+I would argue it's maybe a little too subtle.
+And the first like maybe five hours of playing this game, like I was enjoying myself, but I felt I, I, I was, I was kind of, I was, I was nearing, I'm starting to run out of patience.
+38:55
+It's like, OK, every run I get about the same amount through the game.
+I'm not sure how to improve my play here because I don't, I don't know what it was exactly, but the, the I knew that I needed synergies and I was like actively trying to look for them and they were not making themselves apparent now.
+39:17
+Now when I sit down and and play the game, I have, I think a better sense of it.
+And my one successful run was through.
+I don't know, the main synergy I was playing with was like the card Juggernaut and then which which allows you to deal a little bit of chip damage every time you block.
+39:39
+And so I was pairing Juggernaut with a bunch of blocks.
+Makes sense.
+So not taking a lot of damage, but while I'm, you know, defending myself, I'm also outputting damage.
+Great.
+So I guess I don't know what's what's my point here?
+It it kind of sounds to me, Scott, like perhaps you're the beginning of your time playing this game.
+39:58
+You were having a somewhat similar experience to me.
+Where, yeah, I mean.
+Synergies were not at all obvious and the game really demands mastery and understanding of the synergy system, which I mean, hey, I'm I'm I'm a meathead shooter guy and enter the gun Jen like it just straight up says, hey, this item is synergizing with this item like it just calls it out and like some of the and the item like changes do a different Sprite and it's like, you know, very in your face, very obvious in bilatro.
+40:29
+I, I perhaps it's something to do with just poker being a more recognizable game, but that is a is a game where the synergies are like very pronounced, the average synergy, I guess.
+Whereas yeah, this game, it, it felt, I just, I felt like the game was, I'm not sure what the solution is here, but.
+40:49
+It feels some kind of feel ambiguous.
+It's good that it's ambiguous in.
+What way is that good?
+Well, I I think like the the new player experience for sleigh the Spire.
+If you haven't really played deck builders much is like if you are playing one V1 dominion against a very skilled dominion player and they are not going easy on you and you're like, sure, I'll add more cards to my hand.
+41:12
+Why not like I have all these victory point cards that are polluting my hand size.
+Why am I losing so bad?
+And you're just getting throttled the whole time.
+You're like, well, that's great.
+Why is this fun?
+But when if you have, I think like we had the the benefit of Will's experience to guide us in our Discord chat of no, no, no, no, that that build that you failed with obviously wrong.
+41:37
+Look at this build that I did synergy, synergy, synergy, upgrade, upgrade, upgrade.
+Of course it's going to be so much better and being able to learn from a master and being able to have that kind of like hand hold the experience.
+It was like, OK, like, so I should be doing it like this.
+41:52
+Let me try that.
+Oh, of course it works that way.
+And yeah, I think like because you know, the sleigh, this fire came out a while ago.
+You know, it, it, it hasn't like picked up on those things that have kind of improved those quality of life things that made made it more obvious.
+42:11
+And yeah, I think like if you picked up something and I know Will's like get dying, dying to say that.
+But I, I do think that I agree with Andrew's point that like if you pick up a card and it may be on like some kind of easy mode or something says like, hey, this card pairs really well with these other cards that you have in your deck.
+42:28
+And you know, otherwise, like if you hover over another one, it's like it doesn't really.
+Pair or maybe if there was a tutorial?
+No, no.
+OK, so yeah, yeah, yeah, here's how AP works.
+This is how card draw works.
+This out and any move sets work.
+OK, sure.
+42:43
+But I think when you zoom out and you look at like, what is the player progression of understanding supposed to look like?
+What you see is in the very beginning, yeah, like the the unlocks that you're getting, the meta progression, which I think is actually under an area for improvements, is that it's just XP based.
+43:01
+The further you get along, the more XP you get, the more unlocks you get for cars in that class.
+And there are certain cars that are, you know, better and generally speaking than than the ones that you start out with.
+And so the way the the game is supposed to work in terms of the hook is that you are supposed to see that your experience is gaining and that, oh man, I almost got to unlock and I didn't quite get there yet.
+43:21
+And so you're supposed to want to start, start the next one and start.
+And that's what's supposed to compel you to get through the first, you know, you know, portion of the game.
+The 1st 20 hours, 30 hours for first of a character doesn't.
+Do that in any way, shape or form.
+What do you mean?
+Like the unlocks are irrelevant to my desire to play the game like and waiters get further in the game.
+43:43
+Like the unlocks are just things that I forget that they happened.
+Like I was like, oh I guess I haven't played the watcher that much because I still had some unlocks.
+OK, and that and that I, I admit that is a critique I have of this particular game is that the unlocks could be more interesting and better and like as a for instance, instead of a generic XP pool which you know by completing games you get more XP.
+44:11
+It could be achievement based, which is like to say if you use a synergy appropriately against a an enemy which is countering a specific archetype then you can for instance unlock a a card or a some kind of relic or something.
+44:27
+And get 100 poison on the thing.
+Yeah, you get 100 poison on something, or you play 20 cards in one turn.
+Then you unlock All for One, which allows you for two AP to smack an enemy and collect all of your 0 cost cards in your discard.
+Oh my goodness, isn't that a huge thing?
+44:42
+That's a huge feeling of success.
+Yeah, that's 100 poison. 100 poison.
+I'm trying to win a game I put. 700 poison on the heart.
+The scaling of the poison with the the ability to double poison with certain items or with certain cards.
+44:57
+No SO.
+So what I think?
+Really the thing that the the the new player experience I think that Selena Sire struggles with the most is card picking up cards.
+I was talking to one of my other friends who was who's gotten into Slay This Fire recently and I was, we were like comparing builds and he was like, wait, you only have 20 cards in your deck?
+45:22
+And I'm like, yeah, he's like, I have only skipped picking a card like three times ever.
+Because like there is a very real chance that you just never think about.
+Like if you're not thinking super deeply about the game, like it just feels, it feels bad.
+45:38
+It feels very bad to not pick up card.
+And I think that's one of the things that Monster Train does better, just objectively better, is that if you decide not to pick up a monster or a card or whatever, you get a little bit of gold.
+Just, I mean, it's not really that relevant, but it's just enough to make it feel like you're not completely wasting that choice.
+46:00
+If it was 5 gold in Sleigh the Spire, like basically nothing, it would feel like you're not.
+It's not nothing.
+It's a pittance, but it's not nothing.
+I know that's a list of improvements.
+I agree it feels like 5 improvements but like yeah. 9.9 out of 10 Terrible game.
+46:21
+Worst.
+Worst.
+It's still the greatest game of all time, but like I said it like the one that is the greatest of all imaginable timelines that has yet to be designed.
+I'm working on it right now.
+Let.
+Me Inspire 2.
+Whale so.
+Help you.
+They are working on it.
+Oh yeah, the yeah, Slate Inspire 2, which yeah, that's cool.
+46:39
+We we that does have a trailer with like kind of some animation.
+So maybe that will have an intro cinematic.
+I feel like basically every roguelike game that has come out in the past three years has some sort of like way elaborate, like anime intro trailer.
+46:55
+And I'm just like, you know, I could, I could.
+And, you know, obviously we we said that Dead Cells was getting a cartoon show.
+Yeah, we're supposed to inspire cartoon.
+Yeah.
+Where the main character dies every time from a giant beating heart.
+But yeah, so before I think before we get into sleigh the spider 2IN our wish list for it.
+47:15
+Like what you do in this game, You know, you're, you're fighting through hordes of enemies, you're climbing hordes.
+I mean, in a run you fight what, like 30 guys maybe?
+Well, that's, you know, let's.
+Talk about hordes.
+Let's talk about last spell.
+Oh.
+I mean, sometimes you're fighting like 5 little pearly Q worms that's.
+47:38
+Like.
+The maximum amount, Sorry, whatever.
+Yeah, you're, you're.
+Fighting.
+Enemies in kind of a semi traditional classic, you know, dungeon type situation.
+In a style that every every almost every card game, digital card game has since aped with good reason because it's so fundamentally sound here.
+48:02
+But crucially, you know you you have a map of this part of the tower that you are climbing up and you have your FTL style branching nodes with shops and once along the way.
+Well, I mean, I've got a 30 minute segment on the map.
+Go ahead, go ahead.
+48:18
+Sorry.
+Yeah, well, it's it's it's made of parchment paper.
+You have your little circle for where you are.
+That's about it.
+There's what else could be set you.
+The map.
+'S good, but it's not like special.
+It's better than FTL.
+48:33
+Sure.
+What?
+What's better than?
+What is better than latest buyer setup?
+I think there's.
+The same Monster Train.
+I'm not saying it that there's anything better, I'm just saying that it being better or not is almost irrelevant to the like I could you you could give it to me like pick two choices to pick two paths and I think I'd have the same amount of fun.
+48:58
+Yeah, but you know, it's just a.
+This comes down to the.
+The best thing is I.
+Think I think all right, maybe master class is kind of.
+A little bit over dramatic, but I think that's appropriate.
+I mean if you're the.
+Map the branching map is is a really excellent execution.
+49:18
+An example of of that part of what make what what what makes a game fun.
+That will often quotes about the that decision making and you get to decide which route you're going to take and what encounter you're going to take on next.
+49:35
+Because as you're, you know, navigating of your choice of fighting a monster, fighting an elite monster, going for treasure, going to the, going to the, the merchant, going to the, the question mark, the exciting question mark.
+And you know, sometimes you're right, Colin, it, it feels like maybe it's not making that big of a difference.
+49:54
+But there, I think, I think it's, I think it's having a bigger effect than than maybe you're consciously aware of.
+And I had a run recently, like a few days ago, where every decision on the map was extremely important because I had such low health and it was very gripping and very exciting.
+50:13
+And that's one of the beautiful things that comes out of the nature of this is that you want to ride that line.
+That is like, well, I want to get the maximum amount of like, you know, I want to fight that elite because I want to get that relic.
+But also I have got 25 HP and this could end the run.
+I mean, I definitely have been the the like there is a split decision here.
+50:33
+Either go to the campfire and heal or find an elite.
+And I clicked on the elite and I was like, wait a second, wait a second.
+I only have like 18 hit points.
+Why did I do that?
+Like and then I immediately I died like the first turn and like, well, I guess that's what I get for hubris.
+50:51
+Right, but sometimes you take, you take no damage.
+In fact, you heal, you get more health back during that than you take.
+And it's just like, Oh my goodness, then you're like it the the the feeling good.
+This is one of the key things and I want to just focus in on like what is the core source of fun for this game?
+51:10
+It's that feeling of being right on that edge of like this could be I could this could be the end of me, but I made the right I me.
+This thing that is me made the right decision and therefore I won.
+And it's a an incredible thing.
+51:27
+It's really it's one of the most powerful sources of fun that I've ever seen.
+Obviously the synergies, all the other things, but the the thing that was like your decision led to the win as opposed to the loss and it was on the razor's edge.
+That is a such a core fundamental source of fun that this game, just like it, delivers over and over and over again for each win that you have in general, unless you win by a large margin, which doesn't happen as you go up in Ascension.
+51:57
+And then you get.
+It does a good job of adding to the difficulty.
+You just keep adding your ascension until you are back at that razor's edge again.
+Ascension accomplishes this big problem with problems or with problems with games where it's like the difficulty and your ability need to be pretty much equal as you extend through the entire gameplay.
+52:18
+As I mean, like in some games you get really overpowered really quickly.
+That gets really boring.
+In other games you, your your ability does not go up with difficulty and so you end up getting killed every time and that sucks.
+And this game is just oh, Ascension is like this perfect way of making it so it's always balanced right to your ability and in my view.
+52:38
+I have AI have a spicy take that I think the ascension system in this game is bad.
+Oh well, that's.
+Not spicy.
+Oh, no, no, hold on, hold on.
+I wanna, I wanna hear.
+What now?
+Granted this this is coming from a an ascension one level player, but I am an ascension.
+52:57
+Player, What do you know?
+Which well, I'm saying from the new, from the new ascension player experience, looking through some of these like these challenges from higher ascension levels don't really inspire me to to take on the challenge as of right now in the sense that like I'm looking through some of these Ascension six, start, start each run damaged.
+53:23
+OK Ascension 7 normal enemies are tougher.
+Ascension 14 lower Max HP great, Ascension 20 double boss.
+That's that's a really fun one, to be honest.
+Now I can understand if you've grokked the systems and you're able to pull off infinite combo builds basically every time you need that headwind to keep you challenged.
+53:47
+But it from my outsider's perspective, from what I see from the general populace on the Internet, is that basically anything after ascension 13 is completely luck based.
+And like if you're not getting that God tier run going right at the start, save scum it.
+54:06
+And like higher level ascensions almost incentivize save scumming to the point where, well, you don't have the God tier build within the first few, you know, floors, so you're kind of doomed.
+It doesn't feel.
+I think my point here is that with other games similar systems, like with Hades and the heat system or, or, or things like that, like the A, the, the challenge is very different for each one of those ascension levels.
+54:35
+Like shops are more costly.
+Great.
+That doesn't really seem very unique versus like, oh, bosses have like a third phase form or something.
+With those games, you can like there's a level of mechanical action skill that you can apply again, because they're they're real time.
+54:54
+Like you can skill your way out of those situations instead of relying heavily on luck.
+And I feel like because this game is turn based, maybe with slay the Spire 2, we'll have some some new stuff.
+But one thing I really liked about slice and dice was that it's curse system felt very wild with the different stuff it could apply.
+55:15
+Like oh now you have like like imagine you know one of these ascension levels being fighting an extra like bird headed cultist on every floor or something like that.
+Like that feels better than a bosses just have 10% more HP.
+55:31
+Like it doesn't feel very inspired.
+But tell me why I'm wrong.
+I'm willing to be.
+My mind is willing to be changed.
+What's the difference 111?
+OK.
+So the the the additional bird in your in your game versus like 10% more life.
+55:47
+It doesn't like bosses.
+Bosses drop 25% less gold.
+Doesn't sound as cool as bought as the slime boss from act one having a third phase to it or something like that.
+You see what I mean?
+Where it's like it doesn't boring.
+It's boring like I mean.
+56:03
+You have 20 levels, you have 20, 20, so you have to like they're.
+Not all going to be winners.
+Yeah, You're not going to have like, you know, a third form, a fourth form of fit.
+No, at some point you have to like, have small changes and like, yeah, incrementally it gets harder and harder and harder.
+56:19
+And I agree, I don't think it should be a straight line in ascension difficulty from like zero to maximum.
+It should be like every other curve and every other video game.
+It should be a varied line from like, you know, A1 to a 20 where it's like, Oh yeah, some things are genuine harder.
+56:35
+When you get that curse into your deck added in there, that makes it actually a bit harder.
+And when you have your potions reduced from 4:00 to 2:00, you better believe that that is a lot harder.
+And these are the kind of things that, yeah, it's, it's not a uniform distribution of difficulty increase as you go from A1 to a 20.
+56:56
+And I think that you're absolutely crazy to think that they are boring.
+They're each one of them is very interesting.
+I think it could be done differently.
+I don't know that it should be.
+I, I don't have any complaints about ascension.
+Ascension I have on my list of things of what I love about this.
+Game you think bosses deal more damage with their attacks is an interesting thing.
+57:15
+Not the most interesting.
+I mean, I feel like out of.
+All of them, but it's important.
+It keeps you on the line.
+It makes the game still fun because you're still riding the line.
+But I think the the ascension itself, I agree with Scott.
+They're boring.
+I don't know if I think it matters that much.
+57:32
+But like with 20, like how many?
+Like, when you think about unique ways to make a game that has a set structure more difficult, can we think of ways that don't involve like, oh, some things have more damage?
+They have more life you.
+Have less life like there's only so many dynamics, more phases to the to the creature, double bosses like.
+57:55
+I think the enslave the Spire, enslave the Spire, that's already handled by the curse system, kind of where like if you pick up a cursed item and it's like, all right, yeah, you got like one extra energy, but now you can't rest it or now you can't heal at rest sites.
+There's like there's a decision trade off being made there versus like one that's bosses do 10% more damage.
+58:13
+OK.
+You know, it's, it's tough because I remember this conversation would happen a lot in, in the FPS community, single player FPS community where it's like, well, you know, all these difficulty systems are so boring because like when I turn it, you know, and I turn it up to hard, I go from hard to very hard, you know, Oh, it's just, they just crank up the numbers.
+58:34
+The multiplier of the damage is more, the enemies have more hit points, etcetera, etcetera.
+And like people would, I'd, I'd hear people like back in the day being like, oh, I wish the enemies were smarter, like on harder.
+And it's like, well, I, I wish that too, but that's more work for the developers.
+58:50
+And also, if the developers come up with something, if they design something cool, well, they don't want to lock it in the hard mode where only some of the players are going to see it.
+They want to put it in the main game.
+So it's like, it's a difficult position to put the, the, the, the developers in.
+It's like, hey, we want like cool, bespoke, interesting modifiers for the difficulty.
+59:09
+But if they're too cool or interesting, you know, then the, the the designer kind of feels like are, are in a position where, you know, well, they're probably going to want to get credit and throw that off.
+But yeah, there are games, I guess.
+What's a what's a good?
+It's yeah, it's, it's, I have no idea.
+59:28
+This was the ascension system.
+I I just assumed that it was a matter of the enemies do more damage and there's just like an algorithm like it.
+Just all right, I'm comparing it now to Monster Train and Monster train one are just as boring.
+Well, bosses have gained plus one attack.
+59:45
+And what is the name of this game?
+Monolith.
+No.
+What is the name?
+Of that star.
+Renamed.
+There we go.
+I was literally recently playing it.
+The hard mode in that game does do just a simple number change for difficulty where it's like well now damage everything takes like everything does double damage basically.
+1:00:04
+However, in the difficult mode there are new brand new mechanics.
+Where it's like you go into a room and there's a new type of enemy and as a new type of behavior you go and you fight the bosses.
+The bosses have a different attack pattern and Like that is exciting, but I acknowledge that is extra work for our dear indie doves.
+1:00:22
+There are different moves available.
+Oh, here we go.
+When you get up to a certain level and like enemies will have not just more health, but they'll have different, like for instance, the three birds you'll see in the second act, they will, when you start out, they will have three hits to take them down to a resting position.
+1:00:42
+But when you get further along, they take four hits.
+And when you have three AP, that makes a huge difference because, Oh yeah, three strikes, that's easy.
+But when you want to do 4, you have to have a 0 cost or you have to have four AP or you have to have some kind of way.
+So it it, it, I think I don't know, that's a very simple, you know, way in which this is actually a very big deal.
+1:01:03
+But like all the move sets for the, it's not just more HP, more damage, it's it's more interesting or things around these these specific aspects.
+And I could totally see that like the more the more time that I spent like spend understanding the systems and being able to recognize like these build archetypes like like, OK, now I can see that I'm headed in a in a block attack barricade build for the iron clad.
+1:01:32
+OK, I've recognized that situation.
+I know exactly what the lock in along the way.
+Nothing's going to stand in my way and I just roll over the ascension zero boss no problem.
+Like I think when I get to that level, being able to understand like when the like when the mini bosses are going to show up, when like I can reliably get those overpowered builds.
+1:01:54
+Yeah, I could totally see the ascension system being like, all right, I need a little bit more of a challenge 'cause I'm winning all of my games.
+I need something to bring that win rate back down just to make it more interesting.
+But yeah, I think that, you know, there's there, there's, I mean, clearly people like it.
+1:02:14
+So it's it's got something going for it.
+I don't know that the like.
+The pros do a 20% or so on Ascension 20 and to like do like a challenges of like getting three in a row.
+That's like, that's something to be celebrated.
+And for me, like I know I've been, I'm on a defect, which is arguably harder.
+1:02:32
+Like I've, I've had probably 10 runs and I've had one run where I got to like the heart down to 200, but like, I haven't beat it.
+I, I restarted the game.
+And so like, it's a, it's, it's hard.
+It's a hard game.
+OK, here's a question.
+Here's a question for a game a game like this where the the runs are one and two hours. 45 minutes to one hour and 15 minutes I think on average.
+1:02:55
+Or turbo.
+Boy, maybe.
+Yeah.
+Not for, not for us.
+For us, it's like up to two, I mean two hours if you beat the heart.
+I'll say this though, I'll say this though, even if the game does go for like 90 minutes to 2 hours, it doesn't feel like 2 hours this game like wait.
+1:03:14
+Sorry, regardless, that's not the point.
+The question was going to be, for a game where it's it's pretty fast cycling, what win percentage is ideal?
+Like how often?
+If you could just pick a difficulty level that you could magically tune your game for, what percentage do you think you'd want to win this?
+1:03:35
+2025, maybe 30I.
+Tend to agree with that against.
+Against humans.
+Against humans, you want 50.
+Or actually, you really want 55.
+Because you want to feel like I want 6060 Rocket League, I want 60% and.
+That's something, yeah, But you can't.
+Ocket Lake.
+1:03:51
+You want to win 60%?
+Yeah.
+Doesn't scale, I think like with slice and dice, when I played slice and dice on easy mode the first time and I was like, oh man, like is this too easy?
+And then I barely beat the like I'd sailed through easy mode, gone to the final boss and just barely beat the final boss.
+1:04:10
+And I was like, OK, well, I've I've beaten the final boss on easy mode.
+I've beaten the game.
+Like what?
+What do I need to think about any more for this?
+But there was there was that Beck.
+Well, there is that Beck and call of like, well, there's normal mode.
+Yeah, but I've already beaten easy mode.
+1:04:26
+So what do I need to care about normal mode for?
+I think if with slice and dice, if I had failed just barely that easy mode boss, that would have like given me an incentive to go back, be like, well, I'm going to get you this time and I'm going to beat you on normal and I'm going to beat you on hard.
+And I think that you.
+1:04:42
+Shouldn't be able to win your first time.
+Yes, I think that's true.
+And I think but you you should at least have an idea of how the systems should work to give you like the road map to be like, OK, so for the your next time, here's like more stuff to do.
+1:05:02
+And I think with Sleigh the Spire, like you, I don't know, maybe like if there was an easy mode, if there was like the equivalent of slice and Dice's like heaven or easy mode of like, I just want to turn my brain off and just smash monsters and have like a 75% win rate or something.
+1:05:18
+It might be and we might be headed into slightly the Spire 2 wishlist here, but it might be helpful for the game to like limit your options either by like if you're starting a fresh file and you only have like 30% of all the total cards unlocked.
+1:05:35
+And then you see like, oh, I've done this thing or I've gotten this far through the game and I've unlocked, Oh, I've got new cards to test out next time I want to test out that new system that I hadn't had before.
+Like that would that would be my incentive driver.
+So I think like.
+It'd be a lot of work, but if they had like a baby mode Ironclad, where it's like rather than having three or four or five archetypes you could go for, it's like there are two archetypes.
+1:06:00
+There's there's the defense one and there's the strength one.
+We limit the cards and it's only two acts or something and you you play it a couple times to unlock the real game mode.
+I I will add to this that I think that like in general, once, once you have like a character that has three primary or five primary and you have a bunch of in betweens like yeah, eventually if you start adding cards where you have like right now there's 75 per.
+1:06:28
+But if you had 150 cards per like, you're gonna have a lot of intermediate like archetypes and like a one, one thing you could do to make the game simple would be like, yeah, at the very beginning of the game that one of the first thing that's rolled is not just like all the, where the characters are or the enemies of position, the bosses, all that stuff.
+1:06:44
+It's also we're going to choose three of eight of the archetypes and we're only going to present to you the cards from those archetypes.
+And I think that that would make it so that each run really does feel special because you don't know which three they are.
+And you're like, you're kind of building out in different directions based on that.
+1:07:00
+I I don't know.
+I think I, I So to your point, Scott, I think that that's an interesting.
+Direction I think that they could do a little bit more with player on boarding like we've played many games, but if you are not, if you're coming to this from the perspective of I've never played a deck building board game, I have not really played roguelikes at all.
+1:07:23
+I'm playing this because my friend Will said this is the greatest game of all time and he's been badgering me to play this for like 5 years and I finally got off my ass and decided not to play first person shooter.
+I'm going to play this now.
+Like if I'm I'm imagining our friend Robert, if we finally managed to convince him to play Slay the Spire, he would probably get fucking wrecked the first time he played it because he doesn't play these kinds of games.
+1:07:46
+He's very good at first person shooters and video games and he's very smart.
+But like, if you don't have an experience with this, like you might have a bad time playing it for the first time.
+But I I agree.
+Sorry Robert didn't listen to this and.
+At the same.
+Point I'll.
+1:08:02
+Have you know?
+But at the same time, like Sleigh the Spire has had such this colossal shadow cast on all of gaming where now it's like a known entity.
+And I feel like the number of people.
+1:08:17
+So when Sleigh the Spire 2 comes out eventually, how many people are going to come to slay the Spire 2 for the first time and be like.
+I heard so many great things about the first one.
+I'm going to jump right into Slay the Spire 2 and get bludgeoned over the head by Gremlin Knob because I didn't realize that using all of my Shields made him angrier and angrier.
+1:08:37
+So angry I.
+Forget, though, that like every day, there are people who are growing up.
+Like that's true.
+There are been there's seven years worth of people who have they've become adults since this game came out.
+So or monks.
+1:08:55
+Or or become monks and are they're no longer in the player pool for Slate Aspire 2.
+But that's when they enter, enter.
+Was it anger form or, or enter their calm form?
+Yeah, yeah.
+What?
+What?
+Sorry.
+What?
+What makes you think so sorry?
+1:09:11
+What?
+What is your.
+I'm not sure if I'm quite understanding your point, Scott.
+Yeah, surely having a good tutorial and and better on boarding.
+Will be important for the sequel.
+So my point is that like Slay the Spire one is now the is the tutorial for Slay the Spire 2 effectively because like, it's been around for so long.
+1:09:31
+I have a feeling that like, if if you are someone who is going to have Slay the Spire 2 appeal to you, you're going to have had some kind of exposure to slay the Spire one at some point, it seems.
+It seems unlikely to me that unless something about Slay the Spire 2 is like, radically different, that people would jump into the sequel having no experience with the original at all.
+1:09:58
+Devs were joking around for a while on Reddit saying it was a MOBA in the STS universe.
+People were like, wait, what?
+I guess I'm a little unclear on why why you think that is.
+Aren't.
+Aren't there plenty of games where people jumped in on the sequel?
+1:10:15
+I mean, well, yeah, I have.
+I have a list of.
+I was like I was.
+Trying to.
+I've never even looked at Helldivers 1.
+Yeah, I mean like there there's a case like that, but Helldivers 2 is radically different than the first one.
+I mean like gameplay mechanics, gameplay mechanics.
+It's it's kind of the same, but you know, it is it is a totally different.
+1:10:34
+It's a third person over the shoulder shooter versus a top down shooter, which doesn't sound like that big of a distinction, but it is it's like completely different for for like how you Orient with it then.
+So I think that like with slate aspire 2, like my my bullet point here is, you know, how on earth do you follow up one of the best, best games of all time?
+1:10:56
+And we saw this with with our previous episode, Darkest Dungeon 2, where they went a radically different direction.
+And I give them I give them golf claps for it of trying something new.
+Maybe didn't work, but that's OK.
+1:11:12
+And you know that there were people who maybe came to that game because it was so different than the first one.
+Maybe they bounced off the first one, come to the second one.
+Oh, this is totally different.
+This is totally my jam.
+I'm so glad they did this, but I don't know if Splay Slay the spider two is going to be so much more fundamentally different than the first one.
+1:11:32
+Maybe doesn't need to be, but what what could possibly be done to improve on something that is?
+I mean like we, I think we've given some suggestions.
+More more just means definitely.
+Downfall.
+Downfall.
+Yeah exactly Downfall is the there's there's what 4 new characters in Downfall?
+1:11:51
+If you if you had not played this free mods of the game, it is essentially doubling the content and every character is I would say just as fun as the original.
+Four, You're, you're playing as like the boss.
+Like what?
+You're.
+I can't remember what, what are they?
+1:12:06
+What?
+One of them.
+You're the slime boss.
+Yeah.
+You're the slime boss.
+You're the Oh my God, it's been like years since I played that one.
+You're the are you the champion at some point?
+I think, but you're you're basically all the big main villains.
+You play the main villains, the the mini, the bosses, and then you go down the instead of, you know, going up the Spire, you go down and you fight the ironclad, you fight silence.
+1:12:30
+And it's just like this fun dynamic where the the commentary they have in little like the little clouds of talking is like, you know, very much supposed to be like, you know, pointing at how silly the nature of this up burst down dynamic is.
+1:12:46
+And like the relationships between all the characters.
+I thought it was.
+I thought.
+The first three characters in Downfall are the 1st 3 bosses, so slime boss, Guardian and Hexagonst.
+So you're playing as though and you're doing stuff and you're going down and it's like fun.
+Slime boss has minions, Yeah.
+1:13:02
+Minions was like the big thing that you haven't had minions with the other ones.
+It's like every single one of them has a very unique capability.
+And I think there's an expansion, I think even with that one where you're or No, I'm thinking.
+There's a downfall of the downfall, Huh.
+Downfall of the downfall.
+Well, no, there's it it There's one where there's a character which has guns like it's a quick draw sort.
+1:13:23
+Of There we go do.
+You know.
+What?
+No what?
+Am I talking about I, I know what the character you're talking about is.
+And so you're saying that's an that that it was an expansion to the mod, right?
+I'm not sure if that.
+Was an expansion to the mod or if that was just an expansion I think that was a hero and not a an enemy.
+But like there are many new characters and many deck types and archetypes that like It seems like with STS two, you could get to easily get to 345 new deck paradigms which contain many archetypes without any real issue.
+1:13:56
+You can look at the games like Magic the Gathering.
+You can look at the other games which have many archetypes and say hey, what's the most fun thing that could happen and try and steal some of those mechanics and.
+Pollute they don't have a summon archetype which is like the most obvious first one which they didn't downfall and like is in everything like pumping out summons of things.
+1:14:16
+Right, exactly.
+Monster Train did that with the the summon build.
+Like you could just look at any other of these these games and start to like pull that into the main game and maybe add more narrative just for you people that like really need to have a narrative.
+You know, I, I.
+You go to the narrative corner.
+One thing that I read.
+1:14:32
+A50 page novel.
+One thing that I grew to appreciate about Slayer Spire is that it doesn't it doesn't get in the way of playing the game of like, it takes maybe three buttons to just like, all right, I'm in it.
+I'm already just blasting monsters and that's great.
+I was dabbling around with a with another deck builder game that is coming up soon on the schedule and that game was very hand holdy with, let me explain every little thing that's going to happen, which is kind of an integral to that game.
+1:15:00
+But it was very slow and I'm just like, man, I could have gotten through like at least one.
+Boss grizzly bear already.
+Too fast, too soon.
+So I think like that, that like there's a balance to be struck with narrative where I think one thing that could be helpful here is like a Monster Manual of like, oh, I've fought this boss.
+1:15:24
+Let me add an entry into my Monster Manual that's out in the back.
+I don't have to.
+It's not up all up in my face.
+I just go into the options menu and I can see like, oh, like Gremlin Knob gets angry when I use skills.
+OK, I know that here, you know, are some like other details to fill out the next few times that I fight him.
+1:15:44
+Great.
+Here's maybe some lore entries that you unlock after beating them.
+Very Soulsian in that regard.
+Like that would be, I think all that I'm kind of looking for in terms of more kind of story related stuff.
+Because I think that like any like if you're starting the game and you have to sit there and watch like a, you know, 32nd intro cinematic, just skip, skip, skip, skip, skip.
+1:16:03
+Just get me to the synergies already, please.
+Get me straight to the synergy.
+I'm fine with that.
+All right, boys, we're gonna wrap this up.
+I know it's the greatest game of all time, but we gotta like, we gotta stop just singing these praises.
+Also, it's got good music.
+1:16:20
+Yeah.
+So yeah, I think like the how would we describe the art style to this game?
+I feel like this game is kind of all over the place for art.
+No, it's great.
+It's great art.
+It's.
+It's perfect for what it is.
+Monster training is stupid cartoon like mobile apps, stupid like I.
+1:16:38
+Just it's it's like cell based.
+It's it's it's the same art style that I'm going for when I use mid journey and I use DND commissioned digital art where it's just kind of like looks like digital art, like a little bit just a hair cartoonish, but not super.
+1:16:56
+And it gets the point across, which is really all that I need out of this game.
+I was thinking earlier how Oh yeah you can tell that the 4th character was the latest addition because the art is better in the same.
+Just like how you can tell the 4th character was the the newest one, you can tell the ironclad was the first character.
+1:17:15
+The proportions of the ironclad are weird.
+And they all got.
+Tiny 2 dimensional hands.
+His knees are very oddly placed.
+Not sure what's going on there when you die.
+1:17:30
+Like it just suddenly cutting from him standing, just just laid out on the floor with no animation, no effect, no transition.
+It's so funny.
+But on average I like the art style.
+1:17:47
+I think it's, I think it's quite a bit more stylized than you all are describing it as, but I I like it.
+Oh no, it's definitely.
+Stylized.
+I think it's stylized in exactly the right amount.
+And exactly OK, very good, very good.
+And I I think the item design, the environment design is all generally pretty good, especially act three has like this pretty cool, you know, kind of HR Geiger sort of situation, kind of biomechanical and.
+1:18:19
+I can't even tell you what the backgrounds are.
+I don't think I I don't think I physically see them with my eyes.
+They don't matter.
+They.
+Don't matter, they're UN energy so that's weird that.
+Matters though.
+I mean I can, I didn't play this on a Game Boy Color with just text scrolls.
+1:18:36
+All right, let's like as he starts working on that.
+Climbing up that Spire, we didn't well, so OK, we we kind of talked a little bit about it, but we didn't really go into depth about how the the final boss of this game is the corrupt heart.
+Oh man, spoilers God damn it.
+1:18:53
+And well, it's spoiled for you after you beat the game because you're like aha, I finally beaten that stupid time keeper and the time cube and oh there's this this other like Contra esque enemy that I have encountered that is just bumping away and I'm going to do all my damage to it.
+1:19:13
+Oh, but nothing seems to be working.
+And then it just thumps at you and you fall over dead.
+And it it very much has a the end rotating question mark kind of ending to it where in order to to face that boss, you have to make the the trade off decision of do I take this stuff out of this chest or do I take this red key instead, which would leave me weaker overall and then doing that for a green key.
+1:19:42
+Blue key is the chest one.
+Is it?
+Oh, I didn't know that they were bound to specific like encounters, but.
+Red key is the rest 1, blue key is the chest one and green key is when you fight the Super elite.
+Each one has a specific thing that you do to get it.
+1:20:00
+You think I would know that after playing this game for 65 hours, but that just shows what what I'm incentivized to.
+And so I have not had the the honor yet of slaying said Spire.
+The Spire has always slain me with beating it's it's stupid heartbeat drum at me.
+1:20:20
+So what is what happens when you do it, when you finally you've built your your stupid, out of overpowered, out of control deck?
+There's a 45 minute Metal Gear Solid style animation where you are.
+1:20:36
+You have to go all the way back.
+Don't tease us with that.
+There's like a there's like 3 splash screens of art that show you escaping the tower.
+Yeah, this layer, I think what?
+Happens, and so shall I, is what Niao says.
+1:20:52
+No, I'm.
+Pretty sure you you get there and it's a it's like a cow's heart and a cardboard box, I think.
+No, Yeah, I am.
+I also have questions about this mechanically.
+I thought when I got the victory question mark screen, I thought there was something about like having to deal a total amount of damage or something.
+1:21:12
+No, that's just your score.
+Oh, OK.
+All right.
+Well.
+The amount of damage you deal.
+With Adam runs.
+Score.
+All right, Well thank goodness there is a more objective oriented way to get to the final boss, so.
+You have to get the, you have to get the three keys, and then I'm.
+Familiar with the keys?
+1:21:28
+Yeah.
+And you have to beat.
+Well, never mind, I guess this is kind of spoilery.
+Well, that's great.
+Into the Gungeon has a similar thing where it's like, all right, this run like subsequent runs after your first win, you you go in with like new parameters, which is like what added game modes and what like achievements and other things should do is like encourage you to replay the game and play it in a different way.
+1:21:51
+That's great.
+Wow, it really is the best game of all time.
+And about that?
+Enter the Spire.
+All right, rankings well.
+Do we, do we have anything else to say for the greatest game of all time before?
+1:22:07
+Like we've, we've done episodes longer on games that I think we we kind of dragged under the bus.
+I've got 20 other points here but I don't I mean like I feel like what have I not touched on here?
+Drawing 5 cards with three AP that is a staple for pretty much all deck builders coming after it.
+1:22:25
+Is that not true?
+I mean like it's, it's a really great.
+Buy they they found it.
+They nailed it.
+You start with, yeah, you start with 10 cards, you draw 5 and you you keep adding more.
+And like, that seems like the really good recipe that if you think about like the alternatives, you think about dice.
+1:22:43
+What did dice have the problem with roll one and 20?
+OK, that's for one thing, right.
+And but this is like, well, you have a certain number of cards and every card you play decreases or increases the probability of the other cards in your decks to be.
+So it's as and it's it's intuitive too.
+1:22:59
+So as you're doing it, as you're drawing cards, it all makes sense.
+Oh, now I know I have these five cards here that they improbability of getting next when I really need and the next five that I'm going to draw is going to increase or decrease.
+And like, that's all really intuitive thing that like feels super good and dice rolling, coin flipping, rolling a wheel or spinning a wheel.
+1:23:23
+Like what other variable probability reward systems exist that are so beautifully designed and intuitive?
+None deck builders are unique in that sense that like, yeah, you as a player, you understand what's going to happen as as it as is happening in a very natural way.
+1:23:43
+For sure, for sure, yeah.
+If you're rolling dice, there's the potential for you to just roll bad every single time.
+But with a deck you know for sure.
+Well, my good cards are in here.
+I'm going to find them.
+Those are independent and identically distributed events where each dice roll is not dependent on the dice roll that happened or die roll that happened prior.
+1:24:02
+And so with cards though, every single card that you draw affects the next card that you're going to draw.
+And so that's the, that's the magical thing is that there's such this integration of probabilities that you don't get from dice roll.
+What else?
+That's why Gloom Haven is better than dice rolls, because you rather than rolling a dice, you're drawing cards.
+1:24:26
+And so it does.
+It feels like probability, feels like it should work.
+Interesting.
+You're due for something, you roll.
+You draw a couple bad cards, you're due for the good one.
+That's why, yeah, what if the gamblers fallacy wasn't a fallacy?
+Right.
+Exactly.
+It feels great.
+Sorry, quick question for for Scott.
+1:24:45
+You may know what is graphically what is going on in this game.
+Like they have like the characters are kind of moving and it's sort of this fake 3D, but then there's certain parts of the characters that do actually look like they're 3D objects.
+I think when when I first played this game, I don't know if they, I don't know if they had a graphical update because this is one thing that like.
+1:25:05
+Bugs me a lot.
+In some games that is like this this paper doll hinged animation motion which just looks super cheap and mobile gamey.
+Oh, generally I think it looks pretty outright.
+Well, yeah, I mean it's like, let me rephrase it.
+It's not for me.
+1:25:21
+I think lay the Spire.
+It took me a while like and I didn't notice it until I played it on a really big screen where like it's not quite that it feels more like slightly 3D or 2.5 D almost where like the like the the armored sphere is like rotating slightly.
+1:25:38
+I'm like, is this actually three?
+DI had to kind of take a step back, so I don't know if there was a graphical update, but interesting.
+Yeah, like there's there's.
+Some other I have to look into it.
+Yeah, there's a lot of other Spire likes that have that kind of like mobile gamey.
+1:25:55
+There's a there's a term for it in the game dev community that I'm spacing on.
+But like, you know, you have like the the arm asset is like a fixed like image entity.
+And then it's like hinged on like a skeletal animation and it just, it looks super flat, I think like.
+1:26:12
+Sure, where it's like a sort of like almost a paper doll or something, except inspire they they give every character at least a piece that also rotates on like the Z axis a little bit.
+So like as with the example that that you gave, like with the cube, it's like, well, there's a new face of the cube that becomes visible at certain parts in the animation.
+1:26:31
+So it's like it's clearly they put a little more work and effort than just, you know, tying a bunch of jpegs together in skeletal system and having them jiggle around, you know, so good on them.
+I mean, there's also.
+Yes.
+The map, and I know this because I have just looked into this very deeply, but the map generation algorithm is incredibly beautiful.
+1:26:57
+It's it's 7 by 15 node structure 6 paths are drawn from the base to the top, while the non intersecting paths removed and the locations based on distributed based on probabilities and rules that are all very specific and balanced towards optimum fun.
+1:27:17
+And I just know these these these two developers, they're sitting there playing this game.
+They're they're looking at the runs because they're, they're actively play testing with this group of hundreds or thousands of people that are in the alpha and they're like, OK, play this game, see how it feels.
+1:27:33
+And they are making adjustments like, oh, should we have 6 pass, 7 pass?
+How wide should it be?
+Where should we make the first rest site?
+They're making all these determinations on the basis the data.
+Oh, and it's just a beautiful thing for me to to well as a player to see the finished product and go through it and realize that it's so finely tuned.
+1:27:57
+It's, I want to say perfectly tuned and I appreciate all the, the, the, the probabilities that are coming out of this.
+I mean, just the common uncommon rare is three to two to one for cards.
+Chess are 49 percent, 42 percent, 9%.
+1:28:15
+And that's for the rugs that you're getting out of them for the, the, the rarity of of a common to a rare.
+And it's just like these were not randomly chosen for probabilities.
+These were like very specifically chosen.
+And it feels like everything is so dialed in and so tight to maximize fun.
+1:28:35
+And that's why this is the greatest game of all time.
+That's my score.
+I'm going to go ahead and there's no reason to say anything.
+There's no other preamble necessary.
+This is a 10 out of 10 best game of all time.
+No other game even comes.
+1:28:52
+Well, I mean, there's, you know, there's some that are OK, but like this is like the best of all time.
+Scott, you want to go next?
+Yeah, I think Slay the Spire is really good.
+It is not.
+It is not the best game of all time.
+I don't, I don't know what the best game of all time.
+1:29:09
+What game is better?
+What game is better?
+Tell you what, we're going to fight you.
+For Metal Gear Solid 2 is a better game than Slay The.
+Spire, are you fucking kidding me?
+Right.
+If you're if you're asking for like, and again, this is like a thing that's like very subjective.
+1:29:25
+It's, it's, you know, I think if a game has to be like measured on objective qualities, there's things like and yeah, well, no, no, I don't, I don't want to throw Slate Spire under the bus comparing it to games that have like $1,000,000 budgets.
+1:29:41
+I think Slate Aspire, like is, is generational.
+I think it has spawned an entire genre of blank likes, you know, Spire likes, like any good game does that we're seeing like with Bilatro now.
+And yeah, I think like you can tell the developers did everything the right way of like looking at all the play testing feedback, getting the the right people to play test your game.
+1:30:08
+Like if you have people who are like net runner, like pros play testing your game, then yeah, you're going to have a damn good neck builder come out, come out the other end.
+I think the things where Sleigh the Spire is not the greatest game of all time.
+Not comparing it to other games, is that it?
+1:30:26
+It's not immediately obvious why this game is so good, and I think the new player experience holds it back some.
+I think maybe like time has progressed now that like everyone and their grandmother has played Slave Aspire, so maybe it's an insignificant thing.
+1:30:43
+But if someone, you know, Slave Aspire 2 is coming out, someone's going to be like, I'll play the first one.
+I'll I'll learn the story first so I'm not lost on the lore going into Slave Slave Spire 2.
+They might be, you know, walking into Rakes for a while because unless they are going and watching YouTube videos and understanding like, OK, this is how this game operates and operates very differently than something where you're just like, well, I'm just going to add 1010 really overpowered cards to my hand of all the same type and look at that.
+1:31:17
+It does the thing I think like the new and I'm sure I'm sure the devs know this and I'm sure that Slate Aspire 2 is going to be great.
+And I'm sure that the on onboarding new player experiences is also going to be great.
+But that's kind of one of my biggest NIT here.
+And it is a minor thing, but it is something that tripped me up when I was first playing it.
+1:31:36
+I was like, I don't really see why Will likes this game so much at first.
+I think I see it now, but but I wish that there was, there was a little bit more hand holding at the start.
+I wish there was maybe a little bit more narrative or like world building involved.
+1:31:53
+It seemed like the art style, the enemies seem kind of like randomly jumbled together.
+But the more that I've played it, the more I've kind of realized like, OK, there's like a subtlety to how all the art is interacting and it's as you progress towards the corrupt heart, all the enemies become like more melted demonic figures and such.
+1:32:10
+And that's something I I like a lot and I think the unlocks take too long.
+I think like I've played 65 hours and you know, I still have one unlock for the defect left to go or something like that.
+So, you know, if that was drip fed a little bit better, I think slice and dice does that the best.
+1:32:27
+But but there's, there's a, an infinitely long list of positives about this game.
+The UI and the UX are perfect.
+There's like there's no confusion about what anything on the screen looks like or how to do things.
+1:32:46
+There's like very subtle stuff about like, oh, if this if this card, if an enemy is going to attack and like this card has something that procs off of that it will highlight in gold to draw my attention to it.
+I'm like, that's a great idea.
+I'm glad they did that because otherwise I totally would have spaced on it.
+1:33:04
+We mentioned it earlier, but I feel like this game has like the perfect run length where it's chopped up into three parts and each part has feels like perfect for what it is.
+And it gives you that good stopping point of like, OK, 30 minutes.
+I can save here.
+I can come back to Act 2 tomorrow.
+1:33:21
+And oh, my bus is just pulled in.
+All right, I'm gonna I'm gonna put a pin in it for now.
+And then you realize, like, oh, this run is taking like 2 1/2 hours, but it never felt like 2 1/2 hours that whole time.
+It felt like it was moving along.
+A really good clip.
+I think the music is great.
+1:33:39
+I've been humming the music all this past week and I've been racking my brain on what what tracks to play this podcast episode out with.
+I like the art certainly a lot better than Monster train, I'll give it that.
+And the, the variety, like you have four different characters that play completely different from each other, But even within those characters, there's a whole bunch of different strategies that like I never knew existed.
+1:34:05
+I thought like, oh, the ironclad, I just have to attack the whole time and that's the only thing I can do.
+But no, like you have to see what the game is hinting at you along with and, and play, play that way.
+And it it feels very different and very rewarding.
+1:34:22
+So so yeah, for me this is this is sadly will a 9.3 out of 10.
+But you were.
+You were dropped on your head at birth, right?
+So it makes sense to me.
+So.
+Yeah, there's that.
+And this game started at like a nine at first and like it climbed up the rankings the more that I played it.
+1:34:43
+And that's not something that I can say for a lot of the games that we play on this show.
+I think this game has certainly earned its spot for being as good as it is.
+And I think you know my my last note that I have on here is that it's not a perfect game, but it's maybe the closest thing to one.
+1:35:01
+Well, there you have it.
+Wow, wow, wow.
+May I go next?
+Go for it.
+OK, so we've talked about a lot of stuff.
+You know, what we haven't talked about is the merchant.
+He's goofy, he's fun, he's well stocked and his blanket, it's not for sale.
+1:35:18
+The merchant in this game is very fun.
+You, you, you, you, you go to the little merchant node, you show up and in place of the enemy on the screen.
+Oh, you got this little whimsical guy who's is hanging out and he's got no shoes.
+Why would you need shoes and and a dungeon?
+1:35:35
+You know, come on, he's wearing a mask.
+He's got a blue cloak on.
+He's, he's kind of like, you know, he's hanging out in a blanket like he's at a music festival, but instead of drugs, he has for sale cards.
+And some of them are drugs, to be fair all.
+Right, that's that's a good point.
+Less drugs he's got he's he's he's smuggled in some potions to the show.
+1:35:52
+And but what I wanted to cost specifically is that there is as you are selecting from your different items, you're moving around your cursor on the screen to select different things to purchase his little like goofy hand, this little like gross hand is like in like pointing to the different objects, which is like what a wonderful whimsical addition.
+1:36:17
+And I appreciate those sort of, you know, indie choices, those thoughtful choices that this game has and is reflected in a lot of the mechanics and the naming conventions and, and the character designs and things like that.
+Now, unfortunately, this game is, it's not my exact perfect cup of tea, but it's like fairly close.
+1:36:41
+It's like an adjacent type of like warm beverage that is more or less enjoyable to me.
+And it is an enjoyable game, without a doubt.
+And I, I think I have a, a very, a pretty good understanding of why it is so beloved.
+1:37:00
+I said last week that I would not squander my opportunity to, to enjoy this game.
+And I mean, how, how could it be squandered?
+Like there I, I don't know what I could have done to really mess it up because it's that it's that, you know, fun of a, of a gaming experience with a few, you know, minor on boarding issues.
+1:37:19
+And that one successful run that I had was pulse pounding and exciting.
+And even though it wasn't like, you know, the true ending, a sense of accomplishment was go right now.
+1:37:35
+Unfortunately, this this game does not have what I often look for in roguelike experience, which is an emerging story.
+There's not really much of that.
+I mean, I guess maybe if you did a little fan fiction about the different cards, you could kind of you could kind of spin a yarn about how my ironclad did this, that and the other and then he body slammed the the Hexaghost into the material plane and killed it or something.
+1:38:03
+But you'd have to really work for it, unfortunately.
+However, there is a story to be told about the developers of this game Megacrit.
+And we, we mentioned a, a demo of a game that they put out recently.
+And some of you may have forgotten or some of you may have not even realized that there was a big old.
+1:38:21
+And the indie gaming community, especially there was a big controversy when the, when Unity, the proprietors of the Unity game engine, which is used by a ton of indie games as well as AAA also, but a lot and lot of indie games, they announced they were going to change their pricing model and their licensing model.
+1:38:36
+And there's this whole big upheaval and it felt like a very mean spirited and sort of anti independent game developer move.
+And a lot of developers had different reactions to this.
+And Megacrits had probably like the most boss move they could have possibly done in a weekend.
+1:38:54
+They made a whole game I referred to as a demo, but it's basically a self-contained game in a weekend in a different engine, in the Gato engine and just, you know, prove like, hey, Unity, guess what, you know, we don't need you.
+1:39:09
+Forget about it.
+Bye bye.
+And they just pulled this, this awesome power move.
+I so respect them.
+And even though deck building games are not necessarily my Forte, I am looking forward to Megacrits next offering.
+1:39:25
+I'm sure it's going to be great.
+So all that being said, this game scores a 7.55 which makes it #9 it's in the top 10 on my list.
+Wow, what a what a great achievement.
+What an incredible game.
+Good score, Colin.
+Yeah, it's a good game, 10.
+1:39:44
+No, it's a it's a very good game.
+I'm I'm not going.
+We were talking about this slightly before the podcast.
+I'm not going to give it A10 plus it's not in the like the tippy tippy toppest tier of my games list.
+I think it's probably if you're the moment to moment fun of playing, it is great.
+1:40:08
+The the drive to play it is is very high when you're in a round of playing STS or or you know you've been playing it a lot in the last couple weeks.
+I don't know if it has it has not caused like.
+A change in how I view the world or like when I when I look at some of the other games that they're like when I remember playing Slate of the Spire, it's like I remember that it's a good game, but I don't remember specific moments from it.
+1:40:35
+So I feel like that keeps it from being like one of my favorite games of all time.
+But it is a 10 out of 10 game.
+It is extremely good.
+Anyone and everyone should play it, even people who I don't.
+I wouldn't normally recommend this type of game.
+1:40:51
+I think they should try it just because maybe their types of games will change after having played it.
+I'll touch on one thing that it hasn't been touched on yet.
+I recently had to spend a fair amount of time getting my car repaired and I spent like 2 1/2 hours playing the mobile version of it and I'm a little disappointed at the mobile version.
+1:41:15
+It feels like this game should be a 10 out of 10 on mobile as well.
+And it is a pretty direct port.
+And there's a couple of like weird nitpicks in it that are like it's hard to deselect a card.
+And so I like accidentally played cards a couple times when I was trying to click a different card and I was like, these are unforced errors.
+1:41:38
+It feels like they have not done their due diligence work on the mobile game.
+So.
+But I don't, I don't really care about that.
+We'll say Steam Deck.
+Yeah. 10 out of 10.
+I'm just, Well, yeah.
+It is a great .3 according to the human .3 of the Steam Deck.
+1:41:58
+Yeah, I feel like my one of my big annoyances was so you have to play it in like sideways mode and the cards are like across the whole thing.
+I'm like awkwardly holding my phone, like trying to stretch one finger across to play a card and like the merchant.
+1:42:17
+Yeah, it's just like like this is physically awkward to do so nine point O for the mobile game, but I don't care because I play it almost exclusively on PC and 10 out of 10 for that game, great game, best game We've yeah.
+1:42:35
+Of rogue lights and that's The thing is like rogue light is a rogue like that's it.
+One genre of all video games, right.
+So yeah.
+I mean.
+It's up there in the like if you if you put me on a desert island and I can only play 10 get take 10 games, It's probably one of those games, almost certainly one of those games, especially if I'm going to be really bored.
+1:42:56
+Like there's a lot of other games that I think are like part of my pantheon of these are the best games of all time, but I've only played them for like 40 hours versus this.
+I could, you know, I could easily see myself play 900 more hours of this game and still be kind of OK with it Versus you know, if I'm playing hollow night or something like those are like great one time through experiences that would become less good playing them over and over again.
+1:43:24
+Versus I don't think that the drop off is anywhere near as much for slightest fire.
+So 10 out of 10.
+Great game.
+Great, great game.
+So normally we if a game does poorly, we don't usually say they're like, oh, the ball has it.
+In the aggregate rankings.
+This has come out as our new number 54 out of 54 game.
+1:43:43
+In our aggregate rankings for this time, The King is dead.
+FTL was our previous #1 and it held that spot for 629 days since we first reviewed it.
+It was like the pretty early on in the games we reviewed.
+1:44:01
+Too.
+It was, it was yeah, it was one of our, one of our, yeah, very, very first entries.
+And we have a new number one and kind of beating it by a country mile.
+Actually, it doesn't, you know, I mean, we have 210 out of 10s on here.
+1:44:18
+But but yeah, new #1 slate aspire, I think well earned for the aggregate podcast rankings, so.
+It climbed the rankings and it slew the Spire that is our stack ranking.
+Thank goodness we use stack rankings here and it is our new number one that is impressive.
+1:44:37
+And yeah, before before we finally sign off on a a long but hopefully not feeling as long as a as a run Slay the Spire episode.
+You're probably listening to this right now.
+While slang said Spire, we have to talk about some similar games and I wanted to to break out a list of of games that we haven't talked about before because talked a lot about deck builders on this program.
+1:44:59
+We've mentioned a lot of names multiple times, but I wanted to mention some names that we hadn't mentioned yet.
+So we had mentioned downfall, the Slay the Spire fan mod, which is I think the the must check out if you are a crippling addict to the game turns it on its head literally and you were descending the Spire.
+1:45:20
+Some other ones on here of note.
+Maybe the this might be actually the first roguelike deck builder slave the Spire certainly made it a popular genre, but the first maybe the first one that came out on mobile.
+It's called Dream Quest, and it is maybe the ugliest game I've ever seen.
+1:45:40
+Like somehow uglier than Monster Train, but people seem to really like it, I think because of those underlying integrated systems that Slay the Spire's all about now.
+Dream Quest looks like something that someone made in Ms. Paint over a weekend, but it's it's apparently it still has a following, so probably worth checking out.
+1:46:03
+A more recent entry for roguelike deck builders.
+On the total opposite end of the spectrum, a very anime chrono arc has gotten a lot of good buzz coming back to the beginnings of roguelike deck builders.
+Coincrypt I think was one of the first roguelike deck builders that released on Steam.
+1:46:21
+Specifically, you have your your limitless supply of shovelware Sleigh the Spire likes that no one will ever remember or mentioned, but some good ones that have kind of come out over the years.
+I believe Across the Obelisk and I'm sure will has played all these games and it's just like good, bad, good, bad, good, bad.
+1:46:43
+But it's worth mentioning some of these for various reasons.
+Across the Obelisk is one of them actually.
+Let me see if I have mentioned, I have mentioned Vault of the Void previously yeah Cobalt core I think is like feels maybe more FTL ish I guess.
+1:47:03
+Well, no, it's it's.
+That was the one that was like, yeah.
+It's like Lone Star.
+It's like a, it's a, it's a Lone Star.
+It's latest Spire, sort of like combination.
+Yeah, positionally.
+Very star Foxy Partuni book of demons on here, which seems interesting.
+1:47:22
+We have wild frost, which people have been picking down our listener requests for.
+We have rogue book.
+We got ring of pain and black book.
+There's a lot of rogue like deck builders with the name book in the title, but there's there's really, I mean, to get a, a clue on this, you can just go into into steam and just search roguelike deck builder and see, Oh, there's 706 games tagged with this to varying degrees.
+1:47:54
+And some of those might be closer to to slay the Spire.
+Some of them might be rounds, which is a 2D stick fighting game with guns.
+Not really kind of like Slay the Spire, but it's got cards in it, I guess.
+1:48:09
+Question mark.
+It's it's really just kind of blown up an entire genre and well deserved.
+So give those games a look.
+And yeah, if you want to to write in to tell us why we should be reviewing Wild Frost, you can send that into a Grogpod zone@gmail.com.
+1:48:30
+You can check out all sorts of fun happenings about what what we're doing on Mastodon Grogpod at Game Dev dot Place for pictures and things.
+I don't know whatever people do on Twitter replacements these days, Grogpod dot zone.
+1:48:45
+That's all you need to know.
+That's the website.
+It's got everything you could ever want a one stop shop.
+Just go there.
+It's got everything you need and it has including our next well, a description of what our next episode will be.
+Andrew, what we got the what?
+1:49:03
+What's what's?
+Well, the weapon to surpass Slay the Spire.
+Let me, let me tell you, Scott, perhaps subconsciously I was maybe affected or kind of in Splay Slay the Splay the Spire.
+1:49:21
+Hey there's a good DLC.
+Slay the Spire has sort of the two D ish artwork type of a situation and I guess I wanted to play more of that because we are playing a 2.5 D aesthetic, fully 3D, you know, behind the scenes I'm sure in terms of the tech, the game Void Bastards, which is a rogue like FPS set in space and some pretty lofty credentials from some of the members of the development team were involved with Bioshock and System Shock.
+1:49:55
+So excited to give that a go.
+And the same studio I believe is working on a forthcoming western themed shooting game.
+But first, we'll be playing the sci-fi one.
+Yeah, if only.
+If only the timing had worked out.
+I played a lot of the demo for Wild Bastards and I was like, oh, if only time if if they had released that game a month earlier.
+1:50:20
+But we still have time before the Omega Bowl, which which could be a stay tuned half.
+Yeah, Void Bastards looks fun.
+I played some of it on Xbox Game Pass long time ago.
+Excited to return to, I think, I think that's going to wrap up our greatest game of all time and best game that we've reviewed on the on the podcast so far.
+1:50:40
+Hey, man.
+Yeah, there's no, there's no better way, I guess, to wrap up the episode with some play out music.
+And while we leave the exhortium of this podcast episode here, we're going to head into the first Test of your Spire skill, be it slimy, thorny, or hexagonal.
+1:52:17
+The.
+1:52:42
+The.

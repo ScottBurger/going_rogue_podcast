@@ -1,0 +1,2182 @@
+0:10
+Greetings friends and welcome to the Grog Pod Roguelike Podcast Season 2 finale, where each episode of this podcast we take aim at a roguelike game, big or small, and try to rank it in the pantheon of rogues as best we can.
+0:27
+And This is why we rank them for an end of year celebration of our favorite games and to crown a champion for the season.
+We made it past 50 episodes for our podcast so far, which is a a celebratory achievement.
+0:44
+Very few podcasts actually make it this far.
+I hope so.
+Hooray.
+Hooray for Grog and Pod.
+And we've had people TuneIn from again all over the planet, thanks to the magic of of podcasting technology all the way from Malta to Peru to India, Hong Kong, Iceland, and who could forget Uruguay?
+1:07
+Oh, they're.
+All bots though, I'm sorry.
+This, this.
+We're in Omega Bowl two this year and the king of roguelike deck builders has come, but it has to defend its title against an up and Comer who's who's looking to to kind of steal its throne here.
+1:28
+But we'll get into it.
+I, I, I am your color commentator, host of the podcast Scott Berger and with me kicking off a Mega Bowl 2 here in the the Grogpod Stadium are my Co hosts.
+Hey, this is fast snapper game gabber Andrew Harshman.
+1:48
+And this is will always right, right?
+And I'm Colin, the grizzled coach, telling you to go out there and do one more run.
+So without before jumping into the thing, going through the podcast stats, normally we go through the game stats, but I think it's kind of fun to do a retro on some of our podcast stats.
+2:10
+I mentioned we had mentioned going past 50 plus episodes, which is great, but Spotify wrapped always has fun stuff of like the check out how good your podcast has been doing.
+And so we have a 297% increase in listeners from last year.
+2:29
+A.
+So that's going from 1:00 to 2:00 or you know, well.
+I mean, I'm, I'm under an NDA about what the specific numbers are you see, but it sounds much more impressive when you say a three 100% right increase in streams and there's.
+Lies.
+2:45
+There's lies, Scott.
+There's damn lies and and what else is there, Scott?
+There's.
+Podcast.
+Listeners.
+Oh, interesting.
+Just.
+Worst of them all, but will you'll be happy to know that Rim World has been streamed 272% more than the average episode from last year, which was was quite surprising.
+3:05
+But yeah, if you wanted an intro to the genre of what rogue, rogue Dom, rogue likes, rogue lights, rogue vanias are at large, you've come to the right place.
+This format that deviates from our usual thing gives us an excuse to revisit games we've talked about early in the year.
+3:24
+So you're gonna hear us deliberate and Fight Club over all of the the previous episodes that we've done and see if how have our opinions changed, if at all.
+We tend to to group the games that we've talked about into nebulous mega categories.
+3:42
+That kind of makes sense to some degree.
+So this year we have deck builder, we have shooters, we have solo dev games, squad management games, top down shooters and traditional rogue likes.
+But what if there's overlap, Scott?
+3:58
+Well, if there's overlap, then I wave my magic production hand and make everything all happy.
+Corruption.
+Yes, ignore that.
+That laundry bag full of cash with the dollar sign on it that that you just saw moved over.
+4:16
+But we have games that have won those divisions and then we have games that have kind of followed up for the best of the rest.
+So we have our division winners and our our wild card picks.
+Our division winners this year are our new #1 ranked Spoiler Alert Slave Spire, followed closely by Vampire Survivors, Into the Breach, Jupiter Hell, Risk of Rain Too, and Slice and Dice and our Wild Card games that are seeking to to throw the bracket off our our #3 ranked Bilatro inscription Heat Signature, Star of Providence, World of Horror and Doom the Roguelike.
+4:55
+For those just tuning in for the first time, how we do this is that we'll we'll pair up games against each other according to our very official, very scientifically formulated tournament bracket.
+We will past our host votes to see which one should move forward for whatever gobsmacked reason we come up with and should we should we need it.
+5:16
+I do have the the listener vote statistics are in the, the the numbers are in.
+And we will use the listener votes as as tie breaks.
+I do have a bunch of interesting listener comments as well that will sprinkle in here and there.
+5:33
+And then, yeah, when when one of the games fails and we have to escort it out of the building, we'll give it a a door prize for, for thanks for showing up.
+Thanks for stopping by.
+Everyone gets a prize because we're millennials.
+Notably, our last Omega Bowl episode someone had wrote in to say this is from same window, different visual.
+5:57
+Who says I feel so vindicated to vindicated to hear I'm not the only one who just didn't feel dead cells from last year.
+So I'm sure we'll be who's.
+That person I need to then you connect with them.
+That's that sounds like a really intelligent person.
+Yeah, I mean, it's it's as we say with every episode, it's OK to to like or not like a game.
+6:16
+You say that and all devs go to heaven.
+I do say that because we do have some developers who've written in as well.
+So I don't want to pissed them off too much, but it's probably already too late for that.
+So without further ado, we are jumping in to our first playoff spot here with our first wild card match up with our previous our episode just previous to this one of Risk of Rain 2, the leader of our shooter division shooter category up against wild card heat signature.
+6:50
+Wow.
+Well, who wants to start us off?
+To me, the answer's obvious.
+Heat signature.
+Wow, thanks for coming.
+Thank you for coming.
+Heat signature.
+Really cool.
+Very cool stuff, like a lot of the things you're doing.
+7:07
+But Risk of Rain, too, is a juggernaut, I say, having invested even more time into the game.
+And I haven't even tapped into the other classes.
+That's that's just just commander that I've been having a world of fun with.
+7:22
+Commander, did I say commander?
+I mean commando.
+There you go thinking.
+Of the last spell, again, we've been, we've been investing that's.
+Right.
+Well, no, again I got I have I have last spell on the brain commander.
+Well, I'm going to have to come in from the opposite corner and say obviously it's heat signature risk rain too.
+7:38
+Great effort.
+Great effort.
+Great effort, fun game.
+What but heat signature?
+You just get that flow state and also the zaniness out of the ship.
+Zaniness so.
+Ridiculous.
+There's there was one, there's a a few people who commented in to say, let's see Savanoc 4869 says it is absurd how good an unpopular heat signature is.
+8:06
+And flair shift says a hidden gem of a game in relation to see heat signature.
+But we have another listener wrote I did not make these people's names up.
+Crunch Master 4536 wrote in to say I truly love Risk of Reign too.
+8:22
+I started playing it a couple months ago and have over already have over 100 hours in it.
+Plus I'd love to hear you guys cover.
+Enter the Gungeon.
+See previous episode.
+Enter the gungeon.
+I think a previous Omega Bowl entrant as well.
+Yeah, I made it further well, spoilers, yes, it was in the Omega bowl.
+8:40
+It was in the Omega well, Omega not it's just stolen stolen terminology and Omega entrance a a gungen gungenier, I guess.
+Well look, heat signature.
+8:57
+There's no, there's no, I mean, they're they're right.
+The listeners are right.
+You know, heat signature is it's it's it's wild that it's not better known.
+It's isn't it, it's an incredibly good game and unique game.
+And but risk of Rain 2 is risk of Rain two.
+9:13
+I'm sorry to make the argument of just, you know, vaguely pointing at the title of the game, but like, it has a heavy Rep.
+That's called an authority there, Andrew, and while you are absolutely correct in this case, because heat signature didn't have enough to even compel me to get to a, you know, 10 hours into the game risk of rain.
+9:35
+You know, you play with some friends.
+You got it's a lot of chaos, which I don't appreciate, but you know, because I'm all about the Ordo AB cow.
+If anywhere is into the Latin out there.
+But this, you know, it was it's better.
+It was better.
+There is, there's no doubt in my mind, it's odd.
+9:52
+It's not odd.
+We're going to be splitting a lot of things here.
+So that's that's my opinion on the matter.
+Now, Andrew and you're revisiting of Risk of Rain 2.
+Did you?
+Did you lament the No.
+There wasn't a sorry to interrupt.
+It wasn't a a revisit.
+I just didn't stop playing it.
+I haven't stopped playing it.
+10:08
+It's it's great.
+And that's what you couldn't stop playing it because there wasn't a save and quit button in the game, right?
+Hey, O got him.
+No, I mean, what are we going to say?
+There is a mod to fix that, but I think, yeah, like between the two, I think I've, I've gone back to play Risk of Reign two more.
+10:27
+Not that like Heat's signature is I feel like one of those rogue games that's like, it's great for you to like explore and try to figure out how the game works.
+And then like, OK, you figured out how the game works and like you go through a bunch of the systems, you're like, all right, that's great.
+10:44
+And then you go and do like the daily challenge puzzle things every so often and that's great.
+And it can just exist like that.
+Risk of Ring 2, I feel like has this extreme end of the spectrum of like, like you can go insanely deep in that game.
+11:01
+And when people say they have over 100, I think we said like the average player of Risk of Ring Two had like 200 something hours in it.
+I can believe it now 'cause after seeing like the ascension modes that they have and all that.
+Yeah, it is.
+It is quite impressive just just how deep it goes with how simple it seems on the surface.
+11:20
+Another I can.
+I can accept that it's it's a it's definitely a deeper, larger game than his signature.
+He signature is a a nice small self-contained gem, but it's not as expansive.
+But also like maybe heat signature respects your time a little better.
+11:40
+I feel like, I don't know, like, you know, I, I kind of just that you need at at least 90 minutes to sit down and like block out the rest of the universe to play Risk of Rain 2 heat signature.
+Yeah, you can just like pause and come back basically anytime.
+And I feel like the missions in that are much shorter to a degree, and you have much more flexibility for it.
+12:00
+So I think I'm might have to be the tip over person here for putting my vote past or behind Risk of Rain 2.
+It is, I think my tide for my second highest game in my personal rankings, but he's signature yeah, it it wouldn't be here if it wasn't an amazing game.
+12:19
+So I think my door.
+Kick It Out the airlock, eject it into space.
+No mercy.
+With what?
+Just like the.
+Game gives it no mercy.
+Yeah, I think my door prize for this for heat signature would be best defenestrations.
+Yeah, Oh.
+12:35
+Great word choice.
+And yeah, love a good defenestration for sure.
+And I mean, yeah, each signature is the game all about that in space.
+Sorry, any other year, you know, bad, bad match up, you know, out of out of the gate it's, it's tough, that's tough, that's tough match up.
+12:54
+Sometimes you sometimes, yeah, your your wild card, you get that, that home field advantage against the juggernaut team.
+But it happens sometimes.
+But the risk of rain too will be moving on and we will be moving on to our our next match up here, maybe maybe a little more or less juggernaut over the headness.
+13:15
+But for our second wild card match up, here we have our 21st ranked overall game, Slice and Dice leading our solo dev category versus our wild card top down shooter of Star of Providence.
+13:32
+I'm gonna put my thumb down for slice and dice because it's down on my phone where I'm slicing and dicing.
+Yeah.
+I mean, I feel like in a slightly different world, we'd have a mobile game category and slice and dice would be at the top of that as well.
+13:49
+I ended up playing a lot of slice and dice after we reviewed it, and I think I actually bumped up my rankings for it post post episode.
+Partially because it's a mobile game and it is extremely accessible for like sitting around in an airport.
+14:07
+And I got way more utility out of it over the course of the last year than I have out of some of the other games just because I have it in my pocket when I don't have other games in my pocket.
+So I'm gonna say that pushes it over.
+You know what game you always have in your pocket, Colin?
+14:25
+Yeah, but I've already put them into into a certain game which must be named every podcast.
+Chess, the lead chess app specifically.
+The greatest rug like of them all.
+All right, well, look, check it out.
+14:43
+You know what you're not going to find on a damn phone is star of Providence.
+It's simply too incredible an experience, too kinetic and exciting and fast-paced and pulse pounding to be contained on a mobile device.
+15:02
+Star of Providence arguably is completely not at all comparable to Slice and Dice.
+They're totally different games.
+But I'm here to say it's I mean, look, I I realize this is going to be an easy like 3 to one me getting outvoted, but star of Providence is something special and slice of dice.
+15:22
+It just it doesn't have the IT factor.
+I'm.
+Sorry.
+I have Star of Providence ranked the same as Lone Star.
+And that is a outrageous and ridiculous ranking.
+You know how you know will?
+You know Will sometimes says great score.
+It's a beautiful score.
+It's a wonderful score.
+15:38
+I never said.
+That's a bad score.
+I'm here to tell you.
+I I am going to return my eyebrows from orbit here to try and address this absolute travesty you tried to introduce as a.
+As a an.
+15:54
+Argument in favor of star Providence no slice and nice oh I mean what do you got what do you what do you got with slice and you have a a tactical.
+Turn.
+Based strategy game.
+Of course, of course, of course, Andrew.
+16:11
+Of course.
+It's going to be the better game.
+I'm sorry.
+It doesn't matter what, even if it sucked.
+Matter of opinion.
+It's it's going to be better.
+Just from you're telling me just from jump by by by nature by by since star Providence is not because it is not turn based is therefore inferior.
+16:30
+Absolutely.
+I mean, there, I don't think there's anyone here who would object to that.
+I think I might object and I think like OK, so slice and dice it.
+It just had a a big update after we had covered it this year and they they added another cursed mode which.
+16:47
+Wow, another mode for the game with a million modes for the game with the devs who couldn't decide like how to best design their game so they but just put every design into the final product.
+Exactly.
+Yeah, a a new cursed mode and what does this one?
+Do this one is is Bliptra which is blessed hyper ultra mode and it's.
+17:09
+It's innovative, descriptive.
+Rolls up it is it's another it's another kind of thing where like you're accumulating curses at like a crazy rate while you're balancing that out with with blessings.
+It's just another kind of spin on, on some of the other similar modes like that, but just different enough that if you were like one of those pro players who's getting like 999 streaks on like a cursed ultra or cursed hyper, it's like, Oh, here's another thing for you to play with.
+17:39
+And I think this like slice and dice is like shockingly good on the Steam Deck because of the touch screen where it, it makes and like its landscape.
+And it's so it's like, it feels like it has all the greatness of a, the portability factor of a mobile game.
+17:55
+And like, oh, I can like use the touch pad and like the, the haptic thing to mouse over and click on stuff and it's great.
+And I feel like I have come back and played more slice and ice than I have Star of Providence.
+But this summer with, and I'll, I'll allude to this later on as well.
+18:15
+Pax PAX W here in Seattle had a booth set up for Star of Providence for to celebrate their upcoming Switch release.
+And wait, I have to interrupt.
+I, I, I have to amend basically everything I already said Star of Providence actually is coming to a very phone like device, which is the Nintendo Switch.
+18:34
+So maybe disregard that entire argument.
+So yeah, you weren't though, you win.
+You had it on down to the booth.
+Yeah, so I had it on the I and I was practicing on the bus ride down on the Steam Deck.
+Like, OK, I know that there's a contest going on.
+I'm going to like get my star Providence skills all warmed up.
+18:49
+Went there and I, I don't know, I think I like tied the the record for the the Friday or I think it was Friday or Saturday floor yeah, it was Saturday 'cause I busted on Saturday, but anyway, like one of those days was the.
+Age 8:00 to 11:00.
+19:05
+Category.
+No will.
+He was the star of Providence.
+He was the star.
+Yeah, my mistake.
+I I did not get the raffle prize because I think someone on Sunday beat beat everyone's.
+What was the prize?
+A photo op with donkey, Which is a prize?
+19:22
+Is a prize legitimately?
+I was looking for him.
+I didn't see the huge crowds there, but but yeah, I think on on YouTube, you can find the the Upgrade Terminal podcast, which is 22 fellows who are just doing a podcast purely on this game.
+19:40
+If you didn't think that there was enough to deep dive on it.
+And and they've wrote into our show to say, you know, to say thank you guys for giving more attention to discussion about Star of Providence.
+Love it to pieces.
+The podcast that we did or the episode that we did was a lot of fun.
+19:56
+It's always interesting to get a new perspective, especially from those outside the community.
+So I think like when I was when I like went there and I was playing star province in that moment, it felt like very high stakes.
+And I love slice and dice.
+20:11
+I think slice and dice is the better better game in some aspects but like the artwork, the like the play style like.
+The the music, I think like the total package of Star Providence feels more complete.
+20:29
+It feels like there's kind of something missing out of Slice and Dice with that, which is fine, it's a solo dev game, but I'm going to put my vote behind Star Providence.
+Whoa, I didn't.
+Expect this first time we're.
+Wasting a lot of time on this conversation because I thought.
+You're doing this.
+20:45
+You're doing this with the knowledge of what the outcome will be when you send it to the audience.
+So I must say this is corruption, kleptocracy.
+This is the UN American unpatriotic way approaching it and Oh my.
+21:04
+Goodness, I feel like that is actually the American way.
+You know what?
+Yeah, the Electoral College of the listeners has said that that yeah, this this game that I'm about to announce is the is the.
+Defector just just real quick to to re summarize my thoughts.
+Like Slice and Dice is perfectly comparable and it may be an elegant game design, but Star of Providence is an experience and it just, as I said, it has it.
+21:30
+And I would have been in that same line as you, Scott, but instead I was in a 2 1/2 hour line for you guys.
+To folks, Stalker two, I was in that demo and it was the greatest line I've ever waited 2 1/2 hours in.
+Let me tell you anyway, please.
+Now, now, Andrew, if you had a Steam Deck, you could have been playing Star Problems in the line.
+21:49
+I looked for you, I looked for you in the line there 'cause I was like, oh, maybe, maybe I could get a floor interview with with the Andrew Harshman, But but the listener, the listeners have rode in.
+We have their their final tally, their pick between slice and dice.
+22:05
+And what was it?
+There's Star of Providence.
+Is drum roll building up anticipation?
+Is slice and dice ripped?
+I was about to say.
+I was, I was expecting to be disappointed.
+Good job listeners.
+You did.
+Listeners have done their job today.
+22:23
+So far.
+And, and let's see, Lychee the crawler wrote in to say Slice and Dice has been my game of the year.
+Every year it put out a patch.
+One of the very best.
+Yeah, I think like it's, it's a great game.
+There's a lot to it that there's always more getting added to it.
+22:40
+Yeah.
+I mean, exceptional, exceptional effort.
+So, so door prizes for for slice and dice.
+I think mine would be that it has maybe the best cat warriors for any game that we've played this year.
+Yeah, you know, it's got.
+Great music.
+Door prizes for the loser.
+22:57
+Yes, you're right.
+And what I meant is that Star of Providence has the best cat shopkeeper of any game.
+They're one of the.
+Very.
+Wait a minute, wait a minute, Monster Train.
+Monster Train had a cat well of this year.
+This year.
+Oh, of this year.
+Oh, wow, you used to like throw conditions around this.
+23:14
+OK, you know what?
+Asterisk, asterisk asterisk.
+Yep.
+OK, so the Providence, what do we got?
+Is is blasting off our our and blasting off to our next match up here for our third wild card round is the number three newest hottest roguelike deck builder on the streets Bilatro versus a fan project from 2003, a free to play, grid based, tile based, turn based, procedurally generated, legally skirting the legal definite boundaries doom the roguelike.
+23:56
+Not legally distinctive rogue life.
+Game sorry DRL D asterisk asterisk RL before Bethesda's lawyers come after us.
+So yeah, this this folks, is the only place where you can find a match up between Bilantro and Doom.
+24:12
+The rogue leg is here on the Grog pod.
+So that's this is what we're all tuning in for.
+Yeah.
+Gosh, Bulatro.
+So a door price for Dumarel?
+Check it, check it out.
+Yeah, I mean, unfortunately, I think that the best, the, the most compelling argument that can maybe be made on this rogue like podcast is that Dumarel is an actual rogue like and that perhaps Bulatro should be disqualified.
+24:38
+But I know that's not going to happen.
+And I, I tend to, I tend to believe that Bulatro is a superior game.
+It's one of the but this is truly the situation of like, you know, the the grizzled veteran, but like versus genre versus this is the versus, you know, the new upstart.
+24:58
+Like this is this.
+Is versus a game that will eventually inspire Bulatra likes.
+Bulatra likes this is this is like, you know, the recent Tyson fight and unfortunately Dumarel can't quite.
+No, it'd be like if the old It'd be like if a actual current boxer was fighting Mike Tyson but now, where Mike Tyson used to be good but would get absolutely pummeled by a 25 year old who's actually still in shape.
+25:25
+Sure, sure.
+I'm not.
+I'm not trying to suggest that Bellottro and Jake.
+Paul, are that's exactly what you're suggesting.
+I'm not.
+It's not a literal.
+Like sexy new.
+Fresh on the streets.
+I'm just saying it's a.
+It's a.
+It's a alpha male.
+25:41
+It was just, no, look, it's just a prank, bro.
+It's just a prank.
+That was always.
+Andrew was pranking you.
+I vote for Bilatro, but this is a old game versus new game basically.
+It's all I was trying to say.
+Bad.
+Game versus good game, I agree.
+Well, objectively wrong, but that's.
+OK, what are what are some old games that are good except for chess?
+25:59
+I mean, what else do you have?
+What else do we have?
+I mean gosh, absolute like classes.
+Well, will thank you for being.
+For the.
+Part of the episode the N64 game every.
+JRPG on SNES, practically the Mario series, the Super.
+26:17
+Mario 64.
+The Mario world order, some like iconic.
+I mean, I guess Half Life is well over 20 years old railroad.
+Tycoon. 3 StarCraft StarCraft Brood War.
+We don't.
+We don't have.
+Time for this conversation.
+Counter Strike, Yeah, I, I think.
+26:34
+What's modern is is counter strike in the.
+Modern era Counter strike two anyway, Dumarel all.
+Right, so Bilatera wins.
+Dumarel.
+Congratulations, you get a gold chainsaw.
+Great.
+An award for best sound effects.
+26:51
+Yeah, I think the sound effects in Dumarel are are great.
+Dumarel actually just came out with another big, big patch August 6th of this year, which modernized the game to some degree, made it a little less less clunky and chunky to move around the UIS.
+27:08
+And very importantly, you can now save and quit the game at any point instead of just on staircases and the the the developer.
+It's kind of casual.
+Developer of Doom RL wrote in to say thanks for this awesome review of the of the episode that we did.
+27:28
+We did Doom RL and Jupiter Hell in the same episode.
+I waited to post this comment until I've listened to the whole thing because I thought I need to do some clarifications, but everything was so so surprisingly on point considering this is almost a video game history at parts :) Kudos on a good shot at pronouncing the surname I think from Cornell Kochelovich.
+27:50
+I'm going to say is is how his name was.
+Pronounced what a what a pal.
+And hey, thank you for writing in Do Morel.
+I've known about for a long time and it's, it's super cool to hear from somebody involved in the development.
+That's, that's well.
+And I'm also glad to hear.
+28:05
+I was actually re listening to part of that episode recently and I thought my, my, my summary of the history of the Doom engine and and how it is currently being utilized, I thought was a little lacking.
+So glad to hear that it was it was OK, it was good enough.
+Yes and like for the the upcoming Jupiter Hell Remastered, which we'll get to in a minute, but that coming out basically is like rewriting the Doomarel engine for like like quote UN quote real systems.
+28:36
+So that and like being put out on Steam, I think with the idea that you'd be able to like back mod it into Doomarel to avoid all the copyright stuff.
+So.
+So I think yeah, Doomarel.
+Just accidentally leave the texture files hidden in the thing like oh we didn't, we forgot to remove them.
+28:53
+Whoops, yeah, Bilatro.
+I guess.
+I don't know, like it was kind of all over the game Awards.
+I don't know, is that good?
+Like, I did just beat the the the blue deck minutes before jumping into the call here.
+29:10
+So.
+But I'm I'm sure we'll have more to say.
+Bilatro in a minute.
+Yeah, I think, I think my vote is gonna have to be for Bilatro du Moral.
+It's great.
+It's part of video game history, I think, especially rogue like history, but I mean, you're you're going up against like, you know, the home field advantage of of like a Super Bowl winner.
+29:32
+Oh, mega Bowl winner.
+Sorry, legal, legal.
+But yeah, I think so.
+Our our door prize sound best sound effects for Doom RL and yeah, I think that's, that's gonna push Bilatra up and that's gonna take us to our final wild card match up.
+29:50
+The The Battle of the Horror rogues between our well, neither of these won their category, but between our #10 ranked inscription overall versus our #25 overall ranked World of Horror.
+30:07
+All right, check it out.
+Inscription 2 Gamma key.
+That's it.
+That's that's the problem.
+Yeah, I agree.
+Well, World of Horror is going to take my vote here.
+And that's a complete lie because obviously it's inscription.
+Are you kidding me?
+A deck builder rogue light game with strategic decision synergies And no, no.
+30:28
+Are you?
+No, no.
+Come on.
+Come on.
+I will say that if you had asked me to rank both of the, OR if you'd asked me to rank inscription off of the first playthrough, I would have I, I did, I think in the episode we talked about it, I would have get a better score.
+30:44
+And then playing it through the second time lowered my opinion of it in some ways.
+And I think it's, it definitely stretches the boundaries of roguelike.
+It it is a, it is flavored like a roguelike, but I don't think it actually plays roguishly.
+31:03
+Once you there.
+There's a little bit in there, but you're really only doing like one run for the whole thing.
+Yeah.
+And I think like I was thinking about this earlier for for like what rogue elements it has that are kind of undone by the latter 2/3 of it.
+31:21
+But I don't think that that like that rug pull in inscription works.
+And I think Woody, our our guest for that episode was saying like, that doesn't work unless you think the game is a roguelike is a roguelike deck builder.
+And so it had like that first act has to sell you so hard on it.
+31:39
+And there there is kind of like, you know, unlockable things that it's kind of like a a story escape room puzzle game to some degree.
+But all of that has like the the rug pull wouldn't work as well.
+And like that like inscription wouldn't be as noted for its, its twisty turniness if it wasn't like set up as like a good foundation already.
+32:03
+And then it's like, oh, by the way, now it's a Pokémon game now.
+Yeah.
+But World of Horror, I think when we were recording that episode, it, I think I, I made a note of like is, is World of Horror the actual Act 2 that we wanted from Inscription?
+32:20
+And I think we kind of leaned in like, yeah, like the way World of Horror does it's it's story generation is much more roguy than like the back half of Inscription.
+But like Inscription, I guess you can at least like see the UI that you're supposed to interact with.
+32:40
+Yeah, gosh darn, it comes back to that, eh?
+Yeah, look, I, I I can't make the same argument as I did earlier with slice and dice and and star Providence, because both inscription and World of War are are very much interested in the experience.
+Both games are an experience an.
+32:57
+Aesthetic.
+Sure.
+And both have, yeah, this is this is like a fair match up, honestly.
+But you know, but my personal preference is for World of Horror.
+And I realize I am probably outnumbered here.
+I mean, maybe, but I think.
+33:14
+Like.
+Maybe we're getting a Maybe.
+Because I think like from like a pure gameplay perspective, I almost want to say World of Horror is the better like a game to play as a roguelike, you know, with like, OK, I'm, I'm, I'm setting out to, to do this objective.
+33:33
+I'm gonna randomly populate it with stuff like inscription.
+Once you get to act two and three, you're not really like perma death looping around back to the start and like, you know, rejiggering.
+OK, now I'm gonna do a mage build and now I'm gonna focus on this other thing.
+33:49
+I think World of Horror does that.
+Does that system better Inscription though?
+I think the first act of inscription is a better yeah is just a better work like and it's and a better game.
+If you just sliced off the second two third or the the second and third thirds of the game, it would still be better, more a game that I'm became more invested in.
+34:12
+Yeah, I think the the Casey's mod standalone thing works really well for that.
+And we have a another listener comment from Jared Wasserman, 1092 for for our inscription episode who says one thing I wanted to correct is that the woman at the end, Amanda, wasn't intimidating.
+34:34
+I would say that was the point.
+She's not actually a representative of the company.
+She's a body being controlled by Sato and escaped AI from Daniel Mullen's game The Hex.
+Sato's face flashes up over hers in the second after she spoiler alert.
+34:53
+But I mean, you probably already know this from tuning into this episode after she shoots Luke.
+So.
+And I went back and I went I went to YouTube frame, frame it frame by frame.
+I'm like, oh, yeah, look, there is.
+And it's like it's one of those like pop up faces from I think like act three that's very stylistically similar.
+35:12
+Like, oh, I guess that's a reference to a previous game, but like, I would have never known that.
+I, I like this theory.
+I like this.
+I, I think, I think you're right, listener.
+I think if that was expanded upon or like hinted at, like it'd be like, oh, like all of a sudden this game got way spookier.
+35:28
+But but yeah, I think that's that's pretty neat Correction.
+Appreciated.
+What's our what's our voting leaning right now?
+And I don't know if it's evenly split.
+Well, Will and I are for inscription is known it.
+Is known.
+So it's really going to come down to you, Scott, on whether or not we're going to throw it to the and.
+35:45
+You're you have a preference.
+The masses.
+Disgustingly enough to like to tie it up and allow the fuck OS out.
+There to the side.
+Come on.
+Whoa.
+Gee, weren't you just saying how genius they are?
+I'm.
+Sorry, ass hats, that's the more appropriate, I mean.
+Sorry.
+36:00
+All right, all right, all.
+Right, I think.
+Well, let's see.
+Yeah, I'm gonna go with inscription.
+I think that's like.
+I thought for sure I'd biased you the other way with how hard I like swung there.
+OK.
+I mean like World of Horror, great game, good, great solo dev game, the art is amazing, the one bit 2 bit stuff like plays really well in the Steam Deck, etcetera, etcetera.
+36:24
+All that.
+All those things that we ticked off for things that we like in that episode, but inscription like I never thought that I would like go so hard into the stand alone Casey's mod thing, but I did and I was like, oh, this is super interesting.
+Like it has a pretty good amount of depth, probably as much as world of horror.
+36:42
+It's not as maybe unique as World of Horror is, but like I was, I was looking up like build YouTube videos for inscription Casey's mod and I was motivated enough to like check out all the other like mods for it, like Groomora's mod and Magnificus's mod and all that.
+36:59
+They're not good, but the but Casey's mod is good.
+And I think that that helps to kind of like push it over the edge and pushing, pushing out of the lighthouse on its way down out of the door.
+Pride being defenestrated out the lighthouse.
+37:17
+For World of Horror, I think World of Horror probably has the best eye stabbing.
+Oh.
+Yeah, great eye stabbing.
+Better than inscription's eye stabbing.
+You know, I said that and then I just remembered inscription had eye stabbing in it.
+Oh, shoot, I don't know.
+We got.
+Wow, again, this is such a good match up like they're so they're they are so similar in so many ways.
+37:36
+Very interesting, very interesting, I would say.
+I mean, it's the most sanity blasting, probably is the best gore of any game that we.
+Cover It has the best use of a single color.
+Yeah, that's true.
+Yeah.
+Best, best gore without even having read in it.
+Amazing.
+I mean, I do really, it's got a fascinating art style that I think that it is the most visually striking game that we played and.
+38:00
+What and what, what does what's the award?
+What is the prize for this that we, we give it?
+I, I, I, I think that the prize that the the game should be awarded is probably a random energy injury from the random injury chart.
+So congratulations, funky scab or, I don't know, creaky knees.
+38:21
+You are bleeding and also cold, also it's quite chilly.
+And best best happy Shiba Inu dog vendor.
+Oh yes, let's not for you.
+That's this is important.
+Yeah, a lot of good merchants this season of of of the grog pod, some real good ones, the cats, the the doggo from World of Horror, and of course.
+38:48
+Yeah, speaking good merchants.
+We got another one coming right up.
+Yeah, we're we're into the divisional match up now.
+So our our coming out of the wild card match up our our best four games are our third ranked bilatro, 10 ranked inscription, 18th risk of Reign 2 and 21st slice and dice.
+39:05
+Those are gonna get reseeded into our divisional bracket that we're moving on to next.
+And we're starting off with the heavy hitter Division One, number one overall for the podcast, ranked Slay the Spire versus the 21st ranked Slice and Dice.
+39:22
+No contest.
+I mean, what do you, what do you want here?
+What do you want?
+I mean, I've been mentioning Slay the Spire every episode that we've ever.
+Just casually mentioning it.
+Yeah, it's it's the greatest game of all time.
+I'm sorry, did I, did I bias you all?
+My my mistake.
+39:40
+Yeah, well I am just a play devil's advocate, but Slice and Dice has again great dice rolling physics folks and really like a master class in dice rolling physics.
+I changed my mind actually.
+You know, I will say.
+39:57
+I knew you'd listen to reason.
+Slice and Dice is the better mobile game, despite the fact that Slay the Spire absolutely should be played mobily like the Slay the Spire app on the phone is a bad.
+UI experience and it frustrated me intensely to play it because there's no reason for it not to be perfect.
+40:20
+Don't.
+You have.
+APC Yeah, I but look will if I'm if I'm sitting in a car dealership waiting for them to figure out what's wrong with my tires and it's Slay the Spire and I'm getting frustrated because I can't click the cards right or slice and dice.
+But if I'm at home, obviously I'm going to be playing Slay the Spire.
+40:39
+So Steam Deck, Steam Deck, Steam Deck.
+I'm.
+Not going to bring a steam deck to a car.
+Dealership.
+What are you, a lunatic?
+You don't have it surgically attached to you.
+I wasn't.
+Expecting to be at the car dealership for like an hour.
+And a half.
+I agree that's a bad move.
+You don't want to bring something fancy and expensive like a like a Steam Deck into a dealership.
+40:57
+They're going to take you for everything you're worth.
+It's a branding thing.
+You don't want the Steam Deck to be your character as you go out into the public, right?
+Yeah, you know, I'd be a switch.
+At least I was going.
+Through I was going through airport security in October and putting Steam Deck on the conveyor belt and I was like, do I need to do I need to like take this out its case.
+41:19
+And he's like, Oh no, your, your Nintendo Switch can stay in its case.
+No, Oh no, little boy, thank you for asking.
+Just why don't you just skip on through this this detector real quick listeners, we were recently playing an in person dungeons and Dragons game and what do you know, Speaking of of Speaking of Steam Deck as a character, Scott Berger had his character sheet on his Steam deck.
+41:43
+It was low key kind of impressive.
+I.
+Mean this is the Steam Deck podcast.
+That's what, yeah, yeah.
+Because we know every episode at some point, Scott goes, this game actually plays incredibly well.
+And the same thing happened in the middle of our D&D session.
+You know this game actually plays incredibly well on the Steam.
+Deck yeah, D&D Beyond I mean you get that web browser fired up.
+42:01
+You can do just about anything on that and and it doesn't take up like any table space because we were a little.
+Yeah, the little we had propped up so I could play even though I was sick didn't take up that much space though, right?
+Well, that was like a good quarter of the table.
+No, no, I I admire your you embracing technology.
+42:18
+All right, so.
+What a bunch of nerds here, Oh my God.
+I feel bad.
+I feel bad because I like slice and dice a lot, but I can't possibly it can't possibly stack up against sleigh this fire.
+So yeah, I think slice and dice wins the award for again, best dice rolling.
+42:39
+I mean best, best stack of dice, you know, dice stacking.
+I don't know if y'all ever do that to the DTA.
+Well, I don't I would I would stoop so low, but sadly that's.
+I think it's like one of the most unique rogue placement of abilities, you know, putting them on the various faces.
+42:54
+That was great.
+That's a a very inspired.
+Choice.
+Yeah, Slice and dice.
+Give yourself a pat on the back.
+Hi Ray, this is a Pat worth with that game for sure.
+Well, I mean, only only so many games can go up against an extreme juggernaut that is play the Spire, but it's it stands in a in a class of its own for a reason.
+43:15
+It the it's the reason why we have games like Bilatro so.
+It's the reason why the grog pot in my opinion.
+But you know what?
+That's my unique opinion, but.
+But yeah, I think slice and dice on on the door out now I'm going to give it the best, the best cat warrior door prize.
+43:32
+There we go, he was saving it.
+Honestly, I I have no idea what you're talking about.
+I I such a vague recollection of slice and dice.
+Well, some of the some of the heroes that you can select like that, well they have different colors and notably the green ones have are like.
+43:51
+The weirdos.
+Yeah, they're.
+The weirdos.
+And if you get a, a a a party, notably the, the cats can't level up.
+So what you do is you get a party of four cats and one regular guy.
+And then every every time you win a battle, just the regular guy gets all the XP.
+44:06
+So he like wildly over levels and then it's just complete insanity.
+So this is.
+Ringing a bell, them not being able to level.
+Thank you for the refresher.
+Unfortunately it's not enough to save you.
+Slice and Dice.
+Who are our next Omega Warriors to enter the arena?
+44:22
+Oh boy, I think we'll, we'll skip over this the this one.
+Next we'll go to our second division.
+We'll we'll, we'll do I guess in numerical order here.
+Our our second division is our number 7th ranked Vampire Survivors, winning the the top down shooter category versus our winner of the regular shooter category of Risk of Reign 2.
+44:50
+I was going to say this is another matchup of like, you know, old classic versus new classic, but these two games are kind of contemporaries almost.
+They came out in the span of what, like 2-3 years?
+They're both proximately.
+They're pretty modern.
+Yeah.
+Yeah, Yeah.
+Well, it's it's my observation that these are both games that have a tendency to be chaotic.
+45:11
+Will why do you like the chaos of Vampire Survivors more than you like the chaos of Risk of Rain?
+Question, Andrew, thank you for asking it.
+You're welcome.
+That's hard to say on the service.
+I mean, I'm just looking for the, I mean, I have my feelings of course, and to to transpose those feelings into concrete opinions about these two, it's actually kind of difficult.
+45:39
+Number of bullets you're shooting.
+Maybe it's that I know that Vampire Survivors has been described as Bullet Heaven, and I think that might have something to do with it where your objective is not to avoid the things that are being sent at you.
+You know, with most of these games being like things flying at you and risk of rain, things are shooting at you.
+46:00
+You have to dodge them, attack the in, in in, in Vampire Survivors, you are, you are the OP thing.
+You are the the the thing that they're trying to crowd out and you just have so much more.
+My opinion, a feeling of agency maybe.
+46:16
+Is that what it?
+Is I get, I get what you're saying, I get what you're laying down it.
+Feels a lot more rewarding overall and I haven't done an extreme analysis on this but it seems like that's.
+Indeed, indeed, that that's an important distinction, though that you're you're bringing up.
+46:31
+That being said, that distinction when when like looking at those two options, I I personally err on the side of I'd rather be the, the the I'd rather be going through the the bullet storm through the bullet hell rather than being the one generating it.
+46:47
+So I I think I have to pick a risk of rain.
+It's a turn based thing versus versus a want to be there real time.
+I think that's what it comes down to.
+Is that maybe related?
+What?
+Quite probably the the turn based card based deck builder that is Vampire Survivors.
+Well, no, but but Vampire Survivors you are on the end of like it it.
+47:06
+I mean, if you had to boil it down, it does feel more turn based.
+You're making this.
+You're pausing the game.
+Pausing the game.
+First of all, it doesn't happen in Risk of Rain, but you're pausing the game to make a decision about what thing you want to add to your synergy.
+Yeah, there is that strategy.
+Just much more of a, hey, I have a moment to think, I don't have to worry about things getting stronger as I sit here and make this decision in real time.
+47:29
+It's just it's a very much more of a strategic slower and I say slower, but that's what it is.
+It's.
+Slower by the end game for Vampire Survivors is that you don't have to move anymore.
+Yeah, you hit escape and you are paused.
+47:44
+I don't know.
+You don't get that otherwise.
+Well, we have.
+Cats.
+Oh yeah, that's true there.
+Here's another question, but for everybody, what do we think of the multiplayer in Vampire Survivors?
+I didn't know that it.
+Never played it.
+I might be making that up, I don't know.
+47:59
+Did they ever add that other thing?
+I hope to God they didn't.
+I think, I think so.
+OK, now we have.
+You fight each other.
+The only way I would like is if it was PvP because that would be insane.
+You're just like running around the map trying to like power up before you come in and you're just like insta kill each other.
+48:16
+Wouldn't that be something?
+There is there is 4 player Co-op in Vampire Survivor.
+Oh wow.
+So here's another interesting matchup.
+We have two four player Co-op games.
+Oh my gosh, how are we to choose?
+Well, I.
+Think I played four player Co-op on your phone.
+48:32
+All right, so maybe maybe to color our our decision making process here good friend of of the show who writes in pretty frequently Devian Fuchsa put in about vampire survivors to say a pox upon this game and all this Falcon that it has spawned.
+48:48
+I remember when the binatizing came the blight that may never wash away, but even But even it did not have as many imitators as Vampire Survivors.
+What?
+What's certain is that we've moved away from calling its brethren BOI clones, which apparently cannot be said for this genre of ill.
+49:09
+Hopefully this fad will pass related to Vampire Survivors.
+I'm sorry, can we get that that first opening line again?
+A pox upon it and it's spawn.
+A pox upon this game and all its foul kin that it has spawned.
+49:26
+I mean, that's wow, that's, that's awesome.
+I think like.
+And we love.
+We appreciate your writing in thanks so much.
+So I did.
+I did a a talk last year for the rogue like celebration about like doing doing data analysis of like the whole rogue category.
+49:42
+And one of the one of the slides that I nixed out of that was how many, how many vet like survivor like games are coming out and like, is this something?
+Yeah, rotate, rotate is one of them.
+Maybe one that we'll get to next year.
+49:59
+Bone raiser minions.
+No, we won't.
+We won't.
+I won't meet anyways.
+Yeah.
+But like it is it is like took off exponentially since Vampire survivors came out because everyone wants to wants to be the next vampire survivors.
+And like, you know, it's a reasonably straightforward game to make.
+50:17
+I think so it probably has a lot of fast fall away imitators, but I think vampire survivors is like the best of its category by far because like it it doesn't try to do anything too flashy.
+It's like it, it has like just the right amount of like, and I use this term lovingly brain deadism that I can just like sit on the couch.
+50:37
+It's been a long day.
+I don't want to use my brain anymore.
+Pop vampire survivors on the, you guessed the Steam Deck and just like use the joystick to just like auto move around to dudes.
+And it's a great experience.
+I've been playing the the Contra DLC that they released for it.
+50:52
+Like, Oh yeah, this is fun.
+Like I'm having a good time.
+I'm playing it and this is, it's like, it's totally fun.
+The like they got a full orchestra to score one of the other DLCS that we played for the the music special episode this summer.
+And yeah, I can understand why people would be frustrated about like, oh, there's a million Vampire Survivor clones out there, but there's only like 3 good ones.
+51:14
+So it doesn't really matter that there's like.
+Which are the three?
+Vampire Survivors Hollow Cure and No wrong already.
+Wow fundraiser minions.
+What about, sorry, did you I, I, I, I zoned out for a minute because I was, I was contemplating like, are we as, as critics are are are we on the hook?
+51:35
+Are we compelled to take into account the effect that these games have on like the greater gamescape?
+And if they do in fact have a negative effect like Vampire Survivors has in this like, you know, this glut of like a garbage clones does that is that a a point against the game?
+51:56
+That's interesting.
+I feel like most of the time I'm not seeing the clones at all, they're they're below the threshold of me looking at stuff.
+The the data certainly bore that out, which is why I'm nixed the slide.
+And I have to, I have to retract my statement that maybe I think Halls of Torment is probably better than fundraiser minions.
+52:16
+Oh yeah, yeah, yeah, Halls of Torment is.
+Fantastic.
+It's.
+A very good game but yeah like I feel like the the games that are good in that genre are so much better than the the the mid or or bad ones.
+Yeah, I was and like I was surprised that that like Bro Tato has like this huge following and I feel like I'm missing something from it, but.
+52:38
+It just it's the potato.
+You're missing the potatoes.
+Yeah, there's a lot of potatoes out there.
+Yeah, well, well, we're we're in no short of supply of of new ones coming out 'cause there's Deep Rock Galactic survival.
+Wait, what is this even?
+Wait, hold on, we haven't even we've spent this whole time talking about why we do or don't like Vampire Survivors.
+52:57
+Who is it even facing risk of rain?
+Two.
+Oh yeah.
+That game.
+And I think like so I I'm going to cast my vote for Risk of Rain 2.
+But my man.
+I think like 'cause I, I think that like it's, it offers more interesting decisions when you, you are limited in that real time environment.
+53:17
+Like, yeah, I mean, we're, we're all getting old.
+We're all in our mid 30s.
+We, we don't have the reaction time of 10 year olds anymore.
+Like only. 17.
+There's something about the frenetic chaos of risk of rain too, that like, I don't have time to think.
+I have to like, go and like, grab a chest and OK, I have this thing, great.
+53:36
+I'll see if what I can make out of it versus yeah, like Manpire survivors.
+It does like, yeah, yeah, I can like, pause.
+I'll take my time.
+Which of these like synergy cards do I want?
+But it feels like in in Vampire Survivors, like despite what character I pick, it seems like all the builds just kind of turned into the same thing at the end game.
+53:56
+I don't know if the same can be said for Risk of Reign too.
+I couldn't tell you because I'm still stuck on the commander, as I call it the commando.
+Yeah.
+Well, interesting, interesting question.
+You get that spider man lady?
+Colin, I I implore you to not let the the the shadow of your less than perfect shooter experience inform your decision here.
+54:17
+And well, I won't.
+I won't invite you.
+However, I think Risk Rain is a fine game.
+Sorry, but but but Vampire Spiders is a great game.
+Well, I've been survivors is my #9 game of all of the games we've played.
+54:34
+So it's about it's, it's tied with the last spell, so.
+OK.
+OK.
+All right.
+Well, that's bringing me back around to your way of seeing things.
+I feel like they're, they're both like very frenetic chaotic games for like 2 totally different ends of like the, the twitch reflex spectrum.
+54:54
+But we're, we're 22 split, aren't we?
+Is that right?
+Is this the?
+3rd tie.
+Oh my gosh.
+Well, I mean, that's the the goal is that, you know, the tie is the optimal outcome, right?
+This is.
+True, and this one, like I I have a gut instinct as to who the winner is.
+I forget who it is, so I'm gonna have to click over to the other tab to see who who the listener vote is between Vampire Survivors and Risk of Reign 2.
+55:18
+I'm doing it now.
+Click.
+As if you had.
+Drum roll.
+It is, drum roll, Vampire Survivors.
+Thank God.
+You knew.
+I hope, I hope that you knew.
+I I mean I I.
+Listeners, you've made another decision and you know, even though I don't agree with it, I, I respect the decision you.
+55:38
+Got to respect the call on the field.
+I do feel bad about Risk Rain getting booted out though, because I feel like in many ways it is a great game and it's got it's got the best rain.
+Yeah, my door prize is going to be best, best music.
+55:54
+Best rain and we here in the Pacific Northwest, we know a thing or two about rain.
+And let me tell you every day out here, there's a risk of rain and risk of rain too really brings it in that respect.
+And having the difficulty titles tied to the level of of precipitation is very cute and and fun.
+56:15
+And hey, on your way out, risk of rain, help yourself to one of these beautiful orange artifacts.
+OK, I'm gonna skip around here a little bit.
+We're gonna go back to our other side of the bracket here for our 4th division between well, you know, you know how these NFL schedule things are sometimes the the stadium gets closed.
+56:32
+For today, we're jumping over to our 4th division between our traditional roguelike winner of Jupiter Hell versus our third ranked milatro who is screaming up the wild card slots here, I think.
+56:50
+Malta is just building.
+And before, before we jump too deep into this this verdict, here we have a an audio message to play.
+57:07
+All right.
+Congratulations to everybody at Chaos Forge on the success of Jupiter Hell.
+I'm Mark Mir.
+And this is my favorite roguelike on the Citadel.
+You you will recognize that voice as Mark Mir, the voice actor for Commander Shepard from from the Mass Effect games, who also voices our protagonist for Jupiter Hell in a very who I thought was kind of a very reminiscent of Bruce McClain from Die Hard.
+57:42
+John McClain.
+God, what am I saying?
+John and Bruce are kind of the same, like, you know, RPG class of name.
+Exactly, John.
+Willis, the old John Willis.
+John.
+Yeah, You know John McClain, you know Arnold Schwarzenegger in his many roles with his, his various 1 liners.
+57:57
+Yeah, shoot one SEC.
+Commander Shepard, also known as also known as Mark Mir.
+There we go.
+All right, he he, he does a great job of, you know, capturing that 80s action star with all the witty 1 liners.
+58:15
+And there's a real Joker.
+Get screwed.
+Yeah, there's very few times when I'm playing Bilatera where I'm trying to play something and the the main character will say no fucking ammo or.
+Reload, goddammit.
+Or something like that.
+And I'm just like, you know what, that that really adds like a good layer of.
+58:32
+Great motivator.
+Motivation and exactly what I'm feeling when a giant robot is about to pound me into the ground in Jupiter hell I think I think Jupiter hell I think I.
+Obviously this is another steamroll, but I'm going like I'm I fully admit that Bilatro is probably a better game.
+58:54
+I just.
+Feel bad that Bilatro has taken out both Jupiter Hell and Doom world.
+Disgusting.
+Like it's basically just like you beat up my little brother and now the Big Brother is coming and you beat up the Big Brother too.
+All right, look here, here, look.
+Check it out once again, Jupiter Hell is a rogue like.
+59:13
+It is a good rogue like Bilatro is a fun like rogue.
+Light.
+Rogue Light.
+No super Hell's very rogue like.
+Yeah.
+No, no.
+Wait, we accept Rogue as has been defined with this podcast.
+59:28
+We are on the on the spectrum of like 2.
+Nice.
+Ways.
+Well, we play all games from.
+I just think it's to.
+Rogue Lights.
+It's just worth acknowledging, even if it doesn't win the match up, you know, it's worth acknowledging like, well, you know, if this were a more, if this was a purebred competition.
+59:47
+Whoa, you use the word, not me.
+If this was the the.
+American If this was a dog show, then I mean, come on, Jupiter Hell.
+But Jupiter Hell does sound like a fun name for like a corgi or something Like hey, here he comes prancing down the court.
+What a beautiful.
+Jupiter.
+1:00:03
+Hell.
+Oh my.
+God, look at that guy.
+A little fella anyway, but if.
+Nothing.
+Else weirdly.
+Long, if nothing else, Jupiter hell wins our #1 hidden gem game of the season.
+Where So in the rankings Google sheet that we have, I have a few hidden columns in there that show like, OK, here's like the the level of popularity the game is based on how many like ratings it has in steam or whatever.
+1:00:31
+And then how does that compare against where like where it is in our overall rankings and using some hand WAVY, as Will says, you know, the the greatest of all evils statistics, doing some math to say, well, how hidden of a gem is it?
+1:00:50
+Like how is how is how much higher is it on our rank versus the popularity rank of like how many reviews it has on steam, basically.
+And Jupiter Hell is the number one on that list, which I think is quite neat and I think well deserved for a game that has, I mean, like you look at like Dumar Alta Jupiter Hell.
+1:01:13
+It's like walking into the 21st century as a Stone Age person like it is.
+It is so much better of a game engine.
+The lighting is so good.
+We had the the guy who I believe did all the visual visual art programming for the for Jupiter Hell right in to say, and I believe this is from so this is at SLIZGI 86 or I believe, I'm 99% sure this is Lukas Selwinski from the Jupiter Hell dev team who says I'm super happy to hear you guys like Jupiter Hell's visuals and mood heart emoji.
+1:01:53
+It was quite a ton of work for a single GFX artist, so thank you.
+Wow, I bet it was a lot of work.
+And what, what what wonderful work it was.
+Yeah, well, thank you for making it.
+We're we're glad.
+We're glad you were happy enough to to hear our opinions that you bothered to write in.
+1:02:11
+Appreciate it.
+And mentioned before, yeah, Jupiter Hill is getting AAD make of Jupiter Hill Classic coming to steam, I think early 2025.
+That is is for all intents and purposes, Doom RL on Steam, but without the D *** RL, yes, D *** RL with no legal ramifications.
+1:02:32
+And you know, if someone just happened to mod in doom assets in there, we couldn't stop them.
+We couldn't advocate for it surely, allegedly for entertainment purposes, your honor, but I'm I'm wondering so Jupiter hell like has you go through like different the different moons of Jupiter, but notably missing is the moon Ganymede.
+1:02:51
+Can they forget?
+About Ganymede.
+I know.
+I mean, if you've watched enough of The Expanse TV shows I had, you can't forget Ganymede.
+And are you a Weller?
+Wait a minute.
+No, he's.
+A Delta Waller.
+1:03:09
+Boss mang yeah, I think if if Ganymede makes an appearance in Jupiter Hell classic and maybe that will help with getting it into Jupiter Hell non classic, that would be that'd be really awesome yeah love Jupiter hell.
+I think it's a great game again to play on steam deck, but going up against a Titan like Bellottro is is kind of just like a bull fight.
+1:03:31
+I think isn't.
+Titan also one of the moons of Jupiter anyway.
+Oh, thank you.
+Yeah, it's it's this is a tough match up.
+Tough match up.
+Jupiter Hell easily wins the award for most medal game in this in this this this season of the Omega Bowl without a doubt.
+1:03:50
+And I think the prize is I.
+Don't know what we.
+Yeah, the heaviest of medals here.
+Here.
+So we're, yeah, I guess we all voted for Bilatro.
+Sorry.
+Yeah, you have to say anything.
+Of course, of course, this.
+1:04:06
+That's the presumption by default.
+Well, that's going to that's going to launch us from the moon of Jupiter hell down to the final moon of our divisional round between 2 heavy hitters of the Rogue Cannon our #8 squad Management category winner of Into the Breach versus our Wild Card winner of Inscription.
+1:04:32
+All right, so let me just say up front to throw somebody else's words back in your face into the breach.
+It makes you feel good about making the right decisions.
+Like, ah, I solved the puzzle.
+I I figured out a plan and I put it into action.
+1:04:49
+I was right.
+And as such, I win.
+Whereas inscription is just some goofy gimmick.
+I mean, come on, like let's look at 2/3 of the game is a write off people, we can't keep doing this.
+No, I, I kind of kid, it's inscription is I, I have some respect, a fair bit of respect for inscription, but I think Into the Breach is just a better package.
+1:05:13
+Game length is not the deciding factor on the goodness of the game.
+That's that's where I feel about this.
+They all say length doesn't matter.
+It's girth, the girth of the rogue length.
+Wait, I'm sorry, what do you is that supposed to be a counter to?
+1:05:28
+My whole 2/3 of the game stinks Yeah, but but imagine will imagine if you owned a car that only ever got you 1/3 of the way to your.
+Destination.
+You own one game, Andrew.
+I own two cars and many.
+Games.
+1:05:43
+That's why you drive that one car to where you need to go, and then you drive the other car to your final destination.
+You drive a car to the to the light rail station and you take it.
+And we all know what a delightful experience that is.
+It's I mean, it's pretty good.
+But like, if there are there are cons to having to wait for the light rail, having to get on having to pay money for it.
+1:06:04
+Outrageous.
+Come on, what do they think I am made of?
+Made of coupons, It's.
+Breaking down very quickly because there's no weight in this scenario here.
+All right, all right, Well, I tried and really you're you're how how hard are you writing for inscription?
+I'm kind of.
+Shocked there?
+1:06:19
+I mean like OK, so I prefer inscription.
+Interesting is the preference.
+Of the idea that like I have this is not a I'm stranded on a an island where I have one game to pick for the rest of my life.
+This is a what is a unique and interesting and like the the most fun per hour played sort of game, and I would say that this game takes that.
+1:06:46
+Victory.
+But but what about those hours that are the final 2/3 of the game?
+Fun per hour I have.
+What are you talking about?
+On the 1st, so I've had the 2-3 playthroughs at this point the.
+First he came back for 1/3 folks.
+What?
+The first was the best and I think as a first time experience, just like a Have you ever played Stanley Parable, Andrew?
+1:07:07
+I have not.
+I'm familiar with it.
+So yeah, Stanley Parable is, in my opinion, it is, I think it's like a 15 hour game, but it is one of the greatest games ever developed ever.
+Like it's just, it's an incredible, incredible game, but you don't, you're not going to replay it.
+1:07:25
+In fact, they have an an award, if I were a an achievement, if I recall correctly, which is like, have you gone X number of years between playthroughs?
+And because they expect you to put this game down and maybe think about it. 5 4/6 I don't know how many.
+1:07:40
+Years.
+I think it's five years.
+Five years, yeah.
+Like, yeah, I like that game.
+Let me try it again.
+But they don't want you to just play it like it's not.
+It's very clever.
+What?
+You're saying is it's the antithesis of a rogue like?
+Let me just say that I also think the Stanley Parable a little bit of a gimmick, not unlike inscription.
+1:07:59
+However, you are right about.
+The uniqueness?
+What?
+OK, he said that word again.
+I just wanted.
+To make sure you are you will right or correct about the fact that inscription is in fact a more unique an idea, a concept and experience you are correct than Into the Breach which is a extremely competent and well done turn based squad game I'm.
+1:08:23
+Not denying that.
+So it's it's it doesn't do anything new or particularly interesting, I'm afraid.
+Maybe if they had more than one final boss or an end game, yeah.
+So I'm coming in.
+I rated Inscription better than Into the Breach.
+1:08:39
+However, as this is the Tournament of Champions, the Omega Bowl itself of roguelike games, they're pretty darn close in my rankings.
+I'm going to vote.
+For into the breach for this contest, I don't know if it's the better game, but it is definitely the better rogue like inscription is a great game.
+1:09:00
+It's a great experience.
+It relies on the community of rogue likes to exist so that it can subvert expectations.
+It can do fun twists and turns, but without games like into the breach, you couldn't play off those tropes and have it work well.
+1:09:16
+And I think that this is, you know, the I think I did this a little bit last year or two with Rim World where it's like Rim world better game than most, but less good roguelike.
+And since we are just doing head to head roguelike ratings for the Omega.
+1:09:33
+Bowl rogue rogue rogue rogue to.
+Emphasize we do rogue like and we cannot say that we are.
+Rogue game rogue.
+Well, I, we, we, we did talk about rogue like versus rogue light and I have internally decided since then that it's too much work to say rogue light.
+1:09:52
+They're too similar and we never came up with better terms.
+So.
+They're P OK, better term.
+Into the Breach is a better random, procedurally generated game.
+PDL procedural or it's loop?
+It more it more accurately represents the games that are the heart of this podcast and it's a very good game.
+1:10:13
+I only have a very slight difference in score between these two and I think that for this particular contest for me, that will push into the breach ahead of it for the head to head.
+Wow.
+Wow, wow, wow, wow.
+I think inscription is has probably the best story of any of the games in this, in this tournament, maybe of any of the games that we've covered debatably into the Breach basically has no story.
+1:10:41
+And I think it's like the difference between like playing a a chess tactics game, which Into the Breach is very close to versus something that's like, like once you've been spoiled on the inscription rug pole, it doesn't hit as hard the the later times.
+1:11:00
+And that's fine.
+And I feel like I actually had the opposite experience the first time I played inscription.
+I was very frustrated by it.
+I really didn't like it.
+And it was only on the subsequent playthroughs and especially this year coming back to them, like, yeah, this game actually like is really good.
+And when it does these things, yeah, kind of, yeah, kind of grinds in Act 2 a little bit.
+1:11:19
+But like, I remember just slogging through Act three the first time I played through it.
+I'm like, oh, I was totally in Andrew's camp.
+When is this going to be over consulting, like wikis and guides and game facts of like, all right, just get me to the end.
+I just want to like see the cutscenes.
+1:11:34
+Just get to it.
+This year I was like, oh, I kind of want to experiment with all these different systems.
+That being said, I think Into the Breach is a is a better game for this genre because like if you just took inscriptions like act one or just the Casey's mod and just had that up against Into the Breach, I would still say Into the Breach because it just, it has, I feel like maybe more options and more interesting like chess tactic puzzles to solve versus like like inscription act one, just really good.
+1:12:07
+It's very, very good, but I just wish that like Acts 2 and three had as much depth to them and especially with that kind of like looping puzzly, like perma death kind of loop to it.
+So I'm gonna go into the breach.
+1:12:23
+Also, I feel like it's like, again, you know, inscription is great, but there's only so many times I can play the, the KC's mod mode.
+And like interestingly, like KC's mod does have like this ascension mode built into it that like has difficulty modifiers and stuff like that to make it harder.
+1:12:42
+But it's still like the same cards.
+And I feel like if there were like act two or three cards in it to kind of spice it up, maybe.
+But into the breach has giant robots.
+I mean, come on, giant robots and you're, and you're, you're punching bugs.
+We got bugs here.
+1:12:57
+I, I'm from Buenos Aires.
+I'd say we kill them all.
+Got the mix.
+Yeah.
+I mean that's that's, that's compelling for sure.
+So inscription as it as it goes through the cabin door in to get its photograph taken out of the Omega Bowl.
+1:13:16
+What?
+What door prize are we going to?
+Give it oh, delightful little rustic wooden figurine of some sort.
+Maybe a bowl of teeth.
+What does?
+Here you go, your complimentary You've won the prize.
+Here's your bowl of teeth.
+1:13:31
+It's a, it's a Halloween.
+You, you knock on the door and it's a for Halloween.
+And they open the door and they say, here you go.
+Take as many as you want and just giant candy.
+It's just giant pumpkin.
+Plastic pumpkin filled with human teeth.
+Wow.
+One molar per kid please.
+So hey Scott, I am curious about this this match up.
+1:13:50
+What what?
+What did the listeners have between Into the Breach and Inscription?
+Let's see, going through the list here, the listeners had Into the Breach as they're picked.
+Oh, all right.
+Wow, wow, wow, wow.
+1:14:06
+Bit of a blowout, Bit of an upset.
+Actually, yeah, that's totally fine by me actually.
+Actually, I think I.
+Think the games, in my opinion were very close together and Into the breach.
+I love to be fair, I fucking love this game.
+I mean it's got so much variety, turn based strategy, synergy findings, barely any cards, but but yeah, no cards.
+1:14:29
+So I'm going to have to dock at some points from that.
+And in terms of total uniqueness, the whole plot of like saving the world from this, like this, this time based like thing to like go back or into the future with different, it doesn't make any sense at all.
+1:14:46
+It doesn't make the whole it so.
+I I like it.
+It's.
+Less cohesive but got a lot of good mechanics so I'm I'm probably.
+Good mechanics real quick.
+I I for one, think the setting and the premise of Into the Breach is very cool, but I understand it's, it's more, it's more of a setting versus a story.
+1:15:07
+And importantly, an undo button that could only be rivaled by slice and dice, I think.
+Yeah, yeah, that's fair.
+I do like a good undo button.
+All right, Will, you're gonna have to pick a favorite child here for our first semi final match up here.
+1:15:24
+Got it already with our #1 ranked Slay the Spire the King.
+Between of which one?
+Which one slay the?
+Spire and and our number third ranked featuring a lot of kings in it Bilatro.
+1:15:39
+Many kings, kings, kings for days.
+Are you kidding me?
+Now, I guess maybe maybe a question I should pose here is like Bilatro.
+So earlier earlier this week was The Game Awards.
+And despite, you know, whatever kind of stock you put into awards programs or even ones that are related to video games for that matter, no, people are morons.
+1:16:04
+No, like it.
+It took the like the indie award.
+They had a live orchestra playing the Bilatro theme.
+Bilatro sold three and a half million copies this year.
+1:16:20
+And interestingly, according to my Bible for for Steam game data sets, Steam DB according to their ranking system has Bilatro rated higher than Slate Aspire with Bellottro at #14 and Slate Aspire is number 19 on it's.
+1:16:42
+List that doesn't.
+Actually surprise me.
+Scott, I'm so glad you brought this up because I I actually did some number crunching of my own.
+I was in in an attempt.
+I knew this matchup was coming, and in an attempt to appeal to you, specifically Scott, our numbers man, and our ratings man, I crunched my own number.
+1:16:59
+Who's not a numbers man here?
+All right, I'm a data.
+Signal to be clear, I'm sorry, you are wonderful numbers.
+But you hate statistics.
+More I do, I do.
+Hate, but what I mean to say Sam lies.
+No offense was meant, Mr. Right, but Scott is the man who who Combs through the data and presents the data and and the reviews and the scores and the rankings at the top of every episode.
+1:17:22
+And so in an attempt appeal to that appeal to that I I went through and crunched some numbers and the oh Lord, if if if you three saw this sheet, this Google doc I have up in front of me, you would be absolutely mortified at how terrible you.
+Well, I'll show it to you later.
+So you can't present the facts right now.
+1:17:40
+Oh my God.
+Well, it doesn't matter.
+Just tell us your numbers.
+Scott has already made my point for me, which is that Balatro is is is on track.
+Slash is a higher ranked on Steam game and there's there's something to be said for that.
+1:17:56
+Well, to be clear, Steam DB which uses a different stack ranking algorithm than like Steam itself does.
+But here's the thing, you can get bigger numbers in Balatro than you can in Slay the Spire.
+Oh wow.
+That's the numbers get big.
+1:18:12
+Big, big.
+That's good.
+That's pretty cool.
+Actually, I think that Bellatra has the biggest numbers of any game except for the paper clip game The paper.
+Clip actually I don't know.
+I think risk of rain 2.
+I think risk of rain two you can get like damage numbers up in the billions.
+Yeah, billions is only a small fraction of the paper clip game.
+1:18:30
+We're talking the exponential growth.
+How many, How many?
+What's the will?
+What's the biggest number that you got in Bellatra?
+I can't recall.
+It was too big.
+It was unfathomable.
+How to use scientific notation for it the.
+Paper clip game was so many orders of magnitude beyond whatever you experience in Bellatra.
+1:18:49
+I'm sorry, what the hell are y'all talking about?
+What is the paper clip game?
+It's one of the greatest things ever made.
+I'm excited.
+For the one, one of the most innovative.
+Well, is it in the Omega thon?
+Because no Omega.
+What is this called again?
+Is it in the Omega bowl?
+Because if it had a real, I don't give a hoot about it, right?
+1:19:04
+Now it's a clicker.
+It's it's it's maybe one of the.
+Most famous just universal paper clips.
+Oh, it's like a Flash game.
+One of those, one of them.
+I mean classic.
+You must play it.
+It's her homework for this, for this, the next.
+1:19:19
+Homework.
+All right, well, let me present my other homework, which is So what I did was I basically just calculated how many positive overwhelmingly, pardon me, how many positive reviews each game received per month like on average and what I determined is that the current at this at the current rate and I'm I'd rather make a lot of assumptions.
+1:19:44
+Milatro has like 4 times the positive reviews in effect if.
+Yeah, and nobody and nobody thinks that Charles Mingus is the best basis of all time because, you know, it's a, you know, you're.
+1:20:02
+Bringing Mingus into this.
+I'm bringing Mingus into this, you know.
+We've been banned from Russia now.
+Sorry copyright Russia because anytime I use Mingus music intros the the YouTube algorithm flags or copyright strikes it out of Russia.
+1:20:17
+Is that a fact?
+Wow, it is, yeah.
+They're very covetous of their Mingus.
+All right.
+I'm glad.
+That you've used so much Mingus that you know this first of all, so.
+All right, right, back-to-back to it.
+Right, right, right.
+So slay this fire Bolatro.
+Yeah, very different games.
+I do feel like there's some weird similarity between them.
+1:20:36
+Maybe it's just that the similarity is that Will really likes both of them.
+Yeah, they're both.
+They're both masterpieces for sure.
+Check it out what is.
+It I guess like the thing that it so it took me a long time to get into sleigh the Spire cause like Will was like you got to play this game.
+1:20:52
+It's the best game ever ever made.
+I'm like OK, I've.
+Ever said it in my life?
+It's got to be, it's got to be pretty good.
+But it took me so long to like to finally get like the light bulb to turn on, be like, oh, I can see I got it now.
+Like I understand why it's so good.
+1:21:11
+And, and I'm like, I'm embarrassed that it took me that long to see it.
+I feel like I'm in a similar state with Bilatro right now where up until maybe like 2 days ago I was like, what do people like, why is this so hyped up so well, like, and it was like, I just beat the red deck for the first time last night, just beat the blue deck today.
+1:21:30
+And now I'm like, OK, I think I got it now.
+I think I understand the workflow.
+And yeah, I think I can, I can totally, totally get it.
+We have a listener write in for Bilatro as well, Sarducar writes.
+In.
+Saying I'm utterly addicted to bulatro now it's 65 hours and listened to our bulatro episode 1/4 time.
+1:21:54
+Wow.
+Cooking it should be illegal.
+Smiling face like Colin says, by this time you're calling.
+Outlaw.
+And he says, I've tried to pitch it to my mother because she likes solitaire.
+I've learned quite a bit of gaming vocab and American idioms from listening to Grog Pod.
+1:22:12
+Little little shout out to Sadakar is.
+That a fact.
+Well, that's that's that's great to hear and hey, 4 that's a quad.
+That's a quad re listen, incredible.
+What a deal, what a deal, what a deal.
+Well, obviously he would be voting for they would be voting for for bilateral, I imagine, I imagine.
+1:22:35
+All right, so check, check it out, gentlemen, You think you think we're in the semi finals wrong.
+This this is the final.
+Let's be a real come on.
+Whichever wins in this matchup is is beating out Into the Breach or or Vampire Survivors is the way I see it.
+1:22:51
+It's a classic.
+It's a classic matchup where the the two Titans come into.
+Come into the will.
+Allow me to address you directly, Sir.
+You could try.
+I could try.
+I could try In season 2, episode 18 of of our our sleigh the Spire episode, you say that it's a perfect game.
+1:23:12
+You say it's the best game of all time and you say quote.
+It's really one of the most powerful sources of fun that I've ever seen.
+One of the most powerful.
+If it's the best game ever, why didn't you say it is the most powerful source of fun?
+Because there are other sources of enjoyment outside of gaming.
+1:23:30
+He hasn't done heroin yet.
+Yeah.
+I mean, the knight is young.
+Would you say that it is the most powerful source of video game?
+Fun.
+Yes, actually.
+Whoa.
+All right.
+Well, no, I I the bar has been set by daily to the I mean nearly daily.
+1:23:49
+If I have that last that last 45 minutes of my day for as many As for as much as I can make it possible is around a slate aspire plus some TNG.
+That's a one episode of TNG play around a slate aspire, which I will inevitably almost always win.
+1:24:09
+That's that's my ideal capstone to the night.
+Incredible.
+All right, well, I've got another like, you know, page for direct quotes.
+I don't think I'm going to be getting through to Will, but let me let me try one more thing for you.
+Let me throw one more thing at you.
+1:24:26
+In our Bellatro episode.
+In our final review, you specify that, hey, I'm giving Bellatro a 9.5 and I'm not giving it a nine.
+I'm not giving it a 10 because quote referring to referring to 10 games.
+1:24:41
+It really needs to define a genre I think in order to be a 10 out of 10 for me.
+Could one not argue that poker is a genre and that bilatro has defined it in digital form?
+Poker, a game that has been with our powerful nation for hundreds of years.
+1:25:03
+How how about how to reframe?
+And it can use to live large in the zeitgeist.
+We can escape it.
+Maybe to reframe reframing that question a little bit, what's that gambling rogue lakes gambling asterisk in that I think bilatro has spawned a lot of bilatro fast follow games.
+1:25:20
+Like there's one that just recently came out called Bolinier or God.
+How do you say this?
+Bolinier or ball baliner?
+It's fallen, and it's impronounceable.
+Utterly impronounced.
+That's the one with the.
+It's a pachinko.
+Yeah, but Pachinki, what's it called?
+1:25:38
+Pachinko.
+Pachinko.
+OK.
+Again, I, I don't know these things so well.
+Thank you very much.
+So so is a is bilatro defining a new genre of like, oh, let's take this other like gambling type game, put rogue like mechanics in it and is that a bilatro like now does that qualify the genre?
+1:25:58
+Define.
+I think you all need to stop calling it a gambling game.
+Gambling by that's.
+Right, I called it a poker game.
+Right, that's that's fine.
+I think it's not.
+It is not a gambling game.
+Though you're right if you're.
+It's you are not, you are not betting anything.
+No, the Peggy rating.
+1:26:15
+System is a sham.
+Head that it is a gambling game because it teaches people how to play poker and is therefore why it is rated an 18 plus mature only game.
+Luck, just like luck, be a landlord, equally as insidious, if not more so, for corrupting our youth and precious children.
+1:26:35
+My goodness.
+Nope, they should all just blame Fortnite instead.
+Or any of the other or what are what are some of those weird games that get advertised all the time?
+What are you?
+Are we just talking about loot boxes, Shadow Legends or?
+Yeah, Yeah.
+There we go.
+Fashion plans.
+1:26:51
+Yeah, Shadow Legends.
+OK, Speaking of Clash of Clans, I want to get back to.
+I want to continue to press Will.
+Why is Velotro not a 10 out of 10 game?
+It's close, that's why it's a 9.5.
+Close.
+It's close folks, but close it does not.
+1:27:09
+Have a genre define defining element to it.
+I feel like it's it's it's derivative and every single component where it's not innovating, it's simply aggregating the best mechanics from several different genres.
+1:27:26
+Whereas Slate Aspire is a true innovator and defines slate STS like games.
+There's not bilatro like games for a reason.
+And I think that it's just that the for this exact, for this exact situation where it just does not have the, IT does not have that quite that level that 9.5 to 10 is not a very distinct, you know, the thing it's hard to define, but it's not quite at the genre defining level in my opinion.
+1:27:59
+I think if also I think there's two things at play.
+One, if you look at the the kinds of deck builder games that were on Steam prior to Sleigh the Spire, basically all forgettable Sleigh the Spire happens and then you have this entire like Cambrian explosion of deck building games that are in that similar vein that like, yeah, like Megacrit aced it, they figured out the formula and everyone else like it's it's like with FTL and like the FTL node map, like you discover, it's like discovering plutonium by accident.
+1:28:31
+Are there other games that are like this game but aren't exactly this game?
+For Sleigh the Spire, the answer is yes.
+For Bolachra, the answer is not yet.
+Well, I mean cook.
+Like bulatro Bulatro.
+'S I mean, maybe it did just come out if you if we did this in three more years, we might have a different opinion of Bulatro.
+1:28:50
+We'll have the Vampire Survivors problem of bulatro like games infesting everything.
+Yeah, maybe.
+What?
+Event Vampire Survivors come out. 2920. 1/20/22.
+Yeah.
+So they've had a little bit of time to develop the the.
+1:29:06
+I mean, I guess they do have a lot of like games, but I don't know.
+None of them are better than the original in my opinion.
+Well, I once we're coming back to what our our listener wrote in about it feel like a little bit at least an adjacent topic, which is the impact, negative or positive that a game has on the gaming industry.
+1:29:27
+How much are we supposed to take that into account when assigning a score?
+No, it seems like y'all are putting a lot of stock.
+On indicative of how good the game was.
+It is indicative of how good it is I.
+Suppose that's anyway The correct answer is, of course, Slay the Spire.
+No.
+Thank you.
+1:29:43
+All right.
+So so we.
+Have Scott, you're on the side too.
+Let's just let let's move on here this.
+I don't know what I mean, love.
+Let the man speak for a.
+Macro, I put so many hours.
+I've got people, other people addicted to this game.
+I love that game, but it is not the best game of all time.
+1:30:00
+What is?
+I'm curious from the rest of the group, what is something that Bilatro does better than Slay the Spire?
+The the, the sounds bigger numbers, the the molt, the the whole.
+And then you see the number blowing up, you see the flames growing.
+Oh my God, that is an experience that you cannot get in.
+1:30:18
+Slay Aspire you cannot.
+In fact, I'm gonna argue that Slay Aspire doesn't even come close in terms of visuals, in terms of feedback, in terms of that video game feedback.
+That is the whole reason.
+Extremely good music though.
+It is the whole reason for this, this medium like that, that visual and audio feedback in your face, you know, saying, hey, you're interacting.
+1:30:41
+With no.
+The reason for video games is so that the computer can do the math for you, so you don't have to play solitaire.
+Or games suck now I'm glad you brought that up, Colin, because I am.
+I am going to throw another argument at y'all.
+Which the premise of which is that hey Slay the Spire, that that's a card game with a frankly kind of shitty visual style.
+1:31:01
+I was.
+I re listened to the episode.
+I was too kind to this game.
+The art is not that good, I'm sorry.
+And I'm so glad that they're getting an opportunity to rectify it in the sequel, because the sequel is looking like it myself, much better and coherent graphic quality style.
+So I play it with black and white, I play it with World of Horror graphics.
+1:31:22
+Which?
+Is original Game Boy graphics of this game and I'm still nearly as satisfied.
+You're only got screens.
+All right, we're going to set that aside because that's, that's ludicrous.
+The idea that like oh this game is so good I could play it on the worst interface with the worst graphics ever is frankly low key unhinged.
+1:31:44
+Well, I you know what?
+That's an opinion.
+It's a wrong one, but it's an opinion.
+Now now it.
+Is an opinion real quick?
+I need to.
+I just need to summarize my premise.
+Slay the Spire mechanically could be played as a board game, could be played as a card game.
+Cilantro has to be a video game.
+1:32:01
+It takes better advantage of the video game medium.
+So so Andrew at at PAX.
+At PAX this year, I had an opportunity to sit down and play a round of the Sleigh the Spire board game.
+Wow, what do you know, it exists.
+1:32:17
+With a few.
+Folks.
+With a few folks that I wound up interviewing for.
+See next episode coming up for details about that.
+And boy, was I glad that Slay the Spire digital edition exists because the bookkeeping and math involved are like just like keeping track of like all the little things on the table was just so overwhelming.
+1:32:40
+There is one person, so three of us had obviously played the game before.
+One person sat down not knowing anything about Slay the Spire.
+They were playing the Watcher character who's already.
+Who, what?
+Who's demoing this?
+Why did they give them that?
+And this, this poor soul sat down.
+1:32:59
+He was like, Oh yeah, I'll play this character.
+That seems OK.
+I was playing Defect and of course I was like, yeah, OK, I know.
+Yeah, I know how everything here works.
+And the guy was just the poor Watcher player was so lost about everything where the Watcher is already like pretty different from the other characters and like just all of like, how like from a board game perspective, it was like a pretty good board game.
+1:33:24
+But I think like the the aspect of like you doing damage and effects to enemies and having other characters involved.
+Like it just, it felt way too clunky for like the Slay the Spire system to be adapted to tabletop.
+1:33:42
+And I know that there's like there's other games out there that are very clunky and numbers heavy and and like that.
+There are tons.
+There are tons.
+But the digital version of Slate Aspire does all that for you and like, you know, obviously what I would kill for an undo button in Slate Aspire 'cause I'm like, Oh yeah, I'll do this 'cause I think all the artifacts will proc this way and then they don't.
+1:34:03
+I'm like, well, there goes my run.
+I still think is a is an infinitely better.
+Like could you play it as a board game?
+Yes.
+Have I Yes, it's not good as a board game.
+Well, that's not.
+Compared to the digital version.
+All right, so you are amending your.
+It's fine.
+1:34:18
+The the, the, the clock, Hail Mary clock's running down.
+Who are who are we picking for victory?
+Hold, hold on just a second.
+I need to hear at least one.
+Time out I.
+Need I need I'm calling a time out.
+I need to hear at least one.
+All your time.
+Go go listen to this latest Fire episode.
+1:34:35
+No, no, no, I I did.
+I did, I assure you.
+And it's a good episode.
+Well, tell me why?
+So you're I, I've been told.
+I heard from Colin that you said you said Bilatro could be played as a card game.
+Is that correct?
+I mean it would be a very slow and annoying.
+1:34:50
+Could you elaborate?
+Very slow.
+I would argue it it would be.
+You could put little sticker.
+Cards and prohibitive.
+Yeah, I mean, it wouldn't be a great card game, but you could physically.
+It would be terrible.
+It would be unplayable.
+You would have to redo.
+1:35:06
+You would have to redo the math so the numbers wouldn't be as big.
+Yeah, but I mean, I'm comparing this to which would be easier to make a card game, Balacho or Risk of Rain 2.
+Like one of those is possible and one of them is laughably not possible.
+So like both of them are.
+1:35:23
+You can imagine a version of them that is a card game that is unwieldy to play, but possible.
+I cannot.
+I'm struggling to see this, but I guess we'll just have to agree to disagree.
+The premise of my argument was, hey, one's a better video game because it has to be a video game, but y'all are not biting it all.
+1:35:39
+And you're telling me that apparently there's a Get ready, folks coming this fall.
+Next fall we're gonna have an analog version of Bilatro.
+Ridiculous.
+But anyway, I vote for Bilatro because, you know, I'm just a cool, groovy dude.
+The music is better, the visuals are better.
+1:35:55
+The whole it's got, the whole package got a lot of stuff we're not.
+Dying a lot of stuff.
+I gave it a 9.7.
+It's my third ranked game of all time.
+Not high enough?
+But like the Spire is a 10 out of 10. 10 out of 10, what are you going to do?
+Well.
+I.
+1:36:12
+What are you gonna do?
+You can't blame a guy for trying.
+Andrew Andrew What's the door prize for?
+Bilatro Oh golly, I think probably one of those those those used Casino 52 card packs that they've punched a hole through.
+1:36:27
+Yeah, that's a good one.
+Yeah.
+Here you go, go play yourself a game of.
+Solid 130 million coins.
+OK, we're moving on the the NFC Championship that we know is really the Super Bowl is now over.
+We're moving over to the to the AFC Championship consolation round that is Vampire Survivors versus Into the Breach number 7 and eight against each other in our overall rankings.
+1:36:53
+I don't know which way to go on this one.
+I think like my my heart says Into the Breach, but I don't know like is like there's 2 so diametrically opposed games that obviously turn based versus not turn based tactical thinky versus just like brain dead run and gun.
+1:37:16
+I almost want to say Vampire Survivors has more content in it because the DLC packs add some more interesting stuff.
+But true.
+But Into the Breach does have big robots.
+Yeah.
+I mean, I'll cast my vote if if it is not going to bias you all too much.
+1:37:36
+I this is very close.
+This is extremely close and I could be probably persuaded one way or the other, but Vampire Survivors I think I had more fun with overall.
+Really.
+I know, I know.
+It's surprising.
+That does surprise me.
+Into the Breach, fabulous, fantastic chess like tactics, all that fun stuff.
+1:37:57
+But did I have as much fun as with Vampire Survivors was more novel?
+I think I, I, I don't know.
+There's something about it that I just, I recall thinking this is new.
+It's spectacular.
+I'm so curious about what happens next.
+1:38:14
+And it was more a more fun or I want to say addictive, which is like, you know, it's very close to what fun is.
+But Into the Breach was more of a more of a grind, like if fun grinds, but it was harder in a way that puts it into #2 behind Vampire Survivors.
+1:38:34
+I don't know, what do you think?
+I'm also going to go with Vampire Survivors.
+I think the biggest critique I have against Into the Breach is that the end game is not satisfying.
+And I think there's both of these games are similar in that they've got very large upsides and they're they're very focused in one aspect of of some part of gaming.
+1:39:01
+Like Into the Breach is an excellent tactics puzzle game.
+It's probably the best tactics puzzle game we've played.
+Vampire Survivors is the zaniest in terms of like amount of things that you are shooting out and the the level of output of damage that you do.
+1:39:21
+So they're hard to compare in some ways.
+So you end up comparing them in another kind of what do they feel like they're lacking and feel like they're both kind of lacking story.
+But Vampire survivors you have like goals that are a little bit more achievable in the mid, mid run.
+1:39:40
+So that was something that was like kept me going to play and then in into the breach was like very fun, very fun, very fun.
+And then the the the last battles just kind of felt like they didn't quite make it.
+And then they're the same every time.
+1:39:55
+And men bear survivors like the just the nature of like the goals they give you for the unlocks is like more unique and it felt more, I don't know, compelling rather than.
+Like you get the dog that can fart.
+Right.
+Exactly.
+Like it was just more like zany and fun in that dimension of like weird stuff that can happen versus into the bridge, which is.
+1:40:14
+Like, yeah, how you get big robots, but how many dogs fart fireworks in into the bridge, right?
+How many name 1?
+Maybe one of the robots?
+It's unclear.
+Who knows what they're farting under those suits.
+The swap bot has got something going on for it.
+Mr. Berger.
+I don't know, I'm conflicted.
+1:40:32
+I feel like, I feel like I'm going to, I'm going to pass on to Andrew here for a second and see and see if it's a split.
+Coward.
+Oh my God.
+I I'm most interested in which one is a better board game.
+No.
+OK, so check it out.
+1:40:48
+Well, it would definitely be in my breach.
+Yeah, ironically, even though even though I'm joking it, it would.
+I suppose so.
+Yeah.
+So Vampire Survivors I think probably takes it because it's just like if you average out just pure level of fun per hour played, I think Vampire Survivors probably takes it.
+1:41:10
+I think I'm going to vote for Vampire Survivors.
+I mean, to just just to like sit on that point.
+If I was stranded on a on an island and I need to pick one game, it's going to be into the breach.
+That's the one.
+I can see the longevity giving more net utility, but that's not how we play games.
+1:41:27
+We just like you.
+You want to ZAP out the best utility from it.
+And so, yeah.
+Yeah, I'll agree with that.
+Survivors.
+I'm tempted to to fall on the sword and say into the breach because like big robots, time travel and like tactical, like coolness.
+1:41:48
+I have many more hours in into the breach versus vampire survivors.
+But I think there's something to be said about a genre that is just like a single stick shooter, like the bullet heaven thing.
+And I think vampire survivors is another genre definer.
+So I'm, I'm gonna I think we'll make it a clean sweep into the breach.
+1:42:07
+Excellent game, incredible game.
+Now I'm actually kind of curious what the listener vote was for.
+The listeners weren't wanted into the breach, actually.
+Oh, I'm sorry.
+But I mean, I I could, I'm sorry, honestly I could have seen this go 440 either way with like a very minor like twist this is.
+1:42:28
+Where we it is fitting that the same developers that did our previous Omega Thon Grand Champion made it so far but unfortunately couldn't quite make it to the finals.
+And I think that that comparison is apartment because FTL like OK, here's a proposition like FT LS like story and theme and final boss like that is what's missing from Into the Breach I feel like.
+1:42:53
+A master class in final encounter design, like the final boss fight.
+Great.
+And you know, the one that's in Into the breach I think is pretty good and pretty cool.
+But like, you know, hey, comedy comes in threes and so many things like there needs to be 3 stages and the fact that there isn't even there isn't a third stage in that fight is really weird.
+1:43:17
+And I'm curious what the story is behind that.
+And then the fact that there isn't a more meaningful end game is is really, frankly baffling.
+Yeah, I wonder.
+So FTL has this fan mod called Multiverse which is like it's it's FTL future episode.
+1:43:37
+Maybe, maybe stay tuned.
+Maybe, and I wish Into the Breach had that same kind of level of like super mod going for it, because maybe that would that would like fix some of those sure, like nits that we have with it.
+But yeah, I think, I think my door prize for Into the Breach is gonna be best.
+1:43:59
+Robots best.
+Robots and we there were a lot of robots this season.
+We had what void bastards, which those those weren't very good.
+We had star.
+Providence here the best lot.
+Yeah.
+I mean, well, yeah, I mean, yeah, Star Providence, a lot of.
+1:44:18
+Robots and a couple of robots.
+Oh yeah, true.
+Those were bad, evil robots.
+Though, Yeah, no, the kinds we don't like here.
+All right, Scott.
+So where does that lead?
+Well, if if you are looking through the timestamps and you're like, oh, I want to see what the finals are that they're going to be talking about on the Grog pod for the Omega Bowl, you should probably skip to the timestamp for the first semi final because that was the true final that we had here.
+1:44:45
+This one is just going to be a bulldoze.
+I think between our number one overall ranked Slay This Fire and our number seven overall ranked Vampire Survivors, we kind of we kind of talked about that for the first semi final, whereas Slay the Spire versus Bilatro spoiler alerts Slay the Spire won that one.
+1:45:02
+But we joke that like, yeah, whoever like that, that's the real final because whoever wins that is winning the overall final.
+And I think that's true in this case.
+Where both both genre inspiring games.
+Yeah, indeed, but but what have they both wrought?
+1:45:19
+As our dear listener pointed out, Why with with Vampire Survivors, it's nothing but but filth and slime with just, you know, a few gems scattered amongst the, the lucre, the refuse.
+And but in the in the case of Sleigh the Spire, why?
+1:45:37
+We've gotten a bunch of games that I can definitely remember off the top of my head that you know me.
+We got oh, yeah, real quick.
+I'm sorry, I meant to call this out.
+Scott.
+I, I we cannot let you live down the fact that at the time of recording our Sleigh of the Spire, not Sleigh of the Spire, our Bellatro episode Bellatro, you ranked only one spot above Monster Train, which is absolutely, I mean monster.
+1:46:03
+Train is a 9.5 for me.
+That's wild.
+So I'm curious where I was wrong.
+Whereas so Slay the Spire is all the way at the top of your very high in your rankings.
+Is there any other card game between Slay the Spire and Bilatro on your list, Mr. Berger?
+1:46:21
+Lucky.
+Allow one, not a card game.
+That is a great question.
+I know that there is a way in steam that's why we can filter by card game and I'm looking through the list here now let's see there's card hog, probably not coin crip, probably not I'm strolling through.
+1:46:44
+I don't think that there is really.
+I mean, well, we haven't gotten to things like Ring of Pain.
+That's.
+Not, I mean, I play that game.
+It's not no.
+What do you no?
+It's it's a card game, but it's not a.
+It's a wild frost.
+1:47:01
+Very good frost, but wild.
+Frost is is a Stay in tuned for sure.
+But all that to say, and in your in your list, Scott, and in most of y'all's list, Slay the Spire is way out in front, like way out in front of other games from other genres and way out in front of of any other card builder that that have been.
+1:47:16
+Inspired.
+No, I've.
+FTL is tied for 10 out of 10 and Bilatro is up there.
+I mean these are I would say, pardon me, never.
+Watcher is 9.7 and slowest fire is 10.
+That's they're pretty close.
+Pretty close, pretty close.
+1:47:33
+But unfortunately, Vampire Survivors isn't that close.
+It's still a great, you know, I still have, what was it, 8.3?
+Still excellent, very good game Number what #9 on my list, but it's not number one.
+Wow, wow, wow.
+1:47:50
+I feel like luck be a landlord should probably be higher on my list.
+We haven't gotten to things like Chrono arc yet, but I feel like there's a lot of good deck builder games that we just we haven't gotten to yet and that might for me might fill in that gap.
+And I think like rating Bilatro kind of low earlier, like that's a ranking that I think will come up over time because I like like Sleigh the Spire.
+1:48:15
+It's taken me an embarrassingly long time to kind of like get why people like Bilantro so much.
+But I think between like Vampire Survivors is like immediate candy and you're like oh me like candy me, my brain love candy.
+Give candy now Sleigh the Spire is like OK I'll give you 2 candy pieces later.
+1:48:35
+It's steak.
+Yeah, sure.
+No, it's it's more sophisticated.
+Dare I say it's it's it's deeper, potentially Speaking of someone who who wanted the the launcher to win out.
+1:48:51
+But anyway, but you know, I actually, you know what, never mind.
+I was going to start apologizing for for my take on the visuals.
+Visuals are bad.
+Vampire survivors.
+I think visually is a is more of a treat that that's that's one way I think pretty pretty objectively.
+1:49:09
+I think Vampire Survivors has a better visual presentation, but wrong.
+No, I agree with you.
+I'm trying to, I'm just trying to think of ways that, you know, Vampire Survivor exceeds the quality of.
+It has more chaos.
+1:49:25
+Is that better?
+I don't.
+Know brighter.
+I feel like the visual effects are more interesting.
+It's brighter, it's more vampire themed, it has more pixel art, the pixel art quotient through the roof.
+There's much more variety in the player characters and the abilities and stuff.
+Dog that farts, dog that farts.
+1:49:42
+There's lady that throws cats.
+That's.
+Real low for me.
+That's going to rake.
+Real low for.
+Me.
+Indeed Vampire Survivor I think like these these games are solving two different problems and one is like deep stinky strategy.
+Take as much time as you want.
+Vampire Survivors is like is going to grab you by the lips and yank as hard as it possibly can.
+1:50:00
+Where the the important part is there are pauses.
+I would hate this game if I couldn't stop and think when it pauses.
+So I will point out that is not exactly grab and yank.
+It's grab, yank, and hey, which one do you want?
+Well, yeah, there there are natural break points that like.
+1:50:18
+Right.
+That's very important though.
+It's like it's not something to be overlooked like those stop and think without pressure are very important.
+Those are the last, but like the last five minutes of a 30 minute run in Vampire Survivors where you've just like you have everything on like auto loop and like it is just like you can't even see what's going on anymore because there's just numbers.
+1:50:37
+Clashing.
+No, that's, that's a good point, Scott.
+It's like in in terms of like raw, visceral real time experience, like Vampire Survivors is a treat and like keeps you on the edge of your seat.
+And I mean the Spire does that of course, but in a very different way in in a turn based way.
+1:50:59
+I mean, like the one time, the one time I got to the the Spire guardians with a build that I thought was super broken, I'm like, oh, this is gonna sail through to the heart no problem.
+And then I got wasted by it.
+I was like in in that moment I was like, oh, no, like I was, it was, you know, that meme of like, you know, a person laying back like, oh, this is super easy.
+1:51:18
+And then like, uh oh, gotta engage like like gamer mode and like lean forward.
+That was me.
+And I'm like, oh, I've got to lean forward here on the couch to like get more in to beating these characters.
+And I lost.
+But it was like, Oh my God, you didn't.
+Focus down the one on the right.
+1:51:34
+Oh my God, I think, well, you focus one on the right, the other guy's gonna attack you.
+You gotta, as an ascension zero level player, take my advice, Will.
+You gotta spread the damage out.
+Take it from me, an expert.
+All right, well, I mean, what's our what more is there to say?
+1:51:53
+I I think the more interesting reveal other than the winner of the Omega Bowl is going to be what the the Listener winner is.
+Yeah.
+So let's see looking through.
+What's the listener winner for this?
+1:52:08
+And then what's the overall listener winner?
+I'm curious.
+This will probably make everyone mad.
+The the listener winner for between Sleigh the Spire and Vampire Survivors is drum roll Sleigh the Spire.
+Sleigh the Spire.
+1:52:25
+Not the number one overall though.
+Sample size.
+Sample size of oh, it's I guess huge.
+Yeah, yeah.
+Three, 300% more than.
+Last year, looking at the numbers here, I mean like 1500 for each ish depending.
+1:52:45
+Anyway, yeah, that's that's.
+Bullshit right there.
+So go ahead, go ahead.
+Yeah, well.
+Just wait until you hear the.
+So the number one overall that according to this methodology that I've been using is drum roll, if you will, Jupiter Hill.
+1:53:02
+Yo most metal choice listeners I am I am ashamed that I didn't at least give them the the vote despite I knew it would get you know I was going to lose in that but I I should have done it.
+I'm sorry this is a roguelike podcast.
+1:53:18
+I I know y'all are are brutal as hell metal as hell.
+Thanks for listening and what a great choice.
+What I'm hearing is that we need to distance ourselves from our our main audience and.
+I mean, I think it's, it's that we're on the the lighter side of the rogue like versus light.
+1:53:36
+Lighter spectrum meaning meaning meaning more.
+Casual Lite.
+Our lighter.
+Like the lighter's will flicking right now.
+Indubitably well, I think in my so in my rankings, I have vampire survivors higher than than slay the Spire.
+1:53:57
+I think I'm going to stick with that.
+I guess again, just raw, like fun quotient and like very and acknowledging that it's very subjective and I am just I like real time games better and and it's just you know, from jump, unfortunately, you know, it's just that's just the way it is.
+1:54:13
+It's just how my gaming preferences are.
+Yeah, I think.
+I think if, if I'm in a mood to think really hard and want a challenging puzzle to solve, Slay the Spire, hands down, no question.
+If it's at the end of a long day, I'm tired.
+I don't want to have to think.
+1:54:29
+I have. 45 minutes to bedtime, you put on TNG, what are you gonna do?
+Yeah, like I have this.
+We're we're watching this crappy reality TV show about million $1,000,000 house seller people in LA that yeah.
+1:54:45
+Sure.
+Really low ground selling.
+Sunset.
+And it is.
+It is great to put Vampire Survivors on and just have my brain completely off for that whole sequence.
+That's a problem that you have that I don't think any of us have that experience, so I'm sorry for you, but oh, never mind.
+1:55:06
+I hate that back.
+Yeah.
+So I think like they're two different modes.
+I think Slay the Spire is the better of the two.
+I think Slay the Spire has built built out a bigger, a better genre than Vampire Survivors has so far.
+1:55:21
+And yeah, I think.
+And yeah.
+There you have it.
+Have we cast our official votes?
+Colin?
+Officially.
+You're locking it in.
+Oh, yeah.
+Not that there was a question, but just to just to confirm.
+Go around the horn.
+OK, well, what a deal.
+1:55:38
+What a deal.
+What a deal.
+Well, that's gonna put Vampire Survivors while as it as it heads out the door into the coffin.
+What the what the coffin door prize are we gonna nail to it?
+Chicken, Tuna, A whole.
+1:55:55
+A whole.
+Roasted chicken A roasted chicken that fell out of a a candle.
+Found on the.
+Ground or a chandelier?
+Yeah, we found this dusty chicken for you on the ground.
+Enjoy still.
+Piping hot somehow Concerning maybe?
+Probably so dry.
+And of course, that award is that that prize is being given for the award of I think best chest opening sequence.
+1:56:20
+But what about what about our winner?
+What before we send Slay the Spire off with the with the Omega Bowl Championship trophy?
+And the belt.
+Don't forget the belt, yeah?
+We gotta, we gotta print out a belt for them.
+I, I've, I have thought multiple times about sending a postcard to the developers of like, hey, this podcast that no one's ever heard of.
+1:56:42
+You won their, their finals.
+Congratulations.
+And they're like, who is this?
+We're rolling in millions of dollars.
+We let's do it.
+Let's, let's make it happen.
+They deserve this, this recognition, by golly form of a physical postcard.
+They're in Seattle, eh?
+1:56:58
+Yeah, they, they're, they're in Seattle.
+Megacrit, I believe is a started as a small studio, very responsive to their audience.
+And so, I don't know, I go bang on their door.
+We got to let them know, yeah, you know, nail the edict to their their door that let them know they won the Omega Bowl.
+1:57:19
+I'll add that Slate Aspire has inspired what it will be the next two hours, 2 two years of my life for pursuing a start up based on like essentially their game mechanics as well as many other Hades and other inspired game.
+So that this, this game, when I say it's the best game of all time, I mean, I sincerely mean for me, subjectively, just beautiful, elegant, innovative.
+1:57:44
+Oh my God, just the best game of all.
+Time and on that.
+I had that was maybe unnecessary, but I just.
+I just love this.
+Of of course, of course.
+And I would like to add that I'd like to reiterate what I mentioned during my ranking of Slave the Spire, that while I don't necessarily love the gameplay so much due to my personal preferences, I do love the swagger and just the the the aura around mega crit and how they were able to cast off the shackles of the unity engine and embrace a new engine and pick it to the curb and say Unity.
+1:58:22
+You think you're so great.
+You think you can mess around with us as indie devs, We don't need you.
+Goodbye.
+And and furthermore to to to your point will about the saying how it's, you know, the greatest game ever.
+I have.
+I have one more quote that I, I data mind, which I, I implore.
+1:58:40
+I, I recommend everyone go back to our slave aspire episode and listen to the time marker.
+One hour, 27 minutes, 41 seconds.
+Actually, pardon me, just before that, just before that, where Will is talking about and really sums it up beautifully the development and the refinement and the elegance of the sleigh, the Spire branching map, which is a staple in so many points.
+1:59:07
+Quote.
+They're actively play testing with this group of hundreds or thousands of people that are in the alpha and they are making adjustments.
+Oh, should we have 6 paths, 7 paths?
+How wide should it be?
+Where should we make the first rest site?
+They're making all these determinations on the basis of data and it's just a beautiful thing.
+1:59:29
+Basis.
+Of statistics.
+Yeah, I'm stealing.
+I'm stealing that basically.
+And, and the, the sound that you make when you go on the basis of data, oh, it's, it's, yeah.
+It really encapsulates the, the perfection of, of, of the design, which cannot be denied.
+1:59:48
+And obviously brought it through to the finals and the ultimate crowning glory that is the Omega Bull 2.
+Well deserved.
+Well that's finally gonna wind down this extra long show that we have.
+You can send in your own fan mail to grogpodzone@gmail.com about how many times you've listened to to our Bilatra episode.
+2:00:10
+Our Mastodon is Grogpod at Game dev dot Place.
+Lots of pictures and fun ramblings of mine on there.
+Grogpod dot Zone is the website where it's your one stop shop for everything.
+I recently did a an 8 hour long caves of cud tutorial series with the cud YouTube big symbol that links for those you can find on there.
+2:00:32
+Our next episode our our Co hosts are are taking a week off or an episode off and we're doing a a special of me going around PAX W man on the street interviewing people style interviewing various developers such as the publisher from our episode of against the storm hooded horse.
+2:00:54
+I talked to the devs of barony went and got the the panel who was discussing what makes a souls like game interviewed them about what makes a roguelike game.
+Stay tuned for that Slay the Spire board game player interviews, Vampire Survivor tournament champion interviews, and much more.
+2:01:16
+But because I can see my Co hosts are getting antsy to go and get food and go play other video games, we're going to play this one out whatever with some epic music from our Omega Bowl 2 champion Slay the Spire.
+2:02:20
+The.
+2:02:50
+The.
+2:03:32
+The.

@@ -1,0 +1,1484 @@
+0:35
+Hello everybody and welcome to our first year two episode of the Grand Pod Roguelike podcast where most of the time for each episode that you tune in.
+For this we we reach into our big burlap sack of Rogue style games.
+0:55
+We dust one off and give it a nice flavor taste here, and we tried to to rank that flavor of that Rogue game as best we can against all the other ones that we've tasted and sampled from.
+I am your host of the podcast Scott Berger, which according to the Berlin interpretation of podcast host features Perma, death, randomness and grid based movement.
+1:19
+Joining me in the synonyms section of Webster's dictionary are my podcast Co hosts.
+Hi, it's Colin.
+I'm an AT symbol and I'm looking for the treasure.
+And Andrew Hartsman here, putting the ass in ASCII graphics from old school dungeon crawlers of old.
+1:40
+And this is Will Wright, the source of truth on all things Rogue, like Rogue Light and and the related.
+Well, the first thing that we have to do is to thank our Surly crew here for making it this far, let alone making it past the threshold of podcast and dying out after three or four episodes.
+2:04
+But second year we've done it, we've crossed the Rubicon and in in that process we wind up covering a pretty broad range of video games thus far.
+Everything from things that are are more on kind of the traditional end of the spectrum and things that could barely be considered inclusive of the genre.
+2:32
+But I think that's that's what this show is all about, is being casting as big of a net as we possibly can and stuffing as many goodies into our Halloween treat bag of video games that we can.
+So that that brings us to our special topic today.
+2:49
+So normally we talk about a game, but today we're talking about everyone's favorite thing, the most divisive topic in alt dot nerd dot obsessive.
+What is a rogue like game?
+And so maybe to to set goals here for this episode.
+3:09
+Colin, this was your idea.
+What do we hope to achieve by answering the question of what is a rogue like?
+Well, I mean, I feel like, honestly, I want to achieve more what is a rogue light because I feel like we're going to converge pretty quickly on what a rogue like is.
+3:34
+But I like that.
+I feel like there is a broad genre of game that we all enjoy.
+And it is ill served by the name Rogue Light, and it is illdefined.
+And I think it's interesting to explore where that boundary is and what it is that that, you know, that puts the edge of that Venn diagram on it.
+4:00
+Yeah, I think whenever we we cover a game, I like to always have a little segment of the story of this game begins.
+And I think the story of of, well, the hetero section that I have in the Google doc says who cares, right?
+Like, why do why do we care?
+4:17
+No one, no one cares about what a an FPS is or what a a doom like is Well, maybe we'll get there in a minute, but who who really cares?
+And this was actually very serendipitous because maybe like a day or two ago some some poor innocent little lamb stumbled into the rogue like Discord channel and was like hey guys, what is a rogue like game?
+4:42
+And I was furiously taking notes down and as the the wolves circled in, I mean like this is kind of a a common thing that happens, right?
+It's like someone someone's like, oh, I really like this game vampire survivors.
+I'd love to learn what what are some other games like this?
+4:58
+I know I'll go to the rogue like Discord or the other rogue like subreddit channel or something and then have a giant hammer crushed upon their skull.
+I think there's and the reason why is because you know those kinds of communities have a kind of preset definition of what they think a rogue like game is versus mainstream enjoyers of various games that have those mechanics might think and then like you were saying column the two are kind of clashing in this Venn diagram overlap zone.
+5:35
+Is that fair to say?
+Has has everyone else had that kind of similar experience?
+No, Never.
+I I was unaware that there is this big contentious like debate going on and and frankly it it it boggles my mind that people would get upset about this at all because there's it's just like many things in philosophy.
+5:51
+It's like, yes, there's the very strict definition.
+Do I know I have a hand.
+And then there's like the well in in conversation, you know, I know I don't have.
+A hand?
+Well, you're so wrong about your own self.
+Kenny Rogers is the best jazz musician.
+All jazz is the same.
+6:07
+You're it's the chicken guy, right?
+Sure.
+Yeah, all jazz is just saxophones, right?
+Right.
+And for most people who don't aren't into jazz, that's totally acceptable.
+Most people aren't into the specific games that we're into, and so most people aren't into gaming.
+6:23
+I think.
+I think that's a fair statement.
+And so when you say Rogue, like, that's gonna be.
+A general statement that means everything that is having to do with I think just random chance, I think is what a lot of people mean by that.
+So there's a lot of just people with just get the definition wrong and it doesn't really matter until you're talking to the people that really care.
+6:43
+Well, or until you're trying to recommend a game, you're like, oh I like this game and then they recommend Cogmind like is that a good recommendation or not based off of?
+Other things that.
+Maybe you do that similarity similarity features though you wouldn't look at like the the broad classification of it you look at like what about the game was actually fun.
+7:04
+I think a discussion about like the nature of fun.
+I'm I'm gonna put that on the, the list of things to talk about.
+Here because this.
+This conversation, I have two definitions.
+They're the perfect definitions.
+And then we'll move on.
+I think that's as quick as that.
+We'll save that for our three of the podcast.
+But yeah, maybe.
+But to to answer your question, Scott, I I haven't encountered this specific argument, but I have seen very many and throughout you know, different fandoms, different layers of corners of geekery, fierce.
+7:34
+Discussions and debates about definitions of genres and things, and I would hope at least the reason they like I like to participate in such conversations is just kind of, you know, for the fun of it for the, you know, hey, we all enjoy this similar genre of thing.
+7:50
+Let's have a spirited, fun conversation and hopefully in so doing, you know, learn something more about our appreciation for that thing.
+But you're saying that there's there's people like really getting, getting very intense about it, you say, yeah, I mean, and I think no fault to the communities that maybe want to protect what they think their definition of a thing is.
+8:20
+And maybe we're like, this could be generalized to basically any kind of not extreme fandom, but dedicated fandom will say where someone comes and says, hey, I'm, I'm interested in this thing.
+My understanding of this thing is something that's like very mainstream and like not like as deep into the weeds as this super niche community would think.
+8:45
+What's your guy's thoughts?
+And I feel like the the immediate response is hostility for the most part in that let's take it for a rogue like example here, take it for a walk.
+9:01
+Someone comes in and says hey rogue like community that's been established for a while.
+Big fan of vampire survivors.
+What other games should I look into?
+And the first response that they will never be get is oh, that's a rogue light, not a rogue like and.
+9:18
+Very useful response.
+Yeah, exactly.
+So which will maybe we'll get into in a little bit.
+Like whether or not that's true, but it comes off as a very sort of dismissive you're in the wrong place, bucko approach.
+I mean, they were in the wrong place though, right?
+9:35
+Well, how are they supposed to know though, right?
+I mean, if someone, if someone is like a mainstream, like, let's say Call of Duty player their whole life and they like, hey Fred, you got to check out this game.
+It's $3 on Steam and you you just walk around with a single joystick and it does all the work for you and like, sure, OK, why not?
+9:53
+Oh my God, this game is amazing.
+And it like, I'm completely addicted to it.
+I want to learn more about this, What you say it was a rope.
+Like, OK, sure, Type, type, type.
+Maybe these people will have some info for me.
+Slap, slap slap.
+Oh, now I Now where do I go to hunt for stuff?
+10:12
+Why not go to the Vampire Survivor or subreddit.
+Well yeah, that's that's a great that's a great point.
+So you know I think that you have there's two kind of splits here.
+One is the generic old school will say like pre 2008 roguelike community and then anything after Spelunky.
+10:37
+Think this.
+This is not entirely all the the Spelunky developers fault, but I think that kind of cracked the egg open of Now these games that are much more commercially successful have a much bigger following individually than like the pre 2008 ASCII tile Rogue games and like that's where those communities live, right?
+11:05
+So yeah, you're right.
+Like someone should go to the Vampire Survivor subreddit or Discord or what have you and say this game is dope.
+Give me some recommendations please, and they might get something more maybe more relevant to their interests versus coming to a community that just says it's, you know, turn here off the highway to Roguesville.
+11:25
+You're like, that sounds like me.
+Wait a minute, these games are totally different than what I was expecting.
+But they say Rogue like on the, on the on the cover, What's the deal?
+I think that's where a one of maybe two major contention points for Collins Venn diagram overlap are.
+11:46
+Then the other one we'll get to is maybe meta progression.
+But.
+Well, I feel like the the problem is that I feel like the term rogue like was.
+At one point probably pretty descriptive of a very specific type of game, and now you probably can't really use that term.
+12:06
+You probably would need to use traditional rogue like is it all Steam's fault.
+I mean, I think it's Steam's fault, but I think it's also just like the popularity of the the, the larger genre, like most of the games that like.
+12:24
+Look at something like slate Inspire.
+Slate inspire is not a traditional rogue like, but it does share some aspects and like it's better than traditional rogue likes.
+And that's probably man brother.
+I I mean, like, in our opinion.
+12:42
+No.
+It just is.
+I'm sorry.
+But in in our opinion or just like I like that I like slid inspire a lot and I could see people being like I want to explore every possible game that's even close to this because I somehow went from Call of Duty slid inspire and now I'm like Oh my God my mind is opened and I need all of the rogue like games and they're like, I mean yeah you can't really say that and like.
+13:08
+So this fire is not a old school traditional rogue like that describes a little bit more restrictive of a term.
+And if you just use that term for everything, then you have to create a new term.
+And I think that's what we're trying to do here or just in the world.
+13:25
+All right, so let's let's uncork this this bottle here while while we're at it.
+What?
+What do we think our one sentence description each is for what we think a rogue like game is.
+13:45
+Colin, you go first.
+This is this is all your fault.
+Top down tile based perma death with true loss game sure will.
+14:04
+This isn't gonna sync up so well, but yeah, the very short summary is like the game Rogue.
+Well, I thought I had come up with the shortest and simplest explanation, which is like if you want to get real technical, if you want to get real pedantic, I think all it takes is impactful, meaningful game play.
+14:29
+Defining randomization and that the other sort of key aspects that you think of normally and like say that the Berlin interpretation is are simply things that organically come out of good game design and are just a byproduct of the the core definition.
+14:48
+Maybe we'll we'll circle off the the zoom windows here back to me.
+I think my one sentence description is a game with run based randomized play experiences where each attempt feels fresh or unique in some way.
+15:08
+So there we go.
+We've solved it.
+Boom.
+Thanks for listening.
+Podcast is over.
+Let me just check the time stamp on here from the future.
+We have another 2 1/2 hours left.
+OK, great rip.
+OK, so so we've talked.
+15:23
+We've talked about mechanics of things, who we've all played maybe at least two or three minutes of the original Rogue game, right?
+I've watched YouTube videos of it.
+15:40
+What played it?
+And I got to level 10, so has anyone else gotten a little?
+Yeah, I I was very excited.
+There was a computer computer History Museum exhibit going on in in Soto a couple weekends ago and I thought, you know, this is, this is excellent timing.
+15:57
+I'm going to go there.
+They're going to have all sorts of bizarre ancient Unix terminal machines there and I guarantee at least one of them will have Rogue installed on it.
+I'm going to go there.
+I'm going to ask, hey, one of these has got Rogue on it, right?
+Can I can I fumble around with it?
+16:14
+I asked one of the the exhibitor guys and he's like, well, it's got this other obscure game from 1979 on it and I was like.
+Is it Paul?
+Is.
+That obscure, Yeah, they did have a like a flight simulator thing that looked about the level of potato graphics that my my computer runs Microsoft Flight Simulator on.
+16:35
+So but yeah, the I think we're in this episode comparing things that so that the word of the day is rogue like.
+And Rogue was a game back in 1980 which is what, almost 50 years ago or something.
+16:53
+Is that how math works 40?
+Three years ago, 43 years ago, which I had a note somewhere written down that was like the the time between now and the original Rogue is like on par with when the original Rogue launched, and like the touring machine.
+17:11
+Wait, yeah, is that the original?
+The original, original rogue?
+Like is the touring, you know?
+Yeah. 43 years before Rogue was like the Great Depression.
+Wow.
+That's.
+Like Hoop and Stick was the hot new game Hoop Light.
+17:34
+But yeah, incidentally, like one of Alan Turing's earliest papers was like, could could computing machines be used for entertainment and gaming purposes?
+Like, wow, he really was like 100 years ahead of this time wasn't on it.
+But yeah, so Rogue, The original 1 from 1980.
+17:55
+Something that really can only be experienced in its full glory on a machine with yellowing plastic and a kind of hot fan heat coming out the back that really just has a kind of carcinogenic nostalgia to it.
+18:14
+And it has to be on A CRT is a game where you are an app symbol and you are moving around squares of rooms with other letters in them that represent monsters and you bump into them to kill them rogue.
+18:34
+Indeed, and and crucially, right out of the gate you have a huge list of commands of different interactions and and things that you can do, such as a cue for a quaff potion.
+And R for Reed and the like.
+18:53
+Pretty exciting, exciting stuff.
+And I think the the key differentiator here at the time was that another, like the other big game at the time was Adventure in 1980, which is if you thought it was like something that looked like the NES version of Legend of Zelda but from like, yeah, holy.
+19:15
+Moly, that was kind of the reigning champ at the time.
+And then along comes Rogue and like this adventure game is like, it's it's like what you would expect from a Zelda game.
+It's very like point A to point B.
+You do this thing and it's like very scripted.
+Whereas Rogue was like, it's different every single time.
+19:36
+You mean I can't just follow a strategy guide to say that when I talk to this guy here I should select this option and I win the game.
+It it was like at the time randomness was like the key differentiator.
+It may look you know a little bit the same to some of those other games but that that was it and I think that's kind of where where our story truly begins And then it we get the first rogue likes which let's see if I remember off the top of my head Moria and.
+20:12
+I'm going to get crucified for not knowing the other one bad.
+Which one bad?
+Later Great name.
+My next thing, just cherish your name for sure.
+So yeah, you have you have these games that are like this is interesting and people forking that idea into their own system, creating the first world of Rogue likes and then way predating any of our use of the Internet.
+20:41
+People saying, like this is cool stuff.
+We want an area to discuss this.
+Let's go to Usenet, everyone's favorite tool of the day, and discuss these games.
+Well what what are these games?
+Well they're like Rogue, but are they?
+20:57
+Even at the time, there's there's some great articles about how even back then people were like now it's not like Rogue, cuz you have a central town and you you have a shopkeep that's not like Rogue.
+21:16
+So even even in the very beginning it was contentious of people saying like, well, OK, this game that to us nowadays is functionally identical to 1980s version of Rogue.
+Back then people were like, Nah.
+21:32
+And then I guess like it kind of, you know, trugged along a little bit until around in 2008 where we got the aforementioned Berlin interpretation, which has a laundry list of like, here are the things that a rogue game needs to have.
+21:49
+It doesn't have it.
+Forget it.
+It's not.
+It's not worth discussing as part of the conversation.
+These include things like random environment generation, perma death, turn based, grid based, nonmodal, you can do everything at any time, complex strategy, resource management, hack and slash, gameplay exploration and discovery.
+22:10
+Other things like having a single player character versus many monsters are similar to players and how their stats and attributes are laid out, has tactical challenge and ASCII display, It has to have dungeons and it has to have a combat log with numbers that are deliberately shown.
+22:28
+Tick tick tick tick tick tick.
+This has become, I think a an anchor that is holding the discussion back some.
+And who gave Berlin all this authority?
+This is ridiculous indeed.
+22:45
+Yeah, let me tell you I've, I've, I've been to Berlin.
+They don't know what they're doing.
+They're like, oh, we're going to have like a fairly functional, like public transportation, oh, we're going to have the most vegan restaurants per capita.
+Come on, It's just a bunch of kookiness going on over there.
+23:01
+And yeah, looking at this list of definitions, I was not familiar with this this Berlin interpretation situation until recently.
+It is so granular and so specific ASCII graphics Give me a break like This interpretation is like saying like in order to be a platformer game like you must jump on vaguely mushroom shaped aesthetic squares and you must play an Italian plumber like.
+23:28
+This you can't jump on walls because that's not a platform.
+It's a wall jumper now.
+Yeah.
+So if you have Rogue and then just if you just had a tile set a new tile set on top of Rogue, then the Berlin definition here would say that that is not a that Rogue is not a Rogue like game.
+23:45
+If you just have a different tile set, which is just.
+This is why they fail.
+Like this RIM world style graphics on it or?
+Yeah, so they just fail.
+So we can just throw them out right now, because that's just stupid.
+Well, starting to think that this, you know, this definition is similar to the the description of Rotato storyline that's on the Nintendo shop.
+24:04
+Just like some random person like made it up or do we know where this came from?
+Like, was there actually Rogue, Like Summit, there was this game, I mean, effectively the same thing.
+I'm guessing it was.
+Well so yeah there's there's wiki pages and stuff about it and I think like it has only grown in popularity over time for people to defend the old style of turn based grid based perma death RP G's which I think we can collectively agree on as traditional rogue likes to.
+24:36
+To use the Berlin interpretation as like a firewall to say no, no no no, over here are rogue likes because we came first and anything after 2008 that involves real time game play those it's not, it's not the same game like yeah you can borrow elements from our genre but you know it feels like a very walled garden deliberately exclusive approach to say Spelunky does not belong in the in the same conversation as like net.
+25:09
+Hack for you know, So like I agree with you for the most part.
+Because like for me, I'm looking at like when I made my weird matrix of what Rogue like games are, you know, I I would put Binding of Isaac and enter the Gungeon pretty high on the like Rogue like category in terms of randomness and all that stuff, but you play them in a very different way.
+25:39
+Like I didn't particularly like Engine Enter the Gungeon because I'm bad at like top down stick shooter games.
+That is not relevant for playing Cogmind.
+My ability to point quickly at something with a controller is immaterial to my ability to play Cogmind or any of the traditional Rogue legs like Rogue requires no skill like you could play rogue with.
+26:05
+You could be a quadriplegic playing rogue with a pencil in your mouth.
+And be significantly better at it than me versus you could not play Hades or into the Gungeon.
+There's there's a lot less focus on like reactionary like physical like user input skill.
+26:26
+It's yeah, like entirely tactical based.
+It's it's mental skill versus physical skill, right?
+But I do think that they share more than they do.
+They're still more in common with each other than they are with most other game types.
+26:45
+It's like you're like, it's like you see two brothers who are, like constantly fighting.
+You're like, you're basically the same person you're like.
+You know what?
+I'm not.
+He's 2 inches.
+Taller and I'm stronger and like well and blah blah.
+You guys are still the same like.
+27:02
+So it sounds like the point of all this is just like, how much do these like different game features, these mechanics, components, the dynamics, how much do they really matter for overall game play and for our impression?
+And certain things seem to matter more than others.
+27:18
+I think we just we're talking about tile sets, for instance.
+Like if we just change the tile set on something, does that really matter?
+Or like for Cogmine for instance, like if we just change the narrative from the D&D focus to like this kind of futuristic focus, but everything else is the same, does that still like.
+27:33
+And so we can kind of say, well yeah, the narrative that doesn't actually really matter so much and we can say the tile set probably doesn't matter so much.
+But when we look at things like, but we can look at like perma death and like the run based perma death, we can say yeah that that's actually kind of like yeah, that matters a lot tile based.
+27:50
+Well that's maybe that's more like up in the air, but like turn based isn't and like simulated environment.
+Is it a dungeon crawler like we we talked about like a number of these different features and so we can probably rank order them.
+But like coming back to my definition, the more of these features and the more of the more important ones that are like Rogue, the more it it really is a qualified.
+28:10
+But is there a distinct cutoff point?
+I think that's a ridiculous argument to make.
+Unless something if something has all the properties of rogue and we all agreed, which we can't, of the importance of all these things, then I'd say yeah, then we could say that that is like definitively the thing, but like for every person there's a definition, a different feeling about importance and so sure.
+28:31
+But the fun of this is poking at like, where do you think the lie?
+It's like where where's Like how far, how far away from this before it stops being.
+Useful as a categorization tool, I'm.
+28:47
+Going to say you got to, I got, I got 8 bullet points on features.
+I say you got to have like 6 out of eight of these bullet points to.
+Like if I had to draw a line in the sand to like be Rogue.
+Like otherwise you're Rogue Light, but a couple.
+So what's the difference between a Rogue Light and a game that's not a Rogue Light?
+29:06
+Like that's I I feel like, honestly, for me that is the more interesting.
+Discussion is not whether like the the gradations within the larger category, but what is the category itself like.
+Is X comma Rogue Light?
+Is Terraria of Rogue Light.
+29:23
+Very, very simple answer to that too.
+It's just like does it?
+Does it have two of those elements?
+I'm going to say 2 to choose a number here.
+If it has at least two of those elements I feel and other things, then it could be a Rogue Light.
+I don't even know.
+I don't know what your things are yet, but I can guarantee.
+You that 2 is not enough if they're the wrong two right?
+29:41
+I want to interject here just for a hot second cuz I think we've cracked open the Pandora's box of the light which hey like I hate I hate that word I hate Rd. light.
+Now I love it applies it implies less goodness right?
+29:58
+Like light beer, you know?
+Or like it just has a light dusting of.
+It's also just difficult to say, yeah, like it's phonetically identical to Rogue.
+Like if someone's just like driving past in a car and says, hey, will you go play a robot?
+You're like.
+30:15
+Which where was he from again?
+Well, he's traveling from Albuquerque W 60 miles an hour, and he says like.
+He's traveling from Moria to ang band on the Shadow Facts.
+The wings that this with the speed of the Myar.
+30:34
+All right, so so continuing, continuing briefly abbreviated here with our History Lesson 2008, we have the Rise of Berlin interpretation.
+But incidentally, we also have the same time when, Derek, you created his original version of Spelunky, which was like, hey, what if I took elements from that list and I applied them to platformers?
+30:57
+Huge explosion of popularity with that game picks open the door for Bindings of Isaac in 2011, and then in 2013 Rogue Legacy, another platformer, comes out which specifically says in all of its marketing material that it is a Rogue Light.
+31:15
+I think this is where we see the first incarnation of it is Rogue Light.
+Rogue Legacy and the way that they defined Rogue Light for their game at the time was meta progression.
+So Spelunky has no meta progression, it is just get good scrub.
+31:34
+I mean I guess if you count shortcuts but it's whatever.
+Binding of Isaac not really the same kind of meta progression cuz like enter the Gungeon, it's like oh, you unlock stuff that goes into the dungeon that you encounter.
+It doesn't make your character more powerful.
+31:49
+When you start Rogue Legacy is the thing that tilted on his head or it's like, oh, you have these passive upgrades like we see in Hades now of things that oh, like the start of my run now is easier.
+That I think is, is what knocked down another wall was to say, oh, the developers of Rogue Legacy say, well, we're we're Rogue Light in that sense of like the game will get progressively easier instead of just being like a constant punch in the face.
+32:19
+And it's your fault if you get burnt out and can't beat the game.
+Now the other flip side of that is so there's like meta progression.
+Rogue like versus light is gonna be a very tongue twister episode.
+And then our old school community which thinks rogue like versus light is based on turn based or not turn based versus real time.
+32:49
+I mean there is a post yeah, our good friends the temple of the rogue like who are traditional rogue like community.
+Put up a poll to say you know what is your personal very own nontransferable rogue like versus rogue like boundary and it was split like almost down the middle between meta progression or not turn based.
+33:10
+And there was some stragglers for other reasons, but I was shocked that it wasn't overwhelmingly in One Direction.
+This is.
+That's ridiculous.
+But that would put Slatus Fire in regardless of which one is in there as a Rogue like which I don't think it is at all.
+But it's a it's a rogue like Deck builder, right?
+33:28
+Is there a difference between a rogue like deck builder and a rogue light deck builder?
+I would guess that they would say that Slatus Fire also fails on many other criteria, so it's still not a Rogue like like.
+Turn based alone is not enough to qualify as Rogue like.
+33:46
+You also have to have tiles and movement I.
+Didn't hear that.
+I heard that the splitting criteria between like and light was.
+Is it turn based?
+But well, I guess they would say that the spider isn't even a row of light.
+Like that's like say, yeah, it's, it's so far out of the category that they're not even considering it to start with.
+34:03
+Yeah, you got it.
+You just got a bunch of dumb people out there voicing their opinions.
+See, they just everybody's Listen to Will here, there's four.
+Of them right here.
+Voice of Truth.
+I mean that's why I like I I like the idea of the term traditional Rook like because I feel like that is the most it's the most restrictive it's tile based turn based little to no metaprogression and perma death and random randomness like that feels like that is a you can constrain a pretty good like.
+34:42
+Subset of games with that.
+We missed a few critical things there, but yeah, I agree.
+I like the idea of just the the brand, the traditional rogue like, it makes it very clear there's no ambiguity around that.
+This is a very much the highest level of restriction.
+34:59
+And then we can discard all those games because there's no such thing as a good rogue like game anyways.
+The lookout.
+Traditional the the, the the Berlin interpretation forgot one critical element, which is.
+I prefer the night or variation.
+It has to be.
+35:14
+It has to be unfun actually.
+You know I was playing at the original Rogue and I was it was surprisingly engaging.
+I got to say I I think I was having some amount of fun to some extent.
+What what what does this hang up with?
+Why is there hang up on like grid based?
+35:31
+Like why does it have to be grid based?
+I feel like no other genre definition is constrained by that.
+Like you have platformers you know that are.
+Two-dimensional side scrollers.
+And then you have platforms that are 3D.
+You have different Fps's which are, well, that's probably not a great example.
+35:50
+Actually I'm thinking about it.
+Technically you do have two D, 2 1/2 D and 3D Fps's.
+Like.
+Is the tile part like that important?
+It makes it so that turn because if you have the turn based element, which you might argue is more important, the tile makes it so that if you wanted to calculate distances like while you're paused to figure out, well, the fireball will hit this thing and hit the wall and it'll blow that up.
+36:14
+It just makes it so you can calculate things a little easier.
+That's my guess.
+Another warhammer.
+Indeed.
+Wait, which?
+Which one?
+I don't, I don't know.
+I.
+I mean, I have not.
+So this is more me, me questioning like is Warhammer one of the war games where you like measure things instead of having tiles.
+36:33
+So I think that you could theoretically have it.
+It's it's not the it's it's not the tiles, it's the like.
+Limited time, action thing and tiles just is so much easier to implement.
+36:48
+That rather than like well in that way I mean if it's just a if it's just a measurement of distance then like all games have like XY&Z coordinates.
+It's like every game Are you?
+Yeah.
+I I'm just gonna extend that definition out.
+I I realize no one's like dying on the hill of that, but it just, it keeps coming up and I thought those.
+37:06
+Yeah, my guess is that it's like.
+The difference between a tile based and something like under the gunge and like where it's really the freedom of movement.
+Versus being constrained to a locked grid.
+37:21
+Well, this comes to back to or.
+This ties into my my crackpot theory that really, so long as you have a game that has enough meaningful game play impacting randomization, it kind of organically just becomes a rogue like.
+37:39
+Because when you set off with like, the task of like, I want a game that is meaningfully random, what's the easiest way to do that?
+What's the most like, as we've just discussed, put it on a grid, that's that.
+And that just kind of grows out of that.
+And same thing with Perma Death.
+37:55
+And it's like, why would you put Perma Death in the game?
+Well, because you want to showcase this amazing randomness that you have going on.
+And why is the game hard, of course.
+Classically, rogue likes are very difficult.
+What's got to be difficult to kind of, you know, press you into that perma death to to show off the randomization and to give you all of those exciting different different experiences.
+38:18
+And I and I would argue that games that don't have emerging game play or perma death or are hard or a tile based are just Rogue likes that aren't very good ones.
+I'm gonna throw out unfortunately real quick.
+By my definition, Tetris is a rogue like.
+38:34
+Yeah, that's one of the best games of all time.
+I'm going to throw out a game here that satisfies many characteristics of Rogue, like.
+Goldeneye 60.
+Four, it is run based, it has perma death, It has ultimate amount of randomness.
+It's very difficult life.
+38:52
+No.
+Solitaire.
+Solitaire.
+It's basically a rogue like.
+And you kind of do play it on a grid.
+Kind of play it on a I mean, it lacks the like movement and like progression around the world, which I think is what actually keeps it from being even a Rogue Light game in many ways.
+39:16
+Like you're not moving around.
+You're not.
+There is no world at all to be random, but there is a lot of meaningful randomness in it.
+And this is This is why I said there has to be at least two properties just to avoid exactly this scenario where you choose one which is just like Oh yeah, I just some degree of randomness and that is like maybe quite cut it because the name claim this has like.
+39:37
+In terms to be clear.
+So will this has like 4 categories that I think that there's there's there have to be categories that are also like if it doesn't have this then it's not a row like and I so was it like the necessary but.
+39:55
+Sufficient but not necessary or necessary but not sufficient game like find a counter example type thing.
+I suppose I mean I'm not so hung up on this but I will say overall Andrew's impression of randomness like being a core part and of like this sort of like I think that the paradigm being linear game play where your your your missions to save the world and you have to do this part thing you're you're you got to defeat the elites for you've got to do these things be all eight dungeon.
+40:25
+Yeah.
+Like that's one style of game and then we have this kind of divergent this whole genre you could say maybe fits under this category of like, Oh yeah well it's just like there is maybe it's still a mission, but like the way you get there is not the same every time.
+And I think that's like probably the core of it.
+40:41
+And I and I think the reason that like that is fun to us is that we as human beings really like that what's what's known as variable probability rewards And not knowing what's going to happen, the the surprise is very important for that dopamine hit that we get.
+Whereas if you're just doing the regular linear game play, I'm going to rush to this person.
+40:57
+I'm going to get this thing right away.
+I'm going to and that's it's not as much, it's not as engaging in that same way for our our monkey brains to interpret like, ooh, I found the Berry Bush and now I'm eating the berries.
+Oh, how exciting was that?
+I didn't expect to see the berries over here.
+Yeah, Emergent gameplay.
+41:14
+Emergent story.
+Emergent indeed.
+My my definition is pretty flawed, but I, you know, I'm very flawed.
+But I was kind of giving myself the the, the, the personal mission of like, oh, if I had to boil it down to like, one thing.
+41:32
+So it's, you know, very, very imperfect kind of by my own prompt and design given to myself.
+However, going back to the concept of of, of like if we were to rank like what what's the most important element of a rogue?
+Like it sounds like we're we're kind of in agreement that that randomization and that that shuffling of the deck is very important.
+41:58
+I put that up there, yeah.
+Yeah, I feel, I feel like it's really there there it's some sort of meaningful loss on when you lose, you don't just save scum like I I feel like if you if you have the ability or desire to save scum when you lose, then that can't that that like kind of pushes it out of being truly rogue lighty and then also randomness.
+42:29
+Which I think in general makes it just like you can't have too long of a run and have it be Rogue like or Rogue Light like something like Sieve like Sieve 4 or European Universalis or any of those Forex games have a lot of the characteristics of Rogue lights, but like, oh, I'm 25 hours into this campaign.
+42:52
+I if I oh, I lost a bad battle and like, my game's over.
+It's like, fuck that.
+I'm safe scumming this.
+I'm going to go back and I'm going to play it differently because I'm not going to put in another 25 hours to get here.
+I might play this game only one time through and experience the randomness only.
+Once kind of like accidentally asymptotes into an RPG at that point, right?
+43:11
+Yeah, yeah, with with random elements, yes.
+It'd be pretty hardcore to, like play a game like like a sieve or like a rim world and be like, well, I guess we're dead now.
+I just.
+I just spent 30 hours building this perfect colony and then, Oh no, I forgot about the underground infestations.
+43:30
+And now that's one of the kind of under, like, major pillars of maybe one of the most early divisive of the traditional rogue, like community games, Door Fortress, in that the idea is that it's it says it like all over the place.
+43:48
+Losing is fun.
+And I think that's supposed to be like a core tenant of this genre that Oh yeah, you know, I lost.
+But you know, I really want to start another run because now I know that that thing is there and I'm going to put that file away that back in my memory and I'm going to watch out for it next time.
+44:07
+So that way the, you know, the Vulcan Raven can't get me and or, you know, before I can avoid the security sweep robot or something like that.
+But door Fortress, I think.
+Like does that deliberately where it's like I'm going to throw giant demons at you that are going to knock down your castle walls, your your fortress is going to get overrun by goblins emerging from the deep caves and that's it.
+44:32
+And your your run is over.
+But an interesting thing about Dwarf Fortress is that that historical record of, like everything that's happened in your fortress is saved in.
+Like the legends mode or the histories of that have happened in your world.
+44:49
+So it's not really gone per se.
+And like, you spin up a new fortress and people will say, like, hey, remember that fortress down the road that got overrun by demonic goats?
+Wasn't that crazy?
+Like, there's still that kind of element of not quite meta progression, but there is, there's a less of a save scummy oriented nature too.
+45:11
+I mean, I save scum to our fortress all the time.
+So I'm going to talk but.
+Like the ability to let it go and just say, you know, it's fine that that thing lived and died and it's fine to start a new thing.
+This again, we're just coming back to analogies for life here, aren't we?
+45:30
+I mean I feel I feel like these games like like like a Dwarf Fortress REM war I think those are perfect examples or sieve or like these really long games that have like that have a lot of these characteristics that are rogue like like they I think they they probably start out more in this wrote what I'll say is rogue light which is to say like you die and like you you die because like in rim world you didn't understand the freezer or like you know some something attacked you that you didn't expect.
+45:54
+Then you learn and then you you're okay you actually want to restart because you're like oh I've got a better base design in mind and like I I I realized I've learned my lesson but once you learn enough lessons and then just you just get some bad luck essentially or feels like just bad luck that's when you feel like okay I'm going to just reload and so it starts to transition from the kind of glad to die to like I put too much into this and I I learned that lesson a long time.
+46:18
+I I I forgot.
+I don't.
+I don't need to learn that lesson again.
+I know the game wants me to restart here, but not going to do it.
+You kind of skill out of it.
+Being a rogue like that's an interesting idea of the the actual the game transitions with your skill from being a rogue like Rogue Light to without out of that.
+46:36
+This is something I see all the time with that with Caves of Cud A for sure.
+Stay tuned.
+Traditional rogue like grid bumper as people were jokingly referring to where I think Caves of CUD is a bag bad rogue like game.
+46:52
+I think if you were to play that game and you spend like you know 25 minutes setting up your character creation and then like some it's it's very kind of we just did that episode on it, Cataclysm.
+Yeah, I say.
+Got it around the corner.
+Same trap.
+Yeah, like you walk around the corner, bam, you're dead.
+47:09
+Haha.
+And you're just like, well, how was I supposed to know to expect that, right?
+At least with Caves of Cut, it gives you it.
+It builds in like standard RPG elements.
+Sort of like, yeah, that was kind of bullshit.
+You probably wanna reload that save, don't you?
+You're like, yes master and then you are able to kind of walk back a little bit from it.
+47:31
+But yeah, I think compared to something like Dreadmore, where, well, you got super into Dreadmore way more than Colin and I did, I just had no other fun games that I was playing.
+I wouldn't say I.
+I mean, but you put a lot of hours into it.
+47:47
+Yeah, you put a lot of hours.
+And I have a great time.
+Though there is some level of engagement there.
+We're like, I'm sure you do walk around the corner, you get bludgeoned over the head by a diggle or something and you're like, OK, but like, I'm gonna, I'm gonna restart and avoid that kind of trap again versus like, you know, it was 10 hours into that run.
+48:02
+I'll just hit the reload button.
+Yeah.
+I feel like Cataclysm is is the you skill out of being a it being a real like in some ways too like I was watching Let's Play.
+This past week after we did the episode and rated it so poorly, but I was watching videos of it nonetheless and it's like I've watched like 10 hours of this guy playing a single character.
+48:24
+It's like this is becoming it's it's a base builder now it's a it's a survival crafting game, not a rogue like game And like other games that we've played, what's that game?
+48:40
+The last spell.
+Like.
+That is definitely a skill out of becoming a rogue like or rogue like like you.
+If you are good at it, or even moderately good at it, you probably won't lose.
+48:57
+And if you do lose, it'll be very frustrating because you'll spent so many hours getting to that point.
+So are.
+Are Rogue Light games less hardcore than Rogue like games?
+49:19
+What do you mean by hardcore?
+Are Rogue Light games light as in light beer, or light as in, oh, I've finally seen the light.
+LIGHT.
+No, no, it's very simple.
+You just take the, you know, it's light and its similarity to Rogue.
+49:37
+So it's it has the bold, it has the flavor of Rogue, but it also has the new fruit mango included in in its flavor profile and like it's it's it has yeah some of the base properties like it's a liquid but it's a completely kind of different kind of liquid.
+49:54
+Like there's.
+That's why there's a huge variety in what that enables, because.
+You're just building in new mechanics to some of the properties of.
+You you lose some of the hardcore in some aspects, but you gain them in others because you are able to.
+Build more complexity on top of a character because you're not expected to lose that character in like an hour.
+50:20
+You can build a more complicated ecosystem in a lot of cases, like Hades is a Rogue Light game.
+You're expected to lose within the hour.
+You're expected to lose like a 20 or 25 minute window.
+But I would say the Hades is significantly closer.
+50:37
+To the rogue, like than many of the other games.
+That we it's not a racing game, for example.
+Yeah.
+I mean, I guess the real question is how much does meta progression matter in how we're looking at these games?
+I don't.
+Meta progression is as divisive is as important as a lot of other people seem to think it is.
+51:00
+I think of meta progression as automated scaling down of the difficulty, yes.
+You're basically just like I'm getting tired of playing at the hard mode and so I'm going to slowly slider down towards the easy or medium mode and then when I get better I'll slide it back up.
+51:16
+That's just, it just is the game doing that automatically for you.
+Because once you get down, once you get good at 80s, then you start adding all of the stuff back in, the heat levels and whatever, and you making it, you make it harder and harder and more hardcore.
+So you're basically just like it's just like it's a computer.
+51:34
+It's the programmer doing that work of like, figuring out how hard the game should be.
+For me it's just doing that automatically.
+It's brilliant.
+It's a really it's a great system.
+Like I I hate the selector level of difficulty at the beginning.
+I I think that's the terrible way of doing it and like meta progression is a really I think beautiful way of helping scale the difficulty so that the on the axis of like your skill and the difficulty of the game you the most engagement you find is right and that's the right in the middle as you extend out and so this just automatically helps pull you into that center and keep the game in that fun engaging zone.
+52:07
+So I I love.
+That meta progression as an idea, pretty elegant design.
+That's for sure.
+Yeah, I think I agree for the most part.
+And I think there's there's like different levels to which I want that at different times or like I'm in a mood for it versus others.
+52:26
+Like if I'm like, yeah, you know I want to make some more progress and Dead Cells, I want to unlock this, this cool weapon.
+Yeah, I'll, I'll you know grind a couple levels to to get some meta currency and unlock it.
+Great.
+Now I can use this thing in the future.
+Versus something like Spelunky or like Enter the Gungeon to some extent of like, Okay.
+52:48
+I'm going to start this game knowing full well that like it's just me in the game.
+I don't have to really worry about grinding for anything.
+I don't have to worry about like going in with a specific mission objective to accomplish, other than hey, let's try to beat the game and that that can feel.
+53:09
+Liberating, in a sense of like, oh, it's like 1 less thing I have to think about.
+Like I have to think about all the other bullshit, nonsense and spelunky.
+But like, I don't have to worry about like, oh man, do I have to what?
+How far away am I from unlocking the jetpack?
+OK, gotta go do this other thing first before I can have the real.
+53:25
+Phone The only thing that matters is that run.
+There's nothing outside of it.
+Yeah.
+Yeah, more boring.
+I agree.
+It's not as good.
+That was your point, right?
+Yeah, I'm looking through your spreadsheet that you so dutifully put together late last night.
+53:44
+Why is StarCraft on this list?
+This is not a list of games that are Rogue.
+Like this is me.
+Just like it was, you know, like, OK, so I have this list that I put together, things that are kind of in Rogue, like games, and then I looked at each individual.
+54:03
+Call them and like, are there any other games that are like this?
+Like, I considered starting putting in games that are even less.
+I consider putting Call of Duty on there just to be like, I wanted to find a game that satisfied none of the characteristics.
+Rocket League satisfies almost none of these characteristics.
+54:22
+But then it's actually now that I look at it kind of does like Oh well, there you go versus.
+World to some extent.
+Yeah, I mean it doesn't or but like runs end in death like.
+As losing a game in Rocket League count as of run ending in death, I think it kind of does like you don't get to save scummit and try again.
+54:42
+I think that the fact that it's not against other people or that it's against other people is like a fundamental difference.
+But yeah, I think there are a lot of interesting games that I I you'll notice maybe that I added the original Mario in here because I feel like that has like.
+55:01
+A surprising number of things in common, and the one thing that it doesn't have is randomness.
+And that like is a is a death blow to like.
+It's not at all like a rogue, like, but it runs.
+You die at the end and you have perma death and you go back to the start and you have, yeah, the lives you have a few lives.
+55:18
+Perma death is not like OK.
+Well, you run out of those lives.
+You're in Perma death mode.
+I guess in Binding of Isaac you have like there's something that like the Nine Lives ability and so does that technically pull it out of the category then or does that?
+Invalidate its perma death characteristic.
+But like, I think like the original Mario has some things that are more in common with Rogue Light games than you might initially think.
+55:46
+Like, yeah, it does have runs in it.
+You do die, and you do hit the run button.
+Yeah, I agree.
+And like you do, but you there's no randomness, so that's like boom.
+There you go.
+Randomness.
+Rain supreme speed runners will disagree because they, you know, they try and get that perfect pixel and it's only 1/3 of the time that allow them to jump through the things, yeah.
+56:10
+That's interesting, I mean, I think.
+That we're even those can be predicted to some extent certain certain games like what subpixels and which frame you are on like.
+Yeah, I think we have to just count out speed running as a.
+Is there a Mario Rogue like project made?
+56:28
+I would be shocked if there was not some kind of ROM hack that just randomized the level layout every time.
+Interesting.
+Alright so so pivoting Colin, kind of off of your list.
+I have a list of game genre boundaries of well, so I wrote this out before you put together your spreadsheets.
+56:46
+I'm like this will be a great conversation topic.
+How roguey is it?
+And Colin, I know you have your, your scientifically inarguable percentage number there.
+But just getting a temperature read of the room Minecraft.
+57:03
+How roguey is it mildly?
+Adventure mode?
+Isn't that a thing?
+Mildly slightly more if you're playing on actual hardcore mode, sure.
+When it deletes your world after you die.
+Yeah, how about Diablo games?
+57:24
+Any pretty high up there, I think more mild.
+Yeah, like moderate does really procedurally generated worlds.
+You've got loot that's randomly generated.
+Big focus on the random generation of enemy enemies, of emerging game play through like a combination of enemies and environments.
+57:45
+It's got those things.
+But it's a single character that.
+Yeah, there's no guns in it.
+Are you kidding me?
+Do you know how many runs I did to fight greater riffs?
+Yeah, they were greater riffs.
+I mean, those are all runs.
+I remember the day in, I think it was 6th grade in health class when a mutual friend of all of ours came in absolutely crestfallen that his paladin.
+58:11
+His hardcore mode palace, Robert, wasn't.
+It had gotten, indeed had gotten, had gotten.
+Real little rise.
+By I forget some some kind of horrible beast but it was it was a randomly generated you know boss monster that that had gotten him.
+Yeah, I think what's more than Perma death, I think personally, what what holds Diablo back from being like a true rogue, like, is that the?
+58:38
+The way the game play is the randomization like it impacts the game play, but it's like not hugely significant like it.
+Yeah, it's like navigating the maps is like you're almost on like autopilot, like looking at the the mini map and just kind of click, click click, click going through.
+58:56
+And so it's like the randomization.
+I mean it's it's impactful, but it's not as impactful as as a true rogue like.
+But yeah, moderately what on a scale of 1 to 10/5 average average row D4.
+I'm going to pull, I'm going to pull some words from noted friend of the podcast Joe of Monster Train fame.
+59:17
+He his his word was a lost based game loop and I think that's a good it's a good metric of like that like if you lose in Diablo, does it matter?
+If the answer is no, then then that's that's the kind of run and type thing that I'm looking at.
+59:37
+Like it it matters to some degree and in some cases in the game it matters a lot more than others.
+Like you might have to do a done a 20 minute fight again if you lost and after you'll lose a certain level of experience or go.
+I don't remember what the what you lose exactly but.
+Does the existence of a game having a toggleable perma death hardcore mode warrant inclusion in the conversation?
+1:00:01
+Just scales it up to how closely it it.
+I mean that that's the difference between a three and a four or four and a. 5 All right, next on the list.
+We kind of brushed on this a little bit before XCOM.
+How rogue is it?
+It's like a solid 7 easy seven if not 8 Iron Man mode.
+1:00:22
+Here we come and also like the early ones.
+And it's grid based.
+There's no dungeon crawl, I guess.
+Well.
+Unless you count a little bit more maybe.
+I'll go, I'll go six with that one.
+I think 6 seems reasonable all right, because there's a lot more focus on the meta progression in that one, and there's a lot of other decisions.
+1:00:44
+Next one on the list that will get Collins Beard all agitated into the breach.
+Is it?
+Is it a rogue?
+How rogue is it?
+I haven't played it.
+Tile based, Perma Death Dungeon, like Dungeon crawler, doesn't have a simulated environment.
+1:01:05
+Procedurally generated maps the game.
+The turn based is the game doesn't have it so that things move when you move.
+If you move and then they move, but there's not a single character, There's multiple characters.
+I'm going to say it's probably like an 8.
+Yeah, I feel like it.
+1:01:22
+For some reason it ticks a lot of the boxes, but it doesn't feel like a rogue like to me.
+And I'm not.
+Why My take on it is that I think Collins right to be skeptical, but I think I agree with Will Moore in that it's a like it's a it's a rogue type game applied to a different genre and it's applied to the puzzle genre right where you have like.
+1:01:48
+Yeah, so, so like rogue games can be like those mechanics can be applied to FPS games.
+It doesn't make them like a, you know, as pure of a rogue traditional rogue.
+Like of course it wouldn't, but it has enough of that flavor to it that you know, would would be close enough, I would guess.
+1:02:07
+Which transitions very nicely into the next ball point I have here.
+And Speaking of beards, Deep rock Galactic, how rogue?
+How roguey is it?
+Great question.
+Oh, a little bit.
+I I think the the game is like so.
+I don't know.
+1:02:25
+I didn't play it because you guys, I was like, busy for the one week you guys played it.
+And by the time I was like, I'm ready to play Deep rock, you are like, Oh no, we've burned our way through.
+We're done with it.
+Now.
+I say those words and I don't even know what they mean.
+1:02:43
+Really, Rod?
+One of the the draws for like Perma Death for me is that like it really sort of amplifies the the enjoyment and the experience of a game.
+Like, there's a lot, there's a lot of games I've played where it's like if there wasn't Perma Death, I wouldn't be experiencing as much fun and excitement because like it's so there's there's so much on the line, you know, it's like it's very intense.
+1:03:10
+And with like Defrog Galactic, it's like you just you always have the option to start again, run it again, like, who cares?
+Like even if you if you were to like slap on a permit death option to it, like it wouldn't matter.
+But I I don't know, my whole definition is hinging on like randomness is #1 most important thing.
+1:03:30
+And the game does have a very good randomization 3D randomization system.
+So I don't know.
+I guess it's a yeah. 2-3 something like that.
+I mean I'm I'm saying 6 because yeah it it.
+I mean like in each run like it, it does have like the procedurally generated world with like where it is like a hacking slash sort of thing with like items that are randomly generated things.
+1:03:55
+Though like the first person I think being FPS really loses a lot of points for it being rogue.
+Like, I mean, even if it's even if the world is simulated and all that, like it doesn't quite make up for in fact I'm gonna say 5 actually considering all these other factors.
+1:04:11
+Yeah, not tile based, it's not the, it's not turn based.
+So yeah, five maybe.
+Even 445, Yeah.
+Interest.
+I want to throw one out.
+Not a real game, but PUBG if there was a randomly generated world.
+1:04:30
+Loop collection well it's like.
+It's interesting because it's player versus player, yeah.
+Are there?
+Are there?
+Yeah.
+Are there?
+PvP Rogue likes.
+I don't know, but like that's the question counted.
+Interesting.
+Like, can can you have a rogue like?
+I guess maybe even more than that.
+Like, what if it was a traditional rogue like in all the ways except for you all start on the map at the same time as PvP?
+1:04:51
+Is that still a rogue like Like?
+Does the fact that like being like a weird battle Royale elimination match?
+Does that mean just like?
+Is that how many negative points is that?
+I'm gonna get something wrong, but I'll say it anyway because I'm I'm very confident in myself.
+1:05:11
+I believe Tales Of Montreal, like an earlier iteration of it tome had like an online multiplayer aspect.
+I don't think it was PvP, but I seem to recall there was like some kind of online multiplayer engagement element to it that.
+1:05:29
+Did not disqualify it from the conversation.
+So I think like even if you did have a PvP aspect in there, like if it was, if it was like literally like and I've kind of noodled about this myself.
+Like what would Cogmind look like as like APVP game on like a multiplayer server on like I don't know something like a like a a 2D Halo map or something crazy like could that even work And just like going off into like a mind spiral game ideas but.
+1:06:00
+I think that could work like I think PUBG has elements of like bullshit item resource management, perma death, you know, if it was on a random map.
+Yeah, it could have to be on a random map.
+1:06:16
+I think the static map is enough to like say no, because then you can just like memorize where things are.
+A little bit, sure.
+For me, I feel like the randomization just just just having a factor a random factor is not is not enough in my definition to be rogue like it needs to be game play impacting impactful to the actual game play.
+1:06:43
+And like the crux of the pub G game play, the most important part of the pub G game play is the is the combat and is like the behavior of your other players.
+And like, just randomizing the map?
+Yeah, I don't know.
+Yeah, not especially.
+1:06:59
+I think it would just be an FPS, a PvP FPS game with a random mode like your.
+Goal.
+Your goal would be to ignore the randomness as much as possible so that you can focus on the people.
+That would be.
+That is interesting and and they did add one bit of randomness, PUBG which was weather.
+1:07:20
+And people hated it and they got passed out.
+And then whatever fortnight is which I don't even know enough about fortnight to know if there is randomness in there.
+That's the thing.
+More than one map, right?
+They've got building.
+You know, I guess, I guess.
+You can do dances and you can be Darth Vader or something.
+1:07:37
+Absolutely.
+It's a very interesting question.
+Sure, it could be like a really crappy rogue.
+Like a really bad one.
+I mean, we've been using Rogue like all the time, but we all mean Rogue Light here now that we've talked about.
+All this doing we do.
+1:07:53
+I feel like we're not even being.
+As we all yes.
+My hot take is under the same thing.
+Because I don't think there's, I don't think there's a meaningful enough difference a so a number one.
+1:08:08
+I don't think there's a data-driven way to determine what is a rogue like versus a rogue light.
+I don't think there's any data that so like you go to a store page on Steam.
+What data could you show me that determines this game is 1 or the other very very very easily.
+1:08:27
+So there are there are these properties over here, these eight properties that these perfectly listed 8 properties and then you check off how many of these properties are on there and if if it has six of them then it falls.
+Into the how would you script that right?
+Like would you just be combing through the like the games description or bio, we just add these eight more like like sort of categorical like things and then the the game creators would check the boxes about whether or not the game has that.
+1:08:53
+It's just so simple.
+I don't see why you don't.
+See it?
+It's just don't Steam tags do that?
+Well that I I don't know how steam tags were.
+I thought that the creators make it but doesn't matter as long as as long as these boxes get checked and then we apply this metric of 6 out of 6 out of eight.
+And then if it's if it's five, if it's five, five to eight or five to six or four, four to six properties.
+1:09:15
+We'll call it light just to give it a number and then the 6:00 to 8:00, we'll call it a like.
+So, Will, I've baited you a little bit with the Steam question, because.
+So on Steam you have, I think there's like five or six different rogue type tags.
+For games there's like Action Rogue likes one that's just straight up Rogue.
+1:09:32
+Like there's one that's Rogue Light there's Rogue like Deck builder.
+So this fire you have Rogue Vania and then there's maybe like one other one and so of of 5072 games that are tagged as Rogue like. 3070 are also tagged Rogue Light.
+1:09:56
+They're not following my system.
+Steam is.
+Not responsible.
+The many letters, the many, the many.
+The many so registered mail works.
+All games that were called Rogue Lights are now called Rogue likes, and all games that were called Rogue Likes are now just called traditional Rogue Likes.
+1:10:16
+Yeah, yeah, that was the one that was missing was there's a specific tag for traditional rogue likes and you click on that one and that's that's like the exact universe that I think for games that for the most part are not super up our alley, but.
+1:10:34
+Like they do exist.
+They they do warrant conversation to some degree they you know that is the cog mind end of the spectrum.
+But I think like the Steam ecosystem is super bad at this for one major reason and that's because Steam is an all or nothing catch basin where if your game has like 1 tag applied for rogue like then you go into the category search for rogue likes.
+1:11:02
+That thing that has a chance of showing up in there, even if it's one out of 10,000 tags applied.
+It's an all or nothing search with no nuance which is which is kind of a hindrance to pivot off that the with more fun stats.
+1:11:19
+So for games that have at least 1000 reviews, the bottom five games that have by by how many rogue type tags they have associated with them.
+Are, let's see two ho big battle.
+1:11:36
+No one's gonna have heard of any of these rogue company and so this first one is .25% of its total tag volume are rogue based Rogue Company is .36%.
+Wait, how many tags do these games have?
+They have a lot.
+1:11:51
+They have a ton of who decides the tags.
+You go into steam, you click on tags and you and you like click on one to apply that tag or you can you can type in one.
+Mm HM, so anyone can apply A tag to a.
+Anyone can apply.
+Yeah, that's the problem.
+See, democracy is a terrible idea.
+1:12:08
+Democracy was a.
+We all knew we could have the creators of the game check the boxes for the features that it has.
+Here I'm gonna cuz then no, they would know.
+So the Hail Lord gave in, comes and personally.
+Evaluates your game and just get any higher will will is the ultimate classifier.
+1:12:25
+You apply him to.
+Any situation you're going to get some very distinct edges around the classifications is going to be very.
+All right, so so for example, Hades.
+It's going.
+To be a good deal.
+Hades has 24% of its total tag volume, or rogue, or of some rogue type of the.
+1:12:42
+Of that list that I talked about, that seems about right.
+Risk of Rain Two is 21%.
+Binding of Isaac is 24%.
+Deep Rock Galactic has 4% of its total tag volume as Rd. based in a terrible metric.
+Total tag volume being rogue?
+1:12:57
+I don't know.
+So come again, Going back to the list of the bottom 5 lease Rogue Ones, maybe some of you played Loof Rousers Andrew No .48% Don't Starve Together is in the bottom 5.
+1:13:15
+With .67% of its total tag volume as being rogue base.
+But people are just giving away too many tags then.
+No.
+So what's interesting about that is it was up to 10% earlier this year when I pulled a snapshot, and then the devs nuked all of those tags down to .67%.
+1:13:36
+So it was like 10% and then they were just like now our game isn't actually rogue.
+Delete, delete, delete.
+But is Stacklands in there?
+Because according to my calculations, Stacklands is not only the least rogue like a game we've played, but is less rogue like than the majority of other kinds of games that we've played.
+1:14:00
+Stacklands has 6.61% of its total tag volume is rogue based, which is more than Deep Rock I.
+Feel like that just indicates therefore this is the evidence.
+Against Steam tags.
+But it's interesting.
+1:14:18
+Cuz like does do more Steam tags make a game more roguey?
+Maybe not, but Rogue Legacy is the number 2 for the top five most, with a whopping 39% of its total tag volume being.
+We just have to go weird tags on it and then they'll lower it down.
+1:14:36
+There you go.
+Vote.
+Vote with your feet people.
+You have to have the expert reviewers like a gene pick sort of like just go in there and just like do all like one person does their own evaluation of these games.
+Gene's true tags, I'm gonna go Gene picks cuz I know Gene always picks the rights games and the.
+1:14:54
+Rights, that's what Steam.
+Curators are supposed to be, for, we know, the true arbiter of taste.
+It's Chachi PT.
+There we go.
+See.
+Just go, All right, We have to open up Chachi PT and just ask is this game broke, like?
+And then each one in there.
+And if it says yes, then we're good.
+1:15:11
+The answer?
+Only yes or no?
+Yeah, actually I wonder.
+Yeah, I'm going there right now.
+What game should I ask?
+Just go through that list, go through your list and just add a new column.
+Just tell me just one name, just inscription.
+Inscription's too new, probably right?
+1:15:29
+When did it come out?
+Do Ken she or Majora's Mask?
+Is that a?
+Is that a rogue?
+Is that a Rogue Zelda game?
+There are randomizers for speed running for those, but again, I don't know if the randomization like randomizes the game play that much.
+1:15:49
+All right, is Ken she a rug like game rate it 1 to 10 GPT.
+Four is stalling.
+Oh my gosh, it's such a lofty issue that even all this computer power computer calculation.
+It says how we can do it traditionally classified as rogue like.
+1:16:05
+Oh my gosh.
+Free free roaming squad based RPG with open-ended sandbox world.
+Rating country on a one to 10 is subjective, God damn it, This is why, he chats.
+Machine, now you know, barred said it was a rogue.
+Like just saying.
+It says maybe 8 or 9 out of 10.
+1:16:22
+That's too high.
+It's hallucinating, Collin.
+Wait, no, no.
+This is like rating it as a game.
+Like for how good it is, which is okay.
+There we go.
+Good job.
+Good job.
+You.
+1:16:38
+Were asking about board games related to this discussion?
+Yeah, And you had a couple on your spreadsheet.
+I was, yeah, like I was noodling around with Gloom Haven.
+The the the digital version that you can find on Steam.
+1:16:56
+And I was like, yeah, do you mean I like I could squint my eyes and convince myself that this game is Rogue Adjacent, in a way.
+That seems like about the best you could give it Rogue Adjacent.
+Right.
+But that property, that transitive property, doesn't retroactively apply to the tabletop game as a result, does it?
+1:17:19
+It has to be a video game, right?
+No.
+I do not think that.
+I do not think that it has to be a video game to be rogue like.
+I think that it just makes it much easier.
+I think that you could do everything like you could play Sleigh the Spire with a deck of cards.
+1:17:39
+Didn't they kickstart A tabletop version?
+No, but I'm not saying like a tabletop version.
+I'm saying that you could play the actual game Sleigh the Spire with a board game box.
+With someone running the monsters via like a like dice and like a description of how they're supposed to be run, it would take a really long time and it would probably not be that fun of a board game.
+1:18:04
+It's a better video game, but I think most rogue like games, especially the turn based ones, you could make a bad board game and have them be substantially the same game.
+It just would be bad because it would take too long to run it.
+1:18:20
+All I gotta say is that you better thank your lucky stars that you didn't ask this question.
+In Berlin you would have run out of town on a rail.
+Let me tell you.
+Whoo.
+This is very controversial.
+Yeah, you could totally simulate that.
+1:18:36
+Are there any, like, existing ones?
+That's a great question.
+I don't know a ton about Gloom Haven.
+But sort of a dungeon crawler descent, kind of.
+Yeah, I don't think there's randomness in it to truly call it a word like game.
+1:18:54
+I don't think there's randomness in the world.
+And there's, I mean, there's pretty defined scenarios.
+And for like all of the different little levels, like they're not procedurally generated, which you can absolutely do in a board game.
+You could have like random tiles in person, but there's like a booklet and it's like here's how you place the tiles.
+1:19:12
+And the way to make this scenario?
+Here's exactly how many monsters are supposed to be for various difficulty levels and stuff like that.
+So great game though very good game.
+So while you're chatting there I I have I just just to verify that you know ChatGPT is in fact it's the smartest thing out there.
+1:19:33
+I gave it the one to 10 sort of in the Rogue like and I just established the bounds cogmine.
+It's like 10 Mario 64 one lay.
+This buyer is a an 8 or a nine.
+XCOM is a four or five, FTL is an 8.
+Sound about right?
+1:19:50
+Yeah, so like.
+It's just distilling the wisdom of the Internet, right?
+It's I think that's, yeah, just screw tagging and screw having, you know, obviously at the will, will picks and the will tags would be phenomenal.
+But ChatGPT tags would probably be pretty good.
+Yeah, all right.
+1:20:05
+All future episodes it has to have to include.
+Like, what does ChatGPT think about how broke like this game is?
+Or just have to give us the rating out of out of 10, just like for the the funness of the game like we've been doing.
+Just have to write the whole episode and and then we'll put it into Seven labs or whatever. 11 Labs Yeah, my voice is already synthesized.
+1:20:25
+You could just have it.
+Just, you know.
+Argue with you all and interrupt you all.
+It'll be great.
+We laugh, but Spotify is doing that.
+They're ingesting affiliated podcast RSS feed data into auto generated voice samples, which.
+1:20:43
+Makes me kind of almost want to pull the podcast RSS feed off Spotify, but I've already.
+Cloned you so it's too late.
+Yeah, there you go.
+Well, it's too late.
+I mean, I've got all this audio.
+I mean, why wouldn't I?
+I've already captured your soul.
+Gotta catch them.
+Andrew, I feel like you would be well posed for one of these philosophy corner questions that I have.
+1:21:03
+Is that?
+Where the.
+The inception of like a genre and then it's like many splinter factions that are all again like more similar to each other than they are different but all trying to vie for their own corner of the conversation.
+1:21:21
+And I think we brushed on this very slightly at the beginning.
+Metal music genres.
+Ah, yes, I'm very glad that you brought this up.
+Yes, classically, us metal heads are very pedantic about which subgenres are what and which bands fit into what subgenre.
+1:21:39
+Because of course you got you got heavy metal, you got power metal, you got folk metal.
+I'm talking about new metal.
+I'm talking elf metal, talking pirate metal.
+Now we got dwarf metal, we got all these different metals.
+No, most of those aren't actual like distinct genres.
+1:21:56
+And are you asking me if if metal itself is a rogue?
+Like yes, No, we don't have rogue metal yet.
+I think that is ooh, it could be something.
+Definitely pretty synthy, but does the Yeah, this is something.
+That does like the metal.
+Does the metal genre suffer from the same similar problem that the rogue genre has of like we're the OG people, we matter?
+1:22:16
+More or whatever.
+Yeah, you know a bit.
+I've encountered a little bit of hidden tree.
+Like aggressive pedantry about what these different definitions are.
+And I feel like I've experienced it less as as it's as the scene has kind of loosened up a bit and gotten a little bit more chiller and more like inclusive and less keepy.
+1:22:42
+And at the end of the day, I mean, like we've been discussing throughout this episode, like why are these labels?
+Why are these subgenres useful?
+It's basically just so you can.
+Sort of refine your taste and refine your ability to make recommendations to people and to like have conversations.
+1:23:04
+It's a useful language tool to have.
+So like if I go to a show and I'm like, wow, I really enjoyed this Camelot show that I went to recently.
+It's like, well, what sub genre roughly are they?
+1:23:20
+They're part of symphonic metal.
+Well, now I can type in symphonic metal to steam.
+And see what options come up and steam.
+Yeah, yeah, into Steam or whatever it is.
+And and there you have it.
+So it's it's useful.
+1:23:36
+But yeah, these are, these are these labels are useful to have and to have a general working definition, but they don't have to be 100% accurate.
+I mean, what do we what do we got to get all bent out of shape about it and there's no need to?
+Best Rogue Lights, Metal.
+1:23:54
+Name Band Name.
+Perma Death.
+I don't know why it hasn't a great point.
+Permit death, absolutely.
+Should be, well, actually I think probably be a death metal band, obviously, because the original death metal.
+Band Sorry My.
+Death so perma.
+1:24:10
+I wasn't aware of the subject.
+To be a postmodern post death metal.
+I don't know if that's even the Charter, but Perma Death is already definitely a band.
+Yeah, really.
+Did you look it up?
+If you can read band name logo then.
+Here we go.
+We're going to use a mid journey for that and outstanding.
+1:24:28
+But to answer your question SoundCloud, I just posted the SoundCloud for Pervi death in the in.
+The chat.
+Oh, wonderful.
+Check them out.
+They're probably.
+Pretty oh, but it has an A in it.
+It should be DE I I did I did try DETH their their tags are terror Core, Speed Core Hardcore, Brake Core Swan 130, Pure Evil, Atmosphere Progressive Death Metal Swedish Jet Metal Swan 105 SCARS Imagery Speed Core free download gabber video game and our free.
+1:24:58
+Download Free Download is my favorite.
+Genre, sub genre of metal, that's for sure.
+So yeah, it's definitely.
+Like it's more of at this point I would say it's more of a meme in the metal community that like people are really aggressive about this cuz I feel like it's pretty rare that I find myself on a serious.
+1:25:17
+Like life or death.
+Conversation about what?
+Metal subgenres.
+Was and do people stray into blind Guardian forums and are like I'm looking for?
+I'm like rather power metal.
+Music, please.
+I remember actually, you know what I remember like 10 years ago getting pretty bent out of shape because I was at a metal festival and.
+1:25:41
+And in like the metal festival literature, Blind Guardian was described as a progressive metal band.
+This is an outrage, obviously a power metal band.
+And then I found out later that that was just copy that they had copy pasted from like the blind guardian.
+1:25:57
+Web site and it's like they just find themselves as that, but then you get into a whole.
+This taps into another topic that we were just discussing, which is like the audience's interpretation of what genre game is versus what the developers think the genre is.
+And then you get yeah, situations like you were saying with Don't Starve where the devs came in and decided to just nuke all those tags.
+1:26:22
+Well, I'll pivot the question over to you, Jazz and Jazz Fusion.
+Is jazz Fusing a jazz light?
+Yes.
+Is that a bad thing?
+Oh yeah, it's very bad.
+It is very bad if it.
+1:26:38
+Ain't got if it ain't bebop.
+I don't give a shit about jazz.
+Are you kidding me?
+Traditional jazz likes is is is a jam traditional jazz.
+Like, that's what's what I'm all about.
+If it's not between the late 50s and early 60s, then it's just.
+1:26:54
+That don't mean the thing and four years of good music ever made.
+I mean, you did post that Bill Evans from 1970 though, So Jazz like Bill Evans is an.
+Exceptional man so.
+Well, do we want to have we?
+1:27:11
+Have we touched on everything that we want to cover for this this topic?
+Have we solved the the problem of rogue like versus light?
+Yes.
+Can we rank the debate?
+Yeah.
+So yeah, I feel like we need to rank something, otherwise the episode's not complete.
+1:27:29
+Well, we do have so preview for the end of the year we're gonna take all of our top rated games that we've talked about and put them in an elimination bracket, NFL style.
+Because I'm sure the overlap between Rogue like game players and NFL listeners is quite, quite a circle there.
+1:27:50
+But we've been putting, putting our games into major categories and some of these games span multiple categories, but we got to jam them into one because of playoff purposes.
+So we have, let's see, six categories of Rogue type games that we've talked about so far, deck builders, platformers, solo dev games.
+1:28:12
+Something that I've broadly swept under the carpet of squad management games, traditional rogue likes and you know, sometimes twins, sometimes not.
+Shooters stick.
+Shooters will say, let's see one to two stick shooters.
+1:28:33
+Yeah.
+And say how are these, How are we going to determine the reigning champion?
+Is this also going to be in like a debate format?
+Yeah, I mean I have it set up.
+So at the end of the year we'll we'll talk through each game versus each game or well the the ones that are the ones that are lined up in NFL seeding order, which is as convoluted as it could be.
+1:28:57
+But yeah, like, so for this round, this game versus this game, this game or like a different game versus a different game and then whichever one we like better advances.
+So to rank something for this episode.
+Let's say we already have kind of our average rankings for those categories, which with deck builders being the number one by a country mile, you would think traditional rogue lakes would be our bottom one so far.
+1:29:25
+Any guesses on which one is lower than traditional rogue lakes for categories that we've touched on thus far?
+I already forgot all the categories.
+Yeah, let's hear the categories one more time.
+Categories again.
+Are solo.
+Dev solo dev.
+That's one of them.
+It's going to be that.
+1:29:41
+Worst one.
+Shockingly, or or it could be one with 1000.
+Yeah, so shockingly, no.
+Solo dev is the our third highest ranked category.
+Our lowest ranked one, maybe unsurprisingly, are platformer games.
+1:30:03
+Well, the Will's going to reevaluate that when we get to macro to our Dead Cells episode eventually, but but the solo dev one does have the widest range of standard deviations with our ratings.
+Again, Deck builder is is I think our highest rated one and our one that we most align on.
+1:30:22
+But yeah, for these these Fight Club debate episodes, where where would we slap this in our six?
+Categories of things.
+Are these conversations useful?
+Did it feel like we walked away with this?
+1:30:39
+Learning something?
+No.
+I had it solved kindly into this.
+So there's no learning to be had.
+Got it.
+I don't know how to rank this because normally we rank this relative to other games.
+Well, I rank this episode as absolutely number one.
+1:30:54
+I've greatly enjoyed this conversation and just of all the of all the Rogue likes out there, I think the Grog Pod has been my favorite so far.
+And thank you for inviting me on this slide show.
+Always a good old grand old fun old time with the the Rogues gallery here.
+1:31:11
+Well, actually I'm going to put it at 88 out of 30. 38 out of 30, oh, 33 episodes, I see.
+I was gonna say that's a well, I don't actually know how many episodes we've done, but it sounds about right.
+I'd say it's like in the upper 3rd of like interest that I felt in the things that I was thinking about.
+1:31:33
+I will say I do actually have two takeaways from.
+This lovely panel that we have here Andrews concept of of the randomness being like the key in this paradigm and so that that discussion about like that whole genre of things or paradigm of things versus like the linear game play they were talking about that's very important.
+1:31:53
+And then Collins, the distinction of traditional rogue like I think that that that would solve a lot of the.
+It's got the problems in talking about this stuff.
+So from now on though, I'm just gonna use the word rogue light because that is actually universally everything has some degree of roginess to it, and so you can't go wrong if you just use that term.
+1:32:14
+That's my take away.
+And I appreciate you calling, let me tell you.
+The situation all right I totally I was trying to play off the play off the fact that I mixed up some names Will I appreciate that you the fact that you went through came up with these distinct categories again very useful in you know defining these things and being able to eloquently discuss all of these various games that we're going over the the eight elements.
+1:32:49
+I think are pretty dead on in terms of what the makeup generally is of these games that we're talking about.
+God, I'm assuming you're gonna post.
+All of this unambiguously correct information that we've created, you're gonna post.
+1:33:05
+Yeah, I can link that all of our nonsense and the I can link all of our nonsense in the show notes, yeah.
+We we got an e-mail from our our good buddy Dave, and I think I'm going to punt that to a a a future episode because we're already pretty long in the tooth on this one.
+1:33:23
+And yeah, like, I think Joe's thoughts that he provided to us in a lengthy Google doc, probably also good to to pepper out through future episodes.
+But yeah, like I think for me, I walked into this discussion thinking, you know, I I hate the word rogue light.
+1:33:40
+It feels inferior.
+But I think as long as we all like again like the all these definitions of stupid things are all personal and community dependent.
+And if if we have the understanding of like yeah traditional rogue likes are over here and they can exist in their own separate sphere, that's fine.
+1:34:00
+And like they are also rogue light to some extent because they have a certain percentage of elements that are rogue based.
+So.
+Everything's a Rogue light, and nothing is.
+And who cares?
+And nothing really matters.
+And so I'm going to rank.
+1:34:18
+I'm going to rank this episode. 5 bags of popcorn out of five.
+I think one thing that I came away with was that with like, a theory of like, chocolate adjacency.
+Like I kept thinking a lot of, like, cooking recipes related to this stuff.
+1:34:35
+And I was like, okay.
+Rogue is a plain Hershey's Chocolate bar.
+Cogmind is a fancy Theo's Chocolate Salted Almond 45% milk chocolate bar.
+Dead Cells is a chocolate cake.
+Enter the Gungeon is a triple chocolate layered cake with a dusting of cocoa powder on top or what you know or some other like flavor combo of something.
+1:34:59
+And you know if you're going, you're like, you know I'm in the mood for chocolate.
+You're going to get a whole swath of different options thrown at you.
+So really, it kind of depends what form of chocolate are you really interested in.
+I do not want to see these tags in Steam, I'll tell you that much.
+I will not know what is.
+Hey.
+You don't want your Choco posting all up in your Steam tags there, all right?
+1:35:23
+We're talking about.
+The game that we're gonna play for next week too.
+Yeah.
+So yeah, again, dovetailing.
+We didn't talk about it in the is it a rogue or not game?
+But.
+But yeah, Will has judiciously selected our next game that he's doing the happy dance for again.
+1:35:40
+Maybe Rogue Rogue Adjacent.
+Rogue Light to some extent.
+But fuck it.
+We're going to throw it in because it's our podcast.
+We can do whatever we want.
+That's right.
+Will has picked Cogmind again revisit because he.
+Loves it.
+That's right, will not calling.
+1:35:58
+As I was spoke earlier, as chosen the drum roll.
+We're all doing a drum roll.
+Drum.
+RIM World.
+Yeah.
+And then the rimshot being, yeah, OK, all right, it's one.
+Side one of 610 out of 10 games in existence from my point of view, and I wanted to come back to.
+1:36:18
+I've been wanting to come back to it for the last couple years because I know they've got a bunch of new Dlc's.
+And because it meets many of the qualities of a Rogue Lights game, being tile based and having procedurally generated world, you've got the top down view of the and you're following lots of characters, but there's lots of there.
+1:36:38
+Okay.
+Well, there're like 3 characteristics that like, you know, that's enough, you know.
+So it's pretty heavy on the It's like it's a milk chocolate cake or not.
+1:36:54
+So not milk chocolate.
+It's like a white chocolate.
+It's still chocolate, but like, you're starting to stretch the definitions.
+Perhaps, but I'm okay with that cuz it's such a ridiculously great game and I love talking about.
+I love playing it.
+I'm already 20 hours into my current colony and so just trying to trying to figure out how the the whole.
+1:37:16
+Ideology stuff works.
+The the Kingdom stuff, the biotech.
+It's all I'm having kids.
+I don't know if I like having the kids.
+I'm going to have a lot of complaints.
+Well, we'll get into this next time.
+Sounds like it's going to be you're ranking pretty low.
+No, I'm excited to play it.
+It has a pretty heavy rap and seems so you haven't played it.
+1:37:34
+It's going to be exciting time.
+No, I have.
+Not oh, I wish.
+I would I wish I podcast.
+Cool, exciting times.
+Looking forward to it.
+All right, well we're going to continue on into into year two of the Grog Pod where the rogue like definitions are made-up and the the ratings don't matter.
+1:37:56
+But if you want to send in your hate mail for why we got all the definitions wrong, you can send that into grog.pod.zone@gmail.com.
+Is there e-mail you can at us on the Mastodons Grog pod?
+A game Dev dot plays you can find us.
+1:38:11
+And all of these, well, our show notes, all of our data and rankings and Google Sheets and Google Docs and Slides and all those things you could ever want are all up on the website at grokpod dot zone.
+Yeah, we'll see you.
+We'll see you next time.
+1:38:27
+For some, I was about to say something RIM related and like, well, the episode already has an E for explicit on it, so whatever.
+But.
+Well, playing us out from this episode, we've we've talked a lot about things that are adjacent to Rogue and and all that good stuff, and we've talked a lot about Colony Sims and things like that.
+1:38:49
+Then overall, I think we can agree that Rogue likes are a mysterious genre.
+So we'll leave you with the mysterious guitar music from a particularly Dorfy and fortressy game.
+That's kind of helped to push the boundaries of these definitions and explore strange new territories and make this weird world that we're delving into all the weirder and better.
+1:39:11
+So until next week, embark and strike that earth.

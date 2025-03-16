@@ -1,0 +1,1632 @@
+0:24
+The.
+Greetings friends, and welcome to another episode of the Grog Pod Roguelike podcast, wherein each episode we embark on a quest to find the golden roguelike, rank it, and then revisit all the top contenders we've talked about for the year.
+0:46
+At the end of the year, for one last wish, I am your talking Weasel host of the podcast Scott Berger and joining me at the restaurant teetering on the edge of the cliffs.
+They're my Co host vagabonds.
+Freshly updated from the 16 bit era and now available on handheld, it's me, Andrew Harshman.
+1:06
+And it's me a an item that has been turned into a Rice ball.
+Colin Smith.
+And and we are pleased to have a a special Mystery Dungeon expert on this week for for our episode, who is our special guest joining us and sharing their expertise.
+1:27
+Hi I'm Helen.
+If you select me in your inventory, your options might be look, press insert, throw, trade, name and info.
+And if we collect info what, what would we get?
+A poorly translated little blurb.
+1:44
+Very good.
+Will is is Mia this week.
+He's out in Atlanta, Hot Atlanta, where the roguelike players play, and likely getting some lemon pepper wings from Magic City.
+But this week we are using our switching staff to flip back 29 years to talk about Mystery Dungeon Sheeran the Wanderer, which was released for the Super Famicom version.
+2:11
+I guess we should be specific.
+Released December 1st, 1995 and the Nintendo DS version, which I think is the one that we're all playing today, December 14th, 2006 in Japan and then a couple years later out in North America and Europe.
+2:29
+Correct me if I'm wrong Helen, but this is also out on like iOS and Android.
+Is that right?
+So, but I don't know if that came stateside, that might have been Japan only, I'm not sure.
+But I believe it did get some sort of mobile release at some point.
+Yeah, 'cause I'm seeing some some mobile release here for 2019.
+2:47
+And then I tried looking it up on my phone of like, oh, well, of course I've got to play this on my phone for the pod.
+And then I couldn't find it.
+And I was, I was like, Oh yeah, the Japanese localization makes total sense.
+Sheerin the Wanderer is developed by Chungsoft, who?
+Gosh, this infographic that I have here has made a lot of a Mystery Dungeon games, which we'll get into in a minute, but a lot of shearing games in particular.
+3:11
+This is a a long lived franchise standing all the way, as we said, back from like the the mid 90s up until this year, earlier this year with the most latest release to shearing the Wanderer, the Mystery Dungeon of Serpent Coil Island for the Switch.
+3:29
+That's it sheer and the wonder the, I believe the total sales for this I, I don't actually know if this is inclusive of the of the Famicom or if this is just DS.
+But I think has about this is again our hand WAVY math segment here of if we go with maybe 280,000 sales hand wave, hand wave question mark.
+3:52
+And if we use the hand WAVY math of well, about 2% of people on Steam actually rate stuff.
+Maybe that equates out to 5600 total reviews.
+Cranking it in at the IF.
+Again, all this math works, who knows. 165th most popular roguelike if it was on Steam this particular version.
+4:11
+Asterisk, asterisk asterisk.
+And normally I do the pull the player counts from Steam as well, but this time I'm having to reach deep into the bucket for howlongtobeat.com for how long?
+Players usually play it from there and the guesstimate there is about 20-4 ish hours give or take.
+4:29
+Helen, as our special guest this week you have encountered the scroll of one sentence description of what one does in Sheer and the Wanderer.
+What is written in that scroll?
+Oh.
+My God, move on Grid.
+4:46
+Boom.
+See, I knew it, I said.
+I heard we were doing Mystery Dungeon.
+I'm like, we need an expert.
+Warren, get her on this episode.
+Yeah, it's very gritty and it's very, it's very rogue like.
+It reminded me so much in terms of just the core navigation and everything of the actual game Rogue.
+5:08
+But with one notable exception, graphics and and art and production value, I think like the.
+So the first thing I have my Google Doc here is like what?
+Like turning the clock back to the mid 90s, right?
+We're, we're booting up our Super Nintendos.
+5:24
+We're blown out the dust from the cartridges.
+What, what exactly was the landscape of roguelikes back during this time?
+Because the oldest game that we had talked to, talked about up until this point was I'm pretty sure as I vamp here for a second pull up was Jupiter or no Doom RL Jupiter hails the remaster Doom RL being all the way back in 2003.
+5:48
+So we're going back another like 10 years prior to that.
+And the landscape was way different.
+This was, you know, mid 90s.
+This was releasing around the same time as like ancient domains of mystery Hornico's great adventurer or great adventure.
+6:03
+I think like the initial foray into what Mystery Dungeon games are and like Andrew's DND character Ang Band released in 1995 years prior, like a lot of these traditional roguelike games didn't didn't really have graphics per SE.
+6:24
+And I guess Tornico the exception.
+But like, you know, these Mystery Dungeon games, I think we're like, well, what if yeah, like to your point, exactly like what if we took these rogue like games like Aang Band, Ancient Domains of Mystery at this time, Lindley's dungeon crawl, soon to be retitled Dungeon Crawl Stone Soup.
+6:41
+Like what if we took those and like all the elements of that and JRPG did.
+Is that hell in a fair assessment of like, what Mystery Dungeon games are I?
+Kind of I think so.
+I mean this, you know, the the first game in the Mystery Dungeon franchise was the Torneco game.
+6:59
+And I believe Super Famicom herein was originally titled like Mystery Dungeon 2 here in the Wanderer.
+This could be completely made-up.
+But the story that I've always heard was that they, you know, they made the Torneco game and then they wanted to make another one.
+7:18
+But Enix it would have it wouldn't have been Square Enix at the time.
+It would have been Enix was a little bit like did would only let them do certain things with the Dragon Quest IP and so then they like made their own IP to be able to do whatever they wanted with the story and the characters and stuff.
+7:37
+Did any of you guys get a chance to look at the little zip file that I sent with like a ton of concept art from the both the Super Famicom and the DS versions of this game?
+Andrew did share out some of them and yeah, I think like this game is like is so harkening back to that like SNES era of just like actual like art and like style and, you know, imagination and just like production value that like I think like all that art really kind of underscores the like the theme and charm of the game.
+8:22
+But yeah, like, Helen, do you have like a a a favorite piece of concept art from from that?
+Oh.
+God, I, I mean I, I don't know, I love the curse girls design always, but it's just it's interesting to me to see especially the Super Famicom art how Dragon Quest it is.
+8:39
+Yeah, yeah, it looks very, I mean, I, I think my favorite is the just the main character.
+Like I, I actually feel like we almost missed out something by not looking at this until later.
+Because I, I I forgot how much those early you know, NES games, super NES games like you, your imagination was the the real graphics card there and they gave you like here's what we want you to be imagining.
+9:09
+This actually looks like on on the box art and the.
+Manual and what have you.
+Or if perhaps you read about it in Nintendo Power.
+Yeah, I mean, obviously Ed Sheeran has like really utilized a lot of amazing looks and I this is the first I've seen him rendered in JRPG, you know, heyday era.
+9:31
+Still rocking the bowl cut though.
+Yep.
+Or Straw Hat I I should clarify.
+Andrew, when you're doing this bit, are you aware that Ed Sheeran was literally in a JRPD in the past few years?
+I did not know that, no.
+This is great news.
+9:48
+He did the end credits song for Pokémon Scarlet and Violet.
+Wow, really?
+I was.
+I wasn't aware of that.
+I thought this I for some reason I thought you were leading up to a bit about the song from.
+I I wish I should have consulted you, gotten you to punch this joke up a bit.
+10:06
+Of course.
+Yeah, I was, I was, yeah, looking at the the artwork and it all, all, all of the characters, all of the concept art was like very recognizable based on like my time with the game.
+Oh yeah, I I know, I know these characters like this all this all tracks and they were all translated pretty well.
+10:25
+I looked at a a few screenshots from like the original game and it seems like the Sprite work is pretty much copy pasted I think, which is great.
+It looks looks good, holds up.
+Yeah, it does look very similar.
+10:40
+Animations to boot.
+Yeah.
+And I think that like this, this was I think my first foray into actually like in air quotes, playing a air quotes and Nintendo DS game in that we used very, very legal and very cool emulation techniques.
+11:01
+And in my case, putting it on the Steam Deck where you wouldn't think like a stacked vertical screen would work very well.
+But I'm very glad that this game is is much more like single screen and there's lots of configuration options that that allow you to use the second screen is like just a map or just like some other stuff.
+11:21
+And you can use the emulator to to minimize it.
+So you have more of the of the real estate to to really do what you want it to do the.
+For most, most of your play through the top DS screen is just sort of occupied with a pretty worthless and uninteresting map of like the over over world.
+11:42
+It's like you're vaguely in this area and it's like, OK, sure, but every once in a while the game treats you to a nice double screen cinematic of some sort.
+Like at a certain point you you pass into like the tougher part of the game around like the midway point, like floor 15 or something.
+12:01
+And, and Sheeran approaches, old Eddie approaches the entrance to this, oh, the spooky cave and then boom, both screens.
+Oh, and I, I, I think it's pretty effective the, the few times that they use it that way, which is, is neat that they, they put at least a little bit of thought into like, how can we, how can we what, what's a couple gimmicky ways we can use the, the two screens of the DS?
+12:26
+Yeah, it makes me wonder how the cinematics on the old Super Nintendo work in comparison, because they're they're don't do seem like a lot of very well artistically designed, like panning shots of like and like the the main thrust of this is that you're you're going up like this really tall, like vertical mountain or Mesa type deal, which like which works really well on that kind of vertical handheld like stacked screen.
+12:52
+I've I imagine and you know, I can only imagine that like on the SNES where it's like the the smaller 3 by 4 screen view.
+I don't know if they like, compress it down or like chop it up in some way to make it more artistic for the DS or what, but I think it works really well for this.
+13:10
+Even if in my wacky set up, like it's panning from like the bottom to the top and then like I'm just getting like the bottom half of the cinematic and the other half is like off into the corner in like this little tiny box.
+Like OK, yeah, I get it, but.
+Scott, do you know how much how faithful the DS adapt adaptation is of the SNS version?
+13:32
+Like are they are they truly the same game?
+I.
+Was seeing some stuff on the wiki where I was like I would look up certain items and it's like this item was introduced in the DS version.
+So I I think there's maybe some new like equipment.
+I wouldn't be surprised if the cinematics were like just different in the the original version.
+13:51
+Maybe like the same feel but not the literal same image?
+Well, critically, the original localization translation, the script is different.
+Helen, you were saying that the translation of the DS version is maybe not your favorite.
+14:09
+It's just kind of, I don't know, it's, it just doesn't feel amazing.
+And having played earlier this year, having played six, having played Serpent Coil Island when it came out, I think they did an excellent job with the localization of that game.
+14:26
+I know that they you know, there's some just about every monster name in this version was directly translated and serpent coil island.
+They took a little bit more liberties localizing some of them in a way that I think worked, like the the treasure chest hypnotizing guy is just called gaze in this game or super gaze and they made him gazer as an example, the like Paco Repkin, the like pumpkin guy.
+14:58
+They made like pump, like pump phantasm or something.
+And I mean, that's kind of, you know, the name changes are give or take, but I don't know, just like talking to the NPCS and stuff.
+The dialogue just feels a little bit rigid and kind of kind of weird.
+15:13
+And it was a little bit rough for me coming from six, where the script was just fantastic and it just felt, you know, it, It felt like there was a lot of love put into localizing that game.
+But staying somewhat on the topic of like the the landscape and the time that this originally came out, I feel like if I had similarly to how like blown away I was by like Pokémon Red when I first played it, I feel like if I had played Sheeran the Wanderer and had assuming I wasn't just baffled by it, just too complicated.
+15:51
+I'm not playing it assuming I had someone to like hold my hand or I read the manual on like a, you know, a card trip or something.
+I think I would have been pretty blown away by all the stuff that's going on in this game and the amount of replayability and that, you know, that meaningful randomization that's I'm always on the lookout for in a Rogue experience.
+16:10
+Yeah, I think so.
+This is this is a listener requested episode in that this is one that people have been banging down our door to play for a long time.
+And it finally made sense to to get Helen in on here to to talk, come talk about it.
+But yeah, like this is a game that does have like a really beloved and long legacy to it where, yeah, I think like if this was one of those like 5 games that you had growing up, this would be like an amazing experience.
+16:37
+We're just like, Oh my God, there's so much stuff in here.
+And like, it's, it's such a different experience than something like Super Mario World, where it's like, OK, well, I'm, I'm going to go through this same level again versus like, oh, it's totally different this time.
+16:52
+And, you know, again, like it's kind of something we take for granted now 30 years later of like, Oh yeah.
+Well, obviously.
+But like at the time, you know, I can see this totally being like, wait, what?
+Like the levels are different.
+Like there's, it's just, it's such a different flavor of gaming.
+17:09
+It's almost certainly the first roguelike game that many, many people played.
+Like the the jump between how many people played something like net hack to a commercially available game that you can buy in the store.
+Think there's probably a pretty pretty with characters.
+17:27
+That look, that look like things, yeah.
+And and also just a different audience too, like the kind of people that you're going to be able to attract to an ASCII style game with a name based off of deep Tolkien lore is different than beautifully done anime front cover.
+17:50
+Yeah, it's it's interesting that so this so Mystery Dungeon 2, Sheer and The Wanderer, the Fall of IP, new IP sequel to Tornico's great adventure, Tornico, I think released a couple years earlier.
+If these sales figures are to be trusted, and they probably aren't because they probably came from Wikipedia, Tornico or let's say, let's say Sheeran 95 sold 280,000 Tornico 93800 thousand.
+18:19
+Wow.
+Yeah, Dragon Quest, baby.
+Yeah, it was a Dragon Quest.
+It was just because it was a Dragon Quest.
+Yeah, probably fell into the umbrella and therefore must buy.
+I mean the character is, I forget which game, but it's a spin off character about.
+18:36
+It's a spin off game about a character from a dragon class like he's the.
+It's the shopkeeper, yeah.
+And so it's like, how did the shopkeeper get all of his items?
+Yeah.
+We've all been wondering.
+Everybody wants to know.
+I mean that was legitimately like wait where does he get all his items and why if you fight the shopkeeper is he so strong?
+18:54
+You know, in all you know DND or anime type games it's like you get in the if.
+If they let you fight the shopkeeper, it means that the shopkeeper is about to destroy you.
+And, and Speaking of stories, Speaking of backstories to characters, to MPCS that we're all wondering about Scott, what, what, what is the story of Sheeran the Wanderer?
+19:17
+Well, our story begins in this game with a a very welcome slow intro cinematic of the The Legend of the Golden Condor and how it can grant wishes and it lives in the city of El Dorado and we're on a quest to go find it.
+19:41
+Oh, by the way, I'm a talking weasel.
+And with me is is my companion Sheeran, who I've already been adventuring with for numerous adventures.
+At this point.
+We kind of join the story like in media rests in in some regard, even though this is the 1st century into the series I think they may have had.
+20:00
+Grand plans of like, oh, we got to, we got to like do some stuff before and do some stuff after.
+But like, you know, you are a, an adventurer with a big bamboo hat.
+It's not a bowl cut, as we've discussed, and a talking weasel and.
+Talking weasel, which is the exact opposite of an unreliable narrator when you, your narrator is a talking weasel, one of the few remaining talking weasels, which I love like throughout the game, like NPCS are just like, Oh yeah, I know what, I know what that is like.
+20:30
+That's an established thing, talking weasels in this in this world.
+Yeah, yeah, yeah, exactly.
+As you say, like in media res, like these, these are established characters.
+They've been traveling around and we are joining them in the midst of another one of their wacky and wild fun romps.
+20:46
+And and like again, audio medium as you're driving on the highway here, but just imagine like really like well done SNES art of like panning landscapes and like tree covered valleys and this really like big vertical mountain with some huge waterfall dumping off the top of it.
+21:09
+Really kind of setting the stage for like, hey, there's this big adventure ahead of you.
+Just like I think really starting.
+Off stuff Will hates, especially those horrible chimmy little like devolved creatures moving around, so it's a good thing he's not here to spoil the fun.
+21:28
+Well, I think, you know, there's, I think there's something here for just about everyone in that, you know, accessibility is not something you tend to think of with like really old 90s traditional roguelikes.
+You know, your, your net hacks, your Adoms, your dungeon crawl stone soups.
+21:48
+Well, OK, maybe the latter, but like, you know, they're not, they're famously very terse, very hard to get into, but this is, is like console mania, baby.
+It is like there are basically 2 buttons that you use to attack and open menu.
+And you know, you're, you're given a very gracious intro tutorial as well.
+22:10
+We always like to, to give praise to tutorial segments when when we get them few and far between.
+But I think the the tutorial segment here does a good job of explaining like, OK, here's kind of the basics.
+You know, you, you move on a grid.
+There's monsters that you have to punch.
+22:27
+You pick up items.
+You can use items to see hidden traps.
+Here's how diagonal movement work.
+And that's kind of it.
+That doesn't, it doesn't really kind of overstay its welcome too much.
+You know, more on that later for deep mechanic tutorial stuff, But it really just kind of like hunts you into the the starting hamlet village and says all right, go talk to some NPCS in the bar.
+22:55
+Yeah, that tutorial section gets you, gets you going quickly, which is nice.
+And as you alluded to, as you've maybe you know, after you've done maybe a run or two, there is an NPC that that hosts a series of puzzles in a really sketchy looking location with some really ominous Sprite work, like the entrance to this to phase puzzle Cavern, which Speaking of mystery dungeons, that's a very mysterious dungeon location.
+23:24
+The entrance looks downright.
+Scary.
+It reminds me a lot of like the Rainforest Cafe.
+You know, you go into some like some building and then there's this like, really like, gaudy, like tiki masks, like decorating stuff everywhere.
+23:40
+And you know, it wouldn't shock me if there was a Mystery Dungeon hiding somewhere in there, but.
+That's something to look into for sure.
+And, and that provides you with you no more tutorialization of like, hey, here's here's sort of some finer information to be had about how items work, how how the enemies behave, etcetera, etcetera.
+24:00
+But that is available to you, you know, after you've started playing the game and having fun with it.
+And it's not just all front loaded and and and a slog.
+Andrew, how many, how many of the tutorial things did you do?
+I wound up, I wound up getting I, I finished how many?
+Oh, who can keep count of these things?
+24:18
+10 That's but I replayed a lot of them to try to farm items.
+I think I did 30 out of the 50 available.
+I don't know Colin, if you if you went deep into the tutorial dungeon at.
+All but no, not really OK.
+24:36
+But we were advised, Helen, Helen advised us, do as many of them as you can because there's a lot of mechanics involved.
+And yeah, I think Phase phase puzzle Dungeon, as it is known, does tell you like, hey, there's a lot going on in this.
+Like there is, there's a lot of tactical positioning.
+24:54
+There's a lot of like, not necessarily like a lot of items, but there's a lot of ways of like how to use the items in ways that you wouldn't normally expect that can can offer creative, albeit solutions to things that like I never in a million years would have guessed.
+25:16
+And but luckily all the solutions are up on the up on the Internet.
+And I applaud anyone who went through all fifty of those tutorial segments way back in the day without any guide whatsoever.
+I'd off my cap, but yeah, some.
+Of them your your bowl cut hat.
+25:37
+Because yeah, like some of them involve like positioning in such a way where you you throw something off screen and then it like it triggers some mechanism and you're like, oh, OK, that was the like, man, how did anyone ever figure this out?
+But yeah, I think there is.
+25:52
+I think there's a lot of learnings that you can take away from that that in the main game portion come in very useful.
+So you know, you you go into your starting hamlet, you talk to all the NPCS like, oh boy, I can't wait to go and venture out into the into the wilderness and try to find this golden Condor.
+26:13
+And you you venture off.
+You set forth with your talking weasel and you are going through a series of, you know, random dungeons, which I think like are all pretty well themed, at least at the start.
+26:28
+It with like different kind of art styles.
+You start off in kind of like a a foresty area with, you know, monsters running around, NPCS running around that you can kind of talk to and they'll give you like a little tips here and there and, you know, some NPCS that you can recruit as followers later.
+26:47
+This one I encountered who who was like, oh, close your eyes and I'll I'll do something special for you.
+And I'm like, sure, why not?
+I'm an impressionable young teenage boy and then bam, I'm blinded.
+That's what you'll get.
+27:06
+And then you know, as you adventured forth, you you encounter.
+Her twin sister, oldest trick in the book with the same spiel and boom, blinded again.
+You know what they say, you know.
+27:22
+Fool me once.
+Well, Ed Sheeran can get fooled again, apparently.
+Did any of you notice that out of the three like base recruitable NPCS, one goes around blinding people and another one goes around?
+27:38
+Goes around.
+Is this some kind of hear no evils?
+You know, sorry, I was looking at the chat message.
+Goes around lying about being blind.
+Oh, I did not.
+Oh, you didn't encounter the masseur?
+I I've missed it?
+Yeah, there's one of the other MPCS is Kekshi the masseur, who is like running a racket where he runs around giving people really like seemingly like really dodgy chiropractic and he's like a chiropractic get out of a right.
+28:12
+It's so true.
+He runs around like, oh, so sorry, I'm blind.
+So it's not my fault that I broke your back.
+And he's one of the he's one of the recruitable characters.
+You watch him, you have to watch him beat up a bunch of villagers like two or three times after they try and catch him for his his gambit.
+28:32
+Then who's the 3rd recruitable NBC.
+Your.
+Quote brother.
+Oh, right, the brother.
+Your brother who has was found as a child with a note that said that his brother was named Shirin and latches on to you as that that brother.
+28:50
+That mystery brother who is an actively detrimental party member unless you take him on like 12 different except him to go with you on like 12 different adventures, he'll level up and he'll stop.
+Helen, I'm hungry, I'm hungry.
+29:06
+I need a rice ball.
+I.
+Could just let let his ass sit there.
+Just pick him up next time, he'll learn a lesson.
+Whatever.
+Well, shucks, I thought for sure the dog that is sometimes wandering around would be recruitable.
+And to that end, one in one of my early runs, I was like, I was like, well, obviously this is this is a this is basically a simulation game.
+29:30
+This is this is like ASX and I just need to figure out how to use these systems.
+So the dog mentions, well you talk to the dog and conveniently Copa the one of the last remaining talking weasels.
+He translates on the dog's behalf and is like oh, he says something about how some people are nice to him and share rice balls with him.
+29:52
+I'm like Oh well I got a rice ball here, fetch little paparoo.
+So I select the the rice ball and I select throw and I throw it at the dog and the message pops up to tell me that I dealt 2 damage to the dog and the dog is now aggroed on me.
+And it's a classic, classic, classic in in staying on the theme of misadventures early in the runs, if there is perhaps a, you might be tempted to hang out in a zone for an extended period of time, like to just sort of linger and wait for more enemies to spawn and to farm them for XP.
+30:32
+However, the game will sort of push you along in that the wind will start blowing.
+There's like a a bespoke little animation.
+Oh, some leaves fly by and I'm like, oh, sweet, this is a random event.
+I better stick around and and wait even longer for whatever cool thing to happen.
+30:51
+I'm going to meet like, you know, the, the, the like on a Wind Waker or something.
+I mean in wind.
+Elements, it's going.
+To pop up and be like.
+The main event is to try and find the flying Condor or the right Condor.
+Maybe it's a bird.
+No, what happens is just if you wait too long, the wind shows up.
+31:10
+The wind like forms into like a actual like physical manifestation of like death.
+It's like a dragon made of wind comes by and blows you, and it's like, well, you, you waited too long.
+See, I just assumed that the that the hunger meter, which I'm normally a very much an anti fan of, I I was normally just associating that like the hunger meter is there to keep you moving along.
+31:32
+But I didn't realize that.
+Yeah, I had I had no like I didn't usually spend enough time in one area to to have that be a problem.
+I felt like the the the thrust of like I'm about to die in any possible second.
+I just need to get to the next floor as fast as I possibly can was enough of a thrust for me.
+31:51
+So I'm I'm a impressed that you were able to survive long enough on a given floor.
+Yeah, I, I don't know.
+I don't know what I was.
+Well, I was goofing around, you know, talking to too many NPCS and throwing rice at animals and stuff and.
+OK, so here's a question.
+32:06
+Are you, are you exploring every nook and cranny of every floor, or do you go, if you find the exit, do you go to that?
+I mean, I feel like I'm a you've got to, you got to, you got to make sure you saw every single pixel of this dungeon.
+Sure.
+Less to be shattered.
+32:23
+That's on.
+Yeah.
+What's the right strategy, Helen?
+Should you be clearing every floor?
+If you're ahead, in my experience, if you're ahead, yes, like and especially early on, but you know, as you guys were talking about the game having like the different environments, there are different sets of enemies that show up in the different areas.
+32:48
+And so I'm going to expose Andrew.
+I got a message earlier from Andrew with a picture of a plus one Cortana saying what happened to my +5 Cortana.
+And I could see you from his screenshot like he was in the marsh area and didn't read that the purple goos were rusting his Cortana.
+33:07
+Excuse me, I believe the message was what the fuck happened to my +5 Cortana because I worked hard for that thing.
+Yeah, there's there is weapon degradation in this game.
+Oops.
+Also sometimes they can turn it into a rice ball.
+Love that.
+Sometimes they can turn you into a rice ball.
+33:24
+Yeah.
+Which finally happened to me after the MPC, you know, warned me.
+I'm like, I don't think that actually happens.
+And it's there's, there's a full set of like running animations for the little rice snack that you get turned into.
+But don't worry, it's temporary.
+You, you do get better if you get turned into a a rice ball, which so the the the exploration of like, you know, every level and wanting to be like, or at least in the early levels that you should probably be doing to try to find money and loot and potentially NPCS that you've befriended and that you can, you know, recruit for that run and have follow you around in your party.
+34:01
+This game has great navigation, has a great map.
+It's like a Diablo 2 style, just like boom, like superimposed over your screen like at all times.
+And I was like, never confused about where I had explored, where I hadn't explorer, where I needed to go next.
+34:23
+Pretty, pretty, near, nearly perfect.
+Dare I say it?
+Nearly.
+Nearly.
+I feel maybe a little bit of the opposite in the sense that like it felt like like visual overload for me of like, Oh my God, there's so much stuff on the screen and the map and like the little touch screen arrows.
+34:42
+Luckily, you know, the the games like in in menu settings like allow it that you can like push the map to the other screen, which is very helpful.
+And then I'm like, OK, like.
+That at least.
+Yeah, but like, I think like the map, I have a little bit of beef with this game about like the map generation and I kind of get what it's going for where it's like I feel like a lot of this game is predicated on like big rooms, equal puzzle monsters in the room, equal puzzle you have to solve and that's kind of it.
+35:15
+And like like I feel like this is I'm I'm going to give it a little bit of a pass because of 29 years old, but I think games have kind of come a long way since then of like these these rooms are.
+So it's it's very much, you know, like rogue in the sense that it's just like big empty square with like one by tiles connecting to another big empty square and there's a stairway going to the next floor somewhere around you got to they got to hunt for sometimes it's right next to you, which is great, But you know, you are having to risk reward your hunger level your items to say like, well, like do I do I hunt through the dungeon for more items?
+35:54
+I might risk a monster encounter, but maybe I need that experience to be like higher leveled and and all that other stuff.
+That's where I think like the early game like does really well with like the forest kind of layout.
+It feels much more open, much more visually interesting.
+36:12
+The rock zones.
+The by the time you get to like the mountaintop town and you know you're going down into the into the valley down to like the poison rusting monster pits.
+Then you get to the to Table Mountain, which is kind of the the main dungeon zone.
+36:31
+It, it feels like it goes from like big open, like interesting map layout to like, fuck it, we'll just put squares everywhere with like one by hallways connecting lots of stuff.
+And like I can kind of get it 'cause like it feels very Socka bond with like the type of puzzles you're solving of like position.
+36:49
+And like, OK, I want to like position myself over here and have the enemy position over there.
+But I don't know, it feels very empty with some of those like level Gen. stuff later on.
+And and also like we haven't talked about traps yet, but.
+37:08
+Yeah, really, they can get you.
+I I am I, I don't think the traps are very good.
+Are they better or worse than Barony's traps?
+I mean Barony's traps, you can at least see them if you know what you're looking for in this game.
+37:25
+Like basically all the traps are hidden unless you use an item to see them.
+And then yeah, I get like there's a a balance there of like, OK, do I want to use that item to see traps this time?
+But if?
+Like one point there is an NPC that tells you if you attack into a square, you can reveal a trap.
+37:43
+But it's and this was something.
+Ain't nobody got time for that.
+And this was something I was watching some like speedrun streamers do of like, are these people mental where they're just like literally just like move, move one tile attack, move one tile attack, move one tile attack.
+I'm like, oh, this can't be fun.
+But yeah, I think like the the I think if all of the traps were visible, it would create and like and if the the traps affected enemy monsters to some degree, then I think it would make positioning much more interesting.
+38:14
+Helen has a hand raised with an interesting it is.
+Traditional to have a a post main post quote main story dungeon where you start with an item that lets you pick up and place traps and where most of that dungeon is like your main source of damage and way of interacting with enemies is through using traps.
+38:39
+Yeah.
+So some game design thought has been paid to that and.
+Like that would be super cool if that was like a thing that I could pick at the start of my run Like, oh, I'd I'd like to pick like talk to this NPC who's like, forget that sword.
+You're not going to need that shield.
+38:55
+Here's this trap.
+You're an engineer class for this run.
+Again, like this is something that like we've kind of figured out over 30 years of game evolution.
+I don't know if if Shirin 6 is maybe more forgiving in that aspect, but like the the hidden traps like Helen was roasting me on on the discord for calling me a dirty cheater for playing this game with save states.
+39:18
+But I don't think there is.
+And again, like I I I fully admit I cheated and used save states to beat the game for educational purposes.
+Let me put that out there.
+And in video games.
+39:35
+There were numerous times where I would just be walking around normally, walk on some random tile and oops, you've activated a drop 10 monsters into the room trap.
+You are now surrounded with monsters.
+What you going to do about it?
+And I'm just like, you know what?
+I'm going to do this load save state from 5 minutes before.
+39:51
+How about that?
+So what you're telling me is that you weren't saving your scrolls and you didn't have the resources when you needed them?
+That's true.
+I mean, at the time, at the time that was true.
+And over time, yes, I have come to realize that a, a big portion of this game's strategy that's kind of unveiled to me is item management.
+40:14
+And you you get them pots, you put those herbs in the pots, you save those staves, you save those scrolls and you use them only when you really need to, whether it's like preventing them from rusting or yeah, I definitely am going to use that scroll of light this time to see the whole monster, the whole level.
+40:34
+All the monsters are over here.
+I can go and loot this stuff over here with no consequence.
+Yeah, I think like this game once you once you kind of play around with like how the Staffs work, how the scrolls work and figuring out, OK, what's the best combination of these things to use?
+40:52
+Like you can, you can solve a lot of really hard problems with just like a few basic ones, which is pretty impressive.
+Again, I had to learn that by safe stating over and over and over again.
+But but it is, it is possible.
+It's very it's very interesting.
+So, yeah.
+41:09
+And I think that like, one thing that Helen you pointed out was that you can, there isn't like an explicit meta progression in this game of like as you play it, you know, the difficulty curve for this game gets lower and lower.
+But there is kind of a fake level of meta progression in that you can get like jars that are like kind of like backpacks in a way.
+41:33
+But things that like you can send like back to like the starting village warehouse and things that like, Oh yes, you can start setting up like this network of like, oh, I found this really good item, but I don't know if I'm going to want it for this particular run.
+41:49
+I'm going to send it like further back, like in the game's sequence of the during my next run, like, oh, that super item will be right there and then.
+That'll really help power me through.
+And we don't need some lousy bizarro story explanation about how, oh, the the pottery master has invented time travel by way of these clay pot or a facade.
+42:13
+You throw them into the war.
+But no, no, no, no.
+It's just like a there's some fancy pots you can use to send stuff to the warehouse.
+You can stop at the warehouse when you're in a town, put stuff in there and it'll save between runs and or you can give it to the runner guy, which I guess that is a story explanation.
+42:29
+There's a guy running so, but we don't need some need to be, you know, plundering mythology and all this tomfoolery.
+It's just that's that's just the way it works in the game.
+What a deal.
+But yes, it is a way of doing kind of meta progression without a strong arming some ridiculous skill tree and increase the size of Sheeran's hat, you know, make Copa a capable boxer.
+42:52
+Like, you know, there's not all these weird skill unlocks ridiculousness.
+The way that I kind of think about it is it's kind of like that you so you you guys have played Slay the Spire, right?
+Yeah, never heard of it.
+I think Andrew said it covered Slay the Spire.
+You know that one rare event in Slay the Spire where you can like put the one card in the hole in the wall for another round.
+43:14
+Sheeran is kind of like if there was an entire system around that that is like semi secret.
+Yeah, the last time I played Split Aspire, I put a strike back in the wall.
+But I got a really good card out and I just, I did not pay it forward.
+I paid it.
+43:30
+I deeply indebted it forward.
+Oh, you sounded like you were going to say something about the meta progression.
+Oh yeah, no, there was a quick.
+So is the conceit that you die or is it that you like get knocked out?
+And are you when every time you start a run, is it a new person or is it the same person like you?
+43:50
+You floated down the river and you're.
+I, I believe it's the same person and that there's some mysterious force that is like bringing you back to the starting village, which I thought like after, after beating the game and spoiler alert, you know, you fly the the golden Condor over over the valley and everyone makes wishes on it.
+44:13
+It dumps you right back into the starting village again.
+Sharon is a man of the people for anyone who lives, listens to his music, they know, you know, he's a man of the people and so he flies it over so that everyone can get a wish.
+That's that's great.
+44:29
+That's also communism and this game.
+We will not stand for it on the spot.
+Interesting.
+Is it revealed in the story like like STALKER style like do you know?
+Do you find out what Copa and Sharon wish for?
+Or a healthy a healthy franchise, may it live for three decades or more.
+44:49
+They're just, they're just out on a good wholesome adventure.
+There are like other NPCS that you encounter that are like, oh boy, I can't wait to make my wish.
+And as you're flying over them, the, the it's a very, it's a very nice like ending cinematic that I think kind of matches the tone of the intro of like, oh, like I again, like really amazingly well done Sprite work and animations and stuff of like, you know, bird flying over an NPCS like walking through like previous areas that you've been to and like stopping and seeing like the, the Condor flying overhead and saying, Oh, I got to make a wish.
+45:22
+I got to make a wish.
+And so I thought that was, that was, you know, quite well done.
+There's some story elements of like you get to El Dorado, the the city of gold at the top of the mountain that has been ransacked and is in ruins.
+45:39
+There's some crumbling tablets up there that give you some hint of like, oh, this the city was once a great and prosperous, prosperous area.
+And then the then in classic Starship Troopers fashion, the bugs attacked and the the bugs killed everything.
+45:57
+And the golden Condor is is being held captive by the insectoid master that you have to go and eliminate, which up to that point I was like, oh, oh, OK, I guess there's, you know, insects that I have to go and annihilate are.
+46:14
+They related to like the ants that you fight in No.
+Oh yeah, never.
+Mind the the final boss is an evil bug that ate all the gold and has the bird in a big.
+We got to edit.
+That.
+46:29
+Your one sentence description of this game needs to be the end boss.
+Just an evil bug that ate all the gold.
+He did.
+He ate all the gold.
+Hiran's stories are always, in my experience, I've played three games.
+I've played one, five and one, which is good, 5, which I kind of hated, and six, which is incredible.
+46:51
+And you know, they all kind of start the way you're, you're describing where they kind of start India Res.
+And just like they're like, Oh well, they're on another journey.
+And here's the thing they're doing.
+Now.
+There is technically a timeline to the Hiran franchise based on how old Hiran is in any game, which we can guess based on the art.
+47:11
+And you can play some games sometimes if there's like a reappearing character who is like, oh, I saw you before, then you can like place them through there.
+But yeah, most the Sheeran games have the same writer as the Pokémon Mystery Dungeon games, which I think a lot of people are more familiar with.
+47:28
+And those games have a very similar writing style.
+Where a lot of the, you know, it's just like a lot of cute character anecdotes where you just meet someone and they have like a weird little problem or quirk and then you, you know, you interact with them a little bit and help them with their situation.
+47:46
+You kind of move on.
+And that's very much the cheering games, like a lot of the NP CS little like quest lines that from people that you interact with over different runs are just, you know, some sort of little a.
+A good example of that I think is the the pottery master.
+48:02
+So there's there's a whole category of items, the pots which you can store stuff in, you can put stuff in them to send them back to the warehouse.
+You can use them to do oh chiropractic on your back and he'll hit points and stuff.
+Which I have to, I have to point out like the the chiropractic pots.
+48:19
+I always kept thinking of that Simpsons episode where it has the garbage can and he's like using that to realign a spine.
+That's the only thing that I could possibly think of like.
+What great minds.
+Like in the middle of a combat with some giant bugs.
+Exactly, exactly.
+48:34
+And well, so you, you meet the, the pottery master and there's like a whole like little arc where his, his, you know, the, the people he is training, his underlings are like presenting the master pot maker with the new pots that they've worked on.
+And he's always like, you know, always finds something wrong with them and he grabs it and throws it against the wall and breaks it.
+48:55
+And then he'll grab your pots.
+The Sheeran is tearing around like break his pots.
+But then at like the third or fourth visit, he stays.
+His temper says, all right, I'm not going to destroy one of your pots, Sheeran.
+And ultimately, that's how you I I think that's how you get the warehouse pot.
+49:11
+I never actually got it.
+That's how you get.
+Synthesis or melting.
+It's how you unlock the melting pot, which is.
+Kind of that's what I could have done with the Crescent weapon, like.
+That's kind of the single biggest way to make quote Metaprog in Kieran is, you know, getting over the course of runs, getting rare weapons.
+49:33
+Like there's a sword that attacks 3 spaces that it hits the, the square you're facing in the adjacent to.
+You know, there's a few that have different perks like deal extra damage to flying enemies, deal extra damage to like undead enemies, extra damage to Dragons.
+49:50
+There's like there's a shield that you know, prevents your money from being stolen.
+There's a shield that prevents prevents your stuff from being turned into into onigiri by the the the baby.
+The the onigiri baby freak, the red baby.
+50:07
+The red baby he was.
+Called he's he's called, they called him like rice changer in this game, which is probably.
+Oh yeah.
+Translation.
+But in six he's called like, only giddy baby is what he's called.
+So that's just stuck in my brain.
+What a as a real ring to it.
+50:24
+But why did I bring up the pottery maker?
+Yeah, anyway, he has a little bit of an arc.
+He he decides to stop destroying Sharon's pots, which is great.
+And some other NPCS also have kind of arcs as well, like we talked about, you know, or, or are you the blinder who I think this game has like a weird thing with with women?
+50:42
+Where Mr. Sheeran gets a lot of attention, I think he's an adult based on the the cover art, so that's good.
+He's usually a teenager.
+He's usually a teenager.
+I mean, he's sort of throw that out there.
+He's usually a teenager.
+50:59
+But he gets a lot of female attention, it seems.
+But in some cases it's to it's to blind him.
+I don't.
+Is that some kind of?
+Reference I'm not understanding like when you eventually save or you from getting beaten up by by a bunch of men in town again kind of by a.
+51:17
+Bunch of.
+Men.
+Wearing thick glasses, yeah.
+Questionable, questionable themes here and there, but yeah, I think like, so she has a character arc.
+Your your quote UN quote kid brother has a character arc who eventually I think he's the one that you have to like go and save from the bungee jumping pit dungeon eventually.
+51:36
+But you know, there's, there's like the pottery guy, there's the restaurant at the teetering at the edge of the of the cliffside.
+There's all these little, little like micro stories going on throughout the game, which are really interesting.
+I just kind of wish they were like maybe more in my face a little because like you can just breeze right past them and then you're like, oh, actually, I should have gone in and and talked to that NPC.
+52:02
+But I, I think another kind of issue that I have with these games, again, 30 years old, we've learned the lessons, but is that you go into some of these houses and you talk to people and they're just like, hey, I'm here.
+I don't know why I live in this cave.
+They're like, OK, why does this person like, why does this dialogue option exist for this person in this Hut?
+52:21
+Like, literally.
+I'm trying.
+I'm here trying to think up of business ideas.
+What what?
+So what am I supposed to do with that man?
+I'm going to say that that is I did not get invested in this game.
+And that is part of the reason why is like, I felt like a lot, a lot of it was like, hey, go talk to all the people in this town and then they're gonna say boring things in slow text.
+52:47
+And I'm just like click, click, click, click, click, click, click.
+Oops, I accidentally clicked A so it has to go through the whole text again.
+I have to remember that I need to click B so that I don't accidentally click talk to them again.
+But then it's like, I don't I don't care about their stories.
+And I feel like without that hook, they're just, there's not as much stuff to get into.
+53:08
+And like, I didn't want to talk to the people who just lived in a house, which meant I either skipped I either did talk to the people in the house or I did in order to talk to the people who actually had quest or I didn't talk to anyone at all, which I think is a big part of the game know on your.
+53:27
+First playthrough like how?
+How many of these NPCS actually have useful things to talk about and like have like quest lines to advance and such As to your point about like it being more in your face.
+It would have been a, a a little exclamation mark or something above the head would have gone a long way to be like, hey, to differentiate the the difference between NPCS that have like multiple dialogues and like events and things and those who just have a single line or like have something going on in town.
+53:55
+That's like, oh, you'd have to walk around it to go and when you had your hand up again, feel free to interrupt us at any time.
+Happen in town in like.
+Most of the quest lines, almost every quest line has people like in different places like or you and Kichi and Pikiji, all of their storylines, like all of the main quest lines literally have exactly that.
+54:16
+Well, you see, Helen, we got that Western.
+Game design.
+Brain rot and we don't know how to travel one square and attack the air, Travel one square, attack the air and in the same way go to every part of the grid and talk to every NPC.
+54:32
+The times where I was going through.
+I think it's called Underground Stream Village.
+It's kind of like a little bit of a break between like the main Table Mountain, like dungeon and, or yeah, it's like, it's like halfway through the main Table Mountain dungeon, which is like like 8 floors out of 30 for the total game.
+54:52
+So it's a good, good halfway point.
+But like, I'm going around and like kind of talking all these NPCS and you know, one of them is, is like in this really bespoke room with like lots of like candles and like, like scriptures hanging from the wall and such.
+I'm like, oh, this person clearly has something interesting to say.
+55:08
+And they're like up ahead are the three trials.
+You better turn back.
+And I'm like, OK, anything else like, Nope, that's it.
+Like, am I missing something here?
+And I'm going and like talking to all the other NPCS and they're all just like, I don't know why I live in a cave.
+And I'm just like, yeah, I don't know either.
+55:25
+And so, you know, I think there's other like towns kind of like after that that feel similarly like, like I'm missing something.
+And I don't know if this is something like unlocks on further playthroughs, but like it, yeah, it, it feels like, you know, almost like Dark Souls or Eldon Ringy in a way of like, oh, there's just this person over here.
+55:48
+But like, you know, oh, you got to go and make sure you talk to them.
+And then, you know, nothing happens unless you do that.
+But there's no indication.
+Again, Western game designer brain rot of like Skyrim again.
+Yeah, giant arrow pointing like go.
+Talk to this person here.
+56:05
+But yeah, like like Helen, is this something that's like is is like the latest Sheeran 6 game is like how are how are the MPC quests handled in that one?
+I'm curious.
+There are exclamation points over.
+Some guys heads, but not always I would say largely there are like you do get like exclamation points, but I mean, you know, this is a basically a direct port with like a few tweaks of a super Famicom game.
+56:32
+And you know, it's like if I'm playing Final Fantasy 6 and I'm in a new town, I'm going to go talk to everyone.
+And if I see that one of the NPCS has moved when I'm there again, I'm going to go talk to them.
+And if I talk to someone and they have dialogue that's just like, I live in this house, I'm going to assume they're not, it's, they're not relevant yet or now, you know, But I, I, I would say about like 90% of the NPCS in these games are relevant in some capacity to some quest line or something.
+57:03
+You know, like very few of the NPCS are just there with no purpose.
+Like I think the guy you, some of you were talking about who was like, I'm trying to think of a business idea.
+I believe that is the caravan person later.
+57:22
+So once you you know thing and so sometimes, you know, people in a house might be part of a, you know, people who don't seem relevant yet.
+They might be part of a dungeon unlock later.
+You might have to do something else to like turn them into a shopper and in there might be like a scene for another quest line that happens in that house.
+57:42
+They might, you know, I mean, like the few villagers might like all be in the town square for something, you know, for one of the one of the things, but they're so I really feel like there's very few NPCS that serve absolutely no purpose at any point.
+I feel like that actually.
+57:58
+Is a bad thing for me in some ways though, because it means that I indeed do have to talk to every single one of them multiple times to make sure that I'm not missing something.
+And I, I think at least some of this is becoming older, older and grouchier and being on this podcast than playing a lot of games with mediocre dialogue with lots of little things I've gotten I've gotten more allergic to.
+58:26
+I don't want to talk to NPCS in general like I, I struggle not to just like click through the flavour text to get back to game in a lot of things.
+And so yeah, every JPC interaction though is like maybe.
+What 3 panels of like barely a sentence each but it is like I didn't see both.
+58:47
+Sides.
+It does say it's the.
+Reason to play the game yeah I I and.
+Yeah, it's.
+Sorry, Helen.
+Colin, did you know that you can?
+Store rice balls in pots and keep them fresh and you can use those rice.
+59:03
+Balls.
+You can use those rice.
+Balls to one hit.
+KO the the rice baby or rice boss evolved monsters to to grind XP points and get super over levelled early on.
+So I think my my problem is that.
+I I'm coming at this game from from 2 directions.
+59:21
+I'm thinking about how much would I have liked this game in 1995 where I was literally, you know, I didn't even have an SNES when I was a kid.
+I went straight from the the regular Nintendo to N64.
+So this would have been like blown my mind in 1995, but it's 2024 and so I'm, and I have absolutely no nostalgia for this game.
+59:46
+I did not know it existed until like a month ago.
+I've never I I I'm not even really aware of like mystery Pokémon mystery dungeon like that happened after I stopped caring as much about Pokémon.
+So I've known nostalgia for the game and it like playing it as a if you just gave this game to me and you said I made this last year.
+1:00:09
+Are you a Gen. one or?
+I mean, yeah.
+Well, I mean, I played gold, silver.
+Gold Silver is my real jam.
+You were one generation off from the.
+Mystery Dungeon.
+I know, I know I was and but.
+But I'm like I'm looking at the.
+Wikipedia for mystery.
+1:00:25
+Dungeon right now and I'm like oh it's sold 17,000,000 copies for across all of them.
+Like I'm I'm confused on how I didn't know about them more than just like a words that existed then.
+Like I think I've heard that those those Pokémon Mystery dungeon, I've heard those 3 words put together before but I don't I don't even know what they what the game looks like.
+1:00:46
+Like this but with Pokémon.
+Right, exactly.
+But like are you?
+Do you have a?
+Pokémon, are you?
+Are you fighting Pokémon with your own bare hands?
+So are you doing pokie battles?
+No SO.
+So.
+I for the For your listeners who don't have the joy of viewing me, I'm younger than these three men.
+1:01:08
+The first time a video game story ever made me cry was the first Pokémon Mystery Dungeon when I beat that game on the Nintendo DS.
+Every Pokémon Mystery Dungeon has the contrivance at the beginning of the game where you essentially wake up as a Pokémon amnesiac with the knowledge that you were a human person before.
+1:01:34
+Like you, essentially, yes, you.
+Are.
+Essentially like some guy you're you're youngster Joey like yesterday you were wearing comfy shorts and then you wake up and you're like, why am IA Pokémon in like Pokémon society and there's like a town built by these Pokémon.
+1:01:55
+I've never seen Pokémon changer pokie changed you.
+Also importantly, you have to take a Myers.
+Brig exam at the start of the game to figure out what Pokémon you are like.
+Yes, the.
+First game the.
+The the first game, if you're playing on the DS, it tells you to put your finger on the screen.
+1:02:11
+Wait, this might be the second I might be a liar tells you to put your finger on the screen and then it like pulses colors to read your aura and then it tells you your aura.
+Oh dear, there was some.
+Game outstanding.
+Is it Morrowind?
+There's some game.
+1:02:27
+That was in that like.
+Early 2000s era where they were basically tried to put you through a personality test to pick your class for you.
+What am I thinking of?
+Personality test out?
+Aura reads.
+That's what I'm all about now.
+Now I want to know what exactly it was reading.
+1:02:42
+Or is it just like pick random number like oh you're you're you're feeling very Squirtle today.
+Have any of you played Kingdom?
+Hearts one?
+Have any of you do so?
+The beginning of Kingdom Hearts One shows you a sword, a wand, and a shield and asks you to pick those 3 in an order, Asked you to pick 2 like #1 and #2 and then there's a bunch of other questions that you get asked like I forget.
+1:03:08
+But I think 1 is something like like what do you prefer?
+Like morning, midday, or like sunset?
+And that sounds vaguely familiar, these.
+Obtuse questions that you get.
+Asked determine when you determine your stat growths and like skill, what levels you learn skills for the entire rest of the game.
+1:03:29
+And some of them are like significantly harder.
+This is a children's.
+Video game, Yeah, No.
+It is.
+It is Morrowind.
+So.
+Morrowind at the very beginning of it they can.
+They'll let you do a a multiple choice quiz with questions like on a clear day you you chance upon a strange animal is leg trapped in a Hunter's claw snare Judging from the bleeding, it will not survive long.
+1:03:53
+Do you merciful end his life with a dagger?
+Do you use herbs to put it to sleep or do you just leave it and stealth away?
+What's a tortoise?
+Yeah, it's.
+Basically those like weird.
+Yeah.
+Oh, what's that?
+Yeah, the Voit comp test in the let me tell you about.
+1:04:11
+My mother blam.
+Anyway.
+Well.
+Indeed, indeed.
+So you play as.
+A Pokémon I, I, I'm imagining the same guy who's like, well, he's chomping his cigar in the in the boardroom and it's like we stole the Dragon Quest, you know, license away from those developers.
+1:04:33
+What do we got?
+What are the, what are the licenses?
+Do we got Pokémon?
+Great.
+What do the people?
+Want the kids want to be the Pokémon of course.
+Like couldn't they just have started the game with you are a Pokémon like it's why why the like Isakai like body switcheroo of like years now in a Pokémon body with the knowledge of human society, but also your memory is lost.
+1:04:56
+It's this isn't a complaint.
+I think that's no like full Squirtle.
+I.
+Love those.
+Games I I even like the bad ones because this isn't the bad ones.
+Well, we have.
+One coming up on the.
+Schedule.
+So are you we we can talk.
+1:05:11
+Off off air, I can give my opinions on the Pokémon Mystery Dungeon.
+Indeed, indeed.
+But yeah, needless to.
+Say as as, as we said previously, incredibly popular genre mystery dungeon games and the Pokémon mystery dungeon games.
+1:05:28
+One thing I wanted to to pick your brain, Helen.
+About was like was we?
+We touched on it a little bit with meta progression and like getting better items.
+I felt like I I and admittedly like I'm only, I don't know, seven or eight runs into the game, but I've always felt that like I have, I haven't had like good item drops and that I've just been kind of like running around with like the spiked plus 3 club and like this, this crappy plus three shield.
+1:05:57
+And I'm like, OK, clearly there's going to be some better loot that drops, but I've always felt like either too scared to explore more of the of like the dungeon floor and like risk running into those monsters.
+Like like, am I, am I missing something that like better loot drops as a result of like advancing those quest lines?
+1:06:17
+Or do I just have to be more bold and aggressive of like getting in there and getting in that dungeon and finding those items?
+You need.
+To unlock the synthesis pot, the melting pot, you know, I mean the like whole 3 trials thing you're talking about like the guy in the village saying like there's the three trials up ahead is basically the game telling you, yeah, the last few floors of this are going to be fucking rough and you should actually use the systems you know.
+1:06:43
+And there are, there are like NPCS throughout the game, like the, the guys in in the dungeons in the towns who will say things like, I forget exactly what he says, but one guy's basically like, I'm cheating because every time I go to this place, I upgrade my sword and then I put it back in the storeroom.
+1:06:59
+Did you know that you can upgrade your sword and put it back in the storeroom?
+So I you know, usually the way that you clear one of these games and in for the Sheeran games, the kind of like first like base game dungeon is almost the tutorial in a way it expanded out because then once you finish that you unlock like the alternate dungeons, which also have their own little like vignette attached to like starting and finishing them.
+1:07:27
+And those usually are like can't bring any items in, can't bring any money in or will let you bring items in and expect you to bring really busted stuff that you made.
+But you know, you can beat this game in one run, but you will need good luck.
+1:07:45
+You can have bad luck and just have your run get ruined or you can, you know, over a number of runs you can accumulate good gear.
+I I actually in I cleared last night night before I had a run that I cleared.
+1:08:01
+Excuse me, where I thought that the run was over.
+So I sent my good sword and shield that I had made.
+I put them in a storehouse in a warehouse pot because I was like, well, I'm probably not going to clear.
+And I just swapped over to using like a like plus one Cortana and like a really mediocre shield.
+1:08:22
+And that's what I cleared with because I had good luck with scrolls, I had good luck with staves.
+I bought and sold well anytime I had a shop, you know, I did a really good job of managing my inventory in terms of like what I needed.
+1:08:40
+And I, when I got to the final boss, I basically beat it by slowing it and kiting it.
+You know, I the, you know, I literally there was like a A1 as part of the map layout for that boss room.
+There's like 1 little hole square and I literally, I had slowed the boss so it moved every other turn and I walked in a diamond diagonally.
+1:09:03
+I would hit walk, hit walk, hit walk.
+And it took me like a bazillion turns 'cause I was using like Cortana plus one.
+But I won, you know, with my staff of Sloth.
+1:09:18
+Yeah, my, my final.
+Boss fight that I saved scummed maybe 20 times on the bus this morning.
+Like Master Sword +2 Bronzeword +3.
+Not like great items per SE, but I had and I was like, OK, there's there has to be like a way I can puzzle this together because I'm getting so close each time.
+1:09:35
+And like I would go in like, OK, let's try the scroll, the sleeping scroll first put in a bunch of hits.
+OK, now they're awake again.
+We'll use the scroll of confusion.
+Now I'll like, try to get some more hits into them.
+And then, like, that wears off.
+And then, like, all the other, like, little mobs come in and, like, swarm me and rush me.
+1:09:51
+Look at that.
+Didn't work.
+Load the save state.
+Let's try again.
+And like, yeah, they're like, once you once you like, know, like a good sequence of things, like, OK, what if I do the confusion scroll?
+And then I kill off all the mobs while they're confused?
+1:10:08
+And then I use the staff of paralysis on the big boss insect.
+And then I hit him a bunch of times.
+And then I put him to sleep.
+And then I hit him a bunch of times.
+That did it.
+Hooray.
+Like I felt like super accomplished that.
+Yeah.
+Well, I, you know, I was cheating my pants off.
+And safe states probably go against the ethos of Rd. likes in an extreme counter fashion.
+1:10:27
+But like it, it felt like, ah, yes, like I have not like beat the game, but I've beaten like the understanding of the system and like that felt more interesting 'cause I was like, OK, yeah, like the final boss is that that's great.
+But now I know like this, this order of operations that I can use for when my items are pretty bad, but I can still like puzzle my way to victory, like in this kind of emergent behavior, gameplay sense for sure.
+1:10:59
+And that's.
+Process like learning the system, basically, like whenever you have a good fight, like that's when the game really shines.
+Like you feel accomplished.
+Like, yeah, I I am the wanderer.
+I've been wandering.
+I've been around with me and my main man Copa, and I know I know what to do when I get dropped into a monster house and I'm and randomly just end up in a room surrounded by a bajillion monsters.
+1:11:25
+I got to jump in the pot and then I got away from him and then I got to use I got to get him into this hallway and then I got to hit the exploding spine with just the right number of hit him with the sloth, slow him down and then hit him with an arrow and then blow him up.
+So it blows up another guy and you know, etcetera, etcetera.
+It's initially when I first started playing this game.
+1:11:45
+I'm like, Oh my gosh, this combat is so simple and boring.
+And then they're actually playing the game and doing some of them, some of them puzzle house dungeons.
+It's like, oh wow, there is quite a lot going on and especially impressive for 1995.
+1:12:04
+I, Colin.
+I wonder if you would.
+Get more, a little bit more out of the game.
+I wonder if you would be able to appreciate it a little bit more if you went and you did all of the puzzles.
+Yeah, that's kind of what I'm thinking.
+As I'm listening to you guys talk about the puzzle stuff, I think that is probably I 'cause I think I'm exactly where Andrew was when he said I feel like the combat symbol.
+1:12:25
+And then I went to do the puzzles and I think that's part where I was just like, instead I was like, I'm going to go play Rim World.
+I was not.
+Oh.
+Sorry, right.
+Which is.
+Not a completely different.
+Game so like I think that was probably my my, my biggest downfall and and also probably that I felt like I was doing good in like the first couple of runs I was playing, I felt like I was like, oh, I'm doing good.
+1:12:53
+I'm not like super enthralled with the combat, but I'm doing good.
+And then I just died very suddenly and randomly.
+And then I was like, cool, I guess I'm going back to the start now.
+And like, I didn't get to the point where I felt like I was doing like fun and interesting combat.
+1:13:11
+And I probably would like it more if I played it more.
+But yeah, I think it took a while it it.
+It it took.
+Too long for it to get its hooks into me.
+Yeah, I think that's fair.
+I think that like.
+I feel like my recommendation would be like if you're booting this up for the first time, do like the first 5 or 10 puzzle dungeon things and like, and yeah, look up what the solutions are 'cause like, I don't think the hints are very helpful in a lot of cases of like, don't pick it up too quick.
+1:13:42
+Like that's, that's the hint and you're just like, huh.
+And then, you know, you have to oh, of course I have to throw the staff off screen to transform the Walrus and that'll get the item that I need.
+Like, oh, like I didn't know that I could do that in this game.
+That's great.
+The help, but the hint was not helpful at all.
+1:13:58
+But like, I think that that helps to kind of frame the mindset of like this game is much more than just like move attack, move attack.
+And I think it's, it's maybe, I think this game was maybe a little ahead of its time and it's like maybe still weighed down by like those mid 90s traditional rogue like concepts to some degree.
+1:14:17
+But I think it's like, it's very like it's trying to break out of that mold in a way that I'm sure the, the all the later games have have found interesting success with.
+But yeah, I, I think I had a similar experience where I like I, I, it felt very like mid and boring to me at first.
+1:14:35
+And then the more that I kind of experimented with the systems and Oh yeah, this is how I get all the inventory to work like I could, I could see the road unfold ahead of me.
+I'm like, OK, yeah, I can see why people would have fun this for this game for 30 years and why it's spawned like a dozen sequels and stuff.
+1:14:52
+I'm really curious.
+I.
+I don't think the Pokémon Mystery Dungeon games are roguelikes.
+They're they're like rogues and that they play like rogue, but I don't think they're I would call them like GRPGS more than I would call them roguelikes.
+1:15:07
+But I'd be really curious to hear what you, how you guys feel about those games because it basically, you know, it essentially plays like this, but so much of the like Sheeran specific knowledge, like the like knowing what every enemy does, like learning what every enemy does.
+1:15:26
+I mean, what all the items do, learning things like that, that like accrued knowledge is replaced with Pokémon knowledge for the most part.
+I mean, like there are still items, you still have items that are essentially like the Sheeran items, you have orbs which are like scroll equivalents and you know, so on.
+1:15:46
+But so much of the like, what enemy is scary to me when knowledge is just based on like, oh shit, I'm Chikorita, that's Charizard, let me get out of here.
+Or, you know, like, oh, let me swap with my little partner 'cause like my little partner is Mudkip and Mudkip won't immediately job.
+1:16:05
+It's much more obvious than like, oh.
+Three master hens are coming down at the hallway here.
+Like maybe I should engage with them in friendly conversation and see what happens.
+I want to talk to the evil clown soldier.
+Oh no, he's not that.
+He's bad.
+1:16:21
+Now let's not forget the.
+Thief Walrus.
+Oh my God.
+Freak.
+So we went, but we we take a pretty broadview.
+Of, of rogue likes on this podcast, mostly just for breadth of breadth of games.
+1:16:37
+I mean, we we did rim World earlier in this podcast and Rim world is just the barest of it's it's got random elements.
+It's a door fortress like, but it's not a rogue like in any way like rogue.
+1:16:54
+So, well, I like to argue I'm.
+Trying to be very amicable and amiable today, but I love to argue so well.
+There's nothing I'm sad I'm sad for.
+You that Will's in here.
+Will, this would have gotten contentious 'cause I, I can tell you for sure, Will would not have liked this game at all.
+1:17:14
+Yeah, I mean, what have you played it?
+No, probably not.
+I feel like this game.
+Kind of kind of expects you to put a little bit of work into it, which I think is fine.
+Like, you know, it's and again, like if this was, if we count ourselves in the mindset of like this is one of five games that you had for like the whole year to play and like it being so different than other games.
+1:17:39
+I feel like in that mindset, like I could see, yeah, like that nostalgia factor hitting pretty hard.
+And yeah, like I came into this not having played or known anything about Sheeran at all.
+And I think I was like, I was getting one over towards the end and I was thinking like, you know, like this game, like it has cinematics.
+1:17:59
+It's got good sound design, great art.
+Some of the gameplay stuff is aged a little poorly.
+But, you know, I I can kind of give it a pass for being so old again.
+Helen, you being the expert with the with the modern ones, I'm guessing that like you were streaming for us a little bit of of Sharon 6 and it looked it looked, you know, very well done, you know, 3D kind of modeling and so to it.
+1:18:24
+It's so gorgeous and it's.
+If the if any of the listeners.
+Don't know.
+It is this Sharon 6 is the first mystery dungeon aside from the 3DS Pokémon mystery dungeons in a long time that is not sprited.
+It is the first non Sprite art Sharon in a long time and it is aesthetically influenced by the previous 3D modeled here in which is for the N64.
+1:18:48
+So it's very, very like N64 graphics inspired.
+And it, it's so cute.
+It's so gorgeous.
+Yeah, I guess my, I guess maybe my my.
+Gameplay question is like how, how much more?
+1:19:03
+So like from a gameplay's perspective, we've kind of harped on like, you know, oh, mid 90s rogue lakes, you know, food meters and like invisible traps and all these kind of like BS O matic things that kind of grind our gears a little bit.
+Like is, is Sharon 6 maybe more forgiving in that new player aspect?
+1:19:19
+No.
+OK, great, good to know.
+I mean it has.
+Quality of life stuff in terms of like, you know, a a lot of things that I was really missing in this game like you can change the opacity of the map that's visible like on top, but you can change the opacity and the size of it.
+1:19:37
+You know, things like that that are just like simple quality of life things.
+There's a compendium and so you can like go look everything up and blah, blah, blah, blah, blah.
+I think you guys just need to learn.
+I think the traps.
+I think that's the skill issue.
+I mean, for sure, yeah.
+1:19:54
+Like the the times were like I, I I was very much like OK, I have I have a scroll of light here so I can see where the traps are like.
+Do I use it or And yeah, I mean, I was just like falling back on the saves safes coming for the most part.
+1:20:11
+But like if if it feels like there's some kind of like missing element there of like the traps are invisible as kind of like a gotcha instead of like a gameplay element that I can influence and work around.
+Like more so than just like they're invisible.
+Good luck.
+I don't know if like if, well, from the little bit that I've played of Asher Dreams, another very similarly styled Mystery Dungeon like game, not specifically part of the franchise per SE, but that game I think has like the traps, like just straight up visible on the ground.
+1:20:45
+And it's more of like, you know, how are you going to like sock them on your way around these such that you don't get boxed in or checkmated?
+But like I'm pretty sure like most of those are visible from the onset, from the onset.
+And like that I think presents a more tactical challenge of like, OK, I know, I know what's coming at me.
+1:21:02
+How can I strategize around it?
+I feel like what I've seen in other games.
+Is every step that you take, there is a percent chance that the traps appear if it's near you?
+So like, yeah, sometimes it's invisible, but sometimes it's like it pops up one square away from you when you still are like, wow, I would have walked through this room differently if I knew that this like log death trap was here or this trap that will mean I can't move anymore.
+1:21:31
+Now my this space is like blocked off.
+As a kind of I don't.
+Think it's a big issue.
+I I think it's.
+A pretty good implementation of traps.
+I have a question.
+In speaking or not speaking to the NPCS in this game, did any of you hear any mention to the gods?
+1:21:50
+Do any of you know what the pantheon of Sheeran of the Sheeran series is?
+Well, we know there's a big giant bird and.
+Some gold eating insects not correct, that is.
+Incorrect.
+Well, they they do exist.
+1:22:06
+They're not the gods.
+But they do exist.
+Oh, there's like that standing stone.
+In like the second town, it's one of them.
+You are correct.
+I don't remember what the.
+Description was you also talked about 1:00 earlier when you talked?
+About the winds, the winds of prone, that's one of the so I'm going to, I'm going to read you from the wiki.
+1:22:26
+But the 8 gods of Sharon are because I think it's extremely funny and I, it's the type of lore that I, I love about this franchise where it's like, yeah, this is a world where these are what the 8 gods are of the God of traps, the God of not.
+Wanting to talk to NPS Not at all Spoil please do you not?
+1:22:43
+Spoil my bit, Andrew.
+Thank you.
+Oh, OK, I thought there.
+Was just one God for each complaint we've had about the game.
+The first one is Riva the.
+God of fate or destiny.
+So like essentially chance like the God of like RNG, right?
+Right.
+He hates me, the God of.
+1:22:59
+Travel Who rules?
+Over the success and failure of travel, who presumably is what brings you back Like the winds that knock you out when you run out of time is also presumably what like brings you back from the dungeon when you're when you go back to the start.
+I see.
+Bufu the.
+1:23:16
+God of food, so like the food, right, That's the one who he has.
+He has the statue in the town in one of the towns.
+And that that's where a dungeon is like a post game dungeon where you start with a cleaver where that makes enemies have a chance to drop their meat, which lets you turn into enemies.
+1:23:38
+So the gimmick of that is that like you don't get many weapon or shield drops, but you can turn into enemies and like use their attacks.
+Kakaru, the God of traps, apparently.
+Just its.
+Domain is traps.
+1:23:54
+OK, thanks a lot.
+What a what a Kakaru, I tell you, Doris, the God of magic.
+So like the.
+Staves and the scrolls.
+Murado, the God of the hearth, who is like the Inns and like the starting place, right?
+Gitao, the God of thieves, who rules over the success and failure of thieves.
+1:24:15
+Did any of you try and steal from a shop?
+No, but there was.
+An interesting emergent gameplay behavior system that I remember someone describing where let's say you have a walrus jar such that you can activate AI mean classic roguelike trope.
+1:24:35
+A thief walrus that will fly across the screen and steal an item from something.
+Apparently if you go into the shop and arrange items in a way in front of the door that is just in a in a big line, you exit the shop and then you thief walrus from outside the shop to go flying into the shop and steal stuff and bring it out to you.
+1:24:56
+You can steal stuff from the shop without having the shopkeeper get in your way and start fighting you.
+I don't know how it is in this.
+Game.
+In six it is you can get away with stealing.
+In six it is extremely hard to steal and not have it count stealing.
+1:25:16
+You know, most of the trickiness of stealing revolves around getting away because not only is the shopkeeper like, a really strong enemy, sheriff's and guard dogs spawn and will chase you down.
+And if I know in Six, I don't know if this interaction is here.
+1:25:37
+In Six, if you use the scroll, that makes it one big room.
+Oh, yeah, stop.
+People go next.
+To the stairs.
+And we'll stand on the stairs if you take everything.
+So like you have to kill him to get out.
+I mean, stealing is a time honored tradition.
+1:25:55
+And I mean, I think that's true of like Rogue and Net hack, right?
+Like, isn't that that's not a Sheeran original concept.
+That's something like the first.
+The, the, the, Oh no.
+All of my gamer cred is, is rapidly disappearing.
+Lord English, of course, famously made the series called Ultima.
+1:26:14
+There we go.
+I was playing like Ultima one back in the day on an apple something something.
+And yeah, it was pretty exhilarating running around trying to steal stuff.
+So is there like a system?
+Can you, can you like give offerings to the the Lord of thieves and get better stealing chances or something?
+1:26:32
+No, no, the last God.
+Is Sakai the God of trade, the God of trade and commerce, who is in charge of hats?
+Who is in charge of hats?
+No.
+All right.
+Yeah, you.
+I guess it's a.
+Trash the God of hats.
+And there are other gods.
+1:26:48
+Like. 6 is about a bunch of the core plot of 6 is about essentially a squabble between like a like 5 year old and eight-year old child who are gods.
+And it's like their sibling squabble is causing the apocalypse basically 'cause they're like the God of like rain and sunlight.
+1:27:12
+And they're like, it's a very like heat miser snow mice situation, right?
+But I just I just.
+I love that the gods are just all the game mechanics.
+I think that's so cute.
+Yeah, for sure, for sure, without a doubt.
+1:27:29
+All the gripes, all the completes.
+Sure, sure, sure.
+Well, do we want to move on to?
+To rankings here we better.
+All right, Colin, why don't you kick us off?
+With our highly official and permanent rankings here.
+All right, got a finger gun to my head.
+1:27:46
+All right, I'm gonna.
+I'm gonna I'm going to do a split ranking.
+I'm going to rank it as if I am 9.
+You know how old am I?
+How old what?
+What do you do this game now?
+I'm giving it a nine.
+You guys.
+Wow, wow.
+If I'm.
+Ranking it as if.
+I had a a Super Nintendo and played it then and I'm ranking it as if I was coming into it blind today and didn't have any any guns to my head or social pressure to play it.
+1:28:15
+So I'm going to give it a 8, 8 or 8 1/2 for the 1995 edition and I'm giving it a six for today edition.
+I think a lot of my problems with it today are just that I didn't play it enough and it didn't hook me, which is a shitty like criticism of a game and like, oh, I didn't like it because I didn't play it enough and and I didn't get to the good part.
+1:28:41
+But I mean, that's the curse of, of today where I've got like hundreds of games that I could be playing right now.
+And if it doesn't hook me quickly, there are other games that I can play that I I want to play.
+And like I have, I have many games that I've purchased and not played.
+1:28:59
+I could be playing those instead.
+So you really, I feel like you have to have something that hooks you.
+Classic, classic 2024 problems.
+But I mean, especially in listening to you guys talk like, I think there is probably a lot of this a lot to this game that I didn't fully get to.
+1:29:16
+And I can imagine a younger version of myself getting deeply, deeply invested in like the intricate mechanics of this game.
+And I feel like I probably should have done some more of the puzzles thing.
+So I, I, I'm gonna say that my, my rating on this one has a lot more variance or like a it's, it's a, it's a more of a like Gray rating than normal.
+1:29:40
+But that's where that's why I'm giving it.
+Sorry Helen, I think.
+I'll go next I'm I'm gonna give this game a 7.1 on my rankings.
+I was, yeah, like at the the first, like, time I booted up, like, I don't know, like people have a lot of like, nostalgia for this game.
+1:30:00
+Like there's what what's what's going on here Exactly.
+And I think like, yeah, the, for me it was, it was going through the puzzle dungeon sequences and being like, oh, like, yeah.
+The gameplay depth to here is very much like a puzzle game in a roguelike setting and approaching like all the dungeons with that mindset really kind of like changed my perspective on it.
+1:30:21
+Instead of something like like doom the rogue, like, you know, Doom RL, it's you know, very much like just shoot monster like very, very simple with this game.
+It's like, OK, well, what items do I have to use in a very specific sequence in order to like bottleneck everyone into this hallway?
+1:30:38
+And then I can like run for the run for the the next floor here if that's something I want to do or do I want to grind levels.
+Like there's, there's a lot of much more interesting mental calculus to it.
+I think, like, I don't know, I'm just like, I understand the hunger meter and I understand that like the the how the like the hunger systems play into other things about like, oh, you can use the rice baby to like strategically change some of your items into rice balls And then you like bank that as food for later.
+1:31:10
+Like, I get it.
+But I mean, I don't know if it feels like there's still some of those like mid 90s traditional rogue like things that are holding it back low again, game's 30 years old.
+We've moved on from some of it in a lot of sense.
+But yeah, I think like this game I was, I was pleasantly surprised by like I don't roll credits on a lot of the games that we play unless I've played them like years ago.
+1:31:32
+And I was like, I was motivated enough to do so.
+Yes, I cheated the whole time.
+That's fine, whatever.
+But I think I should have cheated more.
+Is it fine for the for the purposes of this podcast, I.
+Really do think that like it's different because, you know, we're we go through a lot of games and sometimes you want to see the end.
+1:31:52
+Yeah, I mean, I did spoil myself.
+By watching the end game cinematic before doing that.
+But like, you know, I, I was like, I felt like the game's puzzliness wound up growing on me in such a way that I was like, yes, I want to kind of keep experimenting and playing more of it.
+And yeah, like, to Colin's point, if this was like the only game that I had for the Super Nintendo growing up, yeah, I would have played the shit out of it and it would have been like, really great.
+1:32:15
+I think that nostalgia factor isn't quite there for me, but, you know, I think this game is is perfectly good, I think for 30 years old and getting a facelift with some extra features and new dungeons and stuff for the DS version, I think works really well for it.
+And I think, yeah, like if this is something that you're remotely interested in traditional roguelike games, but want like a little bit more of accessibility options, this is the like a perfectly decent intro to to the Mystery Dungeon franchise, I would say.
+1:32:45
+And yeah, there's probably other games that maybe do it a little better, but this one seems like a perfectly competent entry into that that whole series for sure.
+All right, check it out.
+So when, yeah, if I'd played this game back in the day, I'll, I'll take it to the next level.
+1:33:01
+Not only would have blown my mind, not only would I loved it, I would have dressed up as shearing for Halloween.
+I tell ya, I would have gotten myself one of them freaking hats and a little stuffed Copa and would've been awesome.
+And there would be some really fun grainy Polaroid photos of it somewhere.
+1:33:17
+But also I I think this game like to say that it like holds up kind of sounds like it's barely like hanging in there is like playable.
+It's like perfectly playable.
+I think I could, I could easily see this being like published by like a solo dev or an indie studio and it being well received and me enjoying it.
+1:33:38
+Let's take a look here.
+So in my stack ranking is coming in as my new number 13 with 7.1.
+And that is because out of respect to Helen, I needed to rank it better than Dead Cells.
+And let me tell you why it's better than Dead Cells.
+1:33:57
+Firstly, it's a better it's a better rogue like like in terms of like roguiness and like random experiences like this game captures like the adventure and the wackiness and the the venturing into the unknown.
+Infinitely better than dead Cells, which is like this is a whole separate conversation to be had about like how how roguy dead cells actually is.
+1:34:22
+But this game has a lot of great stuff going on.
+It's got a great map.
+It's got a great explosion Sprite.
+It's got great kooky monster names and concepts.
+It's got great a great name for fake money Guyton.
+Hey, show me the Guyton.
+Show me the green.
+Let's get that Guyton going.
+1:34:39
+It's got a great punch animation and super important in a RPG experience, a great properly epic level up noise and for that reason I had a pretty good time with it.
+1:34:58
+I only made it to level 16.
+I played it for a little over six hours and I think I'll probably be spending some more time with the Ed Sheeran Mystery Dungeon series.
+Ellen, bring us home.
+How does?
+How does how does Sheeran rank against all the other kind of Mystery Dungeon games that you've played or rogue like games?
+1:35:20
+Or just tell us why it's a great game.
+There you go.
+Listen, I.
+Wasn't going to.
+Bring up my hatred for your currently 5th ranked game.
+But since Andrew has opened the door for me, kicked open the door, dare I say if 2.
+1:35:35
+Of you have ranked that.
+Game a 9.4 and a 9.5 respectively.
+I think my ranking for Sharon might have to go into the hundreds, honestly, you know, I mean I love the franchise I've played I've played every Pokémon mystery dungeon that's been released in America.
+1:35:56
+I've played here in 156.
+I've played Chockabo mystery dungeon.
+Do not recommend.
+It is the worst of them in my in my experience.
+And you know, I, I'm just going to say for all your listeners out there for, for whoever your listener is who harass you about this game so that they'll like me more a week.
+1:36:17
+Is not enough.
+Time to spend with this video game, especially not in like your first experience with this game.
+You know, like this, this is a game that like you almost need to prog like, you know, like a raid and like a MMO or something.
+1:36:33
+You know, there is such a learning curve to this game and you know, doing all the puzzles and doing the really hard puzzles.
+Even if you like look up the answers and learning like the really intricate kiting and things like pathing and movement and the crazy interactions.
+1:36:49
+Like did you guys know that if you step on a onigiri trap that turns you into an onigiri and then while in onigiri, you step onto a rotten trap that rots all your food, it will kill you because you will rot.
+Like I love this game because of the amount of like crazy specific interactions and the ways that it puts you in circumstances that force you to think differently with the tools that you have.
+1:37:17
+Like stepping on a trap, you know, might might be just a tiny nuisance or might end your run depending on what you have going on and when it happens.
+The God of chance.
+But this is not my favorite sharing game, you know, it's a like, Honestly, Colin, my biggest agreement with you on this game is the text speed.
+1:37:43
+I am a proponent of instant text speed.
+I am a.
+Proponent.
+Of instantly displaying text in all video games.
+Honestly, that maybe like.
+That's like a point, a full a full point off of this game because because it like keeps me from interacting with the systems that are obviously core to the game.
+1:38:05
+I would like to beg your listeners.
+To now begin a campaign to force them to play here in Six and have me back on to talk about here in Six.
+Well, if someone wants to send me a switch.
+We'll get right on that.
+What about the Pokémon mystery?
+1:38:22
+Dungeons is there 1 specifically that is good.
+So OK, let me get my rating first, let me get my.
+My rating first, I honestly, I feel like I have to give this like a 9.6 or a 9.7 just because like this game is something that I could spend so much time, just dump so much time into.
+1:38:42
+Like I could genuinely play this game for the rest of my life and probably be happy, like having it as one of my things in rotation.
+And there really is nothing else.
+I mean, I could go like learn how to play like net hack, but you know, like, to me, this fills that hole in my heart, but it is missing some quality of life stuff that I wish it had.
+1:39:06
+And it is not the best translated.
+Like it's fine, but it's just a little bit flat, you know, It's so yeah, I would say 9.7 for, for my few minor gripes.
+You know, it's like it's chess, but like the pieces are like really kind of not great.
+1:39:24
+They're they're kind of all worn.
+The board's not level.
+I'm assuming then that.
+Sharon 6 is like the 10 point O Gold Star.
+Sharon 6 is 10 point O.
+Yes, absolutely.
+It's it's the gold, it's the Gold Star.
+Against which all all their games are measured.
+1:39:42
+And I played it at launch and.
+They've released content for it, they've added more content, and they're not.
+I don't think they're done, which is why I haven't revisited 'cause I'm going to wait till they put out everything or what they say is everything and then go back to it.
+1:39:57
+On Pokémon Mystery Dungeon, if you play a Pokémon Mystery Dungeon, you have to beat that game because it's so much of the draw of that game is.
+That they are really good YA fiction.
+The 1st 2 games are both they're just such wonderful little stories.
+1:40:19
+They're, and they're, I mean, the first game really, really spoke to me as a child because it like, it fundamentally is a story about being children and not being listened to by adults, which is like, you know, it, it's kids, it's kids stories, but it's really sweet and it's, and those games are gorgeous.
+1:40:41
+They, I, I love those games.
+I, you know, if you were going to play a Pokémon mystery dungeon, I would say either play blue rescue team or explorers of sky.
+Explorers of sky is, you know, it's like a Pokémon third game, like like gold silver crystal.
+1:40:58
+It's the crystal, my one my single complaint with Sky is that it makes the game easier and that it like basically makes death less punishing throughout the entire game.
+Like it makes it so you lose like half of your money in items instead of everything or something like that.
+1:41:14
+But it has like a bunch of new story stuff that is worth, worth having.
+Yeah, I I specifically asked about the.
+Mystery or Pokémon Mr. Dungeon?
+Because I do wonder if like I do have an incredibly deep nostalgia for Pokémon.
+And so I feel like that that helps satisfy the like the, the, the hook.
+1:41:35
+I'm like, I see Pokémon and it's like, oh, I do, I, I, I don't have to tell you, I don't have to guess what my 10 year old self would think about Pokémon.
+Pokémon was 10 out of 10 Pokémon was the best game in the world for for 10 year old me.
+So, and especially if you you said you played in.
+1:41:51
+Like Gen. one and two, that first game is just Gen. 1-2 and three.
+So, you know, it's just like, so I would, yeah.
+So I I know.
+Like vaguely the Pokémon in Gen. 3.
+So it's pre, it's pre physical.
+1:42:06
+Special split.
+So it's back from in the days where Andrew's making faces where each like what?
+What is this where each?
+Type either uses.
+Attack or special attack instead of each move which I added added later.
+I know too much about Pokémon.
+1:42:22
+I know more about I I know a weird.
+Amount about the later editions that I didn't play just because I was like curious how they did all the stats and stuff.
+But and my sisters, my sisters are seven years younger than me.
+They played all all of them.
+So I ended up just like hearing in hearing about them talking at me about Pokémon I played competitive.
+1:42:43
+Pokémon as a.
+Child, I'm jealous.
+I'm jealous.
+Of the having that ability, like I feel like we were maybe.
+Just.
+Slightly too old, you had to have like an actual cord.
+We covered it in inscription last.
+1:43:00
+Last EP and we were talking about the Pokémon trading card game and how none of us like actually played the card game.
+I tried like I built a deck and I went around and I couldn't find anyone at my middle school to play like what we just had those I have in the other room.
+A.
+1:43:15
+A card box with maybe 507 hundred Pokémon cards in it.
+Where I went, I went and saw that stupid Pokémon movie 9 times to get the holographic MU card because then it filled out like I would have like the whole sheet of the binder like the three by three binder grid of like just filled with the holographic MU cards I have like I think I have all of the Gen. 1 Japanese cards.
+1:43:43
+I don't have any idea what they say or what they do, but like you know what at some point I'm going to be using these to win tournaments.
+So I kind of kind of bank them up now.
+Yeah.
+I don't think I don't think I ever played a single actual like I played the the the digital version a lot, a lot, a lot like a disturbing amount, but like the actual physical card game, I don't think I ever played.
+1:44:03
+I don't I have.
+Hot card game.
+I have hot TCG opinions.
+I've never liked the Pokémon card game.
+I was always a Yu-gi-oh girly.
+I will say the Pokémon TCG video game for the Game Boy Color is fantastic because it's like all just like that first one or two sets where it is very, very everything is like balanced around each other.
+1:44:32
+And it's it has like that it has that Mega Man game design philosophy where like wherever you go first, then there's like a a path on like through like will you get you go to the fire and then you go to the grass, go to the water and you go to the rock and you know, it's just like, but yeah, I don't know, I don't I don't love Pokémon TCGI.
+1:44:53
+There were a few years where the city that we're all in that I don't know if you disclose on your podcast, where the video game, the like, official Pokémon Video, VGC Video Game Championships, regional was held.
+And I went and played and got like top 8 or 12 in like whatever children's bracket I was in.
+1:45:17
+And then they moved them to Portland and I was pissed 'cause my parents were not gonna take me to another city to go play Pokémon.
+And I was outrageous.
+That's amazing.
+The only time that.
+I've went to a competitive video game tournament was for Halo 2, and I just remember getting rag dolled the whole time and I was just like, well, I thought I was good at this game, but Nope, not in the slightest.
+1:45:40
+Yeah, you're just better than your high school friends.
+You're not actually good.
+Orcas Island did not present the the highest.
+Pool of talent for for competitive Halo at the time shocker well yeah so so.
+Sheeran.
+1:45:56
+Well, I think Helen is kind of comprehensively listed out a a good amount of of similar games, but I guess for the YouTube timestamp purposes, I'll just kind of like list, list out someone's here.
+But yeah, like if you're just randomly clicking through your like, ah, just give me the where's that timestamp for those similar games?
+1:46:15
+I got to write them down.
+Go and listen to.
+Maybe I'll I'll timestamp Helen's thing as well.
+But we've covered some previous episodes.
+I'm I'm going to lump one or shattered pixel dungeon into Mystery Dungeon here a little bit just because I think it fits the theme pretty well.
+One way heroics the the solo dev JRPG wackiness.
+1:46:36
+Both previous apps to go check out.
+We talked about Tornico's great adventure the the Mystery Dungeon or not Mystery Dungeon, the Dragon Quest spin off, Shire or Sheeran games.
+There's like a dozen of them.
+Pokémon Mystery Dungeon games, there's a ton of them.
+1:46:52
+All of these for sure.
+Stay tuned, including as your dreams, the bizarre PlayStation One creature collector, town builder, dating simulator, Mystery Dungeon game, Chocobos, Mystery Dungeon.
+Helen mentioned.
+1:47:08
+And I'm going to lump Toe Jam and Earl in here as well 'cause I feel like that also kind of fits the the theme of mid 90s roguelike experiences.
+There was one more in here.
+Oh yeah, a Sega Genesis game.
+1:47:23
+So Toe Jam and Earl's for the Sega Genesis game.
+Another one for Sega Genesis that often gets overlooked.
+Fatal Labyrinth As everyone frantically googles what the hell is Fatal Labyrinth?
+Still stuck on Azure drones is that is.
+That a spin off of the.
+Tabletop role-playing game FATAL.
+You know I wouldn't.
+1:47:40
+Put it past them.
+Oh no.
+That was a joke for.
+Andrew, apparently.
+And no one else.
+I will pretend like I understand that and.
+I will edit in my.
+Oh yes, of course, of course.
+There we go.
+But yeah, that 1 I think.
+Gets gets brought up as like a very prototypical early 90s rogue like game graphics that I think kind of fits fits the theme here as well.
+1:48:03
+So give those give those some some look sees as it were.
+As we wind down here, I always reserve a block for our guest.
+Helen.
+Do you have anything you want to shout out or promote before we we wrap things up here?
+No, I don't.
+1:48:20
+I no, I don't promote.
+I don't live on the I don't live on the Internet in that way.
+I dwell.
+I do not post.
+You'll never unless they for some reason decide to have me back.
+You'll never, you'll never see me again unless you go look at my Twitter and see me retweeting nothing.
+1:48:41
+Games.
+Games to plug?
+I mean.
+Obviously Mystery Dungeon 6 don't play Dead Cells.
+Play Play Castlevania, Order of Ecclesia.
+Play Castlevania, Rondo of Blood.
+Play.
+1:48:57
+What if I told you Dead Cells has a?
+Castlevania themed ADLC to it you could not get me to.
+Play that fucking game again.
+I swear to God.
+As a as a metric, this is my This is what I have to say as AI love metroidvania so much I play I.
+1:49:16
+Play and replay.
+The play time spinner play that's what you should play play time spinner play Iconoclasts Dead cells had that is one of the like genuinely do not understand what anyone sees in that game.
+1:49:35
+It's just it has like the worst movement.
+It has the worst combat.
+The levels are literally it's every single level is just a half 1 1/2 two and you either go 1-2 or two one and there's no more variation than that.
+If you start a new save of the game, which I did, then you have to play the base game to unlock anything else.
+1:49:57
+So if you decide oh I haven't played dead cells in like 3 years, maybe they made it good.
+It will make you relive your trauma playing a dog shit video game.
+I.
+Well, as as we can relive it as.
+We great news we.
+Already covered it, so we we.
+1:50:13
+Shan't be playing it again.
+We're back in Frog.
+Horrible.
+Awful.
+Everything about that game.
+Well, as we often say, it's OK to like.
+Or not like a game.
+And yeah, you can.
+You can write in with your spicy opinions to the show about Dead Cells and or Sheeran to our e-mail grogpodzone@gmail.com.
+1:50:34
+We're on Mastodon, not X or Twitter, whatever it's called these days.
+Grogpod at game dev dot place where I very thematically just posted a link to the Dead Cells anime that just came out.
+What makes it an anime?
+1:50:53
+I'm it's animated, It's was it done by a?
+Japanese studio.
+No, it's it's French and it has really low.
+Frame rate.
+So that counts as anime, right?
+No, our website our.
+Website said it's French.
+Sorry, our website with all of our.
+Rankings and links to other stuff if you just want a one stop shop that you can steal from with a walrus jar is Grogpod dot Zone in our next episode.
+1:51:18
+Oh yeah, what are we covering?
+Well will, what are we playing next with?
+Oh, hey, hey, it's Will here.
+Will has picked for us to play Terminus zombie survivors as as carrying on Spooktober for for our next episode, which looks interesting.
+1:51:38
+You know, it's a it's a top down.
+It's been a while since we we played a a zombie game yeah seems interesting seems pretty highly rated put out by a Korean studio.
+We'll we'll, we'll see running out in any any hot and.
+Dark days that day, dark days ahead, which Andrew gave a .6 that game, that game made me physically I'll.
+1:51:57
+To play, which again, you know, it's, it's a case, like it or not, like a game.
+We just said, yeah, I think maybe this will take all the boxes I was looking for out of Cataclysm.
+Perhaps.
+Perhaps Helen.
+Thank you for being on the episode.
+I knew it'd be a hoot.
+It was all worth it just for the fatal joke, and definitely worth it for the rest of the convo.
+1:52:18
+But all right, I haven't played a zombie game in a while.
+I'm I'm legitimately looking forward to dipping my toe into a little bit of zombie media, putting the meat in zombie media.
+Well, to play us out from this episode will be some welcoming tunes to bring you back to the starting realm, either by death or by golden bird delivery to the Canyon Hamlets.
+1:53:34
+The the the.

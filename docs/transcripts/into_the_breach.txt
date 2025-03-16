@@ -1,0 +1,1605 @@
+0:28
+Hello and welcome back again to the Grog Pod, a rogue like podcast where each episode we talk about a rogue like game then see that the timeline needs to be abandoned for one with more favorable reviews for it.
+I am your host of said podcast, Scott Burger, live from the deck of the futuristic robot workshop and with me today are my Co hosts who would like to know more.
+0:54
+It's me, Andrew Harshman, Gun Dam.
+Pleased to be here.
+This is this is Will, your rusty, hulking beast.
+And Colin, a undefined mech that hasn't been unlocked yet.
+There's just a black outline where Colin's head should be and.
+1:11
+We have A and we have a hero pilot joining us.
+Yes, back from a different timeline.
+This is Woody Saskowski again.
+Hooray.
+Yeah, I'm going to spend 6 coins to unlock Colin's face.
+Oh, there it is.
+Oh man, Colin, your couch is on fire.
+Oh no, I I it's just a it's just a guy.
+1:28
+He doesn't have a mech at all.
+Oh yeah, it's just the guy, but he's got a fancy new headset or this functional new headset, hopefully.
+Yeah.
+Take that, condenser Mike.
+This week we are once more going into The Breach, dear friends, talking about Into the Breach.
+1:45
+Released February 27th, 2018, this is a game that you can kind of find everywhere.
+PC, Xbox, PlayStation, Switch.
+You name it. iOS, Android.
+It's there.
+Netflix too.
+Question Mark.
+Yeah.
+If you have a Netflix subscription somehow, you can get a free copy of this game on iOS or Android so.
+2:05
+OK, so you're you're not playing with your Amazon?
+Fires.
+I do not think you are actually playing with like your Netflix remote or whatever.
+Did this come up the last time you were on Woody?
+I think it did.
+Dead Cells.
+Dead Cells.
+I mean, somebody at Netflix has like pretty good game taste.
+And they're like Dead Cells Into the Breach.
+2:22
+They they know what's up.
+Woody secretly working at Netflix.
+This Into the Breach comes to us from our best Buds Subset games, who you might remember from our previous episode, FTL Faster Than Light, our inaugural Omega Bowl 1 winner game.
+2:42
+Your average player of Into The Breach has about 42 hours of game time in it, and this cranks in on our popularity charts of Rogue Light Games.
+At the number 59th most popular Rogue Light game with 18,000 and 84 total reviews, Woody, you have one sentence remaining to describe this game before the gigantic gastropod blows up your apartment building.
+3:08
+OK, miniature mechs, miniature mech tactics.
+That's not a sentence, is it?
+But I feel that's.
+Where you can go back in time in there, go back in time and do a do a redo.
+Hit the Undo button.
+3:24
+Mechs making miniature moves.
+There you go.
+And that's that's a sentence mischief.
+Yeah, I mean, 'cause I, Scott, we were talking about this not that long ago when you were trying to hype me up on the new Armored Core game.
+3:42
+And I was talking about how Met games are perhaps my least favorite genre of game that exists, especially like Armored Core, where the point is like, this thing is going to control terribly.
+Yeah, because.
+There's and by control terribly, you mean giant robots, wanton destruction, explosions, even bigger enemies, and bugs.
+4:07
+We got bugs.
+Yeah, that's true.
+But armored?
+Core.
+I mean, they're both.
+They're basically the same game.
+Armored Core 6 Into the Breach.
+It's literally the same game.
+They're interchangeable.
+Found mind They're it's anything with a mech is all in the same universe.
+I mean, I think that this game very much is a this is about as close to a board game as video games get that are not just direct adaptations of board games.
+4:36
+Like, you could very much like I played Hero Clicks a lot, which is like a miniature superhero game.
+And it's like, very much like the rules of this kind of just STEM in much of the same way.
+Yeah, I I I think of it as the way I've been thinking of it is, is it's basically a chess tactics or it's a chess puzzle, the game, except instead of pawns and rooks you have giant robots.
+5:02
+Yeah, and they're fighting.
+Bugs I I have a similar summary, but with a little twist.
+For me, it's chess blunder colon.
+The game.
+Yeah, I I just feel like I'm blundering left and right, but that doesn't stop it from being fun.
+That's.
+Also Chess for me.
+Very chess like, yeah.
+5:19
+That's true.
+And they give you a lot of they give you a pretty decent amount of leeway.
+It's not.
+It's not like where you take your finger off of your queen and then your opponent gives you like the little snarky look and like slowly moves the Bishop across the board and knocks your queen over here you can actually you can actually move your piece, go back, and then if you really have messed up your turn, you can restart the whole turnover.
+5:44
+Sorry, is that how that mechanic works?
+Because for me, I just get a free redo on my first turn every every mission.
+I always use it as soon as possible.
+No, that's only like maybe 25% of the time that I use it.
+For sure, yeah, it's I think pretty fair in that regard.
+Crucially though, it should I think, be pointed out that this isn't your standard turn based combat game because this is sort of AI.
+6:09
+Don't know if there's a term for this, a reactive turn based game because your enemies are kind of operating on a different scale.
+You have, you have or a different timing, I should say you have.
+You have the opportunity instead of everyone moving and attacking like all at once, you have the opportunity to react to the enemy's movements.
+6:28
+So you know where they're going to attack and what they're going to do and then you get to sort of respond to it.
+And I feel like that's not seen as often and I find to be pretty engaging.
+Well, the more you know, the more Rogue likes and kind of indie games that I played.
+6:45
+I realized that they, and I'm sure you guys have noticed this.
+The games essentially just become like an amalgam of mechanics that have appeared in different games and each one is kind of like a different Stew and you kind of mix what is right for to your own taste.
+7:01
+And like, this one has what Slave Aspire does, which is the Yep Will's given that you know it has.
+To be mentioned every episode.
+It took us a whopping 6 minutes.
+As well it should because it's the it's the mechanic I think.
+I I mean I played this game before I played in this fire.
+7:17
+I think this game is pre in this.
+It predates by the fire, OK?
+And yeah, the idea of the enemies simply telling you exactly what they are going to do is, I imagine something that like is a pretty tough sell.
+7:34
+Like from a game design standpoint to be like, all right, we're just going to have the enemies say exactly what you're going to do because it seems like it would take a lot of the surprise or sort of the intensity out of it.
+But like, in reality, it makes it all the more satisfying when you actually figure out how to counteract what they're doing.
+7:52
+And like, it feels so fair.
+Like, oh, this game.
+The thing I like about this game so much is just like, I like thinking about it because there are so many board game.
+I spent a lot of time in my life explaining board games to people and there's always a MO.
+8:14
+There's often a moment when I'm explaining a game where I'm like, oh, also I forgot to tell you this rule.
+Oh, also I forgot to tell you this.
+And like often I feel bad about that because it's like, this is clearly not.
+And and video games have this problem too.
+Like, they clearly have additional rules that only exist in an effort to balance things.
+8:36
+They don't exist because, yeah, like it.
+It's a rule where like, OK, you can push enemies into the water, but like, not this enemy.
+Or like, this enemy's immune to something.
+Exceptions.
+Exceptions.
+Yeah, exactly.
+Whereas this game, for all of the mechanics that it has going in it, there are so few exceptions, there's so few things where it says, oh, actually, this doesn't work on the enemy.
+9:01
+Like anything that kind of applies to the way the game rules work to your mechs also applies to the way the enemies behave.
+So just like everything feels super fair from like a gameplay perspective.
+Like the?
+9:16
+Difficulty is still really well balanced, but it feels fair.
+Every once in a while you do get to be like, cool.
+I almost feel like it should have been balanced because, like, I was playing yesterday and I just threw the boss monster into a pit and it died full health.
+9:33
+And I was like, wow, that felt really good.
+I mean, I had to, like, spend my whole term maneuvering it around to get it there.
+But I was like, yeah, yeah, but I mean, the boss monsters have a little bit of a resistance being like, well, if you put them in the water then immediately die.
+But if you put them in the pit, the bottomless pit, they die just like everything else.
+9:51
+Yeah, and like that.
+That goal of consistency just is so good.
+Like I was playing a squad earlier today that like feeds off of smoke.
+Like if they get in smoke, they get healed.
+And then I was playing a level where like the level just gradually fills up with more and more smoke and like and it was super easy and like super, like super unfair from the monsters perspective.
+10:15
+But I was like great.
+I'm glad that they didn't like add some bullshit rule where like this smoke doesn't count.
+It's like they they make the choice to keep the rules as simple as they can and consistent as they can be.
+And in that, you know, just happened to give me a Gimme level.
+10:34
+I think it's a an interesting another episode of podcast Whiplash here where our previous episode of Bellatro I felt was very it.
+There's a certain kind of randomness with Rogue Light games that like Bellatro and Luck Be a Landlord both have of like hey here's here's like a a kind of a puzzle that's been sort of randomly generated for you and there might not be a solution to it and that's OK.
+11:02
+But like this Into the Breach is almost like the most anti random game in this genre.
+It feels like, you know, you're talking about very, yeah, it's it's very deterministic.
+That the only randomness that I can tell is where the like, where the things are initially placed and where the bad guys pop up in.
+11:25
+You know, as the turns progress, they've got the the stuff emerges from the ground.
+More more bugs progress, Yeah.
+Then I guess you have some randomness with like.
+And that, and that makes all the difference.
+I mean, it makes every mission fresh and very rarely.
+I mean, there's a little bit of same Enos, but generally speaking, most of the missions feel fresh.
+11:45
+I mean not stale.
+The, the items that you're getting along the way and making those critical decisions about trying to synergize and like trying to figure out like who gets the most, who gets the energy, because I want to get that extra movement, but I really want to be able to use this thing.
+And so there's a lot of that give and take and a very of that very limited resource, which is that the energy that you're getting for your your units.
+12:07
+So I think that, yeah, that's a a strong source of variation.
+That you that's like a meta randomness.
+Now I, I I'm more thinking, I guess of so like that's outside of the chess puzzles.
+Within the chess puzzle it is almost deterministic.
+Well.
+12:22
+I think except for a difference that is worth noting is like in Bellatro, if you just had your standard deck and like didn't buy jokers or didn't upgrade cards, you would just lose.
+It would become a part where it is impossible to get more points.
+12:39
+Here you could theoretically beat this game without upgrading your mechs at all.
+I think it would be very difficult, but I think that the starting like array of weapons and tools that they give you is enough.
+It's not like Slave Aspire where part of your goal is like I'm going to remove bad cards and I'm going to upgrade cards to sort of maximize that.
+13:00
+Like I think that those games like Bellatro or Slave Aspire benefit very much from like you go in with a plan of like I am going like you get your first item and you're like great, I am going to build around this.
+Whereas you really don't need a plan to succeed and into the breach.
+13:21
+You just have to have a good understanding of the way the game mechanics work.
+Like you don't need to stick with something through the whole your whole run, you just you just basically play good and with.
+Like.
+Get good.
+Stay good, Play good.
+13:36
+Yeah, for sure, for sure.
+And I think there's something to be said for the fact that you could conceivably win, beat the game, get get a victory against the final against the Lava Boss level with just the starting stuff.
+I think there's a lot of rogue lights and likes where that is probably impossible or very close to impossible and that feels kind of bad.
+14:02
+Usually, you know, it's not so pronounced that it's a huge issue, but it's it's it's a neat, it's a it's an extra point you know, bonus points that I, I, I feel like I give in to the breach.
+It's like yeah, it is so consistent that you could win with the default folks without, you know even getting any meta progression.
+14:19
+Hey, I have some some harsh comments about the energy and about the items and randomness in general.
+But before we get there, Scott, what is the story?
+What is?
+Going on in this game, I think.
+I think this game begins real on like a really great note in that like every mech game, it starts with a giant ruined city with smoldering smoke and just huge craters everywhere.
+14:50
+And you come to the title screen, there's just a ruined cityscape and a little teeny tiny person sitting next to this humongous mech.
+And it starts with you saying, well we lost.
+That's it, game over.
+Oh but wait, we have this special go back in time button where you your your a little pop up message comes up.
+15:16
+And I love these little pop up messages in this game, but it pops up.
+It says humanity destroyed vec threat unstoppable, mission failed and you have a default pilot, Ralph, who says you know what it's time to open a breach, time to go back and try again.
+15:35
+Which really kind of just underscores the the philosophy of this podcast really just time travel.
+We'll just send it back in time and redo it.
+And yeah, that that kicks you off with your very first squad.
+The Oh my God.
+15:52
+Rift walkers.
+That's it.
+Yep.
+I've been, I've been playing so many with the the rusting Colts.
+I'm like, no, no, no, that's not the one.
+The Rift.
+Walker as as as Ralph would say the the rift Walkers, I suppose.
+Surely he's, you know, from from some somewhere in the Germanic zone.
+16:11
+Indeed, and.
+Then what happens?
+Well, it is we are exposed to The Who are the VEC?
+Who's that?
+Well the those are the the bugs that you got to squish with your giant mechs and how you choose to go about doing so is is up to you and determined on the type of mechs that you select your squads.
+16:28
+There's a whole bunch of different squads to pick from, and the continents that you pick as well.
+On a fresh file, run.
+You'll only.
+You'll have to kind of complete them in sequence, but there's a whole bunch of different islands to pick from there.
+Are four.
+Whether or not 4 counts as a whole bunch is up for debate.
+16:46
+Well.
+Three I would say is is a few.
+Diverse array.
+I would say it's just a bunch.
+It's not a whole bunch.
+OK, got it right.
+It's technically five islands.
+If we want to get pedantic out it, you are, you're.
+Right.
+One of them is more of a peninsula.
+It's Beck Peninsula.
+17:02
+The Monster Island, yeah.
+And yeah, I think like story wise that's that's almost kind of it, right?
+You kind of you get like little little snippets of like dialogue for or monologue from some of the characters that you encounter and some of the the things that your your time traveling pilots say here and there.
+17:22
+But it's nothing really more than like oh we're going to smash them this time just like we did back in old Earth or something.
+You're like.
+I mean this.
+This strikes me as I mean I'm not Oh no I have great in tonight until you know the process of designing this game.
+17:38
+But it very much strikes me as a sort of mechanics first premise of like we like the idea of being able to reset turns and sort of the the mech like the mech mechanics and like skinning of that is just kind of a way to sort of fit around that and the whole time.
+17:56
+Yeah, like they don't really explore the merits of or demerits of time travel very much.
+Like that doesn't really factor into the game.
+You can carry a pilot over like that's the only sort of progression between runs, as you can carry a pilot over from a previous run.
+18:12
+Well, you you unlock new ones too by picking up time.
+Pilots.
+Yeah, but you can actually.
+Like if you fail a mission or when you if you win the game, you can carry your fully levelled up pilot into a new game, which is fine.
+I don't think that it adds very much, but I it is kind of a depressing thought that like in every time the premises, like in every timeline basically humanity is caught in this war with the VEC and like these pilots are just like spending their full rest of time until they die, just like going in time and to like save humanity and a new timeline.
+18:49
+Indeed.
+And maybe it's a little early, but I I think you're maybe tapping into one of the failings of this game.
+I I do appreciate the less is more approach with the story and with like not getting too caught up in the ramifications of like time travel and and whatnot.
+19:07
+But yeah, the the pilots having to fight for you know, all time until the end of everything is depressing and it would have been great if there was some any kind of end game where like you may be get to end that cycle.
+19:23
+Some sort of pleasure Dome.
+Have another a 1/5 pardon me 6th island on the box with a special boss fight.
+Like I was shocked when I I finished this game.
+It it is, it is actually.
+To it.
+It is pretty shocking especially when you think of like the previous game that these guys did was FTL which like by the time you actually get far enough and then make it to that like flagship or whatever you're like holy shit this is like this is a boss and you feel like you had stand no chance like the the final boss of FTL or of I'm sorry into the Breach is like I don't doesn't even really exist.
+20:04
+It's just the final level, really.
+Right.
+And you just have to sort of defend a bomb.
+And there are like, it's a fairly hard level.
+And then there's but you given a decent amount of help of like, volcanoes erupting and like, chasms of lava opening up and then, you know, then it just ends.
+20:21
+Which honestly, I don't really mind.
+Like I find this game sort of soothing in a way that like other rogue likes, are not like FTL.
+By the time you get in, Like, if your run is going very well, it is like very stressful.
+20:39
+You're like, I can't fuck this up like I have to.
+I have to get there.
+Whereas this game I'm just like, yeah, I'll, I'll do a couple runs of Into the Breach.
+Because like this game even does the Super smart thing of basically letting you control how long your run is, 'cause you can, you can approach the final island after just beating two islands, which, you know maybe takes 20 minutes, or you can play through all four to sort of further level up your mechs.
+21:09
+But then they also very smartly like scale the difficulty of that final island.
+Meaning, if you go when there's only you've only beaten two islands, you'll encounter less resistance than if you go after fighting four islands.
+But you might not have those, like those tactical options available to like, you know, the like those random weapon pickups that you get along the way, like oh, now my my guy who could only move like 3 spaces.
+21:31
+I can like jump halfway across the map and push enemies out and like those extra strategic options.
+Or just like upgrading your MEC's health or doing more damage, you're you're yeah, you're sacrificing those upgrades for a potentially easier fight maybe.
+21:47
+Potentially.
+But yeah, I I was listening to a an interview that one of the the two developers for this game did and he was saying that like you know, when they were developing this game, they did start with a very much kind of FTL style mindset of like we'll have like an FTL amount of like story in it.
+22:07
+We'll have like an FTL amount of like this, that and the other thing.
+And they, I think they were coming to the conclusion of like, well, this is really just kind of getting in the way of the puzzle battling, which is like, you know, kind of like the core, the core part of the game.
+22:22
+And I seem to recall the developer, Justin Moss saying that, like they had all they had like all that stuff in it and they might have cut out like 80% of it to get what we have now.
+And I was thinking, like, wow, that sounds like a lot.
+And I think the end product is very good.
+22:41
+But I do have a, like a a note in my Google doc here of like, there's no, there's no, like, brain bug.
+There's no, like, big cathartic, like, we beat this.
+We've, like, solved this problem of the timelines.
+And I feel like that might be OK, 'cause, like you were saying, it has this very, like, this game is a very melancholic soundtrack to it as a very kind of, like, not hopeless, but, like, the fight will go on as long as it needs to kind of mindset.
+23:08
+And I feel like that kind of plays into like, the aspect that there is no big, big, bad brain bug, there is no, you know, big fight that you have.
+Or like the singular entity, like, we beat this guy, we win for all timelines.
+It's more of just like, all right, we got to, we've won on this time And then, all right, see your friends, we're going to a different timeline.
+23:28
+Hope you win there.
+Well, there's a little more to actually that that little end bit.
+There's there's a little snippet of dialogue.
+I think the first time you beat the lava island and quote win the timeline.
+Some pilot says like the more timeline, something to the effect of the more timelines we are victorious in, the more pilots we can send to those timelines.
+23:50
+And it kind of that suggested to me like, oh cool, after I beat it 5678 times, I will then have some opportunity to fight a big bad.
+And I I don't know, I I I think it is an issue.
+It's not such a huge issue that you know that the game needs to you know that no one needs to feel bad about it.
+24:12
+But I as a player, feel kind of bad about it.
+I I feel like they could have actually, you know, less is more, but I think actually less would have been more, even even less.
+Like they cut out 80%, they should have cut out 90%.
+I don't think that you need the timeline stuff at all.
+Like, I think it's just as well.
+24:28
+First of all, I hate time travel in All in all mediums.
+So that's a point off the game right off the bat because it's always time paradoxes and you get into this kind of stuff like, well, why did they go back in time here and not here?
+Like why don't you would when do you ever beat it?
+It's like it doesn't make any sense.
+24:44
+Just imagine Primer, but I think the win.
+That's say there the primer.
+That's not my issue to to be clear, but I I get what you're saying the time.
+Shenaniganship troopers.
+I don't think it adds anything.
+I I think that you could just be like, yeah, you get one weird special pilot and go beat the the thing and then you beat the game and you're like, good job, you beat them, yes.
+25:03
+But this is this is the Colin.
+I was under the impression that you liked Hades because it marries the rogue like replayability run based gameplay with story.
+And that's exactly what this time travel explanation does.
+No, but it has no story.
+Right.
+Yeah.
+25:18
+Just adding the time travel I don't think makes the narrative more interesting.
+There is no narrative.
+I think that they should have just embraced the fact that this is a chess puzzle game and it's a very good chess puzzle game, if that's true.
+Maybe narrative isn't the right word for me to say it.
+It's an explanation for the rogue like respawn run based mechanic Sure, but if I could have.
+25:38
+Turned off the narrative of this game and the CE OS talking to me at all, I would have.
+Really A?
+100.
+Percent really.
+I feel like it has like a fun tone to it and like the little snippets of dialogue are kind of neat and like each island the CE OS have a different, like personality.
+Times you see that you that as soon as you click on the island, you're just like, OK, I don't care.
+25:57
+Who the fuck are you?
+I don't know.
+Just let me.
+I know you've got some interesting things to kill here, let me just.
+Go.
+It's very important.
+They are a disembodied AI robot head that is floating in a Zordon style containment field and all of their robot bodies are going bananas on this ice continent and you have to kill the the monsters while also trying to avoid killing their sentient buddies.
+26:18
+What this this?
+I mean perhaps we are mixing up we are construing story with flavor.
+I think the different the flavor is good and I think the flavor is welcome and and if we just got rid of those CEOs and their different like tones of voice like the one lady from like the desert planet she's like super pessimistic and all the time that's fun The the Zordas lady she has you know some fun lines about how all sentient life is important etcetera etcetera.
+26:47
+Like you know it's I I think it's it's perfectly fine.
+Why do we don't have to get rid of all the story I?
+Think that you burrowing sobi.
+I'm kind of with Will, just in the sense that I I think that once you've played this game like because this game very much encourages you to do a bunch of runs.
+27:04
+Because really what the game is here is trying to accomplish achievements with each school.
+Each squad has three achievements that are unique to that squad, as well as beating the game with 2-3 or four islands with that squad.
+And for each one of those achievements that you get similar to FTL, you get money, which then you can unlock new squads with which totally changes the gameplay.
+27:29
+And so a lot of times like in terms of having a plan, feel like I usually don't need a plan to beat the game, but often I will need a plan to accomplish some of those achievements because they're like set 8 tiles on fire in one level.
+It's like, OK, I got to get a bunch of fire stuff or like I am deliberately like, sorry civilians.
+27:48
+Like I am letting civilians die in order to like accomplish more of these goals.
+And like similar, yeah, I mean similar to Bellatro because this is just that's a game fresh on my mind.
+Like Bellatro was the game that like so much just kind of laid bare like the mechanics.
+28:05
+It just had the thinnest, thinnest veneer of like, hey, there's graphics here.
+Hey, there's like cards that you know you know how this.
+But really, it's just like a string of math, and this game is just like a string of grids, and then you make the arrows point different ways.
+28:22
+But it's like super satisfying like there is.
+There's very few things that I enjoy more than being able to turn an enemy around and have it kill a different enemy.
+It's just so satisfying.
+Indeed.
+And that has to do with sort of this, this reactive turn based gameplay where you can sort of create through the mechanics, you can create these sort of chain reactions that are, yeah, very satisfying when.
+28:50
+You get like.
+A monster to kill itself or a monster to kill another?
+Monster push an enemy back and then like it will attack a different enemy and then it will block a vet coming up from the ground which is.
+It's just like this game just has so many mechanics that are integrated so smartly.
+29:07
+Like the idea of you can stand on one of these emergence holes and like prevent an enemy from spawning for a turn.
+However, like you will take a damage and then if you move off that hole it will spawn again next turn and you can get like more flooded with enemies on a turn where you might not be prepared.
+29:25
+And so I just feel like with strategy games, it's such a hard balance for them to have enough mechanics that you feel like you're using every tool at your disposal but not have so much mechanics that you're just like, yeah, screw it, like, whatever.
+29:43
+I'm not even going to engage with some of these.
+And like, I feel like I've pretty much engaged one way or another with every mechanic in this game.
+And they are all useful.
+Like you can get, you can like break an acid VAT and have enemies step on it and it double S the damage they take.
+And that can be really helpful.
+29:59
+Or yeah, like Colin was saying, you can throw enemies into pits like you could crack the floor open.
+I hadn't played this game in a very in quite a long time and I had forgotten that there had.
+They had added like additional free content to it the way that they did for FTL.
+30:17
+And I re.
+I do think that some of that advanced content like sometimes gets a little too complex in the way some of it works like you, just your brain gets a little melted.
+It's like adding a new chess piece to the board and you're like, oh, now I have to know or you have to keep and it's only like 1 new piece, but it's like I have to remember what the elephant on the board does.
+30:42
+Right, like I was not crazy about the idea of like using you have to like kill an enemy to crack spaces on the board near it and then you have to hit those spaces with another with another attack to like destroy the spaces and then you can throw enemies into them like OK, that that seems like a little too much going on.
+31:00
+Oh no, I loved that.
+One.
+OK, see because.
+Yeah, because you get you hit the thing first, and then you get the thing next to it, and then you just get the one hit off and the thing that's already there just drops down.
+Oh, you're painting.
+You're painting.
+A vivid word picture.
+There the thing you.
+Hit the thing.
+Just drops down, yeah.
+31:17
+The thing just drops down.
+All the listeners know exactly what.
+You're talking.
+About I, I, I hear you.
+Are we talking about the ice?
+I don't know.
+And there's always.
+Talking about the thing Andrew.
+Oh, pardon me.
+Seismic.
+Punch.
+I do.
+I kill an enemy and then it it cracks the land around them.
+And then if there's another damage that's done on that tile, the land cracks into an an empty bottomless pit, and then the bad that guy that's standing on top of that empty pit falls into the abyss.
+31:40
+This isn't a terrain feature, this is this is linked to an A piece of equipment.
+It's one of the squads.
+One of the squads is the, I think of the Cataclysm mechs or something are built around, sort of.
+Metal.
+Yeah.
+Destroyed.
+So with regards to items and things, we were discussing it a little bit earlier.
+31:57
+I had 17 hours in the scam.
+I beat it on easy, I beat it on normal, and I so rarely get to experiment with any of the items that I get because I never have enough.
+I never have enough reactor stuff.
+32:13
+You have enough reactor energy and I feel like the game is a little stingy in that regard.
+Because with FTL like you had, you were like you were getting a lot of those and you were like OK, I have like a whole bunch of the and it's it like like from the visual aspect looks almost identical to the system from FTL, which is fine.
+32:33
+Like, I think that's an that's an OK system and it lets you know that you are playing a subset games game, a game of quality.
+But yeah, like in FTL, you know, you're you're getting a whole bunch of these little energy pills and you're like, I'd like to put three energy pills over to the weapons.
+And actually I know I'd like to redirect two of those energy pills up to the engine.
+32:51
+And it's a very similar system here.
+But I get what you're saying we're like it.
+It feels like you may have maybe half as many energy pills to play.
+With well, I think it's part of that is 'cause they give you so many slots on your default mech of to fill up and like they get pretty good.
+Like like I said, like you don't need additional weapons to do well in this game.
+33:10
+Because usually each of the default weapons you could throw like 3 energy cores on them and it will add additional damage or it will allow you to like have your buildings not be immune to this damage.
+And so you kind of just want to keep buying cores to like pump up what you already have as opposed to spending money to buy weapons and then spending cores and then buying cores to put on those weapons.
+33:36
+It's easy to just cut out the middleman.
+The only the only things I buy consistently are the weapons that allow you to like deploy little tanks because like I feel like the most valuable thing you can have in this is like additional characters and action.
+Action economy is your extra action economy is amazing.
+33:54
+Because any anytime you can sort of handle two enemies with one, you know, one attack, you're doing well.
+And tanks are also very nice because since they are unpiloted, they're like totally disposable.
+And so, like you're just like I am going to use this tank to just like, you know, bodyguard a building here and on the last turn of this round.
+34:17
+Yeah, here's like.
+Freezing is also STR.
+I mean with the with the little tanks.
+Very cool.
+I played like probably another 40 hours, like two months ago.
+And so I'm like, I don't have it all quite as fresh in my mind, but I remember thinking, Oh my God, freezing shit, holy Christ.
+Yeah, and it again.
+34:33
+And that's just another example of things working in a very intuitive way.
+Like you can freeze, you can freeze anything.
+Like, you can freeze buildings, you can freeze yourself, you can freeze enemies, and like when something takes damage, like the shield that the ice melts on it.
+34:48
+And again, it's just another example of this game feeling very fair.
+Like I never feel like often in Rogue likes.
+I feel like I'm going to try this just so I know how it will work in a future run.
+And then sometimes it just doesn't work and I'm like, oh, I guess now at least I know that it doesn't work.
+35:10
+I don't think that has really ever happened in the many hours that I have played this game where I like try something and then I'm like, oh, that didn't work the way I thought it would.
+It almost always works the way I think it will.
+That's been my experience as well.
+There's one or two times where, yeah, only only a handful of times where I've genuinely felt like, Oh well, that wasn't communicated properly.
+35:33
+Harrumph.
+I I feel like the the little hover over, you can look at what order in which actions are going to take place.
+I feel like that system is a little, a little difficult to follow and there were a few times where it's like, oh, I thought I thought X was going to happen before Y, and that's not the case, but.
+35:49
+Yeah, sometimes it's hard to keep track of the fact that the one comes before 2 and.
+Well, I'll have you know there was a lot happening on the screen and it was a little unclear in the UI like, OK, how much damage is this going to be and what is being damaged?
+Because that's true, the spaces of red and.
+36:06
+It sometimes gets overfilled and some of the newer enemies that like newer enemies, AKA in the advanced content that came out two years ago, they'll like have a thing where they're.
+Like, was it two years ago or one year?
+I think it's two.
+I think it came on 22, where they're like they attack one way and then they bounce the other way.
+36:24
+So there's arrows pointing both directions.
+It's kind of hard to tell which direction means.
+What But that's The thing is that you can just like for all the skills and this is what I really love about it because it does get sometimes confusing especially you get a new a new squad that you're playing and like oh what does this do?
+You just mouse over like the ability and you get like a little demonstration of exactly how that thing works And then if you level it up you don't get the same like animation and actually oh, you got one more range it shows you should doing one more range.
+36:49
+And so it's like that was such a really, really good feature to have, and especially in an animated fashion and not like a wall of text or like in a simple image, so.
+It's pretty elegant and it's it's an elegant game.
+It's perfectly integrated into the game too, like you don't even have to go to the in game wiki because it's just like hover over it.
+37:08
+It just shows you and hover over the enemies and it shows you how their attacks work.
+Yeah, that's usually.
+That's your point how?
+And like usually when I think of like a sort of major mechanic in Rogue likes it's like spend a long time looking at wiki to know like what is out there and how everything works.
+37:26
+Yeah, either in game wiki or some, you know, random wiki on the Internet with thousand ads on the sides.
+Right.
+Like this game has no sort of like WEP like collection like sort of weapon unlockable list or something that you do with that.
+37:44
+That's just not a big part of the game.
+So it's like, I always kind of forget that this game even really qualifies as a rogue, like because it's just that doesn't feel like that much of its design philosophy.
+And as far as the back, back to the items for a moment.
+38:03
+And with regards to the greater conversation about rogue lights in general.
+Rogue likes and lights.
+It is what I'm looking for in a rogue like experience is I want the runs to randomly have items or some other you know, major, you know random factor and I want to be excited by those items.
+38:22
+And I did not feel excitement almost ever when getting items, except for I was delighted a few days ago to find out, hey, if you perfect an island, if you get all the objectives and you get all the bonus objectives.
+Pardon me if you protect the grid and you get all the bonus.
+38:39
+You don't need to protect the grid.
+You just have to get all the objectives with objectives.
+Very much part of the strategy is you're like, well, I guess the 802 hundred people in that building are dead because I want to just, you know, not kill this volatile mech.
+So I'm just gonna let it kill the people.
+38:56
+Yeah, we gotta make sure this milk delivery gets to the other side of the screen.
+The.
+Trains got to get there on.
+Time.
+But yeah.
+So when you do that, you do all the optional objectives, you get a little gift, a little extra item.
+And that I did find exciting because it was more of AI think part of the reason I was excited by that particular item drop is that it's done in a more familiar rogue like loot way, where it's like here are three options.
+39:20
+They're all pretty good and that's when you get to make an interesting decision.
+And again they're they're they're generally exciting.
+So I mean, well, and this isn't a huge, you know, negative per SE, but I think you're totally game.
+I think you're totally right, Andrew.
+39:36
+Like when I think of games that I've come on and talked with you guys about before, like in a game we both really like, we enter the dungeon which is like totally built around like look, there's a giant black chest.
+I'm going to open it and get some nuts item like here, the items, most of the items you can get are not, they're not better than your starting items.
+39:56
+They just give you another, you know, another potential piece of your arsenal or like another option to go.
+Aren't most of the items that you can get just the starting items of other mechs?
+Not all of them.
+But not all of most.
+Many of them.
+40:11
+Many of them, sure.
+It's not all I'm not knowing that.
+It's all I just, I just I have like all of these squads online at this point.
+But I haven't.
+So I haven't like actually diligently gone through and verified this.
+But it just seems like, Oh yeah, Oh yeah, I had this before.
+Well, I think, yeah, they probably are all there, but there is also probably, I think there are some more that that only appear in the shops, like I don't think any of the mechs start with the ability to drop tanks for example.
+40:38
+I Isn't there one that?
+Focuses there There may be.
+I mean, this game has a lot of mech squads and I have not.
+I don't think I've unlocked them all 'cause the last squad cost like 25.
+Yeah, that's the one I'm not I haven't got yet.
+I was hoping someone could spoil it for me.
+OK.
+Well it.
+Remains a mystery all.
+40:53
+Right.
+Well, I'm gonna Google it right now, OK?
+All right, spoiler warning.
+Folks, Yeah, I think there's maybe there's at least 10 squads and like each one of them is gonna have, you know, three or four different items per squad.
+And as you were saying earlier, great, great variety.
+41:08
+It really takes the the, you know what is a fairly verbose rule set and like does a lot of interesting cool stuff with it.
+And I will agree that like even though there isn't like a greater story reason or a greater like boss fight reason to keep playing the game, the game is so fun and the squads are so fun to play with that it warrants replaying the game.
+41:32
+So I mean lucky for this game, it's so fun.
+I don't know if all games would be able to to achieve this.
+And I think that was the insight of the designers just being like, we need to keep stripping this back and keep stripping this back because yeah, they just came up with a very satisfying game to play.
+41:49
+And I feel like your criticism to Andrew, I like totally agree with it when the sense that like there is not really much narrative thrust to it.
+There's no big boss yet, there's no items that make you super excited.
+But like that's not what really, that's not what this game is about.
+42:06
+Like it.
+I think that these guys clearly had an idea of like we are going to make a very stripped down sort of tactics game with like consistent, easy to grasp rules and they just executed that perfectly.
+And so it's like if you want these sort of giant loot shooters or like you know where you can make these sort of super nuts OP builds.
+42:31
+There's plenty of other rogue like games that do that and this.
+Is that's true and that was actually a point that I I brought up a while back on an episode where it's like well there's other games that that do that.
+So you yeah, you you are correct.
+You come to enter the Breach for a sort of tighter, more controlled, controlled.
+42:49
+I don't know like implies like it's restricted but like a more.
+I think.
+I think controlled is a fine word.
+I mean this game, I don't know, I just very much like it.
+It to me like you mentally, even though this is like a mech game, nothing strikes me as being big or impressive in its like there's no, there's no grandeur to the way this game looks like it to me.
+43:14
+It just very much looks like somebody set a row of hex tiles of like 8 by 8 on on the counter in front of me and put little miniatures on there.
+So oh.
+Oh, are we back-to-back to talking about hero clicks?
+No, we're we're talking.
+About miniatures battle, Very much, yeah.
+43:31
+Oh, real quick.
+We gotta go over to our wiki update corner.
+Will What's the word on the final unlock?
+OK, so spoilers.
+Whoa, my God for whoever.
+No, we always spoil everything on this.
+So the secret squad is giant spiders from FTL, not Wild West.
+43:49
+It's essentially you're playing as a Cyborg version of three enemy units.
+Oh.
+That's kind of cool.
+They are apparently utter shit and everyone hates them And yeah, the techno beetle, techno techno Hornet and techno scarab and basically you get the starting weapons and their thing is that yeah they're trash basically that's their thing and like you can't if you if you want other weapons it cost an additional energy because of the technology differences and and you and the the pilots don't die but you can't swap them out and they just lose experience if they take damage.
+44:23
+So it's like, yeah, it's just, it's just not a very good one.
+And everyone's saying it's the worst and it should.
+It should have stayed a secret, I think.
+Interesting.
+It should have.
+Stayed a secret?
+That feels kind of dirty because just for context, like most of the squads you unlock cost like 4 coins to unlock, right?
+And the Secret squad cost 25 and it's just sitting there taunting you being like, oh betcha this is going to be some super nuts powerful squad.
+44:45
+Like you could form these guys together and make an Omega Zord.
+And it's like, no, it's.
+Just some some.
+Garbage it would be.
+Awesome.
+Just there's a there's a squad that's just one mech it.
+Would.
+Happen I want it to like be like Power Ranger style, like all uniting together, all like you know that would like a Tyrannosaurus.
+45:03
+Or whatever.
+I mean, I yeah, that should have been the secret mech squad, 'cause that would actually be pretty awesome of something.
+Where you know they all have the ability to like align into one Mac that gets like 3 moves in a turn or something.
+I feel like there's a like a wait hold.
+On hold on one SEC, Andrew.
+45:19
+There are secret pilots that you can get that.
+Are the people from FTL really a rock man?
+Thank goodness.
+Zoltan and Mantis.
+That's outstanding.
+I feel like there was a a missed opportunity for like your your like a narrative catharsis where you are beating all the different mech squads, you're grinding up that currency.
+45:39
+Aha, unlock the secret squad, wait the secret squad or actually the bugs the whole time and then using the bugs to fight the bugs.
+That being the way to like close the loop or something like some kind of I used, you know?
+I used the stones to destroy.
+The stones bit, but I don't know.
+45:56
+Do do you guys think like quick quick poll of people on this podcast who have played a lot of Rogue like games?
+You guys think that Rogue like games should have like in end like Spelunky is a game that I played a ton and like Spelunky has a secret entrance where you can go to hell and then like beat the quote UN quote final boss and then it's like great you have now beaten beaten the game and like this game doesn't really have that.
+46:24
+I guess I I I'm just curious if you think there should be a thing where you're like you have accomplished the final challenge or it's just like up the difficulty?
+Right.
+OK.
+Quick Poll I say yes.
+Yes.
+I.
+Don't know.
+I I feel like I think I'm with Will in that.
+I don't think it needs that.
+46:41
+I think, yeah, I think there's many games.
+That like I would prefer it, I guess is my more nuanced answer.
+For me it it it helps with the the, the motivation and and I think it informs all of those replays.
+But you do it once.
+That's the thing.
+It's like it's exciting the first time.
+46:56
+The whole thing about this style of game is that, like eventually that's supposed to be like something that you just like you.
+You learn and you get good at it.
+Like, you know, just to, you know, killing the heart and slay this fire yet that is a boss.
+But it's like also you know it's something that like you just come back and do again and and again and again and so I I don't know I felt like that's I don't know does that put me in the camp of wanting a boss.
+47:19
+I just, I don't, I don't feel like there has to be this big epic turn like thing that's just like the thing to end all things because in that you just you return back to the the beginning again you know you.
+OK, let me qualify then.
+I don't think that there necessarily has to be like a super final secret boss, but I do think that there needs to be more than one level of completion, so.
+47:40
+Like, there you go.
+So you enslave the Spire.
+You have you, you beat the game the normal way, and it's like, whoa, they're now here, You've unlocked the seat.
+This the thing you can do the even better way.
+Now is that different?
+The thing that you used to crack the ground and into the Breach?
+Is that a different thing?
+You unlocked and slayed as fire.
+47:56
+It is, in fact it's gems or something, but yeah, like there.
+So, so in this game it seems to me like you could beat it on your first run and you have now seen the entire game.
+Well, you have not, because you have not unlocked all of the other squads.
+48:14
+But you have seen the entire content of the game that you could play.
+You can like you play it the first time.
+You've seen all four of the possible islands, you've seen the one exact ending scenario, and you've potentially seen most of or all of the bugs.
+Yeah.
+48:29
+But I think that there should be, I think that there could be slightly more randomness in the islands and I think that there could be maybe even the in the harder difficulty modes, they're just but.
+I feel like this game is so I don't know.
+And I guess again, this probably just comes from being a board game guy, but I feel like this just so clicks into the same thing I want from board.
+48:47
+It's like you don't play a game of chess with someone and beat them.
+You're like, well, I've seen all of what chess has to offer.
+Like I'm done with this.
+It's like it's about exploring the mechanics and it's but.
+You do do that in a board game.
+If you're playing a solo game where that's all there is, I have the chess has another person that you're playing against this I.
+49:08
+Have the but I have.
+The solution?
+Solo board games and you, you again.
+You don't just play them once.
+You're like, OK, I'm going to try and beat my score.
+Scott has the solution.
+Yes, the solution here because this is a a puzzle game at heart.
+The and like effectively like a chess variant if you squint your eyes hard enough.
+49:27
+The the lead chess website has some very interesting things and I'm like hmm but is this what like an Into the Breach 2 would need?
+So the the Lee chess website has like these like little chess tactic like bite sized puzzles like the puzzle of the day puzzle du jour.
+49:46
+And I feel like Into the Breach would be well suited for like a daily, a daily mode of just like, hey, here's like the puzzle of the day like this.
+It looks really hard.
+Maybe you only have like 1 energy bar left or something.
+How do you go about solving it?
+And I think there's there's like, that one aspect.
+50:02
+But Lee Chess also has things like puzzle streak and puzzle storm, which are like, OK, you've completed that puzzle.
+Here's another one.
+How far can you keep that streak going?
+And each puzzle is like, I mean, there's like, you know, zillions of combinations that you could encounter in this game between like the random Max, the random pilots, the random environment, and then the random bug setups.
+50:24
+Well, not random, but, you know, like the the different variations feel potentially bottomless.
+And to like, chain those together in like a sequence of puzzles to be like, OK, I've beat this puzzle.
+Oh, like some kind of time warp thing happens and I've been warped into another puzzle and now I have to solve this one.
+50:42
+You got to keep that streak going, man.
+You got to keep those numbers going up.
+I feel like that that's like something that could keep me coming back even after I've already beaten the quote main story of the game, to keep that kind of like slay the Spire style of oh, but this time I want to try, like to see how far I can go before I lose.
+51:03
+Yeah, I guess I feel like that this game by I I have put quite a few hours of this game.
+I realized I have sort of equally split time in this game between my PC and my Switch, which is not a good way to play games like this because I have sort of halfway unlocked content in both of them.
+51:19
+But like the the the fun, exciting part of this game is unlocking new squads.
+And like by the time you have unlocked the new squads, you have put like probably 40 hours into this game, which is like plenty of time for what, a $15 game at this point.
+51:36
+So I don't know.
+It's like this is very much like I would prefer a game that knows what it is doing and does it very well, as opposed to a game that's trying to do a little bit of everything and like that's that's what I respect so much about this game.
+51:52
+One, this game definitely knows what it's doing.
+The developers definitely know what they're doing.
+It's it's a very good game.
+It's it's a great game.
+Dare I say one one more bit of pushback on this point about there being final bosses needed or preferred or what have you, Woody?
+52:09
+Like what If?
+Perhaps isn't a perfect example, but let's imagine we lived in a horrible alternate timeline wherein Enter the Gungeon had no like bullet component.
+It's like you just got you killed the dragon and that was like that was the last boss.
+52:26
+I feel like it would be a lesser game, but it would still be, I think, a pretty long game and a fairly complete experience, but it would be, I think, a lesser.
+That's true, but I think it would only be lesser because you and I both really are into that game to like.
+52:44
+It's like though that sort of level of content only appeals to people who like, all right, you have put, you know, 40 hours in it.
+I don't think it would be that much lesser if there was essentially just a difficulty toggle like 'cause it was it was like Will said, like very much, when I finally like beat the rat or beat the advanced drag on or whatever, I was like that was really hard and like pretty annoying.
+53:10
+I am not going to do that again.
+I just can now cross it off of the list.
+It was like by adding those additional challenges, I was more sort of irritated trying to accomplish them, then having fun just engaging with the game.
+53:26
+Or the only thing I really want in a game is a reason to keep playing it.
+And I guess this is true.
+I would prefer the Into the Breach setup of not that horror.
+Like, nothing is outrageously hard of a goal, but like each time you accomplish something, you unlock a new squad, as opposed to like setting some kind of like super hard goal, like beat the game on Unfair.
+53:53
+And that's the only way you can unlock a new thing, 'cause that's when it gets annoying.
+It's like I was talking to Will about Balacho right before we started.
+It's like at some point you reach like these accomplishments where it's like win, win a gold stick, run with every joker and it's like, am I really gonna keep playing the game to try and achieve that goal, 'cause that just like maybe I maybe you like the game enough to go for it.
+54:17
+But like at some point my enjoyment of the game versus the will level of frustration I'm willing to put up with kind of like teeters one way or another.
+And I think Into the Breach never reaches that point.
+It might reach that point now that I know how shitty The Secret Squad is.
+And I'm sorry.
+54:32
+Not gonna try and get 25 coins to unlock it.
+Yeah, how hard would it have been?
+Like, I I feel like the the easy route is just make the final unlock.
+Like make it just make them really good.
+Make them the bugs, Cyborg bugs.
+But just make them, you know, kick ass.
+What's?
+Interesting to me here is that when I was doing some stats pulling I was shocked to see Into the Breach like quote so far down the popularity list.
+54:56
+I was like this is going to be like an easy like top 15 because it's made by the guys who made FTL which is Crankson at #17 at 69,000 ish something reviews.
+But into the Breach.
+I don't know if this is just like sequelitis or something and people are just like, yeah, we've seen the FTL guys game, but like that one's like FTL is like four times as popular as Into the Breach.
+55:19
+Is that is that like a symptom of just Into the Breach being, like around longer?
+Or is like, 'cause they're like, they have very similar you're only pulling stats from PC, right?
+This is just Steam, but I imagine it's probably emblematic of the rest of.
+Those.
+55:35
+I don't think so, 'cause I don't even think FTL is on Switch like this game.
+This game plays quite competently like on any console on any platform.
+Like playing FTL on a small phone or, you know, on APS 5 is no funzos.
+55:55
+You really need mouse and keyboard to play FTL.
+And so like, I think that this game is probably more popular than just the Steam stats would imply, but I don't.
+I think that this game probably suffers, but I guess this is true of FTL.
+Like, it doesn't look that interesting, like you just see a screenshot of you know, like, yeah, I got it.
+56:15
+Like, I'm Why am I excited to play this game about, like, moving units around on a grid?
+I can do that in Fire Emblem and have like hot anime.
+Characters.
+Well, 'cause you see like the black Bishop is gonna take knight G6 and then the pawn is gonna emphasize at the same time and then the other guy's gonna castle and you're just you have all these grid lines drawn on the on the chess board and you're like, Oh my God, what is this insane puzzle before me?
+56:38
+I must unpuzzle it.
+Right.
+Well, I mean, I think that it speaks to like what?
+I don't know.
+I think it speaks to kind of what Andrew was saying is there's no like screenshot of this game that has like some giant super cool weapon or like you can't watch.
+If you watch somebody like play FTL, stream, stream FTL or something, it can be like exciting because they have this sort of weird, crazy build or like they just pull off this thing to deflete the flagship here.
+57:04
+If you watch someone stream into the Breach, it's mostly they're quietly thinking and like just this stream or.
+Watch the stream of this chess puzzle.
+Yeah, exactly.
+I mean, you know, there are lots of chess streamers, lots of successful chess.
+Streamers, you know, Hings Crusher, big fan of the podcast, I I will say.
+57:20
+And I'm sure Magnus Carlson is listening right now and he's like you know what, all these chess, these chess games that these guys talk about are sublime.
+But yeah, like, I can.
+I I I feel like previous episode that we talked about, like the last spell has a lot of visual stuff going on with like fireballs and like encroaching enemy hordes.
+57:43
+And when you use a inability, there's like a big explosion.
+And it's very, very visually interesting to look at, you know?
+And here like Into the Breach, it is visually like basically any time that we talked about a traditional rogue like game, we're just like how come this doesn't have graphics like Into the Breach.
+57:59
+I feel like that that's kind of like.
+Cog Mind in particular, that was that was the big thing, I said.
+It'd be Cog Mind good game if Into the Breach graphics.
+Well, yeah, well, because cog mind the way it looks like my I mean, I think the cog mind looks like shit.
+But like, my main problem is that the way it looks sort of becomes an impediment to me understanding how the game works.
+58:20
+Like I think that Into the Breach is not technically an amazing looking game, but like it is graphically very, very clean and I can sort of see how everything is going to.
+Work I I personally would go so far as to say that it is a good looking game.
+58:39
+I think that the it's simple but it's it's elegant and like just the like the character portraits for example, very simple but like just enough detail to like get across some character.
+The only animation that they have for the characters is is is them like blinking and it's like perfect that's that's all I need.
+58:58
+It's great.
+They each have like a certain kind of look to them and a feel to them and.
+Or if your mech is like down to one health, it's like blinking red in the cockpit and.
+They're like love it, like all sorts of great anime shit going on in this game.
+It's outstanding and the like just the animation of I was really struck when I first started playing the the animation of a mountain crumbling I thought was pretty cool and the buildings crumbling like it it it does.
+59:25
+I mean after you're jaded and you're you know, 50 hours into the game and you're just playing purely for the mechanics.
+Obviously you're immune to this but when you first start the game, the game does a pretty good job between graphics and and and and sound and the the actual like numbers on screen making you feel bad when a building gets destroyed especially when a building gets destroyed unnecessarily.
+59:48
+Oh, there were however many you know of of Earth citizens in there etcetera etcetera and and the way in which your your mechs drop in the menu screen etcetera etcetera.
+I I think it's it's a very nice presentation and is is.
+1:00:04
+There's a reason that we point to it and go well, if only this game had.
+Into the breach, Into the breach's graphics.
+I I think I feel like we would be remiss if we didn't talk about two other primary game mechanic or like components.
+I should say one is a time for a time for a run and the other is the overworld and how and how those differ and pros and cons and maybe these things.
+1:00:24
+And I'll just say for like time for a run if we're going to put onto the more the the the negative side.
+I think I might put it into that category simply because I mean it's AI mean often times I I I mean I haven't actually finished a run like in this week but I recall these getting quite long.
+1:00:41
+If you want to do like all the islands and I know you can choose, but a lot of the achievements required you to do like more islands and so I don't know do you guys feel like it's maybe gets too long too short or you feel like this structure is OK.
+It feels about.
+Right to me, I I know that will like you.
+1:00:57
+You are like the poster child for like sitting there scratching your beard for like 2 hours to be like is this the most optimal move?
+When this this game very much has a lot of that.
+Oh yeah, but I was just looking at the last run that I did.
+I did a 2 island hard mode run and I was doing a pretty fair amount of beard scratching the the whole time.
+1:01:16
+And like that took me like an hour and 20 minutes to get to the the the last turn of the last island or the the boss fight phase after two islands hour and 20 minutes.
+And that felt about right for how much thinking I was doing in it.
+That's like that's only two islands, right?
+1:01:33
+If you did all of them.
+I mean it's that's what we're talking about.
+I remember like sometimes getting into like 3 hours and be like, wow, that achievement.
+Like I don't even want to try and do like they're all worth the same.
+Like if I recall and like I would just get like whatever.
+The short one is the thing that just makes me like I can just get in and get out and not even finish the run.
+1:01:49
+Really just like abandoned the.
+Time I was I was watching a streamer just before this doing a a hard mode 4 island rift walkers run and he it was looked like a StarCraft RTS match.
+He was just like click click, click, click, click, click, click, click like.
+1:02:05
+It was just on a totally different level of of like puzzle completely yeah.
+I it might be a little long, but I I think we've kind of already determined that this is not a traditional rogue like.
+So I don't know if it necessarily needs to be beholden to the perfect runtime necessarily, yeah.
+1:02:25
+But you have to do.
+So many runs. 40 minutes and one hour.
+I'll give up to an hour and 20 minutes if it's if it has that extra, like you know the the STS get into the heart, the final component, but like.
+I think you could do that on on easy or normal and still have like a fun time.
+1:02:41
+I don't.
+I don't think there's any additional benefit to playing this game on hard other than just like getting like, the the gold badge for that score, yeah.
+Has anyone beat the game on unfair here?
+I haven't beat the game on hard.
+I I think I, I, I mean, I can pull it up here, but I'm pretty sure I beat it on like all the different levels because I'm like, well that's the last challenge, right, the final frontier and so.
+1:03:03
+I I I didn't like.
+Like I said the the new content got added like two years ago and I think I played this game like right when it came out.
+So I didn't even realize the that they had added an additional difficulty mode because I don't think unfair came with it.
+I know that I had beaten it on hard.
+1:03:18
+But yeah, it's it's very much.
+I mean the heart of two of strategy games is having the difficulty be right.
+Because there's there's very few genre of games that is more boring if they are too easy than than a strategy game.
+1:03:34
+Because you're just like move piece here, destroy enemy, and then you're just like go, go, go and it just feels like kind of a waste of time.
+Or I Conversely, there's few genres that are more demoralizing if they are too hard and you're just like, I can't win and I'm going to throw my hands up.
+Would would Into the Breach be better if instead of like the same four islands, it was like a random selection of three out of a pool of like 10 or 15?
+1:03:58
+I was thinking that.
+I don't think you even need that many.
+I think it could be 4 out of 6 and even that would be better.
+And then there's two different scenarios at the end.
+Or three.
+Island or Ice island or something?
+Yeah, I like that.
+Or three, Yeah, three out of six.
+And then you can finish, you can finish the map at either two or three islands played through or maybe even one, I don't know.
+1:04:20
+But I I don't know.
+It's not something that I've ever had a big problem with.
+I do think that one of one of the weird acknowledgments of like most of these Rogue like games is, you know, they always have like a save and quit option.
+Do you do you guys find that whenever you save and quit and then like come back later, you just always fail, like right away?
+1:04:37
+'Cause you're like.
+Done.
+As soon as you save and quit, like, yeah, you're the game's over.
+In in.
+In this case, no, because I was playing.
+I was like stuck on one of these hard mode sections while playing on the bus.
+And I was like, man, I really can't figure out the solution to this.
+1:04:55
+And then I saved and quit on the bus ride home, popped it back open on the steam deck and like, of course that's it.
+Like I just had to step away and like not think about it for, you know, a whole work day.
+And then as soon as I popped it up, I'm like, I forgot about this ability.
+What if I put this here and this here and then everything just kind of locked into place and it felt so satisfying.
+1:05:15
+So I feel like in this case like the save and quit thing, particularly for like, this puzzle aspect works pretty well.
+Yeah I I generally it is my experience that yeah I just I come back to the safe and in a in a rogue light run and I do terrible.
+But that being said Scott, you're you're you're hitting apps.
+1:05:33
+The the heart of this game, one of the the finest elements of it, is that satisfaction that you get when you put that plan into action and things go, which is similar to I I spoke on this topic about Bellatro where it's like making finding finding the solution to that puzzle feels feels great in this game.
+1:05:53
+Did we talk about who the best squad is?
+Who is the best?
+And why it is the rusting hulks.
+Why is it?
+Remind us?
+Why is it the rusting Hulks?
+Because you have a jet and you have a spider mech that pushes people, and you have a a mech that's just a big rocket.
+1:06:10
+I'm unconvinced that that didn't intend that wasn't.
+Very The Jet.
+The Jets can't.
+Even fly over buildings.
+Well, because it's fly, it's weaving in between them.
+It's getting your Top Gear, your Top Gear, your Top Gun like.
+Sure, sure, sure.
+I I personally like the the Zenith team on account of them having a like an ode to Metal Gear is as their main sort of * mech.
+1:06:34
+And then also like you just have the silliest mech in my opinion, which is literally just like a Tonka truck.
+Like you just frame it into things and it deals damage to itself when you do that.
+And then you have and then it's all topped off with the with the Amerigos you have a little science vessel just kind of floating around giving buffs every once in a while dealing one damage while also damaging itself.
+1:06:55
+The Hulks are are pretty cool.
+They have they have a great name and their whole like sort of dust thing is is good.
+I was actually going to ask this very question.
+What are what are Y'all's favorite teams?
+I can't remember to be honest.
+I mean, I, I, I I know they all, they all were like fun and then like you get into them and.
+1:07:11
+Or least favorite?
+Is there one I feel like the most?
+The original, the ones you start with, I'm pretty sure that they were like the the most.
+I I won't call them overpower, but they were like one of the best ones.
+The ones that take damage right when you do anything or they they they heal themselves when they.
+1:07:30
+I don't remember their mechanic, but I remember that was like a a pretty powerful one overall.
+I mean my my favorite, my favorite squad is the squad that I have not yet unlocked all the achievements on because that is the one that I'm going to be playing.
+Yeah, and and very much I will not go back and like play a particular squad if I still have another one that I need to unlock.
+1:07:50
+I do remember disliking the squad that had the whip mech where you would have to like chain a bunch together because it would it would hit your buildings and so like you would have to level it up to like make it not hit your buildings.
+And I just found it irritating.
+1:08:06
+I don't.
+I I think the squads that are the hardest to play are the ones where only one of the mechs sort of does a meaningful amount of damage.
+I beat.
+It with Steel Judoku and they're, I think they start with only one of them being able to do any real damage, but they're they're 100% just like moving and they make it so that you, the enemies do more damage.
+1:08:30
+Oh, to each other.
+Yeah, that's.
+Cool.
+And I found that to be actually a pretty fun squad to play.
+It was just like shoving them around the map and like flipping them over you and then pulling them and then having them kill each other, which felt great.
+Have any of you guys played the game or is it?
+1:08:45
+Is it?
+Are you going to play it on the pod of fights and tight spaces?
+We did, yes.
+OK, what?
+What do you guys think of that game?
+I should.
+What made quite the impression for Will?
+So much so that at one point he famously mixed it up with another game.
+But I think appears to be 16 out of 43 oh.
+1:09:04
+OK.
+I really like, I really like that game and it that was very much though just like hey, I'm just going to we're just going to steal the mechanics from Into the Breach and sort of put it a Sheen like kind of mix it with Slave Aspire and I'm like well those are both great games so you're probably going to.
+1:09:22
+Come with a fun game.
+It's a.
+It's a would recommend.
+Yeah.
+But again, that that is very much a similar thing of like really the mechanics.
+Like they start you basically with everything that you need.
+You don't need as much of A plan to kind of get through it.
+And it becomes, yeah, what what?
+1:09:39
+To me it is a much less stressful playthrough then I'm going to try and you know, beat the rat in Gungeon or something.
+And does tights and fights, does that have a rewind mechanic also?
+Yeah.
+How does that?
+Handle fights and tight spaces.
+I don't think there's any time travel explanation.
+1:09:56
+That's the thing that's.
+Funny is there?
+Is there a reset you know can you take back?
+Moves.
+I believe there is, yeah.
+Yeah, but that's what's so weird is like the designers of Into the Breach are like we need to have like time travel fit into the story to explain why you can restart your moves.
+And it's like guys games have been doing that for like 30 years.
+1:10:14
+You just restart, you just die and restart.
+They don't all have an explanation of.
+They all have time travel in them.
+That's the scene.
+Where Mario falls in the pit, that's time travel when.
+He Yeah, but then also there's gold coins that he used to unlock new squads.
+Space coins.
+Yeah, like the vec of left there loose change around and dig through the the earth.
+1:10:34
+Anyway.
+You know I I thought it was kind of fun having a having a protagonist that you're sort of Tom cruising through the different days after tomorrow, you know, personally, but.
+I I feel like an an underrated aspect of those time traveler guys is inevitably like, I feel like this happens like once every few runs for me.
+1:10:54
+Like I'll get to the final boss and the time traveler guy that I've had like super leveled up, that I've like carried through like two or three different campaigns.
+I have to use him to sacrifice himself at the end level.
+That's so awesome.
+And it feels like such a storybook moment of like he survived all these different timelines and finally to like to win this one he has to like give himself up to and.
+1:11:16
+It's not even his timeline.
+He's.
+They are sacrificing themselves to save people.
+Not only they don't know, they had no opportunity of knowing beautiful multiband.
+Why would you think you're underrating the plot here?
+What's the philosophy behind that?
+1:11:32
+I mean, consider the infinite number of timelines out there.
+You'll never be able to make any.
+I wanted to.
+I wanted to talk.
+About a happy.
+Life, The ethics of Forsaking a timeline and the ethics of like.
+I found myself attacking buildings on purpose so that I could like restart.
+1:11:50
+And I'm like.
+Oh, what are the moral implications of this in A?
+You know there's a restart button, don't you Andrew?
+Oh yeah, yeah.
+Which I know this is just like, you know, a cutesy fun to have conversation.
+Well, yeah, but.
+I.
+The fact that the game developers did not waste a bunch of time with trying to over analyze all these you know, all this, this baloney is I think probably for the best.
+1:12:15
+Yeah, but I think we haven't talked about is our.
+I don't know about y'all, but I had to come face to face with my total disregard for the sanctity of artificial life.
+I in a lot of my runs if I didn't have a pilot in the vehicle that thing's disposal, well, I don't give a hoot.
+1:12:38
+Like even the named characters they're robots.
+I'm like they're the first one to go.
+I'm gonna use them to block the the the giant scorpion.
+'S comedian, though.
+Fucking two moves you got.
+You got to keep our comedians.
+Alive.
+That's that's great.
+But I'm sorry.
+My boy.
+Ralph, my main gal.
+1:12:53
+What's her name?
+Vera, man.
+Is that the Pink Hair Mohawk?
+Oh, I'm thinking of Kalima Vera.
+Who is?
+Who is?
+She doesn't take any webbing or something.
+Yeah, she's immune to webbing.
+No, that's to take the pink hair, pink hair, Mohawk Girl S tier, one of the.
+1:13:09
+I mean the Mohawk in general.
+I really.
+But yeah, yeah, what do, what do y'all any any anything about that.
+Did you find that you were you were more more likely to sacrifice 1 mech or the other I guess?
+Or was everyone just making purely logical check I think did this in yellow decisions.
+1:13:28
+This game very much encourages you to just make logical decision like it because there's a lot of situations where you're like you don't prioritize.
+I mean, everything is a balance you're going to get in situations where like a building is going to get hit or like where your character is going to take damage.
+1:13:47
+And so like there was a lot of times where I was just like, well, people in that building are going to die because I want to accomplish this, this mission and this goal.
+And so you don't.
+And then critically, interestingly, the one bit of RNG in the game, sometimes the grid has enough defense and the building.
+1:14:07
+Is saved.
+Stupid.
+That is the most satisfying little.
+Stupid.
+I'm, I'm, I I don't like that as a game that is very light on RNG to kind of just throw that in as a mechanic.
+But when it works.
+It's conflicted.
+But yeah, when it's good, it's good, right?
+1:14:23
+Sure.
+But when it's bad, which is most of the time, yeah, it's it's I I agree.
+I'm conflicted about it as well.
+I feel like all these games are about taking a like like any sort of game with randomness is is about trying to build down to to get rid of that randomness.
+1:14:39
+This is like, you could never you could never get high enough that you're like, Oh, well, I just won't care about it getting hit.
+So it's only a blessing, but you're just like, oh, right, Huh.
+Yeah, What's the what's the highest you can get it?
+Like 25%?
+Isn't that it?
+Yeah.
+And it takes a lot of investment to get there too because you have to fully like power your grid and then keep dumping more into it for the hope that I mean like if if at that point like you're it's just.
+1:15:05
+It's.
+Just there to like.
+Oops, you have one extra reputation point left that you couldn't spend on anything else.
+But.
+That feels dumb.
+Well, I mean this game lots of lots of lots of live up to with FTL having won the Omega Bowl.
+1:15:22
+Can.
+Yeah.
+One step, 2 step.
+What is the name of this outfit again?
+Two step development.
+Subset, Subset and subset.
+Do it again.
+Are we?
+Maybe I'm rushing us along too much are we?
+Are we?
+You're.
+I think, I mean, we're I.
+Think we're ready for?
+Almost our half in here, yeah.
+We got through these ratings.
+1:15:37
+Done.
+All right.
+Yeah.
+Can they reclaim their title?
+No, hey, I'll start.
+I'll start.
+It off please.
+I'm going to give it a 7 1/2 versus FTL 10.
+So you say why is FTL so much more popular?
+1:15:56
+I think it's because it's a better game in my opinion.
+I so I I feel like I there's a lot of this game that I like and some stuff that I don't like.
+But coming out right off the bat is it's a chess puzzle game and it requires a lot of beard scratching a lot of head scratching and sometimes I'm just like staring at it and and unlike a chess puzzle I that has not been vetted by a human.
+1:16:25
+So there might just be no way out because I screwed myself on the last turn and it's very like I can't stop knowing.
+I'm just like, I just keep staring, like there has to be a way out.
+And like 75% of the time there is.
+But that last 25% of the time I'm just staring at it, getting more and more frustrated before I give up.
+1:16:44
+And I didn't.
+I don't find that to be quite as fun as some of the other stuff where maybe maybe just that veneer of randomness says you can't, you know, you can't know if you were going to be able to do it or not.
+And then the knowledge that your game is going to be basically the same game each time.
+1:17:04
+You have the same four islands and you have the same last thing, that really, I don't know, for some reason that rubs me the wrong way.
+I think that there should be at least a little bit of variation in that.
+However, it is a very, very good tactical puzzle game.
+When it's at its best, it's really really good that that you know that the time where you're staring at it for like 5 minutes trying to find the one set of moves that gets you through and you find it feels great.
+1:17:31
+So 7.5 still still absolutely recommend.
+All right.
+Well, yeah.
+So I'm I'm going to be the inverse of calling on this one with respect to FTL calling you gave FTL A10.
+Yeah.
+Big mistake, I I gave FTL 7.57.5 this game.
+1:17:49
+However, you gave a 7.5 here, and I'm going to give it an 8.50.
+I thought you were going to get better, Will.
+I thought you were going to.
+I thought you were really going to be the inverse.
+There.
+OK yeah.
+Well, not quite directionally inverse here.
+Yeah, 8.5 I can't do better than that just because the the overworld is.
+1:18:09
+I don't.
+I don't like the overworld.
+I think there's too much repetition.
+I think the idea like the the different squads is interesting but I kind of got burnt out.
+Like I went to the 1st 40 hours, left it alone for a couple years, came back, played another 40 hours, unlocked everything and then I was just like man, what, what else can I play?
+1:18:26
+And I'm just we got into some other game at the time was I don't remember what it was but it's I think Wildermuth or something.
+But like, it was easy for me to put this one down after I got to a point where I'm like, yeah, I get it.
+I I mean, I am a chess puzzle extraordinaire, to be fair.
+1:18:41
+And so chess best puzzles in general appeal to me probably more than the average person, but that's that's going to land us.
+I I gave it an 8 initially.
+I just bumped it up to an 8.5 just because I I it, it is nice.
+It is real nice that maybe it's just 'cause I think it's 'cause I stopped calling score and I'm like.
+1:19:01
+I feel like if you put 80 hours into a game and then you're like then it was easy to put down.
+You've still like the games done pretty well for it, but.
+Absolutely.
+But I mean, I'm 200 hours into Balatro Blast.
+I don't even know how to pronounce the fucking.
+It doesn't matter.
+I'm just having.
+I'm still having a.
+1:19:16
+Good time, yeah.
+Not like I'm having like instead of the 10 out of 10 time, now I'm having like a A7 out of ten time.
+But sure, give me something better than 7 out of 10.
+I'll switch to that.
+Andrew, you're up next.
+I'm over here now.
+Y'all have me rethinking my scores, but I'm just going to whatever, stick with change your mind, lose your mind.
+1:19:33
+Something, something, something.
+All right, so check it out.
+I've this is my this is my cruel Andrew thesis on this game.
+And basically it goes like this.
+The fact that there isn't like one super cool unlock at the very end, that that's worth all the extra effort.
+1:19:52
+The fact that there isn't a even a slightly longer final boss, I thought for sure there gonna be like 3 levels two kind of weird as we know comedy comes in threes.
+That applies to rogue like boss design as well age-old knowledge.
+But the lack of a boss is a big deal for me.
+1:20:11
+However, we have discussed at length.
+That what's probably more important than that final boss sense of achievement is the sense of wanting to play the Dang game.
+And fortunately this game is very fun to play and it is an achievement of game design.
+1:20:26
+The fact that there is no like overarching plot achievement, but that it's still fun to play even without like that added motivation.
+Motivation is just experience in the gameplay, which is is great and we we also spent some time, so yeah, no boss.
+1:20:44
+A big issue for me personally, but not the end of the world.
+And we've also spent a lot of time talking about how I feel like generally we've been kind of negative on the story.
+The setting and the flavor I think is very good and I'm glad that they didn't strip away so much of the story that it started digging into that.
+1:21:06
+And however the game, like FTL does allow you some opportunity to do some storytelling of your own to create sort of a narrative.
+Now, it's not very interesting.
+It's not super deep but there's there's there's something to that in in my last most my, my my my last run.
+1:21:26
+I was trying very hard to beat the game on on hard and I was like power leveling the Vera pilot and that led me to I forgot about the yeah, the restart button and I just started attacking buildings because I wanted to get a game over and so I could restart.
+1:21:43
+And I pulled her through a couple of timelines so she was maxed out level and then I found Ralph Ralph Carlson in one of the one of the time pods.
+And it was just this this fun situation where I had this like this this pilot who's been through multiple timelines.
+And then I had this this grizzled like Panzer, like Commander guy in Ralph Carlson, who had been relegated to being put into the ramming speed vehicle that just.
+1:22:08
+Like crashes into.
+Shit, I thought was so funny and like the little snippets of dialogue from the people that you're saving or like when the next first drop down and they talk like I was, I was, I was enjoying.
+I was invested in the run and in the characters, as simple and sort of basic as the story presentation was.
+1:22:28
+And anyway I think it's a good game.
+I think it's a great game.
+It is my new number six and yeah, people should play it.
+The whole issue that I usually have with turn based games is being too slow and me being bored.
+Not a problem, pretty snappy game.
+1:22:44
+What does that mean?
+Your score.
+All right, Look, fellas.
+What?
+What?
+Does any score mean really so?
+When this give?
+Me, the one of ten, I give the one of 10.
+One out of 10.
+Well, I I I'm sorry.
+When I when I joined up, when I when I hitched myself my dinghy to this pirate ship, I was told that it was stack ranking.
+1:23:06
+Is that the term?
+And so I tried to do that and now we're almost a year in and I don't know if there's any going back I I might need to I could perhaps renovate my scores again.
+Did we?
+Do we not?
+I thought we, I thought we resolved.
+This.
+Yeah, it looks like we did.
+We can change the scores again next week if that if that simplifies things.
+1:23:24
+Unusual number, very precise, I must say it's it's good that you were able to determine it was 7.85 and that's 7.84 and then all.
+This is meaningless.
+So that it would be my number six.
+I mean, I have my technically it's 7.500010 so that they're ranked within the seven between.
+1:23:43
+Episodes We I leveraged the power of three data scientists and an astronomer.
+A data scientist Multiclass Astronomer 2 try to fix my rankings and unfortunately they are still kind of janky and perhaps there will be another iteration down the line.
+1:24:01
+But the important part is it's my #5, pardon me, my number six game, my number 5 + 1 game.
+What do you see what the Ultra 64 ranking system has wrought upon the universe?
+Sure.
+I'll go next into the breach.
+I'm gonna give the same score as FTL.
+1:24:16
+I went into this, which is a 9.2 out of 10 on the very scientific.
+Definitely won't change in the future scale.
+I went into this episode thinking, man, this is gonna be my new number one, isn't it?
+And I think it's kind of fallen a few spots because of that sort of longevity problem.
+1:24:35
+But, but I think this game is, I think like for any game, like it's fine to like put it down and walk away from and never play again.
+Like that's totally like an acceptable thing.
+And I think if you if you play a game for like 50 or 80 hours and you're like, you know what, I've seen enough, that's or like even 20 hours and you're like, I had fun and I don't think I need to play this game anymore, That's totally acceptable. 50 hours for me, I feel like I've kind of seen everything.
+1:25:03
+But I've like this was one of like the most fun games I've had for that 50 hours.
+Like every every time I picked it up and played, it's been like a noodle scratcher.
+Or if I said it's a easy mode, it's been just like a very like very light appetizer of like getting my brain going for the day.
+1:25:19
+It just it hits so many of those.
+Write notes of like lining up the enemies and then bam, you hit them with a laser beam and oh and like you kill all of them at the same time.
+Just little moments like that that just feel so good when you get them to line up.
+I know that like puzzle games aren't for for everybody, but I think if you are a a puzzle head like you, you have to play this game.
+1:25:43
+It is.
+It is so good with what it does and it's just it's maybe too streamlined.
+I would maybe like a little bit more on the flavor Train, just just a little bit.
+But like those really super bespoke fancy meals that you see at like super high end restaurants, that's just like the huge plate and the like teeny tiny cube that's like $90.00, but it's like it has all the drizzles and stuff on it.
+1:26:08
+You're like this, like I want more food than this, right?
+And you take one bite and it's like the best bite of food that you've ever had and you're like, no, actually, I don't need more than this.
+This is perfect.
+That's kind of like Into the Breach for me, 9.2 yeah that that puts it pretty high up on my list.
+1:26:26
+But Woody, you have some games on your list.
+Your Your number one on your list is Enter the dungeon, followed by #2 Dead Cells, followed by #3 Your Worst Game of All Time on this podcast Faster than FDL Faster than Light.
+Where among those does Into the Breach drop in?
+1:26:45
+I mean, just just to repeat this, like Scott, when you guys were starting this podcast, Scott asked me like to send a list of games I'd be interested in.
+And I like only listed games that I like.
+So, like all those games are great and this game is also great.
+I'm with Will.
+I like this game more than faster than Light.
+1:27:01
+I think that Faster Than Light is occasionally frustrating in a way that feels kind of unfair of like a random shit happens where.
+And I also, I don't know.
+I usually feel better playing this game.
+I put just as much hours into something like Bellatro.
+1:27:19
+But at some point I realized that that just became like an addiction of hunting out the next sweet loot.
+You're like, I'm going to get this rare joker, I'm going to get it.
+Whereas this game, like always feels good, like, like Scott said, it always feels like you're kind of scratching your noodle a little bit and it's just enough to kind of stimulate the brain.
+1:27:38
+So I I still feel like I've just him a little more of a twitch gamer.
+So I still like Gungeon and Dead Cells a little more, yeah?
+Woody, I knew.
+I get down on.
+You.
+Yeah, but I like Into the Breach more than FTL.
+So it's Gungeon, Dead Cells, Into the Breach, and then FTL All.
+1:27:57
+All excellent, excellent games.
+Where do you put Balotro?
+Balotro.
+Yeah, anytime.
+Probably.
+Boy I don't know.
+I I I would need to let that sip.
+I don't really see myself Yeah I guess.
+I guess I don't know probably probably behind Into the Breach.
+1:28:14
+As much as I hate to say it just I know just cause like like I said at some point it feels like you kind of just run on autopilot in that game.
+You're like I have kind of figured out the systems and it's very satisfying to just continually do that.
+1:28:30
+But this is a game where even if I feel like if I got very good at it, it would be pretty hard to run on autopilot because it does punish you for not paying attention.
+Well, so if you, dear listener, are a big fan of Into the Breach and you want more, you want you've you've put in that 80 hours of content, you're like, you know what I've seen?
+1:28:52
+Everything there is to see Into the Breach, beating it on unfair mode.
+I want some other games that are like that.
+They have a whole bunch of previous episodes in our back catalog that are up your alley.
+From Wildermuth to Invisible, Inc to We talked about fights in tight spaces.
+A little bit in tight spaces is very much like this game.
+1:29:09
+Yeah, like which?
+Which?
+Woody, you will be excited to know that there is a a game by the same people using the same engine with the same concept called Knights in Tight spaces.
+Oh, coming out at some point or just.
+N.
+Hey, hey, N.
+1:29:25
+Meaning medieval style I I am interested.
+FTL of course.
+The last spell ranked pretty highly on our list and some games that.
+We haven't talked about.
+Which I think fit into this into the breach of verse of of gameplay with very noodly puzzle scratching, puzzle head scratching games that involve like either like squad management or like manipulation of things.
+1:29:52
+A game that no one's ever heard of.
+Mainframe defenders is like what if what if?
+Into the Breach, but like NES style robots, What do you don't know?
+If you've heard of Shogun Showdown?
+Yep, that's a very interesting like 2D, very like turn based samurai.
+1:30:11
+You're using like action points to like get behind people.
+It doesn't look very into the Breach on the surface, but it feels it has that same itch.
+Dungeon of the Endless, which is like a similar concept, but like a tower defense kind of thing.
+Templar battle force maybe?
+1:30:29
+Like heading more into like the Warhammer end of the spectrum.
+Question mark or 40K maybe.
+And then two games that like or okay three more games on here just to wrap it up.
+Dungeon death ball.
+A game no one's ever heard of, but it's like like blood sport, like 2D.
+1:30:48
+It's it's hilarious.
+Very.
+It's.
+I played, I played some dungeon death ball.
+It was pretty fun.
+Yeah.
+I think I beat it on my first run, but it was pretty fun.
+Yeah, it's it's very interesting.
+Mortal Glory, which just had a sequel come out gladiator style dudes on a map sort of sort of a again kind of like another sort of board game thing Now the one that I want to end with here, a game that no one ever thought would to be included on here.
+1:31:14
+Mobile Suit Baba a game by the creator of Baba is you in a in a setting that looks almost identical to Into the Breach.
+With Baba is you style mechanics but Into the Breach Baba is you.
+1:31:34
+I don't know that this is a robot.
+Game.
+I know the answer to that but.
+I don't think this is a rogue play game specifically, but I had to give this a shout out because of just how crazy it is.
+I did download it on on Itch when it was like there was like a free like alpha version of it going around.
+1:31:50
+So I think I have like a pre alpha release that I was playing around with.
+I'm like this is the most insane mashup I've ever seen and I'm all here for it.
+So multiple suit Baba on itch, give it to Google and be like where has this been all my life?
+What?
+This this looks awesome.
+1:32:09
+Well, well, that's going to wrap down.
+We're going to power down our mechs for this episode.
+Woody, do you have any any guest plugs to to showcase?
+Nope.
+You.
+I just hang out with you guys.
+That's it.
+You're the only guys who are worth my attention in time.
+What a guy.
+1:32:26
+We're happy to have you, as always.
+Good stuff.
+We do have a listener request episode coming up pretty soon.
+So Will looks terrified.
+Yeah, I mean, yeah, so like, sent, like, wherever you're listening to this, if there's a comment button below, shout into the ether of what game you want us to to, to showcase next.
+1:32:52
+Well, we can always say no.
+But you know, we have to we have to give the listener some kind of agency for them to torture us with either.
+I don't want another shattered pixel.
+Dungeon is what?
+I'm trying to say you know who you.
+Are I'm pretty sure that you know who you are so.
+1:33:09
+What's the plan?
+All of A.
+Sudden all.
+Right.
+Well, we not determined yet.
+Well.
+It's not determined yet.
+Well, I see.
+Yeah, I.
+See this is a a fishing for community engagement.
+Got it?
+Baiting baiting segment like hey listeners throw, give us some ideas and we'll we'll pick from the pick from the hat or whatever has the most votes or something how we've done in the past But yeah like send, send in that stuff.
+1:33:33
+We have our e-mail grogpodzone@gmail.com you can send in your request there.
+If you are one of 10 people on the Internet who use Mastodon, you can find us at Grogpod at game dev dot place.
+You can tell us what game you want us to to play there.
+We'll add it to the list and then our website where if you want to see like all the other FTL or Into the Breach style games that we've played or see all the other episodes that Woody's been on.
+1:33:56
+Woody's been on all the good ones.
+Just find a Woody episode and you're gonna you're gonna have a good time.
+Grogpod dot zone.
+You can find all the categories and and rankings and Google Sheets and wills links to Will's Bellatro simulators and everything like that.
+I.
+Didn't actually give that, did I?
+1:34:12
+Yeah.
+No, you did.
+Yeah, Yeah, you put in the, It's up on the website.
+I think the game OK good.
+Your GitHub is exposed.
+OK, great.
+Give Wilson stars on GitHub, but but our next episode, Andrew, did you land on?
+Oh, interesting terminology.
+1:34:30
+You should use the term land because I have decided to make a last minute adjustment, adjust my angle of attack.
+My choice is officially Star of Providence.
+Ready.
+1:34:45
+What does that have to do with land?
+Well, you might remember.
+Because you fly a ship well round.
+If you had if this name doesn't sound familiar, it's because this game was recently retitled from from its original title, Monolith.
+Oh, right, right, right.
+1:35:01
+Which they did to avoid any kind of potential lawsuits with.
+I think Monolith Games is is what they did that for.
+Makers of Blood, of course.
+Indeed.
+Indeed.
+So looking forward to trying that out.
+I am fond of space shooters and this one is supposed to be a good one.
+1:35:23
+Exciting.
+Exciting.
+Well, the bugs are dead.
+The podcast timeline is saved, finally.
+But we're going to have to abandon this timeline of Into the Breach for our next episode on Star of Provenance.
+It's time for us to to pull those jump seats and and teleport out of our mechs that are are burning to death.
+1:35:43
+Here.
+We'll see you.
+We'll see you next time the.
+1:36:45
+The.

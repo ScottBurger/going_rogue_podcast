@@ -1,0 +1,1484 @@
+0:20
+Well, hello everyone and Happy Groggla days as usual.
+But not as usual, because our usual flow to this show is each episode we pick a a rogue type game, A rogue like a rogue Light if you will.
+0:38
+And then we we talk about them and we we retch and we rave and we rank.
+And we don't do that this week because we're on break, baby.
+It's holiday time.
+Woo, woo.
+Merry holiday to you too.
+And for this special entrance into our podcast catalogue, we we got some fun stuff coming down the chimney at you.
+1:05
+But before we do that I am your mythological gift giver for the episode.
+Scott Berger and with me are my naughty or nice Co hosts.
+It's me, Colin, otherwise known as Kelly, brimbour forger of the One Ring, Santa's helper.
+And I am Andrew Yulekat Harshman.
+1:24
+Look that up.
+That's some fine Icelandic mythology.
+Yulekat Well, we have two things that we'll do for this episode.
+First, we're gonna jump into a developer interview with a previous episode that we've reviewed, War SIM, the realm of Aslona, the solo developer for that hue.
+1:49
+And then after that we'll jump into some listener emails that we've gotten.
+So first let's let's seamlessly transition into another audio file recording with our developer interview.
+All right, well, we are joined here with our very special guest, our only guest on the podcast that we've had thus far and I think a great inaugural one.
+2:16
+We are joined by our previous episode Warsim, the realm of OZLONA solo indie dev Hugh.
+And if I'm butchering your name, Hugh, I I apologize, but.
+Your last name.
+Yeah, yeah, the the first name.
+2:32
+Oh boy.
+But your last name?
+Hugh Millward.
+Yeah, yeah, that's right.
+I got the Welsh first name and then some English colonial second name.
+So we're, you know, all good.
+Crumpet eating bastards.
+Yeah, that was, yeah.
+Neighbors.
+Yeah.
+2:48
+So thanks for thanks for taking the time across all sorts of time zone craziness to join us for today.
+If people are listening to this and they're saying, Oh well, I haven't listened to to your worsen episode before, Hugh, can you give us a one sentence description of what worsen is all about?
+3:12
+I don't think I can.
+If you can boil it down I.
+Always struggle to actually describe it.
+To be honest, I feel like other people tend to get it better than me.
+It's a it's a very strange game that's kind of in spite of ah, do you know I'm already one sentence over man.
+Do you know what I mean?
+Like I don't think it's just.
+A It's a very strange game.
+There you go.
+3:27
+That's.
+Yeah.
+There we go.
+Boom.
+I think that does summarize it.
+Well, one of the one of the reasons why we picked War SIM up to talk about before was because it is a very unique game.
+It's a it's a very text based, very console like command console, terminal based game.
+3:49
+But yeah, for all intents and purposes, it is a very kind of pony management ASCII SIM with insane levels of randomization and procedural generation I think.
+And yeah I think at the time that we we had reviewed it Will was just overflowing with praise and Colin didn't really get it and and yeah I thought like you know for our our winter special here that we're we're kind of buffering out time to give give my lovely Co host a a little bit of a break from constantly reviewing video games thought well you know it'd be a good idea to kind of we like we always get requests from from listeners when are you going to have developers on the show.
+4:36
+And I'm always kind of nervous about having a developer come on on the podcast and if one of our podcast Co host was was meh or didn't like the game having having to to navigate that but I think yeah like war SIM every time I've opened it has always been a fun and insane experience where the world of the text generation I think really helps to bring the imaginative possibilities to the fore.
+5:07
+And it's just like you said, it's crazy.
+And it's like every time I open, I'm like, all right this time I'm definitely gonna do this thing.
+And I wound up going down an hour long rabbit hole of trying to do political negotiations between half fungi, horses and demonic orcs as you do so.
+5:26
+Yeah, sounds about right, to be honest.
+Yeah, maybe myself, man.
+And I I honestly find some stuff that I've totally forgotten is in there all the time.
+Catches me off guard, like last years of very random, sporadic, adding things here and there sometimes maybe when I'm under the influence.
+5:48
+I mean, that's the best time to to be developing, right?
+It's like the the right drunk, edit, sober approach.
+Well.
+I don't know.
+It depends.
+You come back the next day and there's a bunch of bugs that you don't know how they're there.
+And you wonder who wrote that code that that's not so good coming up with ideas, though, that's that's a better thing.
+But yeah, bringing them to light, Definitely not when you make some absolutely garbage code.
+6:08
+Yeah, and.
+And you've been, you've been at this for a long time with WARSIM in particular you had a debut in Early Access in 2017 and then you one point ohed it last year.
+So Congrats and kudos on that.
+I'm kind of curious and I I know this is always a a thing that like people can never give an answer to, but over that five year period you've seen it evolve a lot.
+6:31
+Like what?
+What sort of anticipations or thoughts do you have about the next five years of WARSIM?
+I don't know, to be honest.
+I thought about it and I think that like you say, it is something that's always evolving.
+But I I really like don't feel like I'll ever be able to comfortably close the chapter on war SIM completely in in in my life.
+6:53
+I don't know, maybe, maybe maybe the world will make it happen at some point.
+Like I I have finally started looking at working on future projects and things.
+But yeah, I mean it, it keeps ticking along.
+People keep playing and enjoying it and it's for some reason being my full time job for years and years now.
+7:09
+And I I still can't wrap my head around the fact that it's ACMD game.
+But you know, hey, if the world wants to keep doing it, I'm not going to complain.
+But yeah, so I don't know.
+I really enjoy the game and I think obviously there's certain things in it that are random enough that it's not.
+It doesn't get stale for me, but there are areas of it that do and some always tweaking and trying to change and add things.
+7:29
+And there's a list of maybe 2000 odd solutions and fixes and additions that people have suggested or come up with over the years that is still making this ginormous list that I need to look through and think that was a good idea though.
+You know, maybe I could add that and that's another two weeks.
+So I think it's it's always going to be there even if it takes a sort of lesser role in in in my life and isn't something I focus on programming or or developing as intently.
+7:53
+I think it's still going to be there to some degree.
+Obviously, you know, bug support, that sort of thing.
+But I don't know.
+I mean, five years ago I I would have thought that I probably would have finished with it within within a few months of maybe a year and then you know all five years on it's a completely different game and bigger than it ever was before in in community and thought amount of people that have played it and in in what the game is itself.
+8:15
+I look back at the really, really old versions of it.
+I kind of cringed to be honest.
+This was total garbage.
+But yeah, no, I I know a feature is really hard one to estimate.
+Yeah, What?
+What features in particular are you looking at back?
+And you say, wow, I can't believe this game existed without these features.
+8:31
+These have like, really, these additions have really made the game transform into something that's way better.
+I think the easiest one to say like as as that specific thing would be the throne room.
+It was a total afterthought.
+It was not intended to be part of the game whatsoever.
+And I saw something that did something similar in a game called Sort the Court, an indie game.
+8:50
+And I thought that's really fun.
+And so I added a little a little sort of mini thing in there just to play around with it and it was kind of fun.
+And I kept expanding it.
+And I think in the end there were maybe like 150 different thrown them encounter base types with then within them loads of different variants.
+9:06
+Some would have hundreds of variants, some would have obviously just pure proc Gen. and it just ended up being chaos.
+But people would always say, oh it's getting a bit samey, oh I'm getting a few a few similar encounters and I'd be like shit, got to have another 15 new encounters.
+But it was never intended to be a main part of the game.
+And the amount of people that have sort of said it's the main thing they enjoy just blow my mind and I'm I'm like bloody, I'm really glad I did that that now because it was, it was definitely not even remotely intended to be part of the thing.
+9:30
+But I think it does sort of get you involved in the world on a on a sort of grassroots level.
+Yeah, for me it definitely like I was.
+I was booting it up on my Steam deck last night and you would think that this is a game that would not fare well on the Steam deck.
+But somehow it does work insanely well because someone has a a custom controller config that just maps like A0A0 to 9 numeric scroll wheel to the left trackpad.
+9:58
+And it's just like scroll nine hit a, scroll eight hit a.
+It's it works so seamlessly.
+And yeah, like sitting there just OK, boot up, throne room.
+All right, advisors, what am I supposed to be doing today?
+Oh, you should go invade this goblin camp.
+Yeah, that sounds good.
+10:14
+Let's do that.
+Yeah it has become kind of a a core piece to to how I interact with it.
+But yeah there's just there's so much craziness going I think either between like the throne room or gambling my fortunes away in the arena are probably the the two major pillars.
+10:32
+But yeah so like as you're as you're going through and you're adding all these things and and taking feedback from the community and stuff like it's that's that's a lot of brain power that's involved with all that.
+And in that kind of creative enterprise like what do you, what do you do to stay inspired or like where does where does that kind of creative juice come from for you.
+10:57
+That's a.
+Good one.
+Yeah.
+I mean, so for for creative energy.
+I mean, I try and reply to everyone and I think when I see a buzzing and active community, that's probably the biggest fuel I could ever have.
+So when there's lots of people sharing stuff, or people share their memes, or they share something that's just gone wrong or some weird thing that's been spat out by the Prop Gen. in their world, I always find that so inspiring.
+11:17
+And when I see any kind of fan art, anything like that always makes me so happy.
+I mean, I try and I try and reply to everything, but obviously sometimes I'm having a bookmark, things that are massive essays that I don't have the mental energy to face.
+Maybe today, but I don't want to forget it.
+So I've got sometimes that builds up to hundreds of things, but I always get there in the end.
+11:36
+But yeah, I think I think seeing the community, that's probably the biggest inspiration that makes me work on it.
+Sometimes I'll I'll take a break from awesome and I'll go back and have a little play through it and I'll start thinking oh man, you know what would be really fun?
+If I could do this.
+And then it gives me the motivation and and I think the problem is that I indulge in that maybe too much And then I I don't focus on the things I need to finish.
+11:54
+But instead I'm like oh I've got a new cool idea let's open this rabbit hole.
+But now that rabbit hole also needs to be wrapped up And so I've I've spent some time trying to catch up on my own little rabbit hole creations that I've done.
+But at the same time I've also got another 12 rabbit holes that I want to open.
+So you know it is what it is.
+12:13
+The the curse of creativity there.
+Yeah, I guess I'm to expand on that.
+I'm a little curious as to how how you sort of spun up and cultivated those communities, 'cause I think like, in terms of of indie dev community engagement, like you are at like the top.
+12:31
+You're sitting on the throne in the throne room of like, I see anything related to war SIM, Boom, there.
+Is Hugh there talking and responding to to comments and stuff about it?
+Very much a he's, he's here, he's there, he's everywhere.
+I mean, he's on our podcast and our podcast I know.
+12:46
+I mean is as popular as it is.
+The 69th most popular video game podcast in Germany, as it turns out.
+I mean, wow, that's he's.
+Everywhere such accolades.
+Meet us in.
+Yeah, but yeah so like if if someone there, I see this all time people coming out with a with a new indie game, they're super excited to share it with the community and all that.
+13:07
+But like how how do you go from building out your your indie game to building out the community around it also?
+It's it's hard because I really have to think back to like 8 years ago when it first started, because I think that is the thing for me.
+It's been a slow burn.
+13:23
+Like I I actually worked on Warsim as a as a test project to sort of learn how to program, which is why it's in the command prompt, because I didn't even know how to draw stuff to a window.
+And then at some point I was like, whatever, I'm I'm kind of bored with this and I started working on a Wasteland game.
+That was because I was waiting for Fallout 4 to come out and it was, it wasn't here yet and I was so like another Wasteland game.
+13:44
+So I worked on one myself and I really got into that and I was working in a bar in a hotel at the time, taking notes of every every little game idea I had in between serving people.
+And after six months of working on it, the code got wiped and it was a it was a nightmare.
+Yeah, it was a real disaster.
+Did did not know my source control very well at the time, but rocky mistake.
+14:02
+We learn, we live.
+But at the time I'd been sharing it on Reddit and I'd been posting it on different gaming subreddits, sharing it and just everywhere I possibly could to be honest.
+I mean, I tried not to spam, but I feel like it may have even verged on that at points I'm not sure.
+14:20
+And that built up.
+And I remember getting something like 400 people subscribed to the subreddit at one point.
+And I really, to me at the time, having no experience with any real game dev, I was like, Oh my God, I've made it.
+This is the dream.
+And then yeah, and then obviously that all went to to hell.
+14:35
+And I I thought, oh God damn, that's that's me done then.
+But I picked up war SIM, started working on it and I think the same sort of story wasn't as fast.
+But at some point it started growing in the same direction.
+I got a few more people coming to the subreddit, cross post my posts to other subreddits, you know, little things here and there and YouTube videos, any kind of coverage.
+14:53
+And those things started started growing and at some point it eclipsed the old, the old games.
+Total amount of people on the Reddit, I think you've got to four hundred 500,000, whatever.
+And over time it starts developing and I think obviously some people's philosophy with video games.
+15:09
+And I've had friends who are game developers who've come up to me and said hey why are you still walking on Wilson, man?
+You could jump that game, pump out another game within a year, blah, blah.
+And I I don't respect that process.
+I really, I I I think the pump and dump game development scheme is it usually produces crap.
+15:27
+It.
+It produces stuff that people don't care about as much because you're just trying to make something just to get it out there.
+And I I respect people at making anything to be fair, but I think making something with passion, sometimes it takes time and there's nothing wrong with that.
+And sometimes at the end of the day, you have something that's better for the the sum of its parts of them because you've spent so long working on it.
+15:43
+So, you know, I think maybe that's the the thing that's helped in, in totality become what it is now, despite the fact it's ACMD game in 2023.
+But you know, again, no complaints from me.
+So we're not expecting a a war SIM mobile port anytime soon with with QT Graphics.
+16:02
+Well there, there definitely won't be any.
+Any sequels put it that way, and I did look into a mobile port, but it it's a difficult one to pull off.
+Someone did manage to get it emulated through a weird bootleg Windows emulator, but unfortunately it prints the screen out and it takes 3 seconds for every new screen to load, and obviously that very quickly becomes very tedious, but it was cool to see that it was possible.
+16:23
+I think the closest we'll get to any kind of mobile port is the one you were playing this morning or yesterday whenever it was the Steam deck.
+So I have to ask, I mean you keep making reference I think in a lot of your interviews, I think in your most recent YouTube broadcast as well, that this is very much a game that runs in Windows CMD.
+16:46
+And I'm wondering is that like a a symbol of like pride that this is like this is a cool unique thing?
+Or in hindsight, would you have structured this differently and use a different sort of framework just to give yourself more flexibility to do the porting over and all this stuff?
+I mean, in hindsight it's easy to to say whatever, but I'm just curious.
+17:04
+Definitely.
+In hindsight, I think War SIM would have probably been a graphical game that wouldn't have gotten as far as it was because I would have.
+I would have avoided going in the CMD route.
+I think it literally came out of my lack of skills at the time and rather than quitting and just trying to learn to do it better, I just kept expanding on the the mountain of spaghetti code running out of CMD that I already had.
+17:28
+Which is.
+I don't know if you guys saw my my post I had on programming humor, but I posted a a screenshot of my code because people were sharing a picture of their large code bases.
+I think someone shared that they had 50,000 lines of code in a single file.
+17:44
+So for non programmers that that's terrible.
+Like you don't do that, that's a bad practice.
+Well, War SIM is 650,000 lines of code in one file, so I posted it on the subreddit and said, hey, by the way, it's a game on Steam and everyone went fucking ballistic.
+And it was it was the single biggest day at War SIM ever had for sales, bizarrely.
+18:05
+And it it ended up the number one post on Reddit for 10 minutes and then an admin or a mod must have swept it and it went off and I I think it got 4000 comments.
+It was crazy.
+Yeah.
+So I mean it's it's kind of a source of pride that I've even gotten to the point where it still functions and it is a thing.
+But yeah, I definitely would have done it differently if I had the skills and abilities.
+18:23
+Obviously have not built it out of the the worst possible way I could have.
+But it is what it is.
+It's all gone well in the end.
+There is, I guess maybe on that kind of note of quote UN quote, soft remasters or soft reboots in a, in a sense two sort of major headliner games of of the the Rogue like space had been Dwarf Fortress and Caves of CUD.
+18:51
+And those both have been working with the publisher Kit Fox to kind of like come in, help modernize it to some extent.
+I mean Dorf Fortress is kind of the poster child for like you know mania and menus upon menus and all that all that kind of stuff.
+19:06
+And the the Herculean effort that I think Kit Fox has put in to make it you know graphical and like playable on and like Steam deck verified and all that kind of crazy crazy nonsense.
+But they're Kit Fox is also doing a pass on Caves of CUD to do a similar kind of.
+19:25
+I don't know if they're going in and like rewriting the code base specifically, but all but doing a lot of like UXUI, quality of life improvements, that kind of thing.
+Do you foresee something like that in Warsim's future of like needing to go back into the the wacky pile of spaghetti and like try to like clean it up some to to make some new features happen or you know, to enable some kind of future thing that that would be tough to implement currently?
+19:56
+Well, I mean, if Kit Fox wanted to to have a little look at my gigantic bowl of spaghetti and have a try, they're very, very welcome to.
+But I think that would be a task or?
+A scared straight program.
+Yeah, definitely.
+I think.
+I think they'll probably never bother doing that again after they saw war Sims back in.
+20:15
+But who knows, maybe maybe they're they're amazing Wizards.
+I mean, the ball fortress code is probably a lot cleaner, but we are talking a what, 20 years worth of code there?
+Like the monster behemoth of a of a thing.
+So the fact they were able to make any massive changes to that is impressive.
+I didn't hear about the caves of cut thing either.
+20:32
+That's really cool.
+Yeah, I'm I'm excited when that 'cause.
+I think the the Kit Fox partnership is supposed to help them get across the one Point O barrier sometime in next year 2024.
+So yeah, definite stay tuned for for podcast listeners and I'd I'd be curious to to take a look once they once they have that finally done in the world of and kind of dovetailing off of that.
+20:59
+Like WARSIM is very ASCII driven, but like I love, I love like the style of ASCII art that's involved with it.
+It's not something that that's very common or that you see a whole lot in these days.
+And I guess maybe like the traditional rogue like space involves a lot of like ASCII character symbolization of like oh, you are this little at sign running around and using that kind of symbology.
+21:25
+Whereas Warsim is very much more of like here's here's a an artistic representation of something done with ASCII art.
+I'm curious, like have have you engaged much with like other games that use that similar kind of art style to learn from or or take notes on or you just kind of like thinking about, oh, how do I represent this thing in in ASCII in by yourself?
+21:51
+I think I'm definitely inspired by other games when I see them, but I'm like, I can't remember the name of the game.
+There was a game that used ASCII a little while ago and it was really, really impressive.
+Like crazy scenes made in ASCII, like the whole game.
+And I look at that and go, well, I'm not going to be able to fucking do that.
+22:07
+No way.
+But yeah, no, I I think I've always just drawn random little ASCII things in in the Windows Notepad on my on my little computers.
+Whenever I've worked in like government offices and stuff, it's always been something I've done on the side.
+So it was really just just doing that really just.
+22:25
+I mean Walsim's ASCII art is it's it's got its own little thing but it's definitely like for the most part simpler than some of the the crazy ASCII scenes you'll see in that some artists will do.
+So I think it definitely straddles the middle line and I think it's kind of found its style and and I'm happy to keep it to that.
+22:41
+But yeah, it's very, very simple.
+But I think especially little faces, they definitely got their own charm, haven't they?
+Yeah, I think there's trillions of them, but they all look the same in the end.
+I love it whenever the the description involves like some sort of like you know old old Crone with warts all over her face and you just see like semicolons all over the place.
+23:01
+Oh yeah, that's that's perfect.
+Yeah like 2 games that come to mind for me are one is is sanctuary RPG and that one's like much more of a straightforward like dungeon crawler like hack and slash type thing but it's all all kind of text based but it does have similarly inspired kind of ASCII as like the landscape art design.
+23:24
+I'm like, oh man, I wish like more games would would straddle this middle ground between just pure net hack style.
+Like I I joked that it almost just looks like a strong password generator vomited up on the screen.
+But like like a bounce between like that end of the spectrum like the war SIM and where it's like, you know, you have like something I can actually look at and visualize even though it is with with characters.
+23:53
+And then there's another one that is is also kind of insane.
+It's not, it's not a rogue like specifically, but it is a Chinese character puzzle game that you can find on the Steam that if you just type word game into Steam, I think it's like it it should be obvious which one pops up because it has like some kind of Chinese character promo art to it.
+24:19
+But it is.
+It's insane where, you know they have this kind of like symbolic character representation of things.
+But there's like, and I mean, I don't I don't speak Chinese at all.
+So I was using like Google Google Lens on my my desktop screen to try to have it like on the fly translate and obviously not a great experience.
+24:37
+But the way that like the trailer shows like, oh, here's how they're like using almost like the the flip side of like the net hack style like OS and QS and LS and Ms. of like the individual characters as like you know O is like the house and it's it's just like so laid out in a in that landscape of you know, here are things but they're laid out like a city grid and it's it feels almost like a new kind of fork of that artistic style.
+25:15
+I guess my question here is if you were graduating from Warsim into a Warsim 2 or whatever your next project might be, would would you be like still on that track of the ASCII as the landscape artistic style?
+25:37
+Or would you be going in like a a a different turn of a direction on that theme?
+Yeah, I don't know.
+I feel like if I was doing a Warsim 2, like in theory it probably would have to have that ASCII style at least to some degree, even if it was like partially more graphical, I don't know.
+25:55
+But yeah, I think I'd I'd sort of jump off a bridge then work on a Warsim 2 just because like I can commit that much energy.
+But yeah, no, I don't know.
+I just looked at this game you mentioned though, this this word game.
+It's really fascinating that the blockiness of the the Chinese characters really, really adds to the the way they're building scenes with.
+26:15
+It's really, really cool.
+Never seen anything like this before.
+I just got to add here that I, I, I love the Ass Yard and all the characters.
+The procedural generation, procedural generation in general just gets such a unique way to create more experiences like funny experiences and games that like I just love the way that you implemented.
+26:36
+And I am going to take a moment here to just gush and say, I think we played on this podcast, we we had 15 episodes in and I was just like, Oh my God, all we do is play shit games.
+Like we just play.
+Bad game after bad game and like, what the heck is this war SIM?
+Oh my goodness, tech space.
+26:51
+I don't know about this.
+But then it was just such an incredible delight getting the top spot on for like until we played.
+I think Luck Be a Landlord, which I think was like nearly the same.
+And like Rimworld, I can't.
+It's almost on a different level with how much respect yeah.
+27:07
+But like for solo dev efforts like Oh my goodness this is incredible.
+And I and I think and I'm I'm sorry Scott but I just I'm gonna have to just say Oh my good.
+There's a a feature for not everyone I I I think is is the is the case here.
+But like for me in particular that arena and I know I posted to the subreddits and I you were all over like the you know responding about this but the breaking the war SIM and like how to like always like pretty much always win the arena bats said like just get it any game.
+27:35
+It makes me bust out a spreadsheet and be like how do I optimize this Like what are the all the features that are important for like discovering who's going to win.
+Oh such a delight to try and like kind of you kind of kind of got a view into your mind I think as like you were putting this together as like Oh yeah this thing goes with this and like it's just oh such a fun experience to decode that.
+27:54
+And I just want to say thank you that that was such a delight.
+That means a lot, man.
+Thank you so much.
+The the walls of text, not, not my thing, but like, story, I wish I loved story.
+I feel like I'm missing out so much with all these, like, really intricate stories that were built in.
+28:10
+But I'm just that's just, that's not my flavor.
+But that's totally fine 'cause that's.
+I will say this, the walls of text I kind of like getting into because it it does paint such like a very thorough description of the world.
+I do have to ask, are like those?
+28:27
+Those are all handwritten, right?
+Those aren't procedurally generated.
+For the most part, I mean that I think it's hard to remember over the years which things have been proc Gen. and which things haven't.
+So obviously with graphics like for faces, things like that, flags, they're all proc Gen. for the most part aside from like individual faces for specific hard coded characters in the world.
+28:47
+But like there I know there was AI think there was a newspaper in one of the main towns the black market.
+And I'm pretty sure that's proc Gen. entirely.
+I'm trying to think yeah there's there's a few things I think there's like AI tempted a random poetry system but it flocked hard.
+29:05
+There's there's like the random phrases the kingdoms get that get randomly generated and it's very incoherent.
+Yeah I'm trying to think I've done I've had these little projects over the years that I've tried to slap in there.
+But yeah for the most part a lot of the the words were random sorry were pre written.
+29:23
+It's mostly the the faces, the the proc Gen. races, that sort of thing.
+Maybe the bandit groups and then you've got a lot of random generated systems then that roll in the background to sort of blur the lines, then between hard coded and not.
+But I love proc Gen.
+I'd love, I'd love a game that was your proc Gen.
+29:40
+I think some people really see it as a negative because they used to proc Gen. done badly and they see it as a lazy way to do game development.
+And I really hate that stance because I think proc Gen. can't any complete proc Gen. with no no.
+I don't know rules behind it, it's just noise.
+29:56
+But if you if you put an intelligent rule set behind any kind of proc Gen. you can build really anything that obviously spits out more content that you could ever use.
+And I think like the the more the more content and the more the more sort of rule sets and and background things you put into a proc Gen. system, the more intelligent it becomes.
+30:11
+The point where it supersedes most of the stuff that could be done without it in my opinion personally.
+But then you see games on a large scale that promote themselves for having proc Gen. and then do it so badly they make everyone else think proc Gen. is such a such a horrible thing.
+You know, like * field.
+That was, that was that came to my mind 1st.
+30:30
+And there was what was before No Man's Sky, I think, when, at least in his early days, I haven't played.
+Different.
+Yeah yeah, the the star thing.
+I mean I I actually got banned from the star field subreddit for posting a a meme about how their their proc Gen. planets were literally copy pasting the same dungeons every three seconds.
+30:46
+Oh no it is so depressing.
+I really wanted to enjoy that.
+But yeah, I don't know, I I literally worked on a proc Gen. exploration system a week prior to playing a star field and saw that I think I'd spent more time designing.
+I mean obviously they what they have to do isn't just making a little ASCII thing on the screen.
+So full respect for that.
+31:02
+Obviously it's much easier for me.
+But when it comes to the systemic side, I thought it was really, really empty and really disappointing.
+I don't really surprise me, but hey, there we go.
+Another another bit of a proc Gen. washing as as it goes.
+Yeah, there's there's another indie indie effort.
+31:20
+I think this is a solo dev effort a a game.
+I think it's now mostly on Steam.
+They have a free demo on their website called Space Engine and it's always.
+I use it as as basically planetarium software now, but a big portion of it is procedurally generated star systems and planets and things like that.
+31:42
+And it's all going for like very extreme realism and all those things.
+But I always find it funny that like you have these AAA game dev studios that you think would specialize in this kind of thing and admittedly like space Engine, it's it's not being designed as like an MMO or like game oriented activities.
+32:01
+And so literally all the planets are actually barren, but you know the but the level of interestingness with how those planets are constructed all feel so very unique.
+And I haven't played Starfield yet, but I mean, I don't know, like maybe if it goes deep on sale or something, I could be convinced or yeah, I don't know.
+32:25
+Or if if there is a a space, yeah.
+Oh well, yeah, that.
+Or if or if like different planets are added to Skyrim, maybe.
+Maybe that would be up my alley.
+But yeah, I guess like, yeah, that that's always an interesting thing about, you know, games that have randomness labeled as PROC Gen. with very little procedure behind their literal generation instead of well, well, you know, you just have a bunch of random things and you got to pick from 1 proc Gen.
+32:59
+And, well, all that matters is how many billions of planets you can say you can visit.
+I mean, or trillions, You know, just like, oh, look at all the permutations possible.
+That makes a good game, right?
+That's.
+Exactly what I do with the trillions of faces.
+There's trillions of faces and millions of races.
+33:15
+Please buy my game.
+You know that reminds me.
+I think that's that's one of the the the things I just, I really loved about Warsim is that I I feel like you and I would probably approach like the game development in a very similar way.
+I have in a a Google sheet somewhere a monster name generator which was based on some something in Diablo.
+33:30
+I noticed it was always the the blank of blank.
+It always had the structure to it.
+And so you could just like basically pull syllables from like Russian and like Klingon and kind of like all these languages that kind of hard sounds just pull syllables together and then like creatures and then just like basically say, OK, give me a random permutation and you get these really unique creature names and you can just assign properties to like the oh, if they're flaming, then they have this much damage.
+33:53
+And like, it's just a such a fun way to get to oh, and now we have trillions of possibilities And it just it's fun to just like keep rolling the dice and like, oh, this this creature here, what can we have it do.
+And I just, I I like I like this approach in general to and it's not just the randomization.
+34:09
+It's just like this as a mechanic that you build something on top of.
+I think it's a really a fun way of approaching world development.
+Yeah, that's pretty much exactly how I I've tried to approach it, man.
+So me and you would have been on the exact same wavelength.
+So I've got a I've got a question from one of our Co host who couldn't make it this morning because they're quote UN quote working and they had a job.
+34:33
+Andrew wanted to ask which feature for Worsen was the hardest for you to cut the.
+Cut.
+I don't know if I've cut anything from awesome, to be honest.
+I think that's the problem.
+Maybe that I've maybe that's why we're here for eight years, because I don't I don't really cut anything.
+34:50
+I mean or is that maybe that's a lot.
+There's been like tiny little areas that have been sort of left so badly partially done that I've just given them a snip and no one's noticed, really.
+But yeah, no.
+For the most part, any, any feature that was for the most part added was seen through and added, which is why it's still being developed after eight years.
+35:10
+Maybe not be cuts.
+Made here.
+Maybe I should have made cuts, I don't know.
+What seems to have been working so far, I guess maybe to pivot on the question, is there anything that you would want to implement that your current build is kind of limiting you from doing?
+35:29
+I don't know to be honest.
+I feel like I kind of have the mentality that I know what can be added and I know what would be obviously create like.
+So it was like, hey, can you make it an MMO?
+No, fuck off.
+But you know, obviously for the most part everything else easily addable with enough time and effort.
+35:45
+So I'm always thinking and considering of things that could could make it better.
+I think the one issue that I have which really always seems to elude me is remembering balance when adding whole new sections of the game.
+It's like, how does this actually affect the flow of the game for someone?
+And it's like, well, maybe I added something that can be exploited to make things take way less time and suddenly the whole balance has been thrown off.
+36:08
+And I think that's the one thing.
+Maybe, maybe that's a bit of a solo dev building a big old thing and not being able to keep an eye on all of the moving parts thing.
+But that's probably been my biggest problem, is seeing how the game has evolved over the time I've added these things and suddenly people are able to do things very differently very quickly and exploit certain things very different ways where I can like crap.
+36:26
+I really did not consider that whatsoever.
+And difficult difficulty modes definitely have changed, where something that used to be really hard is now maybe not so hard, or or maybe even vice versa in some instances.
+But when people find these, they post it to the subreddit or to the Discord and you see it, and then then basically that.
+36:41
+Is that the balance mechanism that's currently in?
+Place.
+Oh yeah, I definitely keep an eye on that.
+I mean, I think the biggest thing is if a lot of people are saying the same thing, that's usually sets an alarm off my head when I'm like, I should.
+I should probably pay attention to this at least.
+And I was trying to listen.
+But I think that I I've said this a few times.
+I really, genuinely thought getting into game development that, like, you know, as with the Internet, as with comments, trolls, things like that.
+37:02
+You probably get, you know, most people talking a lot of nothing and a few people that might have some good points.
+But it is really hard to find someone who has a bad take with with anything because they're they're passionate about it, they enjoy it, they.
+And even if even if you're not enjoying it and you're angry you, that's a passion, do you know what I mean?
+37:17
+So, like, I I found a lot of positive interactions with people who've left bad reviews for awesome, where they've they've said something, and even even if it's vitriolic, they've put something in there that I'm like, OK, I see what you're saying, though.
+That is a good point.
+Like, it really does drop off at that point.
+Or that that feature really could be expanded or that element of the game.
+37:33
+Really.
+I I see where you're coming from and I have a little chat, and before you know it, they give me better tips than than I've heard in years, and they're changing their review to positive and apologizing to me.
+And the game's better because of it, too.
+So hey.
+One thing that I've noticed with doing a lot of data deep diving for this podcast is that the a lot of like the indie Rogue like games that I have in this humongous spreadsheet.
+38:02
+There's so many of them that have so few reviews to them.
+Like you would think like oh like all these games have thousands and thousands of reviews.
+They're all so popular and all that.
+Let's see.
+I can't go a podcast episode without rattling off some inanely boring stats here, but apparently 50% of Rogue style games in any capacity on Steam have 6 reviews or fewer, and 25% have 56 or or fewer or no wait, no, no, I got that backwards.
+38:35
+Even worse, the top 25% of all of those games have at least 56 reviews.
+So I'm curious from your perspective like in terms of building up that marketing hype around a game, is it, is it like a sound strategy to try to like give out review keys to people to get them to to review your game and get eyeballs on it?
+39:02
+Or is it more about that kind of inter or like that very direct direct messaging to to people in those kind of communities?
+Do you think there's like an advantage of one over the other?
+So it's it's kind of hard to tell when you do a lot of different things what it is that's actually bearing fruit when it's just you look at steam and go, oh, a lot of people bought it today.
+39:25
+It's hard to tell exactly where things have come from.
+Sometimes there's a very obvious reason like if I did this podcast and I've done nothing else for a week and suddenly 20 million people buy war SIM, I'm like, well, this is all that happened today.
+So it's definitely come from this, right?
+And I know that's going to happen.
+So thank you guys.
+But yeah I mean I think I'm I'm a big fan of the the throw everything at the wall and see what sticks kind of approach as long as you're not stepping on any toes or spamming.
+39:48
+So I'm I'm a big believer in sending steam keys and review keys to anyone who who I think deserves it really.
+And and so I've I've hit up.
+I tried to hit up I think maybe everyone who's played Dwarf Fortress publicly that I could find that I I thought it's a similar game maybe they'll be willing to try it other similar games.
+40:05
+Every media outlet I could find that I thought was relevant.
+Youtubers in general that covered the same genres of gaming, maybe things like that.
+People online that were posting forum, forum post.
+Spreads things like that.
+Just literally everything I possibly could to see what worked.
+And I think over the years surprisingly not many things worked crazy well.
+40:23
+But a lot of things worked a little bit well over the over time and and I think you know you post a post somewhere on Reddit and you get 3 people a day that happened to see it and one of them maybe buys the game or something and maybe zero of those people review it.
+But you've got enough little things like that all over the Internet.
+40:39
+It's filtering and feeding through people from these little Internet tubes all over the place and if there's enough of them, it forms a sea where there's always some people coming through from all over the place and then those people do it.
+I think the average sale tends to not be review.
+I'm not sure what the ratio is.
+I'm pretty sure lately Steam has made changes that make the review quantities higher per customer than it used to be.
+41:02
+But even now obviously you know it's it's probably less than one in 10.
+But yeah, I think it's it's just really come from trying to reach as many people as possible and and try everything.
+And sometimes you try something and even if it doesn't work you can see why it hasn't once you've tried it and maybe go, hmm well maybe if I tried it this way.
+41:19
+So it's it's always evolving.
+There's always more things you can do.
+I've still got a massive amount of things on my warsim marketing list of hit these people up, message these people try this, do this, go here, do that.
+But obviously I've only got 1/1/24 hour day.
+Scott, I got to ask you because I mean you you might have this in front of you or you might just know.
+41:37
+But I have to believe there's some relationship between the like the overwhelmingly positive and like the ratio of reviews to to people who purchase the game.
+So, which is to say that if you just create a game that people love, then you're more likely to get like a lot of reviews.
+And so step 10 easy.
+Just create a game that people love, that's unique and creative, that's you know, gets people thinking and then that's that's that's where you where you can get a lot of reviews.
+41:59
+But it yeah, it probably does have to do a lot with like these other incremental marketing strategies as well.
+But I think, yeah, it the games that people hate, like just people just uninstall it away.
+I don't.
+Know.
+Yeah, that's a good point.
+Or maybe I'll rage say this is a terrible game.
+Don't buy it.
+Maybe that's how you get high reviews as well, but it doesn't seem applicable here.
+42:16
+Well, a disagreement factor between Will and I I'll point at.
+I'll point to the the ARC games as people will buy anything regardless of how well reviewed it is.
+So yeah, ARC Survival Evolved.
+42:32
+Remember the the Arc?
+Yeah, I think, I think that like there is a recent release of that on Steam like a few weeks ago and it's just been like overwhelmingly negative, but people are still buying it, so.
+I mean Starfield too.
+I mean that that was another.
+One well, I mean, I think it's next.
+42:48
+Overall, right now I don't actually remember.
+That yeah, I mean like there's there's definitely like feedback loops and I'm I'm definitely not an expert on like Steam game release marketing strategy in any means.
+That's why we have Hugh here to correct it.
+But my, my intuition and understanding of it would be that it's definitely kind of feedback loopy of like, oh, if the game is overwhelmingly positive on Steam, then it's more likely that people will buy that than something that's like, yeah, yeah, it's, you know, I don't know, like 70 or 80% positive review score, definitely.
+43:24
+I think that definitely plays a factor into it.
+I think what Steam does with the the overwhelmingly positive rating, you need to have a minimum of 500 reviews total to get overwhelmingly positive.
+And they've got a a recent reviews and a total review section for every game.
+But if you haven't had more than ten reviews in the last 30 days, you don't get a recent review section.
+43:42
+So that you can usually tell if a game is really not very popular, if it doesn't have a recent review section, or if it was a game that used to be popular but maybe it isn't any more.
+You can tell by the fact that it won't even have one of those because there's not been that many people checking it out and talking about it.
+And then I think if you've got less than 500 reviews, the maximum you can get is and like very positive or something like that.
+44:02
+I think it's limited.
+And then yeah, I think you need to get the threshold is 95% of them need to be positive for it to be overwhelming.
+Anything above that counters overwhelming, which on a smaller scale one bad review can really throw you off because you you need to three out of 100 or sorry 5 out of 100 have to be negative minimum or sorry maximum.
+44:22
+Anything, anything beyond that and you've lost it.
+And I remember when I first started, also about 100% positive rating for the first like 100 reviews.
+And I remember every day I would refresh the Steam page with so much anxiety in my chest, like, Oh my God, oh, I guess because it's got to happen, right?
+And there's always going to be someone that doesn't like things.
+44:37
+You can never please everyone.
+And it finally happened one day and I was like instant instant like loss of like 3 or 4% of my my score there.
+But.
+Oh no, yeah, it's the stats behind that are super interesting because it's like when building out, so the the data set that we have that powers the podcast.
+44:56
+I do like a a scrape of titles from Steam DB and then I make API calls to the Steam back end and pull all this data and stuff.
+And it's very much a hard question of like well what are the best games?
+Like how do you, how do you qualify?
+Like what are the top ones for us to even consider talking about?
+45:14
+And like the two axes that I was playing along with at first were just like number of reviews and what percent positive they were.
+And I was doing a very simple thing of like, you know, just combine those two with like a Pythagorean optimization.
+You know, just like basically just find the the hypotenuse of the triangle, those two numbers.
+45:34
+And then the more I was looking into it, like the the site steam250.com has a bunch of these different ranking algorithms that they that they tested out.
+And Steam DB also has their own ranking algorithm that like take these into account of like you know Steam's method of yeah, you know like for these conditions of like if you meet this review threshold and you're this positive, then you're in this quadrant of the of the positivity matrix.
+46:06
+That's you know, that's fine.
+I guess it's probably easier to grok than than like all these different numbers and formulas for the average consumer.
+But like for ranking things in a in a spreadsheet like, I've wound up using the Steam DB1 which is like basically takes like the number of reviews and normalizes it to the percent positive.
+46:31
+Like they have a whole thing on how it works and stuff.
+But I feel like that one has been the most well balanced because it just gives you a like a number at the end of the day it's like oh, on a scale from like 0 to one, how good is it?
+Question mark and I've been following similar hue to your to your bemusement of like refreshing the review score every day.
+46:52
+I've been following this one game, this one indie rogue game on Steam that has a very I don't like, maybe polarizing art style question mark called The Void rains upon her heart and this this is a game.
+47:08
+It's a It's a rogue style bullet hell side scrolling, shoot em up type game but has.
+That not got 100% positive reviews.
+It.
+Yeah.
+In my in my data polls throughout the year, it had always been like 100%, like zero negative, zero -0 negative.
+47:25
+And then I want to say like recently it had, let's see, I'm looking on Steam right now.
+It has two negative reviews and that's enough to like on Steam it says over.
+Well it still says overwhelmingly +99%.
+But yeah, it's like this weird kind of mentality that like that puts people into space.
+47:46
+Like I have to be in these upper upper tier bracket of like the specific category and if I fall out of that then Oh my God, the the world's ending kind of the deal.
+And you're right that like at at lower review volumes that can be much more impactful where if you have a a game that maybe only 500 people are going to are going to review, every review counts And yeah, it can be very scary if you get review bombed for whatever reason or.
+48:11
+Things like that, yeah.
+You don't want to piss off more than one person at a time because then you're having a real bad time.
+Well, funny you say about Steam 250.
+I remember like quite a while ago actually, which is how I was aware of Void Raids Upon a Heart.
+I used to watch the Steam 250 charts because War SIM didn't have that many sales, didn't have that many reviews, but it was still quite highly rated.
+48:30
+And I I remember seeing, I think it was the The Hidden Gems list which specifically is for games that don't have that many reviews.
+And I remember seeing you'd see a game that would just get one bad review and it would drop like 40 places on that list.
+Yeah.
+And I remember seeing Watson got a bad review one day and it was like down 13 and I'm like, oh jeez.
+48:47
+So yeah, it's it.
+It really for for the smaller scale games it really does come fast with with just just one person who doesn't enjoy them and and you do sometimes like I've seen some people that that are serial bad game reviewers as well.
+They there's one guy we left the bad review of Warsib and then I checked his profile just out of curiosity and every single game he owned he had a bad review of.
+49:08
+I respect the consistency.
+They're like nothing.
+Personal 10,000 hours, thumbs down.
+It was OK.
+Not enough content.
+Oh, I can't believe we haven't even broached this topic yet.
+This was one of the first questions I wrote down and we're like 45 minutes in and I haven't even asked it yet.
+49:27
+ChatGPT.
+Ah, yes.
+So war SIM like very very text based, very bespoke and you can tell a lot of the the heart of the creator comes out through it.
+But yeah, like ChatGPT has really like blown up the world for good or bad.
+49:47
+And yeah, like how what is what's?
+What's your take on it as someone who's so much in like the text, gamified space like do you do you see it as like something to work with as a tool?
+Or something.
+Through something else.
+I think if I if I'd started War SIM now with the same ambitions and vision, I think I would have completed it way sooner.
+50:08
+If I had GPT as it is now.
+Even back then I've I've already used it a handful of times for for various different things.
+When I'm like, OK, I want to I want to think of a bunch of item types.
+Here's thousands of item types already have give me another 500 and and what I found is obviously it's like having an instant assistant.
+50:25
+That's really sometimes bad.
+But yes, but you can correct them and and they can work through it.
+And I think I even asked it because I have a hundreds of jokes in game, right?
+And I tried to come up with some myself.
+I tried to search the Internet find as many good jokes as I could that were fantasy themed.
+And I asked GPT to write me some based on the ones that I gave it and it there was a few that were actually quite good, surprisingly.
+50:45
+And there were some that were really, really terrible and they were really surprisingly bad.
+Like I I couldn't wrap my head around what but it was like it was so bad that a human wouldn't have even made them and so I gave them to a brain damage known to tell in in a Tavern somewhere who who I loved it.
+Bill stayed as content.
+But yeah the the power of GPT is is pretty terrifying and it definitely worries me a little bit.
+51:08
+But hey, at least at least for the most part it's accessible to everyone.
+Right.
+So you know at least we've all we've all got the ability to to use it for whatever.
+But yeah I think it's it's tremendously helpful.
+I think if you can use it for anything then then absolutely use it.
+For me, when I'm I'm asking it to make me large amounts of things what I tend to find is that my job becomes more quality control then than anything because I'm I'm checking what it's giving me going OK that's not that good or or can we try again but maybe with this but the yeah the power of it is massive.
+51:38
+If I definitely.
+If I'd had it all those years ago, we would have been looking at a a different game.
+Maybe it would have lacked as much soul.
+I don't know.
+But but GPT, definitely.
+It's definitely an incredibly, incredibly powerful tool if you use it the right way, yeah.
+51:55
+It was great that you have like all of the content over the years to feed into it as a grounding and say based on this stuff instead of instead of just being like generate something from the void which may not that's.
+True.
+That's true.
+Yeah, that's a good point.
+Didn't think about that, really.
+But so it sounds like.
+I mean, like you can use it for like the the actual content generation of the jokes and items and and that sort of thing.
+52:13
+But I wonder, are you using it?
+I'm guessing at this point you feel extremely comfortable writing the actual code for the for your.
+Yeah, but like are you using like a a copilot or any of like cursor, dot, SH or any of these like AI assisted tool code writing tools?
+52:28
+I did dabble in trying to get GPT to write me a little bit of a a war SIM mini feature, but my problem is that obviously war SIM is a a mighty spaghetti that connects in many directions.
+So Gee, I can't feed 650,000 lines of code to GPT and tell it hey can you add this feature?
+Because I think it would just explode and probably won't even take that text in.
+52:46
+But but it in in a very isolated space I have managed to to get it to do stuff.
+What I found was that it wasn't really understanding things a little bit and it was kind of hard.
+And then there was one point where I asked her to do something and it it gave me a chunk of code that just was instantly exactly what I wanted and I was like oh oh this is crazy, that's wild.
+53:04
+But it obviously a little small scale thing but yeah, it's definitely doable.
+It's definitely, definitely doable.
+Probably would be even easier if I wasn't working in the world's largest Bola spaghetti, but you know, that is my fault.
+And I I asked this partly because I one of the reasons I wanted to chat with you is I want you to inspire me to quit my job and become a solo dev.
+53:22
+But that's and so if you if you were to say, Oh yeah so with these tools even an idiot like me can like learn how to to build a beautiful app and you can just hit tab you say build this beautiful thing, hit tab and then the code generates this perfect flawless and that sounds like great.
+I'll just get started right away then.
+But as it stands it's it's it's certainly getting easier it looks like but your points can you have your entire code base in there I'm not sure.
+53:48
+I think like a Co pilot.
+I don't know Scott if you this stuff but like that's something where you can like have your entire repo.
+I think in the the whole code code base at least a visible to the LLM but I don't know these are the things that I want to get excited like start building.
+54:03
+And yeah, that that's a that's a dream come true.
+Trust me that I, I, I I would love to be able to have an instant coding Co pilot that could create everything for you.
+It's then it becomes like an arms race almost, doesn't it?
+To then try and create something good and fun, but it's definitely about an amazing, incredible concept.
+54:22
+A lot of like.
+Really bad games coming out as people are using this, they have.
+Never been written games before.
+Releasing a new game every 5 minutes.
+Right.
+Yeah.
+Just like, hey, write in that.
+Or write a game that does this and you just like, you know, a few modifications.
+There's one game next day.
+Hey, GPT, write me an algorithm.
+Write me a code that will write me a new game every minute using GPT.
+54:41
+That's that's meta.
+That's what I want to play that.
+But yeah, well you were saying about inspire you.
+If I was able to do this then I'm pretty sure any person with a functioning brain could do do anything code wise or game wise.
+I was I I I followed YouTube tutorials, quit after the 1st 10 and just carried on with my very basic knowledge to build something ridiculous.
+55:03
+But I think the only thing that I had that really helped me was persisting.
+And that's the only thing that maybe, maybe is a special thing, is persisting and obviously caring about the fucking community and talking, but the the skill involved is not not really very much at all.
+So if I can do it with my terrible spaghetti code, building a a giant mountain out of small blocks of shit, I'm pretty sure you could.
+55:24
+Look let me ask you this because that persistence element is is like a a very important one I think and and I think it is it does as you pointed out earlier have some relationship to community.
+So if you were to like like plot your level of persistence over time with relationship to how large and engaged your community is, would you say that like, yeah, it was fine for a while.
+55:43
+It was interesting to learn the thing and then suddenly I got community feedback and it became like this passion project where it became meaningful thing and that's where it really took off for you.
+Or or was it just kind of more consistent all the way all the way through?
+Yeah, no, it definitely evolved.
+It definitely evolved a lot.
+It started off and it was a passion project because I was like, oh, I'm making stuff happen with my own words.
+56:01
+This is crazy.
+And then it was it was just a game for me.
+It was just fun and then at some point obviously you can't do that forever you know and it did sort of fade a little bit and and then there was people that would give me feedback and checking out on a really small scale and and I would get a comment every week maybe and that comment would carry me through to the following week.
+56:18
+And over time it started growing and it it got to a point where you know if I was getting 20 comments on it in a day which would be a huge day obviously that that's that's fuel for another month for me.
+You know, it was so exciting and I think obviously to not, you know, slow smoke up anyone's ass.
+Obviously getting money for the thing as well was a was a whole extra thing that changed the game for me.
+56:37
+And I think as soon as people had invested in the game and bought a copy of the game and it was an early access, I felt a deep commitment to like I can't drop this now.
+I don't want to create some abandoned Ware or pull some of those Kickstarter campaign things that people have done.
+You know, I want to see this through and actually deliver what I promised and make something and I think that was a big motivator as well.
+56:56
+But the constant community feedback was invaluable and I think probably the the strongest fuel, but for the longest amount of time and I it's never faded really.
+I still, I still feel like really excited whenever I see a new review.
+I check almost every day.
+I have a little check search for the newest, latest reviews, check on Reddit, Discord, whatever and see what people are saying.
+57:14
+And it always, it always makes me happy.
+I still don't really, I still sometimes feel like I'm being punked.
+But yeah, it's it's it's beautiful.
+It has not faded and it's been a long time now.
+And you know that like with like this is as you continue to work on this is like a like a legacy project that even long after you're gone like this game will still exist and be available.
+57:32
+And as as is proven by the fact that it doesn't have intense graphics like like it won't matter if graphics become the most intense.
+Like you know three just, you know VR experience everything turned up to the Max because turns out that the fun is not a function of like graphics alone.
+57:49
+And so I.
+Don't know, maybe.
+It should stand the test of time, but ostensibly that that should be the case.
+It could stand the test of time unless there's a Windows Update that comes out and removes CMD, in which cases is bye bye baby then back to bar work.
+But yeah, hopefully not.
+58:07
+Well, there are other bill.
+Gates don't do it.
+He's he's an avid listening to this podcast I'm sure so.
+Bill noted, noted Fan.
+Of do not pull the plug on CMD.
+I'm telling you now, man.
+Indeed, are there any Are there any games that you play like outside of doing war SIM dev stuff that you feel like deserve more attention?
+58:30
+Oh yeah, So many, to be honest.
+So many games.
+I feel like it's it's really kind of a curse sometimes when you get into developing and you you learn how to expand on things you can indulge in your own.
+I want to add this.
+I want to do this and see how the games are.
+Like wow, they've got such an amazing thing in their hands here.
+58:45
+Like if I was the lead of this team, I'd be doing so many things with it.
+Like there's there's just so many amazing, amazing games out there.
+So many different projects.
+It it would be really hard to pick one to be honest.
+I think sometimes it is like you look on Steam and you're trying to find a good game and it feels like there's a drought and it feels like there's just absolute crap everywhere.
+59:02
+And I don't know, other times you see these these amazing little passion projects being made and there's just so many, so many things being built and bubbling up.
+Really would be hard to pick one to be honest and not cop out on that.
+Can we just ask for like some favorite games then that maybe that you've personally enjoyed?
+59:25
+Yeah, I'm trying to think I I play, I I go through phases a lot of games.
+So I I I'm quite enjoying playing a lot of Crusader Kings 3 mods at the moment that's so is a fun time is I I still can't wrap my head around how they've built something that is so massive and yet so malleable.
+59:43
+It's it's pretty crazy pretty impressive.
+A guy that I'm kind of pen pals with is working on a game called World Box which is a God simulator.
+And that that game he he didn't put it on Steam and I was like why put it on Steam?
+Man put it on Steam and it's doing really well on Steam now.
+59:58
+I'm pretty sure he's living his dream, but that's a really cool game and he.
+He I wish he would update it more but I understand it's because he's he's cooking and he's building.
+But I'm I'm always waiting for more because it's it's a really addictive thing to watch.
+Quite quite therapeutic actually.
+And then I've I've got a few Internet pen, pen pals that are working on a few different things.
+1:00:17
+One guy that I chat to worked on Streets of Rogue and Streets of Rogue is an absolutely incredible game and he's working on an open world sequel, which I think is going to be probably my most anticipated game of the year when it finally comes out and I'm yeah, I'm trying to think who who else we've got.
+1:00:37
+There's there's there's always there's always some cool stuff.
+I.
+Got to ask you, have you played?
+There's another It was another solo dev project.
+At least it started out that way.
+It's like a Kenshi.
+Maybe it's a game You've heard of I.
+Oh, Kenshi, Yeah, sorry.
+And it reminds me of a little a lot of wars in in in many respects.
+1:00:53
+Yeah well I so I I found Kenshi many, many years ago and I tried to play it and I just, I don't know what happened but I just really did not get it.
+I just really couldn't vibe with it.
+And so I I quit, uninstalled, got a refund and then I ended up checking it out years later and something just clicked in me and I played it for 300 hours straight.
+1:01:11
+And not not to UN PG your podcast, but so in in Kenshi you can you can harvest your own hash in the in the swamps right And then build your own little drug empire.
+And in real life I went and acquired some hash just so I could really role play the game.
+That was how much I was into Kenshi.
+1:01:26
+I really loved it.
+I even added the character beep, which is a a sort of bug person who they they they've connected to A hive essentially is one of those civilizations in Kenshi.
+And the he's disconnected from the hive because of his brain damage.
+So he's unable to be part of the hive mind and so he just walks around saying beep and absolutely incredible goat character.
+1:01:47
+And I added him towards him in a little shack that you can find in the middle of nowhere if you explore the proc Gen. exploration system.
+I added a few updates back and I had a lot of Kenshi fans being like this is the crossover I never knew I needed.
+I mean, that's delightful.
+I didn't realize that was a thing, but that just that is utterly delightful.
+1:02:04
+Yeah, huge, huge, huge fan of Kenshi.
+I'd love to meet the guy that developed it.
+I think absolutely outstanding effort.
+He made something that has no business being able to be done as a solo project.
+It sounds like one of those bizarre ambition things that people would say, Oh yeah, I want to make a game that's hugely open world, with a crazy world that's like Morrowind, but you've never seen anything like it before.
+1:02:23
+It's much bigger.
+You can build a whole civilization.
+All this other stuff not achievable surely by a single person, but and yet he still did it, because his name's Chris.
+Chris something.
+But absolutely amazing effort.
+Genuinely incredible.
+He's working on a Kenchi Kenchi 2 right now, by the way.
+1:02:38
+Not not the saying that you know you should be so inspired, but.
+Yeah, no, yeah.
+Kenchi 2 is, is, is cooking and it'll be very exciting when it finally drops.
+I don't know how long it'll take because I mean, I imagine it's going to be as monumental as the previous one, but but with with even more.
+1:02:56
+But he's got a team now, I imagine.
+Yeah, I think so.
+All that, all that, all those Kenchi millions too, right?
+Good luck.
+These are the kind of game studios we need, ones that are developed by people that have started with something crazy and then go on to to, you know, build these incredible wild things.
+1:03:13
+So I love to see it.
+Well, I think that does it all.
+For questions on my end.
+Will, did you have anything else you wanted to?
+I check my notes here.
+I mean, I got all my gushing out, at least most of it that I needed to here, and I can't go too over the top, but it's it's.
+1:03:32
+Why not?
+Really great to have you on me.
+Cheers, but you know I really appreciate it.
+Yeah, Thanks for thanks for coming on the pod.
+Is there anything that you want to promote or shout out?
+No, not at all.
+Why?
+Why not have a moment devoid of capitalism?
+1:03:48
+Excellent.
+Perfectly good idea worsen Bitcoin coming soon.
+So, Wilson Bitcoin coming soon, got the DLC dropping in a week.
+It's going to be, it's going to be 1 of 700 DLCS that I'm dropping.
+That's the best part.
+They're procedurally generated.
+1:04:04
+They all cost $50 each.
+It's just free real estate.
+Excellent.
+Well, yeah.
+Thanks again for coming on the pod.
+Come back anytime.
+We'd love to have you.
+Oh, hell yeah.
+My absolute pleasure.
+Thank you for allowing me to ramble about video games and passions anytime.
+1:04:23
+All right.
+Well, that was our seamless transition from our interview back here to our our, I guess, main part of the episode, question mark.
+What a good.
+Interview.
+Oh yes, Will was was on on deck for their interview part and Colin and Andrew sadly had had jobs to be working at the time.
+1:04:49
+So we've we've kind of spliced this out into into two different parts, but.
+Yeah, I'm actually I I'm, I'm probably as excited as the average listener to listen to the interview, 'cause I haven't had a chance to to hear it yet.
+So I'll have to.
+Yeah, we, we talk about all sorts of wacky stuff from marketing strategies to ChatGPT and everything in between.
+1:05:13
+I mean you if you've made it this far in the recording you you know exactly what we were talking about but but now for what everyone has come here for is listener e-mail bom bom BOM bom.
+I've decided to to kind of take some emails that were more sort of long winded that we've been getting and and put them here in our special episode to give them some some much needed attention.
+1:05:36
+So without further ado, we have our first e-mail come in from Gosh, how do I pronounce this?
+The, the BIGE, the bij 23 writes into the the biggie.
+1:05:51
+I like.
+I like Biggie.
+The Biggie 23.
+Biggie's writing in the flow it writes in.
+It says how much of A rogue like Slash Rogue Light do you feel you need to complete before covering it?
+Many games in the genre have secret levels or bosses, or require numerous wins to get the full experience.
+1:06:13
+So when do you feel you've seen enough to give the game a fair shake?
+Oh, this?
+Is a a great question.
+A great question that weighs heavily on my mind.
+I've yeah, you know I've considered this and you know you're kind of there.
+1:06:31
+There are some issues with like not wanting to spoil yourself potentially.
+I I feel like yeah what's what is reasonable?
+I mean it varies from game to game, right?
+It just it just depends.
+But I mean sometimes you know when when the game's a game's just not gelling with Someone Like You know we're not gonna expect our our fellow pod members to, you know, just power through it.
+1:06:59
+Except for in the case of Dead Cells, will really should have tried to play that for at least.
+Longer than 10 minutes.
+A good two hours.
+Come on, two hours minimum.
+Just cuz like you know I gotta assign a value, I'm gonna say like 2 hours 2 hours minimum.
+1:07:16
+Gotta get in under.
+That say that for for the sorry, I'll let you all give your answer as well.
+But I would say that, you know the the measuring stick that we're using here is just like a, you know, a for fun, you know, podcast that we enjoy making and we don't want it to be unenjoyable.
+1:07:39
+So if somebody, one of us, is playing a game and they're, you know, you're not liking it, that's fair if we were being.
+Paid to do this, I'd feel more guilty about the length of time that I've played on some of the games.
+But like I view this and I've always viewed this as kind of a video game book club type thing where it's the three or four of us playing a game and then talking about it and we get in as far as we we managed to get.
+1:08:08
+And I I usually try and do at minimum like 5 to 10 hours.
+I feel like that is a usually a good amount of time to get a feel for the game enough that you can at least talk about it.
+Obviously more would be better in in most cases because yeah, secret levels, bosses, numerous wins etcetera.
+1:08:31
+Like that's something that we often don't get to in in these games.
+So really we're we're we're we're more getting a taste of these games a lot of times.
+And I think that in some ways roguelikes are the perfect genre for for that because there are runs and you can get a an experience doing a full run without having to play like a balder skate level 100 hours to get the whole experience.
+1:09:03
+But there's definitely games where we're not getting the the depth of experience that people who are really into the games are are getting.
+And I I know that that affects our ratings in a lot of cases.
+Like, there are I I the the Rimworld episode most recently where Will and I play extensive hours of Rimworld.
+1:09:24
+And like, the things that you guys are talking about, like, Oh yeah, I don't even remember not knowing how to do that.
+So like, I'm rating this game on a level of competency that you can't expect to have someone to have after five hours.
+So, like, there are definitely certain aspects of the games where I bet you they either shine or become repetitive if you play them the full amount of time.
+1:09:51
+But.
+I mean we've got two weeks and full time jobs and other commitments of life and other games that we want to play, so.
+It's hard enough to get.
+It's hard enough to get adults to do anything let alone commit to like 2 hours throughout two weeks to do something.
+1:10:08
+But but yeah, I think like, yeah, yeah, I think you hit it right on the head with like 4 Fonzies and like the run based nature of a lot of these games.
+Like if you can kind of grok the idea within like a run or two, yeah, like you could probably make some blanket judgement on the face of it.
+1:10:26
+There are a lot of games that like compound with like meta progression as you unlock stuff.
+And I feel like I'm, I'm glad that I stuck with Gungen through that process 'cause I felt like I kind of bounced off it pretty hard to start with.
+But I knew that it had that kind of like, oh, OK, I know, I know that like lots of people spend a lot of time in this game.
+1:10:46
+There's gotta be something to it.
+Maybe I'll just keep grinding away at it and I can.
+I can just got over that hump just barely, and I could see the the vast horizon in front of me of of gameplay possibility.
+But I think also when we were picking our algorithm for picking games, maybe algorithms too generous, our weird, bizarre pick them out of a hat method of how we were picking games at the start of this podcast was very much like here.
+1:11:13
+It's three games we've never played before.
+Let's pick one of these three random things we just drew out of a hat, and in particular our Shattered Pixel dungeon, I think caught some Flack for that because we picked that one over a couple other games that we had never played.
+But that's a game that like has a lot of that kind of discoverability and stuff to it, where, yeah, you play through it once, like you'd maybe see like 5 to 10% of what the whole game has to offer.
+1:11:40
+But again, if it's like a game that we're kind of coming in blind and we don't really have any knowledge of or muscle memory for and we kind of bounce off it hard, I feel like, yeah, like those those games early on maybe had a little bit of an uphill battle.
+1:11:56
+But now I think with what we're doing, where we kind of come to the table with something of like, oh, I want to talk about this game because.
+Blah.
+I feel like you need to have at least one person advocating for the game in order to, like, get past it.
+It if all of us have like not the best first impression of it and you need that like person to be like, hey, I really like this game.
+1:12:22
+You're like, huh.
+Well if Scott likes it, then I I feel like I should give it another chance first.
+Like like Warsim is the perfect example.
+Like hearing you guys talk about it and talk about how much you enjoyed the interview.
+I'm like, man, I really should feel like I should go back and play Warsim again.
+1:12:37
+Like was I was I wrong?
+Like Will likes it so much and I generally like games that will likes.
+Like maybe I should go give it another shot.
+And like you need that kind of some someone needs to be there to to advocate for that game if you're not as into it to get you to keep going on it so.
+1:13:01
+And I think another aspect is that our our very scientific set in stone ratings for this program are not set in stone in that we could change them at any time and like my luck be a landlord rating.
+I think when we reviewed the game was like, yeah, it was pretty good and like since we did that episode of like I've been coming back to it more and more and I've just been pushing that rating higher up on the chart.
+1:13:26
+So there there will probably be some way for us to to revisit that stuff later on.
+I mean obviously with playoff style things at the end of the year will will give us a chance to revisit things.
+But, but yeah, I think like having having the ability to be flexible with our mindset and being able to change those rankings over time as we come back to things is another kind of level of flexibility that we can.
+1:13:51
+We can say like, well, yeah, I only spent a few hours in that game before, but maybe I should come back to it.
+And maybe my opinion on it has changed with different games that we've played along the way.
+Kind of a thing.
+Sure.
+But Colin, real quick, going back to what you said, the number that you stated, 5 to 10 hours, I agree with that, insofar as that is, that is an ideal amount.
+1:14:12
+Like, I'd like to.
+Sure, yeah, do 5 to 10, but that's not always possible.
+And in the question it says, like, you know what?
+When you've seen enough, you know, when do you think you feel like you've seen enough to give it a fair shake?
+Fairness is definitely in my mind when I'm playing these games, and it's more in my mind when it's a game that I'm not particularly enjoying.
+1:14:30
+So I find myself in a tough spot.
+It's like, am I being fair to this game?
+Should I push forward and push myself to play more of it?
+And yeah, I can just, you know, I can be kind of tricky, 'cause it's like, I don't know the good game.
+Often times I'll be like, well, you know, I'm enjoying this right out of the gate and I I feel pretty confident.
+1:14:47
+But like, oops, oops, 30 hours feels a little harder to pass judgement on.
+You know when when I'm not feeling it so much.
+And some of these games I I feel like.
+As long as we're kind of like Transparent about how much we actually played the game, be like, yeah, you know what, I only got 2 hours into this game.
+1:15:05
+I didn't care for it that much.
+But you know if you there might be more content if you if you managed to to like, get more into it and and and dig into its steps.
+More so, yeah.
+And that.
+Right.
+And that's another thing.
+And I totally respect, you know, folks who are fans of a game that gets covered.
+1:15:23
+And you know.
+Are are maybe not super.
+Happy that you know there hasn't been that, that you know, some of us haven't played it to the maximum amount.
+It's like we we'd love to, but not always.
+It's not always tangible.
+It's not always reasonable.
+1:15:40
+The data set that I always reference that that's up on the Grogpod website.
+One of the things that I have in there is the the playtime percentiles for each of the games in it.
+So you can go in and you can see like here's, here's like the 10th percentile amount of time that people have played.
+1:15:59
+Here's like the 50th, 90th.
+And it gives you kind of a, a a spectrum of like, oh, this is how deep the game can go.
+And so for things like, let's say I'm just looking looking through some of the ones on this list like Dead Cells, like the 50th percentile play time is like 65 hours.
+1:16:17
+That seems about right.
+Obviously probably hard to do in two weeks with a full time job.
+But I think like if you played it like the 10th percentile is like 10 hours, I feel like 10 hours, you could probably see a lot of that game and the 90th percentile is 247 hours.
+1:16:34
+Like it's it's got some long tail to it, something else like Binding of Isaac that has a 50th percentile, 464 hours.
+So kind of kind of a lot, there's a lot of engagement there.
+But at the same time, like I feel like if you play through two or three runs of Binding of Isaac, you kind of got the idea right.
+1:16:54
+You you sort of know what the game is about and how it plays and stuff.
+I don't think you need to necessarily spend 1000 plus hours on it to quote really get it.
+But there are games that do have that much longer tail to them than others.
+1:17:11
+And yeah, like you you some of them are just bottomless, but some of them you can kind of even with those bottomless games, like you can kind of get the idea of them from the get go pretty quickly with that cyclical nature to them.
+I think of like something like Rocket League.
+You could play a game in 5 minutes, be like, wow, this is hard.
+1:17:32
+We played a couple more games and you know what Rocket League is?
+You can keep playing it for 700 more hours, but like you get the gist of the game very quickly.
+But do you know, Do you know what Rocket League is?
+Unless you've done 25 hours of acrobatics training, I mean, that's where the real game begins.
+1:17:54
+Sure.
+All right, let's move on to our next e-mail.
+Which one?
+Which?
+Direction.
+Are we moving in?
+Are we moving one way?
+Oh, Oh yeah.
+Yep.
+That's a good point.
+This e-mail comes from Let's see, Yeah.
+1:18:11
+So hi, Grogpod host.
+I'm Rel.
+I used to play quite a bit of one way heroics this episode.
+The One Way Heroics episode that we did in the past convinced me to tune in for the first time.
+I didn't think anyone would be talking about One Way Heroics in 2023, so thanks for sharing your experiences with it.
+1:18:29
+Enjoyed the chat?
+Some things I'd like to mention.
+One Way Heroics 2 is in development exclamation mark It has been since before 2020, I believe by the same singular dev Smoking Wolf who also goes by the moniker Silver.
+1:18:45
+Second looks like it retains some of the quote encroaching Wall of Darkness concept, but you're moving across a hexagonal grid now and there's a deck building mechanics question Mark Rel goes on to say one way heroics music problem on the Steam deck.
+1:19:01
+Yes, I mentioned this as a thing that was kind of frustrating me a little bit.
+It's a problem with translating a windows game to play on a Linux based platform, Steam OS.
+There is a fix, but you'll need to read a bit and they've sent a link to a proton DB.
+1:19:16
+Fix that I guess.
+Maybe I'll I'll post that in the in the show notes, but but yeah, they go on to say yes.
+Yes, the Mystery Dungeon series games are very much worth your time.
+I've played the Shiren and Pokémon variants and I have some thoughts.
+1:19:34
+Pokémon Mystery Dungeon is a bit too watered down in my opinion for a rogue like, but the stories are nice.
+And hey, it's Pokémon.
+Cute monsters.
+Most importantly, unlike the mainstream games, you get to be a Pokémon.
+This spin off series is entirely human free and it kind of works in its own charming way.
+1:19:54
+The most recent entries on the Switch, a remake of the very first Pokémon Mystery Dungeon, love the picture book art style.
+And then I guess there's a downloadable demo for it as well, maybe downloadable for a Switch.
+They got to say Chiron on the Wanderer is hands down one of the the best all caps when it comes to rogue legs that you can play with a controller.
+1:20:14
+A lot more punishing than Pokémon Mystery Dungeon, very item based.
+You can do creative things like mending different or melding different equipment together to make them stronger, and it has a unique mythological slash, folk tailed Japanese setting, Shyron the Wanderer, the Tower of Fortune, and Dice of Fate.
+1:20:34
+Yes, ridiculous game title.
+Most people just call it Shyron 5 is the most recent entry.
+Has gorgeous Sprite work.
+Definitely worth a try on Steam, Switch and PS4.
+The first Chiron title came out in Japan only on the SNES, but there's a remake of that on the Nintendo DS, and it also is the very first Chiron title title officially released in the West.
+1:21:00
+I personally prefer this title.
+It has a it's a lot more succinct relative to Chiron 5 and elegant as a Rogue.
+Like.
+Definitely try it if you can find it.
+The Shyron series, in particular Shyron One on the On the Senesce is a cult classic for the Japanese player base.
+There's even a small speed running slash racing scene with some of their runs up on Twitch.
+1:21:20
+Sum up, there are also Mystery Dungeon adaptations of Final Fantasy and Dragon Quest.
+The latter being the very first Mystery Dungeon game in the Series, A remake of the third Final Fantasy adaptation, Chocobo's Mystery Dungeon.
+1:21:36
+Everybody BUDDY is on Switch and also might be worth your time.
+Apologies for my rambling and thanks for reading it.
+If you've made it this far, it's looking forward to more Rogue like chat.
+Regards REL.
+No apologies needed rambling.
+Come on, you're talking to some full time ramblers right here.
+1:21:56
+Wow.
+Wow, wow.
+Wow, wow.
+One way Heroics 2.
+Yeah I would be like great.
+The dev has awesome monikers, awesome nicknames.
+Yeah I'm I'm super curious about a one way Heroics 2 and it's it's and one way Heroics is an interesting game 'cause it does I guess technically in air quotes have a sequel in air quotes in that the there's who is it Spike Chunsoft or something like bought the the IP rights or or it's it's like a was it like Mystery Dungeon one way Heroics two or something like that it's it's like.
+1:22:36
+Oh, that's.
+Right, Yeah, it's like a sequel and everything but name where it's like it kind of looks the same, but it doesn't.
+It feels like it.
+Well, I guess I don't know.
+Again, I'm judging with 0 hours of play time like we just discussed.
+But I get the sense that it's one of those things where it's like, oh, inspired by one way heroics, but not quite the same kind of level of indie dev jankiness, which is kind of what I'm looking for in a one way heroics too.
+1:23:02
+So yeah, it'd be interesting to see if the different movement mechanics and deck building add to to that kind of system, yeah.
+Yeah, I mean, it sounds like it could be interesting.
+I like one way Heroics has definitely been one of the more individual unique games that we've played.
+1:23:25
+Like it is not like any of the, like I I remember when we were doing the the the Playoff Bowl, you know, like I don't even know what category this goes in.
+Like it's it's kind of its own thing and I I appreciate that.
+And regardless of how much I liked it or not, I want more interesting, unique games to be made just as a as a concept.
+1:23:51
+So.
+For sure, for sure, and I'm looking at Rel sent over some links to some game play of the in development our H2 our our two and it looks pretty cool.
+1:24:06
+It's like the hex based I I dig the aesthetic.
+Very cool, very cool here.
+For yeah, Colin, you you kind of nailed it with like one way heroics being it's not quite a traditional rogue like and it's not quite something like Binding of Isaac.
+1:24:24
+It's that mystery dungeon space that we really haven't explored yet.
+And like these Pokémon Mystery Dungeon games, I I fafed around a little bit with Pokémon Red Rescue Team in AGBA Emulator and it's it's interesting.
+1:24:43
+And I think I get what Rell's saying here about it being like more kind of like the Pokémon ones being more kind of cutesy casual Mystery Dungeon entries.
+That makes sense with the same, Yeah, that, I mean, yeah, that would make sense.
+1:25:00
+And yeah, I've been kind of curious to try out Chiron because like the idea of like a Super Nintendo Rogue style game just sounds so so weird and whimsical that it would fit really nicely into that category of like weird.
+1:25:18
+Like still kind of figuring out what the genre is type stuff.
+And yeah, I guess like Shyron 5 being on Steam is is interesting.
+A lot of these mystery Dungeon games also seem exclusive to Nintendo platforms and as I guess like we don't really have like a blanket statement of like this is APC game only podcast.
+1:25:40
+But it would be interesting to kind of dive into some of those other other consoles.
+There's there's one that is a for sure stay tuned that had been PS Five exclusive up until very recently returnable which God I I think I have to upgrade my graphics card specifically to play.
+1:25:59
+But yeah, some of these that are like Switch exclusives, I'm like racking my brain of like, OK, how could we go about procuring?
+I do not, but I'm wondering, do you have?
+A switch, yes.
+All right.
+So Andrew, we just have to all go to your house, yeah.
+Switch long on down.
+1:26:16
+'Cause I I don't, and I know will doesn't either, so right?
+I mean, I might as well not have one.
+I I never use.
+Last time I used it was an I'll fated attempt to plan a a Doki Doki Tetris tournament at PAX and I got just totally wrecked.
+1:26:35
+Yeah, we we got one.
+So yeah, I could just like, you know, play for a few hours and then pop it in the mail and and yeah, over the course of a two week period, I'll play a game.
+Probably, maybe, Potentially.
+Gotta send it express.
+Yeah.
+1:26:50
+And and there's a there's a new Shiren game coming out in January I think also for Switch.
+But yeah, like fresh, fresh off of the production pipeline, which I think people are super, super pumped up about.
+So I think covering some game out of the Shiren series, I hear a lot of people always talk about the Chokebo or the Chokebo Mystery Dungeon games as well.
+1:27:14
+Like that's that's like its own series too.
+Like there's there's so much of this mystery Dungeon Orc of the rogue, like Rogue Light Spectrum that's like, that could almost be.
+It's like its own entire podcast wing in and of itself.
+1:27:30
+So definitely a lot to explore there for sure.
+Yeah, love Chocobo's and a Chocobo century game.
+Sounds pretty radical.
+Yeah, and I'm looking at this like I don't.
+I don't think that there's any way that I could play this besides stealing someone's Switch and playing it on.
+1:27:49
+I'm probably not gonna buy a Switch just for Chocobo Mystery Dungeon, but.
+You don't have a switch.
+Christmas is coming.
+I believe there were some Chocobo Mystery Dungeon games for the PS1, so there.
+1:28:04
+Are there are ways out there?
+Yeah, there are there are ways to to utilize our PC power for that kind of the thing when.
+Was the first Chocobo.
+When, yeah.
+Was it final?
+I mean, I think Final Fantasy One has Chocobo's in oh, is it you?
+Get back into the first one, Let.
+1:28:21
+Me.
+Just look over here at my a copy of Final Fantasy 1 by Sakaguchi.
+It should be noted.
+Certainly I don't like to mention I don't like to bring it up.
+I'm.
+I'm pretty confident.
+I'm going to double check though.
+Do a little research, I'll get back to you in a bit.
+1:28:38
+Yeah, this Mystery Dungeon Theater, Mystery Dungeons feels like it could almost be its own sub genre of some kind.
+Are these mystery?
+Is the term Mystery Dungeon copy written?
+Does someone own that?
+It just happened.
+To be in the name naming conventions of all these.
+1:28:54
+I think, well, it was something that came up from what was yeah, like our writer REL had mentioned one of the, I think, Dragon Quest games.
+There was like a Dragon Quest NPC that got spun off into their own game called How Loon's Great Adventure Colon Mystery Dungeon and that's what kicked off like, oh, like this is a whole genre Now.
+1:29:23
+I don't think that, like, I don't know if that's owned by Square Enix, but it wouldn't shock me because then you would have like the Final Fantasy crossover stuff.
+But that is where I believe the the moniker comes from And it's frustrating because I've I've always like, penned in this OK and the future on the schedule will play Talon's Great Adventure and the SNES Shiren as like this is the first foray into like console controller rogues and for the life of me I cannot find an English translation ROM of Talon's great adventure Mystery Dungeon.
+1:30:04
+So I don't know if it would be if it would be inappropriate for us to play a Japanese text only game.
+I think Will speaks Japanese, but I don't know how well that would.
+I mean, I think Will took Japanese in high school, so it's been a minute.
+We could maybe, yeah.
+1:30:23
+I don't know if you just like hold up Google Lens to your computer screen Google Translate, that's pretty handy.
+I've got some breaking news the the archivists have returned an answer for us.
+It would appear that Andrew Hershman is wrong for in pennants.
+1:30:41
+I'm going to have to throw away my copy of Final Fantasy 1.
+It wasn't until the second game that we going to show about.
+Yeah, yeah, yeah.
+So yeah, as far as I'm concerned, the series starts there.
+I don't think I ever saw Choco Bone playing Final Fantasy 4 or 6.
+1:31:00
+Whichever, whichever is the one with the Magitek Mex.
+Yeah, good stuff.
+Good stuff.
+Oh, that intro music.
+Running.
+Running with your mech through the snow.
+Come on now.
+I've watched speedrun videos.
+Indeed, indeed.
+Oh yeah.
+Mystery dungeon.
+1:31:17
+Love a mysterious dungeon, that is.
+That is some some good stuff I do declare.
+Huh.
+I'm guessing that.
+It's well, yeah, we got it.
+We got to get around to playing something, something mysterious and something that takes place in.
+It Yeah.
+1:31:32
+Where are rogue like mysteries?
+Like solve, solve puzzles, solve mystery murders.
+You know in the the original, the, the first, the point and click Blade Runner game.
+Yeah, is actually like randomized to some extent.
+1:31:51
+So it's like you are doing an investigation.
+It is a mystery and it's like who's the mysterious replicant changes each playthrough.
+So there are there is something like that, just another little you know instance of how randomization can really add something to a game.
+1:32:08
+All right, now what happens if we go to Steam here and we type in to the store?
+Mystery Dungeon.
+What do we got?
+What do we got here?
+There's a good number.
+Well, I'm just gonna skip over the first few results.
+Interesting.
+Senpai and the Mystery Dungeon, you say?
+1:32:28
+Yeah, we probably won't.
+Well, we gotta keep this podcast G rated a little bit visual novel visual novel.
+Conan Exiles.
+I don't know if that's a mystery dungeon.
+Yeah, I wanna see.
+Interesting, I figured.
+I figured for sure there'd be a couple of games.
+1:32:46
+Interesting.
+Well, yeah, a lot of info.
+Appreciate the e-mail from RHEL.
+And I also appreciate RHEL offering some troubleshooting advice to Scott, cuz a key part of all of our episodes is Scott's Steam deck corner, and if you know if that's not working, if the games aren't running, then one of the the the key elements of the show was missing.
+1:33:14
+All right, I got, I got some some recommendations for Steam Mystery Dungeons that that that we could probably check out.
+Although like, I don't know, some of these like again, we're we're playing with fire a little bit because of the Steam tag nuance.
+Oh my God, what is this one?
+1:33:32
+So the top ones for sure stay tunes, Crypt, Crypt of the Necrow Dancer I guess could be a mystery dungeon in some sense.
+There's a game that I guess.
+I don't know how I feel like this game is probably pretty roguey inspired called Revenger.
+1:33:54
+It's very much a like it.
+Random.
+Not maybe not for random's sake, but like looks like almost like a bottomless sandbox.
+Kind of in a vein of, I would guess noita maybe.
+But yeah, I mean, I'd have to dive into it for to be absolutely sure.
+1:34:14
+Whoa.
+Whoa, whoa, 100 different endings, it says here.
+Can you imagine?
+We got one way Heroics.
+Obviously we have a game that again, is this a mystery dungeon?
+1:34:29
+Maybe the world is your weapon.
+This is one that like always crops up as like being being at the top of like very highly rated and like debatably is like.
+I think this game is also tagged as a traditional rogue like which I don't think that's technically true.
+1:34:49
+I think this is definitely more of a mystery dungeon end of the spectrum but it is grid based.
+It does look like it's turn based and.
+Developed in RPG Maker.
+Yeah, cool.
+I think one way Heroes was also no, that one was.
+Was that his?
+1:35:05
+Smoking Wolf's own Anyway, what else we got in here?
+We got Shattered Pixel Dungeon our our fave from before, and then we have a long list of of weird hentai.
+Yeah, new sexual content.
+Yeah, so.
+So those first three we talked about were probably worth.
+1:35:23
+Yo-yo, the world is your weapon.
+They they mean it.
+We ought swinging around a fridge.
+You pick up a house and smack someone with it.
+Going around houses.
+Hey, that's pretty that's pretty groovy.
+The housing market.
+Am I right, folks?
+Yeah, Well, hey, this.
+1:35:39
+Heck, this could be a whole whole episode defining what a mystery dungeon is.
+History.
+Mystery Dungeon.
+Solving the mystery of Mystery dungeon.
+That's what I'm saying.
+Exciting stuff.
+Indeed, indeed.
+All right, I think that's gonna do it for long winded emails.
+1:35:56
+This time if you, your listener are a still listening, kudos to your endurance or you're stuck in traffic.
+If you would like to write in your own long winded e-mail for us to to read on a special occasion, you can send that in to grogpodzone@gmail.com.
+1:36:12
+I do make sure to read all the emails and I tried to respond to them.
+Whether or not if we can fit them into a a nice attempted hour long segment segment is is another is another question.
+But for shorter form comms you can at us on Mastodon, everyone's favorite decentralized social media platform.
+1:36:33
+Grogpod at Game dev dot place where you can find us there and you can find all of our rankings and data and other episodes and tags and things and our results from the inaugural Grogpod O Mega Bowl.
+Our season recap from season one I guess.
+1:36:50
+I don't know if this is I'll count this as also season one who who cares.
+Groggpod dot Zone, the website Yeah Next Step our next episode coming up hot and fast here is a a will pick and although he's not here to give us a a bit of a preview, Colin, what would what would you say about Rogue Tower to kind of whet people's appetite for upcoming inaugural second season.
+1:37:22
+It's a good tower defense game where the levels are randomized and the order in which you unlock towers changes throughout your course of your run.
+Sometimes you don't get all the towers that you want and if you play it like Will and I, it ends up being a spreadsheet madness as you try and input all the values and calculate what the actual perfect optimal run scenarios are.
+1:37:47
+When should you upgrade your towers?
+What kind of magic?
+How?
+How much magic?
+Will's already Will's already posting graphs in our Discourse?
+Great, so stay tuned for that.
+We might have to get Will to post some of them graphs after the next episode.
+1:38:05
+That's what the show notes are for for sure.
+All right, well that's going to do it for our winter special.
+Go and grab some Nog, Go and fire up heat up some glue vine for us and we'll play out this episode with some more music from Hughes solo dev game war SIM, but this time an 8 bit version from our favorite text based colony SIM.
+1:38:31
+We'll see you next season.

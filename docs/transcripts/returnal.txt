@@ -1,0 +1,1188 @@
+0:27
+None.
+Hello everyone and welcome to another episode of the Grog Pod Rogue like podcast where each one of these recordings that we do we wake up gasping for air having crash landed into a rogue like game from the smallest of the solo dev games to the biggest of the big AAA award winner.
+0:50
+And then we look at their weapon proficiency level and decide we want to backtrack half of the level to revisit it for our end of season Rogue like of the year tournament rankings that we do.
+I am your host of the podcast Your Brienne of Tarth Doppelganger Scott Berger and with me are my Co hosts whose cloned bodies are scattered across the podcast landscape.
+1:14
+Oh man, you already stole my thing.
+It's Colin, the cloned body that you found scattered across the landscape.
+And this is Will.
+I guess I am the with the Matrix like a tentacle monster that just attacks you over and over again.
+And noticeably absent from our our recording today is is Andrew, who attached too many parasites and his suit has malfunctioned from malignancy.
+1:39
+Who we're crossing our fingers he doesn't have COVID but the the show must go on.
+We had quorum, we were willing to delay, but we had quorum.
+So we had to push on and and I do have, I do have some notes, so maybe I'll try to proxy in Andrew's talking points here in a minute, but just.
+1:56
+Type it into like one of the the the audio AIS and just have it spit out his voice every once in a while.
+You know, at this point I'm pretty sure Spotify has stolen all of our all of our voice samples anyway, so that's probably pretty accurate.
+We probably.
+Just tell Spotify to do it.
+2:12
+Just deander for a bit.
+You just do it.
+This week we're talking particle effects.
+The video game returnal released April 30th, 2021, pretty close to the happy three-year anniversary, and released on PC February 15th, 2023.
+2:32
+This was developed by Housemark, a developer house out of Helsinki, Finland who have been developing games since 1993 with about 20 ish games under their belt with some notable entries such as Super Stardust, Rezogun, personal favorite of mine Nex Machina and a another game that they had cancelled.
+2:53
+But I think at this point most notably known for Returnal returnals, is published on PS5 by, you may have heard of them Sony, and on PC by the PlayStation PC specific publishing house which is responsible for, among other things, the recent God of War game Marvel Spider Man, Horizon 0, Dawn Helldivers and Helldivers 2.
+3:20
+And who could forget, dear Sackboy Returnal, your average player of this game has has about 20 hours in it, which I can totally agree with and we'll come back to you in a minute and return all clocks in on our Steam data set.
+3:38
+Now this is this is took me a little while but this game I think is probably more popular than our data indicates because it being APS 5 exclusive for so long it's it's probably higher than this.
+But our Steam data set hasn't clocked in at the 147th most popular Rogue like game with 6584 total reviews in the PlayStation universe.
+4:04
+Like it's it's amazingly hard to find any sort of market research data.
+We kind of take all of our Steam info for granted, but it's great that it's all out there and PlayStation.
+I'm just kind of like shrugging like I don't know.
+I have notes that it sold about 866,000 units as of December 2023.
+4:25
+And if we use our hand WAVY magic math of like well, in the Steam world, anywhere between like 2 and 5% of people actually review the game.
+And if that equates to like 43,000 equivalent reviews, then that would push it up to somewhere around like the 27th most popular Rogue Lake in our data set.
+4:43
+But anyway, hand WAVY math, it's probably somewhere in between those two, but it's probably more popular on PlayStation.
+Yeah, Will, what's the one sentence you're going to spend your last ether on to describe return all.
+5:00
+Get ready to Sprint into some rooms and shoot at tentacle monsters over and over and over again while you try to discover the cause of time loops repeating over and over again.
+Seems about right.
+Yeah, I don't think so.
+5:17
+Yeah it's probably worth pointing out that so OK to to kick off our show here.
+This is probably going to be in all devs go to Heaven episode.
+Although I think I will bat for I'm I'm raising up my white Knight shield to protect the the Housemark studio just because I I also have the the next Machina soundtrack on my cycling workout playlist.
+5:42
+So I've I've been a fan of their of their games for a while they've they've kind of been locked behind console exclusivity.
+But I'm I'm happy that Returnal has come to PC and it felt like a natural fit for this because this is our our first AAA bit like big budget game.
+6:03
+Like what would happen if a rogue like game actually had a budget and like a writing team and all that stuff.
+But this is probably gonna be in all Devs Go to Heaven episode because this game, I think like, has a lot of fans out there that say this is the best game they've ever played with.
+6:19
+Nobody's saying that.
+That's what.
+What?
+Are you talking about and and crucially I think there are, there are critics of the game.
+I think there there is a lot.
+You go to the returnal subway.
+You see people who I think rightfully are saying, like, man, I'm really banging my head against the wall here.
+I'm just about ready to give up.
+And then the nicest community of people chiming in to say, Oh well here's, you know, here's the strategy.
+6:39
+Like I can hop on the Co-op to help you out.
+It feels very Dark Souls in that regard.
+But yeah, this, I think if you're tuning into this episode to be like, oh man, they're they're gonna love this game.
+I think we we have some thoughts.
+I'm going to try to be the the positive voice in the room, but but yeah, I think that we're also kind of continuing our bullet hell month from our previous episode, Star of Providence which with like what if that but 3D and like giant orbs on the screen.
+7:13
+I mean, that's basically what.
+It.
+Is.
+I'll start by saying that I I think you might.
+You might be expecting me to bash on it more than I will.
+I didn't love it, but I that's a lot of this is just like, I don't particularly enjoy playing very difficult games that aren't versus other humans.
+7:34
+My brain can't get beyond the fact that like, this is just hard because the programmer told it to be hard.
+Like, I don't.
+Like I I burnt out on Elven Ring.
+I haven't played any of the Dark Souls games.
+So, like that that kind of thing doesn't appeal to me and the I.
+7:52
+I actually liked.
+This game a lot running around the levels and then I had the same problem that I had with the star of Providence, which is I don't, I really don't like all of the things about it that I liked went away when you fought the boss and I never managed to beat the first boss.
+8:10
+I put like 4 1/2 hours into it and I'm like, you know, this isn't I I know that this isn't the kind of game for me.
+I'm not really to grind through the like, I'm sure that I could beat the first boss.
+I beat the first boss in Ellen Ring.
+I was like, cool.
+That's about as not as much work as I'm willing to put into it.
+8:27
+And I'm sure I could do it for this too.
+Like, I really liked the environment.
+I really liked running around.
+I thought it was very cool ambience with the the tentacles and the glowy shit.
+And then you go to fight the boss and it's just kind of like a flat white surface with no terrain and you're just dodging very powerful hits.
+8:47
+And if you get that wrong, then you die.
+Yeah, I think this game like really kind of is a visual feast and might be.
+I'm trying to think of other games that like of Rogue them that are for sure stay tuned.
+9:03
+And I'm struggling to think of any game that would that could possibly look better than this, just from like a visual standpoint.
+And that's probably the reason that soul as well as it is, it just it, it looks like a professional game.
+But as we well know there, I mean that's not everything that goes new.
+9:19
+You can't be quite at cog mines.
+Level of Low, Low.
+Bad.
+But you mean cog mines?
+Level of greatness is what you mean.
+There's there's, for me like there's no difference between this game and Nightmare Reaper.
+Those two games exactly the same sort of neurons being activated in my brain and they are, I mean vastly different in terms of budget and overall like visual quality.
+9:42
+I.
+Mean.
+They're vastly different and I but I think that there is some.
+Maybe it's because this game has a story and there is like stuff that's happening that you might want to pay attention to.
+But like, I thought it was like cool to look around, which I do not find to be the case in something like Nightmare Reaper or was it Eldritch?
+10:06
+The other three DI mean we really haven't played that many 3D games at all.
+It's not particularly in line with it.
+I think it's very difficult to make a Rogue like 3D game.
+Just too many, too many elements.
+I mean, well, it's also really hard just to make 3D games.
+10:23
+I mean, a lot of the stuff that we've covered so far have been it.
+It would be, it would be harsh for me to say simple because we're not game developers and that's not something that like I could ever consider as a career choice, 'cause it's way too hard, but like you know, you have like I I I just beat returnal and I was doing the, the scroll through the credits.
+10:44
+There's like a bazillion people that worked on this game in comparison to like a lot of games that we talked about here are like solo or very small team efforts like having entire teams of like 3D artists working in Unreal Engine 4 all day.
+Totally different design.
+11:01
+There are a lot of people who are working on this game who aren't working on the, like, core game mechanics.
+They're working on building the world.
+Just the art, yeah.
+And whereas some of the other games we're playing are like I found sprites on the Internet, Cool art's done.
+Yeah, basically, yeah.
+11:18
+So I mean this game, very, very visually impressive right off the bat.
+This game like kind of swept at the the 2022 BAFTA awards, which have kind of like their own their own video game corner of them notably beating out potential.
+11:35
+Stay tuned and for sure stay tuned.
+So like it, it beat out death loop which was produced by the guys who it's it's Bethesda.
+Bethesda made death loop which is like a cool like 60s seventies 3D rope like shooter.
+11:54
+Which potential.
+Stay tuned, but INSCRIPTION or WHOOPS SPOILER RETURN will also beat out INSCRIPTION well.
+That's that's that's clearly a proof that that's a bullshit reward that we should pay no attention to.
+Which you know what up until.
+12:10
+Description is a card, A a a a deck building game.
+A good game.
+Yeah, Will's Will's favorite genre versus the 3D shooter game genre.
+But but I saw that bullet point and like up up until I beat the game, I was like, hmm, is is Returnal better than Inscription?
+12:30
+Let's come back to that.
+But it also, but returnal anyway, swept up awards for Best Audio Achievement, Best Music, Best Performer in a Leading Role.
+Which goes to Jane Perry, who is the the voice of Celine Our, our our protagonist for the game.
+And she's, as we verify, she's actually not the big woman from Game of Thrones.
+12:50
+That's what it was called.
+I don't.
+I forgot her name.
+I don't.
+Know actress's name.
+Actresses don't look alike.
+OK, you know just as well as I do that I posted a picture side by side of those two.
+The main character from the Celine and the big woman, They're Gwendolyn Christie.
+13:08
+She's.
+The tall woman, at least.
+Isn't, Isn't it?
+Isn't that what like she was like?
+The That's what.
+That's what Tormund refers to her as.
+But, but.
+But.
+Yeah, I think that wasn't that wasn't trying to be.
+Extensive, man.
+That was just what I called her.
+No, yeah, I think, I think a lot of people might have that that same reaction of like that that was one thing that was like, holy shit, Brianna Tarth is in this game.
+13:28
+Like that was one thing I was kind of excited to talk about.
+I'm like, oh, it's it's someone else.
+But that's fine because I think the British Canadian actress Jane Perry, who is not Anne Byer, who did the the physical model work, I think she did a great job like this.
+Like this game has a lot of voice acting in it, like professional grade voice acting.
+13:47
+And I like 20 hours in, like she's the only person talking and I didn't get sick of it.
+Like it's there's a lot of goodness to be had in that regard as well, Yeah.
+I mean, I thought from the amount that I heard from her, like, I thought it was good.
+14:03
+I thought she did a good job acting, I think.
+Is this the first game we've played where there's like, people truly acting like a face that moves?
+With like a three DA 3D rendered face.
+Yeah, it has for.
+Belatros the The Joker.
+14:18
+When he's laughing at you and saying that you should play Go Fish instead, I mean, that's a pretty.
+Good.
+Like I'm trying to look through here and think of another game where you could possibly even give an award for acting, and I don't think there is.
+Maybe it could be a?
+Landlord War SIM Hand of Fate No.
+14:37
+Cataclysm, No.
+Yeah, an aerator.
+Hand of Fate Grifflands, I think are the only Wildermuth, I guess, has a narrator, but.
+Yeah, but like not.
+Yeah, it's not quite the same the same style though, 'cause this is like literally like what what you would expect from like a AAA release of a of a game.
+14:59
+And that's something that I think that like you scroll through some of the the reviews on like Amazon or like the Steam store and there's like there seems to be like a wild disconnect between people who who like who normally play AAA games.
+Like people were like, yeah I'm I'm gonna play the the latest Call of Duty every year and play FIFA and that's it.
+15:17
+Who come to this and are like, oh, this looks like a cool sci-fi shooter and have never played a rogue like game before and they're like like.
+What the hell Rogue like trick you?
+Can you imagine like this being your first entry into into rogue Dom of like getting hit over the head with a cast iron pan and like like where did all my progress go?
+15:38
+I died and I had to go all the way back to the start.
+Like I feel for them.
+But at the same time, like this, like that's why this game stands out is because it's so like it, it belongs on this podcast because of its run based cyclical nature but it's so far out of the realm of what we've experienced so far production level.
+16:02
+But yeah, it's it's definitely worth worth talking about.
+So so yeah, returnal I think starts with like a show of hands.
+How many people accidentally skipped the intro cutscene other than me?
+No one.
+Was it just me?
+Did I accidentally press a button too fast?
+16:18
+I don't.
+Maybe I did and I didn't realize it.
+I don't know what what happens during.
+It well, so our story begins with a very quick intro cutscene.
+Again, like all like this is a game with cutscenes, not something that we've really seen on this podcast in the 40 some odd episode that we've done so far.
+16:36
+It starts with a fully rendered cutscene.
+You're you are Celine.
+You are the pilot of this futuristic spaceship and you're getting a distress signal called the White Shadow signal and you're like, oh, I gotta gotta go investigate it.
+And then, in typical Star Trek fashion, there's there's a planet storm and your ship goes down, you crash, and yeah.
+17:00
+That's right, You get hit by lightning.
+Come on, who?
+Who's making these ships that they don't have lightning protection like that is something that that I I need to talk to their engineers that shouldn't, that shouldn't happen.
+Well, how they surviving impact with the ground is what I want to know.
+And all these.
+Shows well.
+That's good.
+17:16
+Good work for their Their engineers did good.
+Inertial dampers, we've been over this.
+Initial.
+OK, I was going to say, yeah, yeah, that that's great and all for the ship.
+But I tell you what, anyone inside that ship, these G forces not so good.
+It's also it also dampens her inertial.
+Sci-fi tech.
+I got it.
+Yeah, yeah.
+So anyway, you your your ship goes down and you wake up scattered about the the jungle landscape.
+17:39
+Looking back on your ship, Helios is the ship's name and it's it's Helios is broken beyond repair.
+There's no saving Helios.
+It's dead and you're you're basically forced to progress forward.
+17:55
+And this thrusts you right into the tutorial zone, which I I kind of appreciated.
+Like, OK, you know, there's kind of a lot going on.
+Let's just kind of sprinkle it out step by step here.
+And I think this this kind of tutorial sequence is quite well interwoven with like, Oh my God, where am I?
+18:13
+I've just landed on this crazy alien planet, and you come across your, or you come across a dead body that suspiciously has the same Astra Corporation space suit logo that you have.
+And you pick up, and I think at this point you pick up some kind of audio log that's like something to the effect of like, yeah, like your voice, you know, like, Oh my God, wait, that's my voice.
+18:38
+That was.
+Me.
+And and at that point, like your, your mission objective now is to find where the signal is coming from.
+Where is this white shadow signal?
+And you need to go investigate it.
+18:54
+And this it basically opens up into a standard run of the game which doesn't last long because you ain't got nothing in terms of progression stuff and eventually you'll you'll get beaten over the head by some matrix inspired futuristic alien octopus and you're dead.
+19:14
+But you wake up back at your ship again and you're you're back here.
+But wait, I was I was just here and and the planet's different and I've never been to a rogue like game before and what's happening and and that that kind of kicks off these cycles that you go through of of going running through the environment getting beamed over the head and then waking up back at at your starting.
+19:39
+Compelling.
+Very compelling.
+I mean, honestly, I do find it to be, I mean, maybe not compelling, but it's it does a much better job of giving a reason for why there is a rogue like element to it than most games.
+What was it?
+What were we playing the Into The Breach.
+19:55
+This is what it feels like to me, is like it.
+It just as much as like the time travel was important to Into the Breach.
+That's what it feels like for this game.
+Yeah, but Into the Breach was just like oh right, there's a Breach.
+Time travel.
+OK, cool.
+And never explained or talked about again like this at least builds it as part of the story.
+20:13
+But this is what I wanted from into the Breach very slightly or or maybe some somewhere in between where it's like the there is a a reason for it or some sort of progression towards an objective.
+There's a narrative thrust going on.
+Sure, yeah.
+There tries to be and and this is something that like, I I don't know, I thought about quite a bit 'cause Binding of Isaac is in this genre of stupid shooters that I hate in general.
+20:38
+But I thought it was a great game and but and the and the reason was not because of the combat and the synergies and all the things that.
+Because of all the poop that you shoot with your baby tears.
+I'm not going to lie, that did add something for me, but that's probably because I'm just a 2 year old deep down.
+But the the narrative in that one was something that's just much more like in line with my own interest, which is like this whole sacrilegious theme of being like, you know, fighting like the crazy religious parents.
+21:06
+So I know, I know a lot about that.
+And like this game just said, I mean we'll we'll talk about the spoilers later.
+I think that's what we talked about.
+Yeah we'll we'll we'll get into spoil we'll alert Colin and any listeners who are interested in the narrative when we're gonna get into spoiler zone so that way you can you can Fast forward ahead but but yeah I like I I think I get what you're saying in terms of like the the narrative thrust and and it's like specific kind of thematic appeal and in this it's like it's it very much bills itself as like an alien mystery of like you're on an alien planet There's like there's this distress signal you you have to go investigate and there's audio logs along the way of of your previous runs and like I you know you pick up an audio log and it's it's like you know day 795 I'm still here but I'm not gonna let the planet get the best of me I'm gonna keep on persisting and I'm gonna.
+22:05
+Keep fighting.
+I'm.
+I'm groundhogging.
+I have to find the signal.
+I know it's out there kind of a thing.
+And yeah, I think like the the, the, the narrative thrust for me was like at first like really, really cool, 'cause it hits all these notes of like, like the the atmosphere in in this first Biome that you land on it very much An overgrown ruins, a a rainy Seattle jungle with Matrix monsters running around.
+22:33
+I'm like, yes, I'm in weird alien shit.
+Dial it up to 11.
+Tell me more.
+I'm all here for it.
+Glowing.
+It's glowing.
+Yeah, and and there's like, but like, the weirdness element of like, all of a sudden there's like a weird 20th century house, like, oddly misplaced into this alien landscape.
+22:51
+Like, tell me more, I want to learn more.
+This is.
+Like, did you like that?
+Are you telling me?
+Yeah, I got to, yeah.
+And are you telling me it wasn't immediately obvious what was happening when you saw that house?
+No, because I was, I was holding out.
+And again, we're we're not into spoiler territory yet.
+OK.
+23:06
+OK.
+I'll.
+But, but like I was, I was in that aspect of like, OK, like we could like we've we've all seen enough Star Trek episodes where they're like, OK, this could be like a time vortex.
+There could be like memory implantation stuff going on.
+There's like an endless amount of like, sci-fi wacky tropes to be had.
+23:25
+I mean and.
+Knowing nothing about it, I'm assuming right now, having not even yet beat the first boss, that it's aliens plucking memories from your head and building something for you to try and like either fuck with you or communicate.
+I'm guessing that's not right, but who knows?
+We'll get there and we'll let you.
+23:42
+We'll let you walk away from the headset when we when we're ready to pull that trigger.
+I really like the house.
+I I thought I felt creepy.
+I got spooked, Yeah, that it's good 'cause?
+Yeah, 'cause otherwise what?
+What?
+What is there?
+There's no the the intrigue is oh, why what?
+Why am I repeating myself?
+23:57
+Like, why?
+Why are there dead versions of me laying around?
+Like, that's the really the only thing that narrative thrust without that element, that's all there is.
+It's like, Oh well, what's causing time to repeat?
+Or, you know, why am I coming back?
+Which I don't know, as someone who plays a lots of rogue like games coming back to life that as an idea is not that interesting anymore, that that node's been burned out in my brain.
+24:20
+Right.
+But you have to put yourself in the shoes of someone who has never like your your low brow standard AAA gamer who has never heard of traditional rogue likes and they're just like what's this?
+Maybe I'll I'll play this and like never being exposed to it before.
+24:36
+Like, or or just someone who's played Dark Souls and Eldon Reign.
+Yeah, I feel like that's the next step up, 'cause I feel like, honestly, this game reminds me, like, I feel like you could come at it from a a, a position of pure naivete where you have no idea what you're getting into.
+24:52
+You come at it from a Dark Souls or you come at it from like a Doom esque, 'cause that's the other thing.
+It kind of feel it.
+It has a little bit of like the run in and flow of doom.
+Or like.
+Crisis.
+You guys, you guys played Crisis?
+I have like. 15 years ago.
+25:08
+Right.
+But I mean like even I mean the the plot of that one I I think it's just much more compelling but because I think that.
+I remember, I remember maximum speed and cloak engage and that or maximum strength and that was about it.
+Well, they just they introduced.
+Like the the the mystery of the the aliens in sort of a well, not in a in a in A twist.
+25:27
+It's not just apparent immediately, but it's interesting.
+I think that.
+For crisis, I don't remember.
+I don't remember.
+Aliens, yeah.
+I thought.
+I thought Crisis was like, you're in like a a powered armor suit and you're running around like brutalizing.
+Like, yes, yes.
+25:44
+That is a big part of the beginning of it.
+But eventually, you know, spoiler alert for this, The Crisis, a 15 year old game.
+But like eventually you do come across, you know, alien artifacts and aliens, and I think I'm gonna post some images, but I think they almost are almost identical to the first sort of creatures you find in this game.
+26:03
+But I guess they do that everywhere, like the Matrix has the same sort of format like everyone has.
+The same thing it's it's the easy like, oh, this is an alien.
+That's not just a Star Trek alien.
+That's a human with green skin.
+And maybe like maybe like mild non spoiler, like there's there's a reason why the aliens are the way they are, which at first I was just like, oh this is cool.
+26:25
+Like they're just like cool look looking aliens.
+But there's there's a a narrative reason behind that, which we'll get to later.
+So, OK, so like, what's what's in this game?
+We've talked a lot about the the art style, Like the art style's really cool, like these big expansive environments which like, have a lot of, like, deep atmosphere, Like just like, gosh, this is great for an audio podcast describing a visual art form.
+26:50
+But like the thing that came to mind like the most for me was like Super Metroid OMOS where you have like this, this like big foreign alien environment.
+It's like very much at a different size scale than you.
+And it feels very oppressive, like I don't belong here.
+27:06
+This is like the like the weird, like alien, like bioluminescent creatures coming out of the of the walls, the the enemies that are shooting like big orbs at you.
+And I'm not not quite sure what what evolutionary advantageous adaptation that is but like yeah like sign me up.
+27:25
+Super weird.
+Give me more.
+And as you are going through a run of return you'll you know it's it's your standard rogue like game.
+You know you have a point A and a point B.
+There's a boss that you got to go and fight.
+But along the way you're going through a series of rooms and you know you have like a main path that you can follow with square shaped doors on your mini map and side paths which are triangle shaped doors.
+27:53
+And those are things that like oh you know, they could lead to like a a a better item or maybe a different story encounter or things like that.
+You have challenge rooms which have this big yellow star above them which are like a three wave fight with like a big loot drop at the end and then you have your your big imposing red room.
+28:14
+This is the boss, but we'll come, we'll get to this in a SEC.
+But like, you don't have to fight.
+There are circle rooms which take you to the next Biome.
+And then there's some story rooms that are very kind of specific to the environment.
+Like we we talked about the astronaut house, but that kind of comprises each one of these biomes.
+28:33
+And there's there's two acts to this game.
+The first act has three biomes, each one taking roughly like an hour to run.
+So if if you are, if you've listened to a lot of this show, like a lot of the the games that we've been playing, like they're pretty snappy.
+28:51
+Like especially like our our last episode of Star Providence.
+Like there's a lot of almost kind of game design overlap of like OK, you're you're on a a dungeon floor.
+You got to go and fight a boss.
+And along the way you got to figure out where you want to go to find the shop, where you want to go to find monsters, to kill mini bosses, that kind of thing.
+29:10
+Similar kind of idea.
+But here it's it's a little different in the sense that the environments are much bigger, the combat arenas are more complex because you have this 3D space and with each level taking like around an hour to beat versus something like * Providence, you could beat in like 10 minutes.
+29:36
+It's a lot bigger of a time investment and I think that like.
+When you beat the game to today, yesterday, whenever.
+Maybe like 2 hours ago?
+How long did that full run take?
+Because I know you say that there are ways that it gets faster, like you don't play through the first level in the same way by the time you're at the.
+29:57
+End Yeah, probably 8 or 9 hours.
+That's a lot.
+Yeah, and that's with.
+You had you had died on the final boss.
+Yeah.
+Taking you 8 hours to get back there, Well.
+Yes and no, because what's interesting about this game is that you, when I said that you don't have to fight the Biome boss, you technically don't, but you have to fight the boss in order to progress through the game in an in like a meaningful fashion.
+30:25
+So you know when you first boot up returnal you know you're fighting through and like you're doing good you're like yeah I'm in the zone and then you come to your first boss fight and let's say you beat him when after you've beaten him you don't need to go back and fight him ever again.
+Now the the twist is that OK let's say you like you know you come to the next Biome you die you start back over again you have the option to shortcut to the second Biome.
+30:49
+Now the trade off here is that you are will be significantly under levelled at the start of that Biome and you are.
+I think the game incentivizes you to play through and explore and really kind of take your time in in a sequential process.
+31:06
+But then the bosses become optional, which is interesting because you get.
+Stuff from beating the boss?
+Is it you?
+Do, but it's not like, I don't think the stuff that you get from the bosses is better than the total amount of stuff that you accumulate from clearing, like basically full clearing the bio.
+31:25
+If that makes sense, 'cause like when you beat the boss you'll get like you'll get an artifact drop, and artifacts are like your run or like the the thing for that run.
+That is like a passive effect, like oh like now I can dash longer or or like my energy beam can like do more damage or or things or my energy sword can do more damage or or things like that or.
+31:50
+But when grinding through a level and grinding sounds hard 'cause like or it sounds harsh but like I it's kind of what it is, but I sort of enjoyed it when grinding a level of exploring.
+Yeah, yeah yeah, you'll come across like keys to use for chess for better weapons.
+32:07
+You'll come across like things to increase your health pool as you are killing monsters.
+Like you have a a bar called Weapon proficiency and that's like your XP bar.
+Effectively that's like your XP level and like that determines the the quality or like the level of the guns that drop from chess and stuff.
+32:26
+So like if you really cared you would want to like grind that up before opening any chess for better drops.
+But anyway, but as as I think Andrew has kind of pointed out in his in his asynchronous comments here the well, I'll put on my Andrew hat for a SEC.
+32:46
+I generally like most things about the game except for a the progression, B the quality of loot and C that one that the default melee button is scroll up L0L 0L.
+So yeah.
+Wild.
+33:01
+Absolutely wild.
+Yeah, I mean.
+I guess it's not really meant.
+They they're like strongly encourage you to play with a with a controller, which is incorrect.
+It's not how you play video games.
+You know, I was a.
+Keyboard all the way.
+I played this whole thing with my Xbox.
+My trusty Xbox controller here.
+Yes, and you.
+33:16
+This is why your opinions are bad.
+I'm sorry, I can't hear you over the HD haptic feedback.
+You just have to build your own keyboard so you can play better, you know if you're see the components.
+Colin, if that custom keyboard that you had had dynamic haptic feedback?
+33:33
+I could have, if I decided it needed it you.
+Guys didn't turn off vibration and screen shake and all that other crap that makes.
+You turned off vibration.
+Well, I don't know.
+Well, first of all, I use the mouse and keyboard 'cause I'm a sane person, no?
+But also, I did turn off vibration just in case any of the people decided to go to my controller and start rumbling in the It's like the only time for a controller is Rocket League.
+33:54
+That's the only game.
+Turning off vibration for return all is like turning off the vibration for a sex toy like it is it is like the integral component of playing.
+Well OK so playing with a controller anyway but like that that was like one of the the really great things I liked about this game was like there's there's a lot of these environment like visually it's it's very pretty to look at.
+34:17
+It's very visually stunning, but like the the way that the environment feels like it's pulsating and living through, like what you're seeing through the vibration of the controller is not something like I've ever seen in any game ever.
+And I don't know if this is a thing that they they developed specifically 'cause I know the the the PlayStation Five controller is supposed to be like all about like these haptic interactions.
+34:40
+And I'm like yeah, OK like I get it and it would like it was this game that I originally was playing with my GTX 970 on like absolute potato graphics just to see just to see if this was something that I was even remotely interested in.
+34:56
+Click could I could I play this on potato graphics?
+And I feel like even though I was playing in like a Windows 720P monitor with just like 20 frames per second like that haptic like visual or the the haptic like feedback of like dash vibrate door, giant door opens and you feel like the pulse.
+35:17
+It's like it's like sitting in an IMAX theater, but like in the palm of your hand.
+It's.
+It's.
+So this is.
+This is perhaps my other reason.
+May the record show that I am holding up my steam controller to the to the the monitor?
+I don't know if my my stupid steam controller which only has one real joystick.
+35:37
+I don't know if I could play a good FPS with that.
+You desperately need a a good yeah console controller.
+But but I can only play Rocket League with the weird specific setup that I have on this now.
+I've trained my brain and I can't do it any other way so I can't get a different controller.
+35:56
+Speaking of your 970, did you have really weird long loading times on this game, or was that like a glitch?
+On mine?
+For me, no, but I feel like a lot of people's.
+You took like 25 seconds from getting out of the ship for it to like, yeah, I would like, just like the screen would freeze or like the visuals would screase and I would still hear the music.
+36:20
+And the sounds did you did you go through a process of pre compiling the shaders ever?
+Does that sound familiar?
+I'm not gonna do that.
+OK, well I would recommend it because that's something I think I did once.
+It maybe took 5 minutes and I never experienced any problem running the game ever.
+36:36
+Now for the record, let the record.
+A AAA game, I shouldn't have to do that.
+I have a 4070 while.
+True.
+I think Returnal is maybe the victim of a bad port job.
+We said that this was developed by Housemark Studios, which have a lot of games under the belt, and I think they developed this more or less specifically for the for the PlayStation five.
+36:59
+And the Climax Studios are the people who who graciously brought it to PC.
+For us, they're.
+The ones who added all the vibration in Climax Studios.
+We can only hope, and I think, I think Returnel suffers from being a not a bad but a very demanding PC port.
+37:22
+And you see this with like the Steam reviews and people being like, hey, you know, I tried running this game and it is crashing all the time and I had to refund it, which is totally valid.
+But like at the same time there's a, like we talked about a lot of other PlayStation Five or like PlayStation published games that have come to PC.
+37:41
+Hell Divers 2, I think we can all agree, runs like amazingly well for all of our machines.
+Most of the time, yeah, we've had problems.
+So let's say it must be real here.
+We have all had our independent.
+Well, OK.
+And I like yes, and I think.
+Those are those are just normal glitches, not yeah port based glitches.
+37:58
+Yeah, I don't think it's like, oh, they forgot to optimize the system for stuff and I went.
+Honestly, it didn't really.
+This is the thing that happens, like, once every when you're transitioning from one thing to another, and it doesn't seem to affect gameplay at all.
+Yeah, so that's not an actual.
+38:14
+Criticism for me.
+But anyway, like, I feel like Returnal was was good enough of an experience with that like shitty like super low res test environment.
+And I'm like OK, we got cool like weird alien Biome shit going on, goofy Star Trek stuff.
+38:30
+And like the gameplay I felt was compelling enough to like all right, this plus Microsoft Flight Simulator.
+I think I've, you know earned earned an upgrade from a 970 to my my 4070, which I will say the game looks a lot better.
+38:47
+But according to the Steam Hardware survey results, like I I was trying to figure out like how many how many players on Steam can actually run this game 'cause it's a very demanding game hardware wise, it so how many people can actually play it?
+39:03
+And like the game recommends something like a 3 1/2 gigahertz processor, 6 gigs of VRAM for the minimum, 12 gigs of of video ram for recommended, and a 3.7 gigahertz processor recommended.
+So I'm like all right, well how many people actually have that?
+39:20
+At least like 60% of people on the Steam hardware survey have more than 8 gigs of video ram, so no problem there.
+But how many people actually have a ACPU that can handle this?
+There's maybe like 3% of Steam users have a CPU above 3.7 gigahertz, which is what is recommended.
+39:46
+Yeah, no, I don't know.
+Manager.
+That's where you go, right?
+Something like that.
+So I I went through the process of so my my Core i7 from, I don't know, eight years ago.
+I'm like, ah man, I hope this thing isn't holding me back.
+I went through the overclocking process to push it up to 4.2 gigahertz.
+40:04
+No problem.
+And it's been handling this game like a champ.
+So, or at least like what?
+Was the target gigahertz I I immediately forgot.
+Oh, let's see, you're the the recommended processor speed for return, according to the Steam page, is 3.7 gigahertz.
+40:22
+That can't possibly be.
+Correct, that's what it says on their Steam page.
+It'll.
+I'm in the upper 3% then, with a 3.7 gigahertz.
+Yes.
+Wow.
+Which is like that that was like shocking to me.
+I'm like, oh, maybe this is the reason why people are having a bad time with this game.
+40:37
+Because like this game is like, as I said at the top particle affects the video game where like almost every single gun, almost every single enemy is just like a.
+It's admittedly a slower, but still a bullet hell level of like huge orbs flying on the screen and like lots of complicated interactions of stuff and statues that are crumbling down into little particles.
+41:01
+And when you use the the fast travel system, you literally like burst into like a pile of particle goo and you were just like like shooting across the map.
+And it's very visually intensive and I can only assume like setting people's processors on fire in the.
+41:19
+In the I I I've been looking at my thing and it was showing me what the current gigahertz were.
+Mine can mine's absolutely in that one 3%.
+OK, but yeah.
+Like it's good 'cause my computer's like brand new.
+It's like 6 months old it.
+Should be, it should be.
+And so anyway we we kind of strayed far from from Andrew's point about progression systems and quality of loot.
+41:41
+So, so I think like as you're going through a run of this game, the progression systems that we've seen previously have been very much like, you know, over time building up like more health reserves, like getting beefier and tankier, The Rogue Light experience of like this progression stuff to you know make the early game easier as you're spending time in it, you should be getting better, right.
+42:05
+You should be lowering that difficulty ramp.
+But you don't get that here.
+What you get is a Gwendoline Christie gasping for air at the start and you gotta go again and you you start basically at the bottom.
+But crucially, the weapons that you pick up, that's where your progression system, it's not in the player, it's in the weapons.
+42:27
+And this took me a while to figure out because your weapons have an alternate fire mode.
+So it's like bam, bam bam, you're shooting your pistol and then your alternate fire mode.
+You can shoot like close range electricity as one of them and that'll change depending on the gun that you have.
+42:44
+But as you use that gun and as you progress through the game, you will unlock other little things that the gun does when you shoot it.
+Like it can shoot out like little support, it can shoot out like little support bullets.
+43:01
+If you have a rocket launcher, things that it can do.
+It's like if you've levelled it up enough.
+One perk that you can get for it is like you shoot rockets, they hit a target and they spawn additional rockets that home in on the target.
+And so it like it literally makes the gun much better.
+43:17
+And so that's like kind of an incentivization to use it.
+But like the progression is not in the player so much as it is in the weapons.
+You do get stuff like a, you know, an energy sword and like a grappling hook and things like that.
+But it's it's more, yeah, it's definitely more about the stuff that you're picking up.
+43:37
+I gotta ask, so I mean do you like the the system with the essentially essentially levelling up and having that experience bar the guns, the like, 'cause I I think about like other games, you know, just we were, I was thinking about Binding of Isaac.
+Like there like when you open a chest there, there's just an item in there.
+43:55
+There's not like a level of item.
+And that thing that you're getting synergizes or does not with the other things that you have to create new and unique effects.
+And that was something that like with this game, I don't know, I was a bit disappointed because the whole leveling system just encourages you to grind.
+44:11
+Like that's that.
+That was only there to encourage you to grind.
+And that to me is just like, oh, that's a shit mechanic right there.
+I want everything that I'm opening up to be, you know, just, you know, just to be a Bellatro, like every time you open up a pack, 'cause I play.
+I'm still playing that game, by the way.
+44:27
+It's a.
+Fucking great game there aren't.
+Very many decisions, or at least maybe not early enough on.
+It's not like there it really is the consumable that you're making a decision on if you want to get this one or the other one.
+But half the time you're just like, well, I have no consumable because I've already used it.
+Then there's.
+I mean, maybe eventually.
+44:44
+Game early game, yes.
+I think like when I was when I was on like the last Biome I was or the 2nd to last Biome, I was having like a real head scratcher moment of like OK, timing, accuracy and judgment, judgment, call time.
+I had like this really OP weapon I was using that was like, yeah, this is great.
+45:01
+It it's a like poison grenade launcher and it does damage over time.
+So I can just hit people with it and hide behind cover and just wait for it to do its thing and that's great.
+And then like mini Boss is dead, they have a weapon pick up.
+Oh, this one does a lot more damage.
+45:16
+Do I want more damage specifically or do I want this thing that does more damage over time?
+And like the specific secondary effects that the the grenade launcher that I had were like had this really incentivized play style of like shoot and then like duck for cover which was working great because holy shit there was a lot of enemies.
+45:38
+I switched over to this, to the like fully auto rifle instead like OK, it does more damage, it has to be better.
+And no, it was not better.
+It was very, like, completely altered my play style of instead of like shoot and hide, now I had to be like out in front of enemies exposing myself and like, because you're shooting all of like these little, like, admittedly, you know, probably stronger for like that entire clip magazine of that gun.
+46:09
+You know, each individual little bullet is a lot weaker, so you're having to be more in front of the enemy.
+It's like, it just changed the playstyle completely.
+I was losing a lot of health and I'm like, OK, no, we're gonna go back to the lower damage weapon specifically for this.
+And I had to, like, run across the map to find a teleporter, to go over to this other thing and run across another part of the huge map, finally pick up Old Faithful, get my poison grenade launcher back, like, all right, let's go back to this.
+46:37
+And yeah, it was like night and day difference.
+I'm like OK, this is working so much better.
+OK, so you made one judgment decision and you had to do a whole bunch of bullshit, it sounds like, in order to actually reverse the decision.
+But I don't know.
+This is all sounding like, yeah, you do maybe make a decision and it's hard to, it's hard to to forecast what's better.
+46:58
+So another.
+Decision.
+OK.
+Here's a question though like so there were in like there are synergies within that gun, but are there other ways to create synergies with the, I mean I guess there's the parasites that's the other thing that you have to to make synergies with.
+47:16
+Yeah.
+And those are, those are your more semi permanent progression stuff in that you you pick up these parasites and they have a a net benefit and a net detriment which are like, oh, this parasite will give you a like a like 25% extra HP.
+47:32
+Great.
+Oh, it makes my bullets do like 10% less damage.
+Do I really want that or do I want this other one here that will give me an extra life, but when it detaches I will have like only 50% life as a result of it.
+Like, there's those kinds of decisions to make as well.
+47:48
+And crucially, so you can only hold five of those at a time.
+And if you were like me, where you're like, I'm in a bit of a pickle here, I have a requirement that I have to pick up another one.
+But what happens is if you have, like, all five of your slots filled, it, it replaces them sequentially, top to bottom, if I'm understanding this right.
+48:10
+And so my top one was like, was the one that gave me like, a whole bunch of extra health.
+I'm like, this is like, this one's great.
+It's carrying me really well.
+I don't want to get rid of this, but I had like, an active curse going on to say, well, unless you pick up a new parasite, you're gonna have, like, this big detriment, like.
+48:28
+But I kind of don't wanna drop the Parasite, you know, 'cause it's like, if I if I satisfy that, I'm gonna be like, really, like, cutting off my own foot here.
+So I think there is a level of synergy and judgment there.
+It's not, it's not the same that we've experienced in previous Rogue games that I think, I think, admittedly do it better.
+48:49
+But I'm willing to give the devs bonus points for trying something new and different, even if it doesn't totally work.
+Can you?
+Can you break?
+The game that I mean like that's a big thing is like in a lot of these a lot of games like well, like and they're shorter games, which I think is probably a big thing to do with it.
+49:06
+But like Bellatro, I mean you get the mime and the Baron and you got these steel kings and suddenly you're, I mean the score is just multiplying and multiplying you really it's you're unstoppable.
+But in this game, is there any combination which makes it so that you are truly like unstoppable?
+49:22
+Or like you know where your your, you know your limiter is off sort of a.
+Thing you know, I felt pretty, pretty stupidly unstoppable with this.
+I have to, I have to mention the Electro pylon driver.
+Probably the most OP game or a weapon I've used in a game.
+I bet it.
+Vibrates really heavily.
+It sounds like it vibrates a lot.
+49:39
+Oh, it's driving, baby.
+It one of the one of the benefits or the side upgrades to it was like instead of shooting down like individual little pegs in the ground or like in in the environment that then cast a web of electricity, it just shoots like a web out.
+49:58
+It's almost like you're spider man slinging like webs out and like that's it.
+Just like is electrified.
+And I had like this combination of elements going that like, I it, it's it's not quite the level of OP that you're you're talking about, 'cause there's definitely things that you can do like this in Binding of Isaac where like you just, you get these item synergies going.
+50:18
+And it's just like the game plays itself.
+And you're just like, wow, look how crazy this is.
+This is great.
+I don't have to think or like luck.
+Be a landlord where you get like those.
+Survivors where the the game's to eventually just be able to walk away.
+But in return, like I had, I had the Electro pylon driver, I had the web going and I had like all these other like parasite synergies and artifacts that were just like, yeah, like the final, the end final boss was like a cakewalk.
+50:46
+Like the the the second act.
+Like the whole second-half of the game was like no problem because of it.
+And I somehow just kept getting like better and better drops, I think as a result of using the gun so much and getting more like passive upgrade or like permanent progression on the weapon that it was just like, yeah, like there's no other reason to use any other gun.
+51:07
+So it's not it's not the same kind of OP break the game level, but that gun felt certainly pretty broken by the end of it.
+Fair enough.
+I guess that mean that this is all leading into a critique over the game just being way too long.
+But that that I think I would agree with.
+Yeah, like. 40 minutes to an hour.
+51:24
+That's the target.
+Yeah, and like, there's.
+I think there's a lot.
+Maybe we'll transition into story spoilers here in a second, but I think there's a lot like I I kept writing down bullet points in my 20 pages of Google Doc notes here that Returnal's biggest asset is its biggest weakness.
+51:42
+And that is the environment does where it's like, it's visually very impressive.
+It's really big.
+But holy shit is it big.
+And like some of the pictures that I was posting in the discord of like, look how big this is.
+You want me to stick my character into this game?
+Are you fucking nuts?
+51:58
+Like it is.
+It is just like if it takes you an hour to just clear one out of six biomes, Like, I feel like there's a lot left on the table of like this gameplay loop that we've seen previously like live, die, repeat, that's that's great.
+That's part of it.
+52:14
+And like what?
+What do you get as a result of that repetition cycle?
+If you are incentivized to to not die because the game it takes so long, then it's kind of like an anti pattern in a way.
+52:29
+Yeah, where you where you like, just grind you.
+You go back to every room, you look for all the hidden secrets.
+You just do all the little things to make sure that you won't die.
+Because the punishment for dying is hey, you have to repeat 7 hours worth of the content and it's just like, oh and and and the repeat isn't like such a different experience every time.
+52:47
+Like like it would be for like other games where you know, just just because it hasn't been mentioned and we have to do every single episode, Slate, Aspire, every time you're playing like like.
+Well, you're talking about Blockchro builds the same game.
+Yeah, and there's a different, like, archetype that you can be going for, but in this one, like it.
+I mean, it doesn't feel like the gameplay is significantly different, but I I didn't play it nearly as much as you did.
+53:07
+Yeah, no, I I mean I feel like the way that round it that you could have is that you you say Oh yeah, you're doing the, the level skip.
+You don't have to play the boss.
+Like you could just make that significantly more aggressive like mm hmm the oh you get the the the Super bomb which lets you just like skip 3 levels or something and like like oh you know the you got the the grab boots and now you can climb or something.
+53:34
+You know there's a hook shot or something that you get later that I haven't gotten yet.
+You know how in Dead cells?
+Like if you ran through a Biome like without getting, or like you killed a certain number of enemies without getting hit and then you just like skip to the end?
+Or if you just like speed ran through it, be like, OK, yeah, I don't need to waste my time here.
+53:52
+I've ground through it, got to the end and it gives you a bonus door of like, great, but you didn't spend like 45 minutes clearing the whole level.
+Here's some stuff to like, keep your progression going, like this game would benefit.
+Alternate maybe not alternate victory conditions, but alternate reward conditions that incentivize not doing the grind.
+54:15
+Or at least the you do the grind the first couple times, but then once you get good or you have ground through enough of the content and enough of the the rewards, you you have the ability to get through and via speed.
+Like if you can get through really fast, then you're allowed to like, not be punished for that.
+54:36
+Scott Do you feel like you'll ever play again, or is it like you play you?
+You get to the end once, and that's good, 'cause it feels like, well, a big part of Rogue Lights is that like, Oh yeah, or Rogue lights or whatever like you.
+You really do want to have that replayability.
+And it feels like a lot of us leaning on, like the story and the mystery, and like, once that's uncovered, it's like, why the fuck would you play again?
+54:58
+Yeah Colin do do we want to do the Yeah, I'll, I'll, I'll.
+Take off my headphones and just, I don't know, ping me in Discord or something when you're done.
+OK.
+We'll do that.
+All right.
+For listeners, we're going to jump into So return has a lot of story going on and story's kind of a critical anchor to this game.
+55:20
+So if you don't want this story spoiled for you, skip ahead to.
+I'll I'll mark it in the in the show notes, like when when we're talk, when we're done talking about story spoilers.
+And I have to make a note to do that.
+Otherwise, people are going to listen and be like, Oh my God, you're still talking about story spoiler I.
+55:40
+Don't understand why we're even doing this at all, because we've just spoiled every other game we've ever played.
+But I guess.
+Right.
+Well, I think like because returnal is so much about the mystery.
+Like when I was when I was first playing it, I was like OK, like this is clearly got some kind of mystery angle to it and that's that's kind of like the whole Rost of like the first half of the game is like there's a mystery going on.
+56:00
+What is this signal that you're chasing down?
+And so, so will your experience with the story.
+Was basically just asking ChatGPT for a summary.
+Up.
+Yeah.
+I mean I had a a strong feeling about like what was going on like in like as soon as I saw that house in the game, I'm like Oh well, that doesn't belong here.
+56:17
+There's no way that physically is here.
+There's a manifestation in her mind that's like that.
+It's that alternate that or it's like or it's like it's a a hologram or it's a you know, it's a your Star Trek style like you know brain in the vet.
+Like, you know, yeah, aliens are probing her mind, but like it, it's clearly some kind of like she's not actually having this physical experience.
+56:38
+And so yeah, that was AI don't know, a giveaway for me.
+It's interesting that you got that right away because my thought was like, oh, like you, you've seen the movie Arrival, right, with Amy Adams where like the big, like, almond ships come down and they have to like, do the circular alien language and stuff.
+56:55
+It's not ringing any bells.
+I mean, see this.
+Is why This is why I wish like we could we could be spoiling.
+But anyway, like I thought it was gonna be more of like, oh you've crash landed on this alien planet and you have to like work with the aliens to to like understand yourself better and them and like you you become more of a hero at the end result of it.
+57:16
+So which is not the case.
+I think I my succinct summary is I wanted this to be a rival.
+I would have settled for Annihilation in the Natalie Portman movie, but we got a St.
+Elsewhere instead, where it was just it was all in your head and you're just crazy and like that.
+57:33
+That really soured me on the end of the game a lot.
+I well, I don't know if you looked up any any like cinematics or like.
+No, no, I just.
+I just had the ChatGPT give me the summary where the white shadow is.
+I mean, to be very clear, the White Shadow is the the guilt for her loss.
+57:53
+Her, her, her dead son like the dead, like died in some kind of tragedy, I guess.
+And that like sort of guilt or something is like so heavy on her mind that like that's how she created this reality and that's why it's she's, you know, this.
+It's the pursuit of the white shadow is to the relief of the guilt.
+58:09
+And I guess there's three different or like a few different ways the game ends.
+I mean that's that's effectively it.
+I didn't like that take at all because like my initial assumption was, oh, you are or my hope was that you are actually in the future.
+You are some kind of futuristic astronaut who's, you know, working for some slumlord corporation.
+58:28
+You get shot down on an alien planet and your hero journey is such that like, oh, you've been living in the shadow of your of your mother.
+Who's this like pioneering space explorer And you wanted to be that your whole life and you never had the chance.
+But now is your chance.
+58:43
+Like you can help this alien civilization.
+Like, yes, totally on board.
+Like that sounds really cool.
+It gives the the character agency.
+And then just like, there was one cutscene where it's like you go into the house and you sit down and you watch like snippets of of like a newsreel that's like, oh, there is a fatal crash in the Okanogan, Okanogan, Wenatchee National Forest, which is like over by Lake Chelan.
+59:04
+Like, Oh, yeah, like quite timely with the the Seattle weather of the first Biome.
+And then I was like, oh, no, this is just like, it was a fatal car crash.
+This is all in her head.
+She's dying, isn't it?
+I really hope it's not this.
+And like I was playing through the next, like, I don't know, 9 or 10 hours with that kind of thought in the back of my mind, like, oh, it can't be that right.
+59:28
+It really can't.
+And then it started walking more in that direction, like, oh, please don't.
+And then the final cinematic where it's like, oh, all these little snippets of things that you've gotten so far, like, let's piece them all together.
+And like the there's two basic endings to this.
+59:43
+The first one is like the full, the fully revealed first ending is like, you're Celine is just a regular old mom in in the car.
+She's in her astronaut training program, but she's so distracted by the training program that it's late at night.
+59:58
+She's driving with her kid.
+There's an astronaut in the middle of the bridge.
+Oh no, swerve.
+Car goes into the water basically like the kid is left to drown and she's quote UN quote saved by the aliens, which I'm almost certain are just going to be medical first responders or, you know, something like that.
+1:00:19
+And so, like the, like, it really repaints the entire game of like, oh, now it's like, oh, you're just like fighting psychological demons instead of like actual alien like Eldridge Hordes, which I'm just like it really took the wind out of the of my enthusiasm for this game where it's like, you know, like it could have, it could have been a cool sci-fi story.
+1:00:42
+And I get that.
+Like, yeah, like the the psychological, like overcoming psychological trauma is like a thing to explore in games and not something we're ever going to get like as deep of like a story beat in this podcast, except for possibly Hades.
+1:00:58
+But like, even then I feel like it totally robbed the player character of her agency of like, oh instead of me being like, you know, being able to save this alien civilization, now it's like oh, I have to just like work through my trauma.
+I'm like that's great.
+I'm trying to play video games to get away from that.
+1:01:14
+Please.
+You know, I and like, I get like, why that would resonate and why that would be like very award-winning and stuff.
+But like, if now, like, I'm looking back at like, well, all the stuff that I was really excited about these alien civilizations is like is wasted now, 'cause it's, like, meaningless.
+Right.
+1:01:29
+Like they just made it, made it, made the whole, the whole hero's journey.
+The whole thing is just like, Oh yeah.
+It turns out like there's no real, nothing is being affected except for like this one person.
+And like it it just it's it's, I mean I didn't ever progress that far.
+1:01:46
+But yeah, it's kind of stupid.
+What I was hoping for was the start the, you know, the the the TNG Star Trek episode where Riker, I think he gets gassed on a planet or something and like, oh, you know, it's the Romulans.
+And like, at first it's the Romulans.
+And then he realizes that's like an illusion.
+And then like, so it's all basically around this plot where a child, like this alien on the planet has the ability to manifest reality.
+1:02:08
+And so he just created the reality for Riker.
+And I was hoping that that'd be like Celine, she's there and the planet is just reacting to Celine.
+But like it's really, it's actually physically happening.
+And so all this stuff that's happening is real.
+But, like, it's just a matter of, like, even if it's a psychological manifestation, it's a real physical thing.
+1:02:24
+And then there is some eventual escape or some resolution where she, you, you know, you know, either allies with the aliens or, you know, discovers a secret, 'cause there's all these hieroglyphs everywhere And like eventually, like, oh, she, you know, there's the big technology, You know, it's, it's the total recall.
+1:02:39
+They hit the button.
+The atmosphere is, you know, it's just something epic.
+And no, it's just, oh, I have trauma, OK, yeah, I get a trauma.
+It's.
+You know, terrible.
+I mean like total recall would have been cool too where it's like oh you know if if this is all in your head and my hope was like oh end of act one.
+1:02:54
+Like like the player's given a chance to say, oh, like do you like, do you want to walk away from this or not?
+Do you want to come, come back to reality, Quaid, But like and then like your.
+Mind.
+Yeah.
+And then the the rejection of that I feel like would have been interesting, but like instead it's just like it's just, I don't know, like I I get that there is like a big writing team and I'm sure all their writers are very talented, but we don't.
+1:03:21
+Have to say that.
+Well, at least.
+You do, but well, you remember the the TNG episode Inner Light where Picard gets taken into the alien civilization like lives, like a full life.
+And then like bam, it's just like immediately transported back.
+Like that would have been something cool too, where like you, you land on this alien planet, you have to like, suss out their civilization and then like you come back to reality like there's you've lived like through their civilization you have this thing to take with you, like some kind of interesting hero journey.
+1:03:49
+And it just it didn't do that.
+And it's upset with us.
+He's a gesturing.
+He wants to get back on.
+Here we go, here we go.
+Wrapping it up, I thought there's only going to be like 5 minutes.
+All right.
+And rant.
+But yeah, so I think we got, I got everything I need to say out there, I feel like, How how long are we in?
+1:04:04
+Are we in for ratings or is there other stuff to talk about?
+Let me go through some of Andrew's notes here still.
+So we talked about.
+Was there music?
+Is there music in the game?
+Yeah, there is music.
+There's there's a non well maybe like a non mild spoiler part for the second act but there's this really cool build up of like I think like the music in this game, like it doesn't really like stand out that much.
+1:04:24
+But when it does like I'm so like focused and blazered in in the zone like like it.
+It feels so naturally woven in that half the time I don't notice it and the other half I'm like Oh my God this is just making the experience so much better.
+And there's this one part in the second act of the game where like just before one of the the boss fights, it has like this really big like impressive build up to it that you're like, oh man, I'm in for something, something real, real cool here and was.
+1:04:53
+It.
+Well, yes, but at the same time I was posting in the discord that like, oh, I sure hope they just didn't, like rip this straight out of Ocarino Time with the Ganondorf pipe organ, but like.
+Yeah, yeah, yeah.
+I remember we said that.
+1:05:09
+But you know what?
+And it like maybe we need more of that in video games.
+I was, I was just about to say like the last time I cared about music in a video game, I think was one of the Zelda games because all those the sound, this, that's, Oh my God, just fabulous, Well done there.
+I've never heard anything like that.
+1:05:26
+All right, I can do ratings, all right.
+And we're all being back in to play some squad here.
+So obviously, priorities here, people.
+Yeah.
+Do we?
+Let's see.
+I'm.
+I'm looking through before.
+Well let's see.
+Yeah, for Andrew's stuff.
+Loves the game with the nap feature.
+It's cozy detail.
+1:05:43
+Andrew didn't like the malfunction system.
+Maybe he'll talk about this more when in our next episode.
+But it took Andrew 2 1/2 or no like 4 hours, but still couldn't beat the first boss.
+He didn't like the the progression of the game.
+Andrew says, quote, I beat the first Demon Souls boss in less than 4 hours, I can tell you that.
+1:06:03
+Oh yeah.
+Oh, he says, OK, I beat Frank.
+What a terrible boss name.
+Eldon the ring's first boss was more enjoyable.
+And yeah, he he only got up to to beat the first boss, 'cause he's been lying down for 36 hours. 6.
+So, you know, I think, like, I think Andrea has a point that, you know, spending four plus hours just to beat the first Biome and the first boss is kind of a kind of a thumbs down.
+1:06:30
+And yeah, I like it's something I see elsewhere on the Internet.
+So he's, I don't think he's alone in that.
+But yeah, Colin, kick us off for ratings.
+I'm going to give it a 6.5 right behind Star of Providence, the last game we played.
+And honestly, I feel like I have similar thoughts about it as that game, but in greater extremes.
+1:06:52
+Like I I really liked the ambiance.
+The the ambiance the running around in the levels.
+I'm like starting to get a better hang of it on like of of the level bit.
+And then I, you know I I got to the boss fight and I just didn't enjoy it at all And it I found it to be kind of boring and it just like OK just run and shoot at this guy and like it.
+1:07:17
+It's the parts about first person shooters that I don't like.
+Like I like the and the reason that I like most swordy games, even if they're even if it's a a bullet hell, like a a melee bullet hell is better to me, 'cause I like the dance in and out and whatnot.
+1:07:34
+And this is kind of like, I don't know, it it it didn't, it didn't make me inspired to want to play more of it.
+But I don't know.
+This is a this is a ton of rating.
+I I think I probably will play more of this game so maybe it'll get maybe it'll be higher.
+1:07:50
+Maybe it'll be 7 by the next time we.
+We should we should run some Co-op.
+I think that might be interesting.
+Yeah, yeah, I'd do it.
+I guess that that makes it to my my call.
+Yeah, I'm going to give it the the lowest rating here.
+I couldn't, I could not give it a six because a six is I'd recommend it.
+So it's got to be below that.
+1:08:06
+Couldn't go too low because we played a lot of ship games I think and they deserve to be very low and so this one I I just basically pushed it down to the 5.5 rating.
+Yeah I and I knew like pretty much right like as soon as I got the the familiar with what all the mechanics were that this just game was just not going to be for me.
+1:08:25
+Story didn't pull me pull me didn't really engage me run and gun stuff man of of the the the you know accuracy timing and judgement.
+It's going to take a lot to make me love a game unless it's really heavy on the judgement side and this game just didn't have a lot of that over the over the shoulder.
+1:08:42
+Third person shit, don't really love it.
+Hell diver is included in that analysis mind you.
+But I mean like if that was first person I think it'd be better.
+I I understand the reason they want you to show your your your avatar or your skins all the time.
+That way you feel like oh I need to upgrade that.
+1:08:58
+It's just a stupid mechanic that they do.
+But anyways, in this game I can't recommend it.
+It's Spend your time playing Bellatra or Sledspire.
+Well I'll round us out here on a positive note, I thought I I really enjoyed my time with this game.
+1:09:16
+Jump back to the the story spoiler section for my thoughts there.
+But I think like if if you have a really high end PC, well OK, I'll come back to that in a second.
+Yeah, I think like if if you're into, if you're into games like Dungeon that are just like, you know, really punishing like high level of mechanical skill, then yeah, I think like it's it's worth checking this game out.
+1:09:43
+I think this game's production value is incredible.
+It's probably the best for any rogue like game we'll ever play on this show in terms of visual aesthetic, just the amount of like budgetary effort that went into it.
+And let's see what else it's.
+1:10:00
+It's probably like the best flow state game I've played in a long time where like just like weaving in between enemies and like shooting, going for cover, grappling hook over here.
+And like all I was just like, so in the zone.
+I was like I was sitting there, I was playing, I was so focused, I I didn't realize someone was knocking at the door for like 5 minutes.
+1:10:20
+And I was like oh sorry, I was in the bathroom.
+Yes, that's it.
+There's a there's a mode in return called the Tower of Sisyphus, which I think is probably closer to a more standard Rogue style run.
+What we would expect, and you can't access that until beating the second boss, but that's super fun like.
+1:10:40
+I think that would.
+It's just a certain number of deaths.
+I got it.
+Oh, really?
+Yeah.
+No, I think 'cause you need, you need the grappling hook to get up to it.
+I'm pretty.
+Sure, you're talking about code.
+I think.
+Well, no.
+It told me that it's a thing that you can do, but maybe you.
+I can't actually do it.
+1:10:57
+It's just like, oh, look, there's a tower.
+You can go to that tower and that.
+I haven't actually figured out how.
+Well we'll we'll grind some some Co-op to get you the grappling code.
+But but yeah, anyway, I think like the the the Biome lengths are at least twice as long as they need to be if those were cut down.
+1:11:12
+There's one Biome in Act 2 that's more of like a hub and spoke model that I think works a lot better.
+This one bullet point that I have is like, this feels like the tenet of Rogue likes where it's a great idea.
+Maybe not the best execution, but I appreciate the novel approach, amazing production value.
+1:11:28
+The story makes no sense and makes less sense the more you think about it.
+The it's best experience on a big screen with lots of really intense audio booming.
+There's lots of narrative talking.
+I think I like it, but I know it's for sure.
+Not for everyone, Not so much time travel stuff here, but anyway, and yeah, I think.
+1:11:49
+Is there time travel in it like time travel?
+There.
+There's not any really.
+Well, I'm gonna say no.
+There's.
+I do hate time travel so much.
+Yeah, there.
+There's no like tenant style time travel going on here.
+I think if this like this game's price point I think is too high, I think $60.00 for this game is too much.
+1:12:08
+There's a lot going on, but like if this was like permanently dropped to $40 and went down to sale on 20, like there's a lot of AAA games that do that.
+Like Death Stranding does that all the time, which is kind of like a similarly weird high end AAA game.
+So why not here?
+I think like it would open the doors a lot, especially with its debatably janky port job on the PC and and all those other things.
+1:12:29
+So I think, OK, here's the things that I my last bullet point is who is this game for?
+And I think all of the all of these elements have to line up specifically for this to work.
+For this specific you have to have a high end PC and you have to have a large tolerance for jank with some of the stuff on the PC port.
+1:12:48
+Or if you have APS 5 if you are.
+If you're a fan of hard high mechanical skill sealing games, specifically bullet Hells like Engine enter the dungeon.
+If you're also a fan of sci-fi and psychological slash, Eldridge, horger stuff, people played the game Hellblade Cinema Sacrifice, you'd probably really enjoy this game.
+1:13:09
+If you're a fan of a a Metro, Metroidvania or Dark Souls style game, that's another element that has to line up.
+And then finally, if you're a fan of like Rogue, like cyclical nature games, think like all of these things have to line up for you to be like really jiving with it.
+1:13:24
+And I think I really I that those take all the boxes for me and I think they fumble the story on the 1 yard line.
+But you can you can go check our story spoilers for that.
+So for my ranking I'm gonna dump it at 8.6 just behind Binding of Isaac.
+1:13:40
+It was much higher than that until I beat the game.
+But I think like it's it's very good.
+I think one of the it's one of those games like when you're playing and you're in that flow state there's very few games that do that better.
+But I like, I can't play it on my Steam deck, like I have to be in a big or like big environment with lots of compute computational horsepower behind it.
+1:14:06
+Like this is not a game to play on the Steam deck on the bus.
+You know it, it is a sensory extravaganza and I think you have to prep yourself for it.
+But yeah, I would.
+I would say it's good.
+If all of those elements line up for you, then for sure check it out some very quickly some similar games on the indie side, probably the game that I was thinking of the most to compare it to would be Roboquest, which is not the same aesthetic at all, but I think does a lot of these kind of like rogui shooter concepts better of being.
+1:14:42
+It's more, it's more linear but it's more focused I think and runs in that take 1020 minutes risk of Reign 2A4?
+Sure, stay tuned.
+Does I think the open world thought or decision thought and synergy stuff much better and then I'll throw in crab champions here as well because because 3D environment Shootie Mania I I'm basically just listing these for Andrew's benefit to add it to a seam wishlist later.
+1:15:09
+AAA side, there's not a whole lot of AAA rogue games out there so this might be the complete list, but I'm going to put Sifu sifu sifu question mark on here 'cause I I'm not sure if it's a AAA or AA.
+But again, another kind of game that kind of skirts the boundary of what a a AAA level production rogue game could be.
+1:15:31
+Deathloop we kind of talked about Prey Mooncrash is a game that I would recommend for people who have beaten Prey, the other Bethesda game, to to check out if you've beaten that prey.
+Mooncrash is is a Rogi style DLC for it which actually my new graphics are might be able to handle.
+1:15:53
+We played some Vermontide 2 way back in the day and I think that could potentially qualify here for something that's vaguely rogue esque.
+OK, I've been shouted down.
+And then lastly some other like Sony games that have rogue like modes that have been added to them.
+1:16:14
+The latest God of War Ragnarok game has a rogue like mode and The Last of Us two has a rogue like mode.
+They've both been added that people seem to really like.
+So with that in mind, check those games out and yeah, I think that'll finally wind down our return all episode.
+1:16:31
+We will return all to our normal indie games As for our for our next episode.
+Before that send us your story thoughts about Return all to grogpudzone@gmail.com.
+You can find all of our Simpsons related return all posting Mastodon at Grogpod at game dev dot place and all this stuff is on grogpod dot zone website where you can find all that other good stuff.
+1:16:57
+But yes our listener requested episode for for next time is going to be Barony which is very interesting.
+It's much more along the lines of our It's almost like what it what if traditional rogue like but real time and Minecraft graphics.
+1:17:21
+Oh, and importantly couch Co-op split screen.
+You can do split.
+Screen We're going to come to your house and play.
+Yeah, I've got the, I've got the Xbox controllers.
+We can just totally do it.
+All right?
+Yeah.
+So because we're being summoned to go play Squad to play us out from this episode, we will ascend the Spire in search, not the slave, the Spire.
+1:17:42
+We will send the Spire in search of the music that won't end for an epic alien Ganondorf pipe organ fight filled with huge glowing orbs.
+1:18:16
+The None.

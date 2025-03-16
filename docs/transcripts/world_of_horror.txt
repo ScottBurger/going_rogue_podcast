@@ -1,0 +1,1323 @@
+0:30
+Greetings friends, and welcome to yet another episode of the Grog Pod Roguelake podcast.
+Or should I say, greetings fellow doomed citizens.
+This podcast is about unsolved roguelikes.
+Whenever possible, the actual family members, police officials have participated in recreating the events.
+0:49
+What you're about to see is not a news broadcast.
+Join me and perhaps you may be able to help solve a mystery.
+I am your host of the podcast Attempting a Robert Stack impression by literal candlelight for this episode.
+And with me are my Paranormal Investigator Co host.
+1:07
+This is Will Wright, your random button that does the thing that you don't know what it'll do.
+That's a terrible description.
+And it's me, Colin, a happy teen investigator or something.
+1:24
+Hey, and you know I'm here, old Eldridge horror.
+Harshman Well this week our doom meter is maxed out in more ways than one.
+Because if you are listening and wondering why your your host your your host audio quality is dubious, that is because I'm recording through my phone with the power out, as I said, by literal candlelight.
+1:47
+Or I guess by LED candlelight as best I can for our appropriately spooky themed episode this week.
+World of Horror released in early access February 20th, 2020.
+2:02
+Lots of twos and 1.0 just last year October 19th, 2023.
+This is a game that you can find on Steam, PlayStation, Switch.
+It was developed by a solo dev, Pavel Kuzminski, and published by a developer that we or a publisher that we've kind of seen before with our previous episode, One Way Heroics Playism who have published One way Heroics as well as Gnosia some other games.
+2:35
+But you know, you got to mention fight crab and Ace of Seafood whenever you can.
+World of Horror rolls in on our doom meter at the 115th most popular rogue leg game on our data set with 9067 total reviews.
+2:51
+And your average player of World of Horror has about 13 hours total gameplay in it.
+Colin, what is your sequence of sentence structure fragments that you will piece together to defeat the one sentence description of this game?
+3:08
+One bit graphics old God campfire story video game spooky story hook hand ghost hook hand car hand door.
+The sentence is getting out of hand.
+What's the what's the, you know, the hook hand, the hook hand ghost story campfire thing.
+3:26
+I felt like it feels like this game is just the it's it's a series of those like spooky ghost stores told around a campfire.
+But you're you're the the happy investigator trying to save the town from Old God horrors.
+I think that's maybe selling the writing a little short, incredibly short, dare I say it?
+3:47
+But I I get what you're saying is that is that kind of vibe contending with, you know, different mythological stories and old folk tales, but also much more large, you know, world spanning apocalypse threatening type issues.
+4:08
+Now I was eager.
+What what didn't quite get put into your one sentence description, Colin, and why I was eager to play this game is that we haven't played too many narratively driven or narrative generating games.
+The one other maybe notable instance of this was Wilder Myth, but we haven't played many of them so I figured it's high time we play a second one.
+4:36
+And this game definitely has a big focus on generating a a narrative and a storyline as you go through your rogue like runs.
+Well, we, yeah, I was about to say we did.
+Oh, pardon me.
+Which was our most recent one?
+4:52
+I don't remember was was.
+I wasn't here for that.
+Yeah, that that that was in the pre Andrew era for Gridlands, but also I think maybe also somewhat closer in some respects.
+Definitely not combat wise, but maybe story generation wise is the Hand of Fate games in a way.
+5:10
+I went back and played those for a little bit and I was like, how, how do you do roguelike story driven stuff in like a compelling fashion?
+And I and I went back and like those previous episodes of ours are definitely worth checking out.
+5:26
+But it it seems like a very hard problem because like, how do you how do you do story generation that's fresh but also not literally just Mad Libs?
+Large language models.
+You're not totally off base.
+I mean, I think that that's that.
+5:44
+I'd be surprised if that doesn't already exist.
+There's just some game out there.
+Someone's either developing it because we've really only had these LLMS at the, you know, capable level since March.
+Was it March 13th or so, 2023.
+So really not not too long to to develop something.
+6:01
+Yeah.
+I mean I feel like the hard part for that would just be keeping it on rails.
+Like be very easy to get it off off the rails.
+Right.
+I mean, you'd have to do very good context management and basically, you know, try and drive.
+6:17
+It might be to like 4, sort of like treat it like a labyrinth sort of a thing where each at each like, you know, decision points, you can go in a direction, but those directions are things like, and if the player wants to do this kind of thing, then make sure that they get into a vehicle and start driving north and, you know, and like, and it starts snowing or something.
+6:36
+And like this is the kind of thing that you might need to do, you know, be very, you know, be able to kind of.
+That's not this game.
+This game is.
+I don't know why we're talking about, actually.
+I do know why 'cause this, yeah, but let's talk about this game.
+Sorry.
+This game, they are bespoke generated events, there's just a lot of them and they, they work to try and like integrate them together into one combinatorially driven story engine.
+7:07
+Right, correct me if I'm wrong.
+My understanding of the structure is that like you start a run, you have 5 mysteries that you need to investigate in the world of horror, which I'm sure we'll get to the specifics of the, of the storyline, what that world is, what that setting is in, in a moment.
+But you're, you're assigned 5 mysteries.
+7:24
+Those mysteries have a bespoke like intro that is set.
+They have several bespoke endings that you can discover, and then there are several milestones that are bespoke and set while you're on your way to one of those endings.
+7:43
+And then scattered in between are all of these random events that involve potentially combats or dice rolls, ability checks, and.
+Spooky combats.
+Absolutely spooky combat and spooky random events and, and lots of sorts.
+8:00
+Lots of resource management and I wouldn't say like push your luck elements, but yeah, there's some of that there.
+There's a lot of you know, when you're presenting with choices having to decide, well, you know, do I risk XY or Z resource that I have based on, you know, your access to regenerating those those resources or or your access to having obtained certain items or certain story events and things like that to to help you out.
+8:31
+I just finished a run for that is A2 specific example doesn't matter, but I was continuously throughout my six hours of playing this game, pretty impressed right from the get go and throughout the six hours at how well the narrative is is weaved and and feels fairly customized and flows nicely.
+8:52
+I found very few times where I was hit with a random events and it didn't feel you know, Very few times did it feel janky or or or out of out of sorts it it all melded together pretty well.
+9:13
+Has has that been my fellow host experiences?
+My I don't know if my experience was slightly different in in what I'm about to describe wherein the structure of this game is very interesting that you're given like 5 five of these very creatively alliterative mysteries to solve.
+9:36
+Like the, the the.
+This is where I would pull up the wiki on the computer if I had power.
+To read us all the wonderful whimsical names the full of alliteration and fun each each each mystery has a as an entertaining title.
+9:55
+Yeah, and the for for each one of those mysteries that has kind of like a bespoke backbone to it where like, oh, we need to go investigate why this ramen shop is is doing so good.
+Clearly there has to be something going on here.
+10:11
+And you'll be going down, you'll be going to downtown to check out some clues.
+You'll be going to your apartment building, check on some clues.
+You'll be going to the school to check out some clues.
+But like kind of in that exact sequence for that mystery.
+The thing that kind of weirds me out a little bit about the structure of that is that you'll, and correct me if I'm wrong, but I seem to recall that like, yeah, you can, you can like just pop in and out from any one of those parts at whim.
+10:42
+So like, you know, there's like a big town that you can explore.
+And by big town, I just mean like squares on a grid.
+And you there is the one particular moment I was playing last night talking to an apartment neighbor and you're about to like go into your apartment neighbor's bedroom.
+10:59
+And I thought, actually, I think I need to go and get some weapon refers.
+Hang on a SEC.
+Before I go into that bedroom, I'm going to go down to the seaside docks really quick and pick up a crowbar from the shop.
+I'll meet you right back in that bedroom.
+Don't worry about it.
+Just stay here.
+I'll be it'll be 2-3 hours tops.
+11:16
+Don't even worry about it.
+Go to the seaside by a crowbar.
+Come back.
+OK, where were we again?
+It it felt like that kind of, and maybe I'm reading too much into it, but.
+Like, well, I, I suppose you're right that in that way that does feel disjointed.
+That was the word I was reaching for earlier, but it was my experience.
+11:34
+The random events, at no time did it feel very disjointed.
+Maybe only a handful of times It felt like, well, that that random event's kind of out of left field and doesn't really match.
+But but very rarely did that happen.
+What you're describing.
+Yeah, I get it.
+That does strain credulity that like you would say, I know we're about to open the door and I know we're about to face the the the scary threat that's behind this door.
+11:54
+I'm going to actually go across town and go do some shopping.
+That is a little weird.
+However, the game I would argue does account for that by the fact that I believe those actions that you take going down to the Seaside dock and going to the hardware store to buy some gear would have raised your Doom level.
+It would.
+12:10
+Have raised regardless though, right.
+So I mean, if you were doing that earlier, I mean like, yeah, you use Doom as a resource and to to do this stuff.
+Anytime you go to the hardware store, it raises your doom.
+Going to many locations in this game to go and retrieve and go and purchase items or or get buffs or or whatever or exchange some resources raises your doom level.
+12:32
+So, so I would argue that the the disincentive is like, yeah, hey, you don't want to leave this, this, this, this, this situation, this, this action situation that's about to unfold because you're risking raising your, your doom meter.
+Now, it's true you could have done that earlier in the adventure, but I don't know.
+12:52
+That's super relevant.
+What?
+What happens at Maximum Doom?
+I've only ever succeeded because that's just.
+A fair game.
+So how many?
+Whatever what happens, what's game over?
+Do you get a very evocative game over scene which is depends the exact screen the art that you are are treated to depends on the circumstances under which you you got doom to 100% got it.
+13:17
+It's game over it.
+Depends on the old God that you roll at the beginning of your run as well, too, right?
+This is true.
+This is true which God we're dancing all around it.
+And maybe I, you know, let us astray by jumping right into talking about mechanics, but maybe we should discuss the story.
+13:36
+Hey, Scott, what do you got for story notes?
+Or do you have access to that document?
+Story notes that I'm pulling from screenshots off of my Steam Deck here 'cause that's the only thing that I still have power for are that, you know, you start off well, a like you start the game with this amazing like one bit all all.
+13:59
+I guess maybe hand drawn question mark in Ms. Paint.
+I think it's gotta have been hand drawn.
+I don't think you could do it any other way.
+But like you, I'm sure.
+Yeah, you, you.
+You start off with, I think the the art really just kind of nails home the the tone and theme of this game.
+14:15
+But it starts off with city of this fictional city of Shiokawa, Japan in 1980.
+X Something strange is happening in our town as I go through my screenshots 1 by 1 and wait for the little.
+14:33
+And, and let's be clear, you've got this wonderful slideshow of, of not even really animated at all like sequences, but like all very like evocative, cool, like quality manga frames, black and white artwork that are setting the scene.
+14:48
+Like, here we are in some nebulous part of the 1980s in Japan.
+You know, home computing is kicking off.
+But there are, you know, it's a, it's a unique time in a unique place.
+15:04
+And the, the, the town is basically on the brink of the apocalypse.
+All sorts of unearthly paranormal things are happening, and people are behaving strangely and seeing strange things.
+15:20
+And well, of course, it's up to you to, you know, try to save your town.
+Yeah, the the Old Gods, malicious eldritch beings who ruled the earth eons ago, are awakening as reality starts to crumble.
+I think that kind of sets the tone as well as the the next slide, which is a very nice Initial D reference.
+15:40
+Oh man, I'm glad you're bringing this up.
+With this drifting Toyota Tercel on the highway with a a woman sticking out the back with a handgun shooting some tentacled monster and it's.
+It's.
+To go and investigate and fight off the, the, the demonic threat.
+15:56
+So yeah, I think like, and then it it, it, it just kind of like drops you or well, that's when it it says like, ha, here is the old God.
+And it can be anything from like a giant eyeball in the sky to the the, I guess creature that's responsible for the burning of the ancient Library of Alexandria, like.
+16:18
+You got what else you got.
+You got a giant spider God.
+You know, you got all the all the lovecraft, all the classics here and it it is worth calling out.
+I think at this point, since your run starts, one of the first things that like happens with a run is that, as you say, Scott, it randomly rolls one of these Eldridge gods who is like kind of the, the, the the overall like arch villain for that particular run of the game.
+16:42
+And that, and this is, is this structure is, is clearly inspired by the like HP Lovecraft Arkham Horror line of board games.
+Like this is this is how all of these board games, these Lovecraftian and Cthulhu Mythos board games start.
+17:00
+Generally.
+It's like, well, let's, let's roll for, let's determine, let's pull a card out of this deck and determine what old one, what great old evil God we're going to be fighting against structurally.
+And all this resource management is all very, very much recognizable from the structure of those board games, which have been around for a very long time.
+17:21
+And I I assume that the the the solo developer was very much inspired by by those board games.
+And before we deviate from the board game topic, because I have a a bunch of bullet points in my Google doc for it, didn't we play like an Eldridge themed horror board game at at your apartment one time?
+17:41
+Like way back, way back in the day, it was like, this was driving me crazy.
+I was like, it was some some like eldritch investigation.
+Haunting it was it.
+Could have been Arkham host.
+Or Arkham Hauntage, House on the Hill or.
+I have AI have a joke, a meme that runs throughout my life.
+18:00
+No one knows how to say the name of that game correctly.
+The one you're referring to, which is technically part of a A a difference intellectual property talking.
+Of Hill House is a is the TV.
+Show that's a movie.
+Hold on, I'm going to try it though.
+Let me see if I can get this right.
+Because I was looking like as I was playing through this.
+18:18
+The trail at House on the Hill is.
+The name of the game you're.
+Referring to and everyone calls it a million different things and I understand why because the name is kind of generic that is a separate intellectual property, but similar idea.
+I I think this game's DNA is more closely related to the Arkham Horror brand of of games, which has spawned a bunch of different.
+18:37
+Board games, yeah, there are a lot of board games that could fit within this genre.
+I've played something that was just basically this but board game version, right?
+And, and so you know, yeah, each, each playthrough is unique because you have a different like enemy, like main villain that affects like different things mechanically.
+18:56
+And then you are managing your characters health, like your physical health, but also your mental health.
+And then you're also trying to manage the overall apocalypse level, the Doom level.
+And if any of those get too high or too low, then you're done.
+19:12
+So most recently I've been playing the well, most recently, I guess a year ago throughout the month of October, I was playing a lot of the latest edition of Arkham Horror.
+And so it's fresh in my mind and it's great to see it in a video game context, this these sort of general mechanics.
+19:34
+And it's also great to see it in this setting of this merging of the Cthulhu Mythos and Arkham Horror type mechanics with this horror manga Junji Ito style.
+Art, like the story, major inspiration is just like all all of the weird Japanese horror manga stuff indeed, and whatever I whatever that one is where there's a hole that's perfectly shaped like me.
+19:59
+It felt like it was just that, but the video game.
+Absolutely.
+A lot of the creature designs and things like that clearly are informed or inspired by, by Ito's stuff by by his oeuvre, if you will, which is now like just sort of a permanent part, like pillar of, of horror design now it seems like.
+20:21
+But what what I wanted to call out is this art style, it achieves two things simultaneously, like perfectly number one, it achieves the old school adventure game art style that you would expect from a game from the 80s, from the early 90s.
+20:40
+So this, this 2 bit thing, it's like great.
+It already looks like a period piece game that you're playing.
+And then #2 it achieves looking like a horror manga.
+Boom.
+Perfect.
+Great.
+You know what it doesn't achieve?
+Uh oh.
+UI legibility.
+Well, hey Colin, if you remember back to Barony, there was something about the intro of Barony that you despised.
+21:05
+Do you recall what it is?
+No.
+The text emerging from the center of the screen and reading out and like scrolling out from the middle.
+Oh.
+Yeah, and that's exactly what happens in the intro of this game.
+Yeah, I feel like the longer we've done this podcast, the less I have become tolerant of any, any, anything that's not like perfect UI.
+21:28
+Like the the thing that got me the most on this game was what of these things can I click on?
+Which of these buttons are actually buttons and what do they do?
+Like there were many times where I was like, I'm just going to hover over something and there's no, no tool tip that pops up.
+21:44
+I'm just going to click on it and see if something happens.
+No.
+OK.
+And that's where.
+I must feel like like the very well done art style here like conflicts with the UI elements because because it's it's so dedicated to the the one bit bit I guess.
+22:01
+Well, you also have an option for two bit, but that doesn't really help.
+Too much adds 1 shade of Gray.
+Yeah, exactly.
+But I think that like, yeah, it definitely like if, if you don't know like where the menu bars are for clicking stuff.
+And I think the tutorial does an OK job of like, hey, you should click over here to do things.
+22:19
+But it's still like kind of hard to read because it's so like committed to that, like to the one bit artistic formula style that like, yeah, you know, you're not going to have like a bright yellow text box pop up with an arrow pointing.
+That's like very like outside the design aesthetic of the game that says like, oh, like click over here.
+22:41
+You're not going to have something that's like outlined in a big red rectangle.
+It's like, Oh yes, this section over here is where I should focus my attention.
+Like I was complaining about like totally forgetting about the entire right half side of the screen from heat signature or previous episode.
+22:57
+But there was stuff there that was like that was legible.
+It was just like me completely forgetting 1/2 of the screen.
+But like this, all the stuff is there.
+It's just like like calling, like what you're saying exactly like this little, you know, bar at the bottom right that has like a little Cthulhu octopus on it.
+23:15
+Like is that a thing that I can click or is that just like an artistic kind of design of the UI?
+Right, there was not enough colors to distinguish like what is a button and what is just greebles or artistic flourishes.
+Well, I I would argue that since the little Cthulhu icon is in a line with other buttons that can be clicked, it is clearly part of the UI and it can be interacted with.
+23:42
+I want to push back a little bit, but also agree a little bit in that in my most recent playthrough, there was I, I couldn't figure out how to put something into storage.
+Like I needed to do some item, some inventory management.
+And I'm like, well, I guess there's just no option to put something into storage when I'm not at my house.
+24:01
+It turns out that just the, the teeny tiny button that that allows you to send something to storage.
+I thought it was grayed out because that is part of the interface.
+Like buttons will be grayed out or not grayed out.
+It just so happens that the the image was like used so many dark tones, so many so many black pixels that I I thought it was grayed out.
+24:22
+Turns out it was not.
+I could have interacted with it the whole time to.
+Be clear.
+I agree.
+To some.
+Extent that half of the pixels were white and half of them were black if you're playing it in the true one bit art style that I feel like the game is meant to be played in where there's only two colors in the game, black and white.
+24:39
+Or I mean dark grey and white or something.
+I believe I'm playing on whatever the default setting is, and I can tell you that 90% of the time I can distinguish whether a button is a button that I have access to and can click on versus a button that is grayed out and is not currently accessible from where I am in the.
+24:59
+Game Well, well, let me ask you this though.
+How?
+I mean how many games did you play before you realized that the enemies HP is?
+Something that you could.
+Yeah, we were just having this discussion online.
+So I was, I don't know, maybe six runs in or something, which I do need to call out that, you know, my My Call of Cthulhu role-playing and board gaming knowledge led me to a not easy, but a definitive first run, first win.
+25:30
+And I thought I was going to be the only one to do it.
+Alas, Will showed up and just completely there's.
+There's an achievement for that too.
+So if if you guys don't win your first run, you can never get this special achievement I.
+Did not, I did not get that achievement.
+Well my first time right through it I was consigned to an an insane asylum and I watched Azul Yogaf or something rule the world so.
+25:57
+Indeed, indeed now, but will your your point is well taken.
+The fact that I did not realize that in every combat the enemy's health and damage and everything is is in the top left hand corner speaks to the fact that it is in fact a black and white interface and there is a lot of random shit on the screen.
+26:17
+And apparently I didn't bother to look up in that corner of the screen.
+And I I do feel like a bit of a doofus.
+I think part of the reason though is because I had my blinders on because as a good caller Cthulhu investigator, I know the the the less perception checks I make the list investigation checks I make, spot checks if you will, the less opportunities I have to see something terrible and lose sanity points or in this case reason points.
+26:41
+It's not.
+It's not 100% clear.
+If you look around on your screen, you may.
+If you lose this game, this is I, I will say this is the game we've played the most that I felt like if someone had to say one game that you'll play in 2024 if you lose, you die in real life, this would be a high contender for that.
+27:01
+Oh, how so?
+I mean, like this is the spookiest game.
+I mean, I guess inscription is probably pretty high up there too, but.
+Pretty high up there too.
+Sure, I I get what you're saying.
+The atmosphere, that is.
+They're definitely going for the if you die in the game you die in real life genre of creepypasta.
+27:21
+Weird horror stuff.
+For sure.
+For sure like for.
+A game for a game with such a unrealistic art style, I mean, it's very far from photo realistic.
+Obviously there is a high level of immersion I would say, which is is impressive when I commend the game.
+27:39
+Immersion and I don't know if I would go so far as to say like graphic but like very like I would say well done like gory detail where they're like yeah they're they're like this is not a game that like if you were easily grossed out or like even if it is just like a black and white blood splatters like this is probably not the game for you where you are like accumulating status effects over time were like you're growing extra teeth or like in my most recent doomed run I was like I started off with like very brittle bones and like I would get a major injury anytime I took a hit in combat and so I'd like what's I wonder what the status effect is like like it slash artery.
+28:31
+Do I really want to click that?
+But I will say that like the like the art style of like the like eyeballs and soup and just like the very spooky elements of things like that feel so well done.
+28:47
+Like this is just like, like the perfect game to play at like a Halloween party to just like have get like a bunch of friends around the, around the, the TV or the, the switch or something, or your steam deck and say like, OK, team, which of these options are we going to pick?
+29:04
+And like, is it going to set off our, our reason meter to our doom or not?
+And then like the gross out thing comes up on the screen.
+Everyone goes and then you click on the next thing.
+I feel like that that would play super well.
+Or if you are a a haunted artist who you know loves smoking after each defeated enemy that they would also play well for that person as well.
+29:29
+But what?
+Yeah, absolutely.
+Since we we just got through, you know, October, the spoopy season, I found myself watching a lot of horror movies and a lot of horror movie reviews and a lot of horror movies sometimes get called out in in a review format as this is a great movie to put on at the Halloween party.
+29:44
+I feel like this is one of the few games we've reviewed where you can just put on a a let's play on the back in the background at the Halloween party.
+And it would it would probably do just fine.
+It would fit the fit the mood and fit the setting.
+But hey, before we get too far away from the topic of the UI, I agree with the sort of general sentiment that the buttons are probably too small and the combat I was having to like read.
+30:12
+I was going to having to hover over buttons and read the text very often for a lot of my playthrough and it wasn't until hour, like I don't know, 5-4 or five where I was finally memorizing the icons, which is easier to do in a game with larger buttons and more detailed, you know, hot keys.
+30:36
+I'm I'm kind of surprised that the buttons are as small as they are.
+I wish they had hot keys.
+Hot keys would.
+They were grid mapped a la, I don't know, StarCraft or something where you had just, I mean, there's only so many.
+30:52
+It's like what, 9 or 12 buttons that you can hit in a grid.
+You could, you could absolutely grid them to your, your keyboard.
+And 'cause I mean, it's like, OK, I want to just slash it 6 times, but I also want to up my attack ability before each one of them or something.
+31:13
+Click and click and click and click and click.
+And yeah, I mean, it's a small criticism, but.
+Sure, sure.
+Yeah, hotkeys would maybe be nice, but I I don't know.
+I'm not, I'm not convinced that would be all it's cracked up to be.
+I mean, is the game that slow like that?
+31:29
+It needs to be speed up?
+I'm not sure.
+I actually think this game's pacing is really is really well done because you have, you have 5 mysteries to complete before your final boss battle.
+And each one of those mysteries doesn't take longer than, I don't know, like 20 minutes or something.
+31:45
+Like it doesn't, it doesn't seem egregiously like long and like it, I don't know.
+I feel like to some extent I was also just kind of like button mashing through some of like the random events that happened through like the main mystery quest.
+32:01
+And I was like, OK, yeah, like I, I've seen this event before.
+I know if I click this one, this thing's gonna happen or if I click this one, this gonna happen.
+Click, click, click, click, click.
+OK, back to the main mystery.
+Which one of these things do I got to go do next?
+What I got to kind of prep for, but it all went by like pretty quick, at least until like getting, solving that mystery or getting whatever kind of particular ending that you get.
+32:22
+There's a lot of these mysteries that have multiple endings.
+I think almost all of them have at least two, maybe 3, up to maybe like up to four in some cases.
+Endings that all like differ with you fighting a particular person or like different kind of combat options or negating combat entirely in some cases.
+32:46
+And I felt like at the end of like all those sequences and, you know, you finally come back to your apartment, you're like, oh, what a day.
+I should go take a bath.
+I was like, oh, like I got, I got time for one more, right.
+And I think especially with the Steam Deck where I can just like pause and resume at will, that helped out a lot.
+33:03
+They like, oh, actually I, I maybe don't have enough time pause and then like come back to it six hours later or something.
+But if you need the game, all of your allies there, they go back to the school, I think so they they it's like it's an incentive to just play through to the end of the entire session, which.
+33:22
+I think is that is that where the rock went after the festival?
+Yeah, if you save the game and leave, it'll it gives you like a notification that you you lose.
+So that's that's like the Oh well, that's you're going to punish me for closing the game.
+33:38
+Fuck you.
+Like I don't like that cat.
+That's just, I don't know that didn't that that bothered me.
+I mean, to some degree I can.
+Kind of see like a balancing mechanism, but yeah, like.
+I don't know like.
+No, you have to be able to pause.
+Games mechanically, there's not really a justification.
+33:54
+I, I, I think thematically that's a lovely little touch honestly, but I agree it's unfair.
+We're old men now, we need to be able to pause games.
+Yeah, my back is achy.
+I got to pause.
+I got to go and get my.
+If I'm playing this game during work and someone IMS me, I need to be able to pause the game so I can respond to that.
+34:15
+It's not that you can't pause the games that you just can't quit the game.
+So just alt tab and you know respond to the slack but this is there and and try to recruit your Co worker while you're at it.
+Well, this is this is this tells me that it it is the the the this the creator is trying to artificially boost the numbers that like for play time and all that stuff.
+34:33
+Because if you're because if you're incentivized to do, you are incentivized to do just that alt tab, do other things, forget about it.
+Suddenly you've run up 10 hours and you're like, what just what I just left it on overnight.
+Oh my God, I just.
+Thought, oh I just left it on.
+Scott said that the average player.
+Is 13 hours.
+How many of those hours is just alt tabbing to answer work notifications at least?
+34:53
+That indeed, one may never know.
+That's it.
+You see, I didn't even realize that was that was a thing.
+Yeah.
+I mean, again, in spirit, I I appreciate it.
+I respect it, but it's also kind of a jerk move and mechanically unfair I think.
+35:09
+I'm Speaking of jerk moves and if you threaten one of the the school kids with a knife in order to make oh, I.
+Didn't I saw that I no are we are we talking about?
+The game or real life?
+Both.
+Well you can't see this, but I just flipped open switched my.
+35:26
+Whoa, whoa, whoa, whoa.
+We'll, we'll.
+Record whatever episode you want next all.
+Right.
+That's right.
+Yeah, No, it's what?
+Happens.
+Well, if you lose the doom goes up 5% and so I recruited everyone I could just by asking them nicely and then I decided not to ask the last two very nicely.
+35:43
+And yeah, one of them ran away and caused the doom to go up.
+But the doom wasn't I don't know for my like, I think I got to the end of the game by like 50 some percent doom.
+And so I was just like, I was just like, OK, I guess.
+Well, I mean, I I did, I rested a few times and used like some of the doom to do that, but then I ended up I think took.
+36:01
+How many wounds did you have?
+None.
+I had.
+I think I took two damage in the last fight.
+Oh, see, that's, that might be the big difference.
+And like, if you get wounded, stuff starts getting way harder And, and it it like like many roguelike games, once you start losing you it, it compiles on itself.
+36:20
+But well, now that I have less strength because I got my face bashed in.
+Right, right.
+What?
+What do we compare this damage system to?
+Of course you have hit points, but then you can also can incur like long term injuries.
+Sort of similar to Darkest Dungeon One is maybe the most popular example.
+36:38
+It kind of feels like any sort of like accumulating curse system to kind of like, OK, you're progressing at like through your run, the difficulty's gonna get harder and harder and harder.
+And I feel like these are things that like crop up in in kind of like a lot of rogue like games, but like this this one feels almost kind of more board gamey in the sense that like, I mean, like, yeah, you can kind of clearly see the inspiration's drawn from like the elder Tor tabletop games.
+37:07
+But like I, I do feel that like that kind of compounding like, Oh well, now your health is capped at like 80% of what it was before.
+It reminds me a little bit of the slice and dice when you're playing the curse mode.
+Yeah.
+And you're just like, you're slowly accumulating like detriments and you're just seeing if you can go the distance before it becomes too difficult to continue on.
+37:31
+But you also, you're also accumulating, you know, like items and allies and like increasing your stat, your character stat sheet.
+Indeed, there is a leveling system.
+Which I think like again, took me like everything in this game.
+Once I I figured out like, oh, that's where the little tiny flashing button is.
+37:50
+I'm like, OK, I get it now because I think the first few times I did not beat this game on my first try.
+I'm not nearly that good at Eldridge horror investigation.
+But like when you level up, there's like a a little blinking thing in the upper right hand corner that you click on to level up.
+38:06
+And then you can pick from a series of permanent perks that like give you, you know, plus knowledge or plus charisma or dexterity or things, or you can choose to increase like those things like specifically or like add plus for to like your, your health or your brain power directly.
+38:27
+So like, if you're on the ropes, like, oh man, I need, I need four more reason in order to keep this run going.
+That would be your option.
+But yeah, I feel, I feel like the that kind of like rolling debuff system.
+There's there's like town curses as well that like add on as the difficulty progresses through the through the run for like Oh no, like the all the town's water is turned to black sludge.
+38:52
+Now I can't rest at home anymore.
+I got that one like at the very beginning of a run.
+And that was rough because normally between missions, you go back to your apartment, you go back to your flat and you can take a bath and you can pick different temperatures of water to regain different stats.
+And it's like, oh, I can't, I can't take a bath because the water is all gnarled up.
+39:13
+Yeah.
+Importantly about the level up system, Scott, I wanted to mention that it was, it was my opinion.
+Maybe not the most exciting perks and upgrades, but like, meaningful enough that like, it was generally an interesting choice.
+Like, do I want to, you know, upgrade XY or Z?
+39:31
+Which perk should I go with?
+And there's a few perks that are kind of interesting in that they're a little more specific and a little more unique.
+Like there's one called like the Yakuza card, which like gets you access to like black market goods or something, which is kind of interesting.
+And it's nice to see when upgrades again on the show, we hate upgrades that are just are are insignificant.
+39:53
+And in my it was my experience with this game that the the perks were significant enough to pique my interest.
+Well, not amazing, but pique my interest the.
+So, so my experience with this was because I just all I had was this a, a steak knife.
+40:09
+And so, and that's the, the speed of it is, is determined by your dexterity.
+And so just basically always focusing on dexterity.
+And So what that meant as I think I went from like 8 Dexterity at the very beginning to something like 12 by the end, 'cause you can like you basically get like the thing on the, there's like kind of two things you're selecting every time.
+40:28
+One of them is the randomly selected choose one of three.
+Most of them are just like plus one to a stat.
+But like you said, there's some exceptions.
+And the other ones are like, you know, recover health or you know your, what is it?
+I don't know your sanity, whatever that is.
+Or like do one extra stat.
+But the point is that like in the beginning I could stab like 7 times and then by the end I could stab like 8 times and that was like the difference that it made in a single turn and so got an extra 4 damage in.
+40:54
+As well and all those stats, those stats do help you like when you're going to little events, it's rolling against your stats and so you got to stab more.
+But also if you were like trying to jump over something if there was some random event was like tried to leap and grab the rope that the man's that the corpse is hanging from I didn't have.
+41:15
+To climb up a boulder and I was successful, but I, it didn't tell me like what my role was.
+It just said you succeeded.
+I'm like, cool, there's an.
+Option.
+There's an option to tell you the math, which I enabled recently.
+It's kind of hidden and I enabled it thinking it would do something else.
+41:34
+But then I was like, oh, now it's showing me like the actual like check like, oh OK, that's kind of fun to know.
+Apparently it's a roll under system, which I didn't.
+Yeah, I saw that.
+And I was like, hey, wait a minute, I have enough strength to pass this thing.
+What's the deal with this number?
+Like I was trying to work out the math like this math seems backwards.
+41:51
+What is the roll under system for?
+Those who instead of Dungeons and Dragons where like, you know, you're, you're rolling a dice and then you're adding something like you're, you're trying to hit a, a, a target number and like higher is better.
+It's that, hey, you have a score, you have a strength score of eight.
+We're going to roll a dice and we're going to hope the result is under 8.
+42:09
+We want it to be, we want the lower, the lower is better, which is, I mean, similar to the Call of Cthulhu role-playing game system is the most direct comparison, which I I wouldn't have guessed because so many games do it the other way around, like, Oh yeah, the higher my number is.
+Everyone knows you know that is better.
+42:26
+How do we feel about, I want to ask about like the kind of random event system that crops up.
+So like you are, you know you're going to investigate the seaside, you're going to investigate the hospital, do something random event card will pop up and you'll be presented with like 3 items of like you pick the red card or the blue card and the game doesn't tell you that like picking the red card will sacrifice like 5 stamina or the blue card will sacrifice five reason or something.
+42:53
+You only find that out once you picked it.
+Would this would this be better if it told you what the upcoming effect was?
+Yes, 1000% yes.
+This is my FTL has the same problem where you have to bring up the the stupid wiki with like, OK, here is the actual outcome for every single decision, because that's important information and like to be punished with the well, I haven't done this scenario before.
+43:18
+Therefore I have to memorize every single thing, try every option and then only then be able to select the correct thing or the thing that I you know, I that benefits this run.
+I think it's absolute dog shit to have the pick the blue pill or the red pill and you don't know what the fuck they do.
+43:34
+And so I just I hate that I hate it.
+I hate it.
+I'm going.
+To but I guess.
+If you were, if you were playing Arkham, poor the card game, all right, it would be thematic.
+I don't know.
+I'm going to soft agree with Will.
+I don't think that it should give you the numbers.
+I think that this is a, this is the kind of game where it, it doesn't necessarily benefit to have like you be able to calculate everything out, but I, I think it could be like gain or, or like if it just tells you what stat it's gonna be based off of or what it will look like.
+44:05
+This effects sanity.
+This is based off dexterity 'cause sometimes it's not obvious like like, well, I'm really good at dexterity, but I'm very bad at strength.
+Is this AI mean in D&D terms?
+It'd be like, is this an athletics or an acrobatics role?
+Like one of these is very good for me and one is very bad and I'm going to pick based off of which one I think it is.
+44:24
+But oh, I guessed wrong because it's, you know, you're doing a, a long jump.
+Is that, is that dexterity or strength?
+Like you could make arguments for either one.
+My vote for this is a soft disagree with Will, which is to say I think there is fun to be had in trying to suss out what the different options mean.
+44:48
+And, and generally speaking, I feel like I have a a a reasonably good sense when when I am presented with a new random event.
+Oh, this option.
+Option A suggests the way it's written and what it's and and the the subject matter in the context suggests that that is going to be me making a role and risking doom and option B is going to be me risking my stamina.
+45:13
+But I I realize that that's that's you know, well, OK having.
+To contend with different type of example, you're on the shore a a fisherman asks you for some help falling in the Nets.
+We.
+We.
+Oh yeah.
+Agree to help them or leave?
+45:31
+What does he mean?
+Does he have exposed?
+Does he have exposed gills and fish hands?
+Or if you leave, does that increase doom?
+Does that hurt your sanity?
+It's been my experience that leaving when leave is an option in a in a random scenario random event.
+45:49
+That generally means that you can get off Scott free and you can just leave the event.
+No risk, no harm, no foul.
+Gone.
+I would have to double check.
+What comes to mind is a scenario where like there's like a ritual going on and it's like partake in the ritual or just leave.
+46:08
+And it's like, well, presumably partaking in the ritual is going to involve an attribute role of some kind.
+I'm going to not risk it because I'm, you know, dangerously low on, you know, whatever health or reason I'm going to, I'm just going to take off.
+But.
+Here is correct.
+If you decline, you lose 2 stamina.
+46:24
+Is that is that?
+Are you reading from a specific example?
+Daily catch Seaside event decline.
+There's something definitely wrong with the men.
+Their perpetual squints and callous hands scare you, you scream apologies as you run away from the boat, and it's weird crew -2 stamina.
+It is automatically -2 stamina.
+46:39
+There is no role.
+Interesting.
+All right.
+Well, yeah, that was that was the one that specifically got me.
+I was like, what?
+What?
+How was I supposed to know that?
+It looked like spooky dudes and I was like, I don't know if I have the the the power to help you right now, my dude.
+46:55
+In in your specific, In the specific example, what?
+What happens if you do?
+What are the mechanics behind accepting to if?
+You accept it's a strength check.
+If you succeed, you get 10 experience.
+If you fail, you get -1 stamina and -1 reason.
+See this.
+Is where I think like if those options were like, or at least like give me the option, give me the option to turn that stuff on.
+47:16
+And then that way I can make the informed decision of like I have like my doom meter is really high.
+I don't know if I want to risk pushing that up any higher.
+Like maybe I'll, I'll do I'll do the the charisma check instead and see if I can pass that and then oh, I'll get 10 experience.
+47:33
+Otherwise I'll take like 2 stamina damage or something that like I feel like if I knew what the options were, then like that gives me as the player like more informed choice as opposed to like, well, I don't know, like instead of like kind of more role-playing it where I feel like if you didn't have those options, it's just like option AB or C, That's where it becomes more kind of like that.
+47:54
+Like, I don't know, casual party atmosphere of like, I don't know, crowd chat, which chat is this real?
+Which one of these are we going to pick?
+Well, I guess to to to further answer the question, as a long time fan of of horror role-playing games and specifically the Call of Cthulhu role-playing game, I, I appreciated those opportunities to try to kind of guess and and make what I thought was an informed decision.
+48:23
+It is disappointing to hear that that that scenario that you just that that specific event that you just read through Colin is written in that way That does feel a little.
+I think that one counterintuitive.
+That one stood out to me because I was very, I was, this was near the end of my the run that I failed and I was like, boy, I don't have two stamina to lose right now.
+48:45
+I don't want to take a risk, right, right, right, and.
+If you knew the outcome there too, there'd be no reason to ever leave because on the one, because if you accept, then you have just basically a check.
+And then the negative case is that you lose 1 stamina and one reason.
+And like in general, like you're still losing 2, but it's kind of, you know, split across your resources.
+49:03
+So it's like, yeah, you're always going to take the chance that you'll you'll get a pass, right?
+So that's why they don't tell you, because they realize that their options suck.
+Well, OK, I mean, I wouldn't have gotten that far, but I mean, I I appreciate in some ways, like yes, you're like, like it's more fun if you haven't had all of these, if you don't have all of these memorized.
+49:25
+Like it, this is a true like, I don't know, like are they good guys or bad guys?
+What's going to happen?
+Like there's some there's some fun to the randomness of it.
+And I'm not, I don't have no autonomy as a player.
+Then it's basically like, why not just have a monkey sitting here pushing buttons and randomly selecting things?
+49:42
+It's the same, sort of.
+I, I think the, the, the counter argument is that, and I'm not sure if this is, if this is a good thing is like, Oh well, you'll just like, you'll see those random events pop up enough that you'll just remember what.
+No, I don't like that in that situation, which I'm like, I don't know about that.
+50:01
+Cause like it, it feels like there's a, a good amount of variety with the random events that pop up because like, and, and, and they're thematically locked too.
+So like if you go to the forest and investigate stuff there, there are like forest specific events.
+It's not like you'll get like school related random events that happen in the forest kind of deal, which I appreciate.
+50:20
+I think that's a good idea.
+But then like you start to see them more frequently.
+And then I'm like, Oh, it's the thing where I got to climb the boulder again.
+Well, I know that this is a dexterity check under the hood just because I've seen this like three Times Now, but the fact that I've seen this three Times Now and I've kind of memorized what this event is, I don't know, I feel conflicted about it.
+50:41
+Where I'm like, should should I like have seen that numerous times.
+I guess like you can't really get around it with only I.
+I think there's like there's something like 180 some random events and some of them are gated behind like card unlock packs, as it were, where like there will be like groups of these events that like unlock after you complete certain achievements in this game.
+51:11
+There's a lot of stuff actually that unlocks via that same kind of system, but I don't know, I felt conflicted that like, oh, like it's this event again.
+Is, is this just like, how do you balance that variety and like make sure that the player experience is like, Oh yeah, I'm just not seeing like the same 10 events over and over and over again, but still like keeping it fresh.
+51:34
+That that's where I think that like this, this is like a really hard system to do.
+And that like something like Wildermouth was really good because like the player characters themselves were randomized.
+Like the the way that like the procedural writing was done in that was very good with like like inter interpersonal relationships was like another add on element to it.
+51:56
+We're like, yeah, some of these events that you've seen before, like are kind of like bespoke and and and wrote and you've seen it before and everything, but like, there's other stuff going on.
+Where how your characters interact with those events it changes how it feels.
+And for how like, for how like artistically well done the characters are in this game, I I'd never really felt super attached to them or like I've never really.
+52:18
+Like kind of your your allies.
+They're they're they're disposable resources and it might feel a little bit bad to sacrifice them in certain situations, but that's what you got to do.
+My attack dog is not my attack dog is not disposable, he says.
+Woof, woof.
+And I would never give them up for anything in the world.
+52:36
+I'd rather take the stamina damage and let Cthulhu.
+Reign supreme.
+Well, which to be clear, I'm I'm kind of making a bit of a joke to be clear, I think the worst thing that can happen to your your your allies.
+I don't quite know all the insurance and outs of the allies system, but like you can you can use them for like 1 bit of damage and like the attack and then they're gone.
+52:55
+But I don't think canonically they die per say, but they can get killed in combat.
+I.
+Think yeah, those are their support moves and there's defence and offense and so I believe it's one of the the support moves.
+You can have them distract you and if they distract and they fail then they get eaten or.
+53:11
+Whatever.
+That's right.
+That's right, indeed.
+But I guess, you know, just because we haven't mentioned Slay the Spire yet this entire podcast, Hey, why?
+Why not?
+I mean the event system there because there is there are a lot of repeats, right?
+But like, but still 1 and they and they tell you the outcomes and like, and, and if there's enough variety there and enough structure around what's going to happen with the the most, you know, the most, you know, random being like, here's a spin the wheel, click a button and it spins like that's the most random 1.
+53:40
+Otherwise it's like, oh, do I want to take this chance that I, you know, that to, to, you know, or to, to keep trying to dig, you know, dig into what?
+I don't remember what the exact thing was, but you, you kind of you sacrifice health for a probability of getting a relic and that probability goes up every single time.
+53:58
+And it's just like, Oh, well, that is a, you know, it's.
+It's.
+Very run dependent on whether or not you want to make that a sacrifice, especially, you know, depending on where you are in your run, the proximity of health items, how much health you have anyways.
+This this kind of reminds me of Hand of Fate in a way where when you are going on a run in that you are actively like building out a deck of encounters that you are progressing through.
+54:24
+And that that game, like I think does drip feed content really well where it's like, here's an event.
+Yeah, OK.
+It's like this goblin thing.
+You've seen this goblin thing 10 times already, sure.
+But it has this juicy little unlock nugget tied to it.
+If you just do this one little condition, then that'll unlock some other little thing in the game.
+54:41
+Like I just, I got to get that dopamine hit of unlocking the stupid goblin quest.
+I feel like what could be, could be good for World of Horror is maybe something similar where instead of like, you know, having all of the event options available for each of these locations, maybe you're building out a deck of all right, I'm going to put in like 3 encountered cards of this type into the school, 2 encountered cards of this type into the forest, one for downtown.
+55:12
+And then you kind of know what to expect ahead of time.
+Maybe you'd have to up the risk reward a little bit in that in that sense, well.
+That way you have the you'd know if you need the item like there.
+You need a screwdriver in this event to get this special thing like.
+Exactly.
+Yeah.
+And I think like coming back to Slay the Spire, I think the thing that I was thinking for Slay the Spire was the combat where the enemy is like, you know, here's what they're going to do.
+55:36
+Like they will do one stamina damage every time they attack you.
+And I felt like it didn't really mix it up enough where it was like, OK, like are they, and I know that like the little the text scroll at the bottom says like, oh, they're going to wind up for like a special attack or something.
+But it it didn't seem that obvious.
+55:53
+I don't know.
+It felt like if it was, you know, you know, slave spiders, the king, the the king for a reason.
+Like if it was maybe a little more telegraphed of like, OK, this the enemy is going to be using a debuff.
+Now how am I going to react to that?
+Like the enemy is going to planning on using an attack next.
+56:10
+How am I going to plan for that?
+Like it feels, it feels like those options are kind of there, but maybe just need to be tweaked in some little way to make it a little more reactive.
+Yeah, No, I, I, I completely agree.
+I mean, and now that we're talking about combat, I mean, I, I think that I think this is where the thing where it like at harder levels of difficulty or with some other characteristics, there might be reason to do something other than the primary Strat.
+56:35
+I think it was during the, the tutorial where I'm like, OK, let me try everything.
+And basically for the listeners out there, most options are like, Hey, improve the probability that you hit lands.
+That's pretty much, you know, you can sacrifice experience to do it.
+You could, you know, and, and you could do like small ones that you know, don't take up too much speed and speed is essentially your action points for the the turn.
+56:56
+And so basically what I found during the tutorial is like all that stuff is like does not increase the expected value of your hits.
+Like the best thing to do is just to take the the smallest, the most basic move and just fucking do it over and over again.
+So here I am stabbing Mcstab stab and I'm fucking just stabbing absolutely everything with all of my stamina and not doing anything else.
+57:15
+Like there is something to like investigate the enemy and like it tells you like what their weak point is.
+It's like, oh, they're weak to magic or they're weak to fire and I'm just like, I, I don't care about that.
+I'm.
+Just going to weak the stabbing.
+I'm just going to stab Yeah.
+And that way I don't worry about reason as a resource.
+57:30
+And also.
+Will, to paraphrase something you said about Barony that that game also provides you with a bunch of different options.
+Here are a bunch of different magical spells that all these different things you can do to the enemies.
+The only thing you want to do to the enemies is you want them dead, right?
+57:48
+And it's the same thing goes in this game, generally speaking with with some some edge cases.
+Yeah, I mean, if you could like target different parts of the body or like, you know, if it's a vampire, I don't know, like.
+Well actually I feel like, I mean the heart is the one that you do have to fight different because they absorb health from you.
+58:08
+I was not able to put out damage fast enough to beat the vampire easily, so I had to do dodge, punch, punch, punch, dodge, punch, punch, punch to make sure they didn't hit me.
+Yeah.
+Everything else I didn't.
+I didn't have a fancy knife.
+Yeah.
+You just had a friend that let.
+58:24
+You get the weapon just in the environment, there's always that option to spend like half your action points to be like, hey, look, there's a baseball bat or like, hey, look, there's a crowbar like.
+I had, I had those things, I had AI had a, a something and it was less good than just kicking.
+You got to get a new thing and you get a different thing.
+58:42
+Well, I didn't realize that just looking for things on the ground was going to be the best way to find items.
+I am surprised that you didn't come across any piece of equipment.
+I did, no.
+I did find stuff like I had a bat.
+It just wasn't, but I had.
+Also had one ally that let me do one more damage.
+58:58
+Plus the base.
+Kick attack or punch attack or whatever.
+And I calculated it all out and I could do that three times.
+I did 3 damage.
+I could output 9 damage per round and that was usually my best Strat and maybe I didn't realize.
+59:13
+The North Star punches there.
+There you go there you go my I I I generally agree that it it it seems like there is a oh, there's a game design term for this.
+It's completely escaping my brain A a dominant strategy.
+59:32
+There we are a dominant strategy of just attack as many times as you can and and there you go that that does seem to maybe be too present of a of a of a of a strategy that exists.
+But my bigger problem, I think, with the combat is for me and tell me a few gentlemen agree.
+59:55
+It's very difficult for me to tell what is happening once I execute my attacks.
+Yes.
+I have no idea if I'm hitting, I have no idea if I'm missing, and if it weren't for the the text that comes up and tells you and just spells it out, I wouldn't know what's happening.
+1:00:11
+It's really subtle, but like when you when you miss, nothing happens When you hit there's like there's like AI don't know how to describe this, like, like a like a vignette of like little black spikes around the image.
+1:00:29
+And it makes it sound too.
+Yeah, it's like a pop or you know, something and and yeah, so it is admittedly like kind of hard.
+I I, I was confident throughout playing it.
+Like I'm sure there's something and like, and, and, and there's got to be something informing me of this.
+1:00:46
+But yeah, it's, it's, it's too subtle and it's not.
+And, and even if it, if you're at the point, which you gentlemen all are, of, of being able to read that when it happens and understand like, oh, that's a hit, oh, that's a miss or oh, I've been hit or oh, the, the monster missed me.
+1:01:02
+It's not exciting, it's not interesting.
+I don't think there's.
+Nothing like an animation or something.
+There, there.
+I don't think there's nearly enough feedback, visual feedback, in this combat system to make it that compelling, and I think it's probably one of the weakest parts of the.
+Pokémon style your character moves and then you see the like punch marks on them or something.
+1:01:23
+Sure.
+Yeah, totally.
+Like, and there's something similar to that when you get to a certain level of health, like you get so low and there's like a big blood spatter and it's like, well, like you almost, you basically have the assets already low.
+Health noise.
+Yeah, maybe.
+Yeah, maybe.
+But I I find the like the enemies look awesome in the combat.
+1:01:43
+The little introduction, the little intros, the black screen white text intros to a combat, awesome.
+The enemy artwork, awesome.
+The bespoke animation sequences that happened with some of the bosses, awesome.
+Music, awesome.
+Everything else about the combat is is a little bit weak in my opinion.
+1:02:03
+I do like the aspect of being able to save and load combat sequences though.
+For like, oh, that's great, yeah.
+For like once, once you once you figure out what the enemies like.
+OK, yeah, I can just like dodge then do the thing to like up my, my accuracy bonus and then attack, accuracy bonus, attack accuracy bonus, attack.
+1:02:26
+Great.
+Save it, load, launch, launch, launch, launch.
+You know, rinse and repeat.
+You can save sequences.
+Yeah, that's what the little.
+You you didn't see the little teeny tiny S.
+And L buttons.
+I didn't I didn't realize that either.
+And I actually I kind.
+Of OK, so that, that maybe that is part of my reason I didn't like the UI so much because I was like, I didn't realize that you could do that.
+1:02:48
+And so I was doing it every single time clicking.
+But.
+Now not not the doing it every time and clicking back and forth Did any of you this is embarrassing accidentally hit launch sequence Yes absolutely before filling the the I I.
+1:03:04
+Definitely hit it once when I had nothing there.
+Yeah, that's what happened to me.
+Once.
+Oh, that's interesting.
+I didn't know that I would like to do that.
+Or maybe I had like one thing in there or.
+Something, I can't believe it, that doesn't say Are you sure you don't want to?
+You have more action points to to use up or whatever.
+I think there's the foundations of an interesting combat system here.
+1:03:23
+And again, I think the combat would be way better if the animations and like visual feedback was more pronounced and exciting.
+But yeah, it's, it's, it's not my favorite.
+Thankfully it doesn't take that long.
+Like some fights were a bit of a slog, especially if you're manually inputting the same attacks over and over and over again.
+1:03:41
+But like I mean worst case scenario what a fight lasts 5 minutes maybe at worst at.
+Most.
+At most.
+At most.
+Yeah, I think like the like generally, yeah, the the combat, you know, felt different enough to be interesting and yeah, I think this was like there's stuff that could be.
+1:04:00
+I think like the reason why we're harping on it is because like there's so much like good stuff in this game that like, oh, if you just tweak like this one little thing here and then just made this a card based game with Slate the Spire everything in it, then oh, it would be really, really good.
+Yeah, I think that there's like, there's a lot.
+1:04:18
+So there's a lot in this game that like has done really, really well.
+And then like some aspects of it where I was like, should I just be playing Arkham Horror the tabletop card game instead?
+Tough to say.
+I would, I would say the reason to not play Arkham Horror the tabletop card game is because, is because of the other reasons that we've mentioned, like the art style and, and, and the writing and the music and what I think is an extremely compelling setting.
+1:04:46
+And and even if it's not that compelling, you have to admit it that it's at least extremely unique for this genre of video game.
+I will say that it definitely has a, a yeah, it's got the unique visual draw.
+I was excited to start playing when, when you picked this game and I looked up, I was like, that is I, I want to see what that is because it looks very different than most games.
+1:05:12
+It looks like what the when we played inscription, it looks like what the game that you're pretending to play is like.
+It's it feels like it got pulled from 1984 onto your screen.
+1:05:27
+One of my bullet points in my Google doc here, I'm scrolling back and forth on my phone with is.
+Is this kind of game set up or like this, this sort of like interactive format that we've been talking about for the past hour, like really the Act 2 for inscription that we really wanted instead of what we wound up playing?
+1:05:46
+Yes, OK, it was ACT.
+Three that I I had the most problem with, I think, but so yeah, two sucked as well.
+Two actually, no, two, nevermind, I take that back.
+You're right, 22 was the worst.
+Yeah, yeah, if they if they ever replaced 2 with this, but also in it kept the deck building combat and then just basically put that all together.
+1:06:04
+And now we're talking because then you got instant combat, which is my biggest gripe here.
+And also just fucking big buttons.
+Big colorful buttons everywhere.
+I just want to see.
+I just.
+Want to know what's going on?
+Yeah, what are the buttons is small.
+They considered upgrading to 248 million colors instead of just zero.
+1:06:22
+What if it was full color?
+I don't know if my brain could handle.
+That that's, that's, that's that's.
+What if they added just red?
+Interesting, I I don't you lose that manga.
+What if they had just exactly 1 frame where there was red in it and it never happened again that?
+1:06:39
+'D be that'd be neat that would have been fun jump scare for sure for sure yeah yeah, yeah, yeah.
+Well, that's.
+I'm glad I picked this.
+One more thing I want to I want to ripe on is the I think I talked about it a little bit before, but the unlock system, like how many, how many people here actually knew that there were like other locations you could unlock.
+1:07:03
+What do you mean?
+There's, you know, like you have like a bunch of locations around the town that you can go to by default.
+But and, and like they're, they're critical for managing systems.
+1:07:18
+Like this game has a lot of very interesting like system juggling between your stamina, your reason, your doom meter, your items, your funds, all that, all that kind of stuff.
+And you know, you go to the shop to exchange funds for items.
+You go to the police station to exchange experience points to like minimize the threat level at various locations.
+1:07:40
+And for money.
+Yeah, and one of the unlocks, for example, at at the forest, there's I think a like an option for you to unlock that you can, you can gain curses for money or yeah, you can gain curses for money, stamina or spells.
+1:08:01
+So like that's another kind of gameplay loop, you know, system that you can interact with, with all these different things.
+You can unlock an area of the school where you can like buy spells and perks and stuff in exchange for raising the doom meter.
+The seaside has one that you can spend funds, stamina to produce doom.
+1:08:21
+And then there's like a like an illegal weapons den at the seaside that you can get like more weapons and allies from.
+And I was like, oh, these all sound like really cool stuff like what do I got to do?
+Or like, hey, how did I miss this?
+And then B, what do I got to do to go get it?
+Like you unlock them by doing by getting achievements.
+1:08:41
+So like having 20 or like 20 plus cigarettes in your inventory or like winning with 3 allies, you know, in, in your party or stuff like that.
+And I found it to to be like, oh, I wish I knew about this sooner.
+1:08:57
+And I wish that like it was kind of more upfront about it 'cause it seemed like a lot of items as well were or like items and like those event card packs I was talking about before kind of gate kept behind these achievements.
+But I didn't even know that those existed until like a day ago or so.
+1:09:13
+I mean, I feel like I'm OK with that.
+Like there were enough things that were happening in the the time that I played that like I didn't, I didn't need more items yet.
+Kind of stuff like I didn't even get the butcher knife or the the chef knife or whatever you guys had that you were slicing zombies with.
+1:09:34
+So like I don't know if I needed the immediate like you figure that out eventually.
+Like I'm assuming that there's unlocks in every game we play at this point and that they just happened at that.
+It doesn't need to hold your hand to show you where they are.
+1:09:50
+Especially in this kind of game where it kind of feels like it's, it is literally a mystery game, so.
+Yeah, I guess that's that's a good point.
+You don't want to overwhelm it too much too fast.
+So.
+So that's my criticism piece a a positive piece part of this.
+1:10:07
+Did we already talk about the music?
+I mentioned it very briefly, it rips.
+Yeah.
+It was.
+Fine.
+I'm I'm pretty much in the I'm pretty much in the Andrew camp of like this game.
+This game's like chiptune, like Game Boy, like classic Game Boy, chiptune soundtrack didn't nearly need to go as hard as it did, but it is it is quite something.
+1:10:33
+And yeah, I was, I was trying to find out what soundtrack piece to play the episode out with.
+I'm like, gosh, there's, there's like way too many good ones.
+And like all the combat music in this game is like super tense and just like, like, I don't know what sort of it's it's it's, it's like those things that you open up like the keygen hack music with.
+1:10:56
+And it's just like, so it's so perfectly aligned with like with the, the, the theme and the aesthetic of the game where I'm just like, yeah, this is this is just, it's so perfect.
+It has been stuck in my head, like in a positive way, yeah.
+1:11:14
+Do we know?
+Right, I'm wrong.
+I'm wrong.
+The music is good.
+I was just, I was just listening to it again.
+I think that like the one time that I was annoyed about something and I listened to the music, I got annoyed about the music.
+But now that I'm listening to it again, I'm remembering the songs.
+I'm like, oh wait, no, they're good.
+All right, all right.
+Very good, very good.
+1:11:29
+We will accept your modified vote on that.
+Here's how good I think the music is to pay it further praise like it's it's perfectly catchy and like spooky at the same time.
+There are some specific tracks like when you go to the store, which is a little more upbeat and that's like provides a nice little respite from from the world of horror around.
+1:11:55
+You and and and very importantly, the store theme has a dog barking sound effect in it at one point.
+Where's the dog?
+So can you pet it?
+But to be clear, you know I don't.
+That's a great question.
+Can you pet the dog Ally?
+I bet you it would be bad.
+1:12:10
+I bet you the dog would like it's Ted would RIP open and it would.
+Swallow you right and you'd gain like an injury, like missing fingers or something.
+No, but what I was going to say is to pay the game the game soundtrack.
+One more compliment.
+I had every other sound source on my computer off the entire time I was playing this game.
+1:12:29
+I wasn't listening to a podcast.
+I wasn't listening to music.
+I was focused in and enjoying the the experience which included the Moroccan tunes.
+Which do we know if the solo dev did the soundtrack or who?
+Who's responsible for this?
+1:12:45
+Will's not into it, but I'm going to say, you know, low key masterpiece.
+I mean, unless we're talking some bebop jazz from the 19.
+I thought you only liked hard bop Will.
+No hard bop, it has its place, but mostly, mostly.
+1:13:01
+Just the bebop.
+Mostly it's places off of your playlist.
+No.
+And we're going to, we're going to get to a game one of these days with a proper jazz soundtrack.
+And I I do look forward to that day.
+I I have an answer in the music.
+The music.
+So this is a solo development game, but the music was done and by Sebastian Garroslaw Zibowisky.
+1:13:24
+For some reason I think Garroslaw sounds familiar.
+Joseph and Joseph Cuesta Bailey.
+I want to say Garoslaw is like a chiptune artist from like where's he's game?
+From where's the developer from?
+Are they from Japan?
+Yeah.
+They're from Poland, the developer is.
+1:13:41
+Do you believe it?
+They're just poli.
+They just appreciate, yeah.
+Which, hey, hats off to Polish, you know, game development and, and and and hats off specifically to this developer proving that Polish folks are the are the biggest weeds of all.
+1:13:57
+We've all, we've all been dethroned.
+Interesting.
+Well, I'm sure, yeah, I'll have to look into these artists.
+I don't recognize their names on the top of my head, but I wouldn't be surprised to learn that Oh yeah, they they did several other game soundtracks that are amazing.
+Yeah, it feels like that was a.
+1:14:16
+Pause before the power goes out.
+Yeah, my power's flickering so hard right now.
+The doom meter.
+Is almost my second monitor flickered off a couple minutes ago.
+And you know why Garros Law sounds familiar?
+Do tell.
+They did the sound, they did the soundtrack to * Providence's way.
+Excellent, excellent, excellent.
+1:14:34
+Yep, that Well, that explains it.
+Speaking of Speaking of Hoover is wow, that's that's good stuff.
+Very most impressive Rock'n'roll.
+Hey, I'll, I'll start us off gentlemen.
+So the first I heard about this game was at PAX W.
+They had a delightful booth with demo playing of this game.
+1:14:53
+And the demo they had, they had gotten the husk, the corpse of an old ass computer from the 90s with like the horizontal, you know, case design and the monitor on top.
+And it was playing a demo of this game and it was it was very evocative and striking.
+1:15:11
+And, you know, of course I saw the art style and was like, wow, that's so cool.
+Wow, this booth is neat that it's like a period piece booth.
+I've been unable to find any photographs of this booth.
+So I'm starting to wonder if this is in fact, this memory is some kind of a false, you know, horrible eldritch terror from beyond space and time has implanted this this knowledge into my brain.
+1:15:34
+But the moment I laid on the eyes on this game, of course I was drawn in and I thought, I'm going to have to check that out one of these days, by golly.
+But arguably what kept me away from it is that I don't really like point and click adventure games.
+I don't really love visual novel games.
+But this game to me for my FPS meathead, you know, perspective from from that perspective, this feels like a point and click adventure game that doesn't have those hard stops, those like hard game over screens.
+1:16:03
+Like you can technically like fail the investigation, one of the five investigations and continue playing.
+Like I was playing through and I got a very bad ending where a bunch of people like got killed, but it was technically the end of the mystery and I did quote UN quote solve it.
+1:16:20
+So I love that, that there wasn't like some.
+Super, yeah.
+Well, I, I, I appreciated that failure was interesting and that the game could continue even though I had failed at whatever, you know, particular activity and that unlike some point and click adventure games of your which I realize this isn't exactly like that type of game, but it's similar there.
+1:16:43
+There isn't just one hyper specific solution.
+There are multiple paths through the, the endings of these different investigations and, and something else.
+You know, aside from of course the great aesthetic, the great audio, the great setting, the feeling like I'm playing a Call of Cthulhu tabletop session.
+1:17:07
+In addition to all those things, something that I I really like about this game was the different stories that emerged.
+I'm looking for those organic rogue like story situations.
+And in the last 24 hours or so, we've been having some conversations on Discord and I was struck by all the different experiences and stories that we each experienced that we each had.
+1:17:27
+Colin, you were complaining.
+Hey, everybody's talking about having weapons.
+I didn't have any weapons.
+All I had was a bunch of my friends.
+We had to run around kicking people to death.
+Will was of course, you know, had the, the experience of being a CQC steak knife specialist.
+For my part, I was a, a cleaver wielding, mask wearing warlock, casting spells and doing melee attacks.
+1:17:50
+And Scott was from what I can tell, just palling around with a dog and and Dwayne the Rock Johnson, who is one of the allies that you can recruit at one point in the game.
+I think this is a a really incredible and unique game.
+I think a sequel to this would be amazing.
+1:18:07
+I realize that is incredibly unlikely given the the circumstances surrounding the development of this game and how niche it is and and for a myriad of other reasons.
+Anyway, Long story short, 7.87 overtaking Into the Breach as my new number 10 game.
+1:18:25
+I'll go next because my power's flickering hard and I don't know if we'll make it to the end of this.
+Go, go, go.
+No.
+Probably will, as I say that it flickers again.
+I maybe do not appreciate a story as much as Andrew does.
+1:18:47
+I appreciate that this game, this game feels like something that really it was.
+It was a huge swing, like the developer was not just I'm making like, oh, I'm trying to get a single.
+He was like, I'm going for a home run here.
+1:19:03
+I'm either I'm making exactly the game I want.
+I'm going to swing as hard as I can for it.
+And for some people that will hit really hard.
+For me, it was mostly a miss.
+I really like the look of it, but I didn't super enjoy playing it.
+1:19:21
+It never it.
+It hooked me, but I wriggled off the hook quite quickly so I'm giving it a 6.2 mostly for the the aesthetics alone.
+Like it's got such a cool aesthetic.
+1:19:37
+The the one bit pixel art spooky 80s horror manga vibe is like very very cool.
+I wish that it the you, you restricted some of that that vibe to just the like TV screen within your within your play screen and that the buttons maybe we're allowed to branch out a little bit more from the style or the UI or just some like like some modern game design features, hover over tool tips kind of thing.
+1:20:14
+I think would have helped a lot for getting over that initial hump of of learning curve.
+And then maybe something about the combat, I think.
+I, I didn't find the combat to be particularly enjoyable and I don't know, story stuff.
+1:20:29
+I it it, it adds something, but it's not necessarily what I'm looking for in a rogue like game.
+A lot of the tests that I think about when I'm playing games is if you took away all theme and just had this as like a pure numbers game, would it be a fun game?
+1:20:46
+And the answer for this is absolutely not versus something like Sleigh the Spire.
+I could play Sleigh the Spire with no visuals only, only like numbers in a, like Windows text file and still be like, oh, these decisions are interesting.
+1:21:03
+And therefore, like pick #1 higher than #2 like, oh, that's a hard decision.
+Do I want A or B versus?
+I don't think that this game would be fun if you took away any of the aesthetics.
+So that's my score.
+Yeah.
+Who do you want to go next?
+I'll have you go next.
+1:21:19
+Already.
+Yeah.
+So I, I don't like horror.
+I never have.
+I I don't, I'm just, I'm just not that kind of person.
+So I don't watch horror movies.
+I don't play horror games.
+I didn't realize there was such a thing as a horror game, to be honest.
+Actually, I guess I'm, you know, tangentially aware of them.
+1:21:36
+I've just never gone in and played them.
+But this one, yeah, it's a it's got a great aspect.
+I think, as we've all said, very interesting design.
+And I like Andrew said, all the the enemies when you're actually looking at dudes and they had their very unique with the way their faces are like shredded or, you know, wearing masks and they're all very grotesque and there's very much an eeriness to them.
+1:22:02
+So I I really appreciated that.
+I don't give a shit about story.
+I never, I just can't.
+I mean, I can, but it just, it's not, this is not going to do it for me.
+So that's that's yeah, choosing options when you don't know the outcome, just like FTLI, just I just can't stand it.
+1:22:17
+I think it's like the worst decision for a game.
+Takes away all the strategy and otherwise.
+Yeah.
+So it just feels like a random things happening.
+Of course, due to my extreme skill, you know, of course I won no matter what.
+I think this identifying the stab method that just repeated stabbing or like right away like that just made it so that the, you know, the game was on easy mode.
+1:22:37
+But I really wanted there to be more diversity.
+I wanted to be more interesting things, viewable UI, all those things.
+This game, I appreciate that it was not a real time that I could sit and scratch my beard and ponder every step if I needed to.
+1:22:54
+So I always like that in the game.
+So that's probably how what got it up to this level of a 6.5 out of 10.
+So at 6.5 it's going to be right next to Griftlands, Streets of Rogue, right below dot H, Cult of the Lamb, and just above Barony.
+Yeah, I'll, I'll bring us home.
+1:23:11
+Here it is a is a quite dark, quite stormy night out here in the Seattle area.
+We have a bomb cyclone out in the Pacific with one of the lowest ever pressure gradients ever recorded.
+We do.
+We have a Cthulhu God in our mists.
+1:23:28
+So I think it's appropriate for me to rank this game reasonably high.
+Yeah, this this is going to roll in as a 7.84 for me.
+And the extreme specificness is because it's splitting the difference between one way heroics, another kind of solo dev Japanese wackiness game with all sorts of interesting ideas behind it.
+1:23:49
+And I'm putting it just slightly ahead of Wildermouth because I I like that this game is faster.
+I like that this game is is just like it.
+It can it can zip.
+It doesn't feel like it's overstaying its welcome too much, and it feels like there's a good amount of variety to it.
+1:24:04
+I think, you know, we we've all kind of talked about the aesthetic to this game.
+This is a game that looks like no other, and I'm glad that it is so, so unique in that regard.
+The music I think we've pointed out also kind of ties into into that aesthetic as well.
+1:24:20
+Like the visuals are great, but I was yeah, I was turning up that Steam Deck music pretty good for some of those combat encounters.
+And to find out that it was done by the same guy who did start of Providence, then that just makes it even better.
+I think there's yeah, there's definitely like stuff that this game could be improved upon.
+1:24:38
+But I think like I was having fun every time I was playing it, even if I knew that like situations were doomed, I was so kind of interested to see like, all right, what what's the death sequence for this one going to be?
+And I feel like that's always kind of like a fun thing to explore.
+Like, you know, oh, am I, you know, if I die to this boss here, am I going to get impaled by like, these giant, like, noodle arms or something?
+1:24:59
+Like, I felt like that was a fun kind of element to it.
+And yeah, I'm not, I'm like, I'm not a big Cthulhu IP kind of guy, but I think it works really well in this setting.
+Like it I was watching review videos for like, Arkham Horror board games that I never in a million years thought I would go back to.
+1:25:18
+But I'm like, huh, you know, maybe I should kind of give give this sort of design AA second look.
+So yeah, I think great, great story overall, great artwork, lots of good mechanisms that tie into each other very well and pretty streamlined.
+1:25:35
+Like I think like all this stuff kind of kind of works in this game and everything kind of ties well together.
+So that's going to put it, yeah.
+As a 7.84 just behind one way heroics just ahead of Wildermarthon my rankings and yeah, that's gonna that's gonna do it while my cell phone battery is still holding out for world of horror here.
+1:26:00
+Oh no, yeah, wait, hang on, I gotta do similar games here.
+What am I doing similar games?
+Yeah, like it's it's hard to find games that are similar to this because this is just so unique.
+But you wouldn't think there would be another rogue rogue style one bit Japanese or like Asian Cthulhu horror game out there.
+1:26:21
+But I think this is like the second or third time I've recommended this, But I don't know how you say this.
+Fung Tang simulator, FHTAGN simulator again, it's kind of like Luckbee Landlord meets Cthulhu Mythos with a very kind of one bit graphical aesthetic to it.
+1:26:38
+Very, very interesting.
+Some others that I'll throw out here.
+One bit Survivor I think was adapted from a mobile game, another kind of one bit aesthetic horror kind of game, but more of kind of like a top down shooter.
+Gnosia.
+1:26:54
+GNOSIA is is one that we mentioned that was also published by Playism.
+That one I think is more of a like traditional put and click adventure game rogue style but with cyberpunk type elements to it.
+1:27:10
+There's a game called, I don't know how the SEO for this works, but a work of art that you should check out on Steam that I think fits into this.
+There's one called School Labyrinth that might also be interesting.
+There's a game that way back when I almost had a talk about called Monstrum, which is is a fun idea.
+1:27:31
+And then there's, I think I've mentioned this one before, but Lobotomy Corporation leans into that kind of monster management simulation Cthulhu Mythos as well.
+So give those a look for similar games to this if you if they such a unique kind of game, finding similar ones really hard this week, as it turns out.
+1:27:51
+But we're going to wind it down now as my battery just crosses the 29% threshold and it starts going down even further.
+Our socials that you can find us on, you can e-mail us at grogpodzone@gmail.com.
+We get a lot of really good emails from people that I read all of them and we've I've needed it this past couple weeks just to kind of get through the week.
+1:28:14
+So thank you for sending in a lot of good correspondence about feedback on the show.
+And like we, we get so many comments on on, you know, YouTube and e-mail and Spotify and things of like people loving what we're doing.
+So keep sending those in.
+1:28:31
+We'll we'll try our best to keep making a reasonably good podcast.
+Mastodon Grogpod a game dev dot place is where you can find all that stuff when I have power to post on there and Grogpod dot zone the website with all the rankings and stuff.
+All that out of the way, we're down to our last episode of the second season of Rogue podcasting that we've been doing and what better way to end a second season with a sequel to a game that we've played previously.
+1:29:00
+We are returning Colin already.
+I've already spoiled spoiled this for Colin, but we are returning to the planet Petracore 5 for Risk of Rain two, one of the most popular, highest rated rogue games that's out there.
+1:29:18
+I think this will be a lot of fun.
+I think the the change up from the 2D platformer to the 3D shooter style will be very interesting.
+This is a game that I have have put some time into already, but I'll see what what other folks reactions are and I'm going to try to to see if we can get a four player split screen Co-op going on the couch at some point.
+1:29:47
+But but yeah, that'll be our game for next week or next episode.
+Risk of rain to but yeah, to play us out from from this before more trees land on my roof.
+Here will be some spicy chiptune combat encounters as the lighthouse summons the end of the world.

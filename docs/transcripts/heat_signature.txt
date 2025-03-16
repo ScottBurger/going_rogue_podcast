@@ -1,0 +1,1367 @@
+0:17
+Music.
+0:33
+Happy Space Halloween and welcome to the Grog Pod Roguelike podcast where each episode we come knocking at your door with a space pod, ask for some roguelike games to review and then dive out the nearest airlock to recap the best ones.
+The end of the year in the Omega Bowl.
+0:50
+I'm your barkeep at the Space Saloon.
+Scott Burger and brooding over their nebulonic Recta Genos are my Co hosts.
+It's me, Colin, man with a long sword and a concussive hammer, swinging his way through the starships.
+1:07
+And also me, Andrew Spaceman, harsh man.
+Well, this week we are talking about the game where you go inside the spaceships.
+It's Heat Signature, released September 21st, 2017.
+I believe this is a Steam exclusive.
+1:23
+I don't know that this is really any other platform.
+This was developed and published by Suspicious Developments, which I think for the most part is only a 99% Tom Francis endeavor.
+Well known game dev, but he has contracted in the past other folks to come in to help with art and other development and soundtrack and things like that.
+1:48
+So kind of a a small, small evolving studio endeavor.
+Tom Francis well known for his 2013 indie hit Gunpoint, which is all sorts of zaniness.
+A lesser known but I think worth calling out fun puzzle game called Morph Blade, which great title.
+2:08
+And then in 2017 and then also 2017 Heat Signature and this year drum roll please.
+Finally a new Tom Francis game with Tactical Breach Wizards having come out only a few months ago.
+Very interested to to play some of that more of kind of like an X commie type game with all sorts of the fun Tom Francis writing involved.
+2:29
+Heat signature crashes into our spaceship with on the rankings list of the number 141 most popular rogue club game with 7008 total reviews and your average player of heat signature has about 36 hours of gameplay in it.
+2:48
+Andrew, you have one sentence to describe this game before you are thrown out the air log.
+Well, good news in this game you can get thrown out of the airlock quite a few times before it's fatal.
+So I'm gonna have to put together a few sentences.
+3:06
+Let me turn the tables on you a little bit.
+The old switcheroo here, my description of the game is going to come in the form of a a pop quiz and it is a competition and you will be judged harshly.
+3:21
+All right, so this game is pretty unique, but it it shares some similar DNA to a number of of older games that I I have played.
+And but I'm curious which of these games you 2 have any idea about have ever heard of.
+3:38
+So I, I basically, I'm going to go through a list of, it's a short list of games and they get progressively more obscure and they're worth more and more points.
+And basically we're going to try to determine if you've not.
+It doesn't matter.
+You don't, You don't even have to have played these games.
+3:54
+I've played all of them, but I am.
+The quiz is whether you have heard of the following games.
+All right #1 Hotline Miami.
+Never heard it, No.
+Yeah, definitely.
+All right, fantastic.
+Any have you played it?
+Yeah, yes.
+All right, fantastic.
+4:10
+So thank goodness Whoo, I mean that's that's a Gimme, obviously, obviously all right, actually I should have formatted this better.
+Very bad game design on the fly.
+It's it's one point for if you've played it, one point if you've heard Ding.
+Ding, Ding, Ding.
+Ding and boom, Grand Theft Auto 2.
+4:27
+Played it.
+Heard of it?
+OK, Oh, we're starting to get there's a little bit of a gap forming here, all right.
+Syndicate Wars.
+Have not played it but I think I've heard.
+Of it, I played Syndicate, the game that was on the Mac.
+4:43
+Oh wow, have you played?
+That or maybe I don't even know if it was on the Mac.
+I mean, I played it at my friend's house, but I've watched him play it a lot so I'm missing.
+Mackerel.
+Oh wow, it's a toss up now.
+I think it's pretty I.
+Think it's pretty much neck and neck.
+Technically it's not.
+Syndicate is the first one but anyway.
+But I'm going to count it.
+4:58
+Lastly, have y'all heard of Lemmings Paintball?
+No.
+No, what?
+I played regular Lemmings.
+All right.
+Well, I'm sorry.
+I hereby tender my resignation from this this podcast.
+These so-called gamers haven't played Lemmings paintball, which is of course everyone knows the spin off of the Lemming series in which you play a lemming armed with a paintball gun and it is a top down shooter.
+5:26
+And it just so happens we are covering a top down shooter in this episode of this here podcast.
+Heat Signature is a space themed bounty hunter rootin tootin top down shooter with many a gadget many an option many systems that allow you to to have a fun to play in this this open world ish playground with a absolutely not optional pause the game at any time option.
+6:01
+It it may seem optional, it is not optional.
+I, I feel like it's so not optional.
+I almost don't describe it as a top down shooter.
+It's I, I think it almost in some, in some cases it's like a, it's a turn based game where the turns are of indefinite length and you every once in a while pause in order to to do your beard scratching.
+6:23
+Indubitably and that is a lesson that I had a hard time learning and it took me a full 8 hours to fully embrace.
+I think this game is presented.
+I mean, I feel like it's pretty direct, like hey, you should probably be pausing a lot, but I I, I couldn't help myself.
+6:45
+I wanted to play it in real time as much as possible and that way.
+Well, and also also the real time, even the real time part of it is in bullet time.
+Most of the, this is much of the, the during the much of the action.
+7:02
+So you're running around at full speed, but then you know the the baddies start pointing their gun and everything slows down.
+Well, crucially also, I only posted this at the 11th hour before we just started recording 'cause I was watching a bunch of heat signature like top level rogue glory 5 YouTube streamers running around doing their thing.
+7:26
+Like how are they able to just like increment their steps like step by step by step?
+Like there's, there's some other like game system here that I, I, in my, I don't know, 15 hours of playtime haven't seen before.
+And there is crucially an unbound by default option for a slow MO mode that is, it's similar in concept, but not not quite to one of the items in the game that allows you to like, you know, you you can, you can pause to like totally freeze time.
+7:54
+You can unpause and time is running normally.
+And then if you run around a corner and a guard looks at you time, it does go into the kind of slow down bolt time.
+But if you bind that thing to like, I don't know, control or something, then you can press control and then you can have that slow down mode going kind of the whole time, which is how I've been watching a lot of these streamers just like get get into like very tactical, like tight corners and just like walk around like pixel by pixel around like a corner to, to solve some of these puzzles.
+8:25
+I'm like, yeah, OK, that that seems like a a much finer degree of control and finesse than than your initially.
+You know what else this game kind of reminds me of?
+Sometimes is super hot because it's a lot of times it's like you're moving and then you're stopped and you're thinking and then like you turn on motion again and you're like all kind of moving in slow MO and you're always like faster on the draw so it's OK but.
+8:50
+Indeed, and now someone who hasn't played this game may hear this information, think well obviously this is an easy game because you can just you have complete control and agency over the passage of time.
+Incorrect.
+It is in fact the opposite.
+9:08
+The game is so difficult that in order to give you a chance, you are you, you, you have to have these options.
+Now here is a big right out the gate, I'm going to, I'm going to lodge what is probably my biggest complaint about this game.
+9:25
+The difficulty curve is rough because it is initially you.
+You do a tutorial, pretty good tutorial and the first maybe, I don't know, half dozen missions you do this, this, this pausing and unpausing doesn't really feel necessary.
+9:48
+You you are armed with a melee weapon that auto locks on that is basically guaranteed to one shot it.
+Well, it's guaranteed to one shot, but it's guaranteed to like clear out most rooms without, without much issue.
+And like you can just kind of run around very Hotline Miami style very quickly, but with, with with little, you know, concern.
+10:10
+Until suddenly my experience was I kept just hitting a, a brick wall where I'd be running through missions, running through missions, and then I'd go and I'd bonk a guy with a wrench and oh, it didn't work.
+He didn't fall down.
+Bonk, bonk, bonk.
+It's not working.
+10:26
+What's happening?
+And of course, it's a mechanic that I'm not understanding and and didn't quite didn't quite get.
+I don't I I get the sense from our offline conversations that you 2 did not have that problem.
+I think I can sympathize to some degree because I played, I played some of this game ages ago before like we started doing the podcast and I thought, oh, this is going to be a great candidate for said podcast.
+10:54
+I'm going to hold back until we actually get to it.
+And so I'm glad that Colin picked it for for today's episode.
+But but I seem to recall like, yeah, like, oh, yeah, it seems, it seems like, well, you are presented with an array of difficulties for missions.
+11:11
+And some of these missions are labeled as easy.
+Some are are normal or hard or mistake or audacious or things ludicrous.
+And I remember those easy missions being like deceptively easy and being like, am I missing something?
+11:29
+Like a lot of people talk about how, how great this game is, but I'm just going in and I'm just like bulldozing everybody through these spaceships.
+What's the deal?
+And I was like, legitimately like very timid and scared to play the higher difficulty ones 'cause I'm like, well, I don't want my character to die.
+11:44
+I mean, I've, I've spent like, I don't know, four or five hours playing with this character and getting all sorts of cool loot.
+If they get like knocked out, like that's it, right?
+But not so as I've realized, like in the game kind of pushes you and incentivizes you a little bit to play on the higher difficulties as as time goes on.
+12:01
+But the higher difficulties is where the fun is at because you are effectively you're presented with like a big array of gadgets and and like wacky things that like, Oh no, this and this enemy has Shields.
+What are you going to do to counter it?
+12:17
+And then it starts to become this chest tactics puzzle in space with guns where you're like, OK, if I can teleport over here and then swap positions with this guy and then put a trap down so when he chases me around the corner, he gets sucked out into space.
+And then I can like freeze the door behind me so they can't get through.
+12:36
+And then I can swap places with the pilot and then hack the hack the controls to yeah.
+The first, the first bit of the game, you're like, this is a game where you have a sword or a gun.
+And the second-half of the game is you're like the sword and the gun are instruments to are, are just there for me to to finish the the coup de grace after I use my elaborate teleportation time stream shield tricks to like crash all their Shields and do the yeah.
+13:10
+And it's just like, oh, and then I killed them at the end, I guess.
+But that's not where your the the tactics come in.
+And I think like I was doing something on this and I think where where I might be like interrupting Andrew here a little bit.
+But I think the the big issue that I have here related to the difficulty is that the game presents you with this big Galaxy spanning map or OK, nebula spanning map nebula very important that you have to like pick and choose missions of different difficulty to up this bar that you can then select which of the nodes to advance your meta.
+13:50
+It's like a, it's like a tech tree almost.
+Right.
+It's if I'm understanding the system is like you do so many missions and like more difficult missions are worth more points, I guess if you will, and then you kind of cash those in to liberate more of the Galaxy, right?
+14:06
+That's yeah, basically.
+It nebula, excuse you nebula, excuse me and which I got a call out real quick to interrupt you.
+This is is a top down game, a top down game where you can zoom out like forever like you can at any time zoom all the way out to see the whole nebula and see the whole arranged arranged.
+14:27
+It's not a star system, but like this in effect, like star system of of space stations and you can zoom all the way out and then you can zoom all the way back in.
+And the fact like the game is, well, I mean, it's probably some kind of a trick, but like seemingly rendering this whole, I'm going to say universe even though it's not accurate is super.
+14:48
+Cool.
+And I don't know if it adds that much other than well, yeah, I'm going to say that it adds to the sense that you are in space and that you are part in in this like, you know, massive, you know, infinite zone.
+And that's pretty neat.
+15:05
+But it but it anyway as as you were were saying Scott, sorry.
+Yeah, I think my, my thing about the difficulty.
+So I think like we, we, we should probably like jump into the, the, the intro sequence here.
+Yeah, yeah, yeah, yeah.
+Quick disclaimer, I acknowledge that the difficulty, the the hard missions are where the fun is.
+15:27
+I just take great umbrage with how badly the game introduces the difference the the the the different enemy systems that exist that you have to go over you You're I I felt like I was very much on my own having to having to pause the game and examine text.
+15:48
+And I really would have appreciated like the first time I encounter a guy with a shield it it stopping the game and going, hey, like this is what's going on mechanically.
+And then the first time I encounter a particular type of turret, going a this turret will.
+16:06
+Knock you out, maybe if it senses like this is the first time you encounter a guy with a shield and you shoot him in the shield six times in a row.
+You're like, let's pause and like.
+Or like, and there's so many of those.
+I mean, maybe it's that, maybe that's not, you know, realistic.
+I don't like a few of that.
+16:22
+Many of them, though, I.
+Guess I I I suppose that's true.
+I I mean.
+Not that, not to to say something against you, but to say something like it wouldn't have been that hard for them to do it.
+I I understand there's enough time.
+Yeah.
+Right.
+Implementing that would be doable.
+Yeah, yeah, yeah.
+16:38
+But anyway, yeah.
+What is the story Scott, tell us about the the story that they claim doesn't exist, but also exists?
+Like I feel like they're really on the fence about that.
+Yeah, I I feel like Tom Francis games, I feel like are well known for their their their snappy, like writing and interesting settings.
+17:00
+And in particular, like gunpoint is a much more like single player, like streamlined, you know, campaign kind of the experience.
+There's just missions that you go and do and there's like lots of more kind of like standard narrative driven dialogue to that.
+17:15
+Same with kind of tactical breach Wizards in a way.
+But this being roguelike game, I think kind of turns it on its head a little.
+So our story begins in heat signature with record scratch freeze frame.
+Yep, that's me.
+You are Sater fiasco or you you you are at a spaceship and someone gets hurled out of a a glass window out into space.
+17:39
+That's where the record scratch freeze frame comes in.
+And this character Sater fiasco her says this is not how I pictured my retirement.
+And I mean, who can who can blame her?
+Something that's happened to all of us.
+She she goes on to say getting shot over a nebula of battery acid in the ass end of nowhere.
+18:00
+But I'm invested now and there's one last thing I want to do before I quit.
+You get picked up by your pod and you dock onto a little tutorial ship that gives you this is this is the kind of idea of what he's he's signature is.
+And so you run from room to room clobbering guards and picking up key cards.
+18:19
+And I think this this re tutorial sequence is very good of like welcome to heat signature.
+This is what the game is all about.
+You go into a spaceship, you knock out guards, you pick up key cards and you do it in in a sequence such that you like knock a guard out, throw something, teleport an item from the floor to your inventory and you go and you knock out a pilot and you reprogram the ship that that's a pretty common mission design here.
+18:47
+And you have this kind of like dialogue sequence of satyr fiasco saying, you know, like, hey, hey, breaker some other NPC.
+I've I've got the ship, I've laid in the course.
+I'm going to throw myself into space now meet me in the bar if I don't die.
+And then you like you are instructed to break the front of the glass of the ship and fly out into space in this like sequence.
+19:09
+And I'm like, OK, you've sold me.
+And then your your character hurtling through space.
+The camera pans out and pans out and pans out and you you have this whole nebula of this constellation as interlinking star systems revealed before you.
+19:26
+Titles, Title drop Heat signature, Awesome intro sequence.
+Your your pod takes you back to this surly spacebar burrowed into an asteroid.
+And then that's where that's where you start talking with breaker Gemini, who is a defector from the foundry faction.
+19:48
+And you have some back and forth commentary with them about like, Oh yeah, it's it's time to start getting getting the crew together and start liberating some of these some of these space stations here in this year nebula.
+But as this tutorial goes on, you are you're taking into some extra practice modes that.
+20:06
+Have that grade you by saying like, yes, excellent violence for for completing this, this tutorial.
+I'm like, OK, that's great.
+And it, it very much tells you that like yes, pausing is a big part of this game.
+You run into a, a, a square room of three or four enemies and you're thinking, there's no way I can solve this.
+20:24
+I'm outnumbered 3 to one, four to one.
+There's no way.
+Whack an enemy, throw your weapon at the other enemy, teleport a gun from the first enemy, use the gun in the last one.
+Bam, go and fly the ship and that really kind of sets the groundwork for you are in for a snappy tactical infiltration game that has a lot of mechanics that will be revealed later and what I thought was going to be a lot more like story dialogue trees as well.
+20:58
+Yeah, that also is the end of the story.
+Yeah.
+And there's no more story after that.
+Point, that's kind of it 'cause you are dropped into said nebula, that's this is like your randomized play space, but and you, you have like a, a series of like 3 or like, you know, 4:00-ish bar patrons.
+21:17
+Those are your characters.
+You're randomly selected characters with different traits.
+Some might start off rich, others might have benefits with other factions like oh this person can teleport 50% further than than other people, things like that.
+Or like this person has discounted weapons or things like that.
+21:35
+I think they were all positive traits if I remember it.
+No, there's the one that is.
+You're blacklisted from buying things.
+You know what you've done.
+What?
+How do you?
+Can you even play that character?
+What?
+It's not that difficult once you get over the initial hump, but it is like you can pretty much loot all you need by playing through missions eventually.
+22:00
+Like you get most of your good stuff from that, but it is hard in the beginning.
+I believe it.
+I played one that was that plus they were like trying to do one of the other traits is like you're trying to not do violence or something.
+Can't remember what the name of it is, but both of them combined with super super difficult to do.
+22:21
+The the the traits are I think from what you're describing they they sound pretty significant, which I appreciate.
+It's really stinks when you the random character traits in a game are boring, but I don't.
+22:37
+I don't know if I encountered anything that interesting to be frank with my randomly generated OK.
+Here's the question How many people did you play?
+I mean like 5 maybe, and like two or three of them had the same like concussive weapons have infinite ammo, which like is is cool, but like when, when I, I I like the idea of, oh, teleporting further.
+23:02
+That that sounds like a much more interesting and significant change.
+Or like the black, the blacklisted.
+Yeah, you can.
+I, I feel like I got blacklisted like all the time, like an obnoxious number of times.
+But you can also you if you, when you start the game, if you haven't, if you find a person that you haven't played at all, you can just cycle them through.
+23:24
+Sure, sure.
+Cycle through a bunch of people 'cause I was curious what what were the.
+Options.
+It's probably worth pointing out also that some so positive traits like oh, you can tell for 50% further give you 25% less meta or like a shop currency and the the negative ones give you like benefits towards that.
+23:46
+So like interesting.
+So if you are, it's not shop.
+Currency.
+It's glory, which is what you do for liberation stuff, I think.
+Is he or just like?
+The I thought those were like the little blood drop things that I was like, oh, that's it's the blood currency, the nebula cause yeah, like the the one where.
+24:06
+We don't know what we're talking about.
+All right, all right, Yeah, here.
+And we're tapping into another issue that I have with this game.
+I had an extremely hard time memorizing a lot of the terminology of the game, like the difference between it's like rescue, liberate, hijack, assassinate.
+24:29
+Those all seem like pretty straightforward, but I don't know what was going on.
+My brain like was just kind of throwing them all together and what that could be that like often times the different mission objectives, what I'm what I'm what I'm listing off are the different types of missions.
+24:45
+The, the, the big, the main categories of missions and there's a bunch of subcategories.
+It could be that my brain was doing that cause like at the end of the day, they, it didn't feel like there was a huge difference between those things.
+There's I, I, I felt like it, it could have been more pronounced.
+25:05
+But like, what's the difference between having to steal?
+Steal is another one of them.
+What's the difference between having to steal an item and rescue a person?
+Isn't that almost mechanically the exact same?
+The difference is that when you steal an item, you have to have an inventory slot for it versus picking someone up and rescuing the person you.
+25:26
+You have to.
+I guess you have to.
+Carry.
+Them you you have to carry them, and in standard heat signature fashion.
+If you if your plan to exfiltrate is to fly out of a window, you have to worry about the other person's oxygen also.
+25:42
+Yeah, but I mean, come on, That's that's.
+Not bad, but yeah, I mean like thematically I think.
+Like and, and, and like, OK, hold on real quick. 70% of the time you you finish a mission, you're jumping out of an airlock.
+Like it feels like, like you're, you a lot is made out of in this game.
+25:59
+So you can throw yourself out of an airlock and then remote control pilot your ship to pick you up.
+That's cool.
+Except like that is almost a mandatory feature that like, it's like, it's like making a big deal out of like Mario jumps.
+And it's like, well, like it's super cool and the flavour behind it and everything is awesome.
+26:18
+But I don't know, the fact that I was doing it so much made it.
+A little less, yeah.
+I feel like this, like this is this, you know, I think sets out to do like one thing really well and it does that one thing really, really well.
+26:33
+But it doesn't do variety very well in the sense that I think like the puzzle solving variety is very good.
+But I think you're right, like the the overall like mission flow is such that, yeah, like you are, you're doing that kind of same thing for base.
+26:53
+Like that's the thrust of like basically every mission.
+You infiltrate the ship, you kill the guys, you get the Mac guffin, and then you hurl yourself out of the ship.
+And I was thinking.
+Like, here's a question.
+Here's a question for you though.
+How many times did you guys try and do the true like enigma or ghost type missions?
+27:11
+Never.
+Because that's too hard.
+It is.
+I don't want to die.
+Wildly different game.
+No no no.
+The ghost one is you can't be seen, you can't kill anyone.
+You, you leave no trace.
+I think you are.
+It's really hard and it's fascinatingly different.
+27:28
+You're you're you're you're right, that does encourage a very different type of.
+Like I was basically like waiting around corners, like like moving behind people so that they couldn't see me, but like in the room with them.
+Like just like as they looked around, I was like behind them and then like darting for the door with like stealth Shields.
+27:49
+Like the last second they're starting to look at me like stealth shield.
+That is an excellent point, Colin.
+And that there are I guess, pardon me.
+The reason I, I, I should clarify the reason that I avoided those missions because yeah, it sounded very it sounded like it would it would be difficult and you have a board.
+28:14
+And so I guess I'm deeply conflicted about this game.
+Almost almost every aspect of the game I'm like super conflicted on and I'm going to be waffling a whole lot.
+And I think you make a good point, Colin.
+I think perhaps would be more accurate for me to say when I said, oh, every mission is the same.
+28:34
+Every mission is the same.
+If you're doing like optimal playthrough optimal complete the most missions in the shortest period of time type of play.
+But if you're willing to engage with these different unique mission types where you don't, you can't be seen, you can't kill anyone.
+28:55
+You can't, I can't remember the other ones.
+There's a there's a couple of different categories where it's like, you know, you got to be nonviolent, you got to be stealthy, you got to be, I can't think of this.
+Is the hardest one.
+I'm looking at them right now.
+You cannot be seen and you cannot kill or knock out anybody.
+29:11
+Like that one's truly like pretty restricted indeed, But you're you're absolutely right.
+It is it is difficult, but more importantly, it encourages you and demands that you play the game in a very different fashion.
+And that does certainly address my issue of, oh, a lot of the missions are Sammy.
+29:28
+Well, not on ghosts they ain't.
+And I think that like one thing, I think that like the games overall, so the your overall goal also is to liberate like the stronghold of these 4 factions, which I was like yes, like faction, like liberation, like that, that kind of stuff like all these that like everything about this game, like ticks all of like the the the Scott awesome, yes, boxes.
+29:57
+But like I also feel conflicted about like lots of little things about like, well, like the how what's, what's the deal with these factions?
+Like I'm not, I'm not getting any like sense of like, why am I going and like doing this stuff?
+And then I think that like my biggest sticking point is, is like the nebula map where it feels so ripe for like you going and like clicking on the individual nodes of the nebulas.
+30:27
+Like, yes, this will be my next mission here, but that's not how it works at all.
+Like you have to go and just do missions to build up this meter where once that is filled out then you click on the thing it's just like it's auto done for you.
+Yeah, it's so disappointing too, because they have a unique mission for every station.
+30:46
+Yeah, it's, it's like, it's like it's right there.
+I mean, I don't.
+Know it could be like cool our agents finally in place.
+Now you play as Fiasco 2 Boogaloo station Liberator or whatever and like you do the unique mission and then you liberate that station.
+31:03
+Which is exactly what I thought.
+What I miss mistakenly thought the defector missions were.
+But it right, that's what I'm saying is like, I think that that's what they they already have the mechanic, they already exist.
+Just make it required and not optional.
+Yeah, I I thought that was bizarre.
+31:20
+I thought oh the defector mission is like an alternate way to.
+To, to, to.
+Liberate a spot and then it's like, Oh no, it's just like, it's a weird fun, fun for fun alternate mode where you play as someone who is a bad guy.
+And it was fun mechanically but like I was so disappointed when I got to the end and realized, oh wait, no I I I defector.
+31:45
+Meaning a defector against the team I'm on.
+Wait, is that true?
+I thought it was like, see, this is another thing, like the game doesn't really kind of explain it very well and.
+I think it's I think it's a it's a splinter universe where the factions have no meaning.
+32:00
+And I mean none of the none of the missions matter.
+There is no story to any of them.
+It's basically just go and get the Mac Guffin.
+The Mcguffin might be a person, it might be a person to assassinate.
+It might be an object to steal.
+I think those are pretty much the the options here.
+32:18
+It might be take control of the ship so you can smash it into something else.
+Yeah, there's there's a pretty hilarious amount of spaceship 9/11 going.
+On in this game yeah that's true that is like the number one mission category eventually which.
+This game, as, as you may have picked up on listeners, is, is in some ways kind of confusing.
+32:39
+I think each of us at some point already in our conversation have been like, wait, what Is that what that was?
+Is that how that worked?
+I was feeling that feeling all the time.
+And one great example was the, the, the, this hijacking of a ship and then setting a course towards a station.
+32:56
+And then it would tell you to get out, but sometimes it'll tell you not to get out.
+I, I, I was very confused as to what was happening.
+Were we actually destroying the station?
+By.
+Sending the ship into it?
+Or were you just docking with it and thereby taking it over?
+Question.
+33:11
+From what I read, the ship crashes into the space station and destroys its defenses in air quotes and then the station is in air quotes liberated.
+What that is, that is some bad fluff can.
+We please.
+I got a quick fix all right, and let me know what you guys think of this.
+33:28
+The quick fix is there's like a boarding party that like shows up as soon as you as soon as you clear the ship and you're clear to now go to the the bridge and and pilot it.
+A, a, a boarding party shows up like the Marines, your friendly Marines, and they go, all right, we're ready to take over the, the, the space station as soon as you dock with it.
+33:52
+Oh, I see.
+Interesting.
+Oh yeah.
+And then it's then it's like an infiltration mission or, you know, like that.
+And not necessarily need to.
+Play the mission.
+But just like that, that's feels like better flavor.
+Like OK, we now have one of their friendly ships.
+We'll be able to get on board, sneak on board and then.
+Take it over instead of crashing this plane.
+34:08
+Instead of crashing it into the defenses and then now it can be what that's that's pretty.
+Stupid space 911.
+They need one of us in the wreckage, brother.
+So what's OK and and there but then there's other instances in the game where they're telling you that there are certain.
+34:29
+There's one.
+One time I lost a character because I didn't understand that I needed to get off the ship because there's certain circumstances where you need to stay on the ship.
+And.
+And the UI is like very dramatic in both instances and there's like a big red countdown and I'm like, I honestly don't know if this is good or bad.
+34:50
+And sometimes it was.
+Doesn't it say pretty clearly like?
+You have 15 seconds to get off the ship.
+This.
+Is, you know, this is true, but my understanding is that there's also an instance where it's a big red.
+It's a big red countdown, but it doesn't it it it omits the part where you have to get off the ship.
+35:08
+It's like, why is it big and red?
+Shouldn't be big and green if it's the good one?
+I think it's like, yeah, like the the ones where you are common or you're killing everyone on or disabling everyone on a on a ship and then you are stealing killing ship.
+Now initially.
+35:25
+You can go back after you.
+If you knock them unconscious, you can go back and murder them.
+How do?
+You you can, you can, you can slice the throats of downed enemies, which you have to do in certain, certain circumstances.
+I couldn't all right, check it out, fellas.
+This is another man.
+35:40
+I'm coming off as like such a dull.
+I've had I've had a bit of a couple of weeks.
+I've played this game for 8 hours.
+I I overall liked it, but there was there was a lot of I was I was.
+I'm just saying I've just been a little zoned out as all.
+So forgive me, audience.
+35:57
+Forgive me, my fellow podcasters.
+We will not.
+No, Colin, you're probably right about the get off the ship now that should have been a clear indicator.
+OK, so my question there were missions where I didn't have AI, did I?
+36:17
+Only I had only non lethal weapons and I'd go on an assassinate mission and I'd knock out the guy I'm supposed to assassinate and then it would say you can.
+And I had no way to kill him.
+And then I'd go and pick up a gun and then shoot at the ground and like, I couldn't hit him.
+And so I'd end up having to like, engineer some goofy thing where, like, I take him to a room and blast him out the airlock, you know?
+36:37
+Yeah, if you go, if you go really close to them and pause, I think there's an option on the right.
+Oh, that's like slit the throat of the downed man.
+What the good guys always do.
+What the good guy, the Liberators.
+All right.
+36:52
+Thank you for clearing that.
+Up that is.
+That is we are the bad guys in this game.
+You twist this and be like there are 4 peaceful nations and one terrorist organization.
+Real quick, the option to pause and slit the throats of the supposed bad guys, that's on me because the game constantly tells you you can do it from the pause menu, you can do it from the pause menu, and I'd go to the pause menu.
+37:12
+I'd be like where the fuck on this screen with all this shit weirdly.
+Close to them, but not like too close.
+I don't know.
+There were a couple times where like I knew you could do it.
+I'm like, I'm I'm nearing you, but not like in the right spot.
+37:28
+Or something.
+I also completely forgot about the the right hand side of the pause screen options because there's a lot of things like remote grenades and stuff that are very fun to use.
+And that was okay.
+I threw, I threw 3 remote grenades onto the three engines of the ship and I'm like, okay, great.
+37:45
+I'm gonna hit The detonator.
+The ship will be stranded in space.
+The alarm is gonna do nothing because they can't go anywhere.
+Awesome.
+How do I detonate the grenades?
+And then I'm just like, what?
+Like do I shoot the grenades?
+Do I have to like go back and like press a button?
+No, it's very clearly labeled just on the right hand side of the UI.
+38:03
+But I'm like, Oh yeah, I forgot that 1/2 of the screen existed because I'm so focused on the left hand side where all of my equipment is That like if it in retrospect, it was obvious and it was just like it.
+Oh yeah, like it's right there.
+But yeah, that's where like some other options that you can find might be.
+38:21
+So this is another thing that I'm really torn about.
+I, I think that overall the game does a remarkably good job in its UI, but it is, there are so many systems and so much, there's so much stuff going on that like inevitably there are going to be some, some issues like what you're describing.
+38:41
+So like overall pretty good.
+I, I don't know if they could do, have done that much better without, you know, much more development time.
+I don't know.
+Yeah, And I feel like like this game is, is like in my hall of very good.
+And it's just like, it's so like it, it almost pains me that this game is so close to being into like my, my, my Roguelike Hall of Fame list, but it's not quite there.
+39:07
+And I'm just like, like if this game had like Steam Workshop or something or like mod support.
+I feel like it's it's an extraordinary tech demo wrapped in a pretty good game and they averaged out to being just like a good game.
+Yeah.
+39:22
+And like between this and there's like I'm nitpicking it because I'm just like, oh, I just, I want this game to be like a 9.9 or a 10 out of 10.
+And it's so, so, so, so close.
+But like, it's just like missing these one or two extra secret spices of like story drip of like maybe I I feel like the art direction is OK, but there were a lot of times where I was just kind of like, oh, I don't know, like is this?
+39:48
+I'm not sure if it was really vibing with me, but it was.
+It was so close to being.
+Yeah, we've, we've been, we've been talking about a lot of vague, you know, very subjective stuff.
+Let's talk about something that is very objective.
+The art.
+I agree.
+40:06
+I like it.
+I I don't especially like the the character portraits.
+You know, like how they like, weirdly move.
+Sorry, I mean, I mean the actual NPC portraits, like when you go and talk to a couple of, there's a couple of characters, I mean, you can talk to and there is some dialogue, you can get a little more information about the lore and stuff.
+40:26
+And yeah, I don't, I don't, I don't love that.
+The actual art, I, I think it's pretty solid.
+I think that the system that they use for kind of having segments of the characters and to be clear, this isn't isometric.
+This is directly top down.
+40:42
+Like you are seeing the top of your character's head and and you are seeing directly from above, like their arms and their feet and everything.
+Like hotline?
+Like Hotline Miami or GTA2 like.
+You precisely precisely and I I, I think overall looks good you you zoom in and it looks a little funky, but but once you zoom out a little bit, I think it looks quite nice and the environments look quite nice here.
+41:07
+What here's what I don't like about the the visuals.
+The backgrounds are very busy and I was constantly pulling off what I thought was a slick as fuck move and I was feeling super cool and oops, I accidentally shot a, a gas tank.
+41:26
+It blew up part of the thing.
+Like I, I, I was completely blind to that.
+I didn't even see that.
+Or crucially, there was a guy standing right next to me and and I blew my cover and I I had no idea who was there.
+And I think sometimes when they teleport and you were like focused somewhere else, it doesn't immediately become parent that like a man has teleported behind you because you're like, there's clutter over here near my person.
+41:49
+But.
+I don't there's no, there's no Metal Gear style exclamation mark.
+Sound.
+Yeah, you.
+Can spot it like.
+Well, that would maybe help, but there were also a lot of situations, even like 4-5, six hours in where where I was entering rims and being like, wow, there's a lot of detail here.
+42:04
+Surely these are some objects I can interact with.
+Oh, no, I guess not.
+And this is a problem that became less, it has become less of a problem for me.
+But I mean 8 hours is a long time to be having having this issue.
+And now there there is some option which I couldn't quite figure out what it did.
+42:22
+I switched it on and off a couple times and there's something about like simplify graphics.
+Or or what have you.
+I I I don't know if that maybe helps.
+I think you, I think you have to restart the game for that to take effect.
+But yeah, I, I don't know what the difference for that is.
+But I think like, to your point, Andrew, I think there's, there's one faction in the game that does have like deliberately busy and confusing ship design.
+42:44
+And I think that's, that's supposed to be like part of that faction's like aesthetic and like helps with like making the higher difficulty ships of that faction more.
+You think so?
+See, I wasn't.
+42:59
+Sure.
+Because some of the other factions are much, much clearer, like, yeah, like much cleaner.
+Like this is clearly the floor.
+This is clearly a wall.
+And this is clearly a thing you can hide behind.
+And like some, some factions have ships that are like big sprawling things, other ones that are like tight, like fighter jet looking things.
+43:20
+And like there's, there's a balance between like, like the ship design as just like a bunch of like randomly generated tiles that interconnect to each other and like how the art makes that stuff more visible.
+So there's like there's one faction that like, yeah, their ships are smaller.
+43:36
+The they kind of look like idyllic futuristic garden worlds on the inside.
+And you're like, OK, yeah, this looks like a very clean, futuristic looking spaceship.
+It is not the ragtag bunch of Christmas lights that have been like Duct.
+43:55
+Tape right, or it looks like, you know, one of those grungy like like like the alien universe or something where the crime and shit running over see that thought occurred to me.
+I'm like, I don't know if this this is in is, is intentionally is intentional like to make it more difficult.
+44:14
+And if that is the case, I I'm willing to believe that, but I'm curious like is that quantified and factored into the mission difficulty level?
+That's you think?
+Probably a good question.
+I feel like they, so the glitcher faction that relies heavily on like teleportation stuff, they're the ones with like the, the baffling, like very colorful ships with like big open spaces and like lights strewn everywhere.
+44:41
+And it's very, it's very artistically busy.
+And I think that like, yeah, as as you select higher and higher difficulty options for missions, the ships get bigger and the more that you have to kind of navigate.
+And and the, the, the size is like that's quantifiable is like a bigger ship is more difficult, like the more space you have to cover is on average going to, you know, is going to add to the difficulty.
+45:05
+But like the level of like graphical density in the art assets, I feel like it's a little more vague.
+And I wasn't sure if it was a mistake like unclear visuals or if it was an on purpose thing.
+I'm willing to believe and accept that it's an on purpose thing.
+45:23
+I was.
+But it led to some feel bad moments where I went into a situation thinking like, oh, here is the challenge.
+I understand the challenge And then a second later there's a rug pull and it's like, oh, I didn't understand it at all and I was fucked from the beginning.
+45:40
+Yes, but now you have the opportunity to wriggle your way out of that situation by swapping places with someone from another side of the room, stealing a key card from someone running through a door, locking the door behind you, switching the turret from enemy to friendly mode to cover your escape as you like.
+46:01
+Leave the the ship, go back to home base, figure out OK, what equipment do I need for this thing and then go and buy that equipment and then come back to the ship.
+This is true.
+I well, I'm not good enough to do that.
+Exactly what I thought you were leading into was you have the opportunity to not instantly die and I thought this might instead you get knocked out or shot and then thrown out the airlock and yes, as you say Scott, you have the opportunity to come back.
+46:27
+What do we think of this game's death mechanics?
+Because they're very unique You you would maybe think like, oh, the moment you get spotted, the moment you get shot, that's it that's Hotline Miami style.
+You got to restart the level wrong.
+You actually have quite a few opportunities to to to come back and try again I.
+46:48
+I thought they were maybe a little too permissive, honestly, Maybe a little bit like they're like, OK, you get, you get thrown out of the airlock once.
+That's cool.
+Good, good on them.
+They're they're you know, that's like pushing this.
+You're you're picking up the spider, you're taking it outside and you're setting it down.
+47:05
+If you come back inside and you find that spider sitting on your couch again, you're going to kill that spider.
+Like the third time I've snuck back onto your ship and I'm like trying to kill your guards again.
+Like I don't think they're going to pull me to the airlock.
+They're going to do the needful and slit my throat.
+They are going to do the needful, press pause to do the needful at any time from the pause many.
+47:27
+That is a great point.
+It strains credulity that this would keep happening.
+However, I, I, I, I, I'm, I'm willing to suspend my disbelief most of the time generally, but I, I, I definitely get your point.
+47:44
+And perhaps this is a very, you know, this, this is a video.
+At the end of the day, it's a video game, right?
+And there's going to be these sort of like, you know, liberty what?
+But yeah, it's, it's another thing that I'm, I'm a bit conflicted about.
+It's like, on the one hand, I mechanically, I think it's very interesting and pretty fair.
+48:02
+But like story wise, I, I agree it's a little bit, it's a little bit goofy.
+Does it help at all to to think that maybe there's some time dilation happening like the head cannon that will actually every time you sneak back on the ship is like a separate attempt that's happening like weeks and weeks apart or something?
+48:21
+I don't think, I don't think the nebula is quite that big, all right.
+Fair enough.
+I think I'm just spinning a little head cannon here.
+It's there's nothing to support that in the game to.
+Be I think like what would make this game and like to be clear, like I like this game a lot.
+I like the the the liberation mission that I did to breathe the final foundry.
+48:44
+I was going to call it a boss mission, but there are no bosses in this game.
+It's just bigger and bigger ships with more stuff like the the liberation sequence I went through for the Foundry faction like that.
+It felt like a boss fight in a way, because it was just like, oh, this is like a really crunchy tactical puzzle that I'm going through.
+49:01
+And I sat and I paused this menu and I'm looking at, you know, this tactical situation I'm in.
+All right, how am I going to teleport over there?
+They have like 88 or 9 keys on those levels, like really long.
+Eight.
+Well, yeah, I mean, you can get some pretty beefy spaceships that you're getting into and like that sequence of like, OK, I'm in this big puzzle that I need to figure out and there's probably multiple solutions.
+49:29
+And even if things go sideways, I still have some options.
+Is super good.
+Like that is like really well designed and very tight.
+I think that like if this game was more linear, like an FTL style where instead of like, oh, you, you pick from like one of four characters and you go and do all these missions to like unlock this progression meter.
+49:52
+And then you just click through the thing and it happens.
+You, you pick 1 character, you go into like maybe a more streamlined kind of nebula and you're fighting some like faction boss at the end of it.
+And yeah, I'm like, maybe like, you know, you might these action sequences might be kind of all the same here, but you can chunk it up with some like story beats or like some things to kind of like flesh out.
+50:13
+We just gave it a sleigh the Spire map.
+You know that wouldn't be the worst thing.
+But then it was.
+Like fire map?
+Yeah.
+Yeah, I, I, I do appreciate this game trying to do something different.
+And this was from 2017, so it was like a bazillion years ago and like.
+Oh, so they hadn't had Slate Spire yet to inspire them?
+50:31
+To enslate or inspire?
+Yeah, emphasis on the Spire.
+Yeah, yeah, I think, pun intended.
+But like, but FTL was there, right?
+And I appreciate that this game is is not, or I appreciate games that don't just follow like a strict tried and true formula and try to do something different.
+50:49
+So it does get bonus points for that.
+But yeah, if there was like a Steam Workshop mod that was like the, the liberation missions were the thing that you played to unlock and advance towards like the final like boss encounter, I think that would give me like an extra half point to this game.
+51:05
+I I feel like build building up the liberation meter by and and crucially that like the missions get harder and harder by default the closer to that faction stronghold you get because I feel like at the moment.
+I think that it's it's it's it's just served by the fact that you get all of your missions from whatever home base you have and the liberating the ones that are closer to the enemy faction stronghold.
+51:29
+There's no change in difficulty as you do that, yeah.
+Yeah, I think that would help ramp up the drama and help forge this narrative that that the store page claims you're supposed to be building yourself like, oh, it's the the story that you you make that you kind of unlock through gameplay.
+51:50
+And I, I don't know if that quite it happens all the time in this game, although the personal missions do help a bit with this, with this complaint, I think, which in addition to having random traits a little bit.
+Oh, I think that like I.
+Think it's fun to have like a little bit of back story and like motivation to each character that you pick because in addition to having random traits, you have a random appearance and a random personal mission.
+52:15
+What's that if I redacted?
+Their story hook, which is like I'm trying to rescue my mom that got captured by the blah blah blah.
+Would you know that you're playing one character's story versus another?
+That's a great point.
+52:30
+It's there is no, there is no.
+That is the problem effect to the story whatsoever.
+That that is the issue, that it's kind of an empty story beat when there's like nothing mechanically kind of bolstering it.
+So I I.
+I admit that it's it's imperfect, certainly.
+52:48
+And what it what would be better served is like, you pick your randomly generated character, you go through, let's say like a Sleigh the Spider map.
+And again, like Sleigh the Spider.
+I don't think.
+I actually like the map.
+I think that the map is is good.
+I think the way you explore the map is.
+Yeah, and that's what I think I'm getting at.
+53:04
+So like you, you explore some like node driven map and then maybe like your personal mission is like the penultimate one or something or like, or like, you know, that's like the denouement of like, like, oh, like this character that I've been playing with has like, Oh yeah, this is the thing that I'm working towards.
+53:20
+And maybe there's like a little bit of like drip hints heading up to it.
+But yeah, like I think Collin's right.
+Like I, I don't think I've completed any personal character stories because there just wasn't any need to.
+Like I complain.
+There was a couple and it was just like, cool, I'm they don't instantly really retire.
+53:36
+I just continue playing with them after the fact.
+Yeah, but like you don't unlock any.
+You don't unlock any new.
+Yeah, that's that's kind of a bummer.
+You don't even get like, I mean, you, you get like a little like a splash text, but it's not.
+Yeah, that's, that is too bad, maybe interesting.
+53:53
+So I I tried to do the personal missions but I I failed everyone.
+Yeah, they are actually substantially.
+They're like.
+They're usually fairly difficult.
+Now where I think, I think where this game's shining star, the crown jewel for this game, this is the daily challenge mode.
+54:11
+And a lot of rogue games do have this, but I think this game like the daily challenge mode is like the best, the best of the best part of this game because it is it's like a three mission sequence where you just like it's a random person every time.
+54:27
+And it's almost kind of like their personal mission that they're that they're going and doing.
+And like, it feels like very like tightrope walking because like you, you only got one shot to get a score for this on the leaderboard.
+And then like if you fail that, yeah, it's fine.
+54:42
+You can go back and practice it a million times or whatever.
+But like that first time that you booted up, you're like walking on on like a razor's edge because you're like, OK, I can't screw anything up or I'm not going to get a score entered on the leaderboard.
+And it it feels like a million times more tense and.
+54:59
+I didn't do that many, but are they always the you have to do this in 10 minutes?
+No.
+So that's also crucial.
+So like the one that I think was either for today or yesterday.
+It was the one yesterday was had the 10 minutes and I think one of the other times I did the random Bailey challenge, it was also a 10 minute.
+You're dying and you have 10 minutes to finish this quest.
+55:16
+Yeah, which which almost kind of kind of seems like counter to like the daily mission, but it like, yeah, that those I feel like are much harder.
+But it does.
+It does have this progression sequence of like your smaller ship, your bigger ship, and then you're like big Mama ship where, yeah, you're kind of going through like a microcosm of heat signature of the game and just kind of like a a single like re rolled random instance for the day.
+55:42
+And like that that feels like this is what I'm here for.
+This is like the stealth action sequences.
+You're you're like your inventory and like the stuff that you can buy is much more limited.
+So your options like are more constrained and forcing you to be more creative with your solutions.
+56:00
+And then so like I'm I go through and I like, you know, eventually solve one of these these tutorial or these these daily sequences.
+I'm like, OK, and then I go like, watch who was it?
+A YouTube by the name of Jury Quill DURRYQUILL, who's been doing these daily heat signature missions for like 5 years, every day for five years.
+56:26
+And just like the solutions that this guy has to like all these daily puzzle, I'm like, he's playing on like a completely other plane of existence than I am.
+And just the fact that the game can allow you to do that is just baffling and in a good way.
+Like, Oh my God.
+56:41
+Like I didn't know that you could like, like float your pod over the enemy ship and then like eject yourself out of the ship and then teleport like right into the middle of the enemy ship as like a as a tactic and strategy.
+And like, yeah, exactly.
+Like I'm just like or like.
+56:59
+Or using.
+The foundry brick pod to go and like strategically ram chunks off of the enemy ship and then like the target you have to like capture or assassinate is like broken off from the main ship and just like tumbling around through space and you're like, OK, well, that's considerably simplified my mission objective for the day.
+57:21
+I will just kill like leap out like through this airlock that I've like rammed through and like, like infiltrate the ship that way.
+I'm like, OK, like this is the game.
+This is the game right here.
+And I wish that like the campaign mode was maybe more streamlined for that.
+57:39
+But like, I'm glad that the daily challenge mode exists.
+I just wish it was like maybe like the campaign was maybe more along those kinds of lines, I guess.
+And I guess if you had.
+To sum it up, like what what?
+What's your one sentence description of like why the daily challenge is so good?
+57:56
+Because I I never actually played one.
+I think limited options.
+And because but like limited and like limited options balanced in such a way that so in the daily challenge, you can go down to the shop and you can like buy a whole bunch of stuff if you want and that will like put you into like scored debt at the beginning.
+58:18
+So you're like, yeah, I'll just go and buy like all the automatic weapons and teleporters and stuff.
+But you'll start off with like -500 points right now you have the goal of like, OK, now I need to like utilize all this equipment to like get a positive score or, you know, you can just go in bare bones Metal Gear style weapons and equipment on site.
+58:36
+But.
+But to be clear, if you go in with the.
+Starting equipment it is the daily challenge is or is not designed in such a way that like you can feasibly beat it with the starting equipment?
+I believe so Or are they like or are the daily challenges randomly generated?
+58:54
+Daily Challenge.
+Since since you're going through a series of three ships, you are, you do get more equipment when you're playing it.
+So like, you build up your arsenal by like finding stuff.
+I think it's a little bit more limited than the regular game or maybe a little more constrained or something.
+59:12
+But yeah, you, you get more stuff.
+I don't know if it's necessarily like designed around like, I think it's random, right, Scott?
+Like they're not.
+I mean, surely there's some.
+It's not.
+Obviously it's not.
+I guess my question is, is it 100% like chaotic random or surely there has to be some kind of a fine-tuned I believe like at least from all these videos?
+59:32
+That I've been watching of people completing the daily challenges like you can you can certainly skill your way into beating all these stuff with just your starting equipment and not having to rely on the shop at all.
+I'm not nearly that good.
+But like, yeah, you can like some of the magic that these people work is just like beyond incredible.
+59:52
+So I think that, yeah, I think it is random and I think it's like bias in a way that, yeah, there is a solution, but I don't know that it's like.
+Like each one is like handcrafted, Right, right, right.
+Yeah, Understood, Understood.
+But it it does sound like a.
+Little bit more curated, I guess the the the the gameplay experiences.
+1:00:14
+How sorry, sorry, how did you put it?
+It's it's a little more narrow or more focused.
+It's constrained because you.
+Don't have or at least I don't.
+You can't access your loot stash.
+Understood as you're.
+Going through the.
+1:00:29
+Campaign, you know, with a given character you're building up like this almost kind of like meta or like this progression for that character of like this is that character's stash.
+And like this person has like, you know, I'm going to go do this mission here and oh, I've collected like this really awesome stealth sheet, like self recharging stealth shield that like, oh, you know, it's it's locked to that character, but you can stash it and use it for like later missions and stuff when you do the daily challenge, like all that stuff is wiped and you're just like, all right, like what are what are like the 10 tools that I have available to do this?
+1:01:03
+And yeah, like you can.
+Sounds pretty groovy, I think.
+This game suffers in.
+The like the regular game, it suffers in being too too open or too permissive.
+There's too many things that it lets you do where it's it's more fun if you have some sort of constraints put on it.
+1:01:21
+Like I really enjoyed playing through trying to be like the, the person who has the, the don't kill treat and it was really fun and enjoyable until whoops, I accidentally killed someone and it's just like, Oh no, you failed your thing.
+1:01:38
+That's it.
+There's nothing.
+There's no penalty for it.
+You don't lose.
+You just continue playing with it.
+You get less mission money at the end of it, you get less mission.
+Money.
+You get less glory, but there's.
+No real like.
+I think they should just be like do.
+You go.
+Into exile and shame you broke your moral code and you lost on this character.
+1:01:57
+Like what's the point of continuing to play that character if you've failed their their gimmick?
+And I, and I, I feel like that's the same, like I, I think that this game would be better if it forced you to play each mission in a little bit more of a varied style.
+1:02:17
+But then also you still play all of the missions and like, like, OK, cool, you're going to do a stealth mission now.
+OK, cool, you're going to do a guns hot mission now.
+Like there are no silenced weapons here.
+Everything is hot And that's the alarms are going.
+You're.
+That's where.
+Like the defector thing that's right there, like feels so like that feels like the solution 'cause they have, they have indeed.
+1:02:37
+The solutions are already there.
+They just don't make.
+You do it and they don't reward you in any way for doing them, so it's only for your own.
+Enjoyment for.
+Sure.
+I, I think we, we, I, yes.
+We've, I guess we've maybe hit this a couple of times, but yeah, the, the openness is cool, but having like some more bespoke like specific missions with specific constraints at certain points in the story would have really been great and you would have gotten the best of both worlds.
+1:03:06
+I have a question, what the hell does the final mission look like in this game?
+Because I'm pretty confident it's not some cool like handcrafted like special scenario or like unique thing with like a unique enemy.
+So and that's extremely disappointing.
+1:03:22
+Is it just a just a regular mission and the IT ends with you taking over the the the stronghold liberation?
+Missions where you go in to the enemy factions HQ ship as it were, in preparation to crash it into.
+1:03:39
+The shield or something?
+Yeah, well then magically make it fall.
+To.
+The solution to everything this game is not to.
+Just 911 everything.
+So yeah, it is like your your boss missions for those faction strongholds are just like really big ships with like lots of enemies with lots of gear.
+1:04:00
+And you know, like there's a lot of stuff going on.
+There's a lot of like, you know, guys who are going around and putting like jamming devices and there's like, like there's multiple ports.
+For you to.
+Like dock your ship to and there's like, there's just a like a lot of stuff and it feels like, OK, all these little chess tactics puzzles that you've been doing before, now you're playing a full on chess game and you have all the pieces available to you.
+1:04:25
+And like it, it felt like a final boss mission in a sense.
+It wasn't like, oh, there's like some guy that has like who's like 10 times the size of all the other units and had like 10 times the HP.
+But like, like the, the sequence that was going around and just like sneaking past and like teleport stealth shield, grab this guy's keep card off his belt, like kill this other guy.
+1:04:47
+Like that felt that felt great and like, yeah, you 911 the ship and then it's just like, OK, that's done like all right, what great story thing am I going to get a result of this?
+Nothing.
+I think that like, well, OK to be.
+Clear, I did.
+That for the for the foundry faction first, who like that guy's faction leader is already in your bar to start with.
+1:05:08
+But the the kicker is like, oh, you only need to do 5 liberation missions for it to get to that one.
+So I was like, all right, I'm just going to speed run this.
+I think.
+I think or the other factions that when when you do that liberation mission, you get that NPC person in your bar and you can have kind of like a conversation with them.
+1:05:25
+You do all right.
+OK, because that's where we like I saw the.
+You know, I was posting the YouTube video of the person talking with the the glitchers NPC who's just like, Oh yeah.
+When every time you teleport like you're killing yourself and you're creating a copy of yourself with the teleporter.
+1:05:42
+And I had AI had a segment here my Google Docs of like will tell us about the the teleporter dilemma a thing and letting him go crazy for 15 minutes.
+So unfortunately he teleported himself on display.
+Well, he ain't.
+Here, but can I?
+Summarize it real quickly.
+I think it's, it has something to do with like if two members of Starfleet are having a hot dog eating contest down in the canteen and like one person is cheating by having, by having someone teleport the contents of his stomach out into space, That's, that's, that's rude and that's cheating.
+1:06:14
+No, I think that's what Parfit's teleporter is.
+That that's that's AII.
+Think there I believe there's a very clever web web comic that has something to do with that, which may end in someone accidentally getting like their organs transported out into space anyway, so the the final the so.
+1:06:30
+You do that for each of the factions.
+You maybe get a little bit of like flavour dump text stuff to talk with them.
+Great.
+And then you get to the ending, which I think this is what keeps this game from being like the the 8 to 9 range for me.
+1:06:47
+Where this game has I I don't know that I would call this a bad ending, but in like an ending in a way that like disincentivizes me from wanting to engage with like the nebula liberation aspect.
+1:07:03
+Should should should I spoil it or should I?
+OK, spoilers, spoilers, spoilers if you're.
+Listening so spoilers, spoilers, spoilers as you're.
+Driving your car, make sure to like slam your brakes and then hit the pause button.
+Turn your volume down and we'll be sure to teleport 3.
+Times when you inject yourself.
+1:07:18
+Out the window so you've.
+Liberated all the strongholds.
+You come back to your home base and you're talking with Satyr Fiasco from the beginning again.
+And you you talk to her and she kind of flatly says, well, that's it.
+1:07:35
+And I'm just like, huh?
+And your dialogue options are like, Yep.
+And that's what what's that?
+What?
+And another option is I still have some personal business.
+And so I think like you go through this dialogue tree with the person at the beginning of the game and she says like every stronghold has turned, every faction has been crippled.
+1:07:59
+The drift of the nebula is functionally independent.
+Awesome.
+There'll still be remnants and power struggles and it'll take a while for things to shake out.
+But you know what's really changed?
+Fleets used to have a lot of those sovereign glitchers off World Foundry.
+1:08:15
+They were all pretty strong.
+Made it hard for any new muscle, any anyone new to muscle into this space.
+But they're gone now.
+We took this nebula by subterfuge, were a bunch of spies, thieves, killers and civilians, but not a lot of captains, not a lot of crew, very few actual ships, and I missed a dialogue tree option here somewhere.
+1:08:36
+But Oh yeah, I was, no, not a whole lot of ships, but my client has some and I was like and so satyr.
+Continues with I.
+Retired from getting shot, decided to try a lesson direct approach and I have this theory.
+1:08:53
+If you want to start a revolution, all you have to do is convince some unhappy people.
+There already is one.
+Again, great great writing in this game.
+I wish there was more of it because this is great stuff.
+Satyr fiasco continues.
+You guys took it from there and I only got shot once.
+1:09:11
+In a few minutes, a fleet of over 100 siege ships is going in to reach this nebula, take out all of our defenses, and seize it for my client.
+What they're going to crash into every?
+One of the strongholds and knock out their Shields.
+1:09:27
+OK.
+And so your options are like.
+Exactly.
+Collin's reaction of like.
+And then she continues.
+It's a contract.
+You take the contracts.
+I've taken contracts for 40 years and you know what they say about old spies?
+Nothing.
+They're all dead by 36.
+1:09:45
+Checking my birthday calendar right now.
+You make it to 60 in this job by being very very careful, and eventually you get a Rep.
+If you want to crush an empire in this Galaxy, you send in an Armada.
+You want to crush 4?
+You send me Satyr.
+1:10:00
+My client doesn't like killing, they don't like making enemies.
+The 1st wave of ships will just shut down the defenses.
+Second wave will be transports.
+You're all going to the nearest interstellar hub with a relocation package generous enough to settle wherever you want.
+My client can afford it if they get a whole nebula of battery acid out of it.
+1:10:20
+Tying back to the beginning here, it'll be presented as an offer.
+But take the offer.
+They won't kill you if you don't, but you won't get to stay and you won't get any money.
+So.
+And then you get teleported to a new nebula.
+Well, you know your your.
+1:10:37
+Options are or yeah, so it's, you know, another option.
+It's like who's the client?
+And then she says, oh, it's a, it's a fifth party 1/5 faction, someone with means independent.
+And then your, your final option is, you know, mind if I watch this, this end of the nebula with you?
+1:10:53
+And it says in brackets permanently ends this Galaxy.
+And she says, not at all.
+Do you want to drink?
+And then the the map like zooms out to the nebula that you've spent 30 hours liberating and you see this this swarm of ships coming in and bam bam bam bam bam all of the nodes that you have liberated, each one kind of blinking out one by one, leaving you with heat signature credits roll.
+1:11:25
+I don't know what to say about that.
+That's I.
+Not the ending.
+I expected we are the.
+Bad guys.
+I low key love that.
+Ending that, yeah, I think I do too.
+That is incredible.
+I mean like.
+Spectacular.
+1:11:40
+My notes.
+Halfway through were like don't.
+Like the rug poll and then at the end I'm like, oh, this kind of ties up the intro nicely.
+And then just at the end, lol, where I'm just like, you know, I don't know, like I'm not super like if, if that's what the end result is, I'm like, I don't know about like going through all the liberation.
+1:11:58
+I mean like.
+Yeah, the, the rug poll is like, oh, that's, that's kind of a that is that is jarring.
+I agree.
+But I, I, the fact that she, you know, pays lip service, not lip service, but she she acknowledges like, hey, I am a contract taker just like yourself, and I am just doing what you have been doing this entire game.
+1:12:24
+Is, is, is really something.
+I appreciate that.
+It's like, Oh well, I mean my player character and me as the, as the player, I I would have done the same thing.
+Like I I am a little sad that this.
+Feels like it sets up a perfect new game plus mode where it's like now you do do it again but it's a little harder and you're liberating it from just one faction.
+1:12:49
+Like if you do want to keep playing in this to like rather than like, I'm assuming when you go to the next universe, it's just the same thing.
+It's just like do it.
+It's just basically like your options are end this universe or end this Galaxy or go to another Galaxy, which is also not the same.
+1:13:07
+So they're really not a choice between the two of them.
+It's just how do you choose to restart?
+Yeah.
+And I feel like if there was.
+A a level of player agency at the end of like, Oh no, this isn't your nebula, It's my nebula.
+And like pulling a gun on her and saying like, you know, I'm the faction leader now, or like, you know what?
+1:13:25
+There's one really, really fucking hard.
+Mission.
+Yeah, maybe like some pick.
+Your best character out of all the.
+Characters that you have in any of the places.
+If you can beat Sadler Fiasco whatever her name is on like the Imperial * Destroyer which is like a 15 key thing then you get to save your Galaxy and if not then you start over.
+1:13:49
+Another note that I have my Google doc here.
+I was like.
+This is like if Han Solo said he was working for the Yu Zhang Vong at the end of the first Star Wars, where I was like, you have this bounty hunter that like that's the that's the extra galactic presence that blue guy is trying to fight again anyway.
+1:14:08
+Yeah.
+And I was like, well, what was it all for then?
+Was it like if we were just going doing her dirty work to just like collect space oil for these private military contractors?
+We should have known when we could slip people's.
+I mean it's.
+It's, it's, it's kind of a grim ending.
+Arguably, but I, I, I, I really like it.
+1:14:27
+I I think it's pretty based.
+I think like I'm, I'm, I'm going to.
+My, my, my ranking document right now we're we're yeah, I guess one more point for me and not to.
+Not to spoil.
+Too hard for gunpoint, but like gunpoint I think has a similar kind of vibe to its ending.
+1:14:44
+So I feel like I don't know if this is just like a TomTom Francisism and that like tactical breach Wizards will end the same way.
+Oh, I'm sure I've played like an hour.
+Of tactical breach Wizards.
+And I'm sure that it ends in something like that.
+Yeah.
+Like, oh, it turns out it was the government all along.
+Well, I I was so worried that you were going to tell.
+1:15:03
+Me yeah you know when you it ends with some generic mission and you get a little you know text scroll but that sounds amazing said that she's like oh that's it and then your.
+Your thing, your dog tree is Yup.
+I thought that was going to be and you paused for a second.
+I thought that was just going to be the end.
+1:15:19
+And it's like, Yup, fades to black, which would have been.
+A choice.
+All right, I was on ironically going to bump it up.
+Like a a few levels, but I it's right up against Slay the Spire.
+And I, I'm not, I'm not saying it's better than Slay the Spire.
+1:15:35
+I can't do that.
+Yeah.
+Wow.
+We wow.
+We wow.
+We it's.
+Got music?
+It's decent music.
+Yeah, I would solid.
+I would say the the music.
+As I was listening for like stuff to play the episode out with, I was like, you know, hey, like this.
+1:15:53
+At first I thought it felt kind of like like generic background Y and then the more that I was listening to him, like, yeah, this has like a like a pretty good like vibe and range to it.
+And I kind of came around especially especially like when you are like knee deep in these like really crunchy thinky puzzles.
+1:16:11
+Like it.
+It works really well as like existing in the background without being too overwhelming.
+Yeah, it's very good video.
+Game music like background background video game music where it's not overwhelming, it's not really the star of the show.
+It it does it's good background thinking noise.
+1:16:29
+I like it.
+I like synth music.
+I.
+Like the action tracks.
+Yeah, yeah, it's good.
+Well, do.
+We want to to exfiltrate and jump out the window into rankings.
+Sure.
+Yeah, I'll kick us off.
+1:16:46
+This game for me is going to be a score breaker.
+I was looking at my scores and I had too many 7 point fives and I was like it's, it's, it's too much.
+I have on account of this game, I've decided I'm changing my rankings.
+1:17:01
+I'm for the sevens alone.
+I'm shifting into another 10 point scale.
+So I'm giving it a 7.7 so that it gets above all of the seven point fives, but below all the 8 point OS Yeah, I I mean, I think I said earlier that really my my true feeling is it's an excellent tech demo and a mid a a pretty good game that average out into a really yeah, like a pretty good game.
+1:17:33
+But like it it is held back by some of the non like crunchy design choices.
+Like I think that there's there is a game here that's like an 8.5 or 8.9 or something like that.
+1:17:50
+Maybe I don't even want to say that there needs to be more story because I feel like this game doesn't it it kind of thrives on that.
+It's not a whole a whole lot of story.
+I think that the story it tries to sell you on.
+Oh, the story is the emergent gameplay.
+1:18:06
+The story is the like the stories that you tell about the things that you did.
+And I think that it doesn't lean that hard enough.
+It doesn't make you make weird choices.
+It lets you fall into the trap of doing the same thing over and over again.
+1:18:22
+And I think there's a lot of it.
+Like you see that sometimes in like any sort of art where if you're having some constraints leads to unexpected creativity.
+And I think this game tried to push that more.
+It would be a better game.
+1:18:38
+So, but still still very fun.
+I mean, I had it's like a lot of fun playing it.
+I I played it outside of the podcast at before I stopped myself so I could play it more in the podcast, which is not we play enough games here that I normally it, it is kind of absorbed all my free time games.
+1:18:55
+So that's a pretty good endorsement of it.
+I guess I'll go next.
+Yeah, I think.
+Like heat signature for me bounced around a lot between being like, is, is this something like good or really good?
+And it kind of like bounced back and forth a lot more than I expected it to where at first I was like, oh, this game is really good.
+1:19:16
+And then I'm like, oh, but I'm too scared to do the hard missions.
+They sound really hard.
+I'm just going to stick with the easy and normal ones.
+Oh, this is kind of like mid and boring.
+Maybe this game isn't as good as I thought.
+Try some of the hard missions.
+Oh, this game is really good.
+Then like, oh, the map sequence in the liberation missions, like, oh, I don't know, go into the the daily challenge mode.
+1:19:36
+Oh, this is really, really good.
+What about the story sequence?
+I like the writing a lot and I feel like the aesthetic and the the setting and universe is really good.
+But something about just like, I wish, like maybe not that there was necessarily more story, but that there was just like more consistent lore or like story drops throughout.
+1:20:04
+Where, yeah, it doesn't, it doesn't need like a big story to carry it because the story is like, I went in to the do this thing and I did this crazy stuff and I escaped and like, that's the story and that's, that's super great.
+I do agree with Andrew that some of the art, like there's like, I guess I have the the bullet point in here says graphics versus aesthetic.
+1:20:22
+I like the aesthetic a lot, but the graphical fidelity in some areas seems a little mushy maybe.
+And yeah, I think that like generally like it, it, it vibes with me really good.
+I feel like this game exists in this unofficial trilogy of games from The Expanse universe, including a game that no one's ever heard of called Delta V Rings of Saturn, where you are a Saturnian ring ice mining vessel and nebulous fleet command, which is very much The Expanse style.
+1:20:57
+Like using your ships momentum and things for like shooting each other ships in orbit and like hiding behind asteroids and stuff.
+I feel like this game would fit very well in the universe with those other two.
+So yeah, I think like my ranking will drop it in at a 7.95 just ahead of Monster Train and just behind Bilatro and Jupiter.
+1:21:18
+Hell, like a solid block of like good games that are like really good, but there's like just the one little thing about it that makes it feel like it it should be much better, but I don't, I can't really quite articulate like what it is that's kind of holding it back just a bit.
+1:21:34
+But yeah, I mean like really competently well done, like almost firing on all cylinders.
+But like, like I think I said it earlier, like this game like does one thing, but it does that one thing really, really well.
+And for like, it's something that you can just hop in and play daily challenge mode for perfect.
+1:21:54
+OK, well.
+So this this game, I had a lot of extremely high highs and extremely low lows.
+But overall, I think the the lows were it was it was worth it for the highs ultimately.
+1:22:11
+But the way that I'm conflicted and about this game, the fact it's, it's an awesome game with a lot of frustration was my experience.
+And I think what encapsulates that quite nicely is the fact that the T button by default is bound to set a course for the nearest station.
+1:22:31
+But it is also the action.
+Jettison myself into fucking space.
+This is a big problem and it needs to be a different key.
+Now you are using that key, you know, it's different contexts, of course, but you build some muscle memory to, you know, jump into the the the, the cockpit of a ship you've just captured and set a course.
+1:22:55
+And then when you jump into the cockpit of your own ship, you might accidentally press that button and suddenly find yourself in space for no reason.
+I remapped it to JJ for jettison.
+So this game J for Jet two home.
+1:23:11
+Jet Jet two home.
+Go to home, jump out.
+All right, but basically this game is super unique.
+I'm I'm really torn about a lot of it, but I think it's pretty impressive.
+I think that ending is is is so great.
+1:23:27
+That's that's dope.
+I'm very happy to have had that spoiled for me.
+Legitimately OK, it is a 7.53 for me.
+That means it's my new number 12 hasn't cracked the top 10, but it's it's good.
+1:23:44
+You should play it cool.
+Well, I was trying to.
+Organize what games are similar to this and this is another toughy because this game is so unique with all of its gameplay mechanics and so like games that I have listed here for similar.
+1:24:01
+I'm taking a very broad brush strokes amount of liberty here.
+I think we have FTL with its boarding action mechanics.
+I think is similar enough maybe kind of like this Galaxy spanning epic that we have also previous app Void bastards.
+1:24:19
+I think we did a lot of complaining in that episode about you should be able to do this this and this.
+And I was like, you know, heat signature can do this this and this yeah.
+That was the episode that inspired me to to.
+Play heat signature and I was like, yeah, this is better another previous.
+App that I think like I feel like I should go back and play this now after playing heat signature because I think some of the stuff that I was maybe complaining about just in terms of like variety, Invisible ink feels like it's it's turn based explicitly, so maybe more focused.
+1:24:50
+It's definitely like tactical espionage, turn based tactical espionage.
+Another game that I've kind of mentioned a few times, Duskers has this kind of ship infiltration mechanic, but it's more you're like commanding drones.
+But crypt arc I feel like is is a more kind of action Y it's it's like if if heat signature had like stealth and explosions.
+1:25:15
+Crypt arc is explosions and stealth in a way.
+And to some degree there is a game called the Tele glitch that kind of kind of takes that also to the same level at the top down.
+And then there is one game that was like I kept writing in my Google doc of like all these complaints and criticisms that I have of heat signature.
+1:25:34
+Am I just looking for something that's like a a sci-fi based streets of rogue?
+And I don't I don't know that streets of rogue is super similar to this game, but something that I don't know much about this, but I'm going to include it here anyway.
+There's a game called Deadeye Deepfake Similacrum that has like procedural puzzle elements like hacking, like Neo cyber noir kind of stuff to it where it's like maybe less explicitly like violence oriented than heat signature, but might.
+1:26:09
+And I don't know if like if Deadee fakes Simulacrum is actually like a rogue like kind of game.
+But you know, if you sprinkle enough proc Gen. into anything, you could probably squint your eyes and and assume it.
+So Lord knows we have.
+Yeah, that's true.
+Oh, and then I guess.
+Last one that I have on here for like an explicitly turn based traditional rogue like sense.
+1:26:29
+I feel like cog mind is kind of similar to some degree where you're not infiltrating spaceships, but you are leveraging stealth, you are using crazy, wacky sci-fi equipment.
+And yeah, I feel like that kind of that kind of rounds out enough, enough similar games that kind of top touches all the things between strategy, sci-fi, proc Gen. big kind of open world tactical nonsense.
+1:26:55
+But yeah.
+So that's going to wrap up our our heat signature episode as we fly back to our home space station here.
+Our e-mail for you to write in with stuffisgrogpodzone@gmail.com.
+Mastodon is our Grogpod at Game dev dot place and Grogpod dot Zone is the website with all of the stuff.
+1:27:17
+Andrew, what is your game that we're we're playing next time that I hope, I hope fingers crossed will not describe the results.
+We're recording this on November 4th.
+Election Day in the US is tomorrow, and I'm hoping that Andrew's pick for our next episode is not going to describe the kind of world we're about to enter, but go ahead.
+1:27:40
+Well, let me tell you.
+Here's the.
+Game that proves you only need one bit to have a good time.
+Or maybe a horrible time.
+Perhaps a horrid time.
+World of Horror is my pick.
+The Horror Story game that is a throwback to ancient computer games of yore.
+1:28:04
+Yeah, I'm, I'm excited for this.
+I played.
+A little bit of it a while back, I think like around last Halloween time, it's like, oh, this seems appropriately spooky.
+It is appropriately spooky and I think we're we'd be willing to extend space Halloween out just another another two weeks here to to incorporate it.
+1:28:25
+But it's still, it's still like light.
+Delay, you know, Yeah, it's still, it's still Space Halloween.
+Out in in the batteries of Nebula.
+But yeah, World of Horror for our next episode.
+Excited to check that out.
+And yeah, that'll wrap up Peak signature.
+1:28:42
+And playing us out from this week will be some space infiltration tunes for you to to use your stealth shield with as you pick up the the Grog Pod device.
+1:28:57
+I don't know what it does, but we got to steal it.
+1:29:42
+None.
+1:30:05
+Music.
+1:30:45
+Music.
+1:31:14
+Music.
+1:31:41
+Music.

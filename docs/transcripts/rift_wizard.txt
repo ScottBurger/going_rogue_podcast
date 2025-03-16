@@ -1,0 +1,1418 @@
+0:32
+Greetings, conjures and welcome to another None episode of the Grog pod roguelike podcast, where each episode we awake to a shattered universe of roguelike games, use our word spells on it and then rank it against all the other games that we've we've talked about.
+0:48
+I am your fleshy mass host of the podcast Scott Burger and with me are my summoned Co host minions.
+Oh, it's Colin and my own personal summoned minions.
+Behind me, a swarm of gnomes casting even more summoned minions.
+1:05
+And this is Will, the minion of the minion of Collins.
+Hey, whoa, whoa, whoa.
+I thought.
+I thought we talked about this already.
+Sorry fellows.
+I I wasn't clear that I actually wrote intros for all of us.
+Rift Wizard.
+You heard a rift wizard?
+1:21
+Well, it's me, Andrew Harshman, your friendly local meathead metalhead FPS guy.
+And I of course love my heavy metal music and my riffs.
+It's me, Andrew Harshman, the riff wizard.
+And of course, I'm joined by Colin.
+He's on the slopes, he's climbing cliffs, he's the ski lift wizard.
+1:39
+And let's not forget Scott, the master of marathons, on his bike all the time going from here to there.
+It's the gear shift wizard.
+And last but not least, I'm talking about Will Wright, the Spliff Wizard, the wisest and most powerful.
+1:55
+Of all.
+The what?
+A spliff?
+Are you talking about mixing some cannabis with tobacco in a joint?
+Yeah, that's right.
+The most potent of sorceries I.
+Mean that's, well, it's maybe one could argue that's alchemy, but you know.
+Whatever Gandalf is smoking.
+2:10
+Oh, it's a, it's a, it's a spell.
+South.
+Farthing it's a it's a nature and enchantment spell is what it is.
+But anyway this this week we're talking rift wizard, not spliff wizard released in early access July 6th 2020 and released it out of one point O September 1st 2021.
+2:32
+This is AI believe steam exclusive.
+I don't know that this is on any can't find it anywhere else really, but this was made by Solo dev Dylan White, a former Arena Net you might know from Guild Wars developer and a former Riot developer.
+2:51
+And it's kind of funny that Arena net, the developers of Guild Wars, like their main HQ is in Bellevue.
+And so it makes me wonder if like if this is yet another like developer that somehow happens to live in the Seattle area.
+But anyway, Rift Wizard Enter enters the portal here on our program at the number 600 and 49th most popular regular game on Steam with 994 total reviews.
+3:18
+Your average player of Rift Wizard has about 25 hours of gameplay in it.
+But Colin, you have one sentence to describe Rift Wizard before the evil wizard Mordred shifts you to another plane of existence.
+3:34
+You are a powerful wizard who has forgotten his spells.
+You must relearn all of your spells and fight through many floors of procedurally generated hordes of monsters and blast things with your eventually OP spell combos.
+And maybe for you, maybe yours.
+3:52
+Are OP also very much a tile based, turn based, frustration based 8 bit theme, vibe, sound, sights, etcetera?
+Yeah, I feel like this game has has very much a early NES aesthetic to it.
+4:11
+Poof boy, apparently.
+Which?
+To be clear, I right at the gate, like I I personally like the visible.
+I I like the visuals, the visible visuals.
+I like them.
+But like, yeah, it's it is a pretty, I don't know, rudimentary is is rude because the art does have a certain charm to it, but it's like very utilitarian.
+4:32
+Minimalist.
+Minimalist there.
+We go, yeah, I.
+Think that's the word Oh my God, no, no, no, see this this game has made the bargain, the infernal bargain of of roguelikes where the visuals well, we'll get we'll we'll we'll discuss in more depth.
+4:50
+But the the infernal bargain is oh, the breadth and depth of the magic system.
+There's so many different spells, ways to modify the spells, ways to upgrade the spells.
+They all do distinct interesting things.
+You open up your spell book and there's like a list of all these different classifications and all this interesting stuff, but it comes with the cost of the the graphics are non existent practically.
+5:14
+But like, I think this is a really a great example of how yeah, you can you can achieve a lot of detail and and and granularity in a rogue like if you're not wasting development hours on things other other aspects of it.
+5:32
+Yeah, I, I really, I mean, I don't do any sort of coding, but I really like that you can just open up the files for the game and you're just like, here's the Python code for this game.
+It has like a separate window that opens while you're running it.
+Oh, that's like the the Python script running in the background.
+5:47
+I did not.
+Catch that?
+I was wondering what that window was.
+Yeah, if you close that, close the game.
+Yeah, really it's interesting from like a development perspective because not a whole lot of commercial games are made in like the the programming suite of π game.
+6:07
+But I feel like this this one is interesting because yeah, like Colin pointed out, all the files are there.
+Like you just go to browse your local files and like you can just see all of like right now I'm just I'm looking through the shrines dot π file to see like this is how all the stuff like for all the shrines in the game works.
+6:23
+And it's very interesting to see how all the code is working under the hood.
+And Python is, is a much more, I guess, upfront intelligible language than other than other ones.
+Like for example, I've been noodling with some caves of cud modding because I'm a sicko.
+6:39
+And a lot of that stuff is like based in, I believe XML and C#.
+And that is a little it's, it's a little, it's a little harder.
+We'll, we'll say, whereas this, it's like a lot more readable, like the descriptions are just straight up there.
+6:56
+Like in theory you could just like change all these values and stuff.
+Yeah, I was going to say, no wonder calling your builds are so OP or going to the damn Python And.
+Damage equals 100. 99999. 99 win equals yes.
+Mordred equals dead.
+7:13
+Yep, Yep, Yep.
+Well.
+I remember, I also remember when this game came out, it was like everyone was, was jazzed about it because they're like, oh, finally another coffee break roguelike game where it seems like like we talked there, there was a comment about like breadth versus depth and like how much you want to spend making art assets and all that stuff.
+7:37
+And we've played some pretty long in the Tooth games on here, like I think we'll put what, like 40-60 hours into Tome or something and. 55 or so.
+And Rift Wizard in comparison.
+Is last week Hades?
+I mean, you're, you could put a lot of hours into that.
+7:54
+That's true.
+And I think that like with traditional rogue likes like these, there's there's like rogue games on like the shorter end of the spectrum with in which Rift Wizard, Jupiter hell, Doom, RL are are all in.
+And then ones that are kind of like on the larger like borderline RPG end of the spectrum.
+8:14
+Tales Of Montreal, Cogmind, maybe that like start to skirt the definition of like, well, is it really fun if like you invest like six or seven hours straight and then your character just dies from something off screen versus this, which is like, yeah, I'll, I'll gladly reroll and restart a new game almost immediately 'cause there's so many like little, little toys to play with.
+8:35
+And then the other aspect, so like game length, but the other aspect was like this enormous spellbook.
+Like my Google Doc that I have that I'm reading through here has 19 pages of notes.
+I think like a full like third of that is just like screenshots of the spellbook 'cause there are, let's see, like 157 individual spells ranging from things like your standard fireball, your standard summon a wolf, your standard magnetize, your standard hungry Ma to things like sight of blood, volcanic eruption, void Drake, soul tax.
+9:12
+Mega Annihilation.
+Thank you for bringing that up.
+Yeah, there's a lot of great band names in here.
+We got Mega Annihilate, Wheel of Death, And don't forget Wolf, which if you put them on the right font, that's a pretty good band name too.
+Probably is a band.
+9:29
+Name Ring of spiders is a good ring.
+Band name.
+Imp.
+Swarm.
+Word of ice Spike ball factory.
+Oh yeah, very metal.
+Very metal for sure.
+They're obviously, you know, new wave of American heavy metal, which is now old, so.
+9:48
+But anyway, yeah, yeah, lots of spells.
+How many spells in total are there?
+There's a, there's so, so there's.
+The key thing here is that there are two aspects in which you upgrade your wizard in this one.
+You have spells and then you have skills which are more kind of like background passive effects spells.
+10:07
+There's like 157 of them and then skills here, looking in my other Google doc really quick, I think there's like 7979 or 80 passive skills that you can pick up ranging which.
+Are on the shrines?
+Is that what you're referring?
+10:22
+To no no, these are just things that like you, you add to your wizard over time.
+Things like Icy Vengeance or shatter shards or ghost like again, all great metal band names.
+Did you not buy any skills?
+I'm sorry, what are we talking about?
+10:39
+Oh my goodness.
+Oh no skills if you put K while you're playing and there's still so just pass it.
+Stop the podcast.
+I need to go play a separate 8 hours of this game so that I can actually play it.
+What the hell?
+10:54
+What?
+Yeah, there's just a bunch of pass effects.
+Like there's one that just like start the level with four Death Knights around you.
+Oh my God, and how often are do you get a skill?
+They take skill or they they take the same SP.
+All right, well.
+11:11
+I don't.
+I actually.
+Don't think of a doofus.
+Yeah, I, I feel like in a fair amount of my runs, I won't buy them until it's like realm 10 or something.
+So you've to they're, they're definitely a you buy spells first you upgrade your spells, which is the other component that there's there's spells, there's skills and then there's the sub spells for each spell which each one has like 5 upgrades you can do so.
+11:36
+And one of the I don't, I think this may have been a selling point initially and I think this is probably A cause for consternation with our last couple weeks of evaluating Rift wizard here.
+So maybe, maybe a, a, a kickoff point of discussion here is, is this spellbook too big?
+11:57
+Because like you open it up and you are bamboozled with just this like menagerie of options with each one laying out that, oh, this spell here is one that has a, a, a dark tag and an enchantment tag.
+12:15
+This one has a lightning and a sorcery tag.
+And to some extent you can, you can kind of filter that list down by clicking on the names of them or the the names of like the different magic schools or themes to them.
+So, oh, I only want to see the the dragon related spells.
+12:31
+I only want to see the holy related ones.
+But there's still a lot to read through here.
+Yeah, so here's that's that's one of the big gripes here.
+And there's just so many ways that you can take the I mean, you'll, you'll find my rating is not so great overall, but like there's so many ways you can make this game better.
+12:46
+And one of them is this just blatantly obvious thing I think is that yeah, you you have those spells, definitely have all of them.
+Don't make them all immediately available.
+The meta progression I know that rogue like is not that's a thing that people for some reason aspire to.
+13:03
+I don't know why, but like rogue lights is what you're after.
+You want to have a meta progression where you hide a bunch of those spells behind unlocks.
+And you know, here's a game that's you might recall, it's called Pokémon Red and Blue when you start and you going out there, you can find Spiros in the grass and you can find Ratatas and. 50 spells, 150 Pokémon that's.
+13:23
+You can only get.
+You can only.
+Get level 1 spells when you start off so.
+Coincidence.
+Actually.
+Yeah.
+That's, that's kind of not true because a a pro metastrat that I saw was like, as soon as you spawn into a level, so you start with one memory point and use memory points to unlock spells.
+13:42
+You would think that like, oh, I'm gonna, I'm gonna buy one of those level 1 memory spells immediately.
+But if you play it right, you can spawn in an area where you can just go and like walk and grab a memory orb and then you can start with a level 2 spell immediately.
+Oh yeah, sure.
+Level 2, Level 3.
+13:57
+I did bat run once.
+Is it worth it though?
+I feel like in most of my games I end up I ended up getting like 2 level 1 spells just so that I had something just you're like Oh no I'm what have you.
+I'm I'm I've run out of all of my spell casts and I am I just need to like plink 4 bats.
+14:17
+I guess I'll just get icicle it's.
+Not yeah, it's probably a better strategy to have those those low tier things in your back pocket.
+But I think Will Will brings up a great point that having.
+The doctor Oakes, he says, hey pal, 3 Pokémon, here you go pick 1.
+14:37
+He doesn't say here's 151 Pokémon.
+One of them I found under a truck.
+One of them I traded for on the school bus because for some reason you can't get the, the torus or whatever on red version.
+And yeah, it, it it's, you know, introduces them periodically.
+14:54
+I think fundamentally that that's a great point.
+It is, I guess, maybe a little overwhelming, but on the whole I admire the fact that it's just a giant fuck off bell book that's just like stacked to the brim.
+And I just opened the game.
+Yeah, sure enough.
+Skills then.
+15:09
+Staring me in the face the whole damn time.
+Well, not in the face.
+That's the problem.
+Well, I was thinking about it like once, if you, if you don't remember that from like the one second intro that you skip every time or like, I'm not sure I would have found that I hadn't known that it existed.
+15:31
+Well, I was trying to role play being, you know, a wizard that's lost their memory.
+So I just, the rift completely disregarded the rift wizard.
+No.
+Well, well, in the game's defense, when you go to the menu that shows all of your learned spells and like your upgrades, there is a little thing right there that says skills.
+15:51
+And if I had skills, they would both be appearing side by side anyway.
+Yeah, I, I think a lot of spells, I I don't know how else what's.
+What's a better way to do?
+This.
+I think that the Biggerson is not that it has so many spells, it's that there's not a good way to hunt for stuff.
+16:11
+I don't know how many times it's like so each spell has like between 2:00 and 7:00 sub tiers that you know like sub upgrades that you can get once you buy it.
+You cannot look at those upgrades until after you buy it, which is extremely frustrating cause some of them are not good until you get the like third tier upgrade.
+16:32
+It's like oh this spell if you kill something it refunds the spell cost.
+So it's like oh instead of having 7 casts you have unlimited cast as long as you use it right?
+Like so for example, the the wolf spell, I I found this to be kind of annoying where like the wolf spell has like, oh, things like you can like do more damage, have more health for the minions.
+16:54
+OK, those are pretty obvious.
+And then like Bloodhound summons a Bloodhound instead of wolves.
+What the Hell's a Bloodhound?
+What does a?
+Bloodhound mean it doesn't give you the stats for Bloodhound like I don't I.
+Would love to know.
+And there's a couple that there's not a very good wiki on either in the game or on the Internet.
+17:11
+And so I mean, there's like that one guy who did some project and it's like, I just go type it in.
+It's kind of annoying, but yeah, it's like.
+Maybe the Python code is the wiki?
+Yeah, I was.
+About Seriously.
+Yeah, There you go.
+There you go.
+But.
+There's some other things that I think like I think they actually need more tags for the spells because I wanted to search for stuff that's like AOE damage over time.
+17:35
+Like I wanted like some ways to categorize them and I wanted it to be like a little check button where it's like include spells with sub skills like does ice damage.
+Like OK, that's true for many of the ice spells.
+But like you can get like ice bear or ice wolf.
+17:54
+I don't know one of the summons gets like some of the summons get ice stuff if you upgrade them right?
+Or like you want to know, like, oh, like that's something that I can think of ahead of time with this spell of like, oh, I want to have that in mind.
+Because otherwise your option is like click, click on the ice tag that's there, scroll through the list of like 20 spells that are there.
+18:14
+And then maybe one of the sub spells has something that's energizes.
+Question or like I was I'm doing a conjuration build.
+OK here's 17 different animals you can summon.
+Look at each one and try and figure out does does it have a?
+Does it have a sub thing that does dark damage so that synergizes my dark conjuration build?
+18:34
+I don't know.
+There is a.
+Game now real quick though, I, I want to offer a, a counter to this.
+We were just talking about how this game is, is fast.
+It's it's encouraging you to experiment and to try different stuff.
+And if you die, who cares?
+You know you'll lose 10 minutes of progress.
+18:50
+That's.
+True, yeah, but it's also dumb to lose if you just are like oh I thought it did this but it doesn't.
+Yeah, that UI where I'm like, I'm like there just for the listeners, There's like there's these things that shoot beams at you unless you're like if you're in light aside.
+19:06
+And I was going to teleport to an area where it looked like it was behind walls.
+I couldn't move through them.
+There were obviously walls, right?
+No, they were pits.
+And he could see the all the things could see right over the top of these.
+Pits.
+Now the pits.
+The pits are.
+Very important.
+The pits are very important because of one of the I think it's the dark passage spell that allows you to teleport anywhere adjacent to a pit.
+19:26
+Metal.
+Also you can shoot spells over them or the volcano or the.
+Volcano, I feel like there are many levels where just like it's just, there are no walls, there are only pits and it it's like, hey look, I can shoot spells over these black voids that are very obviously not walls.
+19:42
+Yeah, sorry, Will, I mean, on the one hand, I I did make that mistake like early in my, in my my rifting, but but like, I feel like the game does a pretty good job of teaching you it like the first level almost always, like 50% of the time, at least it includes pits and it's very clear, like, oh, I can just shoot across them.
+20:02
+Like I think it's it's it's illustrated fairly well.
+Well, I think like in general, you're right.
+It's it's it's a simple UI.
+And not everything is clear, but except for the pits, which everybody knows the pits.
+And, and also like we're, we're kind of glossing over the fact that Rift Wizard has a sequel, Rift Wizard 2 that some of our complaints might be addressing.
+20:23
+We did not play Rick Wizard 2 for this episode.
+I think I've, I've dabbled in it a little bit.
+I didn't want to play too much 'cause otherwise I'd get confused between the two.
+They, they look and play very similar to each other.
+They look.
+Almost identical.
+Almost.
+Yeah, almost.
+Like there are.
+Some of the same.
+Sprites.
+Most of the sprites are the same.
+20:39
+Yeah, so, but, but coming back to this point of information management in this game, 'cause there's a lot of stuff in it.
+There's there's a lot of like really cool and creative stuff, but there's just a lot of stuff.
+And one game that that kind of like hits this just right, which stay tuned, is Path of Accra, which similarly is packed to the gills with zillions of skills and spells and stuff.
+21:06
+But the, the key thing there is it does have a search box and anything that you type into that, it will search like the text for each one of those spells and it will highlight them.
+So like, Ah, these are the ones that like, so for, you know, if I wanted to do something like, oh, I have a, a skill that does stuff with minions.
+21:24
+Ah, I want to know all the things that are minions, control F minion and then highlight all this, the spells that have stuff to do with minions.
+I that's like the the thing that I don't think exists.
+Anytime in any description it says the word summon.
+21:39
+I want to be able to just pull all of those.
+And I wound up, I wound up building out a a way to extract from the Python code and dump into a Google sheet a way that we can do that control effing you didn't.
+Share it to us before the podcast.
+21:55
+I put in the discord, did you not see it?
+No.
+Oh.
+My gosh.
+Oh my goodness.
+I.
+Dropped an aversion.
+I saw the, I saw the one where we'll put like 700 spells in a in a.
+You're welcome.
+Talking about, talking about information management.
+All right, This one's much better as as the listeners are listening in on their car, imagine a Google Doc being put into your Discord, and imagine Colin I.
+22:19
+Better request access.
+Yeah, I don't have access.
+You shall.
+Not this is this is the best part of any podcast where everyone gets updated access to the Google.
+OK, now, now everyone has access to it.
+Anyone with the link can view now.
+Oh, it's because I, I sent a copy of the anyway, and yeah, so I wound up like going through the Python code and extracting all of the spells, all the skills and like all of like the, the source code text description to it.
+22:47
+So that way like, 'cause I was like exactly like Colin's problem.
+I wanted to be like Min Mignon and they're like, OK, what are all the things that have to do with minions?
+Because there's, there's some stuff that like it doesn't say it in the main description, like void orb, the main spell does not say anything have to do with minions, but like the, the upgrades have to do with minions.
+23:07
+So that's something that like, oh, I would love to know that.
+And like, it's very easy for as us as like armchair critics to say just do it.
+But you know.
+I feel like that is our right as armchair.
+Critics well, hey, great news Rift Wizard 2, you know, it's an early access, so hopefully they can add this.
+23:25
+And and I mean, generally, to be clear, I mean, I I agree.
+This is this is an obvious quality of life.
+Miss I I don't know if it's, you know, it's if it's a huge issue.
+I don't think if it's a, it's a reason to say that this is worse than.
+23:43
+I think it's the games we've covered.
+I think it's just a it's, it's something that keeps me from.
+It's a point of friction.
+Got you.
+It's it's a barrier to learning the like the synergies between the spells too.
+Like I think the descriptions are are good and they're clear and concise and it's like spell wolf summon a wolf.
+24:02
+Got it.
+OK, that's pretty clear as to what it does.
+But like.
+What does red?
+What does the void orb upgrade Red dwarf do?
+It's like I'm not going to buy void orb just so I can find out that it does additional damage of fire to adjacent creatures.
+24:18
+Right.
+Yeah.
+So it's like it's that having to Pierce The Veil by spending your your memory points just to figure out what it what does it do?
+And, you know, so I think that there's like there's an element there, but yeah, I think like once and I, I think I've crossed that that elbow mark, as it were, of like, OK, I kind of have a feel for like where the spells are like how they interact with each other.
+24:43
+Like I kind of know where nightmare aura is like just scrolling through the list now.
+So yeah, I'm going to take that, but it takes some time.
+And I think that like that's something that like, I think if someone's a new player and they're just totally overwhelmed by all these spells, you know, it's, it's it would be, it would be nice.
+25:01
+Your alternative, I guess, is maybe to just like focus on like one specific spell school, like only do fire or lightning spells at first and only do things that are like within that specific magic school.
+And then you can kind of like see, OK, like some other stuff keys off of that.
+25:19
+But I think like in interviews with the developer, like he's, he's had like that meta progression discussion with play testers and I think like it's gone back and forth like several times.
+So I think it's like it's something that I could see as like maybe a maybe a mode that like, yeah, I.
+25:39
+Think.
+So.
+There is, there is the mode, there's like a couple of those other modes that are like randomly get rid of 70% of the spells.
+And I think that's like a good idea.
+I wish that there was something that happened during the game that would let you do that and have it be somewhat more targeted.
+25:59
+Like get rid of all schools of magic that you don't already have a spell for in exchange for something.
+So it's like, OK, I only have dark only and nature.
+That's I guess that's all I'm doing now.
+But like.
+For like, sacrifice an entire school of spells.
+26:16
+For yeah, something where you can sacrifice complexity of your builds in order to gain some power and also decrease your cognitive workload.
+Yeah, no, that's uninteresting.
+And then like that's, that's a good.
+Scrubs like us could just be like, yeah, all right, cool, I don't need to think about all of the like, various dragon and I and orb spells.
+26:36
+The orb and the word spells.
+And the words.
+Spoopy, spoopy spells.
+What else?
+Swamp spells?
+Oh yeah, yeah, I'd gladly sacrifice every other school of magic.
+All I need is wheel of death baby.
+I mean, OK, so this is the yeah.
+26:52
+And it's like all yeah, the the paradox of choice.
+I mean, that's what we're talking about here is a yes as a for all you parents out there.
+That's not me.
+But the, the tip that really is tied to that is if you have like a kid and the and the you want them to get dressed in the morning, you don't tell them to just go to their room and, you know, choose something.
+27:10
+You you say here's 2 outfits, pick 1.
+And in the same way, slay the Spire, because we.
+Have to.
+Well, no, but I don't want either of those outfits, Daddy.
+And then they explode and then they're weeping on the ground just having a full meltdown because they needed the the yellow shirt.
+Oh, I thought you were making a a drift rift.
+27:25
+Pardon me.
+Rift wizard a joke.
+Drift wizard is is some of the friends that we had in high school Rift wizard joke where like the kid explodes into a a a a mercury Geist.
+Or something that could also put the house on fire.
+You know what?
+I think that's.
+Yeah, that's sure.
+That's also what I was doing.
+That too.
+That too.
+Yeah, your actual human child explodes into a Mercury Geist.
+27:45
+Yeah, the Geist.
+Excuse me?
+Yeah, good stuff.
+So yeah, there's a lot of spells.
+Which wheel?
+Wheel of Death OP for the record.
+Now I will say that like with the bamboozling amount of options, the the one advantage that you get out of this is the is what is it like tech switching?
+28:05
+Like options such that like if you are like, OK, like building up like a really dark heavy build and then all of a sudden like, oh, my only options are like portals in which like dark is like totally resistant and like, oh, this build is not going to work at all for these levels.
+28:23
+What do I do?
+Well, lucky for you, sorcerer, you can just straight up take a different school of magic at any time.
+And then now your dark spells can redeal lightning damage on hit, for example, or redeal like waves of fire damage.
+28:42
+Or if you're all fire and, you know, you come into a level that's all fire resist.
+But now I have a thing that ties like ice clouds to that in some interesting fashion.
+I feel like the the paradox of choice here is interesting to debate about because, yeah, like you could very easily do like, all right, I'm going to pick the spell.
+29:02
+And then the only things that are listed in the spell book are things that like strictly synergize with that, but that limits you from starting up an entire new tech tree branch like that's completely unrelated at any given point in time, which I think is an interesting, interesting approach.
+29:23
+And I kept, I kept wanting to say that like I wanted the limitation the first few times that I was playing.
+But now that I've kind of, well, you know, now that I've joined the elite ranks of Mordred Slayers.
+Yeah.
+I think like having the option to like re spec my stuff at any given point is nice.
+29:43
+Maybe I just, I just really want like a, a, a rogue light mode of like, OK, I've killed so many monsters or so many Wizards with things now I've unlocked like this spell or this spell to like give me something to chase on.
+I want there to be a trap for noobs where it's good for you until you get to like level 15 and then it stops being good.
+30:05
+So that it like helps you, helps you get to the like beyond a certain tier.
+And then once you're skilled enough that you don't need it anymore, you can move beyond it.
+That's what Wheel of Death was for me, almost 'cause I, I invested so much into that and I didn't realize that there was a, a spell specific or a passive skill that like reduces the dark resistance.
+30:25
+But anyway, yeah, like, I think that would be cool.
+I think like for a large part there's only like 3 of the arch mage trials that are interesting out of like the 10.
+There's the ones that have like the the spell book, a big chunk of that removed, a big chunk of the skill book removed, and then the one where the only spell that you have is wolf summon.
+30:48
+Yeah, that's the only one.
+I've other I've heard people.
+Wolf mode.
+Yeah, 'cause the other ones were like, what is it?
+Just looking at it a second ago here and oh but Giant Slayer.
+All enemy units have 300% HP Not interesting.
+Flame Fest All enemies have two 100% HP only fire spells.
+31:07
+Maybe like the the extra tankiness of the enemies just kind of seems.
+The game's already hard, it doesn't actually need to be harder.
+Flame Fest?
+Isn't that the nickname for the Omega Bowl?
+Just a.
+Giant flame war between the.
+31:23
+Going to go to fire fest.
+Right, right.
+So what hey, you know wow there, as as I said before, this game has made the infernal bargain, which allows it to have oh so many skills, so much stuff going on.
+It's really cool.
+It's good, but golly Scott, what is the story?
+31:42
+Ah.
+Yes, well, the the story in this game and actually, I think like this game I was I was harping on.
+I think it was a pre Andrew episode of shattered Pixel Dungeon where I was like there's no story in this game, blah, blah, blah.
+Like I'm I'm a big sour grapes about it and everything Rift wizard in comparison has a black screen with just white text on it.
+32:06
+But I, I love the text here because I think it just, it adds so much like flavor to this that otherwise, like if this didn't exist here, I feel like the game would be like, you know, it's still fun, but it, it's like, it just adds a little bit extra spice to it.
+So, but literally like agreed, 2 seconds into the game, click, click new game.
+32:26
+You're greeted with a wall of white text from a very NES style saying welcome back wizard to the ruins of the universe, which I'm just like, I'm, I'm 100% on board with that one sentence.
+You could just say that I'd be on board.
+Continues eons have passed while you slumbered.
+32:44
+You have slept, walk across many worlds.
+The universe, once ordered and beautiful, lies in chaos and ruin.
+And you as well.
+You were a great wizard once, but your magic and your memories have faded.
+Your purpose.
+You remember revenge.
+33:00
+The dark wizard Mordred is nearby.
+Perhaps he is what woke you.
+Regain your power and slay Mordred and then bam you're in level.
+One that is the entirety of the story of Rift Wizard.
+Well, there is there is a little bit of of stuff at the end after you beat Mordred, but I think like that that is just like it's it's clear, it's concise.
+33:21
+That's all I that's like the MVP that I need for like a story in a game, just like.
+Something that yeah, I think this game would be strictly worse if it had more story.
+Yeah, I could see that.
+I think it would.
+It would.
+It would degrade the purity of the experience perhaps.
+33:37
+Perhaps, and by by the same point as as you said, Scott, without this intro text, I think it would be it would be like objectively a worse game, a less enjoyable experience like that is that screen with like a paragraph of text is like gives you a great bit of context that that really I think, yeah, heightens the rest of the game for sure.
+34:02
+I mean also, oh, go ahead.
+I mean, that's all just sort of like the fluff to explain why every time you die and come back like you, you have like you're learning different skills.
+Essentially, it's just if you feel like the game was developed and then there was like a what is the story I can make to make this work instead of it being where it's something where they're integrated together.
+34:22
+So I don't know, I think it's I think it's stupid.
+I.
+Would have been OK if it just said you are a wizard.
+Go forth or, or just like, was it Dungeons of Dreadmore?
+Was that the first one we did?
+Right?
+And it's just like, yeah, it's a similar thing.
+You're going to go kill the wizard, but it's just like, yeah, kill, kill the, you know, make it to the bottom, kill the bad, big bad guy.
+34:43
+Got it.
+I mean, I I don't know all the you're losing your memory.
+All this stuff is like I.
+Mean, yeah, like it's, it's not like we're, we're whiplashing again, as we do so frequently here on the podcast between Hades, a game that is quite literally like a borderline visual novel of story to this, which is like A1 screen, like 10 line thing of text that's just like you could click through in two seconds and it wouldn't have any impact.
+35:10
+And I feel like that's fine here 'cause like this game is not about the story.
+The story is just like window dressing.
+That's like, OK, yeah, that's like we were just talking before hitting the record button.
+Putting too much salt into something and now it's completely inedible.
+35:25
+It's the tag that you cut off when you buy a new shirt.
+It's there so that you like, oh I know how it was made.
+Cool.
+Never look at this again.
+I, I think y'all are, are selling this intro short.
+I think it was written deliberately.
+I, I really like I, I do like the flavor.
+35:43
+I, I think it's neat and I think it, if, if you allow yourself to use your imagination a little bit and, and, and look at this game as an abstraction of what's happening.
+I, I think there's, I think it's, it's very, very interesting.
+I think that intro screen gives you just enough context that that can then like radiate out and kind of inform the rest of your experience.
+36:06
+I've got it now, though, you're you're bringing up this point where, well, there it with the NES style graphics.
+What kind of story can you tell when you all these other games where it's just like where what is it on the the last spell?
+Like it, It's just like essentially images that are like panning and zooming and it's just like an appearing on the screen.
+36:26
+It's like nothing's really animated except for the fade in and and panning.
+And so that works really well.
+But this like what what can you do with the NES style graphics?
+Well, I mean, this was written in Python, so you could do something, you know, have a mat plot lip, give us a beautiful wrath or something, you know?
+36:42
+What you could do?
+I do want more graphs in this game.
+I want like a beautiful graph of like which spells did.
+What do you think Wheel of Death is?
+That's a beautiful pie chart of doom and destruction.
+I think with like with this kind of aesthetic, you could you could pretty easily do like an intro fade in to just like a static screen, any style, color palette, pixel art of just your blue wizard being woken up by some tumultuous thing and then the red wizard off of the distance, something pretty easy like that.
+37:15
+Yeah, a couple.
+And then the the red wizard teleports away.
+Yeah, the victory, the victory screen when you when you defeat Mordred just says victory.
+Mordred is defeated.
+Order and justice will soon return to the universe again.
+37:32
+Excellent.
+Exhausted, you fade from consciousness back into sleep.
+Perhaps this time you may dream.
+And if it was just like like some like static image of like the, you know, Mordred, the red wizard like exploding or something just and like the blue wizard just like napping on like a pillow like that, that's all like you, you don't need it like the.
+37:56
+Fire has a couple of like still images there at the end.
+There you go, love a good love a good still image you you do want to feel like you know I.
+Actually didn't remember that the that there was text at the end when I beat it.
+I think that's another thing you can accidentally click.
+Through really too overjoyed.
+38:12
+Well, as yeah, I, I, I've, I've made a point of saying that I don't like read me document victory screens and it would be nice if there was a bespoke custom graphic because, you know, back in the day, you know, that's that's all we had like into the end of NES game.
+38:28
+Like part of the excitement was like, oh, what new asset art asset is going to display at the end of this game as as a reward of.
+Sorts if there was like a NES box style art.
+You know how they like the art for the box and the manual?
+Always like wildly out of character with the game.
+38:44
+Sure.
+The only image in the entire game.
+It's just like a 90s style like animated just guy.
+An animated guy, Yeah.
+With an artist that didn't didn't get a very good briefing and just drawing them completely different.
+Yeah.
+Well, I mean, again, you know one.
+39:00
+Yeah.
+I would have loved to.
+It'd be awesome if there was a little graphic or something like you're describing, Scott, But I don't think there has to necessarily be that much more because again, you know, the focus on this game is that big old spell book.
+How about Pac-Man?
+Do you remember being super excited about seeing, you know, once you made it 5 levels, 10 levels, I don't remember things.
+39:19
+And you're like, oh, what's going to happen next?
+And Oh my goodness, the ghost is chasing.
+Me and then.
+And so.
+Right, Sure.
+I don't know what you're talking about.
+I think that.
+Would have been just fine.
+I don't know, I guess I'm just saying I think that it's a very bare bones game.
+It didn't have to be.
+39:35
+There's so many areas that could have been improved and they just, it just was not.
+Well, I think like this.
+This also may have just been sort of like a, a tech demo playground more or less of just like, hey, like I have a, a bunch of ideas for all these cool spells.
+Let's just build a playground to like nuke stuff with sweet 'cause I think the sequel Rift Wizard 2 has kind of taken some of these ideas and polished them up a little bit.
+40:00
+I think like the the presentation layer, what I would want from like a Rift Wizard 3 is maybe a little bit more focus on like the presentation aspect.
+Because the systems are there, the game plays well, but the difference between NES games that have zero or extremely minimalistic art and flavor or animation to them that still play really well.
+40:29
+But I think those are enhanced and made better by those investments into that kind of animation art cell.
+Like I'm thinking like the difference between like NES Contra one and SNES Contra 3, like 2, Like they both play like, you know, tough as nails.
+40:46
+You know exactly what you're getting for.
+I don't I'm not exactly saying that rift Wizard 3 needs to be a Contra three level of like animation and investment, but like there's there's stuff about that that I feel like this game and series would be well served by.
+41:01
+Even even stuff that like on our previous episode Shear and the wanderer, there's like little like breaks in the combat.
+Well, I don't know, like I said that and then now I'm like, but this game is so fast like that would just interrupt it anyway.
+Perhaps, Perhaps.
+I think we need to talk about some of the enemies.
+41:19
+Yeah, oh, this game has some great enemies.
+Including.
+Well, I felt like I was cutting you off.
+Obviously.
+The ghost frog.
+No, you got the ghost frog.
+You got you got every type of dragon you can think of.
+You got hydras, you got you got tiny bats.
+41:36
+You got big bats.
+No but but seriously there are like some interesting kind of unique fantasy monsters that that aren't like super copy paste from other sources like like the Mercury Geist we mentioned earlier.
+Like I thought that was kind of cool and novel.
+The game is full of like cool and novel characters including satyrs that are carrying around based on the the pixel art martini glasses as far as I can tell.
+41:59
+I thought they were wine glasses, but that makes more sense.
+I, I do like the, yeah, like the, the very minimalistic art here, I think works with like the charm of the, the enemies because like you only have, I don't know, maybe like 40 pixels to work with or something and like 2 frames of animation.
+42:17
+But like they, they just look all so silly between like even just like your base, like there, there's one called the green mush boom that is a mushroom with a, a mean looking base on it that spills like poison spores that I hate, hate, hate, hate, hate the poison system.
+42:35
+But like giant spiders, troublers, evil fairies just got straight up vampires, polar bears, faze spiders, blood bears, bone shamblers, minotaurs, giant toad, false prophet, mind devourer, glass golem, ice worm with AY, you got your Draco lich, your Titan.
+42:59
+Oh my God, how can I forget the Titan?
+Floating eye mass, gold skull, twilight night all over.
+Like, yeah, Cockatrice.
+I.
+Mean there's all these cool enemy spellcasters too.
+You got liches, you got fire mages, you got swamp hags, you got the the don't forget the the avian wizard, which I misread initially.
+43:21
+I was like, oh, I don't know about this game.
+I kid.
+Of course there was a certain point in one run that I was doing where I was literally just picking portals based on like what enemies were in it and like, oh, that sounds like a fun, cool thematic fight.
+Let's go like I want to.
+I want to duel this pyromancer on a Cliff.
+43:38
+Yeah, like, like one one that I fought was so like as you progress through the middle game, part of this, you'll be encountering like elites and then like, yeah, actual like Mordrade is not your only sorcerer wizard that you're fighting.
+You're fighting other Wizards throughout the game, which are like very interesting and cool.
+43:56
+Like like the Twilight Seer, who is a living dark and holy enemy unit.
+And the all the Sprite work for them is really fun and cool because they like they look very thematically similar, but different than your little blue wizard guy.
+44:11
+And they have like all of like the same spells that you do and like all the same passives and, and things that like, oh shit, this is like a straight up like 1V1 wizard battle and like, will my army of summoned skeletons like beat his army of summoned hell hounds or something?
+44:31
+Yeah, and that's what I'm talking about.
+This game is is full of these these cool situations where like if you take a minute to like to, to, to slow down and look at the screen and go, OK, what is being expressed, Let's let's think about what's actually happening in game.
+It's like really cool.
+44:47
+Yeah.
+These two warring armies crashing against each other.
+It's like, it's like a Magic the Gathering duel.
+It's sick as hell.
+But I do have a question.
+What the Hell's a troubler?
+It's like a floating egg that teleports you.
+Egg that teleports you.
+It's very troubling.
+45:03
+Very cold.
+It's got a face on it too, right?
+Yeah, it's also really annoying to fight.
+It's like you get close to you, full of.
+Trouble.
+Full of trouble.
+I think the the creativity with some of the enemies here, I'm I'm kind of fumbling the ball like.
+45:20
+I like how there's little details like where like the werewolves, when you when you defeat them, they turn back into a naked man, just a naked scraggly man like Homer Simpson from that Sasquatch episode and like goes running off or same thing like the orcs.
+You know the orcs are riding on boars and of course you kill the orc, but then the boars.
+45:37
+I don't think any individual enemy has like a is like, oh wow, that's so creative.
+But I do think that, like, the breadth of things that they can do and the number of enemies and how they're all kind of how it changes how you play each level when you combine them in different things.
+45:54
+There have been so many times where you're like, OK, I need to look at these two portals very closely to try and figure out like, how is this going to work?
+And I think that's where I enjoyed like the variety of the enemies because like there's sometimes where it's like, oh, this enemy by itself, not a big deal, but like the combinatorics of it, plus this other thing that'll be healing.
+46:16
+It is going to make this an impossible level for my current build.
+And like how like understanding how all of the elements of your build interact with the elements of each realm is really, I think that's what makes the enemies the interesting.
+46:33
+It's like.
+No, you're totally right.
+I'll combine into.
+The gears together.
+Totally, totally with.
+Level design as well too, because like some levels can be like very like heavily choke choke pointed in with like very lots of like narrow hallways.
+46:50
+Some of them can just be big flat open arenas with lots of chasms.
+And I remember having this one like very tense battle with Kronos Titan immortal who is a fire living holy unit with 1200 HP, does 35 physical damage for melee and he shoots 7 range fireballs that have a six radius explosion.
+47:17
+And he gets and he has like a one life to him too.
+So you have to kill him twice.
+And I was running through this and like, Oh, well, obviously I will just like death roulette him from across the map until I ran out of spells for it.
+And then I had to like run up and like get up within his like fire aura and take damage and like drop mega annihilates on him before I before I died from like proximity fire damage.
+47:47
+And it was like super intense.
+And I'm like, Oh my God, do I need to like figure out how to go and like pick up one of the memory orbs beforehand and pick up like a different spell to Nukem with?
+Like that I felt was like a super interesting and fun experience that like, yeah, like you just you don't get in any other kind of game of the style.
+48:08
+For sure, for sure.
+And to the point I was, you know, I've been making throughout the episode, if a bunch of time had been spent making this game pretty, I don't, I don't know if necessarily we would have gotten those, those cool, interesting battles like that.
+48:25
+And yeah, Colin, you're, you're, you're so right that like, in addition to there being a lot of depth to the spells, there's, there's a lot of enemy variety.
+And, and yeah, it's it, all of this leads to there being, I mean, it got to be 150 Pokémon.
+All this leads to like the game being full of interesting choices and analysis.
+48:44
+Like every level you are, you have to choose which portal you're going to go to next and you're analyzing OK, you and you get a preview of the of the next of the.
+You can go into the portal and see what you'll be up against.
+So you get a you get a preview of the rewards you're analyzing like, OK, how am I going to use these rewards?
+Oh, is there a shrine?
+49:01
+Do I want to upgrade something?
+All right now let's take a look at the level layout.
+All right now let's take a look at the level like what monsters are contained within.
+And I, I think, yeah, there's, there's, there's a lot going on and it leads to interesting opportunities for you to strategize.
+49:17
+There are 150 enemies, volcano, turtle, red fiend, elf, elf, lightning Lord, mind devourer, ghost mass.
+But yeah, I think.
+Are there any brain gorgers?
+Let's control F for.
+49:32
+Original idea Do not feel there's no.
+Brain related How about gorge?
+Oh, that's a big A green.
+Gorgon, but it's not.
+It's not a gorgon anyway.
+There are a list of 180 in my in my personal list of creatures.
+And.
+I'd be interested to know what the the overlap.
+49:49
+Is brain Pokémon.
+Like is there?
+Pokémon that's just a brain that's floating around.
+There's like 5000 Pokémon now.
+I know that's what I'm saying.
+Like I'm curious, have they gotten to the point where they're making brain Pokémon?
+I know they made like he's and swords and shit so.
+Ditto.
+Kind of looks like a brain.
+50:05
+No it doesn't.
+Ditto.
+Looks like a ball of play DoH.
+Neuro.
+I mean he's like the right color masking claws.
+These are the smoothest of smooth brains represents.
+But I think we should, boy, we should probably talk about the final boss battle with Mordred.
+Which I did not make it to.
+50:22
+I think we only have two Mordred slang champions.
+I mean I put Shads over.
+Here I put 25 hours into this game and I only made it to Mordred once.
+Whoa, yeah, I think.
+It's not an easy game.
+It's not an easy to get well depending on which speedrun video that you're watching where people are just like Wow.
+50:41
+Yeah, everything I'm You can't compare yourself to speedrunners.
+I've tried once.
+They are certainly, they are certainly fun videos to watch, but the the final Mordred fight is is certainly interesting from the aspect that like you, you drop into his arena and you're like, oh, well, it's just it's just one guy.
+51:00
+I can take out one guy in like a handful of mobs.
+Until you realize that you have to kill Mordred.
+What is it like 5 or 6 times and?
+Seven times.
+Seven times and throughout the process like you have to not only deal with his spells, but you have to deal with him using a planer intro or planer interposition every thirteen turns, which changes up the arena layout, including like removing some aspects, keeping some aspects the same.
+51:38
+But like if you have like a bunch of summons on the map, like they can fall into pits, they could be replaced with walls like enemies.
+It's like the enemies will be refreshed.
+There will be like different items on the map.
+There will be more spell words for you to pick up if you can make it that far, but you got 11 turns before he switches it up again.
+51:58
+So it's like it's like you are in this like wizard battle where like reality is crumbling and you have to like kill him before he can like keep re summoning new realities of new monsters for you to fight, which I thought was super fun and interesting.
+And I thought that like it was like super down to the wire for me.
+52:16
+Again, I didn't have like the best.
+I thought I had like an OK build going and I was actually impressed that I had made it that far and I thought, OK, well, if I die here, it's fine, whatever this is.
+I'm just playing with with house money at this point.
+But I beat him with like the last mega annihilate spell.
+52:32
+No, no, it wasn't even that.
+I'd run out of mega annihilates, and I was.
+Relying.
+No, I was relying on the the Soul Harvest passive skill that whenever an enemy dies from dark damage it has a 30% chance to refresh that spell.
+52:51
+Oh, so you were just like hoping it was gonna refresh your spell so you could use them again?
+Yeah, and I basically had to like key off of the fact that I like needed him to refresh the arena so I had more mobs to like to kill so you could nuke so I could do damage to him.
+53:09
+That's wild.
+'Cause I can never get close enough to him to use my magic missile on him.
+I wish.
+I had, I did think that was the one I really liked the Mordred fight.
+I thought it was really interesting.
+I thought it would, it did feel thematic.
+I feel like that's the only other part of the game that felt like it had story related stuff where it's like, oh, he's summoning new existences around you to like defend himself.
+53:33
+But I did find his specific spell where he like swaps spots with you or like teleports you across the map to be really annoying because it was hard to get close to him.
+I think if you.
+Had to build, Yeah, I had a build that didn't, that didn't really matter.
+But like, if you were just like, I just need to get close to you to do anything, it'd be maybe not a hard counter, but it'd be a pretty good counter against that build which would have worked for the rest of the game.
+54:02
+For sure I haven't seen the Mordred Sprite, I'm looking it up right now.
+He's a red wizard.
+I'm going to do a a live review.
+He's literally just yours.
+You're right.
+Yeah, he's just your Sprite of red.
+That's awesome.
+54:18
+How delightful, how charming.
+One person did all the art, right.
+The art and the music I believe done by one person, but the game was designed by another person.
+Is that is that correct?
+But I'll, I'll, I'll.
+What a dynamic duo.
+Fantastic.
+I feel like this rounds up to a solo dev effort enough.
+54:35
+Yeah, I think that like even just looking at the like the screenshot that I have here of the Mordred fight, we're like there's just like tons of walls and like floor tiles.
+Like it looks very, it looks like good to look at.
+54:52
+And there's like not a whole lot of complexity to the walls or anything.
+But like, there, there's a certain amount of charm in its simplicity that, yeah, like, if it was like up to like, Super Nintendo graphics, it would, you know, it would be different.
+I don't know if it would be better, but it would be better.
+55:08
+I think it's like it's, I was looking at some, I mean, it's games, I think it's somewhere in the, in the in between.
+It's got more colors than an an actual NES game.
+I think we forget how bad they look.
+But yeah, I'm not sure.
+55:23
+So I, I was, I was thinking about this while I was playing the game.
+There's a lot of information being shown on one screen.
+Would it be hard to physically fit all of the stuff that's on the screen if there was more visual like visualization, like, I don't know, like based off, I'm just looking at the sprites and they're very small.
+55:47
+I don't know if you could make them look that much better just without.
+I can answer.
+That invisibly small.
+I, I don't know, I didn't even think about this until like today.
+Basically when I launch Rift Wizard, it takes up about half the screen.
+56:04
+And I never bothered trying to change that.
+It's literally just half.
+And I was like, Oh yeah, maybe I should like try to full screen this.
+Oh well.
+And I think it's a setting on my monitor.
+But so yeah, I think you could, but I, I get what you're saying.
+56:19
+Like especially late game, like there's a lot happening, there's a lot happening and it's it, it, it arguably the graphics that that is perhaps a benefit of the graphics that's able to.
+Streamline something that's extremely you know well, don't get me wrong, I think that you could make a game that looks better than this and so have it play the same but but I do think.
+56:43
+This is, yeah, potentially a a, a, a soft strength of sorts.
+Let's talk about the music.
+How about that music?
+What do you have to say about the music?
+I know Will didn't listen to it at all because he turns off music immediately.
+The the the music very very much singular.
+57:03
+It's mostly one time music.
+Again, like, because this game's all of its assets are like free, freely available to look at in in the game I'm just browsing here.
+Yeah.
+Could I just add more music in there?
+Well, you could, but in theory I think you would have to like change up the source code to cycle through different tracks as well.
+57:24
+I could just make one really long song.
+Yeah, or or yeah, like you make one.
+Really important episode of this podcast and enjoy the Grotpod.
+But there are, there's a number of different tracks in here.
+You might think it was only just, I only thought it was just one.
+There's eight different ones.
+57:39
+No, there's definitely more than one song.
+But wait.
+Really, I I thought one of the tracks was like 30 minutes long, 20-30 minutes long, and then the rest were just kind of, maybe I was looking at the wrong band camp.
+Nevermind.
+Anyway, do continue now battle.
+Two is 21 minutes long Battle one, like the title theme, is like 4 minutes long.
+57:59
+I see.
+I see.
+And I do, I do appreciate that the the final boss fight theme is different.
+Oh.
+Yes, I liked that.
+I mean, that's good.
+Listen, hey, hey, listen up developers out there.
+There's so many games where we've talked about where it's like, and you get to the end of this rogue like cycle and the the the final final encounter is a non event and like that's just not acceptable.
+58:21
+Like here, a solo dev, like with, with limited, with a very simplistic, you know, straightforward, simple graphics was able to make a bespoke, interesting and wildly exciting final encounter.
+And little touches like, oh, there's unique music goes a long way.
+58:38
+There's three songs.
+That's two of and one of those is the the Mordred song.
+So there's two songs.
+Awesome, awesome.
+But but enough about us talking about the what do we think of the actual music?
+I think it's pretty good.
+It's like a dungeon synth type soundtrack.
+I like it.
+58:53
+That being said, I didn't listen to it the whole time, that's for sure.
+I did listen to it the whole time and I think that this is not, I think this is relevant, I think it's good, but I think there needs to be more songs.
+More variety.
+59:09
+Like even if it was just the same style but for songs.
+Again, this is this is something that Rift Wizard 2 I think adds more music to it.
+There's I don't think Rift Wizard 2 has a whole lot more, but it is it is more.
+59:25
+There's a lot of time you spend just staring at spells where I'm not being distracted by anything except for trying to figure out the combinatorics of various nature, fire, arcane synergies.
+And it's the one song going over and over again, which is like, it can get a little bit grading.
+59:45
+Sure, yeah.
+A little bit grading, all right, OK, I don't know, it's like.
+Good.
+But it fits really well.
+So it's I'm a little bit torn on the music.
+Yeah, sure.
+I think I agree.
+I think it's good.
+It gets repetitive but it's like it's just.
+Like backgroundy enough that I can kind of tune it out.
+1:00:04
+And I think for the most part, like playing this on the Steam Deck, A you can play it on the Steam Deck.
+It takes a little bit of tweaking to get it just right, but surprisingly quite playable.
+And yeah, I think like for the most part, I just had it had it muted just because otherwise the music could just be like playing on a loop in the living room and then I'm sure I would get like a pillow thrown at me or something.
+1:00:25
+But yeah, I thought it was.
+I thought it was fine, like good generic background music to just kind of like zone out to to some degree.
+And then like that final boss fight theme hits and the music switches.
+You're like, oh shit, like gamer mode innate, like engage, lean in 20% and you're like, all right, I I have to focus here.
+1:00:44
+The music, like, like everything is so different.
+Sure, sure well, let me tell you real quick about my music experience with this game and and I would recommend not to take away from you know the fine work that the musician did on this on this game.
+I again, I, I have a soft spot for for dungeon synth.
+1:01:03
+This is definitely part of that, that school of magic.
+And like, I, I like it.
+I like that the, the, the, the music that's in the game.
+And I like that it's not too, you know, it's, it's not really it is it's kind of atmospheric and it's kind of droning and that's good so that it's not grading and you're not like hearing the same like very distinct melody over and over and over again, which can get really madding.
+1:01:24
+But most of the time I was playing this game like I, I, I entreat everyone to sit down with this and and put on a really good like black metal or death metal album.
+Fire up some emperor.
+Fire up some battery.
+Go download the soundtrack of The Last Spell.
+1:01:41
+Maybe, but that would work potentially as well.
+But like some, and if it's thematically appropriate, like great, if the, if the songtrack is like, oh, the, the, the, the, the, the, the pyromances wrought will upon the ancient battle side or, or something like, and then, and if it, and the more, you know, Norwegian accents, the better.
+1:02:00
+And like you just kind of like, you know, sort of zone out a little bit.
+You let your imagination go wild.
+You really start kind of analyzing what's happening and on the screen and you're gonna have like a good epic time and you're gonna go on a fantasy adventure that is that is the likes of what you haven't seen before.
+1:02:17
+Look at some background music from Choir of Angels.
+Combust, Poison, Death, Chill.
+All in my.
+Favor ether swab, Amplified venom, toxic spores.
+Megan Highly.
+Scott is naming off my my my actually my my Spotify Wrapped list.
+1:02:34
+Will, I'm curious you you what you were listening to when you were playing Rift Wizard, because you famously almost always mute the game and listen to like, were you listening to NPR or something?
+No, in this case, actually I did not mute the music.
+I just turned it way down and I didn't listen to anything.
+1:02:54
+You just.
+You just silence rather than you brute forced it.
+I would prefer silence.
+But did you mute the sound effects, which are chunky and charming and I love?
+Them.
+I did not mute the sound effects I found them to be.
+I would use the word sufficient, but I just have such a negative perception overall that I can't use that word.
+1:03:14
+Adequate boy.
+Oh no, it's not.
+It's being a real spoil sport.
+It'd be a real Mordred over here.
+Well, I feel.
+No, that's a Mordred is actually the good guy.
+You're presented like, I mean, there's a, there's a.
+Very good.
+This whole time, your memory's coming back to you.
+You were actually the evil thing they tried to put away, and now you're coming back and you're OK.
+1:03:32
+You know, I like that.
+I.
+Are you saying the wizard?
+Are you saying the wizard that has invested into Word of Madness is not the good guy?
+Well, Nightmare Aura and.
+Who?
+Every every like every couple of hours summons a horde of like flaming bat monsters.
+1:03:50
+Mordred's actually trying to run away from you.
+Yeah.
+He's never trying to kill you.
+He's like.
+Please go away.
+Come back Mordred, you need to listen to this CDI just burned from imp swarm.
+Yep, there you go.
+Yeah, I think like the the sound effects again, like the NES style aesthetic here is either gonna be your thing or not, and that's fine.
+1:04:13
+But I think like for for how like chunky it is it I think it just nails the vibe like perfectly.
+Like the little steps you make as the wizard, like or like the big monsters like Kuchunk, Kuchunk like just sound so good and, and, and have their place.
+1:04:32
+And then especially like once you clear out the level and you hit that, like pick up everything on the level automatically button and then it just goes Skitter, skitter, skitter, skitter, skitter, skitter, skitter, skitter, skitter, skitter, skitter.
+It just, it feels so.
+That the Skittering is outstanding.
+That's going to be the door prize for this game when we get to the Omega on Omega Bolt, yeah.
+1:04:53
+I love it too.
+But yeah, I guess like riff Wizard 2 stuff.
+I think like if we ever cover Rift Wizard 2, it'd probably be like bundled with like and here's like some other games that are basically the same game, but just like sequelized versions does a few things like very differently.
+1:05:13
+Like the aesthetic is still all the same, but like there's an equipment system in Rift Wizard 2 with like randomized items and scrolls and things that you pick up that you can get spells that way, multi tile monsters, which look look pretty dope.
+New wizard variants to fight.
+1:05:30
+There's proc Gen. monster variants that like instead of fighting like, you know, like a bone night of this kind.
+And then like, oh, it's the it's the bone night again.
+You fought ogres, but had you fought Faye ogres, lynch ogres, burning ogres, wear ogres, so.
+1:05:48
+Oh, cool.
+All right, sure.
+And so there's like a little little randomization table, some fun variants that's.
+Cool.
+A big a big one is that health and spell points are fully recharged at the end of every level, but there's way fewer potions to refill them.
+1:06:06
+It's harder to come by like the memory points throughout the game.
+So that that forces a little bit more creativity instead of just being like, I'm going to bank up a whole bunch of stuff and then like, go, go ham with the spells.
+Yeah, spell upgrades are more powerful but limited to one per spell I think is kind of a big one.
+1:06:24
+And then another big one.
+Free portal re rolls at the end of each stage, but you're only limited to one of them.
+Yeah, I was.
+Watching a let's I haven't played it yet, but I watched a little bit of a let's play while I was eating dinner tonight and it seems like it is Rift wizard attempt to like yeah, it's it's I I appreciate that he's like, OK, I got to a pretty good stable game.
+1:06:53
+Rather than changing this game that I've made dramatically, I'm going to make a second version of it and it's pretty much just going to be me continuing to develop that first game.
+People who like the other one can keep playing that people who like the it's like 2 versions of the same game.
+1:07:09
+Yeah, with slightly different yeah, yeah, with slightly different development priorities.
+So I appreciate that and something that you can only do with a very simple game where you can like modify it quickly and easily.
+Agile in action folks.
+1:07:25
+So what do we think of the the controls?
+I think this game controls like beautifully, like most games that look like this are a pain in the butt like cataclysm get out of here.
+Come on, give me a break.
+But like the mouse controls pretty, pretty solid.
+Just having my all the hot keys and everything boom boom, boom, boom, you get into this great rhythm.
+1:07:44
+I I think it's really good.
+Yeah, I think, I think this game excels because of its simplicity, like something like Cataclysm Dark Days Ahead, which is just as we've discussed, a menu simulator.
+This is like, you know, Scott.
+Has his hands over his face, covering his eyes.
+1:08:00
+Oh, Cataclysm.
+Yeah, when you're listening out there, whenever you hear Scott's, like, voice change, it's because he's focusing his breath into the mic.
+When he's putting his hands over his face, he's just.
+Ripping all his skull.
+Cataclysm dark days ahead is my personal nightmare aura.
+1:08:17
+But anyway, I think that like the the traditional roguelikes that try to go too deep into the end of like hunger systems, exploration of huge dungeons, like giant overworlds and like 60 hour RPGs like there's just there's so much more going on and you have to like have you have to have a hot key for putting the glove on your left hand, a hot key for putting the glove on your right hand.
+1:08:40
+It's just becomes like so like way too much.
+And I think that games like riff wizard or Jupiter hell or Doom RL are just like look the and I think Andrew hit on this earlier.
+Like we only have so much like time and budget to like spend making this thing.
+1:08:58
+What if instead of like making this game like 60 hours long, we made it half as long but twice as good or like twice as focus or something.
+And I feel like with Rift Wizard, it just hits that on the mark so well.
+Like everything is so fast that like, yeah, being able to like one through 6 on the keyboard to just like rattle off these spells and then like, just like mouse clicking, like, you wouldn't think that that would be a big deal for traditional roguelike games.
+1:09:24
+But yeah, like I would like to click go here, please, instead of having to like press the L key and then like up and up, down, left, right to like move to the like the cursor to the thing and then hit enter.
+Like it's like mouse support is something I feel like needs to be standard in traditional roadblike.
+1:09:42
+Games and it's not only the mouse support in this game like works very well.
+Hey, did you all know that there's a instant death button if you, if you have a cat and your cat comes over and puts its paw on #5 on the numpad, then just it just speeds through a bunch of rounds and you die.
+1:09:58
+It's pretty cool.
+I started playing the game with both hands on the keyboard and I realized, oh wait, like these these mouse controls are actually like solid incredible.
+Wow, good job.
+And, and you had asked Andrea, I think about like, is this even playable on the Steam Deck?
+Yeah, I assumed it wasn't.
+Like, I mean, it says it's unsupported, which is true, but the, the, the power of the steam deck and being able to like map the one through 0 numbers to like a radial menu and then just like thumb up.
+1:10:27
+It's like almost like a joystick.
+You're just like, you know, thumbing up to one to like highlight your magic missile.
+And then you're using the right track pad to like mouse over and then just like pull the right trigger to, to mouse click.
+It feels really good.
+Like I played most of this on the Steam Deck and it it felt really.
+1:10:42
+Good.
+All right.
+Steam port here we come with Steam.
+Pardon me.
+Switch ports coming to Switch to Switch could.
+You play it on title.
+Could you play it on a phone?
+I think it'd be too.
+I think it'd be too small.
+I don't think you'd be able to like visually understand what was going on.
+1:10:59
+I think you're right.
+It would be kind of fun though, if there was a like a separate mobile version, but I don't know.
+They've got bigger fish to fry these depths.
+Hey, I have a question for everyone.
+So you're moving around, you're taking turns.
+It's of course, you know, the classic standard meaty rogue like situation.
+1:11:14
+Move around on a grid.
+What's the turns?
+What time scale do you all imagine this game moving at?
+Like 1 like because DND is what?
+Every.
+Yeah, 2 minutes per turn or something in combat.
+Oh, hold.
+On 6 seconds we're going.
+1:11:30
+To edit that out.
+Scott, Scott, come on.
+Look, we're a serious podcast.
+We play tabletop games.
+No.
+All of us, let's not get.
+Carried away.
+OK, all right.
+Sorry about that.
+Statistics are the majority of us.
+Scott misspoke.
+1:11:46
+Yeah, it's 6 seconds per round.
+But.
+But specifically I'm I'm.
+Yeah, I'm curious in this game, every time you move a tile like how long do you imagine that taking?
+I feel like 6. 6 seconds sounds about right.
+Maybe because like each tile being about the well, I guess I don't know how big these tiles are because if one tile can fit like a floating eyeball and one tile can also fit Kronos Titan Immortal then.
+1:12:12
+Right, well, there's a little bit of streamline.
+The real answer is I don't think about it.
+You don't think about it.
+Well, I spent a long time thinking about it and I mentioned Magic the Gathering earlier and I, I like to think of it.
+I think it's important.
+In fact, dare I say it at least important for me to think about it like each turn like that is at, at at the shortest, at minimum, it's like 15 minutes, if not like a day, Like I'm imagining these giant epic like spanning like, like potentially, you know, week spanning months spanning centuries, spanning campaigns of like wizard versus wizard.
+1:12:49
+And I don't know, I was I the idea, the, the, the question occurred to me and I started thinking about it.
+I'm like, you know, that's kind of fun to think that like, oh, each move is like an hour or something.
+So like this wizard battle is just going on and on and on.
+But that's just my personal thing.
+I'd be curious to know what the dev thinks.
+1:13:04
+A wolf jumps and it goes 4 spaces in one turn.
+If it has pounce, that means it can't be it.
+It has to be in real time basically.
+Well, to be clear, I think there's some abstraction happening.
+Obviously the way that that I'm perceiving and like every time something does damage to another thing, it what's happening in game, like in the reality of the game is like that's a whole.
+1:13:24
+Skirmish.
+It's not like one individual bite or one individual pounce like I'm imagining it as these grand engagements and well.
+It's the joy of simple games.
+We can imagine it.
+Differently.
+Exactly.
+No, exactly.
+Exactly.
+But yeah, I was just.
+It's like reading a book.
+Like we don't have to imagine the same thing.
+1:13:39
+That's right.
+Thank you, Andrew.
+You can imagine whatever you want, no?
+Yeah this is true.
+You can customize but I was legitimately curious how y'all were perceiving it and I'd be curious to know what the dev thinks.
+But anyway.
+Well, then, it's about that time.
+1:13:54
+Another thing that takes place in a turn based order reviews.
+Andrew, do you want your turn to be first?
+I don't know, let's.
+Start with in a certain order, is that right?
+Well, there's no there's no set format for this, but I think ending on a high note is always a good way to do it.
+1:14:12
+But I.
+Think the opposite is better?
+Have you ever considered doing the opposite?
+We're like, well, how about you're going?
+We should just do.
+Well, I mean we should end on the objectively correct opinion, which is hard to find out because it's always actual objective.
+I, I nominate myself.
+1:14:30
+OK, so check it out.
+Let's start it off on a on a tragic note.
+Hey, check it out.
+Drift shit, drift spin spin, drift Rift Wizard is the name of the game that we are covering.
+1:14:48
+Pardon me, I if this was an actual like proper roguelike podcast and we were like reviewing true roguelikes like this is top five easy, maybe top three like it's it's a breeze to play.
+1:15:03
+I was putting off playing this game because I thought like, oh, it's going to be a long, annoying tutorial.
+I'm going to have to memorize a million key bindings.
+It's going to stink.
+I am so not looking forward to the tutorial.
+Wrong.
+I sat down now I I didn't miss the fact that there were skills, but I sat down and like I was playing and enjoying the game within like minutes.
+1:15:19
+And it's like, you know, easy, easy to play, difficult to master, etcetera, etcetera.
+And again, like just the amount of stuff in this game because they didn't waste a bunch of time and they were able to invest in the amount of spells and the amount of monsters and, and, and the, the level of randomization, lots of great, meaningful randomization led to all of these awesome cool things happening that, that I enjoyed.
+1:15:44
+If you, if you stop to kind of, you know, smell the roses and, and, and think about it a little bit, there was a period of time where like I was having this, this, this like battle over this like swamp realm, like a swamp hag.
+And she had like, you know, this army she was summoning all this, this, this, this army of like fungus beasts, like mushrooms and shit.
+1:16:01
+And I had my giant army of spiders.
+And slowly, slowly as I would take over the map, like more and more, you know, webs were spreading and like, it was super cool.
+And then it, you know, ended with me and her facing off in the middle of the swamp casting spells at each other.
+But oh, she's resistant to that or resistant to this.
+1:16:17
+And I got to switch tactics and like just, you know, cool stuff going on.
+Anyway, I hate, I hate to do it to this game, but like I gave it like what did I give a 6.4?
+Which is like #19 like what a tragedy.
+1:16:33
+This game is really fun.
+This game is really cool.
+It's, it's like, it's, it's 8 bucks.
+Like you should play it and and, and, and I'm confident you will enjoy it if you, you know, take a little time with it.
+So yeah, up next we have.
+1:16:50
+Go for it will.
+Yeah, it's a 6.4 or no, sorry that you that's what you just I give it a six.
+I don't do the the I don't have that level of precision to be able to give it a decimal.
+But yeah, it's 6 out of 10.
+That puts it right next to what is that, the end of the gun, gin and the last spell that games.
+1:17:08
+Bearing Wow, great, great company.
+Six yes, so 6 is my bear that that's the cut off for like would I say you should play this game?
+Well, if you're stuck on a a desert island by yourself and you got no other game, then yeah, it is that you could you know, you can play with some crabs or you can play I'd say you know, maybe you'd play this game.
+1:17:27
+I don't know.
+Yeah, it's better.
+Than no game at all.
+Yeah, it's just like I'm going to turn off music if music is silence is better than music in a lot of cases.
+And so, yeah, I'll, I'll, I'll just add that.
+What do we have here?
+Yeah, making it so there's a meta progression, So making it a rogue light and and having a meta progression, making it so there's a reprieve sort of a camp area where it's not just constant fight, fight, fight, fight.
+1:17:51
+I feel like that's a that's a, everyone does that nowadays because people like that it's more fun and gradually introducing enemies.
+So not all of them available at once, but like unlocks there, like maybe maybe once you use a spell a certain number of times, you unlock another spell.
+1:18:09
+And so that way there's sort of a, or maybe a skill tree where you're actually selecting the direction you want to go.
+The Diablo style, like, Oh my goodness, there's just so many ways that you can make this game better.
+It's got some good mechanics, but it just needs to have the worst worst the rest of the game and SNESNES is also the minimum of graphics that I will tolerate.
+1:18:28
+This is like cog mine.
+It's no, it's not quite cog mine.
+That is the that actually is the bottom shelf of bottom shelf.
+So 6 out of 10. 6 out of 10 I'll go I'll go next.
+I disagree with will.
+I think adding rogue like or rogue light elements meta progression would take away from the pure compressed tiny gem of game that this is.
+1:18:50
+I think that it it succeeds in being a very pure experience.
+It does not have story, it does not have meta progression.
+It is exactly what it is and you get your joy out of grinding your way through understanding how the game works and getting better at it.
+1:19:10
+There's a fair number of things that I didn't love about the game, but I think that all of them are distractions and things that you can kind of like work your way through.
+I, I gave it an 8.4.
+1:19:25
+I really liked this game.
+I liked it more than I expected.
+I'm usually a little bit wary of games that are like, look how many spells we have.
+Like more spells is usually if you're advertising how many spells you have, that's a bad, that's a red flag because usually it's just like overwhelming.
+1:19:42
+And despite being a little bit difficult to figure out how everything worked, I didn't find it to be truly overwhelming.
+I found it to be enjoyable to try and figure out how to synergize stuff once I beat it The one time I haven't tried to use the same strategy to beat it again because it's like, I want to see if I can do it a different way.
+1:20:00
+And I like that it's really fast.
+Like you could, you can really like crank through a run without feeling like you've lost anything if you've lost it's I had a really good like, I want to play another run.
+I I'm jonesing to play it again.
+1:20:18
+So yeah, I really, I, I quite enjoyed it. 8.4.
+Well, I guess that's going to leave me this.
+I feel like my rating sounds like I didn't like this game as much.
+I think I did like this game, but it well, to be clear, I do like this game.
+1:20:38
+I think some of the the information overload is kind of a barrier for new players.
+But once you once you turn that corner, I think you're in for something special.
+So I'm going to give it a 7.8, which ties it with Luckbee landlord and against the storm.
+1:20:53
+Other games that I think are also like lots of synergies going on kind of a lot of stuff happening all at once.
+Maybe like Luckbee landlord does a great job with visual presentation.
+But I think I like the the idea of what rift wizard is do like, I don't know, I think they solve kind of different problems anyway, Rift wizard great art design.
+1:21:15
+I think the pixel art is really clear, concise.
+I think it's good to look at.
+I think the monster art is very charming and cute.
+The the music I think is good, kind of like thinky background music that doesn't kind of it never felt annoying to me, but I think like it just kind of like was a good background drone.
+1:21:37
+Excellent boss fight for the final boss fight felt like a a very like this.
+This is what I wanted from Into the Breach for a final boss fight, something that like felt like like a climactic battle of Titans as like reality's crumbling around you.
+1:21:54
+I think this one just like nailed it.
+So I think another NIT that I have is that like the verbiage in Riff Wizard is kind of like when board games get too complicated and it's like, well, actually there's an exception for this and an exception for that.
+1:22:10
+And this doesn't work under these circumstances, I think is probably like a hard problem to solve, but it is probably solvable where there were a number of times where I picked up like spell shrines and things thinking aha, this is going to add poison damage to my minions.
+Oh, but it didn't because I didn't actually directly summon them.
+1:22:28
+They were summoned as a result of something.
+So.
+Yep.
+There's, there's, they were raised, they were raised to skeletons.
+Oh, yes, of course, of course, raised versus summons, this is going to be a nightmare to port to other languages.
+But I think given those critiques, I think this game does does what it does really well.
+1:22:48
+And I'm glad that there is a sequel because now that I've beaten rift wizard one, I'm like itching to like jump into rift wizard 2, be like, OK, let's, let's do it.
+Let's let's see what this other one has to offer.
+Which after 25 hours, you think I would get bored of it.
+But yeah, I'm I'm certainly jonesing for more 7.8 for me.
+1:23:08
+That's gonna bring to us some some quick recommendations for similar games, similar rogue like games, I should say real quick.
+We talked a little bit about rift wizard 2.
+I'll mentioned stay tuned and 1/2 for sure Path of Acura.
+We mentioned Doomar L and Jupiter held previous episodes coming up soon to be released, I believe is the D make of Jupiter to hell, Jupiter hell classic, which is kind of a brain Bender.
+1:23:34
+And then I guess also maybe Desktop Dungeons question mark, which is another kind of very puzzly top down grid based Rd. game.
+So check those out.
+But yeah, I think that's going to wind us down here from our Rift Wizard episode.
+1:23:51
+Emails can be shot to grogpodzone@gmail.com.
+Our Mastodon is Grogpod at game dev dot place and Grogpod dot zone is the one stop shop for everything.
+Andrew, what are we playing next time?
+Another game that I can never remember the name of.
+1:24:08
+We are playing something that is fairly modern in a lot of ways came out recently.
+Very modern aesthetic controls, presentation.
+We're talking about Remnant from the ashes #1A third person looter shooter with procedurally generated levels.
+1:24:32
+Come on, folks, I think it's going to be a good time and hopefully we'll get to get a little bit of three player Co-op in with one person.
+You know, I don't know, being like the coach walking behind all three of us, like at, you know, E sports event.
+Looking forward to that.
+I have played this game through about one time, 1:00-ish times the campaign and I'm I'm looking forward to revisit revisiting it.
+1:24:56
+I think it'll be fun to.
+Talk about I've never heard of this game.
+Indeed, indeed.
+I keep wanting to call it Revenant.
+Yeah, and honestly, oh, go ahead.
+The the one thing that I remember about Remnant was that this was it was one of our games that we were evaluating of like what do we play after the the great saga that has ended Planetside 2 And this I believe this was pre squad.
+1:25:20
+So for for listeners that are not in the know, like like squad is our social hangout game with another friend of the show who is not a podcast regular, but and like it the I don't know what 1200 plus hours that we've collectively well more than that, like like 1200.
+1:25:39
+Individually.
+In the before squad times, we were like, what game should we play next?
+And then I believe Remnant was one of those like, oh, this looks interesting.
+It's like a sole Z third person shooter kind of game.
+This this seems interesting.
+And then like 1 squad drop.
+1:25:56
+We were just like, what?
+There's what other?
+Game well one squad drop Robert insisted we play only squad forever and ever so that's true yeah so if.
+Remnant has a commander view and being able to to waste assets on the field.
+I'll be all in.
+But until then, that's going to close out our Rift Wizard episode.
+1:26:15
+And to play us out from this one will be some Rifty tunes from a shattered universe to lull your little wizard head back to your interrupted nap.

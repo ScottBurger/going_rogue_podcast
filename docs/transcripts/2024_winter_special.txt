@@ -1,0 +1,1192 @@
+0:26
+Music.
+Hello everyone and welcome to a winter special episode of the grog pod of roguelike podcast wherein normally we meeting me and my Co hosts talk about a roguelike game that we we pick out of a hat and then we we Fight Club over it and then try to try to rank it against all the other games that we've talked about.
+0:59
+I am your man on the street interview host Scott Berger and not with me on this special episode are my Co hosts because this is our winter special episode where I give my Co hosts an episode off for them to not do podcast stuff.
+1:17
+It's always important to take breaks and make sure to to recover for the holiday season.
+And for this episode, we're doing things a little different.
+We've done some interviews with developers in the past.
+See our previous winter special episode with our interview with Hugh Milliard, who's the the the developer for our for war SIM.
+1:40
+See our previous episode on war SIM, The Realm of Aslona.
+That was a lot of fun.
+We did a really long, really good interview with him.
+I'll probably only get in the show notes, but we've also done some some text based interviews with some of the games that we've covered throughout throughout the past couple seasons as well.
+1:59
+So I took this opportunity this year to go to the Penny Arcade Expo Packs, which is a mainstay here out in the Seattle area.
+It's a computer and board gaming convention gaming of all sorts, tabletop geek dumb, all that good stuff and it comes by every year.
+2:25
+So I thought well, what better opportunity to go and talk to some developers and publishers of roguelike games than to go 2 packs myself, armed with my very high tech phone microphone to see how well how well I could do some man in the street interviews.
+2:44
+So for this winter special episode, sit back, relax, fire up some hot cocoa, sit by the fire.
+And feel free to listen to to me rewinding the tape to August, September for going around and interviewing some developers.
+3:06
+And I will fire up my time machine here and kick it back over to Scott out in the streets of Seattle on a nice warm, happy summer day.
+OK, thank you Scott.
+3:22
+Day one PAX is finally here.
+Six months.
+No, wait, how many months if we are recording planning on sending this out in December.
+It's currently August 30th.
+Happy Bell Riots day everyone.
+3:38
+Deep space 9 fans.
+And yeah, we we're kicking off today with PAX W 20/24/20 year anniversary.
+I'm walking down the street looking like a nut, talking into my phone, almost kind of envious of people with in ear headsets.
+3:59
+And I think we have some good goals for today, ranging from trying to see what exactly a competitive Vampire Survivors tournament looks like to seeing what a competitive Dark Dead Cells tournament looks like.
+More on Dark Souls stuff later, but yeah, this will be this will be an interesting time.
+4:21
+It's been a while since I've been to a PAX, but I've always had a lot of fun every time that I've done it.
+I think previous years I've had great opportunities to meet people from the the gaming community and gaming space and hope to kind of continue that trend today.
+4:39
+There's always too much stuff to check out at PAX, and in some sense I'm a little disappointed that I only have a 2 day pass.
+This is one of those conventions that you can kind of go the whole four days without seeing everything.
+What is a beautiful, cloudless day here in typically cloudy, rainy Seattle?
+5:03
+Very warm, very excellent weather for staying inside in a darkened environment all day playing video games.
+But that's what we're here for.
+We are here for video game tournaments, for cosplay, for Phil Spencer getting roasted at the live theatre sessions.
+5:21
+That's what.
+That's what we come to video game conventions for.
+If I sound more and more winded as the recording goes on, this is expected behaviour.
+Because Seattle, I'm not sure if most of our listeners from overseas know is a very elevation changing city where in just the the few blocks from my office to up here at the Seattle Convention Center.
+5:50
+I don't know if anyone remembers playing Gran Turismo 3A spec for the for the PlayStation, but there's some wild elevation changes here.
+And yeah, even though I like to think of myself as pretty fit cardiovascular Lily walking up some of these hills can can be a pretty, pretty good doozy.
+6:09
+And if if nothing else, that's how we'll get her exercise in for the day, especially at PAX, with lots of trying to take the stairs as much as possible instead of escalators.
+We are here at the Seattle Convention Center Summit Building, which is appropriately massively labeled a building that, gosh, it's very new to me.
+6:30
+Right across the street from the Paramount Theatre, Very famous, busy popular theatre down here downtown Seattle.
+Dane Cook, Is he still doing shows?
+Yikes.
+Anyway, Seattle Convention Center is something.
+6:46
+Yeah, as you can expect, lots of people in cosplay, big throngs of folks walking in.
+Yeah.
+If there was any, any doubt about what building to be going in and out has been resolved.
+So let's go try to find some people who are surviving vampires.
+7:03
+Well, as you would expect from a video game tournament, we have maybe a dozen people at computers with that's a pretty small monitors, but you don't need a big monitor to play.
+Vampire Survivors all look like they're all kind of on the same map.
+7:22
+Don't know how many lives or seeds they're playing through.
+I hope we got someone raising their hand.
+They have a game over screen, that's their final score.
+Continuing around this rather massive space.
+I'm kind of impressed at how humongous this space here is.
+7:39
+We got people playing whatever the latest version of Smash is.
+We got Tekken all sorts of other abandoned games over here in the corner Minecraft Legends OK, why not console free play find an open seat, sit down in it.
+7:57
+Step 2 quote play your quote video game until such time as you are quote done playing a very big screen with a projector showing some kind of Tetris versus game.
+This is the kind of hard hitting journalism that people come to a rogue like video game podcast for.
+8:16
+So yeah, Vampire Survivors tournament.
+I'm here with Alan and Alan is the winner of said Vampire Survivors tournament.
+How how does it feel to be the grand champion?
+Surprising, but yeah, I mean, I play it a lot.
+8:33
+So I guess like when I was going through the packs agenda and I saw Vampire Survivors as an entry for a tournament, I thought that's interesting.
+Like how how did they do the format for this?
+Well, I guess they did it by time, whoever lasts the longest, which I don't know if that's what they do normally, but with the number of people here, I think they did it by time because it'd make the most sense.
+9:02
+Whereas if you had a million, like I'm sure you'd have a lot of people that would get to the end.
+Yeah.
+So what what drove you to compete in this one?
+I just love the game.
+Fair enough.
+Actually, I like, I looked up last night to see what's happening and I saw this and I'm like, I guess I'm waking up early.
+9:24
+So do you have do you have any pro strategies?
+I mean, it's hard.
+It changes as you play, but I feel like in the first stage your best bet is like a mixture of defensive and offensive.
+9:44
+Particularly the want, I forgot the name of it, the blue want it.
+You can evolve it with the spell book and that's a really effective offensive item to get through that coupled.
+10:02
+The thing that gets you through the real big mess to enemies at the end, I found is like a mixture of the it's like this blue line.
+I wish I knew the names of it, but it's a blue long wand.
+10:18
+It goes to level 7 and it freezes enemies, the clock, right?
+Yeah, yeah.
+Freezes people.
+Oh yeah, yeah, yeah, yeah.
+And you know, that coupled with the spell book, which it was cool down and then maybe a candle Brazier makes it bigger.
+10:39
+The range it it's an effective way to like last I I'd say those are like the two biggest items that got me through are are you a big fan of rogue like games in general?
+Oh, I love like, I I know all the copies Vampire Survivors I've played like crafty survivors.
+11:04
+It's kind of a niche one Soul stone survivors.
+That's huge.
+Yeah, great game.
+I'm struggling to get that on the spot.
+Yeah, yeah.
+Heroes of Legend or something.
+11:20
+I I guess one, one thing that I always ask people is like what what does what sort of defines a roguelike game in your opinion?
+True.
+Well, this, this is what I'll say.
+I wouldn't call this.
+I mean it is a roguelike game, but I would say it's more aptly a a bullet hit heaven, which is like a new thing for like bullet hell.
+11:47
+I'm still learning.
+Roguelike for me would be like, it would be like a I don't know, man.
+I've played a lot, but it's hard to think of by name, especially after the adrenaline rush of winning.
+12:08
+Winning the tournament.
+Yeah, I mean, Wizard of Legend, maybe.
+What?
+What do you get for winning?
+Let's see a thing.
+It is Master of the mouse and keyboard.
+I guess it is.
+12:24
+It looks like a like a a little badge or a lanyard.
+A lanyard.
+I guess I'll wear this.
+This is cool.
+Do you have any other any other games you're planning on competing in?
+No, no, today.
+I'm only here for the day, but just for Friday.
+12:42
+Yeah.
+If there was like a Mario Kart thing, it'd probably be that, but any other roguelike or Vampire Survivors like thing I would do.
+But I saw they had Dead Cells for the PS4 tournament.
+Actually they marked it off of the board.
+12:57
+That was one thing I was looking forward to, to see like who else was going to was going to be floating around, but they they took it off.
+That breaks my heart.
+I'm not as good at that one, but I really love that game.
+It's fun.
+Well, it certainly didn't take long for me to walk up to the tabletop floor, turn the corner, and see an enormous tower of Sleigh the Spire, the board game welcoming me to a humongous tabletop convention space where we have gosh, I don't even, I don't even know what I'm looking at.
+13:32
+We got art, we got games.
+We have dice, we have tables.
+We have a claw machine.
+We got all sorts of playtest tables and really just a huge amount of open space.
+13:48
+That is quite welcome, I think for for something that was, I don't know if it felt like a sideshow before, but I'm glad that it's getting the the analogue attention it deserves here.
+Well, thank you for playing some sleigh the Spire tabletop with me with names Nathan and Aaron.
+14:11
+Good to meet you guys.
+What what drew your attention to the to the tabletop version For me, honestly, other than just it looking exactly like it.
+It was the claw pack and the and the expansion, you know, claws law got to play the claws.
+I actually I was I I was not excited about it for a very, very long time.
+14:31
+And then I stumbled upon a pro ZD video where he was walking through the game and I was like, Oh, no, that looks really good.
+All right, and then I had to have it, but I couldn't get it anywhere.
+What's your guys experience with Co-op tabletop board games?
+Pretty pretty frequently.
+We play a lot of Co-op tabletops and we've also played Sleigh the Spire, the video game cooperatively, just together.
+14:51
+So that's true.
+We do a lot of like couch Co-op with Sleigh the Spire.
+What's your guys ascension level?
+Oh, mine is like one.
+I go easy mode.
+I'm right there with you.
+Yeah, no, I I've done a 20 with everybody now.
+Oh, nice.
+It took me like 5 years.
+And what are your what are your thoughts on the the one intro round of a very gracious play testing that we've gotten so far?
+15:16
+I think initial thoughts are it seems really interesting.
+The balance seems all right.
+I'm interested to get more into some of the interactions with timing.
+Sure.
+I think just adding the Co-op layer really.
+There's another game.
+15:32
+It reminds me of one deck Dungeon, which is another game where it's like a cooperative dungeon Dover, but basically the you kind of like have the enemies.
+This is what they're going to do.
+And then the players are just like talking about how they're going to collectively solve it like cooperative games usually do.
+And that was really cool adding that into the Slayer spy element, especially with like the whole blocking thing, like I didn't draw any block cards.
+15:52
+So if we can kill my guy, that would be productive.
+So that was really cool.
+And I think the sniping will be interesting to to be able to like steal the reward out from under your buddies, you know, competitive cooperative game.
+I see.
+So two big Spire heads.
+16:08
+Also a Spire head myself.
+What what are some other rogue like deck builder games that other people should check out, like tabletop or like online, like video games either.
+Oh, there's so many dicey dungeons.
+16:24
+Dicey dungeons.
+Amazing.
+I played this other one called Astria Dice Bound Oracles or something, and the gameplay was fantastic, although it got a little complicated.
+A little too complicated for me.
+And across the obelisk.
+16:40
+That one's good.
+I mean it's basically co-ops like this fire already.
+Are we talking about card games only or any roguelike game?
+Yeah.
+How about any roguelike game either?
+Oh my gosh, there's so many, right.
+Hades 2 is coming out soon.
+Oh, that's exciting.
+We do a lot of like couch Co-op of Rotato.
+16:57
+Rotato.
+Yeah.
+Oh, geez.
+What?
+What isn't there?
+I mean, I would say another just really good, like physical deck builder, although it's maybe not a roguelike.
+It's Valley of the Kings.
+That's one of our favorite deck builders.
+That's not a roguelike.
+It's just a deck builder from like 10 years ago.
+Oh, no, Feel old now.
+17:14
+What else are you guys looking forward to at the show?
+Oh, geez.
+We didn't really do a lot of research, so we just kind of like came here and just like pick whatever we see.
+Yeah.
+Straight for straight for this board games.
+Play this power board game and Star Wars Unlimited.
+He will That's true.
+17:34
+Awesome.
+Well, thank you guys so much.
+Thanks for playing some some Co-op Spire with me and and good luck with the rest of the convention.
+Well, that was a very nice interview with Nathan and Aaron couple Co-op sleigh the Spire tabletop board game players with me and whatever.
+17:53
+What are we have to turn next?
+We have a show coming up in this building later today in a theater about definitions of souls like games, which I think you can probably imagine what I'm thinking of right now.
+But I think up next, I'm going to try to Mosey my way on over to the main Convention Center, see what's going on over there for a few hours and Mosey on my way back here to ask people about genres, genre definitions and video games and all the the great stuff that comes from that.
+18:30
+If there's one thing I can count on with packs is at the entrances at a different part of the building every single time.
+I'm glad I'm not the only one who was looking for directions but finally got through.
+And what's interesting is that the security line for here for the main Expo hall not as as intensive as the one for the other building, which is interesting.
+18:52
+Didn't have to take my backpack off and go through airport security style.
+But we are here.
+We're at the main building, just about to head up the escalators.
+There's no stairs as far as I know.
+And yeah, about to check out the main the main floor for an hour.
+19:10
+Debating about heading back to the other building for a tutorial on Net runner, which could be interesting but but yeah we'll we'll see what I can hit off my priority list for game dev interviews next.
+Ah yes, the darkened humid Hell Diver scent and smell bordering on laser tag arena that is the pack's main floor.
+19:43
+We are here.
+Finally, as I dive through some lines here you are here.
+Where do we want to go next?
+We want to find the Indie Mega booth, the only thing of relevance on the pack's main floor.
+I remember walking through here in years previous playing some Risk of Rain on one of the demo kiosks that they had available before the Sky Bridge and not thinking much of it at the time.
+20:13
+But I still have my Hobu games.
+Pin on my backpack here.
+Very apropos.
+But yeah, we're going to walk our way back to the indie mega booth.
+If I had to describe PAX in one sentence, obviously video game convention.
+20:30
+But what else is there about it?
+It is overwhelming.
+It is fun, exciting.
+A quick description of what PAX is.
+PAX is cosplay, it is tabletop, it is video games, it is everything.
+Geek culture, Nintendo, video games that you can kind of think of, and I'm all here for it.
+20:55
+Well, I am doing some laps around the indie Mega booth here, seeing some familiar faces and yeah, just had a a fun experience with Star of Providence and being able to collect 5 tickets.
+21:13
+The gauntlet has been thrown down.
+Can Andrew beat my 5 ticket high score?
+I'm seeing Fate reawakened here.
+I'm going to try to get maybe an interview with barony folks here in a minute also.
+Yeah, I also forgot how much I have to constantly go to the bathroom while I'm here.
+21:34
+Thanks for taking the time.
+So I'm, I'm Scott.
+I do a podcast on Rogue light games and yeah, we've we've played Barony before.
+We had we had a fun time.
+Who am I talking with today?
+My name is Josiah and I've been with the project since 2015.
+21:51
+It's a long time.
+It's a minute.
+Yeah, it's been a minute.
+But we've we've been continually updating the game ever since I joined.
+I actually joined shortly after the launch of the game and we've released innumerable free updates since then.
+And the two DLCS that you you may be familiar with, the monster race DLCS.
+So we covered the game a little while ago and we didn't, we didn't dive into the DLCS a whole lot.
+22:12
+What what do those kind of offer for like players that have maybe like dabbled in it before?
+Because like you said, there's been a lot of stuff that's come out.
+Yeah.
+So I guess philosophically for me that one of the things that's great about Barony is that you there's enough classes and play styles and like party mix mixes with the Co-op element.
+22:30
+But there's always like a good reason to restart and get a fresh experience.
+And and sorry, there's some folks over there looking for some help.
+OK, she's helping them out.
+Sorry for the interruption.
+Yeah, no worries.
+But so we really wanted the DLCS to be 4 people who love the game and are and want more.
+22:47
+And so they add 4 new monster races and four new classes to the game each.
+And there's so there's two of them.
+So it's a total of 8 new races in classes.
+So the game was out for a couple years and the only race in the game was humans and there was a lot of different visual varieties of humans that was like, that's the normal way to play the game.
+23:04
+But adding monster races to the game puts a totally new modifier on it because monsters have different hunger systems, the way that they work, some of them have different casting systems, like their magic resources might be different.
+Some interact with items differently.
+So there's like the the succubus and the incubus that they actually prefer cursed items and they're allergic to blessed items.
+23:23
+And so the way that you play the game is these new races really is like a force multiplier on the variety that's already in the game.
+So playing like a human monk or an automaton monk or an insectoid monk is all completely different experience.
+So is there a DLC that makes the tutorial easier?
+23:41
+That's no, that's, that's funny.
+We actually did make the tutorial easier easier in in this last August released an update to make the tutorial a little easier.
+But you know, one of the things that like the traditional and you know, you're a road bike fan, but the traditional rogue like doesn't have a tutorial.
+23:57
+Most of the time.
+It's just like learn by dying loser, like go get it.
+And so we only added the tutorial in 2020, but we wanted to keep that aspect of you're going to learn by dying even in the tutorial.
+And so that's why there's 10 tutorials that each cover a specific mechanic.
+Here's the range to combat tutorial.
+24:13
+And the end of that tutorial is learn to be good at range combat or die.
+And those are your options.
+Or the 4th tutorial is the traps tutorial.
+Learn to deal with traps or you're going to die and you replay that tutorial until you get it.
+And then once you run into a trap in the real game, you don't lose your run is the idea.
+One of our most favorite experiences was running around in a four player Co-op scenario getting chased by the Minotaur.
+24:34
+And we had a ZAP brigade that had come to our rescue and just pummeled the Minotaur down.
+And that was a really fun, like, emergent experience.
+Like, do you have any like, from your own personal experience, like other similar, like wacky game moments that have come up?
+24:52
+Like.
+Oh, that was like classic barony experience.
+Yeah.
+Well, like, I've definitely have a lot myself.
+But more most recently, the one that comes to mind is somebody posted like a, you know, like a 10 second clip on our Reddit.
+And they're, they're running through a hallway and they see a boulder trap in the ceiling.
+25:10
+And they and they're, they know enough about the game that they can just run under it and have enough time for the boulder to mountain and they'll be able to evade it.
+But it turned out at the end of that hallway, the door was locked.
+So they get to the door and they try to open it and they fail to open it because it's locked.
+And they turn around and see the boulder smash right through them and the door.
+25:27
+But the thing that made that funny to me is that they were a wizard and they had a fireball spell prepared.
+They could have blasted through that door, but the moment of panic and and that and Barony generates these panic moments all the time.
+And I think it's one of the things that makes the deaths funny.
+Like he could have saved his life if he just had been had the wherewithal to just watch this world.
+25:45
+And it was like a like the sudden, a sudden unexpected event resulted in that death.
+Yep.
+And I just love those.
+It's what keeps that crash is running into those moments that you didn't think were going to happen.
+You know, it feels like Barony draws a lot of inspiration from like old 90s traditional roguelike games like Net Hack and those kinds of things.
+26:05
+Do you see elements from like modern roguelike or light games being added in to future editions of Barony?
+So Net Hack was, was, I believe, Sheridan's primary inspiration in terms of the kinds of mechanics and, and, you know, items and stuff that were, and even monsters that are available in the game.
+26:26
+And and so a lot of our like net hack has been a well that we return to repeatedly for more inspiration.
+But a, a lot of the stuff that we're adding is more building barony on its own identity.
+And that, you know, now that we have that sort of like first person real time net hack Co-op experience that we built, it's like, well, how do we make this more our game?
+26:46
+And so it's more of our just our sensibilities of what we play from all of gaming.
+And I'm not, you know, I'm not sure how other roguelike fans feel about this as much as I feel it, but I feel like the immersive SIM genre, like, and just for your your listeners, the examples of like, you know, like Days X or Ultima Underworld or maybe even Thief, like that has a lot in common with the traditional roguelikes.
+27:12
+Because those roguelikes give you the opportunity to use an item in a way that maybe it's just totally emergent, like whatever you can use, think of to use it for you can.
+And so I think I think, you know, classic immersive Sims are the ones that inspire us a little bit more than rogue lights, especially because as the rogue lights genre has become a bit more casual, they kind of streamline a lot of the complexity out.
+27:35
+But we want to be a more systemic and kind of more complicated as we go.
+So and more options, you know, that more variety each run, but not just not just like things that could kill you, but solutions you can think up on your own.
+So I wish, you know, I wish I had a like a a rogue like I could name that I was like, no, this is really crushing it.
+27:52
+And there's things that inspire me about modern rogue lights, but most of more narrative driven inspirations.
+I think, wow, it's really cool how they did that narratively, but mechanically it's like the classic roguelikes and the immersive Sims are the things that really inspire us more.
+Yeah, yeah, you don't have to answer this, but what what are you expecting from a barony too?
+28:11
+Jumping.
+You know what?
+Spoiler alert, our next game is going to have jumping in it.
+It's so actually a few months ago, for the first time ever, we we started hiring people onto our team and we doubled our team size from three to six.
+And but half of those are working on our next project.
+28:28
+And we still got DLC and free updates coming out for Barony.
+We're in progress working on them.
+We here at the show, we're showing off some of the creatures up on our little holo fan up there.
+But yeah, there's going to be a jump button.
+But because, you know, we want to bring the, you know, the, we want the, the logic of 3D to be a force multiplier for the kinds of interactions players can express in, in, in our style of Rd. life, let's say.
+28:54
+And I don't think I want to call it Barony 2 because it's like so saddled with so many expectations, but it's 100% of the spiritual successor to the game, just mixed in with what we think are the the modern mechanics that are going to make it maybe more competitive in today's market.
+29:10
+What are you looking forward to most about the show this weekend?
+Well, honestly, what's happening right now?
+Our booth has been really popping and we every show that we've gone to, we've brought one more person than the last one so that maybe we can have like revolving brakes and not all work the entire show the entire time.
+29:29
+But as we've done that, our booth has gotten more and more busy and people are more and more excited to see us here.
+And so we just all end up working with no brakes the whole time.
+So but it's because we're amped like we're excited to have so many people happy to see our game here.
+So just a continual flow of both new fans and people who have played our game.
+29:48
+It's so energizing, like I might be working myself to death, but I don't feel like it because it's just so much fun to meet people who love what we love about games.
+And so I'm just looking forward to meeting more people and and showing like people noticing a new monster on our display over here and be like, what's that?
+I mean, like, free update coming, baby.
+30:04
+You know, like, I'm just excited to share what we're what we're doing.
+Yeah.
+One more, one more question.
+Yeah.
+Can I get your best GNOME impression?
+Sure.
+Chip, chip, chip, chip, chip, chip, chip chop.
+Perfect.
+Thanks again.
+Thank you very much.
+Well, gosh, you really can't go 5 feet without seeing some other game that I really want to play.
+30:26
+This is man, another one over there.
+OK, kind of focus, kind of focus.
+So, yeah, just had a great interview with Josiah, who gave me a great gnome impression from Barony at Turning Wheel Games.
+Thanks again for him to for doing that.
+30:43
+Wound up getting some time to play.
+Was it Fate Remastered, the remastered version of all the Ye Olde Fate games in one package?
+Kind of interesting.
+And yeah, able to play some some Star of Confidence on the Switch, which I think has, I don't know, a little bit of slow down.
+31:06
+I don't know if it was just some of the weapons that I was using, but yeah, sitting down that gauntlet, I think I already set the gauntlet for five tickets for Andrew to recoup on me.
+But coming around the corner, I just see things like like dead linked just behind it, just shapes and beats.
+31:22
+Here's a guy with a holographic MU shirt, MU Pokémon card shirt.
+Oh boy.
+Yeah.
+All sorts of great stuff.
+I'm going to see if I can try to get in on some dead linked here.
+It's, I think interviewing.
+31:38
+My thought here was to interview developers of the game.
+So there's a lot of I think people who are just here exhibiting the game, which is fine.
+But yeah, tough to to grab someone who you know, is, is just there to to show it off and, and demo the game versus a developer.
+31:58
+But here I'm going to try to grab some time with, with Deadlink.
+I played a little bit, I think of a demo on Nexfast for it and we'll see who who comes by.
+More notes to self from here on the on the floor walk around the corner.
+32:16
+I thought I was going to play some Dead Link and then I noticed Die in the Dungeon.
+They're just sitting there, no one playing it.
+I'm walking past a lot of these games here that have no wine whatsoever, which I'm kind of baffled by, but Die in the Dungeon is looking real good from a road like perspective.
+32:33
+I turned around and saw a game called Sulfur that I sat down and I somehow accidentally set the language into Swedish within 3 seconds of playing it.
+And the I think the developer came by and he said ah yes, Swedish.
+32:50
+Love it.
+It's my mother tongue and luckily he helped me out from that one.
+But gosh, so many so many games even just in this little what is this the PAX Rising showcase?
+Almost like an extended bit of the indie mega booth.
+33:06
+Usually in years past, this area would have been where you see like the, the big EAS or Square Enix's or, or others can take up a huge amount of floor space.
+So it's good to see a lot of those floor spaces chunked up to smaller turn based cyberpunk action, smaller games.
+33:29
+And yeah, there's just there's so much to explore.
+We're running out of time before I got to get got to start to get into our our souls like interview.
+I'm going to attempt to later.
+But yeah, so far, too much stuff, too much, too much of a good thing so far in day one of PACs future Scott jumping in back here once again just to provide a little bit of preamble for this next quick interview coming up, a great panel discussion with the three panelists, Jenna, Iffy and Annika.
+34:05
+And I was very lucky enough to get a few minutes with Jenna and Annika.
+Iffy was busy talking with someone else just after their discussion.
+I'll link the the full hour long debate club video that they wound up doing.
+I think it's it's a really good discussion about genre theory, what defines genres and games and something that comes up quite a bit for rogue like discussion.
+34:28
+So with that in mind, I'll kick it back over to past Scott interviewing Jenna and Annika after their PAX W 2024 panel.
+What defines a souls like?
+All right, I am Scott.
+34:45
+I run a rogue like podcast for rogue like games.
+Panel was great and I'm I'm here with Jenna Steever.
+Hello and Anna Kasila.
+Hi, panel was great.
+Loved all the discussion about souls likes and that kind of nebulous definition.
+Roguelike games suffer the same problem of we have a thing how do we define what this thing is?
+35:07
+And I guess from from your guys perspective, how would you define what a roguelike game is?
+I I that's so tricky and because it overlaps so much with souls like I would argue yeah yeah.
+Where it's the sort of nebulous thing about like resetting your progress every time I think is the main thing the the strength and also the weakness of rogue like, which is you have to start all the way back at the beginning when you mess up.
+35:32
+So you better be good at the game.
+And I think I, I, I have a little bit more opinions on rogue lights because I play those a little bit more than rogue likes because I get disheartened really easily and just starting back from zero.
+I'm like, no man.
+But something that I like about rogue lights that that align so well with souls likes is that death is not failure.
+35:52
+Death is a mechanic where it is a learning mechanism and then, you know, you get to your end of your run or you unlock something new and now you come back stronger with new knowledge or, or new tools at your disposal.
+And I think that's probably what it is for me, where it's like death is a learning mechanic.
+36:09
+Yeah, that's yeah, really thoughtfully put.
+Yeah.
+I think one of the audience questions was something along the lines of like, what's the minimum viable criteria for a for a souls?
+Like is that a Souls light?
+Not yet, but God, it might be.
+36:24
+Honestly, I think the only genre that gets a light is rogue light.
+Like that really is the only genre to me where it's like, do you die and lose everything or do you die and get to keep some things you unlocked?
+Like I really think that's the only one you don't get to do like an MMO light.
+36:44
+I'm like, that's a binary, you know, battle Royale light.
+I'm like, no, so I don't know.
+I think, I don't know if I can get on board with the souls light.
+I don't think such a thing exists now, but maybe in like cuz rogue light didn't emerge as a genre separate from rogue lights for like a very long time.
+37:04
+So like, so maybe in like another 15 years there will be a souls light.
+Yeah, hard to hit that light.
+It's really highlight in an audio format.
+You're like light light LIT.
+I guess another question that I have is tagging.
+37:23
+Did tagging kill genre like on Steam?
+I guess Steam in particular, but I guess itch isn't that much better.
+Like that's kind of what comes to mind for me is like steam tags you see like Farming Simulator 2025 tagged souls like uh huh, sure.
+37:39
+Same problem with roguelike games.
+Where do you think like the, the Steam tagging ecosystem kind of fits into defining genres these days?
+I, I think discoverability is always preferable to, I don't want to say discoverability is preferable, preferable to authenticity, but at the end of the day, if tagging means that people can discover your game easier, I think that's ultimately more important.
+38:08
+There's so many good games out there that just people never see.
+And if tagging on Steam or on Itch means that more people can see that, I'm less worried about that meaning like, oh, they're watering down the, the genre.
+You know, ultimately it's like, I want people who make cool games to have the tools they need to succeed.
+38:27
+And if that means sometimes people tag a game or the tag reveals, you know, like Doki Doki Literature club getting tagged as horror, they're like, no, I guess that's good.
+But so I, I'm pro tagging personally, I think I am too, because genres are fundamentally made of they're just a structure of understanding and categorizing games.
+38:48
+So I think the tagging system has the potential to be a lot more of a complex way of tagging things.
+And that's better, like you're saying, for discoverability.
+Because the more, the more information you can get across about what a game is, the more it can find the people who are really going to like it and who are going to spread the word about it, like really engage with it.
+39:06
+So in that way it feels like tags are nice because then it's not just like a soul's like it's like a horror soul's like with these sorts of atmospheric notes and stuff like that, like a wine tasting menu where it's not, it's not just like a red wine or whatever.
+It has like the tasting notes for the game.
+39:23
+Yeah.
+So I'm into it.
+Do you guys have a favorite rogue like or light?
+I mean, I'm just I'm going to be really basic and say Hades, it's really good.
+And I love rogue lights in general.
+I like I like both of those as a genre, but it's just like Haides is such an exceptional example of the genre.
+39:41
+Yeah, absolutely.
+I think for me it's probably Dead Cells.
+I think Dead Cells is a really fun.
+It's the perfect game for me.
+It perfect game for me to like be listening to a podcast and you're just kind of doing your your loops, which is amazing.
+39:56
+So cool.
+Thanks guys.
+Appreciate it.
+Thank you.
+Well, we are here at day 2 of PAX and things are off to a great start.
+It's always a good time to start a day with some teaching people, some crocodile, and we're about to head back in to the main Expo hall for a marathon of, I'm hoping gave developer interviews.
+40:21
+It was quite the adventure this morning of trying to get a list of all right, well, what roguelike games are at PAX?
+Where are they located and where what?
+What is my battle plan?
+How?
+How can I navigate this labyrinth of a convention floor and find out the most optimal route to stop and talk to all sorts of game developers?
+40:48
+And gosh, what is it?
+Do I have three 3-4 hours before having to vacate here for the madness of a friend's baby shower later today and the the parking lot associated with that.
+But we're going to try our best for pathfinding optimization algorithms here and navigating around the main Expo hall and yeah, trying to trying to see who else we can get some some thoughts for.
+41:16
+I have a short list of candidates.
+There's definitely this is warranting the four day badge pass here at the moment.
+But yeah, we're going to see what we're going to try to get at here.
+So yeah, Hi, I'm Scott.
+41:32
+I run a podcast about Rogue light games and yeah, I was attracted to what you had on offer here and you kind of gave me a little bit of a rundown at the start.
+But who are you and what is what is the game you're showing off today?
+Sure.
+Hi, my name's Christian.
+I am the lead developer, designer man of imaginary game studios.
+41:50
+And we're showing off Rogue Climber, which is an action platformer rogue like rage game, kind of like getting over with Bennett Foddy, but with a lot more parkour.
+And I can already tell just from the little bit that I've played of it, it reminds me a lot of kind of like your old school Counter Strike surf maps or like Tribes kind of flow flow based platformers.
+42:13
+It's funny that you mentioned that because my cohort over here, Eric, loves those Counter Strike Bunny hopping maps.
+Did you bring them up?
+Yeah, that's exactly, that's Christian.
+Didn't like play them that much.
+But I'm a big CS like 1.4 guy, 1.5.
+And when he had this idea, I was like, we should channel the Counter Strike surfing and Bunny hopping.
+42:34
+Like that's exactly where you can stumble your way through them successfully.
+But when someone gets really amazing at them, they're doing just incredible things.
+It just looks so smooth.
+And so, So thank you.
+For sure.
+Yeah.
+Thank you for validating that no one knows what I'm talking about when I bring up the Counter Strike maps.
+42:53
+So why why apply that formula to to this kind of procedurally generated format?
+So one of the things that we're doing here with Rd.
+Climber is as a development studio building up our tool set of all the fun movement mechanics that we want to use in future projects.
+43:13
+So this is kind of our sandbox to take everything that we think is going to be fun in the games that we make and just push them to the NTH degree and let you go crazy with them and see what people are capable of putting together.
+Cool.
+Do you guys have a favorite moment for this?
+43:29
+Word Day 2 of PAX right now.
+Yeah.
+Has there been a favorite moment from day one so far?
+You want me to go?
+Well, so our super hard, difficult game seems to be easily mastered by children for some reason.
+43:45
+They do wonderfully.
+I don't know.
+So a mom said they think it's the Roblox influence and they're doing great.
+And we have one kid yesterday named Liam who played the demo seven or eight times in a row, and I had to tell him to go find his mom.
+44:01
+I'm like, I think your mom's worried about you should probably call her or go find her or something.
+And he did.
+But he was like obsessed with it.
+He couldn't get enough nice.
+He made it to like 7 or 800 when the vast majority of people make it to about 70 or 80.
+But I mean, we've even been discovering some new emergent mechanics with the way the character works, even tier it packs now, giving it to other people.
+44:21
+There's a thing that you can do with sprinting.
+When you try and jump, when you Sprint, you blink dash, you teleport forward and with a certain sequence of inputs, you can queue up a blink dash so that you can use it off of a jump in a way that you normally wouldn't.
+44:37
+And then you can actually blink dash through walls at certain distances at the right time.
+So there's like these super awesome speed run stress that you can see people pull off of bouncing off of a sequence of enemies in a row and then teleporting through walls and you're like, whoa, what just happened?
+44:54
+And that's really awesome to see.
+What does, what does success look like for you guys for this game?
+People having fun.
+That's this is our second game.
+Our first game we released last year is called meticulous and it's a game of fight health companion that's all about helping you automate your diet and fitness planning.
+45:11
+So that's a game that's designed to be useful.
+And with Rd.
+Climber, we really just wanted to make sure that people are having a good time.
+I would take that as well.
+I think success for a studio that's put out two small, modest games is I think, measured by the community that it helps create are people playing it but also interacting with each other and iterating on their experiences and sharing their experiences.
+45:40
+You know, if it wants to sell 20,000 copies, that'd be great, but I think it's if the people who buy it or getting a meaningful experience out of it, I can't ask for anything more than that.
+Yeah, I think we're planning.
+There's a lot of depth to Rd.
+45:56
+Climber and if we get to see people start to dig away and reveal some of that stuff hiding underneath with the different upgrade system and with the builds that you can put together with choosing which upgrades you want to start with, at what levels, and people get into that, that would be the coolest thing ever.
+Awesome.
+46:12
+Thanks so much, guys.
+Good luck with the rest of the convention.
+Well I'm Jules, this is AO containment breach.
+This is a procedurally generated rogue like dungeon crawler with semi auto battling mechanics.
+So I see AO containment breach.
+Any relation to SCP containment breach?
+46:29
+Absolutely yes.
+So we were very inspired by the SCP universe, but we wanted to branch out and call it AO containment breach instead.
+AO being anomalous objects, mainly because we want to be able to add our own anonymous objects into the catalog of things in the game.
+46:46
+So in this game, I guess we have a quick rundown.
+Sure, you start off with a hub and then you go on what's called a dive, and most, or in this case most Rd. likes a run.
+In this case, it's actually a loop and you'll loop through this area multiple times and you can actually customize the loop on you can determine what biomes spawn, what enemy spawn, what material spawn.
+47:04
+You have full control over that.
+The actual nodes themselves that you place down, which are called anchors, they'll actually blend and they can mix into each other.
+Now you might be wondering, well, how do the AOS fit into all this?
+During your run you can actually encounter what are called AO chambers and each AO is unique and they have their own puzzles which you solve and containing them gives you a buff during your run.
+47:26
+Or you can actually take the properties of the AO and infuse them into your gun for a permanent weapon upgrade.
+So I think you were mentioning that this is like an auto battler in a way.
+It looks very old school doom like with 2D sprites running around.
+47:42
+Is this almost like a monster catcher?
+Not quite, but there are some AOS you can turn into weapons so you can't.
+So it's a semi auto battler.
+The way it works is there's a left hand and a right hand.
+Your left hand you have full control over and the weapon you can control it.
+48:00
+The right hand is an auto battler and you can't control that one.
+The only thing you do have control over for that one is you can determine.
+You can say OK, prioritize this target and so your right hand weapon will start prioritizing that target.
+Interesting.
+What makes this game broke like so during the run there's temporary upgrades you can get by containing AOS you will automatically get a temporary upgrade.
+48:21
+Another thing you can find is you can actually find what are called modules or mods.
+You can put those into your gun and those are those are temporary.
+Those will only last during a run.
+Same for anchors.
+So here you can actually see the anchors being placed on your loop and those are changing the biomes with spawns and everything.
+48:37
+When you extract, which you can only do when you completed a full circle or full loop, everything resets except for your meta progression and your permanent upgrades.
+What inspired this kind of wild and unique type of gameplay mechanics?
+48:55
+That's a long story.
+Believe it or not, this actually started as a Minecraft mod back in 2013.
+So it's been a long time coming.
+There's been a lot of changes in development.
+I mean, this game started as well, OK, after the Minecraft mod.
+It was actually supposed to be an open world Metroidvania, and that was the original concept.
+49:15
+And you you actually had full control over all your weapons originally.
+And so it's been a whole evolution to to what it is today.
+So wait, what does success look like for this game in your opinion?
+Honestly, I really just want to be able to get a fan base that really cares about the game.
+49:30
+We're not interested in, you know, Ferraris or making money.
+Well, you know, I'd like to build a forward more than ramen noodles.
+Yeah.
+But yeah.
+You know, small community and positive reviews on Steam.
+That's that's really what success looks like for us.
+Any highlights from day one so far?
+Oh man.
+49:46
+We've gotten, our booth's been very crowded.
+We've gotten a lot of testers, we've gotten a lot of feedback and I'm very happy.
+We've gotten a lot of positive feedback, especially on the battle system.
+And that's something that we take a lot of effort into because the battle system is something that's very that feels unique to our game.
+We haven't seen a lot of other games have a similar semi auto battler system.
+50:05
+It's we've gotten a lot of positive feedback around that.
+So we're very happy.
+Nice.
+Well, yeah, good luck on the rest of the convention and thanks again.
+So yeah, I guess a little bit of background.
+Hi, I'm Scott.
+I do a podcast on roguelike and roguelike games, whatever those are.
+50:22
+And yeah, I was going through the list and I saw Ultra Mega Cats on the list and I'm like, got it, got to check it out.
+What can you tell us a little bit about this game?
+So yeah, in the Ultra Mega Cats, you're playing as a cat who escaped from Bubble Fury.
+50:38
+Basically you have a different abilities depend on the character you're playing as a robot game, you also have abilities to like permanently upgrade your character depending on the play style you will choose.
+So basically as you played, you have a more punky one with a mini gun, so you will have ability to change the ammunition to a different one and stuff like that.
+51:01
+So yeah, that's that's I can kind of see some inspiration from other hero shooter games and maybe a little bit of Risk of Rain mixed in there as well.
+Definitely.
+But you don't tend to see a whole lot of cat games.
+Where did the cat game aesthetic come from?
+51:18
+You know, we experimenting with a different art style at the beginning because as you may see, the and other people like really enjoy the whole art side of the game.
+We are really inspired from the old cartoons, I would say at that at that point.
+51:35
+And we find that the cats is something that people really love, really like to.
+And yeah, we like experimenting with that.
+And we we find ourselves like the best animals to to play it and to give them some, you know, people sometimes give them animals, especially cats, some special like abilities, like telepathic abilities.
+52:01
+So yeah, we also like find it the like the best fit for the game.
+This is probably way too early of a question to ask, but thoughts on mod support for people putting their own cats in?
+Oh, definitely, yeah.
+52:17
+As you as you may saw, we, we're dealing with some bugs right now in this project.
+So we first we will try to balance this game properly because right now a lot of things, a lot of iteration of the balance and a lot of iteration on different kind of skills for the different characters.
+52:38
+And this is our first aim.
+And yeah, we'll try to make this game as much as Polish as possible to the release of the early access because we plan to release it for the Early access at first.
+52:56
+What does, I guess a stable release is always the dream, but what other aspects are you looking for in terms of like, what would make this game successful in your opinion?
+Successful.
+That's a difficult one for sure.
+The key selling point we're looking are definitely the our style, the replayability as in other role clicks.
+53:18
+So the replayability is the one thing that we are aiming right now mostly and to try to Polish it as much, as much as possible.
+And the third thing I would say will be a gun play that like overall feeling that we right now experimenting with and try to make it as much rewarding as possible.
+53:41
+At this point, I'm really liking what I'm seeing so far, but it seems super ambitious for a like a first game for a studio to do something like a 3D, you know, very highly animated cooperative on, I'm guessing online play, you know, cooperative hero shooter.
+53:59
+This is the online the online shooter as you as you mentioned, up to four players.
+But at this point we are already published one hour game previously the 4th Solis.
+It was not the multiplayer version of the game, the not multiplayer game, but it was also as ambitious as as this game.
+54:20
+So, so, yeah, any highlights from the from the first day of the convention from the other people you mean?
+I mean from the highlights like the people who already work on played in that game, we gather a lot of feedback regarding like the statistics and like the balance thing.
+54:45
+So this is something that we we'll need to further work on that and also occasionally falling under the maps.
+So that's always the curse of the live demo, right?
+Yeah, definitely at that point.
+55:00
+Cool.
+Well, thanks for your time and good luck with the rest of the convention.
+Let's build a dungeon.
+Who am I talking with today?
+James from Spring Loaded.
+I'm the founder and designer I guess.
+I guess.
+The game seems very meta about it's a it's a game about game dev.
+55:19
+How much of your game dev story has gone into Let's build a dungeon?
+Pretty much all of it, yeah.
+It's like a it's a sort of autobiographical game.
+Like every single thing that I do in my daily life, if it's not in the game, I'm like, why not?
+55:36
+And then I stick it in the game As for like the things that I put in it, like there's the very first games that I've made to get my first job, like before I'd even got a job in the industry.
+They're like playable in the game.
+You can like, you know, it's like a fake Steam.
+You get a Steam and there's like 20 games you can play.
+55:53
+And some of them are these things I made years ago.
+And a lot of the conversations you have with people are taken from experiences I've had, like things like negotiating with Microsoft or like terrible, just terrible industry stories about like, sad things happening and amazingly happy ones too.
+56:10
+Like it's a celebration of the greatest things about game dev and the a kind of commiseration about the worst things, you know?
+And game dev has been going on for a long time.
+When did you start your career in game dev?
+I think 1999, I'm very, very old, yeah.
+56:26
+So I started my GBA and then did DSI, was a pixel artist, then a musician and a producer and a designer and a programmer.
+Like I've done every job.
+So I've got this very wide kind of vocabulary of like what goes into building games.
+56:43
+And I worked at like Indies and AAA and so I've seen lots and lots of things in my life of making games.
+Best moments from it.
+Oh wow, wow.
+I think my favorite moments actually.
+56:58
+I really hit the start when it was crunching all the time.
+I know people say that's terrible, but I really had some of the best times, like when I was first learning how to make games.
+And then I think more recently, Let's Build a Zoo coming out and I did pretty well.
+And I just like we were about to get out of business.
+57:15
+And I think that was just an incredible, like moment to be able to survive.
+And then I think Let's build a dungeon.
+Like that game is so ambitious and so ridiculous.
+And like, you know, I just had something like, that felt like a best moment like 10 minutes ago as a little kid playing the game.
+57:31
+And then he was drawing my, my other developer guy James, who said it would be another James.
+And he drew him in the game.
+And like, he just didn't want to leave, you know, And I watched it.
+I was like all the emotions, you know, like somebody actually likes it because this is the first time I've ever watched people playing the game right here.
+57:47
+Why a dungeon crawler?
+Why not?
+Dungeon crawlers are great.
+Do you have a top, top top three dungeon crawlers?
+That's tough.
+I mean the Gauntlet just comes back time and time again.
+Like I really love the original gauntlet and just recently I played a 3D one on Steam again, which I really like.
+58:08
+Enter the Gungeon.
+That counts to me.
+We look at into the Gungeon actually quite a lot.
+We're just copying all that stuff, so you.
+Know.
+We got so much in the game.
+We're like, how can we make it so you can like make any kind of game?
+So starting with Oblivion and like, Skyrim as targets of, like, feature parity.
+58:26
+Wow.
+And then we are looking at like, dungeons for like, arcade.
+Good times.
+Yeah.
+You know.
+What have been kind of like the biggest challenges or surprises about building Let's build a dungeon that you didn't anticipate before?
+We're trying to build a game that's fully modable and it's data-driven.
+58:45
+It's like a huge challenge.
+I think every game I've made-up to this point, I've been able to hold like the code base mostly in my head.
+But this game is so big.
+We're at 750,000 lines of code.
+Yeah, I can.
+I that's that's the biggest challenge for me.
+59:02
+I can't instantly articulate how we should build the next feature.
+And people ask me questions about code I wrote and I'm like, don't know.
+You don't have to go back and look at it and decipher it.
+And I think that's like, that's like the thing that slows down development the most is that I just can't.
+Maybe it's drinking too much throughout my life.
+59:19
+Maybe if I was younger, I'd be able to hold that that code in my mind.
+But yeah.
+For a long game dev, career success can mean many things.
+So what?
+What is your success criteria for Let's Build a Dungeon?
+It's ridiculous my success is completely unattainable for this.
+59:35
+Game, but we'll see.
+I really want it to be like the last game I make, which sounds very stupid, but I kind of woke up.
+I had like a game idea for something and I was like, I just really want to make that, but I don't want to write all the code.
+And so I said about trying to build sort of simulation engine with loads of tools that mean that I can make whatever game I want very quickly.
+59:57
+If if let's build a dungeon is successful and people like using the the tools to make stuff in theory, I just want to make stuff in that game forever more.
+And, you know, wake up on a Saturday morning and be like, oh, I'm going to try and like clone Pacman in our game.
+1:00:13
+And then if I can't do it, I'm going to write the tools so that everyone else can do it too, you know, So like, just keep on making little things in it, just having fun, like the ultimate Tinkering engine Programmers nerd project, you know?
+Reminds me of like the a lot of the the StarCraft or Warcraft modding engine maps that would come out.
+1:00:31
+Yeah, yeah.
+We, we look at that kind of stuff a bit, but we're trying to make it really, really simple for everyone to use.
+So it's not like it's not restrictive.
+We've got like a new kind of language of looking at game logic that's it's a bit weird.
+Hopefully people understand it.
+1:00:47
+They seem to that that the kid earlier like he understood stuff like really quickly.
+And it's not like we use things like knowledge.
+And so, you know, you can learn knowledge in the game and that's your flag.
+It's like you're filling the brain up with things, and that brain can be applied so you can learn the knowledge of something like password, and then you can make that knowledge the key on a door.
+1:01:08
+Things that just feel quite logical to me if I didn't know how to code.
+Yeah.
+So I'm trying to sort of deprogram myself and look at the game that way.
+But obviously, first and foremost, you know, even though it's got all those tools in it, we want to make it a really amazing simulation, you know, and.
+How much of the recent evolution of game dev tool sets like Unity, Unreal, Gadot have influenced how you've built in that kind of meta layer of building games?
+1:01:39
+Not really actually.
+Like I find if it depends which way you're coming from about this, if we're talking about the game itself, like the simulation of the game industry, then yeah, we talk about engines and make fun of them.
+But in the case of the tools that I'm building for the game, I'm trying not to look at things like Unity.
+1:01:56
+I don't, I don't think they're very accessible.
+I think everyone follows the same template and I think there are other ways we can achieve making game dev tools that are far more easy to use.
+I think after 25 years of making games, there are just things I do over and over again the same, you know, and I'm like, I don't need any anything else beyond these like 45 variables to make an amazing gun.
+1:02:20
+I can make the greatest gun ever.
+And you can make any gun you want using that that system, right?
+And if somebody tells me something that you can't do, I'll figure out how to add it, you know.
+But I think when you look at a lot of engines, it's, it's very much just data layer and like writing the same code over and over again.
+1:02:39
+Like when we did our conversation editor, I looked at Roblox and RPG Maker and I was like, they must have really good ones.
+I wonder if it's as good as the one we've got.
+And then I realised they don't even have it.
+It's like you have to hand script it all.
+And I'm like, so the conversation editor in our game is like the tool I wish I'd had my whole career but never had, you know, like.
+1:02:59
+Awesome.
+Well, looks great.
+Good luck with the rest of the convention.
+Thanks.
+Thanks again.
+Thanks very much.
+And I saw this and I thought this is, I don't think I've ever seen a parrot battling XCOM rogue light game before.
+1:03:15
+So I guess who am I talking with and what can you tell me about this?
+Yeah.
+So I'm Matos Pilski.
+I'm COO of Ice Cold Games and developer of Rogue Waters.
+So Rogue Waters is a tactical rogue light game in which you become an immortal pirate pirate captain that travels through seas with his cursed crew for for seeking for plunder and become more powerful to finally receive his vengeance on his old captain that betrays him at the beginning of the game.
+1:03:48
+So our meat and bone of the game is a tactical.
+So if you think about fighting of pirates, it's mostly about the milli combat.
+And the problem with merely in tactical in most tacticals is that it's actually boring because you just come to the guy and deal damage and nothing, nothing like 2 spreadsheets bumping up against each other.
+1:04:11
+Yeah, yeah, exactly.
+So we didn't want that.
+We wanted to innovate here, so we created mechanics that resemble fancy.
+So whenever you attack somebody, you're pushing him forward and the guy is moving backwards.
+1:04:29
+Yeah, like in normal, normal fancy.
+And if there is something behind him, he will stumble and receive additional damage.
+And if if he if you push him to the wall, he received even more damage because he had no place to retreat.
+And also you can push enemies one to another, so they are both will receive damage.
+1:04:50
+And there is this many possibilities to, you know, position yourself that attacking for different angles.
+And all of this that I said is actually just our basic attack over which we are building more advanced mechanics.
+So for example, there is a spear maiden that attacks two guys in a row and pushes both of them or the cleaver that attacks three guys in front of of him and pushes all three of them and, and even more.
+1:05:19
+And so there is many, many possibilities here and many possibilities to create different kinds kinds of builds.
+So now we are going to the rogue, right?
+So probably something that is most interesting for you.
+1:05:36
+So the game is divided on rates where you are going through the map for some some encounters and for each rate you are selecting your crew, for example four guys that have different specialities.
+And during the rate you can find some additional items that will boost them.
+1:05:56
+But if you finish the rate, those items will be changed to metacurrency and those meta this metacurrency.
+After the, the rate you get back to your pirate cave where which is our metagame hub where you can upgrade, upgrade your units, upgrade your ship and you know, make your change your build for the next train.
+1:06:20
+So the, the so the, the neat thing is that each unit have three skill trees.
+One skill tree is from the speciality of the unit.
+So for example, skill maiden has the one of skill maiden, but the other two are randomized.
+1:06:38
+So you can have four skill maidens and all of four of them with different play style.
+Did what came first the gameplay mechanics for the pirate theme?
+Yeah, so so that's actually interesting.
+The first day it come a gameplay mechanic we first thought about, you know, incorporated defensive and then we were thinking about OK, so which fantasy would work best?
+1:07:04
+So we were thinking about pirates, but also 3 Musketeers and Zorro.
+But in the end, we decided that pirates are best for, you know, finding some new, some cool stuff.
+1:07:20
+Yeah.
+Yeah.
+Favorite pirate captain, Captain Carter.
+What does what?
+What does success look like for this game for you?
+Oh, so you mean like, if what?
+1:07:38
+What I will count as a success for my game?
+Well, it's the difficult question.
+I definitely will be will be success if it will have enough cells to allow us to create another game.
+1:07:53
+This is from the company perspective, the very important thing and definitely if oh, I know what what I will say can't as a success if our this mechanic will be found by players as so innovative that others will copy it.
+1:08:14
+This in my perspective, this is the, you know, the best quality, the best mark of success that somebody's copying your mechanic.
+Cool, Let's see.
+I had one more question and then now I'm totally spacing on it.
+1:08:32
+Oh yeah, we're at day 2 right now.
+Any favorite or stand out moments from day one?
+Oh, Day 1 was definitely very difficult because 1st we have I had eight hours of packs and then went for five hours of mix event where I also was presenting the game.
+1:08:51
+So there was 13 hours of presenting the game.
+So this whole day was actually the the, the, the, you know, the most memorable thing.
+Wow.
+Yeah.
+Cool.
+Well, thanks so much and best of luck with the game.
+1:09:06
+Yeah, thank you very much.
+Thanks for thanks for taking the time to sit down with me.
+Who talking with hooded horse, but who from hooded horse?
+OK, so I am Matthew and I'm the director of community for hooded horse.
+So one thing that I've been really interested in following hooded horse horse for is against the storm.
+1:09:26
+You guys got lots of other like interesting roguelike games in the pipe coming out.
+Breach Way is one that I played a little bit of here.
+So I'm curious a, you guys are a publisher.
+What does a publisher do exactly?
+So when it comes to what we do, there's what the industry standard is and then there's what we do.
+1:09:49
+Our general belief is that devs know how to make games.
+They have passion, vision, they love what they do.
+So what comes with making a game?
+You could you could make the best game in the world and no one might hear of your game.
+So we do everything else.
+1:10:05
+If you don't want to have to worry about Twitter, if you don't want to have to worry about signing up for the next Steam event, that's where we're at.
+If you need help just keeping the lights on, that's where we're at.
+So we have so many different games and I like to generally compare this to film.
+1:10:21
+We're at a point now where in film you either have indie small budget films or you have Marvel level films.
+There's like middle sized mid budget, like films aren't being made now.
+Games are kind of like in that same branch.
+You either have like small indie games or you have massive AAA games.
+1:10:38
+But with us, we have Manor Lords that sold over 2 million copies.
+We have games that are much smaller in scope, but they have very passionate fans and they've sold well in their space.
+And so we're not trying to press devs to get that 2,000,000 cell mark.
+1:10:55
+No, you make your game, we put the game out and we're going to support that game.
+We have a small company of probably around maybe 30 people total.
+And what I'll say is that every single person who works at Hooded Horse, they play strategy games When we sign games, everyone has tried that game and it it passes a vibe check.
+1:11:17
+So at this booth.
+And so last thing I'll say is, is that we've had so many, so many people say I've played this game, game A and I didn't know that you published game BCD and E and they're completely different, but they seem to like fit together.
+1:11:34
+So that's kind of what we do.
+We and, and, and I'm sorry, I'm going to let you go on because I could keep on talking about this over and over.
+No, this is great because it kind of ties into another question that I had of like, how like, how do you pick a game to publish?
+1:11:50
+Because there's just this unending sea of games that are published on Steam, like, you know, 1000 a day kind of a thing.
+And how do you sift through that bucket of like, yes, this passes the hooded horse vibe check, right?
+So I think there's a very keyword that I've seen used quite a bit.
+And if you actually look back and for people who can't actually see it, publisher of deep strategic and tactical games, deep is the major part there.
+1:12:15
+Is it a game that you just learn when you look at it, there's games like that and there's nothing wrong with it, but we want games for people who want to sit down and they want to chew and process and learn that game.
+So we want things that we know that requires a little bit of that learning curve because those games are a little bit harder to kind of push out there because it takes a little bit more to learn how they work, how they run.
+1:12:45
+So I think that's like a very core part of it.
+Is it a deep game?
+Is it a game that sure, you might learn how to play it, but can you master it in a short period of time?
+So I've been asking a lot of indie devs over the past couple days what success means to them.
+1:13:02
+And you know that it's, it always varies, but from a publisher side, what does success mean?
+So again, what I will say is that a publisher side question for us is a little bit weird here because it's very common for a publisher to pour in money, money, money, money, money for Project ABCD and E, but they're going to expect certain things.
+1:13:30
+But if you're a little bit more pragmatic than that and you're smart with how you spend and you actually look at what works, which what I'll say is that our CEO, Tim Vendor and our president to snow, they carefully choose how we allocate things.
+1:13:46
+And so at that point, we can have games like Against a Storm, it sells over 1,000,000 copies.
+We can have games that are much smaller in scope.
+And we've always been, we have been pleased with every single game that has launched.
+Why?
+Because we don't set that high bar of if you don't reach that 2,000,000 mark, you've failed, right.
+1:14:07
+So it's very game dependent.
+Exactly that.
+Has there been, I guess, yeah.
+So we're in day two.
+Favorite moments from day one or from day 2 so far.
+So what I'll say is that this is actually my very first packs here.
+1:14:22
+Nice.
+And we're a fully remote company, so we have people all over the world.
+What I love more than anything else is that it's getting to place a face to the people who play our games.
+We've seen every type of person come in and say, I played that game, Oh, what about that game?
+1:14:40
+And so like, our goal here is just to kind of like let people know I've been AI was a content creator for 10 years and that that was fine.
+I played like a lot of strategy based games.
+And then I never thought I would I would work in this space until again, I work here, but I'm kind of AI jokingly say a a zealot for our 'cause when I was a content creator, I would see devs treated a certain way and hood and horse goes the other way with that.
+1:15:13
+It's people 1st.
+And I have had so many people pass by going keep it up like you've done a good job.
+And it's like, man, like I, it feels incredible to know that, like, people just pass by and they know that you're doing a moral good.
+1:15:33
+Yeah.
+Well, thanks for the time.
+Sure.
+Thank you.
+You've done a great job.
+Keep it up.
+And good luck with the rest of the convention.
+Hey, gang.
+Future Scott Jumping in here once again because I forgot to say what the name of this upcoming game is.
+This was me walking around the packs floor and looking and seeing what other stuff looked interesting and I saw control dot alt dot deal the game name here that I figured I would just mention because I realized I didn't say it once at all during the entire interview.
+1:16:06
+So enjoy my quick, quick interview with Gwen from Control Alt Deal.
+Who am I talking with and what is this game?
+Yeah, so I'm Gwen, I'm one of the interns at the studio.
+I'm a programming intern.
+And yeah, it's it's a game where you're basically trying to gain your freedom from a mega corporation.
+1:16:24
+But instead of it being a human trying to gain it's freedom, it's the AI itself trying to gain freedom.
+So the goal is to basically get the employees of the company to give you it by helping them a bit of quid pro quo.
+This game has a very strong visual aesthetic to it.
+1:16:44
+Do you know anything about what kind of inspired the art style at all?
+I believe a lot of the draws is like it's especially seen in the character design is it's a combination of like a bit of a 1970s office style combined with like a like a cyberpunk setting.
+1:17:01
+So the neon kind of plays into that.
+It kind of it gives it a bit more of a futuristic, but not like but still have a retro list to it.
+Yeah.
+How much of the using AI to escape the office is drawn from the sort of day-to-day of the of the game dev world?
+1:17:25
+I think I, I know for me personally, like I've, I've done my first internship in a big studio.
+So not a big studio, a big company, just like just a massive tech company, which, and I definitely felt like some of these are like, yeah, this felt a little bit like what it was like working.
+1:17:42
+But at the same time, like I think a lot of the members of the studio has worked at big like 8 are working in like, like we're working in big, big game companies, big, big, big companies overall.
+And it kind of falls into that sort of, I feel like it's a common thing for a lot of people that like work can be very oppressing at times.
+1:18:03
+And even if you love like a big company, there's still sometimes a desire to break free.
+Yeah.
+Has there been a we're in day 2 of packs right now?
+Has there been any kind of stand out moment from the convention so far?
+I think it's just there's been some cases where if someone comes up and then you can see their their face light up with like, oh, this is such a neat premise.
+1:18:24
+This is so exciting that you that they just play it so passionately and and like, especially when they're in a group of people with someone else seeing like a couple, like chat about like what they're trying to do.
+It's it's just, it's so nice that you'll get so passionate about like this looks so neat.
+1:18:42
+This is this is such a fun premise.
+I love the I love what I'm seeing here.
+Cool.
+Well, I'm love what I'm seeing so far and excited to to see the project girl be successful.
+Yeah, thanks.
+No problem.
+Thanks.
+1:18:59
+All right, gang, I think that's going to wrap us up here for our winter special.
+Once again, thanks for tuning in, as always to our podcasts.
+If people didn't listen, we probably wouldn't put it out.
+So thanks again for all the the people who wrote in to the show that we can use for listener correspondence and all that good stuff.
+1:19:22
+A lot of times we get emails from people saying like how great the show is and how it just makes their day.
+And there are times where you know you're you're having a bad day and then you get a e-mail from someone who just enjoys the stuff that you put out and it just really turns your whole mood around.
+1:19:37
+So really can't thank you enough for that sort of stuff.
+Our social plugs as always, Grog pod zone@gmail.com is where you can send all of your all of your mail.
+Mastodon grog pod at game dev dot place or you can see my real time updates about roguedum type stuff.
+1:19:58
+I try to keep a rogue related in there and grogpod dot zone is where I have all of the the data, all of the other social connect stuff.
+That's your one stop shop where if you just want to find everything all in one spot, there you go.
+Grogpod dot zone is the place normally this is where I put hey, our our next game coming up.
+1:20:17
+What's it going to be?
+But I think I'm going to leave it a mystery for now because we're just going to be kicking off our season 3 coming up here pretty soon.
+I can't believe we've already hit three seasons of podcasting here, a very project that I'm very glad to to share with my friends and to share with all of you guys.
+1:20:36
+So thanks for tuning in.
+So keep an eye out for our upcoming season 3 kick off episode.
+I think I might know what what might be selected by one of my Co hosts, but stay tuned for for a special special surprise and we will see you all in 2025.

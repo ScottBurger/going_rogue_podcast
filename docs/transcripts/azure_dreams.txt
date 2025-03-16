@@ -1,0 +1,1867 @@
+0:26
+This.
+Greetings friends and welcome to another episode of the Grog Pod Roguelike podcast where in each episode we kick open the doors to a big monster tower of roguelikes and and loot it for talking points and then take those talking points back to to town to share it at the end of the year for our retrospective on on the best games that we've talked about for the year.
+0:55
+Good improvisation Scott, I am your cartoon character wielding a spiked Mace.
+Host of the podcast Scott Berger and hatching out of my monster egg collection are my Co hosts.
+Well hello everyone this is Andrew Harshman your standard pre rendered in a 3D program that converted to a Sprite and projected onto a 3D background.
+1:15
+Host Andrew Harshman is my name and also.
+Me, Colin, a mystery egg and you'll find out what I am at the end of the episode.
+Maybe.
+Well this week we are talking a Pokémon inspired high school anime dating simulator roguelike as Your Dreams released in Japan November 13th, 1997 and later in 1998 for North America and European releases.
+1:45
+This is a PlayStation One exclusive and I'm going to have to hit a play here really quick.
+2:11
+This was developed and published by the one and only Konami.
+So this is This is where kind of like the stats intro here breaks down because normally I pull.
+The stats what I heard Steam stats.
+Yeah, the the Steam stats were, well, you know, actually we'll get to that in a second.
+2:30
+As Your Dreams being a PlayStation One exclusive that has not particularly sold very well makes this kind of part of the show interesting.
+So instead of pulling from the Steam data, I went to howlongtobeat.com to farm out some data from there.
+2:46
+And your average player of As Your Dreams I guess to beat it.
+The main story is 26 hours and a completionist run through this I guess would be somewhere around 46 or so.
+Where where how popular is this game is a good question.
+3:03
+Like again normally I have really good stats for these.
+I have like 5 different bullets of approaches here between like digging, like I I built economic models from like the top 120 like best selling PlayStation games that didn't seem to work.
+3:21
+I tried digging through Google trends data that didn't seem to work the best that I think I could come up with. andrightintotheshowgrogpodzone@gmail.com or comment below where I could possibly find how popular this game is because this might this might be our most obscure game that we've ever covered.
+3:39
+And I think the the closest I could get as a quantifiable number was going to game facts and seeing how many people selected that as they owned it in their PlayStation collection, which as.
+Compared to other games.
+Well, yeah.
+3:55
+Or did you?
+I feel like that's the.
+Yeah, I went through the top 100, I think 120 PlayStation One games.
+This is how much preparedness I went into this went in through the top 120 PlayStation One games by total sales when each each one into game facts to see how many people own this and then compare that to Azure Dreams.
+4:15
+So Azure Dreams, I think has 875 reviewers or owners on game facts, which if you do some hand WAVY math, let's see, like if it was, if you did 875 reviews that way, that would be like the 700 level of like out of like, I don't know, 10,000 roguelike games on Steam.
+4:39
+But because only like 2 to 5% of people actually review games on Steam.
+I'm, I'm, I'm being generous.
+I'm saying let's say 5% of them would actually write a review that would put at your dreams at maybe somewhere around 45 reviews on Steam, maybe again, a super hand WAVY math right in the show.
+5:01
+And that would probably place this on the Steam data set.
+If my math is right somewhere around the 2900 and 73rd most popular roguelike game specifically on Steam.
+And for context, our our current most obscure game that we've covered would be Pineapple Smash Crew that has 121 total Steam reviews and is.
+5:25
+I feel like there's no game that came out on the the PlayStation that could possibly be more obscure than our most obscure games just by virtue of the amount of vetting that had to go, you had to go through to get right like a physical release.
+5:41
+Someone had to give you money to do that.
+And something that was like published by like an actual like named company versus like, yeah, I've.
+Heard of Konami?
+I've not heard of whoever made Pineapple Smash Crew.
+Well, that's some pretty impressive data science, like real gorilla gritty out in the field, like looking for that data where you can find it.
+6:04
+And I commend you, Scott, for putting together that approximation.
+Now Colin in order to enter this monster tower of an episode.
+We have to have our host give us a one sentence description of what this.
+6:20
+Game is No, that's not how we.
+Ask Scott.
+You never get to do that.
+What a treat.
+What a treat.
+OK, one see now.
+Now I feel the unpreparedness that I so well foist on to everyone else.
+Let's see, one sentence as Your Dreams is a Mystery Dungeon game for the PlayStation PlayStation one that involves you going into a forty floor tower to collect monster eggs, hatch them, fuse them, upgrade their abilities, and progress through this tower to unravel story elements along the way and help help rebuild your your crappy town in the process.
+7:03
+In a nutshell.
+There you have it.
+Boom boom boom.
+The even faster is you.
+It's a game where you go into a tower to get eggs to sell the eggs so you can get teen teenage girls who are the same age as you in the game.
+So it's OK.
+The same age is the main character.
+7:20
+Right, there's a there's dating well, as much as like dating in anyone that anyone does in high school.
+We'll put dating in air quotes.
+No one actually goes on dates in high school.
+Come on.
+But yeah, I guess like maybe to kick off this episode here, there's a lot to talk about.
+7:36
+But Colin, you're wearing glasses.
+But what?
+What, what, what kind of tint do they have?
+Are those rose colored glasses perhaps that you are wearing?
+I was thinking about that.
+I mean, I definitely do not have rose colored glasses for this game because I had not heard of it until.
+7:55
+Two weeks ago.
+So I did.
+I looked at it and I was trying to figure out like, how much if I had played this in 1997, how into it would I have been?
+And the answer is like, so, so much.
+Like this would have been right in the sweet spot of games that like 10 to 12 year old Colin would have been super into like weird collectible things, training, grinding levels.
+8:24
+It would because.
+I I didn't have a PlayStation, so it's all out.
+The window yeah, that that's the other that's the other kind of like element of like all the all of like the Swiss cheese holes like lining up for things of like into PlayStation into like specifically hard perma death like early roguelike games as well.
+8:45
+Not many existing at this this point in time.
+But also like my first bullet point in here is like PS1 nostalgia for poorly aged games.
+And I feel like I, I might be in that camp also of like weird janky games for the PlayStation that like, Oh yes, like if at the time, instead of playing Armored Core or Monster Rancher, I'd somehow happened to cross a disc for Azure Dreams, I feel like it it probably could have hooked me because I was cripplingly addicted to Pokémon at the time.
+9:14
+And this feels distinct enough from Pokémon Red and Blue.
+I played a lot of I think it was it was Dragon Warrior Monsters 2 for Game Boy on the Game Boy and like grinding those monsters up to get levels.
+9:33
+And then like reading the weird Internet pages like the from the proto Internet about what crosses that you could do to get the like super deep evolution breeding trees.
+I mean, I know I got into that and that was just a Game Boy game.
+9:51
+I I don't, I thought I knew the game you were talking about, but I'm not.
+I'm not familiar with this.
+Sometimes it feels like a fever dream.
+I don't even know what game it is.
+I.
+I I thought it was like not even really related to the dragon series.
+It's like a it's like a weird like side spin off deal maybe.
+10:09
+Sounds like some kind of bizarre monster eugenics simulator.
+I mean, it's definitely.
+I don't know about this.
+It's definitely like, OK, Pokémon is too popular now.
+Dragon, Dragon Quest, we used to be the king of Japan.
+We have to get in on this thing.
+10:26
+Let's make a Pokémon.
+I.
+See for Dragon Warrior.
+Interesting.
+Or Dragon, Dragon Quest.
+And I figured like Andrew was kind of a wild card because I, I didn't know if if you Andrew had like any affinity or like nostalgia for PlayStation One games at all.
+10:45
+I feel like that might be true, that I don't know.
+Well, let me tell you, let me tell you Scott, he so what's here's to to your point, Colin earlier about like, you know what would have this been like playing it in 1997?
+I remember playing Pokémon Red and like there are tangible upgrades that you obtain for your character throughout the game.
+11:10
+There's like, well, there's maybe like 2.
+You get a bike and like when you get a bike like that was like, that was incredible.
+Wow, I'm gonna move so fast and it's like got a different Sprite and maybe there's a difference.
+I want to say there's different music, like when you jump on the bike, but I'm not sure if that's correct.
+Anyway, so like that was pretty awesome at the time.
+11:27
+And so like, if I've been presented with this game where it's like, hey, it's kind of like Pokémon, but like you can't upgrade your entire town.
+Like, and you can, and you can build a library and you can build up the local hospital.
+And like, you know, do do all this, this, this tangible and a three-dimensional stuff, I think I would be pretty excited about it.
+11:46
+However, at the same time, honestly, I was mostly into Pokémon Red just because it was the most real feeling like competence and deep Game Boy game at the time that I had access to.
+12:01
+I'm like, oh, this doesn't feel like a piece of crap port.
+This feels like an actual full-fledged game.
+And so I think I, I, I, I think on the one hand, it would have been cool to be able to do the town building, but also at the same time, I think, you know, young, young lad, Andrew, I would have been more interested in say, Diablo one, which came out like a year before this.
+12:23
+And I played Diablo one, not when it was brand new, but like that, that aesthetic and everything.
+Like really, I don't know, I thought was much more exciting than, oh, I'm gonna go and hatch these, these, these eggs of like the goofiest looking creatures and like the roughest looking 3D renders to change the sprites that I've seen in quite a while.
+12:48
+This is.
+In that prime range of like we got the new technology and we're going to use it despite it too, too.
+Like I'm sure it looks awesome.
+And I bet you if we were in 1997, we'd be like, these graphics are sick.
+13:04
+Look at how cool this is because it's new.
+But looking back through the lens of our future glasses, Oh actually a well animated 2D Sprite is way better than really poorly done.
+13:20
+You know, if you don't have to.
+If you don't have the power to do 3D, don't do it.
+Sure.
+And you know, I think the stuff that's actually rendered in 3D, it looks pretty decent.
+And it just, I, I guess before we, we, we probably want to have a in depth graphics discussion later.
+13:36
+But but real quick, I just do, I do want to throw out that, yo, I think this game on ACRT looks a lot better.
+But like if you fire it up and you run it at a higher resolution, the sprites look awful.
+Like you need to you need to down sample, you need to select the correct pixelize.
+13:56
+There's like a smooth.
+Setting.
+CRT monitor filter you can get.
+Yeah, there has to be.
+Just like.
+Give me that nice warm blur.
+And of course, we don't know, you know, what it's like to play this on PSX because we all played it on the native hardware of the game book color.
+14:12
+We play the game book color port.
+Obviously I kid, but anyway.
+But all this just.
+We all played it on our legally acquired copies.
+That's right, that's original.
+Speaking of the original PlayStation.
+Apologies, I didn't answer the original question.
+14:28
+Do I have nostalgia for PlayStation games?
+To some extent yes, but generally speaking it is.
+I have nostalgia for like fully 3D but like kind of jank looking low Poly action stuff like.
+14:45
+Things that are turn.
+Based and things of that nature not so much into like I remember being pretty really blown away and and and mystified, dare I say it, by games like Resident Evil and nightmare creatures, Twisted Metal, like those sorts of things.
+15:04
+And a lot of that, that a lot of that stuff I think was informed by, you know, just what, what games I had access to.
+And by access to, I mean what my older cousin bought and I was able to go over to their place and play.
+Yeah, yeah.
+But there there's kind of two prongs that I'm attacking with at the outset here for like my goals for for Azure dreams here 1 I think is like, well, maybe OK, a few.
+15:30
+Prongs, hold on.
+Before you, Scott, did you have a PlayStation?
+Yes, did.
+You play this game when it was out.
+No, absolutely not.
+Because I feel like.
+I was like, we need this context before you go to.
+Yeah, yeah.
+I mean, I, I think I had a reasonably extensive collection of PlayStation games.
+15:47
+My brother was big in the PlayStation.
+I think I was maybe more N64 at the time.
+But I would still like, Oh well, my big brother's playing PlayStation and then he looks really cool while doing it.
+So I should play PlayStation also.
+That's where I got injected with the the addiction to armored core, the really old janky low Poly.
+16:08
+I mean armored core 6 has come out and it's like, oh, like this is what it looks like with budget and it's, you know, long running series and everything.
+Armored Core 1, Armored core project Phantasma and master of arena have not.
+They don't look great, but oh.
+My God, I'm going to send you guys just just go Google search Mechwarrior 2 and every time I look at it I'm like wow, my brain cannot, cannot make me remember it as this bad.
+16:35
+Right.
+But like.
+In my in my brain, these are like photo realistic things and I look at it and like this is like 10 pixels.
+Yeah, I mean this that that was Armored Core for me where it was just like a mind blowing experience and and playing like one of the the PS1 demo discs that had Armored Core on at the time.
+16:52
+Like Oh my God, this is amazing.
+Like the only other thing I've played at the time was Super Nintendo.
+This is like 50 Super Nintendos at the same time.
+And so I feel like I I could have been primed to play as your dreams at the time.
+I don't know how how I would have but up against the like the rogue like nature of it.
+17:14
+And we'll come to this in a minute, but but yeah, I think like there, there's a lot of quality of life things that I think emulation helps with here that I think at the time I would have just been like super frustrated by.
+So I think the things I wanted to test specifically that with As Your Dreams were like it is it like, could we see the nostalgia factor that people have growing up with this kind of game?
+17:40
+Because obviously like we didn't grow up with it, we're coming at it from a different perspective, but could we see that perspective?
+I also wanted to test like I don't think we've we haven't done any PS1 emulation before on this program.
+We did sheer and the wanderer through Nintendo DS.
+17:58
+And crucially, I think this, I think Azure reams here is really important to talk about before we talk about a a major, major heavy hitter of Mystery Dungeon games, which is Pokémon Mystery Dungeon.
+So we have we have Azure Dreams as kind of like the bridge between Sheeran and Pokémon Mystery Dungeon PS1 emulation when?
+18:19
+Did Sheeran come out?
+Sheeran came out I think in 95 for the Super Nintendo, so a couple years before this.
+And Pokémon came out in.
+Pokémon came out I think around the same time. 95 in Japan.
+I'm trying to figure out like how much of this was like stuff they kind of came up on their own and how much of it was them like pulling things because like this definitely isn't Sheeran and it's definitely not Pokémon.
+18:45
+It's it's it's own thing.
+So they like have.
+They have definitely merged 2 concepts.
+They fuse them, they have fuse one of the game mechanics.
+Indeed so like they definitely and then Pokémon Mr. Dungeon like fuse the fuse like undid it and re because I mean it's like well, they obviously had inspiration from Pokémon and then Pokémon took inspiration from them so.
+19:13
+Yeah.
+And, and I feel like with this game in particular, there's, there's a lot of things going on that again, like we can't like logistically compare this to Hades, But I can see, I can see how like when people were designing, when Super Giant was designing Hades, there's like a certain like level of influence that Azure dreams must have had throughout the ages of like rogue like nature, using that to, to drive relationship building and events at your main hub, improving things and meta progression along the way.
+19:49
+I feel like there's there's elements here that maybe not perfectly done the first time around, which is OK, maybe like it put that idea out into the ether and then like the one ring of Azure dreams, like falls down The Cave floor and is lost for 1000 years until super giant picks it up and it's like, what is this magic thing here?
+20:12
+Let me give it a little Polish.
+And yeah, I think like.
+Yeah, there, there's a lot to get into.
+And and Scott, would you, would you care to elaborate or, or are you saving this?
+Which specifically what?
+What concepts do you think perhaps were were were tapped into and and discovered?
+20:32
+Because I can name 1.
+Like tap, like something that was taken from Azure Dreams and like made.
+Well, well, I mean, it is critically as the wonderful YouTube personality.
+I forgot his name.
+I forgot their name.
+20:48
+Well, as a wonderful fellow pointed out, like hey, this is this is a very early instance example of a rogue light Li.
+TE.
+In that there is permadeth of sorts.
+21:05
+There are, you know, there are like run based sequences, but there are there's meta progression and there it's not it's not it's not a full rogue like and it's it's sort of interesting that and some of the design elements are pretty modern in that respect, which is admirable and interesting.
+21:23
+And honestly, I think the game you raised the question, Scott, like how you know, I don't know how well this this the game does things.
+It did thing it it, it pulled off the the gameplay was better than I expected I guess is what I'm going to say.
+Yeah, and I think that like there's there's this very interesting dynamic of like your player character being perma death and like having that as a risk of you losing your loot and not being able to sell it to upgrade stuff in the town.
+21:53
+And then by upgrading stuff, you're able to date more girls, the the most crucial aspect of any roguelike game.
+But crucially, your monsters, your familiars that you acquire throughout the game, they stay permanent.
+So even if they get brutalized, which will happen often, their levels that they accrue remain permanent.
+22:13
+So as you level up your your starter Pokémon, your starter as your dream, they will they will continue to level up even if they get brutally mutated or mutilated by a a scythe carrying clown in the dungeon.
+22:32
+But yeah, I think like what's interesting here and we I think we touched on this a little bit with Sheeran, is how emulation can kind of like smooth over some of these edges.
+One of my first bullet points on here is like being able to approach this game.
+22:49
+So like you know, I I unleashed this game on the Co host and said all right the first thing you need to do to have fun with this game is follow this 15 step process of installing this emulator and you.
+Know.
+And you know, like setting all the file paths and all those things.
+23:07
+And Scott, did you?
+How did you?
+Play this game.
+Did you use a controller?
+In a manner of speaking, I played this game using the Duck Station emulator on the Steam Deck.
+Whoa, Molly.
+Molly.
+Because.
+23:22
+I really wanted.
+To get man's living in 26.
+I really wanted to get my controller working, but trying that the thought of trying to figure out how to connect my steam controller to this emulator was just so daunting.
+I was like, I guess I'm going to play this on a keyboard.
+23:38
+Well, I used a first party PlayStation Five controller and.
+Wait, how did you?
+Like a charm.
+And it and it connected into the emulator.
+Yeah, well, you have to like, I mean, the interface on Duck Station is very convenient and like there's a controller's like screen and like you select, it recognizes what controls you have, what you know, inputs you have.
+24:00
+I wonder if I just wasn't lazy and I could have figured it out immediately if.
+I tried it worked pretty well but but I mean the PlayStation, the PlayStation controllers are are.
+My experience with the Steam Controller is that it does not play nice with anything, including Steam.
+Gotcha.
+That sounds about including Steam.
+So yeah, So what?
+24:16
+What?
+Yeah, what?
+I played with a keyboard.
+Wow.
+It's.
+Not great.
+Yeah.
+So, so I wasn't kind of like there was already an initial like 30% barrier to entry of fun for this it's.
+Like all.
+Right.
+You're gonna have to do some like, you know, I had a.
+24:31
+Screenshot of the controller on the side of my screen so I could remember what what letter was.
+Dedication.
+Also because I didn't have a PlayStation so I don't know what where the triangle on the square and the like.
+I don't know which one they are even if I had it.
+Triangle.
+24:46
+What kind of shape is that?
+But, but yeah, like I, I will say playing this game on a Steam Deck, making liberal use of save States and, and the emulation stuff, I think I think it worked very well and I thought it was a like a very pleasurable experience to play.
+25:05
+I and I only just recently discovered retro achievements like that you can integrate into it so that that way you can have a like steam style achievements for Azure Dreams, which is fascinating.
+And so I think that there's like from, from a modern lens, looking back at this game that like didn't sell very well at all.
+25:26
+It's like this kind of weird cult classic, like, you know, there's, there's yeah, like some barrier to entry to like, actually like playing it.
+But if you find very legal and very cool means of acquiring said said approaches, I, I think it's, it at the very least worth the effort to like go through those steps to like check out and just like kind of see of like of, of a what's it?
+25:50
+Because like, I was listening to another podcast and they were like, you know, that there's like 3 three types of games that you can kind of enjoy.
+There's ones that are fun to play.
+There's ones that are maybe more fun to watch someone else play, and then there's ones that are maybe more fun to just maybe talk about.
+And I almost feel like I've kind of painted us into a corner into that third bucket of like, all right, well, here's here's all of your homework to do before you can even enjoy playing the game.
+26:15
+To be fair, I don't, I don't know if I think I think Scott is taking some of the heat listeners.
+He's really selfless guy.
+He's fallen on the on the, the, the on the sword, which is comprised the blade is only comprised of like 8 polygonal sides, very low Poly PS1 sword.
+26:35
+You know, honestly, set it up was not that tough.
+And really, if you know, if we were gamers of, you know, worth our salt, we would have already had duck station and superstation and and PSXXX all the emulators already installed.
+26:51
+But we didn't and we were unprepared and through a combination, you know, yeah, you know, 30% emulation barrier to entry and for me personally, 30% seasonal depression, you know, etcetera, etcetera, and just generally being busy.
+27:06
+I am also like deep, deep in the thralls of factorial addiction right now.
+I put in an unfathomable number of hours that's.
+Recognizable like the last two weeks.
+Every time I was playing Factoria I was like, I should probably play Azure Dream.
+And then I played more.
+More hours of factorial.
+27:22
+The factory must grow.
+Oh God.
+Which I mean, it's not a rogue like, but it's got some rogue like elements so.
+Hey, well, you know what if it if it's point OOO 1% then.
+It's got a procedurally generated map I.
+Mean like through the last time. 80 to 100 hours, but.
+27:42
+Run right, right, it's run based, but Ron perma death are weeks long, of course, but anyway, so but thankfully, our benevolent Lord, a host emperor.
+I forget what your official title is Scott, the burger Meister of this year podcast.
+27:59
+He fortunately has has picked up the slack.
+And while I am and Colin, Colin and I only got, you know, a few hours into this game and watched a wonderful a retrospective by Jordan's Retro Game Adventure, we we were able to educate ourselves enough to at least discuss the game.
+28:19
+Indeed, indeed.
+And I feel like even even the amount of time that I put in, I feel like I kind of didn't get that far, which I think is maybe one of the criticisms that I have, but.
+But let's what floor did you get to real quick Real.
+Quick the the highest floor I got to was 15 out of 30. 15 over here.
+28:38
+Which again, you know, people are are commenting below you like why are you reviewing a game when you didn't even beat it, blah, blah, blah, blah.
+You know, and I think there's there's obviously some good criticism that but hey, but like, you know, as as adults, we already don't have any free time because we have to play factorial for 14 hours a day.
+28:57
+And you know, some of these games have, I think Blake, if, if a game doesn't grab us and like hang on for dear life, I feel like that's valid criticism.
+Like, I don't think we're that we're.
+We're not being paid to do this.
+29:15
+We're not being.
+Well, yeah, well I don't have a Patreon set up yet.
+No, I would I, I literally I wouldn't even want you to because then I would feel even worse about not playing games.
+Oh wow, we got 4 patrons here.
+It's all the hosts.
+Interesting SO.
+29:31
+I think that like for, for this game, there's, there's a lot to it.
+And even if like the, how long to beat, it's like, oh, you can beat it in like 20 something hours.
+Like there's, there's a lot of stuff in this game and there's a lot of stuff that like, you know, I, I look in my Google doc, I have 47 pages of notes here.
+29:48
+And I feel like the best that I can do is maybe like, like give a little bit of like gameplay impression, like how it feels to play and like go deep on, on like the stuff in it 'cause there's so much stuff for Haiti's.
+Like we had the benefit of like, well, we had put in like 100 hours into it, like over four years or something less, less of a time constraint here.
+30:10
+So I think without, without further ado, let's crunch away through this.
+So I.
+Think I only got the floor 6 by the way.
+Sorry, go ahead.
+Hey, you've you've, you've probably acquired some egg points in the background of the game system, which we'll get to in a minute.
+Our story of Azure Dreams begins with your classic PlayStation one poorly rendered 3D intro of this this town that just happens to exist out in the desert and just happens to be right next to this giant monster tower.
+30:45
+And you have this very nice like textual overlay and like 3D like camera panning around the tower that like that has like these overlaid kind of like fade in of different monsters and stuff.
+And within this gigantic ancient tower, a host of monster swarms and breeds.
+31:05
+But despite the long and hazardous desert journey, the town is a Mecca for treasure hunters and and Andrew is.
+As it's as it's showing the tower critically, it's showing these overlays are just the goofiest, most uninteresting monster designs you've ever seen like, oh, it's like a a a slime, but worse from you know, and Dragon Quest and then another one that I I don't know, I can't even remember what it looks like these these creature designs, a lot of them are just kind of not so not so great.
+31:35
+I.
+Will I will push back in that I think they are.
+They're like somewhere in between a Pokémon and a Digimon of like.
+You forgot about the extremely creatively named dragon.
+Oh that is one.
+31:52
+That is 1A monster.
+It's just dragon.
+How can I forget?
+But anyway, so yes.
+Yes, it is a haven for treasure hunters.
+These treasure hunters, they come seeking the golden hordes hidden in the tower.
+I've I've written down as much of this verbatim as I can because I think some of the translation is a little janky.
+32:09
+And when we get to the ending, hang on to your hats, people.
+But the intro continues.
+But when a monster is grown from the egg, it can be tamed.
+Eggs and tame monsters fetch high prices in gold.
+A rare breed of monster can make a vast fortune for the hunter.
+32:27
+The town has grown rich from buying and selling monsters, so the town is called Monsbaya.
+What I thought it's like and the town is called dot dot dot.
+I'm like, well, it's obviously called Azure.
+Obviously Maji all what the well, you already played that game.
+32:43
+Why is this the name of the town different?
+So it's grown rich, but apparently it isn't.
+What?
+Well, it was rich and then it it failed but did.
+It fail Scott there is well the intro continues in a very confusing manner.
+Well confusing we'll get to in Mons bio there lives a certain youth.
+33:00
+His father understood the hearts of the monsters and gained renown as the greatest monster tamer of all.
+Sadly he died early, leaving their mother to bring up the youth and his sister alone.
+The family struggled to survive.
+The youth had inherited skills as a monster tamer from his father.
+33:19
+He longed with all his heart to hunt for eggs.
+But the Yeah.
+And I and I longed with all my heart for the game to start this intro just like keeps it starts repeating itself at a certain point.
+It's like, and the eggs are worth money.
+And yeah, I know I'm living, I'm limited in post Biden America.
+33:36
+I know the eggs are expensive.
+So it's like I get it.
+But the.
+But but Andrew, the entrance to the tower is strictly forbidden.
+Oh, of course, those not yet 15 the the.
+Mighty.
+The Mighty Tower is a nest for countless monsters.
+33:51
+Amazed to confuse the unwary.
+It's dark depths are filled with danger.
+Even old experienced egg hunters venture but a short way, maybe even up to floor 6 into its vast interior.
+The law against entering is strictly enforced, so year after year, the youth.
+34:07
+Don't get allowed he.
+Can only dream impatiently of his goal.
+Slumbering in the depths of this giant ruin lie the eggs of monsters no man has ever seen.
+He yearns to brave the dangers of the tower, to seize these priceless eggs.
+34:23
+Something that we all experience at Trader Joe's.
+And now, at last, today is the day the youth is 15 and free to enter the tower.
+He's a full man now.
+Yeah, record scratch, freeze frame, dial that back 15 years.
+You have to have an Angel name you first.
+34:40
+Oh boy, yeah.
+What on earth was this?
+Well, this.
+Kind of.
+It's honestly.
+It makes more sense than like talking to your grandpa and be like, wait, what's my name again?
+Watch my remind me.
+This I think kind of sold me on the game here where I was like you, you have this like very poorly CGI to Angel that was like, you're about to be reborn.
+34:59
+All you can decide is your name.
+What star you will will be born under can only be determined by God.
+Please hurry up and decide.
+I want to finish my job and take a nap and I was just like, I'm in that.
+Is that is quite it's it's off the wall just enough, but also kind of like relatable, like, oh, I recognize that that Cupid type design.
+35:20
+This is this is wacky and interesting and also I appreciate that right out of the bat, right out of the gate, right off the bat, the game establishes itself as a Christian game.
+This is, this is a good Christian text.
+Oh, yeah.
+35:35
+And, and the monsters, I mean, they're clearly, this is all like a metaphor, right?
+The, the monsters are like misguided sinners.
+And you have to like, bring them into the flock, right?
+You need to take them back to your monster hunt and and level them up into good Christians.
+You have to hatch them, hatch their souls.
+35:52
+And what better way to start a game with a?
+Crying baby A.
+Crying baby And your father, creatively named Guy, congratulating his wife Wreath.
+You did well.
+He's a boy.
+36:07
+Wait.
+Her name's not Gal.
+And IAI have to shout out these hot pants that your dad is wearing.
+I actually leave nothing to the imagination.
+And he is he is packing some heat.
+Let's say you go.
+Through a you got a couple of eggs on them.
+36:23
+Is that what?
+You're saying you, you, you go through a montage of your player character, Koh Koh being kind of like a snot kid in town.
+You know the standard, like, you know, little kid kind of thing.
+And then it, you know, it cuts to a scene of like, oh, it's, it's rainy.
+36:38
+There's something dramatic happening.
+Your dad has gone into the monster tower to to due to some more treasure hunting and some some lights are shooting out from the top of the tower.
+Some they're shooting out into the desert.
+There's explosions happening.
+The townsfolk are gathering around at the bottom.
+36:55
+But did guy make it to the top for some reason?
+Your mom has a necklace and then it breaks foreshadowing.
+And then the towers start shooting lasers.
+And then there's this like giant pentagram that it erupts over the tower in a very mysterious fashion.
+37:11
+You're, you're just like one of the townspeople just kind of like looking up like, what the hell could possibly be going up up to there?
+Gramp comes into your house and said, oh, it's it's been decades since it rained like this in the desert city of Montzmaya.
+Your, your mother is worried sick about your father coming home.
+37:29
+And then knock, knock, knock.
+Oh, is, is, is it dad?
+Is he finally home?
+Door opens.
+It's Guy's familiar.
+He's got Guy's monster tamer column on him.
+But where's Guy?
+Oh, no, he didn't.
+37:45
+He didn't make it.
+Yeah.
+And this really, I mean, as as as, as someone who unfortunately is without living parents, You know, this really resonated with me and I, I felt like this really connected on an emotional note.
+No, but it is a is a dramatic way to to start off.
+38:02
+And ironically, you know, I thought the cutscene was kind of cool.
+Like it it was, it was like, I mean, the greatest friend here.
+Yeah.
+And like the laser shooting that reminded me about the StarCraft, the one cutscene, it was decent.
+And like, you know, I thought it was.
+It would have been better if like the immediate like CGI intro didn't just like spoil it like 2 minutes before.
+38:24
+Yeah, that was a little weird.
+I don't understand what the deal is.
+With that, but anyway, you you, you awaken.
+It's your 15th birthday.
+You're happy to all right.
+It's finally my turn to go and die in the tower next.
+I can't wait.
+All the other seasoned veterans that have gone in and been bludgeoned by by a Mace.
+38:42
+Wielding another child for the monster mine.
+But before, before you cross that rope bridge into this looming tower, a a happy little, I don't even know how to describe this guy.
+A something that looks like a cross between a a Pikachu and a what's the what's that?
+39:03
+The game?
+Is it Choo Choo rocket?
+All right, we got to halt, halt the podcast here real quick.
+Stop everybody, we got Choo Choo rocket research happening, I thought.
+That there was like.
+A on the show.
+Well, now I'm only seeing stuff from like a more recent.
+I thought there was like some kind of small, small sized character that was like blue and yellow and like skittered around and like did explosions anyway.
+39:28
+Rocket not not familiar but.
+You are greeted by I'm gonna, I'm gonna pronounce this character's name Cuny, because I know.
+This I, I've got, I've got it on good authority that it's pronounced like the word hewn.
+Is it K kun and kun in in, in in is is like, I guess a sound effect.
+39:47
+I've been told in Japan for like the sound that you're, that is like when you have butterflies in your stomach when there's like you're, you're catching a feeling sort of thing.
+And the the best description, the best definition I found here was Kun.
+40:03
+Kun kun, you gotta say like an anime character, is the sound of quote, the momentary tightening of one's chest caused by powerful feelings.
+So it's like the equivalent of like a person with heart eyes.
+40:20
+Yeah, the sound.
+It's the sound of heart eyes.
+Indeed, yeah.
+And And that's a decent enough name for this little winged blue dragon character that looks like yeah, my my understanding according to wiki is is is a dragon type creature monster, not Pokémon monster.
+40:41
+No, well, he's he's a fire type.
+And oh shit, well, we'll.
+Get to the the triad here in a minute.
+But but God, I've already forgotten it.
+Keun Keun.
+Keun like like if you're a heun from the Living Rock.
+But Keun Keun stops you and says wait a minute, aren't you a monster tamer?
+41:01
+Hey hey, don't be frightened.
+I'm not your enemy.
+Believe it or not, I once used to be a familiar for a great monster tamer, but my master passed away.
+He.
+Sounds like a pretty cool guy.
+And, and now I'm a lonely familiar and people don't then people want have want to have nothing to do with me since I know the human language, but I can't lower myself to become a monster now.
+41:25
+They just lived by instinct.
+You can put your collar on me if you like.
+And so you do There's.
+Some real mixed metaphors here.
+We're only just getting started and you, you crucially need need him because otherwise you're going to just get flattened in two seconds.
+41:43
+But importantly, Kuhn takes you through Andrew's favorite thing of a long and excruciatingly detailed tutorial experience.
+But where you You enter floor one of of the dungeon and Kuhn says.
+42:00
+Now the adventure begins.
+Push the square button to select the lineup.
+Just tell me where I should be.
+You would be protected from enemy attack if I stand here, but Co can't attack either.
+Select the familiar's position.
+Then he goes through and explaining the mini map.
+42:16
+He explains how to like, hey, I think the tutorial is very good in that like here's what every button does.
+Here's like what it does in context.
+But I feel like it is it is very much a tell, don't show approach of like, all right, now we're going to like drive over here and slam on the brakes and then talk about this thing for at least 30 seconds.
+42:40
+And again, like, yeah, I think it does well.
+But like I when I was re going through the tutorial, I'm like, Oh my God, I totally forgot that you could throw things like you can pick things up and throw them that like you are taught that.
+And then I immediately forgot it because it was just like, all right, I'm going to tell you this thing.
+42:58
+Be sure to remember it.
+Yeah, there's a little bit of a info dump right at the beginning when you're like, I don't even know what's happening here.
+Let's see important things that he talks about.
+He explains magic balls, which there are fire, there's there's you know, there there's like things that like effectively like scrolls, but there are scrolls in the game, but like they're use them to shoot magic out of is is the TLDR.
+43:25
+He explains throwing like you pick stuff up and and you can throw it.
+He explains the rotating camera controls you pick up an egg.
+He explains how you hatch an egg in the tower and why you would hatch it in the tower versus hatching it at home.
+Lots of info dumping.
+He explains the different, different magic types.
+He explains how you can use monsters to like micromanage and have them like direct attack with like different magics and like all of all of like the different like things about how you manage monsters.
+43:55
+And again, it's, it's very clear at the time, but there's just, there's so much stuff happening where at like I'm sure at the time I was just like, skip, skip, skip, skip, skip, just get just get me into it.
+And after getting to floor 15, I'm like, OK, now I know what mixture magic is.
+44:13
+Mixture magic is when you have the monster.
+And I, I hope I'm not getting this wrong, but I'm just reading off the Google doc.
+Mixture Magdrick increases the attacking ability of Co Direct attack just uses physical force, and Direct Magic will use the most mana points of your familiar.
+44:33
+Mana points are another thing to manage.
+And so you go through this extremely lengthy detail, lots of info dumping, and then, OK, finally you get through all that, you're up to floor two of the Monster Tower, where you are immediately surrounded and bludgeoned to death by monsters.
+44:49
+And you're like, OK, I've gotten sent back to town.
+Kuhn has maybe gotten a little bit of experience points.
+Hell yeah, let's get back into it.
+And that that kind of starts your gameplay loop here.
+And critically, you have amnesia.
+45:05
+When you go back in, you do not remember any of your experience points.
+That's true.
+Yeah.
+So like we said at the top, you know, you, you come back into the tower level 1, you're familiar, might be level 7 or 8 at this point, you know, as as you progress, but you always start at level 1.
+And I think that there's a very interesting level of decision making for this game of like, what do I take with me?
+45:27
+And like item, item scrounging from the tower, saving it at home.
+There's there's a a bit of interesting decision making there of like what, like what do I upgrade?
+What do I take with me into the tower to to start it off, what monsters do I bring with me?
+45:46
+That kind of thing.
+And I think this is like a crucial difference between this and Sharon is that Sharon, you don't start with anything.
+Like you start level 1, bam, no, no meta progression.
+There's a little bit, I guess of like hidden meta progression with like upgrading items and sending them back to town and stuff.
+But anyway, I think between that and having a familiar, a second target that monsters can hit is like this is the transition point for us to talk about from like Sharon to Azure Dreams to Pokémon Mystery Dungeon, which again, like this, this is like me throwing like a Hail Mary pass like six months from now of like, OK, throwing the pass up in the air.
+46:22
+Our episode of Pokémon Mystery Dungeons going to catch up for the touchdown where this will all make more sense in that context of like, OK, you have a buddy with you, You have to manage that buddy and their abilities and like going through your standard kind of like room hallway sequence of stuff.
+46:39
+But but yeah, I think like the first few floors that I played of this monster tower, I was like, am I missing something here?
+Like where, where the hell are all the monsters?
+Like I thought this was a creature collector, right?
+I thought it was supposed to be like, like the tutorial teaches you like, hey, there's there's eggs, keep an eye out.
+46:59
+I don't think I saw a single egg for maybe like 5 hours of gameplay or I don't know, maybe I'm blind.
+But like I thought for sure that there was going to be more stuff and there is, but there's a hidden kind of game system running under under the hood that like the further you progress into the game, you get more like quote egg points, which like help to, I guess speed up like like the rate at which items are doled out to you.
+47:28
+So you'll get like more, more eggs.
+It felt, I don't know if this is true, but it felt like more higher level items earlier maybe anyway.
+Are are eggs just treated as another random item drop or they have like their own separate counter or something?
+47:44
+Let's see.
+I mean, I know that they're count as items in your inventory, but.
+Yeah, they do, which which is another kind of decision point of like, OK, do I have like you're limited I think to 20 slots or something.
+And like balancing that is, is an interesting equation.
+Egg points, you accrue egg points after something like 5 floors.
+48:02
+When you have enough, every floor will have a 50% chance to have an egg when the game spawns an egg, even if you don't find it or pick it up.
+You then need to climb roughly 5 new floors to get another one, or more accurately, get a new 5050 chance to get a new one.
+48:20
+Does it track it so it's not 5?
+It's not the 5th floor, it's the 5th floor that you have climbed.
+So if you die on floor 2, and then die on floor 2, and then die on floor 2, eventually you'll still get an egg.
+I think so because I think I was able to start finding eggs like like before floor 5 and like they were, it felt like it was there was like a a switch that flipped and I'm like, OK, now eggs are starting to finally show up.
+48:45
+And I don't know if it was like, did I trigger something in town?
+Then I found out about egg points.
+I'm like OK, that makes.
+Sense the egg points.
+See, that's what we need.
+Egg rations right now.
+In America, for our for our economy, we need more egg points.
+That's the problem.
+49:00
+We need to climb more levels.
+We need to climb more fours and Donster Tower.
+Elevators are the real problem.
+They're the real problem that are keeping the egg prices so high.
+So there's also some other counters happening in the background, including one that has to do with like NPC dispositions and like some sort of like town based stuff, which is kind of interesting.
+49:22
+So like as you are making more progress in the tower in the, in the dungeon, like back at your home base, like there is also, you know, things moving forward.
+So that like when you are in between runs like there is a feeling of progression, which I think is pretty cool and is is missing from from some, not not all, but from from some roguelikes.
+49:44
+I mean, I feel like that is a very modern like so you said we can't possibly compare this to Hades, but like to directly compare this to Hades.
+That's right.
+You are very small levels of meta progression in your actual build and then much higher levels of meta progression in your town building activities, which I think is a good it's a pretty good method for having a rogue light where you you want to see progress, but you don't want to give up on that feeling of like, well, each run could be if you're just skilled enough, you could be go going much further.
+50:20
+So like your skills are increasing, but it's like, well, OK, but you got the town back home.
+You know, you're you're building fountains and casinos and temples and your house.
+And like that's not that is more of a traditional like you're progressing up, you're getting new stuff.
+50:37
+It doesn't really make you any better at hunting eggs in the tower, except for maybe the like egg incubator space, but I don't think anything else.
+That's that's a great point.
+This is this is something that is a more modern rogue like.
+Yeah, that's that in that aspect, I think feels very like you could transport that to a modern game.
+50:58
+It almost verbatim.
+I mean Stardew Valley, Hades and and.
+Another way that this game is similar to to Hades when you when you our first when the game starts, you you talk to a wonderful character by the name of Jorda, I think who is this this this Oh, this wizen like kind of deckard Kane looking guy, except if Deckard Kane had the longest eyebrows ever.
+51:23
+His eyebrows are going down to his feet, which is very fun.
+I appreciate the the the portraits in this game, which are just, you know, straight up, just like regular Sprite work and like his his animation, it's like 1 eyebrow is like raising constantly.
+So it's like you can't see his eyes.
+51:38
+But then like the giant eyebrow rant goes up and you see his big old eyeball.
+Anyway, he is like, Oh, I'll tell you about the tower.
+And it's like, well, surely you know, we, our character already knows about the tower.
+But you know, for the sake of exposition, That's great to hear.
+So like he says, he explains he's like, ah, well, do you know the three secrets of the tower?
+51:57
+And he goes on to basically explain story reasons for why it's procedurally generated.
+Like, well, it always resets.
+And like when there's a magical portal that when you walk through, it resets your level.
+And it's like, and I wrote down to my notes and I'm like, ah, as your dreams, as your dreams beat Hades. 2 story explanation for the roguelike elements.
+52:18
+So ahead of its time quarter of a century.
+Boom.
+Yeah, check inmate Hades.
+I think like the the art style.
+The art style is very JRPG, but I think that like, well, not but, but, but I think the, the art style is like either going to jive with you or not.
+52:38
+And I think for what it's going for, it is well done.
+I, I like all of the monster Sprite designs.
+I think the monster designs are, are good, Andrew Shaking said.
+I think the, the, I don't know what is in the water in the fountain in this town that causes everyone to have 50% of their head volume taken up by their eyeballs, but that it's a, it's a little alarming how big their eyes are.
+53:02
+And I think that like generally the, the character art for all for all the people in town is like, is pretty good.
+Like, I think you know, it, it has a theme, it's sticking to that theme and I think it's, it's hitting that theme pretty well.
+The thing I don't like about the art is whoever the the the city planner is for this town needs to be shot out of a cannon because like the amount of before I found and posted in the discord like the the screenshot of like the, the bird's eye view of the town.
+53:30
+And again, like I know this is something that like probably came with the instruction manual.
+Like I'm, I'm just like walking around from like beige Hut to beige Hut like what this OK, this clearly is not the monster tower.
+Where's my house?
+Where do I go home?
+Walking into people's houses and.
+53:45
+This is my monster tower.
+And just like kicking down people's doors in the neighborhood and no wonder people think you're a snot nose kid, right?
+And like jumping, like jumping on their beds and like jumping on all their bookshelves and stuff.
+And I'm like, OK, there's got to be something around here that's worth investigating.
+54:02
+I felt like it was, it was super, I don't know, just like lacking direction or just like like artistic landmark or something again, like that, you know, for 30 years ago probably was doing a pretty good job.
+But yeah, I think like the conceit here is that in this town there's there's huts that, you know, the town's folk live in and there's buildings that you you upgrade, you can upgrade the temple that's suggested by your mom to do and that will help you the.
+54:30
+Good Christian temple, right?
+Where?
+The one God who's represented by his holy Messenger, the little Cupid guy who needs is sleepy.
+Right and importantly, like like all major religious restoration effects or or reasons to do so is to gain St. cred with the with the girls in town who who will then say.
+54:55
+He won't remember because they are all under 18, correct?
+There's one that's that's that's 18 years old is my understanding.
+And she's like a professional actress or something, I don't know.
+And again, a dancer, professional dancer, if you were between the agents, No, wait, there's maybe there's, there's a dancer and maybe an actress too.
+55:13
+I don't know.
+I didn't look at that part.
+I believe it's the dancer that we're talking about.
+But anyway, I think if you were again, in the ripe age between like 12 and 15, we'll say while playing this game on the so another line of the Swiss cheese that has to line up PlayStation games between the a male between the ages of 12 and 15 or 16 into JRPGS, into brutally difficult games.
+55:38
+Like when all those things line up, boy, you're in for something good.
+You have to have found this game.
+Yeah, that's the other thing is like.
+In fact, find it on a physical shelf somewhere, somehow.
+Locate it.
+No, that's what I mean.
+Like even if you knew it existed, you have to go like where, where?
+55:55
+Even if you knew where it was, you have to convince your mom to drive to GameStop.
+No, no, it's true.
+Pay $100 at the time.
+So yeah.
+And so you upgrade the temp, the temple, and then the girls in town be like, oh, you, you might be something like more than just meets the eye of like snotty nose little kid.
+56:11
+You upgrade the fountain to to progress your romance quest with your childhood friend Nico, who's collecting donations, and your rival will come by and always donate plus one more than you donate.
+That made me laugh.
+And that's, and that's a decent example.
+56:28
+Like some of the writing is a fair bit of the writing is like entertaining and like kind of quippy and and fun.
+Like, Oh yeah.
+Like that your, your annoying rival whose name is like Ghosh, like shows up and is always like being like a real Dick head and like entertaining ways.
+56:44
+Yeah.
+Like oh, he donated.
+My rival donated 100 gold.
+No, I like that it didn't didn't, it didn't say I donate.
+He donated 1001 dollars.
+It's 1000 + 1 just to like emphasize that it's exactly what you did.
+Plus, it's not going to be subtle about.
+57:00
+And then like, you go to like the restaurant, you order some food and like, oh, your rival shows up and he's like giving you grief about like, oh, what you ordered the soybeans.
+Why, that's not even fit enough for my pet.
+Bring me, bring me the usual.
+And like, they bring out this like big basket.
+57:16
+It's like a, it's like an edible arrangement.
+Do you think here you are monster meat?
+Oh, that's a that's a whole interesting ethical dilemma.
+But what I, what I, you know, what I like about specifically on the topic of monster meat, not ethical dilemmas.
+When you go to the restaurant, at least initially, there's a bountiful as, as you know, the vegan representative here on the podcast, I want to point out that this restaurant has a wonderful vegan menu.
+57:40
+It's got all the vegan classics.
+There's rice for 20 gold pieces, soybeans, tofu, and of course, the most delicious vegan treat, sand.
+Is one of the.
+Items which I don't know.
+I'm sure that's some reference to a culinary dish from another part of the world.
+57:56
+Sand.
+Sand that I don't, I don't know.
+I bet a town out in the middle of the desert specializes in that kind.
+Of that's a good point, yeah.
+Maybe it's just a reference to it being a desert town or something.
+Yeah, all the, all the classics.
+Yeah.
+The, the, the, the writing is, it's generally like, I was worried like, oh man, this is going to be like I I had a really bad experience back in the day with the game, like Xenogears and a really bad experience with the game Final Fantasy Tactics where it's just like, man, all this text about all this crap I don't get the hoot about.
+58:25
+And like, I was kind of goofing on like the intro being long winded, which kind of is, but, but like generally speaking, the, the, the, the, the dialogue in this game is like entertaining enough and it's fast.
+Like it's, it's pretty snappy and it's not tons and tons of tons of dialogue.
+58:40
+It's like enough to get the point across and let's keep it moving.
+And since we were playing on an emulator, you could speed up the text as fast as you wanted it.
+I think that if we've been playing it on like something like if we had found an old PS1 and was playing it on that, like the text scroll is very slow.
+58:59
+Well, we can speed it up to like 16X speed.
+Usually I think if you just hit the normal like advance action button, it does go like kind of like line by line in very slow JRPG fashion.
+I think if you press circle it just like skips to the whole thing and just like skip skip skip skip skip.
+59:15
+Well, I don't want to.
+I want to be able to read it.
+I just want This is one of my least favorite things in video games is where it it's slow only prints out the text for you.
+I hate that I am much faster at reading than whatever that they think I wanna be able to just click, click, click.
+59:33
+And I mean most of the time it'll like you click and the first time it'll go, it'll finish the line then you click the next one.
+But.
+Yeah, so I guess like some some other aspects of the town, you can you can rebuild the theater, you can do stand up comedy, which is really bad.
+You can rebuild a library, but you have to talk to people several times to unlock it.
+59:52
+There's kind of like a a major and like most of these things cost like 4 to 8000 gold, which you can like accrue pretty quickly.
+And then there's like a huge price hike for the bowling alley, which jumps.
+Up to like 40,000.
+Gold.
+And I was like, OK, So what do you do?
+1:00:09
+And I think like as far as I can tell, and again, I haven't gotten this far.
+So send your angry comments in the in the YouTube.
+Your angry bowling comments.
+Below where as far as I can tell, some of these are just like basically like mini games that you could do in town, but don't really have much of like a plot impact.
+1:00:29
+Like there's some of them that like you're like, you go into the theater and like that's how you advance your, your romance quest line with, with the dancer girl, you go to the, to the hospital or, or the fountain view advance that way.
+I don't think the casino has that kind of thing or the amusement center has that kind of thing, or the swimming pool, which only really exists.
+1:00:51
+So that way you can see your your romance options specifically in a bikini or bathing suit.
+And in order to unlock, you need to go to to the 25th floor of the monster Tower to find a specific quest item.
+Like some of these things like I get what they're going for.
+1:01:08
+And it's like, you know, someone has to do it wrong first so that other people can learn from that and do it right 30 years later.
+So I I appreciate that like that this kind of system is there.
+It's not like super elegantly designed in there for the most well, I don't know for some of them.
+1:01:26
+But again, like as your dreams had to crawl so Stardew Valley could run almost or or Hades for that example.
+So I think like the the the town building stuff is is neat.
+I'm glad it's there.
+I don't know that it's like super polished, but you know, the I guess like the the next kind of thing to pivot off of that is.
+1:01:46
+It also, Oh yes, it also isn't as far as I can tell, like necessary.
+Like you don't have to engage in any of that stuff.
+Right.
+No, not really.
+I don't so like.
+I like that It's it's, it's probably not something that were I to have played this game extensively, I probably wouldn't have engaged with it that much.
+1:02:05
+But, you know, it's there for people who want to do that, yeah.
+Sure.
+And there's like there's things sprinkled throughout the tower as you progress that give you some kind of like, oh, like I should go and engage with this system, which is neat.
+Like the first kind of major thing that you encounter is on floor 12, which is the blue collar.
+1:02:26
+You start with the red collar, you pick up a blue collar on floor 12, which gives you the crucial gameplay element of being able to use two monsters at the same time, which you might think would be like, oh, well, that's, that's just going to be super overpowered because now I've double the firepower.
+1:02:42
+Well, you got to balance that because that's an extra item that's 2/5 of your starting gear that you're walking through.
+And I believe they split the Exp.
+So, so I think that there's like again, there's, there's like very subtle, like interesting aspects that like.
+1:02:57
+Interesting decisions to be made.
+Will Wright would have loved this game.
+Maybe not, but yeah.
+So like floor 15 you find like a a little pot that you can use to like restart the windmills in town.
+Floor 20 you find the the the Cape of the the bar owners lost lover and you can advance a little bit of dialogue there. 25 is where you get the thing to unlock the pool 20.
+1:03:25
+Level 28 is where you get a healing herb to help one of the NPC slash romance quests.
+Which, sorry to interrupt, but I, I, I got to call out the, the healing item if it's, if it's the thing I'm thinking about.
+So the, the, the like dating simulator, the dating SIM aspect of this, of this game.
+1:03:44
+What's, what's the genre called?
+The like the visual novel kind of element of it.
+It varies wildly.
+It's like, oh, how do you get the attention of, of, of these, of these different characters?
+And it's like, oh, well, your character can give them some shitty gifts, like some little tchotchkes, like here you go.
+1:04:02
+I, I got you a key chain or something.
+So like that works for like some characters, but then for other characters on the other end of the spectrum, it's like, oh, you need to cure their rail super rare disease that they've acquired and it's like just got all over the place.
+1:04:19
+But yeah, it's it's cool that again, speaking to like how how aspects major elements of this game feel very modern, like finding stuff in the runs that is then like progressed as a story and is usable outside of the runs is like very cool.
+And reminds me of some of the stuff in like dungeon where it's like, you know, you're assembling the bullet or you're going and like finding items that you can then, you know, bring back to the the breach and like give to people.
+1:04:45
+It's, it's cool, it's cool.
+And it's again, stuff that's like, well, surprising to see.
+Gosh, I I didn't think that they invented these types of mechanics, these types of ideas until the 21st century.
+And every every 10 floors on the sixes there is a a monster called a barong which is a goof.
+1:05:04
+A goofy looking monster with a big.
+Plume goofy looking monster.
+You have to be more specific, Scott, and as your dreams.
+It's not the one that is a a submarine, it's not the one that is that splits into clones of itself or one that is just a big flower that tries to mind control your monsters.
+1:05:21
+It is the one with the big purple hairdo.
+Keep remember that floor 1626 and 36 Throwing an item at them will will cause them to eat it and spit it out as a new random item.
+And that is a way that people use to like, like basically to recycle all their like their trash loot from earlier into the potential for more rare loot later in the tower, which I'm not sure how I feel about it.
+1:05:45
+Like I think it's interesting again, like another kind of thing.
+It's like, OK, like I'm glad this is here.
+I don't know that this is like the most elegant or polished system, but it's like it's like a good idea to build off of and improve.
+I think the idea like I didn't get to that, but it it seems like a good idea if you could do it quickly.
+1:06:05
+My assumption from seeing like a a very fast clip of it was like this looks like it would be a lot of clicking through menus to slowly throw out items one at a time and something to come back.
+It's like, oh this looks this would be bad for me because I'd feel the need to optimize and so I would do it every time.
+1:06:26
+I'll save this for the menu system in this game.
+It's pretty damn snappy.
+Like one thing I that kind of slowed me down with Sheeran was like popping up the menus and like navigating through all the stuff and selecting it and then doing a thing.
+Yeah, I think at least part of my like assuming it's sure and level of.
+1:06:42
+Keyboard player over here.
+Yeah.
+Yeah, I mean, I was running the game at like 200% speed, so I don't know if my experience is is fair, but like that the menuing was was decent.
+It wasn't like super fast, but I thought it was.
+It was pretty all right.
+1:06:57
+As well.
+Now.
+Now, crucially, we're talking about things that you encounter on that various floors of the tower.
+Oh yeah.
+How long do you think it takes for you to get to the narrative thrust of the game?
+This is like a wild guess.
+1:07:15
+Oh, like that?
+Like the main storyline?
+Oh, I don't know.
+Surely, surely within 10 hours.
+So you've probably gotten to what, like the 10th floor?
+Calling Any guesses that's.
+When I mean I feel like I know what the answer is, but my guess would have been like if it's forty floors like 4:15.
+1:07:34
+Well, up until this point, like we've kind of been talking about your rival in town, Gauche, who I only just like after we said the word, I'm like, oh, that's a very appropriate name for your rival in retrospect.
+I I mean, I'm pretty sure it's not.
+I think it's just a straight on the nose.
+1:07:50
+Yeah, floor 31 out of 40 is the first time you encounter the character Beldo BELDO.
+Excuse me, I beg your pardon.
+Who, who, who greets you by teleporting in?
+1:08:08
+And again, this is another thing I had to write down these lines like verbatim because I was like, can't be serious.
+Can't be.
+Beldo teleports in somewhere on floor 31 and says, how do you do?
+It's an honor to meet you with like a very kind of like mischievous, like scowling, almost Vegeta, like a grin.
+1:08:27
+On ass alert teleports in.
+How do you do yo?
+And, and from the character art, I couldn't tell that he was missing an arm, but we'll, we'll come back to that.
+Beldo goes on to say, you came all this way.
+Well, you have grown up quite well, like the son of guy that you are.
+1:08:49
+Do you know who I am?
+I bet you don't.
+I have a, a, a comment in here saying spot on, Sir, Beldo continues.
+The last man your father Guy saw.
+That's me.
+I am Beldo, the most powerful monster tamer of all.
+1:09:05
+And yes, it was me who killed Guy.
+It wasn't.
+It was as easy as the snap of a finger with my magic.
+But dot, dot, dot.
+My right hand is throbbing.
+I thirst for your blood.
+The right hand that that was cut off by your father.
+1:09:21
+Yes, my right hand was once cut off by Guy.
+Harming my body is such an unforgivable act.
+Do you understand My grudge is bigger than just killing guy?
+I will shred you into pieces too.
+1:09:38
+My actual body is on the top floor.
+Grow up and to become stronger than your father.
+I look forward to it.
+If you wish to find out about your father and about me, come to the top floor.
+I'll be waiting.
+1:09:54
+And then, poof, he just kind of disappears into thin air.
+Well, no.
+No wild speech.
+Wild speech.
+You say?
+He says it is as easy as having my fingers with the hand that I have that got cut off.
+Which?
+Is gone.
+Which I can't do because I don't have an arm anymore.
+1:10:11
+So.
+It's actually quite difficult.
+Sure, sure.
+Well, I mean, you know, if we look back at other, you know, classic examples of fantasy literature, I mean, like famously, I mean, Sauron doesn't get mentioned in Lord of the Rings until like into book 2.
+1:10:29
+Yeah, possibly.
+I kid, Of course I kid.
+Of course.
+That's ridiculous.
+I mean, everybody, I, I it's nice to see when like games kind of, you know, there's the whole like, you know, Chekhov's gun situation where it's like, oh, you know, something shows up at the beginning or like another character's introduced and it's like, it's kind of like a dead giveaway, Like, oh, well, they're going to be important later or like, oh, that's the secret bad guy or whatever.
+1:10:51
+Like it's, it's cool.
+It's fun when like games kind of, you know, mess with your expectations a bit, but to not introduce the main bad guy until until 3/4 of the way through?
+3/4 of the way through the game.
+He didn't even need to be introduced, they already show that he can teleport.
+1:11:07
+They could just been on like floor floor 13 you just walk and as you're getting towards the elevator you see him and then he teleports away.
+Doesn't even interact with you.
+Just like a knowledge that something is else exists and is weird.
+Yeah.
+Like maybe every, every 19th floor that you hit, you see him and he looks at you and then teleports away.
+1:11:29
+So you just know that there's something happening.
+Now I'm going to put, I'm going to put a spoiler warning here because I, I had to watch the ending cinematic because it, it was well worth it.
+Buckle in.
+But I'm going to put the spoiler warning here.
+Fire up your PS1 discs, your your CDRS, get them in there that you obtained legally and and play through up to floor 40 to experience this for yourself because oh boy, you're in for one.
+1:11:55
+You're in for a ride here.
+OK, so spoiler alert, everyone, everyone's had the time to Fast forward 30 seconds in their car.
+They've hit the pause button.
+We can now get into one of the one of the silliest endings, I think to one of the games that we've come across.
+Floor 40.
+1:12:11
+You've reached to the top of the Monster Tower and awaiting for you as promised is Beldo standing there menacingly and he says well done.
+You have trained him and LED him here.
+Well done.
+Quite reasonable that you are so surprised.
+1:12:28
+But this guy is a part of me and I believe I don't know if you if you have to do this with Kuhn or if this happens with any monster, but Kuhn right next to so as you're progressing to the tower, like you are followed by your familiars.
+1:12:44
+Kuhn morphs away from you and forms into Beldo's right arm and the his character art changes like his little pop up Sprite art changes to be like the the blue and yellow like coloring of Kuhn with like a cool little like, you know, Garmin wristwatch that he's got going on there says now I shall tell you everything just as I promised.
+1:13:12
+Again, this guy doesn't have a mustache, but if he did, it would be five feet wide and it would be twirling madly.
+He he goes to say, seven years ago, your father, Guy and I met in the tower and together we tried to reach the top floor.
+1:13:27
+The top floor is where the ultimate egg can be found.
+Again, this is all verbatim.
+I had to write this out because the text it it goes into like like a little pop up.
+It still has like the little text thing at the bottom of a little pop up of like kind of amber colored flashback sequence, we'll say.
+1:13:45
+And there's like a little a little scene of like, oh, guy's like picking up the egg.
+And then Beldo betrays him, says Beldo says I am the one who is going to use its power.
+I'm the proper bearer of the ultimate power.
+I am the best and the only monster tamer in the world who confused with monsters question mark.
+1:14:05
+I shall take this egg.
+It will be a part of me and the world will be mine.
+Guy says I won't let you and he cuts off his arm.
+This starts the laser sequence of the thing that you saw at the beginning of the game.
+Guy goes on.
+Lasers coming from guy's arm or what?
+1:14:22
+I think this is just them battling like the the lasers are.
+That kind of shooting magic at each other or something.
+And and we forgot to to touch on this, but Guy says the fire, the water, the wind, these are these are like the three kind of like different geniuses of monsters that have like a rock paper scissors element to them and the power of all nature born between the fine line of humans and monsters.
+1:14:46
+Let this egg be sealed for the sake of my blood Abracadabra.
+And a big pentagram in the sky opens up above the tower.
+Beldo says, you idiot, you will you will regret your stupidity, although dot dot dot almost dot dot dot, but you have died and I have survived.
+1:15:06
+Ha.
+And then I guess at some point Tune is absorbed as I have a note here that says tune is absorbed as arm.
+And then another thing he says the nether.
+I think they're like, I think they're looking at some kind of thing here.
+1:15:24
+But he says the netherworld sealed by the blood of a monster tamer.
+Well, that's all right.
+All I need is the blood of a monster tamer, the blood of someone who is strong enough to reach the top floor, or the blood of a monster tamer who is even stronger.
+This ends the flashback sequence.
+1:15:39
+Beldo says do you understand Co?
+That's right, the blood is yours.
+He hits you with a a laser beam and you're like you're there's like blood splatters coming back up your body and like shooting everywhere.
+1:15:55
+And he says now I've got the blood to open the seal of the monster Tamer's blood. 3 gods and souls shrug, but I command.
+Here, obviously, it's the Trinity.
+Oh, oh, OK.
+The Father, the Son, and the holy Pokémon.
+Right, The father, the son of Guy and the Pokémon.
+1:16:13
+And Kun kun.
+Beldo goes on to say I command here on the blood of the monster tamer break this spell.
+You are going to be killed by the sword of your own father.
+And then it begins like a, a, a combat sequence of you and him just like, like like you hit, he hits, you hit, he hits.
+1:16:32
+Are you?
+Playing this or is it?
+Just like you are, you are like pressing the button to attack.
+And it reminded me very much of of another game that was well received and ahead of its time at the time, a very Super Metroid style sequence where you're battling Mother Brain and you're just like, I can't do anything here.
+1:16:51
+What's what, what is happening?
+And then you are eventually whittled down to 001 hit points.
+But then Bildo says.
+Oh well, what happened?
+You are a part of me now.
+You won't survive without me.
+Hyun rips away from Beldo's body with a sword in his mouth.
+1:17:10
+Yo.
+Saying this man is my master Co.
+He is the very best monster tamer in body and mind.
+I can't take any command but his Co.
+This sword, this is the sort of guy your father.
+It is a masterpiece soul shooter.
+1:17:28
+And then it goes into this kind of like side side sequence of says please avenge guy with this and then you'd like you bash him, says Woo.
+For the blood of for for the for the blood and love of your father.
+Lethal soul shooter, Bildo said screams Oh my God, I don't want to die.
+1:17:47
+And then code does like a mega charge attack and then attack swipes Bildo.
+Oh my God.
+He then, like Bildo, shrinks down.
+Brutally murder.
+Him, he doesn't die yet.
+He shrinks down to like a very small version of himself and he's like, he's bursting into flames as this is happening.
+1:18:07
+Wow, Kuhn says.
+You will regret your stupidity.
+Oh yeah, I didn't die.
+What?
+dot dot dot.
+Well, it looks like I am your master now.
+Kuhn like walks over to Beldo and is like towering over him Beldo or Oh no, Kuhn says.
+1:18:27
+I'm so sorry Co I tricked you, but you always took good care of me, just like your father did.
+That's why I couldn't leave you to die.
+No.
+Ever since the first time I sense guy in you.
+You have been my master.
+Would you dot dot dot can you forgive me?
+1:18:44
+And you're given an option of like two options.
+Not not bad to have a talking one or betrayal is never forgiven.
+Forgiven.
+Yeah, the the video selected the the good one, obviously.
+And then Keen does like a happy little dance around the screen like Tune do.
+1:19:02
+You look up what happens if you get the bad one.
+I did not.
+I was kind of scared.
+Too.
+I'll look that out.
+Decapitation.
+And then you you walk forward and then you pick it up and it's the little the text says ultimate egg was obtained.
+And then it cuts back to town.
+1:19:18
+And in town all the villagers are kind of gathered around.
+It's starting to rain again.
+It hasn't rained like this since guy got to the top of the tower.
+One person says, in any case, you know, that's great.
+Co made it to the top level.
+Another person says, no kidding.
+It hurts inside to accept it, but he he made it there first.
+1:19:36
+Regardless, it doesn't mean I'm no longer going treasure hunting in the tower.
+Personally, I'm committed to continue.
+Another person says, Ah, man, if always.
+If only I was 10 years younger.
+And then there's a rainy knock at the door, just like at the beginning of the game.
+Oh.
+It's like poetry, it rhymes.
+1:19:52
+Knock, knock, knock.
+Door opens.
+It's Co.
+Hooray.
+It's not just the familiar.
+You've returned to town.
+You've returned.
+You did it.
+Congratulations.
+And then you can select something that says like, thank you, everyone looks like it stopped raining.
+1:20:10
+Hey, the blue sky.
+And then like the most like abrupt, like cut to the credit roll I've ever seen in a game ties up the the epic conclusion of of the story of Azure dreams.
+1:20:27
+As far as I know, just based on the the selection of the good options in the ending cinematic.
+I don't know if Colin, if you've you've found the the second one at all, but I have not yet.
+But I saw that and I was like, OK, I can imagine if you were like 13, like you've ground your way to the top 40th floor.
+1:20:48
+You have this like mother brain level like boss battle at the top.
+Like I would imagine that would be that would just like slam super hard.
+Yeah, no, I mean, we've been we we do a lot of talking about like, well, let's examine this game.
+1:21:06
+Let's imagine if we were a young gamer back in the day and we played this game when it first came out.
+Forget all that.
+Imagine if you're the uncle or the Ant of the player, like watching this game unfold and imagine how confused they are.
+1:21:24
+Like, and then they burst out of the arm with the sword freaking you RIP them apart and there's a giant pendergraph.
+No, Yeah, this ending sounds pretty dope.
+And like so many, I mean, it used to be acceptable and sometimes indie games, smaller budget games still do this where it's like, oh, the ending is a read me document is a notepad screen.
+1:21:44
+And it's like, that stinks.
+But like, this sounds properly epic.
+A few other things I want to touch on before.
+Apparently, if you say betrayal, never be forgiven, Kuhn just leaves.
+See ya bad.
+Like OK, and then you.
+Just go actually, I was wrong about you.
+1:22:00
+And then you have to fight tune.
+You know, I like, I like games where you got to fight your childhood dog or pet to the death.
+So that'd be pretty sick, no.
+Yeah, very interesting.
+Sorry, I think.
+What were you saying, Scott?
+A few other things to touch on before we start rounding the corner here.
+1:22:18
+There is there is a well received Game Boy colored version of this game that I think strips out a majority of like the dating and like town building elements and is basically just like, yeah, just go just do tower stuff.
+Kind of there's still like some things that are like meta progression elements to it and it and it's pretty faithful, I think to the combat of the PlayStation game.
+1:22:41
+I noodled around with it a little bit.
+It's it's like different enough to like like if you're a fan of the Game Boy game, yeah, check out the the PlayStation version.
+If you're a fan of the PlayStation version, check out the Game Boy game.
+I think there's like there's enough interesting differences there that like it's probably worth checking out a dope soundtrack.
+1:22:58
+It has it's way better than it has any right to be.
+The graphics are are pretty great and yeah, I think if you if you had this game on like a gameboy form factor would be another kind of thing of like hopefully shit.
+This is a mind blowing experience for the time.
+Another thing to touch on is that as your dreams has a pretty active modern gaming community to it.
+1:23:20
+Like the the discord for this game is like surprisingly active and like like happy to answer all the stupid questions that I have, but there's like there's a randomizer for this game.
+Right.
+Yeah, that got mentioned in the Jordans Retro Game Adventure retrospective.
+1:23:37
+Holy moly, a randomizer.
+What is a randomizer?
+That means for those who don't know, I do know.
+And I guess like for for more kind of like static games like awakening time or something or awkward.
+Yeah, that makes sense.
+Or something worse.
+Yeah, I, I, I think it's like in that kind of vein where effectively like a ROM hack, it's like AUI ROM hack unless and your options here are are interesting where like you can, one of the things that's clicked is like skip the intro story.
+1:24:06
+There is a randomized floor themes like the appearances of the floors, like randomized what enemies appear on what floors.
+That's another kind of element we're like, oh, you could have like a super high level enemy on a lower floor, maybe randomizing monster spells.
+There's various modifications we have to talk about Tower 2, but I'll get through some of these in a second.
+1:24:29
+There's a true boss fight one.
+I have no idea what that could be.
+There's.
+Fight your dog.
+There's there's like randomized eggs.
+There's a fast tutorial floor.
+You can do seated towers, which I think are what there.
+There's an active speed running community for this game, which is pretty wild.
+1:24:50
+But yeah, we should talk about tower too.
+So this the the randomizer crucially unlocks the ability to play through a 100 floor.
+Tower.
+That exists in the game's code natively that instead of like going up and like going through the the tower in like floor 3 or whatever in the upper right that you normally do every run you go to the upper left.
+1:25:12
+There's just like a little waterfall placement there that that is just a patched over doodad over like in the game's code.
+There is an actual hundred floor second tower in the game that's already in there, but for I think for whatever reason they just like ran out of time or like couldn't couldn't Polish it enough.
+1:25:32
+They just patched over with a water fountain.
+This allows you to unlock that, which I think if you're in Azure, in Azure head you would be all over.
+What else speed running.
+There's a possible good old games GOG release for this where GOG has this thing called the dream list, which is like, hey, like if enough people vote for this, we'll we'll host it on our GOG distribution platform.
+1:26:01
+And I believe this is how Dino Crisis one and two for the PlayStation came to GOG.
+Oh, interesting.
+So there is a there is a A use case already for it.
+And yeah, I think like the the the aspect that like this super obscure game still has like this very dedicated the community around it is is very interesting.
+1:26:26
+I don't know if I.
+Oh, what?
+Go ahead.
+I don't know if I should read some some community correspondence real quick.
+I want to do that before we get to ranking.
+So maybe we'll we'll save that for the the penultimate.
+That's that's, that's fair.
+That's fair.
+Hey, I got a question for the the assembled Grog Potter's here.
+1:26:42
+The rogues gallery, Scott, let's, let's ask that.
+Let's put the host back in the hot seat like we did at the beginning of the episode.
+If you're playing a game of Dungeons and Dragons or a game of like, you know, generic fantasy RPG, and you're told you are informed that there is a troll, you're going to have to battle a troll monster.
+1:27:04
+Could you could you describe what do you, what do you think of when you think of a?
+Troll.
+Well, when I think of a troll, I think of something that has a very happy cartoony face on it.
+Something that looks like a a potential balloon animal wielding a a spiked Mace.
+That it's it's a very standard Dungeons and Dragons classic.
+1:27:25
+Don't forget, don't forget the cat ears.
+Very cutesy, very cat.
+Yeah, the trolls in this game, they look like giant balloon animal cats, which is hey, you know, from my money.
+That's that's sure, that's great.
+That's that's interesting.
+But I just I was throwing for a loop for sure, But I mean, it's delight.
+1:27:43
+It's it's entertaining enough, I suppose.
+Yeah, the the trolls.
+It's the troll doll.
+Oh, that's the, that's the, that's where these trolls came from.
+They're the troll dolls.
+Right.
+Sure.
+Maybe there's some localization confusion and they're like, obviously it could be, it could be that.
+1:28:01
+And then I have another question.
+Like what?
+So all right, the whole like monster hunting and everything is like at this point in time, kind of it's done a lot.
+It's not the most like vibrant, exciting theme.
+The town stuff is in some ways underwhelming.
+1:28:19
+The visual novel like stuff of like, oh, the, the, the, this, this, you know, the the main character is like in this like harem anime type of a situation or whatever.
+It's like, obviously we are not the target audience.
+We are not interested in these themes in the storyline and what's going on here.
+1:28:39
+Not made for us.
+But like, what if this game was reskinned?
+Like I'm curious how much more we would like it.
+Like what if instead of the the monster tower, it was like the game was set in like some cyberpunk dystopia where it's it's you know how like they're all the dramatic stuff happens in this game when it's raining.
+1:28:58
+Opposite dramatic stuff happens when it's not raining.
+Like by default, it's always raining.
+Everything's like neon lights.
+Instead of a monster tower, there's like a mega skyscraper, right?
+And it's like, oh, it's been overrun by like rogue AI and like, instead of like cutesy, these little pocket monsters that look like they were animated in like 3DS Max like like there were instead like these rogue cyber AI robots that you had to like tame and like your main character was like, cool Harrison Ford, like Decker, like Blade Runner guy who's like running around and like, and, and then PCs you interact with are are are like are are full grown adults.
+1:29:35
+What if all?
+The girls were 18.
+Yeah, and they're and and you know, it's.
+Like a lot of bare legal minimum age you're you're sure I still look.
+Yeah, I'm like, like, like, like like 1000 year old, literal 1000 year old, like Greek gods Hades did it right.
+1:29:52
+And you know, there's a lot of like, forget about it, doll.
+It's, it's it's Cyber City.
+And you're like throwing your cyber cigarette like into the gutters.
+Would we would we like this better with a rescan question mark?
+I think I would like it consider it'll be more because you know, the core gameplay loop on its face is pretty is pretty enjoyable.
+1:30:10
+And like I I I was I was having a pretty fun time running around fighting monsters in this very sharing like combat system.
+You.
+You can't.
+Compare it to a cyber skin without saying like OK how would you would you like it better if it was done in 1997?
+1:30:28
+3D animated graphics?
+Cyber skin like well maybe, but like if you updated the graphics to modern aesthetics and still kept the same theming it would still be much better.
+Yeah, I think, I think if this game.
+Had like I don't think.
+If there was like a level of like super giant games or like Nintendo Polish to it again, like if this like if you're listening this in the in the trilogy of sequence of like our Sheeran episode this and then our eventual Pokémon Mystery Dungeon episode.
+1:30:58
+I think Pokémon Mystery Dungeon is the is.
+The Yeah, we're gonna see the answer in six months when we do Pokémon Mystery Dungeon.
+In a way, yeah.
+I think that there's like there's something about like the systems of this game that are interesting, but like like it's, it's like so close to like all the things lining up perfectly and like that the aspect that they don't line up perfectly is like perfect for like building off like, Oh, well, you know, Azure dreams should have done this.
+1:31:29
+So I'm going to make a game that does this and then bam, you have Stardew Valley or I'm going to make a game that is all like Greek thing.
+Bam, do you have Hades?
+It's like a good like like rough or it's like a like it's an an uncut gem that you can like do something with to like build up off of and like some things that I have like mentioned here, like Andrea, you're mentioning a lot of like cyberpunk stuff.
+1:31:52
+You might be closer than you might be closer than you think.
+If if there was something that like so there's this, there's this puzzle slash dungeon crawler game called 868 Hack, which is similarly obscure but well regarded, very cyberpunky.
+1:32:07
+If there was something where like that was like the core dungeon crawling experience and like 868 hack was like the tower and started like a cyberpunk Stardew Valley was the town.
+Like yes, 100% slam dunk.
+I don't know that that's enough to like tip this from the score that I have to like a nine out of 10 just on that alone.
+1:32:27
+I think you could do like, if this game's aesthetic was the same, and if it was just like, Oh, well, like there's more nuance to the gameplay elements and like, more things tying to other things so that there's like, a reason to build the bowling alley when they're like, oh, like you do 40. $1000.
+1:32:44
+Like that advances something that like helps to advance some other thing that like this is what Hades does so well, where it's like any little thing that you do helps to like thrust you through getting better at at like the main core aspect of the game, which is crawling the dungeon that like and like all those systems are so tightly into design.
+1:33:02
+I know that like we said it, it's good that like the town is kind of like a break from that.
+So maybe there's some element that like, you know, there's some stuff that's like optional.
+But I feel like even if Azure Dreams theme and like artistic style was the same, and even if it still had like 1997 graphics and it if it was just like a little more streamlined, like I think we're just kind of describing Sheer and The Wanderer.
+1:33:27
+Interesting, interesting.
+Well to answer my own question, I I think the I think the theming is is very important to me personally.
+And as I said, it's the very.
+Beginning like, yeah, there's not a right or wrong answer necessarily, but like as I said at the very beginning, it's like I think I would have rather played Diablo one than this game.
+1:33:42
+Like it, whether it's like a cyberpunk thing or like more like a mature cyberpunk thing, or if it's like, if it was like a western fantasy sword and sorcery thing, like I'd, I'd be more down with that or even like a historical thing.
+I don't know what the historical setting would be if this was a Wild West gunslinger game where you're like, you're going through Stephen King's, like, you know, the tower thing.
+1:34:07
+I, I feel like the game would be instantly would go up a couple of of ranks for me personally, cuz I think I think foundationally the gameplay is actually pretty decent.
+I'm starting to realize more that I like these games, these grid based, not auto battlers, but like the games where I was worried this game was going to be a turn based combat game, but it is in fact sure in the wanderer style where it's like, yes, there are turns happening, but it's snappy.
+1:34:31
+So anyway, well, thank you for for that insight.
+And yeah, it will be interesting to, in six months time, cover Pokémon Mystery Dungeon and see where this sort of this this, this type of game ends up in the future more, you know, with some time to percolate and, and, and be more developed.
+1:34:55
+So I guess real quick, some community correspondence that we got.
+Here, before we jump into some community correspondence.
+We have, yeah, we have some, some lengthy ones, some shorter ones.
+1:35:11
+I'll, I'll try to maybe do a mix of both 'cause we're running a little lung in the tooth here and I can tell Colin wants, wants to go for dinner.
+He's a.
+Man's hungry, he needs to eat some bread or a blue salt.
+OK, good.
+You need a pita bread.
+What are the what are the?
+There's some weird food items in this game.
+1:35:28
+You need a you need a medicinal herb.
+Or maybe that's why Will's not on the episode.
+But yeah, never mind, You've already eaten.
+OK, great.
+Sorry.
+Please.
+Yes, Scott, let's hear from the wonderful Azure Dreams community.
+Vibrance sort of community.
+Before we like completely chaos dunk on the game ranking wise, which which is, you know, like that's that's like who who cares what some like jerks on the Internet think with a number, right, Like it's it's really what the game means to you.
+1:35:54
+So people, people writing in with some good stuff here, short and long stuff.
+Maybe I'll do some short ones first.
+This one's from Dead but getting better.
+Who says?
+For them, it was like the the core gameplay loop, the mixture of pure frustration followed by that dopamine hit when you finally break past a wall that you've been hitting your head against for hours or days to clear another five floors.
+1:36:23
+Wait, So what?
+What is it?
+Oh, these are these.
+Are you solicited people to say why they liked this game?
+Yeah, basically like what is it about this game that like that that jives with them is the got it.
+Got it, Got it.
+So that's from Debbie getting better Trunks, Shinohara says.
+1:36:42
+For them it was raising monsters, dating SIM aspects and town building aspects.
+All all things that I think we've covered.
+For Yeah, for that player, you know, the game's firing at all cylinders.
+There you go.
+Pretty pretty extensively.
+This one's a long one.
+I'll I'll I'll read through this one.
+This is from BM Sephiram, who says while there's always going to be an element of nostalgia, I played it at like 11:50 and that's a pretty formative time for nostalgia.
+1:37:07
+As far as the game itself goes, I can't think of another Mystery Dungeon style game that I'd played before that so the gameplay was fresh and new.
+I like the fact that things moved when I did, so I had time to think and plan.
+I like the way that each run was kind of fresh and that I often had goals to reach.
+1:37:24
+Also, I appreciated that as I played more of the monsters that I use that that I'm monsters that I used to fear became kind of normalized.
+Eventually my dad and I started doing challenge runs like getting to the top of the tower on your first run.
+Whilst the sitting building aspect isn't expansive or highly impactful, I still really enjoyed getting those mini quests and seeing what they became.
+1:37:47
+There is honestly so much room for them to expand on this and allow for meta progression which would have expanded the combat and monster aspects as well.
+It also has a cute visual novel dating SIM relationship thing.
+I'll skip ahead a little bit.
+The monsters were amazing to me.
+1:38:03
+This was a year or two before Pokémon.
+I think maybe for them because it definitely released after.
+So Monster Training was still pretty fresh and new to the world and it hadn't really gone crazy yet There honestly.
+There honestly aren't that many looking back, but it sure felt like there were and some had a hidden evolutions on level up.
+1:38:25
+Interesting.
+You could change their element, fire, wind, water and they look different, have different spells.
+They also have unique abilities or secret aspects like EU boat scouting the map, the barong eating and recycling items or or the dragon eating metal for example.
+1:38:44
+I can appreciate that.
+I did not know those.
+The special abilities exist.
+Yeah.
+Critically, the Griffin can evolve into a horrible looking Centaur creature.
+It goes from a traditional looking balloon animal Griffin into a Centaur, complete with, like human skin and rippling ABS.
+1:39:00
+In this horrible animation where it like stretches out.
+It's like it's total body horror.
+It's it's not good, but it's neat I guess.
+Rounding out the the end of this one, they say all that alone warranted a few revisits over the years.
+Eventually I was amazed to learn that the game was also meant to be much bigger.
+1:39:17
+They had intended for there to be the hundred floor basement as well as the 40 floor tower that we talked about with the randomizer.
+I ended up playing the the Game Boy version of the game and and experiencing the Game Boy content they included and found it enjoyable as well.
+New monsters, monster bosses, and some more story stuff.
+1:39:34
+All in all, the game touched a very broad set of game mechanics that really come together to be much stronger than their individual parts.
+It has so much room to improve in individual aspects that I'm kind of sad that they weren't able to because the formula was really solid.
+1:39:50
+So I fact checked on you As Your Dreams was released in North America two months before Pokémon was released to North America.
+So technically this beat in North America.
+So technically this beat, yeah, the the Japanese versions, Pokémon was like a year in head, but not as far as I as far as I thought.
+1:40:11
+But like, yeah, I was like, OK, you could have, you could have absolutely, if you were like day one.
+As Your Dreams is my jam.
+That would have.
+Been before Pokémon?
+Game crazy.
+And you would be like Pokémon is the copycat.
+This is the OG monster trainer egg based game.
+The the the last the last community correspondence, one that I'll read here is from Tom Makes Podcasts, who says for them it was chasing down a lost loved one, bringing prosperity to your community instead of just for yourself.
+1:40:40
+An instant adventure wherever you are with little preamble.
+Just a top tits game.
+Just top tits, they say.
+Wow, that needs to be we need to we gotta we gotta we gotta track down.
+We gotta get more familiar with the Uvra of Tom makes podcast.
+1:40:58
+Thanks for writing in and we need to be start using that review scale.
+Forget this like out of 10 stack ranking baloney top tits.
+I mean at the very top of the the ranking and I can only imagine what the other what the rest of the barometers like.
+1:41:13
+And actually, you know, I have a a a a write in from the community as well.
+This is from user Jeezy Crazy Lemon Squeezy says this is an absolutely foundational Christian video game that all good Lord loving Christians must play and evangelize.
+1:41:34
+And it's it says here that it it's it really saved their their lives.
+Wow, incredible.
+That's good stuff.
+Again, rounding out the point and really driving home the point that this is a game for good Christians.
+And the fact that you cannot, I'm joking, of course, And the fact that you can't, you know, like a good Christian, you know, get married in the game like the Lord intended.
+1:42:02
+Heterosexual marriage as, as, as recognized by the church is a real miss.
+And if only they'd had an opportunity to make a sequel.
+Apparently there was rumors that were flying around in America's in the the late 90s that in the Japanese version you could get married and also have a relationship with Ghost, your rival, both of which were not true.
+1:42:25
+You could not do those in the Japanese release.
+But why people thought that?
+Apparently.
+Right, what a wild time that was that there was this period where the Internet it existed, but like I guess it didn't work good and like there were just all these game rumors like I remember hearing like I hearing.
+The Japanese version, you can do this.
+1:42:41
+And everyone was just like, I guess we'll never know because they don't speak Japanese.
+We all, we all used the strength thing on the car outside just yeah, to see the boat in Pokémon, right?
+Yeah, of.
+Course, another popular one that I remember was like, Oh well, in the in in the Japanese version of Ocarina of Time.
+1:42:59
+So the Deku tree like unroots itself and walks away and it's like, why would that even why would they take that out?
+Like if that exists.
+Like a wild degree of work.
+It'd be so much work to take that out.
+Right.
+Oh what what fun times we used to have.
+1:43:17
+And now the Internet is broken and terrible, so maybe it was better that way.
+Indeed, Yeah, yeah, it's time to to rank the possibly the most obscure game that we will ever cover on this program.
+1:43:32
+I'm I'm hesitating to think of a game that is, is more deep in the weeds than this one.
+But yeah, I think in in our traditional fashion of ending on a high note, I'm going to have Andrew, Puntas or no.
+1:43:52
+Colin.
+Colin, did you raise your hand?
+I'll start.
+OK, Puntas.
+I'm going to start off, my score is E for everyone.
+Should have played this when they were 11:50.
+I didn't actually play this game enough to feel like I can truly give it a score.
+1:44:09
+I I think like I watched the the two hour retrospective video about why it was a great game while I was eating dinner over the course of a couple of nights, but I didn't actually like get some solid hours.
+And so I, I would feel a little weird scoring it, but it so I'm not going to give it a score for what I would how much I liked it in the year of our Lord 2025.
+1:44:32
+I think I would have liked it a lot as a if I had a PlayStation, if I had somehow gotten my my dirty little hands on it, my greasy 10 year old fingers on it, I think I would have loved it with the same amount of joy that I loved Pokémon and I liked Pokémon quite, quite a bit.
+1:44:51
+I can, you know, that that's like foundational knowledge just drilled into my head, burned there forever.
+So like, I think it's hard to compare it against other games that we've been playing just because it's not new.
+And yeah, I'm not 12, but I I think it's, it's AI.
+1:45:13
+I'm, I'm, I'm sad that it didn't reach a wider audience in its time because I can see why people like it.
+And honestly, if I had really put more effort into playing it, I probably would have enjoyed it even today.
+So there you go.
+Well, let's see what what can be said about Azure Dreams quite a bit.
+1:45:35
+You can upgrade your home with different items.
+Apparently there's a a poster with a butt on it.
+It's like, it's like a swimsuit poster you can get that's kind of weird, but unique, I guess.
+1:45:50
+So in that way, the game is ahead of its time.
+No, as I, as I said earlier, look, I'm, I'm not interested in this visual novel dating SIM aspect of the game for, for, for, you know, the target audience.
+I, I suppose it's something, but all these, all these MPCS not super excited to interact with, although the, the interactions with like your, your rival are, are kind of fun and like the, the dialogue is pretty good.
+1:46:18
+So I appreciate that.
+But what MPC that I'm, I'm really entertained with always to see is the Random House cat that is located in one of the beige random beige cottages.
+And this cat, you know, normally you would expect the cat in a regular game, in a bad game, the cat, you go up and talk to it and it would just say meow.
+1:46:39
+No, no, no, no, no, Azure, why do I always keep wanting to put this like, oh, this grandiose spin on the name Azure dreams as your dreams is as as is ahead of its time.
+Also in this way, in that the cat doesn't just say meow.
+1:46:54
+The cat says, Oh, boy.
+Now I I also wrote down specific.
+It says no, it says, it says meow, comma meow, comma meow, meow, meow, which is delightful.
+And this is like the only time in the creature design where I was like, oh, that's kind of fun to see like this cat that's rendered out of like these spheres.
+1:47:17
+So that's, that's, that's hey, that's, that's enjoyable.
+But all I have to say, it's pretty common these days to have cats are usually like pettable or like you interact with them or they do something fun.
+Or in the case of Cyberpunk 2077, they're like hairless cats which love that love a love a sphinx cat and and a cyberpunk setting.
+1:47:38
+Apparently this game head of its time.
+I think a lot of the gameplay stuff that it does is is pretty successful.
+I think the core game is pretty fun, especially if you crank it up to two 2000 times speed.
+This is a very interesting game and it's a bit of a shame that it's has gone down in in, you know, relative obscurity.
+1:48:06
+That's that is that is too bad.
+I think it deserves to be better known and it deserves to be have be get more credit and thank goodness we're doing doing an episode on.
+No, I think it's legitimately interesting to like look at some of these, some of these modern game play elements and to see where they, you know, somewhat, you know, originated.
+1:48:30
+Definitely this game deserves props.
+And all that being said, unfortunately this is another game where it's like, Hey, if I, if we're if I was reviewing this, I'm like, hey, what are the best rogue Rogie games?
+Just get a pretty high score and might make it into like the top ten of like the best Rogie games that we covered like roguelike games.
+1:48:50
+But as it is in terms of just my personal taste, unfortunately, it is scoring 5 a .636 points and it's coming in as my new number 25.
+That's right, it's better than inscription for my money.
+1:49:09
+For my money, it's better than inscription.
+Sorry, inscription too much.
+Excuse me, the floor is mine.
+The dungeon floor is mine during my review and hey, inscription.
+Guess what inscription The only way it works is if you it's it is if you know about roguelikes and it and it like exploits your expectations.
+1:49:30
+Whereas as your dreams is bringing original interesting game playing mechanics and concepts.
+And whereas inscription is like a parody of a rogue like game, a rogue light game.
+As your dreams is one of the original rogue light games.
+1:49:46
+And to that I, I give it a polite clap.
+I say thank you.
+Not not necessarily my go to cup of tea game, but pretty good, pretty interesting, and is definitely worth examining and and and admiring for its trailblazing elements.
+1:50:07
+So yeah, 5 new #25 thanks for me.
+Yeah, the ending on a high note bit again, like the scores here, it's it's hard to like rank this game against like the pantheon of modern rogue games because there's no like it can't it can't it can't go up against a dead cells.
+1:50:28
+It's just it's asking to be slaughtered on the pedestal.
+Like it can't go up against an into the breach or a slice and dice or a returnal.
+Like it's just they're they're like so totally different things.
+They're totally different time eras, they're totally different production values.
+1:50:47
+The genre has evolved so much in 30 years, but it's rogue.
+So we got included into our pantheon of numbers games.
+I'm I'm putting it at a 6.5 it in a in a from a place of love, let's say.
+1:51:06
+And I think like some people have warped expectations.
+Like any anything that's like below an 8 is like an FT or garbage game.
+I think if you go into our rankings page and you can just kind of see our histograms of like how we rank stuff like a six is not particularly bad.
+1:51:23
+Like there are games that are much worse than this.
+Like do not go and play a valley without wind or Realm of the mad God in my opinion, or even sort of the stars of the pit.
+I think as your dreams is much better than those.
+It's a 6.5 for me, tying with other games like Darkest Dungeon 2, Nightmare Reaper, Void Bastards, and just a little bit ahead of like Brotato and Cult of the Lamb to give you a landscape.
+1:51:48
+I was happy to to finally get to this episode because it was like it was this weird thing that existed and so many people had say like, I was like, you know, I have such fond memories of this game.
+Nobody knows about it.
+More people need to know about it.
+1:52:04
+I thought, well, what better way for more people to know about it than for an extremely obscure video game podcast about an extremely obscure genre of said video game Dome to cover an extremely obscure game.
+So I think the the the the things that could be improved upon.
+1:52:21
+The town navigation is just like a maze at sometimes we're like, you don't have any idea where stuff is. the Super slow GRPG dialogue menus feel like the town progression to some degree feels a little tacked on.
+I think like my me personally, I think like the square room and hallway connections are a boring dungeon design, but it it works here but I don't know, like it just doesn't jive with me.
+1:52:50
+I think the hidden traps are the worst part, and I think that's an objectively unfun thing that the genre has has rightfully evolved away from.
+But the goods here are pretty good.
+I think like the community is alive and well for for such an obscure title.
+1:53:10
+I think the monsters being your meta progression is a very interesting idea and a very clever and and new one new in air quotes for 30 years ago that like if I want I want someone to do something with that again.
+I think the monster designs are weird and fun the further you get in monster fusing and like how you like combine those spells and stuff is another like interesting decision point.
+1:53:36
+Playing a PlayStation emulator for this game on the Steam Deck is not something that I had pegged that I would be doing.
+Like if you asked me 10 years ago, like what game would you be playing on the Steam Deck or like what is the Steam Deck?
+Never would have thought that combination would be true, but it does and it works pretty Dang well.
+1:53:55
+I like the idea of the 3D environments.
+It's it's kind of neat for like knowing your positioning and stuff feels a little janky.
+But I think that, yeah, again, like if you had 30 years to to Polish this up, it it could be better That all that to say, I think there was a little bit of a high price for admission to this game of downloading, installing and emulator getting up to speed with like this really like esoteric and ancient game.
+1:54:23
+But I think it was worth it.
+I think like the fun, like I looked forward to playing this game.
+And that can't be said for a lot of the things that we play.
+And I had a good time with it.
+I think like a score of 6.5 is whatever.
+But like, that's just like, would I rather play this or do morale instead?
+1:54:39
+And I think I'd rather play or like, I, I think like what I mean by that is like, which one is like maybe objectively better from a 2025 time frame.
+I think Dumarel is better.
+I think hollow Kira is better.
+I think loop hero is better, like from a game design perspective, in my opinion.
+1:54:56
+But this was fun.
+Like I had fun playing it.
+I had fun researching 47 pages of Google Doc material.
+And I was fully expecting that like we were going to talk for like 20 minutes in this episode and just be like, all right, well, now what?
+1:55:14
+And not have anything to cover.
+And we're nearing the two hour mark.
+So so I think it it wound up being what I wanted it to be and I had I had fun doing it.
+So I think it was it's I think it's worth your while to check out.
+It might not be the best game.
+It not might not have aged super gracefully, but it is absolutely worth checking out for the price of legally obtaining an ISO or ROM somewhere.
+1:55:38
+So that all to say are similar games for this really quick in as fast as I could say it.
+We we talked a little bit about the Asher dreams Game Boy Color port.
+That's definitely worth checking out.
+Andrew, I think you had mentioned like, oh boy, it'd be great to have someone make a sequel for this.
+1:55:55
+There's a game that's like kind of a sequel to this that wasn't really good called Tao's adventure curse of the demon seal.
+I think for the Nintendo DS, which is like I'm I'm appreciative of the fact that Shirin didn't really require you pressing the touch screen all the time.
+1:56:16
+This one does for like casting spells and stuff.
+There is a game called Etrian Mystery Dungeon which I think involves more town building elements.
+We talked a lot about Sheeran the Wanderer.
+All those games are pretty similar.
+Chocobo's Mystery Dungeon is a similarly obscure mystery dungeon game for the PlayStation, one that I think has some modern remasters of which is interesting.
+1:56:42
+Pokémon Mystery Dungeon.
+Stay tuned and 1/2 another game that has kind of like extreme nostalgia bait is the the games of the fate series FATE which are like you got a town, you got a big dungeon.
+It's more of like a Diablo style like real time hack and slash but similar kind of themes.
+1:57:00
+There other similarly super obscure games.
+There's a a Konami, another Konami rogue like game for the Game Boy called Cave Noir.
+Maybe not as deep mechanically.
+Another RIP in soundtrack RIP and soundtracks also include a a 1998 PlayStation one.
+1:57:19
+It's like a Saturn game called Baroque BAROQUE, which I guess is like a PlayStation one third person shooter roguelike question mark.
+And then I guess I'll end it here.
+Very interesting.
+There is a Final Fantasy X2 last mission which is a a tie in that I think was something having to do with like the remaster for Final Fantasy X2 that included some like weird like very Azure dreams looking top down, traditional rogue like gaming experience lots.
+1:57:56
+Of stuff to do a a very good name in my uncle opinion.
+I'm very interested in this yeah, I I would be interested to play again go back to the the steam idea.
+I, I, I think I would personally enjoy playing like a one of these these types of gameplay games, but set in like a a western like grittier, kind of like a modern or a futuristic setting would be would be interesting.
+1:58:22
+Baroque sounds like some type of exists.
+Baroque is I I believe leaning even heavier into religious themes.
+But like post apoc it's like I almost got like gosh what is it like equilibrium vibes?
+1:58:38
+Apocalyptic like like.
+Weird.
+Religious movie almost kind of vibes of that in a sense.
+But yeah, there's no shortage of published by.
+Atlas all right, well, look into this.
+Interesting, interesting.
+And by published, I of course mean maybe designed by them.
+1:58:56
+I don't I don't know.
+Anyway, Oh, it's related.
+Is it maybe never mind.
+I'm looking at I'm looking into it.
+Well, maybe that'll be a stay tuned for me.
+Interesting.
+Interesting, but Stingsaw Entertainment and published by Atlas.
+Interesting.
+Well, our our upcoming.
+1:59:14
+Yeah, Speaking of stay tuned games, what are.
+We our our our coming around the corner is our listener request episode timing.
+Oh man, I've been really bad at at like this wind down segment of like telling people like, Hey, you should write in, write into the e-mail, you know, add us at on Mastodon or, or, you know, in the comment section below where you're listening.
+1:59:35
+People do write in and I collect those over time and like we we pick out of that hat from listenerrequestssogrogpodzone@gmail.com Grogpod at game dev dot place is the Mastodon or you know, YouTube or wherever you're you're spotifying and you know, stuff that you're finding this comment section, type it in.
+1:59:57
+I will find it.
+I will add it to the Google list.
+And our pick for our next episode is Drum roll the listener request episode Noita.
+Oh, yeah, All right.
+The explosive pixel.
+OK.
+2:00:12
+Finish.
+Wizard simulator game.
+It's Finnish, you say?
+It is extremely Finnish.
+Oh wow, well, I love you know me a lot of the most metal bands per wait, is that accurate?
+I think maybe it has to be, but most metal bands it's one of the it's one of the Scandinavians now.
+2:00:29
+I'm pretty sure it's Finland anyway as as the most metal bands per capita outstanding.
+I'm sure this is going to be I'm going to enjoy Finnish metal band.
+So I'm sure I'll enjoy a Finnish indie game, which I I hope I do because the last listener request episode was rough on me.
+2:00:47
+Wait was the last one?
+You know this is too much.
+You know, inside baseball, who cares anyway?
+Sometimes the listener episodes are a little bit rough for me.
+Andrew Harshman.
+So we will see how this one goes.
+I have high hopes.
+No, it is good.
+No, it is a good game.
+2:01:03
+I think our last listener request episode was Sheerin Sheerin the Wanderer.
+Oh, was Sheerin.
+OK, I believe so.
+Oh.
+OK, OK.
+Because before that, of course, was against the storm.
+No, that was a, that was a.
+Oh yeah, that was a listener request.
+Ravaged me.
+Just absolutely destroyed me.
+2:01:19
+Not.
+I know Scott's already played a bunch of Noida, so yeah.
+Is an experience, and there is.
+I thought there was a lot to talk about with Azure Dreams.
+There's some stuff to talk about with Noida.
+2:01:35
+So prepare to get Noida and yeah, no.
+We did.
+Yep, classic.
+Yeah, stay, stay tuned.
+And 1/2 for that multiplayer mod for for Noi ta anyway.
+Absolutely.
+And if you have any comments about Noi Ta and you want to tell us what, what your thoughts on it, you know, hey, right, right in and maybe we'll be discussing it on the on the app.
+2:01:58
+That's that's the way to do it.
+But to to wind down our epic tale of fusing monsters to your your chopped off limbs.
+So we'll play this episode out by stripping down to five items or less and getting back into that weirdly 3D dungeon.
+2:03:08
+The.
