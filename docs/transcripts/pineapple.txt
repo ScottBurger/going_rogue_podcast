@@ -1,0 +1,647 @@
+00:00
+foreign Potter in Chief scottberger and I'm joined with my my Rogues Gallery here Grog poddling Colin Smith I'm glad to be here it was the will uh and today we uh and in this podcast uh if this is your first time listening we're uh looking at somewhere around the the top 100-ish uh roguelike games uh
+
+00:58
+each per like breaking them out kind of by year and we're uh were as as dictated by our uh mystical and never wrong uh computer algorithm that has recommended that have shot these recommendations out to us um and uh and we're going to talk about them or we're going to complain and
+
+01:16
+we're gonna uh learn a lot about game development history and uh why why it was so hard back then um and before before we jump in today's uh slate of episodes uh the algorithm has has recommended us to start uh at this year in the year 2012 which I think we're gonna we're gonna come to
+
+01:39
+the conclusion that game design has kind of come a long way since here uh and and uh the fact that this genre of games is extremely Indie at this stage uh comes with uh pluses and minuses uh we were very blessed with our first two episodes of dungeons of dreadmore and Binding of
+
+01:57
+Isaac to have two very well established um very uh polished I guess games um that have kind of really set a tone and standard at the time um as we move year by year uh through the through the decade of this uh rise of roguelikes uh we'll we'll kind of see this uh pattern mature and crystallize a
+
+02:21
+little bit as the people when you know they figure out what a roguelike is and what are good and bad design principles for it but the algorithm is that has dictated it today for us to play uh three games from 2012 and those games are Hack Slash loot a valley without wind and a pineapple smash crew
+
+02:42
+I think is kind of maybe a primer for you know 2012 after the world had ended uh steam at this time was was still a big deal to get on and the all these games released prior to to steam green light which is a now uh shelved feature of steam that uh was basically people
+
+03:02
+voting on whether or not if they wanted this game to show up on the platform or not which which as I think we all know with Community voting stuff comes with pluses and minuses about how that can be gamed and all that but uh steam green light came out in July of 2012 of this
+
+03:19
+year but all these games came out let's see beforehand uh and so all these were kind of a big deal to even get on the steam distribution platform to begin with um and as another kind of primer before we before we jump into our slate of games uh today this might be a uh an all
+
+03:36
+devs go to Heaven episode where I think the three of us recognize that game development is is a hard and laborious Enterprise uh and it's okay for for people not to like a video game uh but game design like we said has kind of come a long way since I think we'll learn a lot about like the
+
+03:55
+tools people were using at the time and uh and how that kind of influences and maybe even limits their their game design to some degree um but uh but yeah I think for for any criticism we level at the games themselves unless the devs really deserve it and maybe we'll drill into
+
+04:11
+that in future episodes uh I think we can kind of all get behind that uh you know the people putting putting their hard work into these games uh we're not dunking on them specifically but it's okay for us to you know criticize the product you can make a bad game but
+
+04:26
+still be a perfectly good person yeah I don't know about that I mean that's uh that's tough to say I don't know this distinction is required here I think you have a shitty game you're probably a shitty person am I right yeah I definitely wouldn't want someone to judge my moral quality based off of my
+
+04:42
+my past work performance oh yeah this is very true Will's offering up his uh his R code uh to the community to be judging by his moral principles oh God uh so let's jump into it first game uh that we're talking about today is Hack Slash loot uh released April 5th 2012 uh
+
+05:05
+released on Windows Mac and Linux and later in 2014 for IOS and Android uh and this is the 458th most popular roguelike game on Steam with 713 reviews topping it out in the 86th percentile of a roguelikes uh wait so there are 86 this is they're 86 percent of herbalikes are less good than this game no
+
+05:30
+obviously are less are less um highly reviewed I should say or are less popular so this so that number questions yeah yeah exactly uh which is again a kind of shocking uh uh pointer to say that like there's a ton of roguelike games out there like that's and that's the rankings
+
+05:49
+specifically for games that have roguelike tags on Steam so there's you know like we kind of said in previous episodes like 5 000 of them you wouldn't believe how many how much of that data set which you can find on the website uh has uh like basically no reviews you know people kind of
+
+06:08
+releasing games out into the void and you know for various reasons having to do with like Marketing in a saturated field and all that um people just not getting eyeballs on them and I'll and a lot of recency bias too like I would guess the numbers are in there I'm sure but I would guess like
+
+06:27
+half of all roguelikes have been released in the past couple years or so yeah I mean it's also gotten so so much easier to make a game that is playable enough to go on Steam maybe not a great game but you can get it on Steam at least yeah uh so this is hackslash loot uh is a a top-down pixelated uh
+
+06:57
+turn based I guess I would lump this into the traditional roguelike category uh it sounds right yeah you know you're you're moving around uh in grids you're finding tombs you're picking up uh it this is a game that I think really does what it says on the tin you hack
+
+07:18
+enemies you slash them and you loot stuff uh you also blast them with magic or arrows but that's basically the same thing yeah uh this game was developed by David Williamson who is a uh independent game developer from Manchester in England uh and he has uh he used to run a podcast I
+
+07:41
+believe that is has not been running for a little while but you can still find it uh online called Pig ignorant Gamers I think we can kind of relate to some of that uh but he's also released a whole bunch of like really tiny uh indie games on his itch.io site audible.itch.io which I was I was kind
+
+07:59
+of curious to to ding around in to see like oh what what other kind of games that we've had he developed and well you might find his uh his street chess game a little interesting uh it's a it's a chess variant game where all moves are real time so you can you can go and just
+
+08:15
+like you know move your pawns up and immediately capture someone's Bishop in like five seconds oh no will hates real time what this is chaos is madness I don't support this at all the anti-beard scratching 20 20 days per uh I want I want a game of chess where the board is
+
+08:33
+like the size of a football field and how fast or how well you play dictate is dictated by like how fast you can physically move the pieces across this board they're like 50 pound giant pieces you have to drag across the field the true meaning of bronze and brain in this hybrid game column this is
+
+08:52
+brilliant stuff uh David Williamson's he got his uh programming start uh in the mid 80s on a Commodore c16 pus slash 4 which I have no clue what that is uh it it I'm guessing that's one of those you know ye oldie systems but I was amazed that uh he was saying that it came bundled with
+
+09:14
+like 20 games with it which is kind of astounding but um I'm guessing back then you know the the aspect of programming games into a I guess I'm a little more familiar with the Commodore 64d either of you have much experience with that era of gaming at all that's like when keyboards were
+
+09:32
+first invented or mice were first invented is that right yeah I mean I don't have any experience with that but I I feel like my most relevant experience is like trying to program games on my graphing calculator in high school because I was too bored to do anything else and you know you get
+
+09:51
+like pong and [ __ ] on there yeah you didn't even have the QWERTY keyboard with your what do you got 86 89 well no one had your full qwerty keyboard you weren't even allowed to use it on tests hey I did until they caught me uh but no I think in conclusion I don't
+
+10:10
+I don't really yeah Commodore is yeah I think before any of our time right um but yeah I think he he wound up getting his start programming on those those very early gaming systems um and he had been a hobbyist game maker for years uh and when but you know like distribution and release at the time
+
+10:30
+very hard to do to a very wide audience uh and at the time Humble Bundle I think you know that I'd forgotten this actually but the the Humble Bundle uh platform was was pretty good at like kind of releasing these these you know micro tiny indie games um so that gave that gave Williamson a
+
+10:48
+good uh platform along with steam to be able to publish a game quote unquote for Real uh and he was he was saying it was kind of a nightmare to release on Steam back in 2012 but um but their staff were actually kind of helpful with getting him through the process which sort of doesn't surprise me
+
+11:05
+um so you know it kind of speaks to to volumes and I guess we'll we'll come to this in a in a little bit for our later games but um yeah we're like releasing games back then was not not a trivial process Williamson said that he was heavily influenced uh in the development of
+
+11:23
+hackslash loot by Colin do you know the the um the tabletop game Eye of the Beholder at all uh I've heard of it but not played oh sorry no I have this backwards I have the beholder was a H what is it it was a an old-timey like turn-based game if you find like screenshots or video of it you can very
+
+11:47
+clearly see like the influence to to hackslash loot with like parts of like Inventory management and grid-based movement and stuff like that um but he was heavily influenced by that and tabletop DND which also kind of doesn't surprise me to some degree of you know this being a very uh classic um
+
+12:09
+type of game where you have your your standard classes of like Warrior Archer Mage and you're kind of going around Dungeons and just like beating up monsters and getting you know more loot d d is obviously more involved and complicated than that but you can kind of see where they are aesthetic uh
+
+12:28
+inspiration came from uh he says in a quote uh he'd been laid off shortly before working on hackslash loot so it was pretty easy to to keep a normal work routine but keep working on his game um the things that used to make the initial release were a broken laptop
+
+12:45
+Blitz Max and Photoshop Elements I did receive a lot of help from fellow Indie developers though the Indie Dev Community was probably the most helpful tool I used during development um which is you know a thing that we'll probably see as this podcast goes on of like this kind of collaborative uh
+
+13:05
+helpful um community of people that are really you know willing to help out with these kind of things um Williamson I was I reached out to him for uh for some some of these quotes because some of these really Niche indie games are incredibly hard to track down for like how was this game
+
+13:22
+developed what were sort of the challenges involved um and we'll put that up on the website grogpod.zone uh for you to read in in more depth uh but yeah we were able to get a um some really great comments from from David Williamson uh as well as our hackslash loot developer which we'll get
+
+13:40
+to in a second story in this game uh how would we describe the story there's there's like six different quests that you can go on um but for me I didn't really know that there was like I didn't get the sense that there was really much of a difference between them
+
+13:58
+yeah I know will got further than I did is there any Story by the time you get to the end of it or is it just um you get better is the story getting better at hacking and slashing yeah it's very epic I feel like it's very episodic and separate like I don't know if there
+
+14:14
+was maybe I missed something but I didn't see anything like linking the worlds together other than like you're doing kind of the similar things you're either going up or down I remember if it was up and down all the they're kind of blending together now but like you
+
+14:26
+you're beating your a floor you're going up you're making the only real strategy there was just like do you clear the entire floor or not so I don't know like it didn't seem like there was much of a narrative that was driving everything on one um uh within one complete story there's
+
+14:44
+kind of a preamble like there's six different quests quote unquote that you can do but I guess like are different sort of uh tile themes to the dungeons as far as I can tell yeah um but you know it's like go go into the dungeon and go like rescue the princess or the you know the small boy and they
+
+15:01
+all have like different difficulty ratings to them which this game is like maybe the most difficult game I've ever played what uh I don't know like I think the uh so I picked I picked there was one of these um I think it's mask of the boy King was one of the quests that's the only one I
+
+15:22
+finished was that like the very easy one I forgot I don't recall what level that was um but anyway I wound up picking like the one that was the very easiest because I'm like yeah I just want to like see what what this game has to offer and I don't know it must have been
+
+15:35
+like a bludgeoned in the to death in the first like five moves of this game like 50 of the time wow are you trying to like open up these Crypts and immediately fight these high level like skeletons that come out because that's well you do that a couple times yeah you open up some Crypts and
+
+15:51
+you're like oh you shouldn't do that okay these are treasure chests but they hurt you every time yeah um yeah I guess there's a risk reward element but uh my my playthroughs I think I was just like what does this do what does this do and kind of like clicking on everything and oh yeah okay
+
+16:04
+that'll kill you so I got the the sense really fast that literally everything in this game will kill you yeah I mean that was also my sense uh and also just that you didn't have a particularly large array of strategies to avoid being killed uh choke point indoor was like
+
+16:28
+my only strategy yeah uh and then just kind of hack and Hope and do some slashing too I mean hacking I do some hoping you do some slashing but I think you're right it's basically like doorways everything is like only one thing can fit down a corridor for instance and if a corridor is one uh
+
+16:49
+sort of unit wide you can just where their numbers count for nothing you can kind of just wait for them but um so that's one strategy the only other strategy I found somewhat useful and this is after like a few hours of play is once you finally exit to a floor it's not useful I think to just like
+
+17:04
+immediately go up because you want to you know get all the loot for that floor and so what you'll do is you'll you'll go search around you'll find something that's going to absolutely flunk you up that you can't fight and then you just flee to the exit and make it because
+
+17:15
+this game does not have like uh units cannot cross floors except for you you could just have a safe escape and so that's really all it is you find a safe Escape for when you take on too much I did find that there were another kind of uh frustrating element for me was
+
+17:31
+running around this dungeon or it was a different it was a different Quest because there there were was it the same Quest I don't know that like uh wall like uh ghosts moving through walls this ruined so many runs right yeah I know that was the mission where you actually start with Ally so it seems
+
+17:53
+like super useful they're all helping you but as soon as they die they turn into a ghost and the ghost has the property going through walls well it really sucks to get like when you have enemies coming at you like that there's an ability you actually get that ability and travel through walls as an
+
+18:07
+as a perk which is an insta win game I think that's the only time I won was like when I got the that ability through something I think there's there's an interesting element in this game about how like this game really suits um a category of roguelikes called coffee break
+
+18:24
+roguelikes which are games that are like designed to be played in I would say like less than 10 minutes or like less than 15 minutes of game time um at least it felt like for me that the main kind of through line to this was play a lot die a lot and by dying that's
+
+18:44
+how you unlock new characters there's there's a very um sparse but actually kind of interestingly useful Wiki for this game that details uh like how many deaths you need to unlock certain uh character classes and what's surprising is it does it doesn't go up linearly like you don't
+
+19:02
+get a new unlock like every 10 deaths it's like after 10 deaths you get a new unlock and then after like 12 deaths you get another one and then after like it's like the square it's just like every every thing that is a perfect square root so like 9 16 25 30. wait
+
+19:22
+what do you unlock I just never died but they're so good at this game I just uh you unlock there's like 12 characters well no no there's a there's way more than that there's like well because there's characters um and then there's classes on top of that so there's a bunch of different
+
+19:37
+unlocks which I think is is kind of it's kind of a shame that you don't get to see that faster because I was like you know the like the new characters that you unlock are very different than previous ones and I think they kind of help to spice up the gameplay but it
+
+19:52
+just takes so many so many depths and I feel like dying in this game is super unpleasant where it's just I mean I I also say that like I I wanted to get an experience like a new character or two so I just played as the wizard and you just tried to charge things and then die immediately it's
+
+20:09
+like well how fast can I die like gotta get to that like 16 deaths or whatever it's like all right is there a counter for this that I didn't notice that tells you until you're next to unlock how many deaths you need it doesn't I didn't realize there's a Dynamics a couple of
+
+20:22
+weeks ago for me but there's it's like a counter on the main screen just how many times you've died yeah oh okay it doesn't say it uh deaths until next unlock and I think that would be another good hook in terms of like okay why should I why should I keep being frustrated dying oh this really cool
+
+20:40
+Minotaur is gonna unlock if I die five more times so I'll go in and just like literally like you know this game was was actually kind of fun to play on my steam deck while my like code was compiling for 15 minutes because I would just like boot it up like die five times to random [ __ ]
+
+20:56
+and then I'd be like oh I unlocked a knight oh that's kind of cool I'll play around with this guy for a little bit but um other other interesting things that so you start off with three standard classes a human saracen a woodland elf Archer and a human Wizard and things that you can unlock include a
+
+21:10
+human Knight a human Amazon a pixie Mage a human ninja a skeleton Lich Knight sounds pretty cool a human pirate a Titan Arbiter uh I have no no clue that is uh an eye Terror Tormentor uh a centaur Noble and thing things of that kind of uh that kind of ilk and I think
+
+21:31
+a lot of them are just like strictly better yeah like not it's not like uh putting points in different spots it's like just starts with more HP and more attack yeah this is all news to me I only remember seeing the Knight and I thought I it came with that because I know there was no like hey and
+
+21:46
+congratulations you got this new it was just say oh hey look at that one I didn't see that one very quickly yeah and so that's yeah after 10 deaths or something I mean that's a class this is a a game mechanic error components uh just uh dangling just like expose what
+
+21:59
+you want them to drive for in front of them but don't give it to them until they complete whatever you're requiring and it's just like that's an obvious thing no offense to uh game designer yeah we've known about that since the 80s come on I don't like that it was it
+
+22:13
+rewards death I think that it should be like based off lore's gained or something like that because I mean I I ground dying that's not like a fun gameplay loop it's like well I want to see next character better just like die as fast as I can a couple of times you're not rewarded for playing well
+
+22:32
+you're rewarded for playing badly and with the benefit of of 10 years of game design after this I think we'll see how how other kind of progression systems have learned these lessons about like you know unlocking characters from small events that occur within the dungeon or
+
+22:49
+unlocking characters based on like doing objectives or collecting certain things or like buying their freedom from the shopkeeper or something yeah I mean a lot of them are just like do a thing that's similar to the character like play us play in a style that is similar
+
+23:05
+to the character and then you get the the next character that starts with that style and that was that was Binding of Isaac right like in order to get the one character that focused on life you had to like obtain five hearts in a run or something it was very much tied together which is very nice
+
+23:21
+let's move on to our next game uh oh boy um a valley without wind released April 24th 2012. you can find it on PC Mac and Linux this is the 569th most popular roguelike game with 484 total reviews clocking in at the 82nd percentile of the of the category uh uh in my notes I have so what kind of
+
+23:43
+game is this in my notes I wrote down side scrolling asterisk asterisk asterisk platformer asteriskers asterisk RPG with Base building asteriskers asterisk because this game is is something else um quick development history on this this was developed by a very small studio and
+
+24:02
+small we mean like between two and five people at any given time uh Arkin games uh who have a fascinating uh kind of company history Novella on their website uh this PL this uh Studios found in 2009 by Chris mcelly at Park um and uh they have they have developed some
+
+24:23
+interesting and out of the box games much to their credit with varying financial success which much to their credit for taking risks but um they developed a game called AI War which is kind of an out of the box RTS game in 2009. I actually own AI War I knew about that before I was reading
+
+24:42
+about them and I saw that they made Al war and I was like oh another game that was seems really cool and I've tried to play it I was like this is so overwhelming it's got so much stuff going on and I yeah I I I hit the end barrier to entry pretty hard and did not end up getting
+
+25:02
+to the point where I could play it competently um and and AI war was a big hit at the time I think it was out of the box enough that uh people really kind of shown a spotlight on Arkin at the time so that that pushed them to to do something new and try a puzzle game
+
+25:21
+called tidalis or or tid tidal is tight house I'm just gonna say titles uh and this one was out of the box maybe like less commercially successful um but they didn't want to be kind of like type Typecast as just developing RTS games like they developed a bunch of
+
+25:36
+expansions for AI war that were pretty pretty well received um and in 2012 uh they wound up starting development with a valley without wind uh somehow believe it or not this game was somehow a commercial success uh I think when we look back in hindsight we're like how on Earth could that be
+
+25:54
+um but that wound up giving them enough Financial Freedom to start doing some other projects uh they developed uh a stay tuned to future episode starward Rogue which nearly bankrupted their company and they had to lay off like almost all their staff uh but they've developed like a bunch of different
+
+26:10
+games of wildly different types and of middling success but they've always kind of I think tried to push the envelope and get out of the out of the out of the box with their with their game design not always successful but I think they wound up returning to tried and true
+
+26:26
+formulas with AI War 2 very recently in 2020. that game seems to have been more kind of coming back to their their success model that people are more familiar with um this was so a valley without wind the the development behind this game super interesting where originally this game
+
+26:45
+was supposed to be sort of like a top-down uh Force Perspective game kind of in a similar um perspective manner as like Final Fantasy six or like Chrono Chrono Trigger where you have that kind of like 2D 2D element with like things that are in like a 3D like pseudo environment but
+
+27:05
+it's forced perspective that makes sense um this game I think uh was also originally supposed to be a tower defense game weirdly enough uh so design was sort of influx and sort of all over the place uh originally um and yeah I think the original development for this being that forced
+
+27:29
+perspective meant that they did all of their modeling in 3D first and then put it like flatten it out into sort of a 2d environment which was super challenging for them at the time they wound up changing back to like a 2d profile like side side scrolling design because
+
+27:50
+unsurprisingly it's a lot faster develop that way because with the 3D modeling engine they were saying uh you know you develop in 3D and then you just rotate to one access and boom there's your Sprite you don't have to worry about forcing everything to multiple axes um yeah
+
+28:07
+uh one thing that there are a couple games that the the developer wound up saying that he was trying to go for with this game which you know maybe sort of been could have been a little bit of hindsight was uh like Don't Starve and I think that like when I hear that I'm like okay like
+
+28:25
+that that makes a lot more sense for what this game maybe what it was trying to do but being so far ahead of that was really kind of hard to learn those lessons because no one had really established that that kind of game design before um I feel like it not really like Don't
+
+28:47
+Starve at all like the if I had to compare I haven't played very much noita but that's the game it felt most similar to me in terms of just like really procedurally generated levels where you have almost too much flexibility in how you're running around doing them uh like reading the the
+
+29:14
+tool tips on how to use the map is already like like we have this intricate mapping system and like here's our like at the end uh like here's a paragraph of why we think this is the only appropriate way to map 3D spaces and like I kind of got where they were coming from in that like
+
+29:34
+assuming you had to map this strangely complicated 2D 3D landscape I guess this is the best way to do it but it seems like a better way just to make your landscape less complicated to fit the fact that you're doing something in 2D this game I think is maybe the poster child for tell don't show
+
+30:01
+and I kind of get this same impression from the Arkham games website where maybe they should have just written like a series of sci-fi novels instead of developing a game because I think like there's aspects of the game's writing that I think are interesting and everything else is just so
+
+30:20
+bamboozingly over over complicated and just this is this is the kind of game that if you dig up YouTube videos of it this is the kind of thing that like distracted children would be playing on the TV in like a com you know standard sitcom of like oh look at these games
+
+30:37
+these kids are playing and it's just like this unintelligible nonsense of like oh these kids need to go outside and you know play with a real ball or something like there it's I this is a podcast this is an auditory medium I'm having an incredibly difficult time describing what this game looks like
+
+30:56
+that doesn't involve the words clip art and just like I clipart's not quite right but janky and yeah it's uh bad fragmented motion and just well of course like the art styles were not all the same yeah like the background and the foreground are of different styles like
+
+31:21
+when you jump you always flip it felt like I mean it really it felt like over ambitious it was trying to be all games at the same time and trying to be a platformer trying to be uh RPG base build thing it felt very shoehorned in uh it's like oh we want to do platforming but also you have to make
+
+31:46
+your own platforms oh my God the platform building oh wow thanks for reminding me that was yeah so I I I feel like really both actually all three of these games um but maybe to a lesser spent the last two kind of remind me of all of my thoughts about procedural generation which is
+
+32:09
+I love the idea of procedurally generating maps and procedurally generating things but there needs to be a purpose for it like oh unlimited Maps like well I don't actually need an unlimited amount of maps if they're all indistinguishably they're they're indistinguishable from
+
+32:34
+each other like there's no there's no defining feature of any of them I literally could not have told you if this map was the same as the map that I played five minutes ago like are are is the procedural generation really getting you anything yeah uh and I felt like the combat difficulty was
+
+32:58
+I I felt like in order like I did a couple of the boss missions it was like okay you either do some weird cheese Strat or you die or or like very hurt uh so it's all about like putting your platform down in a very specific way so that you can just kind of barely peek over the edge and shoot
+
+33:16
+down at something or jump around and the fact that none of the levels were designed by a human meant that you have to you have to scale your difficulty to assume that that's the that's the best way people are going to choose their she's their way through whatever encounter they're going to just
+
+33:39
+yeah yeah and it's an important kind of element of procedural generation that I think people had needed some time to figure out where yeah in Valley without wind and I think with hackslash loot also like you have an environment that is like randomly generated versus like
+
+33:59
+pre-built like prefabricated elements that are then randomly like connected to each other and those kind of prefabbed elements help to kind of guide you know some kind of um design uh through line for either a level or helping to kind of guide your progression for assist and we'll see
+
+34:20
+this in in like you know later episodes like enter the gungeon or even like you said with um I think it's pronounced noita or Noida or yeah I don't know how it's pronounced it's finished so I'm not sure if anyone knows how to pronounce it um but in that game like similarly
+
+34:37
+overwhelming with its size and scope but feels a little more grounded in that um there are there are like almost kind of like prefab like categories of areas that are then like randomly jumbled together but yeah just I mean you mentioned Don't Starve earlier which I
+
+34:56
+think is probably as a wider audience that maybe people have played that game where it's like yep there's the the grasslands and you know there's going to be a a tunnel at some point and like everything's in there it's just a matter of like kind of seeing how it all is
+
+35:07
+connected I want to quickly talk about the uh the opening text crawl for this game holy which I think kind of really sets the tone uh we'll we'll time to see how long it takes uh for either one of you to start raising your hand before you get bored from me talking
+
+35:24
+um it is the year 888 reality will is already you've already tapped out uh like all good games you need a I think this takes like two or three minutes to text scroll across you don't have to read the whole thing before jumping in but if you're interested in the story like like ah yeah
+
+35:46
+uh but reality has just shattered wind blast snow fields have covered the world of environment for centuries citizens in this age reliant on their magic driven technology Now find the world an alien place that seeks to devour them only glyph bearers chosen by the enigmatic
+
+36:04
+ilari are able to venture forth into the Windswept Wilds they discover shards of time and space have slammed haphazardly together I think that's what the environment design is um industrialized cities from the 5th Century lie in just abandoned ruin crammed next to Bronze Age towns from
+
+36:24
+the first century of the ancient era in the shadow of robotic enclaves from a time after people most and this is about halfway it's going oh Jesus this is like the most AI generated like storyline I've ever heard this feels like a back explanation for we couldn't we wanted to jam everything in
+
+36:44
+and so we had to figure out a reason like lore wise that you could have all of the things you would think so um and I don't like I'm not tempted to uh to test this hypothesis but they say on Arkin games website they say most of our games are set in a large internally consistent
+
+37:04
+quote Arkin verse it's a really rich sci-fi landscape that fans that spans a few trillion years of history and future and which has yeah it really should have been they definitely should have been just writing a science fiction series yeah um that being said like I feel like
+
+37:21
+we've been really just bashing on this game I did not hate it as much as you guys did um like I liked it significantly better than hackslash loot uh I like just jumping around was kind of fun and I appreciated the the scope of what they were trying to do and I mean granted I
+
+37:47
+basically just ignored all of the lore and just didn't pay attention to it and it was like I don't know it seemed mod like it was diverting it was it it like minus like the boss combat I felt like you just jump around and you could just mindlessly do stuff for a while yeah um
+
+38:11
+probably not what the game developers were looking for as like a play experience but there's a certain element of like overwhelming zaniness to this game that almost like like the first like 20 minutes I was just like okay yeah like this is this is pretty insane like let's see just how crazy it gets
+
+38:32
+um and I almost kind of wish it got like more crazy because you get some of these um well I guess like to so gameplay wise you boot up the game and you you select from uh four Heroes uh that you know once you died you know in standard roguelike fashion you you pick another hero
+
+38:50
+um all from the The Ice Age but uh picking them with various attributes of Health uh attack power and Mana um and so and I think they all start with the same power initially but as you unlock things you can get like crazy rocket turbo boosts uh like ice powers and various uh types of I don't know
+
+39:11
+where big rocket things like for a long time yeah some of the some of the abilities in this game were just hilarious without his best power like literally throwing like almost screen sized Boulders at things that there's no like real weight to it but just like the visual
+
+39:29
+almost like the visual gag of like and every time that like you summon one of these Powers you do some sort of like wacky pose yeah I I back to the clip art uh it did feel a little bit like you were um in a PowerPoint presentation and you summoned this rock you just kind of
+
+39:45
+popped it onto existence and just kind of flew over uh yeah having no weight to it feels like exactly the right phrase but the rock did not there was no sense of like I'm doing the large effort to use my magic to hurl a huge Rock it's like oh here's rock it goes summon summon summon Rockford yeah
+
+40:08
+uh but yeah gameplay wise you start in a tutorial world that kind of I think that was like a pretty decent job of like explaining like what the hell is going on there's all this stuff hey don't worry like the pause feature in this game is very helpful so you can just
+
+40:21
+kind of like okay let's stop and take a second and just kind of process what's happening uh but you eventually wind up coming to a town that you you build out some more infrastructure in and uh you fight like like comically oversized robot mini bosses all over the place that is just
+
+40:40
+kind of adds to like the overwhelming factor of like okay I've just booted this game up I'm going in blind holy [ __ ] that's a huge robot it's shooting all sorts of crazy stuff at me ah I gotta jump in between all these like fire blast kind of a fun idea um and then as soon as I got to like
+
+40:56
+some of the other Realms I was just like ah you know I don't know there's just so much stuff to keep track of it's it's like the exact opposite of hackslash loot in that sense where like that game was was very minimalistic this is very maximalistic yeah I had a lot of stuff that you could try to do
+
+41:21
+um and they were like you you have to love a game where there's a building in the town that's just like what should you be doing right now and you're basically just going to big old monocrystal and it's just like hey I'm overwhelmed in the world in quotes like how about
+
+41:39
+you magically telling me what I should do it's like yeah you you they knew that they were going to need something to like give you priorities but even then it was still hard to know what you should be attempting to do like you just go out on the map and do random missions
+
+41:58
+and get rewards but it did not feel like just by having so many things it did not feel like I had a whole lot of agency in terms of building things out really just like you get what you get from these rewards and maybe maybe I just did not play for a long enough time but
+
+42:20
+but how long how long did you play three or four hours okay I think that's four hours longer or three hours longer than I could physically sustain playing right no I'm looking at my play time right now and uh so I and I feel disgusted that I can't even truly evaluate it Beyond its
+
+42:39
+surface level because I have 39 minutes I just couldn't take it it wasn't right I only have two hours into it but I it felt like four hours I bet though yeah I honestly I almost went back to play the next day but I needed to to get through my get through my games
+
+42:56
+but uh well speaking of getting through our games let's uh let's talk about our last uh last game for the episode today pineapple smash crew released February 2nd 2012. uh PC only exclusive I can only find it on PC this is uh shockingly the the most Indie out of all of these
+
+43:15
+uh the 1059th most popular roguelike with only 119 reviews cranking in at a hot 67th percentile in the in the category uh and this is a a very um I was almost gonna say pixel Pixley but it's not pixely um it is a uh twin stick shooter it is 19 late 1990s arcade Graphics yeah I
+
+43:41
+think that's accurate like N64 like large it's 3D but with very not not very many uh polygons who you just I think you really hit it on a head there that this would be such a great N64 game oh yeah this [ __ ] I would have loved this and honestly I I'm just go ahead and say I liked this
+
+44:03
+game yeah what what I thought I thought this game was pretty fun I might play it in the future so it's the best of the three to be sure but of the three I mean of garbage I mean sorry you know offensive let's real quick jump into jump into the quick Dev history here so this was this was developed by
+
+44:21
+uh Rich Edwards in uh Newcastle England um or second the English the day uh and uh from an early age he wanted to to make video games uh he was really kind of just sketching out map ideas and characters from things like Sonic and the game cannon fodder or desert strike
+
+44:40
+and like Streets of Rage uh I think but I've I've probably done the exact same thing in Middle School um but he took more of an interest in sort of the art side uh and he wound up joining a mid-sized game company in Newcastle and wound up getting uh familiarized with this uh engine called
+
+44:56
+The Quest 3D engine uh that was uh hilariously used a lot in like architecture visualization but also a little bit for game design which I thought was very interesting one end up using a lot of Maya at the time for 3D work in Photoshop and he had looked into using Unity for mac and Linux support
+
+45:15
+would have loved to have blender back in the day I'm sure but Unity I think at this time was still still in its infancy so I think you know it would make sense at the time to stay with the devil you know for engine work and try to try to get it to work in there um he says in a quote I found out about
+
+45:34
+a business development scheme in Middlesbrough and uh called digital City Fellowship that gives small grants to help startups and luckily made it through the application process by showing them some game prototypes he'd made and talking about his ideas for pineapple smash Guru he wound up taking
+
+45:52
+uh this this game to the Indie Games section of egx which I think is a game convention um and uh he he had a connect there David Hayward uh who helped select that for the show and the The Gaming magazine Rock Paper Shotgun wound up awarding pineapple smash crew as their favorite game
+
+46:14
+um David Hayward his connect encouraged Rich Edwards the developer to go to the uh Counter-Strike Global Offensive Booth which was like just launching at that time way back when if you can imagine uh and mentioned to the to the Reps there that hey you know I have this indie game
+
+46:31
+it just won an award uh how would I go about getting this thing out on Steam uh and they wound up you know getting him connected and getting him uh help set up on the on the platform which was super cool um this is another game that uh that you can see see clear inspiration from uh
+
+46:48
+games that he was really inspired by called cannon fodder uh and the Sega Master System game called game ground uh which have very similar kind of um game uh flows and designs to them where you're kind of running around these these environments and just blowing stuff up
+
+47:07
+um but interestingly he said he was also very inspired by the Billiards game or the part of the game pool uh for just having stuff like Bop around corners and uh that kind of you know dynamic um uh bouncing physics objects he said which I think you can kind of see a lot
+
+47:22
+of inspiration from here I said in a quote uh if you're solo uh I'd try oh for in terms of like developing games he he has a very uh good quote here if if you're a solo game developer I'd say try to get in a position where you're self-sustaining either with a day job or
+
+47:38
+working evening slash weekends or if you can get any kind of business grant um or art scheme or if you're lucky enough just to be living with parents uh but in some situation for when time pressure uh to complete your project isn't crushing because you need to feel
+
+47:52
+free to explore ideas and prototypes before committing on a direction Early Access wasn't really a thing back in this time um and when he started he he would say that that was a good way to help kind of sustain development and grow grow a community um uh Rich Edwards nowadays does uh
+
+48:08
+freelance uh illustration and you can find him at Twitter at Rich makegame uh until for however many days Twitter is left that I don't know if it's going to outlast the uh the new head of lettuce but uh but we shall see story wise in this game I think there's a story uh it seemed kind of interesting
+
+48:29
+there's elements for you another ship eventually yeah and I was really motivated to try to figure out like oh what's what's like the lore behind this um and this was something that it was it seems a little ancillary I don't think it's really critical yeah I'm not sure that it's really a
+
+48:47
+uh I don't think it's a game that is heavily based off of story no but the idea here is that um you boot this game up you are pineapples armored pineapples question mark I'm not quite sure where the pineapple big comes they're not pineapples at some point they comment about how they would like to eat
+
+49:06
+pineapples or something along those lines like just in the text that randomly displays so I'm pretty sure just some kind of a creature that yeah two arms and two legs and armor uh some like little yellow-headed Simpsons character maybe uh in a giant suit of armor which I think is kind of a fun
+
+49:21
+character design and you have um four of these uh I'm just gonna call them pineapples because I like the idea that they are sentient pineapples and suits of armor but you have machine guns you're running around um uh an environment that's like a spaceship uh filled with bugs and
+
+49:41
+things that explode and your goal is to go to some room that is labeled Target on your minimap you go in there and you know your mission objectives can range from uh blowing up crates to get little little green blobs that are data cubes or something it doesn't really matter or
+
+50:00
+blowing up a big enemy and once you've done that you know dust your hands off you're done with that level you warp out and you your crew upgrades depending on how many blue little experience points you gain uh which gives you the upgrades yeah well it gives you it gives you a
+
+50:18
+little bit of armor I think which helps but I don't know I didn't really see either actual armor you could buy hats and the hats did absolutely nothing no when you're when your people leveled up they they look they got bulkier they got like a better looking armor no okay give you any stats on like
+
+50:37
+if your guy was better and you got better grenades you could you had some yeah that's great the level gives you another grenade I don't know if it's better honestly if I could only have just the basic grenade I feel like that would have been better because then you just kind of diversify your pool of
+
+50:51
+available grenades to shitty grenades eventually but I guess it depends on your play style there's uh there's a lot of kind of I think interestingly designed power-ups in this game where it it felt like pretty pretty useful it felt like everything kind of had their own use you have like
+
+51:08
+rockets you have lasers you have uh like healing beacons you have a like specific power-ups that like fear enemies away from you or like quad damage things um which I thought was was a good kind of element of like tactical usefulness like okay I gotta switch to this guy to use
+
+51:27
+this Vortex thing and collect everyone up and then shoot the rocket out of them to blow them up uh which as the as the game progresses I think becomes a lot more necessary and I wound up just using like these laser things to shoot through walls a whole lot but that's exactly
+
+51:41
+what I mean but yeah I think that like this game had a pretty decent amount of um weapon variety a pretty decent amount of like enemy variety between like I think there was like zombies on on some of these spaceships there's uh like little arachnids and uh robots and kind of everything in between um
+
+52:03
+but I wish that the the boss design here was a little more varied yeah when you were talking about Early Access and how they didn't have Early Access then this really does feel to me like a very good Early Access game um I so I looked at my stats I played it for an hour and I had like genuinely had
+
+52:25
+a good time playing for an hour I think this would be an absolutely amazing arcade game like physical in-person arcade like at a Barcade type thing it would be a great game for that um but I don't know if I could get like I could probably get another hour out of it of like true enjoyment and
+
+52:48
+then as far as I can tell that's basically just the same boss every level which yeah and they get um they get more armored as you go along through the story which I don't know like I guess presents more of a challenge but I just kind of kind of found it more annoying where you just
+
+53:06
+have to like shoot between like the weak spots of the armor and it just takes longer yeah it just takes longer um it didn't seem like the the usefulness of the tools as as you learn them in like how to use those to kind of like defeat enemies and stuff really came into play that much with the bosses
+
+53:24
+specifically I think more so like yeah you get like much better like okay bouncing stuff around corners like how to use these grenades then you get to the end and you're fighting this boss and it's just a circle a giant Circle robot being a large open room which is nothing like any of the other areas
+
+53:40
+and you just kind of have to blast at it for a long time so it's you're you're building up your your clearing Corner skills and then none of them are in any way used for the boss room yeah what would you say is the primary source of fun for this game I think uh this is another game that I
+
+53:60
+think like uh it kind of yeah like does what it says on the tins you are pineapples you're a crew and you smash stuff that's it I think like my like yeah I kind of peaked with my enjoyment of it like yeah right about like the hour level and it wasn't like a like a
+
+54:17
+peak and then sharp decline it was more kind of like a peak and then like a gradual decline of like oh I kind of felt like sunk cost fallacy a little bit because I'm like I gotta I gotta know what the story here is uh I gotta know like what the end boss is because as you
+
+54:31
+go through the game you'll find uh these little consoles that give you uh encyclopedia uh weak Arctica entries uh that like have like interesting little lore tidbits that you know don't really have much impact in the game at all but I believe those the more consoles that you access
+
+54:52
+the more it gives you um like quote unquote like progress or yeah yeah which is the final boss which uh spoiler alert and super bummer was just literally another like Roomba style giant tank thing which I was super bummed by because at about at the hour marker I'm like I've absorbed all the
+
+55:16
+novelty out of this game yeah Scott do I continue on because I see I've got this degree of progress so I can like double or triple my time and no no I think like this is a game I think yeah Colin hit it on the head uh this would be a great physical arcade game where you could
+
+55:32
+either like solo you're controlling like the squad yourself and kind of like switching back and forth between them or if you had four people going simultaneously um I will call out though anytime that a game uses a um a Total Recall quote because as you're as your little crew running
+
+55:49
+around you're saying like you know some uh like little action movie quips one of them is you think this is a real Quaid it is I had to I just had to pause and just give a just a slow clap for any kind of uh any kind of action movie especially Arnold references in these games um but yeah I think like
+
+56:09
+if this was like a high score Chaser or yeah something along those lines I feel like this one was really close to being a really good small game um so we've been playing off Scott's Steam account uh so I didn't actually buy this game I just looked it up though it's ten dollars if you're gonna buy it
+
+56:32
+by itself and that feels like probably more money than I would be willing to pay for it this feels like a two and a half dollar game because you're gonna get like a good hour or two of fun out of it absolutely worth two and a half bucks maybe even five bucks yeah uh for from my perspective but ten
+
+56:52
+dollars feels like you should get more than what you got and I think to some degree developers have to either set like sales schedules or there's some kind of thing that requires developers to say like oh I'm gonna set this game on sale to be x x percent off every so often or whatever well it's ever
+
+57:10
+factorio which realize their value I don't know that the I don't know this this is on the same even Spectrum as factorio but yeah I think I'm just saying that that level that you don't necessarily need to have uh like the um a periods of discount I mean Arizona Iced Tea yeah I mean like
+
+57:28
+their Costco hot dogs they're well Costco hot dogs can't go on sale because they're literally losing money on every sale right uh well I mean they could still go on sale but it's a lost leader at a certain point they should probably just give away their food for free they wouldn't lose more money
+
+57:46
+not really anyway um I think this is this is the kind of game that's going for a different kind of audience or something like factorio though like I could see booting this up maybe not this exact game but a game with mildly more content a little bit more in terms of
+
+58:06
+variability upgrades like you could upgrade all the grenades and the rockets and stuff but you still have the same basic gun the whole time and I was a little disappointed that you never got uh I mean just the standard like oh instead of just firing straight now it's firing the three that spread
+
+58:23
+out or like oh now it fires slower but longer but more powerful it it was surprising to me that you've never upgraded that um it seems like they focused all of their upright efforts on these like grenade power-up one-time use things um but I could see a game substantially the same as this with a
+
+58:45
+couple of tweaks being like yeah you know once a month you come back you play an hour you're just like cool fun just getting a weird Flow State and I will stuff I will call out that the uh the soundtrack to this game is pretty it's pretty bumping I think yeah I like the sound the soundtrack for this
+
+59:03
+was pretty great it was uh it's actually the only the only game that we've played so far that I actually genuinely liked the soundtrack uh I felt it felt like it perfectly fit the I urgency of the game yeah so well let's move on to our rankings uh each episode we we do our do data
+
+59:29
+diligence by ranking all of our games and uh compiling Google Sheets together to to get the most authoritative data-driven list of of the best games of the uh the cream of the cream the top of the uh of the roguelikes um for me I'm putting uh pineapple smash crew at my new number three game uh so
+
+59:50
+behind dungeons of dreadmore and I'm gonna put Hack Slash loot just behind that uh and maybe a little bit of controversy I'm going to put Hack Slash above Binding of Isaac the uh the original 2011 one uh and then I'm gonna dump a valley without wind at the bottom uh I I
+
+60:08
+had a lot of fun playing pineapple smash crew uh I think there's a lot of positives but um I think like yeah if it was just like an arcade game or if there was some arcade game that was like this um I could see busting this out for like a video game party or something be like
+
+60:26
+oh you know we should play this until we all die or something um and the music helps helps it out a lot I think uh there's a lot of good like repo value here hackslash loot I can appreciate what it was going for for me it just felt like way too random and just like I didn't have enough control
+
+60:44
+over over what I wanted to do there um but I think that it is it's more worth checking out than Binding of Isaac now because Binding of Isaac rebirth just chaos dunks on top of the original 2011 version of it that there's there's for me no reason to go back to original Binding of Isaac
+
+61:06
+um but for a valley without wind I think like this was something that I I tried really really hard to just like okay I'm gonna I'm gonna I'm gonna do it I'm gonna buckle down I'm gonna sit down and I'm gonna try to read through this opening text crawl and it was just like doing
+
+61:27
+homework and uh like just felt like such a slog um I'm happy that Arkham games took the risk and it was a commercial success for them but oh boy I will not be playing a valley without wind 2 which is the only way that you can buy this game is with like the double pack bundle which I
+
+61:44
+thought was kind of I don't know I don't know how I feel about that but um I don't I don't know that uh yeah that that's really going to draw me into that second one there I will uh briefly call out with a valley without wind if you want to get a good uh grasp on like
+
+61:60
+the total gameplay of it uh YouTuber uh etherville eth ervil has a uh good YouTube playlist series on like doing all of the Dirty Work of playing this game so I don't have to uh and going through at least like one one major boss fight to clear up a continent so if you're interested in seeing how this
+
+62:21
+game plays out to that point by all means go and go and check his stuff out that helped me out a lot with just being like Oh my God I don't know if I can boot this game up again uh yeah I mean I feel like I saw maybe the potential of a valley map I appreciated the the raw ambition
+
+62:43
+um I can imagine myself making a value without wind uh and being like I want to do it all and slowly pulling back and being like I can't do it all um so I my uh I have hacks loot as my new lowest game at number five uh because I I didn't Rank by anybody the original because I didn't play it
+
+63:08
+um right above that I have values that win and then um pineapple smash crew is dethroned or D pushed down uh dungeons to dread Moore is now my number two game wow I liked it I thought it was a fun game I mean granted I got an hour out of it but I had an hour of good fun out of it and
+
+63:27
+you know what that's that's an hour anytime you're having good fun for an hour even if you're like okay I'm done with this I think it took me it took me one 30 seconds to understand how this game worked I got 59 minutes of fun out of it and I can put it down and be like
+
+63:42
+great I don't feel compelled to I don't feel like I missed out like Dungeons or dreadmore or some of these other games I feel like I put work in to understand what's going on and then I thought a lot and that's good for many games but sometimes it's nice to just shoot some stuff
+
+64:04
+have some fun shooting stuff this this is uh this is quite the opinion Colin um yeah yeah you could pick up anything really and do it for an hour and do it just kind of mindless shooting of things or whatever but like but this is the synergies in games you know some of
+
+64:22
+the core game Loop mechanics need to be super strong dungeon of you're trying to tell me right now the pineapple smash crew is better than Dungeons of dreadmore and I have my problems you are incredible because like that game there's there's actual like synergies between the classes between the area
+
+64:39
+between the like um the actual options you select how you take on battles with uh pineapple Smasher you're just walking into a space aiming shooting with left click and then eventually right clicking on you know with one of your four different types of grenades well that's
+
+64:54
+like saying that's like saying uh I mean you like both darts and chess that's like saying darts is a bad game because there's no uh like how do you calculate sent upon loss for darts it's like they're different they're different games right you know the darts okay right I think the fun is is three
+
+65:14
+things it's it's uh uh accuracy it's timing and it's judgment those are the three atomic particles of fun and so Joe so dredgemore has judgment and neither of the other two and pineapple smash crew has timing and I mean does it does it even really have that I mean look
+
+65:30
+yeah Grenade timing managing to like bounce stuff around corners I guess that that didn't feel like a much of a skill or timing thing it was just like mostly just a hold gun at person and then occasionally right click and then hopefully you have the right grenade selected otherwise you're gonna
+
+65:47
+teleport into them and pineapple smash crew felt like eating a bag of potato chips um and dungeons would drive more felt like going to the gym like I you know you get you get stuff out of it at the end you might be a better person for it at the end I don't know about that but I enjoyed that bag
+
+66:09
+of chips right now immediately I think I think it also has to do with the fact that you played dungeons dread more for like not I don't think I put like almost 10 hours into that game so sure maybe yeah maybe I just I only got to the workout phase and I didn't get to the part where I looked
+
+66:24
+good I and I'm comparing it to a delicious bag of uh Cheese Doritos my fingers are greasy and covered in cheese dust and I'm like So Satisfied versus the other time I'm just sweaty well I'm gonna just go just in summary I'm gonna agree with I think I'm just looking at our charts right now of
+
+66:42
+everything lining up and I'm I'm agreeing with uh Scott it looks like overall um I did not actually play by the original binding by so I have an n a value there and I think Colin does too so um but everything else um lines up with binding of uh Isaac rebirth that's
+
+66:56
+our best we got dungeon dreadmore and at the very bottom here we got a value without win that was just terrible and then uh just about that Hack Slash and loot and I did say I mean pineapple Smasher was the best of the three we played today or in this between the episodes um but
+
+67:11
+um I'm expecting that one to stay at the bottom as we play more games yeah it'll be interesting to see how the rankings evolve over time I'm curious to watch that standard deviation column to see what games we disagree on the most uh and which ones maybe we agree on the
+
+67:26
+most but uh but yeah uh that wraps up uh our episode here on our our first uh bundle of games with Hack Slash loot uh value without win and pineapple smash crew uh next time we're talking about another episode bundle of some uh smaller games including cargo Commander
+
+67:44
+Realm of the Mad God and din's curse so keep an eye out for uh for those ones that uh that we got coming up in the hopper uh uh grogpodzone gmail.com if you have uh some corrections that you want to send in to us we love uh engagement baiting people uh so we'll intentionally get stuff wrong just to
+
+68:05
+make sure that you're you're writing in emails and uh and engaging with the podcast uh yeah I think that uh that about does it any final thoughts about our games for today I'm looking forward to the next step don't say that much come here all right we'll see you guys next time thank you

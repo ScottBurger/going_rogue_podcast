@@ -1,0 +1,734 @@
+00:00
+foreign and welcome to another episode of the going rogue  gaming podcast a podcast where we gather around the uh the Cornucopia of roguelike games  uh to to talk about all of their various flavors and cranberry sauces and other assorted  uh Delicacies that that we may be encountering on
+
+00:34
+our on our journey to see what the the top 100-ish  roguelikes over the past 10-ish years look like uh happy grogs giving everyone we're uh we're  recording this just a couple days before Thanksgiving uh we're gonna be stuffing  a whole lot of games into this episode
+
+00:57
+real turkeys if you know what I mean all right I'll stop now no this we need we need  more of this we need more turkey related uh puns and Mayhem as the uh as the show goes on um but  yeah this uh we got another bundle episode here
+
+01:16
+today uh we we as we're going through this process  you know we have a lot of games that have very um low amounts of I guess play time commitment you  could say where you could see really what all the
+
+01:31
+game has to offer in a short amount of time so it  makes sense for us to kind of bundle these all all together and our bundles today is uh combining  uh continuing along with our journey through uh the year of 2012 roguelike games and we're talking  uh the game's cargo Commander Realm of the Mad God
+
+01:49
+and din's curse have uh had any of you heard of  any of these games before we we played these for this session absolutely negative no I think  uh I think I had tried playing Realm of the Mad God ages ago when it first came out in the  pre-steam era back like back in college era but
+
+02:15
+yeah I feel like that one's the most like the  one I am most likely to have heard of it can it seems like it's still going like there was  an update when I played it again today so yeah a lot of people were running around in that game  so there are other people actively playing it now
+
+02:33
+uh which I don't know if that's going to be  necessarily true for all of the games that we play yeah it's it's interesting to see how how  long lived some of these older games because we're talking 2012 this is a decade ago from when we're  recording 2022. I'm sure if someone's listening to
+
+02:52
+this in the year 2030 or 2040 they'll be like oh  my God it's still going on but uh but yeah I seem to recall playing that one and you know bouncing  off of it at the time and then being surprised that it shot back up on this list again uh be like  okay maybe yeah we'll we'll get into it a second
+
+03:11
+but uh but yeah it was kind of I think that was  the only one of the three that I had had heard of so I was interested to delve into the other two um  but maybe maybe let's start first with uh the one I have here in the Google Doc uh cargo Commander  uh this is a game that was released uh November
+
+03:31
+1st 2012. uh for Mac windows and Linux this pulls  in at uh the 412th most popular roguelike on Steam with about 870-ish total reviews and cranking  in at the 88th percentile of the distribution this is this is a very interesting game uh  and I don't know that I've really played
+
+03:55
+anything kind of like this in terms of um  it's gameplay mechanics and style but this is if we had to describe it uh auditory medium  again um but imagine like Mario with gravity going all sorts of different directions and cargo  containers making making up the level that you're
+
+04:20
+running around in but with also collapsing into  a black hole at the end of every uh every stage uh as some aliens kind of yeah there's a like  all good Mario games you have uh I think they're mutants is what the game lists them as but you  know you have uh like all good Mario games you
+
+04:43
+have mutants and shotguns and and black holes and  and baseball caps so uh cargo Commander comes to us from being published by Missing Link games  which as I'm doing research for these things I'm always kind of surprised to see like what other  things these like Publishers and developers have
+
+04:60
+worked on uh Missing Link games you might know  from uh I've heard the name velvet assassin I don't think I've played that game before but you  may have also heard of the game spec Ops the Line uh that they have yeah published with 2K Games  I'm sure you've heard of 2K Games but I was kind
+
+05:18
+of surprised like going through the uh the the  rabbit hole like oh my God spec ops definitely heard of that one this seems kind of odd that like  they went from almost directly cargo Commander to spec ops yeah that's like a very different genre  of game uh it's just shooter straight regular
+
+05:39
+shooter but yeah I mean that could be like that's  the one to pay the bills and this is the one that they were doing like they wanted to like Flex  their weird muscles this may also have been uh I would guess a buyout situation because any I  think the uh The Missing Link uh games publisher
+
+05:59
+was very apt because trying to find any info  on them was also conspicuously missing so hunting down how they went from this very teeny  tiny two-person indie game uh publishing uh we'll talk about the development in a minute to  something as enigmatic as uh as spec ops is kind
+
+06:18
+of a jump but I I would have to imagine uh and you  know if you're the uh if you're the game director of spec ops I know you're listening right into  the show uh let us know how that process works but uh it had to have been a situation where they  were helping to publish it initially and then 2K
+
+06:36
+must have bottom out as the process went along  that's the only way that I could see it going that makes sense but this was this was a game that was  developed by serious Brew games a two-man indie game company uh headquartered in the Netherlands  with Martin Brower the coder designer and Daniel
+
+06:55
+Ernst the uh the artist for them uh they both had  left Triumph Studios where they had developed the overlord games uh your kind of standard hacking I  think they're like hacking slash action adventure games for the Xbox um the idea for cargo  Commander the devs uh had gotten was when
+
+07:13
+they were trying to come up with a concept for  a game that could be done in their spare time during their normal uh normal working hours during  their normal job and it's interesting that the development behind this game really reflects  a kind of I mean it takes place in space and
+
+07:27
+there's wormholes and all that but there's a  kind of a cute homage to to working class uh um status in this a little bit developers go on  in an interview to say that their dad had worked in a factory where he would work long hours it  wasn't a place where he would bring children it
+
+07:45
+probably wasn't a very healthy Place uh to work in  uh there were multiple signs with the descriptions of how you could be disfigured or killed by  machinery and it felt completely alien to them um when they started working on the game uh  their dad had worked at his job for 40 years
+
+07:59
+then he busted his knee which forced him to do  mind numbing work until his pension kicked in this served as the core concept for the story  and some of its gameplay the repetitive nature of the work uh cargo Commander as a man of few words  unless he's cursing I'll look at that in a minute
+
+08:16
+uh cargo Corp uh the the corporation the game  exploiting their employees all that good stuff the home container that you start off in being and  like all the isolated spaces with their own theme and so on um an important theme for this game is  uh going home there's lots of little homages to
+
+08:37
+uh getting letters from family and like little  postcards that you pick up from from your kid um and those found it found its way into this game  through a lot of the design uh the further so in this in this game you start off in kind of like a  central central zone and big shipping containers
+
+08:59
+slap into the side of it and your goal is to  kind of explore out into those containers and the there's a really great um background tune  that plays in your sort of home home spot uh I think it's the favorite part of the game for  me is that little like when you when you get
+
+09:18
+into your home area and that little musical  track plays like yep that's good everything else well I mean to each of their own it reminded  me a lot of outer Wilds exactly it did have that it had that that sort of feel to it yeah exactly  you're like you're coming back to your little pod
+
+09:34
+um but yeah and and the further that you get  away from your home pod that music diminishes a lot so it makes you feel very isolated uh  the developers say in in this interview that um the composer Misha valve Misha Del  thuyas uh the title track is Homesick Blues
+
+09:57
+um would sound more quiet the the further you are  away and it just has like this very kind of homey folksy uh kind of kind of uh feel to it um the the  game originally started off as kind of like a more straightforward platformer and then it became  more of a of a roguelike as the game designed
+
+10:18
+um as the game design progressed uh the developers  kind of went back and forth between two sort of uh key key sort of um design choices one being  the kind of main one that you run through with the quote-unquote story mode and then the other  one being sort of like an endless version where
+
+10:36
+you you start in your home container and then  you venture out and then like everything behind you is constantly like building up on it so  it's kind of like an endless mode in a way um uh but yeah let's let's kind of uh jump into  it the story behind this is that uh you are the
+
+10:55
+eponymous cargo commander and cargo Corp has  sent you uh out to ride their raise through the ranks of the corporate ladder uh by doing so in  a shipping container flying through space uh in this shipping container you have all sorts of  different uh different things to interact with
+
+11:15
+um but your your main thing that you hit is  a giant magnet that attracts huge shipping containers from other parts of space that slam  into your main kind of home shipping container and your goal is to go through these shipping  containers explore and pick up little little cargo
+
+11:32
+um things that give you uh points that you  can exchange for stuff later um and the you survive like waves of these uh cargo containers  slamming into each other kind of like building out into this uh this network um where when  each like cargo container slams into another
+
+11:56
+one it breaks pieces off and that's how you kind  of maneuver your way through this whole system um but after a certain amount of time like all  good cargo containers through space a black hole opens up and oh [ __ ] you gotta get back to  your home container I think it's technically
+
+12:11
+a wormhole yes you're right it is a wormhole  how could I get that so wow how could Skies right astrophysicist Burger get it wrong Wow  breaks them up uh yeah I I that was one of the the level of environmental damage and [Music]  non-three-dimensionality of it was one of the
+
+12:34
+things that I actually did like about this  game I like that when they they the cargo ships you know containers they flew in and  they like broke off a corner of your ship and that was how you got out to go get them and  then as you got into the other ship or like the
+
+12:47
+containers gravity would switch directions  to a randomly oriented uh down Direction um that was yeah I felt like it had the the  seed of a good idea of an interesting idea yeah but I feel like inceptions sort of like you  know the the gravity you know gravity is Shifting
+
+13:10
+as you're going everywhere and uh that was the  novel thing to it and that was in my view the only novel thing to it but again it sounds like I  think Scott you you actually really love this game is that right um yeah I think of of the three that  we played today I think I liked this one the best
+
+13:29
+um I think like yeah the thing that really hooked  me at first was this kind of non-linearity to it it's like doubly so with you know moving from one  container to the next and having like the whole gravity perspective shift and flip upside down it  can be like super disorienting the first time that
+
+13:49
+you play it you're like oh my god what the hell  is happening um but I I really like that that aspect of um I almost think of it in like a super  metroid sense of like you know you're maneuvering through this Labyrinth and then you know oh it's  self-destructing and you got get back to the home
+
+14:07
+starting zone like that that kind of like really  hooked me pretty well but I think that there's there's like a lot of um tension that builds  up because one of the the main goals in this is high score chasing uh like all good roguelikes  and as you progress through a um I guess so when
+
+14:31
+you when you start up the game you're you're  given a little tutorial that kind of gives you the shake down of how this game plays out and then  you eventually graduate to to picking what sort of sector that you that you want to do and these are  basically like picking what seeds that you want to
+
+14:47
+to have the game actually generate all the cargo  containers flying at you and stuff and there's a bunch of them that are uh preset like here are  the most popular ones that people have already done here are ones that uh that your friends have  actually set up um and you can actually just like
+
+15:05
+type in a sector name manually and just you know  run one repeatedly yourself I ran the the grogpod sector maybe like five or six times in an attempt  to see like hey what happens when you get to the top of the link uh leaderboard and B like how fun  is it to just like run the same one over and over
+
+15:24
+I did do a bunch of the other ones but like the  high score chasing nature of it made it so that as you're progressing through like the game will  get like a a round of this will get progressively harder and harder and you'll encounter more and  more enemies and you see that little high score
+
+15:42
+going up in the corner and it shows you relative  to like the next closest person on the leaderboard you're like oh my God I gotta beat that guy so  bad and you're off by like 50 points or something I felt that to be especially motivating so  if you play the same C twice in a row is it
+
+15:57
+exactly the same it is where the the the cargo  pods are that coming in and like what kind of stuff they have in them I'm I'm 99 sure that  it is but I think that like the the nature of where so like the the cargo containers come in and  like slam into your your Like Home Zone right but
+
+16:20
+like it's not it's not like one slams in the  top right and then another one slammed to the top right one can slam to the top right and then  one can another one can slam to the bottom left so it can it is technically the same seated run
+
+16:33
+but if it like shoes containers are the same but  the yeah yeah and like um but like your time limit is such that you don't have a whole lot of time  to just like see the entire thing all in one go so it's like one branch opens up in the top right  another Branch opens up at the top left I did uh
+
+16:54
+the Grog pod seed you know several times I was  like okay I know that the first container is going to come from the top right and then like later  on there was like multiple like multiple paths to explore you just don't have enough time to see  it all so in one run yeah you could be like okay
+
+17:08
+I know it's gonna come from this direction  I'm gonna go this other direction instead and having like technically the same seated  experience but a different way of playing it was very interesting another major component of this  game is like when everything when shit's happening
+
+17:25
+in the fan and you gotta like get back to your  home container before the Wormhole eats everything that's like the panic mode of like so your cargo  Commander that you're running around you have a a big like robot fist that's also a drill that you  can drill through holes in the wall or drill walls
+
+17:42
+down so that you can go through space another fun  element of this that I thought was like there's no sound in the game when you're out in space I  thought that was a nice little addition uh added to the uh to the tension and the creepiness  factor I felt um but like everything's going
+
+17:58
+to [ __ ] you're like you're burning you're like  drilling through a wall and you're like oh I need to get like you're flying through space and you're  running out of oxygen you like oh my God I'm gonna
+
+18:06
+suffocate and then you drill through another wall  to like come back in just for a second just to get a breath of air and then you finally get back  home and you're like like that I felt was was pretty entertaining and I think that went a long  way for for making the game repeatably fun for me
+
+18:23
+so I'm underwater I'm gonna give I'm going to give  an uh an analogy for what I think this game is I think this game is a sandwich that has excellent  bread on the outside so like the beginning is a cool like concept the tension of getting back  is interesting some of the replayability of like
+
+18:46
+chasing stuff is interesting but then you open up  there's that black box of what is in these cargo containers and then you open up your sandwich and  there's just like a single piece of baloney and then you see a whole line of sandwiches coming and  H1 has just a single piece of sad baloney inside
+
+19:05
+um I just didn't find the the actual cargo part  on the inside of the of the of the box is that interesting the things that you're picking up  were just generic items that I mean they changed once you picked them up but it's like it's just  a thing um and like there wasn't really variation
+
+19:27
+in in the layout of these things I felt like  once you had done a couple of these cargo boxes you basically had seen all of them and you could  optimize like how you're running around but you weren't like the one the novelty ran out almost  immediately and it was just like optimization
+
+19:49
+um and maybe I didn't get far enough  into the game maybe more stuff happened later I know that there's the whole  upgrade system that I didn't really interact with that much so maybe at a certain  point like you know much later cargo cargo paws
+
+20:04
+come in maybe stuff gets more intense but I  didn't get the hook to get towards that point yeah I think you're being generous by even saying  that there's a slice of baloney there because this is a [ __ ] sandwich except for the outside  both sides outside of this are also made of
+
+20:26
+[ __ ] it's just [ __ ] on [ __ ] here um in  my opinion because and the reason here is uh it's an underwater simulator and they're with  very few exceptions I don't find that mechanic the one that you were just talking about the you  have so much air and you have to get to a place
+
+20:43
+before you start taking damage like that mechanic  is is just a it's just that hey here's a stress inducer where you're not really sure if you're  going to make it to the other side you're like you're going underwater and you don't know where  the you don't know if you're gonna make it out
+
+20:55
+at the other end like this is the can you figure  out navigate the tunnel essentially to get another breath of air and um as kind of like one of the  mechanics of this game but I just subnautica is the only game I think that does that well and  um there's of many reasons why there's the whole
+
+21:12
+game is built around that mechanic whereas this  game this that's just how you get around into these little [ __ ] boxes where you're like  Bam Bam Bam here's some nails and I'm gonna shoot this dude and pick up a generic box and do  this over and over and over and over again and
+
+21:26
+um yeah you're talking about Mario it's it's  Mario but like without like the feeling of really purpose like you're not saving  the princess you're kind of maybe someday you'll get home is the the the kind of  the underlying narrative and it's just
+
+21:42
+like that's not compelling Let Me Maybe I want  to make progress towards saving the universe give me a better Arch than just I might get  home if I satisfy my corporate overlords even like story journals or something like  why are all these cargo things out here
+
+22:01
+like I want I mean they have the emails they do  have some of that but it's just like that doesn't I don't want to read it I don't want to have to  read uh yeah exactly no no I I'm more than okay you do you do that I love reading things in games  but I don't read them in email form I do that all
+
+22:15
+day already I want to read them in weird Journal  pages that I find in the ship and like tracking down and be like oh no if I don't get that journal  I might not know what's going on wait wait let me just side check just a moment here like do you  read the Skyrim books the Oblivion books in the
+
+22:32
+game like do you go through like the lore of  the well I mean I read all the Morrowind books and they reused them throughout the Scrolls so I  mean I I definitely do have a PDF on my computer of the what was it like the 36 sermons of vivec  yeah you are a different gamer than I am in that
+
+22:48
+regard I collected all the books in Morrowind  I store them in my house so that I could read them later incredible wow I did not know that  about you going Colin have you did you uh ever go down the route of like printing out all of the  all the Elder Scrolls like books from the game
+
+23:06
+in actual physical book form there was a thing  that like you could actually get like a physical order version of that no because this was in like  early High School I would have had to like print them off on like my parents printer in color and  that wouldn't have they would just be like what
+
+23:23
+on Earth are you doing the toner column it's the  most expensive liquid on Earth ink for printers um but yeah no if they had if they'd given me some  sort of uh external store hook to to chase down I mean I don't know if that would have  been enough but it really would have given
+
+23:42
+me something to like look for in some sense  like the corporate grinding like maybe is too like on brand for this game where like yeah if  if you're if your call to action is Corporate grinding like I think yeah we're we're all maybe  a little too familiar with that already and
+
+24:04
+hitting too close to home so like the idea  of like oh I can't wait to like get out of my corporate grinding job to play a game about  corporate writing uh if there was some something that's like uh you know here's a way to eke  out some sort of like interest in your job
+
+24:20
+uh uh it's outside of the bounds like I'm sticking  it to the corporation because I'm also reading journals on the job like okay I'm still still  very uh it's maybe too close to home but uh yeah if the if the goal of the game just like just  as a spitballing an idea here the goal of the game
+
+24:38
+is that you're accumulating these this is Cargo  to form the explosive because what you intend to do is to like just crash into the the homeland of  the corporate like entity and Destroy them once and for all suddenly I'm like I get to destroy  this corporate I need to keep fighting because
+
+24:55
+I want to like keep collecting the explosives  so I can kill all the corporate over like that sounds or the fight club approach or to like build  a sustainable spaceship so you could Escape From The Grind not just right right like you can't just  affect yourself you have to like affect uh I mean
+
+25:12
+like the you have you have you have to be able  to effect you're not just yourself your family your community but you have to be able to save  I mean saving the world saving the universe is the grandest scale but like you really want to be  on the upper echelons for most of these kind of
+
+25:24
+games right I mean starting evaluated save your  community which is like a compelling hook but I think you got to start with something around  that yeah the Sims save your community I feel like there's a lot of Gibbs that that eventually  like do something like that where it's like okay
+
+25:38
+scavenge a bunch of things and you can build your  town okay exactly they like Unity you know you're I want to be I want to skim off the court the  top of the corporation like see how many see how many I can uh of these like bounties that  I'm collecting on this ship how many how many
+
+25:53
+can I skim off and uh give to like the kid into  like space slum uh yeah and like why why are the mutants your enemy if like yeah I don't know  I feel like there's there's I I will give the game credit there is a lot of kind of like that  um corporate like tone deafness in a lot of the
+
+26:14
+emails that they send but like yeah I think it  all kind of builds into the sort of aloofness like you know your character is not super  important in the grand scheme of things and your call to action of like I'm just gonna grind  up through the corporate ranks in order to go home
+
+26:29
+like it I think it works here but I don't  think it's maybe as compelling as something as like a world-ending cataclysmic event that will  really like Drive the player to action yeah it's not enough to hook me into like if the gameplay  itself was riveting it would be fine but it's not
+
+26:51
+enough in and of itself to drive me to play a  game that I'm or that do a gameplay situation where I was like ah this isn't really that it's  not really doing it for me yeah I didn't hate it I just didn't love it I could play other  games instead rankings and scores should we
+
+27:08
+I mean I feel like we got two more games to  get to here yeah let's uh let's jump into our next game uh Realm of the Mad God uh this uh  was released February 20th 2012 on Steam and you can find it on well it's uh available for  Windows and Mac but mostly just on Steam but
+
+27:25
+um this this uh game eye bogglingly uh popular  uh this comes in the 19th most popular roguelike in all of the 5 000 that we have available in  our massive data set with something like 42 000 total reviews to it uh unsurprisingly in the 99th  percentile of that distribution wow uh this is a
+
+27:49
+much different kind of game than what we just sort  of described with cargo Commander where I would I would describe this as kind of like a a well it's  an it's a an MMO but it's a top-down 2D MMO bullet
+
+28:01
+hell confetti Fest I guess is how I would describe  it it very good yeah that's yeah exactly right a little bit about the development history uh  this I think was a little bit of a hot potato um this was a game that was originally created  by Alex karabus and Rob schillingsburg founders
+
+28:20
+of wild Shadow studios in Los Altos California  they developed this for the indie game forum TIG sources uh assembly competition quote unquote  they developed that for the competition 2000 in October 2009 uh with the strict criteria  of limiting the competitors to a very small
+
+28:41
+sample of art resources I think you can kind of  get that even with the game's current state now um but the aim of the game at the time by these  developers was to shake things up by breaking as many MMO rules as they could um do you guys  have much MMO experience I think RuneScape was
+
+29:05
+my was the largest MMO that I ever did world  war or uh World of Warcraft I didn't I really get into because it just didn't feel good after  like I was older at the time RuneScape is the only thing I could do when I was young because poor  and my computer couldn't run it so she's like oh
+
+29:20
+yeah online but like uh um yeah uh so I say very  limited I played RuneScape I did play WoW but not not enough to say that I was actually into it  I think we're similar in that regard I tried to play Eve but I decided that instead I would  just read stories about Eve because that's
+
+29:39
+really what I want um yeah another game where uh  you you look at enough Excel spreadsheets today yeah what's the thing is like well  I mean like with factorial like we're all like building data pipelines and like  doing or Scott you and I are anyways and like
+
+29:56
+it's like yep and factorio is like your time  design literally building the pipeline right and like you can go you can come home from your  job and get into factorio and be like I'm this is still this is crack uh this is perfect so  I don't know if that holds that like has to be
+
+30:13
+different than your day job to be entertaining  it definitely has to be a power fantasy though um but this is unrelated to the Mad God for me  yeah for me I think sorry go ahead my uh my only MMO experience I guess if you if if you could  count Destiny 2 as an MMO that's sort of like
+
+30:32
+on the periphery I don't think I really ever got  in oh MMOs I know the one PlanetSide PlanetSide but it's not MMORPG I think it actually is  in some ways more relevant to this kind of game though because yeah it's a good  point like this is a game where you
+
+30:55
+like I didn't really interact with the  multiplayer nature of it oh you missed out then for PlanetSide or for Realm of the  Mad God we're all in the Mad God uh I mean like I saw that there were people  around and I immediately died when I tried to
+
+31:14
+go into a boss area that had people fighting  stuff even though I was at level 20 and did have decently good gear um but like I feel like  that's why people like this game it's it's the 8-bit MMO like that that has a like MMOs  intrinsically have appeal to people yeah
+
+31:35
+Community thing I mean uh I know we have  gotten into not MMOs but we've done weird community-based things H1Z1 where we just are  like you know persistent worlds uh Community interaction stuff like there is a human  appeal to that um but I think that you can
+
+31:57
+you can find it wherever you want if there's a  game that allows it and I think that uh I would prefer to look somewhere else for the most part  uh let me say I don't think I disliked this game as much as you guys did like it was hated no I  didn't I didn't hate it at all I just think it
+
+32:15
+was too too simplistic yeah um yeah yeah let's  let's come back and maybe a little bit to the to the uh development here uh because I think that'll  that might also shed some light on its development uh like principles and background but uh in  let's see uh January 2010 uh this game came out
+
+32:34
+as a Beta release uh June 2011 uh seattle-based  game developer spry Fox uh helped uh come in and provide some some uh assistance to help get this  to a full release this came out as we said at the top uh February 2012 uh out on Steam um June 2012  the game was then reacquired by uh Kabam which is
+
+32:59
+based up in Vancouver British Columbia uh which  is more known for sort of Facebook games uh I guess notably Kingdoms of Camelot with the this  sort of falls into the category of like games that I've never heard of but somehow have like  50 million players across the planet I'm like
+
+33:15
+shrug uh December 2012 uh the not six months  later uh the game decided to or the uh camel or this is gonna be a fun one to edit uh December  2012 uh not six months later Kabam decided to implement free to play micro transactions  everyone's favorite uh I think reading through
+
+33:41
+uh The Forum postings at the time uh people  were a little dismayed and I guess skeptical of is this the right decision to go with um  I don't remember if I paid for Realm of the Mad God way back in the day when I was first  trying it like in the beta stage uh if so is
+
+34:00
+probably in that kind of like uh Bargain Bin  like three to five dollar range I would guess um but I don't remember it being a kind of crazy  micro transaction Mania Fest that we see today um afterwards uh Wild Child wild Shadow  co-founders uh had both left to pursue
+
+34:20
+other opportunities other people sort of stayed on  to help with the transition uh the seattle-based sprybox spry Fox developer went on to develop  steam Birds Alliance as a spiritual successor to Realm of the Mad God and you can kind of see that  influence with with their game uh four years later
+
+34:39
+in June 2016 uh Realm of the Mad God was sold to  DACA games Deca uh and four years later they wound up developing a Unity based version of the game  where we get the Realm of the Mad God exalt from this is the the unity uh version before it had  been largely flash based which I guess you could
+
+34:60
+also see from its uh game design but um daca's  website interestingly has a marketing strategy uh uh post on there about how they doubled uh active  users in the game which I was admittedly a little skeptical with this because I think I I this is a  game where I'm I'm trying to walk a very neutral
+
+35:24
+line with it because I I think this is a game  that's not for me I think the style of game is not for me and I think like the Hot Potato nature  of it being transferred from like entertainment like monolith to entertainment monolith also  sort of doesn't sort of sit right with me
+
+35:39
+so I walked into this uh blog  post that they had with like um you know Puff's chest like oh well you know  what sort of marketing Babble are they going to send you know our way here but I think they  actually wound up doing a pretty smart play here
+
+35:56
+because what they wound up doing was like the game  wasn't was kind of like you know dying as you know most of these sort of MMO style games do but their  marketing strategy was to shocker engage people where they are and like go out and reach out to  people on The Realm of the Mad God subreddit and
+
+36:16
+like go go to where the the communities are and  engage people there and I think they they wound up um putting out a lot of like new updates and  uh timed release monthly content to get people actively engaged and apparently it worked uh  this game is still going strong as far as I
+
+36:36
+can tell uh you know it's it's the Top 20th most  popular roguelike I guess for a reason uh you know maybe free to play being being one of them but  um but yeah I was actually kind of surprised to see them having a more sort of nuanced approach  with their marketing strategy than maybe just
+
+36:55
+something like uh you know fomo based things and  like really really grinding people to the core but um yeah I guess like the first thing that you  see in this game that sort of put me off from it outside of the tutorial that you complete is the  sort of home-based Zone wait first before we get
+
+37:18
+into there yeah fun fact you can accidentally  quit out of the tutorial by clicking the home base button and it will not let you go back  into the tutorial and it will be very confusing it's like I missed so much there and I was like  I just ran around like I don't know how to get to
+
+37:36
+the quests um but yeah so but yeah especially  if you don't know what you're doing if you go into that home base area it is uh there is a  lot there the Nexus is a quite the uh complex situation yeah I mean I imagine it's so there's  the Nexus which is the central Hub of all of
+
+37:59
+the things and that is your home base it is it  is as if you're in all of the different cities combine and smash into one city all of it is in  the one spot all of the item buying all of the uh your your personal stories your quests uh givers
+
+38:22
+um so it is a little overwhelming for a new  player uh who skipped half of the tutorial but I imagine also for anyone really it's  just like there's a lot going on um and it yeah it doesn't it doesn't have a I mean it's fine  it's just there's a lot I mean even someone for me
+
+38:44
+who like remembers vaguely playing this game like  10 years before this like the so imagine something like a top-down 2D Zelda very heavily pixelated  I think like the actual kind of artistic design in this game is is a little Charming but it's  just so overwhelming with there's just stuff
+
+39:08
+everywhere and other players running around  with all their different stuff that it it really just kind of yeah completely overwhelms  your senses of like okay I've just started like literally three seconds into this game  there's like a dozen other like little people
+
+39:27
+running around all like shooting Magic Bullets  and they're not hurting me oh these must be friendly people okay yeah I mean it's it's  all the chaos of a central Hub in an MMO but without really the starter Island where you have  other noobs so you you go straight from like the
+
+39:47
+super easy tutorial to uh everyone in full Decked  Out gear trying to trade items because there's no currency in this game so there's only item  trading everyone's screaming about trying to trade items uh which I'm sure you could  make sense of if you've played the game but
+
+40:04
+uh yeah just running around spamming attacks that  are don't do damage to you uh chaos cast mode yeah basically um I will say however because  it has that Community element built in I I had a great interaction when I just started  the game where I don't know really know what's
+
+40:27
+going on I jumped into a quest and there's like  30 other people running around just like sprinting through the quest they all know what they're  doing and I'm just like let me just like fire my you know you do the thing where you sh every  everyone has the same ability which is just shoot
+
+40:40
+in One Direction like a thing and it just varies  the damage it does basically with your skills I don't I don't I think it was the I think it was  a rogue this time I wanted to mix it up a little bit but there's no melee class in this game right  like literally everything is shoot bullets yeah
+
+40:56
+they all shoot projectiles that's like that's  that's all I think a major shortcoming in my opinion because it's just like a simple like  sort of shooting out from a central point is like yeah I think that you could play this game  as a Melee character yeah because everything is
+
+41:12
+just shooting yeah because it is a bullet hell  you will just get immediately eviscerated but but someone gave me a really high level weapon  early on and the is it felt very Diablo West in that sense where like hey yeah my level 99  character is going to come into your world and
+
+41:29
+drop this loot which is like the maximum your  character can have and I'm just like oh thank you and then suddenly like all these things that  were hard I'm just like smashing through them and so there was that little small bit of the light  and like this positive interaction between me
+
+41:43
+and the stranger and we paired up together for a  little while and we ran around and he showed me how to do some things and then I lost interest  completely because it wasn't fun actually but it was it was a nice little moment I could  see that maybe if someone was more into that
+
+41:58
+there's maybe a something not quite a  game there but there's an experience I felt I don't know I I mean I played it  for longer than I expected and I I wanted to I don't know I I did feel like I got into  a like a little bit of a Zen state or just you
+
+42:23
+know I was just running around shooting things  for a while and that was not it wasn't bad um like I I feel like it doesn't have a lot of depth  though like you didn't really I kept waiting for you to like get a different upgrade weapon that  did different things or uh you know I I mean
+
+42:48
+the next game we're going to talk about is  basically like a Diablo esque game and I'm right waiting for it to become that for you to  be like I played as a wizard and it's like okay I had like the little weenie blast and I had like  the big explodey blast and that's it you don't get
+
+43:04
+more than that yeah the central I think conceit  of this game is that like all MMOs you run out into the world you find some um some Quest marker  you blow up some big monster you get experience in new items and you just like grind that treadmill  until you have some some level of you know high
+
+43:28
+level gear that you're ready to go and take  on the uh the Mad God himself oryx uh where as far like I've never gotten that far about all  the videos that I found of like people just going and it's just like this huge tidal wave of little  pixelated characters shooting out just this like
+
+43:50
+like screensaver jumbled mess of dots and dashes  at this boss who like Falls over and then I guess that's it like that's the end of the game but  like there's other stuff to do about like you know there's other like end game dungeons you  know beating oryx I guess is kind of like the
+
+44:08
+main uh Central draw like you know oh you gotta  go and you know defeat the evil Overlord like that that's a good enough hook I I feel like  but like there and I will give it credit there is there's interesting elements of like just how  wacky it is where you're just running around and
+
+44:26
+then there's like oh my God there's like a  thousand sand crabs just like chasing me and I have to like backpedal and like you know kite  them from a distance and continuously shoot them fun but I don't know if it's more than like  25 minutes worth of fun at least for me
+
+44:43
+I put three hours into it and I went I stopped  playing because I went to bed so not because I was I was like okay I have to stop playing  so there was at least some amount of like drive to continue playing from from me  uh like it it has a lot of things that I
+
+45:05
+I'm moderately into in games uh I just don't  think it was it didn't expand on them enough like uh I felt like I had plumbed the depths of the  gameplay after three hours and maybe that's not entirely true I know that there are different  characters but so then I you know I eventually
+
+45:26
+died when I bought some I don't think it was  Orcs himself I think it was a mini boss but then I played as an Archer after the wizard but if you  you lose everything in this game right like so if you played the game for 100 hours I believe this  is a permadeath game yeah so if you die there's
+
+45:39
+like a treasury that you can put stuff in so you  can get there's only a little little progress between the two and you gain renowned and you can  get like higher level characters so there is like some minor level of like character progression um  but I played as an archer in the next one and it
+
+45:56
+was like oh cool it's just like the same thing  it's a uh you know left click shoot small beam this time it's an arrow instead of a magic Missile  uh and right click is a power up that's also projectile weapon that's just more powerful it's  like that's not really different and there's just
+
+46:23
+not that much going on like I I it's like a it's  a bullet hell MMO which is that is like the draw but it was not I just wanted more stuff I just  wanted to be able to do more different things the thing is you have to form the guild and the I  don't know actually right yeah that's not for me
+
+46:47
+I'm not into that stuff I feel like this game  would be like really really optimal for like a five to ten person land party where like  everyone's on the same room oh yeah it was like the whack like you can experience the wackiness  together in the same area but like I feel like
+
+47:06
+any anything more than that just kind of dilutes  the experience so like working cooperatively with people would be fun but yeah I feel like there's  a little bit a lack of depth about like in your standard MMOs like wow and stuff you know you  have other people doing like support abilities
+
+47:21
+I don't think there's anything you know support  wise in this game other than just like shoot more uh but I could definitely yeah so I'm watching  I'm watching the fight against uh the Mad God in right for oryx three currently the hardest boss  in realm of Mad God exalt and like this actually
+
+47:41
+looks like a better game and maybe if you're when  you're fighting the mad gun himself like it's it's a better bullet hell because it it's like it's got  the thing that makes bullet hell's good it's good
+
+47:54
+the like crazy amounts of stuff but in predictable  patterns and so it's that pattern recognition of like okay how do you how do you interpret where  these two arcs are going to come together and you have to be in the one spot so they don't  hit you uh oh no there's the thing they're
+
+48:11
+lighting up on the ground you got to move around  like that's that that that triggers the like fun bullet hell pattern recognition um the low level  adventuring didn't quite get that it was too many mobs to to form coherent patterns uh so it is  just being like shoot at a rabbit or whatever
+
+48:36
+well let's jump into our our final game of  the evening uh din's curse developed by soldac entertainment uh this was released August 22nd  2012. uh this I think is only available on Windows um this comes in at the 836th most popular game in  the roguelike pantheon with only 200-ish reviews
+
+49:01
+and the 74th percent uh percentile uh and this is  like we kind of described before more kind of like your sort of traditional um Diablo like game a 3D  or a third person running around hack and slash uh
+
+49:16
+hack and slash type game and I think this is the  first instance that we've seen on the show we'll see more instances of this but of something that  uh ironically is more kind of tied to the very traditional upbringings of like the Rogue genre  from the from the early 80s where are very simple
+
+49:38
+you have a town you have a dungeon you go in the  dungeon you fight monsters and your goal is to save the talent like that's like literally it does  what it says on the tin like that's all that it is um it should be worth noting that so this game  came out August 2012 May 2013 is when Diablo 3
+
+49:57
+released so bad timing then eh well I mean uh to  their credit you know they did release it before Diablo 3. uh but yeah I can imagine a lot of  people were sort of waiting waiting for Diablo 3 to come around but this actually like had a  pretty decent amount of hype for it at the time
+
+50:16
+um so a little bit about the uh the developers  developed and published by soldac entertainment uh 2004 uh sold Act was started by Stephen peeler  who is the former technical director of ritual entertainment you might remember them from the  game sin which I that's another game that like
+
+50:32
+I feel like I know off the top of my tongue  but I don't think I've ever played before but they've also done Legacy of cane Defiance and  Counter-Strike condition zero some other other big ones there their first Standalone title was  depths of peril another kind of hack and slash but
+
+50:47
+less roguelikey we have 2012 with din's curse and  then 2012 I think the same year was their their first spaceship RPG game jerox operative which  actually looks kind of interesting uh 2016 they developed a another hack and slash zombie zomba  site they followed up with a a sequel to this
+
+51:06
+game called din's Legacy in 2019 another Hack  and Slash and drock's operative 2 in 2021 so they've been they've been pulling out a pretty  decent amount of content pretty consistently um there is a DLC for din's curse called  din's curse demon War which is supposed to add
+
+51:24
+more stuff more another new character class  for the Demon Hunter more NPCs World modifiers environments and and so forth that you can  routinely find for like a dollar um but as as we'll probably get into it uh you know  there's already kind of a lot of stuff in here
+
+51:42
+um soldac entertainment is basically just Stephen  peeler acting as the sole designer programmer with his wife Delilah providing all the stories to  the game um and they say that uh a major draw for this game is the world dynamism like there's  a lot of interacting elements there's a lot of
+
+52:03
+um well a there's a lot of stuff in this game  but all that stuff is constantly working with each other uh they say that you know monsters  can get into fights with each other and even go to war with one another uh they say if if two's  on the Lich threatens to attack the town sooner
+
+52:21
+or later he will unless you go and kill him first  uh when he does you better be quick because NPCs in the main town can die uh if something like  a Darkness machine is gonna cause an NPC to go broke sooner or later that will happen so you  got to go and hunt down that Darkness machine
+
+52:41
+um and I think that like the the hype for  this game was really like the very independent nature of it the procedural generation at this  time like was very localized to kind of like um 2D environments and at a smaller scale and  this one I think being at the scale that it
+
+53:06
+is was something that caught a lot of people's  eye um but the story to this game is very simple it is you spawn into town There's a 10 foot tall  glowing monster who introduces himself by saying I am the god din though you have served no God in  your pathetic despicable life I have offered you
+
+53:27
+Redemption through service to me and that's it  yeah is that the oh that's the only voice line in the whole thing right no there's there's one  other uh voice line as far as I found also by the god Den that if you're just like if you just  cycle through like the talk button like a dozen
+
+53:44
+times he'll say Greetings mortal okay that's good  oh there you go I mean being able to click enough times to give them the alternative dialogue  I'll uh like Warcraft or Starcraft or whatever um yeah so so this is your kind of standard Diablo  like game uh you you pick character classes like
+
+54:08
+paladins Sorcerers Wizards uh and they all have  uh subclasses to them a major draw to this is like how many class combinations you can make  so you can pick from like your standard like you know wizard fighter Barbarian classes and all  that and they might have like subclasses like
+
+54:32
+um fire Mage spells or ice Mage spells  and you can pick individually from those so you could either go ham and just go  all in onto ice Mage spells or whatever um or you could do like a couple of ice Mage and  you could like dual class with like a necromancer
+
+54:46
+class and then like raise some skeletons from that  um and get like The Best of Both Worlds for that um but I don't know that that  really works in this game's favor what do you know that well like the first  character that I made I tried doing something
+
+55:06
+crazy be like okay I'm gonna do a um Necromancer  or uh I think it was like a necromancer and like Summoner kind of build that was exactly what I  started with I wanted to be the most passive like sit way back uh minions do my bidding does yeah  that does not work is my lesson learned right
+
+55:25
+um I think like I was I was very uh meh on this  game to start with I was I was very um kind of taken aback at how limited like inventory slots  were how limited um like various like body slots were I was kind of irritated at the fact that I  picked up like things and I like literally can't
+
+55:46
+use like 90 of what I picked up because like oh  you don't like you picked up leather Footwear I'm like okay great equip please oh sorry  you don't know how to equip leather Footwear wait what I didn't like that you couldn't like  not being able to wear mail okay not being able to
+
+56:03
+wear leather feels a little weird even though I am  like yeah buckles are hard man you know you have to be able to like put one like of the leather  straps into the it's just way too complicated but I think it doesn't make any sense I think  what grew on me with this was like I'm like okay
+
+56:21
+I can see that I'm not going to be using leather  stuff because maybe that's reserved for more kind of like lighter armor classes or whatever uh  so as soon as I came across like leather stuff I'm like okay oh great I'll just take the stuff  back up to town to sell um and I think the more
+
+56:37
+that I kind of like focused on like one sort of  specific thing like okay I'm just gonna go an ice Mage I'm just gonna freeze everybody that I think  started to to like make a little more sense and like I think just the the more that I ran around  and started like beating on like these horribly
+
+56:58
+political polygonal monsters it kind of grew on me  a little bit I think like the more the more like goofy encounters I I came across the more that  I'm like okay yeah this has like its own kind of specific charm to it um it should be noted that  you know you start in in the town and there's
+
+57:19
+just like this you know gate to uh the dungeon  that's just right in town and you go and talk to various NPCs around in town and I was also  a little disappointed that they none of them really had anything interesting to say they're  like oh did you know that some other NPC loves
+
+57:39
+apples I'm like okay great don't really care  uh how does this matter to really anything um but you you go into or you talk to the  the NPCs in town they'll give you a quest and another thing that like kind of frustrated  me at the start of this game where I'm like ah
+
+57:57
+this is just gonna be a slog isn't it like  I really wanted to like this I had thought about making this its own independent  episode but I was like oh I don't know that there's enough meat here we might  just have to bundle it with another one
+
+58:09
+um that this is like fetch Quest the game  yes every every Quest you get in this is some spin on you have to go and kill six  skeletons on the third floor of the dungeon and like if if you know Larry the super skeleton  is not dealt with soon like terror is gonna befall
+
+58:37
+the town and I'm like yeah okay sure um so at  first I was I was pretty dismissive of like the inventory The Limited nature of it and all  this stuff and uh but like the more that I was getting through the dungeon the more I'm like  huh this is kind of interesting each floor of the
+
+58:54
+dungeon has like its own specific go back to town  teleporter so you don't have to like burn Town portal Scrolls or anything like you would in a  standard Diablo game and it's it makes it kind of like an interesting puzzle to hunt around through  the level to find that gate to go back to town
+
+59:11
+and then you know come back into the gate and find  okay where's that objective that I was hunting for before and you get sort of into a flow state of  like okay I've killed like five of those skeletons I gotta go find and kill that stupid sixth one  in order to complete this Quest and turn it in uh
+
+59:27
+and the I think the first character I made  that Necromancer Summoner I had uh titled Sauron just for fun sake and I had completed  enough Quests for the townsfolk that they erected a statue to Sauron in the Town Square  I'm like okay like that's kind of funny uh
+
+59:45
+but I didn't realize from your screenshot  that that was based on your character name and not just like the in-game sort of lore or  reference to that uh Lord of the Rings that's right that also would have been funny but uh  but yeah I wound up uh changing through a bunch
+
+59:58
+of different character classes be like okay how  does this character play to compared to this one um I didn't I really didn't like the melee class  at all but I found uh like the The Ice Mage who I had nicknamed Frozone uh a female ice Mage that I  was running around through the dungeon just like
+
+60:14
+blasting everybody I've got a lot of good joy out  of that but yeah like the so all the the dungeon um I guess skins textures to them are different  each time so like you start up a new world and it might be a Gothic theme or you start up a  new world it might be like just a cave theme
+
+60:31
+or something like that um very simplistic you  just go floor to floor mashing Mobsters but like they there's like a weirdly like fun element of  like these you know giant spiders attacking giant uh there's like leprechauns in the game that will  steal your gold and one of my admission objectives
+
+60:50
+was to go and kill the super leprechaun and he  had oh God it's gonna kill me I don't remember this but he was I was running around trying  to hunt them he's like got your gold matey and that was just like really motivated to just  beat the [ __ ] out of the stupid leprechaun
+
+61:04
+yeah leprechauns were the worst I mean they were  delightful to kill but they're like [ __ ] you come back here you still like all my money uh I  encountered them when I was under leveled for the floor I was on so it was like an actual difficult  quest to get the one that ran away uh I was like
+
+61:27
+fighting through horrors of other enemies trying  to get the [ __ ] leprechaun what is it in Diablo 2 or Diablo 3 like there's a specific uh oh you're  right one of those things the Imp the um no the um you're trying to run away the goblin that  something Goblin uh I'm blanking here there's
+
+61:50
+some money Goblin yeah that tries to steal your  cash right and so that's that's why that's why like that was the same thing for me Leprechaun  versus this other like Diablo thing it's like this game is just a bad Diablo 2. and like I I played  this game for like way longer than I expected
+
+62:05
+because I thought it kept engaging me with like  oh okay there's more content here and there and the content just slowly unlocks and so you're like  oh I Now understand like why would choose you know this set of like skills versus this set like it  actually makes a difference but ultimately uh
+
+62:24
+yeah it's hard to like there's not like a  long-term narrative it's not like you're trying to again with this whole narrative thing like Diablo  you're like your goal is to defeat the defeat hell essentially like you're like or defeat Diablo  right and like you you know partner with heaven
+
+62:40
+or somewhat and there's like this whole like kind  of like a very biblical religious undertone yeah exactly but this game is just like yeah there's  some bad thing it's evil it's just hey by the way you've been cursed you're cursed it's black and  white it's just like it and here's the bad guy and
+
+62:55
+you're the good guy and then like the one thing  it had which was different I think the the most notable I should say was that things would come  into your town like and attack them yeah actually that happened Diablo if I recall correctly though  they have any kind of cut scenes sort of like
+
+63:08
+things where you enter Town things were on fire  and then things would attack you and like oh but this was just like oh well it was time sensitive  so it was like okay this thing's happening what oh you didn't like that not at all I thought it  was just a gimmick that like just immediately
+
+63:25
+was absorbed as a oh this is oh here's that sound  again the sound of the trumpets the channel That means that like you have to go back to town  because otherwise a bunch of people are going to die and you have to save them and it's just  like oh well I'm trying to find this gate but
+
+63:39
+my strategic decision now is do I press forward  and let people die or do I go back what happened uh I and this was another thing that I thought was  like oh yeah I wonder like if there's any sort of consequence to having like the armorsmith die or  The Gambler die or something as far as I could
+
+63:57
+tell like they die and then like they're basically  just replaced by other people who just wander into town and exactly after a certain amount of time so  I don't think there's like the only thing that I could see it being a major issue is if you have  a bunch of quests from a specific NPC and then
+
+64:16
+the town gets invaded and that NPC dies and you  can't turn your quest back in then yeah but I think that's the only thing that could that could  impact that oh you lost some experience that's too bad uh that thing that I so I I like the idea of  being like here is a quest a time sensitive like
+
+64:38
+there is a a literal ticking clock you have to  go do it um but a lot of them I felt like were like oh no there's a thing on level seven it was  like I'm on level like three like if not that I'm choosing not to do this Quest is that I am unable  to do it yet so there and there was just it wasn't
+
+64:58
+branching it was just like go from level one  to level seven or whatever so there was no there were a lot of times actually like it wasn't  that I was making a choice not to do this yet it was that I was you just physically couldn't  do it yet yeah I was just like get good before
+
+65:16
+this happens so it's not uh it's like I want  to be able to make interesting choices in the games that I'm playing yeah and sometimes like I  felt like the interesting choices that I got in this game were what your skill upgrades were  yeah upgrading is the only interesting thing
+
+65:35
+and the playing the game and let me I guess  the the other decisions were like I you know do I spam the one that does AOE damage or  the one that's a single Target damage do I use some of my mana on a protection  spell or something else um like the
+
+65:56
+it was a pretty good Diablo roguelike I felt like  it was by far the most bro like of the games that we've played that What minus the like maybe  down into thread more which there's no promo death here though that was the main thing that's  why I'd say that this almost disqualified itself
+
+66:17
+I don't remember if there is a permadeath  option but there is but there's like a bunch of options default was not the  default was not no um I know that there's yeah like it's the most work-like in the way that  the dungeons are generated like felt like true
+
+66:36
+random dungeon generation and it's the first one  I think that we've played so far that I felt like the generations of the dungeon wasn't like a good  use of procedural generation like some of the other ones we played uh cargo Commander procedural  for the fact of being procedural didn't feel
+
+67:00
+like it added anything um versus this is like  yeah this sprawling Cavern underground things um being a hand designed level would not have  made it any better uh without having like put a lot more work into it um so like if  I'm gonna have my games have procedural
+
+67:25
+generation I want there to be a reason for  it yeah and like some of the reason can be it's easier you don't have to like hand  place all your assets but if you're just doing it to say that you've done it it doesn't do  it for me that way you get the the roguelike tag
+
+67:44
+in Steam and everyone downloads their game because  you know everyone wants to play roguelike games in 2012 I don't know if that was an actual draw  yet yeah probably not but it was probably leaning more on Diablo I mean almost yeah sure Diablo yeah  and I think it was a oh am I really good Diablo
+
+68:05
+esque game in my view is the best of the three  we played which isn't saying much to be fair but well let's uh that's a good transition spot let's  move on to the uh the overall rankings here so on each episode we're we're doing our best to try  to Wrangle all these uh top 100-ish games that
+
+68:26
+over the past decade um I'll go first uh I I'm  gonna probably like Buck the trend a little bit here based on the tea leaves that I'm reading  um I kind of like cargo Commander a lot uh I think this is my new number three game uh just  above crew just behind dungeons of dreadmore
+
+68:49
+um I thought I thought like it's it doesn't  have a lot of staying power and I think that's okay because I think what it has going for it in  the time that you can enjoy like most of it is pretty pretty well feature complete I don't  like the the base like nail gun that you have
+
+69:08
+at all and I think the game kind of suffers  drastically from like the bass gun that you have as being very bad I think maybe it adds  to some strategic decision making like oh okay I have to use a different gun so I'm going to  do X Y and Z to do so but I really like the um
+
+69:26
+I think the theme of like corporate drudgery  works really well for it um I don't know that it's something very inspiring to play uh but yeah  I think like I think number three sits right for me at the moment uh din's curse I'm gonna slap in  at my new number five just behind pineapple smash
+
+69:46
+crew and above hackslash loot I I thought this was  this grew on me the more that I played with it I it was I think repulsive the first five minutes  that I played with it I'm like oh my God this is the UI is awful the inventory is Dreadful uh oh  but these skills look interesting oh this is kind
+
+70:04
+of fun and like it's just kind of like building  on from there inch by inch um I did I did like finally save the town in din's curse by going and  completing some objective it doesn't actually tell you which objective is the one that will save  the town which is kind of frustrating because
+
+70:20
+you're like uh so which one of these is the most  important but I got like the little confetti sparklers saying congratulations you saved the  town like okay great uh now what and then I hit the you know proceed button and it just sends you  to another town and den is still there and I'm
+
+70:35
+still first is the curse that I'm just supposed to  repeat this until the end of time like I get I get to keep your character and you know all the skills  attached to it but like I don't know that that kind of like if it even just like rolled credits  on it I think that may have been more interesting
+
+70:50
+but I I had more fun with Ben's curse than I  thought I would that being said I think Realm of the Mad God is 100 not for me uh I can see how  some people would find it fun and interesting but ugh yeah I don't know that I'm really that Target  demographic so for me it's my new bottom game uh
+
+71:15
+I keep looking through like our scheduled list of  like okay what other games are we gonna play like is anything gonna like really kick it off that  bottom list and I guess we'll have to wait and see but uh yeah my it's my new number nine game at the  moment but we'll see how those rankings Shape Up
+
+71:34
+I guess I'll go next yeah  uh dens is my new number too wow wow I mean not not a super wow but okay okay  I mean and I feel like yeah I don't know it's fun game uh I feel like it I didn't say like  pineapple smash crew is the new number it was
+
+71:54
+the old number two for me that one was like a  fun game that was like uh a tasty treat uh like a little like a like the candy that you get at  the end of uh of a meal at a Mexican restaurant um but like no depth to it at all uh din's  curse felt like just a moderately fun game um
+
+72:16
+that I just play uh Cairo Commander uh my new  number seven out of eight didn't like it didn't really enjoy it uh and then Realm of the Mad  gods just one step above at uh number six so uh I feel like I'm kind of insane boat as you  Scott where like I can see the appeal and
+
+72:43
+I can see even a version of myself liking  it more if I was going to get into the MMO part of it but playing it not like playing it  without engaging in the MMO aspect is not a good game playing it with the MMO aspect it could be a  good game but I'm just not at a point in my life
+
+73:03
+where I'm looking to play an MMO of any sort  let alone one that's 10 years old and not the I the best one like I could I could pick uh an MMO  and maybe play one and like you have to invest a lot of time um there's one thing about it that I  forgot I did look through some of the ratings and
+
+73:24
+it has my favorite thing of all like all things  that related to steam which is negative reviews from someone who's played the game for 9 000 hours  uh just [ __ ] love that [ __ ] I love I love it and people like I have put in 9 000 hours in this  game and I just cannot recommend it like I don't
+
+73:42
+know man I feel like your actions are speaking  much louder than your words obviously you can um but I'm not going to put in  9 000 hours no just just yeah I guess it leaves me um I have a different sort  of way of thinking about this thing I I can't
+
+74:04
+just do a ranking right because like in order to  ranking something I have to think about like what is it relative to and so I do a score I convert  that to rank and so and I never recommend a game that's below a seven in my one to ten kind of  score and so for these games cargo Commander
+
+74:20
+uh actually I guess I'm gonna start from the  the lowest Realm of the Mad God I give a 2.5 out of 10. which wow which for my rankings is  equivalent to seven out of the eight games I've played because I didn't actually do Binding of  Isaac The Flash version so I only have eight
+
+74:36
+instead of the Scots nine um eighth place  was a value without win which I give two out of ten so so that's kind of like that's the  bottom level layer that we've we've hit so far um yeah Realm of the mag like maybe for if I was  maybe 12 years old and games didn't exist to do
+
+74:56
+nowadays and like what I'm looking at is like  literally games that exist when I'm 12 years old maybe that's a fun game but no it's not for  me as an adult um cargo Commander I give a three a point five more than round three out of ten  which was it at number five on my out of eight
+
+75:15
+list I just don't I don't really love this like  kind of side scroller sort of Mario sort of like I know you Scott you really love like Super Meat  Boy and like those kind of games I just uh Noida like I can understand it I've tried them I just  can't get into those ones as much so um that one
+
+75:32
+didn't do so well for me and Dan's curse um at  4.5 out of 10 gets it the number three ranking um out of the nine or the eight games I've played  um it was the best of the ones we did I put six hours in that game I I think I absorbed all  the novelty there was in those six hours
+
+75:51
+um and uh yeah the only game that I would  wreck recommend that at 7.5 out of 10 my number one game is Binding of Isaac  rebirth everything else we played so far it's been a learning experience and now I  get to appreciate what I love about games
+
+76:08
+but these are not games I can recommend so  that's where we are in what 2012 is that where we're at right now yes we're uh we're just  coming up towards the end of our 2012 games uh uh the algorithm has been gracious uh to bless  us with the uh with the hammer for the end
+
+76:25
+of 2012 uh and our our next episode uh which  will be FTL faster than light by subset games um I think that one will be a good a good palette  cleanser will have an actual fully dedicated episode to it um and yeah I think uh that that'll  close us out for our 2012 games just in time for
+
+76:46
+us to start kicking off our uh our 2013 games I'm  looking forward to that I mean I having played a little bit of FTL and also having played into the  breach the other game they created oh man I I know I love this uh this game creator and I'm expecting  that this takes the top spot but we'll see
+
+77:05
+a strong Contender for the  number one yeah for sure all right well that's going to close out our  uh our bundle episode here on cargo Commander din's curse and Realm of the Mad God uh we'll  see you guys next time for faster than lights foreign [Music]

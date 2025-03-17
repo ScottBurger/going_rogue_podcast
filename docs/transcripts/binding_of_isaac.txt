@@ -1,0 +1,569 @@
+00:00
+foreign hello folks uh you're listening to another episode of the going rogue gaming podcast The Grog pod welcome back to the Grog pod uh this uh this episode we're covering a a Titan of video games uh we're covering two of them actually uh but we'll get into it but they're kind of
+
+01:05
+the same game uh it's the bicycle The Binding of Isaac episode uh probably the spooktacularist episode I'd probably say from the ones that we're planning on covering it's very thematic that we're covering this towards the end of October uh Halloween's right around the corner and
+
+01:22
+uh yeah we got we got a spook Fest for you here with lots of ghouls and uh poop and demonic imagery enough to uh to really fill the uh the Halloween sack there uh so so yeah we definitely chose uh trick over treat but there's lots of treats in here as well too I think uh but uh but yeah
+
+01:47
+let's start with uh with talking about the the 2011 uh release uh The Binding of Isaac uh if you have never heard of this game before and you're one of maybe 10 people who have never played it uh this is a and I I think like the design of this game is also a great Counterpoint to the
+
+02:06
+one that we just talked about with uh with dungeons of dreadmore because this is a very much uh action oriented game uh dreadmore very turn-based this a lot more uh everything happening all at once uh it's a twin stick shooter it's uh if you've ever played a twin stick shooter
+
+02:23
+before we were moving around your character with one stick and shooting in directions with another stick uh but it's like if you took that and dropped it into the legend of zeldo and also slapped on uh you know an aesthetic of demonic imagery on top of there so kind of kind of a lot going on
+
+02:41
+uh this game in 2011 was released on PC Mac and Linux uh this was a game that was based entirely on the Adobe Flash engine so at the time it was a little a little limited but this was this was one of those games that really kind of like blew up the uh the Indie scene at the
+
+02:59
+time lots of flash games where we're in abundance there and this this is kind of a Titan of that time uh this is the the 17th highest rated Rogue on Steam uh with 50 000 reviews as tops out in the 99th percentile and this was made by by uh two Mega devs of the of the indie
+
+03:20
+game Pantheon we have Florian himsel who's an Australian or oh my God uh he is an Austrian game programmer I'm sure he never gets that confused uh with doing a lot of programming contributions to the um the predecessor to this game somewhat uh Super Meat Boy and also
+
+03:38
+working on other games like coil and ball frog and the uh the kind of brainchild behind this game Edmund McMillan uh who is there's I think we could probably have a whole series of podcasts just dedicated to uh to this fellow but uh he got his start with uh with Indie comics and
+
+03:58
+zines back in the day uh before jumping into uh Flash game development um have do you guys have much uh much experience playing with flash games in the past I mean we're all children at some point I think and that was what the internet had I think around the Myspace era was
+
+04:15
+if you wanted to play some kind of game it's going to be oh what's the Australian splunking game the uh I don't know there was all yeah very raising your your eyebrows especially yeah they're they're all a ton of them out there and I think we all had our fill at some point in uh around the the
+
+04:32
+mid-2000s and prior I feel like none of them I I know for sure that I played Flash Games as a child but I feel like none of them were actually good enough to quite rise to the level of like oh yeah was RuneScape a flash game I don't think it was or I don't really know what uh
+
+04:49
+powered that maybe had his own thing but I feel like RuneScape was probably popular enough in like the pre-flash era where it actually used like a real game engine that sounds about right okay so yeah I don't know Flash not flash I have no recollection of any good flash games
+
+05:05
+then but you probably like we all I guarantee we all spend a lot of time on like new grounds and stuff at least yeah new Grant yeah yeah I remember some shitty tank games and like some shitty like yeah there were a lot of games that were like one day games yeah you know you play and
+
+05:20
+you get your fill in one sitting um which I mean I never actually played the original uh Binding of Isaac so I don't know how much dissimilar or similar that is I I know that the rebirth has significantly more content we should I'm sure you're going to go into but uh
+
+05:42
+yeah it's got it definitely seems like it's um of a different level of replayability and uh what not going on with it almost kind of like a like a different like when you when you boot up a flash game it feels like a different era of History almost that you're you're interacting with like it
+
+06:01
+just it has like it's it's almost impossible to describe in an auditory medium but like the way that it moves the kind of like just maybe clunkiness of it you can you can really feel the engine well and a lot of them you can't save so yeah you can't the the nature of them in some ways
+
+06:20
+lends itself well to something like by magnific where you are playing runs through but if you're trying to build a different kind of game you are limited to what you can do in one sitting so if you do well great if you want to come back to it the next day um it's not like today where the cookies
+
+06:41
+in your browser save your progress for random things uh you just started over the next day I'm gonna have to disagree with you pretty strongly here though about that Colin because uh the The Binding of Isaac like it's so narrative and like save based like if you didn't
+
+06:56
+have the fact that it saved your progress as you go through the narrative and I don't know how much of the game you played but that was I'm assuming that that's something that came into effect more in rebirth and less maybe that's the original Flash game um I can imagine you having a similar
+
+07:12
+version of this game The Flash version the early version where you don't you get better at it by like memorizing the items and combinations and stuff like that yeah so uh so real quick just uh finishing up stuff on on admin here our lead Dev uh Flash game background but I
+
+07:32
+think he was more kind of like on the designer end of the spectrum I don't think he was really like that heavily involved in like programming a lot of this stuff but he did reach out to programmers to really help kind of bootstrap his uh his game designs um he was featured in uh indie game the movie
+
+07:48
+which was a a popular uh Kickstarter uh that was in the early your days of Kickstarter uh and he uh and he with uh with Florian helped to develop a Super Meat Boy have have either of you uh broken a controller over Super Meat Boy like I have I mean I touched the game because I saw
+
+08:08
+you playing it one day I'm like oh what's this and I said no this is not my kind of game yeah I played it and it was hard and I was not I am not good enough at video games to play it yeah twitch reactions sort of like 2D like that side so it's just it's two D's like that's
+
+08:24
+just generally not my kind of game with some notable exceptions yeah uh so so Edmund you know launched a Super Meat Boy to massive critical Acclaim at the time and that really helped to set him up for success for for Binding of Isaac here uh all the the accolades and uh
+
+08:40
+Revenue that he generated out from Super meepoy helped to really kind of give him a that kind of risky Foundation to kind of pivot off for for Isaac uh and I think when he was uh we'll get into a minute here but like I don't think he was expecting Isaac to be the as big of
+
+08:57
+the success as it was so he kind of went in with sort of low expectations but um but uh but yeah so we we've said the phrase Binding of Isaac a lot so far uh will as our as our resident Bible expert can you give us a quick rundown of what uh the the biblical account of The
+
+09:14
+Binding of Isaac the story of Isaac yeah and so in the Bible in the actual Bible there is this character Abraham and Abraham has a son Isaac and The Story Goes that um basically God wants him to prove that um he fears him that he loves him that all that crap all at once and
+
+09:30
+so he has him bind his son to a um essentially a uh uh a platform for sacrifice and uh and just as and commands him to kill his son to prove all this crap and so and just as he's about to plunge the dagger into his son's chest Isaac's chest uh Angel period before him and he and the angel says
+
+09:51
+um you've just proven yourself you don't actually have to kill him and so you've got the Loyalty achievement right and so that's and that's and that's why it's Isaac here and and The Binding of Isaac um in theory though well I'll let you go ahead and talk more about the narrative
+
+10:05
+but um there is a major difference between the biblical whole interpretation and what we see in the story here that's right and yeah I think like there's there's a lot of interesting twists that I think the the developer Ed McMillan put on here to kind of mimic his um his own upbringing
+
+10:21
+maybe not to to a super deep extent but uh enough of a of a spin on it to really kind of give it its own unique flavor so um this game Binding of Isaac 2011 uh was the result of a week-long game jam between MacMillan and uh Florian uh to develop this kind of Legend of Zelda
+
+10:40
+like roguelike uh game uh where MacMillan wanted to Showcase uh his feelings about both the positive and negative aspects of religion that he had to come to discover from conflicts between his Catholic and uh born-again Christian family members while growing up uh McMillan had considered the title
+
+11:00
+of risk um but once he could take the financial success of Super Meat Boy released it without much fanfare to steam in 2011 without expecting a whole lot of sales um but he was noticing that the game kept like gaining popularity every month and like sales kept like compounding and
+
+11:18
+compounding and I think this was largely driven by um let's play YouTube videos at the time this was you know 2011 YouTube was a completely different era back then and you know let's play videos were only just kind of coming on the scene and this was like a major driver
+
+11:34
+for people's interest in the game like oh my God look at this thing and people being able to to see other people's very different experiences to what they had ex played being like Oh I want to see how to how to unlock this weird thing um they released an expansion titled
+
+11:49
+wrath Wrath of the Lamb uh in May 2012. um but uh but we're limited uh from releasing future expansions because I think they just maxed out the flash engine at that point uh they started uh to work with Nintendo in 2012 to release the 3DS version but Nintendo kind of backed out of the deal citing
+
+12:12
+controversy of the game's religious themes um and then he would you know later to pitch to get the game on scene but um yeah can you imagine this game being controversial when it first launched thought the title would be controversial I feel like it's not the title it's the
+
+12:30
+rest of it yeah well yeah the game itself being a controversial take uh but um but yeah you can kind of tell from from gameplay of this that it was pretty well influenced by um Spelunky the uh the original spolinky version we'll get to the uh the uh remastered one later but the original
+
+12:51
+Spelunky version was released I think in 2008 uh influences from Diablo in here uh I don't know I don't know if either of you have played the uh the smash um Super Nintendo game Smash TV at all room-based uh you're a character running around and you're you know shooting
+
+13:09
+stuff in a twin stick shooter kind of kind of format um but uh but MacMillan had some some interesting stuff about this game where uh yeah like we said with Binding of Isaac uh Abraham sacrificing his son The Twist here is that it's um Isaac's mother who is watching Christian
+
+13:27
+broadcasting uh TV that commands her to uh to kill Isaac uh and well she blames is a voice of God like in in in the actual narrative which I know is because I have listened to it just just recently so it is from her point of view God commanding her to kill her son but first
+
+13:45
+depriving him of clothes of toys and then finally his life it is weird like how you I I mean I've heard the story of Isaac growing up but uh hearing it in a modern context definitely feels much worse it's like oh it felt you know like the game itself is very cartoonish but just the the intro is um
+
+14:13
+it's like cartoonish but dark I mean like yeah okay this is talking about like this child being abused and they all of this stuff is is cartoonish you're shooting tears out of his eyes as the bullets but like it's it's dark if you stop and actually think about like the [ __ ] that's happening to him
+
+14:34
+and that's one of its best uh treats if we go on the Trick and Treat um scale uh the treat the one of the biggest treats is like the 2D like animations of like the characters the um the narrative or like the actual narrator talking over it like that to me was what set this game
+
+14:51
+apart from pretty much everything else in the entire genre was this dedication to not only just the narrative and having a strong narrative I mean Biblical Roots is great because then it has some kind of Connections in reality but then like everything within the game
+
+15:03
+is derived from that core story which I think is something that a lot of games Miss um even some of my favorites yeah there's there's interesting kind of like um I think at the time I could see this being very controversial with its themes of like you know demonic symbolism with uh you're a naked
+
+15:33
+five-year-old running around Dungeons and there's poop everywhere and you're like there's like Blood and Guts and lots of like enough viscera to almost make like a Mortal Kombat game blush in a in a couple senses but uh yeah like I could see how in 2011 and it feels
+
+15:49
+quaint now like when you play it you're just like oh you're a little cartoon character like video games I feel have kind of like turned a corner of you know violence and controversial topics that this just kind of just seems like yeah it's fine you know it's it's not
+
+16:06
+anything that would turn your hair white in 2022 at all but yeah at the time when games had to go through a bunch of flaming hula hoops to get listed on Steam to get published with uh with Nintendo and Xbox and all that uh yeah you could definitely see that like
+
+16:24
+Nintendo being like hey could you maybe tone down like the um like maybe murder down by like five percent well and there's like some stuff where you mean we've all played Final Fantasy like the classic jrpg religion is the enemy et cetera Etc but it's rarely like so explicitly
+
+16:45
+this specific Christian story like demonic energy in Diablo doesn't feel like it's an attack on Christianity in any way like it's it's I guess you're you're lifting like names from the Bible but it's like you got a little red imps running around I mean the start of this story is uh uh just a story of
+
+17:07
+the Bible yeah it's just like yeah let's just take this this exact story and then like replicate it with instead of a father or mother and uh yeah and imply that it's bad or no that the religion made the mother crazy and that religion makes people crazy and have outlandish ridiculous beliefs
+
+17:32
+also allows you to get a a pentagram uh carved into your forehead that allows you to to shoot laser tears so you know you have your pros and your cons there I think unless you're a a Zazzle a Zazzle or whatever his name is then you just do by default but yeah uh yeah so
+
+17:53
+um 2011 let's see so so we've kind of talked a lot about the game but like what do you what do you do in the game like so so your main goal here is we've kind of talked about the intro cinematic uh uh Isaac being deprived of all this stuff and his Christian mother coming
+
+18:08
+coming to kill him and he escapes into the basement of the house and that's kind of where your where your Journey Begins uh there are there are some um like not pallet swaps but like kind of remixes of some of these uh these floors but uh but generally speaking you uh
+
+18:25
+progress deeper through different levels of this uh underground Labyrinth beneath your house uh to eventually you know go from the house basement a couple of levels down into uh the caves that are underneath there down Into the Depths uh encountering all sorts of weird and
+
+18:44
+insane monsters along the way uh and eventually to to fight mom at the end as the final boss um a spoiler alert are we are we allowed to talk about that kind of something like can we talk about the end game or the end end game because you just represented it I will say
+
+19:03
+truthfully or not depending on how we want to uh yeah and and that's another thing yeah so I think if you've made it this far in the podcast uh spoilers spoilers about but there's so much content in these games I don't think you can realistically spoil any of it because there's just like so much
+
+19:19
+there's so much stuff in here that I don't know that really anybody would ever see it all unless this is the only game that you're planning on playing for the next five years I mean in 60 hours uh I think I mean I got through every unlock and every ending so I think uh every ending yeah
+
+19:37
+wow impressive I think I've I've only gotten maybe uh through maybe 12 or 13 endings in 55 hours but even like just the well and okay so what we'll come to I think I think that spoilers are okay for games that are uh 10 years old yes that's also true so if you wanted to
+
+19:57
+have played this game by now you could have done so yeah I still want people to play it though as a thing it's like I don't want to give away something that prevents or you know but whatever so in Binding of Isaac you're dropped into a rectangular kind of rooms filled with
+
+20:10
+monsters like zombies or or headless uh I guess headless children that are spurting blood at you and uh spiders that uh have bombs on them that will blow up and uh crying mutated babies and uh just also like if you can think of something weird and demented it's probably in this game just festering
+
+20:32
+pustules with legs walking around spurting blood literal poop poop will charge you [ __ ] you up in some ways it's a child's imagination of a demonic world like all the child's fears come to life and that's really highlighted in the cutscenes too with like you know oftentimes it's like him having
+
+20:53
+something you know happen to him whereas like he's he's on the toilet or whether was he he was on the toilet and like his mother came in or something or like uh there was no toilet paper that's what it was and then he had this shock and this horrid look like oh no there's no toilet
+
+21:06
+paper and that's like crazy and that's the whole thing that he must bear as a as his existence all of these kind of cartoonishy things or like being at school and someone you know pantses him and everyone points and laughs oh my God my life I can definitely understand the spider
+
+21:23
+fear though living or growing up and like playing around in the basement and seeing like a giant spider that at the time I was just like completely freaked out by be like oh my God this is the scariest thing ever uh and now like now I routinely rescue spiders that are
+
+21:39
+trapped in the uh in the shower as my good deed to the universe so well that's mistake but yeah so in this game you progress through different uh layers of of dungeon-like levels basement caves uh to the depths you defeat mom once you've defeat mom uh you can go to the womb
+
+21:57
+question mark uh where you can fight uh the the next level boss which I believe is is a heart-pounding fetus of some sort uh you beat that enough times and you unlock sheol which I don't know if that's in the Bible I don't think I've ever heard of sheol before um but you know another kind of like
+
+22:16
+dark demonic plain like existence uh where in this 2011 version your your ultimate goal uh should you choose to make it this far is to defeat Satan himself uh by getting to this shio level and and you know fighting this um uh super Satan uh uh final boss that's that's kind of that's kind of you
+
+22:40
+know the uh the end of the game there but along the way you'll encounter uh rooms full of monsters you'll find like treasure room rooms that have all sorts of wacky power-ups we kind of talked about a few of them where you know sometimes the the tiers that your your
+
+22:54
+character shoots out the bullet you know equivalent uh will change the lasers or they'll they'll be homing missiles or Charming yeah psychic homing tears exactly um there are uh shops where you can go in and buy things with coins that you find throughout the game there are curse
+
+23:13
+rooms that you know you can you can walk over a pit of spikes and you know sacrifice some of your health as a chance for a reward uh there are there are combat challenge rooms that you know you can fight a whole bunch of monsters simultaneously for uh for a chance at some better better loot
+
+23:31
+um and then yeah there's uh passive power-ups that uh I think in the dreadmore episode we were lamenting the fact that when you picked up stuff it didn't change how your character looks your characters just messed up in this game yeah I think that's one of the things about this game that I like the
+
+23:44
+most is how how well they implemented power-ups and items changing your appearance I think they did a really like it's it's a very Vivid change for everything and it's not just like put on a little piece of clothing it's like your head changes or you've got horns
+
+24:05
+growing out of your face or like weird growths and they were it did a good job of reflecting like what you were doing in your build or your your path through the through the dungeons foreign just looked like the same guy the whole time with giant eyebrows I would imagine that there's an item in
+
+24:27
+here that does alter your eyebrow size but yeah you pick up something like like a can of dog food and that will give you more Health but will also make your character larger as a result you can pick up uh I think um after some boss fights uh like demon doors will open up
+
+24:44
+where you can offer offer some of your health and you'll get like demonic uh aligned powers that are kind of more more devil based maybe do more damage but higher risk higher reward kind of thing there are Angel rooms that just kind of give you more kind of like protective Buffs and things like that
+
+25:02
+um uh but oh yeah there's there's also uh other items that you can use in this game like bombs and Tarot cards and pills and more kind of usable items uh things that it's almost kind of like a hybrid of like Bomberman in a way with the amount of uh like Boulders and
+
+25:20
+objects in throughout the room and in some cases some of the boss fights actually feel kind of bomber Manny as well yeah there's like there's four different uh um I mean at least on the Xbox controller and I'm using there's four different controller or like auxiliary sort of things that you can
+
+25:35
+shoot uh you know the the bomb the special the uh like kind of tarot card or pill and then no I'm forgetting the last one but like essentially four different like things you can do to it like use a one-time consumable throughout your gameplay it's probably important to point out
+
+25:52
+that pills your the aesthetic here of you know you're walking you're fumbling around through the basement finding mom's pills that you don't know what they do and once you once you use it then you've identified it for the rest of the run but at the time you're just
+
+26:08
+like well I have one heart left do I use this weird mystery pill and then it could kill you because it could say like oh Health down or something uh or it could give you you know some uh some sort of passive uh buff going along the way or it just makes a fart sound in some cases so you have kind of a
+
+26:26
+spectrum of good medium bad yeah I didn't really get the uh until just now I didn't realize like oh if you're finding mom's pills and that's why you don't know what they are because you're a child finding random pills and you just eat eat a pill who knows what it'll do but if you find the same one
+
+26:42
+twice then you know what it does the second time and so that's the benefit of like having used a pill but I have pills firmly in my dislike category just because yeah like going into the game you have no idea what the distribution is of good to bad to neutral pills and
+
+26:58
+like yep you're inclined to like try things out but like you have to do you have to just consume so many pills before you kind of like take this Bayesian approach to like hey is a pill good or not to have when should I have it like it takes so long to form a strategy around pill consumption that
+
+27:14
+you could easily like learn by like reading a Wiki my problem with pills is that it did not have any way to record what the pills did even if you had figured it out so you're like oh there's there's a pill across these spikes should I go try and get me like I can't
+
+27:30
+remember which one that that is I don't know if I've tried it or not like I might be willing to sacrifice some life to go get a pill that I know is good but I'm definitely not going to do it for a mystery that might be bad and then I lost life to do something bad like that's not a
+
+27:47
+that's a bad experience yeah well I think it kind of ties back to that risk reward element also where like oh the here's a thing that could be beneficial but maybe not like is it worth that risk to try to go get that thing to make your run just that little bit better there are some um passive
+
+28:05
+items I believe that actually do like pill identification for you not like showing them on the screen because that I mean that's one thing that I think like is is kind of like a balance of like crypticness in this game of like you'll pick up an item and it will just say
+
+28:23
+like you picked up guppy's head uh and sometimes it will tell you exactly what it does and other times it will say like the fluffiness abounds or something mysterious like that and you're just like can what like can you go look at what it does on the wiki it's like if you look
+
+28:43
+at the wiki then you suddenly like have a a power that you shouldn't have that the game developers don't want you to have but they use that because they forget what their own stupid items do in the game like I just think it's a terrible mechanic how many items are there in this game
+
+28:57
+there's active and there's passive you have to know which is active and which is passive otherwise you'll replace things or you'll spend money on things that is like I don't know there's 200 there's in in the 2011 version there are somewhere around 200 items and these are
+
+29:14
+the the the things specifically pick up that um alter your character in such a way so there's yeah so like we've we've talked to kind of talked about like you know you beat a boss there's a little pedestal you pick up the item there's roughly 200-ish of those in this 2011 release
+
+29:34
+so kind of a lot to kind of keep track of but like if I'm guessing like at the time if you were like super into this game and you were just like playing it non-stop hours and hours and hours a day you would build up that muscle memory of like okay yep there's the fish head I
+
+29:48
+know exactly what that does not gonna worry about it I'm gonna go for the laser eyes I know that that works really well for this build uh but yeah it's one of those things where like I can I can understand not wanting to overload the player with text we'll come to some of those games uh in future
+
+30:03
+episodes oh boy will we ever uh but in in this case I think it kind of works because like to keep the game flowing and being like moving on like okay I picked up this thing the fluffiness amount great let's move on and you know let me experiment and see how this thing works
+
+30:21
+I just picked up so just before joining this call I was you know doing a refresher because you know even though I have 60 hours this in the past and like I picked up an item that made it so that my tier I shoot really fast but at very low damage and as a Zazzle as I'll discuss is the
+
+30:38
+most overpowered character in the game but the point is that like that completely destroys all of that character's ability to do anything and so me I I had no idea picking this thing up completely destroyed the run and that is a uniquely terrible experience I understand it's a roguelike they want
+
+30:55
+you to die die again but like that's just shitty and like that makes me not want to play like I mean even though I'm done with 60 hours okay yeah you got me okay I admit I had my I had the wiki open though 100 of the time I had multiple tabs with like here are all
+
+31:11
+the pill there you know here are all the active passive items And I memorized it when you memorize it all the game's fun when you don't have it memorized um sucks yeah I switched up everything let's kind of do that you pick up everything then and then you get the luckily draw if the
+
+31:29
+thing you picked up was good or not let's move on briefly to to talking about uh Binding of Isaac rebirth uh so this was a 2014 re-release of the 2011 game um you can tell immediately that this is a complete remastered and rebuild of the original uh it doesn't really feel the
+
+31:50
+same kind of uh slugginess sluggishness that you get from the from the flash engine and this one was released everywhere this was part of a a partnership that um the game designer Ed McMillan did by reaching out to getting you know a a more full-fledged Dev Studio involved
+
+32:07
+and you can find it literally anywhere Linux Windows Mac PS4 Vita Nintendo 3DS I finally made it onto uh it was released on Wii U Xbox One iOS uh recently released on the switch uh PS5 Xbox series X and S and on Steam of course but holy [ __ ] this game is everywhere uh and with good reason uh
+
+32:32
+because I think this is you know the the far better playing game uh this one uh numbers wise ranks in at uh the second most uh popular uh game in the Rogue genre at 209 000 reviews uh on Steam compared to uh the previous uh entry only at 50 000 uh so it it has you know
+
+32:55
+made a bigger much bigger Splash since then um MacMillan at the time partnered with uh Nike halus I think it's pronounced uh the game publisher who also put out uh games vvv vvv and uh Cave Story uh the V game is really good I recommend that one Cave Story is also
+
+33:14
+pretty good uh both both uh very much relics of their time of the early Indie scene I would say um and yeah the in this case they they both work together to bring in additional features that they had planned for previously but the flash engine just wasn't doing them any favors
+
+33:32
+and really holding them back uh so they rebuilt the game from the ground up and C plus plus um it it is so much smoother just is just a night and day difference I feel like um and a lot of people cite this game this 2014 remaster is one of the best roguelike games of all time um
+
+33:54
+I think a a big a big Plus in the favor column here is that it finally has controller support I think there's a lot of Hoops you have to jump through to get the original 2011 one to to work with Gamepad stuff because otherwise you're I mean like the keyboard bindings are fine
+
+34:09
+but this game I think like really suits that controller based twin stick shooter uh um approach a lot better um the the art style here is also slightly different where in the 2011 one that's kind of a more um vectorized or rasterized Graphics uh and here it's a little more pixel Arty I
+
+34:33
+think there was actually a pretty big um pushback when this game was first released about how oh my God like the art style is so so pixely and you know it's just kind of like catering to the lowest common denominator of every indie game has to have like pixel Graphics but
+
+34:50
+um I think the fact that you know will and I have spent you know 60 plus hours in this version versus the old one kind of speaks to its um it's draw and it's lasting Legacy um the the music here is also slightly different the 2011 one I think has a little bit of a mysterious tone this one
+
+35:08
+is maybe a little more action-y um they're they're like slightly different but I don't think you know one is better than the other in any kind of significant fashion but the the main draw here is content oh boy is there content there is everything that we've kind of talked about is at least like
+
+35:26
+doubled uh we we talk about items 200 items in the previous one almost I think around 700 items in the the re-release in 2014 characters went from 9 to 30. uh room types so things like um like treasure rooms or sacrifice rooms or or challenge rooms things like that went from 16 to 25 we went from 74
+
+35:51
+types of monsters in the in the first one to 106 we went from 66 bosses to 141 bosses not that you have to beat them all but I guess you you probably wind up well after 60 plus hours of gameplay uh chapters uh 12 in the original one to 32 in this one uh and endings 13 in the
+
+36:11
+original to 21 and I think at least 21 uh I'm sure there's a new one almost added every day these days but uh are you counting is this the stats for including all the various DLCs this is including all the DLCs as well yeah so yeah how many were there yeah so uh DLC so this so the remaster
+
+36:30
+released in 2014 the first DLC after birth uh was released in 2015 uh to pretty good reviews uh to you know this was something that I think a lot of people it was uh waiting for and also they really liked um the next year and and in that release you know they released like mod tools and things to
+
+36:47
+really allow people to kind of generate their own kind of content and the next year in 2016 uh a bunch of uh modders grouped together to release their own kind of fan expansion called anti-birth uh I love the naming convention here and uh in a lot of cases like there's this
+
+37:05
+fine line of of game developers seeing the community build like user generated content and really kind of like hammering it down saying like no you can't release this um that's probably more true for the bigger Studios but um MacMillan here I think reached out to
+
+37:21
+the devs and wanted to work with them to help like bring that content in officially um which was super cool because you know he didn't have to uh he could have just sent you know dmca or copyright notice they like quit doing that but I think that that played really well
+
+37:36
+and also you know made it so he didn't have to stress as much about development work I think uh the the developer you can you can get away with uh good DLC or a good um mod content instead of DLC that extends the life of your game immensely like I don't really understand why so
+
+37:57
+many devs are as Dead Set against mods as they are I guess you can't sell DLC if your DLCs are worse than the mods but that's true and there's there's weird stuff about licensing too where like if user generated content starts to be get uh become popular enough then it starts
+
+38:15
+to become like this weird legal gray area of like well like can they solicit donations and stuff but anyway um so there were two more DLCs released one in 2017 after birth uh there are there's like an after or no sorry 2017 was after birth plus uh and this one I think had more mixed reviews
+
+38:34
+um of a a Common Thread throughout The Binding of Isaac's development is that uh because I think the McMillan didn't really expect this game to uh be a huge success he didn't really do like a whole he didn't hire a quality assurance team to like iron out a lot of bugs
+
+38:50
+beforehand uh so almost all of these releases and and DLCs at first like launched super buggy and I think he was kind of leaning on the community to do sort of like um crowdsourced bug fixing for the games which I can understand and I can understand people's frustration with
+
+39:13
+that when it first launches because you kind of expect a more sort of polished product so I can kind of see it both ways and I think after birth plus suffered from this as well where like there's so much more content there's like Edge casing all of the software stuff it's just an absolute nightmare
+
+39:27
+this is the kind of stuff that I mean if it was being made today the DLCs would go into like Early Access and then they'd get ironed out in that and maybe you would you're like well it's early access so you can't complain that hard exactly but I mean that is true in some ways uh you
+
+39:46
+you get that's where you get the fan testing rather than when you're coming out with a game in 2015 or 2017 people kind of I mean I guess by 2017 not as much but people expected the game to work uh and not to have to wait three or four different update cycles for it to get all the major bugs out
+
+40:10
+the final expansion for this game uh repentance came out last year in 2021 and rolled in a lot of that content from the fan mod anti-birth into it so this is where MacMillan had kind of worked with that mod team to kind of like bring it into a more official product I think
+
+40:26
+with the intent of you know making sure that they get the recognition and you know possibly monetary uh payment that they deserve uh and that one also I think kind of launched to mixed reviews I don't remember if that had the same issue of launching buggy and maybe getting fixed over time but
+
+40:43
+um but the Legacy for this for this game series uh or even just the 2014 re-release uh has seen you know five million plus total sales across all those platforms so I think the Legacy here has has endured uh I don't know that there's really really much more in the future for for this game there was a
+
+41:06
+a prequel the legend of Bumbo uh that was released relatively recently um but I don't think that that's had as as big of a impact or or cultural Splash as this game has the drowning of Jonas is that another uh biblical no I'm just proposing the next iteration here because you just take some biblical
+
+41:30
+theme and you give it this uh this kind of structure of the title Isaac grows up changes his name yeah but like Jonas uh Jonas Jonah who's in the whale I don't remember Jonah Jonah on the whale yeah Jonah it's got to be yeah Jonas is like the Jonas Brothers yeah so it's been so long you
+
+41:48
+know yeah I mean I'm basically Isaac in many in many ways so I had that upbringing but I can't remember the details here I'm surprised that I remember Abraham but well uh I remember that that Simpsons episode where uh Bart and Lisa get uh get baptized by Flanders and he's going
+
+42:07
+through all of like the crazy Bible stories like that that's at least like two or three other ex uh sequels or follow-ups right you could do like a 3D version of of Isaac called The Serpent of rehoboam or you know you got The Well of zohasidar or the bridal Feast of Beth chedrusara said
+
+42:27
+I was like I I do not remember these Bible stories uh I mean you could do what was the the Nebuchadnezzar and throwing them in the Flames I mean there's there's a there's a bunch of good weird hardcore [ __ ] in the Old Testament that you could uh you could have expanded this out into uh
+
+42:47
+Zacchaeus in a tree I mean Zaki is full Zaki is fall from tree or that doesn't work so well not not quite that's the same ring um uh let's let's move on to ranking these games so uh so as part of being the the most uh data based roguelike podcast out there uh our our end goal is
+
+43:10
+to rank all of these games to to figure out how they all stack up against each other and so far the the number one game that we have on all of our lists is dungeons of dreadmore um because we've only done one other episode but this second episode we have a dearth we've literally tripled no
+
+43:27
+doubled tripled the number of of uh episodes that we have 150 increase fifty percent there you go uh that's why we welcome to data so uh so we have uh three games we have dreadmore we got the 2011 release of of Isaac and we have the 2014 release of Isaac where I guess let's start with uh with
+
+43:51
+Colin where where would you rank these well I didn't play the 2011 one so um I'm gonna go ahead and say that this is uh probably the best roguelike we've played so far on the podcast so you're putting it on on your your number one I guess like maybe we'll also uh uh I'll go ahead I'll go ahead and
+
+44:13
+say uh you know obviously we've only done two so it's I I preferred it to Dungeon red more but I also think that um if I were to guess where it might land in the long term long run I'm guessing it uh probably be in the upper quarter I think it was it's a well-made game it's got a pretty good
+
+44:42
+consistent quality to it uh the gameplay is you know it's it's a fun game there's a reason why it got bought so many times and why it is at the top of the the list of roguelikes um I think at least a little bit of it is aged uh it is no longer 2011 or 2014 and I am no longer you know like as an adult
+
+45:06
+it is a little bit childish in some of the themes and it probably would have resonated me more with me uh as early as a younger adult but I think the gameplay is good and I think there's a reason why it's it's still ranked highly on Steam will how about you you have uh dreadmore is number one
+
+45:31
+this is 7.5 out of 10. uh dread Moore is a six out of ten well we need we need a discreet rankings here are you gonna put uh are you gonna put Isaac are you gonna put 2014 above dreadmore and 2011 below I know I didn't do 2011. so I'm gonna go ahead and leave that one out I'm gonna
+
+45:47
+I'm gonna say that the 2014 version encapsulates all that is the 2011 version but like better and so that's that's a historical sort of like thing I just don't really care all that much about I think the the rebirth is or the um yeah rebirth is uh pretty much what Binding of Isaac is supposed to be
+
+46:07
+plus all the DLCs I never actually got to DLCs but the flash version is the Early Access yeah exactly that's the Alpha version or whatever um the the one thing I I have a list here like I said of all my likes and dislikes and so of all the things if I had to just boil this down into the one
+
+46:23
+Innovative thing Beyond The Narrative which I've already kind of talked about that I think it does which I think sets the pace for what will come is item interaction you can yeah you can have one like ability essentially interact with another ability such they do wonky
+
+46:42
+unexpected delightful things together and that is something we see in later games you know most recently I'm thinking about vampire survivors doing like oh you get this one item and this other item they work together to do this weird thing yeah and so that that is a
+
+46:59
+tremendous I think breakthrough in like the way roguelike Games should play out is the first time yeah the first game I won was the you built up enough rage and you went into like Super Mario star mode but I also had the thing where if you touched something it got frozen and then
+
+47:17
+exploded into coins So I entered the game with like an infinite number of coins because I would just you know it's like oh get hit a couple times and then just go ape [ __ ] on everyone that the interaction between those two made it way more powerful than either one on its own
+
+47:32
+exactly and so that's why I think that this this is a real game changer um in terms of its narrative developments and is in that particular aspect of the mechanic within the roguelike game that I don't think we had seen before at least not this is stent yep what about you where do you put it
+
+47:52
+on your list I'm I'm following the peer pressure of the crowd here uh I'm putting uh rebirth at number one I'm putting dreadboard number two and uh the the OG 2011 uh Isaac at number three I can see like I can see the 2011 version of Isaac as kind of like a historical Oddity where
+
+48:16
+like if you're a big fan of the rebirth one and you maybe want like and you're I don't know like I'm conflicted because like the original one feels like a more paired down and streamlined experience without just like way too much crazy stuff going on but I feel like that's a
+
+48:33
+principal draw of rebirth it's just that there's just so much stuff and so many like wacky crazy things happening and all those item synergies that it's it's just so much more of a complete package um I felt a little uh a little miffed uh having to spend five dollars for the uh
+
+48:55
+original 2011 Binding of Isaac because I was just like you know what I'm gonna support I'm gonna support the dev I'm gonna do it doing it for the Pod but like at the same time like maybe I could have just played the the online free flash one and gotten the same experience roughly um
+
+49:11
+dollar fifty I mean yeah and it was kind of kind of annoying that like the uh original one didn't go on sale like at all ever which again like I can kind of understand like maybe you know there's an in a pricing incentive there of like hey don't don't play this one I'm not
+
+49:27
+gonna put on sale don't play this old one go play the new one uh and I think I would kind of Follow That same that same logic um I will say that the original one does play like pretty well on the steam deck once you get all the the controllers uh the controlled bindings
+
+49:41
+mapped out but like compared to the to the rebirth one like night and day like I don't think there's any instance where I would want to go back to the original that rebirth doesn't do better and I think like maybe the only instances of that are like the art style potentially
+
+49:58
+and maybe the music but I don't know that those are enough of a draw for me to want to to go to something that you know is is I think clearly a bigger more optimize more fun and engaging experience uh with rebirth so rebirth new number one uh if you had to guess where would you
+
+50:23
+you know extrapolating out do you think it's going to stay near the top of your list in the long term oh that's a good question I think rebirth is probably yeah maybe going to be in that upper quadrant like you said uh original I could see when I was first playing the
+
+50:39
+original I was like oh my God this is the new like worst roguelike I've ever played it just like really really chugs with that flash engine uh the the rebirth one like I got there there was a period where I got really sucked into it like really bad to the point where like I had to play it every
+
+50:59
+day the wiki was open up on uh on one half of my monitor the game was going on the other and anytime I came across an item oh I gotta see what this does so this is good or bad for my build I gotta I gotta get to that next end and gotta get to the next level this is me too
+
+51:13
+yeah and it's super addictive and I think that's that's a plus in rebirth's uh yeah category but like once but uh I I had gotten into a almost kind of like a dice roll um like Lux spree where I was just like rolling like 20 after 20 after 20 and I'm like oh my God I'm never gonna
+
+51:35
+repeat this again and I was able to to somehow of course with Azazel the most broken character in the game right was able to somehow get like I think like like two or three endings or like major unlocks like simultaneously in one playthrough and I wound up beating Mega Satan the one of
+
+51:54
+the Final Bosses of rebirth uh all in one go and I was just like like oh my God like I can't believe I did that I'm never gonna repeat that success ever again or it's gonna be very difficult to and then I put it down and I I walked away for a very long time until playing
+
+52:10
+this for the podcast so I think like it it belongs in that kind of like upper upper quartile but I don't know that like the randomness really plays into its its favor on any kind of like given run if your goal is to like beat like the super end boss if your goal is to
+
+52:33
+just like play a little bit and then like be like okay yeah I died there's some uh I mean we didn't even talk about some of the game modes but like there's some modes in rebirth that are just like there's a Mode called greed mode which is just like one floor it's just like
+
+52:48
+one room and you do your combat encounters there it's got a shop attached to it and then it just like it's like a wave based kind of thing um and there's uh like daily challenges that you can do I think those are probably like a better draw if you're just gonna like Bop in and play the game
+
+53:04
+for like 20 minutes or so I've been I've been doing that in preparation for this episode and getting a lot of good fun out of it so I think it depends on your goal upper upper quartile but I don't see it really uh breaking through the top ten Maybe let me I want to put this out there just
+
+53:20
+in relation to everything you just said right there uh and with regards to like win rates overall like because we're gonna play a lot these are all roguelites right there's gonna be a win rate that you expect the best roguelike I'm gonna just I've actually thought about this thoroughly yet I'm just
+
+53:37
+throwing it out there but like if you have perfect play you win 80 of the time perfect play as a human and there's a lot of things that you know you can break that down into a lot of different things but like if you like when I think about slit Inspire if you select all the
+
+53:52
+right cards can you win on ascension 20 80 of the time if you make all the right decisions about when to play things if you're playing any other you know if you're playing Vampire survivors if you're playing dicey dungeons any of these things you make the perfect decisions
+
+54:09
+should you win 80 of the time I mean I feel like for something like the Spire there is a perfect decision path but for something like this I mean you could probably win there is a game if you're a perfect Ai and you don't even need to get a single upgrade you just like miss everything right
+
+54:24
+because this is a real time this is not a turn-based strategy but like you can imagine like you can think about every encounter from a human perspective of like what's my probability of winning if I take this approach or that approach Colin I think you just need to get good
+
+54:37
+and then you won't have that problem you know maybe I'm just not that good uh so I guess my question for you back is can you have fun without having a high win rate and like there are I'm gonna say I'm gonna say no I gonna pretty strongly disagree uh and my Counterpoint is like I actually
+
+55:01
+have not played that much of Binding of Isaac so I lost a fair amount because I'm just not good at it yet I'm not something like caveat I said perfect play so you you start off being [ __ ] but you know your maximum level is eighty percent once you get to Mastery you shouldn't
+
+55:18
+have no greater than 80 percent but I don't know if that's the most games you're not going to get to mastery you know if I'm gonna play that game for 15 hours and not a thousand hours like am I going to get joy out of those 15 hours and so where to draw that line for like
+
+55:35
+what's your expected win rate be like you know it's all in that like that whole channel of like difficulty versus ability and trying to get it right in that flow state for this for all games really it's about the sense of getting better so if you start off with a zero percent
+
+55:51
+win rate that's fine as long as you feel like you're getting right an ever increasing win rate like you and or meta progression even or meta progression or yeah exactly it's it's sense of progression you have to feel like you were getting further in your goals be those get good
+
+56:12
+or be they uh like unlock new things via out of a single run mechanism um like this had all you could unlock new characters you can unlock stuff in the store like you can you could get no better but still progress through unlocks in that way um but yeah you definitely need that
+
+56:32
+sense of progression and I don't think you need to win like there could be many games where you yeah I mean look at Dark Souls like you're just [ __ ] grinding for most of the game dying most of the time like I don't know if you can qualify a win rate for something like
+
+56:47
+that but how many deaths to how many times you beat the game certainly context is appropriate but I guess my point here is that I'm interested as we move forward with this podcast to see how this particular elements this game mechanic um or component or I don't know really
+
+57:05
+what describe it as but like I want to understand how this the relevance of it and how it changes by beginning we're playing yeah and I think we'll see we'll see how that might change between things that are like turn based versus more real-time versus yeah like everything
+
+57:24
+kind of in between uh we gotta we got a a good lineup coming down the pipe here uh and I think yeah what do we have next next yeah uh next next episode we're covering uh another uh bundle of games because in some cases some of these games you can kind of tell like what
+
+57:41
+they are and uh after maybe only a few minutes um so it kind of makes sense to bundle these together and next episode we're talking about uh three games uh Hack Slash loot we're talking about a valley without wind and we're also talking about pineapple smash crew well there you go
+
+58:02
+I've had a sneak preview because because I did Binding of Isaac I already know hackslash and loot was the one that I so yeah I'm excited to see what the other two yeah and I I as as kind of a maybe spoiler for next episode I also kind of got sucked into pineapple smash crew
+
+58:19
+okay I thought I would but uh but yeah so keep an eye out of that for for next episode in the meantime you can uh find us on the interwebs at uh the website grogpod.zone uh if you are if you're still using Twitter before Elon Musk has crashed it you can find us there at
+
+58:37
+grogpod uh and if you have uh if you have correspondence that you would like us to read on the air you can you can send that to grogpodzone gmail.com uh and we will uh if it passes our sniff test we'll read it on the air here for all of our tens of listeners to enjoy so
+
+58:57
+uh so stay tuned for next episode we're we're covering uh some games you probably have never heard of and we'll see you then all right see you later

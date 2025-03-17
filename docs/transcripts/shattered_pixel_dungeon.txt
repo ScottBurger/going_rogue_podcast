@@ -1,0 +1,926 @@
+0:35
+Greetings, and welcome yet again, to the Grog pod roguelike podcast where we talk about roguelike games, welcome, hail and well, Matt, I am your host.
+Sorry, I'm cripplingly addicted to my phone here.
+0:51
+I'm your host, Scott burger and I'm joined with according to my phone here, my co-host.
+That right?
+Is that huh?
+I'm joined by, I think so.
+But oh, what's this?
+Oh, it looks like I am some kind of a mage casting some kind of a stone Golem to absorb all the boringness that might be in these mobile games, weird Ting.
+1:16
+I was gonna be amazed.
+Well, I guess I'm calling your puny Warrior, who can't gain any strength equipped better armor because I refused to go to the gym.
+Well, this week, you are joining us for a a this a pint-sized but maybe, well, not quite, but actually maybe our game this week is shattered Pixel Dungeon where.
+1:44
+Normally, so in this part I usually go over like when it was released and where you can find it on, but I think I have to do this in like two separate silos, because this is our first roguelike mobile game that we're playing, but also released on Steam, In Mark and for desktop.
+2:01
+So, okay, so what we'll get into, so release date.
+So yeah.
+The standard operating procedure fans of the show for hundreds of years that have been listening to this already know how this is gonna play out but release date.
+So this is a game that released on Steam March 23rd at 2022 but came out a lot earlier on iOS Android mobile devices, August 15th 2014.
+2:27
+So it does predate the steam release by quite a bit.
+Where can you find this?
+Well, this is a very interesting case.
+So you can find this on steam or $10 and we'll get into pricing here.
+A minute Android free-to-play iOS.
+2:44
+Is five dollars.
+You can find it on Gog for $10 and itch.io.
+It's free asterisk with a $10 suggested donation.
+This is a very interesting Lee developed game.
+3:00
+Add is an open-source Fork of the original Pixel Dungeon game by Canadian based developer, Evan Debenhams demonym.
+Evan Evan.
+I've never done.
+I like that.
+3:16
+He goes by oo Evan on on the his Discord guy brings a smile to my face and this shatter Pixel Dungeon again like another kind of like weird data.
+Separate Silo thing here.
+Pranks in on Steam at the 970 second most popular roguelike with 855 total reviews, and then maybe unsurprisingly cranks in on Android.
+3:45
+Hard to tell where it falls because mobile game databases.
+As I found out over the past couple weeks, basically don't exist.
+Like there's no way for us really to tell where in the pantheon of mobile games mobile games in general, but also mobile roguelike games where this Falls steam data?
+4:04
+I think we've kind of figured out of this point but Android it, it has a rating of 4.7 out of five with 120,000 total reviews.
+Whoa, versus it's 855 on Steam, maybe unsurprising because of the free to play versus commercial aspect, but we'll get a minute iOS.
+4:21
+Also paid medium 4.9 out of 5 with 1200 total reviews.
+So I think the free-to-play aspect is is kind of cycling into there, but unfortunately calling your phone is at 1% battery and you're going to have to send a one-sentence text about what one does in chattered Pixel Dungeon before it's too late kill me.
+4:47
+It's pretty much your standard roguelike game, but it's on a phone.
+Yeah, excellent wet.
+Fantastic job.
+I'm clapping if you can hear that.
+Yeah, I mean, it is, it is probably the most traditional roguelike game.
+5:02
+We've played in some time.
+Yeah, that's Alert in a dungeon.
+You you crawl it, you crawl through the dungeon you go, doubt.
+You, you cross the randomly procedurally generated levels to find the exit and you get keys and items and you go down and, you know, I didn't first, I was like oh it's It's kind of bland, but 80, I will, it's growing on me.
+5:32
+It's got like At first I was just like annoyed because like playing things on a phone is less optimized.
+I've basically just like laying in bed, like this would be easier to play on my computer.
+Hmm.
+Like like to click over there click with their my phones too.
+5:50
+Big for my small, baby hands.
+And then I was like, well okay, there's a couple of like quality you like if you're right next to the thing, you can click the little button in the corner and let you hit them.
+So you don't have to actually like grub on your your phone all the time.
+And I don't know there that it started, there's a lot in it, which I feel like normally is something that I might be more.
+6:15
+Okay with.
+But I feel like I have less tolerance for that on a mobile app because I'm like, I want to go look at the wiki for this or something.
+But I'd have to I'd have to like close out an app and then it look it up on my phone which is small screens.
+6:31
+Like if I'm playing this on my computer, I just look it up on my second screen or something, but it's like so much more of a Hassle to like figure things out on the phone.
+Yeah probably goes without saying that the three of us aren't primarily mobile game.
+6:47
+First players?
+Is that sound right?
+Yeah.
+Yeah very much.
+Well I guess like maybe I guess like will and I have spent a lot of time on the leech ASAP if you want to like count that as like the extent of our Mobile gaming addiction to some degree.
+7:07
+But But like, just like, looking through my phone, here, like, mobile, roguelikes of note that I have on here, that some of them, like, are good.
+Some of them are more, you know, we'll get into a little bit, but like, the, the game that kicked off vampires survivors.
+7:25
+Magic, survival is a free-to-play mobile game.
+Shocker pollen.
+You were just talking about this before we started recording cataclysm.
+Dark days ahead.
+You can play on your phone.
+I don't know why you would that sounds terrible.
+It does sound to it is terrible but stay tuned for that.
+7:44
+You got hoplite which is why we regarded you got slice and dice Rel.
+We're well regarded.
+And then you have like other games that are like Pixel Dungeon. but more in like, Like the less Charmy more like a hobby grade, traditional roguelikes.
+8:05
+So you got your pathos.
+Nethack roguelike, you got Dungeon Crawl.
+Stone Soup as its own ad.
+You got what else I got here?
+I got Knoll hack and all.
+These are like relatively similar enough to each other.
+8:21
+I'm going to make every one of those fans of the, each of those communities, angry by saying.
+So, but I feel like we're shattered.
+Pixel Dungeon comes in, It is, it feels like the best kind of gateway drug into that ecosystem.
+Long silence, I would know.
+8:40
+Okay, I didn't play any of those games at all.
+Like we talked about Lee chest like that is the only mobile game.
+I think that I have really invested any time into it.
+And if I have the choice between that by solving puzzles on Lee chess, or like playing correspondence games or any other game, I am pretty much going to go with that every single time.
+9:01
+And the reason is because the interface of the phone is just, so limited.
+The mouse has Three things it does.
+It has let's click left.
+Click, it has Mouse over and in some cases you have them out middle Mouse Button as well.
+And these are important things on the phone.
+9:19
+You have tap.
+So the mouse over option where you're able to like, hey, there's something new enemy.
+It just appear on screen.
+I want to know what the heck it does.
+So like what?
+I've never seen it before.
+How do I get information about it?
+There is no way on these.
+These games, with the way they're designed, I should say to get information.
+9:37
+And that's why I don't know if this is Is a I don't know if other mobile games do this because again I don't play them but like why is there not like just a big bun bottom left, which is the alt sort of thing or like a kind of like instead of tapping you hold down this thing and suddenly whatever you tap your getting the second function for and like that would make it so that oh Suddenly It's not like well I'm going to I guess I'm going to shoot it because I don't know what else to do with it.
+10:02
+Like that's that's did you ever use the the magnifying glass button?
+In chatter Pixel Dungeon there's a there's a magnifying glass button apparently.
+It's one of like the three buttons on the screen.
+Well but did you do you hold it down and then you can hover over things like it's so so yeah.
+10:21
+This game so shattered Pixel Dungeon I guess we'll kick off.
+Normally I try to figure out like oh what's like what's the story hook that drives Us in here?
+But as Colin mentioned in in our Preamble this game just kick you right in the Ask right into the dungeon there is there is no Preamble.
+10:40
+There's no like this is your goal.
+This is your characters backstories.
+Very much Holly.
+Hey get in and start shooting stuff.
+I mean I knew about the I knew about sorry, I opened up.
+This was the joy of mobile games.
+You could just open it up while Scott's talking about the game and find out about marsupial rats are aggressive.
+11:01
+But rather weak.
+Denizens of the sewers they have nasty bite but only life-threatening large numbers.
+Are you apparently?
+That's not a zoom button.
+I thought that was Zoom.
+I didn't ever engage with that button because the magnifying glass to me said, you want to zoom in, but I thought it was only for searching walls for Yeah, passages, wow.
+11:21
+Also, with other thing, that's how bad we're bad at these kind of things.
+I guess.
+We're just old Boomers here trying to play these stupid little mobile games.
+Oh, you're we need these days with your tick-tocks, in your info G.
+I even, so I got I've gotten burned more than once on this podcast complaining about something where you're like, but Colin there's literally a button on the main menu.
+11:44
+Lets you change the text for this game.
+I like, oh okay.
+So I like clicked around on most of the stuff, I even clicked on the little thing.
+But then I guess I didn't click Enough times.
+Yeah, I think like my first, my first experience with this game when I downloaded it, I don't know, months and months ago before, you know, the, the podcast was even in a twinkle in our eyes just to like play around with because it does come very highly recommended from kind of all corners of the internet of like, hey, here's this thing.
+12:17
+It's like, it's free asterisk on Android.
+You should go check it out.
+If you're, you know, even remotely curious about what a A traditional roguelike Dungeon Crawler kind of game is because it's the, it's maybe the least defensive and most user-friendly question mark of them.
+12:38
+But even then, like, I was having trouble where like, I was running around in the in this dungeon and I thought I came to like just a total dead end.
+Like you come down a flight of stairs and like the to the next level whatever.
+And I'm like well there's no there's no doors.
+Like I don't know what am I doing wrong here?
+And I had to go to the Discord.
+12:56
+Screenshot ask a question like, oh yeah.
+You just tap and hold down on the magnifying glass and it searches the area around your character and like, Okay, click that.
+Oh there's a door there.
+Okay.
+I wish I would have known that ahead of time.
+13:13
+I think what this would hold.
+So that was like, that's the thing that they never tell you about what they expect you to know.
+Well, yeah, I feel like there's an aspect of this game that relies on maybe two.
+Things one is like, the established entity that is the Pixel Dungeon series overall because this is, this is maybe the most popular Fork of the original.
+13:37
+So the original like Pixel Dungeon looks very similar to this, but it's slightly different.
+In many ways was released.
+December 4th 2012 way back.
+When isn't that was, was that a mobile game?
+Or I believe it was mobile at the time.
+13:54
+People will fact check me But two years later July 26th, it goes open source and largely driven by the community.
+By the Pixel.
+Dungeon subreddit for want to go down that road and then very like the next month after Pixel Dungeon won't open source.
+14:13
+The shattered Pixel Dungeon Fork got created of it and I think there's something of like 1100 plus Forks of the original Pixel Dungeon game on GitHub, but there's only like, Like 50 or so that are like maybe of node of like there's substantial changes and what not shattered Pixel Dungeon Definitely Maybe the most popular one has its own like pretty well fleshed out Wiki but that's the thing is like it kind of requires you know a Wiki on one side it kind of requires the sort of institutional knowledge of like, oh yeah I've played the Pixel Dungeon games for ten years.
+14:46
+I know what's going on.
+Let's jump into this kind of new version of it where you know if you're sort of downloading it just on your phone.
+You like this is your Experience with it.
+I think even like the first few levels of the first dungeon can be a little overwhelming even though it is like very, you know, cute cartoon, Super Nintendo, Wii looking Graphics.
+15:09
+There's a lot going on in this.
+There's a lot of stuff and that a lot of stuff that could possibly be overlooked, maybe to the game's detriment where I think like, if there was a tutorial, did I didn't miss a tutorial that I know Okay, or if you did, we all missed it.
+15:27
+It wasn't office.
+Yeah, I feel like if there was a tutorial for like, hey You've probably played a roguelike game before, but there's like some stuff about this interface like, like, magnifying glass, like, you know, how do you figure out, you know, what to look up about potions?
+15:46
+How do you figure out what to do about?
+Alchemy just like, run me through like three simple rooms first of a tutorial like, okay, this is how kind of all the systems work and then like don't show me that ever again.
+I think that would maybe go a long way to kind of demystifying.
+16:03
+Stuff for the new, the new kind of player experience for us old Boomers, who have never played games on her phone before well.
+So one of the other things that I so it does have a couple of random hints that it throws in there.
+Actually, you and I think that may almost be worse because it made me assume that if there was anything that I was missing the game would have told me somewhere like there's something about the surprised entities that it keeps like.
+16:28
+Ah God snakes can't can't can't hit a snake.
+Got a surprise from a door.
+It's like Like, it tells you that like every level.
+Yeah, I get it.
+I get it.
+I know how to fight.
+So we say you get it but like it never tells you if you actually surprise them.
+Yeah, it does.
+You get a little exploration point and you do like, five times damage, but the enemies get an exclamation mark.
+16:48
+Yeah.
+When you hit them there's a little exclamation point over their head and you kill the say, I will ya, I don't see these things, these little tiny little pixels.
+Okay, well well no no no, you got a stronger glasses then.
+Well you were playing on an iPad also, right?
+17:05
+Is that correct?
+Yeah.
+What was that any different did you play by play on both my phone name and know it just made it so that like you're having them physically.
+Move your arm much further in order to connect with things still like is it really doesn't like make it a better experience at all.
+17:21
+Yeah.
+But so, I mean it give you that tooltip which that was a useful tool set.
+For me, maybe not for everyone for our party but for me it was and then it gave it to me again.
+And I was like, okay, it seems like this game is pretty insistent on.
+17:36
+Like, there are a couple things that it's like, oh, this might be hard for you to figure out.
+I better tell you and it kind of made me assume that it would tell you. all of the other things you can miss, but there's definitely stuff that like, despite the fact that we're a roguelike podcast because we hadn't played that many traditional roguelikes, and there are definitely certain aspects of them that our non-intuitive, the whole, the whole potion.
+18:10
+Identifying stuff is something I absolutely would not have understand what was going on and you just have to kind of try potions until you figure out what they do.
+Is this that's a mechanic that we really haven't seen.
+Well, if we kind of saw it a little bit in COG mind like if you want my name, Isaac card, well Binding of Isaac with like with pills.
+18:31
+Yeah, that's the same exact same mechanic though, right.
+But also like Dread Or Dungeons of Dredmor, has literally the exact same mechanic.
+I'm pretty sure.
+Yeah.
+Like having to identify well-liked, and, like potion.
+And scroll identification, specifically is like things that you see in, like that's like one of the major pillar like Trope, pillars of traditional roguelike, Dungeon Crawlers.
+18:55
+So when I went back, and I played a little bit of Dredmor, played a little bit of previous episode Hack Slash loot also just just to see like, okay, like these were the ones, That like thematically that the same kind of General aesthetic that we're going for here.
+19:11
+How do they compare?
+And I think, despite like some of the, the UI initial unintuitive Miss of shattered.
+Pixel Dungeon.
+I think, like, it feels a lot more streamlined.
+19:27
+Once you once you get it, is that right?
+Yes, I definitely.
+I played it for like 15 minutes, the first time I started it and I was like, oh, I don't like that game.
+I don't like playing game.
+19:44
+I don't, I didn't feel like it adapted to mobile very well.
+Then the next time I played it, I play it for like an hour and a half in a row.
+And it's like, okay, It still isn't the smoothest.
+I still feel like you could play a game like this more efficiently, on a computer or something with a mouse, something where you have like, more keys and whatnot, like, I still was like annoyed at the number of times, I needed to move my finger, so I could send what I was trying to go at like, but it definitely was starting to grow on me as like a, okay, I can see why.
+20:29
+People could get really into this.
+If I had a commute where I could play a game on my phone, I might be Way way I might have a very different ranking of a game like this.
+20:48
+Hmm.
+I mean I I did.
+So I did do that test for going into the office a couple times and playing it on the bus and like some games that we play for this podcast.
+I'll whip out the steam deck on the bus and look like a maniac and like I'm sitting there I'm trying to like you know play darkest dungeon to and like the steam deck is like bouncing all over the place and all the icons are super tiny and it's like impossible to see anything what's going on.
+21:11
+And there's like demons and And blood guts and Gore us.
+And the old man.
+Very nice old lady sitting.
+Next, to me on the bus is just like shaking her head at me.
+This, I feel like, actually, like is very, like, clear on the phone, like, I can see everything for the most part that's going on.
+21:30
+Like, okay, you know, the grass is here, I know, like roughly what my character is doing.
+Yeah, I think like, for that use case for like 15, 20 minutes on the bus.
+Or you're just like in the bathroom like you want to make like yeah I was thinking about it.
+21:50
+I was like you know especially with Reddit being like I don't know I feel like we should be using read it right now as a protest it's like I play this game, I'm pooping could but I think it feels like it may be just a little bit.
+22:05
+You get a little too invested and like whoops accent.
+We just sat on the toilet for 20 minutes and yeah, who's sitting on a toilet for 20 minutes?
+I'm there I'm I'm there for business and I know how did this is a that kind of podcast.
+But really I actually work and I need and I don't you know that's a sanctuary you go to like take a break so that I see.
+22:27
+I see I didn't realize that.
+Okay.
+I mean not really but you know readout on your phone for a bit.
+I wouldn't I feel weird playing like a true video game which this actually does feel.
+It's like it feels like almost a little more than a mobile game.
+22:43
+It is a full video game.
+Yeah, it's compressed into a phone game, it's surprising.
+Yeah like Some aspects of this game might not be for everyone and that's okay.
+But like to understand like, okay, what, what should I be doing to like progress further in like, through the first five levels?
+23:05
+So this game has five biomes of the total dungeon that you're exploring.
+If if you've played like a traditional roguelike in the past and you've just been like, man, these levels are way too big their way to No, there's too much going on, I feel like that.
+23:25
+Like this game stream, like it cuts the level sighs, at least in half and feels like much faster.
+You know that when we were playing Dredmor will you were talking about like exploring different parts of the floor, going downstairs, exploring and coming back upstairs on another part of the floor.
+This, I feel like you don't have to worry about any of that.
+23:42
+You just spend, I don't know, maybe like five minutes tops per floor.
+But there's, there's five floors, / biome You start in the sewers, you're punching rats, your punch and crabs.
+You pick one of your your for kind of standard fantasy classes.
+24:02
+You can unlock one later.
+But you either pick the warrior, the Rogue Mage or a hunter's class, I've been mostly kind of abusing the other range of the Mage in the huntress.
+But I think like range is obviously the way you play these games, right?
+You would think so.
+But I've been playing like I played the warrior, the first one because that's what you have to do, and I didn't really Get it, I kept getting pummeled, but like, I did some of the range class.
+24:26
+I came back to the Rogue and I was like, okay, like this.
+So, this is how you do melee stuff.
+But anyway, yeah, like there's there's five floors sewers prison cave, the Dwarven metropolis, and then finally, the demon halls.
+And the overall goal here is to go down through the dungeon, floors to again.
+24:45
+Another kind of Trope that we see from traditional Road legs, get the Amulet of Yen door, hmm, which is Rodney.
+Mm-hmm, which we see make an appearance in the OG, the grandpappy 1980 version of Rogue.
+We see it show up.
+25:01
+In nethack we show see, it's open brogue, all the, everyone loves you.
+And or yeah, everyone loves you and or, and you know, that your typical choice at the end of all those games, like, okay, you've gotten the amulet you want it, you want to stop, you want to actually quit or do you want to take that amulet?
+25:19
+Indiana Jones, treasured style up to the surface?
+Now don't think Dredmor or Hack Slash loot had this?
+Now that's four.
+That's classic row of all the way, right?
+Yeah.
+That is, that is classic Rogue and the idea is that?
+Well, at least in brogue, you get the you get the sacred amulet and then like a super monster is chasing you.
+25:37
+And you know, shit has just gotten real.
+The Indiana Jones Boulder is chasing you through all the stuff that you just went through and to some extent.
+That's kind of what you get here.
+You pick up the amulet I got.
+Like, you could, you can end your run now and take your points and leave or do you want double points and run all the way back through the dungeon to the surface and fight harder monsters.
+26:02
+That's kind of, that's kind of the overarching theme here.
+But in order to like, to get to that, like I was like, all right, let's watch some YouTube videos.
+See what the pros, the MLG pros of shattered, Pixel Dungeon you're doing and holy shit, are we playing this game wrong?
+26:17
+You guys, I'm pretty sure that neither of us were using like, Throwing potions at doors, to open up lines of sight, for Runway are shooting, like, off the screen with your bow, like, at like level one, I'm just like, oh my God, these people are playing this at, like, like a 10,000 foot skill ceiling that I had never even remotely thought to do and all of it made sense, like all of it was like, well, yeah, of course you would do that, why had I never thought why would you drink it?
+26:49
+I mean, why would you drink it?
+I'm known potion without throwing it at first.
+Against the wall.
+I mean, it could have just been, like, you could be flames, and you wouldn't know which I drank flame, water, whatever, though.
+I was that just happened to me.
+Yeah, yeah.
+When I was dying II, you know, the end of one of my runs I was surrounded by a swarm of flies.
+27:07
+Yeah, the Flies I got, he was, which you have to be just have to go into a corridor and so they can only fight you one at a time.
+That's how you to be flies.
+Anyway, I was surrounded by them as like, well, time to quaff all my potions because maybe one of them will kill all the Flies or make me into a superhero.
+27:23
+I don't know.
+I don't know what they do.
+I don't even know what's possible for them to do like, I'm assuming that there's only a set number of potions and it's just trigger.
+Out like what color corresponds to what effect but they randomizes.
+I mean it is what it is.
+Radiation time every run.
+27:40
+Yeah, but every, every run it randomizes but there's only I think what like ten kinds of potions. 12 seems something like that.
+I think we can see.
+There's like you can convert them all into the the weird stones and you can go back and forth in the weird Alchemy stuff, which I didn't really even I touched I made.
+28:02
+Made one stronger potion, but I don't really do much beyond that or there are was well of potions.
+You got experiment potion of experience, Frost Hast healing and visibility levitation, liquid flame, our favorite mine division paralytic, gas Purity, strength and toxic gas.
+28:22
+Yeah, I mean, so most of that, like I basically just was like, whatever I until I until I know what I'm doing this game, I'm just gonna drink all the potions to see what happens and like, They're mostly good for you, only a couple of them hurt you and they don't kill you instantly.
+28:38
+So yeah.
+And then once you once you have accidentally drank your flaming Moe and you find out that okay, this is something that's bad.
+It's identified for the rest of your run at least.
+Yeah.
+So yeah.
+But there's like, there's also Scrolls to that you can use to say, like, Scrolls of identify our favorite rope from fantasy.
+29:01
+As we're like, oh hey identify this magic item for me, please.
+Oh it's Curtis, maybe I shouldn't put that ring on and get get screwed over.
+But yeah, there's lots of times where, yeah, experimenting with all that kind of random stuff.
+It's the risk-reward element that we see in these Dungeon Crawler games from time to time.
+29:24
+But this is also I think the the first time that we actually encounter like the traditional element of the The hunger clock but this time actually being like a like a hunger Hunger clock.
+Because in previous games like we've seen elements of things to like, hey don't don't dilly-dally, don't backtrack style, hunger clogs up like FTL with like the rebel Fleet trying to cross over.
+29:49
+There was a true hunger clock in that one.
+Real bad game.
+Yeah.
+I know.
+I'm sorry.
+Yeah.
+That's because I know because I played the psychic dolphin and which used more food and I starved to death.
+Yep.
+Like twice in a row and I was like I'm tired of being hungry.
+30:07
+Curry.
+He's games stupid, but it feel like I mean, maybe I didn't play enough, but I didn't feel like it was a truly punishing thing.
+It felt like, it was basically there.
+30:25
+So you couldn't do the Skyrim style.
+All right, I'm going to eat 1,000 wheels of cheese now and restore all of my health.
+Like you kind of had to space them out a little bit, but you could eat 10 wheels of cheese if you really needed it in one, go.
+30:43
+Is do we think that this game is better served by having a hunger clock, to kind of force you to progress further, or would it be better just to have one directional stairs in that?
+You can't backtrack Did you hear you guys ever backtrack.
+30:59
+If you got a key and you saw there was a room with important things in it and you couldn't get in there that would be a reason to backtrack.
+Okay.
+I think you can also like like stare dance enemies.
+A little bit by like you come down a flight of stairs.
+Oh like enemies are chasing.
+You you go back up the flight of stairs I don't remember.
+31:16
+I think they chase you up the stairs but it's like a turned away and you know you can like at least buy you some time to like get into a hallway to fight them but It's also important to note that enemies respawn on these floors.
+Yes, they do.
+Yeah, so that's also that that works is a timer as well.
+31:34
+It's pretty sweet, they respond even if you don't change floors.
+Yeah.
+So, I don't know, I don't know how I feel about it.
+I think it's I have to play the game with the different settings in order to understand like what is it preferable but now it kind of seemed Fine.
+31:54
+I don't hate it.
+I don't love it.
+Yeah, so we I think we had talked also before recording about fighting bosses but at the at the end of each, one of these five floors, you fight a boss of each.
+32:10
+One of the biomes and first boss that we encounter in the sewers is the big go blob.
+Which I feel like even if the bosses are the same for each floor I feel like there's still an interesting amount of Variety and difference of each run, even with the same character that that boss fight still feels different each time.
+32:36
+Because we all got in the same.
+We all passed the first boss fight, right?
+I'm done. 10 house, IV them, and then died immediately afterwards, the next level, but Yeah, the the new boss.
+I feel like have the first couple times.
+32:54
+I died do it.
+I was like.
+And and then the first Victory I got like felt pretty satisfying like okay like was able to use like a freeze potion on them to lock them into place through a bunch of fire potions at them to light them on fire and then like I think it was a Huntress and I think I was one of the aspects of the hunters is that you don't trample down grass when you walk through it.
+33:17
+And grasped a nice line of sight.
+Yeah.
+So you you run away and then you hide the grass brake line of sight.
+Then surprise attack do pew pew.
+Just keep shooting the arrows at them and like beating him was like okay that felt like I had overcome like a good, a good hump.
+33:37
+It felt like I had finally like, figured out how to beat the boss, like the next time with I think the Mage I think I'd be in the next time with And then yeah, I immediately going into the prison, the next level, and getting my skull crushed in by the first enemy that I see.
+33:54
+Ya, literally the first enemy I've got a mimic chest and killed me.
+Well that's why that's why of.
+You know if you had watched all the YouTube videos you would know that running across the chest is one way to determine its if it's a mimic throwing potions or throwing your water, flask at it.
+34:13
+Well I think also determine if it's a mimic.
+Yeah, that makes sense.
+The game was to just teach you all these things by having you die at least once to every little gimmick.
+I think that's how every traditional real quick, right?
+Exactly where it's like, it's a again.
+That's why I like every time I have the opportunity, Yeah, yeah, you're all drink this.
+34:30
+So do I want to jump off this Chasm?
+Y'all let's try jumping off the is there fall damage.
+Essentially, as the question is like, you'd play in, are like what you to explore in most games, but this isn't fun for me.
+I don't know.
+It the well, so, hey, these things are just, yeah.
+34:49
+I mean, yeah.
+I mean, this is, this is a game that is definitely of its, of its type.
+But will you get really sucked into drums Genesis and read more for some reason?
+Gnu end because I have a goal that I really wanted to beat it and I could see the synergies of like my decisions.
+35:07
+Like one important question for most of these kind of games is like what important decisions do you make?
+And it sounds like like with these ultimate Pros, like, oh well really it's you learn what the mechanics of the game are.
+35:23
+Like, that's kind of a core like theirs.
+And that feels like, that's like almost 100% of this games like once you understand that?
+Oh yeah.
+Every chest could be a mimic.
+You always do this certain thing to like by it's like yeah.
+You just do this tactic every single time and so that's just like a that's not an interesting decision, that's just something you learn.
+35:41
+And so in my view like in this game, Game and this type of game, really?
+For this is mobile Rogue.
+My kind of scenario, like you have to move it around and like your goal is to go down and is like, accumulate resources and upgrade things.
+But like that's just based on the things you come across like you don't make decisions that are important other than to exploit as much as possible based on what you've learned from previous runs.
+36:04
+And that's why I always prefer Ali chess tactics game where it's just like, okay, I have to sit and I have to make important decisions.
+Every single thing I do is not based on This wealth of things I've learned it's really just about like the specific scenario that I'm in and that's a much more interesting and satisfying puzzle.
+36:21
+From my point of view, the other mobile Rogue lakes that I think I think I'd touched on all these but just like more explicit call-outs like well I think like you've played a lot of vampires survivors.
+I feel like you would probably like from the mobile format.
+36:40
+You'd probably like this.
+Also these are also Like for sure stay Tunes but like magic survival like has that kind of element of like tactical decision making like, okay, well I'm presented with these options.
+What, what am I going to do with them?
+36:57
+And I can kind of see that here in shattered Pixel Dungeon to some degree based on, like, okay of the things that I have identified so far.
+How do I use these to my advantage in this situation?
+And there's a lot of like There's there's again kind of coming back to Lake understanding the overall Universe of people that have played this game for ten plus years.
+37:25
+Like in this room, there's like a trap on the other side and like a fish guarding a chest and I picked up like a potion, like we don't know, but everyone else knows like, oh, of course you would like use your stone of intuition on that potion because You know, it's going to be like one of the three choices based on the puzzle room for this floor.
+37:46
+It's like yes that is that is an interesting thing to learn.
+I had no idea that existed in this game.
+I'm glad that that kind of level depth of a mechanic exists but there was like no way for me to understand that that was even an option at the time.
+38:06
+But once I figured that out I'm like okay that presents an interesting choice that well, do I want to use this Flame?
+To like kill the enemies that are guarding this chest now, or do I save it for the boss?
+We haven't even talked about the shop, yet, the shop.
+You only get access to at the beginning, or well, I guess like after beating each boss at the beginning of the next biome, you have your shop and you're finally, like, okay, the so this is where I spend all my gold at and yeah, like, based on the stuff that you've identified so far.
+38:39
+Like, you can magnify hit that magnifying glass.
+Just hit the thing on the shop while you're like, okay, that's what that thing does.
+Do I want to spend 300 gold on another strength potion on one strength away from being able to wield this other weapon that, I guess.
+Like, that's maybe the most extent of tactical decision making that I see so far.
+39:00
+But again like we've only spent who wish hours playing it so far, not ten plus years.
+I guess if you're going to try and train a an agent through reinforcement learning to, like optimize this game, it would be much more simple than than other games, which have, I think, like, this exactly what I'm getting at importance of decisions, where you have to not just see the Tactical one, move to move sort of ahead, sort of thing.
+39:30
+You have to be able to see all the way through the end.
+I could be mistaken again.
+Like, I mean, I don't know, truly the extent of this game.
+The depth of this game I should say just because two hours is Diablo for I blame Diablo for really for this is this podcast in Diablo 439.
+39:47
+This Wells crippling addiction to Diablo for ya.
+If I had an option, if I have free time to play Diablo for this game it's really hard.
+It was really hard for me to be like okay well got to do my homework here essentially that's what it felt like.
+I feel like this definitely inherits the legacy of Rogue like the traditional roguelike games, which are traditionally not very hand-holding, and I think that I I don't like that.
+40:21
+I am.
+I think that you don't like the hit the non hand Holiness?
+I don't.
+I think that I understand where it came from, in the, in your beginning.
+But I think that having your hand held a little bit in this day and age, where there are so many options for other games is good because I need I need you to convince me to play your game and because a lot of the games that it's like, oh, is this a bad game?
+40:56
+Or is it just like trying to be brutally difficult, right from the get-go?
+And they can look very similar and be like, oh well, you just got to put five more hours into this and then it gets good is like I did and now, it's still bad.
+It's hard to tell that, like, I need you to, I need you to, like, give me a smooth on ramp.
+41:14
+So, I'm having fun early to get into.
+I mean, I had the same kind of problem with darkest dungeons, where it's just like, we're just gonna smash you and overwhelm me with stuff.
+It's like, I don't, I don't know, if I like the core Loop enough to persevere to find out and I don't think that this game actually is that bad in there any like it, it could use a little bit more in the way of like, helping you along in identifying things but like, I don't know, it didn't seem like it was that overwhelmingly complex from from the get-go, you just had to like, figure out your best way to like drink potions or resist, the urge to drink them all every time.
+42:04
+Yeah.
+Yeah, I like it.
+I think are our options for rogue like mobile games being like?
+Well yeah, so I guess.
+I feel like shattered Pixel Dungeon is is like the best like kid-friendly traditional Rogue leg in that like no.
+42:32
+No kid Under 12 is going to immediately.
+Jump into Dungeon Crawl.
+Stone soup or null hack.
+They're gonna like they would get the best value out of this and I think this this game does like the best job of like smoothing over all of those like aged poorly.
+42:49
+Rough edges that.
+Yeah, that like those traditional roguelikes like actively Pride themselves in, right?
+Right.
+It doesn't have a perfectly smooth on rap but at least it like the wall, you have to climb over.
+Is that like child chest-high rather than like you need to have known where the hidden button is.
+43:08
+So that you could, you know, all you have to do to poke a hole wall with a ten-foot pole.
+So you find the buttons If you can climb up the thing which is how traditional roguelike sometimes feel like, oh, just know, Everything already and then you'll be able to play this game.
+Well, yeah you hold down Ctrl alt and T, and L to put the potion in your left hand, you can wash off, any type in throw baby into Lake.
+43:31
+Obviously, that was one of the primary options that you should have known about how to do and that's for, and that's it.
+Of course, you're getting that, that's a hotkey be for baby, right?
+Yeah.
+I feel like the two things that would really help this game out a lot aurea too.
+43:49
+Toriel just to like like, hey like there's a lot of there's a lot of really good things in this game that are very more user-friendly than your standard traditional roguelike and one thing that I think would help out a lot with that is a very basic tutorial mode.
+44:06
+That's like here's here's how all of the buttons on the interface work.
+This is why you should use these things versus those things.
+Don't make it too long, just like two or three minutes and then let people lose and I think that would help out a lot.
+The other I think is made and like, is this necessary.
+44:23
+Quite question mark.
+But like like what what's my drive here?
+Right.
+What am I doing here?
+I was about to say that like the narrative, like the fact that there's none Well, there's like one block of the end or animal it.
+Yeah, I mean, like I didn't even know that that was supposedly.
+44:40
+He'll like I saw someone's YouTube video and like oh oh so that's what that at the end of the final boss.
+Okay.
+Like I think even even Dredmor has like a text Splash image at the at the beginning of way your goal, you got to go and like kill, Lord, read more.
+44:57
+Okay, got it back, Dungeons of Dredmor so they do make it at least it's in the title.
+So it's pretty killed read more.
+I mean, so, you know, shattered Pixel Dungeon gets its name from the, the blog shattered pixel that our developer had been running at the time.
+45:17
+So shattered, pixel pixel dungeon merges quite nicely there.
+Maybe it's more of an artifact of it just of like well not not just it being a forward but of its shared Legacy from the original Pixel Dungeon series and like whether or not, if it's kind of like Anchored down by that to some degree hard to say, at least from our limited perspective.
+45:39
+But yeah, like, hey, your goal is to go and get the Amulet of the end or it's going to save the world go and get it.
+And then, you know, once you've beaten the final boss, like, okay, you've gotten the amulet, like, why?
+45:55
+Like there should be some interesting choice.
+There of, like, do you want to save the world or do you want to keep the power to yourself and take the amulet up?
+Up to the surface.
+I was also trying to watch like some videos like, well is that even like like is that an option worth choosing like what's, what's the advantage of, like, taking the amulet for the Ascension run at the end a badge?
+46:18
+I'm sure.
+Yeah, I mean, there's, there's like an in-game achievement for it.
+You get a hierarchy character's motivation, are they just planning on living down in the dungeons forever baby?
+Don't they want to go back to City to see the light, maybe maybe.
+We're also reading too deep into a game that, you know, a free-to-play open source for I again like a.
+46:39
+So this is another interesting thing to kind of delve into is like this being a very community-driven like open source project largely driven by one guy.
+But yeah, a lot of help from the community and that the very timely Titanic ship wreck disaster.
+47:00
+That is read it going on.
+At the moment this game owes it's basically its entire existence to the Pixel Dungeon subreddit which I believe as of what I was I was reading earlier this morning that like they're like in limited private status at the moment and it's causing like a lot of headache or people who are Google searching.
+47:20
+Like how do I do this thing in Pixel Dungeon and like getting like, you know the Google search result for it but blocked out because they come to the subreddit it's you know, it's not working properly.
+I think it's oh yeah.
+47:36
+So I looked up Pixel Dungeon trying to figure out like there was a specific you know, you know what's its Heritage, where did it come from?
+And like the first page, the about there is a paragraph in there.
+Many people consider this game, very difficult and luck-based.
+47:52
+Maybe they are right or maybe they should, and then it's l2p.
+I, and if that's a link to learn to play on Urban Dictionary, just like, I don't like that.
+Like Like that just like the get good.
+I am fine with that being.
+48:09
+Like how you get better at games, but I don't like that being like a badge of honor.
+We look at just get good scrub like yeah, yeah, I mean, okay I will get good but you have to Intrigue me into your game to convince me that getting good is worth it.
+48:29
+Yeah, it's the, the attention economy at work.
+Yeah.
+There are a lot of really good games out there that I could be playing.
+Instead of like, if it were 1990 this was like the only game in town and like every one of my friends had played it in like so it is worth playing.
+48:46
+It's like cool.
+That's different.
+Attention ecosystem.
+But like I could be playing Diablo for, I could be playing Hades.
+I could be playing any of the various other games that I don't play, but could play it could put thousands of hours into I've been playing for tonight.
+49:05
+I mean I couldn't be playing for tonight.
+I really just getting this stopped by 12 year olds but I could be get good sleep with you.
+Yeah exactly.
+Like if I'm going to like grind a game I could be grinding at many other games that are That are trying to get me to play them and I can I pitch an idea?
+49:27
+No, I'm going to, I am going to pitch an idea.
+No.
+Sorry about, like, it's just to infuse like the narrative into this.
+So it's called shattered Pixel Dungeon, right?
+Like our pixels of our shadow shattered.
+I mean, like, that's something that's kind of lacking here.
+Like can you imagine a narrative which is driven by this idea of and very, very simplistic just like a few It's essentially with very minimal text which essentially just conveys.
+49:52
+This idea that like yep, the whole purpose of this game is to explore.
+The fundamental essence of their world where the world's comprise the pixels, or what they thought, was the atomic, the atomic nature of the universe from their everyone, in this 2D and of flats universe is a pixel and to shatter the pixel is to unlock the power or just split it into like higher resolution.
+50:13
+And so as you're going along, everything's low resolution, you know like blocks of pixels essentially.
+And then Through powers that you as the superhero have developed, you're able to shatter these pixels into more high-resolution images.
+And those are like the harder things or like that's how you're making progress, or like there's magic tied into it or like there's just like son Leo now, instead of it just being a generic Dungeon Crawler.
+50:36
+Now you've got a narrative as tied into the dungeon crawling where it ties into the title and you've got a lot of sense being made and like it's I know that's my fundamental gripe here is that there's just like I said there's lack of Decisions at least seemingly from my point of view and just a lack of creativity.
+50:52
+I mean you're fighting mice and snakes and like ghosts and like and flies, okay?
+Oh yeah, let's see this problem.
+I'll push back a little bit on the creativity but I think like LA because I don't know how much of that.
+Like is just held over from the original Pixel.
+51:07
+Dungeon what we might also be trying to like like why doesn't Pac-Man have a really detailed story about your motivation as a character backman has limitations Is it had the technological limitations where as developers of this game tonight have well?
+51:23
+Okay, so I'm thinking like, okay, I'm thinking you got like, Mario, the original Mario Bros doesn't have like a real story.
+It's kind of got a story but it's really simple.
+Well, like the story.
+51:39
+There was Dennis Hopper was going and stealing And then they made it really terrible movie out of it.
+That was the shabby, but then you get like me, you can get end up with games like Shovel Knight, where?
+Yeah, it's the same.
+51:55
+It's a side-scroller.
+Etc.
+And you, you can, you can get a lot more story in there.
+Now, it is if you want to.
+Yeah, I write.
+And I am up two minds about this as I've said in past episodes, I hate narratives.
+52:10
+I don't give a shit about them and blah, blah blah.
+Here I am say we need more narrative, right?
+I I guess what I'm trying to say is I need just enough of something interesting and new and I just didn't feel it here.
+That's all.
+I also wonder if the fact that we didn't get very far into the game.
+52:28
+Does start like there's some weird I'm looking through the wiki now and like, granted.
+It's still pretty standard fare but you get like crazy scorpion things.
+Yeah, I think there's an element of the missing like Like, meta progression, treadmills, little bit that like, if that could help sort of accelerate you to like, see more, what there is over because there's, you know, deeper in the game, not that we got that far but like, you know, there's there's a lot more of Wills needing of tactical decision.
+53:05
+Making a quick.
+Okay.
+The Scorpion, all the way over there is going to like leap three squares and bite me.
+How like do I use my teleport scroll now or do I have to, you know, do I fight This, this little like jogging in place keep wanting to say like Firefox guy, but they're Knowles.
+53:26
+That's what they are.
+They look like little foxes but that's where I think it comes into play more.
+But yeah, like, unless you're willing to kind of grind, you know, your head against a wall and died. 200 times to get there and like, okay, now I know all the game mechanics, there is no I don't at least I'm not convinced that there is any kind of metal.
+53:45
+Progression to get to help you along the way there.
+It's just get good.
+Scrub skill issue.
+Learn to play kind of thing.
+Yeah.
+It could which again like will I think you made a lot of good points about the narrative?
+54:01
+As I always think the great thing about it being an open source project is that you can write up your own, poll request to have them, pull it into the game and you can do that.
+Yeah, yeah, cyber cyber pixels engine and put your code where your mouth is and get them to accept that PR on GitHub.
+54:21
+Because be a pixel slime instead of a regular slime.
+Should we should we write this this game if you have lettuce on?
+How are you jumping the rankings?
+Who wants to who wants to dunk first?
+I'll dunk first.
+I'm actually not gonna dunk.
+54:40
+I'm going to put it at 12 out of 25.
+So long.
+That's like, It's below most of the real games and above most of the games that I didn't particularly like and I feel like that kind of is where it falls on me for a lot of Falls for me, for a lot of things.
+55:04
+Like, it feels like maybe too much of a game for me for a mobile game because I don't have very many mobile game use cases.
+I usually I just don't play games on my phone very much.
+And when I do, I I want them to be like really short and extremely possible and it come back to it, like 12 days.
+55:28
+So it's like too much for mobile game and not enough for a full game.
+But I really do feel, like, if I were given a 35 minute bus ride to and from work every day kind of thing, I might be in a very, very different position for how much I want to play a game like this.
+55:50
+So I think it has like, it's much more situational kind of game for me, but Ike It caught me right at the end of the, what, how much I played?
+It started catching me.
+Like, okay, I could see, I probably won't play more of this game, but I could see.
+56:10
+I could see a version of me playing this game a lot.
+Incredible if I'm sitting on an airplane and I don't have my laptop with me.
+And so I just have my phone and my options are to stare at the back of the seat in front of me, like, David putty or or play this game.
+56:29
+I I don't know what I would do.
+I honestly would be a toss-up that's assuming that this is the only game I have on my phone.
+Yeah, I actually just improved a score.
+I gave it a 4 out of 10, but having looked at some of the other ones, I've given a 4 out of 10 and 54.5, I ended up giving it a four point five out of ten which is below that my recommend threshold of 6.
+56:55
+Yeah, I don't know if I'll be opening of this game again.
+It would take a very specific set of circumstances.
+What is it that 4.5 makes it equal to our last game darkest dungeon 2, which is saying something.
+I think probably mostly negative about darkest dungeon to for the amount of development time that went into that.
+57:15
+But what else you guys want like this?
+I put an equivalent to a cog mind.
+Yeah, that's actually sounds really right to yeah, it's really really see.
+That doesn't surprise me though.
+Like they do have a similar.
+Like Cog mind is the like if you took it off a phone you put it onto something, where you could like fully expand the potential of a game like that but Cog mind has has an cognate has a pretty smooth on-ramp compared to something like compared to most traditional roguelikes.
+57:47
+Yeah, let me know.
+This is scared that character.
+Motivation.
+Lots of text to read.
+Yeah, a whole lot of real strong like will can't complain about story.
+I cannot convey it doesn't Cog.
+Mine was going to be my other example, that I didn't have time to mention where.
+Yeah, that one actually does have a fairly developed story.
+58:04
+That makes sense.
+A lot of sense.
+Anything else I have to say about this?
+I think that's the mobile games in general are going to get out of - whatever the score is that would be on PC and I got to get out of them - two on top of that because it's just so mobile is not a fun interface for me unless it's a game where it's actually just like like moving a chess piece for instance where it's just like there's no other complexity I don't have to use the magnifier, hold the magnifier button to see what's hidden pieces are sitting around me now.
+58:35
+There's none of that nonsense.
+Well I think I'm gonna let see from my rankings.
+Yeah I had to kind of walk it around a bit to figure out where it felt right.
+This is going to land at it.
+Sounds harsher than I feel like it is because I feel like we've we've covered a lot of games that I think are are good.
+58:59
+We just need like a higher volume and I think over time this will shake out somewhere in the middle.
+So at the moment, it's 15 out of the 25 games that we've ranked which sounds bad.
+But That's what mine was too.
+Yeah.
+And I mean like, I feel like over time it will average out in the middle, but but that places that just below invisible ink and just above hand of Fate one, which I feel like again, like I'm the outlier and the invisible ink episode, I don't know like if there's something we're didn't grab me maybe I got to go back to it maybe I have it in that sick and I mean not that I thought invisible ink was better but I have it, it's in there.
+59:34
+There's like a group of that I have that are all kind of like and these are all kind of Tied at mid-tier games.
+Where I if someone said, oh I really like this game, I be like, okay that's a valid opinion.
+Hmm.
+There's just that some other ones where I'm like, ah, if you were like super, super into sorting, the pit are sort of the Stars.
+59:55
+The pit I be like ah that says something about it.
+I'm not sure damage.
+Yeah, I'm not sure about that.
+Yeah, I feel like the things that Pixel Dungeon does not do.
+Well, is its on-ramp.
+It's new player experience on-ramp.
+1:00:10
+Like, you probably want to have a Wiki open.
+You probably want to be looking at that non-stop if you want to be good at it for the purpose of, I guess beating it and getting a high score question.
+Mark, if there was maybe just a hint of like a narrative or something in there, again, maybe we're reading too much into it, but the goods about it, I think are actually pretty good.
+1:00:31
+I think the the soundtrack like Loops pretty frequently but I think it's innocuous and like pretty good to some degree.
+I think the like the sound or like, the, the art aesthetic is like a has like a fun light heartedness that, every other traditional roguelike, like, goes out of its way to not provide any kind of platform for.
+1:00:54
+I think the art is is cute and fun.
+It's a good Trojan Horse to get people into the genre.
+I don't think it's like something like Cog mind is going to be very off-putting to people that like don't Don't jive with that aesthetic immediately.
+1:01:11
+Yeah, this is something that will sweeten the pot a little bit better to get them into it so it's like I have in my Google doc knows I like this is a kid's first traditional Rogue.
+Like in a good way.
+It's fast.
+Like you know you died and you just like you can jump right back in in two seconds.
+It's got like a really good like Loop to that, I really like, once you get the UI, I feel like it works really well.
+1:01:31
+We're like okay, like hap tap, the arrow or tap the bone arrow, tap it again to shoot the nearest enemy types.
+Ha ha have.
+Okay.
+All the enemies are dead.
+Like once you get that UI flow, it feels feels very fluid.
+And yeah, I think, like, the paws start-stop feels good.
+1:01:53
+Like, I can, I can just close the app and anytime reopen it whenever it's like, oh, okay.
+Yeah.
+I gotta go poop for 25 minutes.
+Maybe I'll tell, you know, played place, you had a castle dungeon for a floor to and pick up right?
+Where I left off.
+Like I think that's if I bring your diets.
+Yeah.
+I feel like that's kind of an underrated aspect so that will that will put yeah shatter Pixel Dungeon 15 out of 25 below.
+1:02:17
+Invisible ink above hand of Fate One.
+Sounds harsh.
+But like I think like, I enjoyed my time with it.
+I don't know how much more I will play with it.
+Because now that I've seen like, oh, the ending is just like a splash screen of like Victory.
+Here's your points.
+Like, okay, I kind of don't like the fact that like the daily.
+1:02:35
+The daily challenges are locked behind winning.
+Whole game.
+I feel like I'd be more motivated if I like I would play daily challenge like on the same seat as everyone else.
+Like, okay, here's how my score ranked up against other people, that would be a reasonably good motivator, I think.
+1:02:51
+But having that gate capped is, is a little frustrating, so that's going to put shattered.
+Pixel Dungeon averaged out to our 15th out of 25th game that we reviewed just behind hand of Fate One and just ahead of darkest.
+1:03:09
+Attention to, that's fine.
+That's it.
+I like that.
+That's fine.
+I think reasonably welcome company for.
+You know.
+Yeah, I'm game.
+Let's say this.
+This is a game mostly developed by one guy open source free to play in some circumstances that you know there's there's no obligation to go out and play this like the the barrier to entry is super low go and play it.
+1:03:38
+I think like if If you like it you like it, if you don't hate you, no, really no harm, no foul.
+As long as you own an Android phone, God help you iPhone users, but but low enough price point that it's not too devastating if you don't like it, I guess.
+1:03:55
+But before we go, I do want to shout out.
+FreeCell the OG, the best game for mobile freestyle is good bleep.
+Chest sucks play FreeCell, and oh, let's not.
+Well, we haven't even talked about Tigris and Euphrates.
+1:04:11
+We haven't talked about the Twilight Struggle app for for phones, which, you know, you can't, you're gonna need a magnifying glass for that one.
+I will look up.
+I did look up if there was a free cell Roguelike game and there is and it's probably bad.
+1:04:27
+Stay tuned question, mark, stay tuned.
+Let's just be careful when we talk about - about lead chest.
+I think that there's a lot of positive things we can say there.
+I know you just sort of said that little flippantly there and I just want to caution us about.
+I think it's a great platform system.
+London system.
+1:04:45
+I love chest.
+Yeah who doesn't?
+Well that is the best not so much as it's also about leash as versus other apps anyway.
+Sorry.
+With the go on that date, right?
+Yeah, I have to mention.
+I don't think I said this on the air, but I have to mention hyper Rogue has a free-to-play mobile app, which like, for sure stay tuned pocket.
+1:05:07
+Rogues is a highly recommended when hoplite.
+There's your there's your Tactical chest puzzle will is hoplite for mobile.
+I think it's mobile only and slice and dice is like you want something that's like combinatorics and dice building in a roguelike mode.
+1:05:23
+Yeah, those eyebrows are going, aren't they?
+Stay tuned and a half for sure, on that one.
+But yeah, just to mention mention those guys for for other potential mobile games, that we might come back to But I think that's, that's probably gonna wind down our shattered.
+1:05:43
+Pixel Dungeon episode.
+If you want to write into the program, we have our email, Grog pods own at gmail.com.
+We have our petty verse Mastodon, at Grog POD at Game Dev.
+Dot plays, Grog pods own is the website where you can find all of our data rankings and all that good stuff.
+1:06:04
+The next episode that we have is a Scott pick up.
+We have a wide variety of Scott picks, which I got you there, well, Seinfeld reference there but Gene sucks.
+So, next week is a biggie.
+1:06:22
+It's enter the gungeon.
+Which I think we're going to, we're going to have a lot to say about, but we're going to, we're going to have some, we're going to have some fun, we're going to have some guests to.
+We're going to have some guests gunjan ears, to roll in.
+And we're going to we're going to celebrate the birth of our nation by blowing up a small small part of it.
+1:06:40
+Fabulous. well to play us out on this episode or the tunes of a tense battle in the caves, leading to the abandoned Metropolis between a, what I thought was a Colonel Sanders Mage look-alike and it wore been constructed machine gun wielding security robot Again, if you've gotten this far, you would know the rabbit.
+1:07:04
+I'm excited to hear this part.
+The end of the podcast.

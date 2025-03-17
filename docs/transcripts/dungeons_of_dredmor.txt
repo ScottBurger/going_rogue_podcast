@@ -1,0 +1,626 @@
+00:01
+foreign welcome to the first episode of the uh the going rogue gaming podcast I am Scott Berger I'm joined here with my my two long time co-hosts of one episode uh Colin Smith and Bill Wright say hello everyone thanks for having us hello uh yeah if you're listening to
+
+00:45
+this this is this is the uh uh real shaky uh first episode that uh of every podcast that everyone always loves to listen to uh uh about uh games in the genre of roguelikes uh you've probably heard of these if you have played mini games recently there's a it's a it's a
+
+01:06
+growing field and uh we thought we would start up a podcast to talk about uh the the good ones so um part of the motivation behind this podcast that you're listening to is that uh this genre of games really kind of exploded over the past decade um with hit titles uh like things like
+
+01:24
+The Binding of Isaac and FTL and uh things like that and we I think it it offers a really rich space for us to uh to talk about these kinds of games and their evolution and where where they've come from and where they're going and all that um and yeah I think we'll uh we'll have
+
+01:45
+a good time uh talking about these games uh the goals for this podcast like uh like every good podcast has to have an objective uh uh I think our number one goal is to just uh have fun here and play games that I think uh we will have fun playing and some that we might not
+
+02:02
+have fun playing and uh get and get a chance to dunk on a little bit uh and uh have an Avenue to to talk about them I think another goal is to to signal boost some lesser known ones um we'll get into into that a little bit but uh there's there's a wide spectrum of of games in
+
+02:20
+this genre that are far more popular than others and I think the ones that uh happen to be less popular deserve just as much attention and uh we'll we'll come to those when we get there but um and then finally another goal is to just uh rank these games as best we can
+
+02:37
+against each other there's a lot of different factors going into to a lot of these um but which ones do we find find the most enjoyable to play which ones do we think are are the most important uh we'll figure out those rankings as the podcast uh trucks along here um
+
+02:53
+yeah and I think that'll be a little bit of a learning Discovery for us as well because I mean uh both will and I have not played uh a huge number of roguelikes so in some ways we'll be learning the genre as we go and so like for the review that we're doing today
+
+03:10
+are opinions on on roguelikes and on the game that we're going to be reviewing are a little bit not set in stone yet so our thoughts on it are unformed clay we might have much more stinging criticism for things in the future no no mine's all solidified it's all perfect there's
+
+03:31
+nothing you know no revisions it's all good to go you already have all of your rankings for for the games that were were perfectly come in with preconceptions do not change them so so in this podcast I think one of our main objectives is to look at maybe like the top uh let's say 10-ish asterisk
+
+03:53
+question mark uh games uh per year for this decade for the games released between like 2011 and uh let's say 2021 for now and if there's enough interest you know we can we can continue rolling that um but there's a lot of roguelike games out there how many how many how many
+
+04:11
+roguelike games do you guys think exist on just steam at the moment probably like 100 120 no I feel like it's like 10 000 because steam is ridiculous and roguelike games are have a low uh minimum viable product yeah Colin Colin is closer uh he'll win the um whatever whatever did I go over
+
+04:36
+yeah I'm pretty sure yeah so so for the Rogue is right uh Colin is the winner for this one uh there's almost five thousand games on Steam that have some kind of roguelike capacity to them uh and I think like it's it's untenable for a podcast to kind of cover all those uh
+
+04:57
+until we get access to some sort of immortality machine uh so so that kind of helps to constrain our focus a little bit of just focusing on like okay what are what are like the the best uh shining examples from each of those years uh and from the steam platform in
+
+05:14
+particular I think has you know like you said you know there's a low barrier to entry let's put it uh at least now now there is uh well we'll kind of see as the history goes on about how that's how that's changed a little bit but um but yeah there's there's a zillion
+
+05:32
+games out there uh steam I think is a good repository because it just has the biggest uh breadth and maybe depth for this genre um and it there's a lot of uh good data out there for us to just kind of like Harvest off of like the steam API and mine that into into some nice uh juicy
+
+05:51
+data sets that we can start uh uh building stuff out of um for the for the audience at home uh I'm not going to go through the the details of this algorithmic selection process because I'm not sure that that's what everyone's tuning in for to hear about algorithms but uh but right into
+
+06:08
+the show and we'll uh we'll we'll talk about more about something that you're interested in um all you Gentle listeners have to know is that the algorithm is perfect it has selected the perfect list of games for us to cover and to argue otherwise is to go against the the nature of the state
+
+06:23
+of the art machine learning techniques that we have employed the numbers do not lie I can't lie uh I think a little bit about uh the format of this show uh I think each episode will will um do a little bit of background about uh the game that the game or games uh
+
+06:42
+that we'll be talking about for the week in some cases games like have like you know you can see everything about these games in like five minutes or 15 minutes or something so it makes sense to bundle them with others that are also similarly short but for a given episode I think we'll
+
+06:57
+we'll talk a little bit about like development history um maybe a little bit about the developers themselves or Publishers if there's some interesting factoids there uh and then we'll just jump into like what's this game about what is it like to to play this and our experience playing it
+
+07:13
+um and then yeah finally and then you know we dump it into our uh our infallible rankings uh for roguelikes uh so to kick us off um let's start with the least controversial topic uh for this uh what do we think a roguelike is like if someone has never come to this to uh to
+
+07:35
+this genre before and they they want to know like what is this I'm super familiar with what first person shooters and racing games are but what what the hell is a rope like I've said it before and I'll say it again it's like the game Rogue from the 1980s a game which we all know and love
+
+07:55
+this one right I mean not really I think I've heard of it I've never played it that's for sure what was what was your two like first first exposure to like a game of this uh massive genre well for me I it's got to be his latest buyer I think that's actually been um that was a starting point for me in
+
+08:21
+like being fascinated by this genre in particular but also just like studying games and trying to figure out like what is the essence of fun and so roguelike has this kind of this amazing uh property to it where the variability in the gameplay and what makes the engagement lose happen is really uh
+
+08:39
+closely associated with uh the variation in the run and just doing it over and over again and having there be a lot of unpredictability around that so a lot of surprises just baked into the game design which I think is what sets it apart from pretty much everything else
+
+08:51
+where you're going down like a linear story or something like that where it's just the gameplay develops you get stronger enemies get stronger etc etc I think for me it was FTL um that's the first game that I played that had that same sort of branching path where you don't really
+
+09:09
+know there's not there's not a story in the traditional sense you are getting random events and you aren't expected to Beat It on the first try especially and maybe not really ever like there are certainly it is rare that I win a game when I'm playing FTL and it's probably because
+
+09:28
+I'm not very good at it but even having played a number of hours it's you know you're just trying to uh unlock certain things you're trying to get different paths you can there's a there's a a lot of replayability which I think is always interesting I mean the the goal of the
+
+09:48
+genre is replayability like play a single playthrough means nothing that that the game is playing through it multiple times versus there's so many other games where after you've played through it once you have done that game me it's like rereading a book many people do it many people love it but
+
+10:04
+you're not going to get a different book out of it um if you play FTL twice it's a different book I think for me I I don't know if I came to to roguelikes through Dwarf Fortress but that feels right and I think that like well it's I think door Fortress is kind of like
+
+10:25
+that Extreme Hobby grade end of the spectrum of the of roguelikes and then I think like the thing that really like the roguelike aesthetic yeah that's right um but like the 2013 version of Spelunky I think is what did it for me in terms of like and I think that like at this time
+
+10:46
+uh like Dark Souls had recently just come out so there was like that added fervor of like you know games are hard and that's cool again right so something like Spelunky kind of you know like what if Mario was more Dark Souls and like oh okay like I could get behind that and yeah like you said
+
+11:04
+like the randomization aspect like oh everything every run every time that you play the game it's slightly different so it's you have to kind of adapt uh your strategies and and all that to it um uh yeah uh some quick uh facts about uh roguelikes on on Steam uh of all of like
+
+11:24
+the roughly 5 000 uh games that are uh have tags related to uh Rogue type things um 66 are defined have a tag that's a rogue-like there's 62 percent of them that have something that's tagged a rogue light and this is this is where I think we almost need to uh have a bunch of like
+
+11:49
+Linguistics people or like linnaean classification Specialists right into the show to be like we need to fix this um 43 of all of the uh of the games on Steam are action roguelikes we have uh and then like we start to jump off a cliff here we're like only 4.3 percent of them have tags related to
+
+12:13
+roguelike deck builders so you're kind of slayed as fire types uh there are 4.1 percent of them are traditional roguelikes which we'll get into uh at some point and then two percent are rogue vadias uh is that basically just like side scroller but Rogue um we'll get to it but like uh dead
+
+12:37
+cells is a good example of those oh okay well it has that kind of like side scrolling platformer uh I don't know if a whip is required for that tag to be applied but you know that kind of like certainly helps yeah like vampire survivors is like that's got to be one
+
+12:53
+of those right I mean no I don't think so because it's that's top down that's uh yeah oh okay but you feel like the the Rogue Vania I mean that's like metroidvania is another genre it's it's the the side scroll platforming with variations of weapons and etc etc
+
+13:13
+um we never really did talk though I I I I flippantly said they're like Rogue but we didn't really explain what what the genre is I mean I know for for me it's it's the randomization that is the the core of the genre and I think that will push the bounds of the genre a lot because there are a lot of
+
+13:34
+games that have randomization that it's there it's it's a hard thing to categorize if just randomizing is enough to make it a roguelike um I know the previous starting podcast we have talked about is Diablo a roguelike I don't think it is even though it does have some trappings of that
+
+13:59
+in in its like there are there's there's randomization you're not getting the exact same thing every time I don't think it quite it quite meets it the the qualifications but it's getting closer mm-hmm yeah I think the the definitions of what goes into this kind of uh game type are
+
+14:24
+now super nebulous and they used to be pretty well defined before but I think a a goal for this podcast I don't think is for us to kind of like be exclusionary or say like this game is definitely roguelike this one is not uh and I think and the the algorithm has
+
+14:43
+decided for me uh to cast a very uh wide net uh to include things that may or may not be like roguelikes in the traditional sense but have those kinds of um gameplay elements so like you were talking about like randomization procedural generation of elements of the game
+
+15:03
+um like every time you boot it up like oh like the map will be different this time um yeah I was just about to say like permadeath and like high degree of difficulty to um enforce as a means of enforcing like um an evolution of your playstyle instead of just like okay like I'm just
+
+15:24
+gonna restart my same character over and over again it can't just be a sneaky archer in Skyrim every single time exactly uh yeah and I think that um the the 1980 game Rogue is super fascinating from like a historical perspective um because it it's it really kind of lays the groundwork of like
+
+15:50
+like this whole like separate world of how games were developed back then and how you interface with them and like having to develop uh I think they were like packages written in the in the C programming language that allowed you to have like maneuver a character around a
+
+16:09
+screen like that didn't exist prior to it like 1980 that's not too far from the moon landing right I mean like I'm like trying to figure out when when mice for computers became popular because it's like about that same time yeah the mouse definitely came out after uh which I
+
+16:27
+think would would partly Inspire and explain why all those uh Ye Old uh Ultra super um ancient Rogues you know you were basically using like emac style keyboard commands to get around and you know uh maybe maybe that explains the the popularity of Vin these days but
+
+16:48
+um but yeah so I think uh I think we might finally I have time to to jump into our first game finally uh so so Preamble uh we can come back to some of those things as the podcast goes on I know everyone's dying to hear more about uh Bayesian selection optimization algorithms but
+
+17:09
+um let's let's maybe uh yeah start with our first game uh you're listening to this uh we're gonna be talking about the 2011 uh release dungeons of dreadmore um this I think is actually like a really good game uh this in like the next few episodes are really good games to kind
+
+17:27
+of like set the stage for what roguelikes were at the time and also like the the breadth of this category so um at this time in 2011 uh when this game was released this genre of like turn based uh grid-based movement uh going into dungeons like those kinds of games were largely dominated by
+
+17:54
+um or that that genre was largely dominated by games like net hack Dungeon Crawl Stone Soup and like I mentioned before uh Dwarf Fortress um I know I think Will has played Dwarf Fortress Colin I think you've played Dwarf Fortress a little bit also have you guys played any of the other two net
+
+18:13
+hack and Dungeon Crawl not the other two yeah just I've looked into playing net hack but did not do it I tried playing yeah go ahead I played I don't want to say a fair amount of Dwarf Fortress because I know that that isn't true relative to the people who have actually played more farters but I have
+
+18:31
+I have played enough of it to know how interesting it can be I like the stores that come out of it a lot more than the actual Act of playing it um and I am eagerly awaiting the steam uh the steam release of it so that they finally have some uh some better interface for it wait did you did you
+
+18:54
+ever go too deep uh uh no I don't think I ever got that deep okay okay yeah I think I think I gave it a fair Shake too but maybe a fairer Shake in that sense um yeah I mean watch I mean I don't know how many tens of hours of uh of tutorials were part of that but that's a whole lot
+
+19:11
+yeah I feel like my my Dwarf Fortress plays ended up just being like watching videos of other people playing poor Fortress which was also entertaining yeah yeah that's half the fun yeah um so yeah 2011 kind of dominated by this landscape uh of games of that though and
+
+19:29
+You could argue in a way and this you know this uh might be things that part of things that we cover later in the podcast um that you know the explosion I think Minecraft was released uh two years before this and the original version of Spelunky uh was released in 2008 so we're kind of
+
+19:50
+turning the corner game development history wise of um these these really like popular old school uh ascii-based uh Rogue like games very much inspired by the 1980 ye old classic Rogue net hack Dungeon Crawl door Fortress arguably um starting to move into the direction
+
+20:14
+of like well how do we make this more popular for you know the general audience I don't know the net hack is is something that you know your average person on a bus would would be playing on their on their switch or anything but um but yeah that was that I think a major
+
+20:29
+kind of inspiration for the the developers of this game uh but let's jump into it so dungeons of dreadmore released uh July 13 2011. uh it is a kind of like a top-down like two-thirds perspective uh game where you're controlling a character walking around the eponymous dungeons of Lord dreadmore
+
+20:48
+uh you can find this on Windows Mac Linux uh and it was a developed and published uh by Victoria BC based uh uh game developers Gaslamp Gas Lamp games uh these were I think at the time three three guys up in Victoria um and actually I think a a surprising number of games in the genre uh well I
+
+21:14
+think we'll find out have been developed by people in the uh in the Puget Sound slash Seattle metro area did you did you guys know that the the developers of Dwarf Fortress live around the Seattle area no slay Aspire two yeah uh I think we'll we'll find that uh the Seattle area so uh for gentle
+
+21:37
+listeners context uh we are all scattered around the Seattle area um hence our kind of fascination with people who who are developers from here but yeah I think we'll we'll find out that like areas that are major Tech hubs also uh are our Major Video Game hubs maybe maybe not just so much of a
+
+21:54
+surprise but um Gaslamp games uh three guys Nicholas Vining the technical director Daniel Jacobson the CEO and David Baumgart the art director uh all joined forces I think they were previous game developers who who all kind of like joined forces to say hey we should make a roguelike game
+
+22:14
+um but we should make it accessible uh the development history for this game uh and for Gaslamp um I think they they kind of hit it out of the park with with dreadmore when it released in 2011 um in December 2011 they released their first expansion curse of the diggle Gods uh
+
+22:37
+we'll get to diggles in a moment uh a great little character and then uh June 2012 they came out with uh it's free now I don't know if it launched free but um you can download this or yeah you can install this one for free uh June 2012 the the DLC title you have to name the
+
+22:56
+expansion pack uh which I thought was fun um and then August 2012 their their final expansion for this game conquest of the wizardlands um Gaslamp in 2016 would start work on their next game Clockwork Empires but didn't I don't think it was as commercially successful as dreadmore uh
+
+23:16
+that was put on Hiatus and unfortunately in 2019 the studio uh was was shuttered to permanently all their stuff kind of put on Hiatus um Nicholas finding the technical director would wind up going back to finish his Doctorate in computer science at the University of Victoria uh and you know
+
+23:35
+worked for Google and Nvidia and all that fun stuff and most of the others went to go work on a game called star sector have either of you heard of this wait what's the the what is starstrucker the one that's like Terraria no I think I know that's star star bound star yeah yeah okay then I have not
+
+23:58
+heard of star sector star sector uh is an open world space single player space combat role-playing exploration and economic game um from what I can tell from the website I think it's kind of like a a um Forex inspired space game but this is something and this is I think a game
+
+24:17
+that props up on my radar like once every six months I'm like oh yeah that looks cool but they have getting like never put anything out on Steam yet so I'm like yeah okay I quickly forget about it oh yeah that's that's hard I it's not on Steam I'm less likely to see it for sure yeah
+
+24:35
+uh in an interview with uh with the magazine RPG watch uh game artist Dave baumgard explained the game is based on a quote immature build of a humorous roguelike game uh which gave uh the programmer Nicholas Vining uh he had been working on since about 2006. um he also noted the games art sets uh
+
+24:58
+the game apart from other traditional Road likes that feature ASCII Graphics so like what we kind of mentioned before net hack and dungeon carlstones who I think dendro call these days does have like a graphical UI um but it is very kind of like tile based and net hack is very traditionally
+
+25:12
+you know your your standard kind of Dwarf Fortress Fair of like a confetti of apostrophes and commas all over the screen and almost almost like modern day hieroglyphics um but yeah they were I think they were inspired by uh they've said in interviews they were inspired by this
+
+25:30
+1995 game called lindley's Dungeon Crawl and that kind of inspired them to say like well you know what would a roguelike that was actually accessible be like so something that you could you could use the the mouse in your computer to fully control instead of just like
+
+25:47
+you know clacking away on your keyboard um originally the game didn't have any numbers in it wait like for anything I think for for basically anything like so for like stat values like damage damage things damage types and all that uh I from what I understand I think like
+
+26:07
+they only added those in about two-thirds through the way of development ouch and like a larger ouch well I guess like um in the game like when you're attacking monsters and stuff it doesn't actually show like a number value for how much damage that you did but there
+
+26:25
+are like stat screens that say like oh your merliness is 23 or things like that I think they they added that in pretty late uh into development but um but when the game was uh released on Steam and at the time like nowadays like you know any any person with a with a
+
+26:44
+you know fat check in their uh wallet can release a game on Steam but back then you had to know someone who knew someone to get your game on the scene in the world of 2011 11 years ago they only opened it up in like 2008 for people to for all like the green light green light stuff so
+
+27:02
+yeah it's interesting like playing it I'm looking at it from an 11-year later development perspective and it feels old but looking at the Contemporary games that it was uh being surrounded by it's like oh okay yeah I can see where this is an innovation in that uh like as compared
+
+27:31
+to a game that has ASCII Graphics it has amazing graphics and user interface the fact that you can click on something is yeah and this game was super popular when it was released on Steam at the time this thing actually sat on like the best seller list for like three weeks
+
+27:48
+which to look back on it now is is like a Monumental slam dunk like oh my God like this something that's more in like this Niche territory that you're you know fighting against like Counter-Strike you're fighting against like you know your calls will do your your portals uh that something like this
+
+28:09
+could jump in and people like seem seem to have a a decent amount of interest in it um and yeah I think the the developers were also saying that at the time in 2011 I don't know if this was Canadian dollars but they said that they had a budget of about two to three thousand dollars to
+
+28:27
+develop this thing which when I heard that I was like wow that's actually I think pretty impressive that just means that they were like that money was just like to pay for like fees and things for like incorporating their company and like because they were taking no salary obviously they were not
+
+28:44
+like they were just developing this as a kind of their like their own thing right yeah I mean that's to me that just says they're doing it in their spare time right which still impressive then maybe even more so um but yeah uh so yeah let's jump into it like dungeons of dread were I've gotten the
+
+29:02
+history out of the way uh the first thing that you're greeted with when you when you boot this up is a character with a shockingly huge eyebrows which huge and and we're not joking when we say huge eyebrows like this is there's like two-thirds yeah quite the uh quite the eyebrows um and I
+
+29:24
+love the uh the intro text that uh that when you when you start a new game it says once more it is a time of Adventure of Glory it is time for a hero unfortunately this hero is you you have been summoned by the king to prove yourselves to save the land and its people to join the heroes of Legend
+
+29:42
+in victory over the dungeons of dreadmore uh so your your objective in this game is to Traverse 10 floors uh 15 with an expansion but 10 floors uh to get to the very bottom and fight Lord dreadmore himself uh for ultimate Victory and along your way you're gonna encounter
+
+30:04
+all sorts of wacky objects you're going to be boosting up your stats and skills like you do in any in any good uh fantasy setting there's there's a lot of crafting that I have yet to figure out uh there's zillions of items just kind of littering the floor all over the
+
+30:21
+place and all sorts of crazy enemies uh objects things that that you run across in this game I think the maybe one of the first objects I came across in this game that I was like raising my enormous eyebrows at were vending machines right yeah so that it's like definitely out of
+
+30:42
+place for everything else which is like all thematic I think it's kind of had a Nordic sort of a theme to it with the uh what was it the the fish that they had the the lupus yeah and a lutefisk right and all all that fun stuff yeah I think like that that kind of sets the
+
+30:57
+irreverent tone of the game where I think like their their overall objectives for this game were something that's like the funny accessible and you know you can have a good time like blowing up monsters in and I think they kind of like slam dunked on that goal because like if the first thing that
+
+31:13
+you're encountering in some like fantasy steampunk dungeon is a vending machine that kind of got a a you know a chuckle out of me the first time I saw it but um you have uh uh upgrade stations like the Anvil of krong uh great name uh you have uh things that you can go and pick
+
+31:31
+up side quests at called the uh the statue of inconsequentia which I thought was fun uh there's there's just like a straight up 2001 monolith so floating around on some of the floors which I've yet to figure out how to how to activate those but I think those are used for side quests right
+
+31:48
+yeah yeah but you yeah eventually you sacrifice some kind of thing you pick up to fight a boss basically it's always the same it's very repetitive uh there are there are statues to uh to Lord dreadmore uh scattered about that you get a big experience boost if you if you
+
+32:02
+smash those and a little a little notification of heroic vandalism which that was fun I did get worried the first time that I broke one that it was like you get a thing and you're going to get punished later and then eventually realize like oh right dreadmore's the
+
+32:18
+guy that we're fighting so breaking this is a like I'm not a vandal I'm like a good I am a good Vandal you're supposed to be breaking them although with the uh the propaganda posters that are that are littered throughout the game kind of uh paint you to be a bad guy in a fun sense
+
+32:34
+of like you know this homewrecker has come into the dungeon he's like screwing everything up and you know you got to go into you you diggles that inhabit this uh this dungeon you gotta go and uh destroy the eyebrow one as you reference several times um there's lots of satanic displacement
+
+32:52
+glyphs around that uh that will teleport you to random parts of the floor levers chess uh bookshelves they pick up crafting materials from um stats there's there's a lot of stats uh in this game and I think I I only kind of understand maybe like 25 of them but I think that's that's part of like
+
+33:10
+the comedic tone is that instead of you know your your traditional stats of like um strength wisdom dexterity uh you have things like burliness suggestity nimbleness Savvy stubbornness uh things like that which I think is kind of a a cute take on it um there's a lot of skills in this game
+
+33:31
+there are many skills and when you first boot this game up you're you're gonna have to pick seven starting skills that kind of Define what your your skill tree is for the game did you guys have a have a uh Synergy or set build that you like more than others well I mean my first playthrough was as
+
+33:55
+like the traditional Warrior I figured I'm gonna go in I don't know what's going to happen so to be a mage may just feel like you kind of have to know the intricacies a little more and so I'm just like give me the beefiest guy with the armor and everything and I managed
+
+34:06
+to pick uh something that I guess resulted in some kind of synergy I had no idea because you can't actually see what the skill tree is below anything you're just kind of like blindly guessing like these look warrior-esque and you know you don't want to mix your
+
+34:19
+warrior with your Wizard or Rogue skills you're kind of like confined to like one third of all the skills that are available and um it ended up working out I mean on my first playthrough at the I guess the medium default difficulty I I got up to that uh um uh dreadmore got
+
+34:35
+absolutely swamped by him but uh it uh seemed to work out yeah I also did a warrior-based build but I was uh maybe more of a DND Barbarian style like I didn't do any of the armor things because I wanted my my it you know in my head he's a shirtless Barbarian running
+
+34:57
+around just hitting things with a hammer um so I mean I did put armor on him because I don't think he would play the game without it but uh yeah I did Hammer Viking uh smithing mushrooms because eventually you just had you had to add some stuff in I was like oh mushrooms are kind of cool too
+
+35:17
+maybe it's maybe they're like magic mushrooms like that's a cool like I'm sure Vikings did that so uh that was a weird definitely a weird flavor in there uh just like things just like my inventory is filled with ingots of ore and just 15 different kinds of mushrooms
+
+35:35
+because I can't bring myself to drop them yeah there there's there's a lot of uh items in terms of like mushrooms there's like 20 different kinds of wine uh sometimes I think that that makes it a tough decision wise to to figure out like okay do I want to keep a Merlot or
+
+35:58
+do I want to go for the Chardonnay over here and I'm having to almost do a bunch of like wine tasting in the game to figure out like okay this one will boost my Mana the most I should keep that um the I think the the skills themselves are are hilarious and interesting in how
+
+36:14
+different they are from like your kind of traditional um almost kind of like skyrimmy Fantasy game where uh there was one I was just tinkering around with it last night where I'm like oh this one has has like a a leap to it like I I figured that could be useful to like you know either
+
+36:31
+get away from enemies or jump into the middle middle things um I think it was called like nightly leap or something or like nightly jump and I couldn't figure out how to use it at first I felt like an idiot for like five minutes I'm like okay like I want to jump from here to there why are you
+
+36:45
+not jumping until I figured out it is an L pattern like on a chessboard like that kind of eye rolling grown like the initial like frustration of like the few minutes that it took me to figure out like why that needed to work the way that it did as soon as I got the
+
+37:09
+joke and like okay that's that's the kind of humor that I think plays well in this game yeah and I think the humor like especially like thinking back to the world of 2011 I think this was solidly within the like humor of the time um a little bit more of the the randomness element to it uh which
+
+37:35
+I think is faded away in the popular culture a little bit by now but I can see how this could be an extremely refreshing take on the like very serious Dungeon Crawl uh genre up to this point it's like oh this is this is the same but different if you know what I mean I mean that's that's peppered all
+
+37:55
+throughout too and just like there's another point to that like the the obvious Fireball is the name of the fireball because you have to have them you have a mage you have a you know a pyromancy you have to have the obvious Fireball thing and like all all the monsters and their little quibs about
+
+38:10
+you because they like say things to you while you're fighting them with like hero come out to play it's just like that kind of thing it's just it's great I I love that uh that they had such a good variety in there and when you're leaving it's just like it's this you
+
+38:23
+know please don't go sort of like things like begging you not to leave and just one more run I'm just like no I don't have eight more hours here please some of the uh the the goofy um some of the goofy skills that I've yet to try out uh but sound amazing uh Colin I think you mentioned Viking Wizardry
+
+38:41
+already um there's I think actually I don't know if I picked necronomic the necro oh my God okay economics Necronomicon combined I'll try this slowly necronomiconomics there's one uh I think this this one I think is from uh one of the DLCs but where diggle curse
+
+39:06
+uh there's one battle geology uh there's piracy and of course everyone's favorite uh skill to select communist wait is that from one of the DLCs that we didn't play I don't remember I think it might be because yeah I think we were all we were all well I installed the um the free DLC
+
+39:27
+um I've yet to name my expansion but I don't think I saw communist in there but now I'm super curious to oh you know I would have picked Communists just just because like what does that even mean in the context of a dungeon crawling game exactly I mean are you giving are you giving the money back to
+
+39:47
+the diggles yeah maybe we should explain what what is a diggle there's there's lots of enemies in this game one of which a class of which are devils but what are they how would you describe these these things Pokemon it's it's sort of yeah it's got like a it's just like it's the thing you fight
+
+40:07
+exclusively in the tutorial as like a getting started and then like it's kind of your low level enemy essential like you kind of see him throughout but uh yeah he's got like a big old like drill for a nose and he just kind of looks like a little like uh yeah some kind of
+
+40:21
+a small Pokemon with little arms and legs and he just kind of jumps out of the ground at you and makes funny noises I'm gonna say he's like a Charmander except with no flame on his tail and his his mouth is a drill I think there's many different flavors of them yeah yeah they're um I think
+
+40:39
+diggles are kind of like The Unofficial mascot of the dreadmore game because the uh the DLC when I installed it has a different splash screen when you first uh when you first boot it up and it has like statues of like buff diggles like flexing in the background and like them
+
+40:56
+flying all over the place and just kind of like being the the poster child of this uh goofy cartoonish charm that the game has all over but yeah there's uh various enemy types like things like blobbies blob blobular kind of enemy with big googly eyes on it nibbles that
+
+41:14
+we've kind of talked about already uh there's there's baddies bats there's uh grim reapers that just walk around with sides uh I thought that was an interesting choice to just have multiple grim reapers um there are zombies there are you're kind of like class classic uh Gins uh
+
+41:32
+there's things like those which I think are uh that's something I don't even know how to describe some of these things because they're kind of they look like they're from uh Zelda right like the the little things that pop out of the water and shoot water at you exactly they're on
+
+41:47
+land and they shoot like you know magic at you and don't they have like little like Fishbowl helmets on or something if I'm remembering right I don't think they had the Fishbowl helmet I think they're just like uh like a squid basically sort of a head to them okay maybe maybe that's just like the
+
+42:02
+color of their head but I'm looking at the Sprite and it it looks like a an octopus head and maybe like a cloak of some sort so maybe it's like a wizard yeah you got your uh your unfriendly AIS of uh oh that was my favorite tread base the murderous robots uh when
+
+42:21
+they when they hit you too they say time to die time to die and that was like my like my favorite thing uh Elise which will live in uh in water and uh leap out Loch Ness monster style at you uh there's there's like scarecrows with pumpkins for heads that run around uh the Golems which were my
+
+42:38
+personal least favorite that just surround you and smash at you for a while what what's uh what's your guys opinions on thrustees oh he okay uh I mean for people that have ever got or like got into one punch man there's a creature it's like what's he the the something sperm the black sperm that's
+
+42:59
+whatever he looks just like him I'm surprised that like it feels like that was pulled from this game potentially because they just like very very similar to each other and he's got little like a little like uh hip movement there where he's kind of thrusting at you and uh I
+
+43:14
+tell you what it's very provocative foreign and of course uh so so you you encounter I think the um enemy how do I describe this pacing question mark is very good in this where they don't throw like all of those monster types at you on the first floor uh I think they kind of like sprinkle
+
+43:32
+them in as you get further and further in but they they kind of do like pallet swaps of you know versions that you've seen previously but now they're they're like super blobbies and uh what are they diggle Commandos that are that are like cloaked that will follow you around and
+
+43:47
+attack you that I thought that was uh that was pretty fun um and I think like most of these can also be summoned too right like that you can summon them as uh like pets I was playing around with um I didn't play any of the summon summon builds oh uh yeah the the I think will
+
+44:06
+was alluding to uh the pyromancy one where you can summon like a little flying dragon who just wrecks everything yeah the first like three levels amazing fourth level starts questionable and then he's just garbage basically I was using a lot of the um I did a I think I
+
+44:23
+did a pyromancer build first but um I was using that uh the little flying dragon guy and the uh was it like gogs tactical pyre which is just like like a single unit flame thing and that that just ruins people too which is great uh you know what else ruins people though
+
+44:41
+is a flail and very strong arms just running and hitting things I felt like in some ways having done the like Barbarian style build first uh I I missed a good chunk of the strategy of the game because uh I had no strategy it was just run and charge and make sure you don't get
+
+45:04
+surrounded like I didn't really have to do much in the way of tactics uh I could almost ignore Mana for the most part uh you use Mana at all I might I had no man I had one skill that I never used and so my I literally just run in Click guys they would die and I was basically
+
+45:20
+invincible and it was some of the some of the Viking stuff had Mana so like it was like a boost on damage uh that was useful but generally I was like man up like I wasn't Mana was not a limiting resource for me um and I think that that definitely was a less I mean it was it was
+
+45:50
+effective but probably a less interesting gameplay style because like I play games to make the choices like I'm not like I'm not having fun just clicking on the enemy like I want to have it like be some sort of like puzzle especially a game like this where it's not real time so there's no there's
+
+46:07
+no reaction skill involved uh so really the decisions are the game um I think having something that lets you interact with the world a little bit more is probably a better build style for getting enjoyment out of the game and also there were so many items that I couldn't
+
+46:29
+I didn't I didn't really use and I couldn't figure out uh my biggest complaint with the game is that the icons were very small and I had a hard time like at a glance knowing which one was which like the uh and you you know hover you're trying to hover over it and it
+
+46:45
+just it just shows you the little icon under the item you're like which which thing is that again do I care about that one yeah do I want more blues or do I want like whatever the orange or is that a a an Auburn Square some of those colors look pretty similar too which
+
+46:58
+orange is that I mean it was built in 2011 right so the the average resolution at the time was microscopic compared to what we're running and so all the UI just looks terrible and on these screens and so yeah I noticed that as well and like I had to like learn to expand the
+
+47:12
+map out and learn to like uh right yeah like before I'm just like I can't I have no idea that's totally useless up there in a standard format and I didn't even realize there was a button to expand it because it was so tiny it didn't even look like an expansion button yeah
+
+47:28
+I will say uh I was kind of glad to have gotten uh my steam deck uh with enough like Runway time to kind of test it out test dreadmore out on there which I was actually like surprised at how well it played on there and like despite like the UI being like painfully tiny at
+
+47:48
+least on desktop like 1440p like I almost needed a microscope to see what was happening like on the steam deck it actually like worked pretty well and like there's a lot of like click dragging kind of that you have to do like you can uh I don't know if you can do this but it's like you do like shift
+
+48:03
+click it just automatically puts it into your inventory um that's a big deal there's a there's a setting in the game where you just like if you get near stuff you just pick it up that was that was a game game changer for me like I don't want to pick things up I just want them to be in my
+
+48:21
+inventory and then I go sell them go to the pocket dimension in order to store it too like that that was an innovation in this game that I think was incredible that was a really good idea and I think that they um deserve some credit for that one so so what do you use the pocket dimensions
+
+48:36
+for exactly I thought it was just like I didn't really know what it was and I just like walked I clicked on it I'm like oh I'm in a different room now I'll go back to where I was before I'm not quite sure what to do here yeah no it just it freezes time and so you go into
+
+48:48
+this realm where you can't eat or drink any things you can't get any more Mana or health but you can store things and so you just basically like if you're overburdened you go up or you know if your inventory is full you just that's where you store all your oil steam it in
+
+48:59
+and then just I had one pile that was like my two cell pile one pile which was like my here's my Mana things here's my health things before I was like kind of like scattering it all out so I could see everything and kind of get that understanding but then I'm like no no
+
+49:10
+giant piles of things with that our multi-purpose is the way to do it because it's really fast and um then you can save things and because you don't know if they're gonna be useful later interesting yeah I guess that makes sense because like a lot of um when you throw stuff on the ground it
+
+49:26
+stays there like it doesn't Decay it doesn't like you know run away after a certain number of turns and like the concept of like yeah like I was I I kept trying to figure out like how the hell do I do all this crafting with like such limited inventory space and the concept of like
+
+49:41
+oh I just go to the pocket Dimension throw it on the floor never occurred to me until just now right no I I didn't realize that until like after my first playthrough when I mean I did a I kind of like played it once fresh and then I did a little bit of Light reading about
+
+49:52
+like how do you play this game effectively and it's like oh here's one of the big obvious things like right they really didn't they should have mentioned that in the you know somewhere in the game because no idea that was a thing I do want to I have a bullet point
+
+50:05
+here uh to shout out the the music in this game I think also kind of helps with that like irreverent um attitude like set dressing of like yeah this this like crazy dungeon does feel like a a suitable location for light loungy jazz music I would I muted it pretty much right
+
+50:29
+away I was I was like watching a show basically while playing because it's you know turn based or whatever so I'm just like you know I gotta be I can't be listening to this music for for hours the music was fine I do like the fact that it has has that kind of like
+
+50:44
+um I mean for a game that was developed in you know the early 2010s it has that kind of like uh late 90s kind of like Adventure game yeah like midi tone to it definitely which which feels it feels very very kind of like warm mug of Coco you know just ah this is like a nice
+
+51:05
+kind of background music you can sort of slip into and yeah like if you're if you're you know like me playing it on the couch you know muted so you can listen to the you know watch the local news at night it you know the game works perfectly fine like that is kind of like
+
+51:18
+you know you're listening to your favorite roguelike podcast huh huh while playing uh like this game on the bus or something um yeah I think uh I think the the music is worth uh shouting out I think like the the art style I think we've kind of talked about like the aesthetic but like
+
+51:37
+the actual like art direction is is I think like fun and like the little skill boxes having like your you know your Berserker skill is just like a close-up cartoon of like the character screaming I think like gets the point across very well it's very aesthetically consistent like
+
+51:56
+they did a good job like it didn't work like it wasn't my favorite art style but it was well executed like they it was very tonally consistent even in the parts where it was inconsistent like it was consistently irreverent um all of the all of the little art icons were uh goofy in a similar way
+
+52:23
+um that like helped like synergize with itself uh and I can imagine if you like that you would really like that like it it builds on itself well right but I mean like I've had this this game I probably bought this like um six months ago and I haven't played it because I looked at that icon and I see
+
+52:42
+those eyebrows and I'm like I hate this art I cannot stand how ugly this looks and when you get to the game you know to be fair I mean I think it's it's good it's a quality game but uh man I uh the fact that the character it doesn't actually wear the things yes that like
+
+52:60
+because I I'm taking out this Miss Mage or this this is this uh this Warrior I want to see the main character and this is probably because they had a two or three thousand dollar budget that Mike was mentioned but like that was the one thing that kind of bothered me was like
+
+53:11
+I don't care if you're using a generic weapon or whatever but at least look like a a warrior if you're a warrior just the class not anything else but they didn't even get to that it's just like the generic dude doing the generic moves all over the place that um was kind of a pretty pretty lame as
+
+53:27
+far as the art goes I had for a long time uh one armed leather jacket and I was very disappointed that my my little sprite man was not wearing a sweet leather jacket and like a goofy hat I mean if rocket league has anything is that people want to express their individuality through their their
+
+53:45
+appearance so really what they what they should do prepare for hats yeah they uh dreadmore 2 needs to have a an item shop is what you're saying dread moorer just let you wear that dreadmost excuse me uh yeah I think like for me the things that I wish could have been done better
+
+54:06
+like I felt like the maps were like way too big and I I say this as like a cockmined Enthusiast that like oh man this feels like way too big and that like there didn't there didn't feel to be like um the monsters were kind of different between each floor but that was kind of
+
+54:22
+about it like if the if like the Sandstone of the second floor was the same as kind of like the um the wood pilings of the third floor then like like what else is there to really differentiate other than just kind of like you know a different design of the stuff that you're walking on
+
+54:42
+um and I think well also this may have been exacerbated by me playing on the the no time to Grind Mode because I was like okay I just want to like let's let's speed this along let's just like get to floor 10 and even even with this mode on that uh limits the size of each
+
+54:59
+dungeon floor considerably I still haven't gotten past like four six or seven just because it takes so long like uh on that mode I think uh monster zoos are still on every floor so it uh you know you kick open a door and you know a very aptly named monster Zoo awaits you
+
+55:20
+um you do get an achievement for for beating it though so I think that's nice but um there's only disappointed that there wasn't like a treasure chest in there the random sort of like from there's a screen that says here's your item for clearing it what maybe I didn't actually clear it yeah so
+
+55:39
+sometimes you have to like they run away or there's an underground one or something yeah yeah you have to make sure that no there are no survivors from the monsters in order to get your reward um but uh what What's your guys take on like the like half of your character
+
+55:57
+being like blocked off sometimes like view wise as you're walking behind things oh that was lame I mean like there was just I mean okay so traps are one of the my biggest complaints with this game to be honest like traps were like put in there it felt like to make the Rogue a
+
+56:12
+viable like player because otherwise there's like no reason you have a trap behind a wall or behind like hidden underneath all you all your only notification is like a slight glimmer and so you hit them all the time and like traps were like why I died all in almost all of my runs where I didn't put
+
+56:29
+points into perception and so that's why I maxed that out basically but uh really really annoying stuff and I think that like yeah having the the wall just kind of give you a semi visibility would have done so much work there because some passageways you couldn't even tell was
+
+56:42
+really a passageway until you like walk through it yeah I think the the wall blocking thing was maybe my biggest criticism just because yeah like you said traps are basically impossible to see there's like a bouncing red arrow to indicate that like there's an enemy there but like I
+
+56:58
+don't know I I think like there's there's a lot of lessons that have been learned since 2011 in terms of game design so I can't really help you know the three developer team that much for it I feel like so my biggest criticism was in trying to figure out how to do the crafting stuff um like
+
+57:17
+okay so you need there's a lot of things where it builds upon itself so you need to build this in order to build this and you need to build this in order to get these things together and having played a lot of games that have crap I mean what game doesn't have crafting now and I've played a lot of
+
+57:34
+factorio which is like they should sell that knowledge to corporations because it's so streamlined it's hard to go back to a system where you can't just click something and have it like build a tree for you so you know exactly how to build stuff like I was like oh I got this diamond what does a
+
+57:53
+diamond do just have to like scroll through my list of all the different recipes that's not fun that's not I I can understand why you wouldn't like that takes a lot of extra work to build that in but that's a thing that 10 years later we've become accustomed to having like
+
+58:13
+exquisitely built crafting systems the the com like the design languages there that just wasn't there in the same way in 2011. same with storage for the I mean like as much as I said the pocket Dimension was an interesting idea like you're still ultimately like scattering things out
+
+58:31
+you're manually clicking things and then putting them on the ground or like shift clicking them to drop them underneath you and it's just like I want organization and I want it to be automatic and I don't want to have to build a system of Chess I don't want to you know put things into like Columns of
+
+58:44
+I just want you to have a system and just let me automatically dump everything into that system so I know it all is and it's all uh Universal it's just like that's it's really obvious stuff how much of the the game did you spend sitting there smashing the space button
+
+59:03
+smashing this uh is that that's the that's the advanced time button right yeah that's how you're you're regaining your Mana or your HP without spending any like uh so you're just sitting there like advancing the turn and just I I think I maybe hit that pretty often
+
+59:21
+uh until I realize that there's a digest button right that's for your but that's if you wanted to like Waste Your Precious resources like but if you're but for like mana and stuff it's just like you kind of want to keep that stuff or like when you really need it and so it's just I sold wine
+
+59:38
+because I didn't have any use right now yeah yeah when I when I was not using man I was selling all that stuff but like later like once I got to the dread more the first time and I realized how important potions were in particular like yeah uh I'm just like I want to
+
+59:50
+hoard this stuff and so I'm just gonna like basically smash space in order like and it's just that is not a fun like waiting as a mechanic is not fun and they kind of build that in so that you're you should be able to just hold it down right or like wait until until an enemy enters your view
+
+60:07
+Advanced time or until your health is full so I don't know that that really was not a fun thing never has a space bar been smashed so much and so often Force you so few Mana points it's it was bad yeah that's kind of like a it's a potential flaw in that you'd say
+
+60:27
+the you never want the optimal strategy to be just wait and do nothing and like that is absolutely optimal strategy is go fight a single Monster Run Away wait till you've recovered to full health like that is like if you wanted to truly grind your way through this dungeon like you could do it safer
+
+60:47
+but I don't want to do it safe I want to do it fun well I mean that'd be true if you weren't spending like it takes about an hour on average to complete a floor without the the kind of the minification mode and so like you're talking about 10 hours and so if you're like on floor
+
+61:02
+nine like you're just going through like blasts and open doors without full health and like just kind of like rolling the dice you're like if you die from that you're just like oh wow I lost nine hours of my life uh doing this um and it has to be fun and the fun level
+
+61:16
+like I I started the other playthrough recently I'm just like you know what now that we're done with this podcast I think I'm gonna go ahead and call it good like it's kind of it was it was Charming for a while but I think I get it now and um we got a lot we got a lot
+
+61:29
+more uh roguelikes to get through right so don't want to burn yourself out too fast yeah another kind of uh Logistics item for the podcast is that I don't think us three will have all the time in the world to beat every single one of these roguelikes because there's there's a a
+
+61:50
+wide uh distribution of really how much time you know you can spend to get to the final boss equivalent or whatever for each of these and in some cases you know we might see everything in 15 minutes in other cases it might be like 80 hours before we get to whatever sort
+
+62:07
+of end game state is so I think as a caveat we'll you know probably aim for somewhere around like an hour-ish of like gameplay time for each one of these just to get a a good sense of what it is and who knows if we like it we might we might play more and I think some of
+
+62:23
+these one hour minimum yeah an hour that's a tutorial you know in some cases yeah um but uh but in some cases we've played uh some of these games a lot already so I think we have some some pretty well-formed opinions on um do we have any final thoughts about dreadmore before we we move on
+
+62:46
+I'm excited I'm excited now that we have a base that we can kind of grow from like this is the 2011 and now we get to see it kind of develop over time like right now we like for instance we're like noting things like one hour per floor on a 10-floor system how does that
+
+62:59
+change over time because it seems like everything now is like these maximum like an hour you know 40 minutes so you know 80s yeah right you're blasting through that or let's lay this buyer run I mean like you know all these things are just um you know dicey Dungeons and run in an hour right
+
+63:20
+and so it seems like everything's kind of shrunk down to this like here is a gameplay window and we we want you to have a complete experience in the amount of time that you might have a gameplay window whereas this this game very much did not have that as a consideration
+
+63:34
+maybe a floor in the window but like even then like we said it was way too repetitive and not enough variation by floor really keep you in there until the end least me well the good news is that it uh as as of the first episode dreadmore is our number one highest rated game for the podcast we're
+
+63:51
+slapping it up on the rankings um you can find uh our rankings uh and many more stuff that we have uh up on uh our website that we have which is uh the going Road gaming podcast or grog pod g-r-o-g-p-o-d uh dot Zone because everyone needs a a great uh vanity domain um there you can find all of our
+
+64:16
+rankings and you can find links to previous episodes and all that good stuff um yeah uh Scott I'm gonna have to disagree with you here I think this is actually I mean you said this the best we've played so far I'm actually going to say this is the worst one we've
+
+64:29
+reviewed yet oh wow too true Colin too true I think I'm just uh I I must be cursed by where tables right now to to give it if it affected your brain yes okay uh I think that does it for us uh we'll see uh all of you Gentle listeners in the next episode see you then

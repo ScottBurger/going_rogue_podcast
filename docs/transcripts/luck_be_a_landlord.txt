@@ -1,0 +1,858 @@
+0:31
+Welcome everyone.
+It's time to play Wheel of Rogue likes here on the Rogue Like Podcast where we plan on covering a game and then we have to hard pivot at the last minute to cover some other game.
+0:50
+If you're tuning into this and you were super pumped to hear us kvetch about Cataclysm dark days ahead, you're in luck in that we are investing our time to give it its proper due instead of scrambling in 2-3 days to cover.
+1:08
+To come like that, Yeah.
+Of its magnitude, I did.
+So I only had a month's worth of research prep, but we I wound up doing 3 developer interviews with it because it's a very interesting game, which I won't waste any more time here.
+1:25
+But I'll put a link in the show notes to this episode and maybe also in the In the Cataclysm episode when we get to it.
+But I didn't want to didn't want to string the process out too much here by saying, well, we'll get to it eventually.
+So we have developer interviews which people might be interested to look at, but we'll we'll come to that later.
+1:45
+Yes.
+Welcome to the Grog Pod Rogue Like podcast, where So yes, we talked about Rogue like games.
+It does what it says on the 10.
+That's what we're here for, big and small.
+We try to rank them in the pantheon of things that we've ranked so far as best we can.
+I am your host of the Grog Pod, the gambling monster that has enslaved you.
+2:05
+To listen to this podcast, our burger and with me trapped in my neon claws are my cohost symbols.
+It's calling.
+The banana peel.
+Fundamental feel.
+That's the one I I wasn't sure which way the band feel.
+2:22
+All right, all right.
+I guess that makes me will write the I'm I'm a jester.
+The rare gesture Well, we're going to kill gesture.
+Nobody's going to get that.
+No one understands that there's going to be 5 people who get the lemme show reference and then they're going to be scrambling to Google search.
+2:41
+What's kill gesture?
+Then they get down a rabbit hole.
+Yes.
+Today we're talking about the Karl Marx torture chamber.
+Luck Be a Landlord, released in Early Access in January 2021 and just released into 1.0 earlier this year, January 6th.
+3:00
+What a great date, 2023.
+What platforms can you find this on?
+Luck be a Landlord can be found on Steam itch dot io and very recently which I think is very appropriate for this game, Android and iOS.
+I think that will suit it as we get to it in a minute.
+3:17
+This is developed and published by Trampoline Tales A1 Man Operation by Dan Delorio.
+I'm gonna guess that's right, who has created a whole bunch of very interesting looking itch dot io games and this one clearly being his stand out success so far.
+3:35
+This game pulls in on our Steam data set as the 107th most popular rogue like game with 7277 total reviews, 500 short of the magic number.
+Colin, your rent is due and your payment is A1 sentence description of what one does in what the landlord.
+3:55
+However, symbols appear on screen.
+Get money, pay rent, make synergy.
+I mean, is there anything like that is what this game is, right?
+It's it's the the most elaborate slot machine game where you actually win instead of lose, but at at you build wild, wild synergies with your banana peels and monkeys and thieves and different kinds of bananas and I don't know what else.
+4:34
+Crabs.
+Bananas, flowers, You got, the gold coins, anchors.
+These are all normal things that you find in your apartment, by the way.
+Coconuts.
+Billionaires.
+Guillotines.
+Billionaires.
+Guillotines, of course.
+Rocks.
+Gollums.
+Different kinds of birds.
+4:50
+Golden eggs.
+So quite eclectic.
+Yeah.
+This is, this is a very interesting game that when I I first got this, I don't know, a few months ago and I was like, yeah, we're like, we clearly are going to have to cover this on podcast at some point.
+But I opened it up and I was like, okay, yeah, let's give this a shot, Let's poke around at it and then spin, spin, spin.
+5:11
+I'm like, I don't really know.
+I don't really know what I'm supposed to be doing here.
+The spinning's fun.
+And then kind of packed it away.
+And then as we were scrambling to find a replacement for Cataclysm, Will was like, hey, we should look at Landlord and like, yeah, let's, I'll give that another shot.
+5:30
+And then as Will was very excitedly expounding the love for this game, like, okay, there's gotta be something here.
+Dig, dig, dig.
+It's a synergy game.
+It's a yeah, the synergy plus like a lot of the Spire like Relic obtaining and in my view it's just like the extreme distillation of like almost an auto battler.
+5:57
+Which I think is an interesting like kind of spin on this stuff and auto battler with like warriors that you're choosing in the form of these like these symbols essentially and then like these relics to help kind of balance everything out and eventually another dynamic with essences.
+But it is extremely synergy finding and that's been happens so fast that you're just like go, go, go, go, go, go.
+6:19
+I can finally understand it's great like the appeal of sitting in a like a smoky like first floor hotel complex in Reno, NV where you're just hitting that roll next thing again button with your bucket of quarters in your lap.
+6:38
+That's the thing though.
+Like it?
+It's almost nothing like an actual slot machine, despite, like it having some like the appearance of like, Yep, there is some.
+A window with symbols that appear.
+But like, I was really expecting going into this game, I don't know about you, but like, Oh yeah, I just got three things in a row.
+6:54
+Like, where's my, you know, like, you know, 3-3 bars in a row, 3 sevens in a row or something.
+Like, you know, that's supposed to be the the jackpot or something.
+But like this has nothing to do with that.
+Like having adjacency is only like one small, like, synergy component to like a small part of the game.
+7:10
+And so I was, I was very surprised by that.
+I'm like, oh, that's not at all how this game works.
+I'm going to somewhat disagree with you.
+I think that it is gambling like pretty like.
+What you got to put your you got to put your coins into the Steam deck and then?
+7:27
+It's not gambling, but it is it it.
+It struck that same kind of chord with me in terms of like it is 100% roll dice luck.
+In terms of like what's coming up on the screen?
+7:45
+Balls.
+Absolutely.
+Balls.
+How wait, did you beat the game, by the way?
+Just so I know how bad.
+Your opinion is, well, how how far do you have to get in the game to to consider to beat it?
+You gotta beat floor one and then.
+Beat 10 floors.
+No, I haven't beat 10 floors.
+Well then, there you go.
+Let's just go ahead and, well, how far you get.
+8:03
+I think I beat the third floor, third floor, 4th floor.
+But here's the thing though.
+I started playing this on Sunday.
+You don't really get it.
+I think at that point, I don't know like well, like I think what's what's a fun flexibility element here is that in order to progress through this game, which is not immediately obvious to Collins defense a little bit, but like progressing through this game, you can just like grind the Super easy level.
+8:32
+Like, I believe it then correct me if I'm wrong, expert, but you can grind like floor one six times in a row to unlock essences, and you can grind floor 110 times in a row to actually get to the boss fight.
+Is that right?
+I'm pretty sure that's right.
+I didn't take that approach.
+8:47
+I took the approach of.
+Like.
+Going up one level as soon as I beat it and then just wait like playing as many times as required in order to beat it again to get.
+And that's what I did and I was at like OK, I'm, I'm approached this game I totally get all the the item synergies.
+I know all the bill orders come at me floor four.
+9:05
+And it's just been pounding my skull into the into the pavement.
+Just like you think you can handle this 25 gold extra extra increase at rent payment six.
+I'm like, yeah, obviously.
+And then bam, bam bam stole right into the pavement.
+9:23
+I I I haven't found it to be that much more difficult per floor.
+That I mean granted I only I'm I'm not that many hours into it.
+I didn't.
+And that's part of the I like, I I feel like I'm.
+9:38
+I have a higher, like uncertainty about my rating of this game because I just was not able.
+I've been so busy this last two weeks and I tried to do Cataclysm Dark days ahead and was too busy for that.
+And then I was way too busy for this.
+But like, I didn't feel like it was too hard.
+9:56
+I just felt like it was just like a light switch moment in this game where like, yeah, I think there is.
+When I when I did that first play through, I was like, yeah, this game feels too random.
+But the thing that I was like, okay, it says on the box that it's a quote UN quote rogue like deck builder, which I'm like, I mean come on, come on, it's a slot machine.
+10:20
+And then the more that I kind of peel back the layers of the onion, I'm like, no, of course it it is obviously a rogue, like deck builder.
+And one of, like the principal components that I'm always bad at in every deck builder game is milling my deck down to like an actual strategy instead of, yeah, I'll take this symbol, yeah, I'll take that symbol, yeah, I'll take this one too.
+10:39
+Yeah, I'll take that one just in case.
+And then I have like this bloated deck of like trying to do too much, and it doesn't do like any one of those things too competently.
+And This is why you're bad and.
+So, and I feel like that gets into my first complaint, which is I am not bad at milling my deck.
+10:59
+I'm very good at it.
+And you get on each floor, how many spins, how many choices do you get?
+You get You end up with like what, 100 choices and there are 20 slots in this machine.
+I felt like I I would be like okay, I'm skipping fifty of these choices and that felt bad to me.
+11:20
+Well, is that true though Because like because like let's say okay you have you said like what?
+Like 12345 25 wait 5/10/15, so there's 25 slots on your little machine and yeah.
+11:38
+That's incorrect.
+It's 20 five.
+Yeah, I know how to do basic math, forget what my graduate degrees in, but but yeah, like you can have like 5050 symbols that you pick from and will correct me if I'm wrong, but like when you use quote UN quote spin the machine, it just randomly selects from that pool right?
+12:04
+And it randomly selects which column that it puts them in for the spinning spin.
+Yeah, for like for the placement, yes.
+But not for like.
+What's available to you for selection, right?
+So how does the selection does the selection have?
+Selection is based on your kind of unknown rarity.
+12:23
+Bias This is like I would I haven't actually looked at like any of the behind the scenes.
+This is my observation after having defeated the 20th level and played it on and on beyond that.
+Because I think it's a really fun game.
+But like, it's essentially like in the game to give you some hints for this stuff.
+Things like the shiny Pebble which say, hey, you get a one, you know 1.1 times a chance to have like more rare items pop up.
+12:45
+And like, there's another thing that helps you if you have a cat.
+You know, or like a.
+Certain number of. 1.3 or something and like somewhere like 2.5 times.
+And like as soon as you get these things you start noticing, oh wow, I'm getting a lot more rares and very rares and all that stuff happens much, much more frequently.
+And so like it's important to like keep in mind what your kind of rarity level is, which is just a function of like the the synergies between your relics and your symbols.
+13:10
+I think we should be.
+I think we need to talk about the in depth story to this game.
+Oh, I love the story.
+The story is one of the shining points about this game.
+And like this, I'm not saying this procedure.
+I really, I love the the story because, well, I don't know if you want to say, well, yeah, OK, so our story, like the idea of this game begins March 9th, 1776 when Adam Smith published The Wealth of Nations and thereby inventing capitalism and apartment rent price increases.
+13:40
+I believe in chapter one of that book.
+But no, it actually starts with like a very simple popup message that is just from Landy Mclandlord at bouncy dot mail that says enjoy your stay in our apartment complex.
+13:56
+It comes with a complimentary slot machine and you can use it to get gold symbols I guess and you use those to pay your rent.
+Speaking of which, your rent is 25 gold and it's doing 5 spins.
+Good luck which I took to be as like you know this this is your call to action.
+14:13
+I think it's kind of fun like a tongue in cheek thing of just all right let's let's set up the stage for this hilarious slot machine game.
+I can't tell if it's a capitalist dream or nightmare scenario, but but yeah, basically like you, you start with this goal of okay I have to pay rent in order to keep progressing through the game and your rent will steadily increase from 25 after 5 spins, then 50 after like 5 spins.
+14:40
+But like the spin increases as well like hundred 150.
+And then finally your final rent for a given floor is lucky number 777 that you have to beat for your 12th rent payment.
+And along the way you'll get emails from your good pal Tommy Mccomrad at bouncy dot mail saying hello comrade.
+15:03
+Your local mutual aid network has heard of your rent situation and help you their trials.
+We're going to give you 2 green gems and two.
+Black Clovers.
+Clovers pieces of cold to help you defeat your landlord stay strong.
+15:18
+I don't know if the if the green and black things are integral to to communist mythology but but those are what you use to like skip or no to to re roll selections that you get at the end of every rent payment or is that at the end of every spin, every spin.
+15:40
+Every roles are possible whenever you want, yeah?
+As well as removals.
+Yeah, exactly.
+So you spin it to win it.
+That is the name of the game where you are presented with three options.
+15:56
+And each of these options, well, okay, you're presented with maybe two types of options.
+One are symbols and one are items and symbols are kind of like I guess your your card equivalents and those would be things like a ninja that gives you gold, but it's trade off is that it gives you one gold less for every other ninja that you have in your deck or or I guess ones that pop up on the slot machine.
+16:22
+There are things like dogs that are like a I'd love the Sprite work in this game.
+I think it's very, very happy and fun.
+But even things just like the little wolf icon looks really like a fun, cute little wolf icon.
+And everything in this, in this game just has like a fun, cutesy little charm, but not, not overdoing it.
+16:43
+So you have a you have a selection of three things that you pick from.
+Those things have, they'll just like, give you gold or they'll have some other passive interaction with stuff can.
+I give an example just so people are aware.
+I mean, like you mentioned, the dog, just like you may not.
+16:59
+The dog is like, yeah, thank you.
+If it's adjacent to any human type character and it's like dwarves and toddlers and other like minors and stuff and it's like probably like I don't know, maybe like 20% of the overall deck or maybe 15%, then it increases its value by 1:00.
+17:15
+So it starts as one value and then it increases 2.
+So it's it's you're then incentivized the synergy there is that, Oh yeah, then I should have more people so that I can get that bonus out of the the dog.
+And that's kind of like the basic theme in the game is like trying to find those kind of things.
+Also, dogs are terrible cards, so never.
+17:31
+Get that the dog is, it can only do one.
+It can only increase one nearby thing.
+So it's good to because all cards are good like the not all cards, but pretty much everything is good in the beginning, in the first like 10 spins and in the first.
+What's interesting is that in the 1st 10 spins, like you, I think you, I believe you always start with the same symbols on your five on your thing and they give you like a reasonably good level of flexibility.
+17:55
+So it's like oh if I want to quote UN quote build into flowers or if I want to do a a gem based build or.
+Some monkey build, only monkey and banana build, like you have that kind of flexibility to to start with, which is nice.
+18:15
+And yeah, like your your goal should you choose to accept it, is to keep keep yanking that chain and trying to figure out all right, of the options that have been presented to me, how the hell am I going to make this next rent payment?
+18:31
+Do I take, do I add a void creature to my apartment, a coconut half or a threesided die.
+I mean we've all been there trying to make rent payments, right?
+We're trying to make these decisions and you're trying to figure out, okay, if I get, I get the coconut half, would that go like, what's the chance of that getting next to the monkey and then being eaten and then being given six times the value of the of the coconut shell and all these things?
+18:57
+And it took me a long time to kind of get it.
+But once that light bulb came on and illuminated all of the gems around it for me, I was like, okay.
+I think I get where Will's coming from now.
+And that point is when you see, yeah, these are like this group of things is the things that like.
+19:17
+Are looking to eat stuff essentially like they consume other things on the board.
+And now I need to have the balance of like these are the things that eat stuff and these are the things that are consumed and like mixing them together.
+But also like over time making sure that you're you have a synergies that build into the end game and making sure there's a nice smooth transition so you're not building right out of the gate towards a build that's like.
+19:38
+Pays off in the really long run, like doing a whole bunch of coal which takes 20 turn, 20 spins in order, turns to diamonds and like doing that kind of thing And so that whole the balancing act I think that's and learning how to balance is where the fun is and that's why.
+I think this is such a great game.
+I think it does.
+19:54
+After you beat the game, after you beat the 20th floor, there is a pretty significant drop off and like interest to like keep playing.
+At least that's what I've experienced.
+Although because the music's so jamming, I do like to like just boot it up while I'm just like, hey, I've got like 15 minutes, sure, let's do some spins, let's see if I can beat it again because, you know, get the high win rate.
+20:12
+You know, it's kind of fun to get that 20th floor beaten.
+I want you to run me through then like what's your how how do you decide what synergy path you're going down?
+Because like that was I I felt like my problem was I I did not feel like I had enough control over where I was going.
+20:37
+And and it being like if I I was trying to get synergy and it'd be like, well, yeah, I can kind of do it.
+And it didn't, you know, like okay, I want bees.
+Like I had a bunch of bees.
+I had a bunch of flowers.
+20:52
+I had a bunch of bears.
+Like can't get a beehive.
+Yeah, that's bears.
+And be like the Beehive is just like never, never bet on that one.
+Because it's just like it's so rare to get that one.
+Yeah, but OK, so you have to.
+Learn that it's.
+It's just that, yeah, so that's like a, I guess maybe that's a criticism of this game that maybe I haven't grinded my way through, but like, you just have to memorize like 150 symbols and how they interact with each other.
+21:21
+That's fun.
+That's that side is fun.
+I want like you've always talked about.
+Come on, you always talk about, like, making interesting decisions.
+And I felt like the decisions in this game are so fast.
+You're like, you're just constantly making little meaningless decisions that were not super interesting to me.
+21:41
+Like, I very rarely like, I'm like, OK, I have to figure out what the hot keys are.
+So I don't have to move my mouse because I'm tired.
+Like I'm wasting time moving my mouse because I don't want to spend more than like one second on this decision and like, realize that eventually I'm.
+21:59
+I'm just like, I'm speeding through this game.
+Like, Oh well, I don't know if I'm going to win.
+I was just like, you know, go go fast through and like, I'm kind of bored.
+That's how that's how I think I was initially and then the thing that kind of clicked when when like.
+22:17
+So yeah, I think like my strategy is kind of like decided by the like the sleigh, the Spire equivalent relics that you pick up.
+So like do you get the thing that, so you know your first like 10 spins will be effectively meaningless and you're just kind of like picking things like okay.
+22:34
+I'll go for items that have kind of like a wide range of synergies with with other stuff, but I don't know what that stuff will be yet.
+And then I'll get like one or two.
+I forget what they're called like.
+22:50
+Well, they're not.
+Called items in the game.
+Yeah, cuz there's yeah, there's symbols and items.
+And so if you get something like a Kyle the Kernite, for example, and then all of your Ors or like, you don't have like any Ors yet, but it says Ors are gonna be given one more and you have like a minor or two and you're like.
+23:13
+Maybe I'm incentivized now to try to like build in that direction of getting a bunch of oars and then start getting that engine.
+Like there's a very subtle, I think part of engine building here where they're like OKI have these these like passive item things that will do stuff when I activate them with my cards or symbols that I put on my machine.
+23:38
+Crank the handle, Okay.
+Is it going to happen this time?
+Is it going to happen this time?
+And then you get like all the things just like spinning around and getting like the little hilarious sound effects and go and then like all the little gold icons like start popping up and like, ooh, this is activating the the pleasure center of my brain very well.
+23:56
+Give me that dopamine.
+But but it's not obvious like it's not immediate obvious that like oh, I should be, I should be optimizing for like.
+Almost like a race for the Galaxy style engine building strategy where you're like okay, in my limited time that I have here, I have to like do these things to do the other things in order to get the the gold flowing in here before the next rent payment.
+24:24
+And that's that's also where like skipping becomes important because you're like, well, I don't want to necessarily add more stuff to my bloated deck and where crucially that I'm super bad at removal becomes super important because if you have like.
+These different symbols, it's like, Oh yeah, I have like a bear.
+24:40
+But I have like 3 things that are really important for setting up for the the like billionaire or Dame icon to come in and like chug up all that alcohol or appreciate those shiny gems like then I can say like okay get mix the bear and.
+24:59
+Try to focus my build in that direction.
+I think that's what my strategy was, but I don't know if Will's gonna say like my.
+God, well, I mean, there's quite a few errors in that already.
+But yeah, well, Okay, counting on the rare earlier.
+But I want you.
+Yeah, go through how you go through the game.
+25:16
+Yeah, never count on a rare pop up.
+I mean that's like one of the key things is like Yep, always be like open to it.
+But if you're like building towards like that, you're talking about like for our viewers at home, the archaeologist is one of these dudes that like for any like mineral type thing in the game, there's lots of different minerals and rocks.
+25:32
+It will consume that item and like it will increase its value.
+And so it's a, it's a rare one and it's super good to have.
+But like if you are, if you if you have a bunch of like items and things that are like trying to synergize you towards building out like a.
+Get more rocks and minerals, but you don't have the archaeologist.
+25:50
+Then you are setting yourself up for failure and so like you're talking about getting minors which crack open stones and like this, all this, all this energy.
+Well you end up at the end of the game though is like a hand or like a essentially a deck full of all these really low value cards.
+Because none of the actual gems or none of the stuff's coming out of that is actually synergizes with anything else except for like one or two cards.
+26:12
+And so if you don't get those cards.
+That's going to be game over in the mid game and so like and it definitely is not going to last you into the end game.
+And so trying to be flexible about like really understanding like well, I need to make sure that like like the miners are like one of the worst ones.
+As a result, it's a new trap right there, in fact, because it feels so good.
+26:29
+Because you're like.
+It does feel.
+Stone, you got 20 gold out of that early on.
+That helps so much.
+But then suddenly you have a this bloated deck of all these really shitty minerals.
+You're like, Oh no, I don't give mom doomed now.
+And so yeah, and this is all stuff that like.
+The learning process is the fun part for me like that, like because I fell into that same trap.
+26:49
+I mean that was like this seems so cool.
+I'm going to get the minor every time because it has that exact thing and and they just kind of learn these like small nuances over time.
+And like now at this point like the strategy is like really in the in the beginning it's it's always just grab as many items as you can like.
+27:09
+Not you don't have to grab every item in the first like 10 spins.
+But like most like you have to just barely make rent happen.
+Like that's like that's the key.
+And so you can't just do a bunch of skips.
+And then you kind of want to like slow down as you approach 20 and then basically stop between like 19 and 21 and then like only take things that are like.
+27:27
+Really good synergies or that are like a step in like maybe if all the average symbol value is like 1.5 or something which is say you have some like you know 2/3 ones and some twos and like a four value thing comes along.
+Yeah, you should probably take the four value thing, but the three value thing that doesn't synergize.
+27:44
+Maybe not.
+And so like this is the kind of like the way that I approach it here is like you really the synergies are the endgame like thing that you have to do.
+And so making sure that like you're you're building towards that and always if you're in the 1st, 2010 or 15 roles always getting like the clubs of the hearts are like trying to get those spades synergies going because that's a really powerful endgame build.
+28:05
+There's like some things that you realize when you've done enough playthrough is like, this is a powerful endgame build and like.
+Always pick up a cat in that first, like 20, because if you get that item, it sets it off.
+And like the cat synergizes just a lot of different items, and I'm just rambling now, but like, so fun to find those synergies.
+28:20
+Yeah, one thing that I think the game well, I I would want it to do better, but I don't know how it would do better about this because there is there's only so much text that you can display on the screen without it becoming more overwhelming than it kind of already is with a lot of the symbols.
+28:36
+But what it doesn't tell you is like, OK, here's the item, this is what it does, but it doesn't tell you what other items like consume it.
+Or like there's like a yeah you need like nested tool tips.
+28:52
+It's like OK, this becomes this but then what does that do.
+You can't like right click and then look at the the like chain of of what?
+Like OKII mean I'm bananas, like pretty sure are bad, but like banana becomes banana peel, banana peel, trips up, thief, thief gets other stuff blah blah blah.
+29:14
+So like I want to be able to like see the web of interactions and it's like okay.
+Well, the other way of doing that is just to memorize what all the symptoms.
+Do.
+Well, you can do that by referencing like the wiki.
+I think the wiki's pretty good about that.
+But at the same time, well, yeah, I think it's better with that.
+29:32
+Yeah, like, so I think that that's only if you're trying to like get good at the game, as it were.
+But like, there was a run that I was doing last night and I was like, okay, I have, I got like.
+This really good seed engine going, and then the seeds grow into fruit and then the fruit gives me money and then oh shit, I just have like a ton of fruit in my deck and it's just getting it's getting more and more and I can't get rid of the fruit.
+29:57
+And what's the thing that consumes fruit to get it out of my deck.
+I guess I could like destroy the symbols maybe or maybe I could get one of these.
+There's So for the most part in this game you have.
+Cutesy things like farm animals and fruit and chemical 7 and spinning little arrows.
+30:20
+And then you have Eldridge symbols which will give you like a 30% chance of you know your your gold, like one of your gold getting stolen.
+But maybe it'll give you something and other things like that.
+So there's like a a wacky blend mishmash of.
+30:38
+Things that you kind of encounter in everyday life and an elder toror or two here and there and I was like okay, well I have my my deck is like filling to the brim with all of these Peaches.
+I don't know what to do with all these Peaches and I'm like, oh, I didn't realize there was an item or I guess it's a it's a a farmer lady who consumes Peaches or or like fruits and becomes more powerful as a result and those consumption items.
+31:05
+I think are kind of like a key element to this sort of engine building, that if you have things that like produce and produce and produce, you have to have things that consume and consume and consume to keep your deck from getting overwhelmed exactly.
+But I don't.
+I don't know that the game like you have to get the consume thing first before you know what you'd want to get the produce thing.
+31:24
+But the consume things are rare, which means you can't get them until later.
+So that means you have to just sit there skipping.
+And I hate skipping.
+It feels bad to do it.
+It feels.
+Good, though.
+If it makes you win, like that's when you do it and you start winning, you're like, oh, now I better.
+31:42
+I mean, okay, Yeah, it feels better to win than to not to win.
+But I could play a different game instead.
+That doesn't require me to do this thing that I don't want to like I don't.
+You you played Slay the Spire like you understand how valuable the skip is and how valuable lean Dick is.
+32:00
+This skip is bad.
+I would prefer way more item deletions because that's a feels like a decision that I'm making to like, get rid of something that feels like, oh, I'm getting slim skipping feels like I am being offered things and be like, Nope, I don't.
+32:19
+I I have to resist the temptation to take something.
+It's like, oh, here are three things that may be tasty, but you can't have them because you have to be a good boy and not you have to you can't eat those delicious cakes in front of you.
+What?
+If you were to look at them and be.
+What if you were to eat this delicious green Communism gem instead and reroll those options to see what else you got?
+32:43
+Maybe.
+Maybe every time.
+And it's.
+Okay, see that?
+Another new strap right there.
+I mean, when are you supposed to reroll?
+So they they give you a tool tip if you read the emails that are like a little tip which is like the if the value of the the rarity role like carries through on to rerolls and you get a very high value role at the end of a after you pay rent.
+33:07
+And so if after you pay rent, you can have like you know much more likely get rares and uncommons and so on.
+And so if you don't like those three, so you want to save up so you can keep rerolling and get like more rare ones during that.
+And so that's just one of those small things.
+But I'll I'll just add to like the game does have like many different strategies that synergize towards removals.
+33:27
+And like, you don't get it every time, but like there are reroll objects where you you pick them up.
+I don't remember the exact name, but like, but you goes into your deck and if they appear on the screen that they'll blow themselves up and give you a reroll or or they'll give you a removal.
+And so there are ways to like, do this or there's some object like the jellyfish.
+33:45
+If you get a diver and the diver gets the jellyfish, then that'll add a removal to your.
+So there's yeah, but the diver is a rare thing like.
+Yeah, the diver is a rare thing, I think.
+How much of it is like it feels like all of this game is a new trap?
+34:02
+Like, oh, just figure out what the, the, the few flexible items are.
+And there's all these cool things that you know exists, but you don't get to play with them because it's stupid to build a synergy for waiting for them because you're probably not going to see them.
+And like, all of the items like, oh, I know all these cool items.
+34:20
+Like every time I'd finish a run, I'm like, cool, I had this cool thing like, oh like, would it be cool if I could try and do that synergy again?
+It's like, absolutely, there's 0% chance you can do it.
+You're not going to see that item again.
+It's not zero, and it's not always stupid.
+Like you can take things that are like consumables that are are bad in general, like early in the game, especially like a bear is generally bad.
+34:43
+But like, yeah, if you're early in the game, like that's a two point thing and when most things are one point, sure, take it and eventually you might get a, you know you'll probably end up removing it maybe towards the end of the game, but like, it's helpful in the beginning.
+So I think that like a lot of these problems can be sorted by just like understanding there's a time and place for each one of these cards.
+35:01
+Like there's a viable build around every strategy, whether it's crabs and cultists, kind of these weird like ones that take a lot of luck.
+Or ones that are more tried and true, like the different cards and getting like the flush and whatnot and all the items that synergize with like the playing cards.
+35:18
+So I feel like there's there's an element here that I I want to say that like the demo for this game did and I tried downloading the demo but it wouldn't let me after I put the game which was weird but like I believe and people can correct me if I'm wrong but I believe the demo for this game has like.
+35:38
+Limited, like way more limited options.
+And I remember reading a review that someone has, it was like, that felt more like more logical in a way in that you don't have this this problem of like here's like 10 billion things to choose.
+35:55
+And like if if you have like a randomized subset of it, like you're kind of a little more focused and you're not like okay, I have to worry about?
+Getting getting like a spirit synergy with urns and maybe a dark humor and comedian symbols later, like don't have to worry about anything.
+You just have to worry about this one little small section of it.
+36:14
+And then the other thing I thought was like, well, as far as I know, I don't think there's really much meta progression in this game other than the God.
+What do they call it?
+They wrote it down the essences.
+Essences.
+Is that right?
+36:31
+I haven't unlocked those yet, but.
+Like, I feel like there's there's an element of yeah, I know those are kind.
+Of important later but.
+Yeah, I mean they've been noob trapped all day long with all these the shiny trinkets in my face.
+Of course I can't get to the essences, but but like progressing like, oh, if you win a run and you get like some of these symbols that maybe like unlock more symbols, you can kind of like get like, oh, now I know that this other symbol exists instead of having like.
+37:01
+The like the full 52 card pickup fly out of your hand and on the floor and like Oh my God, what what is all this stuff?
+It's like the the stay tuned and a half episode that will cover eventually for Rift Wizard where you have like 10,000 spells available to you all at once and you're like, this is a lot of stuff.
+37:18
+I don't know what to pick, and there's a lot of like Item synergy Synergization there to a similar degree, but I'm wondering if like.
+Intentionally limiting some of this decision space by either unlocking items as you go along or having some of them.
+37:37
+And I know this is like a thing in in the later game where like you get duds and stuff, but I don't know if that's like more necessary for like the beginner experience in order to be less overwhelming, if that makes sense.
+I mean, I could see how that'd be viable.
+37:54
+I don't necessarily know that it would be better.
+I mean, I'm trying to imagine like.
+I think it could be.
+I think there's a chance that especially if it wasn't just like unlocking one card at a time, if it's like, hey, you just unlocked this cluster of cards and there's like some light synergies or maybe like, you know, there's just like hey here, you just beat it.
+Like choose one of three types of synergies you want to add.
+38:11
+And like this one over here is the Banana Peel Thief Monkey synergy.
+And this is the, you know, like just kind of like break it out like that or like, oh, here's an interesting dynamic that I can add to the game.
+Like I'm not really sure if that.
+Works out.
+You have to balance the game across like how many like the different decision paths people take where if someone chooses these two things over here, does that like totally break the game because they don't have the the rest of the clutter essentially, which is important to have, right?
+38:36
+Yeah.
+So it would be harder.
+Yeah, you wouldn't be able to.
+It have to be just like more clutter of all types.
+I mean it's possible that I think, I think you could manually change the probabilities of things popping out, but I think it's really good as is.
+38:54
+I mean in my opinion because I I just this and I think that this is maybe different between me and you guys.
+But like doing the the work of of playing enough times to solve this stuff like this is what does it.
+Yeah, I like and I think this is going to fall into one of the games that I I see why you like it and I don't begrudge you or anyone for liking this game.
+39:16
+It hits a node that you have and I know you have much more than me.
+I don't like gambling.
+I don't like that Kind of like.
+Again, I I want to make this is not, it's not, it's not gambling I don't like.
+39:34
+Unless Van Duel wants to sponsor this episode, right?
+Yeah, I don't.
+Well, I don't like gambling in general, but I also don't like this kind of like spin for luck kind of thing.
+Where?
+Isn't that all rogue lights?
+I mean like, no, I feel well and and honestly.
+39:52
+There's randomness.
+Sure, sure.
+And I think that some of this has illuminated what I like about some of the games and what I don't like.
+I like this kind of thing as a method for inputting some level of.
+40:11
+Novelty and randomness in a game.
+So like I I've been trying to why do I like Slay the Spire and not and and not this as much.
+And I think it's because like for something like Slay the Spire or Monster Train or any other deck building type ropey games, if this is just like it injects new, IT injects strategies in, but then you're still playing the game.
+40:37
+There is no the game in this, it's only the deck building.
+Well, the game is to defeat capitalism, obviously.
+But like, there's no, there are no decisions that aren't building the deck.
+There's no fight.
+There's no okay figure out this set of moves that gets you through the thing.
+40:55
+It's all the deck building, and I'm like okay with deck building.
+I think it's an interesting way of adding difference, of mixing up the experience when you play a game, but I don't want that to be the entire game and that's what this is.
+41:15
+So like, a good analogy that I can think of is like at a board game night you have like you're super heavy, like games that are like Okay, We're going to center the evening around this thing and then you have like enjoyable filler games as downtime.
+This, I think, is an enjoyable filler game in a good way.
+41:34
+Where it's not something that like, OK, it's not like a Grifflands where I have to be like, OKI haven't played this game in two months, booted up, what's the story?
+What's my character's motivation Again, all this stuff I just want to see like candy screw like fly by the screen and watch numbers go up and Goldfly everywhere like this.
+41:54
+This solves that particular problem space very well.
+And I I I get what you're saying about like there's elements of it that could be more substantial.
+But.
+I think for what it is and for like where it's at right now, it works like it seems to fit that niche pretty well.
+42:13
+And that's like, I don't really want it to be more substantial, like it can't be more substantial and still be the same game.
+True.
+I think it has just enlightened me of why do I like the deck build on thing.
+42:28
+It's to add novelty to a game I already like for other reasons.
+I don't like it in and of itself and be like do you like rolling dice?
+Cool.
+Here's a game where you just roll dice and see who had biggest number.
+Like no, I don't like rolling dice.
+I like seeing.
+I like that is a way to get in and like get randomness and get variation into your game, and this is much better than just rolling dice, but I feel like it strays a little bit too far in the just roll dice category versus the like.
+43:03
+At the opposite is chess, where it's just pure open information, no no hidden, no randomness, only pure realm of logic thought, which I'm not actually that into either.
+I like the balance between them.
+Well, I mean if you look at just to take, you know, take this to an extreme with like looking at Slay the Spire, perfect play is like possible for like.
+43:24
+I mean like for like.
+Any given like encounter like you can like pretty much do the right thing.
+Like once you've mastered the game you you do the math very quickly in your head and like you know multiple people that are very good will arrive at the same sort of like pattern essentially.
+And so it's essentially just saying we're assuming that you're a perfect player with the with the fight and that's why it's the auto battler element is like the things on the screen spinning around and making all the fun sound effects, which by the way you should all speed up to I think like two or three times or or more like speed because yeah, if you watch those at.
+43:55
+Normal speed.
+Holy shit, that gets old really fast.
+So you have to go at least two or three or more times.
+So please do that if you're playing the game at.
+Home, but what about all the sound effects like the cat going or the yeah?
+They still do that.
+It's just a little faster.
+Yeah, it's.
+44:11
+It's better that way in my view, but like, that's what I like about it.
+Because even with Latest Fire, once you are perfect player, then it is just the same game essentially where all you're doing is making those determinations about what you're adding and removing from your deck and the sort of relics that you're here or the items that you're combining.
+44:27
+And so in that way, I really love that.
+It is like in my view, like a perfect distillation of that super fun aspect of the game.
+Yes, it is removing the actual fighting and the thinking about like, you know, attack and defense.
+But I think that's where it innovates.
+I think that that's like okay, you know it's it's that's the thing that's eliminating while it's adding more to the focus on like these these synergies and it's really fun.
+44:51
+I thought the destroying capitalism and that whole narrative that like I the one of the things in the game just related to that, that I just fucking love.
+That really tied it all together to me.
+These billionaires you can get as a symbol, there's a little like at some point you get this little tool tip that says billionaires have no souls.
+45:10
+And that's because all the other animals in the game, if you kill them off, they can create a soul that you can harvest through that There's like a synergy with souls.
+But the billionaires do not create souls when you kill them, which I just thought was delightful because you can't kill them with guillotines, you.
+Can kill them with guillotines and when you get to essences, and there's an endless mode if you ever beat the game.
+45:30
+But we're.
+Working on it.
+You can get up to a billion dollars and the essence of the guillotines, so the essences are essentially like.
+Kind of an abstraction or a different version of all your main items.
+But then what it does is it once you get to a billion dollars, which is like possible to do with the insane synergies you can get you, you kill yourself essentially with that.
+45:50
+There's a special award you get in the game for killing yourself with the essence of the guillotine.
+And I think I just, I just really love that it's all like, Yep, defeating landlords, anticapitalism, because I think we're all, at least millennials are all feeling this.
+And I think a lot of the young people are feeling this like.
+46:07
+You know, strong resentment towards like the extremely high cost of living, high cost of rent and all these things that we're seeing a high, high cost of education.
+And this is just an outlet for a lot of that rage because in the end you kill the fucking landlord.
+And it is very satisfying.
+46:25
+Well, it's a good thing that Will's landlord doesn't listen to this podcast.
+No, I told her about it.
+Actually, I told her about that.
+I told her today.
+I was downstairs and I'm like, Oh yeah, I'm reviewing this game.
+And she's like, what is it about, like killing your landlord?
+And she's like, oh.
+Sounds great.
+Where can I sign up?
+It was delightful.
+46:41
+Maybe she lives in a different building and she wants to kill her own landlord.
+This landlord's all the way up.
+Yeah, until you kill God, the ultimate landlord.
+Well, OK.
+Final thoughts about luck being a landlord?
+46:56
+What's your final spin on this game?
+Final spin Are we giving a rating along with the final spin here?
+Or what else do we want to say about before we jump into ratings, I guess?
+I mean, I think we cover, it's perfect.
+Let's just, let's just jump in trees.
+It's got the great narrative.
+47:14
+I guess.
+Great music.
+You guys at you.
+I'm surprised you guys.
+Yeah, you're right.
+You're right.
+So that's true.
+We did not talk about aesthetics at all.
+Good music, good aesthetics.
+I did have to change the font because I could like, you know what?
+47:31
+As I've gone further, I can't read pixel font.
+My dumb eyes don't like it.
+I just need to change it to normal fonts.
+And after being thoroughly buzzing good by cogmind and not realizing you could change fonts in there, I have learned my lesson and now check to see if you can change to fonts and you can.
+47:50
+So minus that, I really like the yeah, the old pics are really good.
+Yeah, I guess.
+Actually, I do really feel the need to say like.
+That and this is something that I I especially look for, look look for in games.
+It's like how much fun can a developer create with the least amount of effort and like how do you solve that Like what is like in this in this game.
+48:12
+I think approaches like a pretty close maximum for that because the pixel like the amount of effort.
+I mean, like there's a lot of like little things, like little art things, but like that doesn't take a lot of work to make it.
+All these things like, I mean, I I they were good.
+They're not great, but like, they don't have to be great.
+48:28
+Like, I was completely satisfied with the aesthetics here.
+I was completely satisfied with the narrative just being little, like e-mail messages that you got.
+And I was completely satisfied with like the core of the game just being essentially finding like synergies which are just based on the like rules that like the creator made.
+48:45
+And so it just seems really cool.
+That like when you look compare it to like all these AAA games that are total shit that are not fun at all.
+Like, this one person created just a shit ton of fun.
+This this thing is the essence of a Slim deck game.
+49:00
+Yeah, I and I and I love it for that.
+Ready.
+It passes.
+It passes the the true test of game Can you pet the dog?
+And the answer is absolutely yes you can.
+Yeah, like a dozen people can pet the dog at the same time.
+49:18
+Yeah.
+I think I'll go first with with ratings.
+I I on revisiting of this game, I liked it a lot more and I think it was because like I was skeptical of it being a rogue like deck builder.
+I'm like yeah, but it's is it though.
+And then the more that I kind of more that I kind of like stared into the eye of the the Eldridge horror item, the more that I kind of got it.
+49:40
+I'm like, yeah, it does.
+It does have all those elements I think like.
+It does.
+Like, I feel like I want it to be more substantial.
+I want I want there to be a developer announcement of like you know we we had such a success for this game we're going to make luck be a landlord too and have it just be like 25% more substantial.
+50:01
+Like I don't think it needs that much more but like or like more stuff in this kind of vein from this developer.
+I think that, yeah, the.
+The developer that trampoline tails Dan, Dan de Loreo.
+I think he did a slam dunk job on this game and I want more of it.
+50:19
+I want more, more stuff like this.
+I think this is fun.
+My rating will sound much more punitive than the way that I'm describing it and that this is my my number new 14 game out of the 28 that we've rated so far ahead of Cult of the Lamb and behind fighting tight spaces.
+50:36
+I think like this is this is like in the solid like.
+Yeah, this is a good game.
+You should go check out part of the pack.
+I don't think it's as deep or strategic as something like FTL or Cogmine, but it doesn't need to be.
+And it fits that perfect space of like, you know, you're like, this is the perfect game to play.
+50:57
+Like on your phone, on your Steam deck, on the bus where you have like 5 minutes and you're just like, yeah, let's let's have some fun and look at some candy fly across the screen.
+It works perfectly for that.
+It doesn't need to do anything more.
+I guess I'll go.
+51:16
+I also have it as 14 out of 28.
+I feel like you talking about it with you guys now has convinced me that I am going to play more of it it I I I so I've I've been trying to think like what would I what would there be to make me like it more.
+51:33
+And I think the answer is what I I I I wanted to do what I want it to do.
+Which is once you start getting cards of a certain type the probability of those cards or synergy cards of that like coming up more.
+I want that.
+51:49
+Like, so if you start out with B flavored deck, I want B flavored cards to come up more later in the game.
+And I realized that is like abysmal antiprobability.
+52:05
+But it's how I it's it's how I want to feel when I'm gambling of like me wanting it more means I should get it more and that would feel better.
+I I felt like it was a little just playing.
+52:21
+It felt too random for me and I I wonder if playing it more or I'd be able to like utilize that randomness better.
+But I if I was not doing this podcast I would not have, I would not play it more than the 2 1/2 hours I have in there right now.
+52:39
+This would probably be the end of it.
+Alternatively as a mobile game I think would be excellent.
+It's really good like you don't have any more controls.
+You get a really good form for like a mobile just and you could even like you flick it to make it spin.
+So that's a.
+Good idea So but it is.
+52:58
+It's like it was a pretty good game.
+I I can recommend but not a.
+Strong one is it, is it like Rocket League.
+So Colin and I play Rocket League together and we always talk about how Rocket League might be a better game where like or it might feel better for us personally if like I know MMR system is supposed to give you a 50% win ratio, but like if you actually have like a 55 or 60%.
+53:23
+Like wouldn't that just feel better?
+And I think the answer is yes, if your expectation is that 50% and you just like you know more often than not you're you're actually getting sprees of two or three or four in a row when you would otherwise not Like.
+Yeah, I can see how that might be the case, but then you kind of have to like.
+And as soon as you know about that like I think that like and this might not be obvious to a new player, but like as soon as you know that the, the, the dev is like altering the probabilities unseen, you know, behind.
+53:49
+I wouldn't it couldn't be unseen.
+It have to be explicitly called out somewhere.
+Otherwise it yeah, it would feel cheap.
+Yeah.
+And so I I don't know I can imagine there there might be there might be something to that I I don't know how much has been done in in that particular.
+Game facet to like modify probabilities, but for my for my rating here, I'm going to blow everything out of the water here and say and this might be.
+54:16
+I feel a little crazy saying this because it is such a simple game in many ways, but this is my number one favorite game that I've played on this podcast.
+Yay, yay.
+I mean, you know what?
+I'm fine with you having it as that.
+It's there is nothing I would take away from this game like all the other games we talk about like and the reason that it's it's it's taking the number one spot away from War SIM, which I again I think is a fantastic game.
+54:42
+I got super into it.
+Also, another gambling.
+Yeah, that's another game.
+That's another.
+But at the end of the day, there's a lot I would take away from that game.
+There's a lot that I I didn't care about.
+A lot of narrative stuff, a lot of walls of text.
+I'm just like whatever.
+It was really like optimizing that betting game initially.
+55:00
+That got me hooked.
+And this one here is just, I don't know.
+I can't think of a single thing I would change.
+I, you know, there's there's no symbol.
+There's no synergy.
+That's stupid.
+There's no, like, I love the way it's all presented together and the only thing I'd say that could make it better is to make not, not, don't.
+55:18
+I would say don't expand this game.
+Don't just add more symbols.
+I think it's.
+I think this game is a solid.
+Container of goodness right now.
+And if you wanted to like make more easy money, if you're listening out there, just make another one with different symbols and different synergies.
+Because I'm.
+I'm pretty sure you can, like come up with a list of another like, you know, 150 or so like random objects from around your house and neighborhood and be like, Oh yeah, and here's the new rules for how this they didn't have like soda machines or.
+55:44
+Pizzas, soda machines or pizzas.
+A pizza is a classic symbol.
+Letter openers or.
+Like the little tab that you put in your bike's hydraulic disc brakes to keep them from clamping, whatever that thing is.
+I think it should be like your lawn mower, right?
+56:00
+Exactly.
+And the way that you can keep the theme and keep it really tight on the anti capitalism thing, which I love.
+Is instead of like killing your landlord, now you're killing A/C, EO like you're actually like you're you're you're an office worker, you're an office worker and like you know, every five days you have to fill out T.
+56:17
+PS reports and if you don't get the TPS reports in and you have to earn TPI don't know like you know that kind of a dynamic and you can apply this to I'm sure lots of different like you know you know ways anticapitalism sort of like themes.
+But I just, I think that that would be a really fun expansion, and if you want to make more money on the same base idea, it's a real easy way of doing it.
+56:36
+So best game.
+I I love it and I I put 30 hours in this game.
+I think I'm gonna say it's it's done at this point I might still crack it open here on the like on the side while watching Star Trek TNG late at night because it I can't put all my attention to that show.
+56:52
+It's it's a good.
+I mean it's just it's one of those things you fall asleep to but it's great game well that you should all play it.
+Yeah, I would 100% play an expansion for sure.
+Well.
+That is going to is going to wind us down here.
+57:09
+If you want to to send your comrade sympathy into our bouncy mail, you can do that at Grog Pond Zone.
+Grog pod zone@gmail.com is what it says.
+Our Mastodon is Grog pod at game dev dot place.
+57:26
+And finally our website where you can see all of our rankings and data and other stuff that that we have is Grog Pod dot zone.
+Normally this is where we would have our teaser for our our next episode, but we're going to leave it to be a special secret this time because we had quite quite a number of games suggested to us by the community, which is always a fun thing to see, but we're going to leave it a secret until our next episode.
+57:57
+I think we have some fun, some fun new announcements.
+To come down the pipe and what better way to do it with a with a listener request week, so stay tuned for that next time.
+We will definitely be covering that and not rug pulling you and then accidentally covering Cataclysm instead, but but in the meantime to play us out from this episode, some tunes from when you're behind on your gambling debts and you need to hire a human hunting general to clear out your apartment slot machine and make rent for the week.
+58:28
+We've all been there, right?
