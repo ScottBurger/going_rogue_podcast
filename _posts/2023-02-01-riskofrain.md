@@ -39,7 +39,7 @@ Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/risk-of-rain/id1650474911?i=1000597624239) | [Spotify](https://open.spotify.com/episode/0JmNCVVzXRfxq2EwzbDkvF) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/risk_of_rain.txt))
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/risk-of-rain/id1650474911?i=1000597624239) | [Spotify](https://open.spotify.com/episode/0JmNCVVzXRfxq2EwzbDkvF) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/risk_of_rain.txt)
 
 ---
 
