@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/noita.jpg
-thumbnail-img: /assets/img/noita.jpg
-share-img: /assets/img/noita.jpg
+cover-img: /assets/img/diceomancer.jpg
+thumbnail-img: /assets/img/diceomancer.jpg
+share-img: /assets/img/diceomancer.jpg
 duration: "1:41:10"
 length: 84222000  
 tags: ["2024", deckbuilder]
