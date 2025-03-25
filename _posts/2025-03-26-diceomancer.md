@@ -35,7 +35,7 @@ description here
 
 ---
 
-Next episode: ?????????
+Next episode: Cube Chaos
 
 Contact us at grogpodzone@gmail.com!
 
