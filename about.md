@@ -26,6 +26,8 @@ Daniru17 - [Twitch streamer](https://m.twitch.tv/daniru17/home)
 
 Helen - [Mystery Dungeon expert](https://twitter.com/gagther)
 
+Tyler Pittman - Hades addict
+
 
 ## What is a Roguelike?
 
