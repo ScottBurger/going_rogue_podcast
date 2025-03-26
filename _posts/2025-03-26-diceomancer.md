@@ -16,7 +16,7 @@ length: 76243320
 tags: ["2024", deckbuilder]
 ---
 
-The club of overwhelmingly positive roguelike deckbuilders is a small one, but bolstered with Diceomancer! The late 2024 release features a unique mechanic of allowing you to re-roll any number you see on the screen. Just imagine being able to re-roll your podcast subscriber amount from 6 to 14! The possibilies are limitless in this Cozy Vibes(tm) aesthetic where you can finally exact your revenge on all those geese that have hissed at you on the park bench with an infinitely reloading crossbow. Exactly what those noodle neck monsters deserve for delaying your fishing trip!
+The club of overwhelmingly positive roguelike deckbuilders is a small one, but bolstered with Diceomancer! The late 2024 release features a unique mechanic of allowing you to re-roll any number you see on the screen. Just imagine being able to re-roll your podcast subscriber amount from 6 to 14! The possibilities are limitless in this Cozy Vibes(tm) aesthetic where you can finally exact your revenge on all those geese that have hissed at you on the park bench with an infinitely reloading crossbow. Exactly what those noodle neck monsters deserve for delaying your fishing trip!
 
 <div class="container">
   <audio controls style="width: 100%;">
