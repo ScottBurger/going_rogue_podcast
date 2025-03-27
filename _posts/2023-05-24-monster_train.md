@@ -37,7 +37,7 @@ We're on the Highway to roguelike deckbuilding Hell this week, riding a Crazy Tr
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/monster-train-with-joe-homes/id1650474911?i=1000614262629) | [Spotify](https://open.spotify.com/episode/7Mk4ujwkMnVeIZGAcZGtir?si=DgRmLYtbQV6zG6r8K1my3A) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/monster_train.txt))
 
 ---
 
