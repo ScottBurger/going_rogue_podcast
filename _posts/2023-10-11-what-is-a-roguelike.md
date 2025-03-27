@@ -47,7 +47,7 @@ Happy GROGSversary! As we celebrate one whole year of doing this program, we com
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/what-is-a-roguelike/id1650474911?i=1000630921882) | [Spotify](https://open.spotify.com/episode/5PgDfOKnqbPnAI3ynn1Ym9?si=gpmH8vjZT0mmkKXUgHFGlw) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/what_is_a_roguelike.txt)
 
 ---
 
