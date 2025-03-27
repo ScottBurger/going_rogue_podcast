@@ -1,0 +1,2293 @@
+0:33
+greetings friends and welcome to yet another episode of the Grog The Pod roguelike podcast wherein
+each episode we roll the die on a roguelike game, sometimes landing on a Nat 20 and sometimes with a
+0:45
+crit fail.
+Revisiting those those high rolling games at the end of the year for a good old fashioned recap
+0:53
+episode.
+Everyone's favorite.
+0:54
+I am your Piggy King host of the podcast Scott Burger and with me are my Co hosts Emerging from the
+Purple Mist.
+1:02
+This is Will Wright, you're Sage with the most reliable deck.
+And this is Colin, a very aggressive goose.
+1:09
+And lastly, Andrew Harshman here, you know I got a soft spot for anime.
+I'm the life of Lifomancer.
+1:18
+Yes, this this week we are talking the roguelike deck builder Daisomancer, released relatively
+recently, October 9th, 2024.
+1:29
+I believe this is a Steam exclusive developed by Ultra Piggy Studio out of Beijing, China that was
+founded in 2023 consisting of four people, 2 artists and two developers whose only other previous
+1:43
+work I think was a prototype for this game that was an itch itched on IO Game Jam game for the game
+makers Toolkit Game Jam called Dice is the way and I think if you Google if you Google dices the way
+1:57
+you'll quickly see ah yes, this does indeed look like a prototype for dysomancer.
+Dysomancer is published by I'm gonna say Gamera games Gamera games depending on on your Godzilla
+2:09
+fandom notable publishers of drumroll Dyson sphere program shapes with AZ 2.
+Stay tuned in 1/2 rogue like deck builder Shogun showdown.
+2:21
+We got TMN teenage mutant Ninja Turtles shredders revenge very well regarded and weirdly the last
+spell because I think since since the last time we covered it.
+2:33
+The last spell has since changed publishers from the arcade crew to gamera games gamera games.
+But yeah, reasonably good portfolio there, Dyson.
+2:45
+Reasonably good, Incredible, incredible last spell.
+Good stuff.
+2:50
+Isomancer.
+Your average player has about 18 hours of gameplay in it, and it rolls in on our roguelike
+2:57
+popularity charts as the 230th most popular roguelike game with 4394 total reviews.
+Will you?
+3:06
+You are compelled to describe what one does in Dysomancer in exactly 999 sentences, unless you
+choose to change that number.
+3:16
+Well, I think I can roll a dice and make that one sentence here.
+And it's a it's a really OK, the very simple one sentence summary is that it is a this is going to
+3:27
+sound.
+It's it's a worse slate of Spire with some different mechanics focusing on this primary thing, which
+3:36
+is rolling a dice to replace and or rolling a die to replace any number that you see on the screen.
+Now I was very excited when we were going through the the picking process and trying to figure out
+3:46
+what what game are we going to follow follow up Noita with and bending around some ideas.
+It's a will episode.
+3:55
+So it has to be a rogue like deck builder where contractually contractually obligated.
+And there's, you know, there's like a handful of overwhelmingly positive rogue like deck builders.
+4:05
+We've covered a lot of them so far.
+Bilatro slaves, fire, of course, inscription, monster train, but there's a few that we haven't
+4:12
+covered.
+And I was very excited to see Daiso Mancer on this list of overwhelmingly positive roguelike deck
+4:18
+builders, which means it's got to be a hit.
+But I think looking back through some of our our previous episodes, a game being highly rated does
+4:29
+not guarantee that we will highly rate it.
+Looking back at some of our overwhelmingly positive whiffs we have, I think I think Against the
+4:38
+Storm is overwhelmingly positive that I think I was the only one that liked.
+I think we were unanimous and whipping on Brotato.
+4:46
+I'm pretty sure Cult of the Lamb is overwhelmingly positive.
+And really I'm pretty sure it is.
+4:52
+Check me on that.
+And I believe.
+4:56
+It was, it was fine, but it was overwhelmingly positive.
+Yeah, I guess like.
+5:00
+It's a fine game.
+What what I mean by whiff here is like our our like, you know, it's fine not matching like the the
+5:07
+steam level of like Oh my God, like I I I take overwhelmingly positive to be like, oh, you're gonna
+really like this regardless of who you are but or at.
+5:18
+Least one of you is going to love this game.
+One of one out of four chance for sure.
+5:23
+And I guess that landed with Against the Storm.
+I I will still kind of bat for 60% of that game, but yeah, I think 60%.
+5:32
+Oh wow.
+But I was very excited because Dyson Mancher, I had played, yeah, I think the demo for it at one of
+5:39
+one of like the next fest, Steam Next Fest events or something like that.
+And I was like, oh, this is this is interesting.
+5:45
+What do you mean you played it at the the next fest?
+Well, I I went I.
+5:49
+Went on your steam?
+Deck Yeah, the the I went to the steam.
+5:53
+You went to Bellevue?
+I went to the Steam con at my desktop computer and I downloaded the demo along with, you know, I
+6:02
+waited in line to download the demo, yeah.
+Yeah, sure.
+6:07
+You had to wait in line.
+You did.
+6:09
+You did cosplay for it, which I I commend you.
+Yeah, Oh yeah, I'm wearing, I'm wearing a purple hoodie right now.
+6:15
+This.
+And yeah, ironically, this is somehow like.
+6:18
+That's your Noida outfit.
+Excellent.
+6:20
+Yeah, this is our our a trilogy of accidental purple purple hoodie episodes that we've gotten
+between Noida and God.
+6:28
+What was the game that we played before Noida?
+This.
+6:30
+Like despite all of the Azure dreams?
+Did Azure Dreams have a purple no rift wizard?
+6:36
+OK so I guess it's not a trilogy.
+For some reason it felt like a trilogy.
+6:38
+Yes enough.
+I just kind of like blacked out Remnant and Azure dreams.
+6:43
+Grog Pod your number one source for coverage of purple robed games.
+It's a burgeoning genre.
+6:51
+I like, yeah, that's actually a good name for a company.
+Purple Robe Gaming.
+6:55
+I mean, I could definitely see that as a thing.
+Absolutely.
+6:58
+Ian POD stands for Purple.
+Yes, as as we all know.
+7:04
+But yeah, the, the tutorial or the demo that I had, I had downloaded, I'm like, oh, like this, this
+art style feels very unique.
+7:14
+And the demo just kind of gives you enough of a taste that I'm like, OK, playing through this little
+tutorial sequence, I'm like, Yep, this, this seems very interesting.
+7:23
+And then when Will picked it for steps and I'm like, oh, awesome.
+Like I'm I'm very excited to to dive deep into the complex crunchy game mechanics of this surely
+7:34
+next evolution of spired like card mechanics.
+But, but gauging, but, yeah, but but dot, dot dot gauging from our last two weeks of playing, maybe
+7:50
+that has not resonated so well.
+Yeah, that's that's an understatement.
+7:55
+I think if we check the logs here about how we're feeling about the game as we're playing it, I'm
+not seeing a lot of oh man, this is so great.
+8:01
+I'm having such a great time.
+It's like, I don't get, this is stupid.
+8:05
+This is why are they doing it like this, that kind of feeling.
+I'm checking my logs here.
+8:09
+I'm, I'm seeing there's a lot of Noida updates of me, which will be getting a reappraisal in the
+Omega Bowl.
+8:19
+Yeah, well, hey, look, you know, why are we, why are we getting off on such a dour note?
+You know, here there's there's there's much to be examined and enjoyed in this game.
+8:29
+I'm, you know, hey boys, we're back.
+We're finally playing another first person shooter, which is great and Foo boy, there's a lot of
+8:38
+weapons and there's a lot of there's a lot of art and of course, this game takes place uniquely it
+from a first person perspective.
+8:45
+As you are traveling across in in this game, you're traveling across a exactly FTL map.
+It is horizontally arrayed and there is a a force that is that is pushing towards you from the left
+9:00
+hand side.
+You can't shoot a gun at a goose.
+9:03
+You can shoot a gun at a goose.
+If you've ever crossed by Untitled Goose Game and thought, gosh, I wish I could just blast that
+9:10
+sucker, you can.
+You can do that, but uniquely it is from a first person perspective, which is kind of fun.
+9:17
+And the the animations like you when you are casting and using your cards, which might be, you know,
+different like sword attacks or crossbow attacks or Canon attacks.
+9:26
+Maybe you are you are seeing your hands out before you and this and this is all illustrated and and
+drawn in a sort of a little bit sketchier but but definitely like sort of the Studio Ghibli type.
+9:40
+Of I I really liked the art S that.
+Very close.
+9:43
+Oh yeah, visually, very much enjoyed this game.
+Low FPS because I mean, I just feel like, yeah, they're just like animating just a few frames for
+9:51
+everything essentially.
+Yeah, and I think the low FPS like it that that it worked with the art style.
+9:57
+It has like a kind of dreamy quality.
+It feels like a 1930s cartoon, kind of.
+10:03
+Am I wrong?
+Like like janky low frame rate, like the big big Mickey Mouse, like cartoon hands.
+10:10
+I'm.
+Not sure.
+10:11
+It's very like exaggerated, I suppose in terms of like the art direction.
+And, you know, I'm, yeah, I'm sure that the, the, the, the, the, the small number of key frames is,
+10:23
+is probably, you know, production.
+I think it would have been worse with more with the smoother animation.
+10:31
+I think that the like type of it like it I I don't know as like a dream sequence vibe to me, like
+pastel colors, like landscape stuff like I think it works really well with what they were going for
+10:46
+aesthetically.
+I don't think it really like it doesn't seem to be particularly relevant to the game play for I
+10:54
+think it is good.
+Yeah, and one of the reasons I'm excited for it in terms of the dreamlike quality is kind of
+11:00
+ethereal.
+Like even when an object is sitting stationary, like there are different frames that that sort of
+11:08
+undulate and the, and the stroke lines that make up a character kind of move slightly.
+And, and sometimes I find that like inaccurate, kind of sketchy, like quality to be off putting.
+11:19
+But in this case, I think it works very good.
+And the low frame rate, I think you're right, complements that.
+11:25
+And what is being depicted is what what what do we have here?
+It's it's vaguely anime in terms of art direction.
+11:34
+It's it's has it's sort of AII.
+I'm sensing seeing some some Western and Eastern fantasy.
+11:41
+Astoral.
+It feels like a mother's grim like fairy tale book with crossbows with.
+11:47
+Crossbows.
+Yes.
+11:49
+This, Yeah.
+It's like, it's like Grim Grim Brothers cross with Studio Ghibli.
+11:54
+Right.
+And you're traveling across the land.
+11:58
+I don't rightly recall what to what end.
+You've got you've got three acts just like Slate, Aspire and upon No spoilers here by by the way.
+12:08
+You have all finished the game right?
+Or like.
+12:10
+Absolutely.
+Not Nope.
+12:12
+How many hours you had before?
+I had many.
+12:15
+I mean I've got 8.6 in it.
+Did you?
+12:18
+Beat it on like your second run I did.
+Yeah.
+12:20
+But that's that's because.
+Blif Wizard at work again, Just cranking out these games.
+12:25
+He's a machine.
+The man's a machine.
+12:27
+I feel like once you've crossed it over into that Ascension 20 threshold of Slay the Spire, you're
+like, you can just like immediately see through all of the game mechanics for card games and you're
+12:36
+just like, no, I've already beaten it.
+I don't even have to play it anymore.
+12:39
+Yeah.
+And if there was a different scale, then I might be like thrown off like right now, like this latest
+12:43
+fire, you know, attack does 5 damage.
+Like this one was just slightly like reduced.
+12:47
+So your main attack, like the kind of basic attack was 4 damage.
+But like that was easy for me to scale to like understand every single card basically immediately.
+12:55
+But the point like after you beat the the final dude, the whole point of it is then you go fishing
+and there is a little fishing sequence and so.
+13:04
+Unlike the tutorial is like you go fishing and then you come back from fishing.
+I kind of want to talk a little bit about tutorial because I, I think like the the tutorial does a a
+13:15
+very good job of kind of setting the stage for for like what this game is.
+It's very clearly like a Spire like you have cards at the bottom and you play them.
+13:24
+But I I love that like the tone of the game is so like cozy vibes like right at the start we're like
+prologue hit the tutorial.
+13:33
+You're like me.
+What a great day.
+13:35
+Let's go fishing on the West side of the village and you have this very cute like fairy tale
+landscape in front of you.
+13:42
+Got the, the, the Dutch windmill going on the hill, this little cobblestone path that you know, just
+looks like something out of a of a cute little fairy tale.
+13:52
+There's a town out in the distance.
+You're like, Oh yeah, this does look like a great day to go fishing.
+13:56
+Why not?
+Big poofy clouds.
+13:59
+And then like all like normal fishing trips that you happen to go on, you go to the next node on the
+map and you're encountered your, your path is blocked by a drooling wolf that you have to, you know,
+14:11
+take swords out of your pocket to to slash to death, you know, like your standard fishing adventure.
+Right, right.
+14:16
+Like something right out of the Andy Griffith intro, an orc steps into the the way and and then
+Gomer Pyle has to collaborate with a pile.
+14:27
+Yeah, interesting that the interesting to learn that the the ultimate goal of the main game is the
+the same as the tutorial.
+14:37
+That's fun.
+Well, that matches, you know, the, the, the whimsical, cozy core tone of the game, I suppose.
+14:43
+Yeah, and and so like it.
+It does like the very basic tutorial stuff of like this is a card, this is how much it costs.
+14:50
+It comes out of this mana pool, yes, like things that we've we've seen a dozen times already in
+various deck builders and all that stuff.
+14:57
+But I think it does a good job of like if you've never played a deck builder before, then like, OK,
+yeah, it's kind of spelling out all the steps.
+15:03
+The twist here is mana with color though, So it like the first node you like was.
+This Magic the Gathering.
+15:13
+Never heard it.
+Is this Is this MTG?
+15:16
+No, because it doesn't have the circle of colors.
+It only has a couple or wait, actually no.
+15:21
+How many colors does it have?
+Will.
+15:23
+I believe it's 5.
+Oh shit, I just hadn't gotten far enough.
+15:27
+Wattsy is preparing their legal notice now.
+Yeah, that that is a that is A twist, Scott.
+15:34
+And how do you acquire these these different manas?
+Well, depending on the deck that you picked or cards that you acquire, the, the card itself will be
+15:45
+titled with a, a background that has some kind of color to it.
+And you, you, you, I guess you discard that card in order to convert mana in your pool to that
+15:54
+color.
+For the, the 10 people that listen to this podcast that have played Race for the Galaxy, it feels
+16:01
+very like that.
+We're like you're using stuff in your hand to build up like an economy of things to play other cards
+16:09
+with kind of And so like you're, you're like using stuff out of your hand to pay for things that you
+will play also out of your hand, which I thought I thought was a neat twist.
+16:19
+I'm like, OK, like I can see how this will be interesting.
+And then after you've crossbowed this, this pig enemy who I, I love that like some of the enemies
+16:31
+will have like background sounds to them like as you're playing and this, this like like beefy pig
+man who's blocking your path will just like every like 5 or 6 seconds.
+16:42
+It's disturbingly like accurate.
+I found it almost distracting.
+16:47
+It's like his pig noises are too pig.
+It's not just like a guy going.
+16:52
+It's like it's.
+Like they actually got the pig in the studio.
+16:56
+But yeah, so you you crossbone like six or seven times and you win that victory.
+Like, OK, yes, I've learned the lesson on to the next step and that that's where it started.
+17:04
+That smile, that damn smile meme.
+A strange girl approaches and this the the little journal thing that pops up, I think is is a a it
+17:14
+fits the cozy cuteness vibe of the game very well.
+Of you have this little like almost picture book that pops open with like little like hand drawn
+17:23
+piece of art on one side.
+And it's it's an event.
+17:25
+It's it's your standard event kind of deal.
+It says, I met a girl, She says swords and Shields are so boring.
+17:32
+Try these goodies and gives you a bunch of these purple cards.
+And these purple cards are kind of like your dice, your dice base rolling stuff.
+17:41
+And then the player character says, what the hell is all this?
+And I can kind of sympathize.
+17:47
+So then it kind of goes into the mechanics of multi colored cards that have like a mix of like
+purple and Gray or like blue and purple and, and some such things.
+17:56
+Then you fight the, the, the pig king at the end of this tutorial.
+You're like, why is this piggy so strong?
+18:03
+All of his numbers, all of his attack damage and all this health stuff is like super over the top.
+You know, like, oh, like clearly I'm I'm supposed to fail this fight, which is fine.
+18:11
+Like sometimes tutorials do that but the little message pops up so you won't be able to handle all
+this.
+18:17
+Here's something good for you and it's a a higher detailed version of the girl from before.
+It gives you the one dice card that can change any number on the screen and doesn't even give you
+18:30
+just one.
+Gives you maybe like a dozen of them and a a special like cartoon Acme bomb card that does 99 damage
+18:39
+to the enemy, but also to yourself.
+And you can use that as many times.
+18:43
+So this I feel like this is a good teaching moment of like, OK, are you going to solve this problem?
+And I think this for me is where like the light turned on of like I, I hesitate to admit that I lost
+18:53
+this tutorial for the first time because I didn't know like I, I I have like the one dice camera
+like, OK, like what do you mean?
+19:02
+I can change any number on the screen like any number.
+What?
+19:07
+That doesn't sound right.
+Any number yeah, let me just bump up my steam played hours so it looks like I know what I'm talking
+19:13
+about when I review this game yeah and and there's this cool there's this fun like VHS pause effect
+where you know you get like the I don't know the interlacing lines kind of flash up and yeah you.
+19:27
+Scribbles out.
+Indeed, when you do it, it feels.
+19:30
+Like a very 4th wall break.
+Yeah, which I I, I don't know, I think it's integrated well enough, but it's it's it's definitely
+19:39
+cool.
+It's a cool.
+19:41
+I would calling it a gimmick.
+Gimmick is the word.
+19:43
+I think we.
+All I mean, I think it's pretty novel though.
+19:47
+I think it's.
+A gimmick can be novel.
+19:49
+I mean, that's.
+Barely.
+19:51
+I I think it adds a fair amount to the game.
+It should be discounted immediately.
+19:57
+So, so anyway, you, you, you figure out the puzzle to like, oh, like I reduced the damage of the, of
+the grenade.
+20:03
+I, I use the cards to reduce the enemy's health bars.
+Kaboom.
+20:07
+Like I really love the animation of this grenade where like you hold up this Acme bomb and then it's
+like like nesting doll unfurls to like a smaller and smaller dynamite thing and then blows up
+20:18
+animations.
+Top notch in this game.
+20:21
+But then it's like, oh, I, you know, I saw something purple in the distance and it feels like it's
+getting closer and closer.
+20:28
+It feels wrong.
+I better run away from this.
+20:30
+And instead of going from the right to the left in the tutorial, now you're running from the left to
+the right back tracing to the previous nodes that you've gone through to get back to your original
+20:41
+starter node.
+And then the little girl thing pops up again and says, purple fog keeps spreading.
+20:51
+In the haze, I seem to see things not of this world.
+And then in quotes, the world is broken.
+20:57
+He he the girl appears again beside me.
+Because you used that dice card to change the numbers in this world.
+21:03
+It's quite useful, right?
+Otherwise you would have been beaten by the piggy boss.
+21:07
+If you stay here, you'll be swallowed by the these purple strange things, she says with a smile.
+Even though it's a frightening thing, it's escape this world with me and I love like there's this
+21:18
+weird dichotomy where like the sketch is like this mischievous, like he, he, he, he like very
+devilish, like, Oh no, what Faustian bargain have I signed up for?
+21:27
+And then like literally the next scene is like this very like happy go lucky anime girl.
+That's like feeling like, Hey, welcome to my home like this.
+21:37
+Is the movie lofi?
+Lofi anime beats cozy core.
+21:41
+Exactly.
+To roll dice too, yes.
+21:43
+And she says the the world we left is no more like I can, I can take you to countless almost
+identical worlds, however, no matter where you go.
+21:52
+Dystopian shit here.
+Yeah, exactly.
+21:54
+But you know, there's a, a a a winky face emoji, so why not?
+If you can run all the way to the center of the royal city, I'll send you to a world where you can
+22:02
+have leisurely time to fish.
+Good luck.
+22:05
+And you're just like, all right, well, I'm have been sent to this like weird realm between realms of
+dystopian purple mist nightmare and this happy anime girl's like, good luck, pal.
+22:18
+You know your standard fishing adventure.
+Definitely a very wacky and unique concept for a story that you would only see in anime, so that
+22:29
+that also matches the the tone of the presentation.
+So that's nice.
+22:33
+Interesting.
+Well, I obviously should have paid closer attention to the tutorial, which I had to do twice, by the
+22:37
+way.
+And I, I didn't realize that yo-yo, the player caused the mist by taking the dice.
+22:45
+Oh my gosh, this is that's, that's good stuff.
+And that's where I thought like the story for the game was going to be some kind of interesting like
+22:54
+Lord of the Rings style 1 ring corruption type deal where I'm like, I have this immense power.
+I need to like balance this immense power before it.
+23:04
+Like, like I thought, I literally thought the purple mist was like Frodo's corruption as as you're
+trying to like and like, Oh, I'm sure like clearly bringing this purple corruption to the, to the
+23:16
+center of the city is going to present me with some kind of choice of like, you know, do I, do I
+cast the dye into the fire?
+23:24
+Or do I just turn around and say no and keep it for myself?
+That is, perhaps you become the stopper king, the new king, the dice king, the dice, the the true
+23:33
+diceomancer.
+Yeah.
+23:36
+All right.
+Well, that scratches one of the questions I have in my notes off the list.
+23:40
+What is the purple mist?
+Oh, wait, there's a follow up to that.
+23:44
+Does anyone care about does anyone?
+Now that I've heard the storyline again, it's a little intriguing, but it's kind of unfortunate to
+23:52
+hear that it doesn't really go anywhere.
+Yeah, the the purple mist is essentially stolen from FTL or like, I mean, I shouldn't say I mean
+23:59
+like I appreciate stealing inspired by is inspired by, I mean, I I'll I'll say steal.
+I steal the game mechanics for all the time, but this one is just like it doesn't do it doesn't
+24:10
+really feel like it adds anything to the game.
+And I don't think that in FTL that it really did all that much either.
+24:16
+Like the having the standard like I mean, it's essentially a latest fire map procedurally generated
+except for sideways.
+24:21
+And instead of like always going forward one node, what they did is they allow you to go backwards
+and they have nodes that kind of like allow you to extend straight up or straight back to like get
+24:31
+like just basically get 1-2, maybe three more extra nodes between the start and the finish.
+And that all the purple mist does is prevent you from just like going around in a circle and
+24:41
+collecting every single one.
+And so it's just like, why not just like, I don't know, like extend it by like, you know, maybe up
+24:49
+to three like rungs or, you know, three different levels.
+And this like it'll add like a, a jumping mechanic where you can jump from 1:00 to another way.
+24:56
+Anyone you, I don't know, like they, they, they do that inside this fire with the, the, the, the
+shoes, the flying shoes relic.
+25:03
+And it's just like, yeah, that's essentially doing the same thing.
+You're just going to a different place.
+25:07
+You're still forced to move forward, so you can't really go back.
+But like, it's the same you in the end, you're getting the same sort of a feeling.
+25:14
+And this one just feels, it feels so just bolted on there and it doesn't feel good at all to me,
+the.
+25:20
+FTL map is a lot wider.
+Yeah, yeah.
+25:25
+So like there's definitely times in FTL where you're like, I'm going to backtrack through the like
+rebel area because I need to get back and through to the the next stage.
+25:37
+There's not really like looking at the map in FTL is a lot of like options, a lot of decisions.
+There's not really that many decisions.
+25:46
+It's like, well, I could, I could do this one extra thing.
+I.
+25:50
+Feel like FTL is more of like a web instead of a tree.
+Yeah.
+25:53
+Yeah.
+And that's because it's wider.
+25:55
+I mean, that's the only, I think that's the primary thing here.
+If this one was.
+25:58
+It's a lot wider and then the and the the relative pace of the the Mist or the rebels or whatever
+that the threat is slower.
+26:07
+You can, yeah.
+Despite wearing a purple hoodie, I was too timid to venture backwards through the purple mist.
+26:15
+Like, does the game allow you to go back through the purple mist?
+Is there any like consequence of of doing so?
+26:20
+Has anyone who's ever played this game ever, ever been caught by the purple mist?
+I think not because it's that's that's the big problem for me is that it's just it's way too slow
+26:31
+and it's like never a problem.
+So what ascension level are you guys playing on?
+26:36
+A big fat 0 ascension level.
+Right.
+26:39
+And so this is this is where like, so yes, when you're playing Ascension Zero, you're never going to
+get caught.
+26:46
+But I assume having not actually I play an 8.6 hour, I assume that some of these ascension levels
+make it go much faster.
+26:52
+And so this basically just means that you have to go pretty much in a straight line, which is just
+like, oh, then just make it aspire.
+26:57
+So right, well, that's that's not fun.
+Well, I guess interesting like the.
+27:01
+I guess we don't know for sure.
+Let me look at the ascension.
+27:03
+Levels real quick and also you can you can distort your cards so if you use your one dice to make
+permanent changes to your cards then it advances the mist faster but I never ended up doing that.
+27:15
+You.
+Never distorted your cards.
+27:16
+I mean I did, but not not super often like sometimes I did, but like.
+Mistakes you have to get.
+27:23
+Backtrack like the first love, like you you.
+You don't distort your basic cards, you have to like.
+27:31
+You're not likely to get them to be better.
+Well, once you get that that juicy thick D20, then you still have any cards that have like, you
+27:41
+know, anything less than like a 10 on them.
+Then I'm I'm gambling my my my card stability away for it.
+27:48
+But I think that like one thing that I was surprised about when you distort those cards by changing
+the number and like, then you use the card, it advances the purple mist.
+27:57
+It advances it by like a pixel or something.
+I was picturing it that it was going to advance it like a full step and I was like, I was very like
+28:04
+wary at first.
+So I'm like, man, do I really want to advance the rebel fleet that much for using this card?
+28:09
+And it was like this like big dilemma in my head.
+I'm like, all right, well, I guess I gotta in order to beat beat this fight, play the card and then
+28:15
+it like I'm like, did it actually move like am I crazy?
+And I had to take like a screenshot and zoom in and it it does move it by like a hair.
+28:26
+I'm sure there's things that like, you know, like higher value cards that move it further.
+Or if if you have like an insanely broken deck and you are playing like, you know, 150 cards in a
+28:38
+row that do advance it, then I'm sure that scales the advancement factor a lot.
+But at least in my, you know, playing it, it didn't seem super consequential.
+28:50
+And yeah, I don't, I don't fully agree with all the concerns over the purple mist being brought up.
+However, yeah, it it it's it's unfortunately takes a lot of it takes a lot of the oomph out of it
+29:02
+when it's seemingly not super.
+It wasn't much of A concern really for my full like six hours.
+29:09
+So I don't know, let's maybe assume that it what what have you found in your research Will.
+There's basically not a wiki.
+29:17
+I don't really see anything that describes the essential levels at this point.
+Well, let's.
+29:21
+Just there is a wiki.
+The benefit of the doubt that.
+29:24
+There is a wiki.
+It's all in Chinese though.
+29:26
+Oh.
+That's what that was, OK.
+29:29
+Google auto translate for me.
+Chinese thank God for the the auto translate feature.
+29:35
+But I can't.
+I don't know if this is the same game Dice Wander.
+29:39
+No, it says Dice Daisomancer dot Fuji wiki.
+Yeah, I think, I think which.
+29:44
+Iteration of Chinese, but but hey, I'm glad you're bringing up Chinese the concept of different
+languages other than the one that we have here because at the translation.
+29:57
+So we we previously played a game that was translated and it was also a card game, which was called
+space fight.
+30:04
+It was called 3 rail space shooting star called Lone Star.
+Thank you.
+30:08
+Lone Star, it's called.
+Laser space fight.
+30:10
+I don't know if I play space fight.
+Space Fight developed by Purple Robe Games.
+30:18
+All right, so in that game there were some kind of major translation issues and that some of the
+stuff didn't make sense mechanically.
+30:27
+The the mechanical terms terminology was not crystal clear, far from crystal clear.
+Now with this game, I, I feel like it has a pretty good, pretty good localization, pretty good
+30:37
+translation, except for when it comes to the name of some of the enemies.
+I, I think perhaps I have a theory that perhaps somebody's having a little bit of a laugh.
+30:50
+Someone's pulling the hood winking, if you will, purple hood winking the development team, because
+there's some suggestive enemy names here.
+31:02
+I mean, first of all, not to disparage past guest of the show, but there, there is a character made
+of wood named Woody.
+31:09
+And then he got one guy just named Willie.
+You got a a throat wolf?
+31:13
+What?
+What's a throat wolf?
+31:16
+The Bush warrior.
+And then also we got shroom head, which might as well be mushroom tip.
+31:21
+Am I right, fellas?
+Daissomancer.
+31:23
+More like dickomancer.
+I hate to say it, but somebody's got to.
+31:27
+Yeah, I wasn't going to be the one to say it because I didn't notice that, but it.
+Wasn't going to be the one to stick on their mind it sounds like.
+31:34
+This sounds like more of an Andrew thing then.
+I wasn't going to say it because nobody else would ever have picked up on that.
+31:42
+Hey, look, at a certain point in time, once I, when I once I was like 30 hours into playing like
+Nuita this week, 30 additional hours.
+31:47
+I'm like, you know, I got to come up with some content for the podcast.
+I know penis jokes great, but what do we?
+31:55
+But seriously, what do we think about the the the translation?
+I I thought I thought it was good and in fact I forgot garbage was a Chinese game.
+32:03
+I don't know what Scott's talking about.
+I think no, go ahead.
+32:07
+I didn't realize it was a translated game, so it obviously couldn't have been that bad.
+Now there are a lot of effects where you're like, OK, what is going to happen next?
+32:14
+I want to plan this all out.
+Let me mouse over check out what his like the intent is all right, this is going to trigger when
+32:20
+this thing happens.
+But unless this happens and it was just like I remember many times just being like, I have no idea
+32:26
+what is about to happen And like you have to just kind of experience like that's what this effect
+means.
+32:32
+Like if you.
+I don't think that was translation issue, I think that was just.
+32:37
+That's not a real issue.
+No.
+32:39
+I mean it's.
+Just a game.
+32:41
+Experience the.
+Diversity of characters and effects.
+32:43
+It's a rule book issue.
+It's like it's.
+32:46
+It's like when board games have like extremely verbose rule books.
+And you're I've played many, many games that have been written in English that are also hard to
+32:54
+understand what's going to happen.
+If you do the thing got you, got you, you, you suspect that it was just poorly written to begin
+33:00
+with, and therefore the translation didn't have a chance.
+That could very well be.
+33:04
+Yeah, sure.
+For sure, for sure.
+33:06
+I feel like the for the most part, the like the OR like the logistics of like how different effects
+proc other effects definitely felt a little overwhelming.
+33:24
+And like I, I thought that there was like I was happy that there was like a lot of stuff happening,
+but it felt like there was a lot of stuff that I had to like read and learn and internalize in order
+33:37
+to understand what was happening.
+Where like first couple like when like Will had said that, Oh, he's like, he's beaten this game
+33:46
+already so fast.
+I'm like, oh, well then like it has to be like super easy to play right?
+33:50
+And then I was going through.
+What you would think because will could beat it.
+33:53
+Interesting.
+OK.
+33:55
+Well, I mean, you know, the, the king of rogue like deck builders, you know, so it was so well
+trained.
+34:03
+You know, I, I was thinking like, OK, well, surely you know, it, it should be relatively
+straightforward to, to come to terms with.
+34:11
+And I feel like on the spectrum between like, like sleigh the Spire is like is very straightforward
+about like this thing does this thing and it doesn't have like like walls of text to, to kind of
+34:21
+parse through slice and dice.
+I feel like is, is maybe kind of creeping up there in terms of cognitive load.
+34:28
+And then I don't, I don't really remember like Monster Train at all in terms of like like how how
+much cognitive load there is for stuff.
+34:35
+But I remember it being on the pretty low end of the spectrum.
+Monster training is easy to figure out what each individual card do, card do what the card do, but I
+34:46
+feel like the the difficulty then is in trying to figure out how the interactions are going to like
+scale.
+34:53
+Well, I mean, yeah.
+And they in monster trend, they tell you what the what's going to happen by the end.
+34:57
+And so they they'll tell you like if you just end the turn right now, this is how much damage
+everyone's going to take.
+35:01
+And so it reduces the cognitive load in a good way.
+Slavis bar does not do that.
+35:05
+But what I at the cost of like you have to still calculate.
+All right, well, these characters are going to move up here and then attack.
+35:11
+And so you have to figure out a ways to like mitigating the moving through the levels.
+That's kind of where the cognitive load is.
+35:18
+So this game could not do that because of what I'm gonna help go ahead and say is my biggest
+critique of this game is it has dice in it.
+35:27
+Yep.
+Oh nice.
+35:29
+Or I for for someone who likes D and DA lot.
+I hate dice.
+35:34
+Well, let me ask you this.
+Oh.
+35:35
+Man coming down hard.
+So so Colin, you've played slice and dice on your phone like a, a a number of times since we've done
+35:43
+that episode.
+Yes, that that game is nothing but dice Is is the issue here that it's the combination of yes, dice
+35:52
+rolling and card drawing?
+It's two separate sources of randomness where like you need some amount of randomness and you need
+36:02
+some ways to mitigate that randomness.
+Slice and dice has something where you know you roll the dice and then you can re roll some of it
+36:08
+and you can do some things and it's scaled around that pretty well.
+Deck builder slice Spire type games.
+36:17
+I feel like each turn is a little mini puzzle and this didn't it made it too hard to solve the
+puzzle like I I didn't like, I don't like when it's you roll the dice and maybe you'll you'll kill
+36:31
+this thing, maybe you won't.
+And a lot of the cards synergize off of like getting down their individual hit bars.
+36:39
+And so it's like, well, if I roll A3 or above, I'm perfectly fine.
+And if I don't roll A3 or above, I'm super screwed.
+36:48
+And that happens a lot.
+And it's just like a hard to predict what's going to happen once you click the enter button.
+36:54
+You know what?
+You know what it is?
+36:55
+We've all played XCOM.
+Yeah, I was about to bring that up.
+36:58
+You have the same critique of XCOM.
+Yeah, I think so.
+37:01
+I mean, I, I, I don't, I don't think that this sort of like percent chance essentially like if you
+got a shotgun and you're on tile away from the alien and there's no cover and you have a 95% chance
+37:13
+of blasting him.
+You see the animation, you put the gun directly against his head and then you pull the trigger.
+37:18
+You and you when you lose that, that makes you enraged.
+And then the enraging side of that is not balanced by the oh, you have a 5% chance to win.
+37:27
+Oh, I got it.
+Yay.
+37:29
+Because you expect that to fail and just in the way that you expect that to succeed.
+And so when you get the oh man, it's just it hurts so much more when you fail for these random
+37:38
+checks, then when you succeed, then the good feeling for succeeding and so.
+But but then we wouldn't have that cathartic moment of like the the meme existing and us being able
+37:49
+to laugh about the meme right?
+And the gun up right in front of the alien's head. 95% chance.
+37:54
+Exactly.
+Been there, we've all experienced.
+37:57
+Same thing in, like Fallout, you know, the 3D Fallouts with the bat system, you know, all sorts of
+comedy gold we'd be deprived of.
+38:04
+I mean, I don't know what what are what are we to say?
+You and I, Scott?
+38:08
+Like, no, you're you're wrong.
+Randomness is is is very important.
+38:12
+Like I I yeah, I get it.
+Like, it's it's this will be for some people.
+38:15
+It won't be for us.
+Randomness.
+38:17
+Is this type of game?
+Randomness is important.
+38:20
+I mean, I still very much believe that to be the case.
+And so, but like there's different forms of randomness and some of them are more fun than others.
+38:27
+And So what I mean is like when you're drawing cards from a deck where you're like curating the
+deck, it feels like you have you, you've affected the what you're about to see.
+38:36
+Whereas so like the five cards you draw or whatever comes from the deck that you've curated to some
+degree.
+38:40
+So you kind of get a sense of what's going into it, but like a dice roll, like you're just throwing
+that and it's just like you have no control over what you just, it feels like you're just tossing it
+38:49
+to the wind.
+And so that kind of randomness, it sucks.
+38:52
+Well, all my decks are so lousy that I, I need the help of just getting lucky and throwing a random
+dice.
+38:58
+So similarly with Bilatro.
+Bilatro doesn't give you, you know, a clear readout of like what the final result is going to be.
+39:07
+I mean, we, I, I'm sort of disgusted.
+We discussed it during the episode, but remind me, But do we think Belatro would be better without
+39:14
+any of those roles and those random chances?
+What I mean, the only roles that I I mean, yeah, the roles are like.
+39:21
+Are there certain jokers that it's like it could be, could be this number, it could be that number.
+I mean, there's a couple, but it's not like a a large part of the game, I think.
+39:29
+I think like Belatro doesn't tell you what the final number is going to be.
+And that doesn't mean that you're that's where the cognitive load exists is that you have to kind of
+39:38
+like get a sense of what all of your numbers like end up being.
+Cognitive Load, another release coming from Purple Robe Games.
+39:49
+One game that we.
+Also could be a Dick joke.
+39:52
+I I I hesitate to call it like a a dice builder, maybe more of a bag builder.
+Luck be a landlord definitely has like it is randomness colon the game, but it is also like
+40:03
+randomness mitigation colon the game and I feel like.
+Bilatro to some extent has like, the more that I've learned about it since we've done that episode,
+40:13
+the more I've come to appreciate its mechanics of like, OK, yeah, it like, it is.
+You do have a lot more authority around your strategy.
+40:21
+It's just coming at it from like a completely different angle and with what the landlord, it's like,
+oh, you have a lot of ways to, like, mill your deck.
+40:30
+And if you do have ways to like kind of mill your deck here in Dysomancer, like you do have the very
+standard like cut the card into and it's a very satisfying like split of like the card.
+40:41
+There are, I guess, like I don't, you're kind of deck milling by by using the one die on your your
+deck and like your your energy management and things like that.
+40:54
+And where was I going with this?
+Oh so like lucky landlord, very good at randomness mitigation.
+40:59
+One game that we haven't talked about yet, a very possible stay tuned that I think kind of does two
+sources of randomness, but very good at randomness mitigation is Astraya 6 sided oracles, which is
+41:13
+you could probably guess from the name dice.
+But it's like you're it's like a dice builder in that like you, you know, you roll the dice you have
+41:21
+like, I don't know 5 dice or something, but and there's this interesting corruption mechanic to it
+that the more corrupt you become like you'll you'll take like health point damage, but the more
+41:31
+corruption you take, the more options you have for like randomness mitigation.
+So it's this very interesting, like push pull dynamic balance of like, yeah, OK, like this thing is
+41:43
+random, but oh, do I want to like run the risk of like damaging my player character by rerolling it.
+And so to some degree, Slice and Dice also has that mechanic, but right, yeah, more more sort of
+41:54
+spread out among the characters that you have.
+I think so.
+41:58
+So the way that the the one dice roll works is you build up points for each stage that you go
+through.
+42:04
+And so you can't just use that dice every single time.
+I think it would be a more interesting game if those were used to re roll the dice if somehow, or
+42:16
+maybe it was slightly less powerful and it's like, OK, you build up these points to re roll the dice
+and you're like you get one or two rolls of it.
+42:25
+Re roll one dice though.
+The one dice so say you're you're I'm, I'm trying to reload my thing.
+42:31
+I want it to reload it from zero to 6 or whatever and I roll A1 or like I, I want to improve this
+card.
+42:40
+It normally does.
+Like there's a card that does 0 damage 8 times and you can use the one dice on it so that it does
+42:49
+between 1:00 and 6:00 damage eight times.
+And I rolled A1 and I was like, that sucks that this was an awesome card and it would would
+42:57
+synergize super well with my deck.
+And now it's only going to a little bit synergize with my deck.
+43:03
+But so you're saying use the use the one die to make the change and then use the one die as again.
+So you're just talking about re rolling?
+43:11
+I got maybe some bad news for you Colin, and, and forgive me if this is offensive, but, but are you
+aware that there's the one dice card, but then there's also the one dice relic up in the top left
+43:22
+hand corner that you can use multiple times and you can just keep doing it if you don't desire so
+great news.
+43:30
+This mechanic you're describing already in the game.
+I only discovered it like recently also.
+43:37
+I.
+Feel for you.
+43:39
+Yeah, so key, so key difference here between wow.
+OK, so I didn't, I, I mean, I, I knew about activated effects.
+43:47
+I knew like, Oh yeah, you there's the one dice thing and then underneath it are the activated
+effects.
+43:51
+I've never clicked on that because.
+I don't think they make it clear in the tutorial and and I've played the tutorial twice and deluded.
+0:00
+Me.
+43:59
+OK, well now I feel like I really don't know if I like this game or not.
+That is a really it.
+44:06
+Is a randomness.
+I can see why you wouldn't you haven't beat the game because that that actually is like a very
+44:14
+powerful mechanic.
+Like in fact, the only the primary way you use that the the the die when you have not just the one
+44:19
+that you draw in from the deck and that exhaust itself.
+But when you bank up like 40 of these things and there's like abilities to like double it along the
+44:26
+way, you'll just end up banking up and then you get to like a mini boss or the boss and they'll have
+and this is the jink.
+44:31
+This I I really hate this element.
+The way that they prevent you from being extremely overpowered forward with this re rolling anything
+44:40
+is they separate health bars up into tiny little health bars.
+So instead of having one pool of health, there's like 10 pools of like, you know, a certain amount
+44:49
+of health.
+And that way you have to spend 10 rolls of that dye in order to reduce that health from like, here's
+44:54
+20 in this health bar down to, you know, zero, you know, one to six or one that you can upgrade it 1
+to 20 in some cases.
+45:00
+But like, it's just like, yeah, that's all you're doing is you're using that dye to reduce those
+things and then to improve the things on your cards where the values are 1-2 and three essentially.
+45:09
+Or maybe eventually, once you improve the dye, like you might want to risk it for something that's,
+you know, more, but like that's it.
+45:15
+Like that's that's basically the whole gimmick.
+And then once you get that, you just save up the dye, you use it on bosses to reduce their health,
+45:22
+and then occasionally on your own cards, like it's just like, OK, like.
+You can.
+45:26
+You can also use the dice on your energy pool, which is.
+Yeah, you can use.
+45:30
+The dice on your energy pool.
+You can use the dice on your dice.
+45:33
+But.
+If you have one die left, you can already have two for a charge I guess.
+45:37
+But if you use that on your die, you can suddenly have 6 charges.
+And so you can just like have that like feed into itself.
+45:43
+And so, yeah, of course.
+I didn't think to do that.
+45:46
+See, I think again, I think it transcends a gimmick.
+I think.
+45:49
+I think the one dice thing is pretty I.
+Just have to like drop off the podcast because I feel like I didn't actually play this game.
+45:55
+Again I I didn't like notice until like maybe it might have been as recently as today but yeah for
+like 3 hours didn't had no idea.
+46:06
+And yeah, no wonder I was getting my butt kicked by every mini boss.
+I don't know if I ever would have clicked it.
+46:12
+I think I would have just continued.
+Well, I mean, basically I just kept banging my head against a wall and thinking that it had like,
+46:19
+there are so many things that synergize with that that I was just like, I don't really understand
+how this is a good strategy.
+46:26
+Like there's a bunch of cards that, yeah, this doesn't make any sense.
+Like these don't scale.
+46:31
+They don't synergize.
+They don't have any like potential.
+46:34
+They're just like bad cards.
+It's because and I was like, oh man, it's so hard like this would be good if I could somehow manage
+46:41
+to like draw both the one dice and this car at the same time.
+But I already used it so.
+46:46
+Ah, shucks, yeah, right.
+Indeed.
+46:48
+Well, it happened to two of us.
+So hey, you know, maybe in the next update I should consider a little tool tip that just pops up and
+46:56
+is like, hey, you know, you haven't used your relic in a while.
+Don't don't forget that.
+47:00
+Part of the localization I also didn't these these these charges really build up quickly.
+Like even though I'm using the like also, that was the other thing.
+47:09
+So I thought it used those charges whenever you rolled the one dice.
+So there would be many times where I wouldn't use it.
+47:15
+And you know, maybe that that one is more on me.
+I never noticed the number going down.
+47:19
+I just assumed that it did.
+No, I I feel for you.
+47:23
+I feel for you, I think.
+Coming back to the to the health bar thing, I don't, I can't.
+47:28
+Yeah, what's the alternative?
+Well, yeah, I can't think of a better way to balance it because clearly like in this, I hesitate to
+47:34
+call it a gimmick because I I my gut instinct is that it's it's more complex than that.
+But like in this game world of like any number on the screen can be re rolled that yeah, I mean,
+47:47
+obviously like the the cheese strategy, just re roll the HP bar and then like one shot them.
+And unless like all of like unless there's some kind of, you know, when you use the one dye, there's
+47:59
+like a corruption mechanic or the the purple mist spreads at an alarming rate.
+And then like, oh, there's like there's a danger to doing that.
+48:08
+Then like, yeah, obviously I'm just gonna like whittle them down to 1 HP or like go from like have
+their HP bars go from like 80 down to let's say even 20 and making the fight substantially easier.
+48:20
+Like there's not like that substantial of a trade off of doing so, but I can't think of a better way
+of balancing it other than, yeah, just like segmenting up the HP bars or making the purple purple
+48:32
+mist go faster.
+Well, that's the thing.
+48:33
+It's like you can see it clearly as a this is their way of dealing with like the gimmick because
+otherwise the gimmick breaks the game.
+48:41
+And so it feels it doesn't like just having a bunch of health bars like all together representing
+their total health.
+48:48
+Like, I don't know, like that might make sense if there was like arms and legs and you could blow
+off an arm and blow off a leg.
+48:53
+But it's just like, no, it's just like.
+You know what they should have done?
+48:57
+They should have had the health pools all be separate.
+Little dice like.
+49:03
+What do you?
+Mean like this.
+49:05
+This monster has 8D20 health that rolls all the numbers add up and then you like chip away at each
+one or.
+49:14
+Like an actual DND stat block.
+Yeah.
+49:16
+You're actually bringing up a good point here because the way that another gimmicky way that they
+get around change every number on the screen is some numbers are just icons.
+49:26
+And so like, you know, 2 energy would be like 2, you know, an icon for two energy.
+So you can't like make that change and like certain things that they don't want you to fuck with.
+49:35
+They just like write, you know the words out or they give you icons and so.
+It's just like, no, I like that.
+49:40
+I think it's a, you know, it like if you, unless you want this gimmick to be like the whole game and
+nothing else, like there's no way that you can get around the other ways that you can get around
+49:52
+this, I think would be worse.
+Be like, OK, rather than having one big boss, you have like a million tiny minions and then you
+50:00
+can't and then you have no AOE ever because you can't have that.
+Like I, I think that you need some way of if, if you want this to be like a large part of your game,
+50:08
+you need ways to have it like tweak so that it's not every.
+Part of your game.
+50:14
+I got a solution real simple.
+No dice.
+50:16
+Change the name of the game.
+Oh.
+50:17
+Man, oh man, and and it's an Irish game now.
+Well, no.
+50:21
+And then I mean, there's just so many other things I would say like on top of this, like get rid of
+all the bad stuff and the bad stuff includes like the dice.
+50:27
+I don't, I think the dice is stupid.
+The bad stuff includes the the class selection.
+50:32
+The class selection is something I got a big, I got a big problem with it because yeah, so all the
+colors are like for the archetype of this, they all the colors are related to this.
+50:44
+And so when you're choosing like you, you choose three orbs essentially out of five different
+colors.
+50:48
+And the orbs are different colors and then you put them all together and that gives you a class.
+And the class has its like its own kind of like base relic sort of effect.
+50:57
+But what that means is that everything is just essentially you're, you're given the like, yes, if
+you want the powerful deck, use this archetype and like it becomes a strategy where it's like, oh,
+51:08
+get rid of all the like, if you have three colors, the best strategy is to get rid of the other
+colors and just focus on one color.
+51:16
+And that's like the big problem is that they tell you exactly what the archetypes are instead of
+let's say a great game like Slate Aspire where it's like there's not color coding where it tells
+51:24
+you, yeah, all these things go together.
+You just have to experiment and find that out for yourselves.
+51:29
+Whereas the blue deck, it's just like, oh, it's all these reload things and here's some bonuses for
+reload.
+51:35
+And just like the synergy is so strong.
+So the orb, so the orbs are not analogous to Slay the Spire starting characters.
+51:41
+That's kind of what I got the vibe of.
+No, they, they, they're just like they are.
+51:45
+This is these are the, this is the pool of cards that you will get is essentially what that decides
+so well for all the cards that you have unlocked in each of those pools, it groups them all together
+51:55
+and it's just like, all right, there you go.
+And so the strategy because of the meta progression is such a big part of this game is like, yeah, a
+52:01
+lot of the Nos that you get in this kind of a tree research thing, which we can talk about is like,
+yeah, this will add 3 cards to your deck.
+52:07
+But like if those cards are bad or if you know that, like you know which ones to avoid because you
+played the game before, you might be like, yeah, actually, I want to see my deck very tight and I'm
+52:14
+only going to expand this one archetype down this path.
+Then it's just like that is the most powerful build.
+52:19
+You just keep doing that over and over again and you just like you just win.
+And that's, that was my, my, I did the blue deck three times in a row.
+52:26
+It was super reliable, always got the things that made it work because the deck is so small in the
+beginning and it's just like, why would I want to add more cards?
+52:34
+I mean, it's just like, this is already like just dominating.
+And it's as simple as that, folks.
+52:39
+That is in the three easy, simple steps to success in Dysomancer as presented by what?
+Well, I don't know enough about the inner workings and the mechanics of this game to to argue it.
+52:50
+It's that sounds like a a pretty a very fair thank you.
+An accurate analysis that yeah, you're not that you're you're incentivized to only only follow, you
+53:02
+know, 11 particular upgrade tree.
+I don't think you can get rid of the dice though, if there's no dice in this.
+53:09
+If there's no dice in this game, it's just a worse slate of Spire.
+Just I mean I am turning it into the slate of Spire.
+53:15
+What I'm saying, what I want to say is like emits on the thing that you're doing, like the first
+person elements.
+53:20
+I mean, like, I don't, I don't exactly know.
+I can't not going to design your game for you.
+53:24
+I've already got, you know, I've got the I'm already busy with that.
+But make it, make it your own somehow.
+53:29
+Like take Slay the Spire as a base game, pull some stuff.
+Out dice in the bottle it's.
+53:34
+I feel like they're already following your advice.
+Slay the dice.
+53:37
+Dice the Spire.
+I mean, there's a, there's an acronym, I forgot it was ECCG or it's like you want to eliminate
+53:44
+something, you want to create something, you want to reduce something and you want to increase.
+I don't, I don't remember the exact.
+53:52
+This is all from like business strategy thing.
+But like that is a strategy for building products.
+53:57
+Like makes a lot of sense in the in the context of, I think turning this latest buyer into your own
+thing.
+54:01
+Boo business Boo.
+Well, I, I like the dice, but again, I, I admit that that that type of that extra random element is
+54:09
+not going to be for everybody.
+My beef with the class system is that I don't like the sage.
+54:15
+I don't understand the sage.
+I don't know what's going on with the sage guy.
+54:19
+Why is the sage?
+Why is he armed to the teeth?
+54:22
+Yeah, why was the sages think guns and crossbows and I've.
+Got some sagely advice for you right here.
+54:29
+All six cylinders, I mean a cylinder of six shots.
+So I was stinking really bad and having not a good time banging my head against the wall.
+54:38
+Part of the reason was because I wasn't using the dice mechanic at the top left hand corner.
+But once I got the Berserk deck, I loved the Berserk deck.
+54:46
+What do you what did you all have a chance to play?
+I played around with it for a little bit and I did get a a reasonably broken combo going that I
+54:53
+thought, OK, like I can see, I can see the appeal here.
+Where like once you once you get that broken combo going and it just starts kind of taking off like,
+55:02
+yeah, like that felt super satisfying.
+It ran out of steam eventually just cuz I I like biffed it and like rolled like ones and I didn't
+55:10
+really understand what I was doing at the time.
+It rolled ones and that.
+55:12
+That felt really good though.
+That was Oh yeah, definitely.
+55:14
+And that was a good experience.
+And other people were able to to laugh at my misfortune, which made it all the worthwhile.
+55:21
+And yeah, like, I could see how that was interesting.
+I played around with the green deck.
+55:25
+Some didn't think that that was as interesting, but only did it once.
+And yeah, I think like I can kind of like Echo will sentiment a little bit of like, I wish I wasn't
+55:37
+like so boxed in with like the initial starting classes as they were.
+Like you're presented with with five orbs and three slots.
+55:46
+And the combinatorics should be like, well, you should have 10 different classes like, but you're
+restricted.
+55:53
+I don't know if this is part of a meta progression unlock, but like, you're restricted with like the
+purple and the Gray orb and you can only flip out the blue or like red or green ones to start with.
+56:04
+But yeah, I mean, I thought that those three classes were distinct enough in their play styles to
+make it at least interesting.
+56:13
+You can switch out eventually.
+You have to keep the purple orb no matter what.
+56:16
+But you can switch out the eventually, like once you progress, once you go down the meta progression
+far enough, then you can start to remove some of the other orbs and so.
+56:24
+Yeah, you can.
+You can have like purple and blue and red.
+56:27
+Well, you can say you can remove if I recall.
+I don't think.
+56:30
+You can remove purple.
+Actually, you never, I didn't get quite to the end of it.
+56:32
+I assumed you could cause eventually once you get down the meta progression far enough, you can
+remove like one of the second orbs or whatever.
+56:38
+But like, I think my my hunch would be because that was like a central orb and that last one seemed
+like, Oh yeah, probably can remove it.
+56:45
+I'm I'm I'm looking at the various classes or whatever and there's nothing that seems to suggest
+that you can remove the purple orb, which which case it shouldn't exist like it should.
+56:56
+Why have it in there and you can drag it and it says you can't do that.
+It's like, oh, that's.
+57:00
+Because it's just corrupted by the purple orb's power.
+And until you can get to the central city and and cast that dye into the fire, you'll.
+57:10
+Cast your fishing rod your line.
+Yeah, at.
+57:15
+Least you have a.
+Purple one, no matter.
+57:16
+What like so so the rest of us never were not quite as ascension 20 get good scrub skilled as as
+will was to get to like the final boss of so like your your your act one, your act two, act three
+57:31
+kind of structure.
+You're you're going from the plains.
+57:33
+That's kind of like the the Biome that we were talking about in the tutorial.
+Then you go into the forest where Woody and the mushroom people attack.
+57:41
+Very good art and vibes there.
+Then you go to the city, you get to the city gates and it's a very like medieval Zelda kind of kind
+57:51
+of vibe to it.
+But like the creatures in the city are just like what?
+57:56
+What sort of just like weird nightmare have I stumbled upon where like, yes, like I understand what
+a drooling wolf is.
+58:05
+I can understand a a ninja squirrel who's blind in one eye.
+Makes perfect sense.
+58:10
+You see it in fairy tales all the time.
+What the hell is this trope?
+58:15
+And and yeah, you have the classic trope of the weird amalgamation of like strange furniture
+creatures that have like amalgamated together.
+58:25
+I think like I've I've only gotten to the city once and the creatures that I encountered there were
+substantially different and bizarre to the rest of the game.
+58:34
+Will do.
+You haven't much much clicked down on that.
+58:37
+I don't remember any of them.
+I mean, I, I, I played it like the first week and then I'm like, OK, I got it and I stopped.
+58:44
+And so I can't really recall anything in the city.
+I remember like the I remember the end boss somewhat and there might be multiple ones but like I I
+58:51
+can't recall.
+Cuz the end boss, if I remember from my scrolling through YouTube speedrun videos, is like, is it?
+58:59
+Is it like you're literally breaking the 4th wall of the game?
+I remember there's being like a transparent like crack in the fabric of the universe that you're
+59:06
+fighting or something.
+I don't remember that particular aspect.
+59:10
+I just remember that the main, the main big difference is that instead of its health bar being like
+something where you have to work it down, you actually once it gets up to 1000, like essentially
+59:19
+health, that's when it dies.
+And so you're going from essential, you know, nothing up to 1000.
+59:24
+So this way it completely like turns your like use your dice to reduce their HP mechanic on its head
+and instead you just have to do a lot of damage.
+59:32
+Interesting.
+Sounds pretty wild.
+59:34
+Well I mean you guys love this, you know, weird meta 4th wall breaking crap like in inscription.
+So it sounds like it's all right up your alley.
+59:45
+No, I did get to the town, but I, I don't know, it sounds kind of wacky and, and, and far out.
+Amalgamation of chairs, you say?
+59:55
+I mean, like the the enemies from, from Act 3 felt super different and interesting.
+Like like I, I felt like I was progressing through some kind of interesting narrative.
+1:00:06
+But when it felt really bad to lose in this game, and that's something that I think like weighs
+pretty heavily against it.
+1:00:13
+We're like.
+You know, previous episode Noida, You know, like you, you just, like, turn around the corner and you
+1:00:19
+are just immediately dead for seemingly no reason.
+You're like, OK, I'm not entirely sure what happened there.
+1:00:25
+I'm very interested in starting a new run almost immediately, though, because there's all sorts of
+wild nonsense that I can get up to in less than two minutes.
+1:00:34
+It feels like in this game, the ramp up to getting to that wild nonsense takes too long.
+And I know that like there's there's a supreme amount of that wild nonsense because there's a lot of
+1:00:46
+people hunting for that beat the game in less than 30 minute speed run achievement.
+I guess like so like will Colin, when you guys are playing sleigh aspire, how long does like an
+1:00:57
+average?
+Like I just want to like cruise through just like beat it no problem.
+1:01:01
+Like ascension zero run take like 20-30 minutes.
+Well, I mean, it depends on how.
+1:01:06
+I mean, I'd say like 40 minutes on average if you're going to beat the heart.
+How about a non heart run A?
+1:01:11
+Little less than that.
+OK.
+1:01:13
+And, and like for Monster Train also like that, I feel like Monster Train is maybe a little bit
+faster.
+1:01:19
+It feels a lot faster, but it feels like if you lose in Monster Train, it's like, oh, like I can get
+back up to that nonsense ramp pretty quickly.
+1:01:28
+Yeah.
+Likewise with like slice or slice and dice and like luck be a landlord or something for this.
+1:01:33
+One, I mean monster train, especially like the scaling is really fast.
+So like you, you don't maybe not got you're not getting back to where you were when you lost, but
+1:01:44
+you feel like you're getting better quickly.
+You don't feel the sense of like, my deck sucks.
+1:01:50
+Yeah, and I, I feel like there's there are there was the the the one quote, the build that will
+educate us about with the the sage where you get a bunch of cards that have the reload mechanic, you
+1:02:04
+get the reload gun or gun card and then that like builds up this busted synergy.
+There's there's another one with the the the bats handy card and beacon that triggers these miracle
+1:02:18
+effects just like, oh, if like if you happen to draw the card, it it triggers something.
+It feels like the the mechanics of the cards are just like slightly too similar to how they operate
+1:02:30
+and slay the Spire.
+Like I I get that they're trying to go for something different but it feels like I don't know just
+1:02:37
+like too close to Spire ISM maybe am I wrong?
+Like monster train feels very different but I felt.
+1:02:43
+Like the reload, I mean, there's no reloading mechanic in a slate of Spire where like once you spend
+it, you have to spend a turn like reloading it.
+1:02:52
+So that I mean, I have to give him credit like that is a new novel idea, which I think is
+interesting.
+1:02:56
+And like you can, I can very easily imagine that being like in like a downfall in which is the
+another dealer, a mod for Slate of Spire.
+1:03:04
+This could be like another sort of like character based on reload mode.
+So I do think it's an that at least that particular one is an interesting archetype.
+1:03:11
+And I think there there's a bunch of others I didn't explore because again, I'm just, I think on 1/4
+gameplay I had to save like halfway through and then I opened it up the next day and I'm just like,
+1:03:20
+I, I, it hurt me and I'm like, Oh, I have no interest in doing this.
+And so I just didn't play the other, you know, play styles, but that's not.
+1:03:29
+A good sign for the game, yeah.
+It just didn't didn't grab me whereas.
+1:03:33
+I I have a big question.
+The map the FTLL style node map.
+1:03:39
+Are the nodes the same every time?
+Is the like the structure of the map the same every time?
+1:03:44
+Am I crazy?
+But between acts, like the acts have similar structures and so like the, the city, for instance, has
+1:03:49
+like a structure where there's like a bunch of straight lines that are really long.
+And so that one's the one that's encouraging to go like really far out and then backtrack a little.
+1:03:57
+And like you get a little bit more of like a, a reason to backtrack and do other things and play
+around with the the fog more.
+1:04:03
+But yeah, it is randomized every time.
+Well, because I remember seeing the ACT 1 like node map structure and it, it's very kind of like
+1:04:11
+normal.
+And then like in the middle chunk, there's like a, a sector that you can like maybe do more of like
+1:04:18
+a circle in it's.
+Procedurally generated with like those kind of like dynamics included.
+1:04:22
+Just like how insulate the Spire, you don't see an elite until the at least the fifth level and you
+don't get repeats of like campfires.
+1:04:30
+And so there's a lot of rules that they're using to generate it, but it is generated.
+Yeah, I I like it looked suspiciously similar like every every time on act one room.
+1:04:39
+Like this isn't just the same like like the structure, like the the nodes on the tree are different,
+sure, but it seemed very suspiciously similar, maybe a little too similar between cause like all the
+1:04:54
+ones for FTL are like sometimes like alarmingly bad with how different they are, like getting you
+boxed into a corner with a whole bunch of nebulas and stuff.
+1:05:03
+But it is different.
+It's very obviously very visually different.
+1:05:08
+It might be more narrow like like Slate Aspire is a 7 by 15 grid.
+Of course, of course, I mean like as everyone knows.
+1:05:16
+And so like this one, I feel like it might be like 5.
+It's a beautiful thing.
+1:05:21
+So I'm not sure exactly but it feels like.
+Slim.
+1:05:24
+Yeah, it feels a little slimmer.
+I could do that.
+1:05:27
+Well, I, I have a big question too about this.
+What So for, you know, hey, everybody's playing Milatro.
+1:05:35
+Tons of people are being introduced to deck builders for the first time.
+Where?
+1:05:39
+Where do we rank this game?
+In terms of how likely would any of us be to recommend this to someone who has played Milatro and
+1:05:48
+now they want to stretch their wings and they want to try some more deck builders?
+I would almost suggest this as some like to play this before playing.
+1:05:58
+I I, I think this is a really good gateway game into rogue like deck builders because like, well,
+like gateway in the sense that like cute art style, like gives you the kind of like general sense as
+1:06:11
+to like, oh, like, you know, here's how to like deal with randomness and stuff.
+And yeah, if like you discover a broken build, you can like run pretty far with it.
+1:06:19
+I don't know that I would say like, like 100% all the achievements in this game first before jumping
+to any other one.
+1:06:26
+But if you've never played one before and you're like, oh, this has like a very appealing.
+I like, I could see this doing very well on the Nintendo Switch with like a very like a broad kind
+1:06:37
+of like audience appeal to it.
+It's very cute it you know.
+1:06:42
+I don't know if it'd be a better game, but I think it might be an easier sell.
+Sure, yeah.
+1:06:49
+But yeah, if I if I had to like no one's played a rogue like deck builder before, if I had to
+recommend as their first experience this or Monster Train, I would maybe lean this, even though I
+1:06:59
+think Monster Train's the much better game.
+I mean, like, I mean, that's a strange situation where you can only recommend one of those two
+1:07:05
+because we all know the only game we should recommend at least as a first game, which is the you're.
+Right slice and dice the objectively best.
+1:07:14
+I mean, it's a good, that's a good game, but no, it's not the.
+One, I mean, there's other factors here though.
+1:07:20
+Let's assume that there is a less than 100% chance that your recommendation will be heated.
+Say I think that you like Slate.
+1:07:31
+Aspire looks like a a more hardcore game.
+I'm going to read you guys a quote.
+1:07:36
+This is a this is a message I got from someone this morning.
+This is someone that I think we're we're chatting in some kind of a subreddit about roguelike games.
+0:00
+And we just ended up having an actual conversation via webcam once.
+1:07:48
+And so I said, I told him, Hey, you, you should play Slay the Spire.
+That's of course, because that's what I recommend to everyone.
+1:07:54
+And so his and this is an exact quote.
+So I've spent a good chunk of time messing around with Slay the Spire one.
+1:08:00
+It's awesome. 2.
+I can totally see how it's an incredible model for what you're building because it's really into a
+1:08:05
+different game that I'm building.
+But like it's everyone who plays it loves it without exception.
+1:08:12
+Right, but wouldn't if if no one like take take this as a as a fork to that?
+If someone has never played a tabletop board game before, would you recommend them chess or Go to
+1:08:24
+start?
+Or would you recommend them like a cutesified version of checkers?
+1:08:28
+Oh, I'm not gonna be allowed.
+Yeah, play some shoots and ladders.
+1:08:31
+That'll get you No play a fun game.
+Yeah, chess.
+1:08:35
+I mean, sure, that's a that's AI mean that's a fun game.
+And as long as you have the someone that's at your level, then it it's extraordinarily fun if you
+1:08:42
+have you're trying to play.
+AGMI would not recommend any of those games.
+1:08:45
+I'd recommend a real board game, yeah.
+I mean, I would too, but what's a what's a real board game, Theo?
+1:08:52
+Terrifying me, Mars.
+Blue gloomy being Dungeons and Dragons clue.
+1:08:59
+Anything.
+Maybe forms of battle?
+1:09:00
+For what is it?
+Battle for North Africa can't pay.
+1:09:02
+For North Africa.
+Can't pay for North Africa.
+1:09:04
+Yeah, that's.
+A bunch of God damn nerds in here.
+1:09:06
+A good.
+A good a good gateway game.
+1:09:08
+But see, I feel.
+Like Kevin for North Africa is a notorious game, takes like 2000 hours.
+1:09:14
+Well, notoriously it was developed as like maybe almost a joke where the designers like, oh, I
+didn't actually intend for anyone to play this.
+1:09:20
+And no one has.
+But but I think that's my point.
+1:09:24
+I think like.
+OK, but but it's at least, you know, it's it's in the conversation of like, hey, you know, maybe
+1:09:30
+maybe we don't want to just, you know, jet you rocket you all the way to the top of the absolute
+best pinnacle of gaming.
+1:09:38
+Maybe save that so you can truly, you know, appreciate it.
+Maybe try some of these other games.
+1:09:45
+Or try isolate the Spire and if you bounce off that try dysome answer like you know.
+The dysome answer, but get rid of the dice.
+1:09:52
+Also, we don't like losing, we don't like the randomization and there's too many Dick jokes.
+But with a few a few tweaks, perfect game.
+1:10:01
+So I'm trying to find a a negative review and steam so I could have a counterpoint and I've I've
+just keep scrolling and I haven't found 1 yet.
+1:10:10
+Which is amazing that like I don't think.
+Anyone has ever written a negative review for Slatus Power?
+1:10:15
+They may have given a thumbs down, but I don't know if they've actually written a review because
+they know their opinions are wrong.
+1:10:21
+Well, I mean it.
+It's so.
+1:10:23
+The most the the most damning one I can find is it's all right from someone who has 3000 hours on
+record.
+1:10:31
+It's like you are, you're scrolling through this, the sleigh, the Spire, and I'm trying to vamp here
+while I, you know, pause.
+1:10:39
+All right, here we go.
+Hey check this out this Rouge like deck builder with a peeling art style that that should already
+1:10:47
+tell you what you're in for What?
+OK, here.
+1:10:50
+Here we go.
+Here's.
+1:10:50
+Roll the like deck builder with a with a.
+Here's a thumb, say Rouge, by the way.
+1:10:54
+From Barnacle Collective As much fun as a slot machine.
+Thumbs down 52 hours.
+1:10:59
+If I'm not mistaken last update for this game was in 2022.
+As other people I comma what I experienced performance issues in the form of quote stutters.
+1:11:10
+No mention solution helped so no recommendation for me.
+Thumbs down from Cali 8.6 hours.
+1:11:18
+I mean, to be fair, that is very frustrating.
+I like how this podcast is now about Slate, Aspire and every podcast episode.
+1:11:25
+What?
+Are you going to say now I, I mean, I, I, we joke about how we've mentioned in every single episode.
+0:00
+Oh, here's a here's a review we got here, one of about 610 out of 10 games I've never played in my
+1:11:40
+life.
+Massively done.
+1:11:42
+I'm working with data from firelocks to cluster the winning decks into Presonus because I.
+Like I sound like it's so much my.
+1:11:50
+My man's daydreaming about No, of course will, sorry.
+Yeah, that was mine, yeah.
+1:11:57
+That's a good one.
+That's a good, good review because I love thinking about it so much.
+1:12:02
+What?
+What's good about this game?
+1:12:04
+It was basically my master's thesis that I mean like is what I mean.
+Like in one of my classes like I just focused on taking the data from the spiral logs and doing the
+1:12:11
+clustering and it's like everybody best.
+Thing.
+1:12:14
+Yep, Yep, Yep.
+There we go.
+1:12:16
+Very excellent.
+So anyway, yeah, well, dice, Dice romancer, what else we got?
+1:12:26
+I cleared out all my notes about all my my gripes here and so I think it's well covered from my
+point of view the.
+1:12:32
+Entire thought process of this game has been derailed by the fact that I didn't play it right.
+Well, I.
+1:12:38
+I've removed my score from our spreadsheet and just put it in a question mark.
+I was perusing the the Chinese translated wiki for this game and I think if I'm understanding this
+1:12:48
+right I think I just uncovered another like eye popping mechanic that I never thought to try.
+I think that I I might have to go and test this after we hit the stop recording button or if someone
+1:13:00
+wants to boot it up right now and try this.
+I think you can open up the in game encyclopedia and re roll the numbers for all the enemies in
+1:13:09
+there.
+I think if I'm reading this right where it says quote after unlocking the quote world dice thrower,
+1:13:17
+maybe that's a different a different item.
+OK, you can modify the numbers in the battle encyclopedia in the encyclopedia during battle, but you
+1:13:25
+cannot modify the card illustrations.
+Damn.
+1:13:28
+It is recommended that novices explore this aspect by themselves and sometimes you will feel
+suddenly enlightened.
+1:13:34
+You need to enter the battle encyclopedia first and then click on the dice to use it.
+So I like when they mean you can re roll any number you see on screen.
+1:13:42
+They they pretty much mean it.
+Yeah, it's also how you change the dice.
+1:13:46
+The the mouse sensitivity is through a dice roll.
+Includes the Yeah, you actually can't.
+1:13:51
+You can't exit the game until you rolled Nat one.
+Wait, isn't there a number next to how many dice rolls you have?
+1:13:59
+Yeah.
+So in theory, like if you could just.
+1:14:01
+Roll it infinite times, yeah.
+No, it's not.
+1:14:04
+It's not well capped, no, because I think the three.
+Charges.
+1:14:07
+Two charges.
+So if you run in, if you roll in that one, then that that ends the sequence.
+1:14:12
+But yeah, in theory, like you can like one of the the gameplay loops is like using the activated
+relic, one die to like burn down everyone, all the enemies, like HP bars and then use the card one
+1:14:25
+die to recharge the relic, which I thought was neat.
+I thought also what was neat was like as you progress through the acts and like you upgrade your one
+1:14:37
+die from AD 4 to AD10D6D10D6 to AD 10, Yeah.
+And then to like AD 20 for act three.
+1:14:47
+Like I thought it was very clever how that impacted my gameplay decision making of like, well now
+like instead of rolling this like 1D4 to alter the enemy's damage, I'm not going to have them do 20
+1:15:00
+damage to me.
+Although I definitely accidentally did that a couple times.
+1:15:05
+It felt like it.
+It repositioned my thinking in a clever way of like OK the dice is bigger now so now I have to focus
+1:15:11
+on different things to re roll.
+Yeah.
+1:15:14
+For sure for.
+Sure.
+1:15:15
+Re rolling I think it's pretty interesting.
+Stops being quite as good.
+1:15:18
+You can't reliably get them down to like three hit points.
+Yeah, but I mean like your helpful is still like big enough that like you're re rolling it from like
+1:15:27
+80 down to 20.
+So it's still useful even if you've landed that 20, but you know.
+1:15:32
+Here here's another fun little use of the dice in keeping and not upgrading my dice and keeping it
+tiny.
+1:15:39
+I was I was doing a berserker run where I would use MY1 dice to re roll the amount of injury damage
+I was taking.
+1:15:46
+So that was, so that was kind of fun.
+I think it's, I think it's pretty a pretty nifty gimmick, that's for sure.
+1:15:54
+But not nifty enough for you to want to play, apparently so.
+Well, I mean I got a good.
+1:16:00
+Six hours?
+Well.
+1:16:02
+I think, I think, I think we got to just do the ratings now so I can go can leave the leave the pod
+and go play it more and see what it's like and then I'll I'll give it the real rating next time.
+1:16:15
+Rock'n'roll.
+Very good well, hey I'll actually I started this off the last couple times somebody else go let's
+1:16:23
+roll for it 1234 all right I got my metal D20 here I've rolled a. 20 Well get out your D20.
+That's you.
+1:16:30
+Oh, OK, I see.
+It's the roll.
+1:16:32
+The D. 20 We don't have AD four with the arms reach somewhere.
+I mean, we can do.
+1:16:36
+Hold on Will, I'm going to roll for you.
+Why?
+1:16:39
+Can't I just use?
+I have excel open right here and I have it equals random between ready.
+1:16:44
+I just did Google 1D four and I got a three so.
+Wait, 1D four?
+1:16:48
+Oh, I was going to roll D20.
+I I I see well.
+1:16:51
+It's higher first or last?
+I'm just going clockwise around the zoom screen here.
+1:16:56
+Yeah, what?
+My my.
+1:16:57
+Scott, just roll a dice and tell us who plays.
+OK, the Google Dice has said three, which clockwise is Colin.
+1:17:04
+OK, I give this game a question mark and or A1 I'm going to give it AD 12 I think.
+So like I'm going to say it's wow, I rolled AD 12 and I got a 10, so it's 10 out of 10 game.
+1:17:24
+EBay.
+That is a shit wave determining.
+1:17:28
+The actually a 10.
+Out of 12 is an 8.333 repeating.
+1:17:33
+No, this could have been the 1st 11 out of 10 game.
+That makes more sense if it got lucky.
+1:17:39
+No, I mean I I didn't particularly enjoy it, but I feel like I genuinely misunderstood a core
+mechanic.
+1:17:45
+So my guess is that I'll like it more if I play it with the right mechanics, but it does annoy me
+quite a bit that I didn't realize that.
+1:17:54
+Like, I don't mean I'm going to have to open it up and like poke around, but I don't know how long
+it would take in for me to realize that.
+1:18:04
+And I probably would never have realized it because I would have stopped playing because I was like,
+oh, this is just a weird, poorly balanced game where you need to get like some weird random luck to
+1:18:13
+get to draw the right cards to, to get through.
+Like I I managed to get, I almost got through the first boss without using any of those dice rolls.
+1:18:24
+I was like man this feels like an OP build and I still was like I can't fucking get through this
+boss so.
+1:18:30
+Yeah, the health roles are.
+That really helps.
+1:18:32
+Yeah, I went through all of his health except for the last bar.
+I got him down to two hit points and all of his health.
+1:18:39
+So yeah, I'm going to give it a question mark.
+TBD.
+1:18:44
+I gave it a 5.7 when we started the episode.
+I'm guessing it'll be slightly higher than that by the time we everything said and done.
+1:18:52
+Right on.
+I'll go next year.
+1:18:55
+Just to reiterate quick disclaimer, I joined this podcast late and at the time of me joining we were
+stack ranking them and so I had a weird review system, but then they changed it on me folks.
+1:19:10
+They totally switched it around and now we're we change.
+It for you, Andrew Regular.
+1:19:14
+Out of 10 well, you know, And so my my ranks are my my numbers.
+They don't matter.
+1:19:19
+They they matter even less than everyone else's rating numbers all right, so check it out this game.
+I don't really I don't especially love deck builders, but once I finally got a that's why it
+1:19:33
+happened.
+Well, just to spite you.
+1:19:37
+Well, counter spike, another game coming from purple robe games.
+I am going to I'm going to upgrade this dice mechanic from the one dice mechanic from novelty to
+1:19:50
+innovative mechanic.
+I think it adds quite a bit and there's a lot a lot of interesting usage that really kind of
+1:19:59
+exercises your brain in a fun and unique way that I've not seen in another game.
+You combine that with the the quite striking.
+1:20:11
+And and enjoyable art style animations and of course, first person shooting effects.
+And this is this is a game that I would definitely recommend to people.
+1:20:24
+Maybe maybe casual dice.
+Pardon me card deck building gamers, but hey, you know we haven't talked about this whole time.
+1:20:34
+Is the dice rolling animations super important?
+I really harped on this one during the Omega Bowl.
+1:20:43
+That slice and dice had physical physics objects rolling dice that actually looked halfway decent.
+How does the D20 roll animation look in this game?
+1:20:55
+That's pretty good.
+It's honestly probably better than D&D Beyond, which is like atrocious.
+1:21:02
+So and, and, and that is that a pretty good dice rolling effect is going to also speak to the score
+that I'm giving it, which is it's my new number 25 scoring 5.71 points.
+1:21:20
+Who's next?
+According to the dice roll, will is.
+1:21:23
+All right, well, these scores, obviously, they matter a lot.
+So here's the correct value. 6.5.
+1:21:31
+It's a 6.5 game.
+It's.
+1:21:34
+Yeah.
+What is it that it's just.
+1:21:35
+It's not, it's not a great game.
+I don't.
+1:21:38
+I do think they.
+The dice is a gimmick.
+1:21:40
+The dice is a gimmick.
+And that puts it in the company of Stack Land, Streets of Rogue Griff, Land Sales, Taj Mahal and
+1:21:48
+World of Horror.
+So still, like if I'm, if I'm trapped on a desert island and I've got nothing to do, you know, tic
+1:21:55
+tac toe in the sand or this game, I'll probably play this game.
+That's that's how I feel about it.
+1:22:00
+So bringing endorsement.
+All right, I'll bring us home here.
+1:22:04
+Where did that Google Sheet tab go?
+Did I some answer for me, I think 7 out of 10, I think I had this rated higher and then it kind of
+1:22:14
+tumbled down the rankings.
+The more that I played it, It just kind of felt like there was a lot of cognitive load that I had to
+1:22:20
+do every time.
+And at the end of a long day, you know, there's there's like there's times where unraveling that
+1:22:26
+puzzle will be super satisfying in other times where I think it's just like, you know, like the, the
+art style can only really carry it for so long.
+1:22:33
+I think the, the art style for this game is great.
+I think it adds a ton of charm to it.
+1:22:42
+And I think it's, it really adds to like the vibe coziness of like the the fairy tale nature that
+you're in it and.
+1:22:51
+And their music's pretty good, too.
+Yeah, I, I and I thought the music was, was pretty good, maybe could have stood to be a little
+1:22:59
+longer before looping, but I think it does does kind of also reinforce that, that whimsical notion
+to it.
+1:23:08
+I, I, I liked the dice mechanic the more and more that I sort of play with it.
+And I can definitely see how when you get a really solid broken build going, how it can just like
+1:23:17
+spiral out of control and get to that sort of monster train level of nonsense.
+I just kind of wish it did it faster.
+1:23:24
+But yeah, I can totally see how this would be a fun a fun thing to explore.
+If like, oh, you know, I've put it like a a bunch of time to say the Spire put a time bunch of time
+1:23:34
+to monster train.
+This would be another good kind of thing.
+1:23:36
+I don't know if it has has the legs to last as long, but certainly interesting.
+And yeah, definitely, definitely worth a look.
+1:23:47
+Yeah.
+So I think similar games to this, we kind of talked a little bit about the the itch dot IO precursor
+1:23:54
+to Diceomancer called Dice is the way.
+I also think if Diceomancer was listed in early access, maybe I'd give a little more leeway.
+1:24:00
+But anyway, other similar games, Estrella 6 sided oracles, I think does dice and drawing mechanics
+maybe a little better with randomness mitigation.
+1:24:11
+There's a game called Rogue Lords that I think is interesting.
+And maybe also I think that one from a an art style perspective, actually.
+1:24:19
+Why do I have this on here now that I'm looking at it?
+Oh yeah, it has.
+1:24:23
+It has some more kind of like number mitigation on screen type stuff.
+So kind of taking the same sort of mechanic.
+1:24:31
+Monster train we mentioned a whole bunch.
+There's a game called Betrayal at Club Low which is a very short interesting game about like I think
+1:24:40
+there is an aspect of like manipulating people with dice in a way.
+There's game meteor fall Krumitz tale that has a similar kind of whimsical aesthetic to it.
+1:24:53
+There's Rogue book, which is highly recommended from from people in the interwebs, Co designed by a
+one Richard Garfield of Magic the Gathering fame as as Andrew mouths all sorts of interesting stuff.
+0:00
+And then there's a there's a game called Dyson fold that I think also kind of involves Dyson card
+1:25:15
+mechanics as well.
+So give those a a check out at some point.
+1:25:21
+But yeah, that's gonna wind down.
+We're rolling A1 on our energy levels here for the show.
+1:25:26
+As we wind down here send, you know, roll roll your dice for sending us emails to
+grogpodzone@gmail.com.
+1:25:34
+Mastodon grog pod at game dev dot place.
+And actually, while I have meant to do this last time and I biffed it yeah, like we we have another
+1:25:44
+listener request week coming up fairly soon after Andrew's pick.
+So, you know, use that that that you're listening to this somewhere on web 3 point O right comment
+1:25:55
+below.
+There's got to be some kind of comment box.
+1:25:58
+What game do you want us to see play?
+We'll add to the list and you know, we'll give it its due diligence.
+1:26:02
+So grog pods on gmail.com.
+Our Mastodon is grogpod, a game dev dot place, which I need to I need to post more of our like
+1:26:10
+meaning that we do in the discord to there.
+I feel like we've been, we've been pretty on point with our images and meaning going on, but but to
+1:26:18
+give people a kind of.
+Yeah, not to brag about our discord, but it's pretty good.
+1:26:24
+And by our Discord, you of course just mean the four of us in a, in a, Yeah, right, Like a change.
+So yeah, it's not like there's a Discord where you're missing out on all of the the fun behind the
+1:26:34
+scenes features.
+The the tank of listeners that that would be willing to sign up for Patreon.
+1:26:42
+Yeah, so Grogpod dot zone, all of the stuff all in one place as you, as you would expect, Colin,
+your next pick what is what is AD 6 from this game have in common with the game that we're playing
+1:26:56
+next?
+Oh it's cubes baby.
+1:26:58
+It's cube chaos.
+I don't even really know what or how to describe this game seeing as I haven't played it yet and
+1:27:06
+just from looking at the steam I don't know what it is but I'm excited.
+It says something about giant armies, factory self replicating murder crabs, RTS slash roguelike
+1:27:20
+slash.
+Something I had with extremely low graphics.
+1:27:24
+It looks like some sort of RTS worms type game.
+I'm not sure what it is.
+1:27:30
+Scott recommended it and I wholly endorsed it, so I'm.
+Like what if what if Conway's Game of Life had Ms. Paint style graphics and just like extreme visual
+1:27:43
+overwhelmingness?
+Or after 5 minutes, Yeah.
+1:27:47
+What if and we're going to find out next episode.
+Yeah, yeah, we will find out.
+1:27:52
+But to play us out this time are some tunes to accompany Little Purple Riding Hoods crossbow
+adventures through the forests.
+1:29:05
+Music.
