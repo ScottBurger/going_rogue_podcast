@@ -25,7 +25,7 @@ The winter special episode is here! This week we turn back the clock 3 months to
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/roguelike-dev-interviews-at-pax-west-24/id1650474911?i=1000682207687) | [Spotify](https://open.spotify.com/episode/1aXpS3pVp5NOBumsbCbu3M?si=pfmPLqEvQzaHxbwvTbjewg) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/2024_winter_special.txt)
 
 ---
 * 4:18 - Live on the streets!
