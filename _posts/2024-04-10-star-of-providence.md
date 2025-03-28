@@ -46,7 +46,7 @@ Team D-13 were kind enough to give a quick Q&A on how Star of Providence came ab
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/star-of-providence/id1650474911?i=1000652269445) | [Spotify](https://open.spotify.com/episode/6hvNzGJ3xGKNzVR4mev8Ec?si=1q9pQeb_T9yjodhnGveqqA) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/star_of_providence.txt)
 
 ---
 * 1:52 - game stats
