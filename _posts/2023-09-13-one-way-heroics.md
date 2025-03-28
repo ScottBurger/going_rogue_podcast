@@ -35,7 +35,7 @@ One way or another, we were going to play this hit indie JRPG roguelike! Its One
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/one-way-heroics/id1650474911?i=1000627686397) | [Spotify](https://open.spotify.com/episode/1pNZTC9SSv49ddUhUqzzEU?si=7aggbC67Tu2J-cn8EX5Y0w) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](NA)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/one-way-heroics/id1650474911?i=1000627686397) | [Spotify](https://open.spotify.com/episode/1pNZTC9SSv49ddUhUqzzEU?si=7aggbC67Tu2J-cn8EX5Y0w) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/one_way_heroics.txt)
 
 ---
 
