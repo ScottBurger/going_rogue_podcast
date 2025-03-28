@@ -42,7 +42,7 @@ Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! M
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cult-of-the-lamb/id1650474911?i=1000621600960) | [Spotify](https://open.spotify.com/episode/0Qt3DTQQNMe552R6AEypSY?si=Qw3FRQAiR1qyfbaJtDXG4Q) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/cult_of_the_lamb.txt))
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cult-of-the-lamb/id1650474911?i=1000621600960) | [Spotify](https://open.spotify.com/episode/0Qt3DTQQNMe552R6AEypSY?si=Qw3FRQAiR1qyfbaJtDXG4Q) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/cult_of_the_lamb.txt)
 
 ---
 
