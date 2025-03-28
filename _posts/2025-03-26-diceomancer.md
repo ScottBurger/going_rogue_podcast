@@ -24,7 +24,7 @@ The club of overwhelmingly positive roguelike deckbuilders is a small one, but b
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/diceomancer/id1650474911?i=1000700864344) | [Spotify](https://open.spotify.com/episode/5WKuZeFFO7AERZ8pgZTkUd?si=2jzNP74DQNWRVpkGIK3pQQ) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/diceomancer.txt)
 
 ---
 * 1:49 - game stats
