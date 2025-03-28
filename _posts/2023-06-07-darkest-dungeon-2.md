@@ -38,7 +38,7 @@ Are you tired of the daily grind? Stressed out from the demands of modern life? 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/darkest-dungeon-ii/id1650474911?i=1000615959666) | [Spotify](https://open.spotify.com/episode/5Ez4L4xSDQOktJW2DDvrq4?si=5dZS4CJdQ6mCtuqclThrEA) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darkest_dungeon_2.txt))
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/darkest-dungeon-ii/id1650474911?i=1000615959666) | [Spotify](https://open.spotify.com/episode/5Ez4L4xSDQOktJW2DDvrq4?si=5dZS4CJdQ6mCtuqclThrEA) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darkest_dungeon_2.txt)
 
 ---
 
