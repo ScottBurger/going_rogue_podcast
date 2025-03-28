@@ -25,7 +25,7 @@ Bam! It's listener request week again and this time we're blowing the dust out o
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/mystery-dungeon-shiren-the-wanderer-with-helen-gagther/id1650474911?i=1000672384547) | [Spotify](https://open.spotify.com/episode/3VSmewUU6NWOzthR2Jj6F8?si=HQADlMikRCOlLQRy1mU9qQ) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/mystery_dungeon_shiren1.txt)
 
 ---
 * 2:02 - game stats
