@@ -25,7 +25,7 @@ Clap! Bow! Clap! Clap! Bow! Not even 6 days of power outage can stop this week's
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/world-of-horror/id1650474911?i=1000678227626) | [Spotify](https://open.spotify.com/episode/00OKtiEFpeYXM4Q4pwpf1Z?si=5o-RSg1KRTCgkoAoYqAL4g) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/world_of_horror.txt)
 
 ---
 * 2:09 - game stats
