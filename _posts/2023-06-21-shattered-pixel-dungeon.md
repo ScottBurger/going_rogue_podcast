@@ -38,7 +38,7 @@ You have 1 new message: a podcast episode about the hit roguelike mobile game Sh
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/shattered-pixel-dungeon/id1650474911?i=1000617805231) | [Spotify](https://open.spotify.com/episode/0E9fg6mJsseDrAI3gdOAMW?si=0Gf_gs2wSqKJhOpjE1PkiA) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/shattered_pixel_dungeon.txt))
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/shattered-pixel-dungeon/id1650474911?i=1000617805231) | [Spotify](https://open.spotify.com/episode/0E9fg6mJsseDrAI3gdOAMW?si=0Gf_gs2wSqKJhOpjE1PkiA) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/shattered_pixel_dungeon.txt)
 
 ---
 
