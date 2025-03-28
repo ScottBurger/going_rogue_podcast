@@ -46,7 +46,7 @@ As noted, we've done a few [developer interviews for CDDA which you can find her
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cataclysm-dark-days-ahead/id1650474911?i=1000629294439) | [Spotify](https://open.spotify.com/episode/2t2U6Wu9k5eFJ0Sbe3G3Tb?si=yCqOoRzlTAqq4vHNRccKBg) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](NA)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cataclysm-dark-days-ahead/id1650474911?i=1000629294439) | [Spotify](https://open.spotify.com/episode/2t2U6Wu9k5eFJ0Sbe3G3Tb?si=yCqOoRzlTAqq4vHNRccKBg) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/cataclysm_dark_days_ahead.txt)
 
 ---
 
