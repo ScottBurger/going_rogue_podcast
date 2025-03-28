@@ -39,7 +39,7 @@ When you walk in Griftlands, you better watch your back. There's no room for her
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/griftlands/id1650474911?i=1000612443225) | [Spotify](https://open.spotify.com/episode/2jeZZWn8whAHPX1ch590ql?si=-2-oiuQUR9WRguOMI0xGWg) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/griftlands.txt))
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/griftlands/id1650474911?i=1000612443225) | [Spotify](https://open.spotify.com/episode/2jeZZWn8whAHPX1ch590ql?si=-2-oiuQUR9WRguOMI0xGWg) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/griftlands.txt)
 
 ---
 
