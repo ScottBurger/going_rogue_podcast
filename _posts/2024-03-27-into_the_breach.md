@@ -34,7 +34,7 @@ We did it listeners, we saved the city! This week we revisit Subset Games with t
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/into-the-breach-with-woody-ciskowski/id1650474911?i=1000650864055) | [Spotify](https://open.spotify.com/episode/5p3B9xhCcQlLHqaQG99x3J?si=hFrQUpq0Q-yIKEAGY2M0kw) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/into_the_breach.txt)
 
 ---
 * 1:39 - game stats
