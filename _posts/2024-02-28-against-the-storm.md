@@ -36,7 +36,7 @@ Lousy Smarch weather! Come in from the cold and warm up with an episode on the r
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/against-the-storm/id1650474911?i=1000647346426) | [Spotify](https://open.spotify.com/episode/7kDcSjex1ZEia06jDReSZF?si=M_M7qIYKSluI0lQfdyis4w) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/against_the_storm.txt)
 
 ---
 * 1:19 - game stats
