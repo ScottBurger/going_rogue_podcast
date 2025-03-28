@@ -36,7 +36,7 @@ Reap and tear! This week we're DOOMing it up with the BOOMer shooter rogue Night
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/nightmare-reaper/id1650474911?i=1000643614143) | [Spotify](https://open.spotify.com/episode/5EWsIBY1kFYIMmCjatRB1S?si=JyATKquzS7GIJpWm6uJHcQ) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/nightmare_reaper.txt)
 
 ---
 *  1:17 - game stats

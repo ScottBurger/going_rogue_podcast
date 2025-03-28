@@ -27,7 +27,7 @@ Caw caww!! It's almost every episode that we reference Slay the Spire in some wa
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/slay-the-spire/id1650474911?i=1000666861210) | [Spotify](https://open.spotify.com/episode/0yRn0LVqfjOsczKS3d6hLv?si=NIHTF2rsS5K9cZ8vXXQN8g) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/slay_the_spire.txt)
 
 ---
 * 2:24 - game stats

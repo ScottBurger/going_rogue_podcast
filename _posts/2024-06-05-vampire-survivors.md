@@ -26,7 +26,7 @@ Adoro l'aglio! The time has come to suck the blood out one of the most popular r
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/vampire-survivors-with-woody-ciskowski/id1650474911?i=1000657936349) | [Spotify](https://open.spotify.com/episode/3P5qt10T3DpF0d40YXTXBw?si=PMlGP8iRRHaxCa9W4mZ3lQ) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vampire_survivors.txt) 
 
 ---
 * 2:42 - game stats

@@ -60,7 +60,7 @@ We kick off the first hour of the program with Huw, Will, and I chatting by the 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/2023-winter-special-dev-interview-with-huw-millward/id1650474911?i=1000639172414) | [Spotify](https://open.spotify.com/episode/3EIFvvswat7QM9GdzseVRp?si=XtLDvxFZQRKhBOhpUySR6Q) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/2023_winter_special.txt)
 
 ---
 

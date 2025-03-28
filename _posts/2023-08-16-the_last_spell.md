@@ -43,7 +43,7 @@ Hold onto your Brotatoes! You demanded, we listened: listener request week is ov
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/brotato-the-last-spell/id1650474911?i=1000624610873) | [Spotify](https://open.spotify.com/episode/5SXEnp1kj7jCeLYORel8PN?si=M5_52ykRStmlMtEtQ7_c8w) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/brotato.txt))
 
 
 ---

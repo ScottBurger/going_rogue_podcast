@@ -38,7 +38,7 @@ Gather round children, it's story time! This week we're talking about the pop-up
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/wildermyth/id1650474911?i=1000641932640) | [Spotify](https://open.spotify.com/episode/6wKES53Rk3fW7Q6EgyhYcM?si=pFGLpuazQlOlXO9mZDb2ng) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/wildermyth.txt)
 
 ---
 * 1:29 - game stats

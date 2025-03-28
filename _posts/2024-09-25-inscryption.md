@@ -25,7 +25,7 @@ tags: ["2021", deckbuilder, honorary rogue, Guest Episode]
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/inscryption-with-woody-ciskowski/id1650474911?i=1000670613047) | [Spotify](https://open.spotify.com/episode/4rsmF71SYeFsBH4YpPms4V?si=WBSF7o3aQNeR0K0L7Tgqrg) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/inscryption.txt)
 
 ---
 * 3:45 - game stats

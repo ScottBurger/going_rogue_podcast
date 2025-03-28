@@ -24,7 +24,7 @@ This week in "wait, that's not a roguelike!" we tackle the Souls-like shooter Re
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/remnant-from-the-ashes/id1650474911?i=1000691324259) | [Spotify](https://open.spotify.com/episode/0dpmxRcvTR9dbOACzW8k94?si=yN055AH1S5mp8i4l-5QgOw) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/remnant_from_the_ashes.txt)
 
 ---
 * 2:18 - game stats

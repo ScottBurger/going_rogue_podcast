@@ -36,7 +36,7 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9ncm9ncG9kLnpvbmUvZmVlZC54bWw) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/rogue-tower/id1650474911?i=1000640397291) | [Spotify](https://open.spotify.com/episode/5AfklJ57HfsEZXi8mGgZ8t?si=jsR54YzARp-KSgh5b4gQUQ) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/rogue_tower.txt)
 
 ---
 * 1:47 - game stats

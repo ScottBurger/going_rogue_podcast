@@ -25,7 +25,7 @@ Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for dere
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod/id1650474911) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) 
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/void-bastards/id1650474911?i=1000669108337) | [Spotify](https://open.spotify.com/episode/0yshJbwWloppX92M8VV9Q5?si=OVwh2FfARpqQBITwv7K1DA) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/void_bastards.txt)
 
 ---
 * 1:19 - game stats
