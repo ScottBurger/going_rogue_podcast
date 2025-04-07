@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/diceomancer.jpg
-thumbnail-img: /assets/img/diceomancer.jpg
-share-img: /assets/img/diceomancer.jpg
+cover-img: /assets/img/cube_chaos.jpg
+thumbnail-img: /assets/img/cube_chaos.jpg
+share-img: /assets/img/cube_chaos.jpg
 duration: "1:41:10"
 length: 84222000  
 tags: ["2023", solo dev, deckbuilder]
@@ -35,7 +35,7 @@ description here
 
 ---
 
-Next episode: Cube Chaos
+Next episode: ???????????????
 
 Contact us at grogpodzone@gmail.com!
 
@@ -43,7 +43,7 @@ https://grogpod.zone
 
 Intro music: Sun Ra - Purple Night Blues
 
-Outro music: Diceomancer OST - The Woods
+Outro music: Cube Chaos OST
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hCvpD_quVoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
