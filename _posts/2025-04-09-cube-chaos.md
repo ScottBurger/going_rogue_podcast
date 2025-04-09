@@ -16,7 +16,7 @@ length: 78076920
 tags: ["2023", solo dev, early access]
 ---
 
-Ordo ab Cubo! It's a mad, mad, mad, mad world out there so what better way to celebrate with Cube Chaos? The solo-dev effort of thousands of different units, synergies, and mayhem all warring in a hybrid RTS auto-battler filled with arena destruction, lasers, ants, stomach acid, warrior plants, snow knights, and yes repli-crabs. A truly unique experience, come listen to how its maybe was TOO unique for some of us, while the others frantically battle waves of clay anomalies and curious moils! 
+Ordo ab Cubo! It's a mad, mad, mad, mad world out there so what better way to celebrate than with Cube Chaos? The solo-dev effort of thousands of different units, synergies, and mayhem all warring in a hybrid RTS auto-battler filled with arena destruction, lasers, ants, stomach acid, warrior plants, snow knights, and yes repli-crabs. A truly unique experience, come listen to how its maybe was TOO unique for some of us, while the others frantically battle waves of clay anomalies and curious moils! 
 
 <div class="container">
   <audio controls style="width: 100%;">
