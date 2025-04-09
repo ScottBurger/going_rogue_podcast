@@ -33,6 +33,7 @@ Ordo ab Cubo! It's a mad, mad, mad, mad world out there so what better way to ce
 * 1:11:03 - community correspondence
 * 1:15:16 - rankings and final thoughts
 * 1:25:32 - similar games
+* 1:28:19 - listener letter and listener request week!
 
 ---
 
