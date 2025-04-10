@@ -3,6 +3,7 @@ Every other week we play one of the top games in the roguelike pantheon then ran
 Two major rules that we abide by are: 
 1. it's okay to like or not like a game
 2. all devs go to heaven
+3. [the scores don't matter](https://github.com/ScottBurger/going_rogue_podcast/wiki/GROGPOD-Rankings-Explained)
 
 * [Scott rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=1410426659)
 * [Will rankings only](https://docs.google.com/spreadsheets/d/1wf34T9sseGKv_VtQMcjRq6WuFWj33uU9cbU4oUlZGt8/edit#gid=73210139)
