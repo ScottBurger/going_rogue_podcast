@@ -1,0 +1,1347 @@
+0:13
+Greetings friends, and welcome to another episode of the Grog Pod Roguelike Podcast, where in each episode we fire up Ms. Paint to review a roguelike game.
+Use the free Freehand draw tool to give our numeric thoughts on it and add it to our chaotic collection of rogue games to revisit at Seasons.
+0:33
+And I am your pyromanic pyromaniac plant leader slash host of the podcast Scar Burger.
+And with me are my extremely pixelated Co hosts.
+It's me, the King of Chaos, the call of cubes.
+It's Andrew Harshman.
+0:49
+And it's me, Colin.
+I'm just a humble cube farmer.
+And this is will your.
+I don't know your.
+Indecipherable effect this this week we are playing Cube Chaos or have played Cube Chaos.
+1:08
+Released on October 18th, 2023 in still early access as of this recording.
+This is a Steam exclusive developed by solo dev.
+I'm going to pronounce this Woonarg, and your average player of Cube Chaos has about 49 hours of gameplay in it.
+1:32
+We're just raising some eyebrows from the peanut gallery here.
+The Cube Chaos rolls in on our popularity rankings as the number 1065 most popular roguelike game Honor Steam data set, with a whopping 492 total reviews, inching ever closer to that coveted The Crossing the 500 mark for overwhelmingly positive reviews before that.
+1:56
+Colin, what is your one sentence description before the army of Ms. paint squares overwhelms you?
+Of what?
+Of what 1 doesn't?
+Cube Chaos, I should say.
+Cube Chaos is a very simulationist cube based worms type army V army across the board but also creates a factory of weird ants and fight until your your dwarfs beat there or or or plants or pyromancers.
+2:28
+Quite the sentence.
+Yes, I mean you cubes.
+Everything is cubes.
+Everything is cubes.
+Yeah, everything.
+You know what?
+I'm going to start off the bat.
+I appreciate how much everything is cubes, Even, well, like cubes are cubes.
+Flagrant false advertising.
+The first, the first negative for the game.
+2:47
+They're not cubes, they're squares.
+Well, you don't.
+You're just assuming that you're I, I I assume that they have depth and you just can't see them.
+Yeah, that's a that's a matter.
+Of that's a perspective, yeah, I guess the literal manner of perspective, yeah, I think like.
+3:02
+Square chaos just wouldn't be as fun.
+No, yeah, you you would lose a lot of the the alliterative fun.
+This there, I think but but yeah, in in the typical grog pod fashion, we we have yet another instance of game style whiplash where why be consistent?
+3:26
+Why go from one style to the next when we can go from the the highest of highs of artistic design and style with our previous episode of Daiso Mancer to I'm not going to say lowest of blows.
+3:42
+I'm going to say humblest of humbles of art direction with cube chaos, where when we were trying to figure out what what game to to gaslight and incept Colin to pick for this episode.
+3:59
+You know, there's there's any number of ASCII ridden madness games out there of infinite complexity.
+But I had seen ruminations out there in the ether of this cube chaos game and people saying, yeah, this is this is super fun.
+4:16
+It's very interesting.
+And going to the store page on Steam for this I don't think adequately prepares you for just how insane this game is.
+Maybe.
+Where it makes it look tame somehow.
+Yeah, like it.
+4:32
+It's, it's almost like incomprehensible, like when you're just watching, watching the trailer for the game, you'd see like, yeah, some like little pixelated dudes moving around and then like things on the screen and, and arrows.
+4:48
+And there's there's yellow blobs moving around and lasers and there's mortars flying through the air and there's numbers popping up.
+And it is, it is, it is a force to be Holden, I think.
+5:04
+I'm sorry, did you say little dudes?
+Those are very clearly dwarves.
+Oh, they're, you're wrong.
+You're both wrong.
+They're cubes.
+Yes, they they're they're they're dwarf flavored cubes.
+Indeed, and there's definitely something to be said for a game that delivers on what its title implies, what the title promises.
+5:27
+It's got the cubes, kind of, and it's definitely got that chaos factor.
+Whether that is good or bad, I'm sure we will determine here.
+Well, I think like the first, the first discussion point that I wanted to kind of kick off with was our previous episode, Daisomancer.
+5:44
+I felt like there it had a lot of good stuff going for it and I feel like this episode might be like a Daisomancer 2 point O.
+Oh wait, hold on.
+Before we go further, I have to say that I did indeed play Daissomancer more after our podcast and beat it immediately after using the central mechanic that I didn't use and I upped it by a full point.
+6:06
+And we have a new number one game here on the Grog Pod.
+Give it up.
+Wait a minute.
+No, but I put it up to the 6.8.
+Which, you know, was.
+Pretty good.
+It was pretty good game.
+I enjoyed way way more when I understood how to use the the the dice.
+6:22
+Anyway, continuing on, Dice.
+For the record, I beautiful game, beautiful pretty.
+I also am good at games.
+It should be noted that numerically, while like it's this, this program is much like whose line is it anyway?
+Where the points don't matter, the ratings don't matter here.
+But if if people do want to get like force themselves to get bent out of shape about numbers, like the average of all of our average scores for the podcast, like across all of the very good games that we have played, is a 6.5 SA 6.8 is not is not not bad.
+6:52
+It is, I think.
+I think I'm in the same boat with Will is like 6.
+If it's above a six it's like worth looking at.
+Sure, I think like the IGNS and such of the world have have tilted like rating expectations again.
+Liquid scale where anything below an 8 is garbage F tier and you should be ashamed of your hobby kind of deal.
+7:14
+Not the case here, because we're grading on a normal distribution.
+And now that everyone has finally tuned out of listening to our cube KL.
+That's not true.
+Wait a minute, that's not true.
+You have a bimodal distribution I want people to do.
+That's why.
+I actually have a strictly like almost linear but like most of my games are between 6:00 and 7:00.
+7:34
+Got some kurtosis going on there, yeah?
+All right now, just like I, I felt like I need to pipe up to protect my my gamer cred by saying I also beat Dysomancer.
+I'm going to pipe up now to say I don't understand any of this crap and I ain't some kind of nerd, so let's move on to some exciting talk.
+7:50
+Hey, I'm going to speed run us right to the Scott Steam Deck corner.
+Scott.
+Every time I'm like, well, obviously every time I say, hey, this game must run like ass on on the Steam Deck, they're like, well, actually, it turns out with just a, you know, an afternoon's worth of of work and fiddling, it runs great.
+8:08
+Surely this is not a good Steam Deck experience.
+You would think that I would game that you would basically have to use a microscope to to see on a small LCLCD screen would not be conducive to the Steam Deck.
+8:24
+When in fact I think most of my 18 hours of gameplay were on the Steam Deck somehow.
+I don't know if like if my eyesight is been sacrificed five years by doing so, but like there is there is a way to like zoom in and pan around.
+8:40
+But, but I think there's a there's a testament to the engineering marvel that is the Steam Deck that it can run everything from Dumarel to Cube Chaos and I guess Walter's Gate through if you really care, you know those.
+I feel like Dumarel and Cube Chaos are not different levels of technical complexity.
+8:59
+They they're technically.
+Complex.
+It's different input.
+Yes, they are input complex I guess, but I think like this game was interesting because it felt like it ran better on the steam deck than my desktop computer and.
+9:16
+Ran or or.
+Played I think.
+Well.
+Good question.
+I think ran.
+I think the performance was for some for whatever reason, better on my Steam Deck.
+Running Caveat Proton Experimental the latest build versus full screen 1440P RTX 4070 Super Graphics for some reason kind of chugged and I was surprised, Colin, that you didn't really have any performance issues on desktop.
+9:48
+No I didn't have any issues even when I put it up to 10X speed and the whole screen was covered in dwarves.
+So I guess my 4070 is just better than your 4070.
+Wow.
+I mean or or it literally does nothing with the the GPU and it's 100% CPU based.
+10:03
+I could see that because I believe again, I, I have to kind of give the solo developer here props to some extent because it's not every day that you see a game that is literally just like running in the Java runtime environment and not like, you know, in Unity or like game Maker studio or what's the OR, or Gadot or something like that.
+10:28
+Like these, these purpose built game engines like this is something that's like built from the ground up with just like straight up Java code that you can go like you can browse into the like the file folder stuff and see just like, Yep, there's all the code.
+Just very much like, gosh, what was that other game that we played that the source code was in all?
+10:49
+Thrift Wizard.
+Yeah, so so kind of I mean riff wizard I guess is even just made in pie game, but I wonder if if the I mean I.
+Feel like you could play this game in Excel?
+It kind of looks like excel half the time, but but yeah, I think like the performance for this game was was OK on my desktop.
+11:10
+There was sometimes where like it just absolutely chugged and I had no idea why.
+But going into the the very active Cube Chaos discord, the dev is there just slugging away every day with something with something new to add.
+Like every day to this game, which I am amazed by after.
+11:31
+Wait, when did it come out?
+It's in early access now, but.
+October 2023.
+OK.
+So it's not like freshly into early access.
+So he's been chugging away for like a year.
+Yeah.
+But still, I think like, you know, there's we'll get to it, but there's a lot of junk or there's a lot of stuff in this.
+11:51
+You gave yourself, you gave yourself away, Scott.
+But I do kind of want to punt off by by kind of continuing the conversation from Daisomancer a little bit about cognitive load.
+And we like one of the I think one of the main drivers that we all like for these rogue style games is synergies, synergy, synergy, synergy things synergizing with other things and Slay the Spire being the pinnacle of such.
+12:18
+And it felt like Daisomancer last week had a lot of verbosity to it with lots of texts that like you play this card, it does affect X and effect X means blah and upon resolving effect X, it does blah, blah, blah, blah, blah.
+12:34
+And I feel like slice and dice is also kind of on that end of the spectrum of verbosity where I'm, I'm just looking at like a screenshot I took from slice and dice with the the item it infused herbs, replace the bottom side with heel 2, cleanse boost Manacos, cleanse, boost manacos.
+12:55
+Like there's a lot of stuff to process.
+And Daisomancer sort of felt the same.
+I was a little surprised when the Co hosts here were saying that this game had a lot, maybe a similar amount of verbosity.
+13:10
+Is that right?
+I don't know if verbosity is necessarily right word, but cognitive load for sure.
+I mean, how many times did you have to be like, so you say, oh, slice and dice, you have to like hover over to see what cleanse does.
+But how many times did you have to click like 3 levels deep to see like, OK, this this baby egg is going to turn into a green baby green dragon, which is then going to turn into a an adult green dragon, which is then going to do something, which you then have to read the status effect for that.
+13:38
+And then you have to figure out how that's going to interact with your other thing that has three levels deep and how it's going to interact with the interact with the 10 deeply different relic type things that you have perks.
+13:55
+So I, I mean, I actually wish it was more verbose in some some ways because like, despite having to read and and like figure it out, sometimes I was like, I don't know what this is going to do, Not really.
+Yeah, I'm going to come.
+On I know what I think it'll do.
+You have some idea, some expectation.
+14:13
+Yeah, I, I get what you mean.
+There's a, a, a fine line.
+There's definitely a difference between these these two concepts.
+But certainly I, I get where you're driving at, Scott.
+Definitely similar in terms of cognitive load compared to our previous game that we that we covered.
+14:32
+Yeah, I'm going to come off as a more of a meathead FPS guy, a bigger dolt than usual because there's a lot of reading this game and it's like not engaging reading.
+Like you're going through these battles and the battles can sometimes go pretty quickly.
+14:48
+And then like every battle you're presented with this like wall of text.
+And it's like, here are three things that you don't really have any idea, at least I have no idea what they do.
+And you're trying to parse out like, OK, which, which ability does what?
+And then you got to remember that like actually use it.
+15:06
+Yeah, and I think that like there's there's like one of one of Andrew's top favorite games, like Enter the Dungeon almost goes out of its way to not explain things where it's like you pick up a gun.
+It's like, does this thing or or Binding of Isaac, you pick up like a like a a bow or something and it's like like Guppy's bow and you're like, OK, that tells me nothing about what this does, but I'm just going to run with it and see what happens.
+15:34
+Whereas I feel like Sleigh the Spire and bilatro maybe are kind of like in that creamy middle of like giving you just enough text to just like kind of whet your appetite, but.
+Yeah, there's definitely a fine balance there.
+That's Spire certainly achieves cause yeah, go.
+15:54
+One of my really only major complaints about Dungeon has always been that you kind of have to play it with the wiki open because there are, you know, so many extra effects that you're not going to realize are are happening.
+But unfortunately.
+16:09
+You can't play this game with the wiki open because there isn't 1.
+There ain't no wiki, you got to go to the discord and you got to ask and you might get an answer directly from the dev who?
+Knows there is, there is, however, a compendium which it shows you, you know it, it shows you like the things that you've, it shows you these the, I think, I think very charming Ms. Paint style pixel art for all of the, the kind of passives that you've encountered and all of the I don't know what are they like, like units, entities that they're called cubes, but like they're things that you place on the battlefield that, that do things to ultimately achieve your goal of defeating the enemy leader.
+16:51
+But like you know they they can range from things like the healing container which says every 10 seconds heal a random damaged ally for one HP and explodes 5 before this dies deal 5 damage to touching cubes.
+17:08
+That's it.
+And I feel like like.
+Yeah, that's.
+Very.
+Understandable.
+It's still like 3 lines of text.
+You know what's not a a A deal?
+8 damage.
+That's one line.
+But what I mean, but you don't, I don't want this.
+17:26
+I don't want that out for this game.
+Like I like that how simulationist it is, like it's it is simulating this world.
+It is doing like a lot of stuff.
+I think that you could have made it more concise in how you explain everything or just like more correct.
+17:46
+But I like that things do stuff.
+Here's here's here's like the most complicated one that I can find in 10 seconds of scrolling Eldritch arms every two seconds.
+If there is a non allied cube above, deal 7 damage to it.
+Burrowing when there is a neutral cube below, deal 20 damage to it and replace this ability with burrowed 2X life steal.
+18:07
+This heals for half the damage it deals growth 2 gain one extra HP 2 times per minute.
+And Eldridge after this dies, a random allied leader takes damage and loses Max HP equal to this cube's match Max HP.
+18:23
+So that's like 12345.
+It's like, I don't know like 6 lines of text to it where like, yeah, it, it does seem kind of like or this one.
+This one's got 4, but like it does seem kind of like a lot to internalize and you're like, God, what the Hell's gonna happen when I put this thing down?
+I think in my experience it was like, it wasn't so much like, Oh no, I need to know what this thing is before I put it down.
+18:45
+I'm just like, it's probably a bad idea to to like play this, but I'm going to do it anyway 'cause I'm curious to see just how insane it will get when I do it in a very kind of like Noida style fashion of like, don't know what this does, but I'm going to click the button and then when everything explodes, that's cool, I'll just reset.
+19:05
+But where is this?
+Where is this thing?
+Where is that compendium?
+It's on so Oh.
+Hell yeah the.
+Main screen, there you go, it's it's hidden all right on the the far right side by.
+The thing here, so here's here's the one of the ones that I'll actually give you 2 that were weird to me.
+19:27
+Death Incarnation.
+It's 100 mana, so as many mana as you can get.
+It's after another cube takes damage.
+If it has one or less HP, kill it.
+OK, first of all, which is which it is it is it?
+Is it your 100 mana card or not?
+19:44
+Devouring one after this kills a cube, gain one extra HP.
+What is this in that sentence?
+I think that's referring to that cube that you are placing.
+It is not.
+It is the effect before it which is the kill one thing, if anything has less one hit point or less kill it.
+20:02
+That is the this that that is talking about which makes it actually worth playing.
+After a cube dies, if this has 100 or more HP, move forward this.
+In this case it is the thing itself and then mainly.
+It's chaos.
+It's every every 5.
+20:18
+Seconds Deal 100 damage to every touching enemy are neutral.
+Communication chaos.
+I was just like, I mean, I won a game with this thing.
+It was invincible.
+However, I just played it and it was like, I guess I'll figure it out because I don't know what this means.
+20:35
+It's got to be good.
+It costs 100 mana.
+But like, I didn't, I did not know.
+I did not know what it was going to do.
+And that can be definitely an exciting rogue like experience where you know you've got to experiment and and try things out.
+20:53
+There are like 900 cubes.
+Well, that's fun to be had it it.
+Is but I don't want to lose a run because I mean 100 mana is like the the Max amount of mana.
+Like you could lose a run because you played something that caused 100 mana and it didn't do the thing that you wanted it to do and now you have like wasted all of your early game mana.
+21:15
+That was my experience and that's why I got frustrated and I was like, Yep, that's that's not fun.
+Why?
+Why?
+Why do that?
+Well, I think it, it offers a, a kind of strategic push and pull to, to the system where it's, it's not like, you know, it feels like you have like very like high value things and lower value things.
+21:39
+And it's like, like in StarCraft, like you're not going to like rush out the gate with one battle cruiser and try to like overwhelm your opponent.
+You're going to try to like, build your way up to it by like getting some forces out on the field and then like trying to survive like the one or two melee units that that they send your way.
+21:59
+And Colin is shaking his head.
+I mean I feel like the other strategy is just sit and wait until you have 80 mana so that you can place the thing that lets you just auto win.
+Like there will be times where I like like some of the wins I had, it was like wait until you have 80 minor so you could play the two things and then wait till that wins the game for you.
+22:19
+Really, it didn't feel like that was my experience at all.
+Like it felt like the the first.
+So I guess maybe like we should probably talk about like the how the game works at all.
+Yeah, yeah.
+Let's take a step back.
+I I just wanted to throw in here real quick that, you know, reducing the number of cubes or, or lowering the level of complexity would would take away from like what this game is at its core, which is, is something, you know, pretty unique and special and, and, and cool to see.
+22:50
+But what, what I would appreciate is, yeah, just something that makes it a little more digestible.
+Like even just a A1 sentence brief description of like approximately what it does before just throwing like it's not a very good new player experience.
+It's like here are these, you know, paragraphs of descriptions of game FX you don't understand.
+23:10
+And it's like, you know, like, you know, give me give me one sentence of sort of some general information and then the full description below.
+Yeah.
+What the heck is this?
+Gamer text said?
+It's kind of like worms.
+It is kind of like worms.
+Yeah, this is this is a game where your your goal is to defeat the the enemy leader on on any given like battlefield, I guess.
+23:37
+And you're you are set out on a a course of three maps in in very sleigh the Spire fashion of, you know, your your FT well, maybe not even FTL style.
+23:53
+You're you're very much like branching node maps.
+You got three of them.
+You do combats, you do wacky events, you open chess, you get perks, you fight boss battles, you get curses.
+You, you go to shops, You know, the, the, the kind of standard rogue experience.
+24:11
+But I think the key difference here is that your, your playscape is, is very different from anything that we've seen in a game so far, where it is you on the left, it is your enemy on the right, the enemy leader, and you win by destroying the enemy leader.
+24:30
+How you choose to go about doing that can vary wildly depending on your your starting, what is it race, religion, your your class and species and your combination of said class and species.
+24:46
+So you boot up, you boot up the game, you hit that smash, that start button and you you are jumping into combat on what seems like a relatively simple and open landscape of dirt in a kind of a concave U shape U on the left, enemy on the right.
+25:01
+And as time goes on, your enemy will start like placing cubes down and those cubes will like be a a knight and it will like walk to the left every one unit one second of of time or something.
+25:19
+Or it could be a laser and it could shoot to the left every one second.
+Or it could be a bird and it could swoop down.
+Or it could be a a.
+Container which sits and doesn't move but does heal things.
+Or a wall, or a wall that eventually your wall could like, fight things and move.
+25:39
+You you can imbue your walls with consciousness and have them fight and gain strength and spread malaise and poison across the the the landscape.
+You'd have them shoot bullets.
+Like just like your standard rogue game, you can have your stone walls shoot bullets and spawn replica crabs.
+26:02
+Right, that's that's that's in the Berlin definition, I believe it's been a while since we.
+Recorded that upgrading server.
+And, and initially it's, it's just kind of, you know, you've got your, your, your layer of the ground, which stretches across the whole bottom of the screen.
+And you have the two forces kind of Ding, Ding, Ding, you know, square by square, grid by grid point moving across and, and fighting each other, auto battling each other.
+26:24
+But over time, it escalates, and the entire screen can be filled with, you know, floating sky platforms and various, you know, magical effects and missiles and even more lasers.
+Right.
+And also to be clear, when we say lasers and bullets, those are actually just cubes, right?
+26:45
+So like when when something fires a bullet, it is actually that it creates a, a cube that is named bullet that travels from left to right or from right to left.
+And it has HP and you treat it and like even even things where you're like place this thing and it does a status effect.
+27:02
+It has 0HP and does something like caused 5 damage to all enemies three times or something that is also a cube.
+It just goes away after a a tick unless you have something that makes it so all cubes that you place have one extra HP and then it'll just like hang out and you're like, oh, I have this status effect.
+27:22
+Or like I, I, it'd be like if you say I cast magic missile and then the magic missile just hangs out.
+Also like the, the casting itself hangs out.
+Sure, sure, like a like a living spell from Everon or if like every spell in DND was flaming sphere where like now there is a space occupied on the map it's.
+27:45
+It's it's like a 2D, it's like 2D side scrolling tower defense, real time strategy, StarCraft, Minecraft.
+Indeed.
+Indeed, I'm, I'm curious what, what I think this is going to give us some insight into the, the, the very different ways that we played this game.
+28:01
+So I was running this game often times at 10X speed and because my playstyle was like pretty simple, send out guys to attack and like build a wall to defend myself and, and I put in some hot keys so that I was able to go up to 10 and then go back down.
+28:23
+Like like flip back and forth.
+What, what what time scale were y'all rocking?
+I was definitely playing on 10X speed for the longest time and then wondering why.
+Well I would I would like play some cubes down at 10X speed.
+Not really like caring what my opponent was doing be like oh I've got my build figured out, I don't have to study what my opponent's doing at all.
+28:44
+Scouting, learning from enemy Intel?
+Why bother doing that?
+I'm just going to build 10,000 zerglings every single time and oh wait they have a thing that looked perfectly counters me.
+Oh well, that was over fast at 10X speed.
+29:00
+I'm also placed at played at pause.
+Yeah.
+Oh, wow.
+Yes.
+And of course, yeah, the true master technician, the the Sun Tzu of this podcast.
+It's definitely Colin.
+Let's not.
+Get.
+A little too carried away.
+There well of of how many?
+29:16
+Wins.
+Did you get Will?
+Yeah, giving up I guess.
+Divide by zero.
+For your your own, I don't know time.
+I played mostly at 3X speed, though.
+I'd I'd, you know, pause 3X, pause 3X, yeah.
+29:31
+That was my style as well.
+That's that's.
+That's the more level headed and responsible way.
+And then sometimes at 1X speed, if there was like a lot of things going on and you're like, I need to be able to like place a cube at exactly the like the tick that it steps.
+I need to be able to place that cube so it's frozen so my guy can hit it so.
+29:50
+And I'm, I'm guessing I'm, I'm thinking, I'm theorizing that that's where that's the sweet spot of this game.
+Perhaps when you like, reach that level of understanding to be able to, you know, really Lord over the battlefield and, and, and control things on that more granular level.
+30:08
+Or is that not the case?
+Yeah, I mean, like when I had victories, I did not, I did not get them from sending one guy like I had the the the last one I did was like everything that I placed would shoot bullets and then those bullets would drop bullets down.
+30:32
+And so the whole screen was bullets.
+Hey, that's up your alley, Will.
+I can't believe you didn't like this game.
+And they're like the one of the other ones that I won.
+Like every time something moved there was a 5% chance that it like changed gravity to a random direction for like a couple ticks.
+30:51
+And then I was playing on the map that had like a giant pool of acid above you.
+And turns out when it says whenever something moves, it also includes the liquid physics.
+So basically once the game got started, everything was gravity was changing direction every single tick and it was just like, imagine playing the game, except instead of ground, it was everything is floating in space and like randomly getting shuffled around.
+31:20
+And I had to build some weird strategy that was OK, build something that can defeat a unit by or defeat the boss by random walking its way over until it happens to be near the boss and then doesn't have damage to kill it quickly.
+And I'll tell you what, the strategy for that was extremely different than the strategy for the other runs that I played.
+31:41
+So that's like that was the part that I liked like every, I think I won four or five times and every time I did, it was wildly different victory strategy, like not even a little bit the same.
+Yeah, and I think that kind of underscores like the the amount of variety and creativity.
+32:01
+I think that's in this game where like, so you, you, you kick off a run and you have to select your your class and species and your classes stuff like priest, warrior, pyromaniac, wizard, you know, like your all of your standard D&D classes like engineer, chronomancer, program or programmer, roboticist or no class the.
+32:25
+Classic no glass.
+And then your species between like dwarf, plant, crystal, shadow, devourer, remnant, undead, moil, chaos fungus, no species or elemental.
+What is MOIL?
+32:41
+One of those is not like the others.
+Moil.
+You've never seen that Seinfeld episode?
+They they, they are the ones that perform the circumcision, I'm pretty sure.
+It's, I think it's, I don't know.
+It's, it's, it's not spelled that way.
+It's MOIL.
+Oh.
+OK.
+Yeah, not not HEL, but anyway, I think like the first one, when you start off your, you know you don't have anything unlocked in your in your profile, so you are forced to play with the the priest dwarf whose description is from the from the priest class.
+33:11
+Every 10 seconds, heal a random damaged ally for three HP from the dwarf class.
+Always start with a sturdy stone cube in your hand, and then the unique combo of priest plus dwarf means your stone regenerates 6HP per minute.
+33:26
+So you have eleven classes, 12 species, and 132 of these unique combinations between them.
+And like.
+The difference between the the priest dwarf and the priest plant, for example, is that instead of starting with the stone, you, your your starting leader has 10 growth, gaining 10 extra HP per minute.
+33:53
+And then the priest plant unique combo is every 3 minutes.
+Every ally gains 5 Max HP.
+So even just that that like little tiny difference there.
+Like you also have slightly, you have three different starting cubes as a result.
+And you're you're like your play style is completely different just between like those two options.
+34:12
+I do also like that when you select priest dwarf, you know, it's got like a little a, a charming little like, I don't know, 11 pixels worth of dwarf with like a little staff that has a A+ sign in it.
+You switch to the plant priest and it's it looks like a bushy, like, I don't know, collection of lines and it but it still has like the little staff, but it's like a little plant looking staff.
+34:40
+Yeah, charming you say.
+There you go again using the word charming.
+I don't know, I I think before this game said it really acts just needs a little bit of graphical update please.
+I like to.
+Like click with me.
+No, no, Andrew is Andrew right here.
+34:57
+This is this is you know what?
+This is you guys like cog mine.
+This is a similar sort of derangement.
+Now Cog mine is much better graphics than this.
+Oh, well, that's yeah.
+Well, it's incredible that you think that, but this is yeah, this is to me, this is below the the quality that of a playable game, to be honest.
+35:17
+I mean, like, it's just, it's I can barely tell what these things are that the quality is just so low that it's just, it's ridiculous.
+You just have to look at the name and be like, OK, this is a Yeti or whatever the fuck it a mummy.
+OK, this is it doesn't It doesn't look anything like what it says it is in most cases.
+35:33
+I will have to say this game has the, the, the best Ant pixel art we've seen for a game that we've played thus far with a whopping 123-4567 pixels that I, I saw the cube for them because I'm like, you know, you put the little anthill thing down and you see like the, the microscopic little little brown ants emerging from it and you hover over.
+35:57
+It like a real Ant.
+Yeah, exactly.
+And I'm like, you know what?
+Like I, I understand that like the extreme low fidelity of the art is not for everybody.
+I I kind of liked it a lot.
+About to eat their own, I suppose.
+Yeah, the the Ant is yeah, that that is one that I would say is pretty charming.
+36:15
+In fact, one of the most pitched battles that that I had the most dramatic encounters was one of those shitty little ants got on top of my leader and they were having just like, you know, do the Fates was playing these guys were bad and I'm like coming down to the wire.
+36:30
+I hope like, you know, my DPS is enough to kill the enemy leader.
+So.
+Hey, Colin, But you often times will will bring up this, you know, it's sort of a highly philosophical, very big brained thought experiment where it's like, hey, if this game was completely like white boxed, if it was just like, you know, text placeholder graphics, no graphics.
+36:52
+Like, yeah, this is that game.
+Yeah, this exactly.
+This is in fact that exact game.
+No.
+And this is honestly, this is kind of what I'm imagining when I use that hypothetical of like, assume you, you, you strip away everything to its core, hieroglyphs.
+37:08
+This is what you would end up with.
+And I, I feel like that traffic, that question is a trick question for me because obviously I, I don't care.
+I'm like, oh I find it charming when you strip it away and it's only the hieroglyphs left so.
+And it's just a bunch of little ants flailing about.
+37:25
+Yeah, but I wanted to go back for a moment to to pay the game another compliment.
+Hey, you know, yeah, that starting that starting page that you mentioned where you're picking your class and your species.
+Wow, this game is addressing classism and species speciesism all in one go with a deal.
+37:44
+I mean, obviously it's a good vegan.
+I I played the plant class was was how I achieved my one victory.
+Grown a lot of hedges and sending out a lot of Barbarians or berserkers.
+That that does offer a lot of variety right out the gate.
+And that is, I mean, one like, you know, major, that's one, one major item on the checklist of a good roguelike.
+38:07
+Like does it offer a variety of gameplay?
+Does it does it enrich your your mind with different options to to go about after your goal?
+And right out of the gate, it absolutely does that.
+And if if you are not super interested in in the pace of unlock speed, which I will say again, another another bonus point, like this game felt like stuff was unlocking at a pretty decent clip.
+38:32
+And I'm like, oh, like, interesting.
+Like that's a new thing that I've unlocked like mid run, like, Oh, I would be interested to play with that next time.
+But if that's not your jam, the the game offers a quite extensive selection of cheats.
+There's a cheat mode zone that you can deep dive into where you can just like unlock everything if you want.
+38:53
+You can give yourself infinite mana.
+You can place cubes wherever you can place down any, any cube that you want.
+Give yourself unlimited lives, making sure you can't lose all that fun stuff.
+But yeah, I think that like even even the times that like I did get brutalized in this game, like it was interesting because it, it felt like I had a new toy to play with.
+39:16
+Like even the times that I I tried to brute force a win with the pyromaniac crystal leader, I felt like, oh, you know, I'll, I'll, I'll try something else.
+And trying that, that other thing, that level of content variety definitely felt like it was there.
+39:32
+I think also with the the kind of there's like a subtle creativity with some of the like items and events in this game where you know, like in standard sleigh, the Spire fashion, you have like combats, you have events, you have like shops and things and like chests that have like, you know, rewards and stuff in them.
+39:54
+I thought the events in this game were actually like quite interesting and unique.
+Like one of them was just like a a a legally distinct version of the the other similarly popular rogue style game Peglin.
+40:11
+Which is a a a Peggle style game but copyright free version here called Goblin Ball which I thought was was quite funny.
+I also just play goblin ball, it was good.
+With like the, you know, the, the 25 pixels worth of, of like getting like the little, the little Pegglin gremlin on there.
+40:35
+And like, you know what, that's pretty funny.
+There was 1.
+But to be clear, when you were playing goblin ball, all of the things the goblin ball was hitting was cubes and the goblin ball itself was also cube and it was using the in game weird arc physics to like bounce around.
+40:52
+So like, I mean, I appreciate that the commitment to cube is very strong.
+The cube.
+Commitment quotient is extremely high in this game.
+Yeah, Yeah, no, you're right.
+It's worth pointing out like the Staying on Brand stand on theme, which I appreciate.
+Did Colin, did you play the the Super Mario platformer level?
+41:11
+No.
+There is one, I I think it's called foot race where it, it just starts your leader on the left hand side.
+I think you have access to all of your cubes and the the conceit is like you have like 30 seconds to get your 30, you know, in in engine game seconds to get your leader to the little checkered flag things on the right.
+41:33
+And you know, of course, in cube chaos fashion, you place a cube down in order to order your leader cube to move to said cube.
+But there's like, you know, pits and like brick walls and like little obstacles along the way.
+I was never smart enough in order to get my leader across the finish line before the 30 seconds.
+41:52
+Also, it didn't help that I was playing on 10X speed also.
+So I'd immediately hit the unpause button and like, you know, in, in real life seconds, like one second passes and then there goes like a third of my game time.
+But you know, it.
+It's one of those things like if you get them over the the finish line super fast, you just get more rewards kind of deal.
+42:10
+Well, there you go, the game offering more variety I suppose.
+And hey I I didn't even know that there was a Mario side scroller platformer option.
+Good thing you steered clear that way, Will that would have dropped the score even further, but I guarantee that this platform has got to be better than the one in in that one first person shooter.
+42:31
+Never mind I I can't even remember the game to like complete the the reference.
+So was the was the other one.
+It'll it'll come to me later Shadow Reaper or something There we go Nightmare Reaper yeah oof man, that was that was rough.
+42:47
+But anyway that that platforming upgrade system.
+What the heck?
+Thank goodness you can disable it so the the the cheat menu there.
+Isn't there an achievement for using the cheats?
+Is that correct?
+The I think if you get an achievement just for opening the cheat menu.
+43:02
+Just for opening it.
+What a deal, listeners.
+There was a time, there was an era where, you know, maybe you didn't have access to that many games.
+Perhaps, you know, piracy was not within your grasp or perhaps, you know, you only got a, a drop of new video games, you know, twice a year being, you know, birthday and Christmas, where you could kind of and like renew reducts your your experience and your play time with a game that you had already perhaps played out by finding the cheat codes and activating various.
+43:36
+So options, giving you new abilities and end up being able to hop around the game, perhaps to activate different levels, unlock all of the abilities, all the weapons, all the all the guns and things.
+And that and that era has kind of gone by and it's it's pretty rare these days for there to be cheat codes.
+43:53
+I feel like in games, unless you can't like, yeah, console commands and stuff on PC.
+So it's I appreciate that this game includes a cheat menu.
+And in fact, I feel like to some extent, I feel like this is something that we encounter somewhat regularly or more regularly than more genres.
+44:10
+I'm I'm willing to bet that like statistically more roguelike include a cheat menu than the average other genre, but I don't know.
+I'll have to do some data mining on that.
+Oh wait, I said that was nerdy.
+Nevermind, I won't be doing that at all.
+I'll just be going off.
+Oh my God snooze.
+Nerd alert.
+Is there anything especially wacky or wild in the cheats menu?
+44:29
+You can unlock everything.
+No, I think it's it.
+It feels kind of like you would expect.
+I think like the.
+Big head mode or?
+Big cheat mode.
+I think let's see oh, is it 10 lives disable any perk ignore node map pads.
+44:46
+I don't know, like there wasn't like anything in the cheap menu that was like, Oh my gosh, like, well, that that felt like like it was worth seeking out for like, oh, this is like this is where it's something like uniquely super fun is I feel like the base game itself is like is crazy enough that like.
+45:11
+You don't need an extra source of crazy.
+Yeah, like the the cheats menu almost feels like a debug menu almost where it's like, Oh yeah, I just want to like play around and see how like wacky this game gets.
+Yeah, I'll just set like infinite lives or like unlimited health and unlimited manner or whatever just to see like just how wild the game looks and stuff.
+45:31
+And I could see how that would be helpful from like a debug menu perspective or whatever.
+But but yeah, I think like there's there's enough insanity.
+Like there's nothing in the cheap menu that's like make the game extra crazy.
+Because like having having your battlefield be two like warring robot heads shooting lasers at each other is is hard to top in terms of craziness.
+45:57
+And did you get to play on that level?
+I did not play the two worn robot heads.
+How?
+How large did you?
+Guys, did you play the did you you beat it so you got to did you play it on white one Nightmare difficulty?
+No, I.
+So, so after you, that's fine, I don't care.
+46:13
+Necessarily do my due diligence, yes, but.
+The the listeners might yes.
+So after, after you beat it and you the like ascension modes, the the first ascension mode is like it's not even more difficult.
+It's just after the end of every level, your current terrain goes away and you get to pick a new like battlefield.
+46:38
+And they are wild.
+And one of the the wildest ones is you and your opponent both start on top of battling giant robots that have like shield generators and cannon mortars and drill feet.
+46:55
+And I mean, they don't move, they're just static cubes.
+But it's an extremely different experience because you're, yeah, you like dig down and there's like mana cores in the middle of them.
+There's like a lot of extra stuff.
+Some of the other levels are like, there's a, there's one that just has like platforms that like loop around.
+47:15
+So they go up to the top and they're like reappear at the bottom and all of your stuff loops around.
+There's one is like in a cave.
+And if you hit the top, all the stalactites and stalagmites like fall and stalactites fall, stalagmites, if you run into them and they hurt you, it's like it's quite different.
+47:34
+And like you were saying, call them like the the kind of like passage that you have that like if you have one that involves like digging or something that like the picking, like the shape of the terrain that like matches whatever, like goofy perks and stuff that you have can like totally alter your gameplay.
+47:52
+Or it could be like a massive, like, you know, unlockers.
+Yeah, exactly.
+We're like, oh, like my whole build is like, centered around like, building a giant wall and then like, turtling up the whole time.
+And then if the enemy can just, like, walk on a platform above you and just drop down and you're like, well, I'm done.
+48:10
+But say la vie, I guess.
+Yeah, I thought that.
+I'm starting to understand more why the average player has was it hundreds of hours over 100 hours in this game.
+It's like 50, yeah, it's, it's like 49.
+The the 90th percentile.
+I thought it was 90th percentile has 179 hours in it.
+48:28
+But yeah, I think like there there's certainly like the pace of unlocks and then like, oh, I've just like, you know, you know, unlocked the the rogue class.
+Now I can go and try to see how many of those nightmare or like ascension levels I can beat with that one.
+48:45
+There is like a very, a very smart button on there to say like select the lowest, which is like pick, pick the class, class species combination that like has the lowest level of nightmare completion to it.
+And I'm like, that's, that's like a smart way to to kind of do that sort of randomization element to it.
+49:05
+And.
+I mean, I think the pace of unlocks is is good enough that like for me, it'd be like, well, this is still just basically a random draw because most of them I.
+Are are 0 you know.
+I, you know, I, I've played it for 16 hours and I have like, I think I've played six or seven combinations and like combinatorially, like each time you unlock a race and a species, it's many, like it's increases by a lot.
+49:35
+So it's like, OK, you have 66 species and six races now you have many combinations, and then each time you play them, it's like, well, this run is absurdly different than the last round.
+Even though I started with the same thing because I got Death Incarnate, which kills all things or something.
+49:54
+Whatever it does, I still don't know what it does really.
+Wow, we so much content, so much depth, so much variety.
+We are just heaping a lot of praise into this game.
+A lot of pros, a lot of pros.
+Hardly a con.
+And that's where we're going to end the episode.
+50:09
+That's the end of.
+The day do we we have I got a con here.
+I got one, say Scott, what's the story to this game?
+Where does our story begin?
+There happens to be in in the cube Chaos Discord, a channel for for lore in there where I was, I was like, what?
+50:32
+And so was like kind of kind of dabbling around and you know, it's it's obviously like a, a tongue in cheek sort of thing.
+But yeah, there there's no story to this game.
+The story is is you learning the the systems and intricacies of of how to overwhelm your opponent with all sorts of like bizarre nonsense, just like kind of in a similar way to our Rogue Tower episode from from ages past.
+51:05
+No story there, just just a good old time of blasting and watching pixels slash cubes flood.
+Tetris.
+Well, you're trying to, I believe you're trying to win the space race is my understanding, and that the, the brave, glorious, venerable Soviet Union is, is is dead set on beating the, you know, the capitalist dogs to space quite literally by sending, you know, dogs and different animals not very vegan into, into the the stratosphere and and beyond.
+51:41
+Every tetramano you place is another dog in space.
+When you when you like the original, like the original NES Tetris, if you get like a a certain score, if you make to like level 20 or maybe it's like 17 through 20 or something like that.
+I'm looking over across the screen at my my autographed copies of the Game Boy version and NES.
+52:02
+Autographed by who?
+Autographed by Mr. Tetris himself.
+No, the original designer whose name I'm I'm not going to I'm not going to butcher glorious, yes, the glorious Russian language.
+And, and if you get to a high enough level, you are treated to a bespoke animation of a rocket being being launched.
+52:21
+And the size of the rocket changes depending on but but to to your point, yeah, I.
+Mean I didn't know that I I actually.
+And actually on the NES version, if you beat it at a certain level, you get to a certain level, which I have gotten to, of course, you're you're also treated to like a little dancing are.
+You invited to the Soviet Union.
+52:36
+You're invited all of well, you are invited and you see like what's that famous building in like?
+Red Square or whatever.
+But anyway, there, yeah, you're invited and and all of the mask, all the Nintendo mascots are like there and there's like Mario is like dancing around and stuff.
+52:54
+Mario.
+And Yoshi.
+And Stalin?
+Comrade Mario?
+Yeah, another famous mustache.
+Have her correct.
+That's why Mario's all red, right?
+Luigi, but but I guess your your your point is like does what does Tetris like what a starting like intro screen, like really benefit Tetris?
+53:17
+Probably not, but like, but but Tetris is like one of those.
+I mean, I don't know, it's it's kind of an important game.
+It's kind of like a foundational, like kind of frankly, you know, sort of genius set up for a, for a puzzle game.
+53:33
+Like it's, it's, it stands on its own because it's just like so, so purely a good and engaging idea.
+What, what the, the, the example I wanted to bring up was Rift Wizard, which has just a paragraph intro storyline and I'm still up.
+53:51
+I, I argued during that episode that that what y'all kind of characterizes A throwaway intro scrawl about, Oh, the evil wizard Murloc, whatever his name is, Mordred.
+Mordred has, has has, you know, you're out for revenge and you got to go track them down, etcetera, etcetera.
+54:08
+I thought that was doing a lot of heavy lifting and and really helped with my motivation and was something that was missing from Noida and is also kind of is also missing from from this game in my I don't care.
+Not, not sorry, not about your opinion, but I don't care having no, no, I completely understand.
+54:26
+Yeah.
+It's like, wait, sorry, I don't mean to be like, yeah.
+I appreciate that.
+Andrew, I don't care what you think.
+I don't care and I don't care about your autographed Tetris baloney or the photograph that you took with the with the creator.
+54:43
+With Mr. Tetris himself.
+Can I can I jump in?
+I just I want to make sure.
+All right, well, set it on fire.
+I mean, just this is this has to be addressed.
+OK, what is this 16 by 16?
+Is that the cube?
+I think it's about 16 by 16.
+That's unacceptable.
+That's unacceptable in this in this day and age.
+54:59
+And So what I did is I, I took a quick screen grab of your the primary little dwarf guy.
+And this is hey dev, if you're listening, take this to heart.
+Maybe what you do is you go to, I don't know any of these generative AI services and you say make a better version of this and it'll give you a 64 by 64, A 128 by 128.
+55:21
+It'll give you pixel art, which is discernible.
+And I, I just, I highly recommend bringing the game into, I mean, like you'll, you'll reach a much wider audience because I, I, I mean, in theory, I like this kind of game, but I cannot tolerate this type of graphics.
+55:40
+It's just it's, yeah.
+So what you're saying if Sleigh the Spire was on ATI 86 you could not fathom the the lack of of graphical complexity?
+It would be.
+That would be real.
+Tough.
+Real, real tough, yeah.
+55:56
+It's gotta, it's gotta have, it's gotta have some kind of aesthetic.
+Appeal and and and no joke, Will has in fact done this just now and posted it and hey, that's a pretty good looking little little dwarf Sprite the.
+Little dwarf does look nice.
+I I think that like there's there's an element of like uniqueness with like the what's the bullet point that I have in my Google doc?
+56:20
+Unique meaning it's never been done before.
+It can't be replicated, nor should it.
+Damn.
+My, my, well, my, my bold point here says, yeah, the art is bad, but it's entertainingly bad.
+I think that like there's like the ones that's the Maw where it's just like a giant mouth and it is, it is quite literally just a giant mouth with like 8 pixels worth of teeth.
+56:42
+But I think it has like, you know, like it's not this wouldn't win any awards at some like Met Gala or anything.
+And I don't know like is there, is there a risk?
+Coming down the red carpet next, let's see how they're dressed.
+Why it's Priest and Dwarf with this little, I don't know sandwich board sign, This is Atari.
+57:02
+I don't.
+Think that you can say that.
+I mean, yes, it is better, I'm not going to argue about that.
+But if you shrink it down to the size of the actual pixels in the game, it loses almost all the definition.
+Like these, these, like they're not pixels in like pixel art where it's like, ha ha ha, you know, like each of these pixels is actually like 100 pixels wide.
+57:27
+Like it's getting pretty darn close to like each pixel in this pixel art is 1 pixel wide.
+You can't make it smaller because the icons are so small on the screen.
+Like, I think that that's part of the reason that you would get driven to this kind of style in some of these games is that you can't create more visually complicated images and have them be legible.
+57:50
+Like you need it to be almost stylized because I, you know, I can't see the facial expression of the dwarf when he's literally like actual 64 pixels tall.
+I think that yeah, this is just AI think this is a very simple issue to solve.
+I think that right now with the way I'm playing like each each of these cubes is is huge on my screen.
+58:11
+And yeah, you just make it a higher resolution version of that.
+Yeah, Scott, Yeah, that, that looks that Scott, just shrink it down.
+Yep, that still looks much.
+Much better.
+Well, I mean, again, we're not playing on Colin's level.
+Like I'm kind of goofing, but I'm also half not goofing.
+58:28
+Like I mean these battles are far more complicated and grand.
+An hour, Yes.
+Exactly how many bullets did you get?
+No, I'm not going to say that you couldn't make it better.
+I I I honestly So what I think risk of rain one.
+Is like the continues to post in our discard, smaller and smaller, tidier.
+58:46
+I mean like.
+Little dwarf.
+Man, each one of these cubes has like the visual like complexity of like an emoji in Discord or something.
+And it's about the same size.
+So it's like.
+And so I think that like, yeah, like the there's like kind of coming back to like the Tales of Mashiall episode, like that's.
+59:02
+What I was about to reference.
+Yeah, exactly.
+Like the art is bad, but like it's its own unique flavor of bad, which is still interesting in a sense that like, you know, how do you like compress, like Colin's saying like readability, like being able to shrink it down and still like understand what that thing is.
+59:21
+Like the the image that we'll post it is like is good.
+Like it's very good.
+It's very obviously a dwarf.
+It looks cool, but like it kind of looks like what I would expect like a dwarf to look like in sort of any indie game, which is like the dwarf in this game doesn't look like anything that I've seen before.
+59:37
+It just looks like almost some sort of like, I don't know, weird, weird looking goblin.
+Discernibility, That's what I'm talking about.
+Like you have to know what it is when you're looking at it.
+Well, great audio, but I gotta I gotta Photoshop this for a bit.
+59:53
+All right, we're getting some live photoshopping folks.
+And you know, famously I'm, I'm usually fairly critical of AI step with this.
+This dwarf, he's he's got, he's got some character to him.
+Yellow eyes.
+Interesting.
+Choice.
+Yeah, I mean if you scroll up I.
+1:00:09
+Mean it's because it's it's, it's pulling, it's stealing the art, right, Of course, Dwarf.
+That's right.
+That's right.
+Yeah.
+Well, you know, I don't know.
+This is maybe another another item that could be added to the to the cheats menu.
+High res Ultra HD.
+1:00:26
+Mode a la one of the games that we played with the greatest pixel art, Cogmind, where you can switch back and forth between ASCII and the very good pixel art.
+Exactly.
+At like, I think it's a key press.
+I know will doesn't like that pixel art, but that's you could do something like that where it's like, here's your fun charming, maybe slightly more like visually distinct icons versus things that looked slightly better.
+1:00:53
+But I honestly think would be dwarf is pretty fine, but some of the other ones that you might have trouble distinguishing, like what is that like it?
+Which of the many bullets is this like?
+Well, this one's red and this one's green, and it's like hieroglyphs.
+1:01:09
+Sorry to interrupt here, but I do want to in addition to the AI generated pixel dwarf, Pixel art Dwarf will also posted his prompt which starts with the word please.
+Please make high res version of this quote.
+1:01:27
+Dwarf asking me call it.
+That's so when the T5000 comes still picks around, it'll spare him from the from the robot minds.
+I think like maybe just to kind of conclude this point on on low fidelity art, a stay tuned and a half game that I've been trying to gaslight calling into picking for ages.
+1:01:43
+Caves of cud like.
+I'm waiting for you to pick it.
+You're waiting for me.
+Oh, OK.
+Well, we're going to have some kind of like Cold War standoff.
+Like the the image that I posted is, is like of the Sprite work of like all the starting kind of character classes that you can pick from between like a dream tortoise or a gunslinging Birdman or a, a minotaur or like weird, weird things related to that.
+1:02:10
+And it has like like the, there's not a whole lot of pixel complexity going on in it.
+But and maybe like once we get to our Caves of Cut episode, we'll appreciate this a little bit a little better.
+But there's like a unique kind of flavor to it that like, yes, like objectively it would look better if it was upscaled by some AI system.
+1:02:29
+True, true statement.
+Can't argue that.
+But I think it kind of loses some element of its own unique, like artistic soul by doing that.
+We're like, yeah, I mean like if every game upscale to like AI stuff.
+See, Scott, this is this is this is you don't know what you're talking about here.
+1:02:47
+This is true.
+So what you do so now what the modern game maker OK, I'm I'm putting myself in this category, right, because I'm using these things daily.
+If you want to make art like you're not just saying, oh, make give me a cyberpunk this that and the other No, no, no, you go through and you're you're making 1000 images.
+1:03:04
+You're finding the the unique style within that to grab a a that's to say, OK, well, based on these make a new set of things.
+You get 1000 more images.
+You can you start refining and slowly over time, you're, you're basically you're getting this huge swath of images and you're boiling it down into something that is distilled, distilled art.
+1:03:23
+I think essentially like it's a very, it's a very, you're interacting with it.
+You're not actually drawing every pixel, but like it's a it's a reflection of the style that you want.
+And I think that's, yeah, it's not just like, you know, this was the first, you know, image generated by, I'm not going to name the service, but it's, it's.
+1:03:40
+And it's incredible and we should ship it and AI is above reproach.
+I thought caves of cud though like famously had a a like a remake like a like an update of.
+You're thinking Dwarf Fortress.
+OK, nevermind.
+1:03:56
+But I mean, like, how do we know?
+How do we know that the dev from KK or Cube Cave Chaos?
+Cube Chaos didn't run through 500 prompts of AI to generate the snow night with which is just a Whitehead with a little bit of like tan stuff on it with three legs and some sort of like white?
+1:04:20
+Sword Oh, look at.
+That you know like like yes like like a 5 year old couldn't could have drawn that in Ms. Paint but.
+Slowly coming around, I appreciate that they bothered to add these like horizontal lines like that's supposed to.
+1:04:35
+What opera definition?
+Of the armor, impressive.
+I think Risk of Rain one is the one that we should be looking at.
+It has very good pixel art for very small enemies, right?
+It's visually distinctive.
+You can like they look good, they move around a little bit.
+1:04:54
+They look like they took a lot more work to make.
+I kind of get the feeling this is not that kind of game.
+Like this game isn't like, oh, I want you to have the most visually stunning experience.
+It's I want to have the least amount of work done in order to express my vision and my vision is not having beautiful pixel art.
+1:05:14
+It's look at all these things.
+Look at all of these things and figure out how they interact with each other and create this chaos mode and have it be like weird intense puzzles.
+Like the cognitive load is the, is the draw.
+1:05:33
+Like, can you beard scratch your way out of this weird situation with this extremely strange set of perks that you've managed to acquire?
+Yeah, you can definitely right now this definitely is a game that has engaged in what what I most recently referenced was in in Rift Wizard, which is the infernal bargain, the rogue like bargain of like we are not going to waste any time on the graphics.
+1:06:00
+We're going to spend all of our efforts on creating the sophisticated system.
+It's just something and there's something to be safe for that, I think, and that that's something sort of special to to rogue down that like level of granularity and potential for for chaos.
+1:06:17
+But it still does look like ass riff wizard.
+I now riff wizard I did find charming.
+But at the end of the day, I mean, I don't know, the discussion of visuals is still relatively subjective.
+They're great music.
+Bono, Bono, Bono.
+No, no, no.
+1:06:34
+Now just imagine that AI generated little little dwarf man just doing a little happy jig down at the village of dwarves to that to that soundtrack.
+There's a couple things that like this game is not want for content at all, but there's like a couple things that I I wish that like maybe the developer would like focus more on on like this instead of just adding more cubes, which is 1.
+1:06:58
+I think like the boss fights didn't really feel like boss fights.
+They just kind of felt like regular fights, regular fights with like extra like harsher curses applied and God, what was the other one?
+1:07:16
+There was boss fights and oh, I guess maybe maybe the music also, like I think the one track that plays on this game in a constant loop like is is fun.
+It kind of fits like the low fidelity theme.
+I kind of want more of that, like low, low fidelity, like baseball, that baseball synthesizer.
+1:07:35
+Yeah, just take that one tune and feed it into AI and make it do many tunes.
+Hey, there you go.
+As we were discussing before recording, and I think that like one, one way that would be interesting to kind of like maybe Andrew, to your point about the matic draw would be to have like, you know, you pick you pick a starting clashing species at the start of the game.
+1:07:58
+Like there's no reason why you couldn't have like enemy classes and species combinations that you come across.
+That would be like specific fights that like, oh, this is this fight upcoming, either a boss fight or like a cursed like high stakes fight could be like your priest dwarf up against a a rogue devourer, you know, like what the hell is this thing?
+1:08:21
+And kind of giving you like a, a hint of what's to come in the unlocks.
+And like, wow, I didn't know that.
+Like, you know, that that was like a combination of stuff that I could face up against and like what they were capable of.
+I think like fighting the other kind of class species here and there would be like an interesting element to add maybe for boss fights or, or what have you, But that kind of felt like it was missing.
+1:08:43
+It felt like a lot of the the fights were just like you with a carefully crafted build versus just like, I don't know, random stuff and like, well, you know, it was fun, but it didn't feel like I was up against something.
+And Andrew, like you were saying with Riff wizard, the little mini bosses that you come across in that like you're fighting other enemy Wizards that are like on your level and you're like, oh, whoa, this feels like I am.
+1:09:08
+I'm like fighting like a a rogue wizard from, you know, the school of fireball or like the Fireball Academy that, you know, went rogue and now I have to defeat him on my way to defeating Mordred or something like that.
+Kind of like a little bit of flavor to it, I think goes a long way.
+And this game isn't worse for not having that, but I think it'd be like it.
+1:09:28
+Is worse actually though.
+I think, you know, like that would that would go some distance to providing some some extra little flavor to it maybe I don't know.
+I think it's just, I think it's, it's maybe not like that specific kind of flavour, but having a stronger flavour for the bosses, for the levels, some sort of theme.
+1:09:47
+Like OK, cool, I picked the ice level.
+Besides the fights, there's nothing that is different about the world map.
+There's nothing different about the events.
+There's nothing different about the boss.
+Like there's everything is completely independent, so there is no connection between them, which is like cool in theory it gives you the most permutations, but it also makes it a less cohesive experience.
+1:10:14
+Like I, you know, I joke that I don't care about story, but I do care about having like.
+Theme.
+Some sort of narrative thrust, even if it's like your own.
+The meaning that you make out of it, like you're you're telling your own story.
+In roguelikes, you're like, I I'm the, the, the story that comes out of like, oh, I had this build and I was doing this thing.
+1:10:36
+Like having a consistent something in there makes it a more compelling, even just internal story.
+Like, oh, I beat the I beat the bird wizard.
+It's like, oh, I like, I like most of the time where I won.
+Like I have no memory of what I was actually playing against.
+1:10:53
+Yeah, because it's just like this random assortment of enemy cubes.
+Versus like exactly, it's just like, oh, I beat a grab bag of cubes and it was difficult because they happened to have one thing that kind of counted my build, but it wasn't their, it wasn't their build.
+It was like 1 random cube they had.
+Right.
+I guess before we go to rankings, I did get some a little bit of of community right in for for Cube Chaos.
+1:11:20
+Let's go to the mailbox.
+And so let's see so so the the AI prompt was, you know what, what would you say?
+What was the most kind of cube chaos moment that hooked you?
+And we have a Pav that writes to say.
+1:11:36
+I was first intrigued by the non standard choice of races that the game offers instead of the typical fantasy.
+Since you start with dwarf, you might expect something like elf next, but the game hits you with sentient plant, crystal shadow species, etcetera, etcetera.
+The other big hook was when I saw that every class and species combination had a unique combo and sprayed.
+1:11:54
+It's instantly so much variety and so so many unique combinations.
+I would also say that I'm the type of player that likes to do novel stuff and novel strategies that not only I've never played, but possibly nobody has.
+And 250 hours in, there are still cubes and perks I've never used in the build.
+1:12:12
+There are still class species class species combos I've never played once.
+And then I see someone post a game where I somehow literally don't know what synergy is happening.
+Sometimes not even the dev can easily tell.
+And I go wow, I have used those cubes, but I never would have thought to do it like this.
+1:12:31
+Which is to say that basically the roguelike honeymoon for me is when I feel like I can jump in and do a build which synergizes in a new way that I've never seen or thought about before.
+And cube chaos is like drinking from the water hose of novelty after novelty after going strong still after hundreds of hours, which yeah, I think like the the variety and the starting classes really under score that legend of Runia says.
+1:13:00
+I think the thing, but.
+But real quick, Caddis.
+Yeah, Hey, great points, especially at the beginning.
+I mean, we kind of said some of the same stuff.
+So obviously you're very wise and a wise listener.
+Thank you for writing in 250 hours.
+Pretty impressive.
+Sorry, what's the next one?
+1:13:16
+The the next one is from Legend of Ruina, who says?
+I think for me, the thing that really sold me was hitting shadow on the unlocks.
+The shadow species, dwarf and plant are kind of similar, but shadow really just has an entirely different game.
+And I went in and tested this.
+1:13:32
+I, I did a, a shadow priest cuz I'm like, well, how different can it be?
+And yeah, it was like playing a completely different game.
+We're like, I'm just poisoning all the stuff on my side of the screen.
+There's got to be something I'm missing here.
+And yeah, like, there's, it's just like every, every little bit is, is so different.
+1:13:51
+And then finally Darloff here said.
+Legend of Rudina, great great write in.
+What a deal.
+Excellent, outstanding, good.
+I resident write directly in.
+But I guess you're on the discord, right?
+What?
+What?
+We'll take credit for it.
+Which also Legend of Rudina, that's actually a title.
+1:14:07
+It's going to be coming up soon from Purple Cloak game, so watch for that.
+You joke but there is a a rogue game I think Library of Ruina.
+That.
+That like we'll, we'll get to this in a minute, but listen to request week is is, is coming up after Andrew's pick and people have been writing in for for wanting us to play the very uniquely styled rogue deck builder library of Ruina that that people seem to like.
+1:14:39
+I pray.
+That sounds like a lot of reading.
+I'm out.
+But what about Bruna?
+Sure.
+Yes.
+And then Darloth says, the first time I saw a streamer misuse the add on cubes, which I don't think we talked about, but add-ons are a specific type of cube that you place it and then you place another cube and it inherits the abilities of the add on cube and deletes the add on cube.
+1:15:03
+So it's like.
+Unless it doesn't.
+Yes, exceptions, exceptions.
+But yeah, I think the the the.
+Yarl loss.
+That's great.
+Thank you for writing in directly to us, having listened for sure, definitely, and for teaching me what add on cubes even do, so that's great.
+1:15:23
+There you go, there's always something to learn.
+New to learn in 200 plus hours of cube chaos.
+We didn't even talk about the blatant boon system or the different scenarios, but I'm I'm getting the sense that we're, we're leaning towards the the rating end of the spectrum at this point, unless we have anything, anything left last to discuss before hammering down with our final judgments that will.
+1:15:50
+Play.
+Play the judgment cube.
+Yes, and in in typical fashion, ending on a high note, let's let's have Andrew launch us off with with the The Judgment Cube.
+Well, yeah, You know, you say that like we start, you know, with the lowest score that makes it out like I'm some kind of, you know, big mean guy on the right side of the screen and a giant evil robot trying to stomp you to death with drill feet.
+1:16:19
+Unless you're into that.
+I don't know.
+But in reality, a quick, quick disclaimer reminder, These guys hoodwinked me.
+We had a different rating system and so my scores can be disregarded basically.
+So this is my new number.
+1:16:35
+How many camps have we reviewed my new number 38 and and usually.
+The I don't know how many.
+Out of you know that's the denominator is not important.
+Many, many, many.
+So generally what it kind of boils down to, I mean, at the end of the day, you know, game reviews are, you know, you get a sense of like the reviewer's taste and you kind of, you know, judge that next to your taste and go, do I have similar interests in games as this person?
+1:17:05
+And, and so basically what I'm saying is no one can get mad at me, especially not in the YouTube comments like that one person that one time I've I've been reading the comments.
+It's a slippery slope.
+But anyway, usually I go through my list and I'm just like, all right, you know, which, which of these games would I rather play Cube chaos or whatever.
+1:17:28
+I rather play, you know, remnant from the ashes.
+Well, probably remnant from the ashes.
+All right, next one, let's go down the list.
+And I was going way, way down the list until I got to against the storm and I 100% would rather play cube chaos and I guess the storm, that's for darn sure.
+1:17:46
+So yeah, it's a very low score, but I I admire this.
+This game does a whole lot of things correctly and it does most impressively.
+I I think it takes advantage of that classic rogue like format of like, you know, simple graphics that are, that are conveying and representing like this rich background and series of, of chaotic systems.
+1:18:16
+And I mean, at 8 bucks, hey, that's, that's a pretty good deal.
+Hundreds of hours for 8 bucks in this economy.
+Come on.
+All right, who's next?
+Up next would be our Misery Carrier cube, which would be Will.
+And just just to clarify for everyone out there who is wondering, Andrews was a 38 out of 42.
+1:18:37
+I just wanted to do boom.
+Mama, come here.
+Everyone was aware there.
+Yeah.
+So I'm coming in at a 4.5 out of 10.
+That's below our recommend threshold and puts it in the company.
+And this is I, I think mixed praise and and and blame.
+1:18:57
+But it's in the company of Cog mind at a 4.5, which is from my point of view not so great here, right?
+Yeah, no, I just it's it's it's there's so many good things in theory about this, but the execution of indiscernible cubes is bad.
+1:19:16
+It's just bad.
+I love simulations.
+Simulations are amazing and fun and I love the the concept of the roguelike, the auto battler.
+I love that genre.
+But this, it's not, it did not come together well for me and I, and that just as you, as we mentioned, like these descriptions of what these cubes do being many, many, many lines long with you, where you have to dig deep into, oh, it creates this, which creates that and the other it's, it makes it so it's, as someone who likes the cognitive load, I want to be able to understand the puzzle pieces that are in play.
+1:19:48
+And then I want the interesting part to be how they interact together.
+I don't want to have all my cognitive load being like, what the hell is this thing?
+So, yeah.
+And I'm going to put 100 hours in the game so that I, I get that so that I can, oh, now I appreciate it.
+No, you got to get me, I got to get hooked me at the beginning and this failed to do it.
+1:20:05
+So yeah, 4.5.
+Up next would be the.
+Let's see what's a good.
+Up next is our reviewer, the is Rana Doom of Kingdoms.
+Colin.
+What is that?
+1:20:21
+A cube.
+The the the King of Arcris.
+No, here we go.
+Curious, Moyle.
+Curious.
+Moyle OK, there we go.
+Were those other two cubes?
+They are.
+I don't know if I've actually.
+Played them before I don't know what that is.
+I didn't see those ones yeah.
+1:20:38
+So I'll be the curious Moyle.
+I'm going to give it a 6.9.
+I I, I mean, I won't disagree on the quality of the pixel art, I'll just disagree on how much that affects the quality of the game.
+I did not find it to be objectionable.
+1:20:56
+I found it to be in service of the overall goal of the game, which is just to smash as much chaos into one screen as possible.
+I didn't love the descriptions and how much how difficult was to like truly understand how you know if you're picking between 3 rewards.
+1:21:15
+How is this going to affect your run is an interesting question.
+What will this cube actually do is not an interesting question and I found it frustrating how many times I was like I don't actually know what this is going to do when I place it down so I can't I can't accurately predict if this is a a boon or a blight to my build.
+1:21:36
+However, I did find this game to be fairly fun.
+I I got the the requisite amount of chaos out of it.
+Like it was pretty wacky.
+There was some stuff like I got some really good broken builds out of it.
+1:21:53
+It felt like finding the thing that lets you hack your way into a win was rewarding.
+I don't I I can imagine a version of this game that I would like a lot like 8 point something.
+It's not quite there yet, but based off of how active the, the the dev seems, it might get there eventually.
+1:22:15
+It might take a little bit of like copy editing to get there, but I I could see it getting there like the, the, the kit fox pass over cube chaos, chaos cube, whatever this game's called cube chaos, I I think could do do a world benefit to it.
+1:22:35
+So bring us home, Scott.
+Yeah, for me, ending on a high note, this will be a 7.85 for me, tying it with a similar solo dev weird game that's at a similar kind of interesting level of jank.
+1:22:52
+One way heroics, I think kind of fits the same sort of thematic level of, of of nonsense and dedication to it.
+Yeah, I think like this game was, it was sort of a pleasant surprise to me.
+I for whatever reason, like, like the cognitive load doesn't seem to be really there for me here, which is strange because I felt really overwhelmed by Daisomancer.
+1:23:17
+I think the the art for this game is super charming.
+The more time that you spend with it.
+I think it's a little overwhelming at first, but once you are brutalized by that white and red robot enough times, you're like, OK, I know exactly what what to look out for next time.
+1:23:34
+And like the, the, the art is very minimalist, but I think very clear, especially when there's a lot of stuff on the screen.
+And I feel like that's a very hard thing to balance.
+I think the, the pacing for the unlocks and the XP gain are really on point.
+1:23:50
+I think there's there's a lot of interesting and fun decision making as you progress through the different maps.
+Like do you want to spend one of your three hearts to to do this thing?
+Do you want to go into debt in the shop and like try to try to fight off like debt collector monsters?
+1:24:07
+Like there's a lot of very interesting and creative unique twists on the formula that I just haven't seen anywhere else, which which I'm very appreciative of.
+I think there's, there's like some amount of jank here that I think it's just kind of a byproduct of the game being just programmed straight up in Java.
+1:24:26
+And yeah, I could see like if this game did get some sort of like, big polishing pass, like not even necessarily with the art, but like with some of the UI elements and just some just some general like UIUX flow I think would go a long way.
+1:24:45
+Yeah.
+Like, for whatever reason, this game just super jived with me.
+And I like, there were multiple times where the last thing that I was thinking of before going to bed was cube chaos.
+And the first thing that I was thinking of when I woke up was cube chaos for whatever insane reason.
+But I felt super compelled to like, I need to go and finally beat that that last boss.
+1:25:06
+So really, really like weirdly engaging for me.
+I think some extra terrain types in here would be would be interesting.
+Maybe a a like a thematic boss fighter two and I don't know, maybe the daily challenge mode being on the front of the screen.
+I don't know.
+There's there's so much stuff in this game.
+1:25:23
+It's hard to kind of pin down like what what else would be needed to make this game really stand out?
+But I think it stands out just from the zaniness.
+I think it it like the title suggests, there's cubes and there's chaos and I think it delivers on both fronts in a in a maximalist fashion.
+1:25:43
+Yeah, I think finding similar games to Cube Chaos is kind of a Herculean order.
+But the ones that I have listed here, we have previous episodes slice and dice.
+I think in terms of just like like wild synergies, cube based also very important.
+1:25:59
+Oh yes, actual cubes. 3 dimensional beautiful rolling cubes.
+I think a rogue tower to some degree, just with like the tower defense aspect luck be a landlord, I think shares a lot of like very low fidelity but charming art and synergy stuff.
+1:26:20
+Stay tuned and a half like broken build stuff would be the traditional rogue like path of Accra.
+I think you can like playing that.
+You would understand art wise the the OG the very first rogue like deck builder ever made.
+I think to its credit, Dream Quest has a very similar kind of art style to it of like almost going out of your way to be Ms. Paint.
+1:26:46
+Style.
+That's yeah, that's like someone like draw like like drawing.
+I mean it's like more more resolution but just still really janky 5 year old drawings.
+Yeah, and very recently released Tower, a tower defense game called Gnomes, I think might fit the bill here.
+1:27:07
+But there's one one game that kind of I don't know if this is super related gameplay wise, but it reminds me of like jank plus Polish is Geometry Arena, which the first release of it super janky like very feels like a like very much like a prototype kind of feels like cube chaos in a way.
+1:27:23
+And then Geometry Arena 2 feels very much more of like it.
+It got like a Nintendo pass to it and like cleaner UI, like just kind of pops.
+It looks maybe a little more mobile gamey as a result.
+And I wonder if that's something that's kind of missing here for Cube Chaos.
+1:27:42
+But anyway.
+There's also, I mean, I, I know this isn't a rogue like game, but I, I, I will point out heroes hour if you want an auto battler that is like chaos and where you're responsible for like placement of troops, essentially.
+That is a that was a really fun game, Heroes Hour.
+1:27:58
+I mean, if it was, I don't know if we can call it rogue light, but I would like to recommend this one.
+I mean, like it's random, it's procedurally general.
+I don't know.
+Yeah.
+It's chaos.
+It's for sure chaos.
+Yeah, cubes and chaos before we start the wind down.
+Well, I guess this is the wind down procedure here where I do all those the very important social plug stuff.
+1:28:18
+Grogpodazone is the website more roguelike related?
+Shit posting from our discord that I'm copy pasting to Mastodon Grogpod at gamedev.placeandimportantlyouremailgrogpodzone@gmail.com where we got a very nice e-mail from a AA1 David Nguyen out at Columbia University who said who writes in to say hi Grog pod?
+1:28:42
+I love the podcast.
+I made sure to leave a rating on Apple podcast and Spotify.
+Thank you David, not the reason why I'm reading the letter.
+I found that your analysis of gameplay really insightful and the banter between the hosts seems very genuine and fun.
+I know you guys joke that no one listens, but I can say that you have at least one human listener.
+1:29:02
+I used to.
+I also used to host a very niche podcast on an exceptionally niche topic.
+So I really respect that you guys have kept the niche podcast going for so long.
+Keep up the great work from David.
+What a guy.
+Thanks David, much appreciated.
+1:29:19
+And yeah, shout shouts out to whatever university you mentioned.
+Go marching Columbia, the fighting dwarves.
+They're famous mascot, as we all know, from Columbia.
+The fighting cubes, well, the.
+1:29:37
+The Columbia cubes, Yeah, boom.
+Build it.
+Well, well, the the low fidelity ASCII art or kind of ASCII art, Ms. Paint art of cube chaos.
+It's it's rain.
+Andrew is coming to an end because you have something that looks like a very interesting pick for our next episode here.
+1:29:56
+Yes indeed fire up that dash button and fire your development team because we're going to be covering rain breaker the Hades like that ho ho just launched and you know hey, we sometimes, you know don't necessarily want to cover brand new games.
+1:30:11
+We want to give them a little time to cook, you know, but in this case, it's done.
+Whether or not you like it, it is coming to your table.
+They're bringing it out of the kitchen because they sure as hell like going to be updating this thing.
+I think it will be a fun time to discuss and you know, pretty fun game in general.
+1:30:30
+So looking forward to that Rain breaker next week.
+No, two weeks.
+Yes, yeah, looking forward to that.
+Looking forward to playing more more Hades likes as it were the grog pod Hades like podcast.
+And yeah and I guess importantly, I should have said this in the the other thing, but like website, you know, you're listening to this on some sort of thing like slam the brakes on the highway.
+1:30:55
+Like open up the YouTube video and and write the comment below 'cause as much of A traffic jam as you possibly can and, and write in to to tell us what game you want us to see playing.
+Because after Rainbreaker will be our listener request episode, which but yeah, like we will we'll people are writing in on on that Google form and related to that as I vamp for time.
+1:31:23
+Absolutely.
+Write in, you know, tell us to play the original Rogue, tell us to play the Rogue FPS mod, tell us to to, to review Noida again because that's a really good game.
+So it turns out, you know, if you're good at games, which I still haven't beaten it, So what do I know, but.
+1:31:40
+We're getting more 100% sure you can beat Noida.
+Well, you know, a regular victory.
+It it beats you.
+Yeah.
+A a regular, regular commenter on the the YouTube channel Davian Fuchsa wrote in to say that he sent the the game title off off of the homepage.
+1:31:58
+If you go to the homepage, Grogpod Dazone, the about tab has a little Google form you can submit there or right in right in wherever.
+He said that he sent in Rogue's Tale and he said how low of a score can it get question mark.
+Oh.
+A challenge comes with a challenge.
+1:32:15
+It's been a long time since we played a really bad game.
+Well, he, yeah, I, I did say that people would be surprised at how much effort I've I've put into trying to find what the objectively worst rogue game on Steam is.
+1:32:31
+And then he replied back saying, any picks that you would have reserved for just a show?
+And I, I got a list, believe it or not, of, of bad games that we could go through.
+So like, like objectively bad ones, not even just like ones that like, you know, it's, you know, it could be for somebody.
+1:32:48
+Some of these, I'm not quite sure who these would be for, but maybe that would be an element for another Fight Club discussion.
+Colin, you you would be remiss to know that Hyper Light Breaker is on that list, unfortunately.
+But yeah, I mean, I'm not, I'm not shocked.
+1:33:05
+I am I am saddened but not shocked.
+It's in the same list as Meme Mayhem, so there you go.
+Yeah, proof that lightning sometimes doesn't strike twice.
+Oh no, mixed reviews.
+What?
+This is the first I'm seeing of this hyper light breaker.
+1:33:22
+You're breaking my heart.
+Yeah.
+Well, Will's giving us the all right, it's time.
+It's time.
+He's tapping on his tactical G shock watch.
+We gotta go.
+Yeah, so so to play us out from from Cube Chaos as we bring order to Cube Chaos playing us out here will be main under score song under score 3 dot WAV from the the Cube Chaos OST.
+1:33:49
+Play us out, Woonarg.
+1:34:21
+The.
+1:34:48
+The.
