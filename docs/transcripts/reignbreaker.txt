@@ -1,0 +1,1284 @@
+0:11
+Greetings friends and welcome to another episode of the Grog Pod Roguelike Podcast wherein each episode we smashed the oppressive media landscape of obscure indie games.
+Slap some number on them and revisit them at the end of the year in our Global Bowl.
+0:28
+I am your Mad Regent host of the podcast Scott Berger, and with me are my dusty, oppressed Co hosts lingering in the shadows.
+This is your chimney sweep.
+This is will wrought hit.
+And of course, I am your very own diesel punk.
+0:45
+Dick Van Dyke, Andrew Harshman.
+And I'm calling in.
+I can cast the pod now.
+Well, is it Saints Withen's day already?
+We're talking.
+As you may have guessed, the the game Rainbreaker this week released March 18th, 2025, a hot, hot and fresh 35 days ago as of this recording.
+1:09
+You can find this on all of the the platforms as long as they are PC and Steam, I believe.
+And this game was, I guess emphasis on the was developed by one studio Fizbin out of Ludwig Ludwigsburg and Berlin, Germany, previous developers of the 2013 game The Inner World 2021 with three games of say No More Minute of Islands and Lost at Sea and their their sadly last game, 2025's Rain Breaker.
+1:45
+This was published by Thunderfold Publishing, who have put out some other notable entries like Viewfinder, Steamworld Heist, two planet of Lana, one that I've had my eye on for a while called Leica aged through blood, which you are a a dog riding a motorcycle and and killing people with and road game cursed to golf.
+2:09
+That looks kind of interesting if you ever wanted to get your golf on with this podcast.
+How long is this game?
+Well, your average player of Rain Breaker has just under 4 hours of gameplay in it, which maybe we'll get to in a minute.
+To be fair, it's only been out for 35 days.
+2:27
+True, true and.
+You're 10 minutes a day and you could break rains.
+And Rainbreaker rolls in on our popularity chart at the number 1400 and 94th most popular roguelike game on Steam with a whopping total of 260 reviews, which almost was a a a new obscurity record for the podcast.
+2:54
+I I actually had to go back and double check the rankings where Pineapple Smash Crew still is is slightly more obscure and and also previous episode as Your Dreams doesn't even rank on the Steam rankings at all.
+But even if it did, yeah, I did a whole bit of it anyway.
+3:12
+Yeah, crawling out of the shadows of obscurity.
+Andrew, you have one sentence to describe what one does in Rain Breaker before you are dragged away by grimy children of the streets.
+Well, Rain Breaker is a top down action beat em up set in a diesel punk dystopia which is ruled over by a horrific ruler whose reign must be broken at all costs.
+3:42
+And you take up the role of Cleft, A righteous and very 3 dimensional action heroine who has defected from the what?
+3:58
+What their messages being exchanged, who has defected from the Queen's army to take her down once for all using her her trusty Lance of choice.
+Yeah, it's excuse.
+You.
+It's a javelin.
+It's a javelin.
+Yeah, excuse me, It is a Lance, but she calls it a javelin erroneously.
+4:17
+Right.
+Did I?
+Did I misspeak?
+Did I say top?
+Did I say up?
+Down?
+Did I?
+Say top down, but it is I believe isometric is the term.
+For it's the it's the same what?
+Oh, come on.
+If you're looking, if you're looking which 2 dimensions it's looking at, it's the X&Y dimension and not the Z dimension.
+4:35
+Does anyone call Hades a an isometric game?
+I believe everyone does, unless you're like specifically having a conversation about.
+Talking about Diablo, you talk about Hades.
+You talk about but like I think Diablo is I mean expressly as a map and was like one of the first like good isometric game anyway, So yeah, it's and of course, you know why what makes this game a rogue like?
+4:59
+Well, there is perma death.
+It's run based, the maps are generated are assembled in a random fashion, although you do have the opportunity to like play through the same map, but like periodically the map is refreshed and that's done randomly.
+5:20
+And some of the voice acting feels a little random.
+No, I thought the voice acting was fine and dandy.
+Adequate.
+Well, maybe to to pull the brakes on this train to start with, I think I think we have to put a the the the classic grog pod enjoyment warning header right at the top here of it's OK to like a game or not and and the all devs.
+5:47
+I think, especially in this case, go to heaven aspect.
+But I think maybe some of these.
+Valiant devs who who died on on the hill defending their vision and and clearly being in the the most unfortunate position of having to push out a game that is like clearly not what they had in mind like this.
+6:08
+This game is it's like it it the amount of content is clearly far less than they originally had anticipated.
+Yes, it is all right to like or dislike a game.
+I like this game quite a bit and I like it a lot better.
+It certain certain elements of it, I should say a lot better than the game that it is most compared to which of course is Hades and but but I brought up the the voice acting right out at the gate because my Co host kept kept blabbing about the the accents they've never heard they've they've these guys.
+6:40
+The rest of the Grog Pot has never played a game with British accents before.
+And that.
+Apparently was the most remarkable part over the last couple weeks and our Disney's had I mean the what's his face had a British accent.
+I don't care about the accents, I care about the intonation.
+6:56
+Yeah.
+So it was not, it's not that particular accent I think you're talking.
+It's like the specific region I think, where it's just like a very over emphasized feels like a form of the.
+Accent now will it's it's always very easy for us to to to criticize the the world of game development game production.
+7:17
+I think as as the only person here who is actively working on a game, I think that the the rest of us are kind of less qualified maybe to to pass judgment, but no, I'm, I'm well, I'm gonna give you I'm gonna give you a test.
+All right, You you've stepped on some kind of spike trap and I'm gonna need you to provide me a voice sample right now of like what?
+7:38
+What?
+What is what does that sound of you getting like impaled by by spikes?
+What does that sound like?
+Give me a sound here.
+No, all right, give me another sound.
+Give me another sound, but like, less.
+That was a joke.
+It's not.
+Like.
+That but will would just I was trying to do an AI to do it for him.
+Perfect.
+7:56
+Yeah, you've just Ouch.
+You've just stepped in a bear trap.
+Ouch.
+Governor.
+All right, now.
+Now do it as if you were reading off of a script.
+Yeah, here's The thing is I would actually probably step in a bear trap to get it just right.
+That's how dedicated I am.
+Ouch.
+Governor, I might have been listening to too much music and too many podcasts while playing this game 'cause I I do not get what you're what, what you're what you're trying to get at.
+8:20
+Scott, What's what's the problem with the pain sound effect?
+So I think what what I'm trying to get AT is, and again, it's OK to have differing opinions.
+When when Andrew you, you selected this game, which I was like, oh, interesting.
+Like I I had like never heard of this game before, emphasizing that it's it's kind of obscurity.
+8:38
+And so I was interested to just kind of like check out the Steam page, maybe like peruse some of the reviews.
+What are some people kind of saying about it?
+And people were kind of like dunking on The Voice acting immediately.
+I'm like, yeah, but they but like every, everybody does that for like any game that has voice acting, right?
+8:54
+Let I'll, I'll hear it for myself.
+And I feel like the maybe maybe this genre is too blessed overall with pretty good voice acting because it felt like almost immediate that like, yeah, I mean, like the the main character that you play as is is fine.
+9:15
+But I think one of the the characters that you first meet when your sister Ardra, I think her name is.
+Ardra like from the TNG episode with the OK sorry though, I just I.
+9:31
+Never mind, go ahead.
+Yeah, not TNG, not Slay the Spire.
+There's your there's your free bingo space for the for the episode No.
+We'll get it in there for real, don't worry.
+Like her and I'm sure that like all the the voice actors for this game are well qualified to do this.
+I don't know if it's the direction, I don't know if it's the script, but it just sounded like like they were just reading off of I'm looking around my desk here for anything that has like text on it that I could possibly read.
+9:59
+Maybe not this, maybe not my performance reviews from my previous job, but like it feels like there's something something.
+It feels very wooden and like stiff.
+Where Oh, I've got what am I doing?
+I've got some screenshots queued up here that I could be like, oh, like all right, so this is this is your first interaction with oh, Ardea Ardea Ardea, the spear sister who you come up to one of these.
+10:31
+I don't know camera towers question mark and the text is is says by my spear.
+If it isn't you Clef a most unwelcome surprise.
+But the way that it's like delivered feels like by my spear.
+10:48
+If it isn't you Clef a most unwelcome surprise.
+Then Clef responds with Is that you, Ardea?
+I should have known.
+Still serving the Queen like a slavering dog, I see.
+You should have never come here, Clef.
+11:04
+You betrayed us.
+You betrayed your oath against a tyrant.
+It's resistance.
+Resistance is just a petty word for treason, it feels like.
+Am I wrong?
+Like, I felt like I was just, like, getting talked at, yeah.
+Absolutely.
+11:19
+I mean, if you hey, if yeah, if you, if you want to make this podcast about trashing on the game, I'm going to jump on that right away.
+And I think, yeah, here's a good place to start because that's your first interaction, right?
+And it it extends throughout.
+That's the thing.
+It's like, yes, that character sucks.
+And then the next character with the fucking beak nose, the fucking medieval like plague Dr. style like that's also sucked.
+11:40
+Well, don't forget about the the chimney sweeps that you fight.
+I thought of the but not to be differentiated from chimney sweep.
+That's your friend.
+Oh, right, exactly.
+Are you talking?
+The Vandals.
+The Vandals, yeah, no, it's none of it is very good, especially with the problem is we have Hades in mind I think as the standard where in fact it is probably above standard by a significant margin and this game is just below standard and so well the delta there.
+12:09
+You say that, but it's interesting because I was deep diving the the troves of the Internet and like I think from from our Americanized experience, from our Yankee Doodle Dandy accent edge of the spectrum, like the the voice actor doing the fake British accent as Zagreus, like comes off as believable to our uncultured ears.
+12:32
+But it sounded like people from like the British Isles and Australia had a lot of beef with it.
+Like, oh, this is just clearly a terrible accent.
+So I feel like.
+I my read on Zagreus was always that he was doing like a faux like, well, we don't know what the Greeks actually sounded like.
+12:49
+I'm going to do kind of this, you know, classics informed like, oh, kind of British, but not quite.
+OK.
+So Scott, you're, you're reading off the, the script, which is, is, is, is great.
+You're like, let's, let's, let's do an impersonation of the voice acting, get across what the voice acting's like.
+13:09
+And, and you say, you say, am I wrong here?
+Like, well, I got to tell you, I don't remember because I actually like gave this game a chance and I played it for 12 hours and and I don't remember what they sounded like at the very beginning.
+But my, my, I don't know, general recollection is that that character doesn't sound so bad.
+13:26
+I would be interested to know though, as you say, Scott, whether what the, what the, the, the cultural and language background of the voice actors in this game is, 'cause I don't know if they're British.
+You said that the developers are from Europe.
+They're.
+From Germany I believe, maybe if I remember right the voice acting like studio that was contracted out for this game I think was based in Germany or something.
+13:51
+But like it's weird 'cause like I don't.
+I don't think it's problem with the accent.
+I think the accent's fine.
+I think it's the problem with how they're saying the lines.
+Right.
+Yeah.
+It's like when she cuts.
+Would she, she does the things she she beats the the little locked room things and she gets to cross the bridge.
+14:10
+She's literally like, I can cross the bridge now.
+It's like such a weird tonal shift that it takes me out it it like jars me every single time and she says it once or twice per.
+Incessantly.
+Per run.
+Incessantly.
+That's that's something that says well.
+14:26
+For an hour, it's like, well, if you're good at my assumption, you're not going to hear that very often.
+Yeah, no, I I don't know why that one line is repeated so late.
+I, I get the feeling that this was a bunch of people were given lines to read and then they smashed them together in post and they did not get any directorial direction for how to say these lines.
+14:54
+And so it's just like, I am given this line in a vacuum and I say it.
+And then the the, the developers are like, those are the words.
+And there we go.
+We're done.
+We've recorded a voice.
+Yeah, and I and I feel like there's I, I feel like we're jumping in and just like dunking on the game immediately.
+15:12
+I think there's a lot to like with this game if it just had more time and budget, and I think that like.
+It feels unfinished.
+Yeah, and and I feel like if this game like launched 35 days ago and it had a big fat early access sticker on it, I'd be willing to give it a lot more leeway.
+15:28
+But like it's, it's sadly unfortunate that like the game is kind of DOA that like I, I had mentioned it earlier that like this was the final game the, the game studio put out AI guess I don't know a, a post on the steam discussion forums for, for rain Breakers saying Hey community.
+15:46
+As you may have seen, our studio recently announced that we are unfortunately forced to wind down operations after releasing Rain Breaker.
+We received a few questions about what this will mean for the future of the game.
+First of all, we are committed to supporting Rain Breaker post launch.
+Our full team will be spending the weeks after launch fixing any remaining bugs and small balance changes.
+16:06
+The game has been our passion project for over 2 1/2 years, so we want to make sure our players have the best possible time with it.
+It goes on, but it basically just kind of says that like they're just going to be doing like bug fixes and like miter balance tweaks.
+And and it sucks because like I feel like there's there's like a cool like vibe and and like punk tank take here that like it's just, it's just like it's not fully realized and I don't think ever will be.
+16:33
+Yeah, it's it's unfortunate her constantly saying I can I can raise the bridge now could be easily resolved with with a with an update.
+I just to to to give a my informed opinion on The Voice acting example that was given.
+16:56
+I I think it's fine.
+I, I don't know what you guys are getting all bent out of shave about like, I think, I think it very much is a matter of voice acting has been so good for so long.
+And when something doesn't quite, you know, reach the, the pinnacle of, of what we expect to yeah, it's it's the bar's been set too high, I think.
+17:16
+I think you're right, Scott.
+This, this is weird to me for someone, I guess maybe you, you put music and like I, I think of sound is like one category, but obviously there's voice acting and then there's the music and you guys are usually losing your mind about the music and.
+I will say I think the music in this game is really good.
+17:32
+You.
+Are insane.
+Well, it sounds like a goblin singing.
+Are you kidding me?
+Like listen to.
+It's like it's.
+I think it's great.
+It's not the kind of music that I would actively seek out and listen to just like at The Reg, but like I think like it absolutely nails like what they're trying to go for for this game.
+17:50
+And I'd like I was going and listening to to like some of the other music put out by scrolling scrolling deserve DJERV, which I think translates from Norwegian to daring like Norwegian, like Hard Rock band, like the stuff that like the other stuff that they have on YouTube.
+18:12
+Like I'm like, yeah, why was like, why was not more of this in the game?
+Like there's only one battle track, which again, budget.
+But yeah, that's unfortunate.
+But like I, I put on like some of their, their music just in the background and I was like, yeah, OK, this like this feels great.
+18:28
+And like, I just wish there was there was more of it.
+And it just kind of stinks that like, you know, we, we we get like a like this would be an excellent demo for this game.
+But like as a as like a fully finished like release product, it's just like, yeah, I don't know.
+18:45
+It's, it's the problems of of like, you know, running out of budget and that kind of game industry stuff.
+Yeah, it's good that we're reiterating that.
+Yeah, I, I have a little, a pretty short list here, but this is even though the game is clearly, you know, it's kind of rushed out due to some weird development situation, publishing situation.
+19:08
+It's really lousy that the, that the development team was fired like before the game was even out.
+Despite being unfinished, this is a very bold game.
+It has a, a bold aesthetic and it is also bold that the game has eight save files there.
+19:30
+There are 8 available save profiles.
+Unnecessary, folks.
+It's very bold.
+There's a real question.
+Menu theme song.
+And it's bold that this theme song has vocals like, yeah, you're taking a real chance.
+Like God, we hope the player base like likes this.
+19:47
+The way this person's singing, we hope they like the style of music.
+It's like, I feel like that's you got to be a little more restrained with the main menu.
+No, I like it.
+Well, maybe it's just because I, I think the song's fine or decent, but I, I think that the this game it's.
+Strongest point is that it has a very strong aesthetic that it sticks to in all aspects.
+20:09
+It stick with the music.
+The I mean the voice acting is whatever, but it it is like they've they've got the like punk vibe and they stick to it at all points of the game.
+And I think that's that's like strongest selling point is it, you know, it has that it does not it it doesn't have the same vibe as Hades, even if it plays similar to Hades.
+20:33
+Yeah, definitely, definitely different vibe.
+What is that vibe?
+How do we characterize this vibe?
+I I wanted to say steampunk at first, but that is it's like a negative connotation that I'm like, no, it's steam punk.
+It's a.
+Steampunk rock.
+Medieval punk.
+It the, the, the setting of this world is, it's, it's very medieval gothic, gothic punk, goth punk type situation.
+20:55
+You're playing through this like kind of, you know, this sprawling cyberscape with lots of cables running everywhere and the fusion of sci-fi and keys and and Chrome and bells and anvils.
+Sometimes there are, we were making a lot of chimney sweep references earlier.
+21:14
+There are literal enemies that are literally chimneys later in the game, which is delightful.
+And so you're, you're traveling across this, yeah, this sprawling diesel punk space, which is, is in the process of being, you know, revolted against and, and the people are rising up.
+21:34
+And so there's also this, this punk graffiti aesthetic where there is, you know, literal graffiti, like, you know, all over the place graffiti expressed in the loading symbols and in the UI.
+And then also you have the, the, the fusion, the further fusion of like old timey medieval text artwork, like you see in a lot of memes and, and the like, like monastery texts, which, which are are used to great effect, specifically in the, the power up artwork and also the boss fight intros.
+22:11
+It's like there's a, there's a real great foundation here.
+And it feels like they pretty much finished kind of like the engine and all the core systems.
+But then there was sadly no opportunity to really build that all out and build on top of that foundation to to make something more fully fledged and involved.
+22:31
+Yeah, and I I feel like there's like an uncapitalized aspect of like the punk, the punk vibe where like our main character Clef is like she seems like Disney punk, like like the the nice, the nice older sister instead of like like I wanted this character arc of and again, budget.
+22:55
+But you know, I can imagine some kind of character arc where like you're starting out as like, no, I don't need any friends, I can do it all myself kind of thing and put like, how's that not?
+Also Disney though.
+Well, like, I'm looking for like putting the cigarette butt out on your tongue, like, you know, like being like mean to your friends kind of thing.
+23:12
+And then you're just like, oh, actually I do need my friends.
+And like, you know, being able to like, I don't know, like have have something some kind of character arc, like the the vibe that I get from the player character is that like, and again, maybe underscored by like the the the the chipperness of like the delivery of the lines.
+23:36
+Like, I don't know if the like the director was just like, yeah, just say, I don't know, like Cockney accent go.
+And then they're just like, well, what's my character's motivation?
+Like how punk is this?
+Because like, you know, you you step on some spikes and you go Ouch versus like, like, you know, guttural grouse, like the the art for the main player character I think is really good because you you're like this like mean you're this mean looking muscle mommy who's about to just like tear shit up and I'm like, yes, I'm on board.
+24:06
+Sign me up.
+And then like, I don't know, just it feels so flat, Like it doesn't feel like it comes out of the gate with like punching you in the face with like a spiked bracelet.
+And then like, you know, neon, neon Mohawk mode, right there's.
+This is definitely like what drew me into the game.
+24:21
+I was actually being served ads for this game.
+Really.
+Yeah, on I think it was Instagram or or Facebook perhaps, and, and not just like once, like multiple times and, and it definitely caught my eye.
+I was like, oh, perhaps perhaps this is the Hagee's experience that I was really looking for.
+24:39
+It's not quite unfortunately.
+Yeah, Character design very strong.
+You've got you've got Clef who I think I said Cleft previously.
+Excuse me.
+Clef rather very, very memorable character since I could memorize.
+I could remember her name, which is short for like Clefandra or something.
+24:59
+It's what is it really?
+Yeah, there's.
+She says it at some point.
+Queen calls it out.
+Clefandra.
+Anyway.
+Clefianna.
+Clefianna.
+Yeah, so she's she's wearing like part of her old, like soldier attire.
+She has one big old muscly arm exposed, some spikes coming out of her shoulder, this cool white haircut, which is not a shock of white hair, all white hair.
+25:24
+And they're shaved on the side.
+Cool weapon design, Yeah of.
+Course, and yeah, which is, you know, a spear or javelin, or perhaps it's a Lance.
+It's a Lance.
+But I I saw it Will is is not about our resident muscle Man does not like the looks of this muscle mommy, it would seem.
+25:42
+Well, I didn't say.
+That but yes, you're absolutely right.
+I mean so so this is this is who she is she's V from arcane.
+She's I mean like this is a or or you know, it's basically I mean you, you you said the word muscle mommy.
+I had that in my notes as well.
+That is the term I think you have for this sort of a a person and well, like.
+26:03
+She's not a muscle mommy.
+She's a muscle big sister, OK, Which is?
+Also V from.
+Arcane, who is a literal big sister.
+Well, also like.
+A tangential connection to that the jev or jerv who did the the title theme for this also did a single called get jinxed the.
+26:22
+Oh my one.
+Arcane Yeah, I know that.
+Song.
+Well, anyway.
+Anyway, you were saying what a crossover?
+So.
+OK.
+Because Hades is the the I think the great point of contrast here, given the similar similar genre here, I think.
+When we think about.
+26:39
+The motivation and the character of Zagarius Zag, it's like it's, it's it's obvious.
+It's like, it's like, oh, you are an angsty teen who hates his overbearing dad and you're trying to escape and Oh yeah, there's this other stuff where it's like, Oh yeah, you got this hell, that dynamic Olympus.
+26:55
+And like these are things that like we already have a structure in our brains for those of us who have been exposed to this sort of mythology of like what's going on here and like what?
+It's very immediately obvious what the dynamics in play are.
+Whereas with this character, this V Cliff, oh, Clef with Clef, it's it's very it's like, OK, we're learning.
+27:17
+OK, I'm glad you're showing and and not telling or I mean, you're kind of doing a little both maybe.
+But like we're learning that you used to be a soldier.
+You're now you're rebelling against it.
+But like, what's the motivation?
+Why do you want to do that?
+Like, I'm sure you'll, you'll tell us eventually, but we have no structure in our mind which explains this whole thing other than like, oh, you, you had a change of heart about this person you were serving and now you because, because now you think they're a tyrant.
+27:40
+But like we, I'm like 2 hours into the game.
+So what the fuck do I know?
+But like, it seems like with, with, with the Hades, you know, right away what's going on?
+Where's this game, this character?
+I have no idea and I don't, I don't, to be honest.
+I, I this, this idea, do I even want?
+27:58
+I mean, like it's this sort of person you don't see in reality and not very often I should say like this.
+It's something that's the one who.
+Rebels against the the tyrant.
+I feel like it's not reality.
+Maybe not, but it's absolutely a trope.
+It is.
+28:13
+It is.
+Like I.
+There aren't very many dystopian cyber Hells that we fight on a daily basis.
+They're more mundane cyber Hells.
+One of the reviews I saw for this game was it was something to the effect of here we go again, another game bringing politics into video games.
+28:34
+And it's like, this is you should come on, like, give me a break.
+Like just because the main character is like a woman with an asymmetrical haircut doesn't mean.
+It's like trying to.
+Brainwash you and your, your kids or something like this is this is it's the, the anti authoritarian themes are a little bit on the nose, but like, I don't know, I, I, I like it quite a bit and definitely was one of the things that that drew me to the game.
+29:04
+I, I hear what you're saying, Will and I, I can basically, I can almost guarantee that there were probably grand plans for some flashback sequences and things to explain like what the inciting incident was.
+It needs an intro.
+29:20
+To sure.
+Rarely.
+I rarely.
+Am like a pro intro kind of person, but this actually this game needs a that 32nd interest cinematic.
+You know, you're absolutely right where you go out on a mission.
+For the queen and something happens and the little orphan girl, they kill a man, kill a man like.
+29:40
+It felt like there was a missed opportunity where like, OK, so like we're kill a dog maybe.
+We're. 30 minutes in.
+So I think like the the when you first start a run in this game and your story, I'll put story in air quotes begins.
+You are you know, you're in media rest.
+29:57
+You're very like Hades style, like you're on the adventure.
+Like, OK, I'm I'm ready to go get an audience with the queen.
+You run around and, you know, obviously you're under level, so you get bludgeoned to death pretty, pretty quick.
+But like, I feel like there is this kind of aspect that you could have like built up like, OK, the run is starting like you're you're out there.
+30:15
+You're getting ready to like smash society or like this oppressive society down and like when you when you get defeated for the first time, I feel like Bam, that's when you should play like the intro music segment.
+Like there's a great there's a like a great kind of like tight or a lyrical music video that derive put up on their YouTube page.
+30:36
+That's like, yes, like that would be perfect to just like insert after your first defeat of like, you know, really like get your blood boiling.
+I'm like, I'm going to go back in and just like beat these jerks up kind of deal.
+And what Hades does like, you know, the gold standard here, you fail that first run your reset back to your, you know, main what's called a main town.
+30:58
+And you have like your story interaction elements unfold of like, here's your character's motivation.
+Here's like the whole story unlaid in front of you.
+And I think that like, yeah, the Greek mythos stuff is like obvious to our Western upbringings.
+But like, you know, like punk vibes.
+31:13
+Also, I feel like they're all, you know, pretty well trodden tropes these days that, you know, you like, you, you come to some like, you know, gritty resistance camp.
+Like we saw this in Remnant kind of like this, you know, people that are like fighting against the odds.
+31:28
+But like you come to this, I don't know, like regular looking camp.
+And there's, you know, some, some very nice Welsh lady there who's also super, super buff, who's like, Oh yeah, I, I can't believe you're, you're, you're back already.
+31:44
+Cleft.
+I'm I'm trying to make the accent as bad as I can here.
+But like, it's, you know, like, but there's like nothing said.
+Like there's no like thrust, there's no like character motivation of like, it's just like, oh, you're back.
+Go get out, get out there and smash them.
+32:00
+Like to to what end?
+Like is that helping everybody out?
+And again, budget, budget, budget, budget, budget.
+But like, I was looking up how how many people do we think were involved in the production of this game?
+Oh.
+32:16
+That's a great question, 4/9. 10.
+What if I told you?
+It was like at least 50 plus people, that's what.
+I was.
+Not I was expecting you to give a high number, which is why I wanted juxtapose to the low, but like that is that's even beyond comedy.
+32:35
+That's wow.
+Now we've played.
+I mean and.
+We've played a.
+Lot of games that are made.
+OK.
+Wait, wait, wait.
+Hold on.
+Hold on though, I how?
+Many people.
+Are involved in some in Hades.
+I don't really know that that was.
+My, that was my lead up.
+I think it's 20, right?
+That was my softball, yeah.
+32:52
+Hades is about half the size of the studio, so Super Giant games about 25 ish people.
+From, from from a little right over here.
+Well, I've watched the.
+Documentary because I was really into that, but Oh yeah, I watched.
+A teeny tiny bit, a tiny bit of it.
+Until they said that it was a dungeon crawler and I was like Nope, sorry, wrong, incorrect game developers.
+33:11
+Now Rain Breaker on the other hand, might be a dungeon crawler, barely.
+Wow, that is quite shocking to hear that 50 people you say yeah, and that's not.
+That's not including like the army of like QA testers and like all the publishing credits.
+33:28
+That's like the credited people from like this game, like Rainbreaker had a game director and executive producer and a regular producer on it.
+Like that I feel like is where I'm directing my criticism here.
+Like not, not necessarily like the voice actors or so there's definitely someone.
+33:45
+Directing those voice actors then you would think.
+I mean, like, unless, like, you know, the person just happened to be like thrust into the game director role at like the last second and was just like, all right, go direct the game.
+And they're just like, you know, it it.
+34:00
+I mean, from my vantage point here with the cursory amount of research that I've done, hard to tell, But I mean, like there's there's a number of games that we've played made by a single person that I think have a obviously a more limited budget, but I think a more realistic scope to to reach for.
+34:22
+It feels it feels very hard to like design A game that's so very clearly linked and inspired by, you know, the the the, the one and only Hades, which maybe we can expand on with like other games trying to, you know, Co tail ride the popularity of others with like survivor likes or Spire likes or even bilatro likes are are becoming a thing now.
+34:48
+But like if you kind of like just design your game to just be so clearly a a Hades, I'll say it derivative in this case, like you are, you're really just kind of setting yourself up to get baseball batted over the over the head with like, well, like, why would I play this when Hades exists kind of deal are.
+35:08
+There any successful Hades likes?
+Like commercially?
+Successful, I guess.
+Actually, let me let.
+Me spoil ahead and look, I think so yes, I I think that like there are some games that are commercially successful.
+35:25
+I don't know if they would really jive with our tastes per SE, but I did play a little bit of the game.
+It's a it's a very like Chinese myth.
+It's like Hades, but Chinese mythology called warm snow that's like fairly like popular, fairly well regarded.
+35:42
+I don't know it didn't really grab me at the time, but like like at at at PAX last year, Andrew, I don't know if you remember they had this huge set up for this one very clearly Hades like game called Echoes of Mistralia.
+It, it was the one with the guy who had like they had a, they hired a, a loot player that was like dancing around in front of the, the stage.
+36:02
+But but like, I, I sat down and like, I studied that for a moment.
+I'm like, yeah, that looks like a Hades game.
+All right, but why would I play that when Hades exists?
+Like it feels like you have to make some very bold reason why your game stands out instead of like, you know what, what was the the joke that I had written down here of like, you know, I feel like the the pitch for for hates like games is like, well, if you like hates for its top notch voice acting, hundreds of hours of story content, wide diversity of weapons and novel gameplay systems, then you'll love our random hates like game because it looks similar question mark like.
+36:43
+Is that what they're going for?
+I don't know it it feels there's a.
+There's a javelin they call Lance.
+That's a big differentiating factor, right?
+Well.
+There are different types of lances there.
+There are four classes of of Lance and you can use. 2 Lance types the same time.
+36:59
+Kind of.
+They're almost.
+I never unlocked that.
+I never bothered unlocking that one.
+I mean, I just, I'm like, I don't want to forget that.
+It's pretty.
+Useful actually though.
+Oh, that's that's.
+Good to know.
+Yeah.
+Well, I think perhaps we're getting back to a a theme.
+37:14
+That's right.
+We're, we're revisiting a theme that came up in our Hades episode where I, I approached Hades from a like from from the perspective of being primarily interested in the raw gameplay, whereas most of you engaged more wholeheartedly with, with the story and everything.
+37:37
+And so, you know, different priorities, I suppose will, will result in, in different outcomes in terms of our enjoyment of the game.
+I did want to mention really quickly regarding the, the development and the size of the development team.
+I did look at, I did a little bit of research in the past week and checked out the developer's website and they had some pretty like encouraging stuff posted up about their work environment that they encouraged their they, they were, you know, very clear like, hey, you know, we're not, there's not, we're not going to be in, there's not going to be a bunch of overtime, There's not going to be a bunch of crunch.
+38:16
+We are aiming for a 32 hour work week.
+And so perhaps the reason there are so many employees is because, you know, they're not expected to do ridiculous American developer type type thing.
+So perhaps part of the reason for the giants, you know, seemingly from from our American perspective, bloated staff size is, is, is a difference between American and and Euro work culture.
+38:46
+But unfortunately it doesn't seem to have worked out because the staff have been dismissed and that just.
+Proves that America is best and everyone should be working 60 hour weeks.
+Get that 9. 96 going crunch.
+Crunch is victory.
+39:03
+Only Crunch.
+Crunch to victory.
+So hey, the theme of our.
+Video game podcast that Yeah, we.
+We're we're pro.
+Crunch.
+Blood, sweat and tears over here.
+Our families are just just crying at home, wishing that we would you would have to not have a family.
+39:20
+That's the key.
+Come visit that.
+Is they can't cry if they.
+Don't exist.
+This is why I've.
+Been instituting a minimum of 150 hours of gameplay for for each host to have before doing each of these podcast episodes.
+Because I, I am trying to like make sure that everyone is as oppressed as possible and making, making sure that I, I the the, the king of of keys, in this case, reigns supreme.
+39:47
+And the only way to do that is to make sure that all my loyal Co host subjects are as oppressed as as much.
+Yeah, but Scott, I'm too.
+Busy doing overtime and work travel to play video games.
+No, I I really.
+Appreciate that.
+Steam Deck because?
+I'm able to outsource all of my work to get my hourly requirements to a third world country and therefore still meet the requirements.
+40:08
+See this is the billionaire way we should.
+We should.
+Go back to talking about the game, yes, so we can talk.
+We can rant against the billionaire class and how the workers need to unite for a while.
+That'd be fun, but I guess on a.
+Watch list.
+So we got javelins.
+Well, yeah.
+Differences between this game and Hades?
+40:25
+I For one, I prefer the way that the game is rendered.
+I think is superior to Hades.
+Instead of doing this weird slightly lower resolution rendering of the character, it's more it's more cohesive to my eye, but I realize that's a pretty subjective thing.
+40:42
+I appreciate what they've done with with the integration of traps.
+I I think that's a more engaging system.
+So running around and.
+Hitting B on every trap to activate it was really fun for you.
+Well, they expand.
+That is expounded on as the game goes on.
+41:00
+And it's interesting you, you have the ability to interact with these little control panels on the ground listeners where you can, you can trigger the various traps and there's like, I don't know, a half dozen of them.
+It's, it's, it's better than my experience than than the experience I had in Hades where it's like I would forget about the traps until they killed me.
+41:21
+It would just be like a source of frustration.
+The traps were.
+Useful for you could actually use them against the enemies in an effective way, which I think I thought was interesting.
+Indeed, I thought I thought that was admirable.
+It's like, well, because, because I definitely went into this game thing like, well, this is clearly a Hades clone and it's like, and that did stick out to me like, Oh, this is something that's that's different.
+41:41
+And personally, just to my personal taste, like the the beat em up core mechanics in this game.
+You've got a couple of different attacks.
+They're all sort of useful in different in different situations.
+They're worth using the core beat em up mechanics I prefer to to Hades personally.
+42:00
+Wrong.
+No, that's, I mean, I'll, I'll.
+Say this they are different and it's interesting that like if if this game just had more time in the oven, like being expanded on on some of these ideas could be super interesting.
+42:15
+So like you have, you have your, your standard X button to, to punch and like that punch it.
+Like there's a lot of very interesting like interconnected systems where punch like melee punching foes like reduces the heat meter where heat builds up because there's an engine running inside of your javelin thingy.
+42:37
+But like you can like slam your javelin into the ground for like an AO.
+We have a fact.
+You can use your javelin as like maybe like a like a crappy gun with some aspects of it and you can just like straight up throw it.
+So it's like you kind of have that twist on the Hades formula of like arranged attack, like a medium ranged attack and sort of like you're you're close and melee stuff.
+43:03
+But like as you use your javelin more and more, that builds up a heat meter and it eventually tops out.
+But I think you are incentivized to kind of like keep that under control by like dashing and punching and things like that.
+And yeah, I felt like, you know, if this game just had like another six months, seems like there is maybe a mechanic that you could tie the heat system into where like you deliberately overload your Javelin to get it hot and then like you like you use it as like a fire poker almost and like do fire damage kind of a thing.
+43:34
+But like, you know, the the instead when it overheats, cleft just says, you know, the javelin's overheated.
+I can't use it now or but and that's not.
+Even true, that's The funny thing is like she'll say that and then you can you keep throwing it.
+You can throw it.
+You can keep throwing.
+43:49
+It but it doesn't do the big thing, it doesn't do the special thing.
+It just does like whatever the base damage is.
+So it's much, much less effective until it cools down yeah.
+And I.
+I found the heat system, the heat system, what a bad term when you're making a game that is very similar to a extremely successful game called Heaties, which also has a heat system.
+44:10
+The the overheating mechanic I found pretty aggravating at first.
+You get some upgrades of the kind of mitigate it.
+You also, you know, learn, I learned to not just rely on using the the javelin.
+Yeah.
+And another thing is that which which another thing that was aggravating me at first, this game is that like you have to like execute and like finish off certain enemies, which was annoying initially.
+44:36
+But I, I found that after you started once, once you get, I don't know, an hour or two in perhaps 3 hours, you start unlocking upgrades and things that are related to the executions.
+And I found that to be a pretty intriguing and cool way to, to, to mix up the combat.
+44:53
+I like are trying to time when to do them because we get various buffs and you can also use them to trigger other attacks and things like that.
+I like the execution mechanic.
+I think it takes too long to do it.
+The game slows down for too long.
+It feels like it it like it needs to be like 1/4 a quarter of a second if it was real fast, if it was like the.
+45:15
+Execution style from a Doom 2016 or Doom Eternal where like the execution actually had some like thing that tied into another gameplay system.
+Well, it does and looked different every like most of the time then yeah, I mean, yeah, there there are some perks that you can pick up like oh, you execute and it gives you like more or like a like a a health bonus or like shoots like bleeding, bleed, bleed effect projectiles out or like things like that.
+45:45
+Like there were there were interesting hooks there, but it it felt like an almost unlike it felt like a necessary like speed bump to the early game where like, oh, you have like these little bit like dancing bell enemies that like the only way that you can clear through this zone that you're in is you have to go through the execution animation for each one of them.
+46:06
+It felt like yeah.
+You know, I, I agree that initially it's, it's kind of annoying, but then I don't know, later you learn and there's also some like meta progression upgrades that are related to it.
+It's like, oh, this, this is actually necessary and, and some points useful.
+46:21
+Like some of the boss fights.
+It's like, oh, cool, I can, I can use the execution to like temporarily to, to get some iframes.
+Another neat idea, which again, you know, could have, could have really bloomed if the game had been fully cooked, I think.
+46:43
+The maybe the problem is that your first couple runs there's.
+Three enemy.
+Types and 1/3 of them are these weird bells and that you have to execute.
+So like, I mean, you know, I've gotten a couple runs now there are a couple win runs and like slowly the the run goes longer and there's more enemy variation.
+47:07
+Boy, there's still not that much enemy variation.
+Like you're, you're mostly fighting those bells and the little the little gun things I will go to.
+Bat And then there's the. 5 shooters and the bell so there's three enemy types you're.
+Forgetting you both have been fidget spinning this whole time, there's the fidget spinner enemy that spins around and she staggers at.
+47:27
+You.
+Oh, I did not forget about that one.
+Trust me, I didn't that.
+The first boss is is then repurposed as like an enemy type.
+I mean there's I think you y'all are are are not being It's not totally accurate.
+47:45
+The the total amount of enemies is is a little more than what we're discussing, but it's it's still not quite.
+Enough, I'm not I'm not denying that there are more enemies later in the game, but it's a pretty it's an issue in the early games.
+Couple runs you're like you're fighting against the enemies and they're not very interesting to fight against like the bells with the with the execution animation.
+48:06
+I don't find them to be they're not really hard.
+They're not really fun and like I just didn't find that the enemies to be fun to fight against like I.
+I.
+Will go to bat for the bell for for a.
+Moment.
+48:22
+In so far as the the sound design for fighting the bells is great because of course when you hit the bell it makes a nice hearty bell ringing noise.
+Ringing the bell?
+I will say the sound.
+Design the sound design for stuff like that in this game is very good.
+It feel like when you shoot one of your like your shotgun Javelin makes like a big like umphi like ow sound.
+48:43
+It feels good, like it sounds like it's appropriate, like the IT it again, like I think the like the art design very good.
+The sound design very good.
+Like if it just had more time, you know it, it could be a thing.
+But like, I think what what Colin's getting at here is variety.
+49:03
+And sure, the fact that there's only one Biome is kind of a death sentence for this game, right?
+Yeah, we.
+Haven't talked about that.
+Yep, it's a nice looking environment, but golly it is.
+There's an unfortunate point that you reach and playing this game when it dawns upon you like, oh, we're not going to see another level, are we?
+49:25
+There's not going to be another tile set, is there?
+What about the?
+Trial the trial sizes like in terms of like, so in, in the Hades, you enter a room and then there's like you fight a certain number of enemies and then there'll be another reset and they'll be more and potentially 1/3 with this.
+49:41
+It's it, it felt like some of the like trials were like, you know, if almost over immediately, like there was like 3 dudes and I was just like, what was the point of that whole like, like that was a a waste of time.
+And like as you're going around, there's like, there's like enemies that are not a part of the trials or whatever the heck you, you have to activate by, you know, activating A keyhole or whatever, but they're just kind of like laying around.
+50:04
+But it just felt like the pacing of that was all wrong.
+And it's like kind of like this contiguous, like, I don't know, like a long section with like other areas next to it.
+Like, I don't know, I I felt like it was just worse, which is like.
+50:21
+A theme here which?
+Is like Hades but worse.
+I mean like Hades.
+Hades has like basically no like level navigation required.
+Like it's an arena, You fight in the arena and then you choose like A room or B room kind of a deal.
+50:37
+It's very simple.
+And unlike Slanted Spire, you can't tell what's coming up ahead, right?
+You just have the two the two paths and I and I think.
+What's going like when there's like an interesting element here?
+I think like it's like I'll I'll, I'll usually, I'll give developers like very minor bonus points for trying something different, even if it doesn't totally work.
+50:57
+But like it is different that like you have these like random enemies kind of walking around that do you engage with them in combat?
+Do you avoid them because you're low on health?
+Like outside of like these very small combat arenas.
+But there's also like a minor amount of like dungeon crawling or maze navigation of like, OK, in order to clear this, I guess there's like, I don't know how you describe it, like 3 sectors or like 3 sections of a run where each section has 10 or I guess maybe it's like 3 or something fights that you have to do.
+51:34
+And in these, like there are like in these like sectors, it's kind of like a, you know, random mishmash of prefabs.
+It almost kind of reminds me of Returnal in a way where it's like you got to go from point A to point B, but along the way you got to like unlock this thing and unlock that thing and then fight the boss at the end kind of deal.
+51:54
+And like maybe your assignment is like, oh, I have to like I have to break the seal by going and interacting with this one security tower thing and going through some questionable dialogue.
+But then like that will like raise the bridge.
+52:12
+But do you go and like get the next?
+Like there's a risk reward element of like, do you go and get the next boon?
+Do you try to like stack up as many boons as you can while like, you know, leveraging your health kind of deal?
+I think an an interesting idea.
+I don't know that it it fully works with the scope of a run here, but Andrew, you've you've played a lot further.
+52:36
+So like a a typical run in this game, like you go through sector, let's let's call it sector A, which is like you need one.
+What is it 11 seal to break in order to raise the bridge.
+And then you go into your little rest zone and then you have like, you know, your free health.
+52:54
+You can interact with the the rat children.
+You get it?
+Yeah.
+Yeah, that deserves being called out.
+Canonically, the reason that you resurrect at the beginning of each round is because little diesel punk St.
+Urchins have collected your unconscious body and dragged it back to the base camp, which is.
+53:16
+This is the kind of.
+Shoddy operation the Queen's running.
+She deserves to be overthrown.
+Right.
+Right.
+Like you got to get that coup de grace.
+No.
+Yeah.
+The double.
+The double tap.
+But so yeah, you're left.
+53:32
+Her and Twain the the the.
+The the map layout, so this game is more is a more of a dungeon crawl because there is a little bit of thought that you have to put into which fights you're going to take and whether it's worth the risk of like, you know, absolutely exploring the entire map or or not.
+53:53
+And that is interesting.
+And I, I, I don't know, I feel like if, if I was were the developers, it feels almost like the feels almost like the decision to make of the dungeon more open than Hades and not just arena fight after arena fight, just to just give it something to differentiate the gameplay from Hades.
+54:16
+It's cool.
+It's neat that you can explore the whole dungeon level and kind of pick which fights you want to take when.
+But I don't know, I don't think it was worth it.
+I think they probably should have just copied the arena.
+Bespoke isolated arena system of haides probably.
+54:36
+Or go.
+Or go like full rogue.
+And actually have a huge like area where you're exploring and you have to find the exit and it's just like a big unknown about which way you have to go.
+But I feel like that doesn't really lend well to this style, this isometric kind of battle style.
+I I don't.
+54:52
+Know though I've.
+Never played a game like that.
+So maybe that like, I mean Diablo, I guess that's true.
+You're right.
+Yeah, that's actually you know what?
+Yeah, there you go.
+That's that's exactly a direction or you get.
+Oh, what's the the game where you got yeded out into space void bastards.
+55:09
+No.
+The one that wasn't signature, heat signature, there you go.
+Heat signature, kind of.
+So the later levels of heat signature, once the ships got really big, a huge part of the game was like figuring out your path from the start to the objective.
+55:26
+You could have something like that where like if you don't want it to be an exploration thing, it could be you're looking at the map and you're trying to figure out like, OK, here, I want to go here, then here, then here, then here, because I can get these things and I want to like I want to blood letter build or whatever.
+55:45
+And like that's a shorter path.
+And then something something like there's things on the map you could have that this is pretty linear.
+Like it's basically a line with one or two branches off the side for like 1 room.
+So the only choices are do you do all of the all of the the lockdowns or not?
+56:07
+Which honestly?
+Just like I didn't know how to pronounce the character's name, I didn't know that like those lockdowns were optional.
+I thought you had to do all three every time.
+Yeah, it's it's neat and I admire that they did that, but I don't know if it was, if it was worth the effort.
+56:25
+I hope it didn't.
+Like it's one of the fine.
+Shirts you admire, though.
+That's the the thing here, what I mean, I feel like if you're going to say you admire everything, I need to know what's OK We're we're doing.
+Enough heavy lifting here for Andrew's sake, yeah?
+Eight save files?
+Ridiculous.
+Length of the game?
+56:40
+Ridiculous.
+The fact that like it reuses the bosses is kind of annoying.
+Like there's at a certain point it's like instead of making a new bespoke boss it's just like now it's 2 bosses at the same time.
+It's like, oh man, at times the third boss feels like first two bosses.
+Right.
+Yeah, yeah, it feels.
+56:55
+Like they're, they're kind of stretching it out.
+And again, I I, I understand that it seems like it was, you know, due to some design hell trouble, but what is, I mean, pretty?
+Unforgivable solo dev.
+So what have we?
+I mean only something to get to a mere. 50 developers, which I'm inclined to think that well, you know, if you average out like how long they were all employed, it's probably less.
+57:18
+But anyway, there's a big.
+Problem there's there's I'm I'm I'm glad.
+You you've brought this up Will but yeah, I definitely as the as the one person who seems to like this game the most the person who likes the game most on this on this podcast.
+I I definitely have some some pretty significant gripes, but the the biggest one that is tough to it's tough to excuse is the fact that when I was doing the final boss battle.
+57:46
+Now, disclaimer, there could be some post post post game super duper boss battle that I don't know about.
+But when I was doing the the core storyline final boss battle, I did not know I was in the final boss battle.
+And when I like quote UN quote beat the game like that's that's the one of the worst feelings you can have in the game.
+58:04
+All right, so spoiler.
+Spoiler alert, spoilers if you're listening.
+Wait, is not is the boss?
+Is the last boss not just the queen?
+It's Zacharias.
+From SO, check it out.
+So you fight the queen, you defeat the queen, and then you do a 6th and like final run or whatever or, or, or, or you do it.
+58:22
+Yeah, you do a sixth run, I think.
+And you basically just fight her again.
+It's it's more or less the same fight with like a few different moves that are different.
+But I thought I thought, OK, cool, I'm going to like fight her.
+You do.
+So you do the same fight that is, is is a little bit different in that there are more phases, but the phases kind of look the same.
+58:42
+And like she has a few extra attacks.
+I thought for sure I was going to then go into another arena with, you know, her Uber form of Greece.
+So.
+Indeed, the rule of fighting.
+Her once fine fighting.
+Her three times also fine.
+Twain.
+58:58
+Twain times Twain.
+Times is simply not not how we do things here.
+So that was unfortunate.
+I have not gotten another win since then, so I I can't say for sure that there's not.
+59:15
+Wait, so what's the story?
+Do you?
+But I mean like I got.
+The I did get the credit crawl after that.
+Do you ever get the story is pretty simple.
+It's like, hey, you beat the Queen and like, like, why?
+Why are you rebelling?
+She reigns.
+After that right she's.
+Trying to brainwash the.
+Masses all right, cool, cool, cool.
+But like, what is she trying to brainwash them to?
+59:31
+Yeah, there it is.
+Not elaborated on.
+She's trying to brainwash.
+Them all into being like kind and compassionate people.
+It's never, it's never explicitly stated what she's trying to do.
+Clef is.
+Is labeled the antagonist yo not.
+The Protagonia.
+59:47
+Are the we the?
+Baddies type situation.
+So yeah, we I.
+Think we are the baddies.
+I think she's an anarcho.
+Capitalist trying to overthrow the Social Democratic government.
+Wow.
+And, and we salute her for it.
+I refuse.
+Queenie, that's such a beautiful, such a glorious main character could be evil in any way.
+1:00:06
+I shan't hear of it.
+Yeah.
+So again, I I assume that there was some grand storyline that they didn't have time to implement because it, it is pretty, pretty basic.
+And I mean, you know, the gameplay for $10.00 for my money, for 10 bucks, the gameplay is like good enough for the storyline to be like, hey, this is like, you know, the service, it's it's serviceable.
+1:00:27
+It's fine.
+It's it's very, you know, basic, but it's like it's like good enough.
+Unfortunately, yeah, this game was never going to compete in terms of like story and characters compete against the paydies.
+Can we all talk about the the very biggest gripe here?
+1:00:45
+This is my last actually.
+We've checked out everything on my list.
+I'm actually very proud of you all.
+You all have identified every gripe I have except for this one which is that lock bell pets is like 999 times worse than cerebrus in Hades.
+1:01:02
+I mean, it's just like, oh, your good job, little little lock.
+Thing it's just like what?
+The fuck are you?
+I don't give a shit.
+It should be it.
+Should be a dog with a robot leg, obviously.
+So yeah.
+Back at the base, which remains pretty unchanged throughout the game, there's not there's not really any development of the of the base that you visit in between runs.
+1:01:22
+There's a little pet which is a tiny bell instead of an enemy bell.
+It's a tiny bell that is friendly and you can pet the bell.
+I thought perhaps the dialogue or the interaction would like change over the course of the game.
+It doesn't 2.
+1:01:39
+But real quick, I do I.
+Do want to mention that the, the bosses or the, the, the enemy characters, the villains that you talk to their, their dialogue does evolve over the course of the game, which I appreciate.
+And by the end of the game, the spear sister that everyone's been roasting the the voice acting work up.
+1:01:57
+She like comes around and realizes like, Oh no, I was blinded.
+You're right, Clef.
+You know, I I can't believe, you know, I I've been, you know, serving this horrible queen, blah, blah, blah.
+Oh no, I was.
+Like you're right, Clef I I.
+Think you're mistaking the this this character is a stoic soldier doing their duty.
+1:02:18
+And I think the performance is fantastic.
+I'm I'm standing it up.
+I was trying to.
+Find out more information about the studio and I've reading this Reddit thread and that someone someone roasts it in the most appropriate way, which is this is we don't need Hades.
+1:02:35
+We have Hades at home.
+Rude.
+We did.
+You did miss one gripe will in the When you defeat a lockdown and you get the choice of three different upgrades, there is no way to look at the upgrades that you currently have.
+1:02:55
+So if you're like wait, do I have a bleed build going?
+I can't remember if I do I have one or two.
+Is it worth investing in this more?
+You're like wish I could figure that out.
+Can't you can click select or whatever in the the normal screen to see what you what your build is but not during the upgrade select I I feel like.
+1:03:16
+I would have noticed this if I played for more than like a couple hours or, or maybe maybe even just an hour because I just, I the repetition just like bored me immediately.
+And so.
+But yeah, yeah, that, that does seem like a really negative attribute here.
+Well, you played it.
+Longer than 25% of the people that have played it, at the very least.
+1:03:34
+There you go.
+Yeah.
+I mean I feel like the Hades at home thing hits especially hard because like Hades 2 is just like almost the exact same like theme is this but just like you know, the Super giant level of like female lead cast.
+1:03:53
+Wait, but is it a muscle?
+Mommy let me see, she's not a muscle.
+Mommy, No, there are, There are.
+There are some muscle mommies in Haiti's 2 camp for sure.
+Sure.
+Sure, but main character isn't, no?
+She's a magic.
+Mommy, Yeah.
+OK, so.
+1:04:09
+Again.
+Let's let's I feel like we've.
+Overused this her mommy no I.
+Think she's more of a muscle mommy light.
+Yeah, there you go.
+But I also think that, like, for how much we've been roasting the voice acting in this game, I think there is one game that's like, it's very highly regarded.
+1:04:27
+And I like, I was playing through and I'm like, OK, why?
+Why are people liking this, this game so much more?
+Like, why is this game so much more popular?
+It's a game called Death Must Die, and it's a, it's like a, it's a survivor like, it's very much in the vein of like Halls of Torment.
+1:04:44
+Very, very Diablo looking graphics and you have like your very Hades style, like gods that come in off of the side of the screen say like, hey, I'm the God, I'm the goddess of buyer and I'm.
+So hot like I think.
+Like the voice acting in Death Must Die is much worse than this game because like, at the very least, I feel like the the like the main character is like doing it is like a fine job.
+1:05:08
+It's very it's very like it's not very inspired, but it's OK.
+And like the one person that I think got the assignment was the queen of keys in this game, because the the voice actor for that character is is very mustache twirly is chewing the scenery.
+1:05:24
+Oh, like you, you blow up some of the enemies and then like they'll come over like the very Hades style system of just like, you know, voice overing.
+Oh no.
+My.
+Pretties and it it just.
+Like I'm just like, yeah, I I want more of that kind of like laughable, over the top nonsense.
+1:05:41
+And it's it's a shame that like only I feel like only one of the voice actors like either got what the intent was or just maybe like accidentally put on like a performance.
+Whereas all of the rest of the enemy, I don't know, like people that you interact with and Rain Breaker are very much just kind of reading off a script, like not vibing with the other person.
+1:06:05
+And yeah, so death must die.
+I think much worse.
+Apparently.
+Like I had read some comments online that the Andrew I don't know if you've played the game Sworn SWORNI think it's I'm afraid I have not.
+I I think it's a.
+1:06:20
+Roguey first person shooter, I don't know, like it's it's another game with like voice acting.
+People said the voice acting that one was was pretty off putting, but the action was quite good.
+And then of course I posted in our discord the intro to a indescribable like PlayStation one aesthetic game called dungeons of blood and dream, which the intro to that I'm debating if I should like like inject that post in here.
+1:06:51
+But like the intro to that is like some N64 looking Andros monkey that it's just like like it's it's obviously bad, but it's entertainingly bad.
+And they're just like blood wizard, you're evil magics must be imprisoned.
+1:07:08
+And I'm just like, Yep, all right, I'm on board for at least 20 minutes of playing this because it's like it's some kind of flavor.
+It's like it's Diablo.
+Yeah, always in blood like crush.
+Yeah, it's it's all.
+It's it's exactly exactly.
+1:07:24
+It.
+Doesn't matter that you've defeated all of my minions, because now I will crush you.
+Sure, Yeah, the this game Rain Breaker definitely is not in the so bad it's good category, which definitely, you know, is a phenomenon that exists in films, but it's it's harder to do it.
+1:07:46
+In video games.
+Yeah, for sure, MST3.
+Ki mean obviously it it highlights this this this the the what's the EU shaped curve of the like bad like greats bad and then so bad as greats.
+I mean, I don't think it's.
+Really hard to have a so bad it's great game.
+1:08:03
+I feel like even then, because usually so bad means that like the gameplay doesn't work well, like the the controls are bad and then it's frustrating.
+So yeah, it's it's You get the, you get the.
+The very, very bad.
+I have one for you.
+It's like the.
+1:08:19
+Crab.
+What is it?
+The crab battle game?
+Undersea lobster one.
+It's like a monkey.
+Madness game fight crab.
+Yeah, there there's games.
+There's games that are like aesthetically weird like Fight Crab or Goat Simulator.
+1:08:35
+I mean goat.
+Simulator sure give give.
+Oh God, now I'm spacing on it.
+Cruelty Squad A quick Google search, is that the one that's.
+Like hurts, it makes your eyes bleed, it is like.
+Actual visual, not like nauseating vomit on yeah yeah, you've.
+1:08:52
+You've told me about this one before.
+Yeah, it is not.
+It is not a roguelike, but it is like the closest that I can think of of a so bad.
+It's good because like I mean, Andrew, for your perspective, it is a first person shooter and I'm well.
+Aware of it but unfortunately it's too.
+1:09:09
+It upsets my stomach.
+But you know will might be interested because there you can set up your own organ harvesting market economy before you even.
+Said organ harvesting.
+That was the phrase that my mind conjured there.
+1:09:25
+That's incredible that you like, amazing that you know me so well.
+Organ harvesting is a thing, yeah.
+Yeah.
+So I think like, unfortunately for me, I think it feels like we're transitioning into rankings here a little bit.
+But I feel like Rainbreaker is just kind of like it's like sitting in that like bottom part of the curve of like it's, it's like, it's like it's just boring, I guess.
+1:09:50
+I don't know.
+It's it's repetitive.
+Like there's, there's good ideas here that just didn't have time to bake and it's unfortunately not as like campy or scene scenery chewing as much as as much as I would want.
+But yeah, I guess.
+Do we have any, any last or, Oh, maybe I maybe I have one last point here before we transition to rankings.
+1:10:10
+I don't know if anyone else has any other stuff.
+One last thing I wanted to call out was like, so you know, the, the average play time of this game is, is pretty short and it's like 3 or 4 hours or something.
+So I was like, well, what are what are some other rogue games that are like very short, but like of good quality because it seems like a a very like weird thing of like this specific kind of game lends itself very easily to long play times.
+1:10:35
+But like, I believe there's a game, I don't know if this is how rogue this is, but did show up on the database called cat bait.
+What has an average play time of five hours?
+Andrew, I think you've played super amazing wagon adventure before, like 3 1/2 hours.
+1:10:51
+It's a game called the great Rebellion 4 hours one that's very interesting.
+Andrew, you might also be interested, a detective noir dice rolling pizza delivery game called Betrayal at Club low.
+Just about under 4 hours of gameplay.
+And one that's come out I think relatively in recently that looks as very cute is cozy space survivors that has an average play time of like 3 hours.
+1:11:14
+These are all like very like pretty well well regarded, like interesting and like like wacky different games that I think like would definitely kind of like hit that that sweet spot that like and I'm sure that like when they were developing this game, I don't think they were developing it with the intent of like, people are only going to play this game for three hours and enjoy it.
+1:11:34
+But you know it is it is a possible thing to do with a small budget and limited time frame and and still be successful at anything.
+Definitely recommend.
+A super wagon adventure, which is a good example of a game that is like intentionally ridiculous.
+1:11:51
+It's campy and you know, it's, it's bad in a very entertaining way, an outrageous way.
+So yeah, it's unfortunately, I, I thought about picking it, but it's, it's just too short.
+There's not enough to talk about, sadly.
+A live stream in the future perhaps?
+1:12:09
+All right.
+Ranking yeah rock'n'roll well, obviously I should go first because clearly I was the most critical of this game No who's who's starting us off let's have let's.
+Have Will punt us off here, so you pulled.
+Up the Grog pod ratings.
+You're like, who rated this lowest?
+1:12:25
+Oh, Will.
+Let's pick him first.
+We can't have Andrew go first because he has the highest.
+You know what?
+Fine.
+You know what I mean, I feel.
+Like this is, this is the system we have settled upon all right.
+All right, I disagree with it wholeheartedly, but yeah, you know, this is a 5 out of 10 game.
+1:12:43
+It's does not pass the recommend threshold of 6 and I've already stated my gripes.
+I had like a 10 point list and yeah, it's just the Hades you had at home and there's not much more to say.
+1:12:59
+It's not don't, please don't play this game I guess.
+In in shocking fashion I will go next Rainbreaker for me.
+I'm giving it a 5.8 just ahead of Dungeons of Dreadmore and just behind rogue tower.
+1:13:16
+I think there is there's stuff to like here in theory that I think that like the the art design for this game is very strong, has a very good aesthetic to it.
+The music I think is great, even though the combat does get a little repetitive.
+The combat theme, I think like the combat flow itself is like reasonably fun and engaging and there's some some neat like aspects to it that are kind of unique.
+1:13:40
+I just sort of time for the studio to kind of kind of capitalize on it.
+So it's a little unfortunate that it didn't really have time to kind of come to fruition.
+And in standard Paul Hollywood fashion, it's a debate.
+I think the the bads here kind of outweigh the goods, unfortunately.
+1:14:00
+I think like again, art is the in the eye of the beholder.
+I think the voice acting in this game is is generally bad.
+Your main player character is OK, but like all of the enemy people that you interact with are just super wooden and like their delivery is not good except for the queen who I think is like the only good voice acting in the game by a wide margin.
+1:14:23
+The the lack of diversity in the games like Biome and I guess like the weapon stuff is like diverse enough, but I don't know, it just it just doesn't feel like there's enough like ways to like mix up the combat.
+So I mean the the bio diversity itself is is kind of like the the last nail in the coffin.
+1:14:45
+But yeah, I think generally, like if this studio had more time to bake on this concept, maybe they could have turned it into something that is is a little more like unique and standy Audi compared to some of the other like numerous Hades like sound on the market.
+1:15:01
+I think the punk aesthetic is is an underexplored one for this and it would be cool, but it just needs more time.
+I'll go next.
+I give it.
+A 6.6.
+I I mean, despite kind of shitting on it for most of the podcast, I do think that there was a lot it feels like a decently good game that just didn't get finished.
+1:15:24
+It feels like an early access game and but like there are parts of it that are fun, like the early game is not very fun.
+The last run I did like right before this, I had more fun than the any of the other runs.
+1:15:42
+I think the systems have a rough time when they're getting online and some of the fun is locked behind the repetitive very, very early game.
+But then it you know, you're you're you're you're fun of increasing complexity of systems is counteracted by the realization that you have one Biome and it's going to kind of stay repetitive.
+1:16:06
+So like you can have a decently good time for, I don't know, maybe like 5 to 10 hours and then say, cool, I'm finished with this game.
+If you really like Hades and you want more of the gameplay type of action and don't really care that much about the story, this might be fun for you.
+1:16:25
+And it's only 10 bucks, so it's not that that doesn't hurt, doesn't hurt the pocket that much.
+So, Andrew.
+Hey, so rain.
+Breaker I thank goodness it's not called windbreaker Thank goodness it's not called a risk of rain breaker.
+1:16:47
+This game had a lot of promise and it's it's a bit of a development tragedy, in my opinion.
+The the best marker of quality, I think that can be said from my personal experience for this game is that when I did finish the main game, I was disappointed that there wasn't more core main storyline for me to digest more, more content for me to go after.
+1:17:21
+There's like, you know, some unlocks and things and I, I will probably, you know, throw a few more runs into it to see like what's what the end game is end game if if there is such a thing.
+But yeah, the, the anytime you know, you finish a game and you immediately want to play more of it, that is a good sign.
+1:17:40
+So if you find if you listen to this podcast and you find that your game tastes are in alignment with me, then perhaps check this game out.
+As Colin said, it's only $10.
+Ring Breaker.
+1:17:56
+We hardly knew ye and unfortunately we won't get to see much more of you since the development has been discontinued.
+Development and support is more or less gone.
+I look forward to, you know, whatever, playing the games from the devs who used to who worked on this game and I, I hope that they all land in a good place.
+1:18:24
+And it's pretty lousy and especially ironic that a, a game with this theme was being made and that the developers met a fate which is, you know, thematically similar.
+1:18:40
+So it's, it's, it's, it's too bad, it's too bad.
+I have awarded this game.
+What did I give it again?
+My rankings are all screwed up.
+It has scored 6.85 points on my scale, which puts it at #21 right behind it, Dead Cells and right ahead of Rift Wizard, my nude #21 Rain Breaker.
+1:19:06
+See you in the Omega Bowl.
+Oh, no, wait.
+We probably won't.
+Well, yeah, because you.
+Know if if Hades 2 comes out of early access later this year, I'm sure that one will will jump up to our priority queue.
+But yeah, I think we we kind of touched on some similar games earlier.
+1:19:25
+I mean, obviously Hades we've talked probably more about Hades this episode.
+We have rain Breaker, but some other Hades likes of note that are of of pretty decently good quality.
+Some like involving very interesting elements of Co-op Raven's Watch I think the people make note of as like oh this is a good game to play Co-op Curse of the dead Gods.
+1:19:49
+I've heard it's supposed to be another halfway decent Hades alike.
+We talked a little bit about warm snow, the Chinese mythology Hades like there's I'm going to put redacted in here as well as a Hades like sort of on the opposite end of the spectrum of the of the apresso meter, but but reasonably fun and interesting aesthetic.
+1:20:12
+There's Ragnar, which is like, hey, what if Hades, but instead of Greek mythology was Norwegian mythology.
+We talked about Echoes of Mistralia a little bit ago, and then I think finally rogue loops.
+Is one that people have been making some some steam about.
+1:20:29
+But yeah, we'll have to have to keep our our finger in the pulse of those.
+It seems interesting that we haven't like played more Hades likes considering how like Hades is what our new is our number two overall game of the pod.
+1:20:45
+But maybe, maybe in due time, we'll have to.
+I guess we'll have to see if Hades too comes up to snuff.
+But that's going to wind down our episode here on Rain Breaker.
+I kept wanting to think like the mood Raker the whole time, but yeah, right, Right.
+1:21:06
+In our e-mail, grogpodzone@gmail.com, our Mastodon Grogpod update game dev dot place screenshots and all sorts of wacky stuff there Grogpod dot zone is where we have all the rankings and the other stuff.
+It's your one stop shop, that kind of deal.
+1:21:23
+Our next episode coming up here is our listener request week episode, which this one has been requested for a long time and often.
+So it's only been a matter of time before we eventually slotted this one into the schedule.
+We are talking the the solo dev effort, a game that we covered for our last year's Summer Grog Pod summer music fest.
+1:21:47
+We are talking one path of Accra, the traditional roguelike that I I think solves a lot of potential issues that we've had with traditional roguelikes in the past with the yeah, I think some some neat, interesting twists and and will for your benefit, there is an ape class that you can pick to thank God to pummel all of your enemies.
+1:22:12
+So if you, if there was ever a game that you needed to pick an ape, a a blood blood mage ape to pummel your enemies with, have I got the game in store for you?
+But that's gonna yeah, I think that's gonna wind down our our show here as everyone as I I can just look into the zoom window here and I can see everyone Googling.
+1:22:33
+I am.
+And right now, like, OK, yeah.
+And really pretty.
+Pretty 13 but.
+Yeah.
+So that's going to.
+End our Rain Breaker episode and to play us out, here are some punk tunes to jam out and overthrow and to to to fight the oligarchy with from Jerv.
+1:23:02
+The iron skies we arise.
+Whispers grow into desperate cries with fire in our eyes, restoring the gates in the November rays.
+1:23:53
+I'll take your dignity, RIP across your bride with the grin on my lips.
+I'm on backslide on purpose.
+Before I take every shot on the battleground, I'll kill all again.
+Watch it out.
+1:24:30
+To hunt you down under the moonlight on shadows.
+1:24:45
+Let's realize what you created.
+I don't change on your light and glowing brick by brick in your sorry world.
+1:25:01
+I'll make the cloud tip.
+I'm uploading your sight in the spark of the night.
