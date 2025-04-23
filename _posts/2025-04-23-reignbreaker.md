@@ -24,7 +24,7 @@ Can you imagine a dystopian world where overlords are oppressing you through com
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cube-chaos/id1650474911?i=1000702813860) | [Spotify](https://open.spotify.com/episode/4QxJz3FQDURHSPurpPFhtl) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/cube_chaos.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/reignbreaker/id1650474911?i=1000704554991) | [Spotify](https://open.spotify.com/episode/2Gq0YlWKzf0cF2GlQdAK0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/reignbreaker.txt)
 
 ---
 * 1:10 - game stats
