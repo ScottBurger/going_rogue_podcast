@@ -2,7 +2,7 @@
 layout: post
 title: "Reignbreaker"
 date: 2025-04-23
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/reignbreaker.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/reignbreaker.jpg
 thumbnail-img: /assets/img/reignbreaker.jpg
 share-img: /assets/img/reignbreaker.jpg
-duration: "1:34:52"
-length: 78076920  
+duration: "1:25:36"
+length: 72187056  
 tags: ["2025", top down shooter]
 ---
 
@@ -20,19 +20,18 @@ Can you imagine a dystopian world where overlords are opressing you through comm
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/reignbreaker.mp3" type="audio/mpeg">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/cube-chaos/id1650474911?i=1000702813860) | [Spotify](https://open.spotify.com/episode/4QxJz3FQDURHSPurpPFhtl) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/cube_chaos.txt)
 
 ---
-* 1:23 - game stats
-* 2:14 - one sentence description
-* 23:20 - our story begins... actually what IS this game?
-* 1:11:03 - community correspondence
-* 1:15:16 - rankings and final thoughts
-* 1:25:32 - similar games
+* 1:10 - game stats
+* 3:25 - one sentence description
+* 29:28 - our story begins
+* 1:10:55 - rankings and final thoughts
+* 1:17:54 - similar games
 
 ---
 
