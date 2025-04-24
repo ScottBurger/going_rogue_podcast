@@ -32,7 +32,7 @@ thumbnail-img: /assets/img/providence.jpeg
 share-img: /assets/img/providence.jpeg
 duration: "1:24:50"
 length: 67818239
-tags: ["2017", top down shooter, interview]
+tags: ["2017", top down action, interview]
 ---
 
 Ghostly squeal! This week we're descending the floors of an ancient facility filled with ghosts, mages, machines, talking cats, and bullets! So, so many bullets. What else would you expect from the bullet hell game that is Star of Providence? A charming, NES-inspired modern throwback, Star of Providence puts us to the test with harrowing boss fights, secret endings, and more guns than you can shake a sword that shoots bullets at! 

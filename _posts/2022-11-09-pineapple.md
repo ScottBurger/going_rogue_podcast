@@ -25,7 +25,7 @@ thumbnail-img: /assets/img/207430_library_hero.jpg
 share-img: /assets/img/207430_library_hero.jpg
 duration: "1:09:18"
 length: 134588287
-tags: ["2012", traditional roguelike, platformer, top down shooter, solo dev, interview ]
+tags: ["2012", traditional roguelike, platformer, top down action, solo dev, interview ]
 ---
 
 
