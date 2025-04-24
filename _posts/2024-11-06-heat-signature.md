@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/heat_signature.jpg
 share-img: /assets/img/heat_signature.jpg
 duration: "1:31:50"
 length: 76580904 
-tags: ["2017", top-down shooter]
+tags: ["2017", top down action]
 ---
 
 Glitch or Treat! On the final day of Space Halloween we dive deep into an acidy nebula of warring factions in dire need of some liberation. The Foundry, The Glitchers, Offworld Security, and Sovereign are vying for control, but they didn't account for one thing: you. Enter Heat Signature: the tense, tactical, real-time-with-pause puzzle shooter leveraging the use of teleporters, time-slowing devices, bullet-reflecting shields, and rusty pipe wrenches. Join us as we make embark on Mistake-level missions, crash some space ships (for liberation purposes that is) and stand in awe of the real legends exacting their revenge with only 10 minutes to live!
