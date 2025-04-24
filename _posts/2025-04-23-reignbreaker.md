@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/reignbreaker.jpg
 share-img: /assets/img/reignbreaker.jpg
 duration: "1:25:36"
 length: 72187056  
-tags: ["2025", top down shooter]
+tags: ["2025", top down action]
 ---
 
 Can you imagine a dystopian world where overlords are oppressing you through communication networks? Where your friends skitter in the shadows to sell you trinkets and spikes erupt through the floor to maim you? We’re talking Reignbreaker this week, not your average trip downtown in 2025. The recently released Hades-inspired action game puts you in control of muscle mommy Clef as she seeks to break the reign of the Queen of Keys. An interesting blend of javelin throwing, fist punching mayhem, join us as we each try as strained of a Cockney accent we can muster and free our dear rat friends.
