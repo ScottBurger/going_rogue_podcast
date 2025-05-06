@@ -35,13 +35,13 @@ O, glorious roguelikes! Listener request week returns with a recent hit in the t
 
 ---
 
-Next episode: xxxxxxxxxxx
+Next episode: xxxxxxxxxxxxxxx
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Theo Croker - Imperishable Star
 
 Outro music: Path of Achra OST
 
