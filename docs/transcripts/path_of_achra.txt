@@ -1,0 +1,1274 @@
+0:18
+The.
+Greetings O hallowed pilgrims and welcome to the Grog Pod Roguelike podcast where each episode we walk the path of roguelike games, pray before Mardock or various snake gods and see if its final rankings adds it to the hallowed halls of heroes at the end of the season.
+0:40
+I am your podcast Co host of Many colors, Scott Berger, and with me are my summoned Minion Co hosts Fresh from the Storm temples.
+It is, I call him, a sightless mass of writhing matter shaped into a body by willpower alone, Worshipper of the worm.
+0:58
+Well, howdy Pilgrim, it's me, Andrew Harshman, here to struggle and and and rumble and ride our way across this dusty trail.
+Well this episode we are talking Path of Acura released early access May 1st 2023 and one point O May 7th 2024.
+1:21
+This I'm pretty sure is a steam exclusive PC exclusive and this is a solo dev effort by 1 Ulfsire who I believe comes from the state of Maine question mark.
+Your average player of path of Accra has about 35 hours of gameplay in it and the path of Accra rolls in on our teleports in on to our rankings here at the number 385 most popular roguelike game on steam with 2470 reviews.
+1:59
+Normally this is where I would send it to the peanut gallery here for for our one sentence description.
+But because I think for the special occasion of a listener request week episode, what I farmed it out to the community like all good podcast hosts ought to do so.
+2:20
+So I asked the path of Accra community, how they would describe what path of Accra in one sentence or so.
+And these were these were some of the the descriptions that we we got first one from Y says it's a traditional rogue like dungeon crawl with a focus on character builds over piloting.
+2:43
+We got one from Serif with A1 says, oh God, everything is exploding.
+We have one from Disc Elemental who says that Path of Acura is building a Conan villain shaped rude Rube Goldberg machine.
+3:01
+We got one from Hideo Kojima who I'm surprised is in the pad of Acra.
+Discord says it's Egyptian doodles slash cave paintings but playable.
+I like this one here from from Scoops who says like a roguelike but you start after having defeated the final boss, immediately kicked through the very walls of existence and hunt down God in the end times only to slay it, slash him, slash her with the reality warping powers of violence, fire, lightning, poison, undead, ice, raw magic, your mind, plant life and blood.
+3:36
+And then I guess maybe finally Gin here describes Path of Accra as quote.
+You recite the rigid violence.
+Excellent, I do have a good recitation.
+Yeah, But yeah, this this is this is a listener request week episode.
+3:56
+And this is one that has been kind of shamefully sitting in our backlog for a long time.
+This is one that has actually gotten, I think like our most requested episode by a wide margin.
+But it was it was hard to like find a slot to fit it in where it wasn't just immediately after another traditional Rd. like so if you're listening to this and you're like, oh, yes, I would love to jump in on this request train Gargpod dot zone.
+4:22
+We have a contact us page.
+Hit that.
+There's a, a button to submit your request for game for us to to cover.
+And it'll, it'll, it'll like, I look at that list like every week.
+So and people are still submitting stuff to it.
+And yeah, and if if it fits in the schedule thematically and in an appropriate way like today, we will walk the path to to talk about it.
+4:47
+So Scott, how do you play this game?
+What happened in this game?
+Let's let's not do the thing that we do every time, which is just start talking about our extremely nitpicks and like explain what the game is before we just.
+Well, you know, you, you start the game and, you know, let let me block off this 20 minute segment here to talk about holding down the tab button.
+5:08
+And yeah, I guess, yeah.
+What, what, what, what do you do in this game?
+You.
+It's a turn based, grid based, procedurally generated.
+I, I just love the the Conan Rube Goldberg machine description 'cause I, I feel like that just fits so perfectly.
+5:26
+But you.
+Was it Conan villain?
+Because I think that was, that's what I heard you say.
+And I feel like that does describe it better.
+You're definitely a villain.
+You're the you're the villain.
+You're not Conan.
+But you know, you're, you're you're squashing like poisonous snakes and evil jeweled floating heads and such.
+5:47
+And really, like, you could only be the hero if you are conquering the beasts of this this bizarre land.
+But yeah, I think like this game was one that I was following for a while because it is, it is a a coffee break rogue like game in that some of the previous roguelike games that we've played and some that kind of like dominate the landscape are, are quite long in the tooth gameplay wise and age wise.
+6:15
+But this was something new that came out.
+And I, you know, if you are studied in the verses of Humbaba, you too can, can beat a run in this in maybe like 30 minutes or so.
+But it is, it's a it's a broken build simulator.
+It's like our our previous episode riff Wizard.
+6:31
+You are picking a a culture, a class and a religion and you are setting off onto the path the to walk the path to the obelisk as the the sea rises behind you and you you go around in just a bludgeoned monsters for 30 minutes to the oh importantly, to the hallowed guttural MIDI throat chanting music that it that I I quite enjoy.
+7:01
+But yeah, I think.
+But you know, way before we even get to rankings or anything, I kind of like this game a lot.
+Cool, cool, cool.
+But yeah, it's a it's a sword and sorcery grid based game where that's as our wise wise contributors that you read the read the messages from the discord.
+7:26
+As our wise, wise contributors mentioned, it is there's a big focus on your build and right the the carriage creation screen is quite nice to look at.
+There's three important aspects that you pick out the gate and you are just constantly levelling up and learning skills and cranking attribute points and going around slaying all sorts of pretty unique fantasy monsters.
+7:57
+And it's, yeah, this game is is, you know, primarily interested in in the wanton destruction, the slaughter.
+And the character creation, all I can say is that if you can tell the monster is that you're slaughtering, then you're not playing the game right your your screen.
+8:16
+You should.
+You should.
+Be able to just wipe them in one turn to kill them before you can even see what.
+They are.
+This is true.
+This is true.
+This game does not suffer from the let me print out a reference sheet of the controls and memorize, you know, meditate on these controls.
+8:38
+No, no, no, no.
+It's it's very streamlined and that's appreciated.
+And yeah, you can tab key to quickly go to the next action, which is something that we saw in Tome if I'm not mistaken also, but.
+This takes it to a a much larger.
+8:53
+Yeah, this is true.
+Almost to like a a borderline auto battler level.
+Yeah, I, I think basically you could play this game and have it just be tab and space and then I guess you'd have to click the prayers.
+So those are the I mean, so in the game you have like a bunch of different spells, spells, powers, powers that you learn and they don't you don't cast them individually.
+9:20
+They're they're all passive slash.
+They proc on certain events.
+So some of the events are like they proc on attack on you standing still for a turn or each.
+Each religion God that you worship has three prayers that you can do.
+9:39
+There's a lot of things proc on that as well.
+So yeah, it's kind of a fun little programming puzzle where you try to find things that synergize because every power, every ability, every, you know, summons or cast of a magical fire bolts or flame infusion entered on yourself is activated by by one of these these triggers, one of these conditions.
+10:12
+And some people really like that.
+I I'm not sure if I'm one of those people.
+Yeah, I think like in in comparison, I think Rift Wizard is a very good comparison here because from what I remember from US playing that, it felt like there was a lot of, there's a lot a lot more like mechanics going on where like you summon like a a rock golem and upon rock golem summoning it like there is just like lots of like different, I guess specificity of of things.
+10:50
+What am I trying to say?
+Like in in comparison to this game?
+There were, yeah, there was a gazillion spells that each of them had sub spells, but you would individually cast all those the spells.
+So you'd be, you know, you would routinely end up being like, I have to choose from these one to 10 spells that I have and I have to click on a very specific spot.
+11:12
+And I feel like a rift wizard was tactics.
+This game is strategy.
+We'll put absolutely, absolutely.
+They may look kind of similar, but that that difference between strategy and tactics is pretty important and I think makes a much different game.
+11:30
+And I think where.
+Path of Accra really shines, is like the game has like an almost baffling amount of like text that it throws at you.
+But I feel like the gameplay systems are streamlined enough that it's just like, hey, here's like an encyclopedia's worth of stuff that's going on.
+11:47
+But yeah, you can just hit the tab button and everything will be fine as long as you just kind of like match color with color of things there are there?
+There's a nice little helpful help menu in this game that that tells you the goal is to get to the exit of each level.
+12:04
+You may kill enemies by attacking them, but it's not necessary.
+You gain glory for killing enemies and for entering new levels.
+And on the last level of every area, you'll find one or more items, which can greatly increase your capabilities.
+We kind of talked a little bit about the spells.
+12:20
+We'll get the items here in a little bit.
+But I, I do want to talk about on this, this help screen here, they, they talk a little bit about the, the prayers, but there's the, the kind of like action things that happen where, and this isn't an exhaustive list, but this is kind of like the main, the main bullet points of when, when you attack things, when you hit things, when you deal damage, when you enter a new level, when you prayer or when you shrug off or like prevent a hit with your armor.
+12:51
+Block or Yeah.
+Yeah, Dodge.
+And those are those are like the trigger, the trigger types that you chain together in your your evil Conan villain Rube Goldberg simulator of when you like on attack, then you'll hit and you'll fire damage and on dealing fire damage, you will teleport and on teleporting you will summon 10 snakes and things like that.
+13:16
+And I feel like the the logic chain for stringing those together, just I don't know what it is about like about this game that feels like much more straightforward and like easy to Lego piece those together versus like other like we in our recent Dysomancer episode that we played, it felt like it was trying to get there but didn't quite make that connection.
+13:41
+And Rift Wizard was almost like like too many of those trigger types.
+Does that sound right?
+I think Rift Wizard had a lot of sub spells that were hard to it.
+It was hard to learn what they were going to do beforehand or like figure out how it's going to build into your or to synergize into your build versus feel like the the sequence of events.
+14:06
+I mean, it's not perfect.
+There's definitely some some issues I have with figuring out what is going to happen on a turn.
+But like you can see like this on hit does this thing which deals ice damage and then I had the thing on ice damage that deals freeze and then on freeze it does this.
+14:22
+And so you can be like working out this web of what is going like how your things are going to synergize.
+That appeals greatly to me.
+But I mean, like, I, I don't know, I, I put like 25 hours into this and probably 5 hours of that was just like staring at the, the pick your, pick your person and like pick your powers and trying to figure out like how I was going to build a build.
+14:45
+Yeah, yeah.
+I mean, cause like in Rift Wizard, it's like you you select like like Thunderbolt, but like, and that's like, oh, you cast a Thunderbolt, but then there's like, you know, 5 sub spells to that and you're kind of like clicking down like this complexity tree.
+15:01
+Where is this?
+It's like you just you pick the damn spell and then you just like it.
+It just does the stuff like I'm reading off the the storm calling spell here from path of accur.
+It says on attack summer summon a number of ball lightnings at random tiles amount summoned equals 2 times skill level of storm calling, which I think like that, that kind of feels like just the right amount of text of like, OK, this is the thing.
+15:26
+This is what it does.
+Here's how it scales.
+Here's like the the Lego pieces for how it hooks into other things.
+So now like, OK, if I want to summon like 500 ball lightnings, I just have to do a whole bunch of attacks, All right, What are the.
+Lot of attacks and also maybe level up that spell yeah, level up.
+15:44
+Let's go figure out like all right, multiple attacks and multiple you got to get to multiply them at the same yeah.
+I feel like two other games that kind of make me think of this in the same space is the the wand construction in Noida go to however you say it and then cube chaos trying to figure out like what does this bill going to do?
+16:09
+Like going 3 levels deep into various things like how is OK, I got this and then it's going to make a thing and then it's going to make a thing but.
+Yeah, I by tying everything to like a specific trigger, I feel like it makes it, you know, pretty digestible, but I kind of wish they'd gone maybe an extra step to make it even more obvious for FPS meathead such as myself.
+16:34
+Like I I was, I was hoping there would be some kind of, I don't know, little subtle highlight like, hey, you're you're looking at the spell and the triggers present in the spell are also present in these ones.
+Could I interest you, Andrew, in this ability?
+Is there such a thing?
+16:50
+Andrew I think this may be another classic case of of podcasters missing a a key illuminating structural pillar of the game.
+That I, I know.
+17:05
+I know that some of the keywords are different colors.
+Yep, Yep.
+And I I did look for that.
+And I, I, I will give you credit in that like this, this feature is maybe a little hard to find, a little, little easy to miss.
+But in the upper right there is a search.
+17:21
+Bar Oh, I did sure I I did notice that the last time I booted it up.
+Is that is that the key?
+Yeah, 'cause.
+Like.
+Well, yeah, I mean like if if you are trying to do something that like triggers like on hit, like I want to like, Oh my God, there's so many spells.
+17:40
+Like I have this really cool item that does stuff on hit.
+I want to like scale stuff off of that.
+The search bar like this is like an like a baseline like this just like makes the game A7 out of 10 just for this for me.
+I think of like just the like the perfect solution for what I was wanting from Riff Wizard of like, OK, there's a lot of stuff going on.
+18:02
+Where you don't have to make your own excel sheet.
+Yeah, where are the things that that link up to each other And this control F like this search bar button is, is genius for this because like now I'm able to say, ah, yes, I will search my my bag, my inventory or my spell list for stuff that's unhidden.
+18:24
+Ah, yes, the transil chakram does on hit effects or the thunderblade does on hit effects.
+What can I do to like like?
+It will dim everything else and highlight those to kind of point you in the right direction for that.
+Well, handy.
+What?
+What a deal.
+Well, quickly, I want to deflect.
+18:41
+We always give a particular game feature short shrift on this podcast, and that is of course, the music.
+And so I want to make sure we talk about the music nice and early.
+I like the music.
+You mean the song?
+The song, it's a long song though, and it's like varied and it's not like so hyper specific that like it annoys you.
+19:02
+Of course there's no like lyrics.
+It doesn't take like a big chance.
+And actually I'm going to do an impersonation of it right now.
+It goes something like this.
+Burp, burp, burp.
+Come on, Scott, you get the idea.
+19:27
+And it's good.
+It's got this.
+It does set a tone, and I appreciate that.
+It's got this.
+Yeah, it's, you know, this.
+This.
+Interesting mini stage, Yeah.
+I mean, there's like a, a theming of this game that is very cool.
+19:45
+Like it's, it's like Bronze Age.
+It is, it is Babylonian level of like it, it feel like you're in some like dawn of time, like the written word has just been invented and there's still like the gods of Marduk and whatnot.
+20:08
+And I feel like the the the song does a really good job of like conveying that theme.
+I do wish that there was like one or two more songs.
+The fact that there's not a different song when you get to the weird like second set of levels where you're in like space or something.
+20:26
+Like give me like the space Bronze Age.
+And we need space.
+We do need that.
+I was trying to combine those two.
+And it's just like, oh, if you combine space and Bronze Age, you just get space age, Yeah.
+I like.
+I want 3 songs.
+I want 3 songs.
+For the soundtrack, technically there are 10 songs.
+20:43
+Yeah, they're not.
+But yeah, I mean, like 100% agree.
+I think that like the the music to this game, I think is great for what little there is.
+I mean, there's maybe like, let's let's say 10 minutes of soundtrack, but a lot of this a lot of like the tracks do kind of sound pretty similar.
+21:03
+I think like a good, a good corollary to this is the Bilatro soundtrack, which is also like 10 minutes long, but has like variations on its theme depending on like if you go into the shop or, you know, if you go into like a, you know, the the boss blind or, or things like that.
+21:23
+Like the the theme like changes.
+It's like, you know, it's like the music changes color almost.
+Whereas this like the the music is just like a dark blood red the whole time.
+And I'm super on board for it, don't get me wrong.
+Yeah, I love.
+I love how like ancient and foreboding it is.
+21:40
+It reminds me a lot of in Super Metroid when you get to like the Norfair levels and there's.
+Like this Drums?
+In the deep and like this like like MIDI MIDI like chanting and just like like.
+I'm ready for a blood sacrifice, for sure.
+21:57
+Yeah, it.
+No, I think it's a, the music is excellent, excellent, excellent as an intro, like a first impression into the game.
+And I think it does a really good job of like setting the tone for like the early stuff when you're just like getting your build online.
+22:16
+And I, I, I don't want to, to, to bash the music too much because I do really like it.
+I just wish that there was a little bit more variation in it, especially in the later levels where it does feel like maybe you're not in the Bronze Age anymore.
+You're in like the magic Astro void or something.
+22:31
+Yeah.
+Because I, I, yeah, 100% on that.
+Because like it feels like when you get to elite fights or like boss fights, that it just kind of feels like, oh, it's just another stage.
+But whereas bilatro would be like, OK, the theme, the like the the theme of the music has like tonally shifted.
+22:50
+So you're like, oh, something, something different is happening now.
+I feel like that could be played to pretty good effect here while still being like, you know, thematically appropriate and all that.
+But yeah, 100% agree.
+You know, this would a lot of times we say less is more and I think in this case more is more or just like the the the atmosphere of of the soundtrack.
+23:13
+For sure is.
+This is this game still in early access?
+Or is it it, it came out of early access last year, OK indeed.
+But it is still pretty early and it's like life cycle and still actively being developed.
+Sequel is underway.
+23:28
+Yeah, I think, I think from what I've been spying on various work like Discords, is that the solo developer Olfsire has which.
+Is real quick about Olfsire Shocking that this man is not from Scandinavia.
+23:45
+That's probably a screen name, but still.
+I was just like, Oh yeah, that like it's you said olfsire.
+I had this picture in my mind of, you know, a hermit game developer, a wise hermit out on a snowy Cliff in the, you know, somewhere in the the Norwegian tundra working tirelessly on this game and thematic the theme of the game matched perfectly.
+24:07
+And then it's like he's from Maine.
+I mean, Maine is pretty much the Scandinavian.
+It's close.
+Well, I guess maybe Alaska or or Minnesota, but Maine's pretty close.
+But so the solo dev is working on the sequel.
+Yeah, I think the that path of Acura here is more or less feature complete and that I don't think we'll be getting any kind of new content for it, which I think is fine.
+24:31
+I think like this game is is probably as feature complete as it needs to be because I mean, you can always put the the soundtrack on mute and fire up the Conan the barbarian soundtrack and play that in the background.
+But yeah, lands of Accra, the sequel, I think it's supposed to be maybe coming into early access this year, 2025 SA potential.
+24:52
+Stay tuned.
+Maybe, maybe sometime later this summer, and I don't.
+Really want I don't I don't really want there to be more.
+Well, I could, I could have more in the way of features, but I feel like some quality of life things would be the thing that I would wish for most for this game.
+25:11
+But those might be as difficult to do as features, which I mean, solo dev, single person roguelike game.
+I feel like often times who knows what's going on behind this, the the scenes in the game.
+25:26
+It might be easier to just say like, wow, that was really interesting.
+I got a lot of good ideas.
+I'm going to start from scratch and I'll be able to build a better game the second time rather than try and keep iterating on this engine that I built.
+And from what I from what I know from listening to to interviews with him that he originally wanted.
+25:45
+So solo dev Olfsire got at his start by making Warcraft 3 mod maps and.
+Excellent, excellent provenance.
+And and yeah, I think there's like there's a a rogue like, let's see if I can find the name of it here in the five seconds from when I took the notes world of.
+26:08
+Warcraft 3, of course.
+We got Dota out of that.
+Yeah.
+Trying to remember getting so mad being at land parties and and I couldn't get people to play yet another match of D Dust 2 because they were too busy playing this World of This Warcraft mod.
+26:28
+Give me a break.
+Campaign builder baloney.
+I believe it is just called old sires roguelike that that you can download for for Warcraft 3, but inspired by Dungeon Cross Stone Soup doesn't the yeah, that that makes perfect sense.
+26:46
+And that, yeah, I think that using that as kind of like, OK, here's like a test bed for, for how to like do game dev stuff.
+Wound up getting into the Gadot engine to, to just start like noodling around with it 'cause I think they, they ultimately wanted to make like a 4X game, but maybe like, let's let's baby step it here first.
+27:07
+Just happened to create Path of Accra along the way.
+And that Lands of Accra I believe is supposed to be like a Path of Accra themed like 4X game that that I think takes place at like canonically after the events of Path of Accra.
+27:28
+Now can you?
+Can you really say that there are events in Path of Accra?
+Well, you can say there are story fragments, that's for sure.
+Can you?
+Oh, absolutely.
+And we get when you get that, that awesome, you know, music pumping, you get a nice interest screen, You get exactly the music you want to hear.
+27:46
+When you gaze upon the Dune Sea where there are rumors of marauders adorned in gold, you see it altar lit with sickly green flames.
+And you get that you're treated when you start to run to these different snippets, which, yeah, you know, they're maybe not super informative, but they they set a vibe.
+28:05
+There's some like world building there.
+And it's like you'll, you'll read off some I'm, I'm not totally sure, are these like bespoke?
+Are these are these customized little things based on your your character creation choices?
+I think at the.
+Start doing a little bit of mad libs.
+28:21
+Yeah, I think at the at the start of the game it it pulls from the culture class and religion that you pick.
+Like for example, the waters come O Acra, a rippling silver hand, O Pilgrim, O disciple of Apophis.
+28:41
+That's where it's kind of like inserted from from your character selection.
+I can, I can dig it.
+I can dig it.
+Yeah.
+And this game has great, has a great lexicon, has, has a wonderful writing voice about it.
+28:59
+And it's, it loves, you know, it's, it's, it's, it's calling you a Pilgrim, it's calling you a traveller, it's calling you a struggler.
+It's got all these, these fun.
+I'm I'm frankly shocked that at the main menu there is a start option.
+Like surely that should have been something more verbose and dramatic.
+29:20
+I thought it was.
+Oh yeah, the the the before you before you get to the start.
+The the options are like the the where you get to the start is the path if.
+You're like.
+Start should have been like but but then you get to the next one and you pick all your stuff and it says start, which I feel like you could have continued on that, continue the path.
+29:41
+Continue the path.
+Yeah, yeah, yeah.
+Which I realize, you know, as a dev, especially solo dev, you probably want people to be able to, you know, figure out how to start the game.
+No, I don't feel like this game is particularly like if that's the kind of game you need, this is not the game for you.
+Not, not concerned with that.
+29:57
+A couple of other call outs about the UI, the language used in the in the UI.
+Once you have levelled up enough and you, you can, you can unlock.
+There's different prerequisites and you can pick a prestige class like in 3rd edition Dungeons and Dragons.
+You pick your, your subclass or or what have you, or not even subclass.
+30:15
+I guess it's a prestige class.
+You've you've, you've achieved enough in like different vocations that you can now get something fancy schmancy like become a, a lightning ninja or what have you.
+And when you select it, instead of hitting something boring like you know OK or confirm selection, it just there's a button that just says become exclamation.
+30:34
+So.
+Good.
+So good.
+And of course, when you level up, you know you get the little message that says your glory rises.
+And yeah, it's not levels, it's glory.
+Definitely not levels, Yeah, and.
+Everything like, yeah, all of the wording, all the verbs, which is like so spot on for the theming of the game.
+30:52
+It's very good.
+It's, it goes to show that you can achieve a lot without fancy graphics.
+And and let's not forget the difficulty is referred to the cycle of degradation.
+I thought that was podcasting.
+Am I right, fellas?
+But so that's, and I of course, you know, as as an accomplished rogue like podcaster, Oh, I've seen, I've seen those cycles.
+31:18
+I've been to the washing machine and I ran it on extra heavy cycles of degradation.
+Let me tell you.
+Importantly, Andrew, you are on the second cycle of degradation, meaning that you've beaten the the first cycle of humility and that you have you have 30 more cycles to complete with, with all sorts of fun like difficulty names such as the sixth cycle of annihilation or the 7th cycle of Apocalypse, or the the 12th cycle of of.
+31:54
+Glory.
+Wow, it's even better.
+I I thought they were all.
+Degradation.
+So question, do those names mean anything?
+No, at first I thought that they were like modifiers for the game, which I'm pretty disappointed or I was pretty disappointed because I'm pretty sure they're not.
+32:14
+I wanted it to be like you're on the third, third cycle and it just like picks things because I mean, I think I think that's one of my biggest criticisms of the game is that you can land your whole build before you start the run and there's not a whole lot of variation in it.
+32:31
+Like you you get you get different items and you fight different things along the way.
+But like, you can pretty much say like, well, I'm going to do a run where I'm doing ice stuff and just end up with exactly the build that you thought you were going to end up with.
+32:47
+Yeah, it's it's almost like, well, again, similar to Riff Wizard one in that you like you have all of the things laid bare before you and you can kind of go in with a plan of like, I think like this.
+Yeah, like it, it, it, it kind of like takes the traditional rogue like formula and kind of like spins it on its head a little bit of like, well, instead of like picking up items along the way that will define my build per SE, I'm going to define the theme of what I wanted accomplish here to start with.
+33:19
+And then I will pick up like the items along the way that will like be the kind of finishing touch on top of that.
+I think it could have pulled a page from Rift Wizards book though, 'cause so rift wizard each level had well, not necessarily, but could have the the thing that made it so your, your points went further for certain flavors of magic.
+33:45
+I think you could have something like that in this as well, where it's you, you know, you, you have to, your build does have to wrap slightly to what you encounter along the way a little bit more like, Oh yeah, you know, I'm, I'm, I know for sure I'm going to do an ice build.
+34:00
+But I'm like, oh, I see that there's a death temple here.
+And it's like, well, maybe I should do an ice death build rather than ice life build that I kind of thought I was going to do because, you know, I've built up a bunch of points and like, wow, I can get a lot more money.
+34:15
+My money's worth here.
+Yeah, yeah.
+And I think this was something that Riff Wizard 2 I think did like pivoted away from and was more of like, OK, like the, the things that you pick up along the way are much more consequential to your play style than just being like, OK, yeah, I definitely know what I'm going to try to force this run.
+34:40
+And then like, oh, I just happened to get the item that completes it.
+Or Dang, I I didn't get the item that completed and I I failed this run sort of thing.
+Riff Wizard two Yeah, has has like a much like it's, it's more restricted, I think on the spell side and more like more focused on the things you pick up along the wayside.
+34:59
+It'd be like in Path of Accra if like almost like if you picked up your spells along the way in addition to your items or something like that.
+I would.
+I would agree with that more if it weren't for the fact that you basically see all of the treasures every run.
+You see like 3/4 of them.
+So it'd be like, OK, I'm going to do the build where I get that that chest plate and I get the other helmet and they go together and they synergize and you can just be like, well, I probably will like unless they happen to be on 2 separate sides of the three thing.
+35:29
+Like there's not really that much in the ways of pathing.
+Or you are you're going through your your favorite teleport ice bludgeon build as you do and you're just like, oh man, I really want that item that really will just like complete this build, but it's behind the the green tower with 20 floors of enemies that all have 90% ice resist and you're like, Nope, ain't picking that one.
+35:58
+Yo, you know what deals with something that has 90 ice resist 100 ice?
+You just need to have 1000% ice and then that 90% becomes 100%.
+There you go of victory.
+Yeah, I think it's, it's probably important to to talk about like the the cycle scaling also in that like there are there are various enemies that you encounter that have specific stats to them, but those stats can scale depending on the cycle.
+36:31
+So for example, like if I just pick one out of the hat here, I don't know how to pronounce that one.
+This Tethic knight, a Lord of the Tethic Order armed with a ritualistic famed blade and inhabits the red tower.
+They have 300 accuracy that scales with the cycle and 500 armor that scales with the cycle.
+36:51
+So the like when you're first playing it on cycle one, like, oh, you know, they'll just be kind of like a a trash mob or something.
+But on cycle 32, the outer dark those the accuracy in armor will be way higher than they were when you first were playing it.
+37:07
+And so like that enemy just becomes like way, way different as a result of that of that difficulty scaling.
+But crucially, your your glory gain.
+Again, the the titling, which is level, yeah.
+Why use levels when you can have glory?
+37:26
+Your glory gain is accelerated at higher difficulties.
+So like, yeah, the enemies will be harder, but like on cycle 30, the Sunken World or Cycle 31 the Broken Tower, you will be gaining levels so fast to start with that you'll basically have like a completed build by, I don't know, like the fourth or fifth stage or something.
+37:52
+And at that point you're just like, OK, how, Like how broken can I make this?
+And you just.
+Hold down tab until you win or lose.
+And so some people, some people say frequent commenter to the podcast on YouTube, Alici the crawler says.
+38:10
+Personally I found the mid cycles to be hardest, but that could have been due to my misunderstanding of the game.
+On higher cycle status effects become a lot more problematic IMO since enemies can apply 50 plus at once.
+So yeah I think like there's this kind of like weird like difficulty like the middle difficulty zone.
+38:29
+It has like this weird U-shaped curve to it that starts to become more and more broken and and laughably scaled as you get to cycle 32 as well.
+But the path of dust, I think is where our final boss really shows his his final colors.
+38:49
+Well, I guess like maybe before we get before we get there, we, we've, let's see, we've talked cycles.
+Let's.
+Talk about the king of many colors.
+Yeah.
+So maybe let's let's talk about like the path itself.
+So along the path of Accra, you will I, I think this is a very clever way to do like a food or like a food clock or like a, like a ticking clock mechanism of like the ocean is rising behind you and like engulfing this, this island that, that you're walking the path on.
+39:19
+So you can't go backwards.
+You can only move forwards because you see, this is This is why the global warming sea level rise thing is so important to learn about because it's going to limit how many turns we have to get to the obelisk.
+Anyway.
+You, you come to the stage, select screen, the path and you have an option to pick of, you know, one of three arenas or or zones that will have various enemies and they'll have potential rewards to them.
+39:50
+Where I think let's see normal encounters are like 3 floors unique, non towers are one floor and towers.
+Are random anywhere from like 5:00 to 8:00 or 3:00 to 5:00 depending on the tier of them.
+40:07
+And yeah, I think those those wind up giving out more glory.
+But anyway, like you'll you'll see like, oh, here's like a big list of of loot that you can get at the end of this level.
+And here's a list of all the horrific monsters that you'll encounter as well.
+And I feel like there's this like interesting push pull of like, OK, how bad do I want those items versus like, how, how much am I going to get bludgeoned by this 90% astral resist enemy that I have to fight?
+40:35
+And also kind of remembering what the enemies are and what they do.
+Because if you if you go in and you're like, OK, like this thing that looks like in a smiling gingerbread man should be no problem.
+Oh, but it does like 5000 psychic damage to me.
+What killed me again?
+40:53
+That could that could be a run ender, but yeah, you'll have like elite, elite zones to fight.
+You'll get to the obelisk, which is the the I guess the quote UN quote end of the game, But there's an epilogue.
+You go through the obelisk.
+Let's say you fight.
+What are some good obelisk bosses?
+41:11
+Here you have the horror giant, a towering figure of shimmering volatile substance, the God at the end of the world, unless there's the Vulgite, a twisting of mercurial shape called down from the void to feast on the lands of Accra.
+41:31
+Just it's, it's just, it's so good.
+You kill one of those guys and then you go you ascend into the astral plane or the the the astral wall and you walk the star path to I guess that.
+41:48
+Was a nice little surprise.
+Again, you can, you know, you can do a lot with with a little bit visually if you play your cards right and you set the scene with that music and that writing and, you know, stylized, but, you know, simple graphics.
+42:03
+Yeah.
+The first time I, I I got through the first map and popped out into the star map, I was that, that that caused me to sit up straight in my seat.
+I was going to say I was blown away, but I wasn't really blown away.
+But I was pretty impressed that that was cool.
+42:19
+Your.
+Interest was piqued.
+My interest was piqued, absolutely.
+And I feel like the some of the monster descriptions here are pretty great where there's the white demon, a demon composed of white crystals born from the fumes of an eaten star.
+Like there's just this like it becomes like, so like mythologically like cosmological at this point, we're going to just like, Yep, Yep, I'm all in.
+42:47
+But I think like Colin was saying, you know, like you see basically all the items throughout the game, and I was kind of expecting here, they're like, oh, well, this is where like all the Super loot will be.
+Yeah, no, it's just like, that's just the rest of the loot table.
+Some of it is better, but it's not like.
+43:02
+Yeah, come on.
+I want to see the star sword, the star shield, the star armor, the star loincloth.
+I mean.
+There is time to go really, you know, balls to the wall with some like crazy wild over the the.
+Doom.
+There is the Doom Blade.
+The Doom Blade.
+43:18
+Oh my God.
+That's the one that Samuel Hayden took from you at the end of the the. 2016 game Correcto Mundo.
+There's if you look at the Armory, there's a set that are in purple, which I think are the ones you can get only in the.
+Purple, purple rose.
+43:35
+There's the Dragon Sword, there's the cosmic flail, there is the wind laced ribbon.
+Oh yeah, it's not that one.
+Oh yeah, and then there's the the Starstone disc plate, which is the the Flava Flave style giant clock looking thing that you have to put on your chest armor.
+43:56
+The star forged disc once decorated the chest of the mighty Kashra of the Star Path.
+Oh oh oh.
+Here's one that I posted in our discord.
+The rat banner or flag of the rat Flourishers, A mercenary emblem of the Rat Man.
+44:15
+Outstanding love rat.
+I'd love to see some rats.
+We got a good item here for Will who is absent called the rage fetish.
+But yeah, I think that like the the item description here.
+What am I saying about our, our absent codes?
+44:31
+Yeah, unfortunately, Will could not be here.
+He's too busy.
+Oh, I don't know.
+He's.
+Addicted to.
+Scuma, some other.
+He's addicted to Scuma.
+He's literally playing right now.
+He's playing Oblivion right now, which I don't know about you fellows.
+I played that game like 15 years ago.
+44:47
+A little leak to the party if you ask me.
+Stop right there, Podcast Gun.
+But yeah, yeah, so.
+Yeah, I want a Morrowind rogue like.
+Colin strap in Caves of Cud.
+No, I've played Caves of Cud.
+Caves of Cud is too weird.
+45:03
+It's it's too weird, it's too hard.
+You want something that's like the Morrowind engine, but that's.
+Fair.
+Yeah.
+No, I mean, I am, I am prepared for.
+I am I am strapped in for kids cut at some point but.
+In traditional will of fashion, he fired up this game and he on on our Discord chat.
+45:24
+He I guess he thought he was making some grand like great point.
+He's like, this is the kind of crap I can't put up with.
+Like look at this and it's just like the main menu artwork.
+Which is delightful.
+It's delightful.
+It's great.
+Like, I don't, I don't know.
+45:40
+I don't know what the deal is.
+No, it did not grab him at all.
+Will Will not the biggest fan of pixel art to begin with, but I think that like the like the main menu theme you have like this like just like pixelated star background that's just like very subtly blinking back and forth like, you know, I think if you're into pixel art, it looks like very emblematic and thematic for what the game is is all about.
+46:09
+There's like a giant serpent head.
+There's this like extremely overly muscled hero figure with.
+I don't think it's good, but I do like it a lot.
+It pleases me, but I don't find it to be.
+I don't think it is like great artistic vision, but it's like it's silly and fun and great and feels like a like a good, good blood blood.
+46:34
+Void, good old blood void.
+And what I appreciate in terms of the art direction and some of the decision making is that they chose to position us, the viewer, behind the subject of the muscled barbarian who is flailing his arms and waiting for a hit trigger to go off.
+46:56
+So I was looking at that, you know, I want to go look at the thing.
+And then, so there's, there's your start menu options.
+The first one is the path and that's basically play the game.
+And the second one is the macabre, which is where you see your, the, the people that you have played.
+47:13
+And at the top it's, it's introductory text is O Pilgrim, recline in thy glory.
+She's like, man, it's so fucking good.
+Yeah.
+Recline in Thy glory.
+Oh man, like so they, they do so much with just like some good flavor text, like it just adds to the like that, that there's no change in that.
+47:40
+It could be like, look at your guys.
+But no, the the the way that you say that makes me just like I do, want to recline in my glory and look at my past glory and deeds.
+How, how shocked would you be to learn that the the solo dev of this game, prior to making Path of Accra, had published a book on poetry and was also working in a bakery prior to this?
+48:04
+Yeah, that sounds about right.
+This is.
+This is the opposite of like.
+Watch your doe rise when you.
+Play like when we played Lone Star and we're like, I bet you that this developer doesn't speak English as their first language.
+This one is like, I bet you that this guy got a majored in like literature, like maybe not, maybe not actually, but you're like, Oh yeah, no, this guy has read some like he, he's wrote, he's he's read the, the, the Vedas or the what are the, the Icelandic, all of the Icelandic sagas and whatnot.
+48:45
+Yeah, Scott has got his.
+This one all my.
+Sagas of the Icelanders.
+Yes, Jesus, how many pages?
+Has that this is This has got to be like a first edition.
+It's bound and 780.
+Two 782 page book featuring Olf the Squinter, Olf the Fearless, Vestar, Henigsen.
+49:08
+Now these are real people.
+None.
+Well, the stars also they're I'm pretty sure half of them are blood apes of.
+Aren't we all?
+Grim, Grim Wolfson, Grim Bardon's son.
+49:23
+Yeah, there's, I mean, it's 700 pages of of excellence.
+So the king of many colors, as we were talking about, is your, is your final, the titular final boss, an invader from beyond the astral wall.
+So good Summoner of demons, the the quote king who once wandered, master of distorted light, who rules the Astrolith just enough of that kind of Star Warsian.
+49:53
+Like what?
+What in the hell is the Astrolith?
+Tell me more.
+But it's just like, no, you're going to have to find out.
+Yeah, hopefully they don't over explain in Lands of Accra.
+That'd be a shame to have some kind of crazy sequence where the colorless King is ripping through the Princess Leia's ship with a lightsaber.
+50:18
+Bunch of unnecessary CG.
+Yeah.
+What a what a what a time.
+And and when you do succeed, you get a pretty sweet.
+I complained about, you know, notepad, readme text, victory screens.
+And, you know, this could have accidentally been that other lesser games.
+50:37
+It would have been victory.
+And here's your you know, here are your stats boring this game.
+You are are treated to like some some customized mad libs, some procedurally arranged text based on, you know, what you did in the run and what your build was like, which is is cool, O Pilgrim, pride of Paulus, which of course is one of the gods of the cosmic struggle, struggle of the receding waters of legendary skill, master of the Thunderbolt, thy spirit unstoppable.
+51:09
+And you get this nice little screen.
+It of course says victory at the top.
+Just so you know, it's too terribly confused in your stats and everything.
+And it's, you know, feels like an achievement and it's fun to sit back and what was it?
+Recline in Thy glory.
+51:25
+Yes.
+Indeed, indubitably, I mean even when you fail it says, O struggler of rising skill seeker of in this case, the burning hand, Thy death passes to legend on the glimmering path.
+Not glimmering path.
+51:42
+Love a glimmering path.
+Get a nice little bit of flavor text about.
+Like.
+You got, you got munched on by a, by a dam lava worm or something like that.
+I believe it's a different text depending on which monster kills you.
+Yeah, it's it's it's it's it's pretty it's pretty dandy.
+52:02
+It's pretty dandy.
+I'm I think the the world building is, you know, fantasy has seen a, you know, explosion in, in popularity, especially, you know, in gaming.
+52:19
+I'm thinking of just, you know, Dungeons and Dragons has gotten super popular in recent years and it can be a little tricky to come up with something that's, you know, original and, and, and catches your eye.
+So definitely admire that.
+And you know, hey, you know, what else is, you know, classic in Dungeons and Dragons is of course, your character creation.
+52:40
+You got your class and you got your race.
+And it's only in recent updates that Dungeons and Dragons has been able to kick the outdated, dusty idea of like, race selection.
+And I appreciate that in this game you don't have race, you have culture and.
+53:03
+Yes, like like some notable.
+Notable classic.
+Like the your your classic culture the the strawn, the strand, a wanderer of the eastern desert at desert guarded by a loyal woolly beast.
+Or your classic culture of the the Penguin people, or the classic skeleton culture, or everyone's favorite culture of the apes.
+53:28
+A furried denizen of the deep forest and secret mountain caves.
+Prefers nakedness.
+Fights with primal strength.
+No, I mean I I definitely do prefer the sightless mass of rioting matter shaped into a body by will power alone.
+By Will.
+53:44
+Power alone, that's not my race, it's not my species.
+That's just my culture.
+I will write alone.
+How many?
+Remind me?
+How many options of each are there of the three cultures classes?
+And looks like.
+Oh, 24 * 3 folks?
+54:01
+How many?
+You got to.
+You got to do the combinatorics.
+What are the?
+What are the?
+How many possible combinations are there 24 * 24 * 24?
+Mutations for but.
+Many many is the answer.
+There's a lot we're going to do that Yeah, this game can do that.
+54:17
+That 13,000 Borderlands thing where it's like there's 13,000 different character options, like, oh, come on.
+But yeah, it's it's cool, it's groovy.
+And you, you know, we're unlocking new ones at a good clip.
+And it's fun to try it out and try out, you know, different options.
+54:36
+And I think the game does a pretty good job of, yeah, giving you new stuff, new toys to play with.
+I mean, even if you if you just pick the ape, you have an ape Reaver of Apophis, you have the ape Emir of Haddad, you have the ape Templar of Ashem, the ape Nak Nartaka of Humbaba.
+54:55
+I mean the possibilities are endless here of just ape people.
+It's true, I regrettably did not unlock the ape, be it a zealot of the worm.
+Would you love me if I was still if I was an ape Zealot of the worm?
+55:11
+Well, yeah, I think crucially like the the unlocks in this game are interesting in that when on a run you gain glory and every 20 glory that you gain grants you a random unlock between like randomly between either one of the cultures, classes or religions.
+55:31
+And I was when I was first playing, it was like, man, like would this game be better if it just had an unlock all button?
+But at the same time, I feel like it's a good on ramp.
+I think it would be.
+I think it would be worse if you were had all of them unlocked.
+Yeah, 'cause it would just be like baffling, overwhelming.
+55:49
+What on earth am I looking at with this flaming tombstone or.
+This how many you start with like 2 of each right?
+Something like that.
+That sounds right.
+Which I feel like is the appropriate amount.
+Yeah, like like 2-1 this or this, this or this, this or this.
+56:07
+Like that is the amount of brain power that you can use for that first run.
+And I think I was maybe overly hyper fixated on like just give me the damn ape class.
+I just want to play as the ape.
+And that was like the second to last thing that I unlocked overall.
+56:24
+And but like the first few runs that you go through, it's like, Oh man, this is going to take forever to unlock.
+But like the higher cycles you play on like that glory just goes like bananas, focusing on the ape theme and like you, you just like unlock stuff at like a blistering pace and like you unlock like everything in lickety split time.
+56:47
+So I think like the the the the pace of unlocks is there more of just as like a maybe maybe don't get overwhelmed all at once feature, which I can kind of appreciate if you're like me and you're like, well, is there an unlock call button?
+If you go into at least on Windows, if you navigate to your app data folder roaming, it'll this'll be interesting to see how the transcript auto complete does this App data slash roaming slash Godot slap app under score app user data slash POA and then you edit the settings or setting dash data dot Jason file.
+57:27
+There you can kind of what.
+Could you go?
+Could you?
+Could you go through all those again?
+No, I'm just kidding.
+Yeah, there is there's a setting data Jason file that you can like right click and and edit in notepad and you can see, oh, these are the like the exact things that are like locked and these are the things that are unlocked and you can just move the text back and forth and be like, OK, now I've unlocked everything great.
+57:51
+Which you know, like if if like you have lost your save file or something, I can see that being a way to kind of get back into it.
+But but yeah, like there's no meta progression.
+There's no like thing to, I mean, other than I guess the, the very slight on ramp for, for classes and stuff.
+58:10
+There's no meta progression of like, oh, like unlocking all these things to make my characters better.
+It's more, I guess maybe just more of kind of like the cycle, like the cycle difficulty is like a level of like high score in a way, maybe like your accumulated career glory as a way like before.
+58:29
+Before hitting the record button, Colin showing a screenshot of his like 1200 glory on the 9th, the 9th cycle of disintegration that he was on versus me on my lowly 600 glory, the 7th cycle of Apocalypse.
+58:46
+I'm like well OK now, Now I got to get to the 9th cycle of or the the 10th cycle of consumption in order to to regain that high square meter.
+All right, I think it's time for the airing of grievances.
+Oh dear.
+All right, so.
+59:01
+We've been saying a lot of good things about this game and I do like.
+This and this is where I'll stop the recording.
+But there are some glaring flaws in the game that keep me from being able to give it, like our truly excellent score.
+There's a little bit of nitpicks in here, but the main one is the event log.
+59:23
+So many of these turns you, you, you click space, which lets you stop and do nothing.
+And then a gazillion events trigger and literally like hundred 200, 300 things, individual lines, so many that you can't even it will it will scroll past where you can't go back to your next.
+59:46
+Your previous turn is incomprehensible.
+It's it would be better in some ways if it just didn't even show it.
+Well, yeah.
+It's it's pretty rough.
+It's like in a Mecca anime or any sci-fi anime where like it seems like just placeholder scrolling text that's like going by like something cool is happening on the sci-fi screen.
+1:00:07
+Something cool is happening in the cockpit of your Eva.
+And the, the problem is that there's no other way of getting information on what happened during your turn.
+Like what did damage?
+Like what is doing the killing in my build?
+Like there have been plenty of times where I'm like trying to get stuff and then I'll be like, wait a second, I'm not even getting like, why I have all these things that heal me, but I'm not getting healed.
+1:00:31
+Why?
+It's like, oh, because I killed them before the thing that triggers the healing even happened, but I didn't know that was happening because I didn't, I literally could not tell what was happening during the turn.
+So like, I think that's the biggest when I say quality of life, I want like a graph like, OK, during my turn, what effect did damage and how was it triggered?
+1:00:56
+Or like, let me, I mean, this would be truly miserable in some ways, but like, let me like click next, next, next, next, next and have it like step through each event.
+Like we're, you know, going into our coding environment and just like doing next step a bunch of times.
+1:01:15
+Like what is I want to be able to like walk through a sequence of events so that I understand how how all these things are.
+You know you can, you can try and mind map it out, but.
+Yeah.
+And I think.
+It's like it's hard.
+Coming back to the comparison to Rift Wizard, I think if I remember right, Rift Wizard I think a is slower.
+1:01:37
+So it's kind of like easier.
+Like you, you shoot the teleport thing and then like the enemies, like this enemy over here will do a thing.
+This enemy over here will do the thing and it's like it's slower, but you can like your brain has time to process what's happening.
+This is like rift wizard on like turbo crack where it's like going so like hey, I like that it's like super fast, but.
+1:01:56
+Yeah, I just say this is the like the weird, the airing agreeance is like this game is too optimized.
+I can't tell what's happening because it's running so fast.
+But to your point, like, you know, you walk into a room and then like things just start auto triggering.
+You're like, you see your health bar going down.
+1:02:12
+You're like, what what option do I have to stop this?
+And then you'd like you're just dead immediately.
+And I think Rift Wizard has a like a safety bar mechanism where like if you, if I'm remembering right, if like an enemy like does basically like overkill damage to you, it will cap that to like 11HP or like some 10% value or something.
+1:02:35
+And then like then you'll be like, OK, that was like a fatal hit that it just did.
+It's going to kill me for sure again the next time.
+But I've like, I saw what it did.
+So how am I going to react to that path of Acker just moves way too fast for you to process that.
+And I think that like, if so, like you, you have like a a like a life system here based on the prayers, which is super clever.
+1:02:57
+And I feel like if when you lost one of those lives in that like super fast sequence of like, holy shit, a whole bunch of stuff just happened and I lost a life.
+Like maybe not intentionally insert a pause break there and be like, OK, let's assess the situation.
+1:03:14
+Was that something that I wanted to have happen?
+What do I do next?
+There have been times where so many things happened that I was like, wait, why can't I cast?
+Why, why do I have 0 cast of these spells?
+I was like, oh, apparently I died at some point during that turn.
+Like, oh, and I got, I got like, you know, you these, these, these prayers at the top, they fill up under various circumstances.
+1:03:35
+And when you die, if you have a full, full prayer slot that goes to zero and you're, you know, brought back with some amount of life, literally like, I didn't know that that had happened because there were so many things happening and the, the log was going by so fast.
+1:03:51
+I was like, apparently I died at some point.
+Like that shouldn't really happen.
+Like maybe even just like, hey, we're not going to stop your turn that it's still going to happen, continue happening.
+But like, we're going to pause for a second and let you be like, just, you know, you did die.
+1:04:09
+You you're, you're being resurrected, but you might die again.
+You have no control over it.
+You're still on this train.
+Yeah.
+I think a a another kind of nitpick that I have about the game because I I do like so much of it, but what do we think about the arena design?
+1:04:28
+It hardly matters, at least at the left foot.
+I'm playing the game.
+Yeah, that's for me personally.
+I don't know.
+The lack of meaningful movement is a little bit of a deal breaker, which is, is, is not, I mean, that just means, you know, it's not a, it's, it's, that's a personal choice.
+1:04:50
+Like, and I'm sure that they're at, at, at higher levels, There's, there's more to it, but something that I engaged with like almost immediately with Rift Wizard was that moving around felt important and meaningful.
+And again, I get that just path of Acura is like a different game.
+1:05:08
+And that's like not necessary.
+That's not really the focus and and I don't know you, you, you high level guys.
+You tell me, does does do any of the arenas make a difference?
+I don't know.
+There was like one time where I was getting like sniped from across the map by like some beholders that were was kind of a pain in the butt, but that was like about it.
+1:05:29
+The run I did with no powers that mattered a lot because you didn't have stuff and you were just like relying on swinging that axe to, to to blow up stuff because movement is very difficult.
+1:05:45
+Like for most builds that I have done, the the key is to not move.
+It's to like have thing or, or or like I haven't been able to get a good melee build most of the time because it takes too long to get to enemies and it's just more efficient to have things that do damage at a distance or like AOE or like the whole map.
+1:06:08
+Just like, well just do something that kills everything at once and that is better than slowly walking to a thing and killing one dude.
+I think the one the one victory that I had with my new Bari, the ape Reaver, mind Knight of Apophis.
+1:06:26
+The arena design mattered a lot for that one because it was it was a melee Pierce build in that like if I was out in like an open field, I would just be like completely surrounded in like range shot and just like taken down.
+1:06:41
+But if I was able to like find a little corner to hide in and like just like like sit in place and wait for the enemies to come to me, then I could just like poke them all like 1 by 1 and that seemed to work pretty well.
+There was also my tosu, the Tengu Nartaka Gothi of Haddad, also known as speed, light speed Electropenguin who like anytime that I would like move back and forth, I would shoot electricity beams in a in like a line towards the enemy.
+1:07:17
+And that worked really well up until the final boss fight, who, like, was closing the distance to me and I was like running out of room to like, maneuver back and forth.
+And so I'm just like, like bouncing up and down, like move up, move down, move up, move down, ZAP, ZAP, ZAP, ZAP.
+1:07:33
+And he's like closing in to like annihilate me.
+And then I got him on like the last possible tile.
+So.
+Here's what I think.
+Like the way that the speed mechanism works is there's this, the speed which is very I, I it was hard for me to really understand how exactly speed is calculated.
+1:07:51
+But like the faster you are, the more times you go between each.
+Like world game tick and other enemies also had similar things.
+In the beginning of the game.
+When you're fighting low level enemies, you can be like very much faster than them.
+1:08:07
+You can be doing like 4 turns per their turn.
+But eventually ski speed is capped at 100 and you're fighting enemies that have like 65 speed.
+So your speed relative to them slows down as the game progresses.
+So your ability to physically close the distance decreases.
+1:08:27
+And what I think they need is they need something from StarCraft 2, they need Zealot charge lots.
+They need one of the Marshall skills to be like, you can move three tiles per step.
+Or a grab or like, yeah, or something that.
+Shortens that like a grab.
+1:08:43
+Yeah, there's a lot of there's, there's a lot of like teleport things, but it's like, I don't want it to be teleported.
+I want it to be like, I am doing a heroic leap physically at the thing because there's so many.
+Every melee build I would try and be like I, I, I want to close the distance and it's just not effective.
+1:09:01
+So I'm going to abandon it and do something else or like I'm going to get the thing that lets me.
+It's like, oh it's a melee but I can also shoot it at 5 range.
+I want to be the guy in the main menu fighting the green serpent.
+I want to be, I want to be like DBZ guy, but before they learn how to teleport and when they're just actually going really fast and flying.
+1:09:22
+So so Krillin and getting I want to.
+Be a TN or I want to be like Goku when he's a kid.
+I don't want to do command Maya.
+Is that too much to ask?
+No magic, just like raw force.
+Yeah, muscle magic, muscle magic.
+1:09:38
+I think my last nitpick for for the game is that like the the final boss fight didn't really feel like as climactic as it should have been.
+Maybe again, like coming back to the comparison to rift wizard, like rift Wizard's like Mordred final boss fight felt like a Titanic battle of like like it's still something that I think about it like oh man, like I like won that by the skin.
+1:10:06
+Of multiple stages and like flying around like that felt.
+Cool.
+I imagine Scott's loved ones just being like, what are you thinking about babe?
+Just that battle with Mordred?
+That was sick.
+Yeah, yeah, for sure, For sure it would have been.
+1:10:24
+And you know, there are ways to achieve that, you know, different music, multi stage battle, something fancy with the the Gray Fix.
+Yeah, yeah.
+Yeah, just the final level alone has like photo realistic graphics.
+Unreal.
+1:10:42
+Engine 5 out of nowhere.
+Why is this game 25 gigabytes?
+It's just actual.
+No, no, it's still.
+It's still little tiles, but it's actual pictures of Sumerian ruins.
+That'd be cool there.
+You go, yeah, that's I I hear ya.
+1:11:00
+That's that's a fair, a fair critique.
+What else do we have on here on my topic list before we start winding down here?
+I feel like maybe like emphasizing the like the the length of the game here where like winning a run for this is like 30 to 45 minutes.
+1:11:20
+And I feel like that it is, it is like so underrated of of like a game style design where I'm thinking back to some some previous other traditional roguelike games that we've played where like runs can can take a long time and even even like my one of my top games of the podcast Cog mine like that'll take like at least like a couple hours or something, but like mystery, like sheer.
+1:11:49
+Oh, wait, hold on.
+Will's not here.
+Oh man, that that damn cog mine.
+The opposite of of POG mine.
+It's.
+Yeah, we need to stop talking about that.
+Boy, what a stinker.
+But we like earlier.
+1:12:05
+This shit.
+We haven't mentioned Sleigh the Spire once this whole that.
+Counts that.
+Counts.
+It doesn't.
+It doesn't.
+It didn't come up naturally.
+Okay, no actually streak I do.
+I do have a sidebar for for sleigh the Spire, but I think like for the for the length here, like we played Azure dreams earlier this year and like runs can that and that can kind of like go on for a while.
+1:12:28
+Like your your main quest in tales of Maja Al was like 40 hours or something too long.
+Like the the ones that I think rate pretty like that have rated on average pretty high for us, like doom, RL Jupiter, hell riff wizard, like pretty, pretty snappy games.
+1:12:43
+Like I feel like the the coffee break roguelike design is just so much better.
+Like it it synergizes with like the die fast do something new again cycle much better than like, you know, stay tuned and a half caves of cud where like if you're putting like 20 hours or something into a run and you get bludgeoned off screen by something that you had no idea about, feels bad man.
+1:13:10
+But like.
+Yeah, it's, it's the.
+I mean, we use roguelike for way too many things, but like that starts just being like, well, it's a procedurally generated game that has many things in common with other games that have procedure regenerated things.
+1:13:27
+But there's definitely certain things that it's missing from something like this where it's it's like you are doing runs because you just die all.
+Right, slay the Spire corner, channeling my inner will here.
+I feel like there is a, a missed opportunity here with like, you know, like the we we were kind of talking about like the king of many colors, the the titular boss fight feeling a little underwhelming.
+1:13:51
+I feel like in a similar vein to slay the Spire, like the act 3 slay the Spire bosses like, oh, you beat it, Congrats, but it's not like the heart boss, you know what I mean?
+Or it's like this like insurmountable force, capital F force.
+And I feel like Path of Accra has, it has like an opportunity like with it's like very streamlined, like quote, UN quote node map that you're kind of maneuvering across that like, oh, if you go into this like elite layer here and like killed.
+1:14:23
+Us got the towers.
+Well, they have the towers, but there's no, you know how like inside the spider, there's like an incentive to go and like get the green, red and blue keys.
+Yeah, well, that's what I'm saying.
+Like they already have the thing.
+You could just it, it'd be like, oh, if you go to the the red tower and the green tower and the blue tower and then the weird thing in the end, then you get to fight the king of even more colors.
+1:14:45
+The King of all colors or something?
+Or the King and Queen.
+Of the king of no colors.
+It's.
+Just black and white.
+Damn all all the color fades from that would actually.
+Be actually, that would be pretty cool if like the final final level was just like just black and white and like all of the the graphics were, you know, instead of having them be like blue and red and whatever, it's just black and white.
+1:15:09
+That would be very Mango.
+There we go Yeah, yeah.
+I feel like there's there's there's solved it, you know.
+Oh, as as armchair game devs here, you know, we're we're our our contracting fees are are very minimal, but we'll come in we'll fix your game.
+1:15:24
+Don't even worry about it.
+We'll just sit you in our armchairs and and.
+We're.
+Ideas, man.
+Yeah, you go ahead and game designer, you recline in Thy glory.
+And we will.
+Well, no.
+We'll recline in our glory, and you'll you'll become.
+1:15:40
+We won't actually be doing any work, yeah.
+I think that another thing to kind of point out is like a lot of the like damage stuff in this game feels very novel.
+We're like, maybe maybe it's just like me being cynical with like lots of AAA games, but like in in like Elden Ring, where like everything is kind of a poison effect, like, oh, like I'm going to hit him with this and it's going to slowly drain their HP or something.
+1:16:05
+Like this feels like, oh, there's like all sorts of different interesting.
+Like yeah, there is poison, but there's also like nature effects or like self damaging blood effects or things like that.
+And doom, yeah, like teleport, like mind magic there.
+1:16:24
+It feels like yeah, like there there's maybe like a meme for Elden Ring that like everything is a poison damage.
+But like here it felt like, oh, there's like it feels interestingly different and refreshing in a way that like you can only really get away with with that kind of like low budget, like experimentation aspect.
+1:16:43
+Lots of like different summon themes of like didn't.
+Did anyone else try summon build at all?
+I did it, didn't I?
+I I haven't really invested the time to figure out the one that works, but I'm sure based off how many there are I'm guessing that some of them are super OPI.
+1:17:00
+Just don't.
+I haven't like stared at the the character creation screen enough to figure out which one it is.
+Summoning is one of the builds where you get to use the spacebar a lot, which is the stand still and wait a.
+Turn.
+I did try and complete a run recently where I only clicked spacebar.
+1:17:22
+And.
+I did do it.
+I did accidentally once hit tab to fight and then I you have to click tab.
+You have to click tab to go to the end but.
+I can be forgiven I I clicked tab.
+Because I thought I had killed everyone, but apparently there was still one left that I've forgotten about.
+1:17:40
+But I did kill him with that.
+Well, with that is it.
+Is it time to ascend to the to the, the, the star path, the the psychic realm, the mind Warren, the void, the room at the back of the?
+1:17:56
+Rankings void.
+Yes, let us be calm.
+I would say so, Andrew.
+Start us off, yeah.
+All right, once again, just want to reiterate Co host really really served me up a shit sandwich when it no my ghost.
+1:18:20
+Well, they really stabbed me in the back, threw me in the gutter, left him dead, left me for dead when it came to this our our reviewing scale.
+So my scale's all screwed up path of Acura.
+I'm going to give well, let me let me build a little tension.
+1:18:37
+Actually, first, this game kept reminding me of my time with 4th edition Dungeons and Dragons, which had a lot.
+There's a lot to complain about in 4th edition Dungeons and Dragons.
+1:18:54
+A lot of those complaints, a lot of the common complaints I don't agree with.
+But one the biggest issue that I had with the 4th edition of Dungeons and Dragons is that although the combat system was very cool and interesting, they introduced the idea of powers for for Marshall classes.
+1:19:17
+So like rogues and fighters and things, they would have spell like abilities.
+They'd have these, these, these, which would have, you know, very specific bespoke mechanical things so that you could, you know, throw sand in somebody's eyes and blind them or push them around or what have you, Which was very cool and neat.
+1:19:41
+And since it was the addition that I started on, I, I thought it was, I was shocked to learn that what in 3rd edition, a fighter just basic attacks.
+That's so boring.
+What about my Thunder Tusk boar strike or my, you know, power slam or astral condemnation, which we would jokingly call ass condom.
+1:20:05
+We'd we'd titter about all the time.
+And that was all cool, but holy shit the combat took forever.
+You think 5th edition takes a long time?
+4th edition like minimum 2 hour fight.
+Like any time Initiative was getting rolled like it was brutal.
+1:20:23
+And like on the regular we were having to take photos, a bunch of reference photos of our map so that we can remember what was happening for next session.
+Anyway, all that to say, Cathy Macra has kind of the opposite problem for me is that because things are so beautifully and eloquently streamlined, I don't really have the time or the opportunity to like, bask in the glory, to recline in the glory of the game.
+1:20:50
+I prefer the way that Rift Wizard does it that like it is it is is fast enough.
+I'm I'm like consciously choosing specific spells, moving myself in specific ways and it's it's, it's one of those things where there's no fault of the game.
+1:21:09
+I I have a lot of respect for this game.
+I think it's very impressive and cool, but from my type of brain, it doesn't really click.
+And in fact, character building when, when I make a Dungeons of Dragons character and I, and I have, unfortunately, I was just talking about how great this was in 4th edition.
+1:21:30
+But in, in, in current editions of dungeons and Dragons, when I do pick a spellcaster and I have to be bothered to like, pick spells like I, I, I don't like character creation, I don't like the build process.
+And that is a personal failing of, of my own.
+1:21:46
+And generally I will just like role play like, well, what's, what spells do I think I would have like, OK, this makes sense, blah, blah, blah, blah, blah.
+That being said, when an obvious like you know, OP choice comes along, I usually pick that anyway.
+1:22:01
+All this to say, Path of Accra is going to show up on my stacked rankings right ahead of Inscription and right behind as your dreams.
+1:22:18
+Having scored 5.64 points of glory, who's next?
+I'll go next.
+So unlike Andrew, who wants to recline in that glory, I want to just mainline it straight into my veins as much glory as fast as possible.
+1:22:36
+So I'm going to start off with the score.
+I'm going to give it an 8.2 with the the caveat of with quality of life.
+I think you could have gotten it up to like a nine.
+I I I erred my grievances in quotes at the end, but they were genuinely like frustrations of mine with this game.
+1:22:56
+Like so much of the game is making awesome builds and figuring out how to like break it.
+So like many other games is like, oh, there's an OP build and you find your way to get to that one.
+Pretty much.
+You can make dozens of OP builds OP in quotes here and that's like that is the point of the game.
+1:23:18
+It's the OP build synergy combination simulator and I enjoy that a lot.
+And so when I'm unable to figure out why that synergy is like I I can only theory craft why this thing is destroying everything in the map in one turn, not see the stats on it like I want to.
+1:23:38
+I want to graph.
+I want a pie chart.
+Like I realized this is some some like weird niche thing you want in an already niche game, but that would that's what would make it better for me.
+The other things, like there were some most of my other critiques of the game are in the same vein of just like quality of life, a little bit easier to make things a little bit easier to make descriptions to understand, you know, summaries of the monsters on them.
+1:24:10
+So you like know vaguely what they do rather than have to like click on them and hover over each ability and try and like combine them in your brain and be like this guy, just he he tries to do poison stuff like great, cool.
+I know it's just, but even with those critiques, I still had a great time playing this game.
+1:24:29
+Like there's a lot of combinations and they're truly unique.
+They're truly you can create things that function in vastly different ways, teach you the same results, just wiping the map.
+1:24:45
+And you know, I thought maybe I'd be getting bored of just like clicking tab and having the map be erased, but it just kind of feels good every time.
+Just like Click to win and know that you did it because you're smart and you smart in quotes put together some build that that worked out or like you you when something when it comes together in a way that feels very satisfying.
+1:25:10
+So yeah, 8.2 and I, I think with quality of life you could get it higher.
+I I want mods for this game, but I don't think that's going to happen.
+And high hopes for Lands of Acura.
+Yeah, we'll bring us home here.
+It's an 8.95 for me just behind Star of Providence and I, I put it ahead of Tales of Maggie all because I think that like this, this game just like feels so good.
+1:25:38
+The like the search bar is like such a Galaxy brained solution to the problem of like there's so much shit in this game.
+Like how do I find the stuff that matters?
+Like it's, it's, it's painful that it's not seen in like lots of other games of this type.
+1:25:55
+I think the, the art and theme are great.
+I, I love all sorts of stuff Like I, I have, you know, I ran and grabbed this, the Sagas of the Icelanders book off my bookshelf because I have like 5 or 6 other books from, you know, my comparative mythology courses that I've taken in college that are just like themed.
+1:26:16
+It's just like a, a perfect theme for me.
+I can understand if some people are not into Babylonian or Sumerian aesthetic, but it's something that I think like like the sword and sorcery like DND medieval universe, like we need more of like giant worm monsters and blood gods and mysterious creatures of the deep tunnel land or or apes, right?
+1:26:46
+I mean just just the ape class itself, like automatic 7 out of 10 just there.
+But I think like the world building, the lore, the characters, the enemy designs, like the items, like everything is just, it's so well put together.
+The pixel art, if pixel art is your jam, I think is amazing.
+1:27:07
+And it's like it's just it has so much character and uniqueness to it of like all the different enemies looking like all these cosmic horrors and all of your heroes looking very heroic and, and burly.
+But also like crucially, you know, you have like a yeah, there's just, there's so much like option and variety to it that is just, it's so it's so great.
+1:27:32
+And it I feel like crucially, it doesn't overstay its welcome.
+Like the coffee break rogue like length is so perfect for this.
+Where like if this was like a like a 15 or 20 hour long campaign, yeah, I could see like, you know, maybe I'll put it down for a little bit.
+1:27:48
+But it just it zips with a capital Z and it just it zips faster and faster the more that you play it.
+And it's it's just almost creates this kind of feedback loop of like, well, now I now I got to see how how bad I can break it next time.
+And maybe that's it's it's fatal flaws that it's maybe too fast for its own good in some cases where in, yeah, like you just screen wipe entire things and you're like, well, OK, it didn't really seem like there was much going on.
+1:28:16
+There didn't feel like there was a whole lot of like one-on-one like meaningful, like tactical battles with other other like elites that I I kind of got from rift wizard.
+But like those are, I think overshadowed by just how much I I, I like the high points of this game that all of my my critiques on here, I think you're just like minor nitpicks for the most part.
+1:28:42
+But yeah, Path of Accra, that'll that'll wind that part down.
+And I think similar games to this, we've talked a lot about them.
+I mean, the upcoming lands of Acura, maybe later this year, 2025.
+There's two games that are kind of similar to that of like this weird 4X, like grand Strategy, but also like Rogi, question mark, Colin, I don't know if you've heard of like the Dominions series, like Dominions 5 Warriors of the Faith or something.
+1:29:13
+I've heard of it vaguely, but not much more than that.
+Or or Conquest of Elysium.
+I think those are two.
+I was just looking at Conquest of Elysium because apparently Lands of Acura is inspired by that.
+Yeah.
+So yeah, like for sure those will be something to wet your whistle until Humbaba takes takes 4X form and you're going to have armies becomes yeah, become Pumbaa.
+1:29:43
+But but yeah, between all the the previous episodes that we've done for, I'm going to call I'm going to lump all these into coffee break rogue like territory with doom, RL Jupiter Hell, previous episodes, rift wizard one previous episode.
+I'm going to put cube chaos as a coffee break rogue like in there as well, just in terms of its wild synergy.
+1:30:02
+Madness Tales Of Montreal, definitely not coffee break length, but like in terms of wild like break the game synergies certainly gets there one that we haven't covered yet.
+And I think I have plans on on how to figure out how to how to put like the the the the dog medicine in the cheese roll to serve it to my Co host here for dungeon crawl stone soup.
+1:30:29
+That is a game that I think is is longer than path of Acura.
+There might be some opinions on on on auto auto do everything in that game similar to here.
+But but yeah, another kind of very like combat first focused like none of this lore business, none of this like inventory management nonsense, none of this food meter crap.
+1:30:55
+Get all that out of the way.
+Just give me the the minotaur with the axe and let's go crushing stuff.
+Dungeon crawl Stone soup a stay tuned and 1/2 for sure on that front.
+But yeah, I think that with those similar games out of the way and with our rankings out of the way, we will wind down our our path here.
+1:31:13
+We will lay our heroes to rest on the astral path.
+And yeah, thank, thank the listeners for giving us the the path of Accra episode where you can e-mail us at grogpodzone@gmail.com.
+1:31:28
+You can see all the 8 based ACRA posting I've been doing on Mastodon Grogpod at game dev dot place and Grogpod dot zone.
+The website, the contact us tab on there where you can submit the the Google form for what we should what you guys want to see us play because it's a listener request episode.
+1:31:46
+I'll, I'll read off this, this very nice Apple review that we got on on.
+Apple package.
+Oh wow, right.
+From 1A JSBDFNJWVDB.
+A classic.
+1:32:02
+Classic.
+Who says keep up the great work?
+Five stars.
+I love the podcast.
+I found analysis.
+I found the analysis of gameplay really insightful.
+You can tell that the hosts are experienced gamers.
+I don't know but that part the banter between the hosts seems very genuine and they seem like actual friends.
+1:32:20
+I think they mentioned they went to college together or something.
+They make funny and self aware jokes.
+I think one or more of the hosts has a data science background, so they also sprinkle in some brief game analytics in there too.
+One of the past reviews mentioned issues with microphone quality.
+1:32:37
+The audio quality has definitely improved recently.
+Hooray.
+I really.
+Moving the mic closer to your face.
+Indeed, Yeah.
+I really respect that you guys have kept the niche podcast going for so long.
+Keep up the great work from a JSBDN.
+1:32:54
+Yeah, yeah, all the, all the letters.
+All right, hey AGABDSM, thank you so much for your message.
+Hey, no, that's great to hear.
+Thank you.
+And yeah, thank you for listening.
+It's we are friends and it's a lot of fun recording this and it's also fun to know that some of y'all are listening in and enjoying yourselves.
+1:33:16
+Rock'n'roll.
+And hey, AJ, be sure to drop a drop a request for our next request episode.
+Listen to request episode, which will I'm sure be upon us in no time.
+But in the meantime, we have a host Pic Will who's not here.
+1:33:36
+So I guess we're.
+We'll just tab on past that, no, What do we got next?
+Next episode.
+Well, we're, we're putting the, the emphasis on Pilgrim.
+We're we're John Wayne the Pilgrim this time for a free to play roguelike western themed roguelike deck builder called .45.
+1:33:59
+Which seems it, I guess you're, you're building out your decks of 6 shooter bullets that you're going, you're scouring the the Umbrel.
+Western balloons, sure, one can only seem to will pick this because the name is a reference to a caliber of ammunition.
+1:34:20
+So looking forward to talking about all the insurance and outs and the wild inaccuracies of the firearm presentation in this deck builder.
+That's not how you load acid bullets into a cult revolver.
+Not.
+Even close, not even close.
+1:34:36
+The greatest This I I took a took a little gander at this game it I definitely like what they've done with the UI.
+Looking forward to checking it out.
+All right, well, between then and now, we'll actually, yeah, that's that's going to wind up our Path of Accra episode.
+1:34:52
+So to to play us out a quote from something that's very appropriate.
+Between the time when the oceans drank Atlantis and the rise of the sons of Arias, there was an age undreamed of.
+1:35:12
+And unto this Mira, the Cyclops, Aslan and wrath of Eris, destined to wear the amethyst helm upon a troubled brow.
+Play us out O soundtrack on a path of high adventure.
+1:36:04
+The.
+1:36:42
+The.
