@@ -2,7 +2,7 @@
 layout: post
 title: "Path of Achra"
 date: 2025-05-07
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/path-of-achra.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/path_of_achra.jpg
 thumbnail-img: /assets/img/path_of_achra.jpg
 share-img: /assets/img/path_of_achra.jpg
-duration: "1:25:36"
-length: 72187056  
+duration: "1:37:43"
+length: 79720512  
 tags: ["2023", traditional roguelike, solo dev]
 ---
 
@@ -20,22 +20,22 @@ O, glorious roguelikes! Listener request week returns with a recent hit in the t
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxxxxxx" type="audio/mpeg">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/path-of-achra.mp3" type="audio/mpeg">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/reignbreaker/id1650474911?i=1000704554991) | [Spotify](https://open.spotify.com/episode/2Gq0YlWKzf0cF2GlQdAK0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/reignbreaker.txt)
 
 ---
-* 1:10 - game stats
-* 3:25 - one sentence description
-* 29:28 - our story begins
-* 1:10:55 - rankings and final thoughts
-* 1:17:54 - similar games
+* 1:45 - game stats
+* 2:32 - one sentence description from the community
+* 5:17 - how do you play this game?
+* 1:17:16 - rankings and final thoughts
+* 1:27:50 - similar games
 
 ---
 
-Next episode: xxxxxxxxxxxxxxx
+Next episode: Forty-Five
 
 Contact us at grogpodzone@gmail.com!
 
