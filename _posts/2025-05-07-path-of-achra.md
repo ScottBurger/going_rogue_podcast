@@ -24,7 +24,7 @@ O, glorious roguelikes! Listener request week returns with a recent hit in the t
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/reignbreaker/id1650474911?i=1000704554991) | [Spotify](https://open.spotify.com/episode/2Gq0YlWKzf0cF2GlQdAK0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/reignbreaker.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/path-of-achra/id1650474911?i=1000706630640) | [Spotify](https://open.spotify.com/episode/3Z9R76SgKaEuXjZyh5ZmIi) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/path_of_achra.txt)
 
 ---
 * 1:45 - game stats
