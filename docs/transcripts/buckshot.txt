@@ -1,0 +1,1378 @@
+0:09
+Greetings friends, and welcome to the Grog Pod Roguelike Podcast.
+For each episode we strap on our those little star things you put on your boots for riding on horses, whatever those are called, and we lock, sock and barrel our way through a roguelike game and if it's good enough we see if it loops back around at the end of the season.
+0:30
+For end of season Omega Bowl ratings.
+I am your demonic rave techno dealer host of the podcast Scott Berger and with me are my gas mask wearing gambling Co hosts.
+Hey, it's Andrew Tombstone Pizza Harshman.
+0:48
+This is William 50 caliber, right?
+Why not?
+And I guess I'll be calling 4045 Smith just a little bit smaller.
+Well, if you were anxiously awaiting this episode and looking ahead at the what what game were we playing next?
+1:07
+You would have seen on our previous episode.
+We were we were oh, we're just we're just going to talk about the game 45.
+Well, you are wrong.
+You're dead wrong listeners, because it is a double barreled double feature today where we are talking not only the the hit deck builder 45, but we're also talking the hit shoot yourself and your friends in the face simulator buckshot roulette, which we'll get to in a minute.
+1:31
+But if you want to skip ahead, there's, there'll be time stamps and all that good stuff.
+But we kick off with 45.
+The sun rises over the, the dusty townscape with I guess technically it's, it's period 40.5.
+But for all of the all the stuff, all the production stuff that I'm going to leave the period out because I, I know, I know for a fact it's going to cause sorting problems and it's going to throw all sorts of weird errors and things.
+1:56
+When you look for it in Steam, you have to look in the F section, so therefore no one cares about that period in front.
+Also, it is spelled out 45, not just the numbers.
+Yeah.
+But 45 was released March 24th, 2024, I believe a Steam exclusive.
+2:17
+And this was developed and published by one Microwave Studios, who I think there's there's maybe some conflicting information out there here where according to something I found, I think this was the microwave studios subreddit question mark says it was founded by 1 Greg Lobenov, an indie game developer who has developed a a recent indie hit called Chicory, which is a very colorful adventure game, a wonder song audio engine, and debatedly maybe created one of the first most popular rogue or one of the first like roguelike deck builders ever on Steam called Coincrypt.
+2:59
+Now, if that's true, then great.
+But what I, I think I do know for a fact with all of the hundreds of hours of journalistic integrity I've put into this research here is that this game is a student project 45 is a student project from 1 HTL Renweg in Vienna, Austria.
+3:22
+Let's give it up for Renweg.
+And I believe I had, I, I had to ask around because admittedly my knowledge of Austrian secondary schools is limited, but I believe HTL Renweg in Vienna, Austria is something it's like 1000 student, like secondary school slash high school slash Community College maybe.
+3:45
+And so with that in mind, your average player of 45 has oof, this, This would have been good, but it's just slightly lower. 35 hours of gameplay in it.
+No wait, hang on, that's a typo.
+I didn't update the Google doc.
+4:02
+We'll fix it and post people.
+Don't worry about it.
+Your average player of 45 more accurately has about 5 hours of gameplay in it.
+There we go.
+Which more?
+Believable.
+Yeah, that makes sense.
+I said 35 hours is a lot.
+It's the head cold people.
+What percentile?
+4:18
+Where, where is?
+This is the 758th most popular roguelike game on Steam with 864 total reviews.
+Will the colt Single action army 6 bullets more than enough to kill anything that moves?
+4:35
+But you only have one sentence to describe what one does in the game at 40-5.
+Well, I mean, I wish I had 6 bullets, but in this game, for some strange reason, this is a aspire like western themed game where you're 45 caliber, a western revolver has five rounds and you are progressing in much the same way as you would through slave Spire through procedure of the general map and the main mechanic.
+5:08
+This is all one long run on sentence.
+The main mechanic, it just revolves around the positioning of bullets, cursed bullets within this 5 cylinder sort of arrangements and how it rotates around.
+And that's kind of the the big gimmick with this game.
+Now, I was very excited when we were going through the list.
+5:24
+We're like, OK, Will's up.
+It's time for Will to pick something.
+Clearly he's going to narrow down on this, this very short list of games that are overwhelmingly positive roguelike deck builders on Steam.
+And it's very short and we've covered a lot of them so far.
+See previous episodes 1 Bilatro, 1 Sleigh the Spire.
+5:43
+Of course we've covered inscription, we've recently covered Daisomancer, we've covered Monster Train even.
+And so I was like, OK, the the the list, the list dwindles.
+And so I actually like on that graphic that I had posted, there's actually been a few more added to it, one of which we were talking about before hitting that record button.
+6:03
+Cube Chaos, if you want to call that a deck builder, recently crossed into the overwhelmingly positive.
+It's not.
+And it's not overwhelmed.
+That's just that's, that's fake news right there.
+We have 1A game that recently came out that's getting lauded pretty well called Starvaders, which is also, it's, it seems to be kind of like a, like a, a Tetris deck builder kind of hybrid.
+6:29
+It seems very interesting and one that is quite, quite literal in its title, one called rogue light deck builder.
+You're a, you're building a A deck.
+Like an actual like deck, like where you'd have like a a barbecue on top and like.
+6:47
+Oh, that's right.
+I remember.
+Yeah.
+Like for real?
+That's great.
+I believe, I believe that also crossed into the overwhelmingly positive territory.
+But so with, but yeah, I think like the the number, it was interesting to me because I was like, OK, how many?
+7:07
+Like there there's something like, I don't know, 10,000 roguelike games on Steam, roughly how many of them are or No, there's as a total, there are 14,728 total roguelike games on Steam.
+There are 135 of them that, and this is just all roguelike games, not just deck builders, but there are 135 of them that are overwhelmingly positive.
+7:25
+So something like less than 1%.
+And so, you know, I think we've had positive things to say.
+Even even Dysomancer I think had some interesting stuff going for it.
+So naturally 45 overwhelmingly positive deck builder Spire like and it's I think hitting on on some stuff that I think will has a a a secret fondness for western themes as well.
+7:49
+Between things like, I don't know, harmonica rim world.
+Lone Star is Lone Star western.
+Let's lump Kenchi in there as well.
+Man, you're really stretching it real.
+Hard here.
+Frontier, frontier life.
+Oh, there we go.
+8:06
+The dusty trails.
+So if you go out has has all the all the bullets are fully loaded in the chamber ready for ready for enjoyment kind of thing.
+The the value proposition.
+It's free game.
+Yeah, I think it's OK to like a game.
+8:22
+It's OK to not like a game.
+All this is a certain all devs go to go to heaven half episode here where I've been.
+I've been grappling with my conscience of like, OK, how do I like rate a game that's basically put out by, I don't know, Let's let's be generous and say Community College students as a student project put out put out on steam, overwhelmingly positive, but just didn't like resonate with me.
+8:49
+How can I critique that in a way that doesn't sound like this game stinks and the devs stink for making it?
+Well, it's no Balder's Gate 3.
+Almost.
+Almost.
+That's.
+Not a great game either to be fair, but I.
+I'm sorry, I was just trying to figure out if it's still it's no, I don't even know.
+9:06
+Like are Battlefield games still a thing?
+I was trying to think of like what's the what's the biggest?
+It's still Fortnite.
+Oh no, no, no, we can't.
+We don't talk about that.
+Yeah, the you're mentioning how there's the, the six shooter is only a 5 shooter in this game.
+So I mean, at least Fortnite has more accurate guns, I suppose.
+9:25
+All right, so let's I think we can, I think we can be somewhat critical because the game is is on Steam.
+It presents itself as a a fully loaded, if you'll pardon the pun, produced ready to play game.
+9:46
+So we can maybe treat it as such to some extent.
+I, I, I hear you, Scott, about being, you know, a little unsure how to how to review this.
+Hey, right out the gate, this is a game all about guns and the gun sound is not good.
+It's about.
+Bullets.
+10:01
+It's about bullets.
+Yeah, well, OK, it's about firearms and everything about shooting the firearms is like not good.
+So there's there's my my FPS meathead critique right out the gate.
+Is that like the sound effect weak, the actual like effect of like the screen kind of shaking?
+10:21
+Not good.
+The rotation of the of the the chamber, the what?
+The cylinder.
+Thank you so much.
+The cylinder no bueno.
+And yeah, it's unfortunate.
+Hey, why don't we start at the top?
+The visuals.
+10:37
+So yeah, it looks, I mean, it looks the bottoms unfinished.
+And it's, it's very clearly a very impressive student project.
+And it's, I guess fun that they put it on Steam.
+But like, I, I, I'm not, I don't, I didn't read any of the overwhelmingly positive reviews.
+10:56
+What do people have to say about this?
+I think that is so overwhelmingly positive.
+So that that's kind of an interesting point where I think this game like is, is fine in the context of like free Flash games from like the early 2000s.
+Yes, actually, there we go.
+11:13
+Yeah, that's about right.
+And I think that like, no shade on the devs because they have developed a better game than I could ever build, but I don't think this game deserves its overwhelmingly positive status because it was boosted up by like basically a single YouTube it's.
+11:29
+Actually down to only very positive for recent reviews.
+Well, for, well, I mean for all time.
+Once I add mine in there, how much it drives Oh.
+Boy.
+Well, I mean you'll be adding it's got 14 recent reviews, so.
+They they always upweight up my responses because, you know, wooden wads.
+11:46
+It's got so many steam.
+Points.
+But yeah, I think it was like sometime, sometime last year, the YouTube real civil engineer who as far as I could tell, I think like his YouTube channel is fine.
+It's not like a click bait, you know, like awful end of the spectrum of YouTube channels.
+12:02
+Like, you know, it's it's a, it's a fine, very popular YouTube channels, but.
+Is he a bet?
+Is he an A BET accredited engineer?
+You'll have to check his YouTube channel and find out.
+A lot of his thumbnails have little hard hats and safety vests, so I can only assume that that means he knows what he's.
+12:18
+Talking Does he have an?
+Does he have his professional engineering license?
+Is a mechanical engineer, so that's why audience why he's so interested in this.
+Have that stamp like impression thing that he can put on plans to say like yes I've looked these over and if it falls down you can execute me if this if this break classes.
+12:38
+That's basically what the professional engineering certificate is.
+It means that you can sign things.
+You can sign things be like criminally prosecuted if they're wrong.
+How exciting.
+I don't have what was what will not will.
+Rather Scott, our wonderful Uber host overlord of the podcast.
+12:59
+Did you watch this YouTube review?
+I I did watch or.
+What was the video?
+Was it a review?
+Was it a?
+Recurring.
+Series.
+What was it?
+It was this guy that, you know, he puts out this video says a free game should not be this good.
+And you know, people are saying people are mad that this game is free and like, why am I?
+13:17
+I would gladly pay money for this yeah and you know and I think I think the YouTube does a good job of like going through the game and just being like, you know, just like playing through it and be like OK, like that's what it was for like 30 minutes.
+Great has like 2 something million views, like almost as many views as our average show on YouTube, yet just leave out the M on there.
+13:41
+And and you you see that like the like the YouTube or the the steam like review chart.
+It's just kind of like like meh, just kind of like trundles along in like nowheresville.
+And then it just like explodes from this video that like the YouTube effect is 100% real, where it just catapulted this this game into the overwhelmingly positive category where, you know, like less than 1% of all of the games in this genre reside.
+14:12
+Probably a factor of like, you know, the fans being very enthusiastic going like it's a free game.
+So the, you know, barrier to entry there is basically 0.
+But yeah, I think like the the Youtubers, like, you know, people on Steam are saying that this game is so good, they would want to pay money for it.
+14:28
+So let me cover it.
+Which gave me hope that like, OK, maybe there's something here.
+And I think, I think we've played a lot of games on this podcast that have dubious levels of graphical fidelity.
+14:45
+And I think we've debated numerous times about like, Oh well, what's, what's the difference between like graphical complexity and, and aesthetic?
+And like, you know, like coming back to the the Cube chaos episode, yeah, the art is bad, but the aesthetic is fun.
+And it's, it's all about the, you know, the, the mood and the mindset kind of thing.
+15:03
+This one I think was, was rough for me.
+I will have to admit.
+I think like the, the art, Andrew, I think you alluded to earlier, I think it's fine.
+But there's, there's just like all, a lot of the art, like all of the art assets are just repeated constantly.
+There's like no variation or or real kind of style or oomph to it, which again, like free student projects like, you know, Curb Your Enthusiasm.
+15:29
+But but yeah, I think like if people on Steam are saying they are angry that they want to pay for this, by all means go, OK.
+So yeah, I'm sure you can track down, I'm sure Austria has some version of Cash App.
+15:46
+I'm.
+Sure they have.
+I'm sure they have the concept of money.
+Yeah, as far as far as I know, you can send them some, some pesos or some some like old timey pieces of aid, some pieces of aid Old West, you know, certificates of some kind, some bonds that you'd.
+16:04
+Steal off of a train or oh mining claim there.
+Oh, now we're talking.
+Yeah, I, I, I at first I was kind of, I was, I was surprised by the art because like in thumbnails in, in like the on the Steam page and like the main menu and the picture of like the character who's back you see with their, you know, wearing their gunslinger poncho that all like looked pretty good.
+16:34
+But then as soon as you kind of get into the game and like you see the first enemy, it's like, oh, this is kind of like placeholder artwork.
+It's they.
+Clearly played the whole art budget on the back of this guy that the Pokémon view that you have of his.
+16:52
+Poncho excellent.
+Poncho graphics.
+Great.
+Actually that the back of this dude looks like decent art.
+Indeed, indeed, and every reason there's just kind of the art again, it looks like kind of like placeholder stuff.
+Now I, I appreciate the the actual.
+17:08
+Now let's talk about the aesthetic.
+The aesthetic is like, hey, you know, we don't have like a lot of time or money, obviously as a student project.
+So let's do this kind of like sketched on on like a map.
+You can you can imagine the gunslingers are planning their journey over land and they're, you know, right, they're using, you know, these big bulky charcoal pencils or something to sketch something out on on their map and like it has this. 2000 sketched.
+17:32
+Appearance and it looks like pretty good.
+But the actual Flash art.
+Yeah, the little yeah, sort of it's, it's, yeah, no, it's not dissimilar, but it's like it's clear that they're like going for this kind of sketched out, rushed, almost kind of like concept art style of artwork, but it just looks incomplete.
+17:55
+I almost would have preferred it if it was like if the art was I don't know how to phrase this like quote more bad, where like if the art was like like, you know that that like a wanted poster.
+It's like on the faded, something like the faded, like the sun faded parchment.
+It's got like all the scribbles and like hard edges to it kind of thing.
+18:12
+That's.
+Going to take some real skill.
+That's the issue here is I think that.
+We just.
+Well, the back of this guy's poncho looks great.
+It's clear, it's clear.
+They just, they, you know, they put this on steam and they didn't, you know, bother.
+I I can't imagine that they would, You know, there's a reason that they didn't charge money for this.
+I realized like hey, you know this is not a full package deal.
+18:31
+All of the slate aspire like prototype arts.
+If you play enough Slate Aspire, you unlock.
+Notice that they didn't release the game.
+It reminds me that the big key thing here is that they understood that what they had was bad and they fixed it, whereas this team maybe has not understood or has decided.
+18:49
+Or it's free and they don't care.
+Right, and so free and they don't care, I think is the most realistic response, but that doesn't enhance my experience as the player of the game at all.
+I I just get to look at ugly things.
+My visual field has been filled with things that make me feel bad because of how bad it is.
+19:07
+That's what's happening here.
+I I, I rate all things on this podcast as if someone came and left like ACD just at my doorstep and I put it in my non existent CD holder in my computer and I'm playing it with no context whatsoever about its cost or how many people made it.
+19:28
+I'm rating them all as if they've been made by the same level of studio, which hurts this game more than.
+He's the only one who grades on a curb, I think.
+It, it hurts this game more than most because like, I think this game is probably a good game for what it is.
+19:46
+It's just not something that we're probably going to end up recommending like you spend your time on because I I for me, at least in playing video games, time is a significantly more scarce resource than money.
+Like spending $5 or $10 on a game is not the limiting factor.
+20:04
+It's spending 10 hours on that game.
+Indeed, indeed.
+Speaking of the game, let's talk about the game mechanics.
+I think the core concept of like, hey, you got the cylinder, you got a limited number of spots to load up your your bullets.
+Very clever.
+20:20
+I think it's, it's neat that you have to I, I think it's a great implementation of like the theme.
+And I think at its core, this is like a pretty clever, cool idea, but it's not fully fleshed out.
+20:37
+Yeah, I mean the bullets right now, like several of them have like basically like a dev warning like this is incomplete or like, oh, we should like do something different here.
+Like they actually like put in like they're sort of like dev notes into the the actual descriptions.
+And it's just like, oh, OK, this is really incomplete.
+20:53
+You can see that in many different places too throughout the map.
+Like you'll go to a place, you'll enter the old join the event or whatever.
+And it's like this is under construction, you know, check back later.
+And it's just like, OK, well, this is a very early game then.
+But you're like, right, the mechanic here, the main, the core gimmick as I, as I started this thing out with was is that you have a cylinder that rotates.
+21:13
+And what you're doing as a player is you're loading in these cursed bullets, which have different effects into these five cylinder or yeah, 5-5 different chambers, chambers in this exactly.
+And thank you, thank you.
+And, and you're trying to get the order right so that as you play it, you know it, it turns every time.
+21:32
+And the effects have like a lot of things based on like what happened before it, what happened after it, reversing the, you know, the direction of it.
+It's all very much a game of can you think 5 moves ahead?
+And can you plan out like a set of events, which is maximizes your, the, you know, the outcomes you want over 5 events?
+21:52
+And so in that way, it's, it's much like chess.
+It's much like any of these other games where you're like, all right, I need to like plan, do a little planning and then optimize.
+And then really this strategy and synergies of like collecting and building the deck are kind of the, the backbone of what makes your play actually effective.
+And that's, you know, obviously a core to all Spire like games, but the cylinder is rotating is the main thing for this.
+22:13
+Will, did you beat this game?
+Nope, I got bored.
+You got.
+Did you beat the 1st?
+Yeah, no, I got to, I got to.
+I think right now I I got into the the middle of the second act and then the game crash and it was, yeah.
+It was just like a oh, I'm sorry, you're done.
+I'm like, all right, I am done.
+22:29
+Thank you.
+Well, for what it's worth will the the quote end of this game is also under construction, so you have to you're not missing out on much.
+It just why don't they just bake it some more?
+Why do they have to release it in such an uncomplete or incomplete state?
+Well, my guess is that they just wouldn't really release it instead.
+22:48
+My guess is that they.
+Do the project.
+So they had to get it done in that quarter, right, or that semester?
+In that way, I, I feel like, I feel like it's not something that like they released on the Steam with any kind of ambition to be like, you know what?
+We're gonna disrupt this genre.
+We're gonna, we're coming for that Spire title here and we're gonna, we're gonna totally reinvent everything.
+23:06
+But they're putting their names next to it.
+That's I think that's fine.
+And you know, hey, they got they got more ratings on Steam than I do and more power to them.
+I think it's just that like, I don't think that the developers of this game expected this game to blow up so much.
+And like, you know, if if you have like AI don't know dev team of like one or two people, then it's just like, OK, this thing's blowing up.
+23:28
+This is like a little student project of mine.
+What do I do now?
+I think it was probably just put on steam as like a last like, hey, I'm I'm glad that I made this thing.
+I put it out on steam for people to see and play with.
+Hey, people are having a great time with it.
+Maybe not us specifically, and that's fine.
+23:44
+I feel like you know it being if if this game costs like a.
+Dollar five.
+If it costs $5, I'd be a lot.
+More mad but yeah I think that like the the fact that like you know things are incomplete you know it's it's very much like the kind of style that it is for the price point is fine but I think as as we'll get to with like.
+24:05
+Similar names, a little bit of money, I think with a if I got paid $5 then suddenly, you know, then we could start to think about it then.
+I have I have two major.
+Critiques of this game one is it doesn't auto draw your cards.
+Oh my God, yes.
+And I've already forgotten what the other one is because it bugs me so much.
+24:24
+Oh, the other one is that the enemies don't have like names or tags to them and so they they just and their move sets are so boring.
+It's just what are what are you?
+Attack, defend and then inflict burn.
+Because in this Western hellscape, apparently you're going to be on fire a lot.
+24:41
+Yeah.
+They basically don't do anything.
+I think the the leading cause of death in the Old West is my understanding.
+Like they could have spontaneous combustion.
+Cowboy Combustion.
+They could have.
+They could be shooting snakes.
+Snake shooting.
+But seriously though, the fact that it doesn't it it, it goes back to the point Andrew made right at the beginning where it like it doesn't feel good to play the game.
+25:08
+You'd like have to drag stuff in an awkward way.
+It doesn't auto draw your cards even at the beginning when it doesn't like there's no options.
+You have to click four times to draw 4 cards.
+There's no like, well, maybe I'll decide not to click.
+25:25
+It's just it's clicking for its own sake.
+It's just kind of annoying and it it's just such bad you I feel.
+It's not.
+It's not great.
+And I know Will Will commented in our discord about when you Click to go to the next place, you then have to click like, yes, I would like to go into this.
+25:46
+It's like, yes, I've already made that clear that I want to go to that place by clicking on it.
+Whoa, whoa, Are you sure you can't go back?
+You can go back, yeah, Yeah, OK.
+You can go back so far.
+I can do the game.
+You can go back and you can go like it's actually not a slave aspire like map in that you can just backtrack and go to all of them.
+26:06
+You could hit every node on the map if you wanted.
+Is there a way to scroll the map up like I?
+I couldn't tell where I was going.
+To drag the the screen around so it's not a screw.
+OK, I see cause like the way it was just by default rendering on my screen was like the bottom half of my screen was blank and then like the top F was the the map, which was partially obscured by like bits of the menu and everything regarding the clicking to regarding it not auto drawing your cards.
+26:37
+I can imagine like during the presentation of this project, like wanting to walk the audience through what is happening.
+And if it just quickly auto draws, it's like you don't have an opportunity to be like, OK, all right, here's what's happening mechanically.
+And no, no, no.
+So I, I, I think that maybe it was just on.
+26:54
+Cards.
+All other games, all other robots.
+Drawing Not everyone in your audience is guaranteed to.
+Know.
+That I'd barely know what the deck tilder is.
+I would prefer for the cards to appear with no animation whatsoever.
+It's just like they pop into existence.
+It's it's still, it's not.
+27:10
+I'm just I'm trying to offer up an explanation as to why they would have possibly done this.
+Like maybe just for the?
+Sake of your your motion Your motion to to to excuse is denied.
+These devs are are are obligated morally obligated to be defended in this court of law and.
+27:27
+Strike it from the.
+Record strike it.
+Now what I don't like is the the dragging of the cards into the different chambers.
+Like almost every round, every player turn, I was having an issue where I would drag the card and I didn't quite get it into the hit box and it would then pop back into my into my hand.
+27:50
+Like I I've I was having issues with with just the simple act of putting the cards into the chambers which was annoying.
+For our FPS expert, I'm a little bit surprised by this because you're you'd think that your accuracy would be second to none, but.
+28:06
+You know what?
+Baffled.
+Me.
+And this is a perfect game, as we've established.
+So the fault lies with me, Yes, right.
+Exactly correct baffled me about.
+Establishing the imperfect game.
+I don't know, I felt really stupid a because I failed the tutorial three times in a row, but also but also because like the the chamber numbering on here is like completely backwards to what I thought it was.
+28:25
+Right clockwise is how your brain thinks.
+Well, well, not even like how the chamber rotates, but like I think I think there is some legitimate like interesting game design around like like the bullet types and their placement in the chamber and and like, like that stuff.
+28:42
+I was like, oh.
+Yeah, it could be cool.
+Like there like that kept me engaged and interested to be like, OK, I'm gonna slog through the tutorial 'cause there's something going on here with this kind of engine building here.
+But I always thought it was like so, so for example, like as you, as you progress through this game and encounter the rich in depth story and lore, the the priest of of the of the small town Aqua Bell says, hey, it's dangerous out there, but you probably won't listen to me.
+29:14
+Nobody does.
+So here, take this at least, and you know, the priest will give you a bullet like most priests will.
+And this bullet, the guardian Angel bullet says that the bullet in slot 3 gets protected in that, you know, when you or you're firing off these rounds, having the guardian Angel bullet in like passively in the chamber and you shoot through the bullet in chamber #3 then it'll, it'll stay in there.
+29:41
+Like, OK, that's, that's kind of neat and interesting.
+I didn't.
+I didn't realize that chamber #5 was the one at the top.
+Not chamber #1.
+And wait, chamber #5 is the one at the top.
+I'm 99%. 543 counter clockwise from the vertical position to the left.
+29:58
+Yeah, that that doesn't make any sense.
+You got it.
+Yeah, 5 is the top position.
+That's 12:00 position.
+And I kept wondering, that's not one.
+No.
+And I kept wondering why.
+Yeah, like why is my engine not working?
+I clearly put the thing into slot 40.
+30:15
+I only just realized that maybe like 10 minutes before.
+Wait, are there bullets that that do stuff on slot 4?
+Yeah, there's bullets that do stuff like basically for every slot that's like, oh, if this if this bullet is in slot 3, then do this thing.
+If it's in slot 2, then do this.
+Which presents a very interesting element of like, OK, like I want to be able to use this passive effect, but what's the trade off between actually like the active effect and having the chamber rotate and you know, and all that good stuff.
+30:43
+We also haven't talked about bullet parrying, but Colin, it sounded like you wanted to.
+Yeah, I know.
+I mean, like there's a we've been bashing on this game for pretty much the whole time.
+But there is a reason why people like this game.
+The the potential combinations of like twisting the bullet around.
+31:01
+And like, I like that it's not at first I was like, oh, I'm surprised that it lets you fire and then put more things in and then fire and then some of them stay in there.
+But I think that actually does do a good job of like providing some level of like interesting combinations of things.
+31:18
+So like, I mean, the the numbering is weird, but whatever.
+It is a cool conceit.
+It's a cool gimmick.
+I think I like this gimmick better than I like the Dysomancer gimmick.
+31:36
+Yeah, I I mean, I'm just not AI dice just don't do it for me.
+And that's not even because I couldn't figure out that you could play the the random magic Dyson Dyson answer.
+But no, like I think this is a really cool gimmick and I'm a little I am sad because I was excited for the first like 5 minutes of playing this.
+31:54
+And also I don't I don't care about aesthetics if they're bad.
+So like the the fact that had bad graphics didn't bother me at all but the the mechanics of like oh you just have like 2 enemies that are the same and they just cycle through for a while.
+32:11
+It's like no bosses, right?
+No elites.
+No.
+No.
+I think, I think there's AI don't know if it's an elite or if it is a just another enemy type that like you have your, you have drifter A, you have drifter B with the gas mask that's set to you on fire.
+32:30
+You have fights where drifter A and drifter B are both shooting at you.
+You have fights where it's both Drifter A and then there's some some cases where there's three Drifters and.
+Well, and like there's, there's the case where your, your, your bullets are frozen or your revolving thing.
+32:51
+We've we've already forgotten what the name of it is the we.
+Have a cylinder and chambers.
+Those are our two.
+Key the the actual revolving part of the revolver, I want to just call it the revolver, but that's frozen.
+And so you just put in one bullet at a time and shoot it.
+33:07
+And it's very interesting because it makes your hand and your deck completely different to play like they're the ones that are just like do this thing on load and you just load and then it happens or there I had one the the the worker bullet, which like gives you an extra energy.
+33:25
+I don't remember what they actually called the currency in the game, but give you an extra reserve as long as it stays in your in in your in your chambers.
+It's like cool done put it in slot 4 or whenever and you're good to go.
+But and it just stays in there forever.
+But the other ones that are like on rotate do this thing.
+33:42
+It's like well my gun never rotate so I just can't use this I.
+Thought that was a cool.
+I thought that was a cool like.
+Mini game gimmick.
+Yeah.
+And I, I thought for sure there would be like more of that, Like, oh, the gun is like been in the sun too long and it's super hot and I can't like hold, you know?
+33:57
+Like it it's, it does 2, it fires and then it goes 2 spaces.
+So like, yeah, I mean, I honestly, for all I know it does do that in parts of the game because I didn't play it for very long because.
+I guess we bugged me too much.
+To to get beyond that.
+We were not very financially invested in completing it.
+34:17
+Yeah.
+And I think that like the the Spire style, FTL style, like node traversal map would be interesting if there was more stuff to do than like just combat and cards.
+Like it seemed like oh like maybe there's some story here, but like, I don't know, you interact with like 2 NPCS question mark and then it's just like gunfight over here, gunfight over there, gunfight over there.
+34:38
+And I went back and I was like, I was like, are all Western movies like this where like it's just gunfight after gunfight?
+And maybe.
+But it feels to me that like there's some like, it's, it seems like a cool aesthetic and like, like genre to play this kind of game in.
+34:57
+Like, oh, like I could use like, you know, in FTL, you know, you're using your combat abilities to solve story stuff.
+And in this case it seems very, very well poised.
+Like, OK, I've got like my revolver and like all these different bullets in it.
+I'm going to use it to like solve this problem of like the water barrel is sealed tight and we need to shoot it open for the for the donkey to drink out.
+35:18
+I don't know.
+Jimmy's all in the well.
+Got to shoot him to get him.
+Out better put him out of his misery.
+Oh yeah, he can have like an alignment thing anyway.
+Yeah, Yeah.
+No, that'd be, that would be great.
+And I'm sure when 45, the sequel comes out, 46 it will, yeah.
+35:36
+No, it would be a natural name.
+That would be fun indeed.
+Yeah, it's a it's a lot of gun fights where the description is is a fun description.
+It says take on enemies and come out on top.
+That's that's kind of what you do and that's about it.
+35:52
+Oh, it was.
+I just found it.
+It's, it was.
+Griff Lands.
+That's the other.
+I think the.
+Western themed roguelike deck builder where, you know, that one's much more narrative heavy, but they're the western I'd say.
+I mean it's an alien western, but like western has been like at least to some degree incorporated into the theming for these the Spire likes.
+36:12
+Yeah, a dope aesthetic.
+I I really, I really like the aesthetic of that game.
+Maybe the deck building combat stuff maybe less so, but.
+Is there is there is there any good cyberpunk versions of a Spire like game?
+There's there's one that I've been kind of like ghosting in the discord for called into the Grid that I think should be launching this year that looks very interesting.
+36:38
+I followed it from like it's.
+I think I got like a very like a pre alpha code at one point to to demo it and.
+Oh bragging pre alpha Jesus.
+That what is it?
+That's fucking Omega code here.
+Yeah, but that one, that one does look.
+Very back around, yeah.
+Do we have anything else we want to we want to talk about 45 before we we load up our our second game to talk.
+37:03
+About were we rat off into the sunset, no.
+Oh the music is actually surprisingly good in my opinion.
+It's it definitely evokes that western style without getting repetitive and annoying and I'm curious where they got it or how they made it.
+37:22
+Pretty good, pretty good, catchy.
+I like it.
+I've never had this.
+That's how involved I was with the the music.
+So better than the firearm, the actual gun firing sound effects, I can tell you that.
+Was not even a pistol.
+I didn't even I don't even remember the sound effect.
+37:37
+That's it.
+Didn't really like affect me affect.
+No, it wasn't that.
+No, it was pretty forgettable.
+OK, not great, was it?
+Sorry, Will, you're asking us to tell you what type of gun I made the sound like?
+37:53
+Did they even try to make it?
+Did they try to make it like a pistol even?
+Sounded like a pistol.
+Yeah, I think.
+Sure.
+OK it wasn't like a wail helm scream style like Wilhelm scream is the screams as this bullet is.
+Too.
+It wasn't like an OP.
+I'm sure, I'm sure it.
+38:09
+Was it sounded like an Ivor Jost in top brake five shot revolver 38 S&W damaged.
+There we go, the.
+Most powerful?
+38 caliber, so they're you're calling it a 45, but it's really a 38.
+No, I'm just I just I I looked up what guns that actually had only 5 chambers and there are many and.
+38:30
+They're all very small, 38.
+Is not meant to be, I mean like that.
+I think that that's a snub.
+Is that a snub nose?
+Oh yeah, Oh yeah, this, this gun is like.
+Snub nose?
+Well, there's things about be snubbed.
+Actually I'm looking at pictures and it's smaller than hand for many of these these ones the.
+38:47
+Detective like, you know, secondary sort of like pistol.
+Yeah, there's.
+No, it's just like you point blank into their gut.
+Dana, Lieutenant, you're a loose cannon.
+Suck on this.
+I mean, I think what you really should be doing with it though, is putting in a certain number of bullets, spinning the chamber and then putting it on a table and letting you and your friends see who gets shot.
+39:11
+Is that a?
+Is that a transition?
+I think that was that I that I hear.
+Is that a pretty good?
+You could be playing Russian roulette, or you could be playing buckshot roulette well.
+Now that we're that we've got it loaded, we've got that show loaded, It's time, Time to talk.
+39:30
+All right, Buckshot Roulette, our second game of the evening.
+Buckshot Roulette released April 4th, 2024.
+Will you were asking about how many copies this game sold?
+Oh boy.
+According to what I've picked up, Steam release reportedly sold 1,000,000 copies in two weeks.
+39:48
+Wham.
+By December 2024, the game had reached a milestone of 4 million copies sold a week.
+And as of May 8th, just earlier this month I believe on Steam alone, Buckshot Roulette has topped out at 6,000,000 sales. 6,000,000 Baby. 4 bucks a pop. 3 or 4 bucks something like that yeah, so we're.
+40:09
+Talking about $24 million revenue minus.
+Game gigs cut.
+We're talking about $15.8 million in gross profit right there.
+And I think Steam gets 30%.
+I I I put in 34% but being conservative here so that's I can't believe if someone could rake it how how many how big is the team solo dev I.
+40:31
+Think it's AI believe this is a solo dev effort by 1 by one Mike Klubnika from Koda who who is not new to game dev.
+This is this is a guy who's put out I think like like upward of like 20 short kind of like experimental games that you can find on his website Mike Klubnika KLUBN ika.com.
+40:58
+They all have this kind of like atmospheric horror puzzle aesthetic to them.
+And there's one they're, they're all very kind of like European industrial, like, I don't know that like Saw particularly from like AI was going.
+41:13
+To say Silent Hill.
+Yeah.
+That that that does seem a little more more or or or Andrew like H Rod maybe.
+Oh yeah, it's got whatever that like.
+It's the same kind of visual vibe as Lethal Company.
+Yeah, I'm not sure what to describe.
+41:30
+It's like gritty, gritty PlayStation One Yeah, N 60.
+It's like dark N64 graphics, like if the N64 was invented in like East Germany instead of.
+Yeah, yeah.
+41:47
+Aesthetically it's, it's got, you know, very stylized look in the and it works and everything looks finished.
+But but continuing on with some stats here, because I know people are, are are they're shouting, they're like, what about the stats, the important stats?
+Let's see.
+42:04
+Yeah, they're, we're looking for the the folks, the the folks at home are looking for one single solitary stat that would support the idea that this is even a rogue light.
+Well, we'll get there.
+Don't worry about it.
+Very good, very good.
+Mike has another another free to or he has a free to play game on Steam called unsorted Horror, which I played.
+42:21
+I played one game out of very interesting, very fun and kind of psychological horror surreal game and published buckshot roulette published by critical reflex, who has I think they published a lot of like these kind of themes of games.
+Some notable titles that at one point I remembered what these were and have totally escaped me between mouthwashing Arctic eggs, how fish is made and one that is a potential stay tuned called Lunasid or Lun Acid.
+42:51
+Your average player of buckshot roulette has about 6 hours of gameplay in it and this ranks in at the 21st most popular roguelike game on Steam with 91,141 total reviews.
+Who, who's, who's going to take the roulette spin here for the the one shell description?
+43:15
+I'll do it.
+Buckshot roulette is Russian roulette with your friends, except you've got 3 lives instead of 1 or maybe sometimes 4 lives and also items and a shotgun and sometimes you can saw off that shotgun to kill to kill your friends more efficiently.
+43:35
+Now, Andrew brought up the point of is that like my very first bullet point under the the buckshot roulette section, is this a roguelike at all?
+No, this is a board game.
+Yeah.
+And like that was that was going to be my exact next thing of Colin, have you ever played the the I don't know, is this is this a board game?
+43:53
+Have you played Skulls before?
+Skulls and roses, yes, that.
+Maybe it's like the.
+Thing is, you have like the coasters.
+Does that sound familiar?
+No, never mind.
+I don't know what that is.
+You played King of Tokyo.
+No, but I believe I've seen the art of the board.
+44:12
+It reminds me of of King of Tokyo, which is a board game that I played a lot in like the early twenty 10s where it's basically the same thing except for much more complicated and better.
+But it's you know, it's each person gets a turd and they get to like attack their friends, except it's a board game and you're playing in person and it's more.
+44:34
+I think that honestly, this the only reason this is anything is because it's a video game and you can play it online with your friends and you don't have to be there in person.
+Like if you made you could make this a board game.
+Sure.
+And it would be a very bad board game because you could just play other board games instead.
+44:50
+Well, yeah, you wouldn't, you wouldn't have.
+I think the the aesthetic vibe of this game, which I think really, really carries it pretty hard that and like Colin, you're talking about the multiplayer.
+I think like we, we played, you know, a, a, a game of the multiplayer and I think it was, it was fine for what it was.
+45:11
+I can't even imagine playing the single player of this game for more than the tutorial.
+Well, I think that like there's.
+I was kind of shocked to see that like people have like more than like 2 hours of gameplay in this because it's because.
+They played it with their friends multiple times.
+45:26
+They had fun one time.
+And then it's because it's because they don't have friends that own hundreds of board games and they haven't been exposed to what real board games could be because.
+They never get together in person, they only play games online and so this is the online board game.
+45:42
+Tabletop Simulator you can play there's I got to join Scott on our new podcast the.
+Board pod grog, Broadpod grog.
+No, it's not going to work.
+45:59
+I kind of disagree.
+I think this could be potentially kind of a fun but but potentially problematic board game where like you have a physical shotgun.
+Crop.
+It sprays you in the face with water or something.
+But so, yeah, the the this game, for what it is, I think is very impressive.
+46:20
+I think it's maybe not a triumph, but it is like an experience.
+And it's an experience that is everything you've said about the developer.
+Totally like tracks.
+They've been like cultivating this aesthetic.
+They've been in game design for a long time.
+I think the the look and the experience of this game is really something impressive.
+46:43
+And it it makes sense that like, you know, I'm sure word of mouth really helped this game.
+Oh, you got to try out this game.
+You got to try out novel concept right out the gate.
+And then the actual like execution, pardon the pun, is really great.
+And it takes there's some some really clever game design choices or decision making where it's like, OK, how do we take this core concept of Russian Roulette?
+47:05
+And we and we put in some modifiers to really amp up the interest and amp up the excitement and that that, that core foundation of gameplay.
+It's not even Russian roulette.
+Well.
+It's Russian roulette, except for you're shooting at other people, so it's not Russian roulette.
+47:24
+Sure, but I I mean I would argue.
+That you can.
+You can shoot at yourself.
+Sure, but it.
+That's why that's that's I think that's.
+But you can always shoot at other people and you probably do more.
+So that's a great point.
+Maybe we're.
+Getting ahead of ourselves mechanically out of the mechanics of this game work.
+47:42
+Well, I think like the the this game starts with a very beautiful and haunting shower of shotgun shells dropping from from the screen and starts you off.
+47:58
+I think like this game like is, is so understated, but like I feel like does so much with like like environmental storytelling that I'm just like, OK, I've waken.
+I've woken up in an Estonian nightclub industrial bathroom, like like warehouse rave.
+48:17
+I'm in the bathroom.
+There's pills on the counter.
+The the word afraid question mark has been written on like the the repaired over broken glass of the mirror.
+And you start the game by kicking open the door and you're looking out over this like rave pit with like this shadowy figure, like smoking a cigarette.
+48:37
+And you're just like you can.
+You can smell the rust.
+You can smell like the the the dirt in the air.
+And there's I believe the solo dev also composed like the techno music that's in this game.
+Excellent.
+Good.
+And it is like a surprisingly bumping soundtrack.
+48:56
+Like, you know, house techno music is not like my go to genre.
+But yeah, like for what it for what it is and what it's doing.
+I'm like, yeah, OK, I'm in.
+I've kicked the door open.
+I'm on this catwalk.
+There's a dude shadowy figure smoking.
+You go to the next door, you kick.
+You can only open doors in Estonia, I'm guessing by kicking them.
+49:15
+And you are.
+You were brought into some like backroom with like, I don't know, camera equipment and stuff.
+And there's this ghost, I don't know, like just monster figure on the other side of this, what looks like to be a ping pong table that looks like some sort of cartoonish, more welcoming version of like a Stephen King Langolier who safety first, of course, we should say hands over a a general release of liability document for you to type your name onto and and sign.
+49:53
+And just like this like big industrial, like clamping mechanism that just goes like cut junk onto this like boring legal document.
+You have to like type your name in with these big chunky buttons.
+Like, I'm 100% on board.
+Like, let's see what you got, $3 indie game like aesthetic.
+50:12
+Yeah, it's, it's doing it for me so far.
+And you know, you, you look over in front of the, the, the boom box and you have your little like act, you know, round one, round two, round 3 markers.
+And the dealer says, all right, you know the deal.
+50:27
+It's Russian Lourette, the whatever that word is with the head cold people with a shotgun.
+And the gimmick here is that you have how many 1234?
+You have 8 shells and on any given round a random number of those will be blanks versus live rounds.
+50:48
+And you shoot your, you get hit with a live round, you lose one of your three lives for the round and whoever loses their lives first loses that round.
+And whoever, whoever wins the 3rd and final round walks away the winner kind of deal.
+51:05
+And yeah, I think that just like the you, you pick up the shotgun and your option is you or the dealer and you are presented with like, OK, here's how many shotgun shells are live versus, you know, let's say you have like 1 live round, 2 blanks and your option is are you going to roll the dice?
+51:26
+You're going to try to shoot yourself or the dealer.
+If you crucially, if you shoot yourself with a blank, the dealer's turn is skipped.
+So that's kind of the roulette aspect there.
+This is for the single player game.
+Single player, yes.
+And for the multiplayer it just means you get to go again.
+I think so.
+51:42
+I think that's how it worked.
+Yeah.
+Yeah.
+And so that's that's kind of the gist of it.
+And then, you know, you, you let loose this, the shotgun blast into the smiling dealer who then starts, who then comes back with a grimacing, frowny face for the rest of the match without I thought was kind of a fun touch.
+52:00
+This is smiling smiling actor mask for sad actor mask.
+But throughout the course of of the game here, you'll be presented with with various items that I think we talked about before, ranging from from like handcuffs to magnifying glasses to cigarettes, beer, burner phones, hand saws, adrenaline, expired medicine, of course, remote controls, all all sorts of things that cigarettes that will give you more life or do more damage, Skip, skip turns and things like that.
+52:37
+So and yeah, I think that like, you know, you play through, I guess like the the single player quote story mode is I guess maybe a tutorial at the same time.
+And you know, as you progress, like you get more availability for items.
+So the the possibility space for like, all right, how are you going to beat this dealer guide increases over time.
+52:56
+And maybe that's the rogue bit question mark of it, if I don't know if you could, if you could squint.
+I got distracted thinking about this because I'm pretty sure you could play this game with a deck of cards pretty easily actually.
+And that would be.
+Cheaper than that would be cheaper than $4.
+53:12
+Is is this game less or more violent than Uno?
+Depends on who you play with.
+Yeah, that.
+Yeah.
+Well, it's, it's, it's the same amount violent, but it has graphics.
+So there you go.
+Like every See, what you don't see is that every game of Uno that you're playing is actually is set in a gritty Estonian prison nightclub with a shotgun.
+53:33
+You just they don't.
+They're not showing you that theme.
+They had to tone it down considerably for the for the.
+For the 50s or whenever they released it.
+And yeah, I think that like, you know, you progress through phase one, phase two, phase three, and then, you know, you're eventually given a a briefcase full of cash and you you ride off into out to tall in or, or wherever you're going to go clubbing next with this briefcase full of cash after having shot this demonic figure in the face multiple times without crucially, you getting Kurt Cobain did the process.
+54:07
+And I think like the the thing that people mostly play the single player for is the double or nothing money mode.
+Where if at if you have completed the the tutorial in the bathroom, you will be greeted with a set of pills and a big chunky CRT monitor in there where again blinking you miss it kind of feature.
+54:32
+If you like click on the monitor that'll take you to the leaderboards.
+And the global leaderboards are all all kinds of fucked up because everyone cheats at it.
+Whatever.
+But I dear listeners and the reigning grog pod champion of the of the endless mode between all the Co hosts 'cause I'm the only one that has completed the double or nothing money mode in that I walk away with the.
+54:56
+Actually, that's not true.
+Did you do the double or nothing money mode?
+I did the the quadruple or nothing money mode.
+Oh my, that's that's.
+Unlocked later.
+But none of these achievements matter.
+That's a lot. 1 Multiply.
+I I have to, I have to correct myself there.
+55:13
+No, Scott, you're the reigning champion.
+Go.
+Ahead.
+That is good.
+What a.
+Poker Blake in the chamber well.
+What a buckshot roulette poker face.
+But but my achievement still stands that we played one multiplayer game and I won despite being the only person who did not beat the single player.
+55:28
+I absolutely lost and got sent to presumably hell.
+This is what it looks like.
+Well, it was baffling because I think I won the first round, Colin won the second round.
+And no, no, I didn't win any rounds you.
+Didn't win.
+Maybe it was Will who won the second round, but and then Andrew maybe won the last one.
+55:46
+But it was, it was super unclear to me in multiplayer mode, which plays effectively the same way as single player, but you're using those items and there's there's a couple.
+I feel like it plays completely differently than a single player.
+That's it.
+Yeah, because you are.
+Rather than just being you versus one other person, it's you versus three of your friends.
+56:06
+So it becomes entirely a game of social.
+Like there is there, There is no game.
+The only game is convincing your friends to shoot each other and not you is every it it's every.
+So This is why I was comparing it to king of Tokyo, because it's, it's got the same vibe of a lot of board games where you are, you're not really playing the game, you're playing each other.
+56:30
+And so it's convincing like, oh, ha, ha, no will no, but we've got to join an alliance.
+Like you have to pick who you're shooting based off of who you know is going to get the who's going to get the most mad.
+So you have to like pre justify why, oh why you've picked them.
+So you like flip a coin and be like, oh, look, it was the coins fault.
+56:47
+It wasn't me.
+Like it's completely different game.
+And like I can see if if 6 million people had bought it and just played the single player game, I would question society.
+Many people playing the the the like fun social game.
+57:04
+I was like, OK, I think that you could play better games than this, but I get the like, it's a fun two hour, 3 hour like thing to do with your friends and people do much stupider things just as an excuse to hang out with their friends like a podcast.
+57:20
+So like Colin as the as the board game, online board game player between all those are there.
+Like it felt to me that like when we were playing the multiplayer version of this, like the, the player elimination aspect felt kind of under baked that like, you know, you, you're, you're eliminated from it and then you're just kind of you have to sit out and you can't do anything.
+57:40
+It feels like there's a missed opportunity that like, oh, like I could, I could as a ghost look into the shotgun to see if like the the shell color what it is and see if I could like try to.
+You should be able to like.
+You should be able to like blow on their items and make them you're I.
+57:56
+I don't even think you should necessarily be able to do anything, but you should be able to like or like meaningfully affect the outcome of the game.
+You should be able to like rattle their their stuff.
+Yeah, that'll be, that'll be fun for sure, for sure.
+But importantly, I dealt the most damage.
+58:11
+I also won the award for least careful, most resourceful and the wealthiest.
+So there you have it.
+Meanwhile, Will got the coveted award of most deaths and the chimney.
+Which my number of deaths was tied with a lot of other people too.
+58:26
+It's just I happened to get it.
+I don't.
+Yeah, you were the first one to die.
+It's pretty.
+Pretty silly, but the chimney of course is awarded to the player who smokes the most cigarettes.
+Yes, yes, yes, but yeah no, definitely fun.
+And I, I think this game, the, the I, I, I appreciate that the single player and the multiplayer are, are so like distinct and, and different and you get 2 novel and engaging experiences out of both.
+58:57
+And you know, for a game with such, you know, retrographics between the, the visual effects beyond just like, you know, the raw rendering of like the, the models and everything and the sound design.
+59:15
+It's really cultivates an atmosphere and really puts you on edge when in first person.
+You see that little low Poly shotgun barrel come up pointed right at you.
+You know, you go cross eyed looking at it and it's it makes you sweat.
+59:32
+It's very impressive.
+And again, you know clearly the work of a veteran dev.
+I think the thing for me that kind of made me think that like, oh, This is why people could play the single player for a long time, like the double or Nothing money mode.
+59:49
+Like you play through like your 3 rounds, you're offered the briefcase.
+Oh, but would you, do you want to double your score or do you want to walk away with what you got now and then so that you, you would play through another three rounds?
+But you have this kind of there, there's like a thing with certain traditional rogue legs, which this game is like as far away from as possible that incorporate the, the concept of streak scoring a lot.
+1:00:11
+And so there's like, there's some short ones that are like, Oh yeah, but they're relatively simple.
+You can.
+You can beat them.
+In like 20 or 30 minutes, but like streak scoring is a big aspect to it.
+And I can definitely see that being like the main replayability factor for the single player mode 'cause when I was, I did, I cashed out on like 1 and then I went through like another one.
+1:00:34
+I was like, OK, I'm on round two and like, it felt a lot more tense and I could see if you were like 3-4 rounds in, like, OK, I'm gonna like, and if you have like a cold, but.
+You can't spend that money on anything, so it doesn't matter.
+Oh, but you can spend it on your your clubbing bill.
+1:00:52
+You literally you cannot though if there was literally if there was a bill that you could spend it on, it would make more.
+Well, that well, the money is your leaderboard ranking on the thing for like, you know, if you're playing, if you have like a group of friends, let's say for a video game podcast who were similarly interested in such a game mode, then you could easily set up like a all right, I've I've set the top score.
+1:01:16
+Who's going to knock me off of the rankings?
+And then someone will come in and be like, oh, well, I'm super motivated to come and do this.
+And like I could see, I could see that for like the single player mode, the multiplayer mode.
+Yeah, 100%.
+It's a board game.
+I think there's like some fun, like player interaction.
+1:01:32
+There's definitely like quote UN quote real board games that do like stuff better, like skulls.
+Colin, have you played Coupe Coup COUP?
+That one I I feel like does.
+I don't think you could put quotes around real board games when we're talking about actual real board games, Scott.
+1:01:49
+You know what we need to do, We need, we need to, to take like what we're going to go to like the seediest industrial nightclub that we can find in maybe Sodo, maybe somewhere in Tacoma.
+We'll just bring like a like a Trader Joe's bag full of of.
+We'll kick the door open.
+1:02:05
+We'll kick the door open.
+We'll, we'll get some expired meds out and yeah, we'll just.
+Like get out your your bug out bag full of board games.
+Oh.
+Wow.
+All right, Yeah, we'll.
+Set up a.
+To a peek of his ready to go bag full of stuff.
+1:02:21
+Well, you got a lot of really high class stuff there.
+You got Catan Carcazone, don't you?
+Don't.
+You put that on me.
+I'm just goofing.
+I've got great things like 7 wonders.
+Lots of shit no one's ever heard of with a bunch of UMA outs over the.
+1:02:38
+About like Lorenzo and Twilight Inscription, which is the of course rolling right version of Twilight Imperium.
+The playable version of Twilight Imperium, folks, There'll be shotguns.
+You can store a shotgun in the box the Twilight Imperium comes in.
+1:02:55
+It is a strategy board game that takes an eternity to play, and the people like it, really like it.
+But anyway, yes, mechanically this is just a board game, but I think it wields the power of the video game medium really well to amplify and elevate that that that core game play.
+1:03:16
+I think what this says to me is more companies need to take their board game and make weird, gritty Eastern European versions of them.
+So there's a game called.
+Ports but like.
+There's a game called Cash and Guns which is honestly pretty close to this.
+1:03:32
+The the conceit of that is you just your, your, your gangster is coming back from a robbery and you're trying to figure out how to split up the loot and everyone's got like guns and you choose who to shoot and then you flip over to see whether or not you put a blank or a loaded bullet in your gun.
+1:03:51
+It's very similar to this.
+It's very fun you.
+Have like physical foam props.
+You have physical foam props.
+Yeah, it's very fun.
+I think you could make an extremely like a, a version of it like this where you like you've returned to your techno basement after like after robbing a bank in rural Estonia.
+1:04:14
+And I, I'm not sure is there any an established are, are we actually in Estonia in this game or is that something that we've concocted ourselves?
+I think we've concocted it, but like, you know, I'm just self inserting like the dev as like, oh, this is just like how the world of Estonia is.
+1:04:30
+And the developer is kindly showing us an insight into into the world over there.
+Yeah.
+But I think you could make more, more board game like games that have a strong social aspect to them and I think that they would be popular.
+1:04:47
+Yeah, I, I seem to recall there was like a version of Uno for like the Xbox that was like obscenely popular because of like you had like local voice.
+No, it was yeah, it was Uno and you had like local voice chat, like local video on or something like that.
+So I.
+Remember my college roommate's younger brother playing it while we were like visiting his parents house and he was we were all like hanging out and he was just playing on his Xbox playing Uno or sorry or something like that in the.
+1:05:15
+Excellent.
+And some smoking, some drinking, threat of self mutilation in there.
+And yeah, you you, you too can sell 6,000,000 copies on Steam I'm pretty sure.
+Yeah, the fact that this made him a millionaire is impressive.
+Well, to be fair, like I did.
+1:05:32
+It went double or nothing a lot of times.
+Yeah, well done.
+I played one of the games from his other free game on steam called Unsorted Horror which is like I think it's like 5 it's like 5 or 7 like.
+No, they are Estonian.
+It's it's it's an Estonian developer.
+1:05:49
+That's where we can.
+Yeah.
+OK.
+I I wasn't sure if you were pulling Estonia out of nowhere.
+Oh no, he is.
+Yeah, he the game.
+The developer is from Estonia, so that means that like all his nightclub, Weird Action also takes place in Estonia.
+Presumably.
+It's autobiographical.
+Yes.
+Right.
+Yes.
+Understood.
+1:06:05
+But the, the other game that he developed that's I mean, like all of all of his short games are like free on his website, but you can on Steam, you can find unsorted horror, which is like, it feels like those PlayStation demo discs where like you would have like a bunch of like short little little games on like in a collection.
+1:06:23
+And the one that I played there was like, I, I could see why like this game sold so well because like, there's a lot of like good ideas and there's a lot of like the reason why this couldn't exist as a like physical tabletop board game is because there's like a lot of visual and like auditory and game interaction element of like, I'm going to press on this chunky button in the game, it goes Cathunk.
+1:06:46
+And like the bathroom is gritty and you'd have, you were definitely not going to want to, you know, touch the doorknobs there.
+Like you, you feel like you're in a seedy environment.
+And this, this one game that I played in that unsorted horror collection was really clever.
+1:07:01
+We're like, you're, you're like assembling this drill to escape out of like this, this like apocalyptic, like prison bunker type deal.
+You're like, I've got to escape and see the real world.
+And like you, you're going through and like assembling this thing and then, Oh no, it's breaking down.
+1:07:17
+And then security is called and you're like, I was like frantically trying to like, I'm like, OK, this is fun.
+Like I am kind of panicking while putting this thing together.
+You eventually get outside.
+You're like, oh, like the sun and the, you know, the low.
+Spoiler alert.
+Well, I'll, I'll save the real spoiler, but the, you know, the ending to that game is, is has a fun twist to it that I'm like, yeah, OK, I am very interested to see what else this guy's made because like that kind of, you know, I feel like that journey of like the game development process is like, you know, you're putting together all these little things, like these little projects and seeing it come together.
+1:07:53
+I think he's made a couple games after Buckshot now that I remember, he's made two more games.
+So Buckshot Roulette came out December 2023, according to his website or on his website.
+And then January 24 is hot swap rave and April 1st 20 this year is fused 240.
+1:08:12
+So just 50 days ago.
+But but he's been cranking out these games like, you know, every few months or so since like 2021.
+And yeah, I think, I think it is.
+It has paid off.
+Ratings time.
+Yeah, let's, let's spin that.
+1:08:29
+I mean, unless.
+There's anything else?
+Hey I'll I'll go first.
+I didn't review any of these because 1 is a student project and the other is like a micro game that's 30.
+Minutes.
+There's a rating, right?
+There.
+So there you have it.
+1:08:47
+I, I think and I think both are, are very impressive for what for what they are, but they're in their own category.
+I, I feel like.
+So I, I didn't bother assigning reviews cuz as I've mentioned before, y'all really set me up for failure right out of the gate by changing the ranking system.
+1:09:08
+So my, you know, my rankings all screwed up in hardly manners anyway.
+But I do want to mention I think at this.
+Point You've been on the podcast for longer than you have.
+Nope.
+Been.
+Certainly not.
+Set up to fail.
+Never had a chance.
+Never had a chance but yeah, again, the core core mechanic of having that rotating cylinder with those chambers and loading up your cards.
+1:09:33
+Very cool, very great.
+I am starting to think that maybe they put it on Steam just so they could kind of lay claim and take credit for like, hey, we came up with this idea and we we might do something with this in the future.
+Not that they necessarily have like a legal entitlement to that mechanic, but that, you know, they can, they can, they can, they've established that like it's their original idea and it's a good original idea.
+1:10:00
+And it would be cool to see it to put together in a full fully fledged indie game because the theme and mechanics are neat.
+And As for As for buckshot roulette, definitely had a lot of fun, definitely unique and intriguing and and really like immersive experience, dare I say.
+1:10:20
+And it's nice to see like a a visionary solo dev with like a very specific like vision and who's in the habit of making like kind of artsy fartsy games.
+Make a game that is more like commercially viable and having commercial success without having to like fully sell out.
+1:10:40
+So like I commend you, our dear Estonian rave dev A, good on you.
+I'll go next.
+I gave 45 a 4.5.
+You know, if you're rating it as a class project, good job.
+1:10:59
+A you you get an A you pass the class.
+But I don't want to spend my time on it.
+It's fine.
+It's it's got some weird stuff to it.
+It's got a like a cool little gimmick to get you started.
+If you want to keep playing it that's fine.
+1:11:16
+But I just didn't find it to be that fun.
+It felt like a tech demo and a decent one, but not not a real game quite yet.
+Buckshot roulette is a board game.
+You could play better board games.
+Cashing Guns is good.
+King of Tokyo is probably good.
+1:11:33
+I haven't played it in a while if you hit me up if you want more other board game recommendations.
+My my real recommendation from this is game dives out there.
+Maybe you should make more board games into video games and just be able to play them online.
+1:11:53
+Well and put some some weird graphics on them and you'll have a grand old time.
+That's all.
+Oh, I got 55.
+Mostly because it was actually like, fine fun for two wish hours, but yeah.
+Scott, call it friendo, Who's up next?
+1:12:10
+Let's see, I'm looking for a coin or something.
+Looking for some shotgun shells on my desk here.
+They're conspicuously absent.
+Let's you know.
+I'll go next.
+Because you know, so you know.
+I was not expecting that.
+1:12:25
+Usually you want to hold yours for last, but all right.
+Yeah, I pointed the the the gun at you thinking for sure it was going to be a live round, but it turned out to be a blank.
+So so I guess my turn to skip.
+Yeah, I think 45 within the context of it being a student project.
+1:12:42
+Yeah, again, I think like a good a good student project, if this game came out in like 2008 in like the height of the like new grounds, like flash era, like OK, yeah, would have been would have been like pretty good.
+But sadly, I think there are or maybe maybe it's a good thing there are other better free to play rogue games on Steam.
+1:13:05
+And yeah, I think that 45 was just like shoved into the limelight of overwhelmingly positive by the YouTube effect.
+And it's no shade on the developers of the game, but I just don't think that it's it's ready for that kind of level quite yet, especially when you compare it to all the other stuff in that category.
+1:13:22
+So it's a it's a four for me just in terms of like, how does it like objectively rank against like all the other stuff that we've played?
+And yeah, I would I would put it ahead of sort of the stars, the pit and maybe slightly behind the Cataclysm dark days ahead just because like, yeah, I'm the the revolver gimmick is it's definite gimmick mode here because it's like that's the only thing going for it.
+1:13:46
+But I could I could see it being evolved.
+Like you put like some budget behind it, like, yeah, but it could be interesting.
+Like put some zazz into the aesthetic, put an actual story in there, like tighten up everything about it and just have that have that be as kind of the core mechanic, like it could be doing something Buckshot rule out.
+1:14:04
+I'm going to give a 7.3 just ahead of war SIM the realm of his Lona and just behind hollow cure.
+Save the fans another free to play Rd. game on steam.
+I had a lot of fun with Buckshot.
+I think the the price point is just right for what it is.
+1:14:22
+I think it has a lot of really great like gritty atmosphere to it.
+Lots of like good techno vibes and I like it was a game that I thought about a lot after playing it the first time that I played it of like, yeah, maybe I should go back to it.
+Maybe I should play some more of it.
+1:14:37
+So I'm glad that we had the opportunity here.
+It is tagged a rogue like on Steam or rogue light or whatever, but it certainly is not one.
+So maybe it Garner's one of those honorary rogue tags that I use here on the on the Garg pod website.
+1:14:54
+But but for what it is and for what's going for, I think it was great fun.
+And the time that I was playing the the double or nothing money mode, I was, I was having like OK, like the, I'm feeling tense, the techno music's pounding.
+1:15:09
+All in all, a good time.
+Maybe the multiplayer stuff could have been tightened up a little bit, but a good fun time for 3 bucks.
+All right, I guess that brings it to me.
+Let's see here 45.
+I guess we'll do that one first.
+There's a, so as a self-described experts with Firelight games, I it's, it's paramount, absolutely critical that enemies challenge archetypes.
+1:15:36
+They challenge builds and the enemies don't.
+The enemies have block attack and they inflict vulnerable and they don't.
+So they, they are not challenging the fundamental archetype archetypical builds that you would have.
+1:15:52
+And so this is a a just a massive flaw with this, with his otherwise interesting idea.
+I think the mechanic of the cylinder rotating, that's that's all that's fun.
+That's interesting.
+I like that it can rotate one way the other way you can protect bullets.
+1:16:09
+All that stuff is fun, interesting stuff, but you just didn't package it quite right.
+And the art and the incomplete nature of it just gives me the feeling of a what did I say?
+I said a five out of 10 below the six threshold for recommendation.
+1:16:25
+I don't recommend this game.
+Buckshot roulettes.
+There's not a lot to say here.
+There's not a lot.
+There's not a lot of content to talk about.
+I am very surprised.
+I you know, it's it's cool.
+I'm glad that you made a lot of money off this and I get, you know, I somewhat get why you did, but is it a fun game that I would like want to continue playing?
+1:16:45
+No, no, it, as everyone has said, it's a board game and it's a, it's one that has, I think unfortunately we live in this world where YouTube videos seem to dominate the, the capture of attention for, for games.
+1:17:02
+And people watched, oh, look at my new, you know, buckshot roulette game where, you know, it's just like, and it's just like, oh, now I have to, it's only $4.00 or is it 3?
+I don't know how much it is, but it's just yeah, no, there's I don't get me wrong, great, great, great environment and idea for very short regame.
+1:17:26
+I'm glad you've millions.
+Of dollars only.
+But no, it's not for me.
+That's a four point 4.5 out of 10 for me.
+Below below 45.
+So there you have it.
+Well, for some quick rapid fire similar games here for for similar games to 45, I think like there's a shocking amount of like western themed rogue games that are either out or coming out to some degree.
+1:17:56
+There's one I think it's it's coming soon, but there's a demo of a creatively titled game called Rootin Tootin Lutin and Shootin, which is a it's a turn based bullet hell, like super hot style game where like the bullets are only moving on the screen when you move, which is super, super interesting.
+1:18:17
+There is a there's a traditional or yeah, so let's maybe stick with western for now.
+There's a game called Card Cowboy that I think is highly rated.
+We talked about super amazing wagon adventure I think before for like super short micro games.
+Andrew, you played some some Colt Canyon.
+1:18:33
+Before, yeah.
+Some more some more Western action there.
+And I guess Wild Bastards is a is the the spin on the CR previous episode on Void Bastards.
+But wild bastards is like the the Western take on the the sci-fi adventure.
+1:18:50
+I feel like that's kind of like what we're sort of like looking for in terms of like production quality.
+But but yeah, anyway.
+And then free to play ones I mentioned like, Oh well, there's so many good free to play ones.
+We got a list of highly rated free to play Rd. games here.
+Previous episode Hollow cure for sure.
+1:19:08
+Then we have a frost train.
+We have another student project.
+This one comes out of a digipen here in Redmond 1,000,000 fatal guns is that one.
+There's a really good like top down like survivors like game called disfigure, which there's a ADLC option there to just like pay the dev because it's a free game.
+1:19:30
+You just like tip them 5 bucks to the DLC on the on the store which is fun.
+There's a very highly rated game called Moon Ring which is like a traditional roguelike.
+There's super auto pets which is a deck builder PvP game which is interesting.
+1:19:48
+And then I'll lump in a sword rogue on there too, just for for weirdness sake, But that's your similar games for 45 for quickly, for buckshot roulette, we have clearly inscription.
+I can't believe we didn't really talk about the the alignment there, but it is very.
+Better than inscription for my mind.
+1:20:04
+Like directly what?
+The.
+Fuck, take that back.
+Andrew, inspired by you just.
+Say, imagine if they'd taken buckshot roulette and like stretched it out into a different ordeal with like weird FMVS in it, like and there you have an inscription like.
+1:20:19
+That's the wrong opinion.
+I can't believe you just.
+Just gave buckshot roulette a lower score than 45.
+That's correct.
+Anyway, coming.
+At me without bad opinions.
+Dead Signal.
+Dead Signal is another similar game that I think that and an arsenate arsen arsenate ARSONATE people talk about a lot.
+1:20:41
+There's a Resident Evil 7 mini game DLC that is very saw coded called 21, which I think is like, you know, your standard kind of like 21 card game, but like your fingers get like peeled back if you if you fuck up.
+There's a game called desecrated deck, which I think is more of like on the horror aspect.
+1:20:59
+And we talked about the other games by the the solo dev Mike Klubnika that you can find at Mike, Mike Klubnika, KLUBN ika.com for all those other kind of similar games there.
+1:21:17
+But yeah, so as we as we wind down, as we eject the final game shell out of our podcast shotgun here, we'll quickly mention again our our e-mail grogpodzone@gmail.com.
+Grogpod at game dev dot place on Mastodon and Grogpod dot zone is the website with all, all the stuff, you know, the drill.
+1:21:38
+There's all the things there, Yeah.
+And for my Google Doc that I have for the the section under next episode teaser parentheses.
+Colin Pick.
+It is conspicuously blank here because.
+We're actually playing a board game next week.
+So that's gonna be pretty cool.
+1:21:54
+And we're playing Twilight Inscription.
+You may have heard of It's a famous roguelike board game.
+Very fast.
+Are there any board games that you could consider roguelike?
+Maybe maybe root like if you're playing the the raccoon of root like little single.
+You could play root I on root.
+1:22:11
+Yes.
+Broke Light No.
+I own root.
+I am root.
+I am root.
+What about what's that like?
+What's that one that comes in a giant box?
+It's like an RPG.
+It's ATM list Dungeons and Dragons type.
+No irritating of Gloom Haven, but that's that's not that's got an actual like story written.
+1:22:31
+Never mind.
+Root No, but we are not actually going to be playing a board game.
+We are going to be playing a video game.
+I love those.
+It's new, it's hot, it's what the kids are talking about.
+It's not buckshart roulette, it's blueprints.
+1:22:48
+Which is of course blueprints with AC like son of a king, not Prince like like architect.
+Which is what I thought when I heard people saying it a bunch.
+The Prince who?
+Is blue.
+Deliberate pun?
+Yes, it is in fact about building out a house, so the blueprints would make more sense in some ways.
+1:23:09
+Oh.
+My God that's an expensive game.
+Yes, this is a real game made by real developers.
+Oh.
+My God.
+It is new IT is it it?
+Appears to be a first person shooter.
+This is great.
+Oh, there's a shame.
+It is a.
+It is not a first.
+1:23:25
+Person perspective ish looking but.
+It is a rogue ish, maybe rogue like.
+It's probably not that rogue like, but maybe a little bit.
+I'm not sure.
+I don't really know that much about this game except for my friends who like board games like it so.
+1:23:44
+That's not a great recommendation.
+I've heard I've heard that this game is is something that like jump into without knowing anything about it and that like don't look up anything online.
+I it's, I don't know if this is like an inscription level event per SE, but I'm getting like similar kind of vibes from the from the interwebs of like don't look up anything about it.
+1:24:07
+Like, you know, go in like totally blind.
+It's effectively like a puzzle game or.
+Yeah, it's a puzzle game, so don't look up the solution to the puzzle.
+Yeah.
+Maybe.
+Colin, have you played the Castles of Mad King Ludwig?
+No, before I've I've seen the things of people comparing it to that.
+1:24:23
+But I guess we'll we'll find out once we get into it.
+But yeah, blueprints.
+Very exciting.
+All right, well that is going to wind down our double feature of 45 and a buckshot roulette this time and yeah, blueprints up next.
+1:24:43
+But for now, me and you, we are dancing on the edge of life and death, and to play us out will be some industrial Estonian warehouse rave music to shoot your friends to.
+1:25:15
+Music.
