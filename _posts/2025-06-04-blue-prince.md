@@ -24,7 +24,7 @@ Day 967... This week we unlock the enigmatic puzzle adventure / drunken architec
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/forty-five-buckshot-roulette/id1650474911?i=1000709279432) | [Spotify](https://open.spotify.com/episode/5RWemyolKukDJRDiJcOtXb) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/buckshot.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/blue-prince/id1650474911?i=1000711118287) | [Spotify](https://open.spotify.com/episode/1Sk2NVrimWWqIHbAu0ZqR3) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/buckshot.txt)
 
 ---
 * 1:04 - game stats
