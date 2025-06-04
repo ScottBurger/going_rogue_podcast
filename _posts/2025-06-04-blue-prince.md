@@ -31,7 +31,7 @@ Day 967... This week we unlock the enigmatic puzzle adventure / drunken architec
 * 2:33 - one sentence description
 * 3:08 - spoiler free ratings and thoughts
 * 10:04 - spoiler warning and general discussion
-* 1:20:26 - listener letter from Davion
+* 1:20:26 - listener letter on game pricing
 * 1:29:00 - rankings and final thoughts
 * 1:41:26 - similar games
 
