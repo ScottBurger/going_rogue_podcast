@@ -37,7 +37,7 @@ Day 967... This week we unlock the enigmatic puzzle adventure / drunken architec
 
 ---
 
-Next episode: Spiritfall (due to last second schedule change adter the recording)
+Next episode: Spiritfall (due to last second schedule change after the recording)
 
 Contact us at grogpodzone@gmail.com!
 
