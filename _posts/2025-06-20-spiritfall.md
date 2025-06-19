@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/blue_prince.jpg
-thumbnail-img: /assets/img/blue_prince.jpg
-share-img: /assets/img/blue_prince.jpg
+cover-img: /assets/img/spiritfall.jpg
+thumbnail-img: /assets/img/spiritfall.jpg
+share-img: /assets/img/spiritfall.jpg
 duration: "1:54:46"
 length: 95243040  
 tags: ["2023", platformer]
