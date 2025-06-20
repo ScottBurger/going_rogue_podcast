@@ -16,7 +16,7 @@ length: 86548368
 tags: ["2023", platformer]
 ---
 
-Dat ain't Falco! This week we wavedash into Spiritfall: the platformer beat-em-up with strong influence from the Super Smash Brothers series as well as Hades. The Blight has taken over the lands and your mysterious animal gods have tasked you, the Omenforged, to beat them back. With an array of weapons ranging from an axe-hammer to a scythe that transforms into a baseball bat, join us as we down-smash, L-cancel, and neutral-air our way across deserts, jungles, frozen wasteleands, and all the way up to the source of the Blight itself! No Johns in this episode, we promise.
+Dat ain't Falco! This week we wavedash into Spiritfall: the platformer beat-em-up with strong influence from the Super Smash Brothers series as well as Hades. The Blight has taken over the lands and your mysterious animal gods have tasked you, the Omenforged, to beat them back. With an array of weapons ranging from an axe-hammer to a scythe that transforms into a baseball bat, join us as we down-smash, L-cancel, and neutral-air our way across deserts, jungles, frozen wastelands, and all the way up to the source of the Blight itself! No Johns in this episode, we promise.
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -24,7 +24,7 @@ Dat ain't Falco! This week we wavedash into Spiritfall: the platformer beat-em-u
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/blue-prince/id1650474911?i=1000711118287) | [Spotify](https://open.spotify.com/episode/1Sk2NVrimWWqIHbAu0ZqR3) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/blue_prince.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/spiritfall/id1650474911?i=1000713702601) | [Spotify](https://open.spotify.com/episode/3dZlqBBj8NZGOcyMFnhCVA) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/spiritfall.txt)
 
 ---
 * 2:04 - game stats
@@ -46,5 +46,5 @@ Intro music: Charles Mingus - Mood Indigo
 Outro music: Spiritfall OST - The Frigid Veil
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NHITlg_G9Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
