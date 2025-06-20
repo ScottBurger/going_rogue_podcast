@@ -1,0 +1,1575 @@
+0:10
+Greetings friends and welcome to the Grog Pod Roguelike podcast where each episode we wave dash into a roguelike game, NAR a meteor cancel or two, and then rank it against the other wombo combo riffic rogues we've covered and see if it can edge guard its way into the end of season recap tournament.
+0:33
+I Am You're a sneaky Raccoon Spirit host of the podcast Scott Berger, and with me are my Smashing Co hosts.
+Oh, it's Colin.
+I'm one of the other nebulous Pokémon like spirits that inhabit this game.
+And I'm also here, Andrew, mask man, harsh man.
+0:51
+And that's the entire crew today will will be joining us next episode.
+More than likely, yes, because today we're covering a side scroller.
+A side.
+Scroll yes, I think Will got confused when when we said that we were playing our our next episode of of Vellum.
+1:10
+And I'm sure he must have heard Valheim, based on his Steam profile recently played stats.
+Anyway, yeah.
+We had to switch the game pick because we determined we cannot cover a Co-op third person shooter because people will not be around for Co-op third person shooter action.
+1:30
+Both Scott and I were on vacation during during this past two weeks, but not necessarily even at the same time so.
+Vacay time, Yeah, turns out you need people in order to do Co-op.
+But but yeah, but that that definitely gave us some some wiggle room in the schedule to cover this episode, which is bump, bump, bump.
+1:49
+Spirit Fall released early access April 3rd, 2023 and one point OD February 28th, 2024.
+You can find Spirit Fall on Steam, Switch, PlayStation and Xbox, kind of an everywhere All at once sort of game.
+2:06
+And this was developed and published.
+I think this is the first game by 1 Gentle Giant Games, who I think was a basically a team of three for the most part, ballooning all the way up to a team of five.
+2:23
+If you can believe it, that that big of a development team, Spirit fall.
+Your average player of this game has about 20 hours of gameplay time in it total.
+It's not too bad and spirit fall meteor smashes in on our rankings at the number 480 ninth most popular roguelike game on steam with 1682 total reviews.
+2:47
+Normally this is where I would like throw it up to, to the to the peanut gallery here for the one sentence description.
+But I was like, I think it it's it's been kind of like whoever picks it is the one that does the description now.
+And I think like, maybe that's me this time.
+3:02
+So I think my one sentence description is spirit.
+Like spirit fall is, is what it feels like to be one of those Smash Bros pros, like the the pro E sports players who just like dominate and like beat up on all the casual kids in the neighborhood.
+3:18
+That's kind of what this game feels like in a nutshell to me.
+But but yeah, it's a, as Andrew kind of alluded to in the intro, it is a 2D side scrolling platformer, beat em up slash ring em out fighting game with your your very colorful synergies and such like you would expect to see from Hades.
+3:41
+It it is.
+It's effectively your Smash Bros slash Hades mash up that we've all been.
+Claiming you you could have done the one sentence it it's Super Smash Brothers and Hades had a forbidden love child and it's this game.
+Perfect.
+Yeah.
+And I remember when this game was first either announced or like I had seen like gameplay of it.
+4:03
+I'm like, wow, this this looks very interesting.
+And this was like, I think right when we started the podcast, basically like way back.
+Well, I think we were, we were a few months in for podcasting like the the early 2023 era.
+And I thought, hmm, maybe as just like on a lark, I'll apply for, I think it was like their, their content creator access and they sent me a key, believe it or not, I'm like, what?
+4:33
+So the, the investment has paid off for them in that it only took what, maybe 2 1/2 years for us to actually getting around to reviewing it.
+But hey, you know, I think some things are well worth the wait.
+And I think this one certainly was.
+But yeah, I think as as Andrew pointed out, the the story for for this game the second you booted up is that we somehow accidentally have stumbled into a a fourth game of the unofficial purple hooded rogue.
+5:07
+Yeah, purple robes everywhere.
+Where we've discovered recently, starting with what was it?
+Dice.
+Dice.
+Dice Necromancer.
+Dice Romancer.
+I think it was, I think it was Noita technically, and then Diceomancer, very purple robe.
+5:25
+They're technically purple robe characters in Path of Acra.
+That's right.
+But but yeah.
+Here we have another purple robe.
+Robes.
+Are just great.
+They are great and I mean.
+Robes are almost as popular as the rogue like genre is getting to be I feel like.
+5:41
+The robe like.
+Oh, nailed it.
+Episode titled All right, yeah.
+What is what is the story so far?
+What is what is the situation is this purple a robe comes on.
+Beautiful transition into the the cinematic.
+5:57
+Good stuff.
+Yeah, I think this this game's story is kind of minimal, but maybe as well.
+I think it means forgetful.
+But well, I mean what we'll we'll get into it.
+But yeah, I think the the game story kind of opens up with like a very static, well done piece of art of this hooded robed figure.
+6:21
+There's some kind of like curse or COVID like infection on, on this purple robe character.
+They'd probably just came back from Alaskan cruise and they are headed up to this, this sunlit temple.
+They, they walk in, it's all dark and and dusty and unkept and everything.
+6:40
+And then they walk up to this altar surrounded by these seven big animal statues.
+And you hit the the button to activate and your character falls over and burst into flames.
+Perfect start.
+And then it goes into this cutscene of like the the blue, white purple flame being surrounded by the animals and the the animal spirits are saying that the perennial flame has made its choice.
+7:10
+And then they they just start like nagging you immediately saying an unremarkable vessel, your ability to sustain the old fire is questionable, which I'm like, you know what, for the first like hour or two, that was probably an accurate.
+Statement I was unremarkable for the first hour.
+7:28
+You know once that meta progression kicks in anyway they they say, they go on to say nonetheless you will be granted this chance.
+We are the divine spirits chosen to guide and protect this realm.
+Our powers have been diminishing ever since the Great Gate closed.
+7:44
+One hope remains take this mask and use it to restore our strength and the the the titular heroes mask of the open forged pops up and they say now go venture to the brink.
+Unseal the gate by any means necessary.
+8:03
+Any means necessary.
+The only means necessary which is playing through the game, which is a wonderful map, a wonderful sleigh, the Spire style map where you're choosing from different rewards and upon choosing you enter into a an arena not unlike a Smash Brothers arena.
+8:21
+It is, actually.
+I'm gonna, I'm gonna say it is.
+Unlike Smash Brothers Arenas in some ways, though.
+Well, the default, but it's a similar sort of layout.
+And of course, this game has, oh, a combat system to I think match.
+I think it's there's there's there's quite a few.
+8:37
+There's quite a lot going on with the combat system.
+So much so that I'm here to tell y'all don't try to play this with a mouse and keyboard.
+I think that's a bad idea.
+I assigned some of the keys to the side mouse buttons and oh boy did my carpal tunnel flare up.
+8:58
+Like real bad.
+It's yeah, you need a controller.
+Or even if if you're stuck with a a a mouse and keyboard, I think it might be better to just strictly put both hands on the keyboard like a proper rogue like and play it that way.
+How would you aim?
+9:14
+How would you?
+Sorry, what?
+What kind of aiming are we talking about?
+You, you don't, you don't need to aim with some of the weapons of this game.
+I mean, you just got close.
+Enough to them you have WASD, right?
+Yeah.
+But then you also can like you, you have WASD, but then also don't how do you like do forward or backward?
+9:35
+No, I guess that's true.
+I guess never mind.
+Yeah, there, there's, there's kind of a lot going on in this game in terms of like mechanical complexity.
+But I think one of the things this game does really well is not like getting getting too crazy with it, if that makes sense.
+9:53
+I think Andrew, when you were playing, hey.
+Sorry, I disagree.
+The tutorial I I was the tutorial is complicated enough.
+It's it's telling you so much information right out the gate.
+It's complicated enough that the devs knew like there's no way all players are going to actually be able to do all these inputs because it pops up and it's like, all right, here's a checklist of moves for you to do.
+10:13
+And I think there's 4 pages of, of, of checklist items and like those are, but that's optional.
+Like the checklist is not necessary.
+Like you can skip it.
+So we played, did we play the same tutorial?
+Because I feel like the, the fresh file tutorial that I did was like set like after you get your mask and the gods set you out of like, all right, go, go get them Tiger.
+10:33
+You know, you, you are running through the, your starting temple area, which is basically like your home base kind of.
+And there are these like big, big like nasty thorns everywhere.
+And you have to like dip, dodge, duck, dive and dodge through all the, the, the thorns and stuff.
+10:51
+And I thought like, OK, like this is good enough to kind of get like the basics of what's going on.
+And then it lets you out into into a run.
+I I think, Andrew, what you're describing is like the the practice dummies.
+Is that right?
+Oh, I, I immediately went to the the yes, I went to the practice dummy and I was like, all right, check it out.
+11:07
+You got it.
+You got a fast attack, you got a strong attack, you got a ranged attack.
+And it's like, and then you need to understand how you can do these in all these different directions and they have different effects.
+And like, I'm like, I don't know, I'm not, I'm like, I was having trouble with some of them, but then I realized, so I can just skip past it.
+11:23
+All right, great.
+Cool.
+I guess what what sorry, the reason I brought it up and what I thought was interesting about it is that it's presented in this checklist format like, oh, these are required in order for you to proceed, but but they realize like, oh, you're probably not going to be able to do all of them.
+11:38
+So actually you can you can just move, move along and there's a button to proceed to the next page of checklist items.
+You know what?
+This is boring.
+This stinks.
+Apparently you can just run past the test The, the, the, the, the, the, the, the target dummy.
+So.
+I got a question for you, Andrew, and I guess for you, Scott, as well.
+11:57
+How much Super Smash Brothers did you play as a child?
+All right, now this is a great question.
+Because I'm terrible.
+At least it was like, oh, this is Super Smash Brothers.
+Exactly.
+So I don't actually need to do any of this because my fingers just remember how to do it from the hours and hours I have.
+Well then there is our answer and I was about to bring this up that I I don't know fighting games.
+12:14
+I don't know Smash, and in fact I find smash exceedingly frustrating to play because I am so bad at it and yet I enjoyed this game so.
+So I guess never mind devs, you guys are doing great.
+You can just skip past the dummy.
+12:30
+You can just walk right past them and go to your.
+I played so many hours of Super Smash Bros Melee on the GameCube.
+That was a.
+So that would be.
+Smash Brothers Brawl.
+No pre brawl.
+What?
+On the GameCube.
+No, that's melee.
+12:46
+Excuse me, that's melee.
+Yeah, my mistake.
+I think I, I was maybe more of a smash 64 player and like in in, in kind of like that casual like, Oh, this is like a fun party game aspect and I was the proverbial punching bag for one of one of our not Well, I'll round them up to say like E sports, a junior E sports trainee will say for the the smash melee scene here in Washington state.
+13:21
+I I, I was looking through and I think I found the the Samus combo montage that I helped him edit back in like 2006 or, or prior.
+Not yet.
+I could post it later, but but I was, I was like, Oh yes, that the the Mötley Crüe song is definitely a a Scott edit from that era 100%.
+13:46
+But yeah.
+And.
+Then like you're timing the hits.
+Wow.
+Yeah, I think the I, I, I was more of a, I, I tried to, to do Smash Melee in high school, but I was definitely like the Halo kid.
+And by the time that, like, we all got to college and like, Smash Melee was like, Oh my God, like, there's actual like groups of people to play against that it had just so far like gone beyond my comprehension of neutral air attacks, forward tilt, meteor smashes, wave dashing.
+14:16
+More to come in that later Blake like forward tilts like I mean the the the glossary like what else do I have here in the smash wiki glossary neutral game technical skills zero death combos like I mean.
+It's the same thing.
+It's, it's all right.
+14:32
+So you have the X button and you have the Y button and you have one where you click it and you're not facing a direction and you have another one for up, down and left, right.
+This sounds a lot.
+So, so to be clear, if you played Smash Brothers, you'll have no problem picking this up.
+14:48
+If you if you are, do not I, I mean, I've played it of course, but like, I didn't understand what I was doing at any point playing any iteration of of Smash.
+If you're if you're not familiar with Smash then you will be somewhat confused like me.
+And I think that like, actually this game, we're.
+15:04
+Not confused, I guess overwhelmed.
+There's just there's, there's a lot happening and then I mean, it's the same thing.
+Like I remember when I was a kid trying to figure out a good game, my mom was like, you guys play a lot of video games.
+What's a good game that I might like?
+Me and my stupid child ignorance was like you should.
+15:21
+Try and play.
+Portal because it's like a puzzle game.
+And my mom had never used WASD and just was like absolutely unable to even engage with the first level.
+And I was like, oh, right.
+You need to be able to like, this is a whole set of skills that you're just assumed to have when you start playing games like that.
+15:40
+And this is not quite as bad as not knowing WASD, but having played a lot of Smash does like it took me an hour.
+And then I was like, oh, right, I remember how to do this.
+Oh, and you have to dodge through the attacks.
+Oh, and you have to do this and you have to smash and you have to like the the timing of holding and powering up.
+15:57
+It's like, yeah, all right, it is all coming back.
+So then you sat, you sat your mom down in a money match with Mew 2 King West Coast West and Pop Fizz, and she was just like, Oh yes, of course, naturally.
+And then just started for stalking everybody, right?
+All right, all right.
+So, so I have, I have a question.
+16:13
+Actually, I guess I have two questions.
+My understanding of Smash Brothers that there's always been a dedicated shield bubble button, right?
+Do we think it is a mistake that that is not one of the default actions in this game and it is instead reserved as a power?
+16:30
+Up No, I don't think so.
+I think that like this game has enough going on in terms of like mobility and like defensive tactics that I think you can, you can get away with not having like a shield to block incoming damage by default.
+16:51
+Because I the, I think that the, the dashing system in this game is, is pretty liberal in that like, you know, you can, you can like avoid quite a bit of damage.
+There's a lot of stuff that synergizes with it, but crucially, I think the in in smash Melee, there is a technical trick that you can do called wave dashing.
+17:13
+And this is like a a capital B big deal because it's like it's.
+Very hard for, is that correct?
+It's mandatory for a competitive play.
+It's, it's effectively mandatory because it's like, it's like a fast movement system across the map.
+And if you're not doing that, if you're just like slowly walking across the map, then it takes you like 5 times as long.
+17:33
+And so it is, it is effectively what separates Melee into like a competitive fighting game just by itself 'cause it's just like people are like you, you watch these, you know, smash montage videos from 2007.
+You're like, Jesus Christ, how do people understand what's happening on the screen?
+17:50
+That's just like constant like 4 foxes jumping around just like constantly waved.
+And you're just like, I don't have no idea what's going on, but in this.
+They're just reflecting bullets back and forth at each other all the time.
+It is like if you if you are sensitive to seizure stuff, be be warned.
+18:10
+Be cautioned before opening up one of these smash montages.
+But in this game in Spirit Fall, crucially, there is AI think the what is it a seahorse the the blue?
+Right.
+Seahorse.
+Yeah, of course, you know, each, each arena you're fighting in, you know, you select on your map, you see the different icons and there's, you know of course all sorts of different rewards to be had.
+18:32
+The main rewards, of course, are you're selecting the different icons of the different animal spirits and the animal spirits like the gods in Hades will grant you, you know, different types of boons.
+And yes, of course, one of them is a seahorse.
+The classic, when you think of like classic animals that, you know, have appeared in mythology and things like that.
+18:53
+Seahorse, that's a classic anyway.
+So.
+Yeah.
+What are What are the animals?
+They are in no particular order.
+They are Charbora.
+I don't care about their names, I just want to know what animals they.
+Are all right, all right, all right.
+19:09
+You have a you have your your green survivability defense deer.
+You have a pink crit chance wolf.
+You have a red phoenix burning status effect.
+You have a yellow Pikachu rabbit mobility and speed spirit.
+19:29
+You have your your teal polar bear who does like slowing and like crowd control stuff.
+You have your blue seahorse who does like knock back and combo stuff.
+And everyone's favorite, your purple raccoon.
+19:45
+Or I think this is like technically a red panda because its tail is so poopy, but but you know, some sort of mischievous raccoon or or panda small panda who does confusion effects.
+So I think that like there's I appreciate.
+There's some novel choices in there, which is is nice.
+20:02
+So I sorry but I cut you off Scott, as you were saying there is a wave dash like upgrade meta.
+Yeah, it's it's like it's built into this game like front and center as like one of the the first upgrades you get for the seahorse spirit where I I was, I was looking at.
+20:21
+Them like well, and and to be clear, though, there's two different upgrade systems.
+There's the within the run boon type system like in Hades, and then there's these other ones where you have a skill tree that's dedicated to each of these spirits.
+It's a, it's a meta progression skill tree that does both things like unlocking specific technical skills and things like, oh, like plus 15% damage to blah or you know, whatever.
+20:50
+The boring type of meta progression update and and this upgrades and this is one of the best things this game does.
+One of the one of the things that this game does best and is really a fantastic example of how these types of upgrades should be done is yeah, you need those stat boosts.
+21:09
+You're going to need more health, you're going to need to move a little quicker, but like these bespoke interesting new mechanics that you unlock and now can use forever more in every run.
+Super cool.
+All that being said, I did not upgrade the wave dash upgrade because it looked too complicated and I said I don't want to.
+21:25
+I don't want to learn how to do that.
+Well, the, the, the good.
+Well, I think you're probably not doing yourself any favors by doing carpal tunnel syndrome mode on on the mouse.
+But I will say like on Xbox controllers, just like plugged into the into the PC or like this game plays amazingly well on the Steam Deck.
+21:42
+It probably plays better on that than it did with my Xbox controller somehow.
+Yeah, this seems like the best game for Steam Deck.
+Yeah, for probably that's I believe it.
+But I I too was a little intimidated when I saw like oh shit wave dashing as like one of the first upgrades.
+21:58
+Like I just started getting like PTSD of like trying to like do do like your neutral air dodge into the ground as Samus and then getting like pummeled by my mirror match.
+Much better opponent Samus than me just and I'm just like, Oh my God, I don't know if I'm up for this.
+22:16
+And I just realized, like you basically just hit dash and jump literally at the same time on the ground and that's it.
+Like it's soup.
+It's like it's very streamlined and friendly to the point where I was like, Oh my God, like this is this what it feels like?
+What if you're good at Smash Melee where you're just like, like like zip, zip, zip, zip, zip, zip zipping around the the map.
+22:38
+I'm like, I finally get it.
+I finally get why Doctor Peepee and and all those other other famous smash Smash Bros are just like feeling so liberated and God like in that game because you you feel it here.
+22:54
+Like if you are able to get some of those, some of those upgrades going.
+But yeah, like I think the the thing that I was getting at was like the reason why not having the dedicated shield button is because like between using that wave dash mechanic to and it's a dodge too.
+23:10
+Like you can like literally dodge half of the stuff.
+And and to be clear for my reference, does does any version of smash have a dash with iframes?
+A.
+Dash with iframes I think well.
+I think all of the.
+I mean I'm pretty sure N64 doesn't but the even by melee I think they're the they do the dash.
+23:30
+What?
+What have I been doing?
+All right, anyway, right.
+I mean, it's, it's, it has actually been a while since I've played any of the.
+I have not played it since I played it on.
+Here's here's how out of loop on Smash I am.
+I did not even recognize this as a game related in any way mechanically to Smash until someone started posting like Smash memes in the discord.
+23:54
+And I'm like, oh wait, there's those bonus stages where you have to ring people out.
+And I hate, oh, that's why I hate it 'cause I'm having all these like subliminal flashbacks to like always getting knocked off the edge first, always being out in the in the four player free for all first and just being absolutely awful and having bad time and mad because bad.
+24:14
+Absolutely.
+Anyway, well now that you've brought up the those special stages so you you progress through the map.
+Most of the levels are not really like Super Smash brothers levels because they are enclosed.
+So rather than trying to throw you your opponent off or them trying to throw you off, 1 big difference is you have health and your opponents have health and you can smash them pretty darn good across the stage, but they'll splat against the wall.
+24:43
+It does extra damage.
+You can get things that make that better, but for the most part they are fairly small enclosed arenas.
+Except for these levels that Andrew was talking about, which is the only one where the enemy now has a percentage and you are trying to eject it from the map.
+25:01
+Exactly like Super Smash Brothers.
+They definitely put that in as a as an homage of like, we can't make a game that dislike Super Smash Brothers and not like give a little bit more of a wink.
+And so I like that they did that.
+I didn't, I don't really like the enemies that they have on it.
+25:16
+I found them to be kind of bland.
+They're well.
+Speaking of bland, I'm glad you brought this up.
+OK, question and well, is it is it that I'm becoming jaded and that like I've played, is it that I've played too many games for this podcast and there's not like space in my brain anymore to like hold lower information and lower terms?
+25:44
+Is it that or is it that?
+What's the name?
+Let's get spirit fall.
+Every every piece of terminology, every proper noun is so generic and forgettable.
+The name.
+The Spirit.
+Fall even the name of the developer gentle giant.
+26:00
+Your character is the Omen forged.
+What are you trying to do?
+You're trying to unseal and and cleanse the great Gate.
+Like what is I can't even.
+Do you guys remember that that game that came out, it was supposed to be like the magic clone, MTG clone and they had like little crystals or something or the the Blizzard one?
+26:22
+Yeah, it was a trade.
+It was a digital game or a credit card game, an actual physical.
+Cards.
+There's physical cards I.
+Mean there's a million of them.
+No, this was like a big one.
+There's a lot of money behind it anyway.
+Pokémon trading card game.
+We got nevermind, we got a new card election blood.
+26:38
+We got Arcana.
+Is that Arcanum Magica?
+There's there's another one that.
+Any winner?
+No.
+No.
+You continue on, I'll figure out what a did you mom and then I'll come back to this point.
+Yeah, I think Andrew, to your point about like the some of the stuff in this game feeling a little generic, I think I agree with, but I think I'm OK with at the same time, 'cause at the same like I feel like I'm here not so much to be like, oh man, I can't wait to beat this game with the Equinox or the late Blades or the Astrocord bow.
+27:11
+Like it's it's hard for for a game that, and I think we brought this up during our our previous episode on rain Breaker where a game is so very obvious in its like design homage.
+27:27
+Like this is this is very obvious Hades, but Smash brothers and you run the risk of developing your your game in such a way that's like, well, you know, I'm going to develop my game in such a way that's like, you know, basically this other extremely popular, well established Titan of the industry, but this other twist on it and you run the risk of it not being as good as that.
+27:50
+And how could it be?
+Because it's a Titan of the gaming industry.
+So I think that like in Haiti's, like you have all of these things that are so like bespoke and memorable and like very like set piece moments and all that, and that's great.
+And that's great for Hades.
+28:06
+For this game.
+I feel like it's just, you know what, just pick it up and just smash stuff and that's fine.
+Pick it up and smash indeed.
+And I do, having having insulted the game story and the games in in universe terminology and language, I now I now want to say that hey, you know, as generic as these terms are, the aesthetic and the character design and the enemy design is great.
+28:39
+I I love the way this game looks.
+Yeah.
+This game looks amazing.
+It it the, the everything is sort of has this kind of hand drawn quality to it.
+And there are the the different elemental effects you've got the different animal spirits that are associated with different elements and those elements, the way they're animated, the fire oh, looks so nice.
+29:02
+The little dust cloud that that appears when you switch directions as you're running this game looks good, and jumping in and smashing feels great.
+Yeah, I think the, the, the design aesthetic I think is, is really good in some areas.
+29:21
+It's like, you know, it's kind of and then as soon as I unlocked like the different skins that you can get from like the different you, you unlock enough of the the permanent meta progression skills with the various spirits and you can then select their their mask to give you like more starting bonuses and stuff.
+29:42
+And it comes with like very cool new animation if or like new animation and colors and just like a different skin to the character that look really good.
+And on top of that, you.
+Can they're not just they're not just color swaps, like there's a ton of these cosmetics.
+There's a lot of detail to it.
+29:59
+Well.
+And like, if you trade out the masks too, like the masks have pretty profound gameplay implications.
+Like the Fire 1, you get an extra jump.
+That's a wild thing to get from.
+Like that's, that's like you changed how you played the game because of that.
+30:16
+Indeed, And that's another thing that I think this game does like great.
+There's so many different ways to play it.
+There's so many interesting things to unlock, so much so that sometimes it's intimidating to a player like me, or it's like, whoa, whoa, whoa, wave dashing.
+I don't want to.
+I don't want to get.
+Involved in that I'm too young for wave dashing hidden behind a skill tree it's like all right you can get it really quick but you don't get it immediately blasted in your face like it's not don't get wave blasted the.
+30:43
+First round, it's true, it's true, but real quick we got we got to talk about not real quick.
+Actually, this could be a whole episode by itself.
+A lot of people are going to look at this game and they're going to think, hey, this looks a lot like Dead cells.
+In fact, the main character looks a lot like the main character from dead cells.
+31:00
+And I'm here to respond to those allegations by saying, yes, the main character does look a bit like our boy from dead Cells, except the art style I would argue is is at least more appealing to me.
+31:16
+The art style is more like exact and like drawn out, whereas, you know, dead cells is definitely like, you know, has this pixelated rendering to it, but also just in terms of raw character design, I think this is a definite step up from the dead cells guy.
+The dead cell guy, just a little flaming Moat.
+31:32
+No good.
+And here's I think I figured out what the problem is, because the Omen forged has a flaming head as well, but critically, you have the mask, there's a face.
+And we humans, our brains, we're just looking for faces everywhere.
+31:49
+And the fact that this main character has a face makes all the difference and immediately upgrades them because I think, as we all agreed on our Dead Cells episode, the main character design not so hot.
+Whereas the main character and the myriad of cosmetics available in spirit fall.
+32:06
+I think it's quite.
+Good.
+Well, if you're looking at the main character, it means you're playing the game wrong.
+You should be looking at the enemies Andrew.
+That's that's a very fairpoint.
+Yeah, I mean, I think the the main character in the the titular omen forged in this game looks really good.
+32:22
+It it definitely.
+It's not.
+It's not the titular omen forged.
+The game would be called Omen Forged.
+The the titular spirit fall Captain spirit fall that your.
+Spirit Fall guy.
+Captain Spirit.
+Fall.
+Mr. Fall himself.
+The aforementioned omen forged.
+32:38
+Spirit.
+Fall punch.
+Yeah, I think like the just like the design, like the like the flowy nature to I was so.
+Yeah, the animations are are brilliant, which is a big part of like, you know, bringing the character to life, of course.
+Yeah, and like the I think there's a lot of like character and style to it that so I was on my plane flight back from Austria that I was like hopping back and forth between Spirit Fall and Dead Cells specifically for this reason.
+33:07
+I was kind of comparing the two of like, all right, how do they play?
+Like how does the art style look?
+And yeah, I think that like the options, I mean, even just in like the 15 or so hours that I've put into Spirit Fall, I have like so many more like visual like customization options that I do with like the, I don't know, 60 hours or so they've put into Dead Cells that I don't know if I'm just missing some with Dead Cells or like, yeah, the, the Santa costume is fun, but like, I don't know.
+33:34
+Yeah, I, I'm totally on board with like with your statement, Andrew, about like, yeah, the, the style here were like, yeah, you can pick the, the, the Pikachu spirit and you can have be like all yellow and stuff, but then you can change out the mask cosmetic to be the ironclad from Splay the Spire.
+33:51
+Again, you can do that in Dead Cells too.
+But I think, I don't know, there's something about it seems more fun here, or at least seems more in theme with the artistic style I guess.
+Yeah, I feel like that.
+I mean, Dead cells, it feels more referential.
+34:09
+You're like, look, you're can be an ironclad man.
+I get it.
+Get the joke.
+Wink, wink.
+Yeah, versus this is just like, yeah, I mean, there's an ironclad in here, but it's just they, they feel more like legitimate.
+These are cool options that we've given you for for colors for your thing.
+34:29
+And most of them have.
+I mean, you can change it to whatever you want, but most of the time it's like, OK, if you go with the default mask, you have a different color that matches kind of like the vibe of what All the Gods gives you.
+It's like, oh, you have a yellow mask for your fast movement and your Electro stuff.
+It's like, OK, cool.
+Like you feel like you are doing Electro man.
+34:47
+Embodying that.
+Spirit And so I think that this game is interesting in that you are the omen forged regardless, you pick the different weapons and you have a completely different move set.
+It's kind of like hades.
+Do we think that is a versus what many other games do or what Super Smash Brothers does, which is you have different characters that have different move sets.
+35:12
+Do you think this game would have been better if there were like multiple versions of the Omen forged or are we cool with it just being like the one nameless protagonist?
+I think it's fine how it is because, yeah, I think that like the the mix, the mix up that you have between the weapon that you choose and like the different kind of like spirit boons or God, you know, powers that you get throughout the course of a run.
+35:44
+I feel like the the mix and match of that stuff is so varied that I don't I think it would be less good if it was just kind of like, all right now.
+Now you're picking the the the green Omen Ford who does like this stuff like your link equivalent or something and your your purple omen Ford and shoes like your Samus equivalent or blah, blah.
+36:06
+I feel like it would be less interesting or fun in that sense because it's like, OK, well, this is just like picking smash characters versus like you have the randomization element, like the the roguiness of it that like you are not in control of that.
+Like you can kind of this, this was just the last run that I was doing before we hit the record button where I was.
+36:28
+I started with the gosh, what the which one was it?
+Maybe it was the the battle hammer axe and I started off with the the fire Phoenix attack ability and I started getting some stuff that like synergized really well with them like OK, great layouts.
+36:44
+Let's pop into the synergy menu.
+Let's see what I can build around this.
+And I was trying to like force a build kind of, but the game wouldn't let me do that And I kept like fighting and I was like, well, OK, re roll, re roll, re roll.
+I want that that damn synergy with the the crit bolt was not giving me it.
+37:00
+And so I was like, OK, what else others stuff do I have in my disposal here?
+And I was able to like reasonably like tech switch out of that into other stuff.
+So yeah, I think that like the TLDRI think the thing that would be better service with that of like kind of static archetypes would maybe be boss fights, which maybe we can talk about in more detail.
+37:25
+But I think this game would be neat, maybe not necessary, but it would be pretty Dang neat if in like ADLC or a spirit Fall 2 you came across characters that were more like that that you know you're going through and like building out your rogue omen forged.
+37:43
+But along the way you find a corrupt omen forge or something who is like basically all electric Pikachu abilities or such or all like the the the seahorse person abilities, you know, like the the water abilities or electrified abilities are all flame abilities there's or things like that, right?
+38:04
+Yeah, that's true.
+None of the enemies behave like you do.
+Yeah, they all behave like bigger, slower, much more like telegraphed moves kind of stuff, which it would be interesting if one of I mean, I guess the the the knockout stages that the weird special zones, those feel the most like a one V1 characterized character.
+38:30
+But I don't like the design of those characters.
+They're very bland.
+They're very you're in like basically a white neutral plane, Demi.
+Well, the, you know, the the flavor is that like they've broken into this reality through like a rift and you need to go.
+38:46
+Into the rift to see them and they're these I definitely like prejudication for it, but I I hear you, but like they're not very visually interesting to look at.
+No, not.
+Not especially.
+Like, and it would be cool to have maybe a couple more encounters like that though, where you're you're fighting something that has powers similar to you and is more like an untraditional Super Smash Bros Brawl where it's like you're two things of the same size with fast movement around and you're like trying to.
+39:14
+I mean, it doesn't even necessarily have to be like you're trying to stage out someone.
+It could be still health based but.
+It's Mario versus Marth on Coronaria.
+You have the ship flying around and you're yeah, you're both the same size.
+There's no items, none of that nonsense.
+39:31
+And it's just you one V1 with the other guy.
+Yeah, I think that like the I and ironically like the the the mobs or like the ads that you fight against for the most part, like, are pretty cool.
+Like they're like very interesting to look at.
+They have lots of like unique abilities and things like that.
+39:48
+And there are times where like if I'm like in a corner, and maybe we'll talk about the ascension mode here in a little bit, but like on a high level of difficulty, if I'm in like a corner, like 1 V wanting with like one of these guys that has like these like big rock fists, like, oh, shit, stuff is about to go down here.
+40:06
+And then I just like button mash all of the abilities that I have and.
+Hopefully delete them as fast as possible, but like the the actual like minions that you fight, I think are are pretty well done in terms of art, like artistic design and like how they jump around.
+40:23
+I think that like the the elite enemies that you fight from time to time that it's just like you versus like this big like mini boss effectively in like 1 of kind of like a.
+Bigger the mini bosses that are defending the synergy shrines.
+40:38
+Yeah, yeah.
+Or like the ones that like pursue you across the map from like the the start of the thing coming down.
+That is very cool.
+Like when you are, when you are selecting, when, when you're on your pardon me, your slave, the Spire map, the camera sort of shifts up and there's there's an enemy icon that will appear at at certain points in the game and that is also moving around the map.
+41:01
+Yeah.
+And you can, you can is it is it just the dog that you find?
+No, like there's there's some cool stuff between that and like the riffs.
+There's some neat stuff going on with the with the, yeah, I think the Spire map.
+I think that one is just the dog, but yeah, I think there are there are other ones that, like you said, guard the the synergy shrine node that you can pick.
+41:24
+There's just like other ones that you can encounter throughout like, you know, other means, But I felt like those those felt like impactful, interesting boss fights And I feel like the actual boss fights in this game were pretty underwhelming in meh.
+Well, I guess like definitely the first boss fight.
+41:42
+I think that one, I don't know, like the the boss fights in this game feel very, I guess kind of kind of bland in that like your first boss fight.
+So you get to the end of the, the first Biome of the, of the desert and you come across this, this lady with a big cool sword and it's just like a big flat plane.
+42:01
+And it's just like walled off and vertically, not like no platforms, not really super interesting.
+But like, you know, that there's some like interesting attack patterns that you have to jump around and, you know, eventually you figure out that you can just like air juggle them the whole time and you're just like, all right, Well, that was pretty easy.
+42:19
+And of course, for those of us who don't know what this air juggling is, I mean, honestly I do.
+But for reference, I mean, that's just literally keeping them in the air because you are smashing, literally smashing and hitting them so much.
+And that is one thing actually real quick, sorry, I do need to mention on keyboard, it's a lot easier to do an upward attack and upward dash combination to keep someone suspended.
+42:46
+But anyway, yeah, you can, you realize you can just air juggler and that's, that's that's it.
+And like the the dialogue that they have is very much like, oh, you, you can't.
+The God, the spirits will not stop the blight and we will be victorious and I'm just like skip, skip, skip, skip, skip, skip, skip.
+43:07
+If it was like, you know what one of like the elite boss fights like I feel like that would be more interesting.
+The second boss fight I think is more interesting 'cause you're fighting like 3 like little guys that are all the.
+Second boss fight is the Mantis fight from Hollow Knight and it's which is like one of the best boss fights of any game of all time.
+43:26
+So if you're going to.
+Base your boss fight off of anything.
+That's probably base it off boss fight to to base off one of the best.
+I think it's the best boss fight of the game in terms of like, yeah.
+I think I'm probably in agreement there.
+The the little guy with the spear is super annoying and I hate him.
+43:44
+But maybe that's, yeah, that's a maybe that's good boss fight design if you're just like, if he's memorable enough to be just like a little thorn in your side.
+I think it's because there's three of them.
+Like having having three moving parts I feel like engages my brain more.
+44:00
+And there's platforms like and.
+There's platforms right?
+Which is not the case of her some for most of the other bosses.
+Yeah, the next boss at the end of the I think like that the ice or the caverns level I thought was like, oh, OK, this is like a neat, neat twist.
+44:18
+He's kind of like a a warlock who summons this like giant background skeleton who's like smashing the stage.
+Halfway, halfway through the fight, he summons this giant.
+Enter the gun.
+Gen.
+Lich, second phase guy.
+44:35
+Yeah, that's visually interesting.
+Exciting for sure.
+But at the same time, I thought it was like, I don't know, I'm just going to like jump around, take the damage and just like focus fire down the minion guide.
+I felt like if, and I think that there is maybe a dead cells boss that's like this, if my memory serves me right, where like if like the fists of the background guy, like came down and became platforms that you could jump on.
+45:01
+If, if like the giant skeleton in the background was somehow like integrated into the environment.
+I feel like that this is one thing that kind of separates this game from the Smash series is that the the environments that you jump around and and play in are very static.
+There is not like you know there.
+45:16
+Aren't F0 cars.
+Zooming around and there's no F0 cars, there's no Z BS like or Zebus like lava showing up.
+There's no like Coronaria flying through all of like the the missiles and things.
+There's no like Pokémon stage like rebuilding itself like again.
+45:35
+These these are probably all great ideas for a super spirit fault 64 or or super Spearfall melee.
+But but I think that like the core foundation here is great and yeah, and this and this.
+Actually, I'm sorry, I need, I need to push back a little bit.
+45:50
+Is it that like it's not dynamic enough?
+Because there definitely are environmental things happening.
+Like there are breakable walls, there are like geysers that there are environmental hazards in the jungle level.
+There's these, there's these plants, that carnivorous plants, if you knock an enemy into it, they'll get swallowed up and take some damage.
+46:11
+And so I mean there, there's it's not totally bland.
+But no, it's yeah, you're right.
+And.
+It's not totally static, but I think it is still bland, like like, oh, you break down a little wall, OK, like that's.
+Oh yeah, the wall breaking is the most.
+Interesting.
+46:27
+It's just kind of weird.
+Oh, it's a thing that happened.
+Sure, sure, sure.
+But Sir, I, I, I get what you're just in the game's defense that, you know, they, they put a bit of thought, I mean it.
+Sucks for this game in that, like, we wouldn't make this complaint against pretty much any other kind of game.
+46:43
+Like there's not a hugely dynamic range of things happening in the background at all times.
+It's like, well, it's only the only reason we make that comparison is because one of the most popular video game series of all time is kind of similar to this, and it has that.
+46:58
+Great.
+Point and also maybe slightly higher budget and like a bit a slightly bigger dev team.
+Of the first party Nintendo versus like A5.
+Person Dev Studio at its Max.
+Indeed.
+But but Scott, to your point, yeah, there's not, I don't, I can't recall an instance where any of the environments moved like I, I don't think there was any moving platforms or things of that nature, which is is definitely something present in the Smash.
+47:27
+And, and I think that like the main combat arenas with like the the various like low level monsters that you fight is probably fine if it's just static because you, you blitz through it so fast once you get going that it's probably not even.
+And there's enough stuff going on, true.
+Like there's maybe not quite as much in the 1st level, but by the time we get up to the later levels, it's like there's a lot of dudes.
+47:49
+There's just a lot of dudes.
+Indeed it ain't it ain't boring.
+It's very, very rare that you're bored.
+Except for there were a few instances where I was all where I would accept a rift challenge where it's the one V1 ring out battle and I would realize, oh, I should not have taken this fight like it's extra rewards.
+48:09
+But this was a bad call and I'm down to 10 health and so I would just like wall jump for like 30 seconds straight and run out the clock and hide in the corner.
+That's the only time that I was kind of bored in this.
+Game I forget if in those the the hidden realms if if you intentionally jump off and wring yourself out if it just kicks you back to the main.
+48:31
+Slaves.
+Oh yeah, that's true, but then you don't get any of the rewards.
+That's yeah, I suppose.
+No, I find myself in a situation where it's like, Oh well, I, I, I, I beat them, you know what, whatever, just take our words for it like you can there, there's some rewards you can get more if you stay in the whole fight.
+48:48
+Whatever.
+I don't want to there's no need to explain the whole mechanic, but it's kind of neat.
+And hey, that's actually something I want to talk about the actual decision making on the sleigh.
+The Spire map, I think is really engaging and interesting.
+Like you get to the map and you you want to form a strategy and there are times when you're like, I'm low on health.
+49:11
+Should I take this fight for the a bigger reward or should I take this easier path?
+And that's, you know, a classic thing that we're used to seeing in roguelikes.
+But I think it's executed really well in this.
+I think, yeah, like I know split this fire or those other kinds of games, a lot of times they have the like, here's a question mark event.
+49:29
+Like those are interesting in that you you're you're running a gamble there.
+I think this this is a more interesting kind of thing because it's the gamble is more visible, like you're choosing how to try to make your build and then you don't know, you don't know if you're going to get the exact boon that you're trying to get.
+49:49
+But you you're like, oh, I'm going to try and go for an electric speed run.
+Like, well, that means I have to go here and then here and here.
+And I, I do have to like give up that nice relic chest.
+But I think that that the decision making that goes into that I found to be slightly more interesting.
+50:08
+Right.
+You're making you're making more informed decisions, I think.
+Yeah, and they're less based off of, you know, a lot of the other kinds of games is like, do can I afford the health to take the combat?
+Or they're all like very much health based versus this.
+50:24
+It's more like build based.
+So you're like you're, you're making your map decisions based off of your build or like how you want your your, your meta to to evolve.
+And I thought that was an interesting, it was something that I had never really thought about.
+50:39
+And I, I, I enjoyed that.
+And I think it's better than Hades where you have no, you got just two options usually and you have no knowledge of what's going to happen after the fact after that.
+Yeah.
+It's, it's basically, yeah.
+Like you'd see the full gamut of the options you have available for that whole map in.
+51:00
+Various.
+I mean, you don't know what's going to happen in the next 5 maps, but the next 4 maps but.
+Yeah, but yeah, what crucially what's what's interesting is that one of the I think the the ascension mode in this game, I complained a lot in our sleigh the Spire episode of like ascension level 2 all at least do 10% more damage.
+51:17
+Super interesting.
+I think this game does have a super interesting ascension mechanic in that like one of the things in it that you can select of like, all right, I'm gonna up the ascension on this and it takes that away from you.
+It takes a wave like the sleigh, the Spire, like most of the node map, and it just replaces them with all question marks except for like the like the next kind of two layers of options that you have.
+51:43
+So it's like, oh shit, like I all of a sudden I can't see the entire map anymore.
+I can only see like the next couple rooms ahead.
+And I thought like there's stuff like that.
+There's stuff of like new enemy elite, like attack patterns and and things like that that are very creative and interesting and it's, it's very much not like the everyone just, you know, boss fights have 10% more health or like boring stuff like that.
+52:11
+Another interesting thing is that when you say like you, you were like adding in these difficulty modifiers and you have like 4 or five of them enabled at the start, you've run and you and you unlock this at the end of your first run, you unlock this menu.
+I'll talk a little bit more about it in a minute, but let's say you're on ascension level 5.
+52:30
+You can that becomes a new currency in the game where you, you know, the the little node map things that you can stop at to like sacrifice your health to be like, I'm going to sacrifice 3030 health to get something that's like a nebulous answer to this weird spirit Riddle.
+52:47
+Like, oh, like this one just happens to be like an upgrade crystal or this one happens to be more, more store dust that you can buy stuff with.
+You can use those ascension points instead to keep, to keep your health at Bay.
+53:06
+Or actually you, you have the option of using those or your health, which I think is also super.
+So it's like, Oh yeah, like I can just go to those, those like gam gamble nodes, I guess, and just use my ascension points instead of my health and still get the benefit from it, which I thought was super, super creative and.
+53:27
+Yeah, I like that.
+Yeah, but yeah, so, so so we talked about up to the the skeleton boss, you get the boss for who?
+I think it's just like, I don't know, like probably the most, the second most boring one where it's it's it's a more powerful like 1V1 fighter guy, but it's still like flat arena.
+53:46
+You have like the barriers on either side.
+They're they do like a a ton of damage and they have like these big particle effects and stuff.
+And that's fine.
+But I don't know, it's just it didn't seem as interesting as like the elite fights for me.
+And you beat beat that guy and you go.
+54:01
+The fourth boss is very much like big Telegraph moves.
+Just make sure you don't get hit.
+So it feels a little bit more mechanical almost.
+It's like you're, there's less of the like dodge in and out kind of thing in some ways because it's just like, well, make sure you don't get hit by the the thing that does 70 damage because you can only get hit by that a couple of times before you're in real trouble.
+54:26
+You run in, bash, bash, bash, wave dash away to the other side of the map, hit him with your long range bolts, then wave dash in and.
+But yeah, if there was like a platform in there, I don't know, like maybe maybe more interesting.
+And then your so your final Biome here.
+54:43
+So we've gone from your desert Biome to your jungle Biome to your underground mushroom layer Biome, to your ice Biome, to your final Biome, which is the brink.
+And this is the, the land of all of like the, the chaotic searing demonic roots that are coming up out of everywhere.
+55:04
+And we're originally taking over your your spirit temple.
+But this is where I feel like it.
+It's the most smash like where?
+Right.
+And I and I thought this was a great little twisteroo.
+It's like, all right, we're in the final, you're in the final stretch here, the final gambit.
+55:22
+And now instead of enclosed levels, you are playing in Smash arenas all the time.
+And, and this was of course was telegraphed by the by those the rift fights, the optional rift fights.
+Yeah, and I think that like the enemies here are just like very slightly more interesting than the ones that you find in those riffs.
+55:44
+Maybe still not quite as interesting as the other biomes.
+Maybe that's just because I haven't spent as much time in it yet.
+But what's what's also funny is like at the start of each one of these biomes except for the first one you you encounter like this giant 4 armed lady who presumably is is related to the giant form skeleton warlock summoned who?
+56:10
+Who never got that?
+Hey, check it out.
+We haven't complained about voice acting in a while.
+All the voice acting in this game is is is gibberish, right?
+It's some kind of other.
+They speak in the made-up.
+Language.
+This first giant that you encounter, I think that this actor got terrible direction or something because this fake language is being read in the most fake way possible.
+56:37
+It's like, I do not believe this is a this is a, this is a native speaker of this forearmed giant language.
+You walk into the Hut and it's like, oh sweet, this giant forearmed lady is going to upgrade my weapon.
+And when you talk to her, she goes intogras varidi and it sounds like someone has picked up a cue card and they're seeing this line for the first time in their life.
+57:02
+I don't buy for a minute that this is actually the giant language speaking.
+It's called phony.
+And.
+Yeah, well, their first language is the Animal Crossing language, and they're so it's similar as their second language.
+Yeah, they they also came from the The Rainbreaker School of a voice acting where is is no flatter, flatter, I think Well, like when.
+57:28
+You flat do you want it?
+When you first start the game, you know, like after your first death, you come back to the temple and there's this this little like impish, impish character who's like sweeping up the temple very like cute cartoony way whose name is Tip TIPP.
+57:46
+And they have like a very whimsical kind of a gibberish voice to them where they're like, they sound kind of like a Star Wars Jawa almost.
+And I thought.
+Like.
+And I thought like it was kind of jarring at how much more like cute and fun and interesting that was compared to what like the forearm lady was, was kind of I think like the forearm lady and the the the bosses also have like like weirdly bad voice acting, but like.
+58:15
+Which is strange because I I it's.
+I don't think I've ever encountered bad voice acting in a made-up language like.
+Yeah, that's true.
+And this is a total like nitpick.
+And I don't know, it's just every, every time I would go to that first giant, I'd be like, but.
+There are so many talented people out there that you could get to do this.
+58:35
+And it's not, there's not that many lines.
+So it's not like you'd have to be paying them a crazy amount of money to be doing like, here's a couple days of work you could have, even if you're a small studio.
+Sure, sure.
+Which to be clear, I, I mean, I'm just kind of, I'm mostly having a goof that I found this weird made-up line kind of annoying to my, my particular ear.
+58:55
+But there are only there aren't that many.
+There's very, very little in the way of story.
+So anytime there's something that's dropped in here, you're like, all right, is this the thing that's going to matter?
+Like should I be trying to like, here's my my tiny, tiny specks, the flakes that I'm of gold that I'm sifting out of this and it's not gold.
+59:18
+It's fool's gold.
+Oh no, it's fool's gold pyrite.
+Indeed, indeed.
+Now, OK, so if I'm let me check my understanding here.
+The general storyline is that you are trying to there is this thing called the Great Gate.
+And this is important to the spirit creatures, to the spirits.
+59:38
+And in your quest to go and cleanse the gate and and presumably reopen it, standing in your way are a, a, a set of bosses who are literal devils.
+They have devil horns.
+59:54
+All of them have devil horns.
+And they're like, Nope, omen forged.
+You will not be opening this gate.
+And there's kind of a little bit of a hint of like, oh, maybe, maybe they know something I don't.
+Maybe there's something bad behind that gate, or or maybe the Spirit.
+Spirits have have some kind of, you know, motive that they're not telling me about.
+1:00:12
+Honestly, the whole the whole bit about like you being a normal person until you were possessed by the flame.
+I completely forgot about all that shit.
+So I'm curious, do we know anything about the the omen forged before they became the omen forged?
+1:00:27
+Were they just an unfortunate like hiker?
+What I could tell from the intro story cutscene is that.
+Presumably they were on an epic quest and they had intended for this to happen, or they were seeking out these spirits.
+And maybe it's a little subtle, but that first splash image of, you know, purple, purple hooded rogue TMTM strolling up to the temple, they have like the little like black and red like squiggly thing on them to like indicate that like, oh, this is like the corruption and it is affecting.
+1:00:59
+People I see and they're like looking for like a cure or something perhaps.
+That or like, you know, the the purple hooded rogue like voluntarily sacrifices themselves onto the altar, possibly in search of a cure or something.
+But like, again, Andrew, I think you're on a great point 'cause when I was up against the the third boss who had, who has the, the warlock giant summon skeleton, he makes like a, a very like quick, subtle point of like, oh, like, why do you trust the spirits?
+1:01:26
+They're the ones that sacrifice you.
+You can't trust them.
+And I'm like, maybe he's on to something here.
+Maybe like, have we been just been working for the bad guys the whole time?
+That seahorse looks a little untrustworthy.
+Who knows what that Pikachu is up to?
+Raccoon.
+Cute.
+A little too cute.
+1:01:42
+Ask me.
+There's something.
+There's something up so interesting and this.
+Begs a question I have not beaten.
+I've gotten to the final boss, the High Priestess, which.
+Also with devil horns.
+Devil horns.
+Interesting fight.
+I got her down to like 20% and then that fight's pretty.
+1:01:57
+Cool, good final fight.
+Spoiler spoiler spoilers spoiler spoilers please tell me how the game ends because.
+Well, so I.
+Get the feeling that there's not?
+I got I, I beat I, I won one run, a single run.
+1:02:13
+How many runs did you complete successfully, Scott?
+For me it took I think like 3030 or 31 runs to finally get my first win and then my second win came in run 33.
+Nice, nice, nice.
+But how many runs did you complete?
+1:02:29
+Because Colin, in order to get the full story, you got to I think beat the game four or five times.
+So we don't.
+Actually know in in in standard.
+In standard Hades fashion, you have to beat the game multiple times to really beat the game.
+Well, OK, So what happens once you beat the the priestess?
+1:02:45
+Do you?
+You open the gate and you, well, you.
+Do not open the game, you cleanse part of the corruption on the gate.
+And it's like.
+Hey, you need to keep at it.
+So it.
+Really is you have to do it like 5 times before you get any sort of.
+1:03:00
+But The thing is, like, once the meta progression starts kicking in and it doesn't take very long to start kicking in, it's definitely not one of like the grindiest games I've ever played.
+Like stuff starts popping off like like I'm just getting like resources hand over fist now in all of my.
+I mean, I'm assuming that if I like, as is my tradition, if I go play this game after we finish the podcast, that's will be the the run that I finally beat it as it as it happened in many, many a game so far.
+1:03:26
+As in many a game, I.
+Feel like it's happened two or three times.
+Which?
+Is a lot of times.
+That's three. 3 is.
+It's let's just say it's happened maybe 50% of the times where I've been like annoyed that I didn't finish the game or finish whatever thing like complete a run, success blueprints, the very next run after the podcast that night I got to the room 46, which I have also been informed from people that that's not that absolutely is not finishing the game.
+1:03:56
+So we might there, there's apparently a fair amount more.
+So if you are feeling blueprints that you should go back and play more of it.
+Yeah, it was weird when you got to to and and it just opens up into this weird spirit temple and you had to sacrifice yourself to cleanse yourself from your.
+1:04:15
+You have to open the spirit gate.
+Got to, got to.
+Yeah, for sure.
+Anyway, thank you for that little detour.
+You know, maybe the storyline, you know, maybe now that we've discussed it, perhaps perhaps there's a little more happening here.
+1:04:30
+It's just, I don't know, something about part of it is on me.
+I'm like, whatever, I'm kind of skipping through some of this dialogue, blah, blah, blah, blah.
+No.
+It's on them.
+Oh, OK, very well, very good.
+Yeah.
+And I, but The thing is, I don't care that much.
+1:04:49
+Like, unless you're going to make the story super, super integrated into your game like Hades does, I don't care that much.
+Like you'd have to do a lot more work to make the story like very compelling.
+The fact that doesn't have much of a story, it's like I'm not playing it for the story.
+1:05:06
+I'm playing it for the Super smashing.
+Sure.
+Yeah, that's true.
+And to be clear, I mean, the story is perfectly serviceable.
+It's like here is a reason for you to be doing your super smashing and it's like, all right, cool, neat.
+And, and, and you populate that with like, you know, interesting looking characters and enemies and you know, you're, you're sitting pretty, you're having a good time, even even if you're like me and you do not like Super Smash Brothers because you're bad at it.
+1:05:30
+Like, what's the story of Super Smash Brothers?
+You, you're like fighting a bunch of people and then you fight a hand at the end.
+Well, the story is like the.
+Hand is the like the person playing with you 'cause you're a figurine.
+Some demonic child has started animating their toys imbued consciousness into into them and only the worst qualities of man, and as such they have become ultraviolent and have started to to battle each other and then ultimately in in standard classical philosophy behavior, they turn on their creator inevitably inevitably.
+1:06:05
+I mean, I think that.
+Is actually a subtext for it, right?
+I'll tell you what the story of Smash Brothers is.
+The story is if you grew up without a Nintendo 64, you're fucked.
+Like, there's no way you're going to ever be able to beat anyone else in Super Smash Brothers unless you had that shit in your house and you could actually like train and understand it.
+1:06:27
+And you have to go through your life and.
+Every people play soccer like Americans can ever be good at soccer because we don't start like sending our kids away to to like soccer school in Spain at age 4 1/2.
+Colin, I have a.
+Oh, soccer, I thought you said stalker and I'm like, how dare you.
+1:06:45
+I've played a lot of stalker and.
+No, Yeah, yeah, yeah, you're right.
+It is.
+It is not in like.
+Five, sending them out to the zone.
+Colin, I have an actual answer for you.
+The story of Smash Brothers is actually called the Subspace Emissaries World Conquest by one Ara Chandler Chris and is a.
+1:07:04
+It is a smash brothers fanfic clocking in at 3,548,615 words, which is 6 words six times longer than war and peace and it is a a smash brothers fanfiction.
+1:07:20
+I believe it is how many?
+Million, did you say?
+Three and a half million.
+Words.
+Good, good.
+Well, I admire the what?
+What do I admire?
+The dedication, at the very least.
+I need to compare that total.
+Is that more or less that is?
+1:07:38
+More than we have in this game.
+It's probably more, I would guess than what we have in Spirit Fall.
+Yeah, but but you are you are frantically Googling here and what while you're.
+Looking at Harry, Harry Potter is only 1,000,000 words.
+I mean, we gotta get on that war.
+In peace, war in peace does not have anywhere near that many words.
+1:07:56
+No, it doesn't have.
+A It's a little book.
+War in Peace is only.
+War in Peace is only 500,000 words only.
+I mean, it's, that's a very, very long single book, but three and a half million, that's like, that's like 40 books worth of words.
+1:08:14
+Let's see, according to a quick Google searching, Hades has no less than 300,000 words.
+So it's like 3/5 of a War in Peace.
+Is that right?
+Yeah.
+All right, I'd buy that that.
+I mean, there's certainly a lot of verbiage in that game we did miss out on like the the critical end game thing that calling you on the on the precipice of unlocking in Spirit Fall and not in War and Peace, which is the ascension mode that I kind of hinted at before, giving you like extra challenge modifiers, but crucially, allowing you to do what they call run augmentations, which you have all this extra meta currency, meta progression currency.
+1:08:52
+What on earth do I do with it?
+Well, lucky for you, gentle listener.
+What if you were able to take all those extra scrolls?
+You've upgraded everything in your temple, You've got all that stuff unlocked.
+You've unlocked all of the alternate forms and extra capacity for all of the weapons.
+1:09:07
+You've unlocked all the weapons.
+What do I do with all this extra currency, you ask?
+Well, what if you use that currency to set your starting equipment for a run and you pay a small fee of one scroll, one combat rune or one purple purple cube thing to to set like what what God do you want to start with?
+1:09:31
+What specific like relica rune do you want to start with?
+Or what kind of specific like other other items do you want to start with the kind of like start like the scaffolding of your run.
+And I think as you get more ascension level upgrades, you can do that much like way more.
+1:09:48
+So I think like at it's peak you can set something of like these are like this.
+The first seven boons that I want to start with before starting a run even.
+And like once you get once you get all those like lined up and you're like, oh, of course I'm going to pick this because it synergizes with this.
+1:10:07
+And then I'm going to pick this and then I'll pick this.
+Like the the speed runs that I've been watching at this game.
+I think 7 minutes, 6 or 7 minutes, you can beat the game in what it is blistering.
+How fast?
+They're like 10 seconds per map or something.
+1:10:22
+Effectively, I mean, I'm not.
+Even sure how that's possible to like just the the time it takes for the enemies to spawn in.
+Yeah, I think.
+You know, like killed before they're fully materialized in the world.
+And a a real quick mention of a very good run length.
+1:10:40
+I think my my victory run was 30 minutes.
+Beautiful.
+Yeah.
+Love it.
+That feels like the perfect the perfect length of time, especially for a game like this.
+It's like very combat focus.
+There's not like, you know, I'm not I'm not here for the story.
+I'm here to like smash stuff and just like button mash.
+1:10:58
+And it solidly delivers on that promise.
+What else we got in here?
+Oh, crucially, we've talked a lot about Smash Brothers for, for Super Spirit Fall 64 that we that we know is coming down the line inevitably in 2064, in 2060.
+1:11:16
+Hey, you know, it's coming, coming closer than we think.
+What, what characters?
+So like in Smash Brothers, it's all of like the titular Nintendo characters that are coming, coming in for one big party fight.
+What would the equivalent be here?
+1:11:32
+Would it be like characters from other roguelike games or just from Steam in general?
+I think there.
+'D be other platformers.
+Other platformers?
+Interesting.
+I mean, I think that you got to get, you got to get your Hollow Knight, you got to get your Shovel Knight, you got to get your Dead Cells, man.
+1:11:53
+Dead.
+Yeah.
+The classic dead cellman.
+Yeah.
+Who?
+Meets Super Meat Boy.
+How many of these games?
+Yeah.
+Super Meat Boy.
+Good.
+Good call.
+Good call.
+Well, we have.
+Here's yeah, here's the problem.
+Like, we're already running out of ideas with Nintendo, like Super Smash Brothers.
+1:12:11
+There's a reason that like it hasn't really been successfully emulated is because Nintendo has this amazing roster, this amazing just just binders full of characters and.
+1:12:27
+Well also Smash Bros now has other characters too, like Solid Snake is in Smash Brothers so yeah.
+But.
+Nintendo.
+Snake was like he was in an A game that was exclusive to a Nintendo console, even though it was a remaster.
+Yeah, Twin Snakes.
+1:12:43
+It was on.
+It's a GameCube, I think.
+I mean, it's a remake.
+Metal Barrel Minecraft but like Steve is in Smash.
+Brothers.
+Oh, shoot, yeah, that's right.
+I forgot about that was well you can, but you can play that on a Nintendo.
+Yeah, I mean, they're definitely.
+Stretching the definition and like two dozen characters from the actually, you know what?
+1:13:04
+I'm totally out of my depth.
+I don't know and.
+Half of them are all Fire Emblem sword and.
+Fire Emblem.
+There we go.
+They only had like 8 characteristics.
+We only need to come up with eight things that go in this game and you're fine.
+All right, all right, I've got a, I've got a list here that maybe we can whittle down.
+To all right, yes, please.
+1:13:20
+We'd love to hear your.
+List These are ones that will definitely be a in in the the PvP E sports version of it's it's the Spirit Fall melee when it eventually comes out.
+Spirit fall melee you.
+Have to have our titular omen forged in the game.
+1:13:36
+That's that's our Mario, Yeah.
+Not titular.
+Yep Yep, titular.
+What are the titular characters we got?
+The Noida Dr. Omen, Mr. Noida Mr. Noida Yeah, Purple robes.
+Technically Noida, the main character from Noida I believe is a female protagonist named Nina.
+1:13:54
+So it'd be Missus Noida or Miss Noida.
+I think you got to have you got to have Zagarius from Hades in there.
+You got.
+Yeah, that's fair.
+Maybe maybe a character from Risk of Rain one or two.
+I'm thinking maybe like the the mercenary with the guns, get some gun gun play in there.
+1:14:13
+Absolutely.
+I feel like and again, so my list here is just all characters from Rogue games.
+Most.
+Of us I mean you've got I'm just looking at the our top our top games here you I mean ironclad for sure the clowns from Baloch are silent for sure he's just.
+1:14:31
+Like a floating card he's got.
+He's kind of like Master Hand in that way though.
+Like he's not strictly humanoid.
+You could get a.
+Train from Monster Train.
+You just like flying around.
+How about a spades?
+From Bilaca, surely Sharon the Wanderer is.
+1:14:47
+Gonna.
+Be that's a capable smash type character.
+I was thinking from FTL, one of the mantis characters.
+One of the feels very very like melee Melee pilled here.
+Sure, sure, sure.
+This is almost kind of dipping into the similar games segment here a little early, but there's there's a platformer, another rogue platformer that's well regarded called Skull.
+1:15:12
+The hero Slayer has a lot of very kind of similar combat flow to this.
+He's just kind of a cute little skull character.
+But like you, you like you change like your body and form with like different like effectively hats.
+You can think of it.
+That would be a good one.
+1:15:28
+There's a lot of character from Enter the Dungeon that I feel would be pretty appropriate.
+Oh, sure, probably some of the bosses or something I think would be fun.
+And of course, when I think of like what would make a great who would make a great fighting game character, I think of the titular blueprints.
+1:15:48
+Just the blows.
+Magnifying glass out.
+Little, little wienery.
+Timmy who?
+Yeah.
+It's far too dangerous to pick up that TNT.
+Yeah, well, I'm.
+I'm looking forward to this hypothetical fantasy.
+1:16:05
+Oh, and and one more crucially, Antonio Bell Bell Pace, Bell Paisi, as we all remember from Vampire Survivors.
+Yes.
+Oh yeah, deeply story driven game.
+Also lots of platforming, lots of jumping.
+1:16:22
+Oh yeah.
+I don't even know how you would like I'm I'm struggling to even like keep this bit going like trying to think of how you would integrate some of these things into a a super Smash Bros game, but then I don't think of how they did it in the real game.
+1:16:38
+Like how would you put Minecraft Steve Man into a game and they somehow did it so.
+Well, that's why you did it.
+And you hire on 1/6 developer who specializes specifically in that, porting characters from other highly successful franchises into yours indeed.
+1:16:55
+Indeed.
+But yeah, I mean, it just goes to show that, yeah, this is this is no easy design task.
+And you know, Nintendo, they they they know what they're doing when it comes to difficult, the difficult design.
+Because am I wrong in saying that like every other attempt with every other like franchise or like umbrella franchise has failed?
+1:17:18
+Like didn't they, they tried to do like a Warner Brothers version of this where it's like you play like a Scooby-doo and Shaggy and Batman and, and they all fight.
+And then there was like a, a PlayStation version where you could play as, I don't know, Drake from Uncharted and Banjo.
+1:17:36
+Wait, no, not Banjo Kazooie.
+Who's the, who's the, the, the fox guy that runs see like no, nobody else.
+Nobody's done it as good as a Nintendo when it comes to.
+Well, Andrew, you're you're, you're missing out.
+You're missing.
+A Nickelodeon All Stars Brawl?
+That's a game that apparently existed.
+I'm surprised.
+PlayStation All Stars Battle Royale.
+1:17:52
+There we go.
+Yeah, yeah, yeah.
+PlayStation big.
+You could play a big Daddy from Bioshock.
+It's like guys like that wasn't even an exclusive originally.
+Like I realized we were talking about how with later iterations of or or more recent iterations of smash, like they've stretched the definition of a Nintendo character.
+1:18:10
+But like right out of the gate, first entry like the Sony smash brothers clone is like just a bunch of third party characters that like aren't even Sony specific anyway, It's.
+Marvel versus Capcom, I feel like that's, I feel like that's like the original Smash Brothers or.
+1:18:28
+Actually, I mean, those are like real fighting games, not like that's The thing is.
+Fighting games like this has.
+Done weird match of fighting games where you got like like Oh no it's too complicated to learn this.
+Then you go like try and play an actual modern fighting game and there's like, here's your textbook on all of the different combos.
+1:18:50
+You have to learn a different and that's just for one of the characters.
+It's like, oh you have to do a full ring around the circle, press AB and then up up up and then you do a Haiduken fireball sun screaming into the ground.
+That's right, like.
+1:19:05
+All the Tekken stuff is nuts.
+Mortal Kombat, it's like very there's a lot more going on in those games than there is in this.
+Yeah, combo driven systems versus like like almost sandbox fighting systems in a way.
+1:19:22
+I, I did have to make a a quick shout out and note here when I found out about this.
+There's a game called the Outfoxies that I believe is an arcade game originally that is is very Smash Brothers coded here with like wacky like like just Oh my God, how do I even describe this game?
+1:19:40
+It's madness, I tell you.
+He.
+Has both hands on his head.
+It's madness.
+You, you, there's like very dynamic environments.
+It's an arcade game.
+So imagine something from like, I don't know, like 1990 Konami of like, like Metal Slug, like graphics, explosions all over the screen.
+1:19:58
+Your characters that you have to select from are like a giant.
+A giant bodyguard man with a robot hand like your standard action movie, like white dude hero I believe his maybe not his ex-wife.
+There's there's a there's an orangutan with a top hat and a machine gun.
+1:20:19
+What more do you need?
+There's a a a robot or no, not a robot.
+A a guy, a scientist in a wheelchair.
+There's two small evil twins.
+Some tattooed lady it is.
+What?
+What are we talking about?
+This is an arcade game called the outfoxys OUTFOX i.e.
+1:20:37
+S which like I I somehow happen to have a collection of like every every arcade game in like from like a maim torrent that I got ages ago and I booted it up and it's exactly as insane as you think it like as I just.
+Described based on that description, it must be pretty kooky.
+Sounds awesome.
+1:20:53
+I want to very quickly apologize to anybody who knows anything actually knows anything about fighting games and smash brother type games.
+I'm sure there's a term term for that.
+Like what's the term for the Smash Brothers genre?
+I don't even know.
+I'm so sorry.
+Like we don't know what we're talking about anyway.
+We don't know what we're talking about.
+1:21:09
+And sorry you had to listen to this and you're shouting.
+Well, let's phone.
+Or Andrew.
+Andrew Yeah, If there's anyone out there who actually likes fighting games, they probably turn this podcast off by now because we, I'm sure, have gotten many things wrong about fighting games in general.
+1:21:26
+Indeed.
+And hey, you know what we're not going to fight about is our ratings because we always respect each other.
+There's rankings and everything.
+Are we getting close?
+Before we do that, do we want to talk about the synergy system really quick?
+No.
+OK.
+All right.
+1:21:42
+Rankings it is.
+There.
+Are synergies exist?
+What do you want to say about them?
+No.
+Scott, go ahead.
+I I think the synergy system in this game is really fun.
+It's interesting.
+It it, it hints at how synergies line up.
+1:21:57
+I think with Hades, it wasn't immediately obvious, like, oh, I get this and this and now I have the opportunity to do this.
+This game.
+It's a lot more spelled out, but like in a more more discoverable fashion of like, let's say you get the the electric Pikachu main attack boon and you open up the synergy list.
+1:22:16
+It's like, Oh, well, in order to get unlock this synergy here, you have to have like one of the the purple raccoon synergies and you don't know which one yet and one of the these other or these, these these other spirit spells And what when you have those two, then you can get like this third synergy 1.
+1:22:35
+And I just thought it was like a really clever way to do it.
+It didn't kind of like spell it out directly, but it gave you just enough to kind of be like, oh, OK.
+I think I want to hone in on, I want to like aim for this God over here in order to kind of like get discover what this synergy is.
+1:22:51
+It felt like a very unique and interesting system.
+And I just wanted to quickly shout that out out before we go into ratings.
+Yeah, I know.
+I don't think it was good.
+And I love a good synergy, yeah.
+I like that there was more than one synergy per combination.
+Like Haiti's is got also got synergy stuff, but it's pretty one note there's or I guess there's there's just the one for each combination of gods, right?
+1:23:14
+I think so.
+And I think here it's also one per every other God.
+So like really?
+Yeah, I think so 'cause there's 12345 actually.
+I think there's also a 1/6 or or like an eighth hidden God that like some of some of the rooms in.
+1:23:34
+Is that Yahweh the the Christian God?
+It is actually, yeah.
+And if you go on some of the some of the main arena maps, they're like hidden walls that you can jump into to access, like the shrines for this hidden virgin.
+1:23:52
+What what status effects do do Yahweh upgrades?
+Oh salvation?
+You can stack salvation on your enemies and you know, like instead of instead of splatting them and them dying, they you know, grow wings and they ascend up in.
+1:24:09
+Heaven, like you don't heal them, you save their immortal souls.
+Yeah, that's incredible.
+Yeah.
+You do have to kill them to do that, but.
+You know, sure, right?
+That good?
+Good times, good stuff.
+Raccoon God works in mysterious ways, as we've all known.
+1:24:26
+All right, now, rankings time.
+Enough sacrilege.
+All right, shall we go in the the the the order that we have been favouring lowest to highest?
+Yeah, Colin, kick us off with your with your hate of this game.
+Absolutely.
+1:24:42
+Tremendous, tremendous disappointment.
+No, I'm just kidding.
+I've been giving this game a 7.6.
+I thought it was a a good game.
+I liked it.
+I liked it a lot.
+I think that there was definitely still some things it could do.
+1:25:00
+I, I think the biggest thing that's keeping me from giving it like an 8 or an 8.5 is the there's, there's some stuff that's just a little bland and then they're the lack of, I just don't like the boss fights themselves are inspiring.
+1:25:18
+I want there to be a little bit more in terms of what's going on with the bosses, because it feels like you build up like a big theme in the levels that each one are like really like have a whole bunch of you know, you got the ice theme 1, you got the jungle theme one and you get to the end.
+1:25:35
+There's nothing to do with that.
+And you're just like, oh, the end of the jungle theme.
+It's got to be like a jungle box.
+No, it's just three random like samurai guys.
+It's like, OK, I mean, it's a cool fight, but like, and it's always the same guys.
+So like that's the biggest charism I have against it.
+1:25:53
+Other than that, I mean, it's just a really solid game.
+There's like the combat, I think the combat's really good.
+Or I think the, the, the way it feels to to move around is really good.
+I have the same kind of maybe not quite as much of A flow state as Dead Cells, but the same general sense of like really being on when you get, you're far into a run, you're getting everything kind of like really clicking on all cylinders and you're like dodging out of the way and just destroying stuff.
+1:26:24
+And it feels really good when you get that, that flow state going.
+Yeah, that's, that's, I think that's pretty much it for me.
+There's you could do a little bit more, I guess maybe the story, but I don't think it really holds it back by that much.
+Andrew.
+1:26:39
+All right, so, well, you know, if you listen to the pod, if you listen to this particular pod, the grog pod, then you know that I joined late.
+Here we go by the.
+Time I joined, you know, there was an established ranking system and I started using said system but then they switched it up on me.
+1:26:58
+And I'm trying to think it's just an elaborate joke, but actually none of that's even relevant this time because my score is pretty in line with my Co host actually.
+So as I said right at the very beginning of the episode, I hate smash Brothers because I'm so bad at it.
+1:27:17
+Anytime I give a smash game a try it just I walk away feeling so bad about myself and I'm just always frustrated.
+I don't think I've ever gotten the hammer.
+My, my, my opponents are always so much better at, at, at their movement, their mastery of movement, their ability to play the game that I, I've very rarely am able to even pick up a smash brother power up.
+1:27:45
+It's it's such a terrible situation.
+So those you know, that's, that's my personal feeling, extremely negative personal feelings about smash Brothers and and anything related to it.
+However, I am, of course, you know, I, I, I respect Smash Brothers and that it's like, you know, a winning game design that people like.
+1:28:11
+And that was sort of best illustrated during my time working at the Nintendo customer support call center.
+And in said customer support call center, we shared a space in this one building.
+1:28:28
+There was a call center on the bottom floor, and on the top floor there was a game tester zone, a game tester area.
+They had their own segmented super secret space.
+However, we intermingled in the lunchroom and in the lunchroom there was of course, an eating area.
+1:28:46
+And then there's also a small gaming area.
+Inside gaming area, there were a couple of arcade cabinets and there was a game cube demo set up like you could see in a retail space back in the day.
+And the game cube was sealed in a in a little plexiglass box and there were 4 controllers attached.
+1:29:06
+And the only game in this game cube was Super Smash Brothers Melee, of course.
+And when the dinner bell, the lunch bell would ring and the, and the play testers came out, they would gather around this, this setup and they would play some of the most righteous, intense, bombastic, exciting, absolutely off the wall, literally in some cases smash action that I'd ever witnessed.
+1:29:36
+And at one point I was hanging out watching this and one of my friends who knew some of the testers tried to hand me one of these controllers.
+You want to give it a go And absolutely not these because again, to be clear, these these game testers, many of them had been there during the testing of Smash games.
+1:29:57
+That was like their full time job in crunch testing this stuff day and night, falling asleep in their cubicles because they were playing so much Smash Brothers.
+And that might be, you know, the one the the absolute the least motivated I'd ever been to play A2 to compete in a competitive game.
+1:30:17
+But all that to say, like this was a sight to behold.
+And this was very exciting.
+This lunch break game tester, Smash Brothers Fight Club that would happen.
+And just watching it was fun.
+And just watching it gave me, you know, a better understanding that like, hey, this is a game that I find incredibly frustrating, but is incredibly good and has obviously stood the test of time that we have some of the iterations of it.
+1:30:43
+And all that to say, this works very well as a single player game.
+And I think the mechanics translate very nicely.
+And I'm awarding it a 7.9.
+It's my new number 13 spirit fall.
+But how do you rate Super Smash Bros Melee?
+1:31:00
+How do I rate it?
+I mean, I guess, I guess like objectively it's it's probably like a 9 out of 1010 out of 10 fighting game.
+But like for Andrew's personal gaming experience, like it's in the negatives, like I have such an awful time playing.
+1:31:18
+I absolutely awful time.
+When we get the next smash brothers, I don't think I'll even like bother.
+Like if I I'm, I'm, I think I'm pretty much committed to never trying to play Smash again.
+I do know that from Will's lifetime rankings Google sheet that he maintains for like all the top games that he's he's played he he gave the Smash Bros for which I think is for the Nintendo DS and Wii UA 7.5 out of 10 but I could not find Melee on that list.
+1:31:47
+Anyway, well over the recommended threshold, that's true.
+I guess I'll bring us home here with my rankings.
+I'm giving this a, a, a solid 8.
+I feel like there's definitely some stuff that the game could improve upon.
+1:32:03
+And I also feel like I've been a little stingy with giving out eights for things.
+So I almost kind of feel like guiltily compelled, but at the same time, like I don't, I don't feel that guilty about it.
+So, yeah, I think the, there's there's a lot of great things about this game and the only kind of minor nitpicks that I have is that like I think like the the story is kind of like meh, but I think it's incidental.
+1:32:27
+The biggest one is I just, I don't know, I just don't feel as compelled by the boss fights as I do from like the elite fights, which is oddly backwards.
+And there's no, like we said, like no kind of like quote smash, like matchups of like, oh, like I have to fight someone who's like roughly my same size and shape and like capabilities as like a player that feels like it's kind of like a like a missing element.
+1:32:48
+But you never know with like how litigious Nintendo is.
+If it's like, oh, actually that's a copyrighted thing.
+You can't use that, but but I think all of the the fundamentals for this game are absolutely there.
+I think this game nails like it's a big risk of like saying, Oh, I'm going to take something that's very clearly super Smash brothers inspired, very clearly Hades inspired and tried to like push the two together.
+1:33:11
+And I feel like that that blows up in a lot of faces more than it succeeds.
+But it I think it succeeds here.
+It's helped by the game having like a really strong like art style.
+I think the music is great, the combat flow of how like you go right, like there's some there's some abilities where I'm just like, Yep, this one is clearly the same as grab.
+1:33:31
+And this one here is clearly like the fox like upbeat, like get back to the stage attack.
+And I'm just like, it's it's so heartwarming to see like the like the very subtle nods of things like that in here.
+But it's unique and distinct enough that it doesn't feel like a complete knock off.
+1:33:47
+It has its definite own own identity, which is tough to pull off.
+I think there's there's a lot of really solid foundation to this that I would I would love to see in like a follow up if you know, if there was somehow like like this definitely feels like the smash 64 version of this game and a Smash Melee version of this game would just be like incredible.
+1:34:11
+I'm not entirely sure what the financials would be like for designing that.
+But I like that R2 points of comparison are Smash, the 64 version, and Melee which are the 2 ones that are like inconsequential apparently.
+I'm looking up the sales.
+It's like, no, no, they didn't sell any copies.
+1:34:27
+It was Brawl and then Ultimate has sold like 36 million copies.
+Yeah, Ultimate is like is its own ecosystem of the game.
+It's like its own, like it's not even like a fighting game.
+It's like Smash Ultimate now is like it's own fighting game genre in a way, right?
+1:34:44
+Just cuz like there's so many characters in it.
+There's 70. 6.
+So.
+So we're expecting at least 77 for Super Spirit Fall melee.
+Well.
+How many games have we rated so far?
+75 S 74.
+1:35:02
+Yeah, like they should definitely put the main character from a Valley Without Wind in there.
+The main character from Cataclysm Dark Days Ahead.
+Oh, you can put Cargo commander.
+You can put cargo Commander in there.
+That's a 2D2 DI.
+Don't even remember cargo commander.
+That's the one where it's like, it's the very inception, like the the stage is rotating around.
+1:35:20
+Oh yeah, Andrew, you missed.
+Out on the good times of the early podcast, when we played only very bad games.
+And we, we almost stopped the podcast 5 episodes in because we couldn't take it anymore.
+Thanks.
+Format switching.
+Yeah.
+1:35:35
+So anyway, I think like Spiritfold, great game.
+I'm I had a great time playing with it.
+A little behind the curve in terms of them giving me the review key and then taking my sweet ass time finally reviewing it.
+But here we are.
+I think it is well deserved and it lands on our list as our new, as our new #14 out of 74 games that we've rated so far.
+1:36:00
+So I think it's in, it's in good company with inscription and Enter the gungen.
+And yeah, I think that like this, I'm, I'm putting together a, a tally list of hidden gem games for the end of the season.
+I think this one will probably be right up right up there.
+1:36:17
+But but to be clear, Gungen is ranked higher.
+Gungen is actually not ranked higher.
+Oh man.
+On Andrew's list it is 'cause that's one of your.
+I think it's your only 10 out of 10 game.
+Believe that is my number one.
+1:36:32
+That's right.
+And you loved inscription so much that you gave it a 5.6 out of 10.
+But you know what?
+Numbers are just numbers, they don't really matter.
+Gaming journalism is totally morally bankrupt, with everything either being an 8 or A10 with no room for nuance or discussion.
+1:36:48
+That's why ours is very much more Gaussian and normally distributed like all good stats majors should have, instead of this awfully skewed not Likert scale.
+But what is it the the.
+No if I can.
+1:37:03
+Hear about that?
+Scale again.
+And what pronounce it?
+How about Richard Gate like this?
+Held accountable.
+Anyway, we're yeah, so I think similar games to this.
+We obviously talked a ton about Smash Melee.
+Dead cells.
+Dead Cells 100% stay tuned and a half.
+1:37:21
+Rogue Legacy 1 and 2 are are.
+Oh, of course.
+Pretty pretty similar to this, a lot grindier.
+I briefly mentioned Skull the Hero Slayer.
+That one's that one's quite fun.
+Have not played any of Astral Ascent or Blast Blue Entropy effect if I'm pronouncing that right at all.
+1:37:37
+Blast Blue again with the Blast Blue.
+Yeah, fighting, fighting game stuff.
+I think like those, those are also very kind of like Smash, Smash, like fighting game sandbox like like spectacle fighters I think is what they're called.
+And then I think Oblivion Override is another one that I remember Woody saying that one had a terrible name for.
+1:37:59
+So give those give those a look.
+I think, Oh, what what is this one?
+Bravery and greed?
+Why did I put this one on the list?
+I think this is another similar one.
+Oh yeah, it's it's kind of similar idea, but I think it's also Co-op.
+It's also mostly positive on Steam.
+1:38:14
+So take that as you would.
+So I think that will wind up for winding down our spirit full episode.
+Oh yeah, and of course our next game is going to be what?
+Our next game is gonna be something other than vellum because we have to keep the, the the gag running before we do that right in rightintotheshowgrogpodzone@gmail.com.
+1:38:39
+Our website Grogpod dot Zone has all sorts of links with like rankings and stuff.
+There's a, there's a submit, submit.
+What game you want us to to play on there Actually, where is my schedule thing?
+Yeah, we have a listener request week coming up fairly soon.
+1:38:57
+If you go to our website, we have a a a contact section on there.
+There's a Google form submit some stuff.
+What what do you what do you want us to see play on there or comment below.
+People love to leave comments on the YouTube channel.
+I think Spotify also just opened up comments for better or worse.
+1:39:14
+But we're on Mastodon Grogpod at game dev dot place.
+You can see all sorts of nonsense roguelike ship posting there for all good times.
+Now our next episode.
+Finally, Andrew, the library book is way overdue.
+But yes, we are we are finally getting to your your suggestion of vellum.
+1:39:36
+Where?
+All right, yeah, cool.
+And I was I was like asking in earnest.
+I just wanted to confirm that was in fact the game we are playing next.
+All right, so hey, sorry, sorry for the misdirect their audience, but this time we're actually going to play vellum and it is I'm I'm I'll be curious to see how good or not we're able to work as a team 4 player Co-op in this an exciting third person shooter type of situation, and you're going to hear all about it next episode.
+1:40:08
+I mean looking looking at the tentative schedule I have kind of planned out, which will inevitably get torpedoed whenever Sleigh the Spire 2 early access lands.
+But I think we we got some interesting co-ops coming coming down the line where it's so I think this will be a good way to kind of force us to get into Co-op brain mode and yeah, I think I think it should definitely be interesting yeah the the books are fighting back again.
+1:40:34
+They're they're fighting for their spot back back in the library.
+All right, so that's going to do it for for spirit fall here.
+Thanks for listening and to play us out from here will be some some spiritual ice base jams from the frozen frigid veil.
+1:42:08
+The.
