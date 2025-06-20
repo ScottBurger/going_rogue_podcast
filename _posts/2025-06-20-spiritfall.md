@@ -2,7 +2,7 @@
 layout: post
 title: "Spiritfall"
 date: 2025-06-20
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/spiritfall.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/spiritfall.jpg
 thumbnail-img: /assets/img/spiritfall.jpg
 share-img: /assets/img/spiritfall.jpg
-duration: "1:54:46"
-length: 95243040  
+duration: "1:43:41"
+length: 86548368   
 tags: ["2023", platformer]
 ---
 
@@ -20,20 +20,18 @@ Dat ain't Falco! This week we wavedash into Spiritfall: the platformer beat-em-u
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/spiritfall.mp3">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/blue-prince/id1650474911?i=1000711118287) | [Spotify](https://open.spotify.com/episode/1Sk2NVrimWWqIHbAu0ZqR3) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/blue_prince.txt)
 
 ---
-* 1:04 - game stats
-* 2:33 - one sentence description
-* 3:08 - spoiler free ratings and thoughts
-* 10:04 - spoiler warning and general discussion
-* 1:20:26 - listener letter on game pricing
-* 1:29:00 - rankings and final thoughts
-* 1:41:26 - similar games
+* 2:04 - game stats
+* 3:16 - one sentence description
+* 5:05 - our story begins
+* 1:22:39 - rankings and final thoughts
+* 1:34:52 - similar games
 
 ---
 
