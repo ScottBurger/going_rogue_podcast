@@ -29,8 +29,17 @@ Day 967... This week we unlock the enigmatic puzzle adventure / drunken architec
 ---
 * 1:04 - game stats
 * 2:33 - one sentence description
-* 3:08 - spoiler free ratings and thoughts
-* 10:04 - spoiler warning and general discussion
+* 4:07 - Spoiler-Free Initial Impressions
+* 9:00 - Multi-Brain Gaming & Spoiler Transition
+* 10:37 - Puzzle Spoilers & Game Mechanics
+* 16:11 - Story Setup & Opening Cinematics
+* 22:13 - Room Drawing Mechanics & RNG
+* 29:05 - Foundation Room & Basement Mechanics
+* 34:13 - Puzzle Solutions & External Help
+* 40:43 - Digital Journal Critique & Comparison to Other Games
+* 50:35 - Board Game vs Video Game Format
+* 55:27 - Specific Gameplay Elements
+* 1:03:02 - Game Design Analysis & Improvements
 * 1:20:26 - listener letter on game pricing
 * 1:29:00 - rankings and final thoughts
 * 1:41:26 - similar games
