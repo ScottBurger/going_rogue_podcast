@@ -29,7 +29,15 @@ Dat ain't Falco! This week we wavedash into Spiritfall: the platformer beat-em-u
 ---
 * 2:04 - game stats
 * 3:16 - one sentence description
-* 5:05 - our story begins
+* 5:57 Story Overview
+* 8:58 Controls & Tutorial Complexity
+* 12:46 Smash Bros Experience & Wave Dashing
+* 18:10 Combat Mechanics & Arena Types
+* 25:44 Generic Terminology & Art Style
+* 32:38 Comparison to Dead Cells & Boss Fights
+* 39:31 Map Navigation & Decision Making
+* 50:39 Story Completion & Meta Progression
+* 57:28 Hypothetical Smash Bros Crossover
 * 1:22:39 - rankings and final thoughts
 * 1:34:52 - similar games
 
