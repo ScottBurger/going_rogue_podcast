@@ -29,7 +29,17 @@ Welcome back Wizard, to the ruins of the universe! This week we pick up the coff
 ---
 * 2:46 - game stats
 * 3:48 - one sentence description
+* 4:50 - Graphics philosophy and infernal bargain of visuals vs depth
+* 8:35 - Spellbook complexity and 157 individual spells breakdown
+* 12:46 - UI problems and overwhelming spell selection criticism
+* 16:11 - Information management issues and upgrade visibility problems
+* 23:25 - Spell synergies and Python code accessibility discussion
 * 31:14 - our story begins and spoiler alert warning
+* 41:19 - Enemy variety and creative monster design analysis
+* 50:22 - Final boss Mordred fight mechanics and phases
+* 57:03 - Music discussion and dungeon synth soundtrack evaluation
+* 1:05:13 - Rift Wizard 2 improvements and sequel features
+* 1:07:25 - Controls praise and mouse support excellence
 * 1:12:04 - rankings and final thoughts
 * 1:21:09 - similar games
 
