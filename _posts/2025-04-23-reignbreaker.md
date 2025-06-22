@@ -29,9 +29,21 @@ Can you imagine a dystopian world where overlords are oppressing you through com
 ---
 * 1:10 - game stats
 * 3:25 - one sentence description
+* 5:47 - Developer studio closure and unfinished game discussion
+* 8:20 - Voice acting quality critique and comparison issues
+* 15:12 - Game feels unfinished despite potential quality elements
+* 19:08 - Bold aesthetic choices and punk theme discussion
+* 24:21 - Character design and muscle mommy protagonist analysis
 * 29:28 - our story begins
+* 32:16 - Development team size surprise
+* 40:25 - Combat mechanics comparison to Hades gameplay differences
+* 48:43 - Enemy variety limitations and single biome problem
+* 56:25 - Dungeon crawl elements versus arena-based combat design
+* 1:00:45 - Story issues and final boss disappointment
+* 1:08:03 - "So bad it's good" games discussion
 * 1:10:55 - rankings and final thoughts
 * 1:17:54 - similar games
+* 1:21:23 - Next episode preview: Path of Achra listener request
 
 ---
 
