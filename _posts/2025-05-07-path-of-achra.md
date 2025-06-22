@@ -29,9 +29,21 @@ O, glorious roguelikes! Listener request week returns with a recent hit in the t
 ---
 * 1:45 - game stats
 * 2:32 - one sentence description from the community
-* 5:17 - how do you play this game?
-* 1:17:16 - rankings and final thoughts
+* 5:08 - Game mechanics explanation: turn-based grid combat system
+* 8:38 - Tab key automation and streamlined controls discussion
+* 14:06 - Spell synergy systems and trigger mechanics comparison
+* 19:02 - Music and atmospheric soundtrack appreciation
+* 23:28 - Developer background and sequel development plans
+* 28:05 - Story fragments and world-building elements
+* 32:14 - Difficulty cycles and progression scaling systems
+* 38:49 - Path selection and arena design mechanics
+* 47:26 - Character creation: cultures, classes, and religions
+* 59:01 - Event log issues and quality of life concerns
+* 1:04:28 - Arena design limitations and movement mechanics
+* 1:13:51 - Slay the Spire comparisons and boss fight critiques
+* 1:17:56 - Final ratings discussion begins
 * 1:27:50 - similar games
+* 1:31:13 - Podcast wrap-up and next episode preview
 
 ---
 
