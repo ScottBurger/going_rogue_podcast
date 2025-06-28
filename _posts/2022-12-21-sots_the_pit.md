@@ -43,7 +43,22 @@ A space plague has broken out, but you have to break in to The Pit! Join us as w
 ---
 
 * 1:12 - game stats
+* 4:30 - One-sentence game description and setting confusion about "pit"
+* 6:45 - Character classes and extended universe background
+* 9:15 - Recipe system criticism and food scarcity problems
+* 12:30 - Tutorial praise and voice acting disappointment
+* 15:45 - Art style appreciation and Steam Deck compatibility
+* 18:00 - Gameplay texture and pacing comparison problems
+* 21:30 - Traditional roguelike mechanics and floor progression
+* 25:00 - Strategy limitations and combat simplicity complaints
+* 28:45 - Sequel discussion and graphics quality concerns
+* 32:15 - Game texture theory and lack of variety
+* 36:00 - Difficulty balance and fairness issues
+* 40:30 - Ending spoiler discussion and trophy controversy
 * 1:00:42 - rankings and final thoughts
+
+
+
 
 ---
 
