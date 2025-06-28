@@ -30,7 +30,14 @@ Glitch or Treat! On the final day of Space Halloween we dive deep into an acidy 
 ---
 * 1:16 - game stats
 * 3:29 - one sentence description
-* 17:39 - our story begins
+* 6:01 - Top-down shooter mechanics and mandatory pause feature discussion
+* 9:25 - Difficulty curve complaints and tutorial vs advanced missions
+* 15:27 - Story setup and nebula liberation campaign structure
+* 24:29 - Mission terminology confusion and character trait system
+* 29:57 - Faction mechanics and nebula map disappointments
+* 38:41 - UI design praise and criticism of system complexity
+* 46:27 - Death mechanics discussion and permissive respawn system
+* 54:11 - Daily challenge mode as game's crown jewel
 * 1:01:51 - ending spoilers
 * 1:14:52 - rankings and final thoughts
 * 1:21:51 - similar games
