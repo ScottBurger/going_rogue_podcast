@@ -24,6 +24,9 @@ layout: null
     <itunes:owner>
         <itunes:email>grogpodzone@gmail.com</itunes:email>
     </itunes:owner>
+    <itunes:keywords>
+      roguelike,indie games,game reviews,gaming podcast,dungeon crawler,permadeath,procedural generation,turn based,RPG,game analysis,video game discussion
+    </itunes:keywords>
     <itunes:explicit>yes</itunes:explicit>
     
     {% assign excerpt_length = site.excerpt_length | default: 500 %}
@@ -41,6 +44,7 @@ layout: null
         <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
         <itunes:image href="{{ site.url }}{{ site.baseurl }}/assets/img/grog_itunes_square.png" />
         <itunes:explicit>yes</itunes:explicit>
+        <itunes:keywords>{{ post.keywords }}</itunes:keywords>
         <itunes:duration>{{ post.duration }} </itunes:duration>
       </item>
     {% endfor %}
