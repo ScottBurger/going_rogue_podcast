@@ -4,10 +4,9 @@ title: "Vampire Survivors (with Woody Ciskowski)"
 date: 2024-06-05
 file: https://grogpod.s3.us-west-2.amazonaws.com/vampire-survivors.mp3
 description: "
-
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, vampire survivors"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/vampire.jpeg
 thumbnail-img: /assets/img/vampire.jpeg
@@ -31,7 +30,16 @@ Adoro l'aglio! The time has come to suck the blood out one of the most popular r
 ---
 * 2:42 - game stats
 * 7:25 - one sentence description
-* 18:33 - our story begins
+* 13:36 - TV show adaptation announcement and story elements
+* 17:37 - Game pricing history and mobile monetization features
+* 21:16 - Basic gameplay loop and 30-minute timer mechanic
+* 25:28 - End game content and killing Death character
+* 29:01 - Genre terminology debate (bullet heaven vs survivor-like)
+* 31:37 - Progression system and relic collection mechanics
+* 41:01 - Meta progression criticism and character stat upgrades
+* 48:52 - Level design comparison with Brotato arena gameplay
+* 54:04 - Soundtrack quality and sound effects discussion
+* 1:02:08 - Best character recommendations and tier lists
 * 1:06:35 - rankings and final thoughts
 * 1:14:25 - similar games
 
