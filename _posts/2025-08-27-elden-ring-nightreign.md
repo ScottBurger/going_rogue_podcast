@@ -1,0 +1,62 @@
+---
+layout: post
+title: "Elden Ring Nightreign"
+date: 2025-08-27
+file: 
+description: "
+"
+explicit: "yes" 
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, elden ring, nightreign, dark souls, soulslike"
+voices: "scott, will, colin, andrew"
+cover-img: /assets/img/vellum.jpg
+thumbnail-img: /assets/img/vellum.jpg
+share-img: /assets/img/vellum.jpg
+duration: "1:31:55"
+length: 75484368   
+tags: ["2025", action roguelike]
+---
+
+Praise the Sun!
+
+<div class="container">
+  <audio controls style="width: 100%;">
+    <source src="">
+  </audio>
+</div>
+
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/vellum/id1650474911?i=1000715392460) | [Spotify](https://open.spotify.com/episode/3XD6pmAuD2b4k1xpxrmg11) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
+
+---
+* 1:22 - game stats
+* 2:50 - one sentence description
+* 6:47 - Hub world complexity and literary theming commitment
+* 12:37 - Overly complex terminology and ability descriptions
+* 19:04 - Enemy design and literary theme implementation
+* 25:33 - "One more run" phenomenon and replay motivation
+* 29:17 - Positive aspects including UI and visual effects
+* 33:00 - Inscription system and meta progression mechanics
+* 38:26 - Vignette encounters and their effectiveness debate
+* 42:54 - Tome selection system and special level rules
+* 48:07 - Progression gating and attunement level complaints
+* 55:39 - End game content and endless mode discussion
+* 1:01:29 - Boss strategy discovery and magical lamp exploit
+* 1:14:13 - rankings and final thoughts
+* 1:22:08 - similar games
+* 1:24:50 - listener correspondence: does the GROGPOD need a public discord channel?
+  
+---
+
+Next episode: Orcs Must Die - Deathtrap
+
+Contact us at grogpodzone@gmail.com!
+
+https://grogpod.zone
+
+Intro music: 
+
+Outro music:  
+
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
