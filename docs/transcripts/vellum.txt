@@ -1,0 +1,1359 @@
+0:15
+Gather round friends, it's story time here in the Grog Pod Roguelike Podcast section of the library where each episode we organize big stack of roguelike games according to our Arcane classification system, dust off their bindings and either put them up high on the rankings shelf or dump them in the donate bin.
+0:34
+I am your chief librarian of the podcast, Scott Berger, and with me are my Co hosts fresh from the stacks basement sorting issues of Good Housekeeping.
+I mean good podcasting.
+Hey, it's Andrew Harsh Manuscript.
+Very good and it's me calling a pen.
+0:54
+Even better.
+This week we are talking the literary infused Rogue Light Game of Vellum, released Early access March 28th 2024 and one point owing relatively recently, May 2nd 2025.
+1:10
+This I believe is a Steam exclusive and it was developed and published by 1 Alvios Games out of Asheville NC.
+A pretty pretty small dev team with some extra little bit of support there.
+Also known for publishing something that looks like a marble racing game called marble it up a an archery VR game and a what is this called?
+1:36
+Pace Baker pace breaker an experiment in AI perfected exercise and weirdly an iPad like planetary weather app for other planets in the solar system so very very diverse range of of stuff under their belt.
+1:55
+Your average player of Vellum has just just barely north of 17 hours of gameplay in it, and Vellum falls off of the library shelf at the number 700 and first most popular roguelike game in our data set with 976 total reviews.
+2:13
+Andrew, what in the style of Take your pick, either Finnegan's Wake or Ulysses?
+What is your one novella description of Vellum?
+Oh golly, I don't know if I could do either of them justice.
+Let me tell you about Vellum.
+2:30
+Vellum is a class based calligraphy themed cooperative third person shooter in which you and your anthropomorphized fountain pen friends fight waves of, oh, I don't know, book corrupting monsters.
+Choosing of course, in classic roguelike fashion, perks over the course of your run for your own self and for your allies, but also perks for the enemy in parentheses.
+2:57
+This applies to the boss.
+Yeah, I feel like this game, well, First off, I I had a fun time playing this game, but I feel like the my initial reaction to this game was pretty sleepy.
+And and I feel like there is the old the time timeless adage of don't judge a book by its cover.
+3:20
+I was 100% doing that for this game during the tutorial sequence of like putting the literary in literally of just like, OK, yeah, let's let's hop into this game.
+I'd had heard good things about it.
+3:35
+So I was, I was pretty excited.
+Like, OK, sure, yeah.
+Action, third person, action game.
+Let's jump in and.
+Yeah, I suppose it's more of an action game.
+It's not strictly a shooter per SE.
+Well, yeah, I mean it it's it's it's like hack and slash.
+There are projectiles.
+Yeah, there's a lot of generating and firing projectiles, so you hopped in.
+3:54
+Hopped in and I was before we did our multiplayer session, which we'll talk about in a minute.
+I was desperately trying to remember anything about the tutorial and I don't know if it was just like at the time that I was playing it was just like in kind of like a man mood or something but it just I I couldn't remember anything about it so I had to go and I had to go and find a well number one.
+4:17
+I tried resetting my save file, which couldn't do.
+I would have to like delete my or like back up my save file.
+Anyway, I wound up finding.
+This go into the the steam app data or or so whatever yeah, like the into the pardon me, the steam apps common folder and.
+4:32
+That not even that like the app the weird app data.
+Literally the app data.
+Yeah, the the labyrinthine library, that is.
+Oh golly.
+All those settings, but I, I wound up finding a, a YouTube video of what appeared to be some sort of AI generated voice and summary of the game like, oh, this is great.
+4:53
+We'll just use this for the podcast.
+But I was, I was like watching here.
+I'm like, OK, yes, I do remember these things happening and in retrospect, like yes, I think the tutorial here does a good job.
+I just don't remember anything about it at the time.
+But Colin, you're you're more fresh off of the tutorial unless like we forced you off of it too fast in.
+5:13
+Order to Oh I I barely remember the tutorial.
+I mean I so I I was playing the tutorial too 'cause you have to do it in order to join Co-op.
+I was literally going through as fast as I possibly could.
+I did not read any text.
+I don't even know if this game has a story.
+5:29
+Well, we're excited to illuminate that aspect of the game for you for sure.
+Yeah, I think the the tutorial's fine and dandy.
+It just, it does kind of, I too feel like I I went in and played the tutorial in kind of a mad mood because first impression of this game was was not amazing and that would improved.
+5:48
+It didn't didn't maybe reach the heights that I had hoped it would have when I chose this.
+The thing about the tutorial is that like this game doesn't have a completely novel mechanics.
+Like I'm sure that all of the things are slightly different but it's the same as many third person hero shooter type games.
+6:09
+It's right click does one thing left or you know, left click is your your regular gun.
+Your special gun is right click and then a button or two to your.
+Ultra is like one, yeah, which is on a long.
+It's like, all right, you got to click, you got another, a different thing, you got an alt and then like a special thing.
+6:26
+Cool, done.
+Sure the the tutorial.
+Does feel, I feel like I could have played the game without playing the tutorial.
+I'm just like I guess a queue.
+Queue is the button you need to press.
+OK, great.
+Done.
+It didn't help me in that.
+You know, once you start reading all of the other classes like these are wildly different than the thing in the tutorial.
+6:47
+Like the tutorial does not prepare me for the other mechanics.
+So you know.
+Sure, but I mean, it's it's ultimately an effective enough tutorial.
+It is, you know, teaching you, hey, you are one of these, these fountain pens, these these guardians of the from.
+7:10
+The tutorial, the first floating book that you pick up, said.
+Talks about the scribes of the library.
+Right.
+Describes.
+Excuse me.
+Yes, Yes, of course, Of course.
+The players are all scribes.
+Excuse me, which are these guardians of the library?
+Guardians of knowledge.
+7:25
+Right, which I would have bet money.
+Also literally anthropomorphized floating fountain pen.
+Man hell yeah.
+Which leave a little trail along the ground, which is fun, even though as we discussed during playing Co-op, their their feet aren't the actual actual like head of the pen.
+It's the head of the pen is up at the top their head.
+7:42
+I mean, what's?
+Going on, it's all and the top should be the quills.
+Indeed, arguably not as interesting from like aesthetically in terms of character design, but sort.
+Of so we understand the horrible mutant of literary nightmares.
+That'll be rough.
+And all of the scribes, all the all the player characters are wearing these incredible MC Hammer parachute pants.
+8:03
+Love them.
+Which I'm starting to realize it's kind of a theme.
+We had it in spirit Fall the.
+Parachute baggy pants?
+Yep.
+Dead Cells, of course, very baggy, definitely baggy pants.
+It is.
+There's there's something it's I think adjacent to this theory of purple robes being very common in rogue like character design.
+8:23
+But yeah, the tutorial tells you, hey, you're the scribe, you're the guardian.
+You got to protect these books.
+You got to protect the library.
+You got to protect the knowledge against these these incursions, these horrible monsters that are are here to corrupt tomes of knowledge are here to corrupt the the the the the literary very value and and knowledge and you gotta fight them off in the form of arena battles.
+8:42
+It, it it has forever been the charge of scribes to maintain the tomes amidst the cycle of decay and restoration.
+Ever bound, the fates of Scribe and tome shall be according to one prism.
+Who is?
+Who is?
+Prism is always blabbing Prism is is is constantly being referenced or the quotes are being attributed to this prism individual in the various scrolls that and books that you find little little tidbits of lore and but but yeah, the story tells you, hey, here's who you are, here's who you are fighting, here's what you should be doing.
+9:19
+And in order to do that, great, you're you're moving around.
+You can jump.
+You got a dash that can trigger effects.
+You got a left click primary attack, you got a right click secondary attack, which you do a little less often and then very not very often at all with a pretty long cooldown.
+9:34
+You got your ultimate, which I believe is default on queue.
+So I mean, it gives you that information, but I agree with what we were saying earlier where it's it doesn't really stick in your brain because it kind of feels like I I kept kind of gesturing in the air and being like yada, yada.
+Yeah, I've, I've played a third person shooter.
+9:51
+I got it.
+All right, let's go, let's go.
+Come on.
+This is all pretty straightforward.
+Yeah.
+And I.
+Feel like in in classic literary technique fashion, it does a very much like a tell.
+Don't show in in an aspect of like, all right, like you're dropped in like, OK, do this thing, then do this thing, then do this thing and it's it's functional.
+10:12
+Like it works it it succeeds in its mission.
+But I feel like there's like AI don't know, maybe a better way to kind of and and I'm we're, I think I'm like reaching to the pick here because I feel like it.
+Doesn't we don't.
+We don't need to talk about the tutorial was irrelevant.
+10:27
+We all know how to play these.
+Games, it's just on the surface it feels like I don't need to be doing this tutorial.
+I know everything.
+But then once you actually get into the game, it's like, OK, so yeah, it teaches you the basics.
+Great.
+Love it.
+And then you go to a what is a wonderful hub world, the library, which I think is a pretty neat environment, but whole boy howdy, there's a lot in this hub world.
+10:50
+And the illuminated library.
+There's a lot of information being thrown at you initially.
+Endless floors house infinite tails.
+Here the font capitalized, the font as its heart source of all ink, the illuminated library.
+11:06
+This is home.
+Prepare yourself for your task in the pages ahead.
+That's I feel like that's kind of all the story that you need here.
+This Yeah.
+Like this is your hub.
+Yeah, this is the hub, right?
+This this is the hub.
+This is where like and embarrassingly, it took me way too long to realize like, oh, I need to go over here to do this thing.
+11:26
+I need to go over here to do this thing 'cause it it's graphically very like I think simultaneously impressive and like visually very over stimulating of like you.
+You have like these very cool looking like purple ink rivers flowing around to take you from like 1 area of the library to the non friction section to to change up like your your left click abilities or right click abilities, that kind of thing.
+12:01
+And I had just walked past this giant spinning like black hole orb thing that you would like assume is like from the lawnmower man or Stargate and like like, oh, of course I go there to unlock all of my meta progression stuff.
+12:17
+Very obvious in retrospect, but like having just just like walk right past the press E to interact with like it.
+There's so like everything here is just so library themed.
+I'm I'm kind of impressed by their commitment to the bit.
+Their commitment to a bit they they are committed in my opinion to a detriment.
+12:37
+Like I I played just under 6 hours of this game, which should be enough for me to like pick perks and like read through meta progression updates with ease.
+And yet it just like everything reads so clunky, at least to my eye, because instead of just saying like hey, this is like this, this upgrade is for your primary attack or this upgrade is for your secondary attack.
+13:02
+It's like everything has a hyper like specific theme and term and.
+I'm not committed.
+I haven't committed any of those to memory in six hours.
+Now There is on now when you're selecting perks, there are like, you know, icons that actually show it.
+But my, but of course, my eyes and my brain are drawn to the words and I'm like, wait, what does that mean?
+13:21
+Oh, right.
+That's, that's the left clickability that I, I chose because I, I changed classes recently.
+So I I don't know if it's just that I don't connect with the theme or if I need to maybe take take notes or start doing some brain teaser memory training the modules or something.
+13:39
+I feel like it's like, to this game's credit, it's pretty.
+I think it swings for the fences for originality and some of like the ability designs.
+But like you're saying, to the extent that, like, it kind of swings back in on itself of like, oh, yes, this thing that you're doing is very creative.
+13:57
+What the hell is this thing again?
+Oh, here's like a James Joyce novel to read through of like literary, you know, deep diving.
+I'm like, OK, all right, let let me just take a second like the the pink one, for example.
+Prime outline, then detonate your foes.
+14:16
+Pink signature has two charges.
+Use them to detonate finalize often will pink hexagon and leftover outline become drafts outline and like key mechanic outline and finalize pink spells.
+Prime foes with pink outline storing a copy of all damage done.
+14:32
+Finalize detonates all outlines and drafts dealing stored damage.
+Which like, OK, it makes sense when like you stop and like put in like 30% of your brain power to just try to like unpack what just happened.
+14:48
+When we were playing in Co-op I was using that pink a belly.
+I had absolutely no idea what I was doing.
+I was just spamming the buttons the whole time.
+Right.
+I, I messed around with that for a bit and I think the idea is that you, yeah, you start up a bunch of damage and then you execute it with the, with the queue button.
+15:04
+But yeah, it's, it's, I mean, especially at the beginning of the game, the first like, you know, 678910 hours, what have you.
+That's how numbers work, right?
+We've been talking so much about literature and letters.
+I wasn't sure.
+And you're like learning all of these different classes and types of magic and it's just I don't know, it doesn't it feels so herky jerky and not not like a a smooth learning process at all.
+15:30
+Like ideally you want to get into a nice, you know, rogue like flow state of playing through battles, picking perks and and moving through the game.
+But I, I felt like I had to in between levels.
+15:45
+There was like just this huge hiccup where when I would have to pick perks and reading through, reading through and picking a perk was not a wasn't always a fun and like easy process like I'd have to.
+I was, I was having to spend a lot of time like parsing what the perks did.
+16:04
+And I mean, that's expected when you're first learning the mechanics of a game.
+But I was like 6 hours in, 5-6 hours in and I, I still felt like it wasn't well organized.
+I don't know.
+So I feel like the this game was well conveyed.
+16:20
+I should say excuse me this.
+Game is somehow both very unique and very generic.
+Like all of the names are unique, all the like.
+Things are very like thought out at like they did a lot of work to have them all be like literary related, but to what end?
+16:40
+They're not actually that unique as mechanics, they're just unique as names in some ways.
+Sure, like we all know what an ultimate attack is, right?
+Call it an ultimate.
+You don't have to call it the signature attack.
+Right or or like.
+16:56
+But you see, signature is a pun on the pen.
+Or like call it the signature.
+Ability.
+It's basically how you're talking about the the yellow ink is a crit build, but they don't call it crits, they call them flourishes.
+Come on for a second.
+17:11
+Yeah, you're very precisely.
+This game is so I I have played recently Orcs Must Die Deathtrap, which is a game that we are going to play for this podcast, probably either my next pick or the one after that.
+It is a very similar game to this.
+17:28
+It's like heroish shooter and that game is way more generic in many ways.
+Like you're fighting trolls and knolls and orcs and ogres, but somehow they have way more character than it's like, well, that yeah, I know what an orc is, but they have like funny little voice lines and they have like cutesy animations and I know what an orc is.
+17:56
+So, and they're like all orcs get 50% stronger.
+I'm like, great, done.
+I know what that means.
+They like say like all, all torn.
+I, I, I don't, I can't even remember what the categories of of guys are because it's like nonsense.
+And I mean, yeah, like all tangents get 50% power.
+18:13
+I'm like, which ones are are tangents are like the amount of times I had to hover over to figure it out.
+I mean, so Full disclosure, I only played like 2 1/2 hours in this game because just didn't have that much time to play it.
+And also just didn't grab me that much.
+18:30
+But like, yeah.
+Well, I've played three times as long and I still have very little understanding of the different categorizations of enemies.
+Yeah, just like the perks, selecting the anti perks is also kind of this arduous process 'cause you're trying to remember all these in game terms and you're trying to remember which enemy is which.
+18:48
+And yeah, the only things are I look, I admire and I appreciate that.
+Like they're, they're wanting to do something original.
+And this is a highly original theme, but I I they just went a little overboard.
+19:04
+It feels like maybe there's a missed opportunity with like leaning into the literary theme in such a degree that like enemies are pulled from like famous bits of literature or something like that.
+But, and I don't, I mean, obviously this is kind of skirting like a copyright issue, but maybe from like stuff that you can find off of like Gutenberg or, you know, things that have like passed into public domain.
+19:31
+Like I could see like A and I'm just like looking through my screenshots of the tutorial here, like the first enemy you encounter, like I don't know how I would even describe it.
+It's like a black and white like skeleton with like a big shoulder pad.
+Like, OK, yeah, Like if if I just took that out of context from here and compared it against like, I don't know, some enemy from like League of Legends or Dota or something like or or like one of like the little ads minions or something like could could I tell from like across the room which game this one is from?
+19:59
+Probably not like it.
+It does feel like all of the literary.
+Scott, Colin, what was it?
+What was your favorite enemy?
+Scarecrow guy.
+Scarecrow guy I think the we were.
+20:15
+I think we were making a joke about one of the enemies possibly being from Dusk where he was like a pumpkin headed guy with a hook for a hand.
+Indeed.
+But like, like, what's that guy's name?
+20:30
+Like, I don't, I don't know.
+Exactly what is that guy's?
+Name is he a he's a torn because they're all torn.
+They is he a tangent the enemies or is he an elite?
+They do remember they're.
+Tangents are those are classes of enemies.
+Yeah, yeah.
+Like you have your, they're they're class based in the sense that like there's long range wimpy snipers, beefy melee guys and like elites.
+20:52
+And that's kind of all you really need to know.
+Like the individual enemies do have names in like an in game encyclopedia that you can look up.
+But like, you know, it doesn't really, it's not necessary in any regards.
+And yeah, like, you know, Andrew, that you were saying that like, as you progress through a run, like you're not only picking your perks, you're picking the enemies perks, but you're still having to do that cognitive math of like, OK, tangents, OK, those are the range guys.
+21:22
+And to be fair, like when you hover over it, it does say that like, oh, tangents are the ranged enemies.
+But maybe what Colin's pointing out is like, maybe like the game shouldn't need the lean on that crutch.
+Deed and I mean it's it's not like these concepts, the idea of there being different classifications, different categories of enemies is not something new like we we've encountered these concepts in other games plenty of times and yet this is the only time that I've been like befuddled by it and annoyed by it.
+21:55
+So I'm not I'm not sure what's different in this game, but.
+Yeah, maybe.
+I think one of the things about this is that there are certain like themes that map neatly onto a action combat game and books isn't one of them.
+22:15
+So like, they're really shoehorning in all of the puns and all the stuff like a flourish or a like one of the abilities like plot armor is like, OK, that's funny, that one works.
+But a bunch of the other ones are just like outlines.
+22:31
+Like, I mean, yeah, OK, I get it.
+Like each of them are like you, you really you, you don't intuitively understand what it is.
+You have to like, actually memorize.
+And now one could argue, 11 could argue, perhaps rightfully, that's, you know, we're just a bunch of noobs.
+22:50
+And if wait.
+Did you say rightfully with AW there?
+Absolutely.
+We'll write.
+We'll hopefully be back next week.
+By the way, he's, he's still on the show, not Tory folks.
+And perhaps, you know, you know, yeah, if we, if we took this, these problems that we're discussing, I'm sure obviously these, these issues probably don't exist for end game players, players of this game who, you know, know what they're doing.
+23:14
+But I mean this, this, this definitely seems like a barrier to entry.
+And like, and, and most players, I don't know, you can't expect everyone to be an end game player.
+I suppose this is my point.
+We've, we've talked about this before and I, I think we got a comment from a listener about money versus time and the value of game things.
+23:38
+And I thought about that later and I was like, oh, I'm an idiot.
+It's, there's multiple currencies.
+Like we as players of games have multiple currencies.
+One of them is time and one of them is actual money.
+Regardless of how much a game costs, I am spending my time playing these games that I'm spending that currency.
+23:57
+So if you know, if you have to get to that end game, you're spending the time to get there and it like, is it going to be worth it?
+I if if you make me play a bunch of hours to get to what might be a good end game, that's I.
+24:13
+I probably won't get there 'cause I know that there are other games out there that I like.
+Are there?
+End games are good and also their mid games are good and the intros are good.
+Yeah, the attention economy.
+Yeah, and honestly, like I look at this game and I'm like, is there anything in it that makes me want to play this game over other games?
+24:33
+It is a competent, well made game, but it does not feel it Despite that having such a strong theme.
+It doesn't feel unique.
+It feels kind of generic.
+It's it's such a like nail on the head thing of like it is like unique and generic at the same time.
+24:49
+And like, I think I'm echoing the sentiment of like I don't like for whatever reason, I wasn't, I didn't necessarily feel compelled to come to the game to play it, but when I was playing it, I was having fun and like particularly in like big boss battles, I was like jumping around like, Oh my God, am I actually gonna win this?
+25:07
+And then just eking out a win by the skin of my teeth, I'm like, oh, but wow, yeah, that was like a very fun experience.
+And then like, closing the application to thinking like, what?
+What is it?
+That's like not pulling me back in immediately.
+Indeed, this we talk a lot about the one more run phenomenon where you get killed, you your run ends in tragedy and you know you're frustrated and you're disappointed that your runs over.
+25:33
+But the the more important feeling, a stronger feeling that you are experiencing in that moment is that pole to return and to do one more run.
+And oh, maybe I can get it this time.
+Maybe if I try a little harder, if I change my strategy a little bit.
+My experience with this game is like it is the anti one more run, like I'm not compelled to to try again.
+25:54
+And in fact, like what, what the when I finally, when I did hit a wall in this game, it was because I had to repeat content.
+I'm like, no, I'm I'm, I'm I'm sorry, I don't.
+I'm not enjoying this game enough to replay a section that I've already visited.
+26:11
+And I feel like there's something weird, weird here where like the game like feels very art artistically like aesthetically similar at least in like it's level and enemy design to something like League of Legends, which is like the game, it's like the most popular game in the universe.
+26:27
+But like, what is it that like?
+And I mean, obviously it's a completely different game and you know, style of gaming and all that stuff, but like there's something that pulls people into that outside if it's as aesthetic that like, is there something here that like, I don't know, like maybe League of Legends is a bad comparison.
+26:46
+Maybe a better comparison is like risk of rain too.
+Like this game, this game feels like risk of rain too, but like oops, all artificers mode where like you know, you have like a floaty character, you're shooting projectiles from range and you know, there's like some some differences that you can modify along the way.
+27:07
+But Risk of Rain has like weird stuff in his levels and in his enemies.
+Risk of rain feels to me is just like such a cleaner, like crisper, more sleek game like it's it's not all it's not super busy visually it is both at least the first.
+27:31
+When you start to run.
+I feel like from jump Vellum, it's just like I'm being assaulted with like how much crap is on screen.
+At least when you start a risk of rain run.
+It's like all right, I'm running around doing stuff and it's like it's it's it's sleeker in a certain way.
+I don't know if that makes any sense.
+27:47
+Hey, I've got a we we've been pretty negative.
+But last, last thing I want to say about just sort of these these intangible issues with the games aesthetic and the games like theme.
+Last week I was complaining about the exact opposite.
+Golly, everything in spirit falls so generic.
+28:04
+I wish I wish there was more generic terminology in this game.
+That'd be making life so much easier.
+All right, yo, this game has a lot of dope stuff going on, a lot of cool.
+Speaking of sleekness, there is are some slick animations and some slick effects and some cool things.
+28:21
+First of all, dope ass looking UI.
+You got this.
+You know, stained glass looking health meter and shield meter.
+That's nifty.
+You have a very a strangely satisfying shield brake noise.
+Like my brain would light up and be like, Oh, that's a good thing.
+28:37
+I like that noise.
+It's oh, wait, no, it's actually denoting something negative.
+You got a dope ass menu animation.
+When you open, you hit escape.
+The menu is the literal book that your scribe character is holding.
+No, really.
+It slides up into the screen and opens up and it's like all right, main menu settings, etcetera, which the it's got.
+28:57
+Some transition glow effects around the glow effects when you're like, clicking next mission or continue or whatever you like.
+You hover over and it glows.
+And if you pull your cursor off like some of the the like, glowy ink follows your cursor for a second.
+It's like there's a lot of stuff that's really, well, cool production, well produced, yeah.
+29:17
+Well produced, absolutely.
+And and when you pick your perks, they, they're all like little scrolls.
+The three scrolls pop up, they unfurl.
+Which of the three perks would you like?
+And that is in terms of, I mean, these are all kind of, you know, mostly visual, you know, little flourishes.
+29:33
+But to talk about some like mechanically good stuff in this game, I think the perks are are pretty solid, are pretty good in terms of like being engaging and interesting and and having a meaningful impact on your build, which is something that of course we always look for in these perk based, run based rogue like games.
+29:52
+Yeah, there's very we hate.
+To see boring ones, we love to see interesting ones.
+There's very little of like the like rogue like death knell things of like plus 2% movement speed or plus like 5% attack power.
+There was like a little bit of that.
+In Except.
+Except in the large matter progression thing.
+30:10
+Well, many of them are deal plus 5% damage or take -5% damage, which is.
+Super boring it it that like that part is boring but I think that like with the in in run like as you are like creating a build.
+So the builds are good.
+30:28
+Yeah, like there there's a lot of and like the and it's different for each one of your signature ink colors between like your blue, yellow, green, red, pink, orange and teals.
+Like the all the things that unfurl from these scrolls from each of I think it's like 5 or 6 combat encounters on a run are all super different.
+30:48
+And like the ones that you get from like the red ones are all like all right, how can I use like these life steal abilities to the best effect?
+And oh, but I have there is I think in the the Co-op session that we were doing like Colin had the the the blue blotting kind of like area of effect poison damage thing.
+31:06
+And I normally would have skipped over a perk that was like, oh, like this one here synergizes with the blue thing like, well, I like normally I don't have the blue thing, but Colin does.
+I'm going to pick this one.
+And it just opened up like this whole new like Ave. of of play style that I hadn't experienced before.
+31:23
+So like, and yeah, like that's, that's the originality piece.
+That's like, yes, this is super original.
+This is super cool.
+And yet like, like it, there's like the genericness is like getting in the way of that.
+And like, I feel like I want and well, I don't know, like jumping into a game in this is so fast that like maybe we're we're being like too nitpicky where like, I don't know, it takes like what, 30 seconds to open up the game and like jump into a run and you're just like engaging with that content immediately.
+31:55
+So maybe it's a moot point.
+But yeah, Colin, to your point, the over which I think coming back to like MMO systems and like maybe like the MMO aesthetic that this is kind of driving from like sort of Wowie, the main meta progression system looks very much like a battle pass, I thought.
+32:15
+Yeah, you're totally.
+Right.
+But there is like, again, another kind of like very interesting and unique thing with it of so this is like the hub where you you unlock your main meta progression.
+But yeah, I'll, I'll do like 5% more damage.
+I'll take 5% less damage, sure.
+32:32
+But there are these things called inscriptions, not to be confused with a weird murder Hut in the woods.
+But this is where you can set like your generic or like your class independent passive perks as well as like ones that are specific to your colored character class where they aren't like you have like an option to like pick one from three.
+33:00
+And then you unlock like more of these options as you progress through like the main, you know, like level meta progression stuff.
+And I think it's interesting because it gives you like, here's three choices, but you can only pick one of them.
+You can toggle them back and forth at at your desire, but I can 100% see that like if you were playing on like a a crazy high ascension level difficulty with like a bunch of other people in online mode, like, all right, team, how are we going to strategize?
+33:26
+Like I'm picking, I'm picking the blue guy.
+I'm doing all this area of effect poison damage.
+Andrew, what are you picking in order to synergize with that?
+Let's align all of our inscriptions together.
+Feels like there is a a great opportunity for like deep strategy on on that front to really drive like certainly super high difficulty play.
+33:44
+And I appreciate that the game like, I think that is perhaps, you know, the focus of this game that they're, they're putting seemingly a lot of effort.
+I, I presume, into the four player experience wherein 4 people who know the game well can not only look for synergy, synergies in the perks they are choosing for themselves, but of course, synergies between the different characters in a very, you know, MMO like way for sure.
+34:15
+And in an MMO like way you can zoom your camera way out.
+Let me tell you.
+Scott, did you ever manage to play with the strangers online?
+The only time strangers happened to join my party accident.
+Well, I don't know if it was by accident, they would join and then see, I guess that like I was so crazily under levelled.
+34:34
+They're like, oh, absolutely not.
+I'm not yeah, like he it's one of those again, like very MMO like people join and they have like these these like crazy cool looking skins that they have unlocked with the in game meta progression, a different meta progression currency, different attention economy and like giant glowing terial wings and like cool looking like Mont Blanc pen heads and stuff.
+35:01
+And I'm like.
+Wow, you're like, I'm ballpoint, I'm big.
+I am big boy and I could I could tell they were just looking at my threads just going Nah he.
+This guy has not unlocked any of the end game raid content.
+Leave game and then poof like they just evaporate.
+35:18
+So unfortunately I was not able to get a game with with randos.
+However, I will say to this game's credit, the the vellum discord is alarmingly active for a game that is is.
+I don't know that I would say this is kind of like obscure.
+35:34
+It's probably.
+Alarmingly active.
+Are are you implying that?
+Like they could be scheming something or.
+I mean if you are, if you're looking for a game, there's like someone posting like multiple times a day.
+For like that is alarming, but that that is convenient.
+35:51
+That's hey, that's good to hear a healthy community.
+I'm sure when people are listening to this episode.
+Of people who will, Yeah, love this episode.
+Yeah, 45 years from now, what are they going to think?
+They're going to think, wow, I can't believe it all started with that game.
+No, I think they're going to, yeah, they're going to be like, well, I wish there was some sort of bots or something like that.
+36:09
+Anyway, now I think, yeah, the the another, like good point in this game's favor for our online session.
+I was hosting the session and then for like, whatever reason, the Internet dropped.
+I was kicked out.
+But I was able to just like seamlessly join right back in.
+36:25
+And for a game at like this charitable level of production value or, or production budget, I should say it's pretty good production value.
+I was fully expecting like, well, I can't, I can't rejoin the game.
+I'm going to have to wait for everyone to be done first.
+But no, I was able to jump right back in and had all this like just picked up right where I left off like 2 minutes ago.
+36:46
+What a deal.
+Not, not a guarantee in well, I was going to say in the non AAA space, but even in the AAA space.
+Right, Yeah.
+But yeah, I think like runs, runs I think in this game are also ideally length where this game doesn't overstay it's welcome.
+37:05
+It the the run that I just did to beat Binding level 6, I think took me 18 minutes.
+And that was with me just kind of like, you know, leisurely, like touristing around and everything too.
+But yeah, I think like runs again, compared to something like Risk of Rain too, where runs in that game, if you want them to be, can take four or five hours depending on what your goals are 'cause you can endlessly loop in that.
+37:35
+And I guess technically you can endlessly loop in this game also.
+But like if you're just like, yeah, I just want to get in, get out 20 minute adventure.
+Like you absolutely can do that here, which is, which is a welcome sight.
+So it, yeah, it didn't feel like it kind of overstayed its welcome.
+37:53
+What do we think about like the first set of of like missions that the game gives you?
+Or tomes I guess?
+Right.
+They can't call them levels, so they call them tomes.
+And the the different stages, they're not called stages, they're called chapters.
+38:09
+They gotta be chapters.
+For sure they gotta be chapters.
+Chapters at least makes sense.
+Yeah, I suppose so.
+What do we think about them?
+I think the second one was neat, the other ones were forgettable.
+You've reminded me about the vignettes, which I hate.
+38:26
+So there's like a.
+Quick, let's do a quick tangent on the vignettes.
+So yeah, there are non combat encounters Encounter I.
+Mean it's not even the right word because it's not.
+This is not a slave, this buyer type map.
+It is a linear, you know, combat vignette, combat, combat vignette combat combat vignette boss, right?
+38:49
+That is the order that happens for every run as far as I can tell.
+Maybe they get longer in the late game, I don't know.
+The vignettes are bad.
+All right, well, let's take a vote.
+We got one vote for Bad.
+I I thought, I thought they were, I didn't think they were great, but I thought they were like, OK and all right.
+39:07
+Oh.
+Interesting.
+We're covering all, all three positions.
+We got pro negative and yeah, it's it's all right.
+They're OK, I think.
+I think the the point in favor is that some of them, some of them are super boring.
+39:22
+Like one of them is just like you're ice skating around on, on like an ice rink and just like going through like little things.
+It's like, sure, yeah, it's like a A10 second diversion.
+And like you are incentivized to engage with this 'cause you get an extra perk scroll by doing whatever, like the little thing it asks for you to do.
+39:40
+There's some of them that are more interesting in that they're kind of like mild platforming challenges where I felt like, oh, this is like, and I got those like the first few times I thought, oh, this is like a neat way to kind of teach the game mechanics, like in between, like the main combat stuff.
+39:55
+Like this is jumping from platform to platform.
+No, but it also rewards the player for having picked movement and jump related perks.
+I.
+Guess I think it's a nice way to vary up the gameplay.
+It's like instead of just a straight grind of all combat for your whole run, it's like there's these little breaks where you get to do something else, and sometimes the thing you're doing, the something else, is admittedly kind of boring.
+40:21
+It was very.
+There's not a choice in it.
+Like the only choice that I can see is pick randomly from one of three.
+You don't know what it's going to be.
+Oh, there's three trailer chests.
+It could be any of them, who knows.
+I'm I'm still not convinced that there isn't some way of figuring it out based on the level design or or the little scroll that gives you some lore.
+40:41
+Something, something meaningful choices.
+There are no meaningful choices in poised vignettes.
+They're they're OK the first time you can do you do them.
+I can't imagine having fun doing them the fifth time.
+Yeah, like the the one where it's just like 3, like 3 glowing crystals and it's like, all right, which one do you think it's gonna be?
+41:04
+And me getting it wrong every time.
+But yeah, like there's no, there's no decision to be made.
+It's just like, I don't know, just pick one.
+And then it's just like, all right, well, what was the point of that?
+I think it would be more interesting if like the vignette was solvable with the either like the signature ink that you've picked or the abilities that you've accrued such that like, I don't know, like I'm, I'm thinking of something like, let's say there's, there's like a like in the library, there's like a little like rollable physics ball that like you can just kind of like push around and it just kind of like falls over and stuff.
+41:40
+It would be interesting if those little vignettes had like something like this, but maybe not exactly this where like you had to use your abilities to like push a physics ball like through a hoop.
+And like that would be something to like test your skill of the game, like introduce the game mechanics and like give you a fun little like not shooting the hordes of enemies, like puzzle to solve.
+42:04
+And like, yeah, it's not it's not like a an FTL style thing of like, all right.
+Am I going to sacrifice like some of my ammo to like to these space colonists in return for a weapon or some decision like that?
+Maybe it could?
+Be or some kind of a giant space spider mortal quandary.
+42:22
+Sure, yeah, I I get what you're saying.
+I I, I I.
+Think they're neat?
+I guess is my is my point.
+I think I agree, though I I will say that they feel a little.
+Half baked, Yeah, I think I like the idea.
+I don't know, I feel like the execution is like 50% there.
+42:39
+Indeed.
+Now back to the tomes and their special tome based rules that that you had brought up.
+Scott, tell us about those.
+Yeah, I think like so.
+So yeah, they're effectively like your, your missions requests or whatever and.
+So when you select A level.
+42:54
+You, you select A level like the, there's four rows of four books and in order to unlock more rows, you have to like do more difficulty levels and unlock other books and stuff.
+You know, you know the drill.
+It's your standard rogue like book unlocking format.
+But like each of these has like a, like a theme, like a different theme to them that I thought was fairly interesting.
+43:18
+The first one, I don't remember at all what the theme was, but the second one was more interesting in the, in the sense that like, oh, now you have like your, your main, like starting zone for the combat maps, The the, the font, your Little League of legends fountain, as it were.
+43:38
+There are two.
+There's an orange and a purple wolf that spawned next to it that are invincible.
+Like minions that run around the map and and just like attack enemies and stuff.
+And your your font powers that you unlock between each of these combat encounters.
+43:55
+So when it in addition to picking perks for you and perks for the enemies, you're also picking perks for the fountain, this little base home base building that spawns in every map that you spawn next to.
+And I thought this was interesting where like your, you, if you're playing solo, you're given, I think like 3 or 4 points every, every combat encounter did like to spend like, oh, do I want this one or do I want this one?
+44:20
+And it's like a very interesting like choice tech tree almost.
+But like it's not a tree, but it's just like, which, which of these items do I want to pick me up to allocate the points?
+If you're playing online, those four points are distributed among the players, which I thought was clever.
+44:37
+So you have to if I wonder how you do this with randoms, but you almost kind of like vote and once like once it gets.
+Enough votes.
+Yeah, not to be cynical, but I, I imagine it's probably just a most meta pick, but like most seasoned players are able to choose.
+44:54
+But yeah, your your, but your, your point remains.
+This I think is was pretty interesting.
+Speaking of interesting player choices, this this selection of like of, of the perk for your base building the font, not building a base, but the building which serves as kind of your base location, your starting location is interesting.
+45:13
+And I thought that was neat that we had to stop and kind of strategize and that that was, that was an engaging choice and an engaging opportunity to strategize the three of us.
+And some of these some of these powers, like for the 2 wolf ones, it's like you can unlock a perk that spawns that spawns bones next to the the fountain and little doggy treats.
+45:38
+Yeah, little doggy treats.
+So you can pick up the doggy treats and you can like walk them over to the dog and just like just by proximity, you touch the dog and then you feed them the treat and then they get bigger and more stronger They.
+Also like that they take the the the perk where they like bite you and take some of your hit points and that also feeds the dogs.
+45:57
+So there's yeah, like there's, there's clever, interesting and unique decisions there that yeah, like are, are fun and interesting.
+But like what, what is it about?
+Like, I don't know, like there's what's stopping me from just like ending the podcast right now, just like jumping back in to engage with that mechanic.
+46:16
+Is it just like?
+Yep, I've seen it.
+Well, that's just the one level and then like the next level, the special rule instead of having these.
+Cool allied NPC dogs that are running around tearing into the hordes of enemies the next level.
+46:31
+The special rule is that elite enemies are have have super high defenses until you accrue a certain amount.
+Of like rival points or rival.
+Points there we are and so like you, you kind of you can't fight the elites at first.
+46:50
+You have to kind of wait a little bit and engage with the and that's just I don't know that that was like not as interesting.
+It's not as exciting.
+First of all, it's like the the second level is fun.
+It's like, oh awesome, I have these two cool elemental beasts running around and helping me out like that looks neat.
+47:07
+It's a cool idea.
+Like just in terms of like the flavor.
+I I can remember quite a few of the font upgrades that relate to the wolves.
+I don't remember hardly anything about the third level and those font upgrades.
+I think there were ones about like.
+47:24
+I don't think they now I'm struggling to remember if they actually upgraded the font specifically or were more like player based.
+There were also some that were like that were teamwork focused which I remember encountering in solo play and I'm like man how am I ever going to like heal 1500 health worth of of of points to unlock this?
+47:46
+Program.
+They were kind of like challenge based and yeah, I'm sure they exist and I'm sure you know they put some thought into it.
+It's just like the fact that I have such a vague memory of them kind of shows the I don't know what I think that the quality or at least the level of engagement between these two ideas.
+Scott, I did not get any further than the first row of tomes.
+48:07
+What's what were the special rules for the the the, the the 4th, 5th and 6th level?
+Where were there any standouts?
+Well, so I was excited because just before recording I did a run on.
+So in order to unlock the next row, you have to beat the the 4th book of the first row.
+48:27
+And crucially, you have to have, I think it's like 5 or 6 attunement, which I thought I thought was like, okay, well that's clearly just the like the ascension level or whatever.
+You pick a tome and you're like, there's like interesting other little challenge modifiers to add in.
+48:44
+It's the heat system from hates it.
+Is yeah.
+And in some cases quite literally where you're adding like lava pools onto the map, like lightning, like lots of debilitating, like environmental effects that I thought were cool.
+You can enable N64 mode and have like like fog come in on the map and like up your.
+49:02
+Low draw distance is a feature in this game.
+Excuse me, no.
+Yeah, I did.
+Like, I did like that it introduced that system early.
+I think that those are an interesting way of increasing difficulty that's not just make enemies hit spodges.
+49:18
+Sure, sure.
+Sure.
+And I was, I was praising the lava one, but then I actually played with it and was like, Oh my God, this is killing me.
+I can't stand anywhere like what's going on.
+But yeah, I, I appreciate that they're, they're interesting and like, you know, bespoke things that they actually had to, you know, put some production value and production time into it wasn't just tweaking some numbers, as you say, Colin.
+49:39
+Yeah, but like.
+But in order to progress, you have to replay the levels you've already played.
+You have to replay with these.
+Higher difficulty modifiers.
+Yeah, and, and like the individual stages I think are picked from a pool.
+So it's not like it's not like you're playing the same combat map every single time.
+49:57
+But I thought for sure, like you pick, you pick the tone, you add in like these extra challenge modifiers, like, OK, I'm, I'm up to like binding level 6, like challenge level 6, but my rewards are only up to like challenge level three.
+50:12
+I thought, okay, that's fine.
+I'm like pushing the boundaries here.
+Like I can take level 6 no problem.
+Roll through with the the red signature ink and some like spinning blade disk abilities like, okay, yes, this is this is working quite well.
+Barely defeat.
+50:29
+Like I'm having a fun time like doing all the, the things that we've been complaining about and like fighting this Omega boss battle who's like dropping these giant like black hole meteor Spears on me and there's lava everywhere and I'm jumping around and it's, it's grand old time beat the boss.
+I'm like, OK, great.
+50:45
+I'm going to be able to see what the 2nd row of tomes will be, much to my chagrin.
+Open up the the mission select menu and the second row is still locked because I think the if I'm understanding right, the binding level is not the attunement level.
+51:03
+The attunement level is like a it's like a speed limited like like like speed bump of OK, I have now beaten attunement Level 3.
+Now my attunement level is 4 despite having like picked like a a quote challenge level or binding of the book of like level 6 if that makes any sense.
+51:27
+I see, that is unfortunate.
+That doesn't feel like a good feeling.
+Yeah.
+And I was like, well, I'm not sure how I feel about that.
+I can understand the sentiment of like, no, we don't want like the players to progress too fast.
+51:42
+But at the same time, like this is this is kind of like the, the yin Yang of of meta progression systems of like, look, I, I think I figured out the systems here.
+And I think you can, you can go into like the save file registry and just like edit, edit your save files to your heart's content.
+So in theory, I could just unlock the stuff and just be like, all right, let's end game content it up.
+52:02
+I already know what to do.
+I'm a master at vellum.
+My pro E sports vellum career is on is on.
+A man is a vellum master, a master of the vellum.
+But it did seem kind of like an annoying speed bump if, if that's how it's working, that kind of like artificially gates the player's progress.
+52:21
+Much in the same way of like when I was playing inscription the first time.
+I'm like, oh man, I'm doing really good here.
+And then it hits you with like a big wall of grizzly bears.
+You're like, really?
+This is fucking stupid.
+Any time where it's like you are playing the game better than we expected, so we're just not going to let you go faster.
+52:43
+I think this is that that's, that's probably part of it.
+What what I was thinking is like, oh, well, the clear list is an effort to kind of stretch that content a bit, but don't stretch it too thin.
+And it seemed like an OK way to do that, to stretch, stretch the content out.
+53:03
+That was until I, I, I was, I was doing what is it binding tone, heat level, whatever.
+And I got to the boss and I died on the boss and I was just like, I, there's no way I'm replaying that level.
+53:18
+I'm sorry, I'm not, I'm not doing it.
+I'm six hours in and I'm not having fun and I've I've depleted my monetary time resource.
+I feel like the the draw for me when I was in that most recent winning run was like the game felt very good as as and this will sound like a backhanded compliment, but I mean it in a good way.
+53:40
+Like this felt like a really good like brainless game of like jumping in and justice, like attacking monsters and like not having to think about it and just like pressing buttons and colors exploding.
+And it felt great.
+It felt like those times where like we played Diablo and you're just like, you're just jumping in for like a Nephilim rift run or something.
+54:00
+And you're just like, I am just like I've done all the thinking that I want to do for the day.
+I just want to jump in, just want to smash some monsters, not have to think too hard about it, see some pretty color explosions.
+And it worked really well for that.
+Like up until like the the boss battle where I actually did have to kind of think a little bit about positioning and stuff.
+54:17
+I was like, OK, yeah, like I'm I'm in the moment when I was experiencing.
+I was having having a fun time.
+I can totally sympathize that.
+Like if I had failed that run, I would have just been like, all right, what else do I got in my Steam or Steam catalog to play?
+And maybe maybe that's like like a selling point for this game of like it's not something that like you'll jump into and like engage with like the, you know, your attention economy for like 6 or 8 hours straight.
+54:44
+Maybe it's not specifically.
+It probably won't hit that note for everybody, and that's fine, but.
+See I was theorizing earlier the the opposite and and maybe I'm totally off base but like the the the focus for the devs is more unlike the end game players.
+55:03
+Remind me again what the average player time is the on on this?
+The average player time Scroll, scroll, scroll through the Google Doc.
+The average player time is 17 hours.
+The 90th percentile of of players for this game have 52 hours in it.
+Oh, it's not doing that high.
+55:19
+Interesting.
+Well then I don't know what to think of what this what this game is.
+I would be interested in seeing what the end game content is.
+I, I have seen some things that people posted to the vellum discord of like this is this is like my end game, like like 50th level, like end game run in the endless mode.
+55:39
+And it's exactly like what you would expect from like a a risk of rain two thing where it's just like they hit a button.
+It's just like it goes down to like 3 FPS and it's just like a confetti ball of like 3D polygons and just explosions of color.
+And then they get a victory screen like, OK, Yep, like you can, you can 100% get like that snowball of, of broken buildness going.
+56:02
+And I imagine that that's like, that could be a draw of just like how how much can I push the game to break?
+And like how much can I actually use this in place of like CPUZ as like a stress tester for for my computer build or something I don't know.
+56:17
+Yeah, but but Scott going back to what you were saying about this being a good you've done your thinking for the day.
+I just want to sit down and and play something by feel and I have to think for me personally, this game is absolutely not that because again, I'm having I'm I'm having to take too much time and use too much brain power to read through the perks and have trouble understanding what what is this referring to?
+56:39
+What's going on?
+Which enemies is this going to affect?
+The other thing is for, for my personal taste of games that involve blasting and hacking and slashing, this game just doesn't quite connect.
+Like the core gameplay for me is is not there, I'm sad to say.
+56:59
+And I I don't know exactly what it is.
+I think it's a, a combination of the theme, the enemy design, the, the, the particle effect, the the weapons and the attack.
+The, the time to kill is, is, is relatively high compared to a lot of similar games, just like how long it takes you to shoot an enemy to death.
+57:22
+And like, when I'm playing a game like this, I want to be clearing the waves of enemies like relatively quickly.
+I want to feel powerful.
+Not to say that, you know, the game should be super easy, but like, I want to feel like I'm, you know, effective.
+And I want to feel that drive to like really optimize my build and my play.
+57:42
+And, you know, maybe that that's probably how it is for players who have, you know, 20-30 hours in this game.
+But I definitely was not that way for me at any point ever.
+It does feel like weirdly inverted in that aspect of like on, on your first like level of your first run it like you'll be struggling to survive, like you'll be scraping by like just by the skin of your.
+58:02
+Tiding around enemies and it's just like rather unpleasant at well, I mean for me personally.
+Yeah.
+And and like I can understand that 100%.
+I feel like I I weirdly got some kind.
+Of real quick.
+So actually I'm so sorry to interrupt real quick before people say well, Andrews is bad at this game.
+Out of the three runs that we did on Co-op, I got top damage, top top overall damage and top boss damage in two out of three of them.
+58:28
+And I switched to some God awful flamethrower fire bat build just to be clear.
+So I mean, I, I, I was building an OK, you know, I was building OK synergies and I was feeling a decent amount of damage for the record.
+Do continue.
+No, also you bring up a good thing of like the in Co-op playing with other people at the end, like you finish a run.
+58:51
+You have this very nice like like who who did the most stuff like award system at the end, which I think is is like more games need this.
+I feel like, especially in Co-op games where it's like who did the most damage who did the most like boss damage.
+Oh, we have to talk about Collins expert boss strategy here in a second.
+59:10
+Oh yeah.
+Yeah, yeah, absolutely.
+But it's yeah, like to conclude this thought, at least it like it gives you like a good like almost like a Goldeneye level recap of like, oh, this person did the most damage.
+This person but like you know, did the most shield damage or you know.
+59:26
+And it's broken down by ability and by player, of course, and like the great, great post game, post mortem score screen.
+And it's super important in a game like this where, you know, there's a big focus on that four player Co-op.
+And yeah.
+I did think that was pretty good too.
+59:41
+Like it when you say it's broken down by ability, it's broken down by like the moves, the four main things that you have, but also by the perks that you picked.
+When I, I was playing on the last, the last run that we played, I switched to the, the blue class, which is like the pool of, of blot.
+1:00:01
+And I basically did no damage with my actual abilities.
+And all of my damage was like in those things that you would pick of like, Oh, I make my my poison pool.
+Like, I don't know, I think it was like 300% larger by the end or something crazy and like taking damage faster.
+1:00:19
+And so I could see like, OK, it didn't quite pop off in the way that I was hoping for.
+Like I didn't do more damage than either Scott or Andrew, but it did like was interesting to see like, oh, so that thing didn't really do very much for this other thing that I didn't think was important.
+1:00:36
+That actually was the thing that did all of my damage.
+I thought that was an interest.
+Like it did a really good job of showing where did your damage come from, which is not easy in some of these kinds of games.
+Right, that's it.
+That's a great point.
+What was it?
+Path of Accra most.
+1:00:51
+Recently or something, I don't know, like I don't know, I killed everything.
+What's happening, right?
+I killed everything in one in in in seven moves and I have 400,000 notifications in my hot bar.
+Speaking of difficult to parse, Yeah.
+1:01:09
+Yeah.
+So what was this?
+Yeah, Tell us about this.
+This incredible.
+We've you know, we sound again, you know, we're we're noobs.
+We don't know we don't know much about vellum.
+We hardly understand.
+I can barely identify an elite monster, to be honest.
+But Colin stumbled upon an incredible Strat to take down bosses.
+1:01:29
+I.
+Feel like it was truly a stumble upon because it didn't do it on purpose, but yeah, there was a.
+In one of the vignettes in one of the non combat encounters we found a magical lamp.
+Yeah, that's right.
+That was the magical lamp.
+So it and it gave you the perk of whenever you die, it brings you back faster or brings you back immediately and kills the thing that killed you which.
+1:01:53
+And we joked at the time, ha.
+Ha, wouldn't it be funny if it worked on the boss?
+It does.
+Spoiler And it was extra funny because we chose again, this is this is interesting the decision making where it's like what perks do we want to give the enemies?
+What perks do we want to give the boss?
+And you all get to discuss it.
+1:02:09
+And we picked one, which was like at the 92nd mark.
+This is the perk that we selected at the 92nd mark.
+Like the boss suddenly deals a bunch of damage or it has this big.
+Like after 90 seconds it does 500% damage, but we were like on a hard time like we have to be in 90 seconds we got.
+1:02:28
+To and well.
+We're being pretty aggressive and I went down and then it was, I mean, I think the boss had like at least half LF left.
+It was like and done.
+And we're all just like, wait, wait, wait, what?
+I was like it died at the same time I did.
+I think that thing like they didn't put any like it dies exception, not the boss.
+1:02:50
+So yeah, I don't want to believe do 1000 damage to the thing that killed you.
+Right, right, right.
+For probably, admittedly, probably a little OP, probably a little busted, probably will be patched.
+But oh, what a fun moment it was.
+It was fun.
+Yeah, absolutely.
+I don't know if you could necessarily like build a Strat around that.
+1:03:11
+Oh well, we got to ask the discord the the alarmingly active discord.
+Yeah, if you're, if you're fighting that end game raid boss and you're like, all right, yeah, Colin, go sacrifice yourself so we can, we can go home here.
+Yeah, I think that like this game does a lot of stuff good.
+1:03:30
+Let's see what else do we got in here?
+There's like there's like daily and weekly challenge things that you can do like, oh, kill like your daily challenge of kill 2 bosses.
+You can get 200 of your vellum bucks as a reward for for meta progression.
+There's like challenges associated with each of the colored signature classes like oh, overbooked effects 15 torn with a single Azure pool for for the blue signature, for example, or yeah and then you know, things like that to kind of keep you busy for like, oh, OK, I'll I'll pop open.
+1:04:08
+Yeah, maybe I'll progress on like this thing here for 500 of the of the gold vellum bucks that I can use to get like a cool like wizard Cape or or something like that.
+But yeah, like there's something about about like, and I keep thinking like if this game was like rethemed or if this was like some mode that we encountered in Diablo, like would this be would this be rated higher than it is if it's just like all all literary themes?
+1:04:36
+I don't know.
+There's there's like a lot of like hack and slashy type stuff here and like new novel stuff that I'm appreciated for.
+And it makes me feel that like, oh man, if this was just like a Diablo game, this would be like really damn good.
+But it's you're just like, you know, literary pun theme stuff.
+1:04:55
+I don't know, maybe I'm looking too deep into it.
+But all of this is I'm getting the same and like often times when we do the podcast, I'm like, oh man, now I just want to go play the game after we're done with the podcast.
+And I am getting that same vibe from doing this, except it's not this game that I want to go play.
+1:05:11
+You're itching to go play somewhere Orcs must die.
+Exactly which I which is like, OK, I've over the course of this podcast, I've decided like it is a very, very similar game, but we're going to do it for my pick because I want to compare and contrast it with this one because I think it's just delightfully funny and good fun time, which is something that this game doesn't seem to have in quite the same way.
+1:05:38
+It's like a different charming.
+Yeah.
+To to your to answer your question about would it be better with a different theme for me personally?
+Yeah, probably.
+And we'll be able to put that to the test when we eventually get to the Orcs Must Die situation, perhaps, which is on, I mean, I'm, I'm aware of that game, but I, yeah, I didn't, I guess I didn't.
+1:06:00
+Realize, I mean, I've I've seen yeah, Colin, Colin forcing will to play it at gunpoint of like you must play this and then being like, OK, yes.
+Will and I did play like one run, but Will is high, I think, and we're drunk and he didn't quite enjoy it that much.
+And it was me like trying so hard to like, you've ever had a thing where you like you're like, hey, here's the thing that I like.
+1:06:22
+And you're just like, come on, you like it.
+Do you like it?
+Right, right.
+I felt real.
+It was like, this is the wrong setting.
+We need to get the whole gang together and play it.
+And then even if it's not having fun, I'll still be having fun.
+Yeah, it it seems like like I have a note.
+1:06:37
+I have a few Google doc bullet points here about like online Co-op gaming and like it, it being like hard, hard to like pull yourself away from like the comfort foods of online gaming of like, oh, I'm gonna, I'm gonna jump into this one squad that like just takes up all of your time on the weekends cuz that's the social game that everyone gravitates around when like, oh, there's like, there's other games here that like have good interesting online mechanics to them.
+1:07:04
+I guess like, you know, the, the, the fall back is rocket league, but I've, I feel like I've fallen off the horse on that considerably.
+But like our our previously played Co-op online rogue games like remnant from the ashes or we've talked a lot about risk of rain too or barony.
+1:07:22
+Like I feel like there's there's like an interesting aspect of like what what is it that like will draw people in for online Co-op specifically for these games?
+And I guess we were talking about like the the theming in Vellum being like somewhat generic, but like Risk of Rain too is also like fairly generic and like, I don't know, it's just like space monsters question mark.
+1:07:48
+I feel like the problem with this is that this the theme is skin deep.
+It's page deep, like you got the theme, you got all the puns, you've got like the abilities and their names.
+But then it's not it doesn't feel like it's actually book related once you start playing.
+1:08:04
+And then you like look at the monsters and they're just regular monsters, but they're somewhere between black and dark purple and they're all that color.
+And so they're all generically like hard to distinguish and they're like, I guess they're ink.
+1:08:21
+So that's kind of on theme, but it's not doing it for me.
+Yeah, the the enemy design is curious.
+Maybe it's maybe it's a production consideration like we can all like, because all the enemies obviously have to model all the three like the the enemy models.
+1:08:42
+But then like there's not really any texture work.
+They're all just kind of the swirling void mass.
+Is OK.
+It's the same problem I had with the the the special levels and very simple where it's just like yeah, like you didn't give it nebulous void is not an interesting texture.
+1:09:00
+But but what makes it a real big problem in this in this game, as as you pointed out, is that they all kind of just blend together.
+And you're supposed to be fighting like this bigger group of monsters and making informed decisions about like who to prioritize and what to do.
+And it all just kind of leads together, runs together.
+1:09:19
+All right, I have the solution.
+Last last episode we talked about how spirit fall was like the Smash Bros for roguelike games and like, oh, we just have to like get all of the other characters from Rogdum in there to spice it up.
+I'm looking on gutenberg.org for the the top 100 ebooks downloaded yesterday.
+1:09:38
+The the these will be the stand insurance for the enemies and boss fights for for vellum that were so sorely missing.
+So, so we can, we can fill in the, the, the giant mushroom man with, with Herman Melville or, or you know, maybe make a Moby Dick reference in there.
+1:10:00
+So, and presumably these are all public domain now.
+So hopefully, hopefully copyright shouldn't be that big of an issue.
+Or else the the copyright scribes will be after us.
+Hey, you know, that's that's another the dog ear in the book as it was.
+1:10:19
+Nope.
+Man, Gutenberg just wants to scroll all over the place here right now.
+Yeah.
+So would we if we were, would would we in this game would describe to be on the side of copyright or against copyright?
+I don't know we.
+Could be like the copyright paladins where we're smiting plagiarizers.
+1:10:36
+The library cop from from.
+They're not monsters.
+They're actually just college kids using AI and plagiarizing works.
+And we're we're coming down and just destroying them.
+I mean that that's what the podcast is here for is to to idea shop for we're just we're we'll give these ideas away.
+1:10:55
+Copyright copyright for a small nominal fee of $10,000 and help help design vellum 2 with the grog pod seal of approval wherein the boss fight of Frankenstein is joined with.
+1:11:13
+But like, there's something you could probably do with the history of the Peloponnesian War by Thucydides I'll.
+Probably.
+Just come on.
+Here vellum is a type of paper.
+Would their sequel just be called like e-book?
+Oh yeah, yeah.
+1:11:31
+Yeah, A.
+Highly artifact ridden PDF scan.
+E Inc And you are you're you're hacking through the net to get all of the the public domain books.
+It could yeah, it could be like you, you are Lord Gutenberg who's going through and like fighting the all the public domain lawyers to get Middlemarch by George Eliot inscribed into the library or Emma by Jane Austen.
+1:12:00
+Again, Jane Austen.
+Great boss fight for this game.
+I feel like Mary A.
+Well, there's no way she's going down with that magic lamp perk.
+Absolutely not too tough for that.
+Yeah, that's, I mean, and obviously, you know, all of these references are going to be immediately recognizable to the average gamer these days that it's just going to connect perfectly.
+1:12:24
+No problem.
+But yeah, this is, this is, you know, this, this is a good workshop.
+We're work shopping it and we're we're coming up with some slick ideas.
+Just throw in some achievements there, some hidden steam achievements for Pygmalion by by Bernard Shaw and people be clamoring.
+1:12:40
+Yo imagine the steam trading cards.
+Yeah, the the the coveted Lysistrata by Aristophanes.
+Like people would love it.
+That's what I'm saying.
+I, I Creole heartedly.
+Well, any, any, anything else in the appendix section here for vellum before we get into our our classification system, we didn't even talk about Dewey versus Library of Congress classification systems.
+1:13:07
+What are we doing here?
+I mean, we did not, we barely.
+Gosh, we could, we could talk all day about it for sure.
+What else?
+Crick.
+Crick.
+Excuse me, Quick, real quick coverage of the music.
+1:13:24
+What do we think?
+Obligatory music section.
+I think it's pretty good.
+Got a nice kind of exciting, almost movie score type of a soundtrack.
+None of the melodies were especially catchy to me, but I thought it was overall quite good and exciting.
+Yeah, I thought the music was fine.
+1:13:40
+I the the last run that I did was actually like completely on mute except for the music, because I was trying to find like music to play the podcast out with and I was listening to it the whole time.
+Like, OK, yeah, like the generic combat music is fine.
+It's just like they're in the background.
+1:13:56
+But like the boss fight music was better.
+And then like the main boss fight at the end of the main run was, was like the best 1.
+So stay tuned for that later.
+But yeah, I thought it was, I thought it was like, like good background music that didn't get in the way too much, but at the same time maybe didn't really stand out as much as I had wanted it to.
+1:14:17
+Kind of like this game in a nutshell I feel like.
+Colin, did you get a chance to stop and?
+Appreciate the music at all.
+I was trying to find music online but it's impossible you're trying to look it.
+Up yes yeah, I already beat you there that's.
+Why?
+Right?
+Which should be clear.
+Actually I should I?
+1:14:32
+Should I don't remember the music?
+The the overall like tone and quality like it.
+It was better sounding to me than the average indie game with like a similar type movie score.
+I I'm not I can't really articulate exactly.
+You know what in the mix sounded better, But it's like if I heard this in Hollywood, you know, action movie trailer, it would be like I'd I'd buy it as as being like a high production value type forecast.
+1:15:00
+Arrangement it had good like movie trailer like war drum music to it.
+Yes, yeah, absolutely.
+Yeah, definitely.
+But again, there's no way I could like the hum one of the melodies or anything.
+Oh, there we go.
+Hopefully that hopefully Zoom captures.
+1:15:15
+All that.
+Quite, quite Anything else?
+Or or or do we turn the page to rankings?
+Oh my gosh, yeah.
+How are we going to bookend this?
+Thing is, is there going to be a happy ending or not happy ending?
+1:15:32
+We'll, we'll.
+End up ready to do We decimate this game in the rank a lot.
+Boom boom, boom, there it is.
+Yeah, Andrew, kick us off 1st.
+All right, well, a little bit of a sad epilogue here, this extremely positive episode.
+Now why?
+Why did I pick this game I had heard about?
+1:15:53
+It came recommended to me.
+I looked at the steam page.
+The very first tag.
+I even opened this like in an Incognito tab.
+The very first tag.
+Popular user defined tags for this product action roguelike.
+Why did you open it?
+Incognito.
+Because I thought maybe the first the the order of the tags is maybe different based on like your steam profile.
+1:16:15
+Fun fact they are.
+They are ordered in a descending order of number of applications.
+Number of applications.
+OK, so Incognito menu not necessary.
+Not the roguiest game, definitely actiony.
+I kind of expected it to be a little roguier.
+1:16:30
+I expected it to be a little better randomized, but I, I anyway, I picked this game thinking like, OK, it's like Risk of Rain, but it has sort of this novel sort of theme to it.
+1:16:46
+And I thought, well, yeah, this could be cool.
+And unfortunately it wasn't quite as cool to me as I imagined it being.
+And I mean, it just doesn't, it's very, we mentioned earlier that it's like a very competent game.
+1:17:04
+It's it's beyond competent in a lot of ways.
+Like there's some good design here and some great production value in in the visuals, in the soundtrack, in my opinion.
+There's a spell, there's an ability where you get to throw a giant D20 for Dungeons and Dragons fans such as myself, that's that's definitely appealing.
+1:17:30
+But it just it doesn't doesn't doesn't quite click for me.
+And we talked about just this game is a paradox, like it is somehow very original and very generic feeling at the same time.
+And I'm afraid I I don't quite know what the solution is to that.
+1:17:48
+Congratulations on the one point O congratulations on having a alarmingly active discord and community.
+But for a FPS meathead such as myself, I'm afraid I can only reward it. 5.7 points on the Andrew scale, which again to remind our listeners in case you forgot since last.
+1:18:11
+Night editing this part out is off the.
+Oh, yes, yes, I'm sure that's, you know, you can't silence the truth.
+When I came on board of the podcast, we had one rating system.
+I thought it was.
+Weird 32nd button.
+But then I adopted it and I said, all right, boys, all you do the system you want to use.
+And I started coming around on it and then suddenly, suddenly they changed it.
+1:18:29
+They changed it on me, folks.
+And so my scoring is all jacked up. 5.7 right behind Daisomancer, right ahead of dot age.
+Sorry to do it to you, dot Age.
+Very pleasant.
+Game 5.7 All right, who's next?
+Colin.
+1:18:45
+It's me.
+Mine is also very close to Daisomancer and dot Age, but I guess I like those games slightly more.
+I'm giving it a 6.6 which is not that much better.
+I think this game is very competently made, but that is not enough to distinguish it.
+1:19:08
+In 2025.
+There are very, There is a large amount of competently made games out there.
+This literally if you look at the normal distribution of games that we've ranked, this is exactly at the peak of normal distribution.
+1:19:24
+And that feels like what this game is.
+It is the the center of the normal distribution of games.
+It's got some interesting flair at the surface level.
+They did a lot of stuff to make it fit that literary theme, but ultimately that theme does not translate very well to an action rogue like shooter game.
+1:19:46
+The most they were able to do is to make the enemies ink colored and shaped, which makes it hard for to tell them apart and makes them visually uninteresting.
+I think that the combat itself is pretty decent.
+I think that the abilities are varied and interesting.
+1:20:07
+So like from a mechanical standpoint I can see why people like this game.
+I can see why they play it if you.
+And your friends have chosen this game is like, all right, this is just the game that we're going to get into.
+I'm sure you will have fun playing it.
+I just don't think it offers anything to me personally to play it over another game.
+1:20:29
+And so it's hard for me to give it a higher ranking of like you should go out and play this.
+You should seek this game out.
+So still still a good game, still worth, still worth playing if if you're playing it and you're enjoying it, but.
+Yeah.
+Yeah, I guess I will bring us home and close the tome on on Vellum here.
+1:20:50
+I'm going to give it a a score of 7.5, which is in kind of like that again, the middle peak of my distribution of rankings, just ahead of Loop Hero and just behind the last spell.
+I had fun with this game.
+I feel like this game I, I, I feel like I had more fun with it than I was expecting to.
+1:21:10
+I was figuring they're like, oh, like looks a little generic.
+I don't know.
+But like the more that I was engaging with it, the more fun that I had.
+It still feels like it's kind of missing, missing like a hook to draw me in initially, but once I'm in, it feels very fun and engaging.
+1:21:26
+It's just kind of like a screw around and just like blow up enemies simulator.
+I think it's fun with friends.
+I think online Co-op for this game is is fun and there's there's lots of like interesting and unique decisions to be made along the way.
+1:21:42
+And crucially, I feel like this game is like fun to play for like 20 or 30 minutes and then go do something else.
+Like I feel like this is a game that you don't need to have the expectation of all right, we're going to like block off the whole morning for three hours to play and hope the Internet is stable the whole time.
+1:22:00
+And, and hope our hope our run is good and everything.
+I think like the, the fact that the runs are so short allows for a lot of creativity and just like, oh, actually, let's go and like play a different mission here or let's try to like go and do this other thing instead.
+1:22:19
+I'm I'm appreciative of again, their commitment to the bit with all the, the literary puns.
+Maybe it goes a little too far in some circumstances, but at the same time, I'm like, you know, I'm I'm a sucker for a good pun and seeing them kind of like integrated into the gameplay mechanics in such a way that like, it's clever enough.
+1:22:39
+But again, it does still kind of take me like a minute or two to like, OK, what what does this mean in like video game terms instead of like of Pride and Prejudice terms?
+And yeah, I think like the aesthetic is fine.
+I feel like the, the enemy design, boss design could be, could have like a little more flair or uniqueness to it.
+1:23:00
+But it's, I mean, it's it's it does what it needs to do in order to be fun.
+But the last bullet point I have on here is I think because of the mix of like aesthetic and like gameplay flow, like I could see this game being like like a like a methadone treatment for people to like wean people off League of Legends into an actual good gaming genre.
+1:23:21
+So I'll I'll give it props for that.
+Yeah, 7.5 for me.
+And yeah, I think like for similar games to this.
+Let's see, we talked a lot about Risk of Rain too.
+There's this this just illustrates how deep I go into finding these similar games.
+1:23:40
+There's this game, I think it's a Chinese literary bullet hell tower defense game that has some sort of Chinese character description but is also labeled as book shooter.
+On Steam, that is.
+Like with Chinese characteristics, Excellent.
+1:23:56
+You are literally an open tome in the center of the map, just like shooting bullets out.
+I'm like, yeah, that seems similar enough to this.
+Sure, I'll include it.
+But yeah, we still have our our top list of online Co-op games to to go through at some point, including but not limited to Gunfire Reborn.
+1:24:14
+There's one called Abyssus ABYSSUS that that looks neat.
+Inkbound, I think by the monster train devs has like a very kind of similar similarly like weirdly purple aesthetic to it.
+That seems like on the face of it, like kind of generic, but like also weirdly unique at the same time.
+1:24:33
+The Dead Cells developers recently came out with a a an early access game called Windblown, which is another kind of like very like there seems to be like a lot of purple games coming out like purple and purple.
+Games real quick, yeah.
+Gunfire Reborn one vote for that.
+1:24:50
+I I think that's pretty good.
+One feels good to shoot stuff, yeah.
+And, and one that is, is only in prologue mode at the moment, but people are losing their mind about called Shape of Dreams that I think might be might be a stay tuned and 1/2 for when that eventually comes out, maybe into early access, I guess.
+1:25:11
+Yeah, the, the, the weird world of demos versus prologues at the moment.
+But shape of dreams has has been getting a lot of buzz recently.
+So in terms of like 3D3D oriented Co-op rogue games, you wouldn't think that there would be a whole lot, but there's actually like a pretty pretty decently growing cohort of them.
+1:25:29
+So feel free to give those a check.
+But as we wind down, as we turn in our library books here for Vellum just just ahead of the the due date, we'll wind down with some social plugs here for our e-mail grogpodzone@gmail.com.
+1:25:44
+We made it all the way up to #7 on Mastodon Grogpod at game dev dot place with some strategically placed video game shit posting about Steam sales.
+Grogpod's rocking and dropping some great Steam sale memes, honestly.
+Oh yeah, good stuff.
+Great, great artists steal as they say.
+1:26:02
+So in Grogpod dot zone, that's where all the rankings and everything are we.
+We had a comment no need to solve this now but something that has and maybe this is a question more for the community of people who are still listening at this stage of the vellum episode.
+1:26:18
+But on YouTube listener Atom Atom 123-H6J wrote in to say love the pod.
+I know some other gaming podcasts have discords to build community between listeners and host to talk about games.
+1:26:33
+You guys plan on having one?
+No worries if you don't, it can be a lot of emotional labor to talk with Internet strangers.
+Ha, ha.
+And this was something I was thinking about like kind of all week.
+Like we have a, an internal production discord that that that's where we share all of our top secret vellum memes on.
+1:26:49
+And it was something I'm like, I know that like, I don't know, like I'm kind of like, and so I wanted to sort of like take this question on the air.
+It was like, I don't know, I'm I'm like kind of conflicted about like managing a community like discord because I'm like, God, this is like the production is already so much work, but floating the idea out to like the community of like, what would they want from a discord?
+1:27:12
+Like what would we want from a discord?
+What would listeners want from a discord or something like that?
+I don't know, like is that something like Steam forums would do good enough for like what's what's something that gives like the listeners the most amount of playground with me doing the least amount of effort?
+That's that's the trick, right?
+1:27:29
+That's the ratio you got to look for, that golden ratio of effort to oh God, how long?
+Have I been muted?
+I don't.
+Know Oh no, here's what I'm going to say Adam, Adam, thank you so much for writing in.
+Thanks for letting us know that's what you'd like other listeners.
+1:27:45
+Hey, if that's what you like, let us know and but at the moment I'm going to say for now, no discord, but yes, Ventrilo server.
+So we'll be sending out, we'll be sending out the read me file and of the instructions on how to join that.
+1:28:00
+What about our Mumble server?
+What about mumble?
+No, that's a fun idea, I fear.
+Criticism and I fear people revealing that my game preferences are are bad and then I've done done bad.
+Well, I mean, people already know bad about me.
+1:28:18
+It's not a big deal.
+That's it.
+That's an interesting idea.
+Hey, if enough people want it that that would be maybe fun.
+But just think about how much more inflammatory YouTube reaction clickbait videos we could generate with people saying Oh my God they ranked this game that I spent 500 hours in a four.
+1:28:37
+Fortunately, I am impervious to all that criticism because my, unfortunately I'm very pervious.
+My, my, my score is, is completely made-up and I can't be held accountable for any of the scores I give to any game.
+Again, Adam, Adam, hey, thanks for the comment.
+1:28:55
+Yeah, I think the the the scores that we apply for games are are very much a whose line is it anyway approach of how are we vibing?
+What's what's a well, a vibe number that we're going here we are we're not applying any kind of journalistic.
+Except for will, whose scores are objectively correct.
+1:29:12
+That's true, yes.
+We have to.
+We have to remember Yes, but yeah, I.
+Think.
+Well actually let's see here.
+Will, will will be returning next week?
+Do we know?
+We don't know for sure because next week.
+What are we doing?
+1:29:27
+Well, it's it's, it's hot, it's summertime.
+The the the hosts need need a break from all these very literally challenging games that we've we've been playing.
+So my brain hurts.
+So it's time to fire up our our summer music fest once again to, to play some of the best rogue like video game music jams for our next episode.
+1:29:54
+So I think I have I've got a pretty good summer playlist to play at the beach.
+So people can ask what the hell chip tune music are you listening to this time with some decent variety to it.
+But yeah, I think we'll be we'll be putting that out.
+1:30:12
+Stay tuned.
+And then, yeah, we'll we'll have to see what the what, what will picks in theory after that.
+But we got we got some bangers lined up afterwards for our our peak of summer future episodes.
+So stay tuned and 1/2 for for those coming up, assuming that like, you know, big games aren't shadow drop in the middle of the night.
+1:30:33
+But yeah, it'll be fun.
+So yeah, next next episode will be revisiting or revisiting the summer music format with all sorts of new music from different games.
+Yeah.
+And Speaking of music to play us out from, this one will be those epic battle tunes we were mentioning before for fighting some huge mutated mushroom men.
