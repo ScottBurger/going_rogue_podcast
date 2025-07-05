@@ -3,18 +3,7 @@ layout: post
 title: "Against the Storm"
 date: 2024-02-28
 file: https://grogpod.s3.us-west-2.amazonaws.com/against_the_storm.mp3
-description: "Lousy Smarch weather! Come in from the cold and warm up with an episode on the recent hit citybuilder roguelite Against the Storm. We've got biscuits and pie, jerky, and a nice dry roof to keep your resolve high. There's lots to talk about between lizard happiness, a Queen that no one has confirmed exists or not, and everyone's favorite topic: supply chain logistics! Man it's wet out there. Check me through will you?
-
-Next episode: Balatro
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Chad Lawson Trio - If I Only Had A Brain
-
-Outro music: Mikołaj Kurpios - Forest Lights
-
+description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -43,6 +32,13 @@ Lousy Smarch weather! Come in from the cold and warm up with an episode on the r
 * 3:30 - one sentence description
 * 6:20 - >> all devs go to heaven warning <<
 * 9:30 - our story begins
+* 12:19 - End game disappointment and seal mechanics explained
+* 17:10 - Overworld structure and meta progression criticism
+* 19:39 - City building mechanics and randomized building systems
+* 27:07 - UI problems and blueprint menu frustrations
+* 32:44 - Queen's impatience meter and reputation system mechanics
+* 42:12 - Art style debate (Warcraft-like graphics divisive opinions)
+* 51:20 - Tutorial experience problems and UI learning curve
 * 1:06:00 - rankings and final thoughts
 * 1:16:48 - similar games
 
