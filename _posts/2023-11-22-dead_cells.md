@@ -3,27 +3,7 @@ layout: post
 title: "Dead Cells (with Woody Ciskowski)"
 date: 2023-11-22
 file: https://grogpod.s3.us-west-2.amazonaws.com/dead_cells.mp3
-description: "That gooey flopping sound isn't your GROGsgiving dinner quite yet, it's the sound of you being reanimated for another run of the 2018 hit action platformer Dead Cells! Join the crew and returning guest Woody as we slice, dice, parry, and pray for mercy against monstrous bosses and darkening sephulcurs. Feel the guitar-strumming beat of a French co-op gamedev's masterpiece and strap in for some fast kickin', low biome times, and meta-progression? You bet!
-
-We round out this season of the podcast with a great one, but we've covered a lot of great games this year. Our next episode will feature a playoff tournament of our top rated games to see who takes the ultimate crown this year. Place your votes here and use your democratic power to help us crown a champion: https://forms.gle/2L8b5ofM9odFf9b17. 
-
-4:27 - Game stats
-13:48 - One sentence description
-16:55 - Our story begins
-1:08:29 - Rankings and final thoughts
-1:17:50 - Similar games
-1:21:48 - Roguelike playoffs preview!
-
-Next episode: GROGPOD Roguelike Playoffs - the Omegabowl!
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Coleman Hawkins & Ben Webster - Prisoner of Love
-
-Outro music: Valmont - ClockTower
-
+description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -54,6 +34,13 @@ We round out this season of the podcast with a great one, but we've covered a lo
 * 4:27 - Game stats
 * 13:48 - One sentence description
 * 16:55 - Our story begins
+* 19:00 - Core gameplay mechanics and weapon unlock system
+* 25:20 - Cursed chests risk/reward mechanic discussion
+* 29:10 - RPG stat system and color-based weapon scaling
+* 36:02 - Legendary items and synergy build strategies
+* 42:06 - Character design criticism and aesthetic evaluation
+* 51:08 - Boss cell difficulty progression and accessibility options
+* 59:12 - Game criticism: poor explanation of core mechanics
 * 1:08:29 - Rankings and final thoughts
 * 1:17:50 - Similar games
 * 1:21:48 - Roguelike playoffs preview!
