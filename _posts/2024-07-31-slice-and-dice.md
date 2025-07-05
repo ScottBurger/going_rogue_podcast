@@ -29,10 +29,22 @@ It is a good day to dice! This week we polish up some D6's for the dungeon crawl
 
 ---
 * 1:46 - game stats
-* 3:27 - one sentence description
-* 18:00 - our story begins (??)
+* 4:42 - Game Addiction & Mobile Gaming Appeal
+* 8:33 - Undo Mechanics & Core Gameplay Differences
+* 13:50 - Order of Operations & Dice Strategy Discussion
+* 18:14 - Game Content Stats & Character Variety
+* 23:16 - Game Mode Varieties & Cursed Gameplay Options
+* 28:47 - Run Length & Difficulty Scaling Complaints
+* 35:30 - Final Boss Problems & Surprise Counter Mechanics
+* 39:08 - Item Shop Critique & Agency Issues
+* 44:46 - Cursed Mode Strategy & Player Agency
+* 51:27 - Dice Rolling Physics & Animation Quality
+* 56:28 - Auto-Flee Mechanics & System Explanations
 * 1:02:39 - rankings and final thoughts
 * 1:10:04 - similar games
+
+
+
 
 ---
 

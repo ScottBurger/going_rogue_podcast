@@ -3,19 +3,7 @@ layout: post
 title: "Wildermyth"
 date: 2024-01-17
 file: https://grogpod.s3.us-west-2.amazonaws.com/wildermyth.mp3
-description: "Gather round children, it's story time! This week we're talking about the pop-up storybook RPG Wildermyth! We're fighting gorgons with poison blood, turning into wolf people, and replacing arms with pirate hooks. You know, the normal things you always read about in kids books. It's time to customize your coworkers, pick your pet, and save the lands from mechanical clockwork monsters!
-
-Next episode: Nightmare Reaper
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Wayne Shorter - Wild Flower
-
-Outro music: Wildermyth Overworld
-
-
+description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -43,6 +31,17 @@ Gather round children, it's story time! This week we're talking about the pop-up
 ---
 * 1:29 - game stats
 * 2:23 - one sentence description
+* 4:11 - Art style discussion: paper standee aesthetic and monster design
+* 6:57 - Age of Ulstryx campaign experience and generic fantasy start
+* 8:35 - Story volume complaints: too much text, too few choices
+* 12:19 - Character customization and personality trait system discussion
+* 16:38 - Magic system: infusing with environmental objects mechanics
+* 21:44 - Overworld exploration and time pressure mechanics
+* 28:13 - Difficulty and strategic decision-making critique
+* 33:03 - Legacy character system and campaign connections
+* 39:05 - Randomization vs bespoke story content debate
+* 46:35 - Procedural vs handcrafted narrative generation discussion
+* 52:27 - Combat mechanics and camera control issues
 * 53:58 - rankings and final thoughts
 * 1:01:10 - similar games
 

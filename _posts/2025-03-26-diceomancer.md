@@ -29,8 +29,18 @@ The club of overwhelmingly positive roguelike deckbuilders is a small one, but b
 ---
 * 1:49 - game stats
 * 3:30 - one sentence description
+* 7:04 - Art style appreciation and Studio Ghibli comparisons
+* 12:25 - Tutorial walkthrough and cozy fairy tale atmosphere
 * 13:26 - our story and tutorial begins
-* 1:15:08 - rankings and final thoughts
+* 17:41 - Purple mist storyline and corruption mechanics explanation
+* 23:59 - FTL-style map comparison and purple mist criticism
+* 30:27 - Translation quality and suggestive enemy names discussion
+* 35:18 - Cognitive load comparison to other deck builders
+* 42:04 - One dice mechanic discovery and randomness mitigation
+* 50:32 - Class system critique and color archetype limitations
+* 57:33 - City level enemies and weird creature designs
+* 1:05:39 - Gateway game recommendations for new deck builder players
+* 1:16:23 - Final ratings discussion begins
 * 1:22:36 - similar games
 
 ---

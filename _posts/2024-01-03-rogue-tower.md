@@ -3,18 +3,7 @@ layout: post
 title: "Rogue Tower"
 date: 2024-01-03
 file: https://grogpod.s3.us-west-2.amazonaws.com/rogue_tower.mp3
-description: "Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring an army of orcs and goblins marching on your doom in Rogue Tower. What other podcast can you find deep dives on tower defense strategy in the form of thrilling spreadsheet functions and macros? The Excel fincancial modelling world cup may have just ended, but this game sure EXCELs at metal tunes, one-more-turn-itis, and laser-blasting pyramids. Does Will hold a world record for this game? Send in your armies of Boron-encased glass panes and find out for yourself!
-
-Next episode: Wildermyth
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: George Shearing - I Didn't Know What Time It Was
-
-Outro music: Andrew R. Mason - Orcs Attack!
-
+description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -41,7 +30,15 @@ Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring
 ---
 * 1:47 - game stats
 * 3:13 - one sentence description
-* 30:47 - deep lore
+* 4:32 - Discord data science discussion and Andrew's 17-level maximum revelation
+* 7:02 - Game mechanics: health, armor, shields and tower specialization
+* 11:14 - UI clarity issues and upgrade system confusion
+* 18:21 - Tower placement strategy and height mechanics discussion
+* 24:27 - Card draw upgrade system and meta progression criticism
+* 30:25 - Mod discussion and game speed improvements
+* 35:48 - Tower defense comparisons and roguelike elements breakdown
+* 39:32 - UI problems: click-through issues and Steam Deck complaints
+* 47:36 - Music discussion: harpsichord metal soundtrack praise
 * 50:12 - rankings and final thoughts
 
 ---

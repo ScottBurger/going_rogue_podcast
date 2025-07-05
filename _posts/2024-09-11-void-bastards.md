@@ -30,9 +30,24 @@ Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for dere
 ---
 * 1:19 - game stats
 * 2:33 - one sentence(?) description
-* 10:45 - our story begins
+* 5:29 - Art style appreciation and initial gameplay impressions
+* 11:17 - Story setup and tutorial sequence discussion
+* 15:02 - Immersive sim comparisons and system complexity debate
+* 22:30 - Looting mechanics criticism and lack of meaningful decisions
+* 28:30 - Story problems and space whale encounter disappointment
+* 34:23 - Weapon crafting system and progression unlock issues
+* 43:30 - Development ambition vs execution capability discussion
+* 48:40 - Character trait system praise and gameplay variety
+* 54:18 - Missing boss battles and set piece sequences
+* 58:40 - Wild Bastards sequel preview and comparison hopes
 * 1:03:48 - rankings and final thoughts
 * 1:12:37 - similar games
+
+
+
+
+
+
 
 ---
 

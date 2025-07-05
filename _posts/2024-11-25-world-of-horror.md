@@ -30,9 +30,21 @@ Clap! Bow! Clap! Clap! Bow! Not even 6 days of power outage can stop this week's
 ---
 * 2:09 - game stats
 * 3:35 - one sentence description
-* 14:15 - our story begins
+* 7:07 - Game structure explanation (5 mysteries, bespoke events system)
+* 13:36 - Story setting in 1980s Japan and Old Gods premise
+* 16:42 - Arkham Horror board game comparisons and inspirations
+* 21:05 - UI legibility issues and one-bit art style problems
+* 25:30 - Combat mechanics and enemy health display confusion
+* 31:29 - Game pacing discussion and mystery completion times
+* 33:22 - Save system criticism (losing allies when quitting)
+* 42:53 - Random event system debate (hidden vs revealed outcomes)
+* 56:35 - Combat strategy analysis and dominant stabbing approach
+* 1:04:18 - Combat feedback and visual clarity problems
 * 1:14:18 - rankings and final thoughts
 * 1:25:39 - similar games
+
+
+
 
 ---
 

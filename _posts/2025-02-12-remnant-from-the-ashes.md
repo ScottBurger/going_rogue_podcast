@@ -29,7 +29,17 @@ This week in "wait, that's not a roguelike!" we tackle the Souls-like shooter Re
 ---
 * 2:18 - game stats
 * 3:54 - one sentence description
+* 8:28 - Roguelike elements debate and randomization requirements
+* 11:04 - Story mode experience and memorable narrative moments
 * 13:29 - our story begins
+* 19:12 - Hub world design and Ward 13 underground base
+* 24:22 - Solo gameplay experience and earth biome exploration
+* 30:07 - Base game vs roguelike classification discussion
+* 34:14 - Story progression through different biomes and bosses
+* 39:39 - Survival mode introduction and DLC content discussion
+* 42:56 - Solo vs co-op gameplay balance and design
+* 48:21 - Trait system and loot mechanics in survival
+* 1:03:11 - Community feedback and souls-like accessibility discussion
 * 1:07:55 - community correspondence
 * 1:16:04 - rankings and final thoughts
 * 1:25:25 - similar games

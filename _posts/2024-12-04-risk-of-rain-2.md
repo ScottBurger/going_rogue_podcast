@@ -30,7 +30,17 @@ Risk of Rain returns and in threeeee deeeeee! One of the most popular rogue game
 ---
 * 1:42 - game stats
 * 3:35 - one sentence description
-* 35:24 - our story begins
+* 6:32 - Seekers of the Storm DLC problems and negative reviews
+* 9:06 - Gameplay mechanics comparison between Risk of Rain 1 and 2
+* 18:04 - Artifact of Command debate and randomization preferences
+* 24:09 - Co-op multiplayer experience and final boss encounter
+* 26:22 - Map design, scale, and navigation discussion
+* 31:38 - Difficulty scaling and time pressure mechanics
+* 35:39 - Drop pod story and lore explanation
+* 41:22 - DLC content and character unlocks discussion
+* 49:29 - Character variety and playstyle differences
+* 57:49 - Art direction and aesthetic design analysis
+* 1:06:50 - Mod scene popularity and proper save feature
 * 1:14:20 - rankings and final thoughts
 * 1:22:14 - similar games
 
