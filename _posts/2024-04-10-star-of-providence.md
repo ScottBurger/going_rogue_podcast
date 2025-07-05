@@ -3,26 +3,7 @@ layout: post
 title: "Star of Providence"
 date: 2024-04-10
 file: https://grogpod.s3.us-west-2.amazonaws.com/star-of-providence.mp3
-description: "Ghostly squeal! This week we're descending the floors of an ancient facility filled with ghosts, mages, machines, talking cats, and bullets! So, so many bullets. What else would you expect from the bullet hell game that is Star of Providence? A charming, NES-inspired modern throwback, Star of Providence puts us to the test with harrowing boss fights, secret endings, and more guns than you can shake a sword that shoots bullets at! 
-
-Team D-13 were kind enough to give a quick Q&A on how Star of Providence came about for us. Give it a look-see here!
-
-1:52 - game stats
-2:52 - one sentence description
-19:20 - our story begins
-1:07:47 - rankings and final thoughts
-1:17:24 - similar games
-1:20:25 - upgrade terminal podcast shoutout
-
-Next episode: Returnal
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Time-Lapse City - GoGo Penguin
-
-Outro music: Tonal Dissonance - garoslaw
+description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
@@ -50,8 +31,17 @@ Team D-13 were kind enough to give a quick Q&A on how Star of Providence came ab
 
 ---
 * 1:52 - game stats
-* 2:52 - one sentence description
-* 19:20 - our story begins
+* 7:31 - Bullet hell categorization and genre spectrum discussion
+* 11:04 - Boss fight difficulty and traditional schmup comparisons
+* 15:19 - Retro aesthetic appreciation and NES style graphics
+* 19:11 - Story and setting overview with facility exploration
+* 22:38 - Tutorial quality and instant teleport feature praise
+* 26:47 - Room design and environmental interaction mechanics
+* 31:17 - Weapon system and ammo management mechanics
+* 35:47 - Keyword system and weapon modification features
+* 42:47 - Dash mechanics and movement system differences
+* 48:17 - Meta progression and scoring multiplier complaints
+* 54:17 - Health and power-up economy criticism
 * 1:07:47 - rankings and final thoughts
 * 1:17:24 - similar games
 * 1:20:25 - upgrade terminal podcast shoutout
