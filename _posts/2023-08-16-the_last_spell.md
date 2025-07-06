@@ -3,27 +3,7 @@ layout: post
 title: "Brotato / The Last Spell"
 date: 2023-08-16
 file: https://grogpod.s3.us-west-2.amazonaws.com/last_spell.mp3
-description: "Hold onto your Brotatoes! You demanded, we listened: listener request week is over and from the ashes of our submissions arose the bullet heaven Brotato and the tower defense zombie horde killhouse The Last Spell. We are also joined by a new full-time member of the podcast: previous guest Andrew Harshman! With so much content to cover, will we be able to channel our summoner energies together before the hour is up?
-
-1:42 - The GROGPOD Grows!
-4:09 - Brotato game stats 
-5:46 - One sentence description 
-23:22 - The Last Spell game stats
-25:00 - One sentence description
-27:00 - Our story begins
-1:11:30 - Rankings and final thoughts
-
-Next episode: Eldritch
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Jean Luc Ponty - Mirage
-
-Outro music: The Algorithm - Oath
-
-"
+description: ""
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
@@ -50,10 +30,16 @@ Hold onto your Brotatoes! You demanded, we listened: listener request week is ov
 
 * 1:42 - The GROGPOD Grows!
 * 4:09 - Brotato game stats 
-* 5:46 - One sentence description 
-* 23:22 - The Last Spell game stats
-* 25:00 - One sentence description
-* 27:00 - Our story begins
+* 6:44 - Vampire Survivor-like subgenre terminology debate (bullet heaven vs one-stick shooters)
+* 10:49 - Brotato aesthetic criticism and Flash game comparisons
+* 16:23 - Arena limitation complaints vs exploration desires
+* 20:56 - Nintendo eShop story description and potato world lore
+* 25:09 - The Last Spell introduction and tactical combat overview
+* 32:57 - Game phases: town building, defense setup, and night combat
+* 38:14 - Decision fatigue criticism and feedback loop discussion
+* 46:17 - Character generation and goddess dialogue segments
+* 54:21 - Night phase tactical combat depth analysis
+* 1:07:24 - Roguelike classification debate and genre elements
 * 1:11:30 - Rankings and final thoughts
 
 ---

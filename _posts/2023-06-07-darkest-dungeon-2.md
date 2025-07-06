@@ -3,23 +3,7 @@ layout: post
 title: "Darkest Dungeon II"
 date: 2023-06-07
 file: https://grogpod.s3.us-west-2.amazonaws.com/darkestdungeon2.mp3
-description: "Are you tired of the daily grind? Stressed out from the demands of modern life? Introducing Darkest Dungeons 2, the stress-relieving sequel that will transport you to a world where your worries melt away and your courage shines through. For the low, low price of ... urhgm ... $40, you too can battle eldritch horrors beyond your comprehension! Listen in on another contentious episode where the hosts try to keep their stress levels below the meltdown threshold. 
-
-2:00 - game stats
-3:57 - one sentence summary
-5:41 - our story begins
-1:01:58 - rankings and final thoughts
-
-Next episode: Shattered Pixel Dungeon
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Sonny Rollins Trio - Wagon Wheels
-
-Outro music: Stuart Chatwood - Battle of the Mountain
-"
+description: ""
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
@@ -45,6 +29,15 @@ Are you tired of the daily grind? Stressed out from the demands of modern life? 
 * 2:00 - game stats
 * 3:57 - one sentence summary
 * 5:41 - our story begins
+* 8:36 - Darkest Dungeon 1 experience comparison and expectations
+* 12:17 - Sequel vs prequel numbering and dungeon absence discussion
+* 15:00 - Wagon driving mechanics and tutorial zone frustrations
+* 20:18 - System complexity overload and decision fatigue criticism
+* 27:20 - Inn mechanics and European board game comparisons
+* 32:24 - Character unlock system and $40 pricing complaints
+* 38:51 - Combat encounter length and boss fight difficulties
+* 45:16 - New player experience problems and Act 1 redesign suggestions
+* 53:40 - Enemy intent system comparison to other games
 * 1:01:58 - rankings and final thoughts
 
 ---

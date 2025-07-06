@@ -3,23 +3,7 @@ layout: post
 title: "Low Magic Age"
 date: 2023-03-29
 file: https://grogpod.s3.us-west-2.amazonaws.com/low_magic_age_edit.mp3
-description: "Roll for initiative! This week's episode has us examining the world of Dungeons and Dragons through the DnD combat simulator Low Magic Age. Join us for dicussions on vancian magic, royalty free music overlaps with previous episodes, and summoner-based arena races! We put the pal back in paladin and wonder why it is that you can't make an Asamir chatoic evil.
-
-1:45 - game stats
-2:46 - one sentence summary
-48:24 - rankings and final thoughts
-
-Next episode: Hand of Fate 1+2
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Teru - Lincoln Center Jazz Orchestra
-
-Outro music: Low Magic Age - combat theme
-
-"
+description: ""
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
@@ -45,6 +29,17 @@ Roll for initiative! This week's episode has us examining the world of Dungeons 
 
 * 1:45 - game stats
 * 2:46 - one sentence summary
+* 5:37 - D&D video game vs real-life tabletop differences discussion
+* 10:07 - Roguelike classification debate and party-based RPG comparison
+* 13:32 - Tutorial vs actual gameplay and lack of story content
+* 16:22 - Character creation frustrations and level adjustment rules
+* 21:08 - Arena mode explanation: five fights with boss battles
+* 23:28 - Adventure mode: procedural dungeons with limited interactions
+* 26:32 - Early Access status and unfinished game assessment
+* 27:25 - Mining and crafting mechanics criticism as boring grinding
+* 32:09 - Death mechanics and lack of permanent consequences
+* 38:42 - Combat limitations and lack of reward progression
+* 43:59 - Music quality and War Sim soundtrack similarities
 * 48:24 - rankings and final thoughts
 
 ---

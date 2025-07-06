@@ -3,23 +3,7 @@ layout: post
 title: "Risk of Rain"
 date: 2023-02-01
 file: https://grogpod.s3.us-west-2.amazonaws.com/riskofrain-audio.mp3
-description: "Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 10 year old (but timeless in our hearts) loot-collecting roguelike platformer with an incredibly enduring legacy. Be a Burning Witness to a podcast where two Meat Nuggets try to convince the third that his Tough Times could really just be solved by seven Crowbars and a Hydraulic Gauntlet.
-
-1:28 - game stats
-3:24 - one sentence summary
-14:20 - our story begins
-54:20 - rankings and final thoughts
-
-Next episode: Fights in Tight Spaces
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Bill Evans - Waltz for Debby
-
-Outro music: Chris Christodoulou - Coalescence
-"
+description: ""
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
