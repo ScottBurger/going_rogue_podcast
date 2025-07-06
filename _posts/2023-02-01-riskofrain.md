@@ -29,16 +29,7 @@ Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 
 
 * 1:28 - game stats
 * 3:24 - one sentence summary
-* 4:06 - "Into the Breach meets Slay the Spire" comparison and single character focus
-* 8:54 - Deck selection systems: preset decks vs drafting mode preferences
-* 11:18 - Tutorial appreciation and symbology learning curve discussion
-* 13:35 - Combat mechanics: pushing enemies into void spaces for instant kills
-* 18:23 - Replay mode functionality and cinematic camera options
-* 25:02 - Boss progression through different acts: bikers, prison, ninjas, mafia
-* 28:22 - Deck building sameness problem and lack of variety
-* 35:41 - Steven Seagal look-alike enemies in ninja act discussion
-* 41:27 - Combat resource systems: momentum and combo mechanics
-* 46:04 - Shop system comparison to Slay the Spire's merchant features
+* 14:20 - our story begins
 * 54:20 - rankings and final thoughts
 
 ---
