@@ -3,24 +3,9 @@ layout: post
 title: "Monster Train (with Joe Homes)"
 date: 2023-05-24
 file: https://grogpod.s3.us-west-2.amazonaws.com/monster_train.mp3
-description: "We're on the Highway to roguelike deckbuilding Hell this week, riding a Crazy Train filled with demons, sentient blackberry bushes, and occultic Lumières! We are also joined by special guest Joe(with  Homes from Cephalofair Games: publisher of the award-winning tabletop deckbuilding game Gloomhaven, so there will be at least one person here who knows what they're talking about in terms of game design. Come listen in on one of our highest rated games in a long while, as we discuss stategies to beat 4 story-tall gem gods and consume tasty, tasty, morsels. 
-
-2:58 - game stats
-4:58 - one sentence summary
-7:01 - our story begins
-1:00:17 - rankings and final thoughts
-
-Next episode: Darkest Dungeon II
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Oscar Peterson Trio - Night Train
-
-Outro music: Jordan Chin - Daedalus, The Professor "
+description: ""
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, monster train"
 voices: "scott, will, colin"
 cover-img: /assets/img/monster_train.jpeg
 thumbnail-img: /assets/img/monster_train.jpeg
@@ -43,7 +28,16 @@ We're on the Highway to roguelike deckbuilding Hell this week, riding a Crazy Tr
 
 * 2:58 - game stats
 * 4:58 - one sentence summary
-* 7:01 - our story begins
+* 7:10 - Hell narrative setup and train mechanics explanation
+* 8:11 - Art style discussion and visual aesthetic opinions
+* 11:27 - DLC discussion and Last Divinity expansion features
+* 17:18 - Core gameplay differences from Slay the Spire mechanics
+* 21:41 - Faction unlock progression and grinding criticism
+* 25:02 - Dual class system and deck synergy strategies
+* 34:04 - Deck size optimization and slim deck strategies
+* 40:07 - Boss transparency and strategic planning advantages
+* 48:24 - Visual readability issues when screen gets crowded
+* 53:52 - Slay the Spire comparisons and "Spire-like" genre discussion
 * 1:00:17 - rankings and final thoughts
 
 ---
