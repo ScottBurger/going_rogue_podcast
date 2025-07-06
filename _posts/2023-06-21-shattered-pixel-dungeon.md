@@ -3,25 +3,9 @@ layout: post
 title: "Shattered Pixel Dungeon"
 date: 2023-06-21
 file: https://grogpod.s3.us-west-2.amazonaws.com/pixel_dungeon.mp3
-description: "You have 1 new message: a podcast episode about the hit roguelike mobile game Shattered Pixel Dungeon! We explore the android/ios sphere for the first time with an influential open source and community-driven spin on the dungeon crawling genre. Join us old boomers as we puzzle out why all the kids are looking at their phones all the time. 
-
-1:31 - game stats
-4:31 - one sentence summary
-46:50 - reddit meltdown
-54:28 - rankings and final thoughts
-
-Next episode: Enter the Gungeon
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Sonny Rollins - Dial S For Sonny
-
-Outro music: Kristjan Thomas Haaristo - DM300 Boss Theme
-"
+description: ""
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, shattered pixel dungeon, mobile gaming"
 voices: "scott, will, colin"
 cover-img: /assets/img/shattered.jpeg
 thumbnail-img: /assets/img/shattered.jpeg
@@ -44,6 +28,14 @@ You have 1 new message: a podcast episode about the hit roguelike mobile game Sh
 
 * 1:31 - game stats
 * 4:31 - one sentence summary
+* 10:21 - Mobile interface challenges and magnifying glass discovery
+* 13:37 - Pixel Dungeon series history and open source community
+* 18:31 - Potion identification mechanics and traditional roguelike elements
+* 24:45 - Game structure: five biomes and Amulet of Yendor goal
+* 29:24 - Hunger clock mechanics and enemy respawning discussion
+* 32:36 - Boss fights and tactical combat strategies
+* 38:39 - Shop mechanics and tactical decision making depth
+* 42:32 - Accessibility and hand-holding criticism for new players
 * 46:50 - reddit meltdown
 * 54:28 - rankings and final thoughts
 
