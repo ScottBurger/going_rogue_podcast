@@ -3,23 +3,7 @@ layout: post
 title: "Risk of Rain"
 date: 2023-02-01
 file: https://grogpod.s3.us-west-2.amazonaws.com/riskofrain-audio.mp3
-description: "Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 10 year old (but timeless in our hearts) loot-collecting roguelike platformer with an incredibly enduring legacy. Be a Burning Witness to a podcast where two Meat Nuggets try to convince the third that his Tough Times could really just be solved by seven Crowbars and a Hydraulic Gauntlet.
-
-1:28 - game stats
-3:24 - one sentence summary
-14:20 - our story begins
-54:20 - rankings and final thoughts
-
-Next episode: Fights in Tight Spaces
-
-Contact us at grogpodzone@gmail.com!
-
-https://grogpod.zone
-
-Intro music: Bill Evans - Waltz for Debby
-
-Outro music: Chris Christodoulou - Coalescence
-"
+description: ""
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin"
@@ -45,7 +29,16 @@ Today's forecast is partly sunny with a Risk of Rain. Join us to talk about the 
 
 * 1:28 - game stats
 * 3:24 - one sentence summary
-* 14:20 - our story begins
+* 4:06 - "Into the Breach meets Slay the Spire" comparison and single character focus
+* 8:54 - Deck selection systems: preset decks vs drafting mode preferences
+* 11:18 - Tutorial appreciation and symbology learning curve discussion
+* 13:35 - Combat mechanics: pushing enemies into void spaces for instant kills
+* 18:23 - Replay mode functionality and cinematic camera options
+* 25:02 - Boss progression through different acts: bikers, prison, ninjas, mafia
+* 28:22 - Deck building sameness problem and lack of variety
+* 35:41 - Steven Seagal look-alike enemies in ninja act discussion
+* 41:27 - Combat resource systems: momentum and combo mechanics
+* 46:04 - Shop system comparison to Slay the Spire's merchant features
 * 54:20 - rankings and final thoughts
 
 ---
