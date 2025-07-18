@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/buda.PNG
 share-img: /assets/img/buda.PNG
 duration: "2:08:17"
 length: 129812151
-tags: ["2024", grogpod, mail sack]
+tags: ["2024", grogpod, mail sack, music fest]
 ---
 
 Adagio, listeners! This week is our summer special focusing on the wide diversity of music found in roguelike games! From the biggest budget orchestras, to the lowliest growling chants that 1bitdragon can muster, there's a lot of love to be listened to when playing $5 indie games. We thank the listeners that wrote in with tons of suggestions for us to cover and we'll definitely have to revisit this format in the future. We also have some listener correspondence to cover on topics from not liking games, randomness, and how long is TOO long for roguelikes at the end of the show. Enjoy and be sure the blast some GROGPOD on the beach for all your friends this summer weekend!
