@@ -1,0 +1,1523 @@
+0:16
+Greetings friends and welcome back to another episode of the Grog Pod Roguelike podcast, where each episode we crash land on an island of roguelike game, strip it bear for made-up rating numbers, and then crash land again on it at the end of the year if it's good enough.
+0:32
+In our yearly recap tournament episode, I am your coin tossing horse riding host of the podcast Scott Burger and with me are my my decrepit Co hosts of the Forest.
+Decrepit.
+Are we all right?
+Well, I guess this is the decrepit will the what is it?
+0:50
+The maybe I'm agreed stealing your your dog.
+Golly.
+Well, around these parts these days I'm I'm mostly known as Andrew Horse, Snort Harshman.
+And it's me, Colin, a guy who lives in the tent in the woods.
+Well, this episode you have tuned into is on Kingdom new lands, released August 9th, 2016.
+1:14
+Another kind of find it anywhere game between PlayStation, Xbox, Nintendo switch, PC, Android, iOS and yes, of course, TVOS for your your Apple TV.
+This was developed and or I guess developed by, I guess mostly by a solo dev with some extra support.
+1:36
+So maybe, maybe we'll say solo dev asterisk with all that by by 1 Thomas Noeo Vandenberg.
+I guess Noeo is his.
+His online handle goes by who has developed such previous entries such as Kingdom in 2015, Kingdom New Lands 2016 and Kingdom 2 Crowns for 2018.
+1:58
+And this was published by Raw Fury, who you might remember from our blueprints previous episode and has actually has a quite a collection of Stay tuned rogue games running from bad NA kind of RTS Viking invasion simulator defense game Domekeeper, which maybe we'll be talking about a little bit later.
+2:23
+Atomic crops, Bolionaire and * Renegades.
+So quite the collection under under raw fury's belt.
+Your average player of Kingdom New Lands has about 16 hours of gameplay in it, and Kingdom New Lands crashes in on the popularity beach at #109 Most popular roguelike game on steam with one 11,794 total reviews will.
+2:50
+What's the one coin description of what one does in Kingdom New Lands?
+Sure thing, Scott.
+Well, it's a 3.
+Button tower defense discovery Masterpiece.
+That's what it is.
+Masterpiece.
+Masterpiece.
+3:05
+Yeah, I don't, I don't use that lightly.
+And I could tell, having looked at the reviews here, that this might be a little bit of a contentious sort of a a belief, but it is, in fact, a masterpiece.
+And anyone who says otherwise, well, you'll see why they're wrong.
+It's a masterpiece of work.
+3:21
+It's a piece of work, yes.
+Well, I mean, in the category for yes, masterpiece, yes, this is a masterpiece column.
+We have the fact that this is a side scrolling game, but where the camera is is to the side of the character and you're moving back and forth on on on one plane of existence and will picked it famously will never appears on side scrolling platforming anything.
+3:52
+I think you no, no, no.
+You've got the right term there the second time.
+Platformers.
+Shit games.
+Hide scrolling.
+Is an acceptable medium so.
+Here's the thing, Andrew.
+It's not a 2D game.
+It's a 1D game.
+4:08
+You're only going in one you're you're on the one-dimensional line.
+You're going left or right.
+There is no up or down.
+There is no in or out of screen.
+There's just one one cardinal direction.
+Well, Even so, I think to a layperson or to, to someone's, you know, grandmother in the 90s, this would be no different than Mario and I, I, I think that's noteworthy that we'll, we'll pick this game.
+4:34
+But no, you're, you're absolutely right.
+The, the mechanics are very different.
+But you know, mechanics, who cares about all that?
+All what I got to say right up front is that I'm just happy we're finally playing a game that takes as long to play as the last spell.
+This game is such a time suck.
+4:51
+Because you're so.
+Sucked into the gameplay that you are, you're just itching to see what's behind that next tree.
+Well, you know, to be honest this game should be infinitely more boring than it is, but the presentation is so top notch that it keeps my ADHDOCD ass from just bursting into flame, which is a miracle.
+5:17
+What?
+What do you do in this?
+Game will well, you are a king or queen and you are riding a noble steed and on this 2D plane or 1D plane, depending on who you talk to, there is essentially a like your, your, your, there's five islands.
+5:33
+You land on an island and your boat breaks and your goal is to rebuild the boat and get the heck off that island and go to the next 1.
+And in order to do that, you're using essentially you have, like I said in the beginning, three buttons left to right and then down where the down button is drop coin or insert coin to spend essentially.
+5:51
+So that's all it is.
+You're running left right, you're dropping coins and you're essentially trying to build up some defenses.
+And it's sort of a tower defence thing where hordes of the Greed, as they're known, spawn from these portals on the left and or right of you and then they come in.
+6:06
+Ghouls.
+Yeah, they're little ghouls.
+They're called greed because they steal things and then they they basically.
+Try.
+You wouldn't know that unless you have read the wiki, because there's no wiki.
+There's no explanation for anything in the game, so I just think of it as little gremlins or little ghouls.
+You could incorrectly believe that that's true.
+I mean, this is one of those games where, yeah, it is nice to actually like, but once you get hooked by like the what the heck does this thing do?
+6:28
+You look at the wiki if you really can't figure it out.
+And I think that's a totally fine way to play the game because it's really hard to determine.
+For instance, like what does a hermit do when you get it?
+And you guys haven't even advanced to that point that you have seen a hermit.
+But like you essentially like it'll be like a Hut in the woods.
+You'll pay 4 coins and this kind of decrepit thing comes out of it and it just stands there.
+6:46
+You pay a coin, it jumps onto the back of your horse and you're like, what the hell do I do with this?
+And then like there's no instructions.
+And unless you have a three like a built up like turret defense and it's at the third level, you'll never see the prompt that says, hey, this will let you build that three level archery thing nest into the next like whatever the special ability of the hermit has.
+7:04
+And so it's like that's the kind of thing where it's like, yeah, that's good to just read about.
+But thankfully the hooks in this game and how like interesting and fun it is get you, or at least propelled me anyways, to do that and to do the investigation.
+I did a a a self.
+Real quick, if I may interrupt very briefly, will how was this game playable on launch?
+7:27
+There was no wiki when the game was brand new.
+I never had any problems with that.
+All right, very well.
+So also also crucially to the point like Kingdom New Lands is effectively a sequel to a ye oldie Flash game.
+That what's the note that I have here that that started as a, as a personal project by the by the solo dev at that point to learn horse animations.
+7:54
+And I think that like #1 the horse animation looks great, so.
+All the animation looks good.
+Yeah, all the animation in this game is really good I think.
+Everything in this game looks good.
+Yes, even the sound looks good in this game.
+Critically, there is always a reflection too.
+8:11
+Beautiful reflections.
+But yeah, I think what the like this game kind of was maybe like an upgrade to the original and that like that.
+I can imagine when Kingdom like New Lands launched, it was like, oh, OK, Like there was already a wiki for the original Kingdom game that I had was like already kind of bespoke enough that like, and and maybe like enough of the following and player base that was like, Oh yeah, we already know how to play this game.
+8:40
+It's just like more stuff added to it.
+I don't like when you have to go to a wiki to understand how the game works and I I get this game feels more more than most.
+It feels like you're not supposed to do that.
+8:57
+Like I've every time I looked at the wiki it felt like I was not.
+I was literally cheating.
+It feels like the point of this game is to like experience it and find out by yourself, but then it also punishes you so hard for understanding it wrong.
+9:17
+Like Andrew in our in our Discord chat asked the same question that I had, which is there's the little the wall dirt, which will didn't know what we were talking about, but there's like little mounds of dirt that you find along this this map line.
+9:33
+And those are places that you can build walls.
+Also unclear to me and Andrew whether or not that was what spawned bunnies because it kind of looked like maybe it's also a Bunny mound.
+And if I could not without like stopping and trying to study it, I could not figure out what causes bunnies to happen.
+9:53
+And bunnies are apparently like the main source of income for this game.
+I, I felt like I kind of dug my own grave.
+I, I threw, I threw the coin into the grave builder for this one because I, I went in with the explicit like self challenge of like, OK, I'm going to go in without looking at the wiki.
+10:10
+I want to experience this with as much raw fury as I as I possibly could, because will really likes this game.
+So there's got to be something behind it.
+And I think this game starts off very well.
+We're like you're, you're just kind of like riding a horse through the forest.
+10:25
+Everything's all murky and mysterious.
+There's this crash like Viking ship and you're like greeted by a ghost in the forest with a crown.
+And it's all done without any text to hold your hand or explain what's going.
+It's very, I think, well done environmental storytelling.
+10:43
+And then, like the ghost kind of leads you to like the central camp of like, oh, OK, like this is my main camp.
+I know roughly this.
+This is supposed to be like a tower defense game.
+And and you receive the games only text instructions there are there are like 5 or 6 instructions.
+11:01
+It's like, OK, like recruit these people, build the camp, I forget the other ones.
+And then at some point it says like expand and defend or or or something to that effect.
+Yeah, like like it just has the word like this, the text above it saying come like follow me and you're just like, OK, I get and like the the little button or the little yeah, prompts that come up on the thing of like put coin in here.
+11:25
+It does the thing like OK, like, yeah, this is starting to make sense.
+I'm, I'm getting it, you know, and then that's I think where it kind of fell off the rails for me because of this self-imposed challenge where I was like, Oh yeah, I could go and look at the wiki, but I'm, I'm smart enough, I could figure this out.
+11:42
+And it just felt like this inscrutable puzzle that like it felt, it felt like I couldn't understand the cause and effect of like what was happening and trying.
+And like normally it feels like with Rogue games like this that like the try, the try, it doesn't work.
+12:01
+Failure, repeat loop is like is short enough that you can be like, OK, yeah, boom, reset.
+And you're right back in it and you're like, OK, now I know what to do this time.
+And yeah, I don't know, like I, I think it kind of trapped me several times of like, well, I'll just build this thing and I'll build that thing.
+12:19
+And then, oh, there's this like this whole economy aspect to it.
+OK, yeah.
+So it's like it's like 1 dimensional StarCraft if you couldn't control where your units were going.
+Is is the vibe that I got for maybe the first few hours that I played.
+And also a horse.
+12:37
+I think Cohen, what you meant was and also.
+Right.
+Yeah, a slow horse that keeps breathing.
+Real hard.
+Those are the horse snorts I was referring to earlier.
+This horse be running out of stamina and golly listeners, you got to understand how integral this horse.
+12:57
+You can't get off the horse.
+You're on the horse, you're fused to this horse and.
+Unclear.
+If you're a separate being, you might just be a Centaur.
+It's true.
+And at one point I I did when you spawn in one of the rogue like randomized elements is that your color palette is random randomized.
+13:14
+And so my, my queen, her dress was almost the exact same color as the horse.
+And so it looked like I was some kind of crazy double headed hydra Centaur beast.
+Anyway, yeah, it there's arguably the most tedious part of the game is managing, not even managing, just like having to put up with the the stamina bar of the horse, which I guess gets better.
+13:39
+I'm 13 hours in, doesn't feel any better I can tell you that. 13 hours in and you're in the second.
+Island.
+I'm on the third island.
+I'll have you know, as you said, like, yeah.
+You know, I would have been there two hours earlier if it hadn't been for the game.
+13:57
+Yeah, as, as we're learning, you know, as we were, we were just discussing that.
+You know, usually there's, there's a lot of rogue likes for the gameplay loop.
+The death loop is, is very fast.
+And so you learn a lesson, you die because you didn't know something.
+You learn that lesson and you take that into the next run.
+It's like very rapid, very cool game.
+You're learning these lessons very, very fast.
+14:13
+But here I am, like 8 hours in or so, and I had not yet learned the lesson of how to properly understand how much health a wall had left.
+And well, this wall looked like it was at least 70% full.
+14:31
+I mean sure, it's missing a couple of blocks off the top.
+Well, it turns out it was at about 99% damage because moments later it broke down and I was I was killed.
+Now I already.
+Had the boat in the dock I could have left at any time.
+14:46
+I had beat the level and I had this again.
+The like the Tier 1 Stonewall where it kind of like breaks away from like being like chipped away off of one side of it.
+This is the This is the Primo Tier 2 Stonewall, let me tell you.
+15:03
+Nice and tall, very important.
+He didn't shoot him, he got a Prem wall.
+And I was so mad about it that I like I took a series of screenshots my next run to like monitor and try to better understand it.
+Let it be known once that large tall wall lose 3 loses 3 bricks, it's almost done.
+15:20
+Don't be.
+Don't be fooled.
+Fuck, I'll just say for the record, builders repair walls and.
+Sometimes they walk past the wall and get killed.
+So here's the applicably.
+They're really just, that's like what you learn like in hour one or two or you're supposed to anyways, is like when you set something like a worker to do something, they will run regardless of the time of day out to do that thing.
+15:43
+And if you send them to like do something like chop a tree down during nights, they'll run past it and they'll try and chop the tree down.
+They'll.
+Try no, no, no, no, no, no, absolutely.
+Not we are 100% of the time.
+It is the player's fault for having the builders.
+Killed it is.
+I assure you, Sir, this was not the case.
+I can assure you I have witnessed.
+16:00
+I have witnessed these builders get killed for for no reason.
+I've seen them run out into the wall and then come back.
+They try and they try and maintain an equal distance.
+So the spread of your realm is like how far they will stand naturally and they will balance, they will space themselves out.
+16:18
+So they're at equal intervals.
+When you have a request, then what happens is the nearest one goes to meet that request and the rest of them shifts such that they're equal distance.
+And so this is like the the pattern that you're supposed to observe and.
+And how are you supposed to observe this?
+I missed a lot.
+Is it by running back and forth over and over and over again?
+16:36
+Will you ask yourself the question, what's happening here?
+You observe and then you make a hypothesis.
+And it's a very scientific sort of study, learning sort of game.
+Will we?
+We tried.
+I was timing the amount of time that it took for my horse to get its breath back.
+I was counting the number of horse snorts.
+16:55
+We all were looking at the little mounds of dirt and the rabbits running around and thinking, huh, now if I build here, is that going to stop spawning rabbits or is that totally unrelated?
+I I, I feel like we all gave it the old college try and really tried to observe this game and we could not.
+17:14
+I have a question.
+Well, how many times have you lost?
+A lot, not as much as you guys, it sounds like, but.
+No, no, no.
+I mean, I'm not.
+This is a this is a genuine question of like how often, like per island do you think you lost?
+Because I, I feel like my biggest problem with it was that I was losing did not feel fun.
+17:32
+It felt like a punishment.
+And so I was scared to do things that I was unsure if it might cause me to lose.
+How long were you?
+How long were your games?
+Because I'll tell you what, like if you die like you, you should be off an island under 30 minutes every single time.
+Like you're how many?
+Days I guess.
+How many days did you normally?
+I lost on day 20.
+17:48
+Five, you should be off the island on before day 25 in general and it's like and day 32 is like depending on the which island you're on is when like winter sets in and so.
+I was getting close but I like I quit.
+I just kept like, my economy kept getting beat down and I was just like barely surviving.
+18:08
+And I was like, if I don't put money into this right now, I will lose.
+And I was never able to get the what, 40 coins it takes to build the boat.
+It it takes 60 coins except for on the first island where it takes I think it's 31 because they give you a head start.
+18:24
+Oh, interesting.
+So.
+Many, many coin.
+Many coin.
+Or 60, I should say. 60 times of holding it down.
+I think it's actually 120, so 100, yeah.
+It's.
+About 3 bags of gold worth.
+Yeah, so I wouldn't have been able to get off that island.
+I would have died for sure.
+18:43
+I do think that like the, the mechanics in a in a particular island run of this game are interesting and I think they're well done for what they're going for.
+And I think this also just might be again, I dug my own grave without looking at the wiki if you're supposed to do that in the 1st place.
+19:02
+But I feel like this is a classic case of like the game would be twice as good if it was like half as long or twice as fast where like just the amount of OK, so so will grade my strategy here where land on an island.
+I'm like, OK, we'll get we'll recruit like the the decrepit forest freaks to come join my cause by throwing coins at them as you do in any is this.
+19:27
+A.
+Is this a a new run where you're not bringing in any extra gold or Knights or Archers from the old?
+I mean, at this point with with how far I've gotten through the game.
+I'll be.
+Clear.
+We've collectively we've had maybe three or four runs where we are starting with existing people and existing money.
+19:47
+I, I, so I lost yesterday on a run where I started on the second island and got, that was how I got to 25.
+And then today when I was right before I started playing, I started on the first island and then beat that.
+20:02
+Crushed it super easy.
+I went to the second island.
+Holy shit.
+Starting with four Archers and a bag full of gold is like a different, different difficulty, which I hate.
+I really, really don't like that because it's not fun enough to play the first island.
+20:23
+I don't want to have to.
+If I lose this second island, I don't want to have to go back and play the first island again.
+It's not, it's, I won't call it boring, but it's not interesting and it still takes like half an hour.
+It's like, OK, cool, I'm gonna grind for half an hour.
+20:40
+It's like the difference between StarCraft 1 and StarCraft 2 where they got rid in StarCraft 2, they got rid of the like first 8 minutes where you're just watching your 4ST VS mine.
+It's like, hey, guess what?
+That's not fun.
+That's but you're boring as shit and you're like.
+Scouting.
+20:56
+You're scouting the map.
+You're looking for the enemies.
+You're you're making sure to to to two racks, bunker rush the enemy as fast as you possibly can, and then you lift off your command center and float to the to the edge of the map to grief him for the whole rest of the game because the goblin attacked you.
+21:16
+Yeah, yeah, you landed next to their base and you turn into planetary Fortress.
+Classic Strat.
+But yeah, your point.
+Great point, Colin.
+They realized in StarCraft 2, like, hey, the 1st that first segment is not engaging, it's not interesting and you shouldn't have to do it over and over again.
+21:33
+Quick point of clarification, I don't know if this is is very useful or most of my losses were me voluntarily restarting the run.
+So I was like, all right, well, this isn't sustainable.
+This isn't good.
+Or like I spent too much time running around looking for treasure at the beginning before actually building.
+21:51
+Let me restart.
+Let me restart like actually dying, actually, which the death mechanics took me a while to get a grasp on, hours to get a grasp on actually having 0 gold, getting hit by a goblin ghoulie guy who are called greed.
+I'm just learning for the first time.
+22:06
+I'm just tearing this down.
+I'm just learning this for the first time and then having the crown stolen and that being my loss that only happened like, I don't know, maybe 5 or 6 times as opposed to the several dozen voluntary restarts.
+But Scott, I want to get back to this review of your, of your tactics, your strategy.
+22:22
+Yeah.
+So like review this Strat.
+All right, right.
+So I'm, I'm landing on a new island, please.
+And I'm like, OK, I, I vaguely know what I'm supposed to be doing now.
+I will do like a 2 to one ratio of Archers to hammer builder guys And like try to try to like shore up defenses like as close as I can to the main main campsite slash like Kingdom Hall thing, build up some good defenses there and then kind of like inchworm my way out.
+22:52
+And as I'm saying this, I'm realizing actually this is a terrible strategy.
+Yep, see.
+That's that's the fun of it, right?
+You realize, cuz yeah, I was gonna say this is already off the rail is what you're talking about, but go ahead.
+And then So what I had been doing was expanding in kind of both directions while during the daytime I would like run my fat geriatric horse off to one side, find it like and kind of like map out like where everything is and be like, OK, the trader is over here.
+23:22
+He's like like 3 screens away.
+Then I have like a, an Archer shrine.
+Then I have the, the homeless encampment and then I have the goblin gate.
+And then there's the dock on that side.
+23:37
+And on the other side, there's like other stuff of similar, similar kind of ideas.
+And so my idea was like, OK, well, I'll, I'll shore up defenses like right around the main Kingdom Hall, kind of like build up stuff there and like clear out forests like on both sides so I can get my Archers out to start, start getting that money economy going baby.
+23:59
+And then using that gold to expand out towards the ship, whichever side it's on, building up some defenses near there and start the shipbuilding process while on the non ship side of the map, building up like a big a big like defensive back end to it, making sure I don't get attacked from that side.
+24:19
+And I felt like the times where I'm like, OK, let's try this economic strategy felt like it took a long time to set up.
+And I was either like, like soft locking myself economy wise and couldn't really figure out like, well, how am I supposed to get more money to do this?
+24:37
+Or like, where the hell are all my people?
+And why is everyone running so slow when there's goblins chasing them?
+Like how how is that strategy?
+Like what?
+What would be better than that?
+There has to be like, it's obviously bad, but why is it bad?
+Yeah, well, in the first, the first night there is exactly 1 greed that comes from each side.
+24:56
+On the second night, there are two grades that come from each side.
+These are, this is a pattern that you can you can see pretty it's on multiple restarts pretty clearly.
+And what that means is that you're essentially invincible.
+Like if you, if you do build anything more than just like a basic wall in the beginning, a basic wall and 1 Archer is, will last you for a while.
+25:15
+And in fact, it will last you for long enough.
+Like you said, it's good to map it all out.
+What I did is I had a notepad open and it just like a text document.
+And I just say, hey, here's my base.
+This is where the boat is.
+And then I go out and say, OK, here's the camp, here's the portal.
+Here's and I just write it all out.
+And then eventually I had it all written out.
+25:31
+I knew which side the dock was on.
+And then basically your economy then is just a matter of cutting all the, you're getting coins as you're going out.
+And so you're depending on which map you're on.
+And so you use that to essentially get peasants as much as possible.
+The camps, like being at the camps and maximizing peasants is absolutely critical for an economy.
+25:51
+Like if you're not getting, if there's two sitting there, that means that they they are, there's idle time.
+If there's one, that means it's still regenerating.
+So as soon as you see two, you know you fucked up.
+Because you want to pause, quick pause.
+Did anyone have any idea that that's what was happening with the spawning of peasants?
+26:10
+Yes, I did not know I.
+I had my.
+Problem with it wasn't like figuring out how often they spawned, it was that it took almost the entire day to run to the peasant farm that's on the other side of the portal.
+And then then I I, I I give a gold to the peasants and then they run for an entire day.
+26:30
+They get eaten by the ghouls and so I have to they're gold stolen or whatever so they have to run again to re give them gold.
+So, Colin.
+What lesson did you learn as a result of that, if any?
+That I probably should have restarted earlier so I got a better map.
+26:47
+Well, I.
+Learned that I.
+Should time my my my trips down to the corner store to pick up new peasants.
+I should time those right after an attack wave has happened.
+But even then I had no concept of like, when will another attack happen?
+27:03
+I don't know.
+I had.
+I had.
+So attacks always.
+So on the moon, it gets to the the middle, that's the midnight that is exactly when they arrive at your gate, no matter where it is.
+They actually spawn at their spawners and their times which they run in and they hit your fence or your wall at exactly midnight on both sides.
+27:21
+Well.
+So the actual part of the RNG part of the rogue like elements of this game is the actual location of these enemy spawn points and the location of these different resources and and everything that we're discussing is random.
+I had no idea that it was midnight is when they hit.
+27:36
+I thought at first, well, surely they only attack at night.
+Surely they only start spawning at night in like classic, I don't know, last spell slash, just sort of general fantasy stuff.
+Very interesting.
+Well, that's good to know.
+Except to of course, the retaliation wave, but that's a different.
+27:51
+You guys can kill portals, so that's a different I.
+Killed a couple portals.
+For the record, I killed two whole portals.
+I didn't even know you could kill the portals.
+No, you're goofing.
+You know how I found out you can kill portals?
+Is that?
+Well first of all I was like huh?
+28:07
+I wonder why my flag has a four coin thing now.
+I wonder what it does.
+It better find out.
+And then all of my Archers and my things left the wall and were immediately slaughtered.
+So you learned not to send them out right before night and be intercepted.
+28:24
+You learned that you have to send them out right after the wave is.
+Done.
+That is learning the absolute hard way.
+You've just spent two hours on that run.
+You.
+Guys are not spending two hours on a run.
+I don't understand how that's possible because like, you should be off the island in 2025 minutes.
+Well I have 6.4 hours in this game and I have done five runs, so I am averaging at least an hour per run I'm pretty sure.
+28:49
+Hey, how many minutes per day is it?
+4 minutes per day that you guys haven't timed that out.
+It's three in the three day, three in the morning hours 1 and see, that's the one you want to time.
+It doesn't matter.
+It doesn't matter exactly, I just need it for the calculation.
+Time that instead of the horse.
+So I spent I spent 100 minutes in my run last night to lose.
+29:09
+Skill issue.
+So that's pretty rough.
+So that felt very, very bad.
+I felt like I was behind the curve for most of the time and it should have put me out of my misery.
+I should have lost.
+Like, that would have been a better outcome.
+29:25
+As if like, like I, I, I felt like I was disincentivized from taking risks because at this point I was like, well, I've already come so far.
+I'm going to be really frustrated if I lose.
+And so like, all right, if I expand my walls out, does that mean the bunnies don't spawn anymore?
+29:42
+I'm not sure.
+I'm willing to find out right now, 'cause I have like a marginally sustainable economy and like, like it felt it felt hard to like experiment without the risk of like losing.
+And that's fine.
+29:59
+I I mean maybe I should have just experimented faster and lost faster that maybe that's the the the key to having fun in the game.
+And I think the the crucial like hampering part of that is like you when you restart it like that set up phase to get back to like, I don't know, day 5 or 7 or 10 or something on a like restarted run just takes what like what we just said, what like 5 minutes, 5 minutes per day, Like day 7 is like 30 minutes per day, OK.
+30:27
+So you're able to get off an island in six days will.
+Well, if you're will and it's not 6 days because six days is 12 minutes.
+You just said it was 4 minutes per day.
+Oh.
+Sorry, I thought you said yeah.
+So I, I, I.
+Mean so if your your 25 minutes run is 6 or 7 days, so that's 25 or 24 or 28 minutes.
+30:48
+On the 1st island you can definitely do it.
+OK so I just played that first island again and it took me 10 1/2 days to get off.
+Am I supposed to you know?
+Sure, sure sure.
+But like I'm not as good.
+I'm still learning the game.
+I like optimize everything in order to have a good start on the second island.
+31:06
+I'm supposed to play for between 25 and 40 minutes just to basically start the the the next more interesting island.
+To get against.
+The first island did not seem very difficult to me.
+It felt like it was mostly just running back and forth.
+31:22
+You should be able to start on any island with no added bonuses and when.
+If you know what you're doing.
+You can, and that's what I ultimately did, but it's miserable.
+It's much harder.
+And it means that there's very little room to, like, make mistakes like, oh, I tried this out and it maybe wasn't perfectly optimal in the exact situation where I was like, oh, the lesson I learned was getting Knights is bad.
+31:48
+I remember.
+So should I not like, like, oh, the second I got a knight, it ate my resources and I died.
+Is that a lesson I should have learned?
+It just sounds like I'm talking to a bunch of people here that have no curiosity whatsoever.
+It's just like, oh.
+I got hurt and I will never, I'll never look at that ever again.
+32:06
+Well, we're so curious.
+We wanted to know more about these rabbits.
+We want to know how they live, where they live.
+We want to be pals.
+We want to go over to their house.
+We want to drink some tea with them.
+We wanted to, you know, we were invested, but more mostly, you know just we could get to that goal that they were providing used.
+32:23
+To know like if from this perspective, like where?
+Like, well, it's just a, it's, you know, it's an abstraction, right, of wealth, like, which I appreciate in this game, there's not a bajillion different resources that I got to keep track of.
+It's not like Against the Storm, where it's like, all right, how much jerky equals a clay brick?
+32:41
+You know, like all that crap.
+It's just like, it's gold.
+Everything's gold.
+It's just wealth.
+Everything drops wealth.
+Everything costs wealth.
+I appreciate that.
+Will what was your biggest come from behind victory in this game?
+Or were you always so ahead that it never mattered?
+32:56
+No, I had times where like the retribution wave was getting over my fence and like each like the Knights, they will run back as you as they start breaching a wall.
+And so they were running back and running back and my boat was like, you know, lurching towards the finish and I'm just sitting there like, Oh my God.
+33:16
+And like, and then they were at like basically they, they overwhelmed all my defenses.
+I'm running back and they're chasing right behind me and I'm getting there with just enough gold to get onto the ship.
+And that's that's kind of like the closest sort of call that you can have that sounds.
+Pretty good I.
+33:31
+Got to say pretty good, pretty good.
+Blow up your Town Center.
+No, they just run past it.
+OK, what?
+They run past the walls on the other side and what's funny is that all your Archers and shit are oriented to shoot the other way.
+And so it's like they can't actually like your catapult can't shoot backwards and like it's a on your ballistas later that you'll get those they can't shoot backwards.
+33:53
+So it's.
+Came out surely, surely we all assume.
+Surely even you will assume.
+Though I better not let anybody get to my Town Center because that is it is.
+It is.
+Yeah, sure you want.
+It is written and it happens that they get through and you just keep playing and you're like, and actually, if at a time where they went through, they cleared all my middle everything out except for my very literally my last wall where my Knights on the other end of the map killed the the, and then I went, wait, I sprinted back and I was able to set up a wall just right on the other side of 1, reinforce it and then rebuild and get out of there.
+34:25
+And so like there's all kinds of opportunity for you to like, because it all it costs 4 coins to set up a, a, a Tier 4 or the highest quality wall to rebuild it.
+And so it's like getting restarted again.
+Isn't that hard as long as you have the ability to do that?
+I'm just I'm I'm learning new mechanics like every couple of minutes.
+34:44
+This is great.
+Yes, that that sounds all very epic and good and and there definitely were good moments in my playthrough.
+Famously, I said at the end of island one in our discord, I said, hey, this game's pretty fun and unfortunately I had less of a fun time with island 2.
+35:01
+But but real quick, I just, I don't know if this is much of A point to be made, but like it's been, it's been written in stone in in game rules in RTS history, like it's been written, not just in in blood that if the enemy gets to your base, it's game over.
+35:19
+And I don't know.
+I just got smacked that this game the base is you.
+You are the base this game is.
+Very much a great point.
+That's a great point.
+If they get you, you are dead no matter what.
+Like I had I I learned that pretty quick.
+Like early on it was like, huh, Like I wonder what happens if they don't.
+35:38
+I don't have any money and they and they still go, oh God, they got my gold, they got my crown.
+My horse is too too fat and too slow.
+Indeed, the way the health system works is that you're if you're.
+Your health is gold.
+Your health is gold.
+Everything's gold.
+Then night.
+Health is gold, apparently.
+35:55
+Yeah, that's which is.
+That's kind of a fun mechanic.
+I feel like we're getting very much bogged down in like the minutiae of every nitty gritty little mechanic.
+But the overall theme just for me is that there is a lot happening in this game, a lot of interesting stuff.
+36:12
+And I'm I don't want the game to necessarily hold my hand, but there's just constantly at every turn, I was being just ambushed by things I didn't understand.
+And at that doesn't feel great.
+36:29
+The tutorial was so promising and then it just dispenses with it.
+Just it just thinks that, you know, the basically the game is too subtle in my opinion for its own good.
+For I.
+Feel like if it were just me, Scott and Andrew, we'd be having a very different conversation.
+We'd probably be a lot more positive about the game.
+36:47
+Like there are a lot of the things in this game that I like.
+It's mostly the reason that we're having this this type of discussion is because Will loved it and we're all like, huh, there must be something here that I'm missing because I only liked it and didn't love it.
+I got nearly every.
+37:03
+I think I left the last two because they were trivial and I was like, yeah, I already had.
+Once you have the the to take Scott's analogy, like, you know, reference to StarCraft.
+Once you know the build order, then you can just reproduce a winning game every single time without issue.
+And so learning that build order is what this game is like learning.
+37:22
+And so that's and and later, of course there are other unlocks to keep you like, you know, keep it fresh.
+There are you know, these these, these are the the hermits that you're getting.
+There's the the mounts that you're getting because you guys all have the really shitty starter horse, but eventually.
+No, I had the white.
+Horse, yeah, the White Horse is the one that runs a lot longer.
+37:37
+There's a bear so you can actually like go out and kill like deer and bunnies.
+And like, that is how you jump start in a economy.
+You suddenly you feel incredible after you get the bear and then you get the Unicorn.
+You're like, holy shit, every 15 seconds I shit out three coins.
+And then you can just you realize that you can start, you can, you can really accelerate the pace at which you're able to get set up, especially if you start on a new island with three nights and with, you know, 12/14/16 Archers and, and, and a bunch of builders and you're just like, wow.
+38:05
+And I can just like poop out money too.
+And suddenly your base is like fully built up in a really short period of time.
+This is how you're able to get off the islands quickly and just kind of like hop through them really, really fast.
+But it is true that it is.
+The first one's kind of a drag when you're getting set up, but it's one where if you learn to build order, you're still able to get out quick.
+38:23
+So do you have to go in order?
+No, it's the only rule is that you can't do the same island twice in a row.
+OK, so if you were trying to beat Island 6.
+I never did that, by the way, that that is a that was still.
+Skull Island.
+Yeah, that was an achievement, so.
+38:40
+It's a skull island.
+Yeah, there is Skull Island.
+So Island 6 is very, very difficult.
+Yeah, it's like, it's like the bonus one that it's, it's a OK.
+It's kind of like it's a challenge island, essentially.
+Island the the last of the normal islands, so island 5 I guess.
+38:56
+If you were going to try and beat island 5 right now, what would your would it be Do island one, then island 2 then island 5 or?
+I would I would do island 2 and then I go to 5 OK, cuz 2 is the ones you can get in and out the fastest and you're able to get a new mount.
+39:11
+But if I if I didn't get a Unicorn and I really wanted to have like a really, you know, clean playthrough and I didn't have the hermit as a as as the.
+As a backpack.
+Yeah, as a backpack, it's actually then I would just I do 2 and then I3 and then four until I got the right setup of the gear and then I go there and that is my that's actually my critical complaint is that if I if I really want to have a Unicorn and the the ballista, whatever hermit, then I have to like just keep going to them and like, oh, I found a bear on this one, but it's not the one I wanted.
+39:41
+They were like, oh, it's just like the fast Horus.
+And it's just like now I got to do a whole another island because.
+Could you do?
+Could you do 2, then 3, then two, then 3, then two, then five?
+Like can you go back and forth between?
+I think you can and I don't.
+I don't.
+Recall.
+I mean, I just.
+Remember the rule is you can't do the same 1 twice, so I imagine.
+39:59
+Well, I mean, the one of the big things this game does have going for it is that it is.
+Very, very aesthetically pleasing.
+So that I feel like that is the only thing that would that like, like I found a lot of it to be just a bit tedious.
+40:17
+But every once in a while you're just like, the seasons are changing and now it's fall and oh, that's very pretty and like all the reflections and like, watching the trees slowly fade away as you've cut them and like, stuff up here in the background is great.
+40:34
+The aesthetics of this game are great.
+This game does feel very cozy.
+Also on the Steam Deck, where you're just kind of like lazily sitting on the couch.
+You're like, not really, you know, you're like half a bowl in already, as I'm told, and you're just, you're going back.
+A bowl of cereal.
+40:50
+Yeah, just say what Scott's saying this, I don't that.
+Doesn't make any sense.
+And, you know, it's it's like a very like Zen kind of experience.
+Like, OK, I'm just going to go over here.
+Then I'm going to go over here, drop a coin here, kind of a deal.
+And, you know, you just have your, your feet up on the couch, cat in your lap, kind of a kind of kind of a scenario.
+41:10
+And like, yeah, like it's an enjoyable way to kind of, you know, look at stuff and pass some time.
+I like I feel bad that I never got into like like the economic like light bulb moment that and and like this, this broader like meta game progression strategy that like, I don't know, like just like the systems just like felt frictiony to me in a way that was like, well, if I have to restart this, then I got to like I got to build more SU VS and then I can't boy.
+41:45
+I don't have to build too many SU VS because then like I won't have enough money to go and do this thing and then I'm going to run out of my my my minerals.
+And you require more minerals in order to build up your defenses and you need more minerals to to build more guys.
+42:02
+And like, like I, I, I do appreciate the depth that there is here.
+I just need like a tiny bit more of hand holding of like of like, you know how I'm like in in in Noita, like another game that famously has like basically no instruction to it, which is like bafflingly complicated.
+42:25
+But like every so often like stop, like text will pop up on the screen of like it feels humid in here or something like that.
+Marry a thing like that in my experience at least to be found here to kind of guide my hand of like like if if like every five days or like on the when the when the moon was rising red.
+42:44
+I had no clue what that meant.
+Like I figured.
+It was obviously a blood moon.
+Yeah, like.
+But obviously a blood moon, and that means more.
+Bad.
+It's bad.
+I mean, have you not played Morrowind, Blood Moon or Seven Days to Die?
+Or not.
+Or what a terrible night to have a curse.
+43:02
+Castlevania 2.
+Yeah, blood Blood moon is bad.
+More zombies come.
+I'm trying to beat it.
+I.
+Believe it.
+But if there was like text on there saying like the blood moon has risen, you know, the, the, the, the greed grows stronger or something like that, I'd be like, OK.
+43:20
+Yeah, or you could just Blood Moon.
+Honestly, I was looking right past the color.
+I was just like, oh, cool, There's like some, some neat.
+There's different lighting effects.
+Neat.
+There are.
+Like there are more lighting effects.
+Look, hey, yeah, here's some example stuff.
+The the blood move in the pain here all right for example.
+43:36
+The moon looks really good though.
+You guys are all holes in your eyes and like not and not and your ears and you're like complaining that all you see is darkness.
+That's what I hear right now because the game gives you several signals that it's a blood moon.
+Like the sound changes every time there's a spooky ambiance.
+There's obviously the red.
+43:53
+It happens every five to six days.
+So if you're on the 5th day and it doesn't happen, you know it's going to happen on the 6th day.
+And it's just that.
+And that's find this out.
+Well, you map it out, you take some notes, you use your.
+Brain, take some note.
+Use my brain.
+How dare you?
+So OK.
+Suggest that I do that or a notepad for those loop so.
+44:10
+Here's here's what I this game feels like an idol game or a cozy game, but it is not.
+It is a game.
+It is a chess puzzle game in disguise.
+It like I think that's what like the first probably 3-4 hours I played this game.
+44:30
+I did not try to figure it out that hard because it was like oh I'm just running back and forth and I'm doing stuff on the first island.
+It's pretty easy if you don't need to like think that hard.
+I was reading the wiki and on the first island the blood moon is easier than normal moons.
+44:49
+So I did not learn the lesson that you need to be more on guard on when the moon turns red and then suddenly like Second Island, it's not a cozy game anymore.
+You have to actually have like paid attention to stuff.
+And my cozy running simulator went away.
+45:06
+And went away and wait.
+And to be to be clear, you know, I'm not hey, I'm not asking for the game to pause and to go into a cinematic or one of the villagers says, my Lord, the blood moon is on the rise.
+Why?
+I reckon the monsters will, they'll have a fury in them like we've never seen before.
+45:23
+Like just hey, the blood moon's here, like blood moon, some text or hey, you've got a new building, new building.
+Hey, these nights, they're probably going to want to be paid right?
+Like just like in the tutorial, there's a little bit of text.
+45:39
+It's very, it's very, it's just a teeny little bit.
+And I'm just asking for.
+I'm asking for some crumbs is all.
+The first time I upgraded my my main town hall, like center building to the point where I was like, OK, like, yeah, this is this is my main building.
+45:56
+Clearly I need to upgrade this for some reason, but I don't know what yet.
+But I'll just keep upgrading it.
+And then there was this pompous feathered hat fellow walking around, strutting his stuff around.
+And I'm just like, what on earth is this guy doing here?
+Like this was almost immediately after I had cut down the trees by the trader camp also.
+46:16
+So I didn't make the connection that this was a separate entity.
+I thought this was just like an upgraded trader and I was like OK like there's no coin prompt above him so like does he just wander around and just like give me money but like I never the until Will had told me that I have to proactively drop money down on the ground in front of him for.
+46:37
+Him to pick star trader.
+Yeah, like, I had no clue.
+I thought he was just some like some fat dude rolling around town that was just like, am I supposed to protect this guy?
+Is he important for some reason?
+Is this like the, I don't know, like the the corrupt mayor of the town that like is just like eating all the food when no one's looking?
+46:58
+Like I had no what, no concept or context for what this little dude was there for until Will was like, you should drop a coin next to him, drop a coin next to him.
+And then like he comes back a couple days later with some more coins.
+I'm like, OK, got it.
+But he's an investment engine.
+47:13
+But there was nothing to tell me that like there was any reason for me to interact with them whatsoever because I'm running around and I'm like frantically trying to keep my walls in shape.
+I'm like trying to like build up my, my builders supplies so I can build the walls and repair the walls.
+47:30
+But they're always like running too slow.
+And it feels like I'm spinning a lot of plates to stop and try to like, puzzle out what this extra little super subtle thing is that turns out to be like, maybe not a crucial game mechanic, but like an interesting one that I wish I knew what it did before.
+47:49
+Scott, easy fix.
+First time you spawn in, that guy just says the banker has arrived.
+Done, done and done.
+I know who he is.
+I have some general idea of what he does.
+I know his name.
+I know he's not, you know, he's not one of the monsters.
+48:07
+He's not the robber from Settlers of Catan.
+And I know that, hey, he probably wants some money.
+The first time I freed one of the dogs, I ran past that dog probably a dozen times because I thought I need to get my workers out here to free that, to help that poor dog that has a tree that fell on it.
+48:26
+Oh, no, you got to throw a coin at them.
+It's like, all right, Well, I probably should have known that because, you know, that's how you interact with the banker.
+That's how you interact with the trader.
+That's how you interact with the dirt people that you want to.
+Well, I mean, and you also interact with things by way of your people, to be clear, your workers.
+48:45
+Can anyone explain to me, you know, actually this is boring me just saying, like, how's this?
+How's this?
+The dog barks in the direction of the blood moon.
+The blood moon only has the horde from one side.
+It's like twice as big as usual and so if you are paying attention the dog will start barking that way.
+So if you're in the middle of your Kingdom, you'll know which side to run to.
+49:01
+Did you figure that out on your own or did you read that in the?
+Wiki.
+That's one from the wiki.
+Because tell you what, that was not something that was super obvious to me.
+Yeah.
+Well, that could sum up my play.
+Most of the mechanics so.
+So is this game, Is this game interesting to observe, or is it interesting to just go read the wiki and then understand how it works?
+49:21
+You have a need, you realize what is this thing doing?
+You try and figure it out.
+You fail, perhaps.
+And then that curiosity is supposed to motivate you to go and read about like.
+See, that's not at all how the curiosity.
+It feels like I have taken apart the Rubik's Cube and put it back together in the right spot.
+49:42
+I am cheating when I look at the wiki.
+Does that make you?
+It doesn't make you an automatically a winner though.
+I mean it's still a hard game.
+Like even if you know all the rules, you still have to execute.
+It makes me not want to play the game though, because it's like, well, I have, I'm not.
+You've spoiled the surprise.
+49:58
+Well, I've spoiled the surprise.
+And like, I mean, a better, a better game for this would be like blueprints be like if you just go read what the puzzle solutions are in blueprints, like you've, you're not playing the game.
+And I feel like this game is trying to understand it without just from context.
+50:17
+Clues.
+Now this game is trying to discover what the right build order is.
+Understanding the mechanics of a specific element like the dog is not how to create the build order you need to win.
+Yeah, but it most of the signals of this game are you should be able to figure it out from context clues.
+50:35
+There's no The fact that there's no text and there's no wiki makes me the game is suggestion to me that I shouldn't have to have them.
+One of the one of the Titans of the rogue genre, the Binding of Isaac.
+Maybe one of the the most popular of the genre itself.
+50:55
+Very famous for its, its very Spartan descriptions of things like you pick up like a, a, a cat's head and it's like you picked up Guppy's head and like, it doesn't tell you at all what what Guppy's head does.
+51:13
+But you at least have like, maybe some kind of semblance of like, OK, well, Guppy was like the cat and like it now, like this thing that I'm doing is like slightly different.
+Oh, OK.
+I can kind of figure out like what this item that I picked up does pretty quickly.
+51:31
+But in this game, like I again like upgrading the central thing and I unlocked the the farmer role to recruit or like little farmer building.
+Oh, I can go and like get farmers.
+And I had absolutely no idea how farming in this game worked.
+51:48
+Where like there's there's like the little the little trickling streams where I thought like, are those are those like the same things as like the barricades And like build it up one level and it like doesn't do anything.
+Like, OK, well, it's not an idle game.
+So I have to like do something.
+52:03
+There's something more here to put coins into.
+Run my geriatric horse two days back across the other side of the map.
+All right, back here again.
+Let's dump some more coins in.
+Bloop, bloop, bloop, bloop.
+It upgrades to the second level.
+OK, finally my slow builder runs over there and upgrades it.
+It's finally like this water wheel spinning thing.
+52:21
+OK, now what?
+It took me an embarrassingly long amount of time that I and again, like I know that like, you know, if any Kingdom fans are still listening at this point and I have not just one starred the the program on Spotify and closed it immediately, they'll they'll realize that like, oh, like, well, clearly you had to recruit a farmer.
+52:42
+If after building the farm and it's so obvious, like how, how could you not have known this?
+But from my perspective of like intentionally trying not to spoil myself with the wiki and and have that open on my phone while playing on the Steam Deck or something, like it felt like bafflingly obtuse to me where it was like, all right, this water wheel thing is spinning, what is it supposed to be doing?
+53:04
+It's interesting to me that you're, you're saying, oh, you're, you know, you, you put money into that.
+Oh, you saw that it grew and that you did all this stuff to, to make that infrastructure grow.
+But there was the dude sitting there in front of the scythe sign and he's got a little coin thing above his head.
+Did you ever think to put a coin in or like coins into him to see if what happens when someone grabs A scythe and like, oh, they turn into a like that's seeing that and units turn into a farmer was something that I think most people do before actually discovering that what the farm mechanic is.
+53:33
+Well, I didn't know that like the little like water wheel spinning thing was just for like entertainment purposes and that someone actually had to go out there and like, like reap the whirlwind and get the coins out of the field.
+Because like, I'm just sitting there and like I, I was sitting there with the horse next to the spinning water wheel.
+53:50
+I'm like, where is my fucking coin?
+Like give me my money.
+And it just, it wasn't doing anything.
+So like, and then I go back and I'm like, OK, like the scythe guy.
+But like, again, because I'm trying to like balance and I, I can appreciate the, the level of strategy, strategic decision making here.
+54:11
+I just, it feels like weird that I'm bouncing off of it cuz it feels like I would be so into this from like a StarCraft perspective.
+Like, oh, you got to balance your, your economy and you got to balance your defenses and you got to balance your attack.
+You got to balance your slow ass shipbuilding to escape this wretched island.
+54:27
+All interesting game mechanics, but it for whatever reason, like it's like if you're building a building in StarCraft and it like it just sits there and like doesn't do anything until like some other unit runs up and does the thing for it.
+And you're just like, well, I had no idea that this was going to like build siege tanks until an SUV that I had no control over walked up and started actioning on it.
+54:50
+Well, that's why they're using very intuitive, sort of like dynamic, like they're using a scythe as a symbol for a farmer.
+Sure, but I mean, could one, could one argue, I mean, that a water wheel is sort of a somewhat universal symbol for, yeah, farming, I guess, but like, energy is there.
+55:08
+No, it's a mill.
+Everyone knows it's a mill.
+It's grinds going on.
+It's obviously I mean.
+I to be clear like I figured out how to do farms relatively quickly but like I mean it starts as a stream.
+Is that a stream I need to Ford?
+Is that a stream I need to, you know, build, build a wall on the top of or over?
+55:29
+No, I guess I need to.
+I mean it.
+Needs to be, I feel like I figured that out pretty quickly of what?
+Sure, sure.
+But you, you, you put 3 gold into it and then there's like a pile of hay there and you're like, well, maybe I should make it so that the farmer, that the scythe man goes to the hay thing and maybe something will happen.
+55:45
+And then it doesn't for a while and he just kind of hangs out there and you're like, I guess nothing is going on.
+But eventually he does give you money.
+Sure, sure, sure.
+Again, not everyone is going to be flummoxed by this one specific building, but there are so many flummoxed pitfalls in this game.
+56:02
+I feel like I too went in with sort of the challenge of not so much, like I'm going to not read the wiki at all.
+But for me it was more about like the challenge.
+Like I'm not going to read any of Will's leap strats that he's posting in with spoiler tags in the discord.
+I want to try to crack this code and, and, and overcome this challenge myself.
+56:22
+And well, obviously I failed to do that in most occasions.
+This game I thought was brand new and then I learned it was 2000, A 2010 game, is that right, 2010?
+And 16 This one is from 2016.
+56:37
+Sorry, sorry, sorry.
+So 2016 and I was really confused for initially, but then I started to play it and I'm like, Oh yeah, this this is an indie game.
+Like it feels like it makes sense that it's based on off of a previous like flash game because it feels like a little artsy, a little fartsy.
+56:59
+It feels like, you know, oh, they're not using text like really intentionally.
+Like that's a, they're like, we want the localization and translation budget to be almost 0 because there are hardly any words in this game.
+This is an intentional choice.
+57:16
+And I would be curious.
+This doesn't always matter, but we're talking about it so much.
+I would be curious about the game designer's intentions, whether they designed this game thinking, well, surely people are going to reference wikis, or surely people are going to talk to each other, or if they designed it from the ground up with all of these context clues, expecting people to pick up on them slowly but surely.
+57:45
+They probably mix them both depending on what kind of player you are.
+Maybe hey.
+Well, I guess.
+Like what's?
+That like maybe like piggybacking off of your question, like I think there really was appetite for this game at the time because scrolling through notes Kingdom new lands by 2019 have been downloaded over like 1.5 million times and then by 2020 like by 3.5 million times.
+58:17
+So like there was clearly a huge audience, very impressive for this game.
+I don't know if it was entirely like catapulted off of the flash game project, but like, yeah, like I can I can totally see that.
+Like maybe if like the devs intentions weren't necessarily like, yeah, I'm going to build this like souls like level of inscrutability that like you're going to have to just butt your head up against constantly in order to figure out, Oh yes, this is how this art like totally arbitrary system works.
+58:47
+It like this is something that has really resonated with a lot of people, just not like three of them on this particular podcast for whatever reason.
+The worst part is it has resonated with me.
+Like I feel like I'm, I'm supposed to like this game.
+59:03
+Like even as I'm playing it and not having fun, I'm like, this game has all the things that I say that I want and I feel like I should be having fun.
+And I am unsure if like, like I was playing a run one minute before we started this podcast and like, OK, I'm doing a lot better than that.
+59:22
+Like I might have fun if if I go back to playing it after we're done recording, I might have a grand old time.
+Now that you know how all the systems work and everything.
+Yeah, a little bit like now that I finally figured some of this stuff out, like it might be just like, oh, I just did, I just didn't understand the Bunny mechanic.
+59:39
+And like, now that I understand how the economy works, like I get it.
+And it is just like a 2D linear StarCraft tower defence game.
+And like that is my jam.
+And like I, I, I often say that I don't care about aesthetics until they get to a certain point and this, but this game has, it's obviously gotten to that certain point where like every once in a while you stop and you're like, this is beautiful.
+1:00:00
+I am actually kind of surprised that it came out of a flash game.
+Like and and I just look the flash game has the reflection.
+That's a fucking good flash man.
+Yeah, that's, that's good.
+That's good stuff.
+What?
+And what a glorious reflection it is.
+1:00:16
+Because of course in, in the foreground the entire time we're playing the game is a, a body of water.
+And so you're, you're seeing everything reflected back up.
+And what a cutesy fun aesthetic it is.
+It's it's, yeah, very enjoyable to, to look at.
+1:00:33
+And like when in the first island, when I was like in the late game of the first island and I was like in the flow state of going out, recruiting dirt people, coming back, making sure that my walls are, you know, looking OK, upgrading them, possibly going and collecting money, going over and and, you know, tapping my hand, going all right, Hey, you, you hunters with the bows.
+1:00:55
+Where's my money?
+Where's my cash?
+All right, come on, hand it over like that was it felt pretty good.
+It felt pretty fun.
+It's it's there's there is a lot to like.
+And if I just gone in with the wiki open, I think I would have enjoyed my time with a.
+1:01:13
+Lot more of it.
+And yeah, so.
+Yes, you know what this game needs?
+It needs Deckard Cane.
+It needs an old man in your village that you can give a coin and he'll tell you tool tips.
+Yeah, right, right.
+1:01:29
+Sure.
+And you have to spend resources on it to.
+Get Yeah, honestly, I think that would make this game better.
+Be like flip, flip a coin to Deckard Cane.
+Stay awhile.
+Listen to me tell how rabbits work.
+Yeah, yeah, let me tell you about how those rabbits.
+1:01:45
+Probably be a little bit more esoteric like I, I mean like I can see.
+Oh, sure.
+I really like the the way it is just to as a as a point of I think this is I think it's beautifully done.
+And I think that this is one of those games where when you think about the ERC chart, which is, you know, obviously expand, reduce, raise and cancel, what you want is a game that effectively applies that to an existing sort of framework.
+1:02:13
+And so in this game they chose to as ease eliminate.
+I think, I don't know, I'm mixing it all up, but you want to eliminate the complexity of all of these different interfaces.
+There's only three buttons, right?
+And like, I think that they did a really good job with that.
+Yeah, I, I mean, it's awesome to see how much they can do with you're, you're literally playing a 1D line game.
+1:02:32
+And so and so.
+With three inputs, yeah.
+And doing that with the.
+Admiral and doing that with like the tutorial tutorial about the information, I think that is a wise decision for this type of game.
+But in order to accommodate the, I'll go ahead and say the lesser audience, I mean the the the audience that needs to be spoon fed.
+1:02:50
+Smoother, smoother audience.
+There, there may.
+Be like the like a little toggle, which is I'm an idiot and you toggle that on and then suddenly you'll get like little hints about like, hey, the, the the sound just changed.
+Should I be paying attention to anything?
+And then like just a little hints, you know, a text like, hey, is it all coming from both sides or just one side?
+1:03:09
+Interesting.
+It looks like, you know, just just pay attention to like this sort of a thing instead of like telling you exactly how it works 'cause I mean, this game is discovery.
+A lot of it, it's discovery and of not just the build order, but the mechanics.
+And so I think that that for me is fun.
+Maybe you guys just don't like discovery.
+That's what I'm hearing.
+1:03:24
+Maybe.
+You read the wiki.
+Yes, you you get.
+He discovered the wiki.
+You have a.
+Curiosity and you have that curiosity solved and you like you can either do that slow way, which I did for many mechanics, understanding things about the the gait of the horse and like the how the health works with the coins.
+1:03:42
+These are all things that you understand naturally through, you know, testing it out.
+But some things are a little bit more esoteric and then you try and figure it out.
+You can't, and then you solve.
+That and then you give a coin to Deckard Cain and then you quench it by looking at how it works.
+Like I feel like if you have to resort to looking at the wiki, the game has failed in some way.
+1:04:00
+Well, I think that's a terrible belief.
+Well, I mean, I, I did a lot of wiki opening for Binding of Isaac and Enter the Gungeon and basically every single Souls game I've ever played more or less just out of like, yeah, like I'll, I'll like, but my head up against this thing like two or three times and then I'll give up and, and use the wiki for it.
+1:04:20
+I think the, the problem here is that the, the restart loop cycle is so long that like, and again, like, I don't know, maybe, maybe I'll boot this up and then like 2 weeks from maybe it just needed more time to bake and, or like bake for me.
+And like 2 weeks from now I'll be playing this like, Oh my God, this is exactly as good as Will was saying it where I got all my build orders down.
+1:04:40
+I'm like cannon rushing all these noob goblins and like building up a carrier fleet and I can't, I can't be stopped.
+I just can't be stopped.
+And I'll be listening back to this reporting like six weeks from now and just being like, what on earth was I thinking at that time?
+But right now, for me in this very moment, it feels like a very slow loop of learning.
+1:05:01
+And oh, so I guess like maybe maybe also related to that, Will, you've played Kingdom 2 Crowns, the sequel to this game, right?
+Kingdom come.
+Two crowns, yeah.
+No Kingdom come is.
+Deliver me from 2 crowns.
+1:05:16
+They're all.
+They all have kings right now I'm playing. 2 Kings, 2 Crowns.
+That's the king.
+Is watching this game is difficult?
+I was trying to look up how to learn.
+I was trying to learn the the I'm like, you know, if I get like, tell me everything about the horse's Sprint system and like the first things that come up are like Kingdom come deliverance, like, of course.
+1:05:34
+Anyway, sorry, go ahead.
+So you've played you've played Two Crowns, which is the sequel.
+Yeah.
+Was there a follow up question?
+Yeah, well, so I guess like Kingdom 2 Crowns, I think the the conceit there is that it's supposed to be like a Co-op multiplayer experience.
+Is that right?
+Or there's 2 Kings, 2 crowns, King for a crown.
+1:05:52
+I can't recall to be honest.
+Crown for a king I didn't play.
+Through that game and I, I beat that one too, I believe.
+Well.
+I'd like that was like many, many years ago.
+Though underhanded tee up question to this was like this game feels like in in reference to earlier like oh this would be this game would be so much better if it was faster.
+1:06:09
+Like if you just had like a second person on the other side of the map managing the other side where I didn't have to run my fucking slow ass horse all the way across the map.
+Like it would feel, it would feel like a more I don't know, like I would have more agency of like, OK, I'm going to like manage over here and then all right, Colin, you manage the defenses over there.
+1:06:31
+I'm getting like the giant, the giant stone catapult, like ready to annihilate this this goblin spawner over here.
+Oh, you need some more research.
+OK, I'll, I'll come back over there and drop some coins for stuff.
+It feels like maybe Kingdom 2 Crowns is that thing that I, that I want it, want this game to be.
+1:06:48
+Did you ever make a portal, just out of curiosity?
+Did you?
+Are you aware of teleportation?
+Yeah, teleportation is a huge, huge thing in this game.
+If you could have not teleported, then that's the.
+Guy talking about.
+That's on you.
+What, what?
+What is?
+What is?
+What kind of gobbledygook are you spewing?
+1:07:05
+After you beat a portal, after you beat a portal, you'll notice there's like these weird coin symbols, like little holes where you might put coins and you hold it down, it builds a portal and then you portal and you could build it, the exit portal.
+And then suddenly you can go from the middle way out to the edge.
+And it's just like it's, it's very important.
+1:07:21
+It's very important.
+Well, it's a good thing I threw.
+I tossed a coin to my Deckard and and he was able to tell me that.
+Well, that's the.
+One where you just experiment, where you see the five coins, you're like, what does this do?
+And then it's.
+I didn't have 5, spawned more goblin and then I forgot to go back.
+1:07:39
+Wow.
+Well, and then I died.
+You guys are just something else I guess.
+Just I I don't know what to say here.
+I mean, just like you, you.
+Got a slight amount of difficulty.
+Well.
+Well, admit it, I'm, I'm TikTok brained, you know, I, I get stuck in my, you know, real for you page, just watching, you know, short attention span, teeny tiny little videos, you know, and I, I went and saw Eddington.
+1:08:05
+It was actually, it wasn't a struggle.
+I was entertained the whole time, but it's a long movie, 2 1/2 hours long.
+And I, I, I'm aware that, you know, I don't have the attention span, but I mean, I, I feel like I really made a lot of I, I, I made the space for this game and I went into it with the mindset of all right, let me pay attention and and learn.
+1:08:28
+And it didn't, it didn't work out.
+And I think it's just a little too.
+Just a little too.
+Subtle.
+Well, I want you to go play Crusader Kings too, because this is the feeling you you talking about you wanting me to, to play and understand this game is every time I feel like when I tried to convince you to play Europeaner Salas or Crusader kings, like the, the like, it just takes too much work to to get to understand the systems.
+1:09:01
+Except for that one.
+We'll suck you up like 100 hours.
+Well, when I get to when I when that's next in the queue, but that's just not next to my queue.
+That's a rogue like game, right?
+Sure.
+Yeah, it's it's Mike Rogue in the sense that it's a video game.
+So close enough.
+Correct.
+1:09:18
+So I I guess like, all right, we've we've talked a lot about this game.
+We've, we've talked about a lot about the journey of going from island to island, which I'll, I'll stop to note that I, I thought it was very funny after beating one of the islands that like effectively the story that I get from this game is that like the rich get richer and then they flee whatever kind of cataclysm approaches and then go to their next island.
+1:09:42
+Natives there too.
+Right, yeah, which I thought was like very subtly funny, but at at the end.
+So will you you're the only one of us that's gotten to said fifth island the the last one of the main island chain, I guess.
+Is there any pay off of beating that island?
+Like what what happens when you beat that one in sail off in the sunset?
+1:09:59
+Is it just like, all right, you, you, you have done.
+Congrats, victory screen.
+Yeah, something like that.
+I think it's just like, yeah, the ship instead of like just stopping at the end of like the little area just like keep going.
+And that was kind of the end of it, if I recall correctly.
+1:10:14
+But then that unlocks the the six island at the same time.
+So you could technically continue on from that point to the six island where, yeah, that's, that's that's where the difficulty really, really ramps up.
+And that's where the the the hidden commentary about Neo feudalism and the 1% running the world and also all of our cataclysmic world events really comes to a foray for this game's plot after Skull Island, right?
+1:10:44
+Well, at Skull Island you start to wonder things like, well, if I have this, the the the hermit that gives you the bakery, which makes it so you don't have to run out and actually capture the peasants.
+The peasants will actually run to the middle of your town and you wonder like, well, that seems like really good.
+You get a very high population and the high population is great.
+1:11:01
+But then you start to balance that with, well, the ballistas actually shoot the the big mean guys and the big mean guys are fucking me up.
+And so the 7th one really challenges like the fine tuning of your build so that you can really be like, Oh, actually, I know this, this hermit with this mount is like the best possible thing you can do.
+1:11:19
+And this is how you deploy it in order to get as far as you can, because prior to that, it's like you can, it's a lot.
+It's a lot looser.
+Like you can, you can use any hermit you want.
+You can kind of like, you know, it's it, there's not any real difficulty once you kind of get them the basic build order, right.
+1:11:35
+But that six islands really makes you do everything right.
+That's just a bunch of me blathering on about an island that you guys will never go through, so it doesn't really matter.
+I'll get there by the end of today.
+Yeah, yeah.
+Well, and hey, we but you know, of course, we commend your, your tactical know how your strategic, your master of your, your, your mastery of strategy.
+1:11:57
+Of course, I am the very model of a modern Major General.
+I have information vegetable, animal and mineral.
+So so again, coming back to the islands.
+More more text than in the entire game.
+What you just said will.
+Talk to me about the unlockables 'cause I feel like there's an element that I'm missing about.
+1:12:14
+Like there are things to unlock which I'm, I'm, I'm guessing like this is what the signposts are for.
+Or like the other like interactable things on the map, they unlock the thing.
+But is that like, so OK, you've beaten your first island.
+Congrats, you come to the second island with the statue of building and you can now increase the durability of all the walls as the wiki is telling me.
+1:12:38
+But there's also the the barking dog and superior horses.
+Like are those are those permanent unlocks for future runs or do they just like only show up for that specific island?
+They're permanent unlocks and they can appear on any island.
+1:12:53
+And so once you have it, basically the RNG determines the exact layout of the island.
+And so if you have the archery statue unlocked and like all the other ones, it'll just randomly pick, you know, one to two essentially.
+I think there's, there's an amount per island, but the portals also follow a similar sort of structure where it's like, yes, on the first island there's only A1 portal on one side, the second island there's one portal on 1/2 on the other.
+1:13:14
+And then so it's like it's very procedural, but elements that you are unlockable are put into that.
+It's whole landscape with the portals.
+Thank you, Deckard there.
+You go.
+You're welcome.
+Well, that's, that's interesting.
+1:13:31
+There's music there.
+Let's be known.
+Oh, there's music.
+Yeah, Yeah.
+I think the music in this game is really.
+Good.
+Oh yeah, we've.
+Talked a lot about like the, the pixel art, but yeah, I think like when we were doing our, our music fest episode previously, I was like, OK, I'll, I'll end that episode with like one of the tracks from the Kingdom, the Kingdom New Lands soundtrack.
+1:13:52
+I was like, OK, I'll pick this one.
+This one seems pretty good.
+And then I was letting the soundtrack play and like, oh, no, this one's much better.
+And then it after that one, I'm like, oh, but this one's really good too.
+I was having like a lot of really hard decision fatigue of which one to pick.
+It's it's has like this very good, almost like melancholic tone to it, which feels like it fits the theme of like you're running away from these disasters that will follow you no matter where you go kind of aspect.
+1:14:22
+Yeah, I thought it was really well done.
+I wouldn't know.
+I muted it so I could watch Star Trek on the side too.
+I mean, admittedly I was playing this a lot again on the Steam Deck while watching Tour de France and like listening to the audio of that instead.
+But like, again, for for this like trying to figure out what what music to play this episode out with.
+1:14:42
+I was like, OK, I'll definitely go with this one that I didn't pick last time.
+And then going cycling through the soundtrack, like, yeah, but this one's really good too.
+And yeah, it was a hard decision to land on just one.
+But yeah, I think the the soundtrack done by who is it?
+1:14:59
+Amos, Amos Roddy.
+Not even really that hard of a name to pronounce.
+Who's done music for other games, such as Some Distant Memory?
+Andrew, I think you've played a little bit of the FPS game Strafe.
+1:15:15
+He did the music to that.
+I think he's contributed.
+I think he's contributed somewhat to the soundtrack to Minecraft, but more.
+Importantly, that does make sense.
+It's it has that same like a little bit atmospheric vibe.
+But more importantly, a better game than Minecraft.
+1:15:31
+He's done the soundtrack to Ball X pit the the the breakout style rogue light advancing waves game that is is.
+I played the demo 2 a little bit and like this is very silly, but he did the the soundtrack to that too so well.
+1:15:50
+Well, a good resume I would say.
+Very impressive.
+What the heck?
+Yeah, well, hey, Will, you've been back, you know, after, after having been on sabbatical or or what have you, your grand return.
+1:16:08
+You can.
+You can choose would you like to go first or would you like to go last?
+Or you can go in whatever order you want.
+I'm going to go with Scott's philosophy and because I know what my rating is and it's the highest, I'm going to go last.
+Maybe, maybe I'll kick us off.
+1:16:27
+We'll we'll alternate, I'll kick us off Kingdom new lands for for the podcast.
+Overall is lands at our new number number 50th game, a nice good 50th number overall of the 76 games that we play.
+1:16:46
+And on my personal rankings it lands with a a 6.9 just behind Daiso Mancer just ahead of Lone Star.
+I feel like this game is like an enigma to me where it has a lot of things that I should like about like its economy and strategic decision making.
+1:17:03
+I think like the strategy in this game is very interesting.
+Maybe I just needed more time to gel with it and like spoil myself with all the stuff on the wiki.
+I feel like I don't know.
+I bounce back and forth between liking the idea of the limitation of not having unit micro and then me screaming at my steam deck of like please for the love of God just chop down that damn tree.
+1:17:26
+So many times I feel like the game is like frustratingly slow, but at the same time like I'm just panicking of not having enough time to do stuff.
+And I don't know if that's just cuz like my strategy is bad and I should feel bad and all that kind of stuff.
+1:17:43
+And yeah, I feel like there's there's just maybe a a little bit more learnings that I have to do related to it.
+The goods for this game, I think the visuals and the sound design in this game I think are excellent.
+I think it this game is really good with how it balances its simplicity and depth of strategy.
+1:18:02
+It's definitely deceptively difficult after the first island.
+And yeah, I think the the idea of playing this Co-op with a second person feels interesting.
+I would be interested to explore that, maybe at a later date, Andrew.
+1:18:20
+Hey everybody, so I was, I was saying earlier about, oh golly, I couldn't figure out this game.
+What's the what?
+I think it's just so inscrutable.
+Well, thousands of players did figure it out, so oops.
+1:18:37
+I guess that makes me maybe look a little bit silly.
+There is a game that I love.
+In fact, it's my number one game, Enter the Dungeon that I often play with the wiki open, and that is not necessary, but it's for a different reason.
+1:18:57
+It's because there are mechanics, there are synergies there interactions going on behind the scenes that I'm not quite comprehending.
+And in order for me to maximize my enjoyment of the game, I want to understand, hey, it says I got a synergy between these two items.
+1:19:13
+What does that actually mean?
+I want to, I want to make sure that I'm, I'm exploring that part of the gameplay and, and having fun.
+And it feels like a fun bonus, like a fun extra.
+Yeah, this information should probably be in the game.
+It should be in the the Gungen Gunopedia or whatever it's called, I don't remember, but it's not and it's on the wiki and that's annoying.
+1:19:35
+But that's different than like the fundamental base mechanics for survival being locked away in a wiki, which I, I think is, is a little bit rough.
+Now, if I played this game, you know, closer to but you know what, Hey, look again, Thousands of people have figured it out.
+1:19:54
+We'll figure it out no problem.
+And again, I, I definitely, I had fun at points.
+I'm going to, I'm going to play this game again.
+I don't know if I'm, I'm going to try to beat the second island on my, I'm in the middle of a run that's going OK and you know, I'm going to try that.
+1:20:11
+I'm going to, I'm going to absolutely finish that particular run, but no guarantees for any of the following runs.
+It's, I don't know, this is a really tough game to review.
+Especially for me because I'm working on a totally different system and the rest of my Co hosts who really just screwed me over by starting with one system and then switching it up in the middle of the of the shows.
+1:20:36
+We've moved to an all emoji rating now.
+So anyway, it's a 2.3.
+It's right ahead of cube chaos because cube chaos wasn't like as infuriating as this game was at times, but but I did find it to be more fun than cube chaos and it's right behind Eldritch, which is it's not a terrible game.
+1:20:57
+Eldritch I think is pretty decent and I I think Kingdom new lands is pretty decent as well.
+Beautiful looking game, beautiful sounding game feels good to pick up coins.
+It's fun to watch your little guys run around.
+And I mean, isn't that it really doesn't lie at the core of an RTS or a village management, a town management game.
+1:21:19
+You just want to see little guys do little fun stuff.
+And you get to see it in this game twice because it's on screen both on the plane of play and in the reflection of the beautiful water in the foreground.
+So yeah, next I'll kick it too, Colin.
+1:21:37
+All right, so it's no sleigh.
+The Spire got to make sure I got to make sure you mentioned at least watch almost.
+That might be where you.
+Read the term, but I had not said it.
+Yeah, well done.
+I'm giving it a 6.5.
+1:21:53
+I feel like honestly my rating is it's somewhere between like 7 like high sevens and low sixes based off of how I was feeling when I started playing.
+Like I, I, I think that there's absolutely a different universe where I just played this and had like a different mood on the day that I started and I managed to like understand one thing slightly differently.
+1:22:20
+And I would love this game, or at least I would have liked it a lot more.
+I am not even necessarily sure.
+Like I'm pretty sure I'm going to go play it again after we're done with this podcast And I might come back next next time and be like, Oh no, this is like an 8.5.
+1:22:37
+There's a lot of uncertainty about this game for me because it has so much of the stuff that I say that I want out of the game.
+Like it's got a lot of the strategy stuff.
+It's got like it's very pretty.
+It's got a good our defense.
+It's a tower defense, it's strategy game.
+1:22:54
+It's it's Indian the way that I like games where it like feels like it's pushing a boundary that I didn't know.
+Like I hadn't really thought like, oh, what if a game was just one D and you just went back and forth?
+What if there's only three buttons?
+Like how complicated, how strategic could you get with three buttons?
+1:23:11
+I think honestly now it like I'm unleashed.
+I'm allowed to look at the wiki as much as I want.
+I've been reading the wiki for like half the time we've been on this podcast.
+I might have a much better time playing it now that I like understand the mechanics more.
+1:23:28
+Which is it?
+It honestly is a complaint about the game.
+I, I, the longer we've done this podcast, the more like hardened my stance of you should be able to play the game without reading wiki has become.
+And that's hard for me because a lot of times I just want to read the wiki.
+1:23:44
+I want to know exactly how it's working instantaneously.
+But I would say that people should play this game.
+It's not that expensive.
+It's very interesting, it's very novel.
+It's got value to it, even if you're not going to like it because it's because it's different and it expands what you think about what games could be so 6.5 but still recommend to play.
+1:24:10
+So take that as you will.
+All right, well, this that leaves us with the the true and best review.
+That's me.
+And I'm going to go ahead and let you know what I said from the beginning.
+You know, what do you tell them what you're going to tell them?
+And then we told you.
+Now I'm going to tell you what I said.
+It's a nine out of 10 masterpiece.
+1:24:27
+This game is unlike any other game I've ever played.
+Like the, the, this is a fresh dynamic that really that novelty part of your brain, which is just like, whoa, this is like, I've never seen a game like this that lights up and then you struggle.
+1:24:43
+You find that, you know, you, it's some challenge, you fail and you're like, oh, how do I avoid that?
+And that motivates you because you want to win to, to go and learn about it, to, to, to take notes, to do all that stuff.
+And I don't know, I guess I had no problem viewing the wiki when I needed to.
+1:25:00
+I think it's something that you use occasionally.
+You shouldn't read the whole the wiki before you start playing the game.
+But I think as a, something, as an aid to, to help you as you're discovering what to do, because it's not about, you know, winning the game isn't memorizing the wiki.
+Winning the game is the execution of what you're learning.
+1:25:17
+And so I'll just say that, yeah, I, I this game is, it's beautiful, it's unique, and it's 9 out of 10.
+This is my 4th best rogue light game and that puts it up there with luck Be a landlord inscription in Hades are that's that's its peers.
+This game is that freaking good.
+1:25:34
+Of course, it's not a slate as fire talent or a rim world or a Bilatro 9.5, but it's still extremely good game and you would be well, unless I guess, I guess I I can't say I can't recommend to everyone because there are three people here who disagree with me, but I don't know.
+1:25:51
+I've always been right in the past.
+And you know, we'll write, we'll continue to be right going into the.
+Future well there's 10,000 people that would agree with you so and and 26,000 people who would who would agree with you for the sequel also.
+So yeah, I definitely think lots to lots to agree with there similar games to Kingdom new lands.
+1:26:16
+I feel like, oh gosh, what was it?
+Another raw fury published game.
+Dome keeper feels very similar to this in the sense of like pseudo pseudo tower defense, like do stuff on one phase of the day, go and do stuff on another phase of the day.
+1:26:34
+Maybe more more on the nose of like similar and maybe more of like something to activate our the rest of our stupid chimp brains.
+Wall world feels very much like like a like a Kingdom new lands in the sense that it's like 1 directional, but there's like other kind of stuff to do.
+1:26:55
+I mean similar similar in that kind of maybe linear.
+Well, I mean you're you're you're going up a line instead of left and right on the line.
+Anyway, drill core, I think has kind of similar similar concepts to those.
+There's some tower, some good tower defense games that are on the the stay tuned list for sure.
+1:27:16
+Although Will, I think you bounced off of Ember Ward.
+That one is pretty highly rated.
+Colin, you've been you've been trying to lobby for Nordhold.
+There's one called Talented.
+Not been trying to lobby for Nordhold.
+OK, there's one called Talented which is like a 0 button game where you were just at the center of the tower and like you are going through this Path of exile style massive spider web of of passives and stuff.
+1:27:41
+There's gnomes, which has come out, which is is relatively recently, which is very somewhat interesting and will I guess, like I I put this in the similar category here, maybe almost in just like tower defense ish terms, not so much of the linearity, but you've been playing a lot of the king is.
+1:27:57
+Watching.
+Oh yeah, that's going to be up there too.
+I'm not going to give it a value yet, but it's a.
+Very good game.
+I'm up till 2:00 AM two nights in a row.
+That's my measure for a good game and this Kingdom Kingdom new but also had me up till 2:00 AM many times.
+And I'll throw this one in here even though like, I don't know, squint your eyes, maybe it's kind of similar.
+1:28:20
+The Gnorp Appalog.
+I think it's kind of the idea of what I had in mind for this game, even though it wasn't.
+And I think that's probably fine.
+But that's more of like a a straight up idle clicker game that is tagged rogue like for some reason, rogue light or whatever for some reason.
+1:28:37
+But anyway, yeah.
+Interesting game.
+I don't think it's rogue like but.
+Yeah, I'm not I'm not quite sure what the failure condition is, but.
+But anyway, yeah, definitely some similar games to check out as we wind down our our whopping 74th episode of this here podcast.
+1:28:57
+You can write in all of your hate mail as to why we're bad at RTS games, or at least three people here for grogpodzone@gmail.com.
+I forget what my.
+Send your fan mail to Will.
+Hold on, hold on Scott.
+I want to retract my not lobbying for North Hold.
+1:29:15
+I was thinking of the game N Guard.
+Which, oh, of course.
+Very.
+I I understandable.
+Yeah, sorry.
+Continue.
+So now I have to I'm like.
+I was like, no I haven't, possibly not, I need to.
+Make sure that I wasn't besmirching a game that I might actually want to play.
+1:29:34
+Forex board, good on you.
+Clarification noted.
+Grogpodzone@gmail.com Mastodon Grogpod I gave Demdov place where a one.
+Timothy J Graham wrote in to us to to say that he's enjoying the show.
+1:29:49
+He says keep up the great work on the show.
+It's definitely a highlight of my fortnight.
+So thank you.
+Thank you Timothy for for sending that.
+In Hey, Timothy, thanks for writing in Appreciate you love that a fellow Fortnite player is, is, is listening.
+1:30:07
+That's great.
+And hey, you know, I once told somebody keep up the good work at a convention and they said no, thank you and shook their head.
+So I'm going to do the opposite.
+I'm going to say yes.
+And what a deal.
+Thank you so much.
+Appreciate it.
+1:30:23
+And finally, Grogpod dot Zone has all of our useless spreadsheets and the dumb numbers that we rank all the games and stuff on.
+But but that's 74 episodes we had to save something big for for episode number 75 here, which happened to be a listener request episode.
+1:30:43
+But we've been getting a lot of requests for this one and it's sequel repeatedly.
+So what better way to kick off 75 episodes of me tricking these other three into doing this podcast for We've gone almost three years now.
+We are playing one of the Titans of the genre just happens to be a platformer.
+1:31:03
+I'm sorry, Will, we are playing the 2011 release of Spelunky.
+That's a.
+That's a bigot.
+And yeah, I'm, I'm very excited for this one.
+1:31:21
+This was a game that kind of like encapsulates that that early era of rogue games for me.
+And yeah, I think it will be a grand old hoot of frustration and and spike traps and and all sorts of nonsense freeze raise and rampant shopkeeps and pugs that give you extra health.
+1:31:43
+So, so stay tuned for that Spelunky coming on up for our next episode.
+But to play us out from this one will be some some meadowy tunes from your new land, your new Kingdom that will play just before the blood moon rises.
+1:32:41
+The.
+1:32:56
+The.
