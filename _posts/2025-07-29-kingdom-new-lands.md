@@ -24,7 +24,7 @@ My kingdom for a horse! This week we play the minimalist, yet deceptively deep t
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/vellum/id1650474911?i=1000715392460) | [Spotify](https://open.spotify.com/episode/3XD6pmAuD2b4k1xpxrmg11) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/kingdom-new-lands/id1650474911?i=1000719752381) | [Spotify](https://open.spotify.com/episode/7t68AoPEgIdam3IOnx9hZA) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
 
 ---
 * 1:20 - game stats
