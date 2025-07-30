@@ -29,6 +29,17 @@ My kingdom for a horse! This week we play the minimalist, yet deceptively deep t
 ---
 * 1:20 - game stats
 * 3:02 - one sentence description
+* 5:17 - Basic gameplay mechanics and controls explanation
+* 8:40 - Game's origins as Flash project for horse animations
+* 11:25 - Tutorial experience and early game confusion
+* 17:27 - Death mechanics and learning curve discussion
+* 24:56 - Attack patterns and timing strategies
+* 29:25 - Frustration with long run times and restarts
+* 36:29 - Wiki usage debate and game inscrutability
+* 44:10 - Blood moon mechanics and visual/audio cues
+* 54:27 - Farming mechanics and builder management confusion
+* 59:03 - Game's difficulty scaling and strategic depth
+* 1:07:48 - Portal mechanics and teleportation discovery
 * 1:15:20 - rankings and final thoughts
 * 1:25:03 - similar games
   
