@@ -1,0 +1,1827 @@
+0:10
+Greetings friends, and welcome to a big 75th episode of the Grog Pod Roguelike Podcast, where each episode we repel into a roguelike game filled with traps and terrors, steal the golden review statue head and escape with treasure in tow to revisit it at the end of the year in our end of season recap deathmatch mode if it scores high enough.
+0:33
+I am your derpy pug host of the podcast Scott Berger, and with me are my fellow spelunker.
+Well, howdy, Kidd, this is Andrew Harshman.
+But this episode you can call me Wisconsin Johnson.
+That's your service.
+And this is Colin.
+0:49
+I'm a skeleton on the floor that sometimes pops up.
+Hello and I'm I'm the resident lunkhead Woody Syskowski.
+That's right, this is a this is a guest star episode.
+We got Woody with us to tell us all that we need to know.
+1:05
+About we had to we had to bring in we had to bring in the heavy plasma cannons for this one for a highly requested listener request week also 75th episode and a listener request week doubling up with if you didn't check the title of the episode before downloading it.
+1:21
+Spelunky released in 2008, Question Mark as a freeware game December 21st, 2008, if you could believe it, but we're playing the remaster version that debuted on the Ask Your Grandparents, the Xbox Live Arcade July 4th, 2012, and then coming to Steam a year later in August 2013, and then PlayStation 2013, and finally a Switch in 2021.
+1:53
+Wait, so you're saying that for 4th of July if I'm not feeling particularly patriotic, I can just celebrate the anniversary of Spelunky?
+Yes, exactly.
+Wonderful.
+It feels like the 4th of July.
+Yep, this was made, developed and published by the I think now it's I think it's easy to say now, Legendary Moss Mouth, which at the time was a whopping 3 people.
+2:17
+The legendary and award-winning at that time as well, did.
+They take did they take away his awards?
+Well, I mean no, but but like Derek you.
+Well, yeah, they took them and they put them in this underground installation.
+2:35
+Got it.
+Sort of a temple of sorts.
+But we have a kind of an All Star cast here of, of, well, I mean, if you can call 3 people an All Star cast.
+Derek you who just won the Indie Game Fest grand prize with a game called Scrolling Aquaria the year before Spelunky 2008's release, Andy Hole, who's a programmer friend of of Derek's and Eric Shirk, If I'm pronouncing guarantee I'm pronouncing his name wrong.
+3:03
+But a a legendary chiptune artist all came together to for this Xbox Live release and then Moss Mouth then put out Spelunky 2 in 2020, September 29th, 2020 and most recently a if if you can believe it a stay tuned and 1/2 for this program.
+3:25
+I won't torture it you guys with this coming up next week, but UFO 50 it was worth the wait.
+September 18th, 2024.
+More on that to come at some point, but.
+Yeah, but UFO 50 isn't part of the spelunky Canon, right?
+3:41
+It's just another another high quality Derek you project.
+I don't know if you if you count Campanella 2 as as in that Canon, but anyway.
+Anyway, tune into our UFO 50 episode when we eventually do it.
+Spelunky.
+Your average player of Spelunky has about 33 hours of gameplay in it.
+3:57
+And surprisingly, Spelunky that climbs the the rope of our Steam Popularity Rankings at the 81st most popular roguelike game on Steam with 16,349 total reviews.
+Woody, what is your one sentence journal entry description for what one does in this legendary roguelike platformer?
+4:23
+All right, explore procedurally generated caves.
+Watch out for spikes.
+Yeah, that's.
+And how many exclamation marks do you put on that sentence?
+Yeah, as many as possible.
+4:39
+Yeah, this is a real, this is a real more than the sum of its parts type of game.
+You know, where like it is a composed of essentially the simplest possible premise and one of the best executions.
+4:56
+Like this is a game with very little flash and a lot of substance.
+Yeah, and, and I think that like this game 100%, I agree on that on all fronts.
+It it like there's maybe a trap with roguelike games nowadays actually.
+5:13
+Yeah, some shoot arrows, some Zing.
+Spikes with scope creep where like, oh, like let's build, let's build a game that's like this very systems heavy thing and let's just cram more and more shit into it until it becomes net hack and it's just become this incomprehensible nightmare of like soccer bond levels.
+5:34
+And sure, let's just like have like all these other like things going on.
+I think like in terms of scope and like something that is like scoped to something that's just like, this is the game.
+This is the scope.
+I think Spelunky just slam dunks it on what it is, what it achieves and what it does with.
+5:54
+Like the parts that it has, which isn't, which isn't a whole lot, which we'll probably get into.
+So I'm gonna, I'm gonna throw out like a thesis, an open an opening paragraph.
+You know how teachers they tell you, you like start your opening and then you work forward and then you restate.
+So I hope that by the end of this podcast, we'll revisit this question.
+6:14
+I think that you could make like an argument that Spelunky is one of like the definitive video games, just like period.
+Like if you were to give somebody, like if someone was like, I want to know what video games are, give me 5 video games to play that are representative of everything that video games are and can do.
+6:36
+I think you could cover a lot of ground giving them a copy of Spelunky.
+So, so here's maybe a pivoting question off of that for you, Woody.
+Would you consider Spelunky like maybe, maybe not the, but like one of the top three to five like standard bearers of of all of roguelike games?
+6:54
+Yes, I would except I and I mean I'm sure this is true for a lot of your listeners and you know, like I don't think that my knowledge of roguelike games doesn't date back to, you know, the 80s when like rogue was a game on PC Like this is one of the earliest games that I played that had procedurally generated levels.
+7:20
+I.
+Mean, I think that there's basically like the new generation of right or the new Renaissance start as starts in like 2000, if you will exactly starts in 2000 7:00-ish right I.
+Feel like about the time that original Spelunky came out.
+7:36
+Yeah.
+I mean, I feel like that 2007 to 2012 period had a lot of the foundational games that people built on whether or not they were good, which we might have a strong disagreement on that on this one, but.
+It's that's.
+7:52
+Fine, but I want.
+To disagree that this was absolutely foundational and influential on so many other games.
+I I think it's important to to stage set a little for like what where was the state of Rogue games in like the early 2000s 'cause if we're comparing like 2008 Spelunky and why it was so influential like this is your list of like most influential rogue rogue like games of the time like Rogue.
+8:14
+We're not even talking Rogue lights like that's not even a a twinkle in rogue's eye yet.
+We're talking like the biggest release through tooth like through this decade is like up to 2004 is like maybe Doom the roguelike.
+So like lots of free open open source software stuff like the next year comes out, Pokémon Mystery Dungeon, Red Blue Rescue team to stay tuned and 1/2 which like you could argue that Mystery Dungeon games are maybe their own thing, but I feel like it's close enough to procedural particularly generated stuff and it's sold like, I don't know, 6,000,000 copies or something.
+8:50
+Like you, you really can't ignore that level of legacy.
+But it's a turn based, very slow, very grindy RPG type game.
+That same year you have a fate usually in all caps that comes out, which is like it's like a crappy like like Diablo at home game for kids that like people have strong nostalgia for.
+9:11
+I played the the remastered version of PAX was not impressed.
+The next year, 2006, you have Dungeon Crawl Stone Soup coming out, which potentially a stay tuned. 2006 also marks the the age of the first release of Slaves to our Mock 2 Dwarf Fortress.
+9:30
+Oh sure, also the the first roguelike game ever on Steam that everyone knows called Uplink 2007 has Pokémon mystery dungeons sequel explorers of time slash darkness that comes out and in 2008 Spelunky lands on the scene and it's like oh shit I didn't think that.
+9:49
+Like you could actually take mechanics from these rogue games and put them into something real time on since I don't know what like Toe Jam and Earl 93.
+Like that's how big of a gulf it's like.
+Toe Jam and Earl is not a game that like asks you for precision like that, You know what I mean?
+10:06
+Like it's not a turn based menu based game, but you're essentially walking around a isometric world.
+Like, not without any real combat.
+Right.
+And like this, this kind of, and so like this is 2008.
+It's like blowing up because it's a freeware game.
+10:23
+And between 2008 and Spelunky's PC release, we have Binding of Isaac releasing in 2011, FTL 2012, Rogue Legacy comes out, let's see, June 2013.
+And then Spelunky HD on Steam comes out August 2013.
+10:41
+So technically, I guess like Spelunky HD comes out on Xbox Live Arcade sometime before Rogue Legacy.
+And I actually don't remember if Rogue Legacy came out on Xbox Live Arcade, but Rogue Legacy comes out like, let's let's round it up a year later and I feel like Rogue Legacy has just kind of like eaten spelunky's lunch, maybe.
+11:02
+Well, I, I, I agree in some ways, except I think I think Spelunky was just in a different lunch line.
+I think that Spelunky was in, you know, came out and people are like, oh, this is great, You know, Spelunky HD, you know, really clicked.
+11:20
+It's a great game, but I think that some people like, you know it, it's a game with a lot of friction in the sense that you can you, you can boot up Spelunky and you could be dead within 30 seconds, which is, you know, for people who aren't, that is not a selling point.
+11:38
+They might just be like, you know what, I've played this game for 4 minutes and I've died five times.
+So I'm just not going to play this game and I think.
+Rogue Legacy.
+I bounced off it pretty hard and I was looking and I was like, all right, I have an average runtime of three minutes.
+11:54
+And and so you bounce off it in. 22 deaths in in like an hour and 10 minutes.
+That's good, Spelunky.
+This is like rough.
+No.
+And that sounds right.
+And I think that Rogue Legacy was the game that said, hey, spelunky's doing a lot of super cool stuff in terms of integrating like procedurally generated Rogue mechanics into a retro platformer.
+12:17
+Let's steal that idea and add you know what you know is now rogue light mechanics where you have this.
+Like progression systems?
+Yeah.
+Well, what's what's the term of like advantages that carry over from run to run?
+12:33
+Progression right or or like a like a meta?
+Progression.
+Meta progression.
+Yeah, those are.
+Yeah, right.
+Right.
+And I think that the things that Rogue Legacy did of having this meta progression, other games sort of built on that because they're like, oh, now we can just we don't have to worry about like Hades is a great example of this because like Hades is a great game and it is a very difficult game, as is like Dead Cells.
+13:02
+But because they have these elements of meta progression, they can leave the game as difficult as they want it to be.
+But if you keep playing it, you will beat the game, right?
+Like like Spelunky has none of that.
+There is no natural element to Spelunky that makes a run that you do 10 hours in naturally easier than the run you do when you first boot up the game.
+13:26
+Save for your own muscle memory.
+Well.
+Exactly raw skills.
+And that's part of my argument of why this is one of the definitive video games, because, like, is there any game that has made, like, a better case for you just getting better at the game?
+13:45
+Dark Souls.
+I mean, I feel like this is when I've been thinking about it, it's as like, oh, this is I put it in the same like Venn diagram cluster as the Dark Souls types games where it's just one of the goals of the game is to increase your personal skill level at it and like.
+14:03
+Well, I guess it's all a.
+Measure of progression, and this came out well before well.
+It came out just before Demon Souls.
+Demon Souls came out.
+Well, I'm not sure if it came out in Japan in 2009 or in the US, but around this time.
+14:19
+But it felt like that, that era of gaming.
+And the reason I know that is that I just looked it up because I'm curious like hey when all this was happening what games was I playing?
+Because I wasn't really playing many roguelikes.
+I was playing like Left 4 Dead 2, Uncharted 2, infamous Demon Souls.
+14:37
+Anyway, sorry, I know this is going back a ways.
+When did the actual popular version of this game come out?
+When did everyone 20?
+12/20. 12:00 on.
+Xbox Live Arcade and then this game had a weirdly super like Spelunky HD, which is pretty much I think when you space Pelunky, this is where people's mind would go to was Spelunky HD right?
+14:59
+Like the switch version of Spelunky HD didn't come out until like 2020.
+Like this game has a super timeless quality to it.
+Like if Spelunky 2 didn't.
+Like if there was never a Spelunky game up to this point and then Spelunky HD came out this year.
+15:17
+Like I still think it would totally be its own super cool kind of revolutionary thing.
+Yeah, and I, and I think it it kind of comes with this wave of like hard games are cool again with like, like, like I I've never played it, but Woody, I'm sure you've played.
+15:34
+I want to be the guy.
+Yeah, between that, we're like, like Super Meat Boy and yeah, like Demon Souls, Dark Souls.
+It was like, oh, like you're not cool until like you've beaten Dark Souls.
+A couple of things on that I think that I want to be the guy for example, is it's own kind of other genre because that is a game that is deliberately designed to hit you with cheap deaths as like a joke.
+15:59
+Like Kaizo Mario.
+Yeah, which is not a bad thing, but it's like, hey, we're going to require a level of precision that is sort of beyond what any reasonable player can expect.
+And I don't think that Spelunky goes there.
+16:14
+I'm not convinced that Spelunky isn't that far off at times, but I know what you're saying.
+And the other thing I went.
+From the ground up to do.
+That to chime in on.
+I do think that the Dark Souls comparison is reasonable, but to me the difference maker is I remember getting frustrated in the original Demon Souls and then looking up builds of like, oh, this is this is an effective weapon to use based on its stats.
+16:42
+And then I just built around that weapon and then I cruised through the rest of the game.
+Like Spelunky.
+You can look up what some items do, but you can't really look up.
+How would you be good at it?
+Yeah, to some extent.
+16:58
+And even like enemy patterns are just much more, I don't know, things feel much more bare bones in Spelunky.
+Like there's so many elements of Dark Souls that or, you know, just games in general where I always wonder like, am I getting better at the game or am I simply memorizing the challenges that the game is throwing at me 'cause it's the same every time.
+17:23
+Whereas I feel like in Spelunky you just kind of have to just be getting better at the game.
+Indeed, unlike a traditional platformer like classic Mario or I don't know, Mega Man, let's say Battletoads, sure, you you cannot memorize the level critically because it's randomized.
+17:49
+You can't, you know, figure out, oh, you know, I'm going to do this jump in this way and I'm going to utilize this item and and and, you know, just sort of go through the level by memory until you get to a new part or the part that has, you know, been than challenging you.
+And it is.
+18:09
+I wasn't sure how I felt about that.
+Yeah, that's fair.
+I mean, there can be some procedural bullshit.
+Like I was doing a run where there was an arrow trap that was pointing directly at a store, like a store.
+18:25
+So if I drop down to go to the store, that arrow trap trigger was going to trigger.
+Yeah.
+So I'm like, oh, I'll just drop a rope.
+And so I just dropped the rope down there.
+It shot the arrow into the store, and then the shopkeeper went nuts and just destroyed me because that's what they do.
+18:41
+And I was like, hey, that seems.
+Like it was your fault that he got shot with the arrow.
+So no, it was 100% my fault.
+And that's what I realized.
+Like first I was bitter that like, oh, I can't believe an arrow trap spawned right there.
+They shouldn't let that happen.
+But like I should have known that that was gonna gonna happen.
+18:58
+And then I had a choice, which is just don't go to that shop, Just go around the other way, which is, you know, the kind of choice that you face in a roguelike all the time.
+Like, that's what roguelikes are built on.
+Is this idea of how much do I want to risk in this run or do I just want to bypass it?
+19:17
+So as far as I should have just recognized that as oh, that is just not a shop that I want to go to.
+You could also like blow up the the arrow trap.
+From yeah, that could hide it, or I could have jumped down in front of it and taken, you know, use my body as a shield.
+Get down, Mr. President.
+Yeah, so, so I have a, before we get too far into this episode, sure.
+19:35
+Could one of you guys who has played this game significantly further into completion than I have?
+Yeah, just give me a a rundown of like what are you just a a run through a run for me because I I, I will say I bounced off this game pretty hard.
+19:53
+I never made it past the the mines.
+Yeah.
+Round 2 you bounced off it into an explosion into a spike trap.
+Am I right, folks?
+There's a whole.
+Page on the Spelunky wiki called yet another stupid death that is like, you know, it's like, it's just an endless scroll of people describing all of the different ways they've died in the wacky Looney Tunes.
+20:18
+Before, before we jump.
+You said, Scott, that this game is secretly a pinball game.
+I mean.
+With the ball being your rag, dolling corpse or a Sprite.
+Your your health pool being your strokes.
+I think like before we jump into it, like an example run, I do want to touch real quick on like the intro and tutorial, because I get I think that like this game does really well with like setting the the stage where like you boot up the game the first time.
+20:43
+The graphics I think in this game are are excellent.
+We're like, normally I'm really not a fan of like kind of cartoony looking design like this, But I think the art here is really, really good.
+And it works really well for like the theme of the game being like an Indiana Jones simulator where like you boot up the game and you know, your, your spelunker, your Indiana Jones non copyright infringing character is walking through the desert and come to this big, big cave.
+21:09
+You drop a rope down and there's there's like a big door, but it's locked.
+Oh no.
+And you you're effectively forced to go through the tutorial sequence, which kind of sucks if you have your save lost.
+Yeah, it's crazy this game doesn't have cloud save on PC.
+Yeah, it's, it's kind of wild, but I will say like jumping into this on on my Steam Deck, I was like, I got to go through the tutorial again.
+21:31
+Well, fine, let's do it.
+And I remembered like being pretty well educated and like the, the, the little journal pops up and it's, it's the explorer Yang who has left you this journal with all of his tips of like, oh, this, you know, here's how to survive in the dungeon and everything.
+21:49
+And you go through like basically an example like run of the mines.
+It's very easy and it has all of like these enormous billboards in the background that I think are very cute of like stick figures jumping with the with the buttons and stuff.
+But there's also like very subtle game mechanics sprinkled in there, like with like a row of spikes and a gem behind it.
+22:11
+And you're like, I'm not going to jump on the spikes to get the gym.
+Clearly that's a trap.
+But if you like fall off to the side, you can walk through the spikes to get the gem.
+It's not explicitly spelled out, but if it's one of those things that you just happen to stumble across, you're.
+Just like too, too subtle for some players.
+22:28
+Yeah, I didn't get them.
+And, and critically, this is all being presented of course, in game.
+You're playing it and it is of course, a platformer.
+A side scrolling platformer for anyone who happens to not know what we're talking about.
+Yeah, but it, but it, it teaches you stuff like here's how to use the WIP to open boxes.
+22:43
+Here's how to like plant a bomb down instead of throwing it.
+Here's how to like do running jumps and run over pits at full speed.
+And and then Yang's journal goes on to say, all right, you know, you're on your own adventure.
+Like go out and seek seek the gold.
+And then the the key to the to the entrance of the mines blows open in this Big Blue explosion and you start your first run into the mines.
+23:09
+And yeah.
+So and immediately ends very quickly.
+You start with poor health and everything in this procedurally generated level is out to Myrtle erize you, including gravity.
+23:24
+Especially gravity.
+And I would say like the most telling thing in this game and probably the thing that's, you know, pushes people away immediately is the arrow traps, which are on the first level.
+And they're these like little gargoyle heads.
+And they they're kind of hard to notice at first because they are just blocks in the wall and when you jump in front of them like even a fair distance away, they will shoot this high speed crossbow bolt that just like pierces your character and deals you I think 3 damage.
+23:55
+It's, it's two damage, it's two damage, but 50% of your starting health with one hit and you're just, and, and in theory, if like you bounce off of that and fall down a pit, there goes another health and.
+Then or if he gets shot launched into an enemy.
+Yeah, damage has a tendency to combo in this game for sure.
+24:14
+And what what's the yes, I I think you've you've you've really touched on something important Woody here.
+The arrow traps, which are present all the way up until the the 4th Biome off and on.
+If I'm not mistaken, they do show up in the fourth level.
+24:31
+And then the fourth level you also get magma pits with guys that jump out of the magma.
+Magma pits and and and and mummies and let's let's not forget the the strange blocks that will insta give you all sorts of the.
+24:49
+Chase after you.
+I guess like but, but with regards to the arrow traps, Sorry.
+Let's stick with the arrow traps for a moment.
+They are so the tile that is used.
+This is of course a tile based, you know, platforming game.
+The the tile and the texture that's used for the arrow trap is very similar to another tile which is just a regular stone block.
+25:11
+The difference being, is there sort of like a an artistic rendition of like?
+But that face, that regular stone block, like there's the brown sort of, you know, normal landscape, but then there is the stone blocks that will fall, like the brown blocks will stay in the air and the stone blocks will fall.
+25:29
+So many a time I have gotten the Maddock, a tool that allows you to dig, and I have been digging my way horizontally through and you know, mostly it's harmless and then you dig your way under a stone block and you keep walking forward and that just falls and crushes you.
+One of the few times I laughed when I died in this game was when I got crushed by one of those blocks.
+25:48
+But the point is that these arrow traps.
+I've been playing this game for 24 hours out of the two weeks we've been playing this game.
+I spent an entire day playing it.
+I am still running into these arrow traps because they are well camouflaged and you have talk about cognitive load.
+26:07
+This is in some part a memory game.
+Sure a very difficult and not at all lenient memory, but you need to remember how.
+How does the how does the arrow trap work?
+26:22
+How do these different enemies behave?
+How do the large stone blocks work?
+What is the behavior of but?
+To me is what is interesting about this game, because there are what's interesting.
+It's when you go.
+Very difficult.
+To like a retro aesthetic like there's so many games that are memory get like you know Punch Out is a memory game because you can memorize the patterns here Spelunky it can't be a memorization game because the things are randomized so every you have to stay it's essentially a game that prevents you from resting on your laurels and prevents you from playing lazily you can't have played so many hours of Spelunky that you just like cruise through unconsciously because.
+27:13
+Unless you're a speed runner.
+Well, sure, but even that it's like there are speedrunners of, you know, tons of games who can play those games with their eyes closed.
+Sure.
+And like, that's not a joke.
+Like they literally like there's footage of people just, you know, beating Mike Tyson with their eyes closed.
+27:33
+Blindfolded Dark Souls run.
+Yes, you, you.
+You're never going to find a speedrunner for Spelunky who can beat it with their eyes closed.
+But you can find a speedrunner who can beat it with the Donkey Kong bongo drums.
+Yeah.
+That is what is cool about Spelunky is that it is a game that no, as you keep playing it, you just are forced to stay engaged the whole time.
+27:59
+It has that level of tension.
+Whereas if you want to play games, it's like so many times I will fall back on like a comfort game.
+Like in some ways, like Enter the Gungeon is a comfort game with me.
+Another game that you know, we've been on that I was on because like for the, even though like the locations of treasure chest and stuff are randomized, like the game pretty much feels the same each time you play it.
+28:26
+And like I know how each enemy reacts and things like that.
+And it just feels way more forgiving than Spelunky, which is just, you know, if I don't pay attention for a little bit, I just get annihilated.
+And so quite.
+Yeah, I, I, I'm just, I'm very pro Spelunky, but you certainly have to be in a certain mood for it.
+28:47
+And like to demonstrate that I was playing this game a lot on my Steam Deck to prepare for this.
+And I kept dying like, which is classic.
+Like I, I have beaten this game by going through hell, which is like the alternate path, hard mode path.
+29:02
+That was many years ago.
+And I'm like, Oh yeah, I should be able to get Spelunky no problem.
+And then I was playing on the Steam Deck and I just kept dying in that first those caves.
+And then I played on my PC and I just beat it through the first run.
+And I think that, like, part of that is that when I'm playing on my Steam Deck and I'm laying in bed, like I just don't have that same sort of level of focus that I have sitting on an uncomfortable chair, like looking at my laptop.
+29:32
+Because, and especially because like Spelunky is such a vertically oriented game and like the Steam Deck isn't naturally like a big wide horizontal screen.
+But I just feel like that was demonstrative of like, if you want to play Spelunky, like you just have to pay attention, like you just kind of have to be conscious of what is around you at all times and not sort of get complacent.
+29:59
+And I think that what's I don't know, and obviously it's like difficulty is just a matter of degrees.
+And so it what is comfortable for someone might be off putting for other people.
+And like, I feel like Spelunky is pretty much the right difficulty, but that's not to say there's not.
+30:20
+For for who?
+I mean, for me, but that that's the question of like if you, I mean, what would this game be if you played it and beat it in the first run, Like I mean.
+Completely different game.
+30:36
+Right.
+What do you, Colin and Andrew like?
+What do you guys want from your time starting to play this game?
+Like how many deaths is reasonable?
+Before you say, you know, screw this, I'm going to go play something.
+Else, well, I can tell you because I just looked it up, I have 24 hours in this game, 260 deaths.
+30:57
+Sure, folks, Which I mean was kind of surprising.
+But now that I've sat with that number for a little bit, it's not that surprising.
+I don't think I've reached that critical mass yet.
+I'm I'm willing to keep at this game.
+I I think the furthest I got was I've been to Biome for a fair bit.
+31:17
+I think the furthest I got was like level 2, definitely maybe Level 3 of Biome 4, yeah.
+You're almost there.
+I mean so.
+Thank you I'm.
+Andrew, are you having fun playing it?
+Because it seems a.
+Great question.
+You weren't.
+Liking it very much when we started.
+And so, yeah, you're still 24 hours.
+31:33
+It has been just up and down, up and down.
+A wild roller coaster with this game, let me tell you.
+But I tell you what do do?
+Am I having fun?
+Do Do I like this game?
+Do I hate this game I'm not totally sure but I can tell you someone's opinion who has been officially declared in this quote from my wife quote tell them your wife says she hates spelunky.
+32:00
+Never played it but hates it based on how mad it makes you.
+Now I this is a frustrating game, it could be a frustrating experience.
+It I I'm not going to pretend that this is not a frustrating game.
+32:16
+You would have to be trolling to claim Spelunky is not frustrating.
+In yes, I, I tend to agree.
+So yeah, to be clear, you know, I, I haven't destroyed anything.
+I haven't gone off the handle, but I have been cursing up a storm and I have been saying some not nice things about the game.
+32:43
+Maybe not directly to the designers, but the game itself.
+At times it is felt like this game is out to get me.
+Yeah.
+I mean, it is.
+I that is.
+Thank you.
+It is, that is that is.
+It's good to hear that I'm not the only one who who feels that way at times.
+33:00
+I have another quote from my wife here that I just want to toss in real quick.
+Wow, that is a terrible whip.
+I was describing to her how God awful the starting weapon is in this game.
+33:16
+And now listeners imagine, if you will, the Castlevania whip with all of its weird timing and sort of odd hit registration, but reduce the range to, oh, I don't know, maybe what the, the length of an extended index finger, the the length of, I don't know, a yardstick.
+33:45
+Not even a yardstick.
+It is.
+This is a piss poor starting weapon, and I think it is representative of of a number of piss poor things that this game gives you.
+Piss poor amount of bombs, piss poor amount of ropes, piss poor amount of health, and if any of these knobs were just adjusted just up a little bit, the game would be so much.
+34:09
+Easier.
+I feel like this.
+Is all very intentional design, but like golly in the tutorial, I thought, well, great, I'm just going to be like bombing and and roping my way through these levels.
+It's going to be fun.
+It's going to be awesome.
+Oh no, no, no, absolutely not.
+You got you got to work.
+34:25
+You got to work have ropes.
+You got to work for those items.
+To have like just in the option menu, the ability to just modify, you know, your starting rope, starting bombs, starting health, like would that have given you a better way to explore the mechanics of the game?
+I agree with Andrew that I hate the whip.
+34:42
+I hate how slow it is, yeah, but whip.
+Whip sucks and it feels bad to use it.
+But if the.
+Whip was just a slight bit faster.
+I don't the range.
+I can deal with the range being low, but the number of times in the, you know, two hours that I played this game that I just like, ran into an enemy because I expected the whip to have hit them by the time I got to them is like pretty high.
+35:09
+It's also this game has a lot of flying enemies like the bats.
+Are.
+Pretty tough, and the whip has essentially no upward arc to it, and so it is not.
+Useful Castlevania my.
+My advice to you regarding that is don't use the whip.
+35:26
+Like just.
+It's kind of a last resort thing.
+I.
+Jump for the most.
+You have to get You have to get another weapon though.
+No, you just jump on dudes.
+Right, you got it.
+You got a, you got a Super Mario Brothers.
+Or, crucially.
+Or maybe that's maybe that was the thing that I was missing that.
+35:44
+Yeah, I would definitely recommend jumping on dudes and more.
+Another piece of advice is like you can also ignore dudes.
+Like this game, I think has a nice balance of incentivizing you to explore a little bit, but like the more bogged down you get in exploring, you're you're you still risk triggering more traps.
+36:08
+And so I usually have pretty successful runs just kind of like heading for the exit ASAP and like the levels aren't that big in this game.
+I, I, I want to go back a little bit because Colin very thoughtfully asked a question about the progression of this game.
+36:25
+And then we, of course, yes.
+Good memory.
+So Scott, you know, walked us through the tutorial and from a gameplay perspective, Colin, like what you saw in the first Biome is the game like there is not some kind of like big switch in the second and third Biome where like mechanically they get they give you a mech suit and then you just start blasting missiles and everything it.
+36:49
+Becomes a pokey on RPG and then a card, a card game at the very end and.
+Exactly.
+It's kind of the level feel changes a little bit, like the Second World Biome, which I think is maybe the hardest Biome is a jungle, and there are many more.
+37:06
+Traps we need to talk to about that later.
+Yeah, yeah.
+But do continue.
+Monsters, you know, monsters hanging around like monkeys jump on you and.
+Man eating piranha.
+Plants, man.
+Eating piranhas.
+That has a slightly more horizontal feel, but not much.
+37:23
+And then there's, you know, dudes with boomerangs who Chuck at you.
+All of these game, all of these biomes have like secret levels that you can get to.
+This game has a pretty good amount of, or I think a healthy, well balanced amount of like secret content.
+37:39
+But like the core path through the game is not very long.
+The third level is the Yeti caves, which is probably the most.
+Oh, there goes Colin.
+He he was just like, no more of this.
+I'm sick of you talking about Spelunky.
+Ice caves you mean?
+37:57
+Yeah, well, I mean, Yetis live in the ice caves, Yeti caves.
+About here, the Yeti caves specifically are are like one of the offshoot branches where or I guess like is it that's one of the level feelings right where like you have like actual yetis in like the Yeti king, I guess.
+Yeah, that's the all the ice levels have yetis in them, but there's this thing called level feelings where you're at the start of the level like the most common 1 you get is like I can't see a thing in here.
+38:22
+And then the levels dark, which I also think is kind of BS.
+Boy, oh boy.
+I am not a big fan of that because even if you survive those levels, like they're just not that fun.
+It's not that fun to run around without being able to see anything that's going on.
+So check it out.
+38:37
+The thing with the the dark levels the the the lights out levels is that it gives you a torch and the torch gives you a a view radius that is, I don't know, approximately half the screen, but not the whole screen.
+It's quite limited.
+It is extremely limited.
+38:53
+If you drop the torch then it is like half of that and you're it's basically a death sentence.
+And you only have one item carries.
+Precisely.
+Precisely.
+I had a very promising run happening.
+My final run leading up to this recording.
+39:10
+I started from the very beginning, and I was working my way through.
+I got to the first level of the temple.
+I had a shotgun, I had bombs, I had equipment.
+I was loaded for bear, and the RNG drops me into Temple level 1.
+Hey, it's awfully dark, dark and ear turned out the lights death sentence.
+39:29
+Absolutely.
+I didn't stand a chance anyway.
+Yeah, so there's and I mean that's that is an example.
+I mean the the the the lights being out in the torch mechanics, while challenging, is interesting.
+And this game does a lot of cool stuff with, you know, taking its core mechanics and adding on different modifiers and changes and, and making each run feel unique, which which is is great and sometimes to your detriment.
+40:00
+Well, there's a lot of like interlocking pieces with how how little there is here too compared to like that we're so spoiled for games like Noita or Binding of Isaac.
+That's like now with over 5 million items or something.
+And this game has like, I don't know, 30 question mark, but like the ice caves notably have have like I think like these very well artistically designed, like ice blocks that shocker when you walk on them, like you slide a little bit.
+40:28
+But if you have the spike boots that you can buy from a shopkeep that do more damage when you Mario jump on dudes heads, those will give you grip on the ice blocks to walk around in.
+And maybe it's a thing that we just kind of take for granted in every Rd. game nowadays, but it feels like basically everything in the game has some other way of interacting with all the other elements like that, which feels.
+40:52
+All interacts in a super intuitive way.
+Like this is what I've been thinking.
+Like this is the thing that I enjoy the most about game design.
+And like another game that I've talked about on this podcast is Into the Breach, which I think is a game that really does.
+This too is where games are uniform in their mechanics and everything has this level of intuitiveness.
+41:17
+Like, so like if you think about the game of, I don't know, if you think about football, like American football is an example.
+It's like someone comes up with a sport.
+It's like, okay, what's the idea of this sport?
+Well, you have to get, you know, you have to advance the football from one side of the field to the other and the other team is trying to stop you.
+41:35
+And you say, OK, great.
+That's a simple premise.
+No problem, we'll do that.
+And they're like, wait a second.
+We have to like, try and figure out ways to make this fair.
+And it's like you can't tackle a guy unless he has the ball and you can't.
+But like you have to line up in a certain way cuz it's like there's all these sort of extra things.
+41:53
+And then you have ineligible time field receivers of the offensive line.
+Sometimes you can kick.
+The ball, yeah, sometimes you can kick, but not always.
+And it's.
+Like these, sometimes you can throw it forward, but not always.
+And it's like all of these ideas of you started with this really simple premise, but you have to keep adding junk to try and make it a fair and exciting game.
+42:16
+And like what I love about Spelunky is they're like, you go into a cave and there's things you can buy and there's treasure you can get and like, that's it.
+Like this game doesn't feel like it has elements to it that exists solely to balance the game.
+42:33
+Soccer's too elegant.
+This is like the rugby of games where like you're just being pummeled constantly, like you're falling down on the ground.
+There's all sorts of arms and things grabbing in places.
+Rugby's got a ton of rules like this.
+Like this to me is just like.
+42:49
+All right, this is like a back alley.
+It's St.
+Rugby.
+Yeah, Underground rugby.
+Everything here seems to work in such an intuitive way, like the shopkeeper is selling stuff.
+You can, you know, steal from the shopkeeper, but that is going to tick him off.
+43:07
+All right, we got to talk about the shopkeeper somewhere.
+Check it out.
+This is the most vindictive Yeah, shopkeep ever.
+And enter the Gungeon.
+You know, even like from a character's name perspective, these dudes look similar.
+They've got facial hair, they're a little portly, they get a little bit angry if you start shooting up the place or if you start acting a fool.
+43:28
+This shopkeep goes ballistic and if any damage is dealt to him by any source in the level, he is aggroed to you and forever more.
+Yeah.
+Well he tells all his he tells all his shopkeep friends.
+So even if he tells all of.
+43:44
+His clones, all of the T1000 clones, and he's got a shotgun and he absolutely will not stop.
+Until you are dead, and then.
+Or he falls on a spike trap and you pick up his stuff.
+All of the clones will then hang out at the exit for the next 5 or so levels.
+44:05
+It's.
+It's pretty wild.
+I mean, it's a real risk reward versus situation every so.
+Obvious reward is right.
+I never defeated the the shopkeep.
+Yeah.
+If you do, you have if you if you have defeated him, yeah.
+In his multiple iterations, you just get the shop.
+44:21
+Do they?
+The shops still generate index levels, Yeah.
+Yeah, except that he's just get their stuff.
+He wants to kill you.
+Yeah, but there's infinite shopkeeps.
+Like Andrew said, they're clones so the shops will generate in the next level, but as soon as you get next to it, that shopkeeper will just aggro you immediately because you killed his original.
+44:39
+And when we were talking about a pinball game before, this is like like Sonic spinball levels of like sickening, bouncing all around the level at like comically turbo speed.
+They have they have wall hacks, they have aim bots, They have 10HP where I was thinking like they have 10 HP.
+45:00
+But like, again, they are, they're perfectly susceptible to the same things you are, including spike traps, web traps, bombs like freeze rays, telefragging even.
+There is yeah, like, despite how like, wildly overpowered they are.
+45:20
+It should be noted that this is this is another another point for Spelunky as a true roguelike because the creatures and that the enemies, the NPCS in the game operate more or less with the same rules as as the player character.
+Yeah.
+Yeah, and like, notably, there is a way to deagra then that's basically impossible for like to exit the level without being seen by one.
+45:43
+I mean, good luck.
+Like Metal Gear Solid.
+Style, But yeah, except they they hang out at the exit, so like that is.
+Really, really hard.
+And again, if there was like an item, I don't know, like in it like one of the Egyptian artifact items that we'll get to in a minute, like if there was one of those that like you could activate to go invisible for two seconds like that, that could be a way to like play with that system a little.
+46:01
+But I think it's probably fine because like.
+Oh, it's fine.
+It's just, it's, it's very interesting.
+It's something that I've not seen in a game before, like a shopkeep, a network of shopkeeps that are so vindictive and enter the Gungeon.
+46:17
+He just closes the shop.
+He says, well, fine, you can't buy stuff.
+He doesn't go medieval on your.
+Ass for for the rest of the game.
+For the rest of the yeah, for all, for all time, unless you do that one specific thing you mentioned.
+That's interesting, Scott.
+As as like deadly as like the the the Anubis God or or something just about but and.
+46:39
+And check it out if you if you like blow something up in a level or you set off like a big giant boulder trap which could potentially aggro the shopkeep.
+It is the worst feeling in the world.
+Activate one of those and then hear the aggro music for the shopkeep, which all the music's great, but oh man, that is that is not a good you're.
+47:04
+Going to be hearing that music a lot.
+Quite possibly, Quite possibly.
+Yeah, I, I guess in some ways, like it's it's kind of odd that my general advice for this game is like try not to engage with all.
+Like if you want to get far, like don't overly engage with those systems.
+47:21
+Like if you see a shopkeep and he's selling like a one item you want, go ahead and buy it.
+If you see the thing that triggers a giant boulder and it's right by the exit, go ahead and take it and get out of there.
+But like if it is not then just ignore it because it's going to trigger a bunch of bad things that happen.
+47:39
+And.
+Go ahead.
+Sorry.
+No, I was just, I mean, I just think that like at its core, this game just has like an incredible sort of cleanness to it.
+Like just this sense of like everything that is in this game is in there for a reason and like makes the game more fun.
+48:00
+There is not there is not something that like comes up and I'm like, oh, I can't believe that.
+Like an item I guess.
+Specifically an item, except.
+The crush traps.
+Yeah, well, so there's plenty of traps and stuff that do not make the game more fun.
+But it.
+48:17
+Yeah, like Andrew said, there's there's a real feeling of like intentional design.
+There's there's not a feeling of like, oh crap, we have to come up with 100 more items for this game.
+Everyone get to the drawing board and just like, think of stuff.
+Yeah.
+It's like what fits into this system.
+48:34
+And to me, like, that comes back to my original premise of like, Spelunky is a definitive video game because it is just sort of platforming at its most basic.
+Like even Super Mario Brothers, it's like, you can go into this pipe, but you can't go into these pipes.
+48:52
+And it's like, well, why can I go into that pipe?
+It's like, I don't know, you just can.
+Like Spelunky hardly has any of that kind of stuff.
+Yeah.
+So continuing with our our standard run, you know, you, you go through the mines, you go through the jungle, you go through the caves, you get to the temple, the final level and you're jumping over.
+49:12
+A evil Obsidian Egyptian death temple of sorts.
+I mean, it's it's.
+Insofar as it's filled with death traps.
+Yeah, it's got your standard ancient Egyptian things like mummies, Mummies that.
+Threw bees at you.
+Bees, croc, croc men, magma men, and Anubis of course, of course.
+49:34
+Who has a projectile that is very slow but it goes through walls.
+I believe it follows you around.
+Definitely follows you and it.
+Deals 5 damage, which is almost assuredly an instant kill.
+49:49
+Yep, it's very unreasonable my.
+If you have if you have sticky bombs, If you have a pitchers Mitt, you can sit all the way on the other side of the screen, maybe even off screen and just huck sticky bombs at Anubis from almost off screen and just Nukem and.
+50:06
+To be clicky sticky.
+Bombs are very clutch to get a good run and this game is luckily fairly generous with the big spider enemy.
+And like usually I'm very anti big spider enemies in games because ick.
+But like this this big spider like he sit as long as you don't run under him, you don't trigger his aggro and he sits right above 2 spider webs that will catch your bombs.
+50:28
+So you just Chuck a bomb in there and it blows him up and then you can get his sticky webbing, which is super sweet.
+And so to Andrews point, I think that there there are like elements that feel like in in a in a silo feel like wildly overpowered and imbalanced, but but I think the game is expecting you, the player to become wildly overpowered and imbalanced to balance out that aspect.
+50:51
+And isn't that like the heart of a?
+Like that's that's like FTL.
+Right.
+Yeah, that's that's like.
+This ship at the end of FTL is unbelievably overpowered, but like the hope is by that time you have accrued so much kit that you can take it on.
+And like that is what I like.
+51:08
+I mean, there's something I really like about Spelunky is it combines this idea like the joy of accruing loot that and like feeling very powerful in a rogue like with a sort of just like bare bones, you feel like you're good at video games type of vibe.
+51:29
+But yeah, your your, your standard run continues through the temple.
+You beat Anubis, maybe, Or you smartly run past.
+What what's funny is if you kill Anubis, Speaking of things, playing by the same rules, you can pick up a staff and then you're like, awesome, I can shoot like psychic beams at enemies and it follows them, except it goes super slow and you shoot one out in front of you and then you just run forward and you run into it and it kills you.
+51:50
+Like even your own, the own gun that you shoot will still kill you.
+So it is very much a worthless weapon, even though it is cool that is there.
+Does Anubis chase you?
+Very slowly.
+OK.
+It's it's easy enough to run away from his little purple circle attacks that like.
+52:06
+I guess the better question is you can't make Anubis run into his own bullet though, right?
+No, you can't.
+No, that would be.
+Cool RIP.
+What if you like circle back around him and the.
+Bullet, it does not.
+It does not affect him.
+And I think you've brought up.
+A good point and.
+Like, you know, yeah, you can run this.
+Game.
+You you can run past him, you can blow him up, you can get you can try to go around him.
+52:25
+But I mean, sometimes you've you've gotten this far in the run and maybe you're running low on resources and it's like things start compounding.
+It's like, well, Anubis in isolation, manageable Anubis in a room full of traps, Anubis in a room with some other enemies.
+52:42
+But.
+Isn't, isn't that just like, I mean, you guys have a roguelike podcast, you've done 75 episodes of it.
+Like, isn't the idea of like running low on stuff and like RNG dealing you dumb bullshit?
+Like isn't that like, what do you guys?
+52:58
+Know that's where that's where the drama comes in.
+You're right.
+You're absolutely.
+Right.
+And I'm hard.
+To say, like, Anubis is unfair per SE, just just, I'm just trying to highlight like, yo, by the time you get to the end of this game, you are feeling the heat.
+Yeah.
+You thought everything was trying to kill you.
+53:13
+In the minds, it ain't nothing.
+That's kids play.
+Welcome to the temple of your demise.
+Yeah.
+What happens after the temple?
+The temple is very much like when I get to the temple, I am just like I'm booking it for the exit.
+I don't care what else is around here, like I'm just getting out of here and the temple's the last World.
+53:30
+So world 4/4.
+Well, OK, the temple is the last World in a standard run, right?
+You can go through this intricate series of like getting a special item in the minds and then finding the secret black market and buying a really expensive item and then doing a special interaction in the ice caves.
+53:47
+And then you go to like the lost city of gold and then you go to hell.
+And then you beat the real secret boss and like it's a ton of effort and like I did it once and it was really cool, but like I need to do it again.
+But you get you get to the last boss in the temple.
+54:02
+And this last boss is actually probably the thing I have the most problem with in Spelunky.
+He is Olmec and he is a big head.
+Have you ever seen the episode of The Simpsons blood feud where Bart donates blood to Mr. Burns and then Mr. Burns finally rewards him with a big like a big Mayan head?
+54:27
+I was thinking either that or or Olmec from legends of the hidden temple.
+Oh, there.
+There we go.
+Yeah.
+But he's a yeah, he's like a big like.
+I don't know, like stone head.
+Yeah, he's a big stone head.
+Well, gold head, I guess.
+OK.
+54:42
+And and you walk into Olmec's layer and he's being worshipped by these Cavemen.
+And then he he goes bananas, like all giant gold heads do, and starts like crushing them.
+And then like, he just starts moving around this arena, crushing the arena and destroying it.
+And crucially, below this arena is a lava pit.
+55:00
+Yeah.
+So you're, you're running out of space to so you know, and none of your bombs aren't gonna do anything.
+Well, your bombs.
+Your bombs don't hurt Olmec, but you can use them to blow out the ground under.
+Yeah, so.
+It's sort of a Super Mario Brothers 3 Bowser fights type situation.
+55:20
+Yes.
+And I forget if like if there's any indication where or yeah, so, so, so there's a a standard exit to this level, which is just on the other side of the of the level, same, same side that you came in on kind of, or the same elevation, I guess Olmec like digs his own grave, literally falls into the lava and you're like, oh, Hooray.
+55:40
+The exits open.
+You come in and you're Ray, you know, you get all the gold and then you you leave the, the, the temple or no it's.
+You loot all the valuable artifacts and you take them across the world to be put on display in an act of terror and colonialism likes of which no one has ever seen in such a cute Sprite.
+56:01
+And then to give you a cute thumbs up at the end.
+No.
+And that that's right.
+And that's that is the full game.
+That is the that is a complete run of Spelunky and a run of Spelunky is pretty fast like.
+They're not completed by three minutes.
+56:17
+Yeah, 2030 minutes should be fine, which I appreciate being as there is so much stuff that can kind of punt your run.
+And so like the level of frustration that would be a part of it if you had a 40 minute run and then died to some random spike trap.
+56:35
+Yeah, I I'm not crazy about Olmec because all he does is he kind of has this upper arc to the left and then when you get under him, he crashes down or he has this upper arc to the right where if you're under him to the right, he crashes down and so.
+Presumably killing you in one hit.
+56:51
+Yes.
+Oh yeah, that's the thing that's funny is you can rescue maidens and or pugs and or sexy Chippendale dancers depending on your settings, yes.
+Yes, there are three damsel types in this game.
+And they when you bring them, when you bring them to the exit, they give you a kiss, which refills your health.
+57:10
+One refills your health, gives you, gives you one health.
+Yeah, you're right.
+It gives you one health.
+No, no, you said it great.
+I just want to be clear like one health and that is almost your only opportunity to to heal.
+But then what is funny is by the time you get really to, like, the Second World, the vast majority of stuff just kills you in one hit because there's spikes or the Yeti caves, you're just going to fall down the pit or the temple.
+57:37
+Yeah, there's just tons of stuff.
+But like, Olmec is this weird sort of balance of being simultaneously boring and kind of feeling bad because, like, I think he's hard.
+There's a lot of ways to mess up Olmec, like because if you run out of bombs you can get dig yourself a pit and be stuck and just get crushed.
+58:00
+And it's very unlike any other of the mini bosses that you encounter, right?
+It's not like a giant spider, it's not a beehive, it's not Anubis.
+It's not a shopkeep Terminator.
+Right.
+No, it is.
+It is just it would be funny if there was a shopkeep on this level.
+58:16
+That actually would be kind of cool.
+Yeah.
+So many of the bosses in this game, it's basically like the best way to beat them is get jetpack, get shotgun, and just like go to town.
+Whereas none of those weapons work on Olmec, which I think is smart.
+Except pretty much every time you die on Olmec, it feels bad.
+58:35
+Like, not because dying in this game doesn't always feel bad, but you just naturally feel dumb because he has like the most obvious pattern in the world and you're just like, well, I just screwed up and like, you'd never beat him and feel cool.
+You know what I mean?
+You can never do like some sweet play that like brought, you know, like dodge something awesome or I I don't know.
+58:57
+He just, it feels kind of anticlimactic and like, I know this game has another route that is a lot, you know, even more intense.
+But I don't know I I don't know.
+This is a scenario where I don't have a better idea so.
+That was gonna be my question.
+59:13
+Yeah.
+I feel like I was so worried that, well, as it turns out, this was a this was a silly worry of mine.
+I'm like, oh, I'm so concerned that I'm gonna, I'm gonna beat this game.
+Yeah, joke's on me.
+And the ending is going to be anti climactic.
+59:28
+I was imagining just going through the final door and it being like, congratulations, you're in the treasure room.
+The end.
+I mean, that kind of is the ending.
+Well, I mean, there is the boss, there is Olmec the boss, which can really be actually quite climactic the first time because you it's very stressful because you have gotten this far and you're like, oh, I have made it to Olmec.
+59:49
+I don't want to mess up and just get crushed.
+Randomly I don't want to get domed by this giant Dome right?
+So.
+So are you suggesting it would be better if this was a better designed boss?
+Yes, I I, I am a proponent of there being some last boss or something like that.
+1:00:06
+I just would like some boss that you felt like had because the boss.
+Doesn't feel good to win, yeah.
+That's not great and he also basically is the same every time you fight it because like no matter what equipment you have like most of it isn't going to be that relevant except for the jetpack which is always relevant.
+1:00:23
+Yeah.
+And I feel like it's, it's so different from how you play the rest of the game that it sort of feels out of place.
+But it almost in a way, it kind of feels like a relief of like the temple.
+It's like the entire stage of the temple feels like the final boss fight where like you have, you have the, the arrow traps from Biome 1, you have the, the horizontal spike tiki traps from Biome 2.
+1:00:47
+You have, I forget if there's anything from Biome 3 in there, but like it feels like there, it's like the confluence of all of these other things that you've seen in the game.
+And now it's like, all right, you've seen it before.
+Put it all into practice.
+This is this is the run.
+Like this is the grading assignment here and level. 3 is kind of like a weird sort of respite.
+1:01:08
+Like I find Level 3 is significantly easier than level. 2 exactly, Yes, thank you.
+We're getting back to this topic, and Scott was the first to point this out to me that Biome 3, it's pretty much easier, much easier.
+Well, it's ice skates, of course it's chill.
+Yeah, it's got to be.
+1:01:24
+It's on brand.
+Why?
+Why did they do that?
+I think that's a that's a hallmark of a lot of Derek U games where like the first level is like setting your expectation, the second level is like, all right, I'm just going.
+To punch your.
+Dick as I can.
+Yeah, it is.
+It is a Dick punching exercise.
+1:01:40
+And then the third level's like, all right, I punch you in the Dick a whole bunch.
+Let's have a let's have a smoke break for just a quick second before we get back into even heavier Dick punching.
+Maybe it's this, maybe it's the idea that like he knows that after you fought your way through the jungle, like you're going to be like so on edge that if you got to another like equally hard level, most people would just be like, you know what, forget it.
+1:02:03
+I'm done with this.
+But like a lot of times you will beat the jungle for the first time and then you will make it through like most of the ice caves, if not all of them, and you'll be like, oh, I can like I could do this.
+The end is insight.
+Yeah, and if the if the temple was immediately after the jungle, this game would be boy, a lot, a lot less well received, I feel like.
+1:02:24
+That's.
+That's probably true.
+So what if it were swapped?
+What if it was first level ice, then jungle, then temple?
+Well, I think is.
+That what you mean?
+I think story wise, like you can't start with the ice caves.
+Just in terms of like that is a weird.
+That would be a weird place to start.
+1:02:40
+No, I think like mine's ice caves jungle temple.
+Yeah, I think that would work fine.
+I don't know if the ice caves.
+I guess a better question would be, is ice caves actually easier or is it that you have more stuff by the time you're in ice caves?
+Like are they are they literally the same difficulty but you're just further in the game I think.
+1:02:58
+The ice caves is significantly easier than the jungle.
+But I do think Ice Caves does reward you a lot for being well equipped because there are a lot of scenarios where you have to take big jumps.
+So like having a Cape or a jetpack or lots of ropes is super helpful.
+Indeed.
+1:03:14
+Colin has been sitting still quickly like an old neck head for a while here.
+So I I just want to ask like, so was your main bounce on this game, Colin, Is that it is just kind of hard and unforgiving or do you find like the mechanics of this to just be kind of uninteresting?
+1:03:32
+A little bit of both.
+I'm.
+I'm generally not.
+I don't like hard games that are hard just for being hard.
+You like platformers?
+I'm in different I, I, I do not have strong feelings one way or another for platformers like I they're.
+1:03:48
+Do you like Indiana Jones?
+Tomb Raider.
+Sure, I never played Tomb Raider, I've never played Castlevania, so I'm probably a bad like truly not a good platformer enthusiast, but I like them as a as a delivery vehicle for for game.
+1:04:07
+I really liked Dead Cells, so I'm comparing a lot of my thoughts on this were like, I mean, Dead Cells is not the same game at all, but it is a platformer and the way that I felt when I was going through something like Dead Cells is very smooth and you feel powerful and fast and fluid versus this.
+1:04:32
+I just felt bad at video games and then I die and then I restart again and I feel bad again and it was just very frustrating and it really I hated the whip.
+I hate the whip so much.
+1:04:48
+I could I could not get a handle on it.
+And maybe it was the problem was that I shouldn't have been trying to use it as much then.
+Also, just like I did not find the conceit of the game as interesting.
+Like you're exploring a cave and then you get to the end of The Cave and you go to the next level.
+1:05:05
+Yeah, Oh, no, 100% like this is not a game.
+Like I think I I really like this game's aesthetic.
+I think it looks great, but like it is not like, oh, I want to know more about the lore of The Cave.
+Like it doesn't Dead Cells at least like gives the vibes of like, oh, I'm in this interesting world and there's like weird monsters and sort of weird vibes around.
+1:05:24
+Here and it's and it's interesting that for a game that's like such a Titanic mover of the genre, like this is this I I think like Spelunky 2008 and then like that building the hype for the 2012 release is like new Rogdum.
+Like before that roguelike games like were not popular.
+1:05:41
+They were not fun outside of like Pokémon Mystery Dungeon games like they didn't sell well, like they were not commercial successes.
+This was like, oh, hey, what if like someone who was good at game design, took all of the good parts of like these old traditional roguelike games and put him into a fun setting like a Mario game.
+1:05:58
+And I think that like there's there's like an allegory here of like Spelunky being like the the titular like 0 meta progression, like arcade style rogue rogue like game feels like it's it's like the nuclear throne to like how Rogue legacy is like to enter the Gungeon.
+1:06:21
+And what I mean by that is like nuclear throne is like way smaller scope than enter the.
+Nuclear throne predate gungen.
+I'm pretty sure it does.
+Yeah.
+OK, carry on.
+But Fact Check.
+You like Nuclear Throne way smaller scope, way faster.
+You die a lot more.
+1:06:36
+There's no meta progression.
+There's like basically no story.
+It's like, oh, I've got to go and ascend the Nuclear throne, Great.
+Versus like Rogue Legacy and enter the gungen.
+It's much more progression based.
+It's a lot more forgiving more it's it's slower, it's, you know, less punishing.
+1:06:53
+And I feel like those have like that style of game is maybe more appealing generally because like that's that's the draw.
+Like the draw is like, Oh yeah, it'll like it's hard.
+It's a hard game.
+But if you stick with it like the game will just like let you get better at it regardless if you're like a super like highly skilled twitchy gamer or not.
+1:07:18
+It will just, yeah, your character will sort of get stronger.
+And like Dead Cells has those elements very much so because you're you're continually like pumping souls into the forge, which, you know, keeps leveling up your weapons.
+You're getting new abilities.
+1:07:34
+And for those following along at home, yeah, Nuclear Throne came out 2015.
+Gungeon came out 2016.
+Oh yeah, Oh yeah, Talk about fact.
+So.
+I I would say for for me, like I, I'm probably a bad rogue like player.
+I'm definitely a rogue light of of if, if you know what I mean.
+1:07:53
+Like I, I play video games to feel like I am making progress.
+Yeah, And you know, the more we've done this podcast, the more I've realized that I don't actually care if I am making progress on getting better.
+I just want to feel like I'm getting better.
+1:08:09
+Like, you know, there's a subtle difference between them and you rogue like elements will make it so it's like, boy, you're getting better this game.
+It's like, am I let's just not examine that too hard.
+I'm getting.
+That's a really smart observation, Colin.
+I I, I like that point a lot of like this because like I think Hades does a really good job of that.
+1:08:29
+It's like by the time you're, you know, 10 or 15 hours into Hades, your character is just more powerful and you feel like you've gotten better at the game.
+And you probably have, but yeah, you probably have but.
+It really doesn't matter because you're getting farther than you did before and like, that's what you care about.
+1:08:48
+And, and to your point, Colin, I sat down this morning to try to beat this game and it took me at least an hour to get to the third Biome I like.
+I've been playing this game a lot.
+1:09:04
+I feel like I got the movement down pretty good.
+I feel like I got a pretty good handle on the mechanics.
+And it is still, the first level is still tough and real quick.
+Just to remind everybody, I didn't beat Battletoads, but I got darn close.
+1:09:23
+I've beaten a number of the like old school Castlevania games.
+I've beaten Ninja Gaiden Gaiden one that game which that.
+Game is.
+So you talk about a cruel game.
+That game you get to the last boss, which is a very, very hard last boss.
+1:09:39
+And if you die, you go back to the start of the level.
+Not the start of the boss, the start of the level.
+Brutal.
+And but so that is to say like I'm not terrible at platformers and but yeah, this is Spelunky.
+1:09:58
+I I've been saying this on our, our discord a fair bit.
+And I've been saying this to just people who I've just people on the street, just on the street.
+You've just been out there with a sign.
+He's been berating his wife about this game.
+I walked up to my friendly local barista and I said so I'm playing Spelunky and let me tell you, it is absolutely living up to its reputation.
+1:10:18
+That reputation being that it's a bastard of a game, and boy is it.
+Woody MK, in my opinion, from from your perspective, like you, you are no stranger to these exceedingly difficult games.
+I did for for the Listener's benefit.
+Woody and I were roommates in college and I remember the day when, and correct me if I'm wrong, but I'm pretty sure like that was when you beat Battle Toads from the first time, right?
+1:10:44
+Yeah, we, we, I, I, I remember this too.
+This is a very Seminole memory for Scott and I is some, I was, I beat Battletoads like for the first time.
+And then I'm like, oh man, I'm running.
+I'm running hot.
+I was so hyped.
+I remember I ran up and down the hall and then I'm like, all right, I got to ride this.
+1:11:01
+And then I played Mike Tyson's Punch Out, and then I beat Mike Tyson for the for the for the first time.
+Like in a row.
+What do you?
+Mean like, you beat, you beat Battletoads and you immediately beat Mike Tyson.
+Yeah.
+I mean, no, I had to like fight Mike Tyson many times, but like, it was the same day, the same.
+1:11:19
+That's what I mean, yeah.
+Incredible.
+Yeah, incredible.
+And.
+And then like, yeah, so that was running hot.
+Yeah, so, but like you, you have like this kind of intrinsic draw to these very challenging and difficult games.
+Sure.
+Was that the draw to Spelunky at the times Like, oh, this is like another legendarily difficult Battle Toads level game.
+1:11:40
+I I need to summit that mountain like was that at the time the the because.
+I didn't know that because like when I first played it, because like it hadn't developed that reputation.
+And I guess I don't even think of it that way, like, because I feel like, I don't know.
+1:11:56
+It's like those games like Battletoads, like the difficulty in battle toes is just bad and busted and like doesn't make sense and is not fair.
+Like I I am.
+I am totally get that.
+And it's like very much like a smashing your head against the wall and just trying like that is the prime example of a game that you memorize.
+1:12:16
+You don't necessarily.
+Get what I was talking about way earlier is like you, you memorize the levels because they are each.
+Yeah, in the.
+Spoken designs.
+I just started playing Spelunky and just like continued to play Spelunky because like the act of playing it I found very pleasurable.
+1:12:35
+And then when I died, I'm like, well, I guess I get to play more Spelunky now.
+And that's not to say there weren't many and still are many memories of very frustrating things about this game, but I guess like it never felt, it's never felt totally cheap and just cruel the way you know, Battletoads does.
+1:13:01
+Just just.
+For SO.
+Yeah, it wasn't when, when I got to the phase of trying to, you know, consciously like beat a hell run to see those more mechanics, that is where it starts to feel more that way because like you need things to go right in order for that to work.
+1:13:23
+And like, so it can be frustrating when that doesn't work out.
+But if I'm just playing a run to see what happens and try to beat it, like I don't really care like I will.
+If I see a shop with a shotgun and a jet pack in it, I'm killing that shopkeeper and like I'm going to see what happens personal because I am not.
+1:13:42
+I'm not worried about it.
+It says business, that business being archaeology, yeah.
+Exactly.
+It's fair.
+You're you're, you're tomb robbing.
+You're a Tomb Raider.
+That business being tomb robbery, yes.
+And I, I, I guess to me, that's like another thing that I just really respect about this game is like, I never noticed it's hardness.
+1:14:06
+Like obviously I know I noticed it's difficult because I was dying all the time and I still do, but I didn't notice it in the same way that I do for those games that like, you know, are quote, UN quote, like the massive, like the the game, it's solely for difficulty.
+1:14:24
+Sure, it's difficult in a different way, for sure, For sure in a in a own uniquely cruel way.
+No, yeah, it's definitely, it's definitely different.
+Yeah.
+And I mean, to me though, that's like that at its core is like what Rogue Rogue games are about, is that dying is just a part of the game.
+1:14:43
+And like, if the game is intrinsically pleasurable, it does not matter how much you die.
+Like if something interesting happens and you had a good time and you like learned one lesson of like, like I just learned 1.
+Like you can go into one of the bonus levels is you can get sucked in by a big bug and you like go down his stomach and you get like a special knife.
+1:15:07
+For all you guys complaining about the whip, you can get like a crystal knife that that's a slightly better range and kills enemies instantly.
+Crucially, it's a it's a Chris Knife from Dune.
+Yeah, 'cause you go into a big sandworm.
+Yeah.
+And then I'm like, this run is going great, I'm gonna go into the alien mothership, another bonus level.
+1:15:26
+And I shotgunned down some of these turrets.
+And then I'm like, what's going on with these turrets?
+And I hit one of them with my knife and it exploded, which, you know, was maybe as close as I've ever experienced to like, hey, that felt like random BS in, in the world of Spelunky, but I'm not sure I'd ever seen that interaction before.
+1:15:45
+So even, you know, 50-60 hours in, still learning new things.
+I remember when I first picked up Spelunky, I think it was, this was the very first Rogue game I bought on Steam and November 2013, so the year of release, I think I got it for 4 bucks and I was like at the time I was so engrossed in it.
+1:16:05
+I remember specifically it was the IT was the January 1st, 2013 Colts versus Chiefs playoff game where there was like this like one of the biggest come from behind victories in playoff football history.
+And I was just completely ignoring it because I was playing Spelunky on my laptop and like, God damn it, I'm going to beat this level.
+1:16:23
+I and I'm like throwing my wireless 360 controller across the room and stuff.
+And that's when you and that's when you threw the himbo into the exit, all right.
+Anyway, but, but I remember bouncing off of it at the time because it was, it was punishingly difficult.
+1:16:40
+I didn't really understand why it was so lauded at the time.
+And it took me like until June 2015 scrolling through my my steam purchase history here to get risk of rain one, which was like, that was the gateway drug.
+So like I, I played Spelunky, I was engrossed in in it enough at the time.
+1:16:59
+I didn't beat it at the time, but like I bounced off because I'm like, yeah, but it's, I don't know, it's just like another meat boy or something.
+And like, sure, yeah, it's difficult.
+And I thought at the time difficult for difficult's sake.
+But having having played enough of these and really thinking and thinking metacritically and coming back to them, like, wow.
+1:17:18
+Like it's so polished for, for how pared down it is compared to something.
+Well, I mean, Noita is also very polished, but like Noita or a Spelunky crawled, crawled with its belly across the cavern floor so that way Noita could jet pack across to victory.
+1:17:38
+And yeah, I feel like it's, it's just so foundational, like of opening up the doors to all these systems of like, oh, hey, actually like these rogue systems from all these like incredibly terse and like 150 keyboard command type games like can actually be fun if you apply it to the right medium.
+1:17:55
+Speaking of run types, so like we talked about a standard run, what do you kind of touched on a hell run which requires getting yeah, getting like the the one jet eye from the mines, the onk from the black market, which gives you an extra life the the head jet.
+1:18:11
+From yeah it gives you an extra life, but if you die it uses the onk and so you can't unlock the secret so you have to get it and not die.
+Well, and then you have to crucially kill yourself next to a giant moai head in the ice caves to activate it, which spits you back out of the the moai head wearing a a a cool head, The helmet that's made of gold.
+1:18:35
+That's what they call them, head helmets made of gold.
+And then you get, you kill Anubis in the temple to get his scepter, which like with all of the, well, actually, I think you only need the scepter and the head jet technically.
+And so there's creative ways around this that we'll get to in a second.
+1:18:51
+But like you use the scepter to as a key to open the, the golden door in, I think the second stage of the, of the temple to go to the city of gold.
+And that's where like you can just get your your daily.
+Channel where everyone wears head helmets of gold.
+1:19:11
+I've been laughing off camera.
+Yeah, sorry.
+So you go there and so so there.
+Are the golden city just like a treasure like room or is it actually like a full Biome with the it's like.
+Everything's made of gold, right?
+And then like everything that you blow up, it's just like it's raining gold and you're.
+1:19:27
+Yeah.
+There's head, there's head helmets everywhere.
+Are there enemies?
+Yeah, there's enemies.
+Oh, Colin, it wouldn't be Spelunky if they're working.
+No, OK, well, that's.
+Not I think that was Andrew's question and also.
+No, there's no bonus level.
+Even the bonus levels in this game still kick your ass.
+1:19:44
+It's.
+I wasn't sure if it was a transition level.
+Between your like a like a Sonic the Hedgehog, all oops, all emeralds.
+Yeah, or, or like the little in in Mario, when you're in, you go down the the the.
+Thing this is this is totally unrelated, but I just would like to encourage.
+1:20:02
+Your listeners, when they're done listening to this podcast, do a YouTube search for Skull Monkeys bonus room song.
+It's just some random PS1 platformer, but it does have the best bonus room music of any game ever.
+So all right.
+1:20:19
+Anyway, carry on.
+You make it through the City of Gold.
+Yeah.
+So while people are listening to that funky music, you get to the City of Gold.
+You pick up some sort of like Necronomicon type tome.
+If you have that, you beat Olmec.
+That opens up a secret entrance to hell, which is like right above the lava zone there.
+1:20:37
+So like you have to you have to bait Olmec to like crushing down like the entrance specifically like by the lava.
+He like Olmec is disposed of.
+You go to the you go to hell.
+And it's like if you didn't think Spelunky was hard enough and you were like, you know what?
+1:20:54
+I want something to just like be be so comically difficult.
+It's almost like basically YouTube streamer bait.
+That's that's your your your hell option here.
+You get to King Yama, who I think is maybe a more appropriate final boss design for this game.
+1:21:09
+And he's like 3 screens tall.
+He has like a hands that like removed from his body and fly around.
+There's like all sorts of different enemies attacking you and yeah, beating him gives you like, you know, the, the, the, the secret ending and a lot more points or whatever.
+1:21:25
+But but crucially, this ties into maybe one of the like I I'm struggling to think of a crazier optional challenge mode in in maybe all of gaming than something called the eggplant run.
+1:21:41
+Excuse me?
+Woody, are you familiar with this?
+I'm not sure we are allowed to do this on our podcast.
+Yeah, this is a family.
+Show the E stands for educational on the on the bit there.
+But so the eggplant run is like the the history from it comes from like people toying around with the Xbox 360 release and then seeing like, oh, if I take this mystery box from the shop and I sacrifice it on one of the collie altars, I get this little eggplant.
+1:22:08
+Oh, that's a that's a cute little throwaway thing.
+Whatever.
+And it's a very fragile little thing that like if you touch it wrong, it'll explode or like fall apart.
+It's like a clay pot.
+Yeah.
+Level of fragility.
+So but someone was digging around through files or something and found a thing that's like, there's like this eggplant monster all.
+1:22:29
+That do.
+Something right and once the game was released on PCPC, gamers do their thing and data mine the shit out of it and find the interaction of egg of the eggplant with King Yama.
+Where if you throw the eggplant at King Yama's face he turns it into a big eggplant where you can just.
+1:22:51
+You can just whip him with for a one hit KO and kill him.
+But the the the interesting bit about this is how just how comically difficult it is to do this because you have to you have to get the RNG in order to get a shop and Akali altar on the same floor.
+1:23:10
+Usually in like the first Biome you pick up like the mystery package, you sacrifice it and hope that that gives you an eggplant.
+So there's already the RNG filter there you I think and.
+This was secret for.
+Yeah, I think you have to hire every so often.
+1:23:29
+You'll get shops that let you hire a helping hand, which are like little assistants that follow you around but have absolutely, you know, terrible AI and as is mostly the case in Spelunky, will cause some accidental chain reaction that makes you die.
+But because you need to be holding like the scepter to get into the City of Gold, and you also only have to be holding the eggplant to bring it in, you have to like have one of these guys carry the eggplant behind you without letting it die.
+1:24:03
+Or Woody if you are Bananasaurus Rex, possibly the best Spelunky player, maybe spelunky one player of all time.
+You do it solo by by item juggling the the eggplant and all the other items back and forth while while ghost dodging.
+1:24:21
+I'm going to talk about the ghost, but like ghost dodging across the map, blowing up two other Kali altars in order to get a a ball and chain where you have like an actual like like prisoner big ball, like chained to your leg, which is another thing you have to juggle, which will come and will be important here in a second.
+1:24:43
+You're making your way to the ice caves somehow.
+If this wasn't already hard enough, you use the ball and chain to break open the moai head in the ice caves and then you the way that he did it at least was to use like the the climbing gloves to like climb up against the side of the wall of the of the ice caves because there's a bottomless pit at the end of it or the bottom of it that will insta kill you.
+1:25:12
+But if you like climbing wall your your way down the ball hangs down, the ball will get deleted by the insta kill zone, freeing you Also crucially the reason why for the ball and chain.
+So use the ball and chain to like break open the moai head.
+1:25:30
+So that way you don't need to go to the black market and get the ankh to sacrifice yourself.
+You see, you break open the moai head using this ball and chain you you dip it down into like the kill zone.
+You dip your.
+Ball into the kill zone.
+In order to move the eggplant.
+1:25:46
+Yes, and then you grab your eggplant.
+You, I, I may be missing a step here in my Google doc, but you, you get the head jet through the, through the moai head, which allows you to carry stuff through subsequent levels.
+1:26:02
+You then go all the stuff through the temple to get the, the, the book of the dead, the, the scepter also.
+And you're juggling all these things.
+You, you finally get to hell.
+You, you're like cradling this fragile eggplant all the way through this like menagerie of chaos that we've described so far.
+1:26:25
+And then you get to King Yama.
+Bananasaurus Rex did this with one HP remaining, throws it at King Yama's face, turns him into a giant purple eggplant and and King Yama's like frozen.
+He can't throw any more spikes and and energy balls at you.
+1:26:43
+Just waiting for that whip to just come open and just slice his big juicy eggplant head open.
+He did it.
+He posted it to YouTube and like the at the time when it was called Twitter folk.
+Ask your grandpa again.
+Twitter and YouTube just exploded of like this was not possible.
+1:27:00
+This was something that the developers said like the eggplant run can't be done.
+They denied the existence of purple king Yama, even though they they left in the mechanic of of the ball and chain blowing up the MO I had, which was unintentional.
+But Derek, you saw it and was like, you know what?
+1:27:17
+That's good.
+That's like so cool.
+I'm just going to leave it in there.
+And yeah, like that, that has like entered the lore of like on the level of like those Half Life 2 gnome runs where people carry the gnome through the entirety of Half Life 2 to put it in the spaceship or the rocket at the very end it's.
+1:27:34
+Like.
+Describing doing that run sounded like describing a dream, like a child describing a dream.
+And then the ball and the lava, and then he climbed up, and then King Yama and.
+Absolutely.
+1:27:52
+Yeah, that's, but I, I Scott, I cannot think of a more difficult optional challenge mode either.
+Very impressive.
+And the name of that player is what again?
+A Bananasaurus Rex.
+Bananasaurus Rex what a what a hero and also what a hero dev for not patching out that the ability to destroy the head with the ball and chain.
+1:28:16
+Wow.
+Well, that I mean that is kind of the I don't know that that feels like once that has happened, like you've reached the outer limits of Spelunky.
+You have you have spelunked all that could be spelunked.
+But like I'm still perfectly content, just like making runs of this game and seeing what kind of stuff happens and like I'm going to have a good time.
+1:28:36
+I are you guys at some future date going to talk Spelunky too?
+You know, we've gotten more requests for Spelunky 2 than one, but I thought it would make more sense for us to cover for the big 75th episode and a listener request episode to do like obviously doing Spelunky one first.
+1:28:57
+Spelunky 2, like from what I've dabbled with it, it feels very it's almost like in a like if if this one that we're talking about right now, Spelunky HD is the remaster of 2008 one Spelunky 2 feels like the remaster of the Spelunky HD version.
+1:29:15
+That makes sense.
+Yeah, I was super hyped for Spelunky 2 when it was coming out because I was all in on Spelunky and I have, I have never quite clicked on it.
+I have, I think, you know, 12 hours in it.
+I think I've made it to the third world.
+1:29:34
+It's just it the the praise that I levelled on Spelunky about like feeling like it doesn't have a bunch of extra rules and stuff you have to figure out.
+Like Spelunky 2 feels like it has more rules and more stuff you have to figure out and stuff that kind of just exists in the game to add content.
+1:29:56
+And I, I'm willing to be wrong now that talking or being on this podcast has reminded me that I love Spelunky and like, so maybe I will make another attempt to try and crack through that Spelunky 2 wall 'cause I'm confident I can get there.
+1:30:12
+It's also, it's also weird 'cause I was at the point where I'm like, oh, I can beat original Spelunky like 70% of my runs.
+And then like, I started playing Spelunky 2 and I'm like, oh, I'm just dying in the first world every time again.
+It's like riding a bike again for the first time.
+Anyway, I'm happy to talk Spelunky too for whenever you whenever you guys get there and Colin is like Colin's, like, you know, the cartoon dust cloud where like someone, someone runs away and all that's left is the dust cloud.
+1:30:40
+That'll be Colin when we talk Spelunky too.
+I have.
+A.
+Possibly I have in mind to.
+Like or maybe that'll be the one.
+Maybe it'll just just just be different.
+I mean, I appreciate Spelunky this game I.
+What do you appreciate about it?
+I see why people might like it.
+1:30:58
+Oh, OK.
+It does have a lot of systems that seem to interact very well.
+It's got an elegance to it.
+It's.
+Just an elegant design.
+For me, what I'm looking for when I'm playing a video game for the most part.
+1:31:15
+And Speaking of, before we jump into into ratings and similar game stuff here, some community correspondence here.
+So I put the question out of like what you know what, what is what are people's thoughts about Spelunky these days?
+And got some good writings here.
+1:31:30
+So I'll I'll bounce back and forth between between these, but one from cool username 1111 says that.
+That is cool.
+Gold standard for the genre.
+Every death feels simultaneously utter bullshit. 100% my fault this one from with a bunch of threes and zeros in his name.
+1:31:55
+But retro gamer 83 says I never liked the game.
+When I play a rogue like slash light I'm looking for crazy builds and a game and game breaking combos.
+Spelunky never gave me those things.
+It reminded me more of a 2D souls like than a rogue like.
+1:32:11
+I think that you, I mean the game breaking.
+I think there are ways to achieve game breaking combos.
+They probably require a level of attention and depth that you know is beyond just like popping the game in.
+Like you can do weird stuff with like the teleporter button in terms of like blasting through levels in weird ways.
+1:32:31
+And like, the jetpack and shotgun is as broken as you're going to get like.
+But it but it's not like the vampire survival survival.
+Level, you're right, it doesn't have that same visceral feeling.
+Like, as useful and powerful as you feel with the shotgun and jetpack and Spelunky, you know that like one random beam or spike is still going to kill you.
+1:32:50
+One random spike.
+Yeah, that's true.
+This one's a little longer, but I'll end with a shorter one.
+For one from five dozen whales, says Spelunky nails what I think makes a good rogue like.
+Beginners die every 30 seconds.
+Experts can win streaks.
+It's hard, but rarely unfair.
+1:33:07
+When you start, it feels clunky.
+The delayed whip and bombs seem badly designed.
+Nailing jumps feels impossible.
+But but as you get practice under your belt, you realize that it's extremely responsive.
+The controls are some of the best in any platformer.
+You start feeling like a ninja, bouncing off of enemies heads into back whips and throwing bombs perfectly.
+1:33:25
+And yeah, you do get Splunk occasionally and die in a way that's not your fault or that was only barely avoidable.
+But when that happens, it's usually funny.
+It gives you a story to tell or a clip to share.
+You never feel defeated.
+You feel eager to jump back in.
+A lot of hard platformers are simply clunky and unfair.
+1:33:42
+They're hard because there's a skill ceiling, not a skill curve.
+A lot of rogue lakes rely too much or too little on luck.
+Experts might not fare much better than beginners.
+Spelunky is smooth, fair and has just enough.
+Luck.
+I don't agree with all that, but I do absolutely agree with the controls.
+1:34:00
+This game has some tight controls and they, they're difficult to master, but they are more or less predictable and pretty responsive.
+And I, I, I think that is maybe one of the first challenges in this game is, is mastering just moving around and jumping around and ledge grabbing.
+1:34:21
+And when you get a handle on it, it feels pretty good.
+And I'll say from the clipping perspective, like I was doing the daily challenge run every day for the past two weeks just to like, let's just see what happens.
+Let's I'm not going for a win here.
+1:34:37
+I'm just interested to see what happens.
+And it has gotten some pretty clippable moments between missing a bat by 1 frame and then getting killed by the subsequent bat like 2 seconds later.
+It's giving me like some some very type 2 fun clips to share of like getting beamed by impossible to kill shopkeeps or like cool, like ghost baiting and dodging and stuff.
+1:35:06
+And like whenever I'm sharing a clip in in the discord and like, you know, the Andrew and Colin and maybe wills watching, who knows?
+And you know, you're, you're seeing like, okay, the level starting, this is going to end badly somehow, but how badly is it going to end?
+1:35:21
+And I was watching those clips myself, like back and forth, like the next day, I'm like, OK, yeah, I could have avoided that.
+Like, that was pretty, pretty well telegraphed.
+There was maybe one that was kind of bullshit, but.
+Yeah, there's some of those clips where it's like you have to do a little bit of CSI work to like, figure out, all right, what actually killed you in this?
+1:35:41
+Case.
+And there's always, there's always a logical explanation.
+But sometimes in the moment it's like, man, I don't even know what got me.
+And this last comment from Fishman 465 says IMO the game requires the ability to laugh at your own deaths.
+1:36:04
+Well, that comes easier to some than others.
+Yes, I think it would.
+Everyone would do well to remember their breathing exercises and to remain Zen while playing this game, and not to yell too loud lest you bother your significant other.
+1:36:24
+Hey, cool username retro gamer.
+Thousand whales Fishman.
+Thank you for your input, Much appreciated.
+Thank you for weighing in.
+I do think a weight is lifted off of the player once you make a successful run.
+Like once you get through and defeat Olmec, once you're like, OK, you can either be done with it or you can be like, OK, now I'm just going to play and not get upset and just like see what happens and see what I want to explore and, like, engage with the weird secrets of this game and not, yeah, because I've, I've beaten it, I can at least feel I can feel content that I have made it.
+1:37:00
+Through yeah, I think the the standard run of this game is fun there's like Woody and I were were up past midnight.
+I guess technically today playing playing some of the Co-op and like it, you know, the Co-op isn't isn't great, but or well, the the let me rephrase the Co-op standard adventure mode is kind of mad like the the screen sharing feels very.
+1:37:23
+Like it's it's not split screen so you essentially have to follow one.
+It's the The Tale Syndrome 1 character has to play as tales where they're constantly left behind.
+Speaking of battle toads.
+Oh yeah it is.
+Also it is the battletoad symptom of if you play the two player game, the game is way harder.
+1:37:42
+Yeah, yeah.
+And and like, what do you were pointing out when I was just about to pick up the the Anubis scepter, You're like, maybe you don't want to do that because as soon as you use it, it's going to attack me.
+I'm like, oh, OK, That like I was simultaneously disappointed and I'm like, wow, OK, yeah, that does make sense from the game design standpoint of like it's going to home in on stuff and like Woody's character is stuff.
+1:38:09
+Thanks, Scott.
+That's a really nice thing you said to me.
+Woody's character is stuff.
+Oh my but but but when you found the the golden head statue, which one of you wore it?
+I mean helmet?
+I screwed up the joke.
+Anyway.
+That's disappointing to hear that it's not.
+1:38:28
+Both players don't have their own screen.
+I thought just all the players will be running around on their own instance.
+And I feel.
+Like, but sharing the level and that sounded like a lot of fun.
+It looks like you're on the same.
+You're stuck on the same screen, that kind of.
+I'm guessing the game would be way easier in that sense and probably like that might be like a lot harder to code so I can't really fault a 2012 game for not.
+1:38:47
+Having Oh sure I it's just a little disappointing to hear I guess 'cause I I thought it could be a potentially a very good Co-op game.
+I wonder if Spelunky 2 has I think.
+Spelunky 2 has more in depth Co-op features.
+I don't know like what I'm imagining Right, right, Gotcha, gotcha, gotcha.
+1:39:05
+But what do you Sony?
+And I we're having a good time in the deathmatch mode of setting 99 bombs and how how many wins we could get in, I don't know, 5 minutes or something when it was like a good zany, like you're having friends over for a pizza party just throw this on and they're just going to bomb each other and have fun.
+1:39:22
+Yeah, it was fun.
+Yeah.
+All right, I can dig it.
+And is there real quick?
+Is there a mechanic for spawning one player back in?
+Yes.
+When you play the Co-op, at the start of every level there will be a coffin where if somebody has died in a previous level, they will get reanimated as a ghost and they can kind of blow things around.
+1:39:45
+But then when you get to the start of a new level and open the coffin, that their character will come back.
+Ah, OK, Duly noted.
+Oh, do you have any more to spelunk Scott?
+That's a great question.
+I think we've kind of touched on all of the things in my 28 pages of show notes here.
+1:40:02
+Got good music?
+Music, music, Music is really good.
+Or your music even even.
+Music is something that I can say unequivocally is I, I, I.
+I thought it was a little repetitive at first, but then I realized that I was wrong.
+I really did not like the saxophones in the tutorial, but the rest of the music I I think it's great.
+1:40:25
+Yeah, really good work here By Eric.
+I'm just going to pronounce his name differently every time.
+I'll just call him Eric By Eric who again for UFO 50, like if he doesn't win like an actual like Emmy or something or like Oscar level thing for like the amount of like sound design that he did for UFO 50, I'm going to be real mad.
+1:40:49
+And yeah, like.
+As mad as a shopkeep.
+As mad as a shopkeep metaphorically off the walls.
+Bouncing off the wall, hopping mad.
+Yeah, I think when, when, when we do get to that game, obviously we'll we'll have Woody back on there because you've beaten how many?
+Of the 50, I'm currently on 40 of 50 goals in UFO 50.
+1:41:08
+But you know, only about maybe ten of those games count as roguelikes.
+True.
+Yeah.
+So, so we wouldn't be playing 50 games, OK.
+We would be like paring it down, obviously to what's appropriate here, but obviously stay tuned.
+For sure.
+We talked shortcuts.
+1:41:23
+Yeah, I think, yeah.
+Do we Do we want to spelunk into the the dark, bottomless pit of numbers that we've arbitrarily slapped under this game?
+Hell yeah.
+Yeah, let's do it.
+We're already in.
+Like this podcast has been the length of what, 15 Spelunky runs at this point?
+1:41:43
+Yeah, yeah.
+I could.
+I could have died like 20 times and that's more I did the math wrong anyway.
+I'll pick on Colin first cuz I can tell he's getting sleepy from from travel and podcasting from on the road.
+Yeah, I'm in a hotel room right now.
+What a guy.
+1:41:59
+I'm in Central Time so it's 1040 for me.
+Don't dox.
+Yourself, yes.
+All of Central, Central Time, America, yeah.
+They know what time zone you're in, so.
+1:42:15
+I feel a little bad I'm giving this game a 5.7.
+I feel like there is a lot about this game that is good.
+I understand why people like it, but I didn't enjoy playing it at all.
+And I I felt very frustrated while I was playing it.
+1:42:35
+And at a certain point it was like I, he was like my mouse was hovering over it like the next day and I was like, this feels like homework and I want to play a video game instead.
+And so I played like Factorio or something, which is literally a game about is homework the game.
+1:42:52
+So I think that's a bad sign for it.
+There's a lot of stuff that it has.
+I think all of the aesthetics in it are really pretty excellent and they hold up really well.
+Like it's got like, the graphics of it are timeless, The music of it is timeless.
+1:43:10
+If you like difficult games, I would still recommend it to you.
+If you don't like Dark Souls or hard platformers, I would not.
+Yeah.
+I think, I think that's fair.
+I think this game, you know, it is what it this is not a game that attempts to be for.
+1:43:27
+Everyone.
+Well, yeah, crucially, Woody, before you so excitedly jump into your review, let's let's have Andrew go with his and then I'll go next.
+What?
+We'll always leave the special guest with the final word.
+Wow.
+Yes, we want, we want to make sure that.
+We end on a high note.
+1:43:43
+Someone with the proper resume gets to say I have the final mention about it.
+OK well hey Colin, let me tell you you gave this game a 5.7.
+If you just stuck with it for another 21 1/2 no 22 1/2 hours, you might have rated it as high as 5.73.
+1:44:08
+Now, Woody, you haven't been on in a while, but so you might have forgotten that my Co host here, they they really hoodwinked me when I first joined.
+We had one ranking system and I was like, well, whatever, it's your guys's show, I guess I'll do it.
+1:44:23
+And I started numbering and and.
+And all of these are also edited out from from every.
+Episode with these wacky wild scores so no one can get mad at me because they midway through my tenure here, completely changed the ranking system and now my ranking.
+They're changing again next week, by the way.
+1:44:40
+So anyway, so so I just figured I want to catch you up, Woody.
+So scoring 5.7, three points on the Andrews scale, totally arbitrary and and you know, very, you know, to each their own scores pretty respectable, right?
+1:44:56
+Right ahead of Dysomancer, right behind Barony.
+And to me, Barony, what it came down to for my ranking decision was the traps.
+We complained about the boulder traps in Barony, which of course is a first person dungeon dungeon crawler.
+1:45:20
+The boulder in Barony, pretty bullshit.
+Somehow the traps in this game felt much worse experience.
+And the key difference how I finally came down to, it's like, well, I'm going to put it, I'm going to put it in here.
+Does Spelunky go ahead or behind Barony boils down to this.
+1:45:40
+Barony always often laughing when I died laughing with delight.
+Whereas with Spelunky I was almost always enraged, as as my my partner can attest to.
+And that is very much, you know, a personal and subjective thing, of course.
+1:45:59
+And we didn't even we hardly talked about the ghost.
+And I do want to mention the ghost really quick.
+Now, listeners, if you haven't played Spelunky, you might think, golly, this sounds like a dangerous game world.
+Sounds like there's a lot of pitfalls, literal and otherwise.
+Just be careful.
+1:46:14
+Just take your time, slow down.
+Well, guess what?
+If you play too slowly, a giant fuck off specter of Death appears on from one of the sides of the screen and just floats through the level, threatening to instigive you the moment you make contact with it's Oh, ample hitbox ample, I tell you now, there were a few instances where I outran the ghost and I did something really cool and clutch where like, oh, I was running along with like the damsel or the OR the himbo or the puppers and I was juggling items and I also had the idol and like that felt really good.
+1:46:55
+But a game like Barony was like full of moments, exciting, fun story moments like that.
+And for me personally, for Rogue like to be really special, it needs to be an an emerging story and excitement.
+1:47:12
+And I did not come away from Spelunky with that many stories aside from how flummoxed and angered I was by it.
+But I'm going to keep playing it because some part of me finds it fun.
+I don't know.
+Well, I'm going to jump up the ranking scale here giving and I I was coming into this episode thinking like, OK, we're putting it on the schedule.
+1:47:36
+I kind of have a little bit of an axe to grind.
+Like maybe Spelunky really isn't as good as I remember.
+Or like maybe it's not as good as like people think it is.
+So I kind of came in like a little skeptical.
+I'm like, you know, it's, it's kind of bullshit and I don't know, like I was playing the daily challenge, like, and I was looking forward to it like every day because I wanted to see A, could I beat Woody's high score?
+1:47:56
+B Like how far could I get?
+Like, could I do better than I was before?
+I was playing it very much with like this arcade mentality and it was really fun.
+So for me, Spelunky's landing on my rankings at a 9.1 just behind inscription and just ahead of Vampire Survivors in in good company because there's like a lot of other really Titans of that genre up there.
+1:48:19
+And I think it deserves to be.
+I think it's, it has the legacy, I think it has the standing power.
+I think it is like like we were talking about earlier for like the scope and size of like what it is and what's in it.
+It just everything feels so complete and I feel like there's nothing missing that wouldn't add just more cruft to it.
+1:48:40
+Some bad things.
+Just to nitpick it a little bit.
+These are all like a little minor things, but like you can't pause mid run.
+I guess like the scheme deck kind of solves that, but being like if you got a really good run going, like oh shit, I got to go to.
+Work.
+Oh, you mean you can't like exit and?
+Come back, save and quit, yeah.
+1:48:55
+I I thought you meant like you can't like press start and pause the game.
+No, Yeah, you.
+Boy, I sure hope they had a pause button.
+Spelunky too.
+Wouldn't that be great, The learning?
+Well, it's an old game, Scott.
+Learning curve, I think is is really steep.
+1:49:12
+Sometimes it it like kind of skirts the line between like Nintendo hard and Nintendo bullshit.
+Sometimes the the shortcuts I think are an interesting system.
+We didn't really talk much about this, but like the shortcuts like you when you end a level you like, you pay off the the tunnel man in in subsequent steps.
+1:49:31
+Like I think it does a good job of teaching you how to progress through the game.
+I feel like if there was so Noita has this like daily challenge mode of like it just puts you in a random part of the game with random equipment, go to town.
+And like I think that's a really great way of learning that really complicated game.
+1:49:49
+I think if Spolinky had something similar again, it's five years earlier so it's hard to hard to fault it, but I think that would help a lot with like, OK, what about this situation?
+What are you gonna do?
+What about this one without having to go through the the Rube Goldberg machine of of death to get there No cloud saves is kind of annoying and having to play the tutorial again.
+1:50:11
+This game looks awful on a 1440P monitor.
+It it is a 720P game, it scales up.
+And again, you can't really fault it from 2012.
+But at the same time, like it looks really, really good on the Steam Deck.
+1:50:26
+If you're holding it at arm's length on a small screen, If you are like looking at it in all of its hideous glory on a 1440P monitors of a foot away from your face, you kind of start to see the wrinkles.
+But you know what?
+Wrinkles are fine.
+1:50:42
+We're not out here to Botox everything to a smooth bowling ball finish, Spelunky.
+It kicked off the roguelike renaissance.
+We have all of the great games on this program that we've done.
+I think owe it to Spelunky to kick open that door and start that.
+1:50:59
+There's just enough branching paths to like keep gameplay fresh.
+It's so smooth and precise.
+Like the ninja comment about like jumping around feeling like a ninja 100%.
+And I think this is a a overall a, a punishing but fair game.
+I often think sometimes if like if I opened up like a rogue like arcade like business, this would be like the first thing you see when you walk in.
+1:51:23
+This would be front and center.
+This like welcome to roguelikes.
+They're tough, they're hard.
+You're going to dump a bunch of quarters, you're going to dump a bunch of time into beating this game, but it's going to be like that battletoads moment of victory when you do so.
+And it's going to be feel real rewarding.
+And I think overall it's still fun to revisit 10 plus years later.
+1:51:43
+So for me and a 9.1 now Woody.
+Is it?
+Is it one of the definitive video games we're we're about to find out, Woody?
+Oh yeah, I convinced.
+I mean, I, I kind of came in biased yes.
+I think it is one of the definitive video games.
+1:51:58
+I just think that like what you can it it's just so clear of like how much is accomplished with a little amount.
+And just like when I'm explaining board game rules to people and I, you know, so many times I get into the scenario of I'm like, Oh yeah, but one more thing like this, you can't do this.
+1:52:20
+Like this rule kicks into gear.
+Whereas Spelunky, there's that, you know, 2 minute tutorial with the big pictures that tells you what to do.
+And that basically gives you everything you need to understand the game, even if there's, you know, a lot more depth beyond that.
+1:52:36
+You don't need it to traverse the caves.
+Well, so I am not fully educated in this new rating system, but I feel like I can fit my rating into it cuz Spelunky's A10 like I, I don't know, like I if you're not gonna give Spelunky A10 like I don't know what you're saving your 10s for because.
+1:52:56
+Wire.
+Yeah, Got to make sure he mentioned that at least once per episode, Yeah.
+Sure.
+I mean, I'll give all those games 10s too based, you know, I, as I said, I, I'm fortunate to only be on this podcast when I want to, meaning I only have to play games that I really like or at least have some sort of vested interest in.
+1:53:16
+And so I, I love Spelunky.
+I I love it ever so slightly less than enter the dungeon because it doesn't have.
+My hand, yes.
+Yes, Dungeon still hangs.
+It doesn't have.
+Woody, always.
+That same goofy, totally goofy sense of humor.
+1:53:32
+It just, you know, even though we were kind of calling out games that add 500 new weapons or whatever as a way to fill content.
+Like I like all the 500 weapons in Gungeon.
+I mean, it's it's only bad if you do it wrong.
+Yeah, exactly.
+You know it ain't easy, but you know the Gungeon does it.
+1:53:50
+Yep.
+And so, yeah, no, you're good.
+Spelunky is a game I just, I just love playing, and I'm always so, so impressed by how well put together it is.
+Yeah.
+And just in in this time of revisiting it after I had gone through what I thought was the end of my Spelunky phase many years ago, I'm just reminded of like, Oh yeah, this is one of my favorite games of all time.
+1:54:15
+So thanks for letting me talk about it.
+Yeah.
+Thank you for coming on.
+Yeah, thank.
+Thank you again for coming back for all the good games.
+Similar games.
+Spelunky 2 Yeah.
+That is, that is the first one that I have on there, Spelunky 2.
+1:54:30
+Clearly there is one that like if you thought Spelunky was fun but you wanted more traditional rogue like mechanics in there and more difficulty then the game Vagante is right up your alley for being punishing.
+1:54:47
+VAGANTE would he furiously taking notes of more difficult games to beat?
+Of course there is a game by Caseware on steam.
+A lot of his games look very similar.
+1:55:03
+This is a guy that did bone raiser minions, but he also made a spirits abyss which has like this really good chunky like dark Halloween vibed.
+It's like a a a Halloween vibed Spelunky almost, which is which is quite fun, maybe not as punishing as Spelunky.
+1:55:20
+There's another game that's maybe like Spelunky in reverse where instead of going down you're going up called Tower Climb.
+Not not not tower fall, not tower fall, tower climb, but is filled with all sorts of like those kind of simulationist weird deep game mechanics and flies under a lot of people's radar.
+1:55:42
+Other games that are kind of like similar cave spelunking, dungeon games, catacomb kids people like a lot.
+Cave Blazers people like a lot.
+There's one that has really good pixel art called Done Greed.
+And of course, we we have to mention Noita again because I feel like all the stuff that I like about Spelunky, for me personally, I think Noita does better.
+1:56:05
+Wow like OK, add Noita to my wish list.
+Wait.
+You haven't played Noita.
+No.
+You have to play Noita.
+It's absolutely up your.
+Rally simply must.
+Yeah, Noita.
+I feel like is you're gonna like it.
+1:56:22
+Cool.
+Yeah, there the listen to our Noita episode, previous episode of of where to go to get those workshop mods for making your starting wand home in on dudes to make it a lot easier.
+Yeah, check, check some of those out.
+Well, that's that'll wind down our 75th Big 75.
+1:56:41
+I don't know what wedding anniversary reward that one is, but episode and list listener request episode and if you want to request more stuff.
+I'm pretty sure it's the golden head helmet.
+Yeah. 75th anniversary, if I'm not mistaken.
+1:56:59
+That's what you get.
+Your beloved.
+Yeah.
+Thanks for tuning in.
+I'm sorry, what else we got?
+Send your golden head helmet stories into grogpodzone@gmail.com.
+Our Mastodon is Grog pod.
+I gave them to a place.
+Technically we're on Blue Sky, although I didn't put it on there.
+1:57:17
+Something at Grog.
+It's one of those weird like mirror things.
+But yeah, I think everything that I post on Mastodon just automatically gets mirrored there.
+Grogpod dotzone has all of the official unequivocal, unarguable ratings and all the other nonsense stuff.
+The website.
+1:57:32
+Go go check that out.
+But that's gonna do it for a very brutal, hard titular game of a Spelunky.
+So I think, I think everyone for being brutalized as a warm up to be brutalized for our next episode where I I had this one on the schedule a long time ago and I thought, you know what?
+1:57:54
+It just needs more time to bake, needs more time for me to understand and grok it.
+I think I grok it now and it will be fun and interesting to get our unga bungas in a row and smash some giant Dragons and demons because next episode we are playing possibly the well up to this point this year.
+1:58:14
+The biggest rogue light for rogue light, depending on how you define it.
+Game released in 2025 thus far as of August.
+Slightest Fire 2 is going to come out tomorrow.
+As soon as I see this, I am picking Elden Ring Night Rain for us to play.
+And it is going to be.
+1:58:31
+It is going to be some jolly cooperation.
+It is going to be some some wild nonsense, lot of lot of dodge rolling, lots of protecting of the flock and yeah, continuing the the maximum level of roguelike brutality by by getting good.
+1:58:50
+And and you know, as you see in in standard Elden Ring, a lot some messages saying at last dot dot dot Fort dot dot dot night.
+But that's going to, yeah, that's going to wind down our sklunk episode Elden Ring Night Ring coming up next.
+1:59:07
+We're very excited for that one.
+But to play us out from here will be some some jamming tunes for for you to hold down that Sprint button and ready your shotgun as you prepare to fight Anubis in the final temple before the end.
+Or is it?
