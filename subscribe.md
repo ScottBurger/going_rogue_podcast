@@ -16,5 +16,6 @@ Find our podcast on your favorite platforms!
 ## Other Stuff
 * [Steam Curator](https://store.steampowered.com/curator/45182589/)
 * [Mastodon](https://mastodon.gamedev.place/@grogpod)
+* [Bluesky](https://bsky.app/profile/grogpod.mastodon.gamedev.place.ap.brid.gy)
 
 Don't see your platform of choice on here? Send us a message and we'll get it on there for you.
