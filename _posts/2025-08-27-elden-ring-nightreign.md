@@ -8,12 +8,12 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, elden ring, nightreign, dark souls, soulslike"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/vellum.jpg
-thumbnail-img: /assets/img/vellum.jpg
-share-img: /assets/img/vellum.jpg
+cover-img: /assets/img/elden_ring_nightreign.jpg
+thumbnail-img: /assets/img/elden_ring_nightreign.jpg
+share-img: /assets/img/elden_ring_nightreign.jpg
 duration: "1:31:55"
 length: 75484368   
-tags: ["2025", action roguelike]
+tags: ["2025", 1st/3rd Person Action]
 ---
 
 Praise the Sun! The Nightlords have invated the world of Elden Ring and it's up to you and your trusty co-op Nightfarers to stop them. The biggest roguelike game of 2025 so far, lauded developer FromSoftware's latest entry takes a stark departure from previous games in the Dark Souls series at a blistering pace. Featuring gigantic bird-man, big-hat sorceress, acrobatic bow boy, yelling drunken pirate, angry Sekiro dog-man, sassy child, French fencer, and John Nightreign himself toting a grappling hook and arm cannon, Elden Ring Nightreign drops you into a wild hybrid of Soulsbourne combat with bosses and enemies drawn from across the series. Listen in as we drop into Limveld from our bird-based battle busses. "Don't give up, skeleton!" "At last, Fort...Night!"
