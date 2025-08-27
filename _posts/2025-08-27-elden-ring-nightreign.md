@@ -2,7 +2,7 @@
 layout: post
 title: "Elden Ring Nightreign"
 date: 2025-08-27
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/elden-ring-nightreign.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/elden_ring_nightreign.jpg
 thumbnail-img: /assets/img/elden_ring_nightreign.jpg
 share-img: /assets/img/elden_ring_nightreign.jpg
-duration: "1:31:55"
-length: 75484368   
+duration: "2:39:02"
+length: 130198512   
 tags: ["2025", 1st/3rd Person Action]
 ---
 
@@ -20,29 +20,29 @@ Praise the Sun! The Nightlords have invated the world of Elden Ring and it's up 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/elden-ring-nightreign.mp3">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/vellum/id1650474911?i=1000715392460) | [Spotify](https://open.spotify.com/episode/3XD6pmAuD2b4k1xpxrmg11) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
 
 ---
-* 1:22 - Game stats
-* 2:50 - One sentence description
-* 1:14:13 - Rankings and final thoughts
-* 1:22:08 - Similar games and show wind-down
+* 1:40 - Game stats
+* 4:44 - One sentence description
+* 2:06:46 - Rankings and final thoughts
+* 2:22:55 - Similar games and show wind-down
   
 ---
 
-Next episode: Orcs Must Die - Deathtrap
+Next episode: The King Is Watching
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: In the Still of the Night - Oscar Peterson
 
-Outro music:  
+Outro music: Caligo, Miasma of Night - Nightreign OST
 
 
 <div class="embed-responsive embed-responsive-16by9">
