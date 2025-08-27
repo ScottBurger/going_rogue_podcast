@@ -24,7 +24,7 @@ Praise the Sun! The Nightlords have invaded the world of Elden Ring and it's up 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/vellum/id1650474911?i=1000715392460) | [Spotify](https://open.spotify.com/episode/3XD6pmAuD2b4k1xpxrmg11) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/elden-ring-nightreign-with-kris-garglestone/id1650474911?i=1000723673406) | [Spotify](https://open.spotify.com/episode/0NozvdLTKZqUFkc0i5dvwm) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
 
 ---
 * 1:40 - Game stats
