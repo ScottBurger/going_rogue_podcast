@@ -1,0 +1,2298 @@
+0:11
+Music.
+Zabito Boga friends, and welcome to the Grogpod Roguelike Podcast, where each episode we grab onto a spectral hawk of a roguelike game, drop in, dodge roll and battle it to get some ranking numbers out, and if it's good enough, revisit it for a second phase fight at the end of the season recap tournament.
+0:34
+I am your large feathered protector of the podcast Scott Burger, and with me is my ghostly summoned family.
+Oh, it's Colin, a man who turns into a big wolf to fight other wolves.
+And y'all have heard, of course, of the Dung Eater.
+0:53
+Well, Sandra Harshman here, the fun eater.
+Because I'm about to gobble up and suck all the fun out of this episode right now.
+And with us, we have a double.
+I think this might be the first time in Grog Pod history back-to-back guest episodes.
+Who do we have with us?
+1:09
+Hello.
+I'm Chris.
+It's it's me coming, coming over the hill.
+A Birdman being carried by another bird.
+Exception.
+Yes, this this week we are.
+I never in a million years would have thought we would be covering a game like this, but we are covering Eldon Ring.
+1:30
+Night Rain released afresh 150 days ago March 29th, 2025.
+Out on kind of a lot of the platforms The the you got it on the steams, you got it on the Xboxes, the Playstations, not Nintendo Switch yet, but maybe let's see it was this is yeah, a from Software.
+1:50
+It is from From Software a a developer who in my heart sits sits almost at like the the core moments of of like video game them for me, like the first Fromstaff game for me playing was the 1997 PlayStation One Armored Core one game with all seven of its of its pixels or polygons in it.
+2:14
+And it's upside down controller.
+Oh yeah, Armored Core Night Reign win.
+Anyway, From Software developed and published and this notably is not a game directed by the one and only the the kind of fromisance game director as it were, Hidataka Miyazaki.
+2:37
+This is a a directorial debut from one Junya Ishizaki.
+So a little a little different or a little context setting here.
+Miyazaki is the one that we know from Armored Core 4 Demon Souls, Dark Souls.
+Maybe you've heard of them?
+2:52
+Dark Souls 2 Blood Studio.
+Ghibli.
+Yeah, yeah, it's the same guy.
+What if they were cousins?
+Wouldn't that be like, wild?
+I'm pretty sure.
+They're not, obviously, but I did not know that about night rain.
+Interesting.
+OK, yeah, this is this is useful information.
+3:08
+I learned a lot.
+So.
+Far so so new director.
+And yeah, crucially Miyazaki was the director behind Elden Ring.
+But this is a has a spin off question mark by Ishizaki who is is is a from Soft, you know, core person who's done map planning from Dark Souls.
+3:30
+You actually Andrew worked on Steel Battalion, believe it or not.
+Is that a fact?
+The Dark Souls 3, Elden Ring, Elden Ring, Shadow of the Urd Tree Battle Director, and yeah that'll that'll.
+And doing the battle.
+Directing here in a minute, but.
+3:46
+Absolutely.
+Oh yes, for sure.
+And do we know anything about George RR Martin's involvement in this game?
+Oh yeah, George RR Martin wrote the extensive 900 page lore Bible for for Night Rain.
+He wouldn't stop going on about birds carrying birds like it's just every other scene.
+4:03
+It's very important descriptions and Birdman being carried by a bird.
+Bigger bird The last 300 pages are just the the Raider character screaming night rain your.
+Your average player of night rain has about 62 hours of gameplay in it and night rain amazingly is the 18th most popular rogue like game on steam with 136,212 total reviews.
+4:29
+Chris, as our guest summon for this episode, you have the jolly cooperative task of providing us with A1 sentence soapstone in description that you find on the ground of what one does in Elben Ring Night rain.
+4:45
+Soapstone inscription.
+Gosh, let's see here.
+I'm trying to remember some of the choice phrases but.
+Try.
+Oh no, the old dog.
+What else we got?
+Knights the toll if if only I had a.
+5:03
+To.
+Like.
+Invisible Go.
+Ahead.
+Yeah, basically so.
+What do you do in in this game?
+What do you do in night?
+Rain, you run from the rain, you bump against orbs and you do Dark Souls like combat.
+5:27
+Precisely.
+And you do so in a cooperative way, Mostly cooperative, right?
+Optionally cooperative.
+Optionally cooperative.
+Recommended.
+Optionally cooperative.
+Yeah, my experiences with the game were mostly cooperative in the way that like you doing what your boss tells you is cooperative.
+5:48
+Yes.
+It's very Scott, Scott.
+Scott and I played last night and boy, that person we played with carried us so hard.
+Yeah.
+Yeah.
+Hey, Chris, what's your screen name?
+Maybe.
+No, don't tell us, but.
+Maybe it was you.
+You can.
+Maybe it was you.
+6:04
+It is not.
+Oh, OK, never mind.
+Never.
+Mind, I've I've I can count the number of times I've pinged on, I don't know, probably more than on your my fingers, but like, yeah.
+Oh, OK, yeah.
+This guy was.
+Pinging more than that person.
+My opinion Feathers.
+6:22
+That's you, my goodness all.
+Right.
+Yeah, Chris.
+What is what's what's your background with Souls games?
+My background with Souls I started with I.
+Predicted it.
+Did I not predict this question?
+Sorry.
+Go ahead, I'm great.
+It seems very reasonable.
+Yeah.
+Where did you begin?
+Apologies, just cut me off.
+6:38
+I started with Dark Souls One on the Xbox 360 and I played that very slowly, very slowly and as a wizard.
+That's a spellcaster.
+That's a.
+Spellcaster, Sorceress if.
+6:56
+You will I remember back in the day when Dark Souls was was starting to come into to be all the rage and I I never had a PlayStation, so I wasn't unable to experience the full fervor of demon souls at the time.
+But I mean, like in our in our just previous episodes, Spelunky, we were talking about this era of hard games are cool again.
+7:17
+And Dark Souls prepare to die edition was coming out for Steam.
+And I'm like, oh, like it doesn't require games for Windows Live.
+And I can actually like kind of run it.
+Maybe.
+I remember it being extremely janky.
+And I'm like, all right, I'm I'm sure this is, is probably worth it, right?
+7:34
+And then just getting bludgeoned by humongous demons and like, like torn asunder by by humongous skeletons in the first starting area.
+And I'm like, OK, yeah, this game is great.
+What else do I have to play?
+So like that's the thing, we could so much like culturally involved in the From Software games and like Elden Ring.
+8:01
+Night Rain in particular fits into so many different pieces, right?
+Like the difficulty of Dark Souls.
+To me, it's funny.
+A lot of it's the comedy.
+The skeletons are like Ray Harryhausen, like, you know, I'm, I'm making a, a motion.
+8:17
+You can't see one. 100% and with and with Scott's computer, and they looked like Ray Harryhaus and they were moving at about the same number of frames.
+Because your computer's stunk.
+Got ya.
+It bonked over the head.
+You get hit by giant bowling balls.
+It's like big.
+8:33
+Tech.
+And gloomy, but also buried.
+Yeah, tongue in cheek.
+The little sound effect, the little, the little I I don't know how to describe it, but the, the sound that plays as it says you died is like very iconic.
+And the the, the sound that it plays every time like a creature dies, the like, sort of like, kind of like I'm doing a terrible job.
+8:52
+But yes, you're absolutely right.
+And, and it's kind of a Looney Tunes game and.
+Yeah.
+And like I think the the you died text is is maybe important here because they make you sit with it.
+They make you sit with you died.
+9:08
+Look what you did, yes and like.
+You should feel bad.
+I think as we get into talking about night rain, like the feeling of you died feels a little different, yeah.
+Absolutely.
+9:24
+Like this this game, if if nothing else, is such a stark departure from the previous games that Will is not here to join us.
+But I have dragged Will kicking and screaming Co-op through all of the Dark Souls series just to make sure that he he experienced all those you died moments.
+9:41
+But I think like.
+I think all of the Dark Souls games seem very interesting in that they're as close as you can get to a roguelike game without being anything like a roguelike game because they're absolutely run based but in no way random.
+9:58
+Which is like it has a lot of the things that like if you were trying to repeat the same boss over and over and over until you win, is that not just what you do in a rogue like?
+Game, well, I think it's.
+It's, but there's no randomness.
+Yeah, but that that's like the the the two helixes of the DNA of Rogue games is the proc Gen. or I guess like meaningful randomness and the perma death, like driving each other in such a way of like, oh, there's this, you know, tension and risk of not wanting to die, but like you know that the next run will be random.
+10:32
+And it's just that kind of like intertwining of the game mechanics.
+Whereas like with all the souls games, it's like you know, you, you have like a set path and along that path you might die.
+And then you have like this little mini goal of like going and retrieving your blood stain and getting all of your your souls or runes or what have you in order to kind of continue on.
+10:53
+But like if you if you die again, I mean it's not quite permadeth, but it kind of feels like it almost to some degree.
+You're like, well there goes 500,000 souls that I could have used for something but.
+Yeah, for sure.
+It's not quite permadeth something a little different, but definitely next door, definitely next.
+11:13
+Door so the souls the titular souls series demon souls Dark Souls one through 3, maybe even Sekaro to some extent all all kind of in their in their set part of the Miyazaki Canon.
+11:29
+And then we have Elden Ring, which is like what if Dark Souls, but big and open world and really like a stark departure from like the tight corridors and like really like interconnected almost Metroidvania style level design and Elden Ring just being this huge open world of just stuff to do like like the Ocarina of Time of Souls games.
+11:59
+I mean, I, I have a little bit of experience with Elden Ring.
+I only played it for 100 hours.
+What about everybody else?
+So when they similarly, when they announced that the Witcher 3 would be an open world game, I said to a lot of people, you know, I said to my friends, if they can do it, which I doubt, it'll be incredible.
+12:24
+And they did it and it was incredible.
+It is incredible.
+Similar thing with Elden Ring.
+I, I had my reservations, but I'm like, well, they did it with Witcher 3.
+I don't know.
+But honestly, check it out.
+I was very on the Internet in 2008 and I I was kept hearing about this game Demons Souls and I'm like I'm APS 3 fanboy.
+12:46
+This this is important to me because it's APS 3 exclusive.
+I was running around like Sakura Con 2008 trying to find an imported copy because it was only out in Japan at the time.
+Unfortunately couldn't I?
+I would have easily spent I would have paid double easily.
+13:03
+Anyway, I, I I pre-ordered the American release, went and got it.
+I traded in a couple of HDMI cables that are game crazy and I got it for like like 30 bucks or something HDMI cables.
+They were they were hot ticket.
+Anyway, took it home, played it for a long time and it was it was one of those experiences wherein I played it and I was like, yo, this is a great game.
+13:25
+It ain't for me.
+I don't have the time.
+I don't have the patience, I don't have the attention span, but it's a great game.
+And then I did not play a Souls game for a long time, but I got to enjoy Souls games because I'm like, I knew about this before it even came to the to America.
+13:43
+I knew it was going to be a big deal.
+I knew it was going to be good.
+And the fact that it's turned into such a iconic series and such an important and and prolific, important and influential series is has made me feel great throughout that entire time because it's just like, I was right.
+14:01
+I knew it.
+But anyway, never actually played an entire pardon me Souls game all the way through until Eldon Rank.
+It took like the the greatest depressive period of my life to bring me to the lows to actually play a Souls game precisely.
+14:22
+So I was in, I was primed to be in the perfect mindset.
+And anyway, I played through it and I really enjoyed it.
+And I don't know, I spent maybe 303040 hours on it or something like that.
+Wait, you beat it in 30-40 hours?
+Let me clarify.
+I beat Melania and then I lost all motivation to play it.
+14:42
+I was like, she's the herds.
+Boss.
+She's the boss.
+I don't give it.
+I barely know what's going on in the story.
+I don't care to play the last like few hours of the game.
+And my.
+Wife is like, but what about the, oh, you're not going to learn about the Dodrick and fucking whatever Georgie wrote about the herd tree needing to be watered or something?
+15:02
+And I'm like, I don't, I don't care.
+I beat Melania and and I feel like I pretty much beat the game.
+So I stopped and I really enjoyed my time with it.
+Whereas I put in 28 hours and I beat the first boss.
+Yeah, I and then.
+I was like, wow, I beat it done.
+15:19
+Don't can't can't play this game anymore.
+Too bad.
+I.
+Meant to DM you to encourage you not to volunteer that information.
+No, I don't care.
+We'll fix that in.
+Post.
+I mean, I played I I did, I will say that I, I fucked around and I was like, I went down in the weird river area.
+15:37
+I did a bunch of other random stuff.
+I think I got I got I, I played for more after that boss and then eventually I was like, wait a second, there are how many bosses?
+And I was so bad at this.
+What like it took me many hours of grinding to get through.
+Was it Margot?
+15:52
+Margot.
+Now, not that you asked for this, and not not that you even necessarily need it, but now my good, my good pal Colin here, don't hold this against him.
+He was using a Steam Controller.
+Yeah, I do wonder about the Steam Controller.
+Now he could.
+Barely control the camera.
+He couldn't control the camera and no wonder it took so long.
+16:11
+He was using a like a first Gen. steam controller.
+Please take that into account.
+So realistically it only took you with adjusting for that.
+I mean, it only took you like 15 hours to beat him.
+Yeah, I'm not what you would say good at souls like games.
+The technology I think wasn't doing you really many favours, Chris.
+16:29
+Absolutely not.
+Yeah.
+What's what's your experience with the Elden Ring Averse?
+So I was just checking my my steam 673 hours.
+And did you beat the first boss?
+Yes.
+OK just checking this is this.
+16:45
+Is So what?
+Like what are we calling the first boss?
+You have a few options.
+We're we're talking about what he said his name earlier.
+Mar got the, you know, dismissed these a horrible ambition.
+Yeah, the guy you found out.
+I'm I'm messing up the the.
+Quote on a bridge in a castle.
+17:02
+Yeah.
+That guy, Yeah.
+Great guy.
+I love that guy.
+We love.
+That so?
+So no.
+Stranger to number one favorite, favorite elder ring character.
+I like the well, that's a spoiler.
+I like pockets.
+He had, he had a big, he had a big Rep and he lived up to the Rep.
+17:20
+Pockets.
+Shoot, that's not his name.
+Patches, sorry, is.
+That the pot man look.
+I think you're here for politics.
+Get.
+Confused with Pocket Cat?
+Pardon me, Patches.
+Gosh.
+What a delight the.
+Best guy's the pot guy, the big guy.
+Alexander, Alexander the Warrior jar.
+17:37
+Yeah, that's the one, Yeah.
+Love that guy.
+Shoot.
+Yeah, Chris, what have?
+We got.
+You got to love Raya, the snake girl.
+She's doing her best.
+I don't know.
+I was going to say her, but that's a spoiler for when young Colin makes it to Volcano Manor.
+17:56
+Never mind.
+And Scott, favorite favorite character?
+One of your.
+Favorites doesn't have to be number.
+One, we won't hold it to you like the Grog Pod rankings.
+I mean, I'm, I'm a big blade guy.
+The the big wolf wolf head man he he's certainly super cool.
+I was a bit in like a.
+18:11
+Bro Y way not in like the slash fiction way.
+I think that's there's a problem with that.
+And I was a big fan of the of the what's his name?
+The the guy with like the cool looking like webbed helmet that like he's just got like this lone swordsman guy that shows up every.
+So yeah.
+18:27
+And then you.
+Meet him later and then he's been like, he makes like a like a heel turn and I'm like, no, right.
+He's been taken over by a Siberi, but everybody's.
+Least favorite character?
+Yeah, like canonically the most annoying man Yeah, God thing.
+18:47
+The Taliser that you put on to make enemies attack you more.
+Yeah, indeed, real I'm.
+Also a big I'm sorry, go.
+Ahead.
+Well, I was just going to mention while we're on the topic of Blaive the wolf.
+Live.
+Live, excuse me, Blaive the wolfman incredible voice actor casting, but also like, you know, everyone was like was, was was like really lusting over him when the game first came out and and I I I was also drawn to this character.
+19:17
+I thought he was such a great guy and and his story goes in a horrible direction And when and when you were forced to fight him when you come out of Randy's tower and you have to fight him, I couldn't bring myself to do it.
+I just I ran away.
+He's still running around at the base of that tower like in in some sort of a berserker fury, presumably to this day.
+19:37
+But Chris, your your second pick.
+Ranalla.
+Ranalla like.
+Top tier divorcee mom the.
+The lady who's like in the.
+My my dear sweet sweetings.
+I got to.
+19:53
+I got to look this up.
+Sorry.
+Nurturing the the pondering, pondering her little orb.
+I mean, I do appreciate a good orb ponderer.
+We love that.
+Is she the one that gives you the respec?
+You know what?
+We've gone too far afield.
+I'm sorry, this was fun.
+Yeah, this is a different game.
+20:09
+Well, yeah, I mean.
+I mean, is it though?
+Well, is.
+It though, we're gonna get into.
+That yeah, cuz I think it's one of my first notes that I have in my Google doc here is like our our game that we're actually talking about this week, Elden Ring night rain, not a regular old Elden Ring feels like this is a Majora's Mask moment to Elden Ring's Ocarina of Time moment where it's like something so different and out of left field and weird and wacky, but like it exists in like almost perfect complement to its original source material that it does.
+20:46
+It does feel like it's some kind of standalone experience, but that like, if you're coming in fresh or haven't really played the first one at all, you're gonna be like so overwhelmed and bamboozled by like, what are all these things?
+What is with this foul, tarnished business?
+What is this?
+There's enemies and characters from other Souls games.
+21:04
+What is this parallel universe collapsing craziness?
+I remember when night rain was revealed at the Game awards 2024 and that trailer came up and I was just like, oh, you know, I could, I could like tell maybe like 30 seconds and like, OK, this is this is it's a from soft game.
+21:21
+It's in the Elden Ring averse because I, the second I saw those little flower assets like wiggling back and forth like Elden Ring, there it is.
+And I don't know, like I wasn't super hyped on the DLCI didn't I didn't play the shadow of the Urd tree DLC because I was just was so burnt out on bass Elden Ring.
+21:38
+And then I see this from the trailer, this big like blue wall encroaching in and I'm like, wait a minute, blue walls encroaching in.
+That sounds like a like a Fortnite thing.
+What in the hell are they cooking up with?
+21:54
+The It's the Elden Ring.
+It's closing in on you.
+Mount your voice.
+And they're showing, they're showing all these new characters and abilities and, and like full on sprinting without your, your, your magical donkeys that you're, that you're running around on your horned, your horned horse boy torrent torrent.
+22:16
+And like there's, they're all these new like hero characters and they're like playing with and there's like it's very Co-op focused in it's gameplay footage and like, what on earth am I looking at?
+And then it's just like, you know, you are be your task is to push back the cycle of the night and kill the night Lord.
+22:36
+And I'm like cycle closing ring, Fortnite elder ring.
+And then it's it comes out that like the description of this game is like it's a roguelike.
+And I'm like, I I just like drop anything that I had in my hands.
+I'm just like, what are you kidding me?
+I think like the the most AAA size studio rogue like game that we've covered so far has, has been and probably will be returnal until like housemarks next game sorrows comes out.
+23:05
+I think 2026.
+But like, this is like an unconscionable thing of like a like a stand alone package, like a $40 game that's not DLC, crucially, that's like a straight up like a roguelike or roguelike or whatever game.
+And I'm just like, my jaw was like on the floor.
+23:23
+Chris, I don't know if you followed that announcement at all and what your reactions were at the time.
+I it was confusion.
+It remained.
+I'm going to be honest, it remains confusion and it's like it.
+Hasn't become any clearer 150 days in.
+23:39
+Yeah, 'cause like we're, we're talking about it in relation to night rain.
+Sorry, Elden Ring.
+Indeed.
+Yeah.
+It's pretty wild.
+I was convinced it was DLC for a long.
+I'm like, oh, cool, So this is like an $11.99 game mode.
+Neat.
+23:55
+But yeah, no, but.
+But what was?
+Even though I was confused, what was not lost on me was the fact that we're mainstream baby roguelikes.
+Hey, come on.
+Yeah, absolute hype and utter bewilderment at the time.
+And I think everyone else was also bewildered because everyone was expecting like a new like Shadow of the Urd tree style DLC, like big Eldon Ring style expansive environments, standard Eldon Ring souls style gameplay.
+24:24
+And this looked like nothing like that.
+I mean, it looked like it, but it didn't look like it just cause like the fast motion, everyone's running around you're, you're like wall jumping.
+You are Sekaro grapple hooking on things.
+And I'm just like, Oh my God, I'm going to have to play Sekaro first before I have any idea how to play this game.
+24:44
+And yeah, like, I, I hadn't played Sekiro at all, but I'm like, OK, it's gonna be fast pace.
+I'm already bad at Souls game, so I gotta get, gotta get good.
+And I, I, I didn't beat Sekiro, but I did beat Lady Butterfly with it, which I think is which.
+25:00
+Means you basically beat the game.
+Yeah.
+I mean, that's that's as.
+We all know you've beaten the hardest butterfly boss of any of these games, and you've basically beat the game.
+But I played a whole bunch of Armored Core 6 to kind of to also kind of get prepped.
+And I think like when when Night Rain first launched, like people brought that kind of like attitude with them of like, like this game did not launch particularly well.
+25:26
+It like the first month that it was out, like it was a 79% positive game on Steam.
+And I actually had to go back and do the math.
+I'm like, OK, of all of the roguelike games on Steam, like where does this rank in like the like the worst ones?
+And there's, there's like some hand WAVY math that you can do to figure out the actual answer to this.
+25:46
+But like, I think I, I wound up digging through and like OK, of maybe like anything that's even remotely tagged roguelike on Steam.
+It was maybe like the 40th worst one out of like 16,000.
+And, and even worse, if you tighten up the criteria a little bit, the things that just have like roguelike in like the store tags that kind of show up like right when you open it, it was like the 16th worst.
+26:11
+So it was like people like did not like this game at first, but the next month it went from 79 to 85% and then the next month 85 to 87%.
+And now I'm sure it's even higher now, but like it is, it's like crawling out of this like pit of despair of people being like no desk slam.
+26:29
+I wanted more shadow of the herd tree and I wanted to fight 10 Melanias at once at level one with a jar in my head, blah, blah, blah.
+And I'm just like, I, I understand, I understand the frustration, but they designed a, a game specifically for this podcast so that.
+Means they just need to they.
+26:46
+What they didn't realize at first was that if they just found two absolute noobs, they could ramp up the difficulty by trying to solo all the bosses while we just were dead in the corner.
+As as we learned last night and all the other times they played.
+27:07
+You know, I think it's been an interesting experience playing so far because it's a wildly different game when you play with someone who knows what they're doing, like a random person versus if you're playing with just, I mean, it was me, Scott and will forbid and it's like we got pretty far.
+27:28
+Yeah, we, we got the, the Bladius boss who's like a wolf that splits into three wolves down to like maybe less than 50% health.
+And for context, will, Will was picking a Wilder and he was just using a bow the whole time and not really understanding at all what he was doing.
+27:45
+And we got that far just because I was like coaching and directing people like, OK, now we're going to go this direction.
+Now we're going to go over here.
+And we weren't like routing particularly well.
+We're running super fast.
+It was more of just like, here's here's the kind of intro to the systems.
+Let's we're I know we're not going to win and that's fine.
+28:02
+We're just going to like ease into it here.
+And we still got like the the last boss or I guess the boss down to 50% health, which I'll take.
+I'll take that as a victory, you know.
+Yeah.
+I mean, you were you take the victory because you were doing most of the work, but the, the, the feel of it running around was definitely like a little more meandering a little bit more like we're we're like, oh, let's go over here versus when we're playing with like people obviously know like really what?
+28:30
+They're doing ping, ping, ping, ping, yeah.
+Yeah, it's like you're, you're just like desperately trying to keep up with them and they're somehow like beating bosses and field enemies before you even, like, catch up.
+Like, wait, wasn't there supposed to be?
+28:45
+Weren't you supposed to need all three of us to do this?
+No.
+No, apparently not.
+Yeah.
+So like, I guess this brings us to like, like where is everyone at in the game?
+Like.
+I think I've beaten, I've beaten every boss except the the God damn flying jellyfish.
+29:03
+I just yeah, it's what we're.
+Doing after this podcast.
+I've come, I've come like like a hair's breath multiple times.
+Even with like the great build going.
+We're just rolling the whole, the whole base game.
+And then he's just dropping these sleep nukes everywhere.
+29:19
+Yeah.
+Yeah, I'm not honestly not sure how you do that one without like the iron.
+Eye, I mean I I I was an iron eye and I had a really good holy build going but it just that's that's what I think is very interesting about this game is that you can be like you can have like a really good team you can just be steamrolling the like the day one day 2 segments and then like you and this just happened to me before we jumped on this recording.
+29:46
+You can jump into the day three boss fight and everything could just fall apart where like you think, oh, you think you got it going on?
+Well, here's this boss that's going to be doing like 360 no scopes across the screen, and yeah, you got to be like, just because you're good at the day, one day two-part is not a guarantee that you're going to roll the boss at all.
+30:07
+No.
+And that's like that's like 40 minutes.
+That's like 40 minutes of your day to get there, Yeah.
+I have played this game for not very long.
+I've played it for 8.5 hours.
+30:23
+This morning I beat the Ma Dragon, which I believe is the second boss.
+Partially because I was playing OK, but also because I had good teammates and so I've only killed 2 bosses.
+30:38
+Oh wait, three if you count the tutorial boss.
+Now it took me making a few extra save files, but I got them on the third try and I was pretty happy about that.
+Cause of course, famously you're not supposed to beat the tutorial bosses in these games.
+30:57
+And really nasty trick for the tutorial boss to just fly in like a super Saiyan and and just land on you as this as the entrance.
+Like that's, hey, what's playing?
+What's this glowing aura underneath me?
+31:13
+And then kaboom.
+See, I feel like that, I mean, or whatever, I, I know you're kind of joking, but I do feel like that is like if you had not played any of these games, if you wanted to play, if you somehow were like Eldon Ring, night ring, This is the this is the first Dark Souls game for me.
+31:30
+This is the first souls like I'm going to play.
+It would be an accurate introduction to what is about to happen to you.
+Oh sure, they have a Rep.
+I get it, I get it.
+But I.
+Mean I, I, I do want to talk a little bit about this tutorial first, because I think it really does kind of give you the the in a nutshell moment of this game where it starts off very, very dark and purple and rainy purple rain, very Prince like and very like from the trailer.
+31:59
+And you're just like, oh, there's there's the the the running man who's like running through the rain from the trailer.
+It's John Knight rain off on some new adventure here and is the one the first character you play as the Wilder with AWY and you you breakthrough this veil of blue very it's a very cool intro where like it's very cinematic.
+32:21
+You're like breaking through this very dramatic wall of blue fire and you come to this ruined church and seasoned Eldon Ring players would be like, oh, like, you know, you're in a Church of America and you're of, you know, this new character on a new adventure kind of a deal.
+And like, for me, this was great because this is kind of like my standard Elden Ring or souls character of like shield big claymore.
+32:44
+I'm like, OK, this is all this is like they they took focus group notes of like, what's a game that Scott would really like?
+Let's just design that.
+Why?
+Not the main character is not also not that dissimilar from like the default Demon Souls character, like going back to like the classic like kind of crusader knight of the sword and a shield.
+33:02
+Yeah, for sure.
+This this cutscene also, it looks nice.
+It's like well animated.
+And I mean, honestly, come on, like From Soft games, they kind of have a Rep for like being kind of slapdash when it comes to certain elements of the production quality.
+And like I was immediately like, oh, this looks nice.
+33:19
+Yeah.
+I mean, I think there's like there's certain, and I think we've talked about this before where it's like the fidelity of the art assets versus like the artistic direction.
+And like, yeah, like the, the grass blades look fine and you know, the shadows or whatever.
+But like the way that like the camera panning and like just the blocking and like, like cinematography of the shot or whatever.
+33:42
+It looks really good.
+And, you know, it starts you off and you are just standing there with like this big castle in the distance and it's very clear what your mission objective is.
+You know, I don't know who I am.
+I don't know what I'm doing here, but all I know is that I must kill.
+And that is that is what you are set out to do.
+33:58
+And and it does pop up with like these little tutorial things like here's the map and here's how to kind of like navigate the world.
+And you see that it's kind of just like closed off a little bit and you're like, OK, it teaches you how to wall jump.
+Like, oh, here's this kind of like pile of cemetery headstones, which make for really nice wall jumping landmarks.
+34:23
+And it takes you into this kind of castle that you, you know, Elden Ring.
+It's the the standard castle from the the first Biome of limb grave.
+You're kind of walking around.
+You're like, OK, yeah, I remember Elden Ring.
+This this seems familiar.
+Just run up and smash dudes.
+34:39
+You you walk by a sight of grace, but but instead of crucially leveling up whatever thing that you want, you just hit.
+Just give me the level, damn it.
+I'm in a rush.
+I got.
+Stuff to do, no decisions.
+You're not picking through attribute points and thinking about your build.
+34:56
+And along the way you're picking up weapons and putting them into slots in an in an inventory system that looks very different than previous Elden Ring games.
+And with some blink and you miss it.
+Things of like, by the way, some weapons here that you know, they're kind of standard as you would expect from eldering stuff, but they have passive stuff going on them and you just need to have it in your inventory.
+35:20
+You don't need to have it like in your hands.
+Does it ever explain that?
+It does.
+It does very briefly and I was trying to get a screenshot of it and I accidentally pressed OK through it while I was just like running like God damn it.
+I mean, I was.
+Definitely trying to get through the tutorial quickly.
+35:36
+And it was like, oh, I played Ellen Ring.
+Yeah, I was trying to get through like pay attention to this, but.
+Me, me too.
+I was trying to get through it quick.
+Three times, in fact.
+Yeah, It's, you know, I think it's a pretty OK tutorial.
+I don't, I don't know what it would be like for a person who's never played a Souls game.
+35:54
+Probably.
+It's far from perfect.
+Certainly.
+Like I I missed the part about passives and I kept screwing up the pardon me not triangle the Y plus R1R2 pardon me R1 and L1.
+Like I kept switching to the wrong, you know, classic, that classic stuff.
+36:13
+Yeah, but the tutorial goes on to to tell you like how how pinning or like, you know, waypoint pinging works and and your first NPC, the Duchess is there dead on the stairs.
+And you do.
+We know what got her.
+It was probably just some some torch wielding decrepit monster that just like waved the torch really fast and like if she didn't block in time and then got caught on fire and fell over.
+36:40
+That happens to me all the time.
+But you know, and again, you know, you go over to her and to revive her, you just smack her with this giant axe that you've found.
+Also very different than how?
+Brilliant design, none of this crap.
+Or you run up and press the hold down the use key or something like this ain't this ain't Fortnite as much as it is Fortnite, It ain't Fortnite.
+37:01
+And I, I love the decision to attack your comrades to, to get them up because of course the number one thing you do, as you said at the beginning of explaining the tutorial, Scott, I don't know what I'm here for, but I must kill and I must attack.
+And that's your primary, the player, the character and the players primary way of interacting with these worlds is to attack stuff.
+37:22
+So it makes perfect sense that you would attack your allies to help them out and and get them back up.
+Yeah, there's very little negotiation going on here but that you and the Duchess go into this ruined arena and yeah, Margot just like drops a nuke on you and just like land superhero style right on top of you.
+37:43
+And then it's you and the Duchess, this AI controlled Duchess character fighting, fighting Margot.
+And in, in my experience, like Duchess gets down and I go and pick her up and then I get downed and then she does not pick me up and then she dies.
+37:59
+We both die.
+But then you have like another, you have another go at it, which is also crucial here, but she disappears, at least in my case.
+And then I get bludgeoned to death.
+And that takes you, takes you into the main game.
+But do you know what happens if you what, what what what, what?
+38:16
+What exciting cinematic element awaits you if you defeat this boss?
+It just displays a the end screen you.
+Defeated.
+The Night Lord.
+That's right.
+So that's, yes, I want to bring this up.
+38:34
+We've all played Eldon Ring.
+We all know who Margot is.
+Does he actually call him Margot or Morgot or anybody?
+I guess technically in this it just says fell omen.
+So yeah, I mean.
+Oh, which is like his title but not his.
+38:51
+Yeah, we don't know who this fellowman is.
+Yeah.
+It might be it is.
+I mean, I feel like, yeah, there is less global context for all of your fights in In Night Rain.
+Yeah, this.
+Is a this is a great point.
+It might be a spelunky situation with the shopkeep.
+39:07
+There's like a million of these fellow men's running around.
+Yeah, it that that is interesting.
+Of course, I assume it's the same voice actor, so I didn't even bother looking at his full name, but that's a that's a.
+That's a great point you bring up.
+And this.
+And this is maybe a good jumping off point because we're still talking, of course, we're still talking about the storyline, Scott.
+39:26
+This is kind of a multiverse is such an overused term, but this is kind of a mishmash.
+This is kind of a a conjunction of all the from sauce soft verses except for maybe Bloodborne.
+I didn't see any Bloodborne stuff.
+I mean, I guess like if you squint, the Duchess is maybe kind of a reference to Bloodborne and like.
+39:45
+One of her outfits, definitely.
+Yeah, yeah.
+And yeah, I have like a note somewhere in my doc here of like this being like a similar vibe to like Smash Brothers 64 where it's like, what if we just took like all the stuff from the Souls games, just jammed it into one thing.
+40:04
+And maybe it's not like maybe it's not like the best execution, but it's a certainly an interesting idea.
+And holy shit, like Eldon Ring, Night Ring melee is gonna slap.
+Let me let me say that.
+But yeah, like there's there's like all these new characters.
+40:22
+Yeah, like your first boss is a boss from.
+Titular Elden Ring.
+Yeah, which usually takes you 28 hours to beat.
+But there are there are some bosses that do make appearances.
+40:37
+I don't know if there's actually like like ads or like little small enemies from previous Souls games, but there are some harkening back to previous Souls bosses with like the Smelter Demon or Dukes Euphrea or.
+Gaping.
+40:54
+Dragon.
+Yeah.
+Gaping Dragon I.
+Called him the mod dragon earlier, Gosh.
+Oh well, this is a different one.
+This is a different yeah dragon with a giant gaping.
+Mountain it's a it's a different mouth to gape dragon got.
+It you have a the the Nameless King is big one from Dark Souls 30 really.
+41:11
+Dancer of the Boreal Valley.
+Yo, we got the dancer.
+Even I know the dancer.
+I didn't.
+Even do that game, there's a number.
+There's a number of bosses that that do make their reprisal and notably that like it feels like if you took a greatest hits list from all the Souls games, like, oh, we're going to take this one from this game, this one from this game, that one from that game.
+41:34
+It kind of feels like they deliberately did not choose those for this entry.
+And it looks like they just kind of like maybe picked, I'm not going to say they picked bad bosses, but I'm going to say that they didn't.
+They didn't pick the the the goat bosses right out the bat.
+41:51
+Right, right.
+Maybe.
+I think that's probably a good idea with stuff they have cooking on the horizon.
+Yeah, yeah, those classic bosses like Colin, you know, like the like the wolf with the big sword, like the dragon at the end of Demons Souls like.
+Well, they didn't pick Melania.
+It's true.
+42:07
+Like no.
+I feel like my guess is having played no souls games and only six hours of this game, my my uninformed guess is that they probably didn't want to pick ones that were too involved in the actual story of the other games, because that starts getting kind of weird.
+If you're like, like, hey, this is a deeply plot character from this other game versus like, if you're fighting like, what is what is the the plot relevance of the Maw dragon?
+42:34
+Are they like a you know how, how much do they talk to you?
+How much are they like deeply involved in the politics of the land?
+You're right, they didn't include the Sekaro monkey fight, probably because of the story implications.
+No, that's a good that's that's that's an interesting point.
+42:50
+But also I do like the head.
+I do like this head cannon of they're, they're saving those for the, for the big one, for the, for the once they've got it all fine-tuned and dialed in, yeah #2.
+Well, we'll probably talk about it a little later, but there is DLC planned for this, which definitely sounds interesting.
+43:10
+But yeah, I guess like maybe coming back to like your SO after the tutorial, you're dropped off into my nightmare factory, the round table hold, because for the life of me, I don't know like this is definitely a me thing.
+I cannot navigate this building at all and I'm always constantly running in the wrong direction for finding like the the upgrade guy or for finding like the, the, the various merchants or the dung eater or whatever in base Eldon Ring.
+43:38
+And I'm just like, oh God, not this again, please.
+But it crucially includes like a like a mini fast travel system around around this area, which I definitely appreciate.
+But this is but this is your kind of hub world to start where you have all of your different kind of characters that you can sort of talk to.
+43:56
+They don't really have anything super meaningful to say more or less, but this is where we see all of the the other night farers.
+So we we have John Eldon Ring that we started off with with the Wilder, who has a like a a grappling hook and this giant fireball arm cannon as a special ultimate attack.
+44:16
+You have the guardian Birdman who does like a like a a cyclone attack and they're all just like jumping up in the air and then doing like this big nuke.
+Because of course, one of the critical new features is that each character has a a special which is on a, a moderate, an also moderate cooldown, and then an ultimate.
+44:36
+Yeah, yeah.
+And what?
+Is start to Elton?
+Yeah, it's a Not present in Elton ring.
+Yeah, indeed, indeed.
+What?
+What is?
+Sorry, what's the Super duper?
+What is what is?
+I'm trying to remember The bird guy has what now?
+Again.
+He does like a whirlwind thing to kind of like knock like big groups of dudes down and then like the other one is like jumping big, jumping up high into the air, crucially making a bald eagle screech as he comes flying back down and then like lands down and like.
+45:05
+Wait, is it a bald eagle screech or is it a hawk screech?
+Because bald eagles sound terrible.
+It could, yeah.
+It could be a red tailed hawk or an osprey.
+I guess I'll I'll have to get my my Merlin bird.
+Out we we need to check we need to check the the scripts that Martin put together.
+45:21
+The voice actor on file?
+That too.
+Yeah, and I'm sure, hey, that yeah, maybe it's never mind anyway.
+And, and who else do we have?
+Who who All the stars are here?
+Yeah, we have.
+Yeah.
+Chris, do you have a a favorite one?
+Oh I was just going to say the Guardian is also very focused on blocking.
+45:39
+Yes, interestingly, they they tried to fix blocking and make it useful against bosses Yeah, I don't know we could keep going down the list.
+My my main is definitely iron eye because I'm not good at video games and I get to shoot a bow, which also works.
+45:58
+They fixed bows and.
+And yet you have, for all intents and purposes, beaten this game.
+So I mean, you say that, but.
+Yeah, I don't know.
+I think that's more like so my play time, I have 69 hours.
+Nice.
+And.
+46:16
+Above the above the average as we we covered, we covered earlier.
+So yeah, definitely I, I think the most accomplished night.
+Have you beaten all of the the bosses?
+I have beaten all of the main bosses and like 3 of the ever dark bosses which are kind of like redux battles with some of the previous bosses.
+46:41
+So yeah, content that I will never see, to be clear.
+I mean, so like much of that experience was stress me just being like trying to figure out this game, but trying to figure out whether I do or do not like this game.
+46:59
+Sometimes it takes very 9 hours.
+Sometimes, like obviously I am engaged and played the game and and interested and enjoyed some of my time, but.
+It's a, it's a.
+So when you were playing, would you say that you were like, were you playing with random people?
+47:18
+I guess is the first question.
+So I did some playing with random people, some with just myself solo.
+But yeah, I agree with your statement earlier about following the pings.
+You know somebody's going to know where they want to go.
+47:35
+Yeah.
+Do you feel like you're good enough to be the person pinging if no one else is doing it?
+I can kind of guide, guide the crew along, like like Scott mentioned earlier, you know, that's the other thing, right?
+Speed.
+Speed is a huge part of this game.
+47:52
+Which is kind of, I mean, pardon me, this.
+There are exceptions, of course, but it's kind of a new thing.
+Eldon completely to souls game.
+Right Souls games generally speaking, have been, you know, take your time.
+48:08
+You know don't don't don't just don't just spam that dodge roll like you want to you want to be deliberate about your play.
+You want to you want to slow play fights if you need to.
+Now of course I mean Sakura's faster blood borne really encourages speed, but nothing like what we see here where it is a mad dash at all times Go.
+48:33
+Yeah, decision making, planning.
+Yeah, those other games you might have to like be fast while you're fighting, but then you can go just like kind of sit there and like, you know, alt tab and figure out what you want your build to be and how you want to level up your points and all that stuff.
+48:49
+Indubitably.
+Indubitably.
+But what?
+Yeah, what do we?
+I just googled Iron Eye.
+It turns out there's a SpongeBob character named that, but that's neither here nor there.
+So you have your ranged character, your Archer, your Ranger.
+Yep, you have.
+Who else is present at this wonderful round table?
+49:04
+Your Bowman, you have the Duchess who initially shows up as kind of this mysterious hooded figure that I've brought you all here today to slay the Night Lord.
+Kind of a deal who you can only unlock.
+After once you find her a pocket watch or something.
+49:20
+Well, you have to beat the first boss.
+This class classic souls game style beat the first boss, go to the the little jar vendor guy, buy this random or this item mysterious item from the jar man.
+Take the pocket watch item to the Duchess and she goes you've figured out my secret identity.
+49:36
+I've been Captain Duchess all along and now she's a playable character and similar similar kind of silly unlock things for the Revenant, who is a possessed little doll girl who can summon dead family members who range from small dexterous like fencing to like giant skeleton men who shoot laser beams.
+50:00
+Like the one that bonked you over the head in Dark Souls 1.
+Yeah, exactly.
+You have the the.
+Raider.
+Who is just big unga bunga bonk man.
+Unga bunga Amana Marth album cover man.
+Yeah, he's and he's, he's he seems fun.
+50:17
+I don't know.
+I didn't play as him at all.
+His specials are are punching and yelling and then creating this like a giant stone pillar that more often than not just kind of gets in the way of stuff.
+Yes.
+It's wonderful.
+Yeah, it it provides good like offensive buffs for people.
+50:34
+You have the Executor or executor who is is just John Secoro from Secoro, whose special ability allows them to turn into, you guessed it, a giant beast man.
+Just like in Secoro.
+Yeah, exactly.
+50:49
+And then you have the recluse who is the the big hat lady who is is the standard spellcaster and has quite an interesting and complicated design.
+I'll.
+Say.
+Where?
+Like if anyone knows the invoker from Dota it's that kind of like mix and match elements and make a new spell.
+51:14
+Yeah, I believe what Scott, you got maybe what, 10 seconds into explaining her to me and Colin before we went?
+Nope, next class.
+I mean, I honestly, it looks like the kind of class that I would be drawn to if I was, you know, 30 hours in be like, OK, I'm willing to like sit down and do like this the the homework, but is definitely not.
+51:36
+This was me playing like, okay, second run, I want to play a different character.
+Should I play the one where you have to like memorize 1000 different combinations?
+Probably not.
+Maybe I should learn the rest of the game a little bit first.
+Why, what?
+What's the deal with her?
+She's like narcoleptic or something.
+51:52
+She's always snoozing and she's always, if you go to talk to her in the round table, she's like, I might fall asleep, which I mean like same.
+Well, reading through her magic cocktail recipes, all 11 of them could put you to sleep because there's so many.
+So.
+So the idea with her is that her special attack thing, instead of just like, oh, you just like punch a dude.
+52:13
+It is they're you like pull magic off of either an ally or an enemy that has like a magical status effect going off on them, which can either be like magic, fire, lightning, holy.
+52:29
+I think that's it.
+Magic, fire, lightning and holy.
+And of those four, you have 3, three kind of like triforce slots.
+And let's say like you, you use a, you know, magic spell.
+It creates like a little colored reticle on the enemy that you can then like like Hoover up into your first slot.
+52:48
+And then let's say you do that two more times.
+So now you have three just like magic slots.
+Now you can use your ability.
+And if you, if there's all magic, it creates like a little, a little orb that like circles around the enemy and does like little like damage that just goes, goes like Pew Pew Pew, just like orbits around him and shoots him.
+53:09
+There's different effects if you do all lightning or all holy or all fire, that kind of stuff.
+There's combination differences.
+If you do like fire, holy, magic, fire, lightning, magic, fire holy that yeah, I mean, the, the, the list kind of goes on.
+And, and the recluse is Ulta is like a, an AOE status effect that allows people to do like crazy, like life leaf light, life Leech damage.
+53:35
+So you know, they can, they can run in and just do like, all right, now I'm going to transform into beast man now that I have this ult that the recluse has given me and I'm just going to run in there and just start tearing stuff up and I can't be killed because I can just get so much more health back kind of stuff.
+There's a lot of interesting synergies between these characters and all their different abilities and things that you can tell.
+53:56
+This game was made with Co-op in mind to start with, which again kind of like goes to under score like 3 player Co-op is the way to play this.
+Even playing with random's three player Co-op I would say is a a really good experience.
+But people.
+54:11
+Were shocked it worked shockingly.
+Well, yeah, and and people were losing their minds when it was first released.
+Like what do you mean it doesn't have single player?
+What do you mean it doesn't have like 2 player solos?
+It's like, well the game kind of wasn't designed around that.
+They begrudgingly only just released the duo Q matchmaking mode last week which I think Colin and I did 1 duo only run and it was fine.
+54:35
+But I think my personal experience.
+Was you did duo Ling grave duo lingo anyway, all right, interesting and and before sorry, before we did too far off of the the classes one.
+One of the best parts of the game is like this class design.
+54:50
+Everybody.
+I haven't played with a ton of them, but like everyone looks cool.
+Everyone has a distinct play style.
+There's all these neat synergies like this.
+This concept of introducing class in this way to souls is like is I think a pretty pretty neat thing and something that they did very well in implementing.
+55:15
+Yeah, it was really interesting to see them go that direction, adding classes and things, especially looking towards the future we're all talking about, you know, like rain too.
+I'm especially looking at the Dusk Bloods, which we'll see how that turns out.
+We'll see how that turns out, indeed.
+55:32
+In terms of like, yeah, these characters are very, very fun.
+They they all have different personalities and like you can see them doing different activities around the whole but where do they all come from?
+Good question.
+55:47
+Yeah, that is, that is a great question.
+In time, yeah.
+Basically, I can almost guarantee that Colin and Andrew have not dabbled with the the character background remembrances.
+Or the journal, Their journal stuff.
+Yeah.
+So check it out.
+I've watched.
+I've watched.
+Zulily the Witch which is just a random as a YouTube who does deep weird lore dives on souls games so I picked up a surprising amount of just.
+56:12
+Odd trivia, Odd trivia.
+How much it's my, it's been my experience that some of these odd trivia souls lore people, it's less that they're doing lore videos, it's more that they're doing fan fiction.
+56:29
+It's like, where did you come up with that?
+But I assume this witch, like any good witch is is is presumably like, like, you know?
+Randy No, they're more they're more like how big is this thing really?
+And we did some weird like we we found their files in the in the deep bits of computer very good.
+56:48
+And compared to them, maybe like this sound right is really big and then how does it get?
+But what if you stretched out this snake?
+Yeah, exactly.
+All right.
+This sounds much more scientific.
+I'm glad to hear that.
+I'm glad to hear that.
+Yeah.
+So the remembrances.
+I got to tell y'all, I don't understand it at all.
+57:04
+I've gone to the book.
+At first I didn't realize, oh, I have to actually like hit a button and and I read the first page.
+The first.
+My first interaction was I read the first page and like, well, that's incredibly vague.
+No need to go to the next page or anything.
+I guess I've activated it.
+57:20
+I guess I'll start a game and see what happens.
+And then and then later I'm like, Oh, no, I actually have to go start Remembrance.
+And then all of a sudden I'm in a soap opera and like the screen is kind of like frosted.
+And then I go to, I start a match.
+57:35
+I don't select a different character.
+And I could not tell a difference between a regular run and a remembrance run.
+What?
+What is happening?
+Could you, could the two of you enlighten us?
+So you start the remembrance from the journal.
+57:51
+It changes usually the placement of some of the actors around the round table, and you go and find them and talk to them and usually if you press your map, they'll show up on the map and you can.
+It's like a little exclamation mark of like, go here, check this thing out.
+58:07
+Yeah, and they'll tell you some things and then, you know, maybe, maybe they'll have a task for you.
+Sometimes not.
+But when they.
+Here's how the remembrance tasks work, and this is one of possibly I think one of the biggest like unforced errors for their story execution.
+58:31
+Scott is nodding.
+You have to like if they give you a task, you have to be start in the remembrance and start that task.
+If you switch characters, you exit the remembrance and you cannot do that remembrance task.
+58:49
+If you start outside of the remembrance and enter, you know, pull up a random queue, land into a boss that you need for your remembrance, you're not in the remembrance and you cannot complete that task.
+59:08
+You have to start it in the remembrance, pick that specific boss, commit to that character and complete the remembrance.
+Yeah, it's not like an optional thing of like, OK, now I have like the next time that I pick Guardian during like the the hero selection screen, like I can't just go and do their remembrance while like I'm on the next run.
+59:32
+I have to like it feels like there's this like this weird like back end, like programming, like corner they painted themselves into.
+And they're like, the only way we can make this work, guys, is if we do this like weirdly esoteric thing here and someone just threw their arms up and like, well, we got to ship it, so let's we'll fix it later.
+59:49
+Don't worry about it.
+Fix it later.
+We, we, we spent.
+We don't have the money for that extra development.
+We already licensed the Evanescence song.
+We don't have the cash.
+Get it out the door.
+We'll fix it in post.
+And aside from being kind of like a headache to remember and you have to be a bit more intentional about it, aside from that, that like restriction like inflates your queue time because you can only pick one boss enormously.
+1:00:20
+Yeah, and yeah.
+And if if like, let's let's let's maybe take Guardian as an example.
+So you you pick Birdman and you're like, I would love to learn more about this Birdman's lore and history stuff.
+You go to the journal, it's just like a page of text and you're like, OK, and you hit begin remembrance at the bottom and maybe your your goal is to start an expedition.
+1:00:40
+You drop in, it's your kind of standard run thing, but there's a part of your map that's highlighted and your goal is to go and see see what's out there.
+And in some cases, you know, it's it's like a big boss you have to fight.
+Sometimes it's an NPC you have to go and talk to to get some key item to take back or something.
+1:00:59
+It's, you know, stuff that you can do while you're out on a run kind of deal.
+And I was trying to do this solo because I was like, well, I don't, I don't want to like ruin someone else's run by like pinging like, no, we got to go off to this like corner of the map to fight this.
+I think also another unforced error is that they are not kind of like unique enough enemies for this thing.
+1:01:19
+It's just like, oh, it's just like a big guardian golem in like the corner of the map who's he's just there.
+I'm like, OK, you kill him.
+You get like some something to kind of advance the thing.
+And then like that just gets you another page in the journal and there's like 7 or eight of these kind of steps you go through some that I think are are more interesting than others.
+1:01:39
+I think the Raiders 1 is particularly interesting where it puts you in kind of like a you'll notice like it's it's the the Colosseum PvP arena from Eldon Ring where it's cute.
+It's very different.
+Like you go, you go in like you fight just like A1V1 of some other some other guy like, oh, this is this was the first one that I did like.
+1:02:00
+Oh, this is kind of cool.
+Like this is neat.
+And then none of the none of the rest of them were as interesting.
+Add start.
+The only other interesting one that I've done so far was Iron Eye, where you're dropped into the map and your your your background lore is like, OK, I've got to go and hunt this traitor in the round table hold.
+1:02:17
+And you know, you've been contracted by this mysterious person to go and do so.
+I'm like, OK, I'm kind of on board with this.
+Let's see what happens.
+And your first target is like is a mirror match between you and evil Iron eye in one part of the map.
+And I'm doing this solo.
+So I'm like grinding around like, OK, I'm going to get you this time evil twin.
+1:02:34
+And then I'd like drop in behind him and I'm like dodge rolling doing all this stuff.
+And like that felt like a really cool fight.
+And then like I get the thing from him and I'm like, OK, great.
+Like I've advanced the thing.
+I don't really, I'm not really interested in like trying to like fight the main boss boss of day three.
+1:02:50
+Like I just kind of want to see what's more of this, like give me more of this.
+So I just intentionally tanked the day 2 or the day one or whatever boss fight.
+Yeah.
+And then I went back and like, OK, well, I want to do more.
+And then now it's just like, I'm, I'm waiting to see like what's going to trigger the next remembrance memory fragment?
+1:03:06
+Because it's not, it's not guaranteed.
+Like you do the thing and then it's like, all right, well, now you got to wait for the thing to happen, but you don't know what that thing is.
+Yet classic from soft vagueness.
+Yeah.
+I mean new, new, exciting from soft, a new.
+1:03:24
+Flavor of that that vague, it's different.
+Yeah.
+I yeah, it sounds super neat, but it it sounds like they didn't quite nail it.
+It's a little bit it feels like maybe like I don't want to say phoned in because they did their best and some of them have cool cutscenes like the Revenants had some like interesting.
+1:03:50
+I love cutscenes.
+I love bespoke cutscenes.
+Stuff and and cutscenes but.
+Well.
+I do miss.
+I really like, it's actually my favorite rogue light game.
+Enter the Gungeon.
+There are literal memories, remembrances of sort swords, which are alternate endings that you get to get to get the play through.
+1:04:11
+And what's, yeah, what's so exciting about those is that like you, you go through a run, you do this, you know, special, you go through the specific route, you click specific items and instead of going to the normal end boss, you go to the character specific flashback sequence, which has like all new, all new level, all new boss design.
+1:04:31
+And so like, I think, yeah, part of that the expectation I think for a lot of people is that, yeah, there's going to be a bunch of, you know, brand spanking new content, not just a random golem, which is looks like the other golems you fought in the corner of the map.
+But like the fact that there is some stuff that is, that is bespoke, that is specific and like unique to the remembrance system, I think shows that it has promise.
+1:04:53
+And again, hopefully it makes it into the next.
+Iteration, I think.
+I think there are a handful of those.
+I think Wilder has like an alternate ending that like you do all the remembrances, then you go and beat the The Night Lord heel store and then I believe you get some kind of different bespoke ending as a result of that.
+1:05:11
+I see.
+Well, obviously he's John, so you got to have a a special ending for him.
+Yeah, but OK, Well, thank you.
+Now I.
+More hand authored content.
+I feel like the journal also would be more interesting if it was just like.
+Mostly I just want to talk about how Enter the Gunge is great and it does everything perfectly, including the the the the synergies and the perks that exist and enter the gunge and how do we feel about the equipment and the items and the the perks, if you will quote UN quote.
+1:05:44
+So I don't know if someone better collected wants to run through the relic system.
+What do you got on the relic?
+System.
+So in in the round table hold the.
+Only meta progression in the game.
+The relic system.
+And is it meta progression?
+1:06:01
+I guess, I guess it kind of is.
+It's not so much like in in standard, I don't know, like your, your rogue legacies where it's like, all right, you do like 10 runs, you've unlocked the OR like, like Hades is a bad example of this where you do like so many runs to earn meta currency and then now you do like 5% more damage than you did before or something like that.
+1:06:20
+It's more like you're given interesting tokens to kind of like mix and match around to like give you like some build authority at the start of your run.
+And what this means is like you have for each character, you have like 3 colored slots like red, red, green and blue or red, yellow, yellow or green, yellow, blue or something like that.
+1:06:45
+And they vary and there's different ways that you can unlock more of them and stuff.
+But the general idea is that you have like these colored restrictions where like blue is magic or intelligence and green is more dexterity focused and red is like health and strength of whatever.
+And you pick up these, Colin, you were doing research on scenes which is not the early 2000s like punk, goth music scene, but but rocks, polished rocks.
+1:07:14
+Not the rock scene they're.
+Probably like the I think they're the same kind of feel as memories.
+Like it's like each of these rocks have like an essential vibe to them or something.
+It's like, oh, this is a memory of a warrior standing by the the US, the battle, watching his watching the the battle progress or something.
+1:07:34
+Oh wait, are they actually like like.
+Standing in the tranquil waves.
+Are they like scenes as in like like scene as in like ATV or a movie scene 'cause it's spelled SCENE.
+Yeah, yeah.
+And I and I was just like, wow, they spelled Stone really wrong here.
+This must be some old English.
+1:07:50
+Crap.
+Yeah, like like schedule tree or or or the the gales that you open up with enemies inside of.
+Them or me prawns?
+Oh, wait, no.
+Not like that at all, never mind.
+Can always trust someone who can boy me prawns yeah so so these are kind of things that like, you know, John Eldon Ring you pick him or I'm going to go on a go on a run with this guy and I'm going to set my relics to be like plus like some extra HP bonus or you know, my my starting sword will will do lightning damage or there's some that are character character specific like.
+1:08:29
+Or plus to your throwing abilities, which isn't that good, but the fact that you got it from defeating the tutorial boss, you want to wear it as a badge of pride forever more and never on a clip it.
+Yeah, they're they're I haven't unlocked any really good ones.
+1:08:44
+Are there any really good ones?
+Because so far, they all feel kind of.
+There, there, there are good ones generally, like the the bigger is better as it is with most cases in these souls games were like the bigger, the bigger the weird looking volcano stone, the cooler stuff that they do.
+1:09:00
+And I think it's it's kind of a mix of like some of them, like one for Wilder will be like, oh, like after using your grappling hook ability, if you have a great sword and you attack with it, it will it will turn on fire damage and actually like that's that's a hell of good fucking thing for that guy.
+1:09:20
+There's others that will yeah, do do kind of like similar, similar ideas that are largely specific to that character.
+But also if like if you get them aligned in such a way that like, oh, the synergy for this gives you extra like extra guarding ability.
+1:09:38
+And then like this other relic here, every time that you take hit while guarding, you send out shock waves.
+And then this other, other relic, when you send out shock waves, your allies are healed.
+And when all these kind of elements line up together, you have like a damn good way to start the game.
+1:09:56
+And it's not guaranteed that you'll win just based on that alone, but it certainly helps.
+And I think that like that's that was one of the kind of like turning points for me was like, OK, like the first run that I did, I didn't have really any of those things didn't well, I also had no clue what I was doing.
+1:10:13
+But knowing those systems and how they kind of interact with each other.
+And like, if if you're coordinating with two other people on on discord for a rogue like video game podcast, then it can like line up even more of like all right.
+It could.
+1:10:29
+We, it didn't.
+We didn't.
+We weren't able to do that, but you wouldn't.
+Theory.
+Theory.
+It could, yeah.
+Chris, do you have any kind of like like super builds going at the moment?
+So I I agree that I guess I don't have any super builds going.
+1:10:47
+I do think that the the relics tend to be very like the abilities themselves are extremely hit or miss, right?
+Wilder has Wilder's class relic abilities are like generally fantastic.
+1:11:05
+Some of the other classes don't have ones that are like quite as interesting or impactful in cases.
+And there's a couple, I guess a couple of favorites of mine, Guardian extending the length of your non alt skill to keep that whirlwind around a little while and get some stagger and stuff.
+1:11:29
+Primo Guardian has a couple other things that can be more supportive, but his supportive abilities can be a little harder to use their wrapped up in his alt.
+Well, there's one also like you talked about, the one that make it go longer.
+1:11:46
+There's one I think if you complete his remembrance quest gives you a well, there's an interesting option at the end of that remembrance quest with another nightfarer, which was kind of interesting that I believe turns like that whirlwind into sharp like shards that do more kind of like damage over time.
+1:12:09
+Just like, so you can stack the one that does like more, more length of time.
+And then you can stack that with the one that does like more like damage And now like it's actually like really damn good of an ability to use.
+Interesting 'cause I haven't done the remembrance for the current, I haven't got the patience.
+1:12:25
+Yeah.
+And I think.
+That's that's kind of like another maybe draw to the remembrance stuff of like you, you do get character specific relics that are quite good for complete and I think you get a couple of them throughout the remembrance quest.
+1:12:43
+You also get some cool drip, some elden drip at the end, some fashion souls where you'll get maybe well again, I was so spoiled by doing the Raider one first.
+Or like you do the Raider 1 you you conk out the final boss from the from the Coliseum stuff, and then Oh sweet, now I'm granted like this cool new skin of being armor less and I'm just like this buff, like muscle gripped man, like awesome.
+1:13:14
+This is this is great.
+I can't wait to see what other cool skins the other characters have.
+I do Wilder's remembrance.
+He gets this shitty little fucking pin on his his his armor.
+I'm like it took me forever to find it.
+I was like, what am I missing here?
+1:13:30
+There's got to be something different like just palette swapping from blue to green for all I care.
+I want to be able to like show off to the other Elden or the other night rain Co-op players that I'm running with like hey, I did this cool thing look how cool I am.
+And with Raider you can see that immediately.
+But with like but the Wilder, it's like you got to squint really hard and like, did I do anything there?
+1:13:51
+Revenants is like someone gave her a bath, like like someone, someone found the doll in the puddle and they're like, OK, I'm going to rinse this off.
+She's just a little bit cleaner, right?
+Which is good for her.
+Wonderful.
+1:14:06
+We'd love to see it.
+Guardian difference.
+It's bad for us wanting to see her wear like a cool outfit or something.
+That would like like a cool like I don't know, like red flaming crown or something or something like that.
+I'm sure like there's others that do other cool stuff.
+1:14:22
+But like I was similarly let down from guardians remembrance quest cuz I, I went and unlocked the the you can also unlock just like base skins for these different characters.
+And I was super excited to unlock the Solera of Astora base skin for Guardian where I'm like, Oh yeah, it's jolly cooperation, sunlight Bros time.
+1:14:43
+And as like it looks super good, like a lot.
+I think all of the base skins that you can unlock for all the different characters, like look really cool and they've done like a really great job with it.
+But all the remembrance ones outside of the writers look kind of dumb.
+I don't know.
+Or like not they, they just don't look as cool.
+1:15:01
+And I want like, clearly there's a way to do that, but.
+Well, that's for the microtransaction store.
+Yeah, exactly right.
+Like this is Fortnite.
+Have we forgotten?
+Yeah, that's, you know, when they add in Armored Core characters.
+You joke, but I'm I'm super I I will be there day one day and date when they add some kind of like weird 9 ball skin to the bell bearing hunter who just like shows up you you go into the basement of the of the of the castle on day 2 and there's just a Mack there who turns into like this flying robot and drops missiles on you.
+1:15:38
+Steampunk.
+Mack I I would be like, thank God it's not the Del Bering Hunter.
+Yeah, I guess.
+Well, we haven't really talked about the map at all, even the the the titular draw here.
+The So I guess yeah, on on a run, we've talked about a lot of stuff about a run, but on any kind of given run here in typical Fortnite or PUBG nonsense style, you are well, number one, you start off with this really cool intro cinematic that all seasoned players will skip over as fast as they possibly can because they got a they got to get those those stones, man, you got to grind them.
+1:16:20
+But I think this is very well done.
+Like this very slow and Moody intro sequence of walking in and your your character is flanked by the other two cool Co-op characters and maybe there's like a giant ghostly skeleton waving you goodbyes.
+You grab hold of your spectral Falcon and fly into the bird.
+1:16:40
+Just like your battle bird and.
+You're gonna drop out of the battle, bird.
+Perfect.
+And you're gonna think your your bird.
+I don't know, thank your bus driver, your bird driver and you are you come in on some random angle of the map and you have the the whole map to explore in theory for 5 minutes before the 1st circle starts closing in.
+1:17:05
+But there is there's a lot of stuff going on.
+There's big ruined churches.
+There is giant fortnights that sit on a on a big hill.
+There's there's.
+Spires you can go up and you can slay the enemies.
+1:17:22
+Within them, if you solve the puzzles, yeah, yeah, you have to you have to solve the the high intelligence puzzle first before doing so.
+There's like these like shitty like camps around and they all have kind of like different themes to them.
+1:17:38
+So I believe that anytime that you see like a, like a camp that looks like a haunted carnival with like a little flame sword next to it, that is always going to be the, the flame camp with like the, the three super annoying like flame Chariots that will chase you around and shoot fireballs and stuff.
+1:17:59
+So when you, when you were first coming in and you're like bamboozled by all this information as you grok it, over time, you come to know they're like, all right, flame camp.
+I know exactly what kind of enemies are going to be there.
+The, the frenzy flame camp.
+I know 100% that troll is going to be there and it's super easy to take down and you'll you'll know over time that like there's certain enemies that like or certain camps that you would go to 1st and others you would want to avoid initially.
+1:18:25
+And also, crucially, you have these giant flaming blue jump jets everywhere that you will do this sick anime leap like 10,000 feet up into the air.
+But in five, you know, time, time is wasted.
+You drop in, you clear out this camp of real low level enemies to start with.
+1:18:45
+And then now begins.
+I think the the interesting and subtle part of this game with like your decision making for how you run your route and route running in this game is like the thing.
+It's not like slay the Spire FTL where you are All right.
+What node on the map am I going to pick this time?
+1:19:02
+Do I go here or do I go there?
+It's it's like you're doing that, but like Sonic the Hedgehog mode of got to go fast, no time to breathe and typically with one person like pinging.
+All right, we're going here next.
+Chris, do you have any, any kind of like what, what, what's, what's your like initial rooting strategy when you, when you land, you've cleared out that first camp?
+1:19:24
+So starting camps different every time, right?
+So sometimes ideally you have enough to start level like, you know, 2-3, then usually one of those church things that either have a basement or trumpets or a golem or something.
+1:19:43
+I don't know.
+The sites do like increase in difficulty and like this you you like have your favorites.
+You kind of have the idea of like what what's going to drop from each area.
+The map.
+The map does have little icons on it that tell you OK, this one's going to have sleep stuff for some reason.
+1:20:04
+This one's going to have fire stuff, so it's going to be holy.
+So depending on what you need for the boss and for your character, you're going to make those decisions on the fly.
+The ultimate.
+Is that you get the item, the items that you get there are going to be more likely to have sleep stuff, Or is it just the whole area's themed around sleep?
+1:20:27
+Both.
+OK, that's I was I I was like, I'm pretty sure that it does mean that there's sleepy time there yes and I wasn't sure if I was just you know, how linked were they but.
+Yeah, yeah.
+So you'll go there and you'll get something like, oh, add sleep to your weapon in case you're doing a.
+1:20:46
+Sleep pill, like consumables like like sleep pots or you know, things like that.
+And that can come in, yeah.
+Yeah.
+Like, and I think where you're going with that is like, it can be like that can set you up for success for the next camp, right?
+Where like you go to a fire camp, you'll get like some fire blade.
+1:21:05
+Oh, this is gonna be really good against this.
+This ruins that have enemies that do ice damage and you're just gonna go in there and you're just gonna like face rolling because you have all this sick fire stuff.
+And sometimes it lines up that nicely.
+Sometimes it does not.
+1:21:21
+Yeah, sometimes the items you get don't really, especially if you're playing like a caster like Revenant, Recluse.
+Revenant doesn't have to like be a caster, but Recluse really wants those good stabs.
+1:21:38
+There's good seals that have, you know, spells that are going to help you primarily for the day three boss or to deal with, you know, ads that you might encounter.
+Some of the like day bosses can get like a little bit messy for a caster.
+1:22:00
+It it is rough looking for those.
+So you've really got to focus for volume on your caster stuff.
+Yeah, I I don't notice that much stuff dropping when I so I was playing mostly Executor or Wilder.
+1:22:16
+I don't really remember stabs dropping.
+Well, they're in six spots.
+Yeah, they are in specific spots.
+They are in some cases in like the, the, I think they're called forts, the things that sit on like the hilltop that you almost always enter in from, from like the sewer system at the bottom.
+1:22:33
+You go, you go up to the top of that and then you like beat up some boss and like in some little packed away room up top.
+There is a like almost guaranteed a thing that will drop stuff for spellcasters in, in like the ruined churches.
+Sometimes if there's like a crater you go down into like the, the sub basement part and turn right or left or whatever.
+1:22:54
+There's like a little a little shrine there that will drop some spellcaster things which sometimes do magic that will align with what you want to do, sometimes not, but they might have like a passive thing on there that's still valuable to pick up.
+Yeah, so that's the saving grace, right?
+1:23:10
+You're running around, you're finding all these weapons that you do not want, that you do not will never use that are offensive to you, but they've got their passives that, you know, reduce damage in some way, increase damage with some condition, you know, basically that's that's kind of what you're looking at in terms of effects, but.
+1:23:34
+We, we, we briefly touched on rises, which are another kind of like they're, they're like a sorcerer specific zone or I guess spellcaster specific zone.
+They have like these little gimmicky puzzles around them of like, oh, you got to look for the thing that's slightly out of place.
+And like the giant like plasma wall is encroaching.
+1:23:52
+You're like, oh God, oh God, where's like the little?
+You're inside it already and you're being like actively damaged.
+Yeah, and, and typically those will have like really good, they'll they'll have like the big like orb rewards at the top, which I forget the name of, but you know, they're they're just glowing orbs that, you know, your standard kind of broke like drop sort of deal.
+1:24:14
+But they'll also have like great stabs or or other kind of like spellcastery things.
+Or a passive.
+Sometimes all of these orbs have like passive for you which are nice to find.
+And as you're running around, there might be like bosses just out in the open field that there's just like this huge dragon that you'll just like, run past back.
+1:24:37
+I'll see you later.
+Huge dragon not going to fight you just yet, but yeah, but your, your day one experience will be like running around these different ports and and stuff to just try to build up some kind of progression with the items that you have.
+And I I like I'll say that like, you know, it's pretty good in terms of encouraging like build variety.
+1:25:00
+You know, if you pick someone who's like a melee dude, you're not going to automatically be like, wow, I can't believe I specked into a spellcaster or something like that.
+But you know, generally there's enough flexibility into what stuff you're picking up that like just before the, you know, hitting the record button here, the run that I was doing, I was a Wilder running around and I picked up stuff that really encouraged like two hand or like a weapon in each hand power stancing.
+1:25:26
+And I was like, OK, you know, I don't typically do this because I like to have the shield, but I was just doing so like comically huge amounts of damage Whenever I would just do like double or like jumping double hand attacks at stuff.
+I'm like, cool.
+Like this has like pushed me into a direction of like play style that I don't normally gravitate towards.
+1:25:45
+But like all the stuff lined up in such a way that's like, hey, you should go and try this this time.
+Nice.
+That I think is honestly, it's like it can go either way, right, 'cause sometimes when you're putting your like, relics together, you're really going in hard on a particular thing.
+1:26:04
+Like the Wilder really likes great swords specifically.
+So if you find like a good weapon, that's not a great sword, you're not necessarily drawn to it, right?
+But yeah, like little things can sometimes change in your build, which is nice.
+1:26:22
+Yeah, and if, if you're like me, every time that I'm playing Iron Eye, I'm just getting like garbage for drops and I'm like, please, for the love of God, I just need something.
+You do have the option of just upgrading the stuff that you do have.
+So if you have like those that like really good starting relic combo going and you're like, all right, my, my, the bow that I start with does fire damage and I picked up all the stuff that really synergizes well with fire.
+1:26:47
+OK, I've got something good going.
+Like I don't really necessarily need a different weapon.
+They're like there's plenty of shop keeps that you'll encounter throughout the map and like, and mines as well that you can go into to pick up, you know, your your standard from soft smithing stones that you can use to upgrade, upgrade your items in in kind of a a newer, simpler way, I think, but kind of threw me for a loop at first.
+1:27:13
+But you know, it does give you that option of like, OK, like I can, I can upgrade my stuff and maybe we'll talk about the magma crater in a minute.
+But like, there's ways to like upgrade your stuff to like legendary level equipment and all those things.
+But.
+And Speaking of getting stuff, sometimes you don't have to get stuff like I, I did like the number of times in the loot drops, you know, you, you beat the boss, you beat the, the little like field bosses around the, the map and it's, you know, you'll get two weapons and then just like plus 57 to resistances.
+1:27:51
+And I liked that there, that was an option.
+Like there's nothing worse than a game like, you know, you're playing, selling Spire, you're playing any of the things where it's just like, here's three, pick one.
+And if all of them are bad and you're just like, I don't want any of these.
+It's very rare that you're like, well, I don't want just a little bit more resistance to everything.
+1:28:11
+Like you might not be excited about it, but it's not like cool, I've I've, I've now picked up this thing that I'll immediately throw away.
+Yeah, yeah.
+So I, I like that as a, as a, as a backup option.
+And and you know, you see it in other games too where it'll be like if you choose to get none of them, you get like 4 gold, some, some like absolute pittance.
+1:28:29
+And that's not enough fun either.
+Yeah.
+Yeah, and I guess like the final, the final destination of most runs around the map end up in the big castle in the center of the map, or alternately in one of the, I forget what they call them.
+1:28:49
+Shifting earth yeah, they're the earth has shifted events.
+So in your standard map you will have like this kind of like big like I don't know 4-5 story castle or something in the center of the map.
+1:29:05
+Generally ill advised to tackle day one unless you are somehow like super pro at this game and you get very lucky with like the bosses that are inside.
+Because generally what people will do will like jump down into the river that kind of goes through the middle of the map, go into the, the basement of this, of this castle and, and, and like this castle's like littered with like these Crucible Knights that are, are just like fuck you up mode.
+1:29:33
+Or Spanish Knights or.
+The trolls.
+Oh yeah.
+So there's there's all sorts of monsters waiting to to Michael Jordan dunk you with like these giant magic explosive pots.
+1:29:49
+From anywhere, if the if the trolls are present, I will reconsider doing the castle at all.
+Yeah, yeah.
+I mean, you have that option because like you are not forced to do the the castle well.
+So yeah.
+1:30:05
+And, and end of day one, like the circle closes in and you, you fight some kind of boss from from the boss pool and then the, the the night mist gets blown away and you're free to do another run of the map.
+And this is typically where people rush, rush for the castle.
+1:30:21
+And just cuz it takes so long, like this can be like an all day 2 adventure, particularly if some if like everyone gets killed and you have to restart and go and pick up your runes and try all over again.
+But you usually start with the basement boss who's a little easier than the rest of the bosses.
+1:30:36
+You work your way up through the maze like interior fighting all these other bosses and then while jumping around these ruined crevices and parapets and things.
+And sometimes there will be like a a, you know, another like super boss up at the top pinnacle part of this castle.
+1:30:55
+And it's always like a very cinematic experience, like fighting, you know, this and these.
+I feel like these bosses are sometimes harder than like the actual end of day one or day 2 bosses.
+Absolutely.
+Yeah.
+No, you go up.
+If you're going to the top of the castle, it's 'cause you're feeling really good.
+1:31:12
+You're like level 13, level 14, maybe even level 15.
+Yeah, You're prepared to spend some time, die a couple times.
+There's the top of the castle is like the big enemy.
+Yeah, in my experience.
+Almost, almost kind of like a final boss in and of itself.
+1:31:30
+But, but as Chris, you, you mentioned, they're like variants to this main map that you're playing around in.
+And in some cases, like your Day 2 recommended activity might be exploring the giant crater that's at the, the north part of the map where you go in there.
+1:31:48
+And it's a similar kind of like labyrinth of like twisting tunnels and staircases and ruined ledges and things to take you down to this like lava pool at the bottom of the map, which I think is very, very well done.
+Where you'll you'll fight like a a a mini boss down there with the opportunity of forging a legendary weapon which is typically worth it.
+1:32:10
+Absolutely.
+If if you can figure out the way down there and unlike me, are actually able to like a guy that your compatriots the correct way through the magma crater instead of getting stuck on one.
+Side.
+Oh no, fastest way.
+Yeah, it's, it's definitely a speed run, right, Because you are dashing directly down a very specific path down that crater to the end.
+1:32:41
+Yeah, and, and picking up some like some elite enemies along the way too.
+Like it's not a it's not a cakewalk by any means.
+It's like kind of the same level of difficulty as like the central castle area and other variants.
+There's there's one that has just like a big snowy mountain on the top, which a similar kind of vibe.
+1:32:59
+There's lots of different ways to approach it and different routes to kind of run through.
+And there's enemies and back corners and there's giant ice Dragons and things.
+And I think this ones maybe like the lamest of all the special bonuses you get, because the bonus you get is like, great, now you're resistant to frost.
+1:33:19
+Oh yeah, that's yeah.
+But like thanks.
+Yeah.
+But I guess like if you if you intentionally go on a on a run where you are fighting a frost boss.
+Yes.
+That comes in super clutch.
+So.
+1:33:36
+So you're incentivized to do that, but yeah.
+The mountain is hard and like part of that adds it's own like cost benefit, right?
+Because you have to get to the top of the mountain past many, many bosses to get this frost resistance and you might die.
+1:33:56
+You might die a lot and waste your time, and time is precious.
+Yeah, dying in this game is well, dying solo is almost like just restart worthy.
+But I feel like if you die with teammates, like in typical souls like fashion, you know, you, you lose, you're penalized a level which can be really debilitating early on.
+1:34:20
+Later, maybe not so much, but just so kind of annoying and then you can run back and grab your runes as you do and then re bank the level that you lost so it's it's not it's not too bad, but if you can do it yeah if you.
+1:34:35
+Can't do it A.
+Lot of the times you're you're you died because you were in a place that was hard.
+So getting your runes back is also.
+Hard there's that and I think that the game is like is fairly generous.
+I think in this case where like some of the enemies take like a long time to like aggro and follow you and they they won't follow you across the map.
+1:34:57
+But yeah, like if you lose your rooms in a particularly treacherous place, it might just be more worth it be like, all right, well, I'll see those on day 2.
+Or maybe I didn't actually need those 80,000 rooms after all.
+You.
+Another variant of the main map is the is the Rotten Woods where you have the classic, not Miyazaki, but in this case, but but an homage to Miyazaki.
+1:35:20
+You got to have a poison swamp in here somewhere where your your red poison swamp.
+And I guess like there's there's like a Fort in there that has like a special boss that you can fight.
+Maybe I've never actually done the fight in the bottom right corner, but I have picked up the special bonus thing of like, oh, now you're like rot resist and that's great.
+1:35:40
+But the one that is certainly, I think maybe the most interesting and certainly the most detailed and labyrinthine is the the what was it, Nucletio?
+I thought at first it was like, it was like Mukilteo.
+And I'm like, wait a minute, but it's this is like.
+1:35:59
+AI agree with you on the labyrinthian it's I get so lost.
+The the the city that takes up the bottom left corner of the map is so big that they didn't even bother putting in the main castle area because they're like, we know, look, we know you're just going to go in here.
+Scott, is that the place where I got lost with?
+1:36:15
+That is indeed the place that you got Oh.
+No, I got this is like the.
+How do you get in there?
+Early.
+This is like the well, I just couldn't.
+This is like the third time I was playing with Scott and Rando and they were running around in there.
+I was like, I don't know how to get to where you are.
+1:36:32
+And they were like off dying and getting absolutely pummeled by something.
+And I'm just like, I can't move because the bug's shooting rocks at me or something.
+I every time I go into the open, I get absolutely wrecked.
+And so I just kind of like screwed around like a rat in the in the maze, waiting until they came out having been victorious.
+1:36:50
+And I don't, I don't.
+Did you even beat the boss?
+No, I feel lost.
+I feel like the the the City boss I have never been successful with because they're just so power and like there have been times where like my the other two people I'm playing with are do like doing super well and we're just like rolling everything.
+1:37:07
+All right, we're going to take down the City boss guy, this giant insect in the church.
+No problem.
+And then they just like totally wipe the floor with us.
+But I believe the benefit that you get for beating said boss on the other side of this big golden fog door is like a full party revive or something like that, if I'm remembering right.
+1:37:30
+That will allow you to, that might allow you to like, you know, revive your entire party once, which there have been many cases very recently where that would have helped out a lot.
+1:37:46
+But there's plenty of other stuff to do in this big city.
+There's a lots of other like little mini bosses.
+And you're right.
+Like you enter in and it's just like this massive maze of like giant trolls and like the Wilders remembrance quest is in here somewhere and black knife assassins around every corner and just lots of stuff.
+1:38:05
+And yeah, like you turn around and you're like, Oh no, where did my buddies go?
+You're just like frozen in terror as the giant electricity wall comes at you.
+It can be, it can be a little disconcerting, but you know, I think that there's certainly a point to do and I I definitely appreciate the variation and I'll be curious to see what they do with other, other kind of variants in the future.
+1:38:30
+Yeah, it's so much of this game.
+I would love to.
+I mean, not, you know, the university of it because like it's most most of the map is just Limpgrave for melting, right.
+But there are parts that I would like to spend time with, like like an Aquateo, and you don't have the time, which is unfortunate.
+1:38:53
+Scurrying.
+Yeah, so much of this game is scurrying.
+Scurry, scurry, scurry.
+Find your orb.
+I I do like.
+Read as fast as possible.
+Compared to I mean it's different different feel from Elden Ring, but like how easy it is to reverse across the map like so much of Elden Ring is like figuring out how to get to places, maneuvering around the map.
+1:39:16
+This is just like I want to go there and jump and you can almost always get there without too much thought or map memorization built in, which is good because half the time it's like the blue wall of death is closing in behind you and especially on day one, that shit will kill you quickly.
+1:39:34
+Day 2, end of day 2 you can maybe like mess around in the fog or and then in the death rain for a bit, but day one, no.
+Yeah, I think there's there's a lot of like deceptively deep strategies as well.
+1:39:50
+We're like calling the the one like Duchess player that we were playing with who was trying to like non verbally educate you on like, oh, actually like the rain is here.
+But do not fear because you can actually kind of like get a little greedy and run through.
+1:40:06
+Post post day 2 boss and just like frantically pinging out in the rain.
+I'm like, OK, I guess we're going out.
+I'll just keep drinking.
+Oh, yeah, I guess you can just keep drinking.
+Open.
+Here's a sight of grace that reveals all your potions.
+1:40:21
+Like, yeah, all right, you can do this.
+And he got me another legendary weapon, which is pretty sweet.
+Whoa.
+Sick.
+Yeah, it was like quite good.
+It was absolutely worth it.
+So I did die once because I just forgot to drink potions.
+But you know, we managed to get there.
+1:40:39
+Thanks.
+Scott, does this game have any music?
+Yes, this game does have music.
+I feel like the, the souls games have always have like deceptively good soundtracks to them, but I can never hear it because there's just so much other shit happening where it's just like, and and it feels very how do I, I, I mean this in a good way, but it'll sound bad of like generic movie trailer music kind of going on in the background of like, and you're just kind of like, you know, it's, it's in the background.
+1:41:12
+It's maybe not like super overwhelming, but but the times are.
+So, you know, I think one of these episodes I, I go through the soundtrack to find something that to play us out in a nice thematic fashion.
+I'm like, oh, what about the one where we were fighting at the ice dragon Caligo, the miasma of night?
+1:41:31
+That one I think, like really stood out while I was fighting the boss specifically where it was just like this kind of like cool, like intense piano music that felt like very like big boss battle, but not like it felt very like delicately intense.
+1:41:51
+And yeah, like it.
+It felt very like the and like the even the one where like the stupid sleepy jellyfish that I'm getting body by all the time.
+Oh, I love the.
+Jellyfish.
+I mean, like, it's a very.
+It's a very.
+Maris from Fraser.
+1:42:08
+Yeah, it's Niles's wife and Maris will like the, the the boss theme for that is, is like it's very like flowy and it feels like very like water stage kind of feel to it.
+1:42:23
+Like very, almost kind of like a like a waltz in a way.
+And yeah, like I, I feel like any every, every time I've been in the heat of the moment, it's felt very relevant and fun and good.
+And the times where I went back to the soundtrack on YouTube and I was just listening through, I'm like, yeah, this like it's real good.
+1:42:41
+Like they they did not like phoning in on in the art department for this game at all.
+Yeah.
+Well, do we want to go into rankings?
+Well, I well, maybe before that, I think we haven't really talked about the Night Lords themselves that.
+1:42:58
+It's right.
+Yeah, The titular thing.
+The night.
+Lords.
+The ones you haven't spent much time with, perhaps.
+All right.
+We forgot.
+Day three, yeah, Which is?
+Not really a day.
+No, but sometimes it can feel like a day depending on how long you're fighting that boss for.
+Well, it's not a day in the same like the first two days unfold in the same way.
+1:43:17
+You run around the map, the ring contracts upon you.
+You run around on the map, the ring contracts upon you.
+Day three you fight the boss and a different map.
+Yeah, and I like how weird this is where like end of day 2, there's just like this weird goopy Jelly like substance.
+1:43:36
+What's with the goop?
+I don't know.
+I'm sure it'll be explained in the DLC or I'm not sure but I love it.
+It's or we'll get a A5 hour long video from from Vati Vidya who who will be like the the deep lore of the goop and we'll explain everything.
+1:43:53
+But you go into this goop.
+It sends you up into the sky to this, I'm sure will be relevant to the crypt in the round table hold at some point, cuz it looks very thematically similar of like this kind of desiccated tree root structure shrine that you arrive in.
+1:44:11
+It's all pure white.
+And there's there's this poor merchant who's there who's just been turned into a tree.
+Who knows how long they've been there, But this is like, hey, it's giving you the signal.
+This is your last chance.
+Spend all of your runes to level up.
+Buy the stuff you need cuz this it you're, you're about to go into big boss mode.
+1:44:30
+You walk out into this like again, very like artistically great bridge that has this giant arch and there's just this huge like cosmic nebula in front of you.
+And you're like, the first time I saw this, I was like, I don't know what I'm in.
+For but the first time, I was like, oh, this is Kingdom Hearts.
+1:44:49
+Mickey's here.
+He's gonna, we're gonna open the door.
+It's the door to darkness anywhere.
+And then like a 40.
+It's one of those we all know.
+And and on your first playthrough, on your Andrew or Colin playthrough, you're you're maybe not tricked, but you were led into thinking, oh, this is this is like the final boss of the game.
+1:45:14
+I'm I'm I'm here to fight the gladius, who is a kind of like your homage to see if the the the the dog of Artorius, the abyss Walker with the the giant sword and mouth.
+1:45:31
+But in this case it's one who splits up into three doggos, which again, I think like in a three player like Co-op setting like this works really well.
+Because like, one dog for each of us.
+This like this sets the stage of like, hey, yeah, you're gonna have to work together to fight like the single entity and then boom.
+1:45:49
+Oh, no, you're you're like in one V1 mode, which I thought was a nice touch, but like fire effects and like the sky has like all these like flaming swords in it that are all over the place, which is really sweet.
+Great art direction.
+You're fighting this boss and like all these like cool MMO like are an explosion effects.
+1:46:09
+It feels very much like an MMO raid boss to some degree.
+I think it's important to note the size of the arena.
+It's enormous.
+If you've played Elton Ring, it's Radon's Beach, yeah.
+It's very large.
+1:46:24
+It's not.
+It doesn't have much in the way features, but it's physically large.
+There's a lot of like room to run around, which I think is more impactful.
+If you're doing three players, then like if you're playing a solo, you know, more room just kind of doesn't mean anything.
+1:46:41
+You're just, I mean, whatever the distance between you and the boss, three players definitely starts getting like you're triangulating all that stuff.
+It matters because they design the bosses to use that space.
+Like I feel like this is kind of what they were excited about when they made Night Rain.
+1:46:57
+They could make these little bosses that have nothing to do with anybody.
+Yeah, that have this huge arena.
+They can go wild with their boss design and and they do.
+Yeah, and, and wild they have where you know, you have your, your triple dog fight, you have your giant job bird, you have a, a scorpion and moth duo boss that almost kind of like it feels like a Godzilla creature to some degree.
+1:47:29
+You have the sleepy jellyfish that we've talked about some.
+You have Libra, the creature of night, who was the most recent.
+Excuse me, the equilibrious beast.
+There we go.
+I'll make your.
+Choice.
+I think that this was the one that was was the most memed over ever dark boss fight last week where this is this is a boss that will like, you know, you go up and and there's like this mysterious merchant that's randomly throughout the map sometimes that you'll encounter.
+1:48:01
+And it's it's very it's very clearly this boss just in like a a shroud, but he offers you like a devil's bargain of like, oh, like what, what if these, you know, monkey's paw wishes do you wish to to have?
+And you're like, I want lots of power.
+It's like, oh, OK, you have lots of power, but your health is 30% of what it once was.
+1:48:20
+So it's a very risk reward kind of thing.
+Libra like you just you enter the boss fight and that like merchant is there.
+You're like, oh God, what have I got myself into?
+And then he throws off the cloak and he's like, ha ha, it was me the whole time.
+And the goat man whose eyes you definitely couldn't see it under the cloak.
+1:48:38
+Yeah, but the ever dark version who's kind of like the Super Boss remix challenge of the week, as it were, was being memed on because like they do all sorts of wacky shenanigans like summoning, like meme build clones of yourself, where like some some of them are running up with like Shields that I have never seen in in night rain that are in Eldon Ring.
+1:49:06
+Them just like I've never once seen this drop in in night at all.
+But they only exist for this meme fight where they're like the the the summoned clones will run up with like dual wielding these like super Shields that like you nothing is gonna get through them.
+1:49:22
+And like if you have three people they're summoning, I think at least one, maybe two other like evil clones of your party.
+And it just turns into this wild nonsense like Spider Man.
+Pointing.
+Yeah, it's the spider man pointing boss fight and that's just one of these, one of these guys.
+1:49:41
+You have another guy who's like a like a Super Saiyan Centaur.
+You have the the frost dragon that we talked about.
+And then you have your final boss calling that we got super close to beating Gila Star the night.
+Yeah.
+And by we I mean mostly the the Duchess who is carrying a super hard and me making the game harder for no reason by joining after I disconnected and I was tremendously under leveled.
+1:50:06
+Scott was level 8, we were level 12 and 13.
+Thanks.
+Blue screen.
+I don't know, I mean it's been hot out here in the Seattle area.
+My Macgyvered CPU cooler that I have attached maybe wasn't doing its full duty.
+1:50:22
+But I will say this game is is also very generous with its rejoin mechanics because there have been a couple times, Chris, I don't know if you've experienced this.
+We're like your connection just dropped or like some Windows security update is going on and it blows up your computer and like, well, that was great.
+1:50:40
+I was just about to slay that enemy.
+But rebooting the game, joining back in North, it seems like almost every time it's been very charitable about like putting me back into the same game session as before, which I've been pretty happy with again it when one person leaves, it auto scales the difficulty of the game down to two players and then it's I believe it rescales it back up to three players and that third person joins back in again.
+1:51:09
+Yeah, I'm looking up the health.
+It looks like it's pretty much like the health for Solo is say it's 1000, the health for Duo would be 2000 and Treo would be 3000.
+So I don't know about damage, but for health at least.
+1:51:25
+Yeah, and if you're Recluse comes back in at level 4 on day three and it's just getting bodied by even the smallest enemies or lava steps and you're just like, well, I'm sure it was a good challenge for our random Duchess player.
+1:51:42
+But yeah, if you feel like they're they're maybe could be a little bit better of a catch up mechanic there, but I don't know, maybe there's like a way to stop it from griefing.
+Anyway, He'll soar.
+The night Lord, the final boss of of night rain itself, the Lord of night.
+1:52:02
+I think it's like a very cool type of boss fight.
+It's just, you know, it's not like some big hulking monsters just like a guy.
+And it feels like a very like on par with I never, I never played the the final Dark Souls 3 DLC, but there's like another kind of like small man boss fight for that that's supposed to be super epic.
+1:52:26
+It feels very much like from Dark Souls 1, like the Artorius, the abyss Walker boss fight with like he's about your same size.
+And sometimes that's more terrifying because like they're so mobile and everything, but lots of really great artistic, a design direction during this fight where like things will get super like dark and purple and like rain will be shooting everywhere.
+1:52:48
+And then like the sky will like tear open and like this big, like orange, like almost eyeball will like reach through the the sky and be like looking down.
+And it's it just it feels super epic.
+I feel like they could have easily phoned in a lot of parts to this game.
+1:53:05
+And maybe there's some aspects like with the journal or remembrances that like they're like, yeah, we'll get to this later.
+It's pretty obvious where they spent most of their effort and focus on and it's this.
+Yes, this is, this is I hold on.
+I think I have them in my browser.
+1:53:22
+Yes, Junior Ishizaki, our battle director, presumably.
+Really, really interested in these.
+Yeah.
+Well, and it's it's also helpful too that since it is in its own separate arena, they can go nuts.
+1:53:40
+Like they don't have to have it like all the, the, the day 2 or the day one and day 2 bosses and like the stuff around it have to kind of exist within the world of the overworld.
+This is like, no, they can do weird shit like the sky has broken open with eyes and a a rift and whatnot and they don't have to worry about it like looking weird because there's an herd tree that background or something.
+1:54:04
+Yeah.
+Yeah, I think so many of the bosses do like, like the different phases, you know, the dogs separating and recombining the the moth and the scorpion separating and recombining again.
+1:54:21
+If they were done poorly, they call them gimmicks, but they're not done poorly.
+They're not done poorly.
+The the jellyfish, you mentioned it, the music is like a waltz.
+It's it's beautiful, it's flowing, it's spawning little.
+Jellyfish, Medusa and and eggs.
+1:54:39
+And it's like, oh, I'm under the sea.
+Yeah.
+And there's like the sucker for water levels.
+Yeah.
+And I feel like there's there's a lot of attention to detail to make it so that it's challenging for A3 player party like as a unit and for like your individual people in the party.
+1:54:59
+So like you can you can see why they would be like befuddled of like, why on earth would you want to play the single player?
+Like you're going to fight three flames game dog goes at the same time.
+Are you crazy?
+Or it's like bouncing out or like the seeing like the the sleep nuke slowly dropping from the sky and then like all three of like your ranged characters, like quick, like get destroy, destroy before it hits the ground.
+1:55:20
+Quick, quick, quick, quick.
+All right, now we got to move to the next one.
+Quick, quick, quick.
+And then thinking like, OK, how how is this going to scale with just one person?
+You could just run away from it.
+That's fine, but I feel like that that kind of game mechanic of, you know, going in and like having the the three party unit there to do that thing with the boss, there's like it's very well designed for that in mind.
+1:55:46
+Yeah, I, I guess, you know, it lets them do that sort of thing that they would not be able to do in a game that was designed strictly for one player.
+Yes, I I don't think you'd be able to see much of these things in Secoro for example.
+Well, and and also because it's untethered from story exactly, or or that at least the story is that, you know, it's coming in from the mist.
+1:56:11
+They can be like, all right, why is there a big jellyfish?
+Doesn't fucking matter.
+Like it's because there because we wanted there to be.
+Why is the dog and three dogs?
+It's like it's not.
+It doesn't need to be cohesively integrated into, you know?
+1:56:26
+The.
+Bird trees given root to the jellyfish and the you know, it's nibbled on its roots in the deep under ocean or something.
+I mean, you would just.
+Have a cool boss because you wanted it to and it still feels thematic and it feels appropriate for the game because it does.
+1:56:44
+You know the the the story of the game is you're in a truly the land in between where it's like smashed in from a a mysterious outer world or something.
+Yeah.
+Why is the final boss just a giant glove that shoots missiles out of its fingers?
+1:57:00
+I don't know.
+We got to give something for for Luigi to fight against at the end of the day.
+Yeah, before we get in the rankings, I want to I want to quickly touch on I think what was leaked in the game code of this upcoming DLC stuff, because I think this is also interesting how different it is.
+1:57:19
+So if if the Internet is to be believed, and most of the time it's not, there is a a new like DLC or mode coming for night rating called deep of the night.
+And what's this say?
+Deep of the night is a battlefield of endless night.
+Victory will increase your rating, burnishing your depth.
+1:57:36
+The the darkness extends into Infinity or the darkness extends unto Infinity.
+I get the the wording right here.
+And it it comes up as like a new type of expedition.
+So everything we've been describing so far is like in like an expedition, new type of run that you can do the targets, the bosses from the list can't be chosen and instead the difficulty increases which each with each depth that you go.
+1:58:01
+So this almost kind of feels like risk of rain to me in some some circumstance and says victory increases your rating, allowing you to perceive or proceed unto even greater depths and reach certain thresholds.
+Your quote depth will increase.
+1:58:16
+I guess this is kind of like your MMR for this system, but you know, there there's like depths.
+Percentage level or.
+Yeah, something like that.
+We're like curious.
+Depth 1 is like zero to 1000, Depth 5 is like 6000 plus or something.
+1:58:32
+And it says you will be matched with players of the same depth.
+So I guess like your skill level, but the pool of eligible players will be expanded to include players with different depths after a certain amount of time.
+So it sounds like it'll it'll try to like they're trying to do matchmaking.
+Yeah, yeah, yeah.
+I mean, that does make sense because like, so we got carried by one person.
+1:58:51
+If there were three of that person, playing the game would be not hard, yeah.
+So I think this is Chris.
+I don't know if if you're familiar with Wow Delves.
+No, I am not.
+I am not either.
+But someone was mentioning like, oh, they put Wow Delves into Elden Ring.
+1:59:10
+And I was looking up a little bit.
+It sounds very similar in concept of like this kind of like almost, almost an endless run mode of just increasing difficulty of like, well, how how deep can you go?
+And we were talking a little bit about the relics before where like you have just like 3 slots to put stuff in.
+1:59:28
+Yeah, I believe you get 3, three or no four more slots for this specific mode.
+That sounds OK.
+One we didn't get to talking about how this game relates to other roguelikes.
+Yes, probably also another key component.
+1:59:47
+I don't know how to get into this but like more relic slots sounds exciting.
+Anything.
+Any more medic progression?
+Yeah, I think that like particularly with games like Risk of Rain or Risk of Rain too, where it's like you are like the build design in that is so different.
+2:00:06
+Like it it's kind of similar like from across the room, like, oh, you're just building stuff up as you go on.
+But like night rain is so tightly focused in like a 45 minute time span.
+Risk of Rain is like functionally endless.
+Until like your ram gives out and the idea with that is like you just become more and more broken over time with all the stuff you collect.
+2:00:26
+It will be very interesting with this like I think the direction that you're going with of like how how does this kind of like build progression as you go through this run evolve over time?
+I I don't get the sense that like you'll be as like wildly insane overpowered as something of like Noita or Binding of Isaac or Risk of Rain, but maybe something more focused like a like an enter the dungeon almost.
+2:00:51
+So you said that there'd be four more relic slots.
+Is that like so you start with 7 relic slots filled?
+I believe so, yes.
+That sounds somewhat less interesting to me.
+I would want it to be like you get more relic slots added over time so that you can like like.
+2:01:10
+Otherwise you're just like you're building your build before you start the run.
+OK, I like it.
+I have a correction coming in hot off the press further down my my Google doc.
+One bullet point later, it says depth relics can be placed on a newly revealed location upon each vessel.
+2:01:25
+This power will only take effect in the deep of the night.
+So it sounds like maybe you start with three and then as you progress you can get like, oh, now I'm at like depth, whatever, now I can do 4 or now I can do 5 and now I can do 6 and that evolves through it.
+It sounds like that evolves throughout the course of the run instead of starting with 7.
+2:01:43
+That that does make I guess for like an an endless mode theoretically being able to make, you know, minor adjustments over time seems.
+Really, that's kind of where I was getting at as well.
+Yeah, cool.
+Yeah.
+2:01:59
+What?
+What do we think it'll be like?
+Do we think it'll be more circle or do we think it?
+So what I keep coming back to when I think about this game is why wasn't it just like a Hades gauntlet of Dark Souls fights?
+Yeah.
+2:02:16
+That's a good question.
+I feel like the, the speed, speed traversal and like the intentional, the intentionality of the time limit feel very much of like they could have gone that direction.
+I'm really glad they did not because like it would just it would just be like, Oh, they made a Hades clone instead of like, oh, it's this own like its own new weird thing.
+2:02:42
+Instead of this weird Fortnite.
+Yeah, are there any other battle Royale games where you're not actually battle royalling?
+I guess that someone must have.
+Like I don't it.
+Certainly has never gotten the visibility that I know about it, I guess.
+2:02:59
+Yeah, yeah.
+Considering how how much or how well this game sold like this, this is a stand alone game sold over 5 million units as of I guess August.
+Now that like 3 at peaking with like 300 at at one point.
+2:03:16
+This was like the third highest played game on steam concurrently like it was it's huge like what what other, you know, pub G Fortnite crossover games had this kind of level of impact.
+So I think like that that kind of draw as like a new new flavor to this is certainly in its wheelhouse.
+2:03:36
+There's there's like it feels like there's a laundry list of games that are Hades likes that, you know, when you do that, you run the risk of games being just compared to to Hades.
+And then it's like, well, yeah, it's a Hades like, but it's maybe like 90% is good.
+2:03:56
+Why wouldn't I just go and play Hades instead?
+Because it's Dark Souls.
+That's true.
+Yeah.
+I but I guess to your point, I could totally see something like a Haiti system being incorporated into this again, like this kind of feels like that Smash 64 like first, like we're just gonna like noodle with this concept.
+2:04:15
+I don't know, we'll just put it out there.
+Maybe it'll work, maybe it won't.
+It's a low budget, low risk attempt at it and the fact that it like it blew up with success, I think hopefully fingers crossed should send some signal of like, oh, maybe we should support this a little more.
+And Oh my God, what I would give for like a a roguelike or light style of this to Armored Core.
+2:04:38
+Holy shit.
+Like, talk about something that's just like, looks like it's just a match made in heaven.
+Yeah.
+Yeah, definitely rain.
+Yeah, I mean, I am curious like moving on to the the Dusk Bloods.
+2:04:54
+I I want to bring up again the the from Soft game coming to the switch to it's a multiplayer as I understand it like PVPVE game with characters.
+Which and and this is and that one is a Miyazaki game like that is your Elden Ring director focusing on a Switch exclusive, more kind of PvP focused, but maybe a PVE bend to it?
+2:05:23
+Yeah, I think that'll be super interesting, particularly with it being a Switch exclusive of like we didn't we didn't really touch on it but like one of the big gripes that I have about night rain is that the engine performance is like really bad like noticeably bad at least and again like this is probably a me problem.
+2:05:42
+I quote only have 16 gigs of RAM, it's DDR3 and I have like this old ass CPU but.
+I have new everything, I have 32 gigs of ram, I have 4070 and I the computer was still having like stuttering problems the whole thing I played.
+And I think like a crucial issue with that is that like most of the games that like Fromsoft puts out are like basically like tuned directly for the PS-5 and like ports are very much an afterthought.
+2:06:12
+And I'm kind of enabling their behavior by just day one blind buying anything that they put out.
+But like, Armored Core 6 ran great on my machine.
+It's also very fast.
+You're not like running through an an.
+Well, actually now I'm kind of curious if the environment sizes are roughly the same Anyway, there's this very lengthy and in depth video I think digital foundry put out of like why, why Elden Ring runs better on the steam Deck than the switch or like then other platforms, which is fascinating because they go into like how Valve coded up this like proton compatibility layer specific for Elden Ring.
+2:06:49
+Maybe maybe someone there was just like super into it and they're like, I'm going to make this work dammit.
+Because the the souls engine, I'm just going to call it that.
+I'm sure it's a different name, but like loads in its graphical assets on the CPU and not the GPU for PCs.
+2:07:08
+And the reason they did this, because it's easier to standardize the code that way instead of like fine tuning it for every CPU and GPU combination for PCs that exist out there.
+I get it.
+That takes time. 100% understand the drawback is that because you are running around through these environments so fast and like textures and grass and stuff are popping in so fast like the system like can't keep up with it like it's like getting stressed to its limits.
+2:07:34
+So I'm interested to see how the dust bloods.
+To your point, if it's a switch exclusive, are they gonna make like any engine modifications to like optimize this shit at all?
+Like.
+They must.
+They gotta I.
+Mean, I mean it's.
+Only one thing so you can tell if it's gonna work or not, right?
+2:07:51
+So.
+Yeah, So that that would that would be the hope that like some kind of performance optimization.
+I remember when Dark Souls Prepared to Die edition came out like Chris.
+Are are you familiar with like the DS fix?
+Like stuff from way back when or or any of that?
+2:08:09
+Was that a?
+Was that for controllers or something?
+Or I think it was like just to get it running on PC and like just like the steam version where like you had to like go in like edit and configure ini files and all like this weird nonsense and stuff that like we take for granted with like Dark Souls 2 and 3 and Sekoro.
+2:08:26
+And like Sekoro runs great, Armored cord runs great.
+Elden Ring ran great for me up until like until I got to the Urd tree and then shit just went off a Cliff.
+But, and yeah, I think like my performance gripes with Night Rain, like have like sometimes it'll just randomly crash and I don't know why.
+2:08:48
+And I thought I went into the regedit stuff and edited all the registry keys in such a way that I fixed it, but sometimes it didn't.
+So if this game ran as smooth as like Sekiro or Armored Core 6, damn.
+Like that would be great because I think that would unblock a lot of people who want to play of this game or the style of game.
+2:09:08
+And maybe like the DLC will be like less runny around Y, less fast, maybe, I don't know, more focused.
+Maybe it won't be a stress.
+So hard, Yeah, I'm very curious, 'cause they do seem to be like, really in an experimental mood, yeah.
+2:09:24
+Yeah.
+Can you imagine like 3-4, three or like Bungie or something putting out like this this or like Activision, like putting out this Risky.
+Well, I say Activision and then I'm like, oh, but there's that Call of Duty battle or pub G thing.
+But anyway, like something as risky as this is like, yeah, we're get like our next game is going to be this weird roguelike Fortnite hybrid that the gameplay is totally different from what you've experienced for the past 12 years.
+2:09:51
+Yeah, very risky.
+But I think that risk is mainly mostly paid off.
+Anything else that we want to cover now before possibly jumping into some slapping some numbers on this thing?
+2:10:07
+Colin, you have been summoned by your friendly Co-op players to give slap some imaginary stat attribute onto this game.
+And the the attribute of of goodness, the attribute of of quality, I give it a 7.3.
+2:10:25
+I will say that this game is probably not really for me very much I'm I am I would like to think that I'm decently good at video games, but I really am not good at 3D stuff.
+2:10:40
+Maybe maybe now that I've bought a new controller, maybe it's the it's turning around.
+I think the Steam controller did hamper me for a long time, but just the views, the multi things, it just ends up being like a lot of kaleidoscope stuff.
+And I don't, I don't handle it very well relative to some of my other more proficient video game peers.
+2:10:59
+But I can recognize that it is a, a, a pretty good game and that a lot of people will like playing it.
+I think some of my criticisms of it are the same as my things that are going for it.
+It's fast, it feels like fluid, but sometimes it's too fast.
+2:11:18
+Like a lot of times I wanted to stop, open my menu, look at all my things, trying to figure out what my build was like.
+I don't have time.
+I don't, I don't know, I don't even really know what my build is.
+I have like 3 seconds to look at this sword, decide if I want to swap to it and like I'm pretty sure I might build this congealing together but like what do my items do?
+2:11:37
+I'm not 100% sure.
+It's probably fine and then just keep running.
+I'm sure if I was put more hours into the game I get much much faster at doing that and I would understand what I'm looking at better.
+But it's a weird experience for a new player, especially since you're encouraged to play multiplayer and which you're not matchmaked with people who are also bad.
+2:12:01
+So, you know, maybe if this DLC comes out that will alleviate some of these issues.
+I mean, this is their first swing so I I imagine they'll get better at as they have more experience.
+But for what it is right now, I'm going to say 7.3.
+Andrew.
+2:12:18
+Well, you know, Chris, you've never been on the show before, so you might not know that we had a different ranking system before.
+And they, but my Co host, they they, they pulled a switcheroo.
+It's a much.
+Faster rating system.
+Rendered my ratings even more subjective and even more messed up and my numbers are all jacked up and so no one can ever get mad at me ever.
+2:12:39
+Eldon Ring is my new number 10 game, scoring 7.97 points on the Andrew scale, right behind Bellottro, right ahead of blueprints.
+Sorry buddy.
+Sorry bucko, but I am less interested in room 46 and I'm more interested in what's going on in those weird little item descriptions that are just lying around in the old Eldon Ring verse.
+2:13:09
+Souls verse.
+Here's the deal for me with Eldon Ring.
+I think I had I had grand plans.
+I was excited to come back to this universe.
+Haven't played Eldon Ring since it first came out and despite me being in basically the worst state of my life, I had a great time with Elden Ring.
+2:13:29
+I have fond memories of Elden Ring and I thought, oh, I'm going to come back.
+I'm going to be living and breathing night rain.
+Well, it didn't work out that way.
+I was busy with a lot of things.
+One of those things was Spelunky.
+And let me tell you folks, Souls games are hard.
+2:13:46
+Souls games are are known to be aggravating.
+They're known to be stressful.
+Let me tell you what a reprieve it was from that damn game.
+Spelunky, the fire up Elden Ring.
+A nice chill casual fun experience.
+2:14:04
+And of the only 8 1/2 hours that have played of this game I I I enjoyed it a lot.
+Unfortunately I don't know how much more enjoyment I'm going to get out of it.
+There were a lot of really awesome epic like cinematic moments in my playthroughs, but it is my impression that the game is a little Sammy and that tangible, meaningful, important, all important randomness that I look for in roguelikes is not, it's not quite there's not quite enough randomization happening, meaningful randomization for my taste.
+2:14:42
+However low key, I think this is like a pretty brilliant game mode and I keep coming back to this thought.
+I talked to some of you all about it before the before the show even the thought is, gosh, night rain 2 is going to be great.
+2:15:00
+All being said, it's in my top ten.
+It'll probably be pushed out like next week, but or the week after.
+But it's it's it's very interesting.
+It does a lot of things really great.
+And like last last episode, we reviewed a game where most of the time I was playing it, I was not having fun.
+2:15:22
+Night Rain, I was having fun the whole time.
+I was engaged the whole time.
+I was excited.
+Even in defeat.
+It was a enjoyable gaming experience.
+So long as you're not playing it on a Steam Controller.
+2:15:39
+And so yeah, my new number ten 7.97 Andrew points.
+I really like this game, I was kind of like eh on it at first, but it definitely grew more and more on me over time.
+My number rating for this is an 8.75, tying it with Binding of Isaac and just barely ahead of slice and dice.
+2:16:00
+I think this this game has a crazy amount of potential behind it and I'm super excited to see where it goes.
+Like the the match that I got off of before starting up the zoom call here and recording like my heart was pounding because I was like, Oh my God, we got to finish up this fight.
+2:16:16
+But like we're are we actually going to win this or not?
+Like it was like right on the edge of my seat.
+I'll I'll start like with my nitpicks.
+I feel like, yeah, maybe echoing Colin's sentiment that like for new players, it's definitely like baffling of how fast it is.
+2:16:33
+And just like there's there's no time to think and really time to kind of like understand what's happening.
+But I think that's something that you you grok along the way related to not like the go go, go all the time attitude.
+Like you better take a bathroom break before you start a running this because like there was like enough times that I had to note it down in my dock here of like, wow, yeah, I maybe should do that beforehand.
+2:16:59
+The fact that you can't like and I understand that like, yeah, it's integrated into the core concept and consider the game of why you wouldn't be able to do that.
+But still, like maybe that's a me thing.
+The performance is egregiously bad for me anyway.
+But like, you know, Colin's top end systems also having issues.
+2:17:15
+So I'm hoping that the dusk Bloods, whatever they do, is that maybe we'll hopefully back port into the night rain stuff of making the engine somewhat better.
+And also it it like the last like little nitpick is like once I'm done with a run, it feels like I just need like a cigarette break of like, Oh my God, like I just I need a minute to breathe before just like jumping into another one.
+2:17:37
+Like there is that pole, but it's not like an immediate like I need to start another one right now in order to fix what I did last time.
+So that I feel like the one more run feeling there is is a little weak, but maybe not so much in a bad way because it's just so intense.
+The good stuff.
+2:17:52
+There's so much good here like it's it's Elden it's like all of like the favorite parts of mine from souls games but not 150 hours long where like I can just like bust out a a game in 40 minutes and I get like most of what I'm looking for for like fun Co-op experiences testing out some new weapons that I had never thought I would use before.
+2:18:14
+I don't have to keep any of the NPC names straight that are just amount like anagrams of each other that are super confusing.
+And I think like the brief amount of times that we we played together as a group, I thought were super fun because like even if I was just like coaching people the whole time, it was like, all right, now we got to focus on this and go and do that.
+2:18:33
+And like, yeah, we weren't going to win, but that was fine because it just felt fun to like drop into some fun area and just bash dudes for for 30 minutes.
+And that felt like a good time.
+So yeah, overall, I think like the all of any time that I did like Co-op stuff in previous souls games or like, or all of the like the the covenants and things, I would always gravitate towards the Co-op things.
+2:18:56
+PvP was never really my focus.
+And I think this game like really, really nails that the what made all of those Co-op modes in previous Souls games like super fun and not having to like put down a soapstone and make sure that like Will is looking at the thing at the same time as I was.
+2:19:13
+And, you know, being able to like the the quality of life stuff made for in in such a way to like make this more accessible, even if it is a little overwhelming at first, I think has helped out a ton.
+2:19:29
+So it's definitely not perfect, but it's super interesting.
+And like the Smash 64 reference, I think that, yeah, like this, this has so much neat stuff that it can it can glom onto.
+So what was it like?
+2:19:45
+Yeah, that's it's like that meme of like, he's a little confused, but he's got the spirit kind of thing that sort of feels like what my my sentiment in a nutshell.
+But Chris, as our very special summon for this episode, carrying us, as it were needfully through the volcano inferno, what we'll give you the last word for for what you thought about your.
+2:20:11
+First experiences here with night rain so far.
+Number ratings are hard.
+If I had to give a value to it, I think it would be in madness build up.
+But and also maybe like how does this rank relative to the other Souls games that you've played?
+2:20:27
+And maybe how does this rank relative to the other Rogue type games that you've played?
+Interesting.
+OK so I've played Dark Souls 1 and Elden ring.
+That's it.
+I've been exposed to a lot of other Souls media in terms of, you know, lore videos.
+2:20:44
+I've watched many, many short plays, long plays, speed runs of Dark Souls 2 and 3 and 1, and Sakiru as a Souls game.
+It's got the combat and it's got a bit of the thoughtful, vague storytelling, but not enough for me.
+2:21:10
+Combat is stellar.
+They've really I, I think you focused on the, the, the focus on the Co-op combat and and the boss design.
+Stellar.
+That's what they're here for.
+I, I said I have like 670 something hours on Elden Ring.
+2:21:27
+A lot of that is an Elden Ring seamless Co-op because that is a blast and that's I hope they look at that a little bit.
+I'm so glad they're they're going into the, you know, Co-op first design philosophy.
+2:21:44
+I know there's that story going around about Miyazaki saying, you know, I got stranded in my car in a snowstorm and two strangers came out of nowhere to dig me out and vanished into the into the snow.
+And, and that's what I wanted for, you know, multiplayer in Dark Souls.
+2:22:04
+And in a way, there's a bit of that here.
+There's no voice chat, there's just pings, just just people playing.
+I think that's beautiful.
+The game is enormously stressful.
+The game is enormously just fast-paced.
+2:22:21
+I agree that it kind of, you kind of come into it as as you're speeding along, you know that you get to know the roots just as you would in any Souls game that you've played for played six times.
+You know all the paths to run and you know to take this little dip past this night to avoid it.
+2:22:41
+But to me that that is not what I enjoy about the Souls games.
+I enjoy the quiet moments.
+I enjoy the taking in the vistas, encountering weird ladies without shoes and and Crohn's muttering to me, people laughing.
+2:23:07
+I feel like dark Dark Souls every.
+They must go to like every NPC, every voice actor and say and give us a laugh just so we can throw it in.
+I love that.
+Anyway, it's missing a lot of that and that's OK in terms of it compared to other rogue likes.
+2:23:28
+I don't think it's very good as a refling in terms of the time investment and potential for failure and pay out the the possibility of getting back into a run after you've kind of fallen off the horse a little bit.
+2:23:51
+I feel like is is low, but there's no way out when you're playing with three people and the sub bosses are more or less, you know, doable.
+You're pretty much locked in for the full 40 minutes as soon as it goes really sour.
+2:24:10
+And like it might feel good to like, you know, actually pull through, but like a lot of the times you just don't.
+And if you're grinding for a particular boss, it feels really bad.
+The relic.
+2:24:27
+Gotcha.
+I think the relic system is a bit of a lazy way to do meta progression.
+I don't want to be rude about it.
+There's no real logic to a lot of them.
+You've got, you know, plus great sword perks next to plus Cortana perks and all sorts of colors.
+2:24:53
+Yeah, after you beat all the bosses and do all the remembrances, this feels like the kind of game where they still want you to play.
+It looks like Fortnite.
+It's run based.
+You know, theoretically there could be a grind to keep you going and maybe that's coming in the new DLC so that you could just pick it up and say, I'm going to get a little bit done in Night Rain today, but that's not in there.
+2:25:22
+Like once you're done, you're done pretty much.
+And it's hard, but it's you can get there.
+This all sounds very down on it.
+I I think it's a very interesting game and I so much of my time frustrated with it was like trying to figure out what they were thinking and making it anyway.
+2:25:45
+It's a wild time.
+I do recommend it mostly if you've played Eldon Ring or in other Dark Souls.
+If you haven't played any of those, you're going to be very confused.
+Maybe just go play those first.
+Yeah, consider playing those first.
+2:26:02
+People say they're very hard.
+Like Andrew said, if you've got a lot of time and patience, they're doable.
+People get very dramatic about how how it like taught them to be better at video games, but I think it mostly just teaches people patience.
+2:26:20
+You don't need to play video games to learn patients, but they're interesting.
+Some of us do.
+Anyway, all this to say I don't know like 66.9 madness build up at it I.
+Don't know, Well played.
+2:26:37
+All right, well, that's going to drop Elden Ring night rain as the number new number 13 overall of the 78 games that we've reviewed, which is which is pretty great.
+Just ahead of luck be a landlord and just behind a star of Providence that we're we're getting into episode lengths here that rival the actual Eldon Ring.
+2:26:57
+So I will keep this next segment of of similar games here a little shorter than the usual.
+But I think the first thing that came to mind.
+This is the only podcast that you'll hear this comparison where a similar game to Eldon Ring night rain is rabbit and steal a an anime.
+2:27:16
+The anime Bunny girl MMO style like raid boss simulator that when I was playing night random like this feels disturbingly similar and the the conceit is that it's Co-op first 3 three players.
+2:27:32
+I don't know if it specifically tries to angle around the DPS support tank triads.
+You punch your allies to wake them up.
+Haven't gotten that far, but yeah, I think like that is that is like maybe a weirdly deep cut for something that is is kind of similar Andrew, as our resident Fortnite expert.
+2:27:52
+Is Fortnite Blitz Royale at all similar here?
+I don't really know what that is, but I put it on here with a question mark.
+I.
+Mean it's fast and it's a small team and there's a small circle so I guess.
+Yeah, we'll we'll keep that in for complete mistake.
+2:28:09
+There's some other I guess like Hades like ish kind of games that maybe fit bill here.
+Ravens watch question mark Dreamscaper.
+There's a prologue slash, I guess, I don't know, maybe like an enhanced demo of Dreamscaper out right now.
+2:28:24
+It's supposed to come out I think later this year.
+And that's another one that people are really in on on Co-op like style synergies between different characters, Co-op, Co-op game modes for.
+We talked a little bit about Returnal.
+I'm just including that for like AAA production purposes.
+2:28:42
+Maybe Remnant 2 question mark, I don't know.
+Well, yeah.
+And then I'll put Children of Morda on here as well for something that's kind of like dark, dark fantasy.
+You have kind of like a round table hold.
+You have different characters that you're levelling up with stuff, so give those, give those a a watch for some similar games.
+2:29:05
+But in the meantime, as we slowly wind down our potential, I'm guessing a new record for longest new.
+Record.
+Of.
+Being here, Chris, for a record setting, not only is it the first double, I'm pretty sure double back-to-back guest episodes, it's also potentially the longest 1.
+2:29:25
+So it's a real red letter day.
+And thank you for being here and making up for for my, you know, lack of a lack of knowledge, bringing your your soul's knowledge to bear and your bird flying on another bird expertise.
+2:29:42
+We appreciate you being here.
+Yeah, thank you for having me.
+I I really appreciate it.
+I'm sorry, I I went on a bunch of tangents or something, but.
+That's what video game podcasts are playing.
+A different podcast.
+Yeah, yeah.
+It would be a game of.
+2:29:57
+It would be a different podcast.
+It would be a podcast all about Slave Aspire.
+A game of contrasts.
+Chris, is there anything that you want to you want to plug or promote before we wind, wind down here?
+I would like to shout out my boyfriend Danny the.
+2:30:16
+Previous Guest.
+Anime anime cat V tube expert.
+Let's see I don't know I don't I don't do much creative.
+But anyway, if you see the name Garglestone in in night rain.
+Ping rapidly.
+2:30:33
+Ping rapidly ping hard ping.
+If you if you know the root, you got it.
+I don't doubt it.
+That's on you anyway.
+Thank you.
+Yeah.
+Yeah, see our previous episode on on holo cure save the fans where Danny made a a very nice guest appearance, providing his very good expertise in that in the V tuber realm there.
+2:30:58
+But but that's going to wind down the Eldon Ring of verse until we revisit it back with armored core night rain at some point in the future.
+Please, please, please, please, Miyazaki, please I will I will buy whatever janky unsupported driver version game you put out there.
+2:31:15
+Just I'm, I'm begging ya, you can find you can write in with all of your yeah, send send us your Miyazaki style feat pics to grogpodzone@gmail.com.
+We're on Mastodon Grogpod at game dev dot place and our website with all of all of the stuffs previous episodes links to find us on YouTube, Blue sky, whatever you know, whatever it is that you want is at the website Grogpod dot zone.
+2:31:44
+Colin, what's what's the next game that we're playing?
+You've had a whole 88 hours maybe to think about it.
+Well, I mean, I had eight hours plus all of the other days and weeks that I could have been thinking about if I really wanted to.
+We're going to go with the King is watching the lot of a lot of it was either that or Orcs must die.
+2:32:06
+But I didn't want to do to Co-op first person, third person type games in a row.
+So I figured we'll, we'll, we'll keep on the back burner for a while.
+So until then, the king is watching you.
+You must work, and by work I mean play this game.
+Well, something I've been been watching for a while, excited to to test it out and I how how many hours does will have in that game so far already?
+2:32:30
+Probably a lot, I would guess north of 50, but yeah, great.
+Yeah, that's going to wind down our Elden Ring night rain episode.
+And to play us out will be some some epic piano tunes to fight some frozen frost Dragons with.
+2:37:17
+Music.
+2:37:56
+The.
+2:38:35
+Music.
