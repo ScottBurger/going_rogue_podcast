@@ -24,11 +24,25 @@ Praise the Sun! The Nightlords have invaded the world of Elden Ring and it's up 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/elden-ring-nightreign-with-kris-garglestone/id1650474911?i=1000723673406) | [Spotify](https://open.spotify.com/episode/0NozvdLTKZqUFkc0i5dvwm) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/vellum.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/elden-ring-nightreign-with-kris-garglestone/id1650474911?i=1000723673406) | [Spotify](https://open.spotify.com/episode/0NozvdLTKZqUFkc0i5dvwm) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/nightreign.txt)
 
 ---
 * 1:40 - Game stats
 * 4:44 - One sentence description
+* 6:22 - Hosts' backgrounds with Dark Souls games
+* 11:13 - Nightreign as departure from traditional Souls formula
+* 21:21 - Game announcement reactions & initial confusion
+* 25:26 - Launch reception & Steam review progression
+* 31:59 - Tutorial walkthrough & first boss encounter
+* 39:26 - Multiverse concept & boss selection choices
+* 43:10 - Round Table Hold hub world navigation
+* 44:16 - Character classes & special abilities overview
+* 54:50 - Remembrance quest system mechanics & issues
+* 1:05:44 - Relic system & meta progression discussion
+* 1:18:45 - Map exploration & routing strategies
+* 1:28:49 - Castle exploration & difficulty scaling
+* 1:41:17 - Boss fights & Nightlord encounters
+* 1:56:01 - Upcoming "Deep of the Night" DLC details
 * 2:06:46 - Rankings and final thoughts
 * 2:22:55 - Similar games and show wind-down
   
