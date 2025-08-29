@@ -28,6 +28,8 @@ Helen - [Mystery Dungeon expert](https://twitter.com/gagther)
 
 Tyler Pittman - Hades addict
 
+Kris - Elden Ring expert and #1 fan of Daniru17
+
 
 ## What is a Roguelike?
 
