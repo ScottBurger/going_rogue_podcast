@@ -1,0 +1,4458 @@
+WEBVTT
+
+1
+00:00:00.120 --> 00:00:15.849
+Andrew Harshman: Thank God you're here, because honestly, we were… at least, I was worried for a while, like, we're not gonna have enough to talk about, and I'm happy that, in addition to Scott, we're gonna have, two! We're gonna have a total of two…
+
+2
+00:00:16.650 --> 00:00:20.459
+Andrew Harshman: Spelunky veterans who know what they're talking about here on the show.
+
+3
+00:00:20.460 --> 00:00:20.990
+Scott Burger: Saturday.
+
+4
+00:00:20.990 --> 00:00:25.620
+Colin: And one amateur, and one… just observer, really.
+
+5
+00:00:25.810 --> 00:00:27.680
+Colin: Just color commentator.
+
+6
+00:00:29.000 --> 00:00:32.670
+Scott Burger: Okay, counting down for editing spacing…
+
+7
+00:00:39.370 --> 00:01:04.329
+Scott Burger: Greetings, friends, and welcome to a big 75th episode of the GrogPod Roguelike Podcast, where each episode we rappel into a roguelike game filled with traps and terrors, steal the golden review statue head, and escape with treasure in tow to revisit it at the end of the year, in our end-of-season recap deathmatch mode, if it scores high enough. I am your derpy
+
+8
+00:01:04.330 --> 00:01:07.450
+Scott Burger: pug, host of the podcast, Scott Berger.
+
+9
+00:01:07.450 --> 00:01:10.319
+Scott Burger: And with me are my fellow spelunkers!
+
+10
+00:01:11.170 --> 00:01:17.920
+Andrew Harshman: Well, howdy kid, this is Andrew Harshman, but this episode you can call me Wisconsin Johnson at your service.
+
+11
+00:01:19.150 --> 00:01:22.350
+Colin: And this is Colin, I'm a skeleton on the floor that sometimes pops up.
+
+12
+00:01:23.580 --> 00:01:28.149
+Woody: Hello, and I'm… I'm the resident lunkhead, Woody Siskowski.
+
+13
+00:01:29.150 --> 00:01:33.780
+Andrew Harshman: That's right, this is a… this is a guest star episode. We got Woody with us.
+
+14
+00:01:34.060 --> 00:01:37.990
+Andrew Harshman: To, tell us all that we need to know about.
+
+15
+00:01:37.990 --> 00:01:39.290
+Scott Burger: We had to bring in….
+
+16
+00:01:39.290 --> 00:01:39.730
+Andrew Harshman: worse.
+
+17
+00:01:39.730 --> 00:01:56.529
+Scott Burger: We had to bring in the heavy plasma cannons, for this one, for a highly requested listener request week, also, 75th episode and a listener request week, doubling up, with, if you, didn't check the title of the episode before downloading it, Spelunky, released…
+
+18
+00:01:56.840 --> 00:02:11.440
+Scott Burger: in 2008, question mark? As a freeware game, December 21st, 2008, if you could believe it. But we're playing the remaster version that debuted on the…
+
+19
+00:02:11.690 --> 00:02:26.880
+Scott Burger: Ask your grandparents, the Xbox Live Arcade, July 4th, 2012, and then coming to Steam a year later in August 2013, and then PlayStation 2013, and finally a Switch in 2021.
+
+20
+00:02:26.880 --> 00:02:33.900
+Woody: Okay, so you're saying that for 4th of July, if I'm not feeling particularly patriotic, I can just celebrate the anniversary of Spelunky?
+
+21
+00:02:34.300 --> 00:02:37.340
+Scott Burger: Yes, exactly. Wonderful. It feels like the 4th of July.
+
+22
+00:02:37.340 --> 00:02:37.980
+Andrew Harshman: Yup.
+
+23
+00:02:38.420 --> 00:02:56.349
+Scott Burger: This was made, developed and published by the, I think now, it's, I think it's easy to say now, legendary, Moss Mouth, which at the time was a whopping 3 people. The legendary and award-winning, at that time, as well, ….
+
+24
+00:02:56.350 --> 00:02:58.620
+Woody: Did they take… did they take away his awards?
+
+25
+00:03:00.670 --> 00:03:04.239
+Scott Burger: Well, I mean, no, but, but, like, Derek Yu.
+
+26
+00:03:04.240 --> 00:03:10.360
+Andrew Harshman: Well, yeah, they took them and they put them in this underground installation. Got it. Sort of a temple of sorts.
+
+27
+00:03:10.360 --> 00:03:13.630
+Scott Burger: But we have a, kind of an all-star cast here of, of…
+
+28
+00:03:13.770 --> 00:03:32.839
+Scott Burger: well, I mean, if you can call three people an all-star cast, Derek Yu, who just won the Indie Game Fest, grand prize with, a game called Scrolling… Aquaria, the year before, Spelunky 2008's release, Andy Hull, who's a programmer friend of Derek's.
+
+29
+00:03:32.840 --> 00:03:34.720
+Scott Burger: And Eric Shirk.
+
+30
+00:03:34.720 --> 00:03:44.599
+Scott Burger: if I'm pronounced… I guarantee I'm pronouncing his name wrong, but, a… a legendary chiptune artist, all came together to… for this Xbox Live
+
+31
+00:03:44.630 --> 00:03:53.989
+Scott Burger: release, and then, Mossmouth then put out Spelunky 2 in 2020, September 29th, 2020, and most recently.
+
+32
+00:03:53.990 --> 00:04:07.950
+Scott Burger: a… if you can believe it, a stay-tuned and a half for this program. I won't torture you guys with this coming up next week, but, UFO50, it was worth the wait, September 18th, 2024.
+
+33
+00:04:07.950 --> 00:04:10.940
+Scott Burger: More on that, to come at some point, but, ….
+
+34
+00:04:10.940 --> 00:04:17.700
+Woody: But UFO 50 isn't part of the Spelunky canon, right? It's just another high-quality Derek Yu project.
+
+35
+00:04:17.709 --> 00:04:31.139
+Scott Burger: I don't know if you… if you count Campanella 2 as… as in that canon, but anyway, anyway. Tune in to our UFO 50 episode when we eventually do it. Spelunky, your average player of Spelunky, has about 33 hours of gameplay in it.
+
+36
+00:04:31.139 --> 00:04:39.499
+Scott Burger: And surprisingly, Spelunky, climbs the rope of our Steam popularity rankings at the 81st
+
+37
+00:04:39.499 --> 00:04:45.739
+Scott Burger: most popular roguelike game on Steam, with 16,349 total reviews.
+
+38
+00:04:45.849 --> 00:04:56.699
+Scott Burger: Woody, What is your one-sentence journal entry description for what one does in this legendary roguelike platformer?
+
+39
+00:04:57.250 --> 00:04:58.060
+Woody: Alright.
+
+40
+00:04:59.940 --> 00:05:06.740
+Woody: Explore procedurally generated caves Watch out for spikes!
+
+41
+00:05:09.620 --> 00:05:10.770
+Andrew Harshman: Yup.
+
+42
+00:05:11.220 --> 00:05:16.179
+Woody: That's, … and how many exclamation marks do you put on that sentence? Yeah.
+
+43
+00:05:17.190 --> 00:05:18.460
+Andrew Harshman: Many as possible.
+
+44
+00:05:18.460 --> 00:05:21.139
+Woody: Yeah, this is a real, …
+
+45
+00:05:22.160 --> 00:05:30.359
+Woody: This is a real more-than-the-sum-of-its-parts type of game, you know, where, like, it is composed of essentially the simplest
+
+46
+00:05:30.540 --> 00:05:32.260
+Woody: possible premise?
+
+47
+00:05:32.900 --> 00:05:39.099
+Woody: And, … one of the best executions. Like, this is a game with…
+
+48
+00:05:39.380 --> 00:05:42.669
+Woody: Very little flash, and a lot of substance.
+
+49
+00:05:42.910 --> 00:05:48.589
+Scott Burger: Yeah, and I think that, like, this game, 100%, I agree on that on all fronts. It, like…
+
+50
+00:05:49.000 --> 00:05:52.500
+Scott Burger: There's maybe a trap with roguelike games nowadays.
+
+51
+00:05:52.500 --> 00:05:53.700
+Andrew Harshman: Many, actually.
+
+52
+00:05:53.700 --> 00:05:58.490
+Woody: Yeah, some shoot arrows, some of them shoot spikes….
+
+53
+00:05:58.670 --> 00:06:12.260
+Scott Burger: … with scope creep, where, like, oh, like, let's build… let's build a game that's, like, this very systems-heavy thing, and let's just cram more and more shit into it until it becomes NetHack, and it's just become this…
+
+54
+00:06:12.260 --> 00:06:19.339
+Scott Burger: incomprehensible nightmare of, like, Sakaban levels, and sure, let's just, like…
+
+55
+00:06:19.340 --> 00:06:33.209
+Scott Burger: have, like, all these other, like, things going on. I think, like, in terms of scope, and, like, something that is, like, scoped to something that's just, like, this is the game, this is its scope, I think Spelunky just slam-dunks it on…
+
+56
+00:06:33.230 --> 00:06:40.900
+Scott Burger: what it is, what it achieves, and what it does with, like, the parts that it has. Which isn't… which isn't a whole lot, which we'll probably get into.
+
+57
+00:06:40.900 --> 00:06:52.020
+Woody: So, I'm gonna… I'm gonna throw out, like, a thesis, an op… an opening paragraph, you know how teachers, they tell you, you, like, start your opening, and then you work forward, and then you restate. So, I hope that…
+
+58
+00:06:52.020 --> 00:07:04.429
+Woody: by the end of this podcast, we'll revisit this question. I think that you could make, like, an argument that Spelunky is one of, like, the definitive video games. Just, like, period.
+
+59
+00:07:04.740 --> 00:07:12.470
+Woody: Like, if you were to give somebody, like, if someone was like, I want to know what video games are, give me
+
+60
+00:07:12.730 --> 00:07:14.990
+Woody: 5 video games to play.
+
+61
+00:07:15.370 --> 00:07:23.650
+Woody: that are representative of everything that video games are and can do. I think you could cover a lot of ground giving them a copy of Spelunky.
+
+62
+00:07:23.650 --> 00:07:29.099
+Scott Burger: So here's maybe a pivoting question off of that for you, Woody. Would you consider Spelunky, like.
+
+63
+00:07:29.680 --> 00:07:37.919
+Scott Burger: Maybe… maybe not the, but, like, one of the top 3-5, like, standard bearers of… of all of roguelike games.
+
+64
+00:07:38.340 --> 00:07:40.800
+Woody: Yes, I would, except…
+
+65
+00:07:41.240 --> 00:07:47.009
+Woody: I… and I mean, I'm sure this is true for a lot of your listeners, and, you know.
+
+66
+00:07:47.110 --> 00:07:52.529
+Woody: like, I don't think that… my knowledge of roguelike games doesn't date back
+
+67
+00:07:52.630 --> 00:07:54.759
+Woody: To, you know, the 80s, when, like.
+
+68
+00:07:54.760 --> 00:08:03.870
+Scott Burger: Rogue was a game on PC. Like, this is one of the earliest games that I played that had procedurally generated levels.
+
+69
+00:08:04.240 --> 00:08:04.910
+Woody: ….
+
+70
+00:08:04.910 --> 00:08:08.189
+Colin: I mean, I think that there's basically, like, the new generation of.
+
+71
+00:08:08.190 --> 00:08:08.590
+Woody: Right.
+
+72
+00:08:08.590 --> 00:08:10.420
+Colin: or the new Renaissance start as.
+
+73
+00:08:10.420 --> 00:08:12.410
+Woody: The rogue, if you will.
+
+74
+00:08:12.410 --> 00:08:13.789
+Colin: Exactly, starts in…
+
+75
+00:08:14.370 --> 00:08:30.350
+Colin: 2007-ish? Right. I feel like. About the time that original Spelunky came out. Yeah, I mean, I feel like the 2007 to 2012 period had a lot of the foundational games that people
+
+76
+00:08:30.460 --> 00:08:37.089
+Colin: built on. Whether or not they were good, which, we might have a strong disagreement on that on this one, but….
+
+77
+00:08:37.090 --> 00:08:37.630
+Woody: That's fine.
+
+78
+00:08:37.630 --> 00:08:44.090
+Colin: But I wouldn't disagree that this was absolutely foundational and influential on so many other games that came out.
+
+79
+00:08:44.090 --> 00:09:00.299
+Scott Burger: I think it's important to stage set a little for, like, where was the state of rogue games in, like, the early 2000s? Because if we're comparing, like, 2008 Spelunky and why it was so influential, like, this is your list of, like, most influential rogue-like games of the time. Like, Rogue…
+
+80
+00:09:00.300 --> 00:09:09.230
+Scott Burger: we're not even talking rogue lights, like, that's not even a twinkle in Roguedom's eye yet. We're talking, like, the biggest release through, like.
+
+81
+00:09:09.470 --> 00:09:23.499
+Scott Burger: through this decade is, like, up to 2004 is, like, maybe Doom the Roguelike? So, like, lots of free, open, open source software stuff, like, the next year comes out Pokemon Mystery Dungeon, Red, Blue, Rescue Team, a stay tuned and a half.
+
+82
+00:09:23.500 --> 00:09:29.990
+Scott Burger: Which, like, you could argue that Mystery Dungeon games are maybe their own thing, but I feel like it's close enough
+
+83
+00:09:30.090 --> 00:09:43.959
+Scott Burger: to procedural generated stuff, and it sold, like, I don't know, 6 million copies or something? Like, you really can't ignore that level of legacy, but it's a turn-based, very slow, very grindy RPG-type game.
+
+84
+00:09:43.960 --> 00:09:55.210
+Scott Burger: That same year you have, FATE, usually in all caps, that comes out, which is like… it's like a crappy, like, like, Diablo at Home game for kids. …
+
+85
+00:09:55.210 --> 00:10:05.740
+Scott Burger: That, like, people have strong nostalgia for. I played the remastered version at PAX, was not impressed. The next year, 2006, you have Dungeon Crawl Stone Soup coming out, which…
+
+86
+00:10:05.900 --> 00:10:14.919
+Scott Burger: potentially a stay tuned. 2006 also marks the age of the first release of, Slaves to Armok 2,
+
+87
+00:10:15.180 --> 00:10:16.570
+Scott Burger: Dwarf Fortress.
+
+88
+00:10:16.720 --> 00:10:17.629
+Woody: Oh, sure.
+
+89
+00:10:17.630 --> 00:10:23.880
+Scott Burger: Also, the, the first roguelike game ever on Steam that everyone knows called Uplink, …
+
+90
+00:10:23.880 --> 00:10:43.320
+Scott Burger: 2007 has Pokemon Mystery Dungeon's sequel, Explorers of Time slash Darkness, that comes out. And in 2008, Spelunky lands on the scene, and it's like, oh, shit, I didn't think that, like, you could actually take mechanics from these Rogue games and put them into something real-time since, I don't know, what, like, ToeJam and Earl?
+
+91
+00:10:43.320 --> 00:10:43.640
+Woody: Okay.
+
+92
+00:10:43.640 --> 00:10:47.039
+Scott Burger: 93. Like, that's how big of a gulf it's, like….
+
+93
+00:10:47.040 --> 00:11:03.530
+Woody: ToeJam, and Earl is not a game that, like, asks you for precision. Like, that is… you know what I mean? Like, it's not a turn-based, menu-based game, but you're essentially walking around a isometric world, like, not without any real combat.
+
+94
+00:11:03.530 --> 00:11:20.010
+Scott Burger: Right. And, like, this… this kind of… and so, like, this is 2008, it's, like, blowing up because it's a freeware game, and between 2008 and Spelunky's, PC release, we have Binding of Isaac, releasing in 2011, FTL 2012,
+
+95
+00:11:20.010 --> 00:11:38.729
+Scott Burger: Rogue Legacy comes out, let's see, June 2013, and then Spelunky HD on Steam comes out August 2013. So technically, I guess, like, Spelunky HD comes out on Xbox Live Arcade sometime before Rogue Legacy, and I actually don't remember if Rogue Legacy came out on Xbox Live Arcade.
+
+96
+00:11:38.730 --> 00:11:43.929
+Scott Burger: But Rogue Legacy comes out, like, let's round it up, a year later.
+
+97
+00:11:44.000 --> 00:11:49.690
+Scott Burger: And I feel like Rogue Legacy has just kind of, like… Eating Spelunky's lunch, maybe?
+
+98
+00:11:49.690 --> 00:11:54.570
+Woody: Well, I agree in some ways, except I think…
+
+99
+00:11:55.130 --> 00:12:11.110
+Woody: I think Spelunky was just in a different lunch line. I think that Spelunky was in, you know, came out, and people were like, oh, this is great, you know, Spelunky HD, you know, really clicked, it's a great game, but I think that some people, like…
+
+100
+00:12:11.900 --> 00:12:19.879
+Woody: you know, it is a game with a lot of friction, in the sense that you can boot up Spelunky and you could be dead within 30 seconds.
+
+101
+00:12:20.060 --> 00:12:24.340
+Woody: Which is, you know, for people who aren't…
+
+102
+00:12:24.930 --> 00:12:38.190
+Woody: that is not a selling point. They might just be like, you know what? I've played this game for 4 minutes, and I've died 5 times, so I'm just not gonna play this game. And I think Rogue Legacy….
+
+103
+00:12:38.490 --> 00:12:43.749
+Colin: I bounced off it pretty hard, and I was looking, and I was like, alright, I have an average runtime of 3 minutes.
+
+104
+00:12:43.750 --> 00:12:46.150
+Andrew Harshman: And so you bounce off it into….
+
+105
+00:12:46.150 --> 00:12:50.559
+Colin: 22 deaths in… In, like, an hour and 10 minutes.
+
+106
+00:12:50.560 --> 00:12:51.050
+Scott Burger: So that's….
+
+107
+00:12:51.050 --> 00:12:53.140
+Colin: Yeah, this is, like, rough.
+
+108
+00:12:53.140 --> 00:13:11.109
+Woody: No, and that sounds right, and I think that Rogue Legacy was the game that said, hey, Spelunky's doing a lot of super cool stuff in terms of integrating, like, procedurally generated Rogue mechanics into a retro platformer. Let's steal that idea and add, you know.
+
+109
+00:13:11.330 --> 00:13:16.739
+Woody: What, you know, is now roguelite mechanics, where you have this, ….
+
+110
+00:13:16.740 --> 00:13:18.409
+Scott Burger: like, progression systems.
+
+111
+00:13:18.410 --> 00:13:22.969
+Woody: Yeah, well, what's… what's the term of, like, advantages that carry over from run to run?
+
+112
+00:13:23.290 --> 00:13:25.159
+Scott Burger: progression, right? Or, or like a, like a.
+
+113
+00:13:25.160 --> 00:13:26.040
+Colin: Meta progression.
+
+114
+00:13:26.040 --> 00:13:29.019
+Andrew Harshman: Meta progression. Yeah, those are… yeah, right, right.
+
+115
+00:13:29.020 --> 00:13:39.450
+Woody: I think that the things that Rogue Legacy did, of having this meta progression, other games sort of built on that, because they're like, oh, now we can just…
+
+116
+00:13:39.820 --> 00:13:42.419
+Woody: We don't have to worry about
+
+117
+00:13:42.700 --> 00:13:49.639
+Woody: like, Hades is a great example of this. Because, like, Hades is a great game, and it is a very difficult game.
+
+118
+00:13:49.920 --> 00:13:57.080
+Woody: As is, like, Dead Cells, but because they have these elements of meta-progression.
+
+119
+00:13:57.440 --> 00:14:05.360
+Woody: They can leave the game as difficult as they want it to be, but if you keep playing it, you will beat the game.
+
+120
+00:14:05.360 --> 00:14:05.920
+Scott Burger: Right.
+
+121
+00:14:05.920 --> 00:14:17.949
+Woody: Like, like, Spelunky has none of that. There is no natural element to Spelunky that makes a run that you do 10 hours in naturally easier than the run you do when you first boot up the game.
+
+122
+00:14:17.950 --> 00:14:20.429
+Andrew Harshman: Say for your own muscle memory.
+
+123
+00:14:20.430 --> 00:14:21.640
+Woody: Well, exactly.
+
+124
+00:14:21.640 --> 00:14:22.880
+Andrew Harshman: raw skills.
+
+125
+00:14:22.880 --> 00:14:33.430
+Woody: And that's part of my argument of why this is one of the definitive video games. Because, like, is there any game that has made, like, a better case
+
+126
+00:14:33.630 --> 00:14:37.029
+Woody: For you just getting better at the game.
+
+127
+00:14:37.270 --> 00:14:38.040
+Scott Burger: Dark Souls.
+
+128
+00:14:38.040 --> 00:14:38.949
+Colin: I mean, I feel like this.
+
+129
+00:14:38.950 --> 00:14:39.420
+Woody: But….
+
+130
+00:14:39.420 --> 00:14:55.049
+Colin: when I've been thinking about it, it's as, like, oh, this is… I put it in the same, like, VIN diagram cluster as the Dark Souls-types games, where it's just… one of the goals of the game is to increase your personal skill level at it, and, like.
+
+131
+00:14:55.050 --> 00:14:56.160
+Scott Burger: Well, I guess also….
+
+132
+00:14:56.160 --> 00:15:00.420
+Colin: measure of progression. And this came out well before, well….
+
+133
+00:15:00.670 --> 00:15:01.290
+Andrew Harshman: Came out June…
+
+134
+00:15:01.660 --> 00:15:10.989
+Andrew Harshman: for Demon's Souls. Demon's Souls came out… well, I'm not sure if it came out in Japan in 2009 or in the US, but around this time.
+
+135
+00:15:11.470 --> 00:15:14.360
+Scott Burger: But it felt like that era of gaming.
+
+136
+00:15:14.360 --> 00:15:32.619
+Andrew Harshman: The reason I know that is that I just looked it up, because I'm curious, like, hey, when all this was happening, what games was I playing? Because I wasn't really playing many roguelikes, I was playing, like, Left 4 Dead 2, Uncharted 2, Infamous, Demon's Souls. Anyway, sorry, I know this is going back a ways.
+
+137
+00:15:32.640 --> 00:15:35.469
+Andrew Harshman: When did the actual popular version of this game come out?
+
+138
+00:15:35.470 --> 00:15:38.480
+Woody: When did everyone… 2012.
+
+139
+00:15:38.480 --> 00:15:39.000
+Andrew Harshman: Yeah.
+
+140
+00:15:39.280 --> 00:15:39.920
+Andrew Harshman: 12 on Xbox.
+
+141
+00:15:39.920 --> 00:15:48.240
+Woody: Xbox Live Arcade. And this game had a weirdly super, like, Spelunky HD, which is pretty much, I think, when you space Spelunky, this is….
+
+142
+00:15:48.240 --> 00:15:51.650
+Scott Burger: where people's mind would go to with Splunk HD. Right.
+
+143
+00:15:51.650 --> 00:15:56.440
+Woody: The Switch version of Spelunky HD didn't come out until, like, 2020.
+
+144
+00:15:56.780 --> 00:16:10.199
+Woody: Like, this game has a super timeless quality to it, like, if Spelunky 2 didn't… like, if there was never a Spelunky game up to this point, and then Spelunky HD came out this year.
+
+145
+00:16:10.390 --> 00:16:13.560
+Woody: Like, I still think it would totally be…
+
+146
+00:16:13.860 --> 00:16:17.120
+Woody: Its own super cool, kind of revolutionary thing.
+
+147
+00:16:17.260 --> 00:16:28.889
+Scott Burger: Yeah, and I think it kind of comes with this wave of, like, hard games are cool again, with, like, like, I've never played it, but Woody, I'm sure you've played I Wanna Be the Guy.
+
+148
+00:16:28.890 --> 00:16:29.510
+Woody: Yeah.
+
+149
+00:16:29.670 --> 00:16:39.450
+Scott Burger: Between that or, like, like, Super Meat Boy, and yeah, like, Demon's Souls Dark Souls, it was like, oh, like, you're not cool until, like, you've beaten Dark Souls.
+
+150
+00:16:39.450 --> 00:16:52.240
+Woody: A couple of things on that. I think that I Wanna Be the Guy, for example, is its own kind of other genre, because that is a game that is deliberately designed to hit you with cheap death as, like, a joke.
+
+151
+00:16:52.370 --> 00:16:53.530
+Scott Burger: like, Kaizo Mario.
+
+152
+00:16:53.530 --> 00:17:08.299
+Woody: Yeah, which is not a bad thing, but it's like, hey, we're going to require a level of precision that is sort of beyond what any reasonable player can expect. And I don't think that Spelunky goes there.
+
+153
+00:17:08.300 --> 00:17:14.079
+Andrew Harshman: I'm not convinced that Spelunky isn't that far off at times, but I get what you're saying.
+
+154
+00:17:14.089 --> 00:17:15.369
+Woody: I went for the….
+
+155
+00:17:15.369 --> 00:17:16.509
+Andrew Harshman: the ground up to do that.
+
+156
+00:17:16.510 --> 00:17:24.339
+Woody: chime in on, … I do think that the Dark Souls comparison is reasonable, but to me, the difference maker is…
+
+157
+00:17:25.060 --> 00:17:30.690
+Woody: I remember being frustrated in the original Demon's Souls, and then looking up builds.
+
+158
+00:17:30.690 --> 00:17:31.280
+Scott Burger: Hmm….
+
+159
+00:17:31.280 --> 00:17:45.490
+Woody: like, oh, this is… this is an effective weapon to use based on its stats, and then I just built around that weapon, and then I cruised through the rest of the game. Like, Spelunky, you can look up what some items do.
+
+160
+00:17:45.840 --> 00:17:48.600
+Woody: But you can't really look up.
+
+161
+00:17:49.330 --> 00:17:50.310
+Colin: How to be good at it.
+
+162
+00:17:50.310 --> 00:17:51.040
+Scott Burger: Got it.
+
+163
+00:17:51.040 --> 00:17:55.120
+Woody: Yeah, yeah, to some extent, and even, like.
+
+164
+00:17:55.610 --> 00:17:58.989
+Woody: Enemy patterns are just much more…
+
+165
+00:18:00.270 --> 00:18:02.609
+Woody: I don't know, things feel much more…
+
+166
+00:18:03.090 --> 00:18:15.550
+Woody: bare bones in Spelunky, like, there's so many elements of Dark Souls that… or, you know, just games in general, where I always wonder, like, am I getting better at the game, or am I simply memorizing
+
+167
+00:18:15.700 --> 00:18:20.029
+Woody: The challenges that the game is throwing at me, because it's the same every time.
+
+168
+00:18:20.030 --> 00:18:20.480
+Scott Burger: Right.
+
+169
+00:18:20.480 --> 00:18:25.400
+Woody: Whereas I feel like in Spelunky, you just kind of…
+
+170
+00:18:25.540 --> 00:18:27.800
+Woody: Have to just be getting better at the game.
+
+171
+00:18:28.070 --> 00:18:40.069
+Andrew Harshman: Indeed, unlike a traditional platformer, like, classic Mario or, I don't know, Mega Man, let's say, Battletoads.
+
+172
+00:18:40.070 --> 00:18:40.580
+Woody: Sure.
+
+173
+00:18:40.580 --> 00:19:00.270
+Andrew Harshman: You… you cannot memorize the level, critically, because it's randomized. You can't, you know, figure out, oh, you know, I'm gonna do this jump in this way, and I'm going to utilize this item, and… and, you know, just sort of go through the level by memory until you get to a new part, or the part that has, you know, been
+
+174
+00:19:00.390 --> 00:19:07.090
+Andrew Harshman: been challenging you. And … It is….
+
+175
+00:19:07.090 --> 00:19:23.350
+Woody: I wasn't sure how I felt about that at first. Yeah, that's fair. I mean, there can be some procedural bullshit. Like, I was doing a run where there was an arrow trap that was pointing directly at a store, like, a store.
+
+176
+00:19:23.960 --> 00:19:30.299
+Woody: So, if I drop down to go to the store, that arrow trap trigger was gonna trigger…
+
+177
+00:19:30.640 --> 00:19:43.050
+Woody: Yeah, so I'm like, oh, I'll just drop a rope. And so I just dropped the rope down there, it shot the arrow into the store, and then the shopkeeper went nuts and just destroyed me, because that's what they do. And I was like, hey, that seems like….
+
+178
+00:19:43.050 --> 00:19:45.230
+Colin: It's your fault that he got shot with the arrow, so….
+
+179
+00:19:45.230 --> 00:19:54.659
+Woody: No, it was 100% my fault, and that's what I realized, like, first I was bitter that, like, oh, I can't believe an arrow trap spawned right there, they shouldn't let that happen, but, like.
+
+180
+00:19:55.010 --> 00:20:14.479
+Woody: I should have known that that was gonna… gonna happen, and then I had a choice, which is… just don't go to that shop, just go around the other way, which is, you know, the kind of choice that you face in a roguelike all the time. Like, that's what roguelikes are built on, is this idea of how much do I want to risk in this run.
+
+181
+00:20:14.760 --> 00:20:22.200
+Woody: Or do I just want to bypass it? So as far as… I should have just recognized that as, oh, that is just not a shop that I want to go to.
+
+182
+00:20:22.200 --> 00:20:29.249
+Scott Burger: You could also, like, blow up the arrow trap from, like, behind it. Yeah, or I could have jumped down in front of it and taken, you know.
+
+183
+00:20:29.250 --> 00:20:30.499
+Woody: Use my body as a shield.
+
+184
+00:20:30.500 --> 00:20:31.590
+Scott Burger: Get down, Mr. President.
+
+185
+00:20:31.590 --> 00:20:31.910
+Woody: Yeah.
+
+186
+00:20:31.910 --> 00:20:32.360
+Colin: So….
+
+187
+00:20:32.360 --> 00:20:32.730
+Woody: One second.
+
+188
+00:20:32.730 --> 00:20:39.200
+Colin: So I have a… before we get too far into this episode, could one of you guys who has played this game
+
+189
+00:20:39.740 --> 00:20:46.270
+Colin: significantly further into completion than I have. Yeah. Just give me a… A rundown of, like.
+
+190
+00:20:46.610 --> 00:20:51.860
+Colin: what are you… just a run through a run for me, because I… I…
+
+191
+00:20:51.980 --> 00:20:58.600
+Colin: I'll say I bounced off this game pretty hard. I never made it past the… the mines. Yeah, no, round two….
+
+192
+00:20:58.600 --> 00:21:05.300
+Andrew Harshman: Bounced off it, into an explosion, into a spike trap. Am I right, folks?
+
+193
+00:21:05.300 --> 00:21:09.310
+Woody: There's a page on the Spelunky wiki called Yet Another Stupid Death.
+
+194
+00:21:09.310 --> 00:21:11.179
+Andrew Harshman: That is, like, ….
+
+195
+00:21:11.280 --> 00:21:17.769
+Woody: You know, it's like, it's just an endless scroll of people describing all of the different ways they've died in sports.
+
+196
+00:21:17.770 --> 00:21:20.090
+Andrew Harshman: All the wacky Looney Tunes Tom Ford.
+
+197
+00:21:20.090 --> 00:21:21.439
+Scott Burger: Before… before we jump in….
+
+198
+00:21:21.440 --> 00:21:24.300
+Andrew Harshman: you said, Scott, that this game is secretly a pinball game?
+
+199
+00:21:24.650 --> 00:21:26.230
+Scott Burger: I mean, yeah, it feels….
+
+200
+00:21:26.230 --> 00:21:29.139
+Andrew Harshman: Are you all being your rag-dolling corpse, or…?
+
+201
+00:21:29.140 --> 00:21:47.719
+Scott Burger: Your health pool being your strokes. I think, like, before we jump into, like, an example run, I do want to touch real quick on, like, the intro and tutorial, because I get… I think that, like, this game does really well with, like, setting the stage, where, like, you boot up the game the first time, the graphics, I think, in this game are excellent.
+
+202
+00:21:47.720 --> 00:22:00.649
+Scott Burger: Where, like, normally I'm really not a fan of, like, kind of cartoony-looking design like this, but I think the art here is really, really good, and it works really well for, like, the theme of the game being, like, an Indiana Jones simulator.
+
+203
+00:22:00.650 --> 00:22:21.679
+Scott Burger: Where, like, you boot up the game, and, you know, your spelunker, your Indiana Jones, non-copyright infringing character is walking through the desert, and comes to this big, big cave, you drop a rope down, and there's, like, a big door, but it's locked, oh no, and you're effectively forced to go through the tutorial sequence, which kind of sucks if you have your save lost.
+
+204
+00:22:21.680 --> 00:22:24.839
+Woody: Yeah, it's crazy, this game doesn't have Cloud Save on PC.
+
+205
+00:22:24.840 --> 00:22:35.889
+Scott Burger: Yeah, it's kind of wild. But, … I will say, like, jumping into this on my Steam Deck, I was like, ugh, I gotta go through the tutorial again. Well, fine, let's do it. And I remember, like.
+
+206
+00:22:35.990 --> 00:22:47.350
+Scott Burger: being pretty well educated, and, like, the, the little journal pops up, and it's the explorer, Yang, who has left you this journal with all of his tips of, like, oh, this, you know.
+
+207
+00:22:47.610 --> 00:23:07.510
+Scott Burger: here's how to survive in the dungeon and everything, and you go through, like, basically an example, like, run of the mines. It's very easy, and it has all, like, these enormous billboards in the background that I think are very cute, of, like, stick figures jumping with the buttons and stuff, but there's also, like, very subtle.
+
+208
+00:23:07.510 --> 00:23:27.120
+Scott Burger: game mechanics sprinkled in there, like with, like a row of spikes and a gem behind it, and you're like, I'm not gonna jump on the spikes to get the gem. Clearly, that's a trap, but if you, like, fall off to the side, you can walk through the spikes to get the gem. It's not explicitly spelled out, but if it's one of those things that you just happen to stumble across, you're just like….
+
+209
+00:23:27.120 --> 00:23:29.509
+Andrew Harshman: Too, too subtle for some players.
+
+210
+00:23:29.510 --> 00:23:30.160
+Colin: Yeah, I didn't….
+
+211
+00:23:31.820 --> 00:23:41.039
+Andrew Harshman: And critically, this is all being presented, of course, in-game, you're playing it, and it is, of course, a platformer, a side-scrolling platformer for anyone who happens to not know what we're talking about.
+
+212
+00:23:41.040 --> 00:23:52.230
+Scott Burger: Yeah, but it teaches you stuff, like, here's how to use the whip to open boxes, here's how to, like, plant a bomb down instead of throwing it, here's how to, like, do running jumps and run over pits at full speed.
+
+213
+00:23:52.230 --> 00:24:09.859
+Scott Burger: And then Yang's journal goes on to say, alright, you know, you're on your own adventure, like, go out and seek the gold, and then the key to the entrance of the mines blows open in this big blue explosion, and you start your first run into the mines!
+
+214
+00:24:10.800 --> 00:24:11.700
+Woody: And, yeah.
+
+215
+00:24:11.700 --> 00:24:19.389
+Andrew Harshman: And immediately ends, … Very quickly, you start with 4 health, and everything.
+
+216
+00:24:19.620 --> 00:24:27.780
+Andrew Harshman: In this, procedurally generated level is out to murderize you, including gravity, especially gravity.
+
+217
+00:24:28.280 --> 00:24:33.859
+Woody: And I would say, like, the most telling thing in this game, probably the thing that's, you know…
+
+218
+00:24:34.130 --> 00:24:46.100
+Woody: pushes people away immediately is the arrow traps, which are on the first level, and they're these, like, little gargoyle heads, and they… they're kind of hard to notice at first, because they are just blocks in the wall, and…
+
+219
+00:24:46.130 --> 00:24:57.729
+Woody: when you jump in front of them, like, even a fair distance away, they will shoot this high-speed crossbow bolt that just, like, pierces your character and deals you, I think, 3 damage?
+
+220
+00:24:57.730 --> 00:25:08.010
+Scott Burger: It's 2 damage, but it's like 50% of your starting health with one hit, and you're just… and, in theory, if, like, you bounce off of that and fall down a pit, there goes another health, and then….
+
+221
+00:25:08.150 --> 00:25:15.779
+Andrew Harshman: Or if you get shot, launched into an enemy, yeah, damage has a tendency to, combo in this game.
+
+222
+00:25:15.780 --> 00:25:16.350
+Woody: For sure.
+
+223
+00:25:16.350 --> 00:25:19.310
+Andrew Harshman: And … what's…
+
+224
+00:25:20.120 --> 00:25:34.549
+Andrew Harshman: Yes, I think you've, you've really touched on something important, Woody, here, the arrow traps, which are present all the way up until the fourth biome, off and on, if I'm not mistaken. They do show up in the fourth level.
+
+225
+00:25:34.550 --> 00:25:39.160
+Woody: level, you also get, magma pits with guys that jump out of the magma.
+
+226
+00:25:39.370 --> 00:25:46.369
+Andrew Harshman: Magma pits, and, and mummies, and … let's… let's not forget the…
+
+227
+00:25:47.040 --> 00:25:51.080
+Andrew Harshman: … strange blocks that will insta-give you.
+
+228
+00:25:51.080 --> 00:25:53.489
+Woody: Oh, yeah, someone walks to chase after you.
+
+229
+00:25:53.490 --> 00:25:55.290
+Scott Burger: Yeah. I guess, like….
+
+230
+00:25:55.290 --> 00:26:09.310
+Andrew Harshman: With regards to the arrow traps, sorry, let's stick with the arrow traps for a moment. They are… so the tile that is used, this is, of course, a tile-based, you know, platforming game. The tile and the texture that's used for the arrow trap.
+
+231
+00:26:09.310 --> 00:26:18.219
+Andrew Harshman: is very similar to another tile, which is just a regular stone block. The difference being is there's sort of like an artistic rendition of, like.
+
+232
+00:26:18.220 --> 00:26:26.620
+Woody: That regular stone block, like, there's the brown, sort of, you know, normal landscape, but then there is these stone blocks
+
+233
+00:26:26.620 --> 00:26:46.060
+Woody: that will fall. Like, the brown blocks will stay in the air, and the stone blocks will fall, so many a time, I have gotten the Maddock, a tool that allows you to dig, and I have been digging my way horizontally through, and, you know, mostly it's harmless, and then you dig your way under a stone block, and you keep walking forward, and that just falls and crushes you.
+
+234
+00:26:46.060 --> 00:27:03.830
+Andrew Harshman: One of the few times I laughed when I died in this game was when I got crushed by one of those blocks. But the point is that these arrow traps… I've been playing this game for 24 hours. Out of the two weeks we've been playing this game, I spent an entire day playing it. I am still…
+
+235
+00:27:04.120 --> 00:27:14.010
+Andrew Harshman: running into these arrow traps, because they are well camouflaged, and you have so… talk about cognitive load. This is, in some part, a memory game.
+
+236
+00:27:14.010 --> 00:27:14.520
+Woody: Sure.
+
+237
+00:27:14.520 --> 00:27:31.869
+Andrew Harshman: a very, difficult and, not at all lenient memory game. You need to remember, how does the arrow trap work? How do these different enemies behave? How do the large stone blocks work? What is the behavior of the
+
+238
+00:27:31.990 --> 00:27:34.089
+Andrew Harshman: Everything in the tru- in the level.
+
+239
+00:27:34.090 --> 00:27:37.859
+Woody: to me, is what is interesting about this game, because there are so….
+
+240
+00:27:37.860 --> 00:27:40.580
+Andrew Harshman: Interesting! It's very difficult.
+
+241
+00:27:40.580 --> 00:27:43.580
+Woody: To, like, a retro aesthetic, like…
+
+242
+00:27:44.360 --> 00:28:02.829
+Woody: there are so many games that are memory ga- like, you know, Punch-Out! is a memory game, because you can memorize the patterns. Here, Spelunky, it can't be a memorization game, because the things are randomized, so every… you have to stay… it's essentially a game…
+
+243
+00:28:03.000 --> 00:28:14.780
+Woody: that prevents you from resting on your laurels, and prevents you from playing lazily. You can't have played so many hours of Spelunky that you just, like.
+
+244
+00:28:15.140 --> 00:28:18.230
+Woody: cruise through unconsciously, because….
+
+245
+00:28:18.230 --> 00:28:19.820
+Scott Burger: Unless you're a speedrunner.
+
+246
+00:28:20.020 --> 00:28:22.199
+Woody: Well, sure, but even that…
+
+247
+00:28:22.310 --> 00:28:29.930
+Woody: It's, like, there are speedrunners of, you know, tons of games who can play those games with their eyes closed.
+
+248
+00:28:29.930 --> 00:28:30.640
+Scott Burger: Sure.
+
+249
+00:28:30.640 --> 00:28:38.310
+Woody: And, like, that's not a joke, like, they literally, like, there's footage of people just, you know, beating Mike Tyson with their eyes closed. ….
+
+250
+00:28:38.310 --> 00:28:39.570
+Scott Burger: Blindfolded Dark Souls, right?
+
+251
+00:28:39.570 --> 00:28:44.649
+Woody: Yes, you're never gonna find a speedrunner for Spelunky who can beat it with their eyes closed.
+
+252
+00:28:44.650 --> 00:28:48.879
+Colin: But you can find a speedrunner who can beat it with the Donkey Kong bongo drums.
+
+253
+00:28:49.800 --> 00:28:51.090
+Woody: ….
+
+254
+00:28:51.090 --> 00:28:53.450
+Andrew Harshman: Now, it's funny that you mention that.
+
+255
+00:28:53.450 --> 00:29:01.310
+Woody: What is cool about Spelunky Is that it is a game that no… as you keep playing it.
+
+256
+00:29:01.440 --> 00:29:11.440
+Woody: you just are forced to stay engaged the whole time. It has that level of tension, whereas if you want to play games in, like.
+
+257
+00:29:11.630 --> 00:29:21.600
+Woody: so many times, I will fall back on, like, a comfort game. Like, in some ways, like, Enter the Gungeon is a comfort game with me, another game that, you know, we've been on.
+
+258
+00:29:21.910 --> 00:29:24.200
+Woody: that I was on, because, like.
+
+259
+00:29:24.280 --> 00:29:34.020
+Woody: For the… even though, like, the locations of treasure chests and stuff are randomized, like, the game pretty much feels the same each time you play it. And, like.
+
+260
+00:29:34.020 --> 00:29:45.320
+Woody: I know how each enemy reacts and things like that, and it just feels way more forgiving than Spelunky, which is just, you know, if I don't pay attention for a little bit, I just get annihilated.
+
+261
+00:29:45.850 --> 00:29:47.559
+Woody: And so….
+
+262
+00:29:47.560 --> 00:29:48.360
+Andrew Harshman: Quite.
+
+263
+00:29:48.360 --> 00:29:55.320
+Woody: Yeah, I… I'm just… I'm very pro-Spelunky, but you certainly have to be in a certain mood for it, and like…
+
+264
+00:29:55.400 --> 00:30:06.229
+Woody: To demonstrate that, I was playing this game a lot on my Steam Deck to prepare for this, and I kept dying. Like, which is classic, like, I have beaten this game, …
+
+265
+00:30:06.230 --> 00:30:24.150
+Woody: by going through Hell, which is, like, the alternate path… hard mode path. That was many years ago, and I'm like, oh yeah, I should be able to get Spelunky, no problem. And then I was playing on the Steam Deck, and I just kept dying in that first, those caves. And then I played on my PC, and I just beat it through the first run.
+
+266
+00:30:24.290 --> 00:30:26.929
+Woody: And I think that, like, part of that…
+
+267
+00:30:27.330 --> 00:30:40.489
+Woody: is that when I'm playing on my Steam Deck and I'm laying in bed, like, I just don't have that same sort of level of focus that I have sitting on an uncomfortable chair, like, looking at my laptop.
+
+268
+00:30:40.720 --> 00:30:45.900
+Woody: because… and especially because, like, Spelunky is such a vertically-oriented game.
+
+269
+00:30:46.170 --> 00:30:52.119
+Woody: And, like, the Steam Deck is naturally, like, a… big, wide, horizontal screen. …
+
+270
+00:30:52.340 --> 00:30:55.560
+Woody: But I just feel like that was demonstrative of, like.
+
+271
+00:30:55.960 --> 00:31:08.510
+Woody: if you want to play Spelunky, like, you just have to pay attention. Like, you just kind of have to just be conscious of what is around you at all times, and not sort of get complacent.
+
+272
+00:31:08.960 --> 00:31:11.629
+Woody: And I think that what's…
+
+273
+00:31:12.360 --> 00:31:18.949
+Woody: I don't know, and obviously it's, like, difficulty is just a matter of… degrees. And so…
+
+274
+00:31:19.060 --> 00:31:24.260
+Woody: It… what is comfortable for someone might be off-putting for other people, and like…
+
+275
+00:31:24.590 --> 00:31:30.030
+Woody: I feel like Spelunky is pretty much the right difficulty, but…
+
+276
+00:31:30.330 --> 00:31:31.989
+Woody: That's not to say there's not.
+
+277
+00:31:31.990 --> 00:31:33.370
+Andrew Harshman: For… for who?
+
+278
+00:31:33.610 --> 00:31:33.960
+Woody: No.
+
+279
+00:31:33.960 --> 00:31:34.730
+Scott Burger: Woody.
+
+280
+00:31:34.730 --> 00:31:39.749
+Woody: I mean, for me, but that's the question of, like, if you…
+
+281
+00:31:42.060 --> 00:31:47.459
+Woody: I mean, what would this game be if you played it and beat it in the first run?
+
+282
+00:31:48.270 --> 00:31:49.149
+Woody: Like, I mean….
+
+283
+00:31:49.150 --> 00:31:51.080
+Andrew Harshman: Completely different game. Right.
+
+284
+00:31:51.080 --> 00:31:55.250
+Woody: What do you, Colin and Andrew, like, what do you guys want?
+
+285
+00:31:55.580 --> 00:32:04.590
+Woody: from your time starting to play this game? Like, how many deaths is reasonable before you say, you know, screw this, I'm gonna go play something else?
+
+286
+00:32:04.590 --> 00:32:11.230
+Andrew Harshman: Well, I can tell you, because I just looked it up. I have 24 hours in this game, 260 deaths.
+
+287
+00:32:11.230 --> 00:32:11.660
+Woody: Sure.
+
+288
+00:32:11.660 --> 00:32:27.169
+Andrew Harshman: folks, which, I mean, was kind of surprising, but now that I've sat with that number for a little bit, it's not that surprising. I don't think I've reached that critical mass yet. I'm willing to keep at this game. I think the furthest I got was…
+
+289
+00:32:28.040 --> 00:32:33.739
+Andrew Harshman: I've been to Biome 4 a fair bit. I think the furthest I got was, like.
+
+290
+00:32:34.850 --> 00:32:38.909
+Andrew Harshman: Level 2, definitely, maybe level 3 of Biome 4. Yeah.
+
+291
+00:32:38.910 --> 00:32:40.530
+Woody: You're almost there. I mean….
+
+292
+00:32:40.530 --> 00:32:41.350
+Andrew Harshman: Yeah, thank you.
+
+293
+00:32:41.350 --> 00:32:44.129
+Colin: Andrew, are you having fun playing it?
+
+294
+00:32:44.130 --> 00:32:46.099
+Scott Burger: That's a great question. You weren't liking it.
+
+295
+00:32:46.100 --> 00:32:47.710
+Colin: very much when we started, and then….
+
+296
+00:32:47.710 --> 00:32:48.669
+Andrew Harshman: Yeah, you're still.
+
+297
+00:32:48.670 --> 00:32:49.319
+Colin: 24 hours.
+
+298
+00:32:49.320 --> 00:32:58.590
+Andrew Harshman: It has been just up and down, up and down, a wild roller coaster with this game, let me tell ya. But I tell you what, …
+
+299
+00:32:58.820 --> 00:33:04.500
+Andrew Harshman: Do… do… am I having fun? Do… do I, like this game? Do I hate this game?
+
+300
+00:33:04.840 --> 00:33:12.190
+Andrew Harshman: I'm not totally sure, but I can tell you someone's opinion who has been officially declared in this quote from my wife.
+
+301
+00:33:12.190 --> 00:33:18.129
+Woody: Quote, tell them your wife says she hates Spelunky. Never played it.
+
+302
+00:33:18.130 --> 00:33:21.059
+Andrew Harshman: But hates it based on how mad it makes you.
+
+303
+00:33:21.680 --> 00:33:25.250
+Andrew Harshman: Now… Hi!
+
+304
+00:33:26.260 --> 00:33:28.840
+Andrew Harshman: This is a frustrating game, it could be a frustrating….
+
+305
+00:33:28.840 --> 00:33:29.220
+Colin: It's.
+
+306
+00:33:29.220 --> 00:33:29.710
+Andrew Harshman: Period.
+
+307
+00:33:29.710 --> 00:33:30.340
+Woody: I've done…
+
+308
+00:33:30.740 --> 00:33:36.990
+Woody: pretend that this is not a frustrating game. You would have to be trolling to claim Spelunky is not frustrating.
+
+309
+00:33:36.990 --> 00:33:45.650
+Andrew Harshman: Yes, I tend to agree. So, yeah, to be clear, you know, I haven't destroyed anything.
+
+310
+00:33:46.000 --> 00:33:51.349
+Andrew Harshman: I haven't gone off the handle, but I have been cursing up a storm.
+
+311
+00:33:51.650 --> 00:33:59.559
+Andrew Harshman: And, I have been… Saying some not-nice things, about the game.
+
+312
+00:34:00.260 --> 00:34:07.269
+Andrew Harshman: maybe not directly to the designers, but the game itself. At times, it has felt like this game is…
+
+313
+00:34:07.500 --> 00:34:08.899
+Andrew Harshman: Out to get me.
+
+314
+00:34:09.110 --> 00:34:09.670
+Woody: Yeah.
+
+315
+00:34:09.679 --> 00:34:10.119
+Andrew Harshman: I mean.
+
+316
+00:34:10.120 --> 00:34:11.099
+Woody: It is.
+
+317
+00:34:12.239 --> 00:34:13.549
+Andrew Harshman: I… that is…
+
+318
+00:34:13.789 --> 00:34:23.709
+Andrew Harshman: Thank you. It's good to hear that I'm not the only one who feels that way at times. I have another quote from my wife here that I just want to toss in real quick. …
+
+319
+00:34:23.839 --> 00:34:25.199
+Andrew Harshman: Ahem!
+
+320
+00:34:25.659 --> 00:34:28.859
+Andrew Harshman: Wow, that IS a terrible whip!
+
+321
+00:34:30.270 --> 00:34:35.700
+Andrew Harshman: I was describing to her how god-awful the starting weapon is in this game.
+
+322
+00:34:35.880 --> 00:34:41.759
+Andrew Harshman: And, now, listeners, imagine, if you will, the Castlevania Whip.
+
+323
+00:34:42.260 --> 00:34:50.229
+Andrew Harshman: With all of its weird timing, and sort of odd… hit registration.
+
+324
+00:34:51.110 --> 00:34:59.950
+Andrew Harshman: reduce the range to, oh, I don't know, maybe… what? The length of an extended index finger?
+
+325
+00:35:00.540 --> 00:35:10.429
+Andrew Harshman: … the length of, I don't know, a yardstick? Not even a yardstick! It is… this is… a piss-poor starting weapon.
+
+326
+00:35:10.430 --> 00:35:11.090
+Woody: Sure.
+
+327
+00:35:11.090 --> 00:35:24.730
+Andrew Harshman: And I think it is representative of a number of piss-poor things that this game gives you. Piss-poor amount of bombs, piss-poor amount of ropes, piss-poor amount of health.
+
+328
+00:35:25.340 --> 00:35:25.680
+Woody: Sure.
+
+329
+00:35:25.680 --> 00:35:31.060
+Andrew Harshman: If any of these knobs were just adjusted just up a little bit, the game would be so much easier.
+
+330
+00:35:31.060 --> 00:35:31.810
+Scott Burger: I feel like I….
+
+331
+00:35:31.810 --> 00:35:33.119
+Andrew Harshman: This was all very intentional design.
+
+332
+00:35:33.120 --> 00:35:33.810
+Scott Burger: Yeah.
+
+333
+00:35:33.980 --> 00:35:34.740
+Andrew Harshman: But, like.
+
+334
+00:35:34.910 --> 00:35:46.409
+Andrew Harshman: Golly, in the tutorial, I thought, well, great, I'm just gonna be, like, bombing and roping my way through these levels, it's gonna be fun, it's gonna be awesome. Oh, no, no, no. Absolutely not. You gotta work for
+
+335
+00:35:46.650 --> 00:35:49.319
+Andrew Harshman: You gotta work for them ropes. You gotta work for those items.
+
+336
+00:35:49.320 --> 00:35:53.930
+Woody: To have, like, just in the option menu, the ability to just modify
+
+337
+00:35:54.170 --> 00:35:57.710
+Woody: You know, starting rope, starting bomb, starting health, like….
+
+338
+00:35:57.740 --> 00:36:01.390
+Colin: Would that have given you a better way to explore the mechanics of the game?
+
+339
+00:36:01.600 --> 00:36:06.640
+Colin: I will agree with Andrew that I hate the whip, I hate how… Slow it is.
+
+340
+00:36:06.640 --> 00:36:07.640
+Woody: Yeah, it sucks.
+
+341
+00:36:08.240 --> 00:36:11.920
+Colin: Whip sucks, and it feels bad to use it.
+
+342
+00:36:11.950 --> 00:36:13.170
+Scott Burger: But if the whip.
+
+343
+00:36:13.170 --> 00:36:31.189
+Colin: was just a slight bit faster. I don't… the range, I can deal with the range being low, but the number of times in the, you know, 2 hours that I played this game that I just, like, ran into an enemy because I expected the whip to have hit them by the time I got to them is, like, pretty high.
+
+344
+00:36:31.370 --> 00:36:36.400
+Woody: It's also, this game has a lot of flying enemies, like, the bats are.
+
+345
+00:36:36.400 --> 00:36:37.150
+Colin: Yeah, yeah.
+
+346
+00:36:37.150 --> 00:36:41.829
+Woody: pretty tough, and the whip has essentially no upward arc to it, and so….
+
+347
+00:36:41.830 --> 00:36:42.160
+Andrew Harshman: Isn't.
+
+348
+00:36:42.160 --> 00:36:42.639
+Woody: I used to get.
+
+349
+00:36:42.640 --> 00:36:43.650
+Andrew Harshman: Castlevania.
+
+350
+00:36:43.650 --> 00:36:53.530
+Woody: My advice to you regarding that is don't use the whip. Like, just… it's kind of a last resort thing, …
+
+351
+00:36:53.900 --> 00:36:55.060
+Woody: I, for the moment.
+
+352
+00:36:55.060 --> 00:36:58.070
+Andrew Harshman: Dude, you have to get… you have to get another weapon, though.
+
+353
+00:36:58.720 --> 00:37:03.480
+Woody: You just jump on dudes. Right, you gotta, you got a, you got a Super Mario Bros. Or commercially.
+
+354
+00:37:03.710 --> 00:37:04.400
+Woody: Or….
+
+355
+00:37:04.400 --> 00:37:07.010
+Colin: Maybe that's… maybe that was the thing that I was missing, that….
+
+356
+00:37:07.010 --> 00:37:14.439
+Woody: Yeah, I would definitely recommend jumping on dudes, and more… another piece of advice is, like, you can also ignore dudes. Like, this game.
+
+357
+00:37:14.440 --> 00:37:15.030
+Andrew Harshman: Very true.
+
+358
+00:37:15.030 --> 00:37:21.950
+Woody: Nice balance of, … Incentivizing you to explore a little bit?
+
+359
+00:37:22.060 --> 00:37:27.329
+Woody: But, like, the more bogged down you get in exploring, …
+
+360
+00:37:28.430 --> 00:37:34.999
+Woody: You're, you're… you still risk triggering more traps, And so, I usually have…
+
+361
+00:37:35.770 --> 00:37:51.020
+Woody: pretty successful runs just kind of, like, heading for the exit ASAP. And, like, the levels aren't that big in this game. I… I… I want to go back a little bit, because Colin very thoughtfully asked a question about the progression of this game, and then we….
+
+362
+00:37:51.260 --> 00:37:53.419
+Andrew Harshman: Of course! Yes, good memory.
+
+363
+00:37:53.570 --> 00:38:02.340
+Woody: So Scott, you know, walked us through the tutorial, and from a gameplay perspective, Colin, like, what you saw in the first biome…
+
+364
+00:38:02.430 --> 00:38:14.630
+Woody: is the game. Like, there is not some kind of, like, big switch in the second and third biome where, like, mechanically, they give you a mech suit, and then you just start blasting missiles at everything.
+
+365
+00:38:14.630 --> 00:38:19.149
+Scott Burger: comes up RPG, and then a card game at the very end, and….
+
+366
+00:38:19.150 --> 00:38:31.730
+Woody: Exactly, it's kind of the level feel changes a little bit, like the second, whorl biome, which I think is maybe the hardest biome, is a jungle, and there are many more traps.
+
+367
+00:38:31.730 --> 00:38:34.620
+Andrew Harshman: We need to talk about that later, yeah, but do continue.
+
+368
+00:38:34.620 --> 00:38:39.859
+Woody: Monsters, you know, monsters hanging around, like, monkeys jump on you.
+
+369
+00:38:39.860 --> 00:38:40.920
+Scott Burger: man-eating piranha.
+
+370
+00:38:40.920 --> 00:38:56.310
+Woody: Mine Eating Piranhas, that has a slightly more horizontal feel, but not much, and then there's, you know, dudes with boomerangs who chuck at you. All of these game, all of these biomes have, like, secret levels that you can get to.
+
+371
+00:38:56.310 --> 00:39:03.449
+Woody: this game has a pretty good amount of… or I think, a healthy, well-balanced amount of, like, secret content.
+
+372
+00:39:03.890 --> 00:39:20.819
+Woody: But, like, the core path through the game is not very long. The third level is the Yeti Caves, which is probably the most… oh, there goes Colin. He… he was just like, no more of this! I'm sick of you talking about Spelunky. ….
+
+373
+00:39:20.820 --> 00:39:22.129
+Scott Burger: Ice caves, you mean?
+
+374
+00:39:22.130 --> 00:39:24.469
+Woody: Yeah, well, I mean, Yetis live in the ice cave.
+
+375
+00:39:24.710 --> 00:39:26.240
+Andrew Harshman: Hey kids, I'm outta here!
+
+376
+00:39:26.240 --> 00:39:36.780
+Scott Burger: Yeti caves, specifically, are, like, one of the offshoot branches, where… or I guess, like, is it… that's one of the level feelings, right? Where, like, you have… Oh, sure. …like, the actual Yetis in… or, like, the Yeti King, I guess, specifically.
+
+377
+00:39:36.780 --> 00:39:52.080
+Woody: Yeah, that's the Yeti. All the ice levels have Yetis in them, but … there's this thing called level feelings, where you're at the start of the level. Like, the most common one you get is, like, I can't see a thing in here, and then the level's dark, which I also think is kind of BS.
+
+378
+00:39:52.080 --> 00:39:52.590
+Andrew Harshman: Oh, boy.
+
+379
+00:39:52.590 --> 00:40:01.950
+Woody: I am not a big fan of that, because even if you survive those levels, like, they're just not that fun. It's not that fun to run around without being able to see anything that's going on.
+
+380
+00:40:02.160 --> 00:40:02.910
+Scott Burger: Check it out.
+
+381
+00:40:02.910 --> 00:40:09.140
+Andrew Harshman: The thing with the dark levels, the lights-out levels, is that it gives you a torch.
+
+382
+00:40:09.280 --> 00:40:12.959
+Andrew Harshman: And the torch gives you a view radius that is…
+
+383
+00:40:13.440 --> 00:40:16.459
+Andrew Harshman: I don't know, approximately half the screen, but not the whole screen.
+
+384
+00:40:16.460 --> 00:40:17.609
+Woody: It's quite limited.
+
+385
+00:40:17.610 --> 00:40:26.589
+Andrew Harshman: It is extremely limited. If you drop the torch, then it is, like, half of that, and you're… it's basically a death sentence.
+
+386
+00:40:26.590 --> 00:40:28.650
+Woody: And you only have one item carry.
+
+387
+00:40:28.650 --> 00:40:42.620
+Andrew Harshman: Precisely! Precisely! I had a very promising run happening, my final run leading up to this recording. I started from the very beginning, and I was working my way through. I got to the first level of the temple. I had a shotgun.
+
+388
+00:40:42.620 --> 00:40:53.639
+Andrew Harshman: I had bombs. I had equipment, I was loaded for bear, and the RNG drops me into temple level 1. Hey, it's awfully dark in here, turn down the lights!
+
+389
+00:40:53.840 --> 00:40:55.280
+Andrew Harshman: Death sentence.
+
+390
+00:40:55.310 --> 00:41:08.919
+Andrew Harshman: Absolutely, I didn't stand a chance. Anyway, yeah, so there's… and I mean, that's… that is an example. I mean, the… the lights being out and the torch mechanics, while challenging, is…
+
+391
+00:41:08.920 --> 00:41:19.760
+Andrew Harshman: interesting, and this game does a lot of cool stuff, with, you know, taking its core mechanics and adding on different modifiers and changes and… and making each run feel…
+
+392
+00:41:20.110 --> 00:41:26.589
+Andrew Harshman: unique, which, which is, is great, but sometimes, to your detriment.
+
+393
+00:41:26.590 --> 00:41:41.310
+Scott Burger: So there's a lot of, like, interlocking pieces with how… how little there is here, too, compared to, like, we're so spoiled for games like Noita or Binding of Isaac that's, like, now with over 5 million items or something. And this game has, like, I don't know, 30? Question mark?
+
+394
+00:41:41.310 --> 00:41:58.649
+Scott Burger: But, like, the ice caves, notably, have, like, I think, like, these very well-artistically designed, like, ice blocks that, shocker, when you walk on them, like, you slide a little bit. But, if you have the spike boots that you can buy from a shopkeep.
+
+395
+00:41:58.650 --> 00:42:17.959
+Scott Burger: that do more damage when you Mario jump on dudes' heads, those will give you grip on the ice blocks to, like, walk around in. And maybe it's a thing that, like, we just kind of take for granted in every road game nowadays, but, like, it feels like basically everything in the game has some other way of interacting with all the other elements like that, which feels….
+
+396
+00:42:17.960 --> 00:42:33.800
+Woody: just all interacts in a super intuitive way. Like, this is what I've been thinking… like, this is the thing that I enjoy the most about game design, and, like, another game that I've talked about on this podcast is, Into the Breach, which I think is a game that really does this too.
+
+397
+00:42:33.940 --> 00:42:51.840
+Woody: is where games are uniform in their mechanics, and everything has this level of intuitiveness. Like, so, like, if you think about the game of… I don't know, if you think about football, like, American football is an example,
+
+398
+00:42:52.170 --> 00:43:09.669
+Woody: it's like, someone comes up with a sport, it's like, okay, what's the idea of this sport? Well, you have to get, you know, you have to advance the football from one side of the field to the other, and the other team's trying to stop you. And you say, okay, great, that's a simple premise, no problem. We'll do that. And they're like, wait a second, we have to, like, try and figure out ways to make this fair.
+
+399
+00:43:09.730 --> 00:43:14.460
+Woody: And it's like, you can't tackle a guy unless he has the ball. And you can't… but, like…
+
+400
+00:43:14.690 --> 00:43:20.370
+Woody: You have to line up in a certain way, because it's like, there's all these sort of extra things.
+
+401
+00:43:20.370 --> 00:43:24.519
+Scott Burger: And then you have ineligible downfield receivers of the offensive line, causing kick-off.
+
+402
+00:43:24.520 --> 00:43:25.190
+Colin: ball.
+
+403
+00:43:25.190 --> 00:43:38.689
+Woody: Yeah, sometimes you can kick, but not always, and it's like… Sometimes you can throw it forward, but not always. And it's like all of these ideas of you've started with this really simple premise, but you have to keep adding junk.
+
+404
+00:43:38.730 --> 00:43:57.079
+Woody: to try and make it a fair and exciting game. And, like, what I love about Spelunky is they're like, you go into a cave, and there's things you can buy, and there's treasure you can get, and, like, that's it. Like, this game doesn't feel like it has elements to it.
+
+405
+00:43:57.200 --> 00:44:00.570
+Woody: That exists solely to balance the game.
+
+406
+00:44:00.570 --> 00:44:09.059
+Scott Burger: Soccer's too elegant. This is, like, the rugby of games, where, like, you're just being pummeled constantly, like, you're falling down on the ground, there's all sorts of arms and.
+
+407
+00:44:09.060 --> 00:44:09.670
+Woody: Yeah.
+
+408
+00:44:09.670 --> 00:44:13.259
+Scott Burger: Grabbing in places… Rugby's got a ton of rules, like, this….
+
+409
+00:44:13.260 --> 00:44:16.290
+Woody: Like, this to me is just like….
+
+410
+00:44:16.730 --> 00:44:20.710
+Andrew Harshman: Alright, this is like, this is like a back alley, this is street rugby. Yeah, yeah.
+
+411
+00:44:20.710 --> 00:44:34.720
+Woody: This is underground rugby. Everything here seems to work in such an intuitive way, like, the shopkeeper is selling stuff. You can, you know, steal from the shopkeeper, but that is gonna tick him off.
+
+412
+00:44:35.560 --> 00:44:45.770
+Andrew Harshman: Alright, we gotta talk about the shopkeeper some more. Sure. Check it out. This is the most vindictive, shopkeep ever. In Enter the Gungeon, you know.
+
+413
+00:44:45.970 --> 00:44:58.770
+Andrew Harshman: even, like, from a character design perspective, these dudes look similar. They've got facial hair, they're a little portly, they get a little bit angry if you start shooting up the place, or if you start acting a fool. This shopkeep…
+
+414
+00:44:58.790 --> 00:45:07.819
+Andrew Harshman: goes ballistic. And if any damage is dealt to him by any source in the level, he is aggroed to you, and forevermore!
+
+415
+00:45:07.820 --> 00:45:09.060
+Scott Burger: shop, or his shop, even.
+
+416
+00:45:09.060 --> 00:45:12.359
+Woody: Yeah, well, he tells all his shopkeep friends, so even.
+
+417
+00:45:12.360 --> 00:45:15.739
+Andrew Harshman: He tells all of his clones, all of the T1000.
+
+418
+00:45:15.740 --> 00:45:18.180
+Scott Burger: Those clones! And….
+
+419
+00:45:18.340 --> 00:45:23.619
+Andrew Harshman: He's got a shotgun, and he absolutely will not stop until you are dead.
+
+420
+00:45:23.940 --> 00:45:26.650
+Andrew Harshman: Or he falls on a spike trap, and you can pick up his stuff.
+
+421
+00:45:26.650 --> 00:45:34.140
+Woody: All of the clones will then hang out at the exit for the next 5 or so levels, ….
+
+422
+00:45:34.140 --> 00:45:35.500
+Andrew Harshman: It's… ….
+
+423
+00:45:35.500 --> 00:45:38.110
+Woody: It's pretty wild. I mean, it's a real….
+
+424
+00:45:38.110 --> 00:45:41.170
+Colin: Risk-reward versus situation. Every so often….
+
+425
+00:45:41.170 --> 00:45:42.090
+Andrew Harshman: The word is right.
+
+426
+00:45:42.390 --> 00:45:45.220
+Colin: I never defeated the shopkeep. If you do….
+
+427
+00:45:45.220 --> 00:45:45.720
+Andrew Harshman: have.
+
+428
+00:45:45.720 --> 00:45:53.100
+Colin: If you… if you have defeated him in his multiple iterations, do you just get the shop… do they… does the shop still generate the next levels, yeah?
+
+429
+00:45:53.100 --> 00:45:54.979
+Andrew Harshman: Yeah, except that he's supposed to get their stuff.
+
+430
+00:45:54.980 --> 00:45:56.169
+Woody: to kill you.
+
+431
+00:45:56.600 --> 00:46:07.789
+Woody: infinite shopkeeps, like Andrew said, they're clones, so the shops will generate in the next level, but as soon as you get next to it, that shopkeeper will just aggro you immediately, because you killed his original.
+
+432
+00:46:07.790 --> 00:46:25.760
+Scott Burger: And when we were talking about a pinball game before, this is, like, like, Sonic spinball levels of, like, sickening, bouncing all around the level at, like, comically turbo speed. They have… they have wall hacks, they have aimbots, they have 10 HP, where I was….
+
+433
+00:46:25.760 --> 00:46:26.650
+Andrew Harshman: N?
+
+434
+00:46:26.650 --> 00:46:43.490
+Scott Burger: They have 10 HP, but, like, again, they are… they're perfectly susceptible to the same things you are, including spike traps, web traps, bombs, like, freeze rays, telefragging, even, …
+
+435
+00:46:43.570 --> 00:46:49.759
+Scott Burger: There is, yeah, like, despite how, like, wildly overpowered they are, there's also, like, a way.
+
+436
+00:46:49.760 --> 00:46:56.920
+Andrew Harshman: It should be noted that this is… this is another… another point for Spelunky as a true roguelike, because the…
+
+437
+00:46:57.180 --> 00:47:04.380
+Andrew Harshman: creatures and the enemies, the NPCs in the game, operate more or less with the same rules as the player character.
+
+438
+00:47:04.380 --> 00:47:05.060
+Woody: Yeah.
+
+439
+00:47:05.060 --> 00:47:15.160
+Scott Burger: Yep. And, like, notably, there is a way to de-aggro them that's basically impossible for, like, to exit the level without being seen by one. I mean, good luck. Like, Metal Gear Solid style, but….
+
+440
+00:47:15.160 --> 00:47:19.769
+Woody: Yeah, except they hang out at the exit, so, like, that is really, really hard.
+
+441
+00:47:19.770 --> 00:47:33.429
+Scott Burger: if there was, like, an item, I don't know, like, one of the Egyptian artifact items that we'll get to in a minute, like, if there was one of those that, like, you could activate to go invisible for 2 seconds, like, that could be a way to, like, play with that system a little. But I think it's probably fine, because, like.
+
+442
+00:47:33.430 --> 00:47:49.779
+Andrew Harshman: Oh, it's fine, it's just… it's… it's… very inter… it's something that I've not seen in a game before, like, a shopkeep, a network of shopkeeps that are so vindictive. In Enter the Gungeon, he just closes the shop. He says, well, fine, you can't buy stuff.
+
+443
+00:47:49.880 --> 00:47:54.089
+Andrew Harshman: He doesn't go medieval on your ass.
+
+444
+00:47:54.090 --> 00:47:55.860
+Scott Burger: For the rest of the game.
+
+445
+00:47:55.860 --> 00:48:01.850
+Andrew Harshman: For the rest of the… yeah, for all time, unless you do that one specific thing you mentioned. That's interesting, Scott.
+
+446
+00:48:01.850 --> 00:48:08.810
+Scott Burger: as, like, deadly as, like, the, the Anubis god, or something, just about.
+
+447
+00:48:08.810 --> 00:48:16.340
+Andrew Harshman: And check it out, if you, like, blow something up in a level, or you set off, like, a big giant boulder trap, which could potentially, hey, grow the shopkeep.
+
+448
+00:48:16.340 --> 00:48:16.660
+Woody: Yeah.
+
+449
+00:48:16.660 --> 00:48:18.880
+Andrew Harshman: It is the worst feeling in the world.
+
+450
+00:48:18.880 --> 00:48:19.760
+Scott Burger: Active.
+
+451
+00:48:19.760 --> 00:48:24.359
+Andrew Harshman: one of those, and then here, Aggro music for the shopkeep.
+
+452
+00:48:29.130 --> 00:48:33.630
+Andrew Harshman: Which, all the music's great, but, oh man, that is… that is not a.
+
+453
+00:48:33.630 --> 00:48:35.319
+Scott Burger: You're gonna be hearing that music a lot.
+
+454
+00:48:35.610 --> 00:48:37.499
+Andrew Harshman: Quite possibly, quite possibly.
+
+455
+00:48:38.180 --> 00:48:44.120
+Woody: Yeah, I guess in some ways, like, it's kind of odd that my general advice for this game is, like.
+
+456
+00:48:44.960 --> 00:48:56.419
+Woody: try not to engage with all… like, if you want to get far, like, don't overly engage with those systems. Like, if you see a shopkeep and he's selling, like, one item you want, go ahead and buy it.
+
+457
+00:48:56.420 --> 00:49:05.429
+Woody: If you see the thing that triggers a giant boulder and it's right by the exit, go ahead and take it and get out of there. But, like, if it is not, then…
+
+458
+00:49:05.650 --> 00:49:10.280
+Woody: Just ignore it, because it's gonna trigger a bunch of bad things that happen.
+
+459
+00:49:10.530 --> 00:49:11.890
+Andrew Harshman: Oh, go ahead, sorry.
+
+460
+00:49:11.890 --> 00:49:16.030
+Woody: No, I was just, I mean, I just think that, like, at its core.
+
+461
+00:49:16.300 --> 00:49:21.730
+Woody: This game just has, like, an incredible, sort of, Cleanness to it.
+
+462
+00:49:21.870 --> 00:49:24.729
+Woody: Like, just this sense of, like.
+
+463
+00:49:25.000 --> 00:49:28.470
+Woody: Everything that is in this game is in their…
+
+464
+00:49:28.960 --> 00:49:33.769
+Woody: for a reason, and, like, makes the game more fun. There is not…
+
+465
+00:49:33.910 --> 00:49:36.289
+Woody: There is not something that, like.
+
+466
+00:49:36.740 --> 00:49:42.000
+Woody: comes up, and I'm like, oh, I can't believe that. Like, an item, I guess specifically an item.
+
+467
+00:49:42.000 --> 00:49:42.880
+Scott Burger: Crush traps.
+
+468
+00:49:43.350 --> 00:49:48.979
+Woody: Yeah, well, some… there's plenty of traps and stuff that do not make the game more fun.
+
+469
+00:49:49.280 --> 00:49:56.160
+Woody: But it… yeah, like Andrew said, there's… there's a real feeling of, like, Intentional design.
+
+470
+00:49:56.850 --> 00:50:04.309
+Woody: There's not a feeling of, like, oh crap, we have to come up with a hundred more items for this game, everyone get to the drawing board and just, like, think of stuff.
+
+471
+00:50:04.310 --> 00:50:04.720
+Scott Burger: Yeah.
+
+472
+00:50:04.720 --> 00:50:09.089
+Woody: It's like, what fits into this system? And to me, like…
+
+473
+00:50:09.160 --> 00:50:18.659
+Woody: that comes back to my original premise of, like, Spelunky is a definitive video game, because it is just sort of platforming
+
+474
+00:50:18.690 --> 00:50:31.280
+Woody: at its most basic. Like, even Super Mario Bros, it's like, oh, you can go into this pipe, but you can't go into these pipes, and it's like, well, why can I go into that pipe? It's like, I don't know, you just can. Like, Spelunky…
+
+475
+00:50:31.520 --> 00:50:34.380
+Woody: Hardly has any of that kind of stuff.
+
+476
+00:50:34.380 --> 00:50:45.660
+Scott Burger: Yeah. So, continuing with our standard run, you know, you go through the mines, you go through the jungle, you go through the caves, you get to the temple, the final level, and you're jumping….
+
+477
+00:50:45.660 --> 00:50:55.309
+Andrew Harshman: evil obsidian Egyptian, death temple of sorts. Yeah, I mean, insofar as it's filled with death traps.
+
+478
+00:50:55.310 --> 00:50:59.820
+Scott Burger: Yeah, it's got your standard, ancient Egyptian things like, mummies, ….
+
+479
+00:50:59.820 --> 00:51:01.409
+Woody: Let your bees at you.
+
+480
+00:51:01.410 --> 00:51:07.389
+Scott Burger: Bees! Croc, Croc Men, Magma Men, and Anubis, of course.
+
+481
+00:51:08.330 --> 00:51:11.139
+Andrew Harshman: Who has a projectile.
+
+482
+00:51:11.700 --> 00:51:18.369
+Andrew Harshman: That is very slow, but it goes through walls, I believe it follows you around.
+
+483
+00:51:18.370 --> 00:51:19.190
+Woody: Definitely follows you.
+
+484
+00:51:19.190 --> 00:51:23.790
+Andrew Harshman: And it deals 5 damage, which is almost assuredly an insta-kill.
+
+485
+00:51:23.790 --> 00:51:24.360
+Woody: Yep.
+
+486
+00:51:24.810 --> 00:51:26.119
+Woody: It's very unreasonable.
+
+487
+00:51:26.120 --> 00:51:27.359
+Andrew Harshman: My goodness!
+
+488
+00:51:27.360 --> 00:51:40.500
+Scott Burger: If you have sticky bombs, if you have a pitcher's mitt, you can sit all the way on the other side of the screen, maybe even off-screen, and just huck sticky bombs at Anubis from almost off-screen, and just nuke him.
+
+489
+00:51:40.500 --> 00:51:41.950
+Andrew Harshman: To be clear, Dickie?
+
+490
+00:51:41.950 --> 00:51:52.929
+Woody: The bombs are very clutch to get a good run, and this game is luckily fairly generous with the big spider enemy, and, like, usually I'm very anti-big spider enemies in games, because ick.
+
+491
+00:51:53.050 --> 00:52:08.249
+Woody: But, like, this… this big spider, like, he sits… as long as you don't run under him, you don't trigger his aggro, and he sits right above two spider webs that will catch your bombs. So you just chuck a bomb in there, and it blows him up, and then you can get his, sticky webbing, which is super sweet.
+
+492
+00:52:08.250 --> 00:52:17.220
+Scott Burger: And so, to Andrew's point, I think that there are, like, elements that feel, like, in a silo, feel, like, wildly overpowered and imbalanced.
+
+493
+00:52:17.220 --> 00:52:17.870
+Andrew Harshman: But….
+
+494
+00:52:17.870 --> 00:52:25.620
+Scott Burger: But I think the game is expecting you, the player, to become wildly overpowered and imbalanced to balance out that aspect.
+
+495
+00:52:25.620 --> 00:52:29.559
+Andrew Harshman: isn't that, like, the heart of a road? Like, that's… that's like FTL, right?
+
+496
+00:52:29.560 --> 00:52:31.109
+Scott Burger: Yeah, that's like a million times.
+
+497
+00:52:31.110 --> 00:52:46.700
+Woody: the end of FTL is unbelievably overpowered. Yeah. But, like, the hope is by that time, you have accrued so much kit that you can take it on, and, like, that is what I like. I mean, this is something I really like about Spelunky, is…
+
+498
+00:52:46.900 --> 00:52:51.339
+Woody: It combines this idea, like, the joy of accruing loot.
+
+499
+00:52:51.510 --> 00:52:55.400
+Woody: That… and, like, feeling very powerful in a roguelike.
+
+500
+00:52:55.640 --> 00:52:59.490
+Woody: With a sort of, just, like, bare-bones…
+
+501
+00:52:59.790 --> 00:53:02.839
+Woody: You feel like you're good at video games type of vibe.
+
+502
+00:53:02.840 --> 00:53:04.180
+Scott Burger: Basically.
+
+503
+00:53:04.290 --> 00:53:15.550
+Woody: But yeah, your standard run continues through the temple, you beat Anubis, maybe, or you smartly run past him. What's funny is, if you kill Anubis, speaking of things playing by the same rules, you can pick up his staff.
+
+504
+00:53:15.550 --> 00:53:34.050
+Woody: and then you're like, awesome! I can shoot, like, psychic beams at enemies, and it follows them. Except it goes super slow, and you shoot one out in front of you, and then you just run forward, and you run into it, and it kills you. Like, even your own… the own gun that you shoot will still kill you. So it is very much a worthless weapon, even though it is cool that it's there.
+
+505
+00:53:34.050 --> 00:53:35.330
+Colin: Anubis chase you?
+
+506
+00:53:35.820 --> 00:53:37.110
+Woody: Very slowly.
+
+507
+00:53:37.380 --> 00:53:42.399
+Scott Burger: Okay. It's easy enough to run away from his little purple circle attacks that, like….
+
+508
+00:53:42.400 --> 00:53:45.599
+Colin: I guess the better question is, you can't make Anubis run into his own bullet, though, right?
+
+509
+00:53:45.600 --> 00:53:46.560
+Woody: No, you can't.
+
+510
+00:53:46.560 --> 00:53:46.880
+Scott Burger: No.
+
+511
+00:53:46.880 --> 00:53:47.990
+Woody: No, that would have been cool.
+
+512
+00:53:48.250 --> 00:53:50.690
+Colin: What if you, like, circle back around him in the.
+
+513
+00:53:50.690 --> 00:53:53.630
+Woody: It does not affect him, and I think you've brought up a good.
+
+514
+00:53:53.630 --> 00:53:55.679
+Andrew Harshman: And like, you know, yeah, you can run….
+
+515
+00:53:55.680 --> 00:53:56.430
+Woody: this game.
+
+516
+00:53:56.430 --> 00:54:13.290
+Andrew Harshman: You can run past him, you can blow him up, you can get… you can try to go around him, but I mean, sometimes you've gotten this far in the run, and maybe you're running low on resources, and it's like, things start compounding. It's like, well, Anubis in isolation? Manageable. Anubis…
+
+517
+00:54:13.490 --> 00:54:18.790
+Andrew Harshman: in a room full of traps, Anubis in a room with some other enemies, ….
+
+518
+00:54:19.040 --> 00:54:27.520
+Woody: Isn't that just, like… I mean, you guys have a roguelike podcast, you've done 75 episodes of it, like, isn't the idea of, like…
+
+519
+00:54:27.670 --> 00:54:33.759
+Woody: running low on stuff and, like, RNG dealing you dumb bullshit, like, isn't that, like….
+
+520
+00:54:34.110 --> 00:54:39.769
+Andrew Harshman: Oh, no, no, no, that's where the drama comes in. You're right. You're absolutely correct. I'm not trying to say that Anubis is…
+
+521
+00:54:40.040 --> 00:54:57.909
+Andrew Harshman: … unfair, per se? Just… just… I'm just trying to highlight, like, yo, by the time you get to the end of this game, you are feeling the heat. Yes. Like, you thought everything was trying to kill you in the mines? That ain't nothing. That's kids' play. Welcome to the temple of your demise. What happens after the temple?
+
+522
+00:54:57.910 --> 00:55:10.079
+Woody: The temple is very much like, when I get to the temple, I am just like, I'm booking it for the exit. I don't care what else is around here, like, I'm just getting out of here. And the temple's the last world, so world 4-4… well, okay.
+
+523
+00:55:10.080 --> 00:55:33.749
+Woody: The temple is the last world in a standard run. Right. You can go through this intricate series of, like, getting a special item in the mines, and then finding the secret black market, and buying a really expensive item, and then doing a special interaction in the ice caves, and then you go to, like, the Lost City of Gold, and then you go to hell, and then you beat the real secret boss, and, like, it's a ton of effort, and, like, I did it once, and it was really cool, but, like.
+
+524
+00:55:33.980 --> 00:55:35.310
+Woody: I need to do it again.
+
+525
+00:55:35.310 --> 00:55:36.120
+Scott Burger: Oh.
+
+526
+00:55:36.800 --> 00:55:48.400
+Woody: But you get to the last boss in the temple, and this last boss is actually probably the thing I have the most problem with in Spelunky. Oh. He is Olmec.
+
+527
+00:55:48.720 --> 00:56:04.439
+Woody: And he is a, big head. Have you ever seen the episode of The Simpsons Blood Feud, where, Bart donates blood to Mr. Burns, and then Mr. Burns, finally rewards him with a big, like, a big Mayan head?
+
+528
+00:56:05.250 --> 00:56:06.050
+Andrew Harshman: ….
+
+529
+00:56:06.050 --> 00:56:09.459
+Scott Burger: I was thinking either that or, or Olmec from Legends of the Hidden Temple.
+
+530
+00:56:09.460 --> 00:56:12.349
+Andrew Harshman: Oh, they're… There we go, yeah.
+
+531
+00:56:12.650 --> 00:56:14.500
+Scott Burger: Yeah, he's like a big, like.
+
+532
+00:56:14.500 --> 00:56:16.240
+Colin: I was thinking Stonehead.
+
+533
+00:56:16.240 --> 00:56:18.019
+Woody: Yeah, he's a big stone head.
+
+534
+00:56:18.830 --> 00:56:21.460
+Scott Burger: Well, Gold Head, I guess. Gold!
+
+535
+00:56:21.460 --> 00:56:21.910
+Andrew Harshman: Okay.
+
+536
+00:56:21.910 --> 00:56:38.990
+Scott Burger: And you walk into Olmec's lair, and he's being worshipped by these cavemen, and then he goes bananas, like all giant gold heads do, and starts, like, crushing them. And then, like, he just starts moving around this arena, crushing the arena, and destroying it. And crucially, below this arena is a lava pit.
+
+537
+00:56:38.990 --> 00:56:39.360
+Woody: Yeah.
+
+538
+00:56:39.360 --> 00:56:40.490
+Scott Burger: So, you aren't….
+
+539
+00:56:40.490 --> 00:56:40.900
+Andrew Harshman: Cool.
+
+540
+00:56:40.900 --> 00:56:47.240
+Scott Burger: You're running out of space, to… to, you know… and none of your bombs aren't gonna do anything.
+
+541
+00:56:47.240 --> 00:56:53.020
+Andrew Harshman: Your bombs don't hurt Olmec, but you can use them to blow out the ground under. Yeah.
+
+542
+00:56:53.020 --> 00:56:53.860
+Woody: Yeah, sounds like….
+
+543
+00:56:53.860 --> 00:56:58.940
+Andrew Harshman: It's sort of a, Super Mario Bros. 3 Bowser fight type situation.
+
+544
+00:56:58.940 --> 00:57:04.389
+Scott Burger: Yes. And I forget if, like, if there's any indication
+
+545
+00:57:04.750 --> 00:57:14.990
+Scott Burger: where… or yeah, so there's a standard exit to this level, which is just on the other side of the level, same side that you came in on, kind of, or the same elevation, I guess.
+
+546
+00:57:15.280 --> 00:57:21.649
+Scott Burger: Olmec, like, digs his own grave, literally falls into the lava, and you're like, oh, hooray, the exit's open, you come in, and you're….
+
+547
+00:57:21.650 --> 00:57:22.000
+Andrew Harshman: Ray.
+
+548
+00:57:22.000 --> 00:57:28.229
+Scott Burger: You know, you, you get all the gold, and then you, you leave the, the, the temple, or no, it's, ….
+
+549
+00:57:28.230 --> 00:57:40.879
+Andrew Harshman: You loot all the valuable artifacts, and you take them across the world to be put on display in an act of terror and colonialism, the likes of which no one has ever seen in such a cute sprite.
+
+550
+00:57:40.880 --> 00:57:55.370
+Woody: And then it gives you a cute thumbs up at the end. No, and that's right, and that's, that is the full game, that is the… that is a complete run of Spelunky, and, a run of Spelunky is pretty fast, like, ….
+
+551
+00:57:55.530 --> 00:57:56.879
+Scott Burger: In theory, you could beat it in, like….
+
+552
+00:57:56.880 --> 00:57:57.359
+Colin: 10 minutes.
+
+553
+00:57:57.850 --> 00:58:11.789
+Woody: yeah, 20, 30 minutes, should be fine, which I appreciate, being as there is so much stuff that can kind of punt your run, and so, like, the level of frustration that would be a part of it if you had a 40-minute run.
+
+554
+00:58:11.790 --> 00:58:12.320
+Andrew Harshman: the night.
+
+555
+00:58:12.320 --> 00:58:12.800
+Woody: some….
+
+556
+00:58:12.800 --> 00:58:13.220
+Andrew Harshman: Oh, great.
+
+557
+00:58:13.220 --> 00:58:13.950
+Woody: random spike traps.
+
+558
+00:58:13.950 --> 00:58:15.240
+Andrew Harshman: Right.
+
+559
+00:58:15.240 --> 00:58:29.400
+Woody: Yeah, I'm not crazy about Olmec, because all he does is he kind of has this upper arc to the left, and then when you get under him, he crashes down, or he has this upper arc to the right, where if you're under him to the right, he crashes down. And so.
+
+560
+00:58:29.400 --> 00:58:31.589
+Andrew Harshman: Presumably killing you in one hit.
+
+561
+00:58:31.590 --> 00:58:40.119
+Woody: Yes, oh yeah. That's the thing that's funny, is you can rescue maidens and or pugs and or, sexy Chippendale dancers, depending on your setting.
+
+562
+00:58:40.120 --> 00:58:40.690
+Andrew Harshman: Yes.
+
+563
+00:58:41.140 --> 00:58:44.299
+Andrew Harshman: Three, damsel types in this game.
+
+564
+00:58:44.300 --> 00:58:52.269
+Woody: And they, when you bring them… when you bring them to the exit, they, give you a kiss, which refills your health, one, but then by the time.
+
+565
+00:58:52.270 --> 00:58:54.510
+Andrew Harshman: your health. Gives you, gives you one health.
+
+566
+00:58:54.510 --> 00:58:56.830
+Woody: One health, yeah, you're right, it gives you one health.
+
+567
+00:58:56.830 --> 00:59:04.380
+Andrew Harshman: No, no, you said a great… I just wanted to be clear, like, one health. And that is almost your only opportunity to heal.
+
+568
+00:59:04.380 --> 00:59:17.720
+Woody: But then, what is funny is by the time you get, really, to, like, the second world, the vast majority of stuff just kills you in one hit, because there's spikes, or the Yeti caves, you're just gonna fall down the pit, or the temple…
+
+569
+00:59:17.740 --> 00:59:24.619
+Woody: Yeah, there's just tons of stuff. But, like, Olmec is this weird sort of balance of being simultaneously
+
+570
+00:59:25.180 --> 00:59:30.060
+Woody: Boring, and kind of feeling bad, because, like.
+
+571
+00:59:30.360 --> 00:59:41.629
+Woody: I think he's hard. There's a lot of ways to mess up Olmec, like, cause if you run out of bombs, you can get… dig yourself a pit, and be stuck, and just… get crushed. ….
+
+572
+00:59:41.630 --> 00:59:57.300
+Scott Burger: unlike any other of the mini-bosses that you encounter. Right. It's not like a giant spider, it's not a beehive, it's not Anubis. It's not a shopkeep terminator. Right. No, it is just… it would be funny if there was a shopkeep on this level.
+
+573
+00:59:57.300 --> 01:00:12.249
+Woody: would be kind of cool. Yeah, well, so many of the bosses in this game, it's basically, like, the best way to beat them is get jetpack, get shotgun, and just, like, go to town. Whereas none of those weapons work on Olmec, which I think is smart, except…
+
+574
+01:00:12.420 --> 01:00:17.670
+Woody: pretty much every time you die on Olmec, it feels bad. Like, not…
+
+575
+01:00:17.760 --> 01:00:34.420
+Woody: because dying in this game doesn't always feel bad, but you just naturally feel dumb. Because he has, like, the most obvious pattern in the world, and you're just like, well, I just screwed up, and, like, you never beat him and feel cool. You know what I mean? You can never do, like, some sweet play that, like.
+
+576
+01:00:34.860 --> 01:00:48.050
+Woody: brought, you know, like, dodged something awesome, or… I don't know, he just… it feels kind of anticlimactic, and like, I know this game has another route that is a lot, you know, even more intense, but…
+
+577
+01:00:48.400 --> 01:00:49.969
+Woody: I don't know, I, I, I don't, I don't….
+
+578
+01:00:49.970 --> 01:00:50.740
+Andrew Harshman: This is a stupid.
+
+579
+01:00:50.740 --> 01:00:54.050
+Woody: where I don't have a better idea, so….
+
+580
+01:00:54.050 --> 01:01:05.549
+Andrew Harshman: That was gonna be my question. I feel like… I was so worried that… well, as it turns out, this was a con… this was a silly worry of mine. I'm like, oh, I'm so concerned that I'm gonna… I'm gonna beat this game.
+
+581
+01:01:05.550 --> 01:01:16.159
+Andrew Harshman: Yeah, joke's on me. And the ending is going to be anticlimactic. I was imagining just going through the final door and it being like, congratulations! You're in the treasure room!
+
+582
+01:01:16.230 --> 01:01:17.709
+Andrew Harshman: the end. I mean, that….
+
+583
+01:01:17.710 --> 01:01:34.119
+Woody: kind of is the ending. Well, I mean, there is the boss, there is Olmec the boss, which can really be actually quite climactic the first time, because you… it's very stressful, because you have gotten this far, and you're like, oh, I have made it to Olmec, I don't want to mess up and just get crushed randomly.
+
+584
+01:01:34.120 --> 01:01:35.840
+Andrew Harshman: I don't want to get domed by this giant dome.
+
+585
+01:01:36.160 --> 01:01:42.099
+Andrew Harshman: Right, so, so, are you suggesting… it would be better if this was a better designed boss.
+
+586
+01:01:42.100 --> 01:01:49.609
+Woody: Yes, I am a proponent of there being some last boss, or something like that. I just would like…
+
+587
+01:01:49.810 --> 01:01:53.169
+Woody: Some boss that you felt like… Had… because the bottom.
+
+588
+01:01:53.410 --> 01:01:55.359
+Andrew Harshman: Doesn't feel good to win.
+
+589
+01:01:55.360 --> 01:02:01.499
+Woody: And he also basically is the same every time you fight him, because, like, no matter what equipment you have.
+
+590
+01:02:01.620 --> 01:02:06.309
+Woody: Like, most of it isn't gonna be that relevant, except for the jetpack, which is always relevant.
+
+591
+01:02:06.310 --> 01:02:22.079
+Scott Burger: Yeah, and I feel like it's so different from how you play the rest of the game that it sort of feels out of place, but it almost… in a way, it kind of feels like a relief of, like, the temple, like, the entire stage of the temple feels like the final boss fight.
+
+592
+01:02:22.730 --> 01:02:41.989
+Scott Burger: You have the arrow traps from Biome 1, you have the horizontal spike tiki traps from Biome 2, you have, … I forget if there's anything from Biome 3 in there, but, like, it feels like there… it's like the confluence of all of these other things that you've seen in the game, and now it's like, alright, you've seen it before.
+
+593
+01:02:41.990 --> 01:02:46.800
+Scott Burger: put it all into practice. This is, this is the run, like, this is the grading assignment here.
+
+594
+01:02:46.800 --> 01:02:49.099
+Woody: 3 is kind of like a weird, sort of.
+
+595
+01:02:49.380 --> 01:02:54.270
+Woody: respite. Like, I find level 3 to be significantly easier than Level 2.
+
+596
+01:02:54.270 --> 01:03:01.780
+Andrew Harshman: Exactly! Yes, thank you, we're getting back to this topic, and Scott was the first to point this out to me, that Biome 3, …
+
+597
+01:03:02.230 --> 01:03:04.670
+Andrew Harshman: It's pretty chill. Much easier. Much easier.
+
+598
+01:03:04.670 --> 01:03:05.040
+Woody: What's time?
+
+599
+01:03:05.040 --> 01:03:05.740
+Andrew Harshman: Of course.
+
+600
+01:03:05.740 --> 01:03:06.120
+Woody: It's chill.
+
+601
+01:03:06.120 --> 01:03:10.789
+Andrew Harshman: Yeah, it's gotta be. It's on brand. Why… why did they do that?
+
+602
+01:03:11.020 --> 01:03:20.690
+Scott Burger: I think that's a… that's a hallmark of a lot of Derek Yu games, where, like, the first level is, like, setting your expectation, the second level is, like, alright, I'm just gonna punch you as hard as I can.
+
+603
+01:03:20.690 --> 01:03:32.440
+Scott Burger: It is a dick-punching exercise. And then the third level's like, alright, I've punched you in the dick a whole bunch, let's have a smoke break for just a quick second before we get back into even heavier dick-punching.
+
+604
+01:03:32.610 --> 01:03:49.660
+Woody: Maybe it's this… maybe it's the idea that, like, he knows that after you've fought your way through the jungle, like, you're gonna be, like, so on edge that if you got to another, like, equally hard level, most people would just be like, you know what, forget it. I'm done with this. But, like, a lot of times…
+
+605
+01:03:50.000 --> 01:03:59.560
+Woody: You will beat the jungle for the first time, and then you will make it through, like, most of the ice caves, if not all of them, and you'll be like, oh, I can, like, I can do this! The end is in sight.
+
+606
+01:03:59.560 --> 01:04:04.010
+Scott Burger: Yeah, if the temple was immediately after the jungle, this game would be….
+
+607
+01:04:04.010 --> 01:04:04.530
+Andrew Harshman: Boy.
+
+608
+01:04:04.530 --> 01:04:07.849
+Scott Burger: a lot… a lot less well received, I feel like.
+
+609
+01:04:07.850 --> 01:04:08.670
+Andrew Harshman: That's….
+
+610
+01:04:08.890 --> 01:04:10.050
+Woody: That's probably true.
+
+611
+01:04:10.050 --> 01:04:16.289
+Colin: What if it were swapped? What if it was… first level ICE… Then Jungle, then temple.
+
+612
+01:04:16.290 --> 01:04:16.729
+Woody: Well, I think.
+
+613
+01:04:16.730 --> 01:04:17.680
+Colin: Is that what you mean?
+
+614
+01:04:17.680 --> 01:04:24.120
+Woody: I think story-wise, like, you can't start with the ice caves, just in terms of, like, that is a weird… that would be a weird place to start.
+
+615
+01:04:24.120 --> 01:04:27.050
+Scott Burger: No, I think, like, Mines, Ice Caves, Jungle Temple.
+
+616
+01:04:27.720 --> 01:04:29.390
+Woody: Yeah, I think that would work fine.
+
+617
+01:04:29.540 --> 01:04:30.769
+Scott Burger: Hmm. ….
+
+618
+01:04:31.000 --> 01:04:32.690
+Woody: I don't know, the ice caves….
+
+619
+01:04:32.690 --> 01:04:43.069
+Colin: I guess a better question would be, is ice caves actually easier, or is it that you have more stuff by the time you're in ice caves? Like, are they… are they literally the same difficulty, but you're just further in the game?
+
+620
+01:04:43.070 --> 01:04:45.750
+Scott Burger: Ice Caves is significantly easier than the jungle.
+
+621
+01:04:45.750 --> 01:04:57.900
+Woody: But I do think Ice Caves does reward you a lot for being well-equipped, because there are a lot of scenarios where you have to take big jumps, so, like, having a cape or a jetpack or lots of ropes is super helpful.
+
+622
+01:04:57.900 --> 01:04:58.860
+Andrew Harshman: Indeed.
+
+623
+01:04:58.860 --> 01:05:05.669
+Woody: Colin has been sitting stoically like an Olmec head for a while here, so I… I just want to ask…
+
+624
+01:05:06.000 --> 01:05:06.780
+Woody: like…
+
+625
+01:05:07.180 --> 01:05:16.479
+Woody: So, was your main bounce on this game, Colin, is that it is just kind of hard and unforgiving, or do you find, like, the mechanics of this to just be kind of uninteresting?
+
+626
+01:05:17.380 --> 01:05:22.400
+Colin: A little bit of both. I'm… I'm generally not…
+
+627
+01:05:23.040 --> 01:05:26.740
+Colin: I don't like hard games that are hard just for being hard.
+
+628
+01:05:26.740 --> 01:05:28.440
+Andrew Harshman: Do you like platformers.
+
+629
+01:05:29.110 --> 01:05:35.419
+Colin: I'm indifferent… I do not have strong feelings one way or another for platformers. Okay. Like, I….
+
+630
+01:05:35.420 --> 01:05:36.840
+Andrew Harshman: You like Indiana Jones?
+
+631
+01:05:38.060 --> 01:05:38.700
+Colin: ….
+
+632
+01:05:38.700 --> 01:05:39.820
+Andrew Harshman: Tomb Raider.
+
+633
+01:05:39.820 --> 01:05:40.550
+Colin: Sure.
+
+634
+01:05:40.770 --> 01:05:46.339
+Colin: I never played Tomb Raider, I've never played Castlevania, so I'm probably a bad, like.
+
+635
+01:05:46.470 --> 01:05:58.990
+Colin: truly not a good platformer, enthusiast. But I like them as a… as a delivery vehicle for… for game. I really liked Dead Cells, so I'm comparing a lot of my…
+
+636
+01:05:59.910 --> 01:06:17.350
+Colin: thoughts on this were, like… I mean, Dead Cells is not the same game at all, but it is a platformer, and the way that I felt when I was going through something like Dead Cells is very smooth, and you feel powerful, and…
+
+637
+01:06:17.940 --> 01:06:22.230
+Colin: fast and fluid, versus this, I just felt
+
+638
+01:06:22.650 --> 01:06:33.670
+Colin: bad at video games, and then I'd die, and then I'd restart again, and I'd feel bad again, and it was just very frustrating. And…
+
+639
+01:06:34.270 --> 01:06:35.000
+Colin: it…
+
+640
+01:06:35.920 --> 01:06:45.469
+Colin: really, I hated the whip. I hate the whip so much. I could… I could not get a handle on it, and maybe it was… the problem was that I shouldn't have been trying to use it as much.
+
+641
+01:06:45.570 --> 01:06:47.740
+Colin: But then also just, like.
+
+642
+01:06:49.530 --> 01:06:54.339
+Colin: I did not find the conceit of the game as interesting, like….
+
+643
+01:06:54.340 --> 01:06:59.659
+Woody: you're exploring a cave, and then you get to the end of the cave, and you go to the next level. Yeah, oh, no, 100%.
+
+644
+01:07:00.000 --> 01:07:17.559
+Woody: a game… like, I think… I really like this game's aesthetic, I think it looks great, but, like, it is not, like, oh, I want to know more about the lore of the cave, like, it does… Dead Cells at least, like, gives the vibes of, like, oh, I'm in this interesting world, and there's, like, weird monsters and sort of weird vibes around here.
+
+645
+01:07:17.560 --> 01:07:30.479
+Scott Burger: And it's… and it's interesting that for a game that's, like, such a titanic mover of the genre, like, this is… this, I think, like, Spelunky 2008, and then, like, that building the hype for the 2012 release is…
+
+646
+01:07:30.480 --> 01:07:42.099
+Scott Burger: like, new roguedom. Like, before that, roguelike games, like, were not popular, they were not fun, outside of, like, Pokemon Mystery Dungeon games. Like, they didn't sell well, like, they were not commercial successes. This was, like…
+
+647
+01:07:42.100 --> 01:07:55.100
+Scott Burger: oh, hey, what if, like, someone who was good at game design took all the good parts of, like, these old traditional roguelike games and put them into a fun setting like a Mario game? And I think that, like, there's… there's, like, an allegory here of, like.
+
+648
+01:07:55.100 --> 01:08:04.850
+Scott Burger: Spelunky being, like, the… the titular, like, zero-meta progression, like, arcade-style rogue… rogue-like game,
+
+649
+01:08:04.980 --> 01:08:09.149
+Scott Burger: Feels like it's… it's like the nuclear throne.
+
+650
+01:08:09.380 --> 01:08:18.550
+Scott Burger: to, like, how Rogue Legacy is, like, to enter the Gungeon. And what I mean by that is, like, Nuclear Throne is, like, way smaller scope than Enter the Gungeon.
+
+651
+01:08:18.550 --> 01:08:20.349
+Woody: Another throne predate Gungeon?
+
+652
+01:08:20.350 --> 01:08:21.560
+Scott Burger: I'm pretty sure it does, yeah.
+
+653
+01:08:21.560 --> 01:08:24.010
+Woody: Okay, carry on. I'll fact check you.
+
+654
+01:08:24.220 --> 01:08:39.559
+Scott Burger: Like, Nuclear Throne, way smaller scope, way faster, you die a lot more, there's no meta-progression, there's, like, basically no story, it's like, oh, I've gotta go and ascend the Nuclear Throne, great. Versus, like, Rogue Legacy and Enter the Gungeon, it's much more progression-based, it's a lot…
+
+655
+01:08:39.920 --> 01:08:54.559
+Scott Burger: more forgiving, more… it's slower, it's, you know, less punishing, and I feel like those have… like, that style of game is maybe more appealing, generally, because the
+
+656
+01:08:54.560 --> 01:09:00.880
+Scott Burger: Like, that's… that's the draw. Like, the draw is like, oh yeah, it'll… like, it's hard, it's a hard game, but…
+
+657
+01:09:00.880 --> 01:09:12.079
+Scott Burger: if you stick with it, like, the game will just, like, let you get better at it regardless if you're, like, a super, like, highly skilled twitchy gamer or not. It will just….
+
+658
+01:09:12.080 --> 01:09:26.079
+Woody: Yeah, your character will sort of get stronger, and, like, Dead Cells has those elements very much so, because you're… you're continually, like, pumping souls into the forge, which, you know, keeps leveling up your weapons.
+
+659
+01:09:26.410 --> 01:09:34.309
+Woody: You're getting new abilities, and for those following along at home, yeah, Nuclear Throne came out 2015, Gungeon came out 2016.
+
+660
+01:09:34.319 --> 01:09:36.089
+Scott Burger: Oh yeah, oh yeah, talk about fashion.
+
+661
+01:09:36.090 --> 01:09:39.150
+Colin: So, I would say for me, like.
+
+662
+01:09:39.350 --> 01:09:52.499
+Colin: I… I'm probably a bad roguelike player. I am definitely a roguelite of… of… Sure. If you know what I mean. Like, I… I play video games to feel like I am making progress.
+
+663
+01:09:52.500 --> 01:09:53.060
+Woody: Yeah.
+
+664
+01:09:53.069 --> 01:10:08.819
+Colin: And, you know, the more we've done this podcast, the more I've realized that I don't actually care if I am making progress and getting better. I just want to feel like I'm getting better. Like, you know, there's a subtle difference between them, and roguelike elements will make it so it's like.
+
+665
+01:10:09.019 --> 01:10:15.059
+Colin: boy, you're getting better at this game. It's like, am I? Let's just not examine that too hard. I'm getting further.
+
+666
+01:10:15.270 --> 01:10:24.189
+Woody: That's a really smart observation, Colin. I like that point a lot, of, like, this… because, like, I think Hades does a really good job of that. It's like…
+
+667
+01:10:24.650 --> 01:10:33.730
+Woody: by the time you're, you know, 10 or 15 hours into Hades, your character is just more powerful, and you feel like you've gotten better at the game.
+
+668
+01:10:33.730 --> 01:10:36.620
+Colin: And you probably have, but yeah, you probably have.
+
+669
+01:10:36.620 --> 01:10:42.290
+Woody: It really doesn't matter, because you're getting farther than you did before, and like, that's what you care about.
+
+670
+01:10:42.520 --> 01:10:50.100
+Andrew Harshman: And to your point, Colin, … I sat down this morning to try to beat this game.
+
+671
+01:10:50.340 --> 01:10:55.580
+Andrew Harshman: And… It took me at least an hour to get to the third biome.
+
+672
+01:10:56.040 --> 01:10:59.689
+Andrew Harshman: I, like, I've been playing this game a lot.
+
+673
+01:10:59.780 --> 01:11:10.489
+Andrew Harshman: I feel like I got the movement down pretty good, I feel like I got a pretty good handle on the mechanics, and it is still… the first level is still tough. Yep. …
+
+674
+01:11:10.500 --> 01:11:21.380
+Andrew Harshman: And… real quick, just to remind everybody, … I didn't beat Battletoads, but I got darn close. I've beaten a number of the, like, old school…
+
+675
+01:11:21.770 --> 01:11:26.020
+Andrew Harshman: Castlevania games. I've beaten Ninja Gaiden 1. Oh, that.
+
+676
+01:11:26.020 --> 01:11:26.720
+Woody: Oh, ugh.
+
+677
+01:11:26.720 --> 01:11:27.830
+Andrew Harshman: Which, ….
+
+678
+01:11:27.830 --> 01:11:41.659
+Woody: That game is so cruel… you talk about a cruel game. That game, you get to the last boss, which is a very, very hard last boss, and if you die, you go back to the start of the level. Not the start of the boss, the start of the level.
+
+679
+01:11:41.990 --> 01:12:01.880
+Andrew Harshman: Brutal. And but, so, that is to say, like, I'm not terrible at platformers, and but yeah, this is, Spelunky… I've been saying this on our Discord a fair bit, and I've been saying this to just people who I've been talking about this game. Just people on the street! Just on the street!
+
+680
+01:12:01.880 --> 01:12:04.560
+Woody: You've just been out there with a sign.
+
+681
+01:12:04.560 --> 01:12:06.769
+Colin: He's been berating his wife about this game.
+
+682
+01:12:06.770 --> 01:12:19.770
+Andrew Harshman: I walked up to my friendly local barista, and I said, so I'm playing Spelunky, and let me tell ya, it is absolutely living up to its reputation. That reputation being that it's a bastard of a game, and boy is it.
+
+683
+01:12:20.590 --> 01:12:40.549
+Scott Burger: Woody, I'm curious, from your perspective, like, you are no stranger to these exceedingly difficult games. For the listener's benefit, Woody and I were roommates in college, and I remember the day when… and correct me if I'm wrong, but I'm pretty sure, like, that was when you beat Battletoads for the first time, right?
+
+684
+01:12:40.550 --> 01:12:43.909
+Woody: Yeah, we… I remember this too, this is a very seminal memory
+
+685
+01:12:44.250 --> 01:13:02.899
+Woody: I beat Battletoads, like, for the first time, and then I'm like, oh man, I'm running, I'm running hot. I was so hyped. I remember I ran up and down the hall of our game, and then, I'm like, alright, I gotta ride this, and then I played Mike Tyson's Punch-Out, and then I beat Mike Tyson for the first time.
+
+686
+01:13:03.310 --> 01:13:04.349
+Colin: In a row?
+
+687
+01:13:04.830 --> 01:13:06.899
+Woody: What do you mean? Back to back?
+
+688
+01:13:06.900 --> 01:13:09.609
+Colin: You beat Battletoes, then you immediately beat Mike Tyson?
+
+689
+01:13:09.610 --> 01:13:16.040
+Woody: Yeah. Wow. I mean, no, I had to, like, fight Mike Tyson many times, but, like, it was the same day.
+
+690
+01:13:16.040 --> 01:13:19.840
+Colin: That's what I mean, yeah. It's incredible. Yeah. Incredible.
+
+691
+01:13:19.840 --> 01:13:22.440
+Woody: And then, like, yeah, so, I was running hot.
+
+692
+01:13:22.440 --> 01:13:23.950
+Scott Burger: Yeah, so, but, like.
+
+693
+01:13:24.080 --> 01:13:29.759
+Scott Burger: You, you have, like, this kind of, intrinsic draw to these very challenging and difficult games.
+
+694
+01:13:29.760 --> 01:13:30.270
+Woody: Sure.
+
+695
+01:13:30.270 --> 01:13:39.150
+Scott Burger: Was that the draw to Spelunky at the time? It's like, oh, this is, like, another legendarily difficult Battletoads-level game, I need to summit that mountain, like, was that….
+
+696
+01:13:39.150 --> 01:13:39.500
+Woody: Oh!
+
+697
+01:13:39.500 --> 01:13:40.670
+Scott Burger: At the time, the drawing?
+
+698
+01:13:40.670 --> 01:13:52.499
+Woody: I didn't know that, because, like, when I first played it, because, like, it hadn't developed that reputation, and I guess I don't even think of it that way, like, because I feel like…
+
+699
+01:13:53.700 --> 01:14:08.640
+Woody: I don't know, it's like, those games… like, Battletoads, like… the difficulty in Battletoads is just bad and busted, and, like, doesn't make sense, and is not fair. Like, I… I am… I am totally get that, and it's, like, very much, like…
+
+700
+01:14:09.010 --> 01:14:17.089
+Woody: a smashing your head against the wall and just trying… like, that is the prime example of a game that you memorize. You don't necessarily get to.
+
+701
+01:14:17.090 --> 01:14:21.770
+Andrew Harshman: about way earlier, You, you memorize the levels, because they are each….
+
+702
+01:14:22.270 --> 01:14:23.500
+Woody: Yeah, and I….
+
+703
+01:14:23.500 --> 01:14:24.410
+Andrew Harshman: designs.
+
+704
+01:14:25.030 --> 01:14:28.789
+Woody: I just started playing Spelunky, And just like…
+
+705
+01:14:28.810 --> 01:14:40.160
+Woody: continued to play Spelunky, because, like, the act of playing it, I found very pleasurable, and then when I died, I'm like, well, I guess I get to play more Spelunky now.
+
+706
+01:14:40.160 --> 01:14:49.069
+Woody: And that's not to say there weren't many, and still are, many memories of very frustrating things about this game.
+
+707
+01:14:49.320 --> 01:14:58.860
+Woody: But… I guess, like, it never felt… it's never felt totally cheap, and just cruel the way…
+
+708
+01:14:59.370 --> 01:15:01.349
+Woody: you know, Battletoads does.
+
+709
+01:15:01.790 --> 01:15:07.850
+Woody: Just for example. I remember… So, yeah, it wasn't… when I got to the phase of trying to…
+
+710
+01:15:08.360 --> 01:15:13.730
+Woody: you know, consciously, like, beat a hell run, to see those more mechanics. …
+
+711
+01:15:13.950 --> 01:15:19.960
+Woody: That is where it starts to feel more that way, because…
+
+712
+01:15:20.550 --> 01:15:25.980
+Woody: Like, you need things to go right in order for that to work, and like…
+
+713
+01:15:26.490 --> 01:15:30.940
+Woody: so it can be frustrating when that doesn't work out, but if I'm just playing a run.
+
+714
+01:15:31.260 --> 01:15:47.230
+Woody: to see what happens and try to beat it, like, I don't really care, like, I will… if I see a shop with a shotgun and a jetpack in it, I'm killing that shopkeeper. And, like, I'm gonna see what happens. Nothing personal. Because I am not… I'm not worried about it.
+
+715
+01:15:47.230 --> 01:15:50.389
+Andrew Harshman: It's just business, that business being archaeology.
+
+716
+01:15:50.390 --> 01:15:52.870
+Woody: Yeah, exactly.
+
+717
+01:15:52.870 --> 01:15:56.829
+Colin: It is fair. You're, you're, you're tomb robbing. You're Tomb Raider.
+
+718
+01:15:56.960 --> 01:16:00.159
+Andrew Harshman: That business being Tomb Robbery, yes.
+
+719
+01:16:00.160 --> 01:16:04.449
+Woody: And I guess, to me, that's, like, another thing that I just really…
+
+720
+01:16:04.830 --> 01:16:09.469
+Woody: Respect about this game is, like… I never noticed…
+
+721
+01:16:10.230 --> 01:16:29.319
+Woody: its hardness, like, obviously I know… I noticed its difficulty because I was dying all the time, and I still do, but I didn't notice it in the same way that I do for those games that, like, you know, are quote-unquote, like, the massive… like, the games you play solely for difficulty.
+
+722
+01:16:29.320 --> 01:16:37.350
+Andrew Harshman: Sure, it's difficult in a different way, for sure, for sure, in a own uniquely cruel way. No, yeah, it's definitely, it's definitely different.
+
+723
+01:16:37.350 --> 01:16:39.400
+Woody: Yeah, and I mean, to me, though, that's like…
+
+724
+01:16:39.630 --> 01:16:46.129
+Woody: That, at its core, is, like, what rogue… rogue games are about, is that…
+
+725
+01:16:46.350 --> 01:16:49.740
+Woody: Dying is just a part of the game, and like…
+
+726
+01:16:50.230 --> 01:17:02.389
+Woody: if the game is intrinsically pleasurable, it does not matter how much you die. Like, if something interesting happens, and you had a good time, and you, like, learned one lesson of, like.
+
+727
+01:17:02.490 --> 01:17:10.290
+Woody: Like, I just learned one, like, you can go into… one of the bonus levels is you can get sucked in by a big bug.
+
+728
+01:17:10.390 --> 01:17:21.680
+Woody: And you, like, go down his stomach, and you get, like, a special knife. For all you guys complaining about the whip, you can get, like, a crystal knife that, has a slightly better range and kills enemies instantly.
+
+729
+01:17:21.680 --> 01:17:24.319
+Scott Burger: Crucially, it's a crisp knife from Dune.
+
+730
+01:17:24.320 --> 01:17:41.469
+Woody: Yeah, because you go into a big sandworm. And then I'm like, this run is going great, I'm gonna go into the Alien Mothership, another bonus level, and I shotgunned down some of these turrets, and then I'm like, what's going on with these turrets? And I hit one of them with my knife, and it exploded.
+
+731
+01:17:42.020 --> 01:17:57.189
+Woody: Which, you know, was maybe as close as I've ever experienced to, like, hey, that felt like random BS in, in the world of Spelunky, but I'm not sure I'd ever seen that interaction before. So, even, you know, 50, 60 hours in, still learning new things.
+
+732
+01:17:57.190 --> 01:18:04.270
+Scott Burger: I remember when I first picked up Spelunky, I think it was, this was the very first Rogue game I bought on Steam.
+
+733
+01:18:04.270 --> 01:18:17.549
+Scott Burger: And November 2013, so the year of release, I think I got it for $4, and I was, like, at the time I was so engrossed in it, I remember specifically, it was the, it was the January 1st, 2013,
+
+734
+01:18:17.550 --> 01:18:24.490
+Scott Burger: Colts vs. Chiefs playoff game, where there was, like, this, like, one of the biggest come-from-behind victories in playoff football history.
+
+735
+01:18:24.490 --> 01:18:34.709
+Scott Burger: And I was just completely ignoring it, because I was playing Spelunky on my laptop. Sure. I'm like, goddammit, I'm gonna beat this level! And I'm, like, throwing my wireless 360 controller across the room and stuff.
+
+736
+01:18:34.840 --> 01:18:43.100
+Andrew Harshman: And that's when you… and that's when you threw the himbo into the exit. Oh, alright! Anyway, yeah.
+
+737
+01:18:43.100 --> 01:18:51.289
+Scott Burger: But I remember bouncing off of it at the time, because it was punishingly difficult. I didn't really understand why it was so lauded at the time.
+
+738
+01:18:51.290 --> 01:19:04.300
+Scott Burger: And it took me, like, until June 2015, scrolling through my Steam purchase history here, to get Risk of Rain 1, which was, like, that was the gateway drug. So, like, I played Spelunky.
+
+739
+01:19:04.300 --> 01:19:07.940
+Scott Burger: I was engrossed in it enough at the time, I didn't beat it at the time.
+
+740
+01:19:07.940 --> 01:19:18.949
+Scott Burger: But, like, I bounced off it, because I'm like, yeah, but it's, I don't know, it's just, like, another Meat Boy, or something. Sure. And, like, sure, yeah, it's difficult, and I thought, at the time, difficult for difficult's sake.
+
+741
+01:19:18.950 --> 01:19:33.239
+Scott Burger: But having… having played enough of these and really thinking and thinking about it critically and coming back to it, I'm like, wow, like, it's so polished for… for how pared down it is compared to something… well, I mean, Noita is also very polished.
+
+742
+01:19:33.240 --> 01:19:44.600
+Scott Burger: But, like, Noita, or, Splunky crawled, crawled with its belly across the cavern floor, so that way Noita could, jetpack across, to victory. …
+
+743
+01:19:44.740 --> 01:19:53.460
+Scott Burger: and yeah, I feel like it's just so foundational, like, of opening up the doors to all these systems, of like, oh, hey, actually, like, these rogue systems from all these, like…
+
+744
+01:19:53.670 --> 01:20:02.289
+Scott Burger: incredibly terse and, like, 150 keyboard command type games, like, can actually be fun if you apply it to the right medium.
+
+745
+01:20:02.790 --> 01:20:19.110
+Scott Burger: Speaking of run types, … so, like, we talked about a standard run, Woody kind of touched on, a Hell Run, which requires getting… yeah, getting, like, the Wadjet eye from the mines, the Ankh from the black market, which gives you an extra life, the Head Jet from.
+
+746
+01:20:19.110 --> 01:20:24.129
+Woody: Yeah, it gives you an extra life, but if you die, it uses the onk, and so you can't…
+
+747
+01:20:24.510 --> 01:20:27.570
+Woody: Unlock the secret, so you have to get it and not die.
+
+748
+01:20:27.570 --> 01:20:43.530
+Scott Burger: Well, and then you have to crucially kill yourself next to a giant moai head in the ice caves to activate it, which spits you back out of the Moai head, wearing a cool head helmet that's made of gold.
+
+749
+01:20:43.530 --> 01:20:46.059
+Woody: That's what they call them. Head helmets made of gold.
+
+750
+01:20:46.250 --> 01:20:57.119
+Scott Burger: And then you get, you kill Anubis in the temple to get his scepter, which, like, with all of the… well, actually, I think you only need the scepter and the head jet, technically. …
+
+751
+01:20:57.340 --> 01:21:06.239
+Scott Burger: and so there's creative ways around this that I'll get to in a second, but, like, you use the scepter as a key to open the… the…
+
+752
+01:21:06.370 --> 01:21:15.000
+Scott Burger: Golden Door in, I think the second stage of the temple, to go to the City of Gold, and that's where, like, you can just get your daily.
+
+753
+01:21:15.000 --> 01:21:18.070
+Andrew Harshman: Where everyone wears head helmets made of gold.
+
+754
+01:21:18.320 --> 01:21:21.460
+Andrew Harshman: I've been laughing off-camera about this.
+
+755
+01:21:21.620 --> 01:21:22.790
+Andrew Harshman: Yeah, sorry.
+
+756
+01:21:22.790 --> 01:21:24.859
+Scott Burger: And so, so….
+
+757
+01:21:24.860 --> 01:21:30.540
+Andrew Harshman: Is the Gold City just, like, a treasure-like room, or is it actually, like, a full biome with, ….
+
+758
+01:21:31.200 --> 01:21:36.439
+Scott Burger: It's like everything's made of gold, right? And then, like, everything that you blow up, it's just, like, it's raining gold, and you're still….
+
+759
+01:21:36.440 --> 01:21:37.849
+Andrew Harshman: There's head helmets everywhere.
+
+760
+01:21:38.160 --> 01:21:40.049
+Colin: Are they our enemies?
+
+761
+01:21:40.120 --> 01:21:44.179
+Woody: Yeah, there's enemies. Oh, Colin, it wouldn't be spelunky if there weren't.
+
+762
+01:21:44.180 --> 01:21:45.530
+Andrew Harshman: Oh, no, okay.
+
+763
+01:21:45.530 --> 01:21:48.089
+Colin: Well, that's what… I think that was Andrew's question, and also….
+
+764
+01:21:48.090 --> 01:21:52.660
+Woody: No, there's no bonus level. Even the bonus levels in this game still kick your ass.
+
+765
+01:21:52.950 --> 01:21:55.320
+Colin: I wasn't sure if it was a transition level.
+
+766
+01:21:55.320 --> 01:21:55.690
+Scott Burger: No.
+
+767
+01:21:55.690 --> 01:21:56.100
+Colin: in your.
+
+768
+01:21:56.100 --> 01:21:59.250
+Scott Burger: Like a Sonic the Hedgehog, oops, all emeralds.
+
+769
+01:21:59.250 --> 01:21:59.700
+Woody: Yeah.
+
+770
+01:21:59.700 --> 01:22:05.530
+Colin: Yeah, or like the little, in, in Mario, when you're in little… you go down the thing.
+
+771
+01:22:05.530 --> 01:22:19.030
+Woody: This is, this is totally unrelated, but I just, would like to encourage your listeners, when they're done listening to this podcast, do a YouTube search for, Skull Monkeys, bonus room song.
+
+772
+01:22:19.450 --> 01:22:20.010
+Woody: …
+
+773
+01:22:20.330 --> 01:22:25.290
+Woody: It's just some random PS1 platformer, but it does have the best bonus room music of any game ever.
+
+774
+01:22:25.290 --> 01:22:26.760
+Andrew Harshman: Oh, alright.
+
+775
+01:22:26.760 --> 01:22:29.929
+Woody: Alright, anyway, carry on. You make it through the City of Gold.
+
+776
+01:22:29.930 --> 01:22:37.909
+Scott Burger: Yeah, so while people are listening to that funky music, you get to the City of Gold. You pick up some sort of, like, Necronomicon-type, tome.
+
+777
+01:22:37.920 --> 01:22:53.770
+Scott Burger: If you have that, you beat Olmec, that opens up a secret entrance to Hell, which is, like, right above the lava zone there. So, like, you have to… you have to bait Olmec to, like, crushing down, like, the entrance specifically, like, by the lava.
+
+778
+01:22:53.770 --> 01:22:59.099
+Scott Burger: He, like, Olmec is disposed of, you go to the, you go to hell, and it's like…
+
+779
+01:22:59.450 --> 01:23:05.149
+Scott Burger: if you didn't think Spelunky was hard enough, and you were like, you know what, I want something to just, like.
+
+780
+01:23:05.630 --> 01:23:15.209
+Scott Burger: be… be so comically difficult, it's almost like, basically YouTube streamer bait. That's your hell option here. You get to King Yama.
+
+781
+01:23:15.240 --> 01:23:30.100
+Scott Burger: who I think is maybe a more appropriate final boss design for this game, and he's, like, 3 screens tall, he has, like, hands that, like, remove from his body and fly around, there's en- like, all sorts of different enemies attacking you, …
+
+782
+01:23:30.200 --> 01:23:36.179
+Scott Burger: And, yeah, beating him gives you, like, you know, the secret ending and a lot more points or whatever, but….
+
+783
+01:23:36.180 --> 01:23:36.790
+Andrew Harshman: ….
+
+784
+01:23:36.790 --> 01:23:48.229
+Scott Burger: But, crucially, this ties into maybe one of the, like… I'm struggling to think of a crazier optional challenge mode in maybe all of gaming.
+
+785
+01:23:48.760 --> 01:23:51.170
+Scott Burger: then something called the Eggplant Run.
+
+786
+01:23:51.180 --> 01:23:52.480
+Andrew Harshman: Excuse me?
+
+787
+01:23:52.480 --> 01:23:54.059
+Scott Burger: Woody, are you familiar with those?
+
+788
+01:23:54.550 --> 01:23:55.220
+Colin: ….
+
+789
+01:23:55.220 --> 01:23:58.789
+Woody: I'm not sure we are allowed to do this on our podcast.
+
+790
+01:23:58.790 --> 01:23:59.820
+Andrew Harshman: Family show.
+
+791
+01:23:59.820 --> 01:24:18.750
+Scott Burger: The E stands for educational on the, on the bit there. But, so the eggplant run is… like, the history from it comes from, like, people toying around with the Xbox 360 release, and then seeing, like, oh, if I take this mystery box from the shop, and I sacrifice it on one of the Kali altars, I get this little eggplant. Oh, that's a…
+
+792
+01:24:18.750 --> 01:24:27.829
+Scott Burger: That's a cute little throwaway thing, whatever. And it's a very fragile little thing that, like, if you touch it wrong, it'll… it'll explode, or, like, you know, fall apart. It's like a… like a clay pod.
+
+793
+01:24:27.830 --> 01:24:28.820
+Andrew Harshman: Oh, yeah?
+
+794
+01:24:28.820 --> 01:24:32.120
+Scott Burger: level of fragility. So, but…
+
+795
+01:24:32.250 --> 01:24:39.609
+Scott Burger: someone was digging around through files or something and found a thing that's like, oh, there's, like, this eggplant monster in, like, the game's files.
+
+796
+01:24:39.610 --> 01:24:40.450
+Andrew Harshman: I'll bet.
+
+797
+01:24:40.450 --> 01:24:53.460
+Scott Burger: something, right? And once the game was released on PC, PC gamers do their thing and datamine the shit out of it, and find the interaction of the eggplant with King Yama.
+
+798
+01:24:53.810 --> 01:25:00.339
+Scott Burger: Where if you throw the eggplant at King Yama's face, he turns it into a big eggplant.
+
+799
+01:25:00.340 --> 01:25:00.950
+Andrew Harshman: Where….
+
+800
+01:25:00.950 --> 01:25:05.970
+Scott Burger: You can just… you can just whip him with… for a one-hit KO, and kill him.
+
+801
+01:25:06.540 --> 01:25:08.489
+Scott Burger: But the, the….
+
+802
+01:25:08.490 --> 01:25:10.960
+Andrew Harshman: Interesting bit about this is how… just how….
+
+803
+01:25:11.050 --> 01:25:12.680
+Scott Burger: comically difficult.
+
+804
+01:25:12.950 --> 01:25:32.209
+Scott Burger: it is to do this, because you have to… you have to get the RNG in order to get a shop and a Kali altar on the same floor, usually in, like, the first biome. You pick up, like, the mystery package, you sacrifice it, and hope that that gives you an eggplant, so there's already the RNG filter there. You…
+
+805
+01:25:32.390 --> 01:25:34.670
+Scott Burger: … Gosh, what is my favorite.
+
+806
+01:25:34.670 --> 01:25:37.529
+Andrew Harshman: And this was secret for,
+
+807
+01:25:37.530 --> 01:25:39.699
+Scott Burger: Yeah, and I believe Derek W was like….
+
+808
+01:25:39.700 --> 01:25:44.810
+Woody: hire… every so often, you'll get, shops that let you hire a helping hand.
+
+809
+01:25:44.920 --> 01:25:56.699
+Woody: Which are, like, little assistants that follow you around, but have absolutely, you know, terrible AI, and as is mostly the case in Spelunky, will cause some accidental chain reaction that makes you die.
+
+810
+01:25:56.960 --> 01:26:02.739
+Woody: But because you need to be holding, like, the scepter.
+
+811
+01:26:03.200 --> 01:26:15.169
+Woody: to get into the City of Gold, and you also only have to be holding the eggplant to bring it in, you have to, like, have one of these guys carry the eggplant, behind you without letting.
+
+812
+01:26:15.170 --> 01:26:19.539
+Scott Burger: He did die. Or, Woody, if you are Bananasaurus Rex.
+
+813
+01:26:20.010 --> 01:26:38.240
+Scott Burger: possibly the best Spelunky player, maybe Spelunky 1 player of all time, you do it solo by item-juggling the eggplant and all the other items back and forth, while ghost dodging… we didn't even talk about the ghost, but, like, ghost dodging across the map.
+
+814
+01:26:38.240 --> 01:26:46.530
+Scott Burger: blowing up two other Kali altars in order to get a, a ball and chain where you have, like, an actual, like.
+
+815
+01:26:46.530 --> 01:26:55.729
+Scott Burger: like, prisoner big ball, like, chained to your leg, which is another thing you have to juggle, which will come in… will be important here in a second. …
+
+816
+01:26:55.990 --> 01:27:08.819
+Scott Burger: you're making your way to the ice caves. Somehow, if this wasn't already hard enough, you use the ball and chain to break open the moai head in the ice caves.
+
+817
+01:27:09.080 --> 01:27:10.829
+Scott Burger: And then you…
+
+818
+01:27:11.490 --> 01:27:17.130
+Scott Burger: The way that he did it, at least, was to use, like, the climbing gloves to, like.
+
+819
+01:27:17.380 --> 01:27:35.660
+Scott Burger: climb up against the side of the wall of the… of the ice caves, because there's a bottomless pit at the end of it, or the bottom of it, that will insta-kill you. But if you, like, climbing wall your, your way down, the ball hangs down, the ball will get deleted by the insta-kill zone.
+
+820
+01:27:35.690 --> 01:27:41.259
+Andrew Harshman: freeing you. Also, crucially, the reason why for the ball and chain, so you use the ball and chain to, like.
+
+821
+01:27:41.280 --> 01:27:58.750
+Scott Burger: break open the Moai head, so that way you don't need to go to the black market and get the onk to sacrifice yourself, you see. You break open the Moai head using this ball and chain. You dip it down into, like, the kill zone. You dip your ball into the kill zone? Yep.
+
+822
+01:27:58.750 --> 01:28:00.390
+Woody: In order to move the eggplant.
+
+823
+01:28:00.390 --> 01:28:03.970
+Scott Burger: Yes, and then, you grab your eggplant, you, …
+
+824
+01:28:04.370 --> 01:28:22.090
+Scott Burger: I may be missing a step here in my Google Doc, but, you, you, get the head jet through the, through the Moai head, which allows you to carry stuff through subsequent levels. You then go all the stuff through the temple to get the, the, …
+
+825
+01:28:22.150 --> 01:28:41.850
+Scott Burger: the Book of the Dead, the… the Scepter, also, and you're juggling all these things, you… you finally get to Hell, you're, like, cradling this fragile eggplant all the way through this, like, menagerie of chaos that we've described so far. And then you get to King Yama.
+
+826
+01:28:42.390 --> 01:28:46.519
+Scott Burger: Bananasaurus Rex did this with 1 HP remaining.
+
+827
+01:28:47.110 --> 01:29:03.339
+Scott Burger: throws it at King Yama's face, turns him into a giant purple eggplant, and King Yama's, like, frozen. He can't throw any more spikes and energy balls at you, just waiting for that whip to just come open and just slice his big, juicy eggplant head open.
+
+828
+01:29:03.970 --> 01:29:17.590
+Scott Burger: He did it, he posted it to YouTube, and, like, the… at the time, when it was called Twitter, folk, ask your grandpa again, Twitter and YouTube just exploded, of, like, this was not possible, this was something that the developers said, like.
+
+829
+01:29:17.590 --> 01:29:36.059
+Scott Burger: the eggplant run can't be done, they denied the existence of Purple King Yama, even though they left in the mechanic of, of the ball and chain, blowing up the moe head, which was unintentional, but Derek Yu saw it and was like, you know what, that's good, that's, like, so cool, I'm just gonna leave it in there. …
+
+830
+01:29:36.190 --> 01:29:50.059
+Scott Burger: And, yeah, like, that has, like, entered the lore of, like, on the level of, like, those Half-Life 2 gnome runs, where people carry the gnome through the entirety of Half-Life 2 to put it in the spaceship, or the rocket at the very end, it's like….
+
+831
+01:29:50.060 --> 01:29:50.380
+Colin: Damn.
+
+832
+01:29:50.380 --> 01:29:50.970
+Andrew Harshman: But I mean….
+
+833
+01:29:50.970 --> 01:30:04.899
+Colin: Describing doing that run sounded like describing a dream. Like, a child describing a dream, and then the ball, and the lava, and then he climbed up, and then King Yama, and….
+
+834
+01:30:04.900 --> 01:30:05.750
+Andrew Harshman: Absolutely.
+
+835
+01:30:06.290 --> 01:30:12.999
+Andrew Harshman: Yeah, that's, I… Scott, I cannot think of a more difficult….
+
+836
+01:30:13.000 --> 01:30:15.299
+Woody: Optional challenge mode, either.
+
+837
+01:30:16.010 --> 01:30:19.180
+Andrew Harshman: Very impressive. And the name of that player is what again?
+
+838
+01:30:19.410 --> 01:30:21.330
+Woody: Oh, Bananasaurus Rex.
+
+839
+01:30:21.330 --> 01:30:25.869
+Andrew Harshman: Manasaurus Rex, what a hero. And also, what a hero dev for not patching out
+
+840
+01:30:26.570 --> 01:30:30.870
+Andrew Harshman: That, the ability to destroy the head with, the ball and chain.
+
+841
+01:30:32.870 --> 01:30:36.280
+Woody: Well, that, I mean, that is kind of the, …
+
+842
+01:30:36.400 --> 01:30:53.819
+Woody: I don't know, that feels like once that has happened, like, you've reached the outer limits of Spelunky. You have spelunked all that could be spelunked, but, like, I'm still perfectly content just, like, making runs of this game and seeing what kind of stuff happens, and, like, I'm gonna have a good time. I…
+
+843
+01:30:54.320 --> 01:30:58.479
+Woody: Are you guys, at some future date, gonna talk Spelunky 2?
+
+844
+01:30:58.690 --> 01:31:08.020
+Scott Burger: You know, we've gotten more requests for Spelunky 2 than 1, but I thought it would make more sense for us to cover for the big 75th episode.
+
+845
+01:31:08.020 --> 01:31:08.410
+Andrew Harshman: Oh, yeah.
+
+846
+01:31:08.410 --> 01:31:20.989
+Scott Burger: Avaganza, and a listener request episode to do, like, obviously doing Spelunky 1 first. Yeah. Spelunky 2, like, from what I've dabbled with it, it feels very… it's almost like in a, …
+
+847
+01:31:21.430 --> 01:31:32.179
+Scott Burger: Like, if this one that we're talking about right now, Spelunky HD, is the remaster of 2008.1, Spelunky 2 feels like the remaster of the Spelunky HD version.
+
+848
+01:31:33.180 --> 01:31:34.089
+Scott Burger: I… Does that make sense?
+
+849
+01:31:34.090 --> 01:31:53.520
+Woody: Yeah, I was super hyped for Spelunky 2, when it was coming out, because I was all in on Spelunky, and I have never… I have never quite clicked on it. I have, I think, you know, 12 hours in it. I think I've made it to the third world. It's just…
+
+850
+01:31:53.840 --> 01:31:54.550
+Woody: it…
+
+851
+01:31:54.580 --> 01:32:06.539
+Woody: the praise that I leveled on Spelunky about, like, feeling like it doesn't have a bunch of extra rules and stuff you have to figure out, like, Spelunky 2 feels like it has
+
+852
+01:32:06.570 --> 01:32:17.289
+Woody: more rules, and more stuff you have to figure out, and stuff that kind of just exists in the game to add content. And I'm willing to be wrong, now that…
+
+853
+01:32:17.630 --> 01:32:19.299
+Woody: Talking, or …
+
+854
+01:32:19.460 --> 01:32:32.490
+Woody: being on this podcast has reminded me that I love Spelunky, and, like, so maybe I will make another attempt to try and crack through that Spelunky 2 wall, because I'm confident I can get there. It's also…
+
+855
+01:32:32.520 --> 01:32:43.840
+Woody: It's also weird, because I was at the point where I'm like, oh, I can beat original Spelunky, like, 70% of my runs, and then, like, I started playing Spelunky 2, and I'm like, oh, I'm just dying in the first world every time again.
+
+856
+01:32:43.840 --> 01:32:45.779
+Scott Burger: It's like riding a bike again for the first time.
+
+857
+01:32:46.780 --> 01:33:01.810
+Woody: Anyway, I'm happy to talk Spelunky 2 for whenever you guys get there, and Colin is, like… Colin's, like, … you know the cartoon dust cloud? Where, like, someone runs away, and all that's left is the dust cloud? That'll be Colin when we talk Spelunky 2.
+
+858
+01:33:01.980 --> 01:33:02.480
+Scott Burger: I have….
+
+859
+01:33:02.480 --> 01:33:03.570
+Andrew Harshman: Possibly.
+
+860
+01:33:03.570 --> 01:33:04.369
+Scott Burger: I have in mind.
+
+861
+01:33:04.370 --> 01:33:07.029
+Colin: Or maybe that'll be the one, maybe it'll just… just…
+
+862
+01:33:07.780 --> 01:33:12.350
+Colin: Oh, yeah. I mean, I appreciate Splunky, this game. I….
+
+863
+01:33:12.350 --> 01:33:13.740
+Andrew Harshman: What do you appreciate about it?
+
+864
+01:33:14.960 --> 01:33:18.129
+Colin: I see why people might like it.
+
+865
+01:33:18.130 --> 01:33:19.220
+Andrew Harshman: Oh, okay.
+
+866
+01:33:19.220 --> 01:33:24.960
+Colin: It does have a lot of systems that seem to interact very well. It's got…
+
+867
+01:33:25.220 --> 01:33:27.450
+Colin: an elegance to it.
+
+868
+01:33:27.800 --> 01:33:28.740
+Colin: ….
+
+869
+01:33:29.290 --> 01:33:29.800
+Andrew Harshman: Yes.
+
+870
+01:33:29.800 --> 01:33:30.460
+Colin: It's just not….
+
+871
+01:33:30.460 --> 01:33:31.530
+Andrew Harshman: Elegant design.
+
+872
+01:33:31.530 --> 01:33:32.830
+Colin: for me.
+
+873
+01:33:33.130 --> 01:33:35.830
+Colin: what I'm looking for when I'm playing a video game.
+
+874
+01:33:36.030 --> 01:33:37.120
+Colin: For the most part.
+
+875
+01:33:37.120 --> 01:33:56.670
+Scott Burger: And speaking of, before we jump into ratings and similar game stuff here, some community correspondence here. So I put the question out, of, like, you know, what is, what are people's thoughts about Spelunky these days, and got some good write-ins here. So, I'll bounce back and forth between, between these, but, …
+
+876
+01:33:56.670 --> 01:34:02.409
+Scott Burger: One from, CoolUsername1111, says that,
+
+877
+01:34:02.410 --> 01:34:02.979
+Andrew Harshman: That is cool.
+
+878
+01:34:03.410 --> 01:34:10.149
+Scott Burger: Gold standard for the genre. Every death feels simultaneously utter bullshit, and 100% my fault.
+
+879
+01:34:13.130 --> 01:34:32.620
+Scott Burger: This one from, with a bunch of threes and zeros in his name, but, RetroGamer83, says, I never liked the game. When I play a roguelike slash light, I'm looking for crazy builds and game-breaking combos. Spelunky never gave me those things. It reminded me more of a 2D Souls-like than a roguelike.
+
+880
+01:34:33.440 --> 01:34:49.899
+Woody: I think that you… I mean, the game-breaking com… I think there are ways to achieve game-breaking combos. They probably require a level of attention and depth that, you know, is beyond just, like, popping the game in. Like, you can do weird stuff with, like, the teleporter button.
+
+881
+01:34:50.050 --> 01:34:54.240
+Woody: In terms of, like, blasting through levels in weird ways, and, like.
+
+882
+01:34:54.640 --> 01:34:58.269
+Woody: The jetpack and shotgun is as broken as you're gonna get.
+
+883
+01:34:58.270 --> 01:35:00.930
+Scott Burger: But it's not like the vampire survivals… survive.
+
+884
+01:35:00.930 --> 01:35:13.409
+Woody: No, you're right, it doesn't have that same visceral feeling. Like, as useful and powerful as you feel with the shotgun and jetpack and Spelunky, you know that, like, one random beam or spike is still gonna kill you.
+
+885
+01:35:13.410 --> 01:35:15.400
+Andrew Harshman: Some random spike. Yeah, it's true.
+
+886
+01:35:15.400 --> 01:35:22.199
+Scott Burger: This one's a little longer, but I'll end with a shorter one. One from Five Dozen Whales.
+
+887
+01:35:22.200 --> 01:35:36.360
+Scott Burger: It says, Spelunky nails what I think makes a good roguelike. Beginners die every 30 seconds, experts can win streaks. It's hard, but rarely unfair. When you start, it feels clunky, the delayed whip and bombs seem badly designed, nailing jumps feels impossible, but…
+
+888
+01:35:36.360 --> 01:35:54.010
+Scott Burger: But as you get practice under your belt, you realize that it's extremely responsive. The controls are some of the best in any platformer. You start feeling like a ninja, bouncing off of enemies' heads into back whips and throwing bombs perfectly, and yeah, you do get spelunked occasionally and die in a way that's not your fault, or that was only barely avoidable.
+
+889
+01:35:54.010 --> 01:36:17.579
+Scott Burger: But when that happens, it's usually funny. It gives you a story to tell or a clip to share. You never feel defeated, you feel eager to jump back in. A lot of hard platformers are simply clunky and unfair. They're hard because there's a skill ceiling, not a skill curve. A lot of roguelikes rely too much or too little on luck. Experts might not fare much better than beginners. Spelunky is smooth, fair, and has just enough luck.
+
+890
+01:36:17.580 --> 01:36:18.270
+Scott Burger: Luck.
+
+891
+01:36:19.130 --> 01:36:24.350
+Andrew Harshman: I don't agree with all of that, but I do absolutely agree with the controls. This…
+
+892
+01:36:25.080 --> 01:36:39.260
+Andrew Harshman: game has some tight controls, and they're difficult to master, but they are more or less predictable and, pretty responsive, and I think that is…
+
+893
+01:36:39.310 --> 01:36:46.569
+Andrew Harshman: Maybe one of the first challenges in this game is… is mastering just moving around, and jumping around, and ledge grabbing, and…
+
+894
+01:36:46.800 --> 01:36:52.419
+Andrew Harshman: When you get a handle on it, it feels pretty good.
+
+895
+01:36:52.990 --> 01:37:16.690
+Scott Burger: And I'll say from the clipping perspective, like, I was doing the daily challenge run every day for the past two weeks, just to, like, let's just see what happens. Let's… I'm not going for a win here, I'm just interested to see what happens. And it has gotten some pretty clippable moments between, missing a bat by one frame, and then getting killed by the subsequent bat, like, 2 seconds later. It's given me, like…
+
+896
+01:37:16.690 --> 01:37:24.720
+Scott Burger: some… some very, Type 2 fun clips to share of, like, Getting beaned by, …
+
+897
+01:37:24.770 --> 01:37:44.720
+Scott Burger: impossible-to-kill, shopkeeps, or, like, cool, like, ghost baiting and dodging and stuff, and, like, whenever I'm sharing a clip in the Discord, and, like, you know, Andrew and Colin and maybe Will is watching, who knows, and, you know, you're seeing, like, okay, the level's starting, this is gonna end badly somehow.
+
+898
+01:37:44.720 --> 01:37:51.050
+Scott Burger: But how badly is it gonna end? And I was watching those clips myself, like, back and forth, like, the next day, and like.
+
+899
+01:37:51.060 --> 01:37:57.899
+Scott Burger: Okay, yeah, I could have avoided that, like, that was pretty, pretty well telegraphed. There was maybe one that was kind of bullshit, but….
+
+900
+01:37:57.900 --> 01:38:01.860
+Andrew Harshman: Yeah, there's some of those clips where it's like, you have to do a little bit of CSI, work.
+
+901
+01:38:02.310 --> 01:38:13.710
+Andrew Harshman: to, like, figure out, alright, what actually killed you in this case? And there's always… there's always a logical explanation, but sometimes…
+
+902
+01:38:13.890 --> 01:38:17.510
+Andrew Harshman: in the moment, it's like, man, I don't even know what got me.
+
+903
+01:38:18.510 --> 01:38:29.360
+Scott Burger: And this last, comment from, Fishman465 says, IMO, the game requires the ability to laugh at your own deaths.
+
+904
+01:38:30.620 --> 01:38:34.179
+Andrew Harshman: Well, that comes easier to some than others.
+
+905
+01:38:34.630 --> 01:38:54.329
+Andrew Harshman: Yes, I think everyone would do well to remember their breathing exercises, and to remain zen, while playing this game. And not to yell too loud, lest you bother your significant other. Hey, cool username, RetroGamer, Thousandwhales fishman.
+
+906
+01:38:54.820 --> 01:38:58.989
+Andrew Harshman: Thank you for your input. Much appreciated. Thank you for weighing in.
+
+907
+01:38:59.340 --> 01:39:05.639
+Woody: I do think a weight is lifted off of the player once you make a successful run. Like, once you get through
+
+908
+01:39:05.640 --> 01:39:22.119
+Woody: and defeat Olmec once, you're like, okay, you can either be done with it, or you can be like, okay, now I'm just gonna play, and not get upset, and just, like, see what happens, and see what I want to explore, and, like, engage with the weird secrets of this game. …
+
+909
+01:39:22.390 --> 01:39:28.870
+Woody: And not… yeah, because I've… I've beaten it. I can at least feel… I can feel content that I have made it through.
+
+910
+01:39:30.760 --> 01:39:45.820
+Scott Burger: Yeah, I think the, the standard run of this game is fun. There's, … like, Woody and I were up past midnight, I guess technically today, playing, playing some of the co-op, and, like, it, you know, the co-op isn't… isn't great, but… or, well, the…
+
+911
+01:39:45.820 --> 01:39:52.779
+Scott Burger: Let me rephrase, the co-op standard adventure mode is kind of meh, like, the screen sharing feels very.
+
+912
+01:39:52.780 --> 01:39:57.989
+Woody: Right, it's not split screen, so you essentially have to follow one… it's the, the tail.
+
+913
+01:39:57.990 --> 01:39:58.640
+Andrew Harshman: Central.
+
+914
+01:39:58.640 --> 01:40:02.849
+Woody: One character has to play as Tails, where they're constantly left behind.
+
+915
+01:40:03.210 --> 01:40:05.110
+Andrew Harshman: Speaking of Battletoads, ….
+
+916
+01:40:05.110 --> 01:40:12.299
+Woody: Oh, yeah. It is also… it is the Battletoad symptom of, if you play the two-player game, the game is way harder. Yeah.
+
+917
+01:40:12.660 --> 01:40:23.810
+Scott Burger: Yeah, and like Woody, you were pointing out, when I was just about to pick up the, the Anubis Scepter, you're like, maybe you don't want to do that, because as soon as you use it, it's gonna attack me, and like.
+
+918
+01:40:23.810 --> 01:40:37.389
+Scott Burger: oh, okay, that, like, I was simultaneously disappointed, and I'm like, wow, okay, yeah, that does make sense from the game design standpoint of, like, it's gonna home in on stuff, and, like, Woody's character is stuff.
+
+919
+01:40:38.540 --> 01:40:43.390
+Woody: Thanks, Scott! That's a really nice thing you said to me. Woody's character is stuff.
+
+920
+01:40:43.390 --> 01:40:44.180
+Andrew Harshman: Oh my….
+
+921
+01:40:44.250 --> 01:40:47.509
+Scott Burger: But, but, but when you found….
+
+922
+01:40:47.570 --> 01:40:53.720
+Andrew Harshman: the golden head statue. Which one of you, wore it? I mean, helmet. I screwed up the joke! Anyway, ….
+
+923
+01:40:53.720 --> 01:40:54.489
+Scott Burger: Head and helmet.
+
+924
+01:40:54.490 --> 01:40:54.920
+Andrew Harshman: disappointed.
+
+925
+01:40:54.920 --> 01:40:55.309
+Woody: the head.
+
+926
+01:40:55.310 --> 01:40:57.929
+Andrew Harshman: here, that it's not…
+
+927
+01:40:58.110 --> 01:41:10.179
+Andrew Harshman: both players don't have their own screen. I thought just all the players would be running around on their own instance, but sharing the level, and that sounded like a lot of fun! But the fact that you're on the same… you're stuck on the same screen, that kind of….
+
+928
+01:41:10.180 --> 01:41:18.189
+Scott Burger: I think the game would be way easier in that sense, and probably, like, that might be, like, a lot harder to code, so I can't really fault a 2012 game for not having.
+
+929
+01:41:18.190 --> 01:41:21.979
+Andrew Harshman: Oh, sure, it's just a little disappointing to hear, I guess.
+
+930
+01:41:21.980 --> 01:41:22.470
+Scott Burger: Yeah.
+
+931
+01:41:22.470 --> 01:41:29.209
+Andrew Harshman: I thought it could be a… potentially a very good co-op game. I wonder if Spelunky 2 has a….
+
+932
+01:41:29.210 --> 01:41:32.990
+Woody: 2 has more in-depth co-op features. Okay.
+
+933
+01:41:32.990 --> 01:41:37.270
+Andrew Harshman: Like, what I'm imagining. Right, right, gotcha, gotcha, gotcha. But, what do you, what do you and I….
+
+934
+01:41:37.270 --> 01:41:52.549
+Scott Burger: we're having a good time in the deathmatch mode, upsetting 99 bombs, and how many wins we could get in, I don't know, 5 minutes or something. It was, like, a good zany, like, you're having friends over for a pizza party, just throw this on, and they're just gonna bomb each other and have fun.
+
+935
+01:41:52.550 --> 01:41:53.500
+Woody: Yeah, it was fun.
+
+936
+01:41:53.500 --> 01:41:53.970
+Scott Burger: Yeah.
+
+937
+01:41:53.970 --> 01:42:00.919
+Andrew Harshman: Alright, I can dig it. And is there… real quick, is there a mechanic for spawning one player back in?
+
+938
+01:42:01.340 --> 01:42:07.330
+Woody: Yes. When you play the co-op, at the start of every level, there will be a coffin.
+
+939
+01:42:07.500 --> 01:42:20.919
+Woody: Where if somebody has died in a previous level, they will get reanimated as a ghost, and they can kind of blow things around, but then when you get to the start of a new level and open the coffin, their character will come back.
+
+940
+01:42:20.920 --> 01:42:23.500
+Andrew Harshman: Okay. Duly noted.
+
+941
+01:42:26.200 --> 01:42:28.440
+Woody: Oh, do you have any more to spelunk, Scott?
+
+942
+01:42:28.810 --> 01:42:30.960
+Scott Burger: That's a great question, I think we've kind of….
+
+943
+01:42:30.960 --> 01:42:36.020
+Woody: touched on all of the things in my 28 pages of show notes here. Got good music.
+
+944
+01:42:36.300 --> 01:42:36.940
+Scott Burger: ….
+
+945
+01:42:37.730 --> 01:42:38.380
+Andrew Harshman: Music, music.
+
+946
+01:42:38.380 --> 01:42:39.739
+Scott Burger: Very good. This is really good.
+
+947
+01:42:39.930 --> 01:42:41.169
+Andrew Harshman: Or your music, even, even.
+
+948
+01:42:41.170 --> 01:42:45.689
+Colin: The music is something that I can say unequivocally is… I, I, I…
+
+949
+01:42:45.790 --> 01:42:49.530
+Colin: I thought it was a little repetitive at first, but then I realized that I was wrong.
+
+950
+01:42:50.470 --> 01:42:58.639
+Andrew Harshman: I really did not like the saxophones in the tutorial, but the rest of the music, I think, is great.
+
+951
+01:42:59.890 --> 01:43:19.649
+Scott Burger: Yeah, … really good work here by Eric. I'm just gonna pronounce his name differently every time. I'll just call him Eric, by Eric, who, again, for UFO50, like, if he doesn't win, like, an actual, like, Emmy or something, or, like, Oscar-level thing for, like, the amount of, like.
+
+952
+01:43:19.650 --> 01:43:22.890
+Scott Burger: sound design that he did for UFO 50. I'm gonna be real mad.
+
+953
+01:43:23.770 --> 01:43:29.340
+Scott Burger: And, yeah, like… As mad as a shopkeep? As mad as a shopkeeper, of course.
+
+954
+01:43:29.340 --> 01:43:30.809
+Andrew Harshman: Bouncing off the wall, hopping mad.
+
+955
+01:43:30.810 --> 01:43:37.169
+Scott Burger: Yeah, I think, when we do get to that game, obviously we'll have Woody back on there, because you've beaten how many of the.
+
+956
+01:43:37.170 --> 01:43:46.670
+Woody: I'm currently on 40 of 50 golds in, UFO 50, but, you know, only about maybe 10 of those games count as roguelikes.
+
+957
+01:43:46.830 --> 01:43:54.019
+Scott Burger: True, yeah, so we wouldn't be playing 50 games. Okay. We would be, like, paring it down, obviously, to what's appropriate here, but….
+
+958
+01:43:54.020 --> 01:43:54.440
+Andrew Harshman: Obviously.
+
+959
+01:43:54.440 --> 01:43:58.239
+Scott Burger: Yeah, stay tuned for sure. We talked shortcuts, yeah, I think…
+
+960
+01:43:58.460 --> 01:44:09.719
+Scott Burger: … yeah. Do we… do we wanna spelunk into the dark, bottomless pit, of numbers that we've arbitrarily slapped onto this game?
+
+961
+01:44:09.720 --> 01:44:10.370
+Andrew Harshman: Hell yeah.
+
+962
+01:44:10.370 --> 01:44:14.670
+Woody: Yeah, let's do it. We're already in, like… this podcast has been the length of, ….
+
+963
+01:44:14.690 --> 01:44:18.690
+Scott Burger: What, 15 spelunky runs at this point? Yeah.
+
+964
+01:44:18.690 --> 01:44:24.969
+Andrew Harshman: Yeah, I could've died, like, 20 times in this… more. I did the math wrong, anyway.
+
+965
+01:44:24.970 --> 01:44:32.650
+Colin: I'll pick on Colin first, because I can tell he's getting sleepy from travel and podcasting from on the road. Yeah, I'm in a hotel room right now.
+
+966
+01:44:32.650 --> 01:44:33.529
+Andrew Harshman: What a guy.
+
+967
+01:44:33.530 --> 01:44:36.710
+Colin: I'm in Central Time, so it's 10.40 for me.
+
+968
+01:44:36.710 --> 01:44:37.300
+Andrew Harshman: Chee!
+
+969
+01:44:37.890 --> 01:44:38.630
+Colin: ….
+
+970
+01:44:39.180 --> 01:44:40.400
+Andrew Harshman: Shh, don't dox yourself.
+
+971
+01:44:41.550 --> 01:44:44.249
+Colin: Yes. All of Central… Central Time America….
+
+972
+01:44:44.250 --> 01:44:46.059
+Andrew Harshman: Yeah, they know what time zone you're in.
+
+973
+01:44:46.690 --> 01:44:56.800
+Colin: … So, I feel a little bad. I'm giving this game a 5.7. … I feel like…
+
+974
+01:44:57.470 --> 01:45:00.009
+Colin: There is a lot about this game that is good.
+
+975
+01:45:00.420 --> 01:45:02.540
+Colin: I understand why people like it.
+
+976
+01:45:03.920 --> 01:45:08.010
+Colin: But I didn't… Enjoy playing it at all.
+
+977
+01:45:08.010 --> 01:45:08.560
+Woody: Yeah.
+
+978
+01:45:08.830 --> 01:45:16.979
+Colin: And… I felt very frustrated while I was playing it, and at a certain point, it was like.
+
+979
+01:45:17.310 --> 01:45:24.540
+Colin: I… I was, like, my mouse was hovering over it, like, the next day, and I was like, this feels like homework, and I want to play.
+
+980
+01:45:24.540 --> 01:45:26.770
+Woody: video game instead, and so I….
+
+981
+01:45:26.880 --> 01:45:45.610
+Colin: played, like, Factorio or something, which is literally a game about… is homework the game. So, I think that's a bad sign for it. There's a lot of stuff that it has… I think all of the aesthetics in it are pretty… pretty excellent, and they hold up really well. Like, it's got…
+
+982
+01:45:46.080 --> 01:45:50.139
+Colin: The graphics of it are timeless. The music of it is timeless.
+
+983
+01:45:50.360 --> 01:45:53.209
+Colin: … If you like
+
+984
+01:45:53.350 --> 01:46:01.579
+Colin: difficult games, I would still recommend it to you. If you don't like Dark Souls or hard platformers, I would not.
+
+985
+01:46:01.860 --> 01:46:02.460
+Woody: Yep.
+
+986
+01:46:02.820 --> 01:46:05.380
+Woody: I think… I think that's fair. I think this game…
+
+987
+01:46:06.130 --> 01:46:11.469
+Woody: You know, it is what… this is not a game that attempts to be for everyone.
+
+988
+01:46:11.470 --> 01:46:20.829
+Scott Burger: Well, yeah, crucially, Woody, before you so excitedly jump into your review, let's have Andrew go with his, and then I'll go next. We'll always leave the special guest with the final word.
+
+989
+01:46:21.610 --> 01:46:25.380
+Andrew Harshman: Yes, we want, we want to make sure that, ….
+
+990
+01:46:25.740 --> 01:46:26.880
+Scott Burger: We end on a high note.
+
+991
+01:46:26.880 --> 01:46:40.630
+Andrew Harshman: Someone with, the proper resume, gets to, say, have the final, mention about it. Okay, well, hey, Colin, let me tell ya, you gave this game a 5.7. If you just stuck with it.
+
+992
+01:46:40.780 --> 01:46:50.280
+Andrew Harshman: for another, 21 and a half… no, 22 and a half hours, you might have rated it as high as 5.73.
+
+993
+01:46:50.280 --> 01:46:55.710
+Woody: Now, Woody, you haven't been on in a while, but… so you might have forgotten that.
+
+994
+01:46:55.710 --> 01:46:57.690
+Scott Burger: My co-host here….
+
+995
+01:46:57.690 --> 01:47:09.509
+Andrew Harshman: They, they really hoodwinked me. When I first joined, we had one ranking system, and I was like, well, whatever, it's your guys' show, I guess I'll do it, and I started numbering and moving.
+
+996
+01:47:09.510 --> 01:47:12.239
+Scott Burger: These are also edited out from every episode.
+
+997
+01:47:12.240 --> 01:47:21.010
+Andrew Harshman: With these wacky, wild scores, so no one can get mad at me, because, they, midway through my tenure here, completely changed the ranking system, and now my ranking….
+
+998
+01:47:21.010 --> 01:47:23.190
+Woody: They're changing again next week, by the way.
+
+999
+01:47:23.190 --> 01:47:41.339
+Andrew Harshman: So, anyway, so, so I just figured I'd want to catch you up, Woody. So, scoring 5.73 points, on the Andrew scale, totally arbitrary and, and, you know, very, you know, to each their own scores, pretty respectable, right, right ahead of Dysomancer.
+
+1000
+01:47:41.410 --> 01:47:44.509
+Andrew Harshman: Right behind Barony.
+
+1001
+01:47:44.700 --> 01:47:50.300
+Andrew Harshman: … And to me, Barony, what it came down to.
+
+1002
+01:47:50.620 --> 01:47:56.049
+Andrew Harshman: For my, ranking decision was… the traps.
+
+1003
+01:47:56.440 --> 01:48:05.629
+Andrew Harshman: We complained about the boulder traps in Barony, which of course is a first-person, dungeon, dungeon crawler. …
+
+1004
+01:48:06.030 --> 01:48:08.510
+Andrew Harshman: The boulder? In Barney? Pretty bullshit.
+
+1005
+01:48:09.280 --> 01:48:10.480
+Andrew Harshman: Somehow?
+
+1006
+01:48:10.670 --> 01:48:13.369
+Andrew Harshman: The traps in this game felt…
+
+1007
+01:48:13.810 --> 01:48:23.419
+Andrew Harshman: much worse from experience. And the key difference, how I finally came down to it's like, well, I'm gonna put it, I'm gonna put it in here, does Spelunky go ahead.
+
+1008
+01:48:23.560 --> 01:48:25.530
+Andrew Harshman: Or, behind Barony.
+
+1009
+01:48:26.060 --> 01:48:28.700
+Andrew Harshman: boils down to this. Barony?
+
+1010
+01:48:29.660 --> 01:48:46.090
+Andrew Harshman: Always, often laughing when I died. Laughing with delight. Whereas with Spelunky, I was almost always enraged, as my partner can attest to. And that is very much, you know, a personal and subjective thing, of course.
+
+1011
+01:48:46.090 --> 01:48:46.540
+Woody: Sure.
+
+1012
+01:48:46.540 --> 01:48:49.989
+Andrew Harshman: And we didn't even… we hardly talked about
+
+1013
+01:48:50.200 --> 01:49:00.970
+Andrew Harshman: The Ghost. And I do want to mention the Ghost really quickly. Now, listeners, if you haven't played Spelunky, you might think, golly, this sounds like a dangerous game world. Sounds like there's a lot of pitfalls, literal and otherwise.
+
+1014
+01:49:01.710 --> 01:49:10.319
+Andrew Harshman: Just be careful! Just take your time! Slow down! Well, guess what? If you play too slowly.
+
+1015
+01:49:10.750 --> 01:49:16.140
+Andrew Harshman: A giant fuck-off spectre of death appears
+
+1016
+01:49:17.070 --> 01:49:20.599
+Andrew Harshman: From one of the sides of the screen, and just floats through the level.
+
+1017
+01:49:20.680 --> 01:49:24.959
+Andrew Harshman: Threatening to instigib you the moment you make contact with its
+
+1018
+01:49:24.960 --> 01:49:43.929
+Andrew Harshman: Ample hitbox. Ample, I tell you. Now, there were a few instances where I outran the ghost, and I did something really cool and clutch, where, like, oh, I was running along with, like, the damsel, or the himbo, or the puppers, and I was juggling items, and I also had the idol, and, like.
+
+1019
+01:49:43.930 --> 01:49:45.430
+Andrew Harshman: That felt really good.
+
+1020
+01:49:45.680 --> 01:49:54.000
+Andrew Harshman: But… a game like Barony was, like, full of moments, exciting, fun, story moments like that.
+
+1021
+01:49:54.010 --> 01:50:08.700
+Andrew Harshman: And for me personally, for a roguelike to be, really special, there needs to be an emerging story and excitement. And I did not come away from Spelunky with that many stories, aside from how,
+
+1022
+01:50:08.750 --> 01:50:10.809
+Andrew Harshman: Flummoxed and angered.
+
+1023
+01:50:11.010 --> 01:50:12.379
+Andrew Harshman: I was by it.
+
+1024
+01:50:12.700 --> 01:50:16.379
+Andrew Harshman: But I'm gonna keep playing it, because some part of me finds it fun. I don't know.
+
+1025
+01:50:18.000 --> 01:50:23.140
+Scott Burger: Well, I'm going to jump up the rankings scale here, giving… and I…
+
+1026
+01:50:23.340 --> 01:50:26.370
+Scott Burger: I was coming into this episode thinking, like, okay.
+
+1027
+01:50:26.570 --> 01:50:41.140
+Scott Burger: we're putting it on the schedule, I kind of have a little bit of an axe to grind of, like, oh, maybe Spelunky really isn't as good as I remember, or, like, maybe it's not as good as, like, people think it is. So I kind of came in, like, a little skeptical. I'm like, you know, it's kind of bullshit, I don't know. …
+
+1028
+01:50:41.190 --> 01:50:55.339
+Scott Burger: like, I was playing the daily challenge, like, and I was looking forward to it, like, every day, because I wanted to see, A, could I beat Woody's high score? B, like, how far could I get? Like, could I do better than I was before? I was playing it very much with, like, this arcade mentality, …
+
+1029
+01:50:55.340 --> 01:51:01.919
+Scott Burger: And it was really fun! So, for me, Spelunky's landing on my rankings at a 9.1,
+
+1030
+01:51:01.920 --> 01:51:13.679
+Scott Burger: Just behind Inscription and just ahead of Vampire Survivors, in good company, because there's, like, a lot of other really titans of that genre up there. And I think it deserves to be. I think it's… it has…
+
+1031
+01:51:13.680 --> 01:51:25.280
+Scott Burger: the legacy, I think it has the standing power, … I think it is, like… like we were talking about earlier, for, like, the scope and size of, like, what it is and what's in it, it just…
+
+1032
+01:51:25.360 --> 01:51:44.620
+Scott Burger: everything feels so complete, and I feel like there's nothing missing that wouldn't add just more cruft to it. Some bad things, just to nitpick it a little bit, these are all, like, little minor things, but, like, you can't pause mid-run. I guess, like, the Steam Deck kind of solves that, but, being, like, if you've got a really good run going, you're like, oh shit, I gotta go to work.
+
+1033
+01:51:44.620 --> 01:51:46.999
+Woody: Oh, you mean you can't, like, exit and come.
+
+1034
+01:51:47.000 --> 01:51:48.100
+Scott Burger: Like, save and quit, yeah.
+
+1035
+01:51:48.100 --> 01:51:52.130
+Woody: I thought you meant, like, you can't, like, press start and pause the game.
+
+1036
+01:51:52.440 --> 01:52:00.019
+Scott Burger: No, yeah, you… boy, I sure hope they had a pause button to Spelunky 2, wouldn't that be great? The learning curve… Well, it's an old game, Scott.
+
+1037
+01:52:00.500 --> 01:52:11.669
+Scott Burger: Learning curve, I think, is… is really steep. Sometimes it, … it, like, kind of skirts the line between, like, Nintendo hard and Nintendo bullshit sometimes. Sure. …
+
+1038
+01:52:11.730 --> 01:52:29.870
+Scott Burger: the… the shortcuts, I think, are an interesting system. We didn't really talk much about this, but, like, the shortcuts, like, you… when you end a level, you, like, you pay off the tunnel man in subsequent steps, like, I think it does a good job of teaching you how to progress through the game, …
+
+1039
+01:52:29.930 --> 01:52:42.779
+Scott Burger: I feel like if there was… so Noita has this, like, daily challenge mode of, like, it just puts you in a random part of the game with random equipment, go to town. And, like, I think that's a really great way of learning that really complicated game. I think if…
+
+1040
+01:52:42.780 --> 01:52:55.889
+Scott Burger: Spelinky had something similar. Again, it's 5 years earlier, so it's hard to… hard to fault it, but I think that would help a lot with, like, okay, what about this situation? What are you gonna do? What about this one? Without having to go through the… the, …
+
+1041
+01:52:56.240 --> 01:53:16.070
+Scott Burger: Rube Goldberg machine of death to get there. No cloud saves is kind of annoying, and having to play the tutorial again. This game looks awful on a 1440p monitor. It is a 720p game, it scales up, and again, you can't really fault it from 2012, but at the same time, like.
+
+1042
+01:53:16.530 --> 01:53:30.190
+Scott Burger: it looks really, really good on the Steam Deck. If you're holding it at arm's length on a small screen, if you are, like, looking at it in all of its hideous glory on a 1440p monitor.
+
+1043
+01:53:30.190 --> 01:53:39.290
+Scott Burger: a foot away from your face, you kind of start to see the wrinkles. But you know what? Wrinkles are fine. We're not out here to Botox everything to a smooth bowling ball finish.
+
+1044
+01:53:39.290 --> 01:53:56.700
+Scott Burger: Spelunky, it kicked off the roguelike Renaissance. We have all of the great games on this program that we've done, I think, owe it to Spelunky to kick open that door and start that. There's just enough branching paths to, like, keep gameplay fresh. …
+
+1045
+01:53:56.930 --> 01:54:12.629
+Scott Burger: it's so smooth and precise, like, the ninja comment about, like, jumping around feeling like a ninja, 100%. And I think this is a… overall, a punishing but fair game. I often think sometimes if, like, if I opened up, like, a roguelike arcade, like, business.
+
+1046
+01:54:13.490 --> 01:54:21.540
+Scott Burger: This would be, like, the first thing you see when you walk in. This would be front and center, this… like, welcome to roguelikes. They're tough.
+
+1047
+01:54:21.540 --> 01:54:37.650
+Scott Burger: They're hard, you're gonna dump a bunch of quarters, you're gonna dump a bunch of time into beating this game, but it's gonna be like that Battletoads moment of victory when you do so, and it's gonna be… feel real rewarding, and I think overall, it's still fun to revisit 10 plus years later. So for me, a 9.1.
+
+1048
+01:54:38.460 --> 01:54:40.540
+Scott Burger: Now, Woody, … Is it?
+
+1049
+01:54:40.700 --> 01:54:46.690
+Andrew Harshman: Is it, one of the definitive video games? We're about to find out. Woody?
+
+1050
+01:54:46.830 --> 01:55:03.900
+Woody: Oh, yeah, I convinced… I mean, I kind of came in biased, yes. I think it is one of the definitive video games, I just think that, like, what you can… it's just so clear of, like, how much is accomplished with a little amount, and just, like…
+
+1051
+01:55:04.000 --> 01:55:11.299
+Woody: when I'm explaining board game rules to people, and I… you know, so many times I get into this scenario of, I'm like.
+
+1052
+01:55:11.680 --> 01:55:31.090
+Woody: oh yeah, but one more thing, like, this… you can't do this, like, this rule kicks into gear, whereas Spelunky, there's that, you know, 2-minute tutorial with the big pictures that tells you what to do, and that basically gives you everything you need to understand the game. Even if there's, you know, a lot more depth beyond that.
+
+1053
+01:55:31.350 --> 01:55:34.329
+Woody: You don't need it to traverse the caves. …
+
+1054
+01:55:34.510 --> 01:55:50.110
+Woody: Well, so, I am not fully educated in this new rating system, but I feel like I can fit my rating into it, because Spelunky's a 10. Like, I don't know, like, I… if you're not gonna give Spelunky a 10, like, I don't know what you're saving your 10s for,
+
+1055
+01:55:50.650 --> 01:55:51.160
+Colin: fire.
+
+1056
+01:55:51.160 --> 01:55:51.780
+Woody: Yeah.
+
+1057
+01:55:51.780 --> 01:55:53.720
+Colin: Gotta make sure we mention that at least once per episode.
+
+1058
+01:55:53.720 --> 01:56:11.629
+Woody: Yeah. Sure, I mean, all those games tends, too. Based, you know, I… as I said, I'm fortunate to only be on this podcast when I want to, meaning I only have to play games that I really like, or at least have some sort of vested interest in, and so…
+
+1059
+01:56:11.720 --> 01:56:18.810
+Woody: I love Spelunky, I… I love it ever so slightly less than Enter the Gungeon, because it doesn't have….
+
+1060
+01:56:19.150 --> 01:56:24.370
+Andrew Harshman: My man! Yes, yes, yes. Dungeon still hangs on, it doesn't have… always.
+
+1061
+01:56:24.370 --> 01:56:30.910
+Woody: that same goofy, totally goofy sense of humor. It just… you know, even though we were kind of…
+
+1062
+01:56:31.130 --> 01:56:38.190
+Woody: calling out games that add 500 new weapons or whatever as a way to fill content, like, I like all the 500 weapons and guns.
+
+1063
+01:56:38.190 --> 01:56:41.389
+Andrew Harshman: Yeah, I mean, it's only bad if you do it wrong. Yeah.
+
+1064
+01:56:41.390 --> 01:56:41.730
+Woody: Exactly.
+
+1065
+01:56:41.730 --> 01:56:45.919
+Andrew Harshman: And, you know, it ain't easy, but, you know, the Gungeon does it.
+
+1066
+01:56:45.920 --> 01:57:00.070
+Woody: Yep, and so… Sorry to interrupt. Yeah, no, you're good. Spelunky is a game I just… I just love playing, and I'm always so, so impressed by how well put together it is. …
+
+1067
+01:57:00.340 --> 01:57:11.820
+Woody: Yeah, and just in this time of revisiting it after I had gone through what I thought was the end of my spelunky phase many years ago, I'm just reminded of, like, oh yeah, this is one of my favorite games of all time.
+
+1068
+01:57:12.380 --> 01:57:15.209
+Woody: So… Thanks for letting me talk about it.
+
+1069
+01:57:15.520 --> 01:57:23.070
+Scott Burger: Yeah, … similar… Thank you for coming on! Yeah, thank you again for coming back for all the good games, ….
+
+1070
+01:57:23.070 --> 01:57:24.989
+Woody: Similar games, Spelunky 2.
+
+1071
+01:57:24.990 --> 01:57:43.879
+Scott Burger: Yeah, that is the first one that I have on there. Spelunky 2, clearly, there is, one that, like, if you thought Spelunky was fun, but you wanted more traditional roguelike mechanics in there, and more difficulty, then, the game Vagante is right up your alley, for being punishing….
+
+1072
+01:57:43.880 --> 01:57:44.720
+Woody: Dante.
+
+1073
+01:57:44.720 --> 01:57:47.920
+Scott Burger: V-a-g-a-n-t-e.
+
+1074
+01:57:48.770 --> 01:57:49.310
+Woody: Okay.
+
+1075
+01:57:49.480 --> 01:58:05.640
+Scott Burger: Woody furiously taking notes of more difficult games to beat, of course. There is, a game by, Caseware on Steam. A lot of his games look very similar. This is a guy that did Bone Razor Minions, but he also made, Spirit's Abyss.
+
+1076
+01:58:05.640 --> 01:58:25.440
+Scott Burger: which has, like, this really good, chunky, like, dark, Halloween-vibed… it's like a Halloween-vibed Spelunky, almost. Which is quite fun, maybe not as punishing as Spelunky. There's another game that's, maybe like Spelunky in reverse, where instead of going down, you're going up, called Tower Climb?
+
+1077
+01:58:25.440 --> 01:58:27.849
+Scott Burger: Not, … not, ….
+
+1078
+01:58:28.370 --> 01:58:29.300
+Woody: Not Tower Fall.
+
+1079
+01:58:29.300 --> 01:58:47.129
+Scott Burger: Not Tower Fall, Tower Climb! But, is filled with all sorts of, like, those kind of simulationist, weird, deep game mechanics, and flies under a lot of people's radar. Other games that are kind of, like, similar cave spelunking dungeon games, Catacomb Kids…
+
+1080
+01:58:47.130 --> 01:58:58.840
+Scott Burger: People like a lot. Cave Blazers, people like a lot. There's one that has really good pixel art called Dun Greed. And of course, we have to mention Noita again, because I feel like…
+
+1081
+01:58:58.880 --> 01:59:04.100
+Scott Burger: all the stuff that I like about Spelunky, for me, personally, I think Noita does better.
+
+1082
+01:59:04.100 --> 01:59:04.790
+Woody: Wow!
+
+1083
+01:59:06.740 --> 01:59:10.310
+Woody: Like… Okay, adding Noita to my wish list.
+
+1084
+01:59:10.840 --> 01:59:11.619
+Colin: You haven't played Noida?
+
+1085
+01:59:11.620 --> 01:59:12.909
+Scott Burger: No. Oh, what you have?
+
+1086
+01:59:12.910 --> 01:59:14.940
+Colin: to play Noida. It's absolutely up to.
+
+1087
+01:59:14.940 --> 01:59:16.789
+Andrew Harshman: You must, simply must.
+
+1088
+01:59:17.000 --> 01:59:20.180
+Scott Burger: Yeah, Noita, I feel like, is….
+
+1089
+01:59:20.600 --> 01:59:21.699
+Colin: You're gonna like it.
+
+1090
+01:59:22.000 --> 01:59:22.540
+Scott Burger: Yeah.
+
+1091
+01:59:22.730 --> 01:59:38.830
+Scott Burger: Listen to our Noita episode, previous episode, of where to go to get those workshop mods for making your starting wand home in on dudes to make it a lot easier. Yeah, check, check some of those out. Well, that's… that'll wind down our…
+
+1092
+01:59:38.830 --> 01:59:51.490
+Scott Burger: 75th, Big 7-5, I don't know what wedding anniversary, reward that one is, but, episode, and listener request episode. And if you want to request more stuff,
+
+1093
+01:59:51.490 --> 01:59:55.740
+Andrew Harshman: I'm pretty sure it's the, … Golden head helmet.
+
+1094
+01:59:56.040 --> 01:59:56.790
+Woody: Yes.
+
+1095
+01:59:56.790 --> 01:59:59.399
+Andrew Harshman: 75th anniversary, if I'm not mistaken.
+
+1096
+01:59:59.400 --> 01:59:59.810
+Scott Burger: That's.
+
+1097
+01:59:59.810 --> 02:00:03.520
+Andrew Harshman: You're beloved. Yeah, thanks for tuning in! I'm sorry.
+
+1098
+02:00:03.520 --> 02:00:06.830
+Scott Burger: And what else we got? Send your golden head helmet stories.
+
+1099
+02:00:06.830 --> 02:00:07.160
+Andrew Harshman: into….
+
+1100
+02:00:07.160 --> 02:00:21.130
+Scott Burger: grogplodZone at gmail.com. Our mastodon is GrogPod, I gave him a tough place. Technically we're on Blue Sky, although I didn't put it on there. Something at Grog… it's one of those weird, like, mirror things. …
+
+1101
+02:00:21.270 --> 02:00:39.070
+Scott Burger: But yeah, I think everything that I post on Mastodon just automatically gets mirrored there. GrogPod.zone has all the official, unequivocal, unarguable ratings, and all the other nonsense stuff, the website. Go check that out. But that's gonna do it for a very brutal, hard…
+
+1102
+02:00:39.260 --> 02:00:47.400
+Scott Burger: titular game of… of Splunky, so I thank, I thank everyone for, being brutalized,
+
+1103
+02:00:47.990 --> 02:00:49.229
+Scott Burger: As a warm-up.
+
+1104
+02:00:49.710 --> 02:00:59.960
+Scott Burger: to be brutalized for our next episode, where… I had this one on the schedule a long time ago, and I thought, you know what, it just needs more time to bake, needs more time for me to understand and grok it.
+
+1105
+02:01:00.590 --> 02:01:12.659
+Scott Burger: I think I grok it now, and it will be fun and interesting to get our Ungabungas in a row, and, smash some giant, dragons and demons
+
+1106
+02:01:13.120 --> 02:01:28.419
+Scott Burger: Because next episode, we are playing possibly the, well, up to this point this year, the biggest roguelike, or roguelite, depending on how you define it, game released in 2025 thus far, as of August. Slay the Spire 2 is gonna come out tomorrow, as soon as I say this.
+
+1107
+02:01:28.850 --> 02:01:31.400
+Scott Burger: I am picking Elden Ring Night Rain.
+
+1108
+02:01:31.660 --> 02:01:33.070
+Scott Burger: For us to play.
+
+1109
+02:01:33.460 --> 02:01:35.000
+Scott Burger: And it is gonna be….
+
+1110
+02:01:35.000 --> 02:01:35.640
+Andrew Harshman: eBay.
+
+1111
+02:01:35.640 --> 02:01:45.559
+Scott Burger: It is gonna be some jolly cooperation, it is gonna be some… some wild nonsense, a lot of… lot of dodge rolling, lots of, …
+
+1112
+02:01:45.700 --> 02:02:05.169
+Scott Burger: protecting of the flock, and yeah, continuing the maximum level of roguelike brutality by getting good! And, and, you know, as you see in standard Elden Ring a lot, some messages saying, at last, dot dot dot, fort, dot dot dot, night.
+
+1113
+02:02:08.710 --> 02:02:26.949
+Scott Burger: But that's gonna, yeah, that's gonna wind down our Spelunky episode. Elden Ring Night Ring coming up next. Very excited for that one. But to play us out from here, will be, some jammin' tunes for you to hold down that sprint button, and ready your shotgun as you prepare to fight Anubis in the final temple before the end.
+
+1114
+02:02:27.180 --> 02:02:28.320
+Scott Burger: Or is it?
+
