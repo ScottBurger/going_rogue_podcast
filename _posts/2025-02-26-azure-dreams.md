@@ -32,7 +32,7 @@ Ah... I can see into your mind... So you like mystery dungeons? You like obscure
 * 7:36 - Nostalgia discussion: would hosts have liked it in 1997?
 * 14:28 - PlayStation One emulation setup and controller experiences
 * 30:45 - Story introduction: monster tower and town of Monsbaya
-* 38:42 - Gameplay tutorial with Koun and dungeon mechanics
+* 38:42 - Gameplay tutorial with Kewne and dungeon mechanics
 * 52:18 - Town building and dating simulation elements comparison to Hades
 * 1:06:38 - !!spoiler alert!! top of the monster tower and ending
 * 1:11:55 - Spoiler warning and detailed ending sequence analysis
