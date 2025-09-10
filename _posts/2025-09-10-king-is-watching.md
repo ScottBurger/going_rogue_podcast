@@ -2,40 +2,39 @@
 layout: post
 title: "The King is Watching"
 date: 2025-09-10
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/the-king-is-watching.mp3
 description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/elden_ring_nightreign.jpg
-thumbnail-img: /assets/img/elden_ring_nightreign.jpg
-share-img: /assets/img/elden_ring_nightreign.jpg
-duration: "2:39:02"
-length: 130198512   
+cover-img: /assets/img/king_watching.jpg
+thumbnail-img: /assets/img/king_watching.jpg
+share-img: /assets/img/king_watching.jpg
+duration: "1:30:28"
+length: 76490880   
 tags: ["2025", squad management]
 ---
 
-Praise the Sun! The Nightlords have invaded the world of Elden Ring and it's up to you and your trusty co-op Nightfarers to stop them. The biggest roguelike game of 2025 so far, lauded developer FromSoftware's latest entry takes a stark departure from previous games in the Dark Souls series at a blistering pace. Featuring gigantic bird-man, big-hat sorceress, acrobatic bow boy, yelling drunken pirate, angry Sekiro dog-man, sassy child, French fencer, and John Nightreign himself toting a grappling hook and arm cannon, Elden Ring Nightreign drops you into a wild hybrid of Soulsbourne combat with bosses and enemies drawn from across the series. Listen in as we drop into Limveld from our bird-based battle busses. "Don't give up, skeleton!" "At last, Fort...Night!"
+Eye see you! This week we gaze upon the wonder of The King is Watching: the kingdom management and goblin horde bashing simulator with a twist - your workers are only productive when you're watching them. Kind of like being in the office and having your boss fly by your desk twice a day... An artistic feast with a deep level of meta-progression, try to survive wave after wave of horrid beasts and giant horrors from attacking your peaceful castle through the use of magic spells, special king-based powers, and however many magic unicorns you can summon to your defense.
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="https://grogpod.s3.us-west-2.amazonaws.com/elden-ring-nightreign.mp3">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/the-king-is-watching.mp3">
   </audio>
 </div>
 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/elden-ring-nightreign-with-kris-garglestone/id1650474911?i=1000723673406) | [Spotify](https://open.spotify.com/episode/0NozvdLTKZqUFkc0i5dvwm) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/nightreign.txt)
 
 ---
-* 1:40 - Game stats
-* 4:44 - One sentence description
-
-* 2:06:46 - Rankings and final thoughts
-* 2:22:55 - Similar games and show wind-down
+* 1:43 - Game stats
+* 3:33 - One sentence description
+* 1:14:54 - Rankings and final thoughts
+* 1:20:49 - Similar games and show wind-down
   
 ---
 
-Next episode: ???????
+Next episode: Hero's Hour
 
 Contact us at grogpodzone@gmail.com!
 
@@ -43,7 +42,7 @@ https://grogpod.zone
 
 Intro music: 
 
-Outro music: 
+Outro music: The King is Watching OST - 002B Village A
 
 
 <div class="embed-responsive embed-responsive-16by9">
