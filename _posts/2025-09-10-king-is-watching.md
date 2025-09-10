@@ -24,7 +24,7 @@ Eye see you! This week we gaze upon the wonder of The King is Watching: the king
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/elden-ring-nightreign-with-kris-garglestone/id1650474911?i=1000723673406) | [Spotify](https://open.spotify.com/episode/0NozvdLTKZqUFkc0i5dvwm) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/nightreign.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-king-is-watching/id1650474911?i=1000725839697) | [Spotify](https://open.spotify.com/episode/2grwlMWtICzW7uqCwMwg0r) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/nightreign.txt)
 
 ---
 * 1:43 - Game stats
