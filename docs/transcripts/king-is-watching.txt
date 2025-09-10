@@ -1,0 +1,1308 @@
+0:17
+The.
+Hail friends and welcome to the Royal Court of the Grog Pod Roguelike podcast where each episode we stare down a roguelike game from our ivory towers, prophecies, their performance rankings and then revisit them weeks and weeks later for our end of year recap tournament.
+0:36
+I am your big eared host king of the podcast Scott Berger and with me are my Co host Castle Defenders.
+It's the return of Will riding in on his honking goose.
+And it's me, Colin, a wall Buster, ready to blow open the walls in your house and make you listen to this podcast.
+0:59
+Andrew is not with us this week will return shortly and is taking some some family much needed family time at the moment that I think we can best describe with with two words as fuck cancer.
+1:19
+This week we are talking about the king is watching.
+I released July 21st, 2025 and this is a steam exclusive.
+Although there is a a kind of like a demo preview slash early access version question mark that you can find on itch dot IO.
+1:38
+That's I guess more of a game jam demo that was created for the long running game jam series Ludum dare number 54.
+If you want a kind of preview version of it.
+This was developed by 1 hypno head game studios based out in Serbia, who have put out another kind of point and click game from 2022 called save the reactor, but they also have 14 other.
+2:03
+Well, that's the save reactor is the only other game you can find on steam, but they have like 14 other games that they've built on their itch dot IO page, which all look very interesting of sorts.
+So and published by tiny build, which see previous episode streets of Rogue who I I didn't realize.
+2:23
+I don't know if we covered this in our streets of rogue episode specifically, but their HQ is in Bellevue.
+Like it's another one of those like stealth game dev places that's like, wait, what?
+There's another one here in the Seattle area.
+Publishers of other other rogue games that are stay tunes for sure like Voin, Nitro, Kid, Drill Core, will despots game they published as well as some popular non Rd. games like speedrunners and cluster truck.
+2:52
+But the king is watching.
+Your average player of that has about 27 hours of gameplay in it which is not too bad.
+And this stairs down our popularity charts at the number 223rd most popular rogue game like game with 5491 total reviews.
+3:12
+Colin, your kingly spell to describe this game in one sentence, what is it?
+It's a wave defense game where you have a little Tetris board on the side, but not Tetris and you have to watch all your things work and it's kind of like a worker placement game, but also not Tada.
+3:38
+I forgot.
+I forgot that this was I forgot that this was my pick and I was going to have to do this summer.
+I mean it is I think it is kind of like a it is a little bit of a hard game to describe, though.
+It's auto battler I guess maybe is better.
+Yeah, wave based auto battler and I think you made the point about like the you have a cube essentially of a.
+3:59
+A square P.
+Sources that you're you're trying to lay down and you have to basically make a whole bunch of strategic decisions about what you place when you place it.
+And then the cool thing, This is why it's the King is watching is because you have a small finite area that changes depending on upgrades for what you're actually watching as the king and only the things that you're watching.
+4:18
+So you might have 3 tiles, for instance.
+Those are the only tiles out of all, I don't remember what the exactly what the grid size was, but out of the entire grid that they're actually going to be producing anything.
+So you're constantly moving around what's being produced in order to, you know, maximize your strategy.
+Yeah, I mean, I think that's the main, the main gimmick of the game is like you're, you're both trying to build your base, but then like the arrangement of the base matters so much because of how you can, you know, I want this thing and this thing and this thing and this thing to all be producing and how can I Orient my thing so you're not producing on buildings that are not useful and that you are producing other things that you need at the same time.
+5:01
+And all that lends towards a just a, a lot of, you know, scratches that itch of like, Oh yeah, like this is this is exactly the right setup here.
+You learn every single time you play.
+And it really has, at least for me, someone with 102 hours who 100% of the game it really.
+5:18
+All or nothing kind of guy.
+Yeah, exactly.
+It's a really compelling sort of a a premise.
+Yeah, I thought this was super interesting where like the the the limitation is sort of the draw and like, oh, I can, I'm only limited to like this little patch of stuff and like like, like a key factor is you can like rotate around the orientation of like your like your little Tetris shape gaze over your Kingdom.
+5:47
+And I thought it was neat.
+I thought like this, this was kind of a a neat mechanic that I don't know.
+I like does this border on like I feel like there's there's a fine line between gimmick and mechanic mechanic look mechanic, like gameplay gimmick versus gameplay mechanic.
+6:05
+And I feel like this just kind of like barely gets over the line in terms of like mechanic mode versus like, oh, it's just like a weird gimmick.
+I don't know.
+You're gonna have to, you're gonna have to give more, like give a definition here, 'cause I don't know what's a gimmick?
+What's a straight up gimmick?
+What?
+Is a gimmick I.
+6:21
+Think I'm gonna say a gimmick is something that is good for one game and a mechanic is something that would be good in many games.
+If every game was built like this was this was like a something that was common in all the games, I feel like it'd be overdone very quickly.
+But.
+6:37
+I think like what I mean by gimmick is more of just like a game mechanic that is like super 1 dimensional, but I feel like this this is more 2 dimensional if you think about it.
+Because it's square.
+Yeah, exactly.
+But I do like the fact that you can you can like upgrade the size of it, the rotation and orientation of it.
+6:57
+Like has like a lot of thought and depth associated with like how you do your Kingdom layout and like just how you move your tiles around the Kingdom.
+I thought there was a lot of good interlocking elements there that if it if it was just like, oh, it's like other, you know, there's there's you know, half a dozen various rogue like auto battlers out there that like if you just slapped this on there, I'm sure it like it wouldn't work at all.
+7:22
+But it works really well with a lot of the other systems that it has going for it.
+That it's just not like, Oh yeah, like this is like this is the unique thing that we're doing.
+Like there's a lot of other stuff going on here too that all feeds into that system I guess is what I'm trying to say.
+I mean, I guess a more charitable way than calling it a gimmick.
+7:39
+Is it unique mechanic?
+Sure, yeah.
+When when Will was was singing the high prices of this game, like yes, you we are definitely going to play this next.
+It is sunk its teeth into him hard like OK, yeah, I'll boot it up.
+7:55
+I'll see what this is about.
+And I think this this game starts off real strong with like the first thing, at least the first thing that I remember seeing when I was playing this was like, it just brings up this very colorful art screen of like a King's hall.
+8:10
+And you are sitting on the position of the throne and you're holding, I don't know, some kind of weird looking flower of sorts.
+And all of your advisors are kind of like bowing in front of you.
+Will you have 100% of the game?
+Is this explained at all?
+Where like you use your your flower on your followers and they explode into plant life.
+8:31
+Oh yeah, I forgot about that.
+What?
+Well, I don't want to spoil the ending here, and I guess we always do that right?
+But.
+But there is nothing that.
+Happens at the very end that is related to that.
+But does it make any sense?
+No.
+OK, in my opinion, no.
+8:47
+It's not important to the game.
+It's not at all important to the game.
+Those whole does that, that whole scene, I don't understand why that was put in there.
+That does nothing for me and I don't.
+I don't really get why that's a component.
+I mean, it's set the tone for me of like you're in for some wild shit and I'm like, great, sign me up.
+9:04
+I don't remember if like immediately after that it boots you into like the tutorial or if it takes you to like the like the overall, I guess like quote main menu zone specifically.
+But if nothing else, I thought this this was like a great first impression of the game cuz it's like, Hey, look at all this, like this cool art.
+9:24
+It's got like a really like fun design to it.
+It has like some sort of like bizarrely strange element to like kind of keep you on your toes.
+But yeah, like I, I guess like maybe we can talk about this main menu screen that it kicks you out to.
+At first this was something that I thought was like, is this just like like pro mortar propaganda where it's like you have this giant tower with a, with a giant gold eyeball at the top that's just like looking over the Kingdom with an unblinking eye.
+9:55
+And I'm like, I think I've seen this before somewhere.
+One, 100% this, this game borrows from so many pop culture memes and so many references.
+And I can't blame them for that.
+I think that's a great.
+That's what I'm doing with my own game.
+And so it's just like, yeah, you know, this is something that people can automatically understand.
+10:12
+It's a symbol that people, you know, can like, you know, I guess.
+Yeah, just better understand.
+Yeah, but this main menu screen has like your your get ready to go on on on a run zone.
+It has like your upgrades.
+10:27
+It has all of your other kind of like meta progression stuff, which we'll we'll probably come back to in a minute.
+But this is where like you, you start a run and crucially, the tutorial sequence, which I think that the tutorial for this game is pretty well done.
+It's maybe a little more involved than I was expecting because it it's one of those cases where it's like all right, tutorial mode and then it's just gonna kick you right down to a full run in like sink or swim mode, which I think I think kind of works here.
+10:58
+I do remember the first time I booted this up being kind of bamboozled by like all of the stuff on the screen.
+Like there's it seems very busy at first, but I think tends to make sense the more that more that you play, Even though I still have no idea what like the black oil or furniture do.
+11:16
+But I'm sure if I had played for another 50 hours, I would have would have experienced that.
+But yeah, what what what tutorial thoughts do we have here?
+I thought the tutorial did a good enough job.
+I exited the game and didn't play it for a week after I saw it and.
+11:34
+Then I saw it later.
+Yeah.
+No, I, I, I, I, I guess maybe I just wasn't in the mood to learn.
+Sometimes you're just not in the mood to learn.
+And that was just like, oh man, I could do this or I could play Slay the Spire.
+I might do that right now.
+And then like later, I came back and it was, it's a it finally managed to grip me and it gripped me really, really well.
+11:52
+And it gripped you because you have a an advisor duck with giant, giant eyeglasses named Gustav, who who shepherds you through this great tutorial process or a goose.
+Oh.
+Oh, I get it.
+Oh, my God.
+I just.
+I was like, yeah, I guess it is.
+12:10
+It is sort of like a kingly and medieval, isn't it?
+But yeah, you have your, your little king icon in the bottom right, who I think is, is very well animated with these like giant floppy ears and huge mustache.
+And just the the the the charm of the art design here, I really have to under score is like it's just so well done.
+12:32
+But Gustav leads you through on like, Hey, hey, here's how to do very simple, I guess build order in this game where you know, if, if you're familiar with StarCraft and Warcraft, it's like, hey, you know, you, you place down buildings in kind of a certain sequence in order to get your economy rolling.
+12:52
+And you start off with like your your standard water well tiles.
+And those have limited uses for them.
+And after a certain amount of time, they'll dry up and blow up off of the map and all those things.
+But Gustav leads you through like, hey, here's how to like build troops.
+13:10
+And like building troops requires food and you got to put down wheat to make food and all of like this kind of engine building.
+I think it does a good job of of kind of holding your hand through all that, right?
+Yeah, I mean, I'd say so.
+I mean, I obviously didn't make it through, but I if you, if you can, if you can dedicate like 30 minutes to like a learning, like a taking a lesson, then it pays off.
+13:32
+Yeah, One thing I will call out with the tutorial here that I thought was quite funny, even potentially somewhat unintentional.
+So as you as you go through a standard run here, you have your your kind of like Kingdom space with the tiles and you have your battle space where all the action happens.
+13:53
+And along the top of the screen, there's these little, like, marching banners that make their way towards your castle will kind of give you like a countdown of like, all right, here's when the next battle's gonna happen after a certain number of those like, you come to this, like choose your fate screen with this sorceress.
+14:09
+What?
+It's called the prophecy if I recall.
+Well, the screenshot I have says choose any.
+Well, yeah, it does say prophecy on the side of it anyway.
+The the busty sorceress on the side of the screen who is like giving you like, Hey, this is this is your opportunity to choose what's coming.
+14:31
+The like the Gustav goose head icon is like over her head, which just, it's a it's a funny, it's just like a funny placement.
+Like they could have placed Gustav's head anywhere else and it would have worked fine.
+But like placing his head over over her head, I thought was a a funny detail.
+14:50
+And it's just like little things like that, that I'm like, Yep, that that took someone's like effort to think about and like, I, I laughed at it.
+They had a lot of very good pixel art that was like it's not exactly pixel art, but it's pixelated art in a in a good like it's it's not I don't know it's it's it's not 8 bit, it's 64 bit or something.
+15:12
+I don't know, but like the art.
+I like the art style a lot.
+I.
+I think it's 256 or yeah, I'm pretty sure.
+It's sure, but it's it's I I mean, you can tell that there's like I I don't think the kings were they look like they were maybe made in 3D and then translated back down to pixel art, but like in a good way you.
+15:34
+Mean for like the way to corner animation thing, right?
+Yeah, yeah.
+But there's a lot of in the events or really just any, any time that they can spark a little bit of like aesthetic interest into it, they do.
+And I appreciated that.
+I like the kings.
+15:51
+The kings, I mean like that the one that I, I remember most is the one with the giant blocking eyebrows.
+The style is very unique and it's interesting that it feels like that's the only area where they have like extremely exaggerated features for like for characters.
+16:07
+And so there are, what is it, 6 different kings?
+I want to say I should know that I, I stopped playing a week ago.
+Once once I hit 100%, I'm like, that's it.
+Games with roguelike, games with meta progressions.
+Once you get to 100%, it's just like, well, that's, that's all you can do.
+Really.
+Yeah, there there's, I guess there's seven.
+There's King Baldwin, who you start with with big ears, King Leonid, who I guess just has, I don't know, a big face.
+16:31
+King Brezhnius, who's I guess is a pun on Brezhnev where where you can see where the eyebrow inspiration comes from.
+You got King Leo the wise giant eyes.
+King Saladin.
+Saladin frowned, who I guess has a gigantic, a big like circular mustache.
+16:50
+King Spellus, who looks kind of like a nerdy mage, and King Alucard, who I'm guessing is a kind of Dracula insert.
+But yeah, I think like this, this like prophecy system.
+I thought was was interesting.
+I didn't really get it at first, but once it clicked, I was like, OK, I think I get it now 'cause you have, what is it?
+17:13
+You have like your inevitable options, things you must pick from, which are 4.
+You have to pick three out of four of these like easy waves, which I can appreciate, like, OK, yeah, that makes, that makes total sense.
+But you get to choose like which of of like these three columns you put them in.
+17:33
+So like wave 1 is like a column of three slots.
+Wave 2 is a column of three, Wave 3 is a column of three.
+And you do like easy at the top.
+You could do hard in the middle and then medium on the bottom.
+But like there's different difficulty options of like these waves that will come at you and you get different rewards for them.
+17:53
+I thought this was pretty clever.
+I thought like the first few times I played, I'm like, God, this is really boring.
+Like I'm just going to put like the easy options on here.
+And then I'm like, where's like, we're like the mega bosses.
+Why am I getting stomped on by the bosses?
+Yeah.
+Yeah, I, I mean, honestly, I think this is probably one of my favorite parts of the game in terms of like game design.
+18:15
+I like really.
+You don't like it?
+This is my least favorite, but go ahead.
+I mean, I, I think it's an interesting the aspect of the game of like, how hard are you going to push your luck?
+I mean, I definitely like, oh, I want, I want some things.
+18:33
+I'm gonna, I'm gonna like allocate all of these things and oops, I died.
+Like I, I thought I, you know, I wanted to get all the, the goodies and I thought I could get enough of a defence out in by the time this wave hit.
+18:49
+And I did for the first one, but it killed everything and I couldn't get it back up to full strength by the second one.
+And then I like, you know, it puts you either ahead of the curve or behind the curve.
+So I, I liked that the, the like push your luck aspect of it.
+19:05
+I mean actually allocating the units was like but the the the how the the the tempo of picking how hard to push your luck or not I thought was interesting.
+I I guess as you know, I will declare myself as an expert now.
+19:21
+At the game.
+There is essentially 1/2 that you take once you understand that that's a mini game where that you solve.
+And once you solve it, you as soon as you see that screen, all the things that are related to money or related to the gravestone relic, whatever, I don't remember that those that currency, but you just drag all that to the right.
+19:42
+There's no reason to have money in advance of of the shops and you always have a shop on the very last one.
+And so it's just like all that stuff goes to the right.
+And then what do you want?
+Well, I know I need to have these sort of pics and you, you just you, you start to grasp like at which stage you need to have certain things.
+19:59
+And it's very easy to like just you're you're filling all the slots every time.
+That's that's always the best strategy.
+Well, maybe I was just not good enough to do that yet.
+I mean, that was when I felt like I was doing well in the game.
+Yeah, I was fill every slot.
+But it was like, usually it's the first one, the first one that's the most interesting because I feel like the very, very first prophecy, if you do all of that and maybe perhaps you haven't unlocked all of the stuff.
+20:25
+Yeah, I think that might happen with it.
+So like if you if like we'll we'll hear playing with them 6 advisors or whatever you're like that's something you build up with a meta currency means means you start with stuff.
+If you fill up that that first wave and you have no meta progression you will just lose.
+20:43
+You know, that's fair.
+I, I'm, I'm speaking from the reference point of like once you've unlocked everything and then you're going for 100%.
+So I've, I've forgotten that.
+Yeah, yeah, you're absolutely right.
+Without having everything unlocked, you can't actually do all that stuff.
+And so that's, that's a mini game that it, it, it is short.
+It feels short lived relative to the whole game, 'cause you get everything by 30 hours. 3540 it's and and I and I'm at 100, you know, at 100%.
+21:07
+It took 100 hours essentially.
+Scott, what did you say the average play time for this game was?
+27 I believe. 24 The average play time, yes. 27 Good memory.
+Yeah.
+So I mean, I'm guessing that for most people that mini game is playing out right about when they stop playing.
+21:24
+So like you're, you know, let's say if the average is 27 hours and you know, if you're, you're really into the game and you're, you're taking out the, the, the people who don't, who didn't, didn't really make it very far, they'd say, oh, you're at 40 hours.
+21:41
+So you've got 3/4 of the game where that's a mini game that's important.
+And then the last quarter of your play time is where it's a solved thing because you can do all things at all times.
+But so I, I, I thought, I mean, for the, the early game, I thought it was an interesting way to push your luck.
+21:56
+And maybe that sounds to me then like for the late game they should add something different, like an even harder wave thing.
+It's also worthwhile to note that like you're choosing waves, but those waves are not like there are standard waves that happen in between the ones that you're selecting.
+22:13
+And so, yeah.
+And so there's like a lot that you just can't control for.
+And like you're, you're basically saying once every three waves or so you're, you're able to like control like the, the density of the enemy in that wave and the reward that you're getting.
+But it says it, it's a it feels like more of a minor impact.
+22:29
+Overall, I think that was my only gripe with this wave building system, which was like, I thought it was building out like the exact thing that was coming out and like, oh wait, no, there's actually like other stuff in there.
+It's confusing, which I think is fine, but like if if it was more varied instead.
+22:50
+Of the the other waves are usually easy.
+They are.
+They're so it's just like, like and like.
+I'm worried.
+About yeah, they're kind of just like speed bumps in a way for you to just kind of like keep your engine going and and like that sort of stuff.
+But yeah, I don't know, I'm sure somebody play tested it there and was like, well, like doing if we only had nine waves, like would like how would that play out with the rest of the game?
+23:16
+I'm sure someone did some math somewhere and was like, no, we need like the little the little guys in between to keep keep stuff going.
+But yeah, if nothing else, I thought that was that was kind of a neat system for them to implement the the tutorial continues with talking about some game mechanic that I completely forgot after doing the tutorial, which was morale.
+23:38
+I was like, what's this little, what's the little frowny face in the in the bottom here?
+And like, I don't know, like, well, they're not actively like killing me because they're unhappy.
+I guess I'm, I'm so used to like the Dwarf Fortress morale system where like, you know, they're, they're not actively like pissed off enough that they're starting to kill each other.
+23:58
+So I'm like, OK, I'm, I'm fine pitchfork insurance and and all that, but I mean, it feels like the the.
+Problem is that morale's boring, yeah, and I don't remember if like if hovering.
+Over the little face even like told me what I should or like why I should be doing it because I I realized only after redoing the tutorial.
+24:16
+You hover over the king.
+Yeah, it's specific to.
+Each king, Yeah, I mean, like, all right, starting king.
+It's morale increases damage dealt by all units by 1% per morale.
+They all do that I think.
+Or.
+I know, I'm pretty sure.
+But they're all, they're all like 1% this or .5% damage and .5% health or something, something on that order.
+24:41
+But like it's very boring like so.
+And then the thing will be like, Oh yeah, your, your, your rewards for your quests is, you know, 100 wood or 50 wood in 2 units or +7 Morales plus 7% damage is probably meaningful eventually.
+25:02
+And, and you know, by the end of the game, you're, you're maybe 50 morale.
+That's, that's a legitimate increase in damage.
+But it's not necessarily what I'm looking for in these kinds of games.
+Like I want that meaningful exponential growth.
+25:17
+I want number to get bigger and 50% more is not enough for me to really notice it from that alone.
+Like you, you look like you.
+You feel like you're getting better because you're getting better units, but it doesn't feel like you're growing exponentially or or any of that.
+25:36
+Or that is because you're not getting the feedback when you have a swordsman and they attack someone, there's not a little damage number above, like how much for how much damage they're doing.
+Oh yeah, you're seeing like every time they strike, they're doing this much damage.
+That would be something that says, Oh yeah, the, the, for instance, they're doing 10 damage.
+25:51
+And then when you have this thing, they're doing 15 damage.
+Or like when you, you know, give them wrath, they're doing 20 damage.
+I don't remember the real numbers, but the the feedback mechanism for morale and its impact on your damage output is extremely muted.
+And I agree that that that's it's a kind of a lame mechanic.
+26:09
+And it's one where it's just like, oh, the whole point of this is for basically to say you should have always have wine.
+That's basically what that means.
+And like if you have an option where you don't have.
+Wine.
+Yeah, pick wine because that makes your troops happy, apparently, and that makes them fight 30% harder.
+26:24
+Or for, you know, whatever that is.
+There's no like building.
+Restrictions or something that like, oh, you can't place this tile because you need a specific like morale hoop to jump through.
+Is there no, Yeah, it's.
+It's not a very I think.
+26:40
+Yeah, it's not the most well thought out mechanic or component.
+I forgot the the way the game design works in that specific words, yeah.
+Let's let's talk about the the units themselves.
+So yeah, you've got the swordsmans, you've got the the the melee guys, you've got Archers and stuff.
+26:59
+They come out and they're it's just an automat layer.
+So they're just coming out fighting your little guys fighting, coming back and you're maybe producing them on the back end.
+I thought that in some ways the units were interesting, especially the later units got more more varied ish.
+27:17
+So they're they're more interesting.
+My biggest critique about the units and about the game in general was how many of them there are on the field.
+We talked about in a low number, like we talked about StarCraft before, you know, or, or any of the the RTS style games.
+27:38
+I feel like this game desperately needed a something that's from from any of those, which is like units cost different amounts of supply because you're basically there, you're you're saying, OK, I've got my militiamen.
+Great, cool.
+27:54
+I spent all this time I got it so that I can produce 4 militiamen or I've got 8 militia out.
+Oh, that's used my entire supply cap.
+So you're, you're basically encouraged to find the units in the game that where, where the buildings produce like only one of them, because that is a much more efficient use of your very limited unit supply cap.
+28:17
+Like by the end of the game, you're if you're doing really well, you get to like 25.
+And if you're crowding your field with shitty low tier Archers, you'll well, maybe Archers is the wrong choice.
+If you're with peasants, you're you're not actually Archers are a good choice.
+28:35
+Peasants are are a net negative to you like because they are taking up space that you could be using for better units.
+Like I want them to be like and and so you get like there's the unit category of just like the scrub tier units.
+I can't grunts.
+28:53
+It's always bad to upgrade that because you need to get those out of there as fast as you can.
+I wanted so much to be able to do basically like a zurgling strategy where it's like they come in and it's like, oh, you guys have one or three big units.
+Great, I've got 400 peasants coming at you and you just can't do that in this game.
+29:14
+And it encourages you to go towards a very specific unit route near the end, if you actually want to to beat the the, the game beat the the level.
+And it's interesting because the.
+The last victory that I just had, I did a like a mass grunt with just like one assassin building and like I think 1 fire mage building.
+29:34
+And I just like I got the like the perks for like like plus plus like 15% health for all the grunts plus 15% damage for all the grunts.
+And just like did I just went all in on grunts and I'm like, this is either going to work or it's not.
+29:49
+And again, like I was playing on easy mode, so go figure.
+But I like I you know, I squeaked out a win against the gaping mall and like that felt that felt good at the time to solve that.
+But there were times where like in in like 1 of the boss battles, like there's some.
+30:11
+That means that's that's only the second boss, right?
+I think so, but what?
+Hey, I got a victory screen.
+I'll take that for whatever it means.
+But if you get to the next.
+Level of difficulty, you can't.
+I guarantee you you could not have won with your composition.
+Probably, yeah, I think.
+You're probably right, because I think there were other times where I was trying to use that like the front line walled like swordsman with like the and and again, I do think it's kind of funny that there's some units that are like lashers that like, oh, you're, you're like whipping your own units, like go attack a faster, Damn you.
+30:40
+And I'm like, OK, I can appreciate that.
+But you know, frontline of units with like casters or something in the back.
+And somehow like there was always some enemy that would like catapult into my back line and then just like decimate my my mages or support healers or whatever.
+30:56
+And then I'm like, what was I supposed to like?
+How was I supposed to react against that?
+So it it felt like it feels like there's like A1 button kind of solution here for like Army unit control in some sense that like not necessarily like I don't need to like control click and like command groups and APM my way to victory StarCraft style.
+31:20
+But there's there's like a deep cut for a potential stay tuned.
+One of the the UFO 50 games is like this little like board game auto battler and it has like A1 button like kind of all unit action thing to it where it's like your units start and they like just kind of like March across the screen, much like this this game.
+31:42
+But you have a like a stop unit button that they can just like hold their position on the field and like the ranged units can still attack, but like everyone will will pause and then you can press the OK move forward button and then they'll just like continue moving forward.
+If I just had that here, I feel like, oh man, like that would give me like a just that nice amount of control to just have like a a back line of units like far enough away to not get overwhelmed and then just kind of like creep my frontline up a little bit with just like a little bit more agency.
+32:13
+That as I think you two were describing something about the dragon boss that Oh my God, I was like potential solution, which I have not encountered yet.
+But the way that you're describing it makes it sound like I am not enthused to do so.
+Well, OK, so here's.
+32:29
+Your solution?
+You've got your gaze.
+The king is watching.
+If you're willing to sacrifice all production, you look at a spot on the map and then all your units go towards that spot.
+Wait, what?
+I mean if you wanted, if you.
+32:44
+Wanted to do something where you're like you're you're you wanted any sort of like unit control.
+As a potential mechanic, I see.
+I thought I thought, yeah, yeah.
+No, no, I'm like something that actually happened in the game.
+I'm like, Oh my God, no, that would be yeah.
+Like that seemed that that level of like you could have just a little bit of controller units if you really felt like you need to at great cost, which for occasions could be nice and that could be like a spell.
+33:09
+Option or something like or spell.
+Yeah.
+Spell would probably be a better one.
+King does that one.
+King has an aggro effect where you can say aggro everything to this area.
+Oh well, there you go.
+But that's only one.
+King out of the seven, this is entirely.
+Unrelated to what we're talking about, but I wish that there was a king who is like the cross eyed king that had two small things that you can move around.
+33:31
+That's brilliant.
+I like but looking at different spots I really like that just separated.
+Not just one line or whatever.
+Yeah, one one thing that.
+I was kind of interested to see about the other kings was like how their vision patterns were different because like you're starting big eared king does kind of start with like a like a, a Tetris right angle piece, which you know, you rotate around and as you evolve, it becomes like longer and, and like at its fullest extent becomes like a was it like a full 3 by three or or something like that two by three for the.
+34:05
+First guy, yeah.
+And you know, it, it increases in like, you know, you can rotate around and stuff.
+I'm like, oh, OK, so like other kings will like what have like an X pattern or like a big T or something like that.
+But it and will correct me if I'm wrong, but like did did you get a sense that any other King's like vision patterns were significantly different from like a mechanical and strategy perspective?
+34:29
+Absolutely.
+Oh, OK, great.
+I mean, there's, there's, there's.
+One king in particular, where it's a straight line and it's just like 2-3, four and then five in a straight line.
+And, and like some of them maxed out at fives, other ones would create a full circle, like a little doughnut shape.
+And what's interesting is that, yeah, none of that really mattered.
+34:48
+Like you, you really, you upgraded like I think you, you always upgrade twice and that's it.
+Like for pretty much an optimal strategy across kings, having more production happen as a result of having a wider area is a detriment because the cost of upgrading becomes so outrageous relative to what you could be spending the time on, relative to getting all the gold required to do things.
+35:11
+So, so basically, I think the balancing could have used a lot more work to make it that more of an interesting decision because it's very clear that like you put all of your military units on the very outside of the 5 by 5 cube and then the nine slots on the interior, that's where the work gets done.
+35:27
+And so you're always just like, OK, well, I need, you know, I all my units died.
+I just moved my gaze to like all the units that died and get them all at once.
+And then when you're doing production, you're focused on the middle area.
+And so just creating patterns around that strategy works really well.
+35:42
+And when you have the long straight line, what's really cool is that you can just have all the military on one side and then all the production on the other.
+And it just makes it so it's AI mean.
+It's varied between the Kings to be sure, but it's just not a very deep strategy.
+And I think there's a a lot that they could have done with that to make it more interesting, including Collin's idea to have it like, you know, look at the left and the right side at the same time.
+36:03
+I think that would be really.
+I mean, I think that would be a fun.
+As a just a one off for one weird king and then you'd have his eyes look at different spots, like different directions.
+I think that'd be fun.
+Yeah.
+No, I think it could have done more with the shape of the pieces on the board themselves.
+36:23
+Like all the buildings are just one, one by one squares.
+I think if you made it a larger grid and maybe the buildings were weirder shape so you had to put more work into like how you organize stuff, that might end up maybe making a more complex game.
+36:43
+But I'm I'm also not sure.
+Yeah.
+I'm also not.
+Sure, it really matters.
+Like I, I think that the, the fun of it is still like puzzling together how you want to upgrade your economy and all that stuff.
+And it's just enough there to make it so you can't just like absolutely phone it in.
+37:04
+You have to think about what you're doing.
+You have to think about what, what do you need next?
+Is it some of the like a lot of the decisions involved, like, OK, I need to move this thing next to this other thing?
+Or like which, which tiles do you want to be on the, the upgraded tiles?
+37:20
+Because there's certain ones that have like the little spell seals that make them go 20 or 30% faster.
+So it's like, OK, maybe I'm going to move.
+I need AI really, really need wheat.
+I'm going to just swap those on there now, even though it's going to, it's been a temporary hit, but like a long term gain.
+37:37
+Can I wait to for these things to run out In order to do that?
+I think there are enough interesting decisions from the thing without having to necessarily make it too complicated.
+What do we think?
+About the like, the specific like tile upgrade systems, because when you place a tile, like let's say you place the the militia man tile to produce militia man you like, there's certain upgrades that you can get later on that will make that militia producing tile better in some circumstances.
+38:13
+You're talking about the building improvements, Yes, Yes.
+You are.
+Thumbs up and thumbs up if you went around basically you'll.
+Have an option like sometimes you'll you'll get a reward, which is Oh yeah, you want, you know this your every 4th militia man you create is a mega militia man and that's like a a one of the perks you might get for a building or I mean a lot of.
+38:35
+Them is this.
+This building produces 2 more of that unit.
+Oh yeah, just like increase.
+Capacity or like maybe like usually like for a hydra that you can only produce 1 but you might be able to get the upgrade where you can hold 2 hydras in one square which is very important when you're limited by a 25 square grid but go ahead Scott.
+38:53
+Well, yeah, I think my.
+I don't know, I feel mixed on this because it's like you can I, I feel like you can only upgrade your unit producing tiles or I guess like all the other tiles from like either events or the shop.
+39:10
+And it felt, it felt like maybe slightly too random of like, you know, is and I don't know, maybe that's just like the the curse of the genre that we're in for this.
+But like, it felt felt like I didn't have enough agency about like, all right, I'm gonna like try to hone in a build in this direction.
+39:30
+And like, it felt maybe like 50% of the time things kind of like came into what I wanted them to do.
+But maybe maybe if it's just 'cause like I'm so early in my king is watching pro esports career, No.
+39:46
+Eventually the ability to reroll, it costs you an increasing number of denari, which is the currency in the game to like 10 denarii to reroll once.
+And then it goes to what is it 20304050 innings.
+So it just, it costs more and more each time and every time you reroll, I believe.
+40:03
+And I don't have like I didn't do a statistical analysis here because this game just didn't compel me to do that.
+Usually I will like This is why it's not going to get the highest marks because I didn't feel compelled to create a statistical analysis.
+But yeah, it's it's a situation where.
+Eventually you're going to get what you want and if they actually like, I'm pretty sure they minimum they once you have three things, choose one of three and you choose to reroll, the probability of getting those the things that you've already seen drops dramatically and probably by half by 7080%.
+40:34
+You almost never see the any one of those same 3 in the next set.
+And there's, and then when you're your total number of sets or your total number of options is something like 10, it's just like, oh, reroll once.
+Oh, OK.
+Yeah.
+So usually what this means is like the first resource you get when when you first starting the game, you want iron.
+40:52
+You need iron because iron's useful for all.
+Like for Archers for excuse me.
+Yeah, Yeah, actually for Archers, for slings, sling men for the swordsmen, which is the only, I guess, militia men.
+But there's a very small number of units that are actually useful and you need iron.
+And so if you get the first option, you don't have iron use use that money to reroll.
+41:10
+And that's your sense of agency right there.
+It's like eventually you learn you need iron right away.
+Eventually you don't need that because that you can kind of skip that whole phase of the game.
+But like that's, that's kind of like one of the the dynamics you pick up so.
+So would that like what do you think would be better between like the reroll and like denarii increasing system or just like you know how like in vampire survivors you have like the banish this option from appearing thing?
+41:39
+That seems like it.
+Might be overpowered, and that's I say that because there's not enough options.
+And that's one of the things about this game is like they're at the like they're tiers of units essentially as you, as you as you quickly learn and the begin intro tier of unit.
+41:55
+There are just not enough for like banished just becomes extremely overpowered because you're just like, Yep, like there, there's there are only in the beginning three good units.
+And if you know, if you don't see them, you roll because you cannot win unless you have one of those 3 units, the militiamen, The Archers, which are fucking great no matter what, and then the swordsmen, everything else is garbage tier and it's like not even close.
+42:22
+And so that's so you're saying the bone?
+Pit.
+What about the bone?
+Pit the bone men are they cost?
+Water are you?
+They cost so much water, they're so weak HP like if you have to regenerate a unit, that means you're not producing something else.
+So it looks like it's cheap and easy, but really once they die and you're constantly having that focus your King's gaze on that thing, you're actually putting way more of time, which is a resource that's not quantified into that, you know, the number of water units it takes to make that into the equation.
+42:49
+And so that's that's The thing is that it's kind of hidden. 2 Two things that reminded me of 1 Scott, you mentioned the whip men, whip men earlier.
+Of such a bad unit, Absolutely the worst.
+Each one is 3% extra damage to all your units, but he takes up a unit slot.
+43:09
+So like you could have 5% more damage by having another unit.
+Like I'm pretty sure it's.
+Objectively, like better to have a unit, literally any other unit than to have him.
+I don't think they ever make your composition better.
+43:27
+This and This is why like.
+Just a simple rebalancing of some of these things, like instead of it being 3%, if it was 100% or you might have a good decision to make, even 10% would be.
+Like, all right, it's probably not good in the beginning, but it could be good later, so you might get it so that you have it later on.
+43:45
+And the other thing I forgot, oh, it annoys me that the upgrades for the basic things like wheat field, you have like your crappy wheat field and then your better wheat field doesn't actually produce any resources faster.
+It has more like a bank.
+44:02
+That's not true.
+No.
+No, I mean like.
+Almost every you can get upgrades for them.
+But I guess like the deep.
+Well or the the big well gives you 2 water per production cycle.
+Eventually you learn.
+Which things are actually useful?
+And so wheat.
+44:18
+Producing 30.
+Percent more?
+That's useful Bricks producing 30% more complete waste of time.
+And so there are clear tiers that emerge as you learn the dynamics of the game, which is like, that's where like the fun of the game kind of is, is like you sort of like get the handle of like, Oh yeah, this resource bricks pointless.
+44:36
+So is the big wheat field.
+Only good because you can upgrade it through one of the building upgrades and the quantity.
+As well, because, yeah, the, the actual quantity, like eventually you run out of wheat fields like I in the beginning, you, there's like an early council person which allows you to have many extra of the starter basic things, which kind of lets you kind of not really pay attention to this much.
+44:56
+But eventually that council person becomes obsolete.
+And so once that's obsolete, you run out of wheat quickly.
+And so you need to like basically learn, Oh, I need to like whenever I have an option for the mid tier of, of resources, always get wheat essentially.
+Or like, look at your, do you have enough wheat to last for a while?
+45:13
+Because as soon as you're out of wheat, you're you're done, basically, right?
+Yeah.
+If you can't feed your.
+Army, you do die, yeah.
+You could kind of survive with.
+Other out other things maybe, but not we I guess.
+Yeah, I think like the the actual like battlefield area itself I thought was like it was like kind of interesting.
+45:35
+I was expecting it to be different at any point that I was playing it.
+Did you unlock the second area where it?
+Does get a little bit different, no?
+But but I did appreciate that there were some interesting like spell interactions with the battlefield where like, oh, here's like a spell that you can use like chop down lumber to get like a big, big like input of lumber at the risk of spawning like an end or something that would fight your units.
+46:03
+I'm like, OK, that's like a good risk reward sort of mechanism to it.
+I just sort of had thought that there would be like maybe more than even just like 2 battle maps.
+I don't know, maybe it's a, a moot issue, but like any kind of like variation to I guess like the maybe a question for our 100 percenter here is like there's like little huts there.
+46:28
+And I think like every so often I would see like gerblins, like moving around gerblins, or like gerblins.
+You know, moving.
+Around through the forest area, but like is there any usefulness or consequence to like the the little village and forest area outside of your castle other than just like harvesting for resources every so often?
+46:49
+No, it's completely like all that matters is the density of the the wood for selecting or for for deforestation.
+So there's a spell, it's a circle and you're trying to put it over like essentially different densities of trees.
+And most of the time you want to maximize like how many trees can I put under the circle?
+47:06
+And that's essentially the only decision that you're making is that risk reward of like, oh, 20% chance of an NTS for every tree destroy.
+Do you have enough units to defend from the NTS that might spawn?
+And that's basically all there is to it.
+And I found that like eventually there's a, a council person, which makes it you can't get wood, but you get all other resources eventually in plenty as a result.
+47:29
+And So what you, the deforestation becomes extremely important.
+And that's when you're like, very early on, you're like, well, I'm going to deforce a bunch of stuff, but I have very little in the very beginning of the game.
+And so it becomes sort of a, a big fork of like, do I win or lose?
+And that's kind of decided right away about, Oh, I just spawned 3 ants, GG.
+47:47
+And it's kind of a, an early game reset sort of criteria, which isn't, it's not fun.
+It's it's sort of a yeah, it's not not the best mechanic.
+Well, it's fun to play around with.
+It once or twice until you yeah, until you learn that that's the thing.
+Like all the counselors there's like what, 30 different ones or something like that.
+48:05
+So pick 6 out of 30 by the time you're fully upgraded like you, that's a pretty interesting like you can mix and match and try and like only 8 are viable.
+Well, OK.
+But.
+You, but you can mix and match until you learn that.
+Yeah, yeah.
+Like the discovery process of that is, I'm assuming, somewhat interesting.
+48:25
+Well, I mean, that's that's the point.
+Here is that like this, this game has two modes.
+The the meta progression is you are going to go spells or not.
+And that's basically the only decision you're making because if you're going to have go spells, you want to have excess spell damage, potentially the ability to have 9 spell capacity instead of 6.
+48:44
+But everything else, there's only like one set of S tier things and you kind of like learn what that is.
+And so this game is just learning the build order.
+It's just like you're, you're playing StarCraft and you're like, OK, what is the build order that I need to play against this very specific enemy, which is the same pretty much every time except for the small alterations you're making.
+49:04
+And and that's I think one of the biggest areas where if you wanted to go from a 100 hour game for 100% to a a sleigh that I can't even speak the words because it's not going to be on quite that level.
+Any game with a meta progression will never be able to be that kind of a, a, you know, sleigh the Spire.
+49:22
+But it would greatly expands the the novelty of this game.
+If there were many, many different build wars that would work, if you could do a skeleton, if you could do a zergling only strategy, that's interesting.
+But by the very end, there is one strategy you're doing, and spells is a very narrow slot where you only have one king that specializes in it.
+49:42
+So basically 6 out of seven times, if you're doing, trying to do 100%, like you're always going for this exact same strategy.
+And the question is, does the RNG give you the ability to pull it off?
+And that's pretty much what it boils down to, Yeah.
+I mean, it sounds sad, doesn't it?
+49:57
+I mean, I had a lot.
+Of fun, but like, that sounds sad.
+Well, I mean, if it was compelling.
+Enough to put 100 plus hours into the like, you know, platinum the game, then you know, it's it's got to have something going.
+It's it's definitely clicking that will box for that kind of figuring out that one very specific system.
+50:15
+The king was gazing.
+On will often to play this game he was working constantly yeah and and it's like a.
+It's like, I think it's a it's a coin flip game almost.
+But just like with Rocket League, like 50% is like fine, but if you could just like behind, if you believed it was 50% but you won like 60% of the time, you just always feel like you're doing like better than you should.
+50:35
+And I think this is like that kind of a game where you're like, oh man, like, you know, this is going to be a close to 1.
+And then you like more often than not, you pull off something that you shouldn't be able to.
+And so that's, that's probably a part of the allure.
+Yeah, I feel like.
+The appeal of a game like I I I'm I'm going to compare it against like Monster Train, where you often do lose, but at the end when you get a broken build, it feels awesome and exponential and and Opie and then you're like fighting the boss.
+51:02
+You're like, I don't know how you could possibly do this if it wasn't broken.
+You never get that quite get that feeling in this game.
+It's it's more AI can get to a point where I have the correct answer and then I do get to maybe win.
+51:19
+But I never feel like I've cleverly put together something like, oh, this unique combination of things that I hadn't thought of before really like jacks up my strategy into something crazy and like, oh, I saw something that would be would have been good in some other run that I've just like completely don't want.
+51:36
+Now you you do get a.
+Huge dopamine hit though when specific things line up.
+Like, like this is RNG, but like this.
+So when you choose the, the king who has an ability and each king has like 3 abilities, basically where they're triggered by certain events, you know, make, you know, once you have a, you know, a certain number of units on the, the field, a number of unique units, there's a whole bunch of different criteria to activate your King's special abilities.
+52:01
+And, and So what makes king special is the shape of their gaze, the number of slots for the gaze, but also these abilities.
+And that's pretty much all there is in terms of differences.
+And one king in particular has a a very advanced resource meet that's like the very end game, sort of like resource or raw meat.
+52:19
+I don't remember what it's just it's kind of a meat shaped thing.
+And there's an artifact which is gain 150 of that resource right away.
+And there's a council person which gives you a relic right away where you are drawing essentially one of three, which could include that relic that gives you 150 of this thing.
+52:36
+So you basically what I'm trying to say is that at the very beginning of the game, you can start producing the most advanced units and that's just like a Oh my God, suddenly I just started with a hydra.
+Now I could just like roll over all of my enemies.
+Like if we're it's just that's those are those are is that fun?
+52:54
+I think it's fun because it's rare, but like it's it's very broken.
+It feels like.
+Like kind of winning a gambling lottery.
+It it does, yeah.
+Yeah, I mean, I feel.
+Like in a lot of games like this, absolutely crushing your enemies is fun if it doesn't happen too often.
+53:11
+Like there are the times where, you know, Mazda trains like the Spire, you just get a build where you're like, I beat that boss and he didn't get a single hit off.
+That felt awesome.
+And sometimes it feels awesome and earned.
+53:30
+This maybe sounds like it felt awesome, but maybe not quite earned.
+But you know, there there's a subtle difference between those two.
+You can.
+Just because you didn't earn it doesn't mean it doesn't feel good necessarily.
+It's interesting how.
+Agency matters so much in this, like if you're just like, you know, I mean, just to take the example, like the slot machine, when you're just, you're pulling the lever and the things are spinning and you win like that, that does feel good sometimes.
+53:58
+But like when there's some skill involved and you add like, you know, to a game of poker, for instance, even if it's algorithmic, like blackjack, like these are the specific things you should do at these moments.
+If you've memorized the algorithm, like you feel a sense of agency.
+And so there's something broken about humans where games like this can take advantage of that sense of agency often times.
+54:18
+And, and in cases like this where it's just a slot machine, it still feels good as long as it's like you said, not overdone monkey sees.
+Action neuron activation.
+Yeah, I think.
+I think what?
+It is is.
+It really doesn't take that much for your brain to feel like you did it.
+54:36
+Like I rolled.
+Yes, I I rolled that not 20 like no, that was just pure chance.
+There there was no skill in your your hand is not better at rolling a dice but feels great or like watching a watching a a sports team.
+54:53
+You actually have no agency in that whatsoever.
+But for some reason that tricks your brain into thinking we did good.
+It's like you didn't do anything you watched the TV.
+Well, if we want to talk about.
+Agency.
+How about spells?
+We haven't talked about spells at all 'cause that's the one thing where it's, well, the one, I mean of many, many things it it, it feels very impactful for the overall game.
+55:14
+How, how involved in spells did you get spells I think were.
+The only reason why I beat the gaping MA boss the second time around because like I had like some decent production going.
+I had like all the buffs and stuff, but like I was still just like, oh man, like it was it was like a coin flip like am I actually going to beat this guy or not?
+55:32
+But I was like boom drop like the invincibility spell, boom drop like the increase their Max HP by 30% spell tornado.
+Tornado on like one of the waves.
+You're like, all right, I'm going to make sure this wave has I'm going to stack both of the hard ones on there because they're both things as like 20 swords goblins and like I'm just going to get all of them the tornado, there's like 40 sword goblins.
+55:56
+They're like bye bye.
+Very good, very good feeling and that, I mean, that's not like there's not that much agency in it, but it does there there is your there's a little bit of planning that goes into that.
+Yeah, I mean being.
+Able to to like turn some big enemy that's like definitely going to annihilate you into a sheet for three seconds.
+56:14
+You're like, OK, that's just enough time for me to get this next production wave out.
+And like having that, having that work in a very specific way felt really good.
+Yeah, I thought the spells were good.
+I felt like there was enough push and pull of like do I want to use these early on in like the the normal nine wave battle system or do I want to bank them up for the big boss?
+56:38
+Well, I don't know like if I if I use this one here like, I won't have it for later.
+But I think in some ways it depends on what the.
+Boss is like I after getting absolutely wrecked by the dragon boss, I went online to find out if other people were also equally angry about said boss.
+56:57
+And I mean if maybe he is a little bit cheating but spoiler spoiler spoilers.
+The the way to do it is bells.
+You can you can get by him with spells.
+You know he's about to do his big flame run.
+You could just stun stun lock him for a SEC and he won't do that that he doesn't give you an auto victory by any means, but it does let you mitigate that very slightly.
+57:23
+So you're like OK, cool, you know that boss is coming.
+Don't use your stun spells or if you see one grab it like that felt that feels like all the all the.
+Stun spells, the sheep spells, that's like you, you there's kind of like 2 tiers of spells.
+There's like the all right, here are the stunning things for the boss which you save, and here are the mass, you know, AOE damage spells, I guess, like healing spells.
+57:47
+And that's basically the three things that you're mainly interested in.
+But.
+You just keep the you.
+Just keep all of the the stun spells to the boss and that's kind of the strategy, right and the AOE you.
+Just use whatever you feel like you can get the most work out of them.
+Did it feel like?
+58:03
+The and I guess, I don't know, like so spells, you get more spells through the meta progression.
+Did it feel like the pace of the meta progression felt OK here?
+I felt like it was.
+A little slow on the kings, like the breast of the upgrade stuff felt fine, but I wanted to play more of the Kings and I didn't want to have to play them.
+58:29
+Like so you, you, you play the king and you have to get a certain amount.
+You have to, to basically like beat the game first in order to unlock all their stuff.
+But it's like cool, once I've beaten a full 3 boss wave to unlock a stuff, I now don't want to play that king again, I want to try the next one.
+58:52
+So I felt like they could have let you unlock some of that stuff a little faster just so you could like experiment around.
+And then like once you found like, oh, OK, I like this guy.
+I'm just going to buckle down and like try and get to a higher wave level with him because they're like 30 Denari, unlock whatever coins, which is a substantial number of other upgrades to unlock.
+59:15
+Like some of these kings.
+It's like, well, it feels like the wrong upgrade choice.
+And I don't like that.
+I want to be able to play with them and like, test them out.
+Yeah, I think.
+That was one of my like first criticisms, like, you know, in a in very like meta progression heavy games like this, like you're going to fail the first couple times and that's fine, but it it almost feels more like you fail because of the meta progression.
+59:41
+Like Yep, like you failed because like you're doing like 80% less damage than you would be like 5 hours from now.
+But like you'll make that up by like this kind of not like grind is too harsh of a word, but you know, like this, this gradual unlock system like Hades kind of has the same problem of like you're so comically underpowered at the start, but like it'll be fine 10 hours from now.
+1:00:04
+Don't worry.
+I was going to use Hades as the counter example.
+Like Hades, you are super underpowered, but you can persevere anyway because of great skill.
+Well, yeah, there's that.
+I mean people, people.
+Absolutely beat Haiti's first run because they're nuts.
+1:00:19
+There is no such thing like one, it won't let you because it won't like give you.
+You have to beat the difficulties in a certain order.
+So you just physically can't beat wave or whatever ascension 10 on your first run, But also you couldn't like without meta progression you could not beat the game of higher difficulties.
+1:00:40
+Like no matter how good you are, you're a perfect AI robot who knows exactly how this game is run.
+It's like you need the meta progression in order to succeed at the higher levels.
+Here's a solution.
+Instead of paying the it's not denari, it's a different it's like the unlocked currency.
+1:00:55
+Instead of paying that to unlock kings, it should just be like you unlock this on the base of being the game a certain number of times.
+It actually is Denari.
+It's called the town Denari.
+Oh, it's.
+Terrible.
+Oh my God, Green box there's.
+1:01:11
+Purple box in green box.
+I just looked it up.
+I was like.
+Really.
+Hound denari, at least call them like sistari or something.
+If you're going for Roman coins, it could be.
+Maybe it's a?
+Trans a localization thing that like in in Serbian it makes perfect sense, but translated to English is just like oh OK I got it.
+1:01:30
+So Denari is the.
+Roman silver coin?
+What's the Roman gold coin?
+Galartic.
+This is sorry I can't.
+Remember well it felt.
+Like even after losing a run, it felt like I didn't really have, and I think this is this is also me problem.
+1:01:48
+But like it felt like I didn't have enough interesting options to like draw me back into a second run of like, oh, like I can go and unlock this thing now.
+I'm so excited to go and like try to play out with this new thing and it partially my fault and user error because like you you come to the upgrades screen which OK like number.
+1:02:11
+One like you, you.
+You go to your you go to your like your your your Mordor, your happy Mordor village and you have to spend meta progression to unlock the other buildings, which I thought was questionable.
+But like you go to you go to the upgrade screen and I like the art here is is great.
+1:02:26
+Like all these little screens have like amazing art and like the upgrade screen.
+You just have like this ominous eyeball in the the center with like these like cool like tech tree going in different ways that it is genuinely unclear if.
+You're the good guy throughout this.
+But like, it starts on the yellow 1 and I'm like, I didn't somehow did not notice that there were different colors on the bottom of the screen that you pick for the other trees.
+1:02:52
+I was just under the assumption of like, oh, if I just like spack out into another like branch of this tree far enough, it will like grow like Path of Exile style.
+Like it'll zoom the map out and be like, oh, these are the other things to unlock.
+So I was like dumping a bunch of upgrades into the yellow system at first, which I think is like, are those like buildings?
+1:03:11
+Yeah, Reds, what you want?
+To do right away, yeah.
+And the second you pointed that out to me, I was like, OK, I'm, I'm pretty sure like this was 75% my fault, but it's still 25% the game's fault for not telling me that.
+Absolutely the UI.
+On a lot of these screens is not intuitive and that is a very I, I think it's a very true.
+1:03:33
+It was not obvious to me.
+Like as soon as I clicked that and I noticed there was new new options, I was like, oh that is unexpected and OK, well I'll just now I click.
+Everything because I don't know what.
+Is going to react to a click.
+Yeah, I didn't make that.
+Mistake.
+But I looked at it once you had said that and I was like, Oh yeah, absolutely.
+1:03:51
+I could see this being the IT was.
+It was me and the dice romancer where I didn't know you could like, spend the dice.
+I was remember when.
+We did that podcast and I was so mad.
+So this core.
+Central mechanic of.
+The game, yeah.
+I was like, well, I guess.
+Fuck me I just played this game.
+1:04:10
+But like, you know, you're getting you're getting 30 green bucks to spend on all these different meta progression things.
+But like you got to unlock the building first.
+You have to unlock all of like the items in the building.
+Like just to just to enable other Councilman people, you have to unlock the building, you have to unlock the different Councilman, then you have to select them.
+1:04:31
+Confusingly, I don't know Will, if this is actually useful for anything, but there's like a just a gallery building that you can unlock that just has like pick pictures in there.
+And I was like, I'm just going to unlock this just for the sake of a talking point here for the podcast.
+I unlocked it and I was immediately regretting my decision of like, yeah, it's a waste.
+1:04:50
+Yeah, that's that's a bad.
+Feeling if you don't know what, yeah, if you don't know the outcome of the what you're going to do and it's a -1 that's a, an unfun mechanic, yeah.
+Well, it's.
+It's annoying.
+Too, because they already have the other alternate currency, they've got the the ascension token.
+1:05:10
+Kind of things or yeah, whatever those.
+I don't know what they're called, little crystal ascension token, things like that could be what you use.
+It should be what you use to unlock the kings and it should be used on unlocking like the gallery.
+You're like, what do I want?
+1:05:25
+Do I want the gallery or do I want another king?
+It's like I don't know.
+And these are these are like super impactful gameplay wise.
+I don't feel like I'm compromising my meta progression of my next run by picking these MM.
+Hmm, another one of the.
+Buildings is the challenge building that I guess just kind of tells you what the challenges are for each king, which I thought was like, I don't know, I, I feel like the only useful building, the two useful ones here are the upgrades and the council.
+1:05:54
+And the other ones are just kind of like felt like they should have just been like a like a pause menu option that like the challenge one, like I can kind of see like maybe don't overwhelm the player at first.
+I can kind of get that.
+That's what it is, I'm pretty sure.
+But the other one, the.
+1:06:09
+Encyclopedia I was like, well, this is just the thing from in the battle part of the game, Like why, why did I spend like the meta progression currency to unlock this it it felt very confusing from a user perspective of like, well, like I've already seen this before, Like I guess like it's good that I can see this stuff out of battle and that's something that like we kind of complain about about a lot of this podcast, but the same time, like spending meta progression currency feels kind of, I don't know, like weird for it.
+1:06:40
+At the same time, I like, I don't know, I feel like maybe Hades did something similar and we're just like, oh, brilliant game design, great job, but I don't know, there's something about it here that doesn't feel right.
+No Hades had like.
+I mean, Hades has like what, 3 or 4 currencies when you really get down to it.
+1:06:56
+So I think that's the that's the real problem is that it's your you're you're trying to make a decision between do I want to unlock like a gallery, which sounds like probably doesn't have anything in it, or do I want to unlock a new king, which is going to cost a lot?
+1:07:15
+Or do I want something that's objectively going to make me better at the game immediately?
+And it feels kind of bad to not pick the one that makes you better at the game.
+Yeah, absolutely.
+I was also wondering.
+If like a, a refund system for the meta progression tokens would be a good idea here 'cause like I was clicking on things I'm like yeah, I guess I'll upgrade this and then I would like hovered over something else.
+1:07:39
+I'm like, Oh no, I really wanted to do that instead and if I could like Oh yeah, I guess I can't unclick it, but I guess that's fine.
+I don't know, like it feels like there's an option here to like explore because there's like there's a lot of stuff.
+There's four different upgrade menus, yellow, red, green and blue that all do different things.
+1:07:59
+And like, oh, OK, like I've banked up like 500 of these green coins, but I can only unlock like 20% of the stuff so far.
+What about like, I'm just going to refund it all and then I'm just going to spec out in this totally other direction and like see how the game is totally different or or maybe decide?
+1:08:17
+I just don't want to ever have gnomes.
+Just a waste of draw space.
+Nom nom.
+Yeah, now the orange.
+Crystal currency, I think could serve that point like as a most games have the oh, you didn't have the right path initially and you want to reset, Here's the elixir, which lets you forget or whatever.
+1:08:40
+And and in this case, using that currency to wipe out all of your decisions and let you re spec that that's just a mechanic that we understand is better in the modern gameplay and they just didn't do it here well like that.
+1:08:56
+Also feels like something that you could add in.
+It doesn't seem like the game.
+Yeah, can't.
+Review can't review a game based off what it could be though.
+True, true.
+But I do think that there is like there was something that was doing how, how?
+Actively, are they developing this game?
+I thought I Yeah, What was?
+1:09:11
+It as of yesterday so we're recording this on September 9th as of yesterday they have a blog or a steam blog post about like the future plans and all these things and I'm sure that like basically all of our criticisms are probably addressed by it of like we heard we we heard the podcast we were just gonna fix all these things that they said because new.
+1:09:31
+Kings improving build predictability while roguelike random is part of the fun with blue players should have a more reliable way to steal their build direction.
+Yeah OK.
+Quality of life improvements, yeah, they'll do it.
+They're they're doing it all, I'm sure.
+1:09:47
+So there's not like there's.
+Some games that we like that we've played, which like there's no way they could incorporate this thing because like there's no physical way it could integrate.
+But something like a yeah, like you drink the memory potion and you oops, all of your coins have fallen on the ground and you can respect them now.
+1:10:04
+Like that seems like something that they could add and that would that would definitely change up that style.
+So it doesn't seem like they painted themselves into a corner on that quite yet.
+But yeah, based off.
+The fact that they're they're, they can only tease the new map, saying it's shaping up to be a hell of an addition with hell italicized, I'm guessing it's a hell map.
+1:10:27
+Wait, wait, wait A.
+Minute.
+So they're doing like a normal grassy field, forests, and then they're going to do a graveyard, and now they're going to do a hell map grave in hell.
+Those are too close together, aren't they?
+Well, one's gloomy.
+The other one one's.
+Undead and one's demons.
+There you go.
+1:10:43
+I mean I get.
+I to be honest, the difference between those maps basically nothing.
+Almost pointless for me.
+As someone who used that council person which very tree dependent I the graveyard was just worse because it has fewer trees.
+And so it's just like, Oh well, yeah, they have the mechanic where instant dumb mechanic, but like you make architects who go out and like harvest resources and it's just like, and there's a resource that like you use in this other progression.
+1:11:10
+It's just like, oh, you're expanding complexity.
+I understand.
+But like it was just it feels so forced.
+It felt dumb bad.
+Well, I forgot.
+About this, I've never used them.
+There's a couple buildings that attack the units, like attack themselves like a Tesla tower or whatever.
+1:11:30
+Yeah.
+Are those ever good?
+No.
+Do they work at all?
+It's.
+Yeah, like the whole like, yeah, so you can have units attacking units and you could have like the the actual resource.
+Area in your. 25 grid area to actually attack units and yeah that's never, never good.
+1:11:48
+Even if you can get like 6 Tesla towers, it's better to have that, the resources and the time dedicated to create those put into something else.
+And the main reason for that is because every time you have a duplicate of something, it costs more.
+Your first Tesla tower, cheap, easy.
+Second one, like 1020% more and so on and so forth.
+1:12:08
+And so like once you have a lot of them, like yeah, sure.
+Like the benefit you get from an upgrade which is like plus 100% damage sounds good but you've already invested like way way.
+More resources into it.
+So it, it, it, these are the things that's like, oh, you learn it once and then it's just like, oh, now I'll never do that sort of a thing.
+1:12:26
+This whole branch, the whole branch you created over here for this sort of style of play is is is moot.
+I do kind of wish there were.
+More restrictions and punishment on your on like your production play area of like oh this demon boss has come in and like a giant meteor will come in and strike and set like 4 adjacent tiles on tire and like you can't build there now for the next like 60 seconds or whatever.
+1:12:50
+No, that, that's that.
+Happens.
+Wow, so you haven't?
+Actually beaten the game without that well.
+Once you get to the end game, every.
+Single space is -20% it starts with like every single tile -20% except for two, which are plus 20%.
+And they're all covered in like grassy vines, which take a long time for you to like meltdown and remove.
+1:13:11
+And then later, like eventually they, they refill in.
+So like any open space you have to have filled, otherwise it's going to be filled with garbage.
+And so they do this and and and.
+Like one of the the the the Level 3 bosses like shoots stuff at your building so they stop working good.
+1:13:29
+And they they they give it, it gives them the same red red buff as if you had or a debuff as if you had moved it.
+So there is a there is some stuff in the later game that they mess around with your map like the the ascension.
+Levels on the graveyard in particular have really dumb mechanics that I fucking hate.
+1:13:49
+Like there's one where there's a carousel that you, you, you have to like save up gold, which is a very hard resource when you start in debt.
+And so you save up gold the out of debt you pay for this thing and you have to like actively gaze at it so that it spins around.
+So this creature that's just walking idly around the screen doesn't get mad because if it gets too mad, what happens is he'll die.
+1:14:11
+And then the boss, his Big Brother, will come along with twice as much health and twice as much damage, if I recall correctly.
+And so it's just like a, hey, if you don't, if you don't maintain a gaze on this square and put investment into this, then your boss will kill you no matter what.
+1:14:27
+And it's just.
+It's not actually a choice, it's just a restriction.
+It's not a fun mechanic.
+It there's and there's a lot of like little like there's a lot of those sort of like, well, you have three options essentially which happen at this cadence.
+You can either have meteors coming in, which frees all your units and here's the remedy over here, which you have to invest resources into, or you can have this or one other thing and it's just like three options over and over and over again.
+1:14:54
+It's.
+Lame.
+You need to have.
+More contents.
+That's that kind of kind of captions my feeling about a lot of this.
+But if they're building the game more great, maybe you can actually make something good.
+Yeah.
+Yeah.
+So we can make a great game out of this.
+1:15:10
+I think this game could definitely go up half a point, a full point more than what I'm going to rate it as a result of some bad decisions.
+OK, I've got a solution.
+All of the all the units are replaced by like these small little cubes with terrible graphics that like like jitter around the screen and like bolts at each other.
+1:15:29
+Oh, I love it, yes.
+We could call it a chaos.
+Cube or something?
+The cube is.
+Watching TMTMTM.
+Patent petting.
+Yeah, we.
+Oh, I guess one thing to talk about before jumping into ratings.
+1:15:45
+I think the music in this game is really good.
+Really.
+I liked it.
+I don't think it was like crazy good, but I thought it was.
+It was pretty good.
+Yeah, I think like.
+And there's not like a huge variety to like the soundtrack, but I thought it was good enough as like a nice kind of like thinky background music.
+1:16:06
+And then when the enemies come on the screen like it, it transitions into a, a nice like battle variant of the music.
+Then I'm like, OK, yeah, like that.
+That works really well.
+It's not like too overwhelming or anything, but like, then it comes back down to peaceful piano music.
+1:16:22
+And I'm like, OK it, it feels very soothing.
+And I think they did a good job with it.
+So it's it's no Mr. Crinkle, that's for sure.
+Inside joke.
+No one's going to get.
+So it never doesn't matter.
+We'll fix it in post.
+Don't don't don't worry about it, but just please tell me why Mr. Crinkle Robert can mark that on his his his bingo space as he's listening to this all right, jumping into ratings.
+1:16:47
+I guess I'll I'll start first by having Andrew start us off first with he he said in his absence, say something about how he doesn't like the divine right of kings.
+So so we'll, we'll pencil that in with some fake number rating at some point.
+1:17:06
+But I think for me, I'm gonna give this game a a 7.4, tying it with loop hero, which I think has a similar like very strong art aesthetic, questionable meta progression kind of style to it that I'm sure works for some people.
+1:17:25
+I'm not really sure if it's my kind of thing, but yeah, I would say like overall I had a a a fun time with this game.
+Maybe my my nitpicks are that I think yeah, the the meta progression like kind of for me feels a little too slow.
+Like there's not like it feels too locked in when you're experimenting with stuff.
+1:17:45
+I wish there was a refund button.
+I think the runs take just slightly too long.
+If they were like 5 minutes shorter, I'd be like, OK, yeah.
+And I know that there is like a the turbo button, but if there was like a.
+A.
+A.
+Another.
+Borrow from cube chaos design element of a don't speed button where it just goes like so fast it sets your processor on fire.
+1:18:08
+That would that would help with some of those things like OK, I got my production going.
+I know what to do for this next wave.
+Just get get me there.
+Just hit the don't button and then just auto accelerate me there.
+But the goods here, I think the the art is really, really strong.
+1:18:24
+I think this game has a very nice visual identity to it.
+Like all of the it's just it's just so nice to look at.
+And even on my tiny little Steam deck screen, it was it was enjoyable.
+Like I thought this game had a lot of good charm and and wacky aesthetic to it.
+Soundtrack is good.
+1:18:39
+And I think that like, yeah, there was a good amount of interesting decision making with this that I was like, yeah, OK, this is it's unique and, and novel enough that yeah, I could see like definitely grinding this out for the longer haul.
+1:18:58
+I'll go next.
+Unlike Scott, I'm also going to give it a 714, which, yeah, I think I have similar ish criticisms and praises, but maybe a little bit a little bit of differences.
+I mean, I, I thought something that before, but the, the way the unit count stuff works really bugs me.
+1:19:22
+The fact that you are so encouraged to get rid of low tier units because they're taking up space in your army.
+Just the the way it works just feels not as good and it I I think that it would if you just had a higher unit cap, I think you'd end up with a similar gameplay difficulty.
+1:19:49
+Did you?
+Did you put the?
+Units into the castle once they're once they're expired in terms of their usefulness, Do you just keep them in the castle?
+Yeah, but then you're still.
+Just like, I mean, yeah, I did, but it's not as it's not, it was not like it's a, it's a good strategy 'cause you don't want to have like your waves go out.
+1:20:07
+But like, it still feels better to have a big big army.
+Like I wanted an army 20 guys is not quite an army, but that was not like a as huge of a criticism.
+I I enjoyed figuring out how the how the stuff worked.
+1:20:23
+I don't think that I have 100 hours in me like will.
+I think my satisfaction with understanding how the game works is topping, you know, 20 to 25 hour, maybe 30 hour mark.
+So probably would were were we not playing this podcast and forced to move on to the next game every two weeks, I would probably, that's where I would think I would have capped out at.
+1:20:45
+But yeah, 7.4 I, I absolutely recommend it if you want a beard scratcher game, if that's your kind of thing and that is.
+Precisely what I'm after.
+I had the advantage of actually starting this game two weeks prior to when it was declared as the game.
+1:21:02
+That's how we were going to do so.
+That's how I was able to dump in so many hours, and I dumped in so many hours because I'm having a great time despite the flaws.
+I think most of these flaws are things that can be remedied.
+I think this game, right now, I'm going to give it an 8.5.
+1:21:20
+I think this game could be a 9.5 if it solved these solvable problems.
+I had such a good time.
+Figure like even though there is just essentially one or two build orders you're trying to get to and even if there are tiers of units where most are F and then S and you'd love to see SABCDF.
+1:21:45
+I think those are things that can be solved.
+And that's just a matter of tweaking.
+How much damage does this unit do?
+How much does it benefit the other things?
+And it's just a matter of some small adjustments on the back end.
+And so I love the art.
+Like I said, the music.
+I don't I don't I turned that off right away.
+1:22:00
+But like everything else, I I, I had a great time playing this game.
+The meta progression makes sense, but it is of course in the game with meta progression.
+Once you get to the ends, that's it, which is absolutely fine.
+There are only so many infinitely playable games, chess being one of them, Slay the Spire being the other two.
+1:22:22
+There are two infinitely playable games.
+And so outside of that, I, I, I really appreciate the meta progression because it is an immediate draw to come back to the game.
+So yeah, 8.5 for me.
+Well, that's gonna land.
+The king is watching at a solid perch atop its eyeball tower of the 20th slot on our rankings so far out of 79 games.
+1:22:45
+So overall pretty good.
+I think we were we were pretty critical of this game from a from a place of love, possibly, but but yeah, I think overall pretty good standing some similar games to King is watching.
+1:23:02
+We have some well previous episodes.
+Cube chaos I think is similar for various reasons that if you look at it for 5 minutes, you'd probably understand.
+Against the Storm I think is similar in the sense of kind of like automation, maybe not so much from the combat aspect, but the last spell also feels very similar in terms of base building slash heroes.
+1:23:26
+Hour I think is very similar to this.
+It's a an auto battler with a lots of varied units and I'm not sure if that qualifies as a rogue like.
+Maybe can I choose that one actually?
+Well, I guess we haven't had time to research that.
+1:23:41
+Is it qualify for the podcast?
+Because I would pick that one over the one I'm about to recommend.
+But I.
+Started to throw that wrench.
+Into the production right now, but Heroes our I absolutely enjoyed.
+No, it's not.
+Like.
+Yeah.
+Anyway.
+1:23:58
+So, so so more similar games.
+I've played a little a little bit of 9 Kings, the demo for that, which I thought was very interesting and similar from like a tile placement slash battle mode scenario.
+There's some others that I've thrown on here for reasons that I don't remember, but Dawn Folk, Border Pioneer, Colin.
+1:24:17
+I think at one point you would recommended Nordhold and and Tower Dominion.
+Also I think is something interesting.
+I want to call out a a weird pick here called Bee Island which the trailer for just looks absolutely batshit insane.
+1:24:34
+I don't know if it's like as similar to King is watching from like a a build and battle scenario.
+Definitely not as top down and grid based, but just absolute, absolute madness.
+From what I can tell at PAX recently I played a little bit of Shape Hero Factory, which is like, what if a, a, a cutesy cartoony factor Factorio approach for building out units.
+1:24:59
+And I'm like, oh, this, this has got Colin written all over it.
+There's Rogue Command, which is more of kind of like an RTS game, and I've played Shape Hero Factory.
+It's fine.
+It's fine.
+I I mean I have.
+Actually a very legitimate criticism against games like this and that.
+1:25:16
+It's because I played a couple of them where you build factories over and over again and it gets annoying to build it the same thing more than once.
+Sure.
+Yeah, I could see that.
+And yeah, I only spent maybe like 15 minutes playing it on the packed show floor.
+But but yeah, I think those are some games that that scratch that same eyeball itch as it were.
+1:25:39
+But yeah, that'll that'll wind down.
+Our King is watching episode if you want to send in your eye of Sauron gazing stories.
+Grog pond zone@gmail.com Mastodon is grog pot at game dev dot place grog pot dot zone.
+We we did get a very nice humongous listener letter that I think this morning that popped up on my phone that was that was very nice about someone really liking the show and some extra, extra things for us to check out, which I will probably save for at for a little bit later.
+1:26:13
+But yeah, that's going to wind us down our next episode here.
+Will, I think you had picked the deck builder, the overwhelmingly positive the the the pool is getting ever smaller every day, but overwhelmingly positive cobalt core.
+1:26:30
+So I hear that's the last one.
+I'm pretty sure of all the ones we haven't played so far, that's overwhelmingly positive.
+I think I, I played a bit of it, you know, right.
+And and I don't know if it's possible because you haven't done the research.
+1:26:45
+To know if it.
+Qualifies, but if we played Stacklands, we should be able to do Heroes Hour and I would definitely make the switch because I kind of know what to expect from each.
+I don't know.
+We can, you could.
+I don't know if this is offline sort of discussion, but you'll have to tune in next.
+1:27:02
+Time you'll have to tune in which one of these two very different games.
+All right, well, playing us out from this episode will be some smooth, soothing piano pieces for producing peasants to protect from peril.
+1:27:27
+Breaking news, we have an actual decision for what game we'll be playing next week after extreme careful, thoughtful deliberation of 30 to 45 seconds after I hit that stop recording button, Will, what is our next game that we are actually playing next week?
+1:27:45
+Heroes Hour.
+I'm so excited for this.
+I'm glad that we could all agree that it qualifies because, yeah, this, this is the extension of kings.
+You know, the kings watch.
+Kings watch.
+No, that's not right.
+1:28:00
+The King is watching.
+We just finished recording like 2 minutes ago.
+Yeah, this is going to be a great game.
+Heroes Hour.
+I've I've loved in the past and I am very much looking forward to seeing it now that it's been developed so much more than when I played it originally.
+Right we.
+1:28:16
+Will send you back to your regularly scheduled programming of soothing piano pieces for producing peasants to protect from peril.
