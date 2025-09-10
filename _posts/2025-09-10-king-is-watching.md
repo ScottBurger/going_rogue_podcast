@@ -24,11 +24,23 @@ Eye see you! This week we gaze upon the wonder of The King is Watching: the king
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-king-is-watching/id1650474911?i=1000725839697) | [Spotify](https://open.spotify.com/episode/2grwlMWtICzW7uqCwMwg0r) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/nightreign.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-king-is-watching/id1650474911?i=1000725839697) | [Spotify](https://open.spotify.com/episode/2grwlMWtICzW7uqCwMwg0r) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/king-is-watching.txt)
 
 ---
 * 1:43 - Game stats
 * 3:33 - One sentence description
+* 7:55 - First impressions & tutorial system discussion
+* 11:52 - Advisor Gustav & art design appreciation
+* 17:13 - Prophecy system & wave difficulty selection mechanics
+* 22:29 - Meta progression & strategy optimization criticism
+* 26:59 - Unit types & army composition limitations
+* 33:31 - King vision patterns & strategic differences
+* 39:10 - Building upgrade systems & RNG concerns
+* 45:35 - Battlefield mechanics & spell interactions
+* 55:14 - Spell system effectiveness & boss strategies
+* 58:29 - Meta progression pacing & king unlock issues
+* 1:05:54 - UI problems & upgrade tree navigation confusion
+* 1:15:45 - Music quality & overall game polish
 * 1:14:54 - Rankings and final thoughts
 * 1:20:49 - Similar games and show wind-down
   
