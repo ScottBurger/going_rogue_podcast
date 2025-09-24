@@ -24,7 +24,7 @@ Zyzz up! This week we eXplore, eXpand, eXploit and eXterminate all sorts of fant
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/heros-hour/id1650474911?i=1000728163570) | [Spotify](https://open.spotify.com/episode/4bLfjBGYT0Jx3ly1azBVLg) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/king-is-watching.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/heros-hour/id1650474911?i=1000728163570) | [Spotify](https://open.spotify.com/episode/4bLfjBGYT0Jx3ly1azBVLg) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/heros_hour.txt)
 
 ---
 * 1:28 - Game stats
