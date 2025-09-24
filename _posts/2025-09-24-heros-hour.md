@@ -40,7 +40,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: Gene Ammons - Someone to Watch Over Me
+Intro music: Wes Montgomery - A Day In The Life
 
 Outro music: Hero's Hour OST - Decay
 
