@@ -29,8 +29,17 @@ Zyzz up! This week we eXplore, eXpand, eXploit and eXterminate all sorts of fant
 ---
 * 1:28 - Game stats
 * 3:35 - One sentence description
-* 1:01:50 - Rankings and final thoughts
-* 1:10:04 - Similar games and show wind-down
+* 8:09 - Roguelike classification debate & 4X game genre discussion
+* 15:08 - Tutorial experience criticism & new player onboarding
+* 22:17 - Combat mechanics & auto-battler system explanation
+* 25:22 - Dominant strategies & bodyguard champion meta
+* 33:27 - Puzzle solving nature & replayability concerns
+* 40:44 - Hero recruitment & army management strategies
+* 48:14 - Faction variety & DLC content discussion
+* 53:35 - Developer interview about missing campaign mode
+* 58:12 - Art style & music quality appreciation
+* 1:01:50 - Rankings & final thoughts
+* 1:10:04 - Similar games & show wind-down
   
 ---
 
