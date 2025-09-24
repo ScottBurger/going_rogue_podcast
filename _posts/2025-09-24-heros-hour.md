@@ -6,7 +6,7 @@ file: https://grogpod.s3.us-west-2.amazonaws.com/heros-hour.mp3
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, hero's hour, 4x, heroes of might and magic"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/heros_hour.jpg
 thumbnail-img: /assets/img/heros_hour.jpg
@@ -24,13 +24,13 @@ Zyzz up! This week we eXplore, eXpand, eXploit and eXterminate all sorts of fant
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-king-is-watching/id1650474911?i=1000725839697) | [Spotify](https://open.spotify.com/episode/2grwlMWtICzW7uqCwMwg0r) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/king-is-watching.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/heros-hour/id1650474911?i=1000728163570) | [Spotify](https://open.spotify.com/episode/2grwlMWtICzW7uqCwMwg0r) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/king-is-watching.txt)
 
 ---
-* 1:43 - Game stats
-* 3:33 - One sentence description
-* 1:14:54 - Rankings and final thoughts
-* 1:20:49 - Similar games and show wind-down
+* 1:28 - Game stats
+* 3:35 - One sentence description
+* 1:01:50 - Rankings and final thoughts
+* 1:10:04 - Similar games and show wind-down
   
 ---
 
@@ -46,5 +46,5 @@ Outro music: Hero's Hour OST - Decay
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzzzzzzzzz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-_-Pp7BAP1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
