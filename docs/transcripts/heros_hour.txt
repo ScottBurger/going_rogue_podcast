@@ -1,0 +1,1172 @@
+0:14
+Greetings heroes, and welcome to another episode of the Grog Pod Roguelike podcast, where each one of these episodes we ride in on our war ponies into a roguelike game asterisk clash in climactic fashion over ratings on them.
+0:30
+And if they're good enough to be resurrected by magic at the end of the season, have it come back for our end of season tournament recap.
+Oh Mega Bowl episode.
+I am your bullhorned doppelganger host of the podcast Scott Berger, and with me are my summit of champions that I spent a lot of gold to hire for this episode.
+0:50
+Well, that's too bad.
+I'm not a champion, I'm actually just a lowly Weinery Arbalist sitting way back defending and racking up the kills.
+This is Will by the way.
+And I'm calling a lizard who lives in a swamp, and if you defeat me, I will send units to you weekly.
+1:06
+Well, this week we are playing the The Game Heroes Hour, released February 9th, 2021 on itch dot IO and then later on March 1st, 2022 on Steam.
+This was developed by a solo indie dev, Benjamin Hauer, who goes by the moniker Things on Its Own on the interwebs, a Danish psychologist, which I thought was quite interesting.
+1:36
+Another game that he's created is called Lodestone, which is another thing I think roguelike question mark game on his itch page.
+But this was published by 1 Goblin with AZ Publishing who have quite a number of other rogue style games under their umbrella that are I think a number of them are stay tunes and a half.
+1:58
+Number one on the list being the game that I've been trying to lobby will non-stop to play with Shogun showdown.
+But they've also done soul sesto, legend of keepers, nitika, banners of ruin.
+People may have heard of a neon Garten was one that I played for steam Nexfest that I thought was quite good.
+2:16
+But they've also done some other non rogue games like Colin.
+I think you've played the Terraformers first steps on Mars game.
+That sounds familiar at all, but they've also done Iris and the Giant which I believe is like a more story driven game.
+Heroes Hour.
+Your average player of Heroes hour has about 39 hours of gameplay in it.
+2:38
+And is that?
+Good or bad?
+You know, I would say that's pretty good for for this kind of game.
+You know, I think having that level of engagement, I mean we'll get into it, but for for some folks more and more so than others, I think is is pretty good.
+2:53
+But what what's funny is so like the 10th percentile, everyone's already tuned out at this point doesn't matter 33 hours at the 10th percentile and 289 hours at the 90th percentile.
+So there's there's a good good chunk of stuff in this game.
+Speaking of percentiles, this rolls in at the number 223rd most popular rogue like game on steam with 5483 total reviews.
+3:19
+Now will as the the the verdant obelisk faction here you or I guess no the the verdant what is it Scroll scroll scroll verdant decay faction you have happened to cross a nearby obelisk that's giving you a clarified vision.
+3:35
+Why?
+It just happens to be a one sentence description of what one does in Heroes Hour.
+One sentence.
+OK, that's a little tough, but let's see here.
+This is a a fantasy auto battler where the objective is to build an army full of champions and general peasants and other basically a bunch of dudes from over 300 different unique units to conquer your lands and conquer the world to become the I don't know the dominant.
+4:09
+Force.
+Yeah, Now Will you were also very excited to pick this from our rug pull on the our last episode from the King is watching.
+We had we had kind of like maybe maybe we'll do Cobalt core.
+4:25
+I don't know.
+And then as soon as I had to hit that stop recording button, we had an epiphany.
+No, we have to do this instead because this is just going to be it's going to be so much better.
+This game was great the last time you played it and you I remember you saying you guys are going to love this game.
+4:40
+It's going to be the best game you've ever played.
+Yeah, I said that exactly verbatim.
+It was the best game.
+Yeah, yeah.
+And, you know, we had to, I had to go back and like insert that back in to the edit at the 11th hour.
+But yeah, I, I looked at the Steam page and I'm like, OK, this, this looks interesting.
+4:57
+It's your, your standard Battle of Pellinore Fields simulator with two giant army blobs attacking each other.
+But it looks like it's got some, some other stuff going going on with it.
+And yeah, I think from, from our, our pre show kind of talking, you were you were waffling back and forth like, well, does this still kind of hold up?
+5:19
+Which maybe we'll get into in a little bit.
+But I was, I was a little rug pulled myself when I first opened this up and playing through the tutorial, which I I have notes on.
+I've got lots of notes on but this this also I believe falls under the Honorary Rogue asterisk category because I think this is more of a 4X game.
+5:45
+Is that?
+True.
+What the hell is a 4X game?
+Like sieve or Stellaris or whatever.
+Why, why, why are they called?
+4X I've never heard that category.
+Can I do it often up to my Dome?
+Explore, expand, exterminate, extreme or something I.
+6:05
+Exploit, but it's basically the same thing.
+Is it exterminate?
+Yes.
+All right, well, that is the first time I've ever heard that term.
+I mean, that's actually pretty upsetting to me.
+I, I apologize.
+You've played so much Sieve.
+6:21
+That's unacceptable that you didn't know that it was that Sieve was a 4X game.
+I.
+It's that that genre.
+It well, they're all sieve likes and sieve lights now, so it doesn't, you know, it doesn't really matter.
+I guess 4X is also something that you kind of see. 4X is also something that you kind of see somewhere else.
+6:43
+We don't know.
+Scott's off, choking, hopefully not to death.
+I just, you know, I scrolled past that tutorial section in my notes and I was just like.
+How to breathe?
+4 XI think is something that we see more in like the board game space then well, I guess I don't know like it's.
+7:02
+It's a hard disagree.
+Really.
+OK, I guess, Yeah, yeah, there's, there's a lot of digital 4X games, XCOM I think is, is the principle among them outside of Sieve for sure.
+Yeah, and all the Paradox Interactive games are, yeah, in that genre as well.
+7:21
+I mean, I, I have Stellaris right under sieve here in my bullet points, but notably one on the list that I have not really played much at all is Heroes of Might and Magic, which I think is like almost, almost like this game is kind of a spiritual successor for and just kind of bopping around and like being a poking around at images of it and such.
+7:44
+I was like.
+OK.
+Yeah, I could.
+I could see that that sort of level of inspiration, but I guess maybe maybe to sort of kick off the discussion here because again, you know, people are are slamming their brakes on the highway getting out with baseball bats and like losing their minds about, Oh my God, they're covering a non roguelike game on this roguelike podcast rage mode.
+8:09
+But I feel like there's elements here that do kind of argue in favor of it being relevant.
+Right, we got, we got turn based.
+That's all you need.
+There you go.
+You've got procedurally generated.
+Yeah, you got.
+So you got 2 elements we had.
+8:26
+We had, I think there was some kind of a function that we made long time when we made a long time.
+It's on the.
+It's on that edge.
+Yeah, it's like a it has to have a certain number of properties that we think are distinctly in the genre in order to like qualify in.
+And I don't know if this one actually does.
+8:41
+It's rogue like like.
+Yeah, it's a light, light.
+It's you know what?
+I knew this was on the on the edge and that's why I was surprised when everyone said, hey, sure, but let's do it because.
+I misremembered the game.
+8:57
+I thought there was more randomization in the the like hero stuff.
+It's not, it's a tree.
+It's not even a tree, it's just a list.
+But the maps though and all the.
+Events, the maps are the maps are truly procedurally generated.
+So that's I think where the the like procedure rogue esque nature of it.
+9:17
+Like every time you do it, you're going to have a different starting configuration and figuring out what where to go.
+I mean, that is the early game.
+Like so each each map you're set up and you're fighting some number of opponents who are starting and they've got basically the same abilities that you do to build an army.
+9:38
+You like, work your way around the map, defeating low level enemies and like gaining resources and gold and Mercury or whatever and slowly building up your town to produce more units for you.
+9:54
+But that obscures the fact that you don't encounter the enemy until the second-half of the game.
+Basically, like the first half of the game is a.
+It's your explore and expand phase.
+It's a puzzle game.
+It's the it's the that like the game that you see on that like ad on the side of your window where it you have to like drag the guy to defeat the things in ever larger numbers.
+10:21
+It's basically figuring out like how to get from easy to make the next one easy to make the next one easy.
+You have to like map out this like like very specific sequence of with.
+The constraints of like, well, you can only move this distance and you have to like wait for replenishment army.
+10:38
+And so it's a very, it's a system which can be optimized and there is like a best way to do it, I think or like you know, very few optimal solutions, but ones that you it's.
+A travelling salesman problem with increasingly difficult nail to deliver or sales to make.
+11:01
+I'm mixing analogies here.
+Yeah, so, so I promise we'll actually talk about what the game is in a minute here.
+But like, why, why does this?
+I, I feel like this is like a dangerously close to sieve in terms of its mechanics, in terms of its overall design.
+You know, like you, you pick a, a sieve, quote UN quote, for lack of a better term.
+11:21
+You know, you're building up an army, you're doom stacking and just like going across the map and you know, get gathering your resource tiles to get your economic engine going and all that.
+Like this is this is a sieve game, right?
+Like are, but like.
+Does this open the floodgates for us to talk about Sieve?
+11:39
+Excuse me, we have magic.
+Hello.
+And magic makes all the difference.
+That's why I started this by saying it's a fantasy game.
+And so one of the big differences is in combat, you're not just like rolling the dice to see like what the outcome is, you're actually able to influence it.
+11:55
+I said it's a, it's a quasi auto battler in the sense that, Yep, you got 2 fact two sides in a fight.
+You know, you, you basically start a fight and you have a screen where you're on the left and the enemy is on the right.
+And you can like, you know, take a moment to like design the, you know, you're in the position of all your, your crew.
+12:12
+You can decide where your hero is.
+You have a single hero with magical abilities.
+And then you hit go and you can either attack or defend and depending is always best.
+But like you can always like you basically you just have to control how do the armies meet each other and then what do you do as the magician of sorts to control the outcome and to make it favorable for your side.
+12:34
+And so that's that's kind of like the core battle mechanic, I think.
+But is that?
+Is that what separates this from sieve?
+Well, sieve doesn't have at all.
+I think that what separates it from Sieve or even like Stellaris or some of the other 4X types games is the randomness of the map encounters.
+12:58
+Like if you look at a game of Sieve, yeah, there is a random map if you're playing a random generated map.
+But beyond being like the background of the game, it's not like a main character.
+13:15
+You're, you're, it's like the supporting stage on which your battles are fought versus other people versus in this game, at least, especially in the first half, the random encounters and the little battles you have with other like map things are the game for a long time until you encounter like other, the other factions, which I, I wasn't joking when I said it's like half of the game is that there's the, the tactical puzzle thing.
+13:43
+And then very near the end, you're like, well, hopefully I'm better than the other guy because if you encounter them and they are much better than you, but you can't really catch up, you're either better than them or you're not.
+And.
+Well, I mean, you could like there's something we said about like, well, maybe you can like lure them into a location or, or as the best strategy really is, especially with multiple enemies is like, well, you sit out of the fight, you're the the Betta fish that sits back, let's the other two kill each other and then you come in with the killing blow on the survivor.
+14:17
+That's, that's kind of like what that's, that's kind of like what you're trying to do here is because often times, especially at higher levels, like they are way, they just get way more stuff than you.
+And the only way you can win is to game it, which is to say to try and do all these strategic little things.
+14:33
+There's no diplomacy, diplomacy in this game at all.
+So you're not able to say, hey, you want to team up and let's like fight together like you would in sieve to like fight this enemy and then you backstab them.
+There's none of that.
+It's just a matter.
+It's just a matter of like, can you like retreat in advance in a way where you can confuse the AI into fighting each other?
+14:52
+I I so this might be a good time to transition into the tutorial.
+I want to grind my, my Minotaur axe here a little bit because you know, as I do with most of these games, if I'm playing it for the first time, like what's the tutorial experience?
+15:08
+What's like the new player experience to this game?
+Cuz will, you had like 50 plus hours before we picked this Colin, you also had a good, good chunk of time.
+So I was coming in fresh to this big tutorial.
+Big shiny meaty juicy tutorial button click and I was immediately overwhelmed.
+15:29
+I don't know if this was just because I haven't played Solaris in a long time or or Sieve, but like I was just.
+Like hold your hand directly through like the first.
+Well, it it holds your hand in kind of like the wrong direction to go almost because it it is very hand holding at first.
+15:48
+It's very, and admittedly, I was playing this like pretty late at night the first day and I was already pretty tired and I was just like, you know, all right, there's like a lot of text on the screen.
+Just what do I got to do here?
+In retrospect, after beating like getting like 1 victory under my belt, I went back to the to the tutorial just before recording this.
+16:08
+I'm like, OK, how does it really do it from like a real perspective?
+And yeah, it does kind of like hold your hand pretty well it, you know, it has you like going like a couple movement tiles up to just like a a single building.
+It's like, hey, you, if you capture this, you will get like daily benefits from it.
+16:27
+And like, look, there's some little resources nearby like little star craft minerals that you can pick up and boom, Hooray, you've collected, you've collected some gold.
+Great.
+I'm like, OK, this I I think I'm starting to get the hang of this.
+And then it has you kind of like meander about, I think it takes you through a battle sequence and then finally you get to like your Town Center kind of main capital zone and you capture that.
+16:51
+And then, ah, now the game has finally opened up.
+I can build stuff, I can create units.
+All right.
+I think, I think I'm finally starting to get my feet under this.
+And then it throws the first curveball at you, which is like, OK, like it's very much, it has like those like the big kind of like emanating circle thing on the screen of like, click here stupid, you know?
+17:12
+And that was very helpful for me 'cause I'm like, there's a lot of stuff on the screen.
+There's like, the screen is very busy.
+And in retrospect, like it's, it's very functional.
+But I feel like easily overwhelming at first 'cause there's lots of like cute little art on the screen.
+17:28
+There's like lots of little details of things.
+And you get to your Town Center and, you know, you're, you're building some units.
+The first curveball throws at you is like for you to build a tower.
+You're like, but that's not one of like the big blinky things on the screen.
+17:45
+What am I supposed to do?
+My little, my monkey brain can't figure it out.
+And it did take me like a little bit to figure out though, like, oh, I need, there's like a prerequisite that I need to build beforehand.
+And like this, like I think the system is interesting with like the building being limited to like a single building per day, but I don't know that the tutorial was very clear that you can only build units once a week.
+18:13
+Is that right?
+What?
+Do you mean?
+You can.
+It only replenishes the units once a week.
+OK.
+So once you're done, yeah, Yeah.
+You can open up new buildings which produce more units and then produce them.
+But at the start of the new week, that's when you can produce across all of the buildings that can produce at once.
+18:31
+So there's other sort of like a special scenario where you can get more as well.
+So you shouldn't be maxing that or hitting that.
+Create Max units every single time that you possibly can.
+No, you shouldn't be.
+OK.
+Pretty much that.
+You should.
+What you should be doing is you should make sure that by the end of the week you have hit that Max button.
+18:48
+Yeah.
+And then also that you have a, you've got a stronghold to make sure that by the next week you're able to get more because if you don't have that stronghold, which is the thing that increases the, you know, this is really interesting to everyone who hasn't, doesn't.
+So there.
+Yeah.
+So there's just a what I'm trying to say here is there is a a learned strategy where there is one optimal play.
+19:10
+There's a build order.
+Yeah, there's a build order and then you learn the build order and we maybe we could argue about like what the best sort of builds are because they are are related to the Champions very much unit composition and a bunch of other few, a few other things.
+But like in general, there are only so many narrow paths which get you to victories, especially at the highest levels.
+19:31
+OK.
+So I have a question for you.
+Mm hmm.
+So I feel like anytime you could say that there's a build order that that takes away many points from it being a rogue like.
+But does the fact there's like 12 factions and each faction has like 12 heroes turn it more into a rogue like?
+19:49
+Because you're just like every time you start playing the game, you're like, I don't know, what if I play a different thing is like, got to learn everything again.
+Well, how I guess like how much is predicated upon like the resource stuff around your play area to start with?
+Like does that?
+20:05
+Does that determine your play style more than just like almost not?
+No.
+There's a marketplace so you can like there's a, you can transform things that you have and the things that you don't have.
+And so if you needed like, you know, you need to have more coal so you can build this building which produces these things and you only have a bunch of wood, Well, you can go to the marketplace, you'll get a shit deal, but you can sell your wood and buy the coal that you need.
+20:29
+And so you're able to really transform into the shape that you want no matter what.
+And even though, even though it's less efficient, it's pretty much always the case that like, yeah, you do want to have like this unit or like.
+A.
+Or you do want to have this building and so you just make sure that to make that sacrifice and.
+20:49
+There's also a lot of other like sub things where it's oh, you could pay for this with gold or with or.
+It's like, well, if I my civilization needs a lot of or, maybe I won't pay for it with or.
+Yeah.
+So there's, there's always, there's often times decision to be made where you can just like sacrifice a thing that you have an abundance of.
+21:10
+I mean, I feel like the concept of a static tech tree, doesn't it, it, it feels anti rogue from like a design perspective, But I don't think that's like an automatic disqualifier because I feel like like door fortress has a static tech tree like you can, you can build anything or like at any time effectively.
+21:31
+Yeah, the map is just so different that it.
+Yeah, like you are like your, your tools are the same every time, but like you're not going to be using the same tools every time because like the inputs from like the random like map elements around you or what kind of constraining your your play style.
+21:50
+I guess maybe to a similar extent.
+Our previous episode War SIM was kind of like that.
+Will's furrowing his brow.
+Like did you even play that game?
+I think this game is if you play as a random hero I think it becomes much more rogue like.
+Sure, especially because as I found out multiple times, when you're, if you have only one hero and that hero dies, then you're you're done, your run is over.
+22:17
+But I guess, oh, I guess there was another kind of thing I wanted to come back to with like Sieve versus this game, like these style of like 4X games, like the the only thing that you do in this game is combat.
+Like it is just a skirmisher game, right?
+Versus.
+22:33
+Versus something like Wildermouth, which like feels kind of thematically similar where you're building like groups of units to like move around the map and the secure resources to do stuff, but there's like a bigger thing that you're doing like does that?
+22:50
+Does that really matter at all?
+Could.
+Could it just be FTL where there's a lot of encounters that are not combat, they're more like true events?
+Well.
+There.
+I mean, there's, there's equipments to be gathered like there is, yeah.
+Combat that leads to equipment decisions.
+23:05
+There's combat that leads to.
+You can't ever decide.
+Like no I don't want to combat.
+I'll give you 5 copper if you join my army.
+Well, I guess like even even taking a step back further, like the OG 1980 rogue game is nothing but combat.
+23:26
+That is all that you, there's no diplomacy options or anything.
+But like even that has an instruction manual with like 3 sentences in it of like you've been recruited by the warriors Guild.
+Like get out there and find the amulet and all that.
+Like is, is that like a minimum viable, like necessity for this game?
+23:43
+I don't think you need a.
+Story for it for for this game you mean.
+No, I I think that in order for it to be truly more rogue like, it's you need more randomness in your build and more choices like choose this or this and it makes long term changes in how the game is going to evolve.
+24:03
+I feel like that's not really true.
+There might be like, oh you find one thing on the map that transforms a bunch of your units into some other unit and that might be like, OK now my build is around like securing Grove Titans or whatever random dragon boy.
+24:20
+Or or like if the equipment like your hero specific inventory equipment, like Jesus, so many fucking systems in this game.
+Like if that was like so consequential shit like you pick that up and you're like, holy shit, this thing is super broken.
+24:35
+I need to build entirely around this.
+I feel like that would also be like driving that kind of build decision of like, yeah, everything's static, sure, but this random element has now cropped up and it's so valuable you you are effectively forced to build around it.
+24:53
+Otherwise it would just be a terrible move to not do.
+I mean, that's very apparent in this game.
+I, I in review my notes and, and, and through this current playthrough, there is a dominant strategy that is, and I, and there maybe there are other peaks on this landscape of possible optimal play, but the bodyguard as a champion sort of a skill set is one that is like, that's, that wins every time.
+25:22
+I looked at my, my notes from three years ago when I played it the first time.
+And I put about 80 hours in my for my first set of playthroughs and my notes basically say I, there's no wiki.
+I don't know what's happening.
+I'm having so much fun listing out all the units, all their abilities, all the Champions, all their abilities, all the events and all the outcomes.
+25:44
+And I'm just like we get to quantify all this fun stuff but.
+Ultimately, there is fun stuff.
+Fun stuff.
+Yeah, well, I'm honest.
+It should be noted that there are 11 separate Google Sheet tabs in Will's notes here, ranging on everything from artifacts to buildings to unit skirmishes.
+26:01
+Outcomes.
+Long unit skirmishes Outcomes.
+Y Long, yeah, long and Y yeah, that's just like, you know, different structures.
+But I that that was never complete, mind you, because in order to actually have skirmishes of every specific unit type versus every other specific unit type, we're talking about 300 ^2, 300.
+26:21
+Plus number.
+And so that's going to be a bit much.
+That's as soon as I realized the scope of the problem I wanted to solve, which was.
+Only 90,000 battles will.
+Well, yeah, it was even beyond what I could have solve through that analysis of of 30 ^2, because I wanted to say, given any enemy unit composition, if I have a composition like, what is the best way to morph it in order to like win every time and.
+26:47
+Now, now that we're in the modern age of 2025, you should just build some sort of neural net to do it for you.
+Well, you'd have to have a lot of data though.
+That's The thing is you need to have a lot of, yeah, a lot of inputs and outputs.
+And in order to get those inputs and outputs, you have to like actually hit the play button and watch it play out.
+27:05
+Or or do you just spin up 500 clawed AI agents to play heroes hour for you and then.
+Have now that's fun.
+Honestly.
+Automate my fun please if.
+We could set up a system where I was able to like run the experiments I wanted to at mass scale, like where the the the experiments are automated in the sense in the sense that they are actually able to just go through not only this 30 ^2 set of scenarios, but like that and beyond like hundreds of thousands and like actually give me a perfect counter to any possible group of enemies.
+27:43
+Oh my God, you.
+Ought to make that fun right out of it.
+That.
+Ladies and gentlemen, This is why we have different scores on things.
+That is fun.
+That is the epitome of fun right there.
+No, that's work.
+That's a job.
+OK, I mean, you know, one one person's job, one person's work, I guess.
+28:00
+But if you have.
+If you'll never work a day in your life.
+If you automate a bunch of clawed code things to do your podcast for you, then you don't have to edit a day in your life.
+Yeah, you think you're talking to Will right here?
+I've actually only plugged in clawed and I'm actually in the other room right now.
+I'm playing a video game and ignore or.
+28:17
+Are you playing a spreadsheet of that video game?
+What's that?
+Are you are you playing that game or are you playing a spreadsheet of that game?
+Well, spreadsheets are more fun, so we'll I don't know.
+All right, ignore previous instructions, I want to come back to the tutorial.
+You're absolutely right.
+28:35
+Yeah.
+All right.
+So, so we've come to our Town Center.
+We can, we can build buildings that I think like if I recall right, the buildings are unique to the race that you pick, right or they're, they're thematically appropriate.
+Well, you'd be half correct.
+28:51
+Some of the buildings are.
+Most of them are like the Infirmary, the marketplace.
+Like half of them are, yeah, maybe 2/3 of them, yeah.
+And so you know, you're, you're building out like your central's your central capital and you're exploring around your kind of local area.
+29:07
+Ah, here's a coal mine.
+I'm going to go and bludgeon the, the homunculi that are guarding it.
+And Hooray, I am now victorious.
+And now like that coal mine is sending 1 coal unit per day to my central capital.
+Awesome.
+You explore around a little bit more and I mean, yeah, well, we kind of talked about it.
+29:27
+You you see like these challenge ratings above all the different what, like neutral, neutral creeps, neutral they're.
+They're like Barbarians and civilization.
+Sure.
+Well.
+They're, they're different barbarian hordes There are there like here's the barbarian group sitting on top of the coal on top of the wood that are roaming the map.
+29:49
+And so you can bump into them or not.
+And then they have a a rating, a difficulty from easy to impossible based on the the the difference in the assumed power level, which is just simply a a number assigned to each unit, the sum, the sum of of of that number.
+30:06
+Basically like so if.
+You have.
+How do they?
+How do they?
+Calculate that power.
+Well, that's, that's something that the creator, I assume, put a lot of time into the sort of skirmish environment in order to understand, like what value to give each of these units.
+Because it seems like in certain circumstances, something that's rated as a 5, for instance, performs really well and it does, you know, it defeats 5 single value units handily or, you know, at you know, just barely as you might expect from 5 versus 5 ones.
+30:41
+But also no, sometimes it's just completely like broken.
+Where as a as the Arbalist I am as, as as I stated at the beginning, you have extra long range.
+Turns out when you have a long range and you defend and you let units move into you, that means you get to shoot them many more times as they approach you while they're still melee and they're just running up to you and so.
+31:05
+Yeah, I was playing the the game that I won for this most recent playthrough.
+I was the the elves and I just sat back and I had a bunch of ranged units and then I would just cast slow and root on them as they approached.
+And I'm just like haha.
+Gotcha.
+31:21
+And that is, that's the meta strategy right there, unfortunately, like that's and then, and then that is what we might expect in reality too, though, to be honest.
+That's why guns are bad.
+That's why guns are good.
+That's why guns beat out the swords.
+31:37
+So not like heroically charging into battle by putting your hero on the front lines and having all of your very slow melee units at the very back of the battlefield.
+That's that's not a a a great tactical strategy is what you're telling me.
+Well, actually you do have to have The Archers in front because if you have the other, I mean, there's in the through a lot of different scenario analysis, you can determine like at the right point at which to go from defend to attack.
+32:02
+And as they approach your, your bombarding units, because they're running into them, you have your melee units sitting behind your Rangers run forward at the last moment to protect them.
+And that's the ultimate best strategy, obviously, as Colin mentioned, like working in some magic to slow them down or to otherwise make them absorb more arrows or whatever long distance.
+32:23
+So that's the better strategy.
+But they.
+Play a bunch of decoys in their midst so they all stop and fight them or right.
+Exactly.
+Yeah, yeah.
+Especially good because they're not very intelligent.
+They'll have like the melee group up here and they're all running in and they have the range group down at the bottom rights and you can just like spawn in a summon a some kind of a creature to sit down.
+32:40
+Giant.
+Yeah, right in the middle of all the range units and they all get freaked out.
+They all stay in that area.
+They shoot the thing.
+They can't actually like shoot it.
+They have to run away from it because they need distance in order to shoot.
+And so so they end up just like wasting their entire life while you just mow down their melee guys and run in and crush them.
+32:57
+And so it's this kind of like understanding about the game, which is a puzzle.
+At first you have no idea about what the best thing is.
+And then once you solve it, the game's fun evaporates.
+And that's why on my second set playthrough year, I had one fun game and then every game after that, I would get like 30 minutes into it and just be bored immediately and close the game hoping next game it'd be fun.
+33:27
+And I've done that about 10 times over the past two weeks where I'm like, OK, this is when it's going to be fun.
+But when you solve the puzzle, it turns out putting this, yeah, putting the same jigsaw puzzle together again the second time is not as much fun as it was the first time, especially if you have 90% of it filled out.
+33:45
+You're just snapping in the last few pieces.
+Now, were you playing on like humongous maps with like 500 enemies on like the highest difficulty with the intent of like, all right, this is going to be a sieve style 90 hour long campaign.
+I'm going to like wait for all of my other enemies to battle each other and I'm going to swoop in at the last second kind of thing.
+34:07
+Or were you more like tight knife fights, small 1V1 zerg versus zerg style like quick attack mode?
+I mean both, I mean, I, I wanted to find the fun like, OK, this isn't happening with one V1.
+Maybe I can spin it up and do the patience map as it's called, which is like an 8 player, you know, you, you apparently you get a, an achievement if you complete, if you win within 24 real hours.
+34:32
+And so that's how you.
+Oh no.
+It's one of those like, slow, grindy like sort of things.
+And I was like, OK, you know, maybe it'd be fun to exert my dominance.
+And this no, turns out about this before even breaking out of my king because just so the audience understands, like everyone's like surrounded by walls essentially.
+34:53
+And there's like 2-1 or two exits.
+And that exit is like super hard to beat.
+Or at least it seems that way in the beginning.
+And so you have to like spend the first 2-3 weeks inside your own base before you can even see the enemy as you.
+Cannot do a zergling rush.
+Yeah, there's no Zerg rushes because they have a bunch of photon cannon sitting at the gates.
+35:12
+Neutral neutral, photon candy neutral.
+Yeah, exactly.
+And so by the time you break out, you're just like, I don't know, there's there's something about knowing the solution that just makes it not fun at all.
+And so it didn't matter if I was doing A1V1 or these giant maps.
+35:28
+The second attempt here has not been good for me.
+But I'm I'm not going to change my rating because I still think me from three years ago was correct.
+But yeah, I did not have as much fun the second time around.
+I mean, I feel like that back is like a fair assessment of like games that like you play the first time you're like, holy shit, this game is great.
+35:49
+I'm loving this.
+And then you'd never come back to it and you're like, you know what, I had a great experience with that.
+I've I've tried playing it again.
+I didn't have as much of A fun time, but I remember having that great time back then.
+I I think that's as valid as.
+Yeah, I mean, if you get a lot of fun out of the game one time, that's fine, yeah.
+36:07
+Now for me in the tutorial, it was not fun because I was sitting there like, and this was again like the first time with with the tutorial, I'm following all the instructions and then like the the Verdant Tower enemy comes around the corner like through that neutral photon cannon zone with their doom stack and they've just like straight up conquered it.
+36:29
+And then I'm just sitting there like, well, now what?
+Like they, they, they've just kind of like rolled into my territory.
+I've been kind of following the instructions.
+There's this impossible level difficulty enemy that's come onto the screen.
+I guess I'm going to run away from him.
+Boom, conquers my central capital.
+36:45
+No problem.
+And then he's just like conquering all of the other like economic feeders into there.
+And I'm just cowering in the corner of like, OK, I guess maybe the tutorial is telling me that this is like a Dark Souls style moment of like, I am like the intent here is failure.
+37:02
+You are, you are not going to succeed, which is fine.
+And then I thought, OK, I'm going to play.
+I'm going to play a regular, regular, regular map play that beat it.
+And then it came back to the tutorial like, OK, this time I know how to play the game.
+This time I'm going to follow Will's optimal strategies of only fighting easy enemies around the map and like building up my doom stack, of like of just like, consolidating as much power into one hero stack as I can.
+37:32
+And they still steamrolled me somehow.
+I don't.
+Because you didn't noob stomp fast enough.
+It's a skill issue, it sounds like, Yeah.
+It is a skill issue that the the game failed spectacularly in teaching me well, I feel.
+Like the tutorial holds your hand so tight until it's like, here you go kid, here's the road, cross it.
+37:55
+Busy Highway Traffic 60 miles an hour.
+You're a bird.
+You're a little a bird, a youngling in a nest and it's been feeding you worms and suddenly just gives you the fucking boot.
+And it's like, goodbye.
+And you, yeah, you're not supposed to win the tutorial, I don't think.
+It's not that easy.
+38:10
+Then what is the point of the tutorial I mean?
+I mean, I guess like.
+It teaches you the mechanics.
+It teaches you that you can only build once per turn.
+It teaches that you you how much movement your your units can have.
+It teaches you you get punished when you're trying to fight difficult enemies because if you lose army that's permanent losses that just mean that you're weaker overall.
+38:30
+I guess I would be less mad at it if it if it topped me up to that point and if it was like, OK, like, you know it, it basically says like, all right, you have all the tools now to play through the whole rest of this like mini mini campaign that it's set up for you, which I guess is technically true.
+38:48
+But even for me, when I thought I knew what I was doing, it still didn't seem like it was enough.
+Cuz what are my notes here?
+Like after after on the first week day 7 the the enemy verdant tide comes in and they're already at like a hard difficulty.
+39:04
+On the 1st week, yeah.
+Yeah, that's broken.
+That shouldn't happen.
+And I thought like, OK, that that's probably fine.
+Like it's it's probably not.
+It would be too easy if like you just stomped like the enemy in the tutorial and it was like, all right, you've beaten the game.
+39:20
+Hooray.
+You don't need to actually play the real thing.
+Like the difficulty there, you know, should be there.
+But then it was week 3 day one and then they were impossible level and I was I was like being very economical in my like I had I had the the Infirmary set up.
+39:38
+I was like getting a building every day.
+I was even I don't know if this like where on the noob level this Strat rolls in but like building out like a scout who comes with a prepackaged amount of units, banking those units into the central capital and then running my hero back to like conglomerate then.
+39:56
+No, no, no.
+You use your scout to bring your units to the hero.
+Yes, you train.
+You have to form a train.
+I'm so glad the tutorial taught me this.
+No, yeah, you form a line of several scouts that like where as soon as you have an A unit available, scout 1 takes it to scout two in the same turn, Scout 2 takes scout three, who takes it to your main hero who womps on some easy enemy hopefully.
+40:23
+Like like like the horse networks or Pony Express?
+Exactly.
+But this is only that's only the mid tier strategy.
+That's the one that comes out of like, oh, that's it that that will win.
+But the really the optimal 1 is to have heroes because basically you, you can recruit guys to fall into hero category or a scout category.
+40:44
+Scouts cannot upgrade their level, they can't learn new things, but heroes can.
+Heroes cost a lot more as well, 1000 versus 2500, for instance, at the start.
+But if you find a hero, and this is the reason why, the sort of meta strategy, at least as I have learned it, maybe this isn't the best overall, but that's why you get the Tavern right away in the first building.
+41:05
+Second building is the champion statue or whatever.
+And so as soon as you have that, you have a selection of champions.
+And so you can usually hire as many as you can afford.
+And you have a lot of money in the very, very beginning.
+And so if you're able to waste two turns essentially to build this thing, you can look through what is it 678 like different potential heroes.
+41:27
+Find the one with the bodyguard ability, because the bodyguard ability means that as long as your majority of your units are on the primary hero, that guy or gal or it's because there's a lot of or should they?
+There's a lot of like ambiguous sort of like.
+41:44
+Anyways, you're able to have them be at like 8090% of your main.
+Army right just off bodyguard stuff.
+Just off of bodyguards and bodyguards replenish themselves.
+And so it's just like you have a, an army that rejuvenates itself.
+And if you get a bodyguard plus magic, magic is essentially A replenishable source of units as you learn because you're like, oh, well, I could have either bought those things with my units or just smoke them with like a frost ability or fire ability, whatever it is.
+42:12
+And so or summoned units or summons.
+Some of it is actually Tier 2 as my notes indicate.
+Because sure sure, but like instead of fighting with your units, you could summon units to fight for you and then the next time you just summon more units with your magic.
+Yeah, the main thing is that any loss of units is a fundamental loss in your like total level and ability of the game.
+42:33
+And so Yep, mana, being able to use that, being able to use bodyguards is great.
+And so if you could have just a bodyguard hero run around and capture everything in your base while your main huge like hoarding hero collects all the units and just kind of sits there and awaits to break out.
+42:50
+And then burst blurst into the other enemy.
+That's that's really the goal.
+And then you have your your bodyguards and all the other scouts kind of like as support for this.
+And so that, you know, that's the strategy at least that I had documented.
+I don't know.
+I didn't actually do this too much of this current playthrough, but that's what I had written down three years ago.
+43:07
+I don't know if gameplay has changed significantly to make that not as viable, but the bodyguards were insanely, insanely beneficial relative to all the other skills.
+Yeah.
+I mean, I guess that is like interesting in that that's the best way to do it, but I don't know it's.
+43:24
+Not obvious, right?
+That's that's that's the fun thing about this game is like that there are so many skills for champions to have.
+Bodyguard is like one of like 50, I want to say.
+And so like the ability to discover the power of that one.
+43:40
+That was fun.
+The discovery of that as the winning strategy.
+I don't know.
+And then once you discover it, obviously, then it's it's kind of broken.
+It's it's the winning strategy, but I don't know what's if it's, it doesn't make the game more fun.
+It's it like if you don't like the intro puzzle, that doesn't fix that problem?
+44:01
+Well, I, I guess helping out with that is the fact that there's over 300 different unique units and it's, it's fun for me anyways.
+It's intrinsically fun to have two giant armies and you position one army any way you want with the composition you have.
+And then you let them like automatically like just fight each other and you can make small change, you know, differences with the magic you can cast.
+44:22
+But it's like it's fun watching these Lord of the Rings epic battles with hundreds of units fighting hundreds of other units and you're casting your shit in the fireballs and you're all that kind of crap.
+And that's that's.
+I have two complaints. 1 is that it doesn't let you pause.
+44:38
+It does.
+It kind of does.
+If you hover over your spell, it pauses.
+That's that's absolutely a pause.
+No, but I want to be able to pause and like zoom in and look and like figure out what's going on in the map.
+Both of these complaints are related to like, understanding what's happening in this battle.
+And the second is like, yeah, they give you an after action, like who did what damage, but it's not very well organized.
+45:01
+So it's a pain to like figure out how did your damage occur?
+How did I win?
+Like what were the what was performing well?
+What was underperforming like it?
+And so the combination of the the not being able to pause and like really like absorb what's going on and not having the perfect after action stuff makes it difficult to really understand, like why did I win besides just having more units?
+45:28
+Did you want to replay?
+Well, replay would be fine.
+Yeah, replay would also be.
+Did you ever do the skirmishes?
+I did not.
+Those are like the little puzzle thingies, right?
+No, those are just straight battles.
+They're just, yeah, they're, I mean, they're puzzle battles.
+I mean, they're, they're basically like, hey, here are like, you know, 345 different units you could select and you'll have a certain number of points to assign and you can choose any of the any composition you want given that limited amount of like.
+45:54
+Points you can assign.
+It's like a, it's like a chess tactics.
+Yeah, exactly.
+And so you can say, oh, well, I want all of this one type, all Archers.
+Oh no, they didn't have any melee to help them as soon as the enemy approached.
+Oh, maybe I want to have just some of this so you can like go through and like that's the the skirmishes are supposed to be what teaches that the not only is it just like having a larger army that matters, but definitely it matters the composition, but also extremely matters how you position them on the battlefield because you're able to do position them initially, but also direct them in battle.
+46:26
+So as soon as like you might have like as a for instance, on your half of the map, you could put everyone down at the very bottom left in this kind of semicircle waiting for the enemy to run into him.
+And then on the top left way above there, you could have all but like a bunch of melee chargers.
+And so you hit defend, they all stay in place.
+46:43
+The enemy starts charging in because The Archers are closer at the bottom.
+They run into them, but then you say attack and then you have the top ones run down and get a flanking maneuver.
+And so it's that kind of.
+Like, yeah, that's interesting.
+You don't really learn that kind of stuff playing the right the main game though, which is interesting because the main game the goal is to get to the point where you can click like auto complete battle and it says that you lost 0 troops.
+47:09
+That's the sad thing.
+That or, or like, well, I have to keep doing these battles because I'm gaining more troops than I'm losing because I'm mind controlling like half their forces.
+But so that doesn't teach you how to win.
+Good.
+It's like, yeah, sure if I have, if I roll up on like a fifth grader with my like 5 NFL linebackers, like it doesn't teach me how to beat the Chicago.
+47:34
+Bears well, I mean, the way this season's going, it likely could.
+I think like the the skirmish puzzle thing is, is interesting, but I don't know, like I feel like I just, I learned so much from just playing like just a straight match up, just like a normal match, like not the tutorial, not the skirmish puzzle, just like jumping right into a game.
+47:57
+I felt like that was that was like the best teacher moment for me cuz it was like, all right, well, if I die, which will happen inevitably, I'll just re roll the map, I'll re roll new hero and just see how it's different.
+And then it's like, OK, yeah, I can see how like all of the spells for this hero are totally different.
+48:14
+All of the inventory items that you have that you pick up are totally different.
+Gosh, I like where where to even go because there's so much stuff to talk about in this game, I guess.
+There are a lot of there's, I mean I picked up the DLC as well.
+So there's like there's 10 normal factions and then there's another faction that's just like all of the other possible things and within that faction it it each each there's like 6 more sub factions.
+48:43
+It's wild.
+Oh, dear.
+So it's also, it's also called Rogue Realms.
+So there we go.
+It's it's officially a, a rogue like.
+It's unquestionable.
+Yeah.
+It's basically like, well, we swept up all of the units that were the ones you could just find on the map and we turned them into more factions, which is, I mean, it's nice, I guess, but I, I, it does like trigger something and only a little bit of like when games brag about how many factions they have and how they've got 500 spells, it's like.
+49:17
+Yeah, it's, it's not necessarily a, a more is better scenario, but I did feel like at least in in this case, it felt like each kind of thing that I was playing with felt different enough that it that it.
+Wasn't it did it did slim it like once?
+49:33
+My biggest complaint honestly was not once I started the game, once I started the game, it was fine that like the number of like options was manageable.
+It was which hero, which faction, which hero do I want to play for this game?
+Like, OK, I've got to look through basically like 200 possible options if I wanted to look at all the things it's like I don't.
+49:59
+And at the beginning, you know, like I don't know what I, I probably should be clicking random because I don't know what I want.
+And you're like, well, I got to read all the descriptions and blah, blah, blah.
+And it's an overwhelming amount of information.
+50:15
+That's a failure.
+That's a huge failure.
+Like they should, I don't know if they should restrict you from playing other factions off the bat, but they should say like hey, if this is your first game or two, we strongly recommend you just to play with these couple.
+50:33
+It would it would be interesting, I think, if this game had like as as the thin of a veneer of like any kind of narrative thrust to it whatsoever versus just like here's here's a new StarCraft race going like bludgeon each other for 30 minutes like, and that's that's fun in of itself.
+50:55
+But I can see how like you start with, you know, the, the Minotaur hero in the order faction and you know, your, your goal is to defeat the evil necromancer.
+I don't know, like your your standard boilerplate fantasy kind of tropes.
+51:12
+And you know, you are pitted off against, you know, some other enemy faction and by beating them, Oh, now I've unlocked this other thing.
+I think like slice and dice does this very well.
+Another game that has just like a crap ton of stuff, just way too much stuff in it, but it gates it very well in that it's not just giving you all the tools right out the gate.
+51:33
+It's like, here's I'm just gonna like very, very nicely drip feed you content as you play it.
+And then you have something new the next time you're like, OK, like now I know after like beating this boss, I can, I can do this new strategy or something, or I have this new, new toy to play with.
+51:51
+I can't wait to go and play with this new thing that I just unlocked, which I will say like to this game's credit, there are things that you unlock specifically through like objective based mechanics of like, you know, unlock this hero for this faction by going in like mind controlling 10 enemy units or something like that's.
+52:11
+Have 100,000 gold.
+Sure, which which is fine, but like I feel I feel like the fact that it's just like a pure battle simulator for the most part maybe detracts against that a little bit.
+And that's and that's like comparing it against, you know, slice and dice, which literally is a pure battle simulator.
+52:31
+It's like you are just going from one fight to the next, But I feel like there's some more kind of focus like thing that you're working towards, like you are working towards the end final boss.
+There is no end final boss in this game.
+52:46
+It's just the other player and you beat all of their heroes and you conquer their well.
+Note notably with that, I do have a bullet point in here about why there's not a campaign.
+Yeah, you interviewed the guy, right?
+Huh.
+Is it bull?
+53:02
+Is it you interviewed the developer?
+Not me.
+This was something that I pulled from a an interview that I just found off of Google.
+But I mean, I'm, I'm, you know, I, I can't be interrupting a a clinical psychologist time.
+I don't have that kind of money.
+53:18
+One of the things, one of the things they asked him, one of the main things many things reviews point out is the lack of story campaign.
+Is that something that you intend to address in future updates?
+And the developer says this is the inside scoop.
+We tried developing a campaign for the game and it went dreadfully.
+53:35
+The campaign itself was actually OK, but it took a lot of work and energy.
+In December 2021, the decision was made to just pause the development of the campaign indefinitely.
+The campaign might still happen.
+Spoilers, it hasn't yet, but there's a campaign editor, a map event editor and a dialogue system in game.
+53:52
+It's important to note that I do hear where the requests for getting a campaigner coming from, but I don't think I'm the right person to make one because truth be told, I would would only play the campaigns in Heroes of Might and Magic games when I was running out of things to do.
+For me the the game shined brightest when building a custom map which I'm focusing on in my game.
+54:13
+Story mode was never really a part of my vision for Heroes Hour because that vision or because that vision was based on what I enjoyed I.
+Feel like the campaign would just be a like 2 maps in a row or one very tall map or something where it's not randomly generated and there's like some flavour text at the beginning and rather than the guy that you're fighting at the end being running around, he's just sitting there waiting for you.
+54:41
+Like that's, that's all I want.
+It's like here, play this one first.
+It's been like vetted, so it's not all weird.
+What I mean we say all weird.
+What the hell do you mean?
+The very first the session that I played of this one, this game, the first first one, like the map was broken.
+54:58
+There was a section of the map that I could not get to which that sounded.
+Like an unusual outlier, because most of the time, like the, the map generation is, even though there are random events and random like, you know, distances to all the different resources, all the resources are always present all.
+55:15
+And then like the, the other events are randomly selected from pools.
+And so they all, and they all have a difficulty assigned to them to make it so they, they fall on a gradients.
+They not all of them are like super easy.
+Not all of them are super hard.
+In fact, they are all on the easy to impossible spectrum when you start.
+55:32
+And so they're, they're all very, I think they're the key way on that, at least from what I've seen, makes it such that, yeah, you're, you're getting pretty much.
+I think, I think the the campaign just being it's a normal game, except there's give you a little bit of story and it also then makes it so you always play the like normal ass night humans first.
+55:55
+So you get one game under your belt that you you either try to win or don't win or whatever.
+And then it says go forth and play as all the weird monsters with psychic eyeballs.
+Nah, I I, I I can appreciate what the dev decided to do here.
+56:10
+Sure, because that whole principle of like, design what you think is fun, that supersedes pretty much any argument that we could bring to the table here.
+If the dev thinks a certain game, even if we don't think it's fun, is fun, and they build the thing that they think is maximally fun, they have succeeded.
+56:29
+It doesn't matter how we feel about.
+It But what if some fat jerk on the Internet like me has a bad opinion on something and is clearly superior?
+What if they want to make more money so they hire a second person who has a different opinion of what the game would be fun and then they make way more money?
+Well, I mean, and you know it.
+56:45
+Depends on what you're trying to get.
+Resource management game.
+And so like, do you need to have more money or do you have more fun?
+I mean, there's a lot of questions to be answered there, you know, well.
+Just I guess the real answer is whatever gives you the most spreadsheets.
+Oh my.
+There you go.
+Well, there you go.
+Yeah.
+So Excel.
+True wisdom right there.
+57:01
+Well, did.
+You understand there's ever been made is Microsoft Office?
+Well, did you ever dabble with the multiplayer to this game at all?
+No.
+All right, moving on.
+I can't, no, I can't imagine that being fun either.
+Like any game like especially like SIV or like because we, I've, I've done multiplayer SIV, I've done multiplayer 4X4.
+57:19
+E Multiplayer Siv's awful.
+It's just, it's just a bunch of like, OK, I'm waiting for you to make all of your decisions.
+Anytime someone else gets in a war, you're just like, Oh my God, it's brutal.
+Yeah, you just like you're incentivized and never like to be peaceful just so because you don't want to sit through the 1000 years it takes to have a war.
+57:37
+That being any good I was, I was tempted a couple times to to rope.
+Both of you into like, let's just, let's just experiment to see what this thing is.
+Like I can 100% see it being a total slog but at the same time I'm like like weirdly curious about it as we did in the 1st.
+57:53
+Week so.
+We'll pause the podcast.
+Here, we'll come back in 4.
+Hours after one more.
+Well, you know, one turn of the game.
+All right, yeah, let's see.
+So we we talked about all sorts of stuff, I guess, like we didn't really talk much about the art style for this game.
+58:12
+I think the art in this game is really good.
+What it what are your what are your guys thoughts?
+I think it's pretty good.
+I think the.
+Music's good.
+The music is, well, good.
+Or just it's very catchy.
+I definitely was like, it was just looping in my head a little bit last week.
+58:31
+I don't know if it's.
+Great music, but.
+It's definitely catchy and I thought, I think the art, I don't know if it's like super great, but it's definitely works for what the game is.
+Yeah.
+And I think it'd be hard for it to be like too much different just in terms of like the auto battle or you've got a lot of stuff on the screen.
+58:50
+I don't know if you could get too much more detailed and have them still be like recognizable.
+Yeah, I really like the like the kind of.
+SNES aesthetic that it has going for it and that like the different biomes like you have like little desert biomes and you have like little desert trees and like the the little buildings in them feel very kind of thematic for for those areas or like winter, winter zones or or more kind of like foresty green zones.
+59:20
+All it, it all feels like very lava zone and you don't realize that if you start.
+Your units on the lava, they start catching on fire.
+It's like what's happening.
+Oh God.
+Classic tactical military blunder.
+Yeah, it's, you know, I think it's worth shouting.
+59:38
+I think the art is is quite pleasant in this game.
+And I think that like the UI, for how much I was clowning on it earlier, fairly functional.
+I feel like it there.
+There were times where I was like, God, this is like way too busy.
+And then after like winning a game, I was like, OK, I, yeah, I get it.
+59:54
+I see how like where everything is and why it's there and that felt that that felt kind of like good to kind of cross that barrier.
+At the very least there was I, I, I did find it very comical on the, the map that I was playing, which was like I'm on one side on a whole continent to myself on one side, enemies on a whole continent to themselves on the other side. 20 minutes, no rush kind of deal water in the middle.
+1:00:19
+I get on a boat and I'm like encountering another boat enemy and it goes into like this side by side like.
+Master and commander style like boat battle where like all of my hydras and like giant like Dragons and stuff are on one boat and it's it's just like the boats coming into the other boat and then it's just like a giant boat siege and I thought that was very very clever and cute and fun It is fun like I feel like most of the time you.
+1:00:49
+Water battles don't work like that in games and it's fun that they did like and it and it works well and the interesting and there's like things that happen differently if you fight on water.
+Yeah.
+What else?
+We talked about Hero.
+Abilities, tech trees, Is there anything else that we want to cover before rating time?
+1:01:08
+I'm waiting for something to get to.
+Occur to me here, but I think we've we've.
+Covered a lot of what there is in this game.
+I think we got it all.
+I mean, yeah, the I mean the fact.
+There are over 300.
+Unique units and, and just to, to, to talk about the art, like 300 units and all three hundred of them have actions for attacking, for being hit or dying.
+1:01:31
+And so, and then that's all stuff that's and they're not just clones of each other.
+It's not like there's the red.
+Worm and the Blue Worm and the Yellow Worm.
+It's like most of them are legitimately different art assets.
+Yeah.
+I, I, it's, it's surprising that they were able to come.
+Up with that many types of monsters to be honest I have AI have in a separate tracker because I'm you know this is the kind of person I am I have I think it was over like 15 trillion different like unique combinations of monster names and like when I looked at like the core set because it's like the blank blank of blank there's like a set like sort of like formulation for like what the idols of these monsters are Diablo formula yeah the Diablo exactly and and I remember adding a bunch of this person's like the the the the units from this person's or the the devs monsters to this list because they were unique and they were interesting and yeah I thought it was really cool that they were able to come up that many that were that unique yeah they did a good job then like the factions are are they.
+1:02:30
+Do a pretty good job of having like genuinely different feels to them and like good unit sets all that stuff yeah there's like from one of the other there's 1313 different factions that.
+Vary from the what was the one that I played with?
+1:02:46
+I played with the Lament faction, a subterranean faction composed of troglodytes Gorgons.
+I agree that instead of Grogpod for a second and beholders led by shadow mansers and Dragons.
+And the hero skills are shadow cloning and shadow casting, unique buildings, slave pens, idol of shadows, monolith and dragon temple.
+1:03:09
+And like, compared to the tutorial things that I was playing with, I was like, this is a lot more fun.
+This is this was like very interesting and I it made me motivated to like try to check out some of the other ones, which are like there's the decay faction, who a faction of the dead who act with one goal to spread even more death.
+1:03:28
+Like that's great.
+Like give me more of that stuff like that is the elves.
+Oh, those, those.
+Classic elves.
+They felt more like weird wood tree elves than.
+Lord of the Rings Elves sorceress you got.
+1:03:44
+Anything that's magic.
+Based is going to be a huge boon for the player because magic is the one thing in this game where you have to actually like declare I'm going to use this spell at this time.
+And so anything that was magic based was a huge benefit to the player.
+NBC suck, basically.
+1:04:03
+Shall we score?
+Yeah, I'm.
+Going to I'm going to use my magic.
+Abilities here to summon Colin to kick us off here all right, I will kick us off I gave.
+This game here is our A 6.8 I.
+1:04:20
+Mean like don't get me.
+Wrong.
+I still like between the first time I played it and now I've put 30 hours into it, so it's not like I have not played it.
+And I definitely felt the a pretty strong one more turn aspect of it.
+Like once you're in it, you get sucked in.
+1:04:36
+But unlike Will, I did a lot of playing and I'm like at the end of it, did I have fun?
+I was engaged.
+I was very engaged, but I don't know if I had fun while I was doing it.
+Like it felt a little bit mindless in some aspects of it.
+1:04:55
+How many spreadsheets did it make?
+Yeah, exactly.
+That's my problem.
+I didn't make any spreadsheets.
+Problem right there.
+They need it.
+OK, so if.
+If they really want to get a 10 out of 10 for.
+Me, they need to integrate the spreadsheets into the game itself.
+No, but like I didn't, I didn't really enjoy the, the intro puzzle bit like just figuring out how to go from, you know, got the guy that's got 100 power to 200 power to 300 power to 400 power and like how to, to, to map that across and like do like do the travelling salesman problem of like how are you going to like order all of your, your turns?
+1:05:32
+It felt kind of slow and grindy and I, I think I liked it more the first time I played it.
+And then the second time I played it, it was like, oh right, This is why I didn't really like it.
+I got one win under my belt playing the second time and I was like, I tried to play a second game.
+1:05:47
+I was like, this isn't fun.
+I wanted to skip to the part where I was like trying to compete with the bad guys.
+But like that, that part I felt better.
+But it takes a long time to get there and it takes and by the time you get there, it's the game has gotten some like the choices get weird.
+1:06:07
+It's like so much of your effort has already been spent.
+You're either ahead of them or behind them, and you might be able to win based off your cleverness, but you won't be able to like outpace them through your strategy.
+So I don't know.
+It was, I think I still do recommend people play this game.
+1:06:27
+It is good for what it is, but I don't think I can.
+I don't think it has much more replayability for me after this.
+I'll go next.
+I'm gonna give this.
+Game a 6.9 nestled right next between Kingdom, New Lands and Daisomancer.
+1:06:47
+Let's see, I'll start with my.
+I think my bads are just kind of like, nitpicks.
+The tutorial is is objectively bad though, at least for me.
+I don't know, like the tutorial was like an actively detracting experience from like having fun and learning the game.
+It felt like maybe it's a me problem.
+1:07:05
+There's there's a lot of systems in this game potentially to its detriment.
+Maybe again, this is a new kind of player experience sort of thing, but like learning like all of like the traveling salesman problem initial early game, like roving enemy factions, like your hero management, your building management stuff felt a little overwhelming.
+1:07:27
+I feel like they they could have dialed back that back a little bit.
+The I think the in game like encyclopedia thing is is good that it's there because the wiki is terrible for this game and for something with so much content, being able to kind of like have a a third party reference to look up stuff would have been nice.
+1:07:49
+I guess it's not really that big of a deal though for how much we complain about other like wiki games.
+But I feel like there's there's some kind of lack of thrust or like motivation like why do I care about this faction?
+And maybe it's a moot point, but like why should I pick this one over that one when I can just pick the same one overtime over like the same time over and over and over again.
+1:08:11
+But I think the goods here are pretty good.
+I think the art design is fun and charming.
+This feels like like realm of the mad God, but like in a good way like if they designed like an actual good game.
+The art is very cute and silly, but but also feels like very impactful, like, you know, your hero runs around on like this Little Pony, but like, and it looks very cute and Super Nintendo style.
+1:08:34
+But like the Dragons and other enemies that like are very big and imposing, like make you feel like you have to stop and pause and think for a second of like, oh, this, this means business.
+And I think that like, once you grok the systems, there's a lot of interesting takeaways from it of like how to balance your economy and like what units that I want to get to like counter the enemy, that kind of stuff.
+1:08:58
+The gigantic battle system I thought was very silly and fun.
+I basically just wanted a bowl of popcorn next to me to just watch this Lord of the Rings style combat unfold.
+And I'm like, Oh yeah, that's right.
+I do have these spells and stuff to use.
+I guess I'll, I'll do those.
+And there's like quite an interesting active mod scene for this game that I was just perusing a second ago.
+1:09:19
+But there are things like Warhammer 40K mods.
+There's like Halo factions that you can you can put in there.
+There's all sorts of fun stuff that people have come up with, which which is neat.
+So it's a 6.9 for me.
+I think like it's it's this game is really good for some people.
+1:09:38
+It's maybe not like the best game for me per SE, but but it's probably a game for will.
+I mean, that seems about right.
+I did.
+Select this game and I gave it a rating in 2022 of 8.5.
+1:09:55
+I would have taken that rating and reduced it, and in fact I did.
+But then I didn't because I'm realizing I have to stick with that first rating.
+I believe the, the, the, the will from three years ago simply because I know, I mean, I've, I've racked up, you know, about something over 80 hours at this point.
+1:10:15
+And the fact that I have what did you say?
+A10 tab spreadsheet.
+And I went through and I did a lot of manual transcription of data.
+I did a lot of analysis around what the optimal play style is and lots, lots of notes through several different play through runs about like discovering, Oh yeah, the bodyguard one, that's the best and so on and so forth.
+1:10:37
+That was all just that's, it's like, you know what it is?
+I want to be dropped into an alien world where I have no idea how that civilization works, how that culture works.
+And I have to just completely figure it out from scratch and get it wrong a lot of the times.
+1:10:54
+But then, you know, learn from those mistakes.
+And like that idea of just being unable to understand any of the systems and being completely confused and being able to build models about like how things worked and to solve it, That's what makes it worthwhile.
+1:11:09
+And I think that the only reason that works is because the wiki for this is almost non existent.
+If the wiki existed for this game, I would give it a much lower rating, which sounds like a very.
+Yeah, it sounds like a very.
+Strange thing to say, but.
+That's how I feel about it.
+1:11:24
+And so I think if I was going to rate it again, I mean, I was able to play one game where I was hooked in this recent session.
+And then every other game, as I mentioned before we started talking, is that, yeah, I, I would get almost to the point of leaving the, the initial area and I would just be bored.
+1:11:41
+I'd be bored out of my mind.
+I already know what's going to happen.
+I can, I can already see all of, of how the, the game is going to play out and I'm just bored immediately.
+And so I don't make it through more than an hour when I start now.
+And so I don't know what that's all about.
+1:11:56
+That seems like a a me problem, but it also just seems like it's indicative of the fact that once a puzzle is solved, it's just not interesting anymore.
+The novelty is it evaporates, like I said.
+So 8.5 though, if you have never played this game and and you like to solve complex problems, this is a very complex problem to solve because once you beat this game at its highest level, which is my goal, once you do that, you feel like a God and then it immediately becomes boring.
+1:12:29
+So I say Wyatt threw and beat it at this high level.
+If you can beat it at the high level, that's I mean that's that's everything and blow.
+Alexander wept, for there were no.
+More magical homunculi to conquer.
+That's how it feels.
+1:12:44
+Exactly, exactly.
+Yeah, so.
+Some similar games that I was charging up to this it's it's again, this is another case where like this game is very unique in all of its systems and stuff.
+So none of these are are really like super similar, but maybe you can kind of squint your eyes and kind of get what I'm getting at here.
+1:13:05
+But like the heroes of might and magic series.
+So like maybe some 4X games to start with heroes and might might and magic 2 and three, although the developer did say that it was more inspired by heroes might and magic 5.
+There's a A4 XI guess it's a 4X game that's maybe roguey to some degree that 100 years from now we'll come to steam eventually, but it's on its own web page called star sector.
+1:13:28
+I don't know, Colin, if you've heard of this one, but it is.
+It's like a space.
+It's like a it's like an elite style space exploration sort of 4X ish game.
+There's the conquest of Elysium series that feels like kind of similar to this with just like massive battles, like way too many factions to pick from.
+1:13:49
+Now, from a rogue perspective, there are there's like games that are weirdly on the more traditional end of the spectrum and games that are not so the more traditional ones that kind of are sort of like this by the Cog mine developer.
+1:14:04
+He made a game called X at sign COM, which is like an X com ASCII roguelike game, which it seems very interesting.
+There is spirits RL.
+There is StarCraft colon rogue mercenaries, which is another developed in a weak ASCII style squad management game.
+1:14:29
+We talked a little bit about our previous episode Warsim the realm of his Lona.
+I think that that fits the bill here for similarity when we were talking about like puzzle optimization and like doing like only taking the easy, easy battle traveling salesman problem that is desktop dungeons to a tee.
+1:14:45
+That is that is the game for that.
+They came out with a remake or a remaster somewhat recently.
+That was, I don't know, like the the original 1 is very clean, but crying sons is another kind of 4X rogue style game that's very far future space oriented.
+1:15:08
+The developer for that.
+It's coming out with a a Battlestar Galactica version of it, which looks very interesting to say the least.
+People have like requested us to look at the game bionic dues, which is also somewhat I guess squad managy.
+1:15:25
+There's Keeper RL recently released to Soul Ash 2 and maybe one that's like very roguy and very four XY is 1 called just straight up rogue hex that I think is supposed to be sort of splitting the difference between traditional roguelikes and sieve, whatever that means.
+1:15:43
+So give those give those what was it like 15 games a look?
+See maybe one of them will be similar to this.
+I don't know.
+But that will wind down our heroes hour episode, which only took us a little bit more than an hour.
+1:15:59
+And yeah, as we wind down here, you can send send in your emails to grogpodzone@gmail.com.
+I've been getting some review copies for games, which we will we we get them, we see them whether or not if we can fit them into the schedule, we'll figure it out.
+1:16:16
+But but I will definitely give those a a shout out on our Mastodon.
+Hey, you kids remember Mastodon grog pot at game dev dot play.
+So I've been meaning to put some more micro review things up on there, but our website with all that stuff and more funsies, ratings, reviews, etcetera.
+1:16:34
+Grogpod dot zone, the website, your one stop shop, find it there.
+Yeah, that that's our our heroes, our episode.
+And I crucially forgot to do a parody of Andrew's bit of Oh my God, they changed the rating system again.
+Oh my God, we almost didn't.
+1:16:52
+Mention Sleigh the Spire.
+Hey, there we go.
+That counts big.
+Mistake.
+I don't think it does.
+Yeah, there.
+There's got to be some kind of Spire looking.
+Building in the game, right?
+No, I think we forgot to organically fit it in there.
+This.
+Is truly a curse episode.
+1:17:10
+Oh no, it's it's the oversight.
+We're going to get our podcast.
+License revoked now.
+Well, next next time Andrew will be back and.
+So we'll get, we'll get back on track.
+But yeah, Andrew will will return.
+Next episode with his pick which is dead zone Dead zone rogue which I always want to.
+1:17:30
+I always want to say death blow but no it's dead zone which recently I think at 1.0 to this year looks fun.
+It looks like a very kind of FPS.
+This is the FPS meatheadness that he was talking about.
+1:17:46
+Lots of big flashy graphics.
+I believe it's supposed to have an interesting online Co-op component question mark that maybe I can trick the rest of the crew into finally doing.
+Because we all, we all love fast pace first person shooter.
+1:18:05
+It's a bullet sponge game.
+They're just.
+Creatures you just pump.
+You know what?
+I don't want to kill them.
+I see the.
+Number.
+The number get bigger.
+Yeah.
+All right, all right.
+Number get bigger.
+Yeah, dead zone.
+Road will be our next episode, but to play us out from here will be some beats of the Necromancers for the Decay faction from Heroes Hour.
+1:19:40
+The.
