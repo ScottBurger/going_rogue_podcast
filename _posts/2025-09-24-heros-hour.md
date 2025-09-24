@@ -2,7 +2,7 @@
 layout: post
 title: "Hero's Hour"
 date: 2025-09-24
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/heros-hour.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/heros_hour.jpg
 thumbnail-img: /assets/img/heros_hour.jpg
 share-img: /assets/img/heros_hour.jpg
-duration: "1:30:28"
-length: 76490880   
+duration: "1:22:15"
+length: 69976656   
 tags: ["2021", squad management, honorary rogue]
 ---
 
@@ -20,7 +20,7 @@ Zyzz up! This week we eXplore, eXpand, eXploit and eXterminate all sorts of fant
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/heros-hour.mp3">
   </audio>
 </div>
 
@@ -29,7 +29,6 @@ Zyzz up! This week we eXplore, eXpand, eXploit and eXterminate all sorts of fant
 ---
 * 1:43 - Game stats
 * 3:33 - One sentence description
-
 * 1:14:54 - Rankings and final thoughts
 * 1:20:49 - Similar games and show wind-down
   
@@ -47,5 +46,5 @@ Outro music: Hero's Hour OST - Decay
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vRajJDdwEsw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzzzzzzzzz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
