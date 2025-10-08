@@ -27,8 +27,20 @@ Get in the zone! This week is a game with one wild journey from starting out as 
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/heros-hour/id1650474911?i=1000728163570) | [Spotify](https://open.spotify.com/episode/4bLfjBGYT0Jx3ly1azBVLg) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/heros_hour.txt)
 
 ---
+
 * 1:21 - Game stats
 * 2:55 - One sentence description
+* 4:47 - Tribes universe connection & extraction shooter origins
+* 13:05 - Pivot from Star Siege to roguelike format
+* 18:55 - First impressions & new player experience criticism
+* 21:16 - Weapon choices, perks, & augment systems discussion
+* 28:12 - Meta progression concerns & upgrade system critique
+* 34:29 - Difficulty options & enemy health scaling problems
+* 38:56 - Enemy AI behavior complaints & tactical shooter debate
+* 53:10 - Protagonist voice acting & narrative setup
+* 56:42 - Act One story reveal: brain in exoskeleton
+* 1:08:01 - Act Three body horror & final boss fight
+* 1:14:50 - Ending choice: self-destruct or escape decision
 * 1:26:42 - Rankings & final thoughts
 * 1:38:40 - Similar games & show wind-down
   
@@ -46,5 +58,5 @@ Outro music: Deadzone Rogue OST - Luggage Tag
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRtGPPeEnwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
