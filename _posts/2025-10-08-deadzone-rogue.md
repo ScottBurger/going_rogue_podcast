@@ -24,7 +24,7 @@ Get in the zone! This week is a game with one wild journey from starting out as 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/heros-hour/id1650474911?i=1000728163570) | [Spotify](https://open.spotify.com/episode/4bLfjBGYT0Jx3ly1azBVLg) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/heros_hour.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/deadzone-rogue/id1650474911?i=1000730731032) | [Spotify](https://open.spotify.com/episode/1GgoODUIKv81sQElwfaz0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/deadzone-rogue.txt)
 
 ---
 
@@ -46,7 +46,7 @@ Get in the zone! This week is a game with one wild journey from starting out as 
   
 ---
 
-Next episode: Orcs Must Die Deathtrap
+Next episode: Orcs Must Die! Deathtrap
 
 Contact us at grogpodzone@gmail.com!
 
