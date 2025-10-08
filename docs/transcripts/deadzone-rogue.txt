@@ -1,0 +1,1570 @@
+0:14
+Greetings friends, and welcome to yet another episode of the Grog Pod roguelike podcast where each one of these we dock onto a mysterious roguelike game, blow it up with ratings and if it's good enough, revisited in our final mission episode at the end of the season in our roguelike review tournament.
+0:32
+I am your tyrannical space CEO, host of the of the podcast Scott Burger and with me are my fellow Faceless Co host clones.
+This is Will Wright.
+You're a bullet sponge.
+That's so clever.
+And this is Colin Smith, a weird little spider guy who's going to jump on your face, kind of.
+0:52
+I was going to be a spider guy too.
+Should.
+Be a big spider guy.
+I'm just.
+I'm just going to end my intro with Shazbot.
+There we go.
+But who are you?
+I I am.
+I'm the embodiment of Shazbottery which.
+Will, but how?
+But what's your name?
+Oh, I mean hello and I'm back and that's.
+1:09
+Glad we got that sorted out.
+Thank you, thank you, thank you.
+I'm.
+Glad to have you back this week.
+We are talking dead zone rogue released early access question mark.
+We'll say April 30th, 2025 and one point ODI guess August 11th, 2025.
+1:28
+This is a game that you can find on the big the big ones, Steam, Xbox, PlayStation.
+It'd be neat to see this on Switch, but we'll see.
+This was developed and published by 1 Prophecy Games out of Alpharetta Zhouja, who have, let's say quite, quite the story development history, which I'll breeze through here and we'll talk more about in depth after everyone is already to know.
+1:53
+But in 2020, they launched a game called Prophecy, which was summarily delisted off of Steam. 2023.
+They were then in charge of Star Siege Dead Zone, which again was delisted from Steam.
+2:11
+And in 2024, are these getting delisted from Steam?
+Wait, we will talk about it in a second.
+There's kind of kind of a lot to unpack here.
+But 2024 Tribes three Rivals and then in 2025 with Dead Zone Rogue dead zone rogue.
+2:28
+Your average player of this game has just about 24 hours of gameplay in it and it's synergizes on the steam rankings at the number 144th most popular roguelike game on scene with 9469 a total reviews.
+2:48
+Andrew, your space boss has ordered you to send A1 sentence space e-mail description of what one does in Dead Zone Rogue.
+Well, Dead Zone Rogue is a game rather similar to a very popular game that we we we covered somewhat recently or relatively popular in for our podcast.
+3:12
+It's it's science fiction.
+It involves a lot of shooting.
+It of course has a story reason for why you keep responding and coming back.
+I'm of course talking about blueprints.
+No I'm kidding, it's this game is a lot like Fraternal.
+3:28
+But what if Fraternal was a first person shooter with better guns, better shooting, a baritone protagonist, and the blessing slash curse of 0 level exploration?
+This is a well crafted and satisfying FPS experience where in the typical run you're going from room to room, which is specifically which room is drawn from a, from a, from a hopper of possible selections, and you're thrown up against a a random sort of randomized selection of enemies.
+4:08
+And critically, between these battles, between these arenas, you get to pick from different perks and different equipment with some amount of meaningful randomization.
+But more importantly, quite a bit of meaningful mechanical perks and choices.
+4:24
+And did I mention that this game is set in the Tribes universe?
+What?
+Excuse me?
+I played this game for 10's and 10's and 10s of hours.
+I say Shazbot as a as a like on the daily and I did not realize that this is canonically a Tribes game.
+4:47
+What?
+Yeah, I think so.
+The reason why I put a a bottle pin in or a stopper in the bottle for for like, like, OK, there's there's a lot to unpack here.
+So Prophecy Games are developers for tonight.
+5:04
+Let's see.
+Founded in late 2019 as a studio within the High Res Studios umbrella, who you might know High Res as the developers of said Tribes franchise and I believe they they spun off to make their their titular game prophecy in 2020 that I talked about before, which you can't find on steam.
+5:25
+But thank God for steam DB because it's description.
+It says create an army of gods, demigods and mythological creatures in this Otto battler where no battle is ever the same and looked like it was actually like pretty reasonably well received 86% positive 422 reviews.
+5:41
+That's that's not nothing I don't like for the life of me.
+I know no idea why it was delisted, but Andrew did.
+Did you have any kind of inkling on your radar for what Sarsiege dead zone was when it when it launched?
+5:58
+Because I mean, you're, it's, it's FPS meathead day.
+Isn't there?
+Yeah, and and thank you for having me back for an FPS meathead episode.
+As was dressed a couple of episodes.
+I I was gone because in part because terrible tragedy transpired in my household.
+6:21
+That is me spending 69 hours trying to beat Spelunky.
+Outrageous.
+The very much the opposite of Collin's experience of beating the game.
+You know, the next, the day after or the next week.
+It took me like to.
+Be fair, not Spelunky, I did not beat that.
+6:37
+No, no, no.
+But but my traditional, my traditional game experience on this podcast was quite beat him, yeah.
+Quite, quite right, quite right.
+And I'm so glad to be back on the podcast with you gentlemen.
+And specifically talking about FPS game Star Siege.
+I thought that was like a top down there.
+6:55
+There's a there's a game called Hero Siege.
+And is it Hero Siege?
+No, I don't know what the heck you're talking about.
+Well, no, you're missing.
+You're missing the the crucial link here Star Siege Tribes the.
+Tribes Now what?
+Just for those who for those who may not be familiar with tribes, wait, is this is this the game we played as people in our 30s in middle school?
+7:19
+Like the the first like.
+This is the.
+Flag game Yeah, this is.
+The December 23rd 1998 game where you're like it's like Unreal Tournament but what if surf map from Counter Strike?
+Yeah.
+So whatever that I just, that was really the one where you launch across the map rocket launchers or something.
+7:36
+Yeah, basically there's different classes.
+Light class.
+There was the tank.
+Oh yeah.
+OK, I'm good.
+Thank you.
+Yeah, yeah.
+So it's so it's like, oh, what if Again, like no idea why the delisted prophecy, but they, they started working like, hey, let's maybe, maybe a little bit of trend chasing here.
+7:55
+I would assume because star siege dead zone is a is an extraction shooter, much in the same vein as escape from Tarkov, which I, I have luckily not had the misfortune of playing and I don't think anyone else here.
+8:11
+I don't know, Andrew, have you dabbled with Tarkov?
+At all I've I've, I've thought about it, but ultimately it just looks too frustrating, Yeah.
+And you look up footage from star siege dead zone and it is it is this game.
+8:26
+It is 100% this game the exact same animations assets like artistic style direction, all that stuff.
+But whoa, does that game look bad.
+I mean like again, the extraction shooters are not for me.
+8:43
+I and probably the last person on earth to go and recommend that genre of games to other people there.
+I get there's probably some bizarro podcast out there is probably like a a pod grog of only extraction shooter reviews out there.
+It's like you guys shouldn't play Roguelx.
+8:58
+Those are terrible games.
+But but lo and behold, you know this.
+This was a a live service.
+Now, when you say extraction shooter, you mean basically like that's that's like whatever what the bungee game, Destiny 2, that kind of stuff.
+9:15
+Not.
+What what exactly?
+Maybe I like I I know the term but I could be missing.
+What the actual my, my limited understanding, my limited understanding of extraction shooters is this is like, it's like what if pub G, but like your, your equipment that you picked up in any given map was like a progression system.
+9:34
+And so like, and, and there's like maybe very light, mild Pve elements to it.
+So it's not quite like Destiny in the sense that like #1 Destiny is like for how bad of a game it is, it's still much better.
+It is.
+It is more of like AI don't know like borderline like Millsim light PV VE, but like I think a stipulation of it is that you have to be addicted to to like wall hacks and cheats specifically.
+10:07
+And there's a bit of a cheating problem because because of the, the, the stakes are so high in in every run, because you could you stand to lose all of your gear that you've worked so hard for and you only have one life generally with these extraction shooter games.
+And like there's this whole, the extraction part is that you're trying to like, you know, get loot or complete missions and then leave the level.
+10:28
+And so there's sort of this balance of like, how much do you how, how far do you press your luck?
+How how much of A risk do you take staying in the match longer before exfiltrating?
+There's a on paper this idea, this star Siege dead zone game.
+10:47
+I don't know, seems like an OK idea.
+Oh, right, that what?
+What game are we talking about?
+Well, we're we're getting we're.
+Getting like a big tangent.
+Yeah, we're, we're getting to dead zone Rd.
+I think it's important to talk about this because like there's there's like some messaging at the end of the at like the game's end credits that's like, thank you players for believing in US and giving us a chance.
+11:09
+And I was just like, I was like, what?
+Like this seems a little out of left field.
+What we'll see.
+It's like it says, it says thank you for playing and for giving us a chance.
+Your support means everything.
+Without it, none of this would be possible.
+And to our friends and families, thank you for your patience and your more belief in US.
+11:25
+And I was like that.
+That seems a little a little like.
+I made the same statement to my wife when I beat Spelunky.
+But yeah, interesting.
+OK, that yes, this, this provides a lot of context.
+I'm learning a whole lot on my own podcast.
+11:40
+So, so eventually, you know, like it, it wasn't working out Star Siege dead zone not working out as a game that I think they, the developers realize like, well, like we have these good assets and animations and stuff like maybe we just don't like shovel this into the dumpster and just like start on a new indie rogue like platformer.
+12:03
+Why don't we just like try to do something with this?
+And from what I can tell, it's basically seems like they just said, all right, forget the extraction shooter.
+What if rogue light question mark?
+Let's see how this works and.
+Just like find, find and replace extraction with rogue light.
+12:22
+I mean, we'll probably get into it.
+There's some aspects that of this game that do feel like a minimum viable rogue light, but I think it actually kind of worked because from like gameplay footage that I saw from Star Siege, dead zone looks like painfully bland and unfun.
+12:43
+And maybe we'll talk about new player or you know, the initial player experiences here in a minute.
+But I think, like from my overall experience with dead zone rogue, I think it worked.
+And because they they basically like said, all right, we're shutting down the servers early access April 30th, like they're starting with just the zone 1 of this game.
+13:05
+And so there's it's a a three zone or three act sort of structure to this.
+But early access.
+They're like, all right, we're starting with zone one.
+We're going to get this like format down and polished and we're going to give dead zone rogue away for free to everyone that made like a like a monetary purchase for star siege dead zone.
+13:25
+So it's like, you know what, like Mia culpa, like we're trying to make right and like make a good game out of the stuff that we built.
+And hey, you know, you guys spent money on it.
+Here's here's a a different spin on this.
+13:40
+Maybe this will be better.
+And I think that's kind of what drove a lot of this game's initial popularity, like 9 like 9500 reviews for this game is a lot like it's a lot, a lot.
+And I think it was largely kind of injected like right at the start from this extreme pivot that they did from before.
+14:01
+Well, golly, yeah, you could have fooled me.
+And and they did, because I had no idea any of this would happen.
+And in fact, a fairly big talking point that I have in my notes here was to complain about how God awful the name is.
+And all of this back story now explains why it's called Dead Zone, which is like, Oh, yeah, that that that it's.
+14:24
+Super generic dead zone rogue.
+Incredibly, it could be anything.
+It could be anything.
+I mean I was confusing.
+I was confusing this game on the regular with another sci-fi first person shooter room based rogue light experience called God.
+14:41
+I have to look it up because I can't even remember it.
+Dead link.
+Oh yes, that's right.
+Which is another game that's on my short list of games to pick.
+Very funny.
+Very much back-to-back.
+Well, that's how how inspiring and encouraging that they were able to take all this hard work.
+14:57
+And it does put it into a different design framework.
+It does also explain like some of the like it doesn't feel like there's much going on with the story or like that there's a whole lot of like, like there's a lot of stuff, but it's it, it feels a little bit, I don't want to say either bland or generic, but it, it feels like it's, there's a lot of cool assets, which makes sense because it was all built for a different kind of game.
+15:26
+And then it's just like, oh, it's rearranged and then you're just kind of running through, which I mean, I don't think it really hurt the game that much, but it does feel like there's, it's a little bit skin deep in terms of the, the, the like, oh, we've reskinned some other stuff and here is a yeah, here's a setting.
+15:51
+Here's just a setting.
+Go go forth and shoot, shoot the stuff.
+Because that's really what they like.
+This game absolutely, 100% focuses on get good, get gun, gun good, shoot stuff.
+Have fun.
+Generally agree, however hopefully we'll have a spoiler section so we can we can talk about the sort of ending act of this game where it has some kind of fun story stuff for my money.
+16:19
+OK so I haven't beaten act 3 so maybe that's my problem.
+Is that what I mean?
+I had the, I had the great Act One reveal so.
+Well, great.
+Well, also, I guess calling to sort of set your expectations even more, there is a there's an Act 4 coming in early 2026 that I, I like clicked through it just instinctively because 90% of the time when you start up this game, it or you come to your, your starting zone, your dead zone, It's it comes up with like a, do you want to see what upgrades you got available?
+16:53
+I'm just like click, click, click, click, click, click.
+You have to just get get me through it and I accidentally clicked through the message that was like 2020 Sixers coming up like we.
+Got nothing coming up.
+Yep.
+Thanks for believing in us.
+But but.
+I also probably clicked through that because I I didn't realize.
+Yeah, so, so there's more to come.
+17:09
+And I think from, from my experience of, of beating the game, like I am interested to see what they do next, which is like, I think that's like actually like extreme good praise from a game that like looked like a super generic extraction shooter with like borderline, you know, Halo Infinite style asset knockoffs into something that like, I think it's feels pretty fun to play.
+17:37
+Pretty fun to play well, I, I, I would like to briefly mention how I came to this game and how the method of releasing a free demo is is still a viable business option.
+I think in this in this day and age, because I was served ads for this game on like Instagram or something, it's like, well, that looks kind of fun and all.
+17:58
+There's a free demo.
+I'll check it out.
+Ended up, I don't know, completing the demo, which was act one, all of act one pretty a pretty, pretty generous offering for a free demo, I would say.
+And yeah, I didn't, I didn't know about any of this tomfoolery and all this, this background development business.
+18:20
+And the game has changed a fair bit since that first demo in like the perk system and everything has changed a fair bit for the better.
+And basically it's more or less as soon as this game went into early access, I bought it because I enjoyed it enough.
+18:39
+And here we are talking about it.
+Yeah, I kind of want to talk about like new, new player experience and like first impressions because I think during that demo I think it was like Steam Nexfest or something like I was like, oh, this seems this seems interesting.
+18:55
+Downloaded and played the demo and like, I don't know, the first five minute 5 or 10 minutes of it just seemed like bad to me where it just seemed like, oh, the, it's just like, OK, Andrew's super hyped on this game.
+There's got to be something to it.
+And like I, I didn't give it, it's, it's fair shot at first 'cause you just, you know, you run into what looks like a, a warehouse of just storage crates and there's just like sci-fi warehouse, sci-fi warehouse filled with sci-fi robots and you have like a dinky pistol and you're just kind.
+19:28
+Of filled with the robots from Phantom Menace, like the the low mooks are they That's what they reminded me of is like oh, this is the most like grunt robot looking grunt.
+It's the Moops.
+19:46
+Sorry for those in the audience that got that, thank you, but go ahead.
+Those in the audience, those on the show who who get it.
+What Huh?
+Very good the.
+Moors, the Moors the Moors.
+It's a Seinfeld reference, don't worry.
+About it of.
+Course, we'll fix it.
+We'll fix that in the post, don't worry.
+Yeah, yeah.
+20:02
+Like the, the they even like kind of like put their their finger up to their ear and they're like intruder alert in a very kind of like Roger Rogers sort of sort of form to it.
+And I and I kept thinking like.
+Christ, is this the whole game?
+Like is this just like these, these like crappy robots with like this crappy pistol and just like, I don't know, like what's Balder's Gate 3 happening with right now?
+20:28
+And like, I'm, I'm glad, Andrew, that you picked this in order to force me to play it over 2 weeks.
+Because like, I think after, after like the first few runs that I did do it or did to it, what it did to me was convinced me that this game actually has like, I think a decent amount of like decision making, at least with like the normal difficulty that I pushed it on.
+20:55
+And like, the more that I kind of experimented with it, the more I'm like, OK, I can kind of see what it's getting at.
+I kind of wish there was like more decision making to be had.
+But that's something that kind of comes with later acts that, well, I'm sure we'll get into.
+Indeed.
+And what?
+And what?
+What sort of decisions I, I think you're referring to are your weapon choices and your, your perks.
+21:16
+There's like, what are there two or three like perk subsystems?
+It's like you're picking your and I and I have no idea what they're called, honestly.
+They're like the main perks.
+They're you're choosing primary perks which are primary.
+21:32
+Perks they're.
+Well, you got your like your, I don't know what the biggest one is, but your biggest biggest perk which you get like your what's after the second level or something.
+It's almost like your class.
+Yeah, actually that's a better yeah.
+It's like, are you going to be a long distance crit guy or are you going to be a short distance crit guy or are you going?
+21:50
+To augment, that's what it's called.
+Fireman.
+Indeed, and these are to the, to the game's credit, right out of the gate, you know, very impactful, which we love to see and allows you to kind of specialize.
+And it also allows you to, in addition to the things that we just mentioned, you know, long range, short range, hip fire ADS, critically, there are different elements to pick from.
+22:16
+Well hold on before we leave off augments.
+I like that it happens early sometimes before you even get your, your first like primary gun, because it means that you are it it it somewhat forces you to mix up your Class A little bit.
+22:32
+So I think it does a good job of like, all right, cool.
+Let's do a a run of a totally different kind than I did last time just based off that one perk and then you build away from it.
+Otherwise, I I feel like this is the kind of game where you could super easily fall into the I just do the same build every time.
+22:49
+Yeah, but this lets you make one decision early that that does push you off onto a a sort of path.
+And I liked that.
+Can I get a pull?
+I'd love to know what everyone's preferences.
+I am a hip firing shotgun kind of guy myself, but I love to with with grenade with a with a pretty heavy focus on grenades.
+23:14
+Grenades, things far away, shotgun, everything close.
+What do you guys got?
+Aim down, sight damage, damage from far away.
+I was a big fan of there's, there's like an ammo synergy that you can do.
+23:31
+Where like the ammo synergy is very fun.
+Yeah, we're and I was just like, oh man, I've got it dialed in so I can just like hold down the shoot button for like 5 minutes or something crazy.
+And cause like there there was one of it's like expanded magazine size plus like you.
+23:47
+And this is no dinky like 5% more, but no, no, no 50% like boom right at the gate.
+And it's just like awesome.
+And I'm already using a mini gun that's like got 100 rounds.
+Like.
+What we'll we'll talk about percentages here in a minute.
+But I think like the the wacky perk thing that I really liked was like big ammo.
+24:05
+Like you every time you Sprint, you get an ammo refund and then like you kill dudes like that gives you a a, a bonus on top of that.
+There's another one like similarly with with shotguns where like you kill a dude and then like like you have like 2-2 shells in your shotgun, but every time you Sprint you get your shell back.
+24:25
+So that's like like into the chamber so you don't have to reload it.
+And it was just like a completely different play style experience of like shotgun dudes, like right up in their robot faces.
+They blow up, Sprint to the next one, shotgun, Sprint, Sprint, shotgun, Sprint very.
+Yeah, I would say my preferred gameplay style is, is, is what what Scott was mentioning about the just like shoot from the hip as much ammunition as possible.
+24:50
+And you can pair that with some of the other perk systems where you can get something there.
+There's one called smart missile or to like fire smart rocket where it'll shoot these extra projectiles that are explosive.
+And then you can get a thing called smart bullets where on your on your HUD, you've got these little indicators showing up and shooting extra bullets on top of the the, you know, storm of bullets that you're you're putting out from your from your mini gun.
+25:15
+And at higher levels like that feels oh outstanding.
+The FPS meathead vibes are Immaculate.
+But so so I like that but but just to cause 'cause so I don't pick the exact same answer.
+Good question will as as I got this.
+25:33
+New up here too, but.
+Oh yeah, yeah, the the melee build can be pretty fun as well.
+There's a whole sort of stealth and melee system, which is cool.
+And I just want to mention real quick what we've just gone around the horn and described are 04 different unique and engaging and rewarding and fun flow states that this game offers, which is is great and wonderful.
+25:55
+And we love that, especially in a a genre that is sometimes maligned as being Sammy.
+The follow up question, and this is both unrelated and related, what's your in real life weapon system looking like?
+Let's start with Colin.
+Exactly as I described.
+Just a moment.
+26:10
+No, well, I I've definitely got the melee build.
+Best off the Warhammer you got from me for my birthday a couple years back.
+Warhammer for Colin.
+Yeah, I'm sure they're coming to my apartment.
+They're going to get a Warhammered.
+Oh man, yeah, I think so.
+26:28
+We we briefly touched on.
+I just sent it.
+I want to.
+Answer Let's go ahead and use the dodge move on this question and then.
+As as Americans we do have access to greater arsenals than than other countries.
+26:44
+And great, we don't agree robots that often yet.
+Well, not yet exactly, but like a more practical question, I guess, or answer for you will is that when I'm out playing airsoft, I I am so far from like the reenactment military SIM experience because I have AMP 5 that I spent less than $100 on as a pretty decent fire rate.
+27:11
+And I just got this giant drum mag.
+And so it's like the least realistic thing possible because if I see anybody, I'm just spraying the bushes down, spraying at the trees.
+And it's just like the, the more shots I can get down range, the better.
+So I was kind of joking earlier, but it's not dissimilar to the my preferred mini gun play gun style play style in this game.
+27:31
+Wait, but Scott, what are we going to say?
+It's not like your your your holdout weapons that you carry with you at all times.
+You got your switch in one holster his.
+Bike in the other your gloss.
+I don't know what happened.
+Running shoes, yeah, maybe, maybe like a a torque wrench would be.
+27:49
+I've been using that on my cyclocross bike pretty, pretty angrily this week.
+But anyway, the progression systems is what we were transitioning to because we're we're talking about builds in this game and it being impactful and meaningful decisions and all that good stuff.
+28:12
+But I think the, the thing that this game kind of sets a sour tone in, in my mouth for is like, right when you start this game up, you, you start in this little hub world and it's, it's a very nice, like very well set kind of lobby zone of this ship that's docked under this other big ship.
+28:33
+And you're like, Oh, I can't wait to explore and see what's going on here.
+But you are presented with a, an e-mail system.
+You are presented with weapons skins, which I'm like, OK, you're presented with, you know, different, different missions to choose from.
+28:53
+And then you are also presented with this like the last thing that you want to see in Rogue style games is like upgrade this thing to get 1% better at it.
+Which?
+I don't think does this game many favors.
+29:12
+I can kind of understand maybe why they put it in there, but that was one thing I saw that I'm just like, this is going to be, this is going to be one of those games, isn't it?
+Where it's just going to be like oh boy, I I did like another 45 minute run to make my weapons 2.5% faster shooting great.
+29:30
+But I will give it this credit because I saying a a bad tune about the king is watching and accidentally like pressing an upgrade system there and being like fuck, I didn't want that give me my money back.
+This one does have a money back system thank God.
+29:47
+And I was like, OK, well let's let's try this.
+I was like specking all over the place and I'm like, I'm sure Andrew has a good method for this, but let me just stumble in the dark here first.
+This doesn't really seem to be working.
+What if I just refunded all of my points and put them into like grenades instead and had like no survivability, no Shields, and like I couldn't move very fast, but I can just throw a lot of grenades.
+30:10
+I couldn't really tell that much of a difference honestly.
+So I don't know if there's like an ideal way to sort of spec at first or if it's just like just do what feels good.
+The ideal way to spec is to click the button on the one that cost the least money.
+30:26
+Like I literally I'm pretty sure that is the correct way to do it.
+It might be.
+Unfortunately it's not fun also because they do, they have like a, if they have like 2 currency thing in it, they've got the like triforce money and like components.
+30:42
+So a lot of times it's like you can't even really go hard on one of them because you run out of the components and it's a component for every single upgrade, which I thought was a kind of a weird choice.
+Why wouldn't they let you just spend a lot of money on a certain thing?
+30:57
+And it's not like 'cause like Hades is not above this.
+Also where like Hades, one like the Mirror of Night also has frustratingly stupid gating mechanisms like this of like, oh, now I can, you know, I can attack 10% faster.
+But there are like impactful things of like, oh, I can dash twice now.
+31:16
+Yeah, there are ones in the Hades that are like you aren't playing the real game until you unlock this.
+Right.
+Which is both, I don't know, it's kind of a is, is is sort of a good and a bad thing.
+It's but I think at the end of the day Hades is upgrade system is probably better.
+31:34
+It's better if you have to discover it though, right?
+Like it's, it's fine if everything fits on a distribution of F tier to S tier, if you don't know what the tiers are.
+But if you go in and you're like, I automatically know that was the best and then you just do that, then it's like less fun.
+So the exploration and learning about what system is actually good and fun.
+31:52
+That's where a lot of the fun comes in.
+That's like Megabonk, which is the game I'm playing now.
+That's that's a big thing.
+Indeed, and and there's another tab on the upgrade page that again for 50 hours and for having played this since it was back in demo in early access, you think I know more about this game?
+32:11
+There's a second tab which is like you can upgrade your accessories or something.
+I forget what it's called, but that is where the more important decisions or more interesting decisions for me personally came in, where you're picking things like that smart rocket and those smart.
+32:27
+Superior Items.
+Superior Items.
+I don't know how you could have forgotten such a distinct and memorable.
+Definitely the superior items.
+I found that was more exciting to spend my currency in between runs because I would find superior items that synergized well with, you know, with the, the class, with the augmentations.
+32:47
+And so it was more exciting to be like, I'm going to make this, you know, more important.
+And there's like one other one I want to call out is that there's a superior item that makes your weapons.
+You have, you have three weapons, your your primary, your secondary and your melee weapon or pardon me, and your grenade, but but three main weapons plus the grenade.
+33:06
+And there's like a superior item that makes it so that one of those weapons can proc your other weapons.
+Elemental options, elemental buildings.
+That's really cool when you shoot a big robot and oh, they get frozen and also electrocuted at the same time.
+33:22
+And then a weird plasma ball appears and start zapping guys that are nearby and oh it's it.
+It feels good.
+Yeah, it like this game does look really good once like all of the mania starts happening on screen and it is just like a dopamine tidal wave when you get like a hallway full of enemies and you're just unloading with this like super fast SMG.
+33:45
+And it just goes like and like it just, it gets that bilatro sound of like the things going higher and higher and you're like, give me more, give me more.
+I do think it has a little bit too much bloom though.
+I was saying before the podcast started that like I died or almost died because like I couldn't see the spider that was like biting my legs because it was just so washed out that it just looked like something on the.
+34:10
+Ground those spiders are are troublesome, that's for sure they.
+Look, you look up and you kind of look down.
+It's like, I don't know, there's a white blur at my feet.
+Is that a spider?
+Yes, it is.
+It's doing damage to me.
+Last thing, last criticism that I want to levy on this game is the difficulty options.
+34:29
+Where I think like maybe most of us, I don't know, Andrew, if you started on normal difficulty when you were first playing it, but for me.
+Else no.
+Oh.
+Going going hard in the paint, as they say.
+But but for me, I was like, all right, I'm going to start on normal.
+34:44
+Let's just see how this feels out.
+I could beat act one on normal and was like, OK, like I can kind of get it.
+And then act 2 was just steamrolling me and I'm like, OK, I think I can kind of see where this is going, where it's going.
+It's like trying to bait me into upgrading all the meta progression to make this easier.
+35:01
+But the game presents normal difficulty as let's see.
+It says enemies have standard health, damage, and movement speed.
+And then it says it drops 10% more triforce tech and 10% more purple BLOB component meta progression currencies.
+35:17
+Like OK what about easy mode?
+It says enemies have 25% less health, deal 50% less damage, and move 20% slower.
+And then hard mode says enemies have 25% more health than standard mode, deal 100% more damage than standard mode, and have 10% faster move speed than standard mode.
+35:38
+That gives you like 35% more drops and 50% of the purple one.
+This feels kind of like a bait and switch to me, a little bit of like, it really should be like the easy mode is the standard one.
+And then the quote standard mode should be like, I don't know, dead zone mode or something.
+35:57
+And that should be like, oh, relative to the standard mode, enemies have 25% more health, do 50% more damage, and move 20% faster, but you get 10% more tech and 10% more components, which doesn't seem like a good trade off in my opinion.
+36:13
+I don't know.
+Yeah, I I don't know, I don't have much of an opinion because I like the only reason I selected hard for this and for this game and for like all the missions you it's true gamer slider.
+But yeah, because it's because I'm just so awesome.
+36:31
+No, because I thought, well, the harder the game is, the longer it'll take me to beat.
+And I'm really enjoying this experience.
+Let's just stretch it out.
+I will say that when the three of us played, sorry me, Scott and Andrew played Co-op last night and once, you know, in each level, once Scott and I died and we just got to watch Andrew spectate to Andrew killing the rest of the enemies in the level, I did realize that Andrew is just better, significantly better at first person shooters than me and it explains a lot on why he likes first person shooters more than I do.
+37:04
+That there, there's definitely something to that.
+Practice for sure it's.
+Going to give you a bias towards a a genre.
+If you're if you're enjoying it and you're having and you're good at it, then then you're going to have more fun with it.
+Arguably, and to be fair, that only happened a handful of times before we got overrun.
+37:22
+I'd like to.
+Address the difficulty if I can.
+Yes, please.
+Yeah, difficulty that changes the enemy health as its primary characteristic is fucking stupid and it's bad.
+And this is a reflection of not just my own belief, but many other out there that are critics of gameplay.
+37:42
+Like what you want to have with more difficult enemies is for those enemies to be more intelligent, to have more move sets and to just be generally heart, like just move, you know, move in more interesting ways.
+You know, instead of just poking out and shooting, they're rolling out and then they're ducking into cover like you want.
+38:01
+It's a it's a much difficult, more difficult game to make, but difficulty where you just like, oh, let me just turn.
+Up the HP.
+Now, yeah, Borderlands.
+You have Borderlands then you have yeah.
+No, no, no, we don't want that.
+Yeah, no, I mean, like that's that's that's one of my main gripes about many, many games is that's not how this should work and.
+38:21
+I don't.
+I mean, in general, this game doesn't do that.
+It cranks up how much damage they do.
+OK.
+That's another the another dial which can same dial, same type of dial.
+I think it's a, it's a, it's a less bad dial.
+It makes you the bullet sponge or less the bullet sponge.
+38:38
+But yeah, there's definitely I mean, I remember back when I was OK at first person shooters playing Halo in the in the olden days where it's like fucking get one hit sniped from across the the levels.
+The.
+Jackal Snipers.
+Or Legendary.
+Or legendary trying to do that and then eventually just being like maybe legendary isn't for me.
+38:56
+Maybe maybe the famous we did it, man Yeah, I mean, everyone remembers how famously fun the one hit kill Jackal snipers were.
+So so let's just increment that into into difficulty options.
+Now.
+I think that like like the enemy AI in this game is also kind of questionably bad.
+39:12
+Of it's not question, it's it's objectively bad.
+On the robots they they.
+I mean, but they should be even better.
+Than that they go for backflip, they say Roger Roger and then no one.
+Else moves on the whole map.
+Interesting point.
+Who are they talking?
+39:29
+To it it does make me yearn for a Halo game in this format where the enemy AI is smarter like you know, just thinking back to like all those Halo one legendary runs and you know you're holding you're held up in like a corner and you're you know the grunts are throwing grenades at you to get you out from from there like there's like a halfway decent level of like combat decision making that.
+39:54
+Evolved Halo Halo came out in what, 2002?
+2001, but yeah, yeah, it was only 1414 years ago, so.
+Let's say Halo 2 'cause that was truly the best of them. 2004 like it's been a minute.
+40:10
+We've had we've had the technology for a long time.
+And yes, I know that Halo was like a large studio, but we've gotten so much better at games.
+You know who did this right?
+Metacrick and this game.
+That's maybe you've heard of it, Slay the Spire, where difficulty with ascension levels is not just giving enemies more health, it's more it's different move sets.
+40:30
+Yeah.
+Well, I mean the other Hades is the when you add the the.
+I guess that's.
+More relevant, but I had to say the word slay the Spire so that we hit the quota.
+Yeah, absolutely.
+I feel like so true Slay the Spire is a harder comparison to make because it is so fundamentally different.
+40:46
+Like I I'm struggling to think of like first person shooters that have, I mean, I guess it's just more enemy variety is how you do you have to do it.
+But that's.
+Well, well, I think this is like a it's a production budget thing.
+I thought about this like way more than I ever thought I would because because of this podcast.
+41:03
+But it's like if you have like a certain amount of budget for a video game, how much of that is going into your graphics and like overall visual fidelity department and like art, which this game does have a lot.
+And I think the art and visual fidelity of this game is very good and well done, but that kind of takes up a lot of budget away from things like game programming and, you know, like enemy AI.
+41:29
+And.
+And level design to kind of incorporate those and, and like, and for Rogue light games like this specifically, I feel like that's doubly hard to do because like you have to make sure that the experience is different every time like it's easy to do and.
+Like and you have to balance it versus wildly different builds.
+41:46
+Right.
+It's easy to, well, quote, easier to do for something.
+It's like a linear campaign like Halo.
+Because, you know, all right, this enemy is going to be staged here and like, they're going to spawn in a very specific sequence or something.
+They've got 6 possible gun combinations, right?
+They're probably going to be using the assault rifle, so.
+42:05
+So it's a harder problem, but there are like there's a decent contingent of lower production first person shooter rogue games that I think do this better.
+But even actually on the opposite of the spectrum, higher budget ones.
+42:21
+Andrew, you were kind of clanning on Returnal earlier.
+I think Returnal does this a lot better in kind of every respect.
+But that's that's a me ranking.
+But I think for what this game's history is with it being a fundamentally different game and quickly rerolling its perks at the last second to be this, I think with that in mind it it is OK.
+42:48
+And it's not like the greatest game ever, but it certainly has a good foundation to build off of I think.
+Are they still developing it?
+I mean you said that they're doing Act 4, but like, are they?
+Yeah, whether or not if they're gonna like replace all of like the the Roger Roger robots with like actual good enemy AI robots is, is a good question.
+43:12
+I mean, I feel like the Roger Roger robots are kind of OK.
+It's.
+Yeah.
+I mean and and like the first, the first act, which I guess we should probably talk about the three zone structure here in a.
+Second, well, well before, before we do so, I just want to make sure I'm understanding the complaint correctly that the AI is not coordinated enough that you, you would, you would like to see them hunt you down in the arena.
+43:34
+Like I don't I don't know if this is that type of FPS.
+Absolutely.
+I want tactics.
+I want there to be like instead of I'm a dumb thing and I move in on a very simple algorithm like I'm coordinating with others.
+I have additional move set where like I'm trying to bait you to jump out into the open or I'm trying to like throw a grenade here.
+43:52
+You see that obviously you have to run out and I have like my team ready to like it's this is complex and.
+It's I want them to have any level of intelligence.
+Any level of intelligence is.
+What I like you're firing a fucking rail gun or a mini gun and they're like the next room over.
+44:08
+They're just like they're just holding their rifle like, Oh no, look, there he is.
+Like when you come around the corner, it's like, did you not hear me?
+Did you not hear the screams of your sound element?
+Like it is as if interesting.
+In.
+Space.
+No one can hear you shoot your robot buddies I guess.
+44:24
+Like, yeah, you have to.
+You would have to rebalance it slightly.
+You'd probably have to make all of the enemies a little bit like weaker because they'd be coming at you more quickly.
+But like there were times where like I've finished the level, like there I, it doesn't, it hasn't given me the clear like, Oh, there must be some guy in a corner somewhere who's just like whistling his his little robot.
+44:45
+Whistle doing his robot whistle.
+I would I would say that that issue is mitigated by the fact that like the arenas are so small and the game plays like so fast that you're able to like track that person down very quickly.
+But sorry, this, this is so interesting because this issue didn't even occur to me at any point.
+45:03
+Because I think I think what we're tapping into maybe is that this very sci-fi, this very anime, this very like, dare I say like comic booky cartoony shoot em up game where it's a literal shooting gallery where you're blasting apart cartoony robots with way too much bloom.
+45:23
+This is this is like an arena based shooter.
+Whereas what y'all are kind of looking for for some reason, even though the aesthetic does not project this at all, in my opinion is a tactical shooter.
+We're talking about a version of the game earlier.
+Well, that it's a completely different genre and my humble opinion and my humble opinion.
+45:43
+Why?
+What?
+What prevents the with more effort, with more development time?
+What prevents the creators of this game from making hard difficulty one where there's just smarter AI?
+I think.
+The other I think that would that was.
+The money fundamentally money, money and fun.
+45:58
+That's the as to to Scott's point, if you can get money for less fun, you'll do that.
+And I think that that makes a worse game you.
+What you end up churning out then is a bunch of trivial bullshit instead of like a.
+True.
+Masterpiece.
+I want masterpieces only.
+46:14
+I have so much time to live, I don't have time to waste on shit games except for for this podcast brand.
+But you know, I that's my general policy because I don't want to waste time on games that suck.
+Well, I think that like.
+I mean, we'll wait.
+Hold.
+46:31
+On we've got Serious Sam in one corner where you're just mowing down waves of enemies.
+That serious Sam with like 45 minutes on normal difficulty.
+So this whole time is a big for Will.
+And then and and and the, you know, sheer quantity of of of the firefights and everything that's happening.
+46:50
+And then in the other corner we have something like first encounter assault fear where like, oh, you know, the the enemies are coordinated and it's a little bit of a slower.
+It's still very arcady, but I, I, I don't know.
+I don't know, gentlemen, no.
+That's so.
+I'm saying that's not my point.
+My point is that's taking me out of the power fantasy.
+47:09
+I want the power fantasy of there is a horde of robots closing in on my position and I'm so strong and powerful and cartoon violent that I could destroy them all.
+And then every once in a while it's like, oh, but also they can't hear me and they're just standing in a corner.
+Like, oh, no, they're actually just nothing.
+47:26
+And it, it, it pulls me out of the flow state.
+That's that's the real, the real sin in my.
+Interesting.
+I can.
+I can kind of see that.
+Like I, I'm thinking the comparison I'm making is not to Halo really, it's to Doom, the new, the new Doom where you're like, I am a fucking God running around.
+47:43
+Ripping well well known for its incredible AI the the new doom games No, I I think I get where you're.
+Driving at it doesn't have to be good, it just needs to not break the immersion.
+Yeah, I mean, I I suppose perhaps the game would do well to just if there's if there's one Roger, Roger robot in the corner of the level and you've myrdalarized everybody else to just get rid of them and send you on to the next level.
+48:08
+Very interesting, very interesting.
+I think to some degree, like the the BS difficulty levels are kind of kind of play into this as like, oh, like you don't want the entire like room full of enemies to like start rolling in on you because they're just gonna do so much damage and just kill you instantly.
+48:29
+Like it, it sort of incentivizes you.
+It'll like, let's say you're playing on hard and like you're gonna die in two hits to those axe wielding maniac robots.
+Like you don't want a horde of those to come right at you.
+Like you need some breathing space, room to room.
+I feel like something like Halo does this well because like there's doors in between the rooms and they're kind of segmented away from each other.
+48:51
+So it's like each room is a separate set piece.
+But in this one it's like, OK, well, there's like there's so much risk of like, all right, I'm going to like peek around that like I will.
+To this game's credit, it does have like that hitbox porn level of like, oh, I can see just like the the tip of that guy's toe there.
+49:09
+I'm going to snipe it and all right now I've aggroed him and a few of his buddies around around the corner.
+Now I can make this fight a little bit more manageable.
+There is like there is that, but I think it's like that's kind of the extent of it.
+Because in like there's as you progress through this game, there are like these sort of like small room encounters and then there's big room encounters where those kind of, to me just sort of feel like you're kiting the enemies around in a straight line fast, at least at the at the lower end of the difficulty spectrum.
+49:43
+And then you got your your big boss fights.
+But but yeah, I think like between those sort of three systems, the corridor, the corridor shooter, the bigger environment, sort of mini mini boss stage, and then like an actual mini boss and then the actual zone end boss can play fairly differently.
+50:03
+But again, like the enemies are just kind of running straight at you.
+They're not like bobbing and weaving.
+They're not like like jumping away from your grenade projectile.
+They're not picking up your grenade and throwing it back at you.
+Again, these things take money, but would maybe change up your your play style significantly if you had to account for that.
+50:23
+I don't know some of my thoughts on the subject.
+I feel like the difficulty exists to give you a, a slightly better challenge, even if it is just the numbers getting cranked up if you want to play more of the game or not.
+And, and it also exists so that you can, you know, pick a, pick a level that's a difficulty level that's comfortable to you.
+50:44
+And, and this, this idea of all this extra sophisticated enemy behavior would, yeah, take a lot of time and money.
+And it also would make it a fundamentally different sub genre of shooter.
+And I, I don't think that's necessarily what they were trying to achieve, but I, I, I kind of get where you guys are coming from.
+51:03
+But again, I, I think it's pretty bizarre that you wouldn't take a look at this game and think, Oh, well, obviously this needs to be a sophisticated tactical robot simulation.
+I don't, I don't think it needs to go that far.
+I think it just it just needs a light spice to it to make it just a a little bit there.
+51:22
+And again, with maybe with the Zone 4 expansion, we'll get that.
+I guess we'll just have to wait and see.
+But it, it doesn't need much, it doesn't need to be like a, you know, a hardcore tactical like like.
+The difference between act one and act two.
+Act 2 The the the robots start doing like tactical roles so.
+51:39
+They do the roles.
+I I personally, I think there's there's plenty of enemy variety and and and enemy behavior variety for just to be a decent shooting experience.
+Yeah, I I guess non decent.
+Gary, I guess it's like maybe Colin is really wanting just like a a better void bastards, which is.
+51:58
+No, no, I think nothing could make that game better.
+OK, no, it really it's I, I, I my entire criticism is really just the IT feels weird to me that you can that that the all the guys in the level are at least a tiny bit accurate to you once like major combat has begun.
+52:18
+And like setting up blockades or barricades in rooms or whatever, I just.
+Need them to like slowly walk towards me.
+The fact that you can find like guys around the corner who are just like, still not aware of the fact that that there is a war happening in the room breaks my immersion a little bit.
+52:37
+A Yeah, A.
+Serious.
+Like basically until you pop out.
+It's basically like if they can't see you, then they don't know that you exist and sound exists.
+It feels it.
+It does break my immersion a little bit, That's all.
+I don't really need them to have like particularly more sophisticated AI.
+52:53
+Oh no, no, I, I totally.
+Understand, and of all, of all of this whole conversation, I, I, I find I find your opinion the most relatable.
+Yeah, I, I get, I get where you're coming from.
+You know who else is is relatable with this smooth transition that I got?
+Our protagonist.
+53:10
+Well, well, I was going to say slicked back CEO space CEO man is certainly a relatable.
+He doesn't look anything like Will, we've determined.
+And, and it's definitely a legally distinct Elon Musk write in surrogate for for the game story.
+53:28
+But.
+I don't want any association with that so.
+No, yeah, I think that like, all right, we we've kind of dunked on this game's systems and stuff for for a bit.
+I think this game's like overall like design and like narrative thrust to it is actually like pretty OK.
+53:46
+And like, again, it's it sounds like damning with fate and praise.
+But like given this game's back story, like the fact that it's even like there's a million ways it could have gone bad or like just sort of phoned it in or just like, I don't know, we'll just throw this out here.
+Whatever quick complaining.
+We gave you a better game.
+54:02
+Whatever, but your your protagonist that you wake up in or as as this game and your your first story act mission is to figure out what what the hell is going on in this game?
+54:17
+Who am I?
+Why am I here?
+Why am I up in space?
+What is the spaceship?
+What are all these?
+Yeah.
+You wake with basically amnesia.
+I can't tell.
+Like it's unclear to me.
+Like do you not know anything?
+Except.
+For what a gun is, yeah, you're like, why?
+54:33
+Am I so good at shooting guns?
+And the I also give praise to the voice actor who I don't know like how much warning they were given of like, hey, by the way, you got to do all these voice lines for this rogue game that we're developing in two weeks K by.
+But it's it's like, you know, a pretty good generic male action shoot em up voice, but it's done in like this gritty gravelly, like cross between a Christian Bale Batman impression Hellboy and like someone who's just finished smoking a fresh pack of Marlboro Reds or something.
+55:09
+Well, I think it was a slightly smoother than that.
+It's like if you took all of those archetypes, but like made them into a, a radio host that had to have a little bit more listenable of a, of a, of a, of some pipes.
+But yeah, I I agree, I think he's doing a good job.
+And yeah, like you're, you're trying to go through hordes of robots and you're, they're just like these big telescreens everywhere in the, in this colony ship that you are infiltrating.
+55:37
+And you're just like, why are all these billboards saying the CEO says Mars colony ship ready.
+All systems go.
+This is a perfectly trustworthy individual.
+And your, your goal through act one is to battle through hordes of robots and try to figure out just just what is the purpose behind all this.
+55:57
+There's cryogenic tubes everywhere and you, you come across these little hollow pads that these little Twitter post things that again, I feel like there was, there should have been maybe more done with, but maybe we'll see of, of people's experiences on the ship.
+56:15
+And oh, things are, are kind of going sour.
+And as you get further into the ship, wait a minute.
+I thought this was a colony ship.
+What are all these war machines doing on here?
+And eventually at the end end of act one here this is this is your spoiler warning for for you to quickly change to your favorite jazz radio station on your Bluetooth display before the big twist.
+56:42
+Let me reach my for my Mingus real quick.
+Well, will you'll, you'll like this as someone who's a is a big fan of brain in a VAT psychology philosophy.
+You, you of course, you get to the end of act 1 and it comes up with like a little scanner thing to oh, you got it.
+57:02
+You got to align your head.
+You got to.
+Facial recognition mirror through this security door?
+Yep.
+But does facial recognition work if you don't have a face and if you are just a brain in a VAT?
+57:18
+Discuss.
+Actually don't discuss you.
+You come up in the.
+Past no it doesn't work.
+Scan for access aligned face.
+Oh God, oh God, is is that me?
+Where the hell is my?
+Face in a jar and.
+57:35
+Yeah, yeah, yeah, yeah.
+That was, that's kind of a fun reveal that you're just a a brain that's been stuck into a exoskeleton, FPS exoskeleton, which some days is what I feel like.
+But yeah.
+Flesh Mech.
+57:54
+Yeah, I thought, I thought this was like up to this point I was like, OK, like, you know, it's, it's this game's OK.
+And then I got to that point like, OK, this game is really OK and I.
+Felt nothing from that reveal.
+Well, that's cuz you're an emotionless brain in AFPS mech suit is why I also did very, very subtle, but I did appreciate like the the the mirror physics of like moving your character back and forth and it's showing up on like the the screen.
+58:22
+And it like, you know that thing in like old video games, you walk up to a mirror and it's just like a grey, a grey thing that doesn't actually reflect the character because of resource consumption.
+So much like it actually like he was doing that.
+I'm like, OK, like that's a neat little detail that.
+Like honestly 20.
+Five, that we shouldn't be impressed by this.
+58:39
+No.
+Well, that's the thing they've gotten.
+They've gotten rid of it.
+I feel like real time reflections.
+Like, you know what, Deus?
+EX came out like a pivotal cutscene moment.
+So like, they're not rendering literally anything else except for you.
+Yeah, like they're probably just doing the trick of, you know, how they did the the mirrors in old video games.
+58:59
+Right.
+Sorry, no, to be clear, we are not.
+Me and Scott aren't literally impressed by the technology.
+I I see the I see the impression.
+There's a number.
+Of the games ever done this before, Yeah.
+But yeah you're right, it should be.
+59:15
+Every game should have real time reflections.
+I concur.
+At least it like pivotal cutscene reveals indeed.
+But after after completing this first zone, like you, you unlock a new weapon element, you unlock the plasma, a different purple element that you can use in fruit and future runs.
+59:34
+And that that punch you out into into zone 2 where you start running through a deeper section of the ship, getting some more information about your your player character and what exactly is the role of the ship like.
+Well, I thought this was a colony ship and here's all the colonists, but all the all the colonists like like cryopods are all broken up and there's like these they've.
+59:57
+Been removing the colonists from the cryopods.
+I know, yeah.
+And there's there's some some some cool like open like set piece arena designs that I kind of wish there were more of.
+Yeah, there's something very distinct.
+The the one with the floating platforms comes to mind.
+1:00:16
+That one was low on my list, but.
+I think like the the big navigation room, that was pretty cool.
+Yeah.
+Oh yeah.
+Yeah.
+For sure there's some good art art direction for for the various rooms there.
+There was one of them.
+The one that's just beach.
+That's the the colonist relax relaxation room actually.
+1:00:36
+But there is one that's just like this, like shitty hallway with pits on it and the the player protagonist says for what possible reason could someone design this room?
+It's like it was.
+Made just to mess with me and like that's a little on the nose.
+But I.
+I get where you're coming from and some of them are like, you know, pretty, pretty intense battle, battle rooms and such.
+1:00:58
+But you know, you're, you're, you're going through your, your zone 2 area and you kind of battle, you battle through these set piece moments and you come to, I think the, the, the, the zone 2 mega boss.
+1:01:14
+Well before that is, you know, you, I think you start zone 2 and it's like big, big TV panels of like CEO denies rumors that he cloned himself.
+Man, this guy's an asshole or something that like the the protagonist.
+I'm just like, OK, I'm, I'm starting to get on board with.
+1:01:31
+This guy, I think it's the It's like I was wondering what kind of asshole designed this ship.
+Which you know, it's, it's like, it's fun, like not like overstaying its welcome kind of humor that I'm just like it, it fits what this game is going for quite well.
+Like it's dumb, like low brow, but like fun humor that like the game kind of knows exactly what it's up for.
+1:01:53
+And the game knows exactly what it's up for because your Zone 2 boss is giant like Batman Bane level CEO clone where I'm just like man, OK, all right.
+Yeah, you're fighting this big giant hulked out tech CEO.
+1:02:13
+Who's like shooting giant energy blasts like all tech CE OS do and you know Blake?
+It's it's.
+An interesting boss battle arena with this big central column that moves up and down or whatever, but.
+And it was probably, it's, it's pretty good.
+It's, it's the boss battle that I'd spent the most time on.
+1:02:29
+And even though I had to go round and round with it, like, I don't know, 10s of times, probably it didn't feel feel too Sammy.
+Yeah, but you, you, you kill the the CEO clone and you're you're this is where I get.
+1:02:46
+I think the game was like, oh shit, we actually have to like put some exposition and story stuff in here, get that story dump truck in here and just.
+Like let's start out and back it up.
+And so you, you find all like these other pilot suits that have like, for whatever reason, this this at Lt.
+1:03:07
+Jace at Lt.
+Jace under score Talon 13-4.
+His last act of being alive was to send a Twitter message on this system that he says I was rushed by bots as soon as I opened the door.
+My suit is broken.
+They trashed my backups below and I lost the neural link to my body and cryo God, if I can't merge my memories back, does this version of me die?
+1:03:31
+We're not supposed to die and there's there's other like you, you come into a thing that's very much like your ship, but it's all these other brains that you have seen from your body attached onto a wall and you're like your player protagonist is like all right, let's let's start reading off the script.
+1:03:50
+We only got a little one more act here to go.
+So they clone our brains, upload our memories, and it's like I, I don't know, a remote pilot kind of thing.
+It's almost kind of like they were doing a table read of this game and they're just like, all right, yeah, just we'll we'll throw that in there.
+Sure.
+Well, let's let's keep it going it.
+1:04:06
+Just kept that audio.
+Yep.
+And there's more kind of screens that that you kind of get information dumped on of like, you know, you are like an inter like interspace pilot who's frozen on board and they transferred the memories back and forth and that say, Hey, that's your reason why it's the game is looping.
+1:04:24
+Hey, it's a rogue light now get it?
+And you know, again, new brain, new new guy.
+Yeah, please don't let my last message be a a a Twitter message saying something of like.
+I sure hope that that my my brain is sent back in time and please good luck, brothers, good luck to you.
+1:04:52
+Because yeah, I I feel like this this Twitter system they had, they could have been a little bit more with but but you know that you are able to to link up with your ship and all right, great.
+Now we've, I guess resolved Act 2.
+I now know that I'm some space pilot here to to stop what's going on on this ship.
+1:05:12
+Great.
+And yeah, I think that that pushes us out into Act Three.
+Colin, how far through Act 3 have you gotten?
+I've I've not done Act 3.
+OK, how much do you want spoiled of Act 3 for you?
+I don't, I don't care.
+1:05:28
+Spoil as much as you want.
+OK, well, I thought we might get that kind of reaction.
+I mean.
+I don't.
+I don't, I'm not particularly.
+This doesn't feel like the kind of game where spoilers matter.
+Right.
+Well, it's big spoiler alert because the mini boss.
+Well, but real quick, sorry, we just let let go by what is the, you know, greatest plot explanation for why you're having multiple runs in a rogue like.
+1:05:52
+I mean, Haiti's get out of here.
+This is great.
+We got all these brains.
+Stick the brains into the FPS suits you get the FPS.
+Meathead the meat provided by the brain cranium.
+I mean you get the hell divers where it's just like every life is just a different person.
+It's.
+Just a different guy, yeah.
+1:06:09
+It's like, oh, oh, you're not, you're not the same person having multiple runs.
+That guy that died, he real died.
+You're just there's just the next one on the ground.
+Sorry about that.
+Yeah.
+But yes, the Act three, what do we got?
+Act Act. 3 so so act 2 mechanically, there's also like you get this.
+1:06:27
+What is what is a?
+What is like the two peer like the two D4 dice thing DH.
+What is the name of it I.
+Don't know.
+Anyway, Act 2 you get like this new synergy system.
+That's that.
+It's like the the perk thing, Andrew, that you were talking about with.
+1:06:44
+Octahedron.
+Of course, we should have been able to guess that.
+Oh yeah, you you get a, a floating synergy octahedron that allows you to to pick like those things that you were talking about of like these extra upgrades like shooting, shooting.
+Something they added between the last time I played it in between this time was that there are now synergies that can be built out of those superior items out of that that the octahedron selection that if you if you select there's like there's quite a few.
+1:07:13
+Well, this is an Act 3.
+Three of them.
+This isn't specifically act three.
+I think this is specifically Act 3 and another kind of one one of my criticisms of.
+That great items are in Act 2.
+No, no.
+There's like a specific system called synergies.
+Yeah, yeah, yeah, Aura you're getting.
+Like you, you pick like two of these things of like the dote of the Octahedrons and then based on like the class perks and stuff that you've been picking up normally, like then you get some extra super benefit of like, Oh yeah, and now you've got like super jump speed and like, you know.
+1:07:43
+Like you have an AOE like aura around yourself.
+Yeah, yeah, yeah.
+Like it's, it's pretty, it's I, I, I was very happy to see it.
+And act three also greets you with a, a voice, a disembodied voice saying don't don't believe the lies that you hear.
+1:08:01
+Everything is just fine.
+Everything is OK.
+And meanwhile there's like these goopy tentacles coming from the ceiling and like, it just descends into like quite literally doom level body horror of demonic invasion type stuff.
+But you, you fight your mini boss mechanical spider man who is your former boss who the voice in your head says he passed you over for promotion 6 times.
+1:08:27
+And I'm like yeah OK I can I want to kill this guy.
+Yeah you're making some good points voice in my head.
+I didn't like this boss fight at all because this guy and I was playing on easy mode like this.
+This guy should have been easy to take down, but this is like a mini boss where he spawns up like all these stupid shield generators that you have to like shoot, blast those down 1st.
+1:08:48
+And as I'm talking through it now, I'm like, oh, I guess I could have just threw grenades at him.
+But like he's like in this invulnerable like mesh of all these shield generators still challenging on easy mode.
+So it's no walk in the park like you're not gonna be able to.
+It would be hard to beat this on your first run through if you didn't quite know what you were doing, which I think is like I that feels right.
+1:09:11
+Like maybe if you just fail barely on easy mode, maybe that's the right level of difficulty.
+But you progress through, you get another giant dump truck of exposition where they're like, oh shit, we like fuck, we can't get act for out here.
+We already paid for the voice lines, might as well get them in here.
+1:09:28
+Yeah, right.
+And the the doctor scientist guy who presumably programmed a lot of the stuff on this ship, he's sending out a general.
+Yeah.
+Yeah.
+No, this is, This is like the main designer of the computer systems that govern this ship.
+1:09:44
+Yeah.
+And this guy is saying like, you know, a catastrophic, again, if any of this was hinted earlier, says a catastrophic EMP blast from Earth struck us critically damaging all of our systems and most importantly our computer score.
+I designed our core not only with synthetic parts, but organic living tissue as well, the EMP.
+1:10:06
+The EMP, however, disabled the core's synthetic components and in order to repair itself, the ship's and the ship's most vital functions, the core had to compensate and it's distress.
+It redirected systems, machines, drones to harvest a compatible biological tissue from the only source it had, the colonists in cryosleep.
+1:10:27
+Yeah, there it is.
+So awesome.
+I love that.
+And like this is presented in like kind of a slap dash.
+I'm sorry, developers like low effort way.
+It's like literally you're just looking at a computer screen and like this little and you're and you're watching the the progress bar of of the podcast go by and it's like kind of a long, longish message and the delivery is kind of slow and like and it's like, and but when that was revealed, I was like, that's that's pretty cool.
+1:10:57
+All right, I like I that feels like a satisfying explanation for what's been been happening.
+At least it was for me.
+Yeah, and I mean, like they could have, they could have spread this out a little better, but at the same time, like maybe it was just like, I don't know, we'll just throw something together and it, it works well enough for for this final act 'cause he basically says, like, you know, the ship is lost, like blow it up, like scuttle it, whatever you can do, it must be destroyed.
+1:11:24
+And then the voice in your head is like, do not listen to Doctor Victor.
+He was limited and you're you're going through like you fight another big boss.
+It's just like kind of a a giant mech robot.
+And then you progress through this, this body horror nightmare.
+1:11:41
+Of.
+Of like tentacles and things from the ceiling, big goopy pods everywhere and you finally get to the the big bad I believe.
+I think this is well the the end boss, even though it says sector 30 out of 33, which I think should kind of give you a hint.
+1:12:02
+This big boss, the core comes erupting out of presumably like the bridge or something like you're really close to like the controlled center of the ship and then outcomes the giant brain and you have to shoot and kill this giant brain with its giant brain tentacles with some other monsters and and stuff that are constantly spawning at you.
+1:12:26
+And it's it's a.
+Fine boss fight.
+Eldritch brain, basically.
+It is a big eldritch brain.
+It's very reminiscent to our our last D&D mini so that we did where we were just fighting a giant beak brain.
+It felt very much in in line with that.
+1:12:43
+But you, you finally beat the big bad brain boss and you're like, oh thank God that brain is dead now.
+But I'm sorry but real quick to be clear, my my my my compatriots here are are describing a grill and an elder brain, an Eldridge brain.
+What are y'all talking about?
+1:12:58
+This boss that is great.
+Hold on.
+I wasn't saying elder brain.
+I was saying Eldridge brain.
+You know the the generic non non suitable.
+Oh, sure, you got all the yeah, you got the, you got the brain and then you got all the elder tentacles and everything.
+1:13:15
+This is a pretty good fight.
+It's a two stage fight, which are very much appreciated because you know, heaven forbid you know, you, you're overpowered and you beat it in the first try and like 1 go like that's, that's that's a real flow and a real really kind of screws up the climax of the game.
+1:13:34
+So you got the the two-part battle and of course, Scott, we are, we are, we are sprinting towards the climax of the the the plot climax.
+What?
+What do we got?
+Well, you, you kill pink brain.
+Pink brain comes back as green brain shooting big green tornadoes at you and you're like, all right, I'll, I'll kill that guy.
+1:13:54
+That's fine.
+And then you're running to the the ship's self destruct zone and the voice in your head is saying no, no, no.
+The the colonists, they, they're still alive.
+Their consciousness are a part of us.
+I've tried to explain this to you on Mars.
+We'll give them bodies like yours.
+1:14:11
+We will find a way.
+And your player protagonist just like God damn it in between smoke breaks.
+Presumably the.
+Brain is smoking, yeah.
+No, no, your your protagonist is or.
+Yeah, Well, yeah, the brain, they're all brains.
+1:14:27
+It's all brains into that.
+Aren't we all brains into that?
+He's fishing, he's vaping, just directly into the brain.
+Folds into the helmet.
+Yeah, yeah, just filling the helmet.
+He's hot, hot smoke.
+Hot potting.
+But you're you're you're presented at the end with this, with this choice, like your, your player protagonist is is, you know, on the fence.
+1:14:50
+Like do I listen to this disembodied brain voice and give this ship a chance and let it go to Mars to start a new life and let all of these, the consciousness of all these dead colonists live like my body question mark?
+Or do I just blow the fuck up?
+1:15:06
+Now, unironically, Scott, I'm I'm curious, were were you at all swayed by this argument?
+I thought this is a pretty nice little sequence.
+You're coming off the.
+High of having fought the giant brain multiple times at this boss battle which is pretty bombastic in a good way and exciting.
+1:15:25
+And then you're running down this hallway and the ship's kind of falling apart and you're having this dialogue with the, with the, the core.
+And yeah, it's, it's, you know, it the, the, the argument that is presented by the tech, by the designer who, who did that does that info dump reveal is that, yo, we can't let the core get to Mars and colonize Mars and take over.
+1:15:53
+We're going to have this like, you know, this, this, this monolith, this, this horrible mega, half biological, half technological AI monster on Mars.
+Like God knows what it could do.
+And then it's almost.
+1:16:08
+Something that you would like send a Doom Marine in to solve?
+100% but the, the argument that the core is making to you is like, hey, no, no, no, yeah, we still have these consciousness of, of the, of the colonists.
+They are still alive in some capacity.
+We are going to give them bodies.
+1:16:23
+And also critically, if you, if you, if you just leave and don't self destruct the ship, then you of course will be saved.
+You can go back to Earth and you can, you can live your merry life.
+And so basically, yeah, you can decide to, you know, protect the human race and blow yourself up and blow the ship up or.
+1:16:43
+Is life is life worth living if you're just a brain in a jar?
+Well, that's why I like sprinted without thinking twice to the self destruct option.
+And I'm like, no, no, I'm, you're, you're we're going to hell tonight, big brain.
+I'm not going to let this set up into a Doom prequel.
+1:17:02
+And yeah, well, at least for me, Andrew, I don't know if you've picked the escape pod option before, but I I did self destruct in my 1.
+I also self destructed.
+I like like IRL was like muttering to myself, like the protagonist, like God damn it, I got it.
+1:17:20
+There's we can't let this thing get out of here.
+There's we can't take any chances.
+No half measures self destruct.
+But I did appreciate the the choice was was kind of I thought that again, I thought that was a well done sequence, much better than just, you know, shoot the the big boss with the big number and then the GAN that credits roll.
+1:17:39
+Which makes me wonder what the zone force set up is because extreme spoiler alert, at least with the self destruct ending things blow up.
+But oh, I've, I've woken up again and you, you.
+Some hand WAVY explanation like my ship which was docked with the colony ship got blown loose by explosion.
+1:17:59
+And I just happened to survive re entry on to Earth.
+And you were greeted with, I will say like quite a well, artistically put together, definitely not Halo combat evolved copyright infringing moment of out in the almost like the Pacific Northwest, big mountains city on the horizon.
+1:18:23
+You're like, damn it, the robots have followed me to Earth.
+And you get up, you get up to the Ridge and you're blasting them.
+And you say, oh, great.
+You see this like city with like robots shooting lasers at it.
+And you know, I got well, screw it, I've got this.
+And you know, you start running into presumably start killing, killing all those robots to to save Earth or maybe Mars question mark, depending on what the other option is.
+1:18:51
+I don't know.
+Yeah, I think if that's the setup for for zone 4, like I'm I'm interested to see what what could be done in this big like it's it's a big outdoor environment no longer in like the the corridor shooter mania zone.
+1:19:07
+And I'm like, OK, let's see what you got.
+Let's see what this Zone 4 will be.
+My guess is world survival crafting game.
+Big blocky extraction shooter this is.
+They finally figured out what a slipped extraction shooter in.
+Yeah, maybe.
+Yeah, the epilogue sequence I enjoyed and does I I think is is an exciting preview to what could potentially be done with Act 4.
+1:19:32
+Yeah.
+Music's OK.
+I thought it was like pretty good music in some cases, somewhat repetitive in others, but not I I thought I thought it was better than better than average.
+Yeah, I started a new profile and made sure to pay attention to the music, and it was better than I remembered.
+1:19:54
+I I never, I didn't think it was necessarily bad.
+I just thought it was kind of bland.
+But then once I was paying attention again, I was like, Oh yeah, you know what?
+Actually, this is pretty good.
+It's not.
+Necessarily something that you're going to be humming to yourself later, but I think it does well to add energy to the flow state.
+1:20:10
+Yeah.
+For sure, which is probably all that you're you're really going to get out of a game like this.
+Right, it's it's, yeah, quality synth soundtrack.
+Do we have any other final thoughts that we want to add before we hit?
+That what is the best element.
+What is the best element?
+1:20:27
+Andrew, I don't know that's, well, here's a problem is a couple of the elements feel pretty samey, I'm afraid.
+I'm sorry to say I'd be hard pressed to tell you what the psychic element actually does other than like.
+Damage.
+1:20:44
+AOE damage, yeah, what do you know?
+I I think having a frost grenade was very would come in very clutch, especially against like mini bosses because you could freeze them potentially.
+1:21:00
+Generally speaking, you know, I like the spectacle of the fire and like setting guys on fire and doing, you know, damage over time and and being able to like explode them to deal, you know, area damage.
+Very nice.
+What about you?
+I quite liked the lightning one because, you know, I would just abuse the enemy AI, get them all running into a conga line down a hallway and then I would just like get this huge.
+1:21:24
+It's like a ZAP chain going down the hallway and they would just all explode and be like, you know when when you get a like a machine gun with like the with the extra fire rate and like the big mag and it's just like it is just like you're holding down a buzz saw that's just shooting electricity beams out.
+1:21:41
+I'm like, you know, like this game doesn't need to be like any.
+I know that we were like wanting some extra like level of spice or depth to like the enemy AI, but like the the aspect of like thing explode on screen, like monkey sees action neuron activation works really well for that.
+1:22:01
+Let's see just looking through some of the other elements on here.
+You got your cryo damage which freezes stuff, fire damage which is like damage over time, lightning which does like chain damage plasma does or reduces the target's attack rate so it makes them slow down their shooting is.
+1:22:19
+That the purple one?
+What's the purple one there's?
+2 purple ones.
+There's two purples.
+Of what are you getting me?
+Plasma is is is purple with pink in it.
+Yeah, it's hot.
+Hot, purple and void.
+Void.
+Void is bright pink and oh I have.
+1:22:35
+No idea what I had you had.
+Void.
+Yeah, Void.
+Void reduces the enemy's damage.
+Psionic that adds a chance to stagger the enemies.
+Oh yeah.
+Right.
+They're pushed back, damaging them and applying fracture.
+What's the best?
+1:22:51
+That's the best, right?
+I think it depends.
+It depends, because like who?
+Who is fire?
+The answer is fire.
+It's when you hit the ignite or the explosion or whatever, combust, whatever the one is that makes them explode and you headshot the guy first hit and then explodes and kills all the other guys around him.
+1:23:08
+It feels real good.
+But that doesn't work for those like big open environments where enemies are spawning in like completely different parts of the map.
+Yeah anyway, I think like it worked really what like the the different God?
+1:23:24
+What are these elements?
+Jesus, the I think these things also worked really well whenever like 1 was procking the other.
+So that way you could like get get freeze to like freeze someone in place and then like the lightning chain damage would like go through them.
+1:23:42
+But the best is Rainbow.
+Yeah, exactly.
+And yeah, I kind of, I kind of wish that there was like any explanation of like, what the fuck is this shit and why is it in this game?
+That is no, no, no.
+Point yeah, like that's like they they address why you are responding, but they do not address why there are guns that are infused with Thor's lightning.
+1:24:03
+Like, it's pretty, yeah, pretty wild, but it does offer a lot of fun variety and and quite the spectacle of seeing all of these different elemental procs happen.
+Yeah, for sure, for sure.
+I guess that's the risk that you run when you're on on Milan Grusk's booze cruise to Mars.
+1:24:26
+Is that a name?
+Is that a name?
+No.
+What is his name?
+What his name is?
+No, it's very important.
+His name is no.
+This one just says CEO.
+He does have a name of of some sort of some generic white man name.
+1:24:42
+Is it John scores?
+Colin Smith.
+Oh my God, no.
+Oh my.
+God, that is, yeah, I'm sure it's something very inspiring and we're going to find.
+CEO clone man.
+What is it really?
+1:24:58
+It really.
+Doesn't Sure.
+Well, you can follow him on on X at at big boss under score CEO, which that's good is definitely the most humble, but.
+Also you should not be on X all all I mean never mind go ahead.
+1:25:15
+Sorry I I have a strong opinion here but.
+But yeah, before we go into ratings, which is fast approaching, I, I do want to call out or not call out.
+I I've another I've I have a I've already demonstrated my lack of knowledge about this game's systems, but the the biggest glaring hole in my in my knowledge is there is a mechanical term in this game called weak point and various perks and loot and and what was the other one augments There we go affect the amount of damage that you do when you hit an enemy in the weak point does.
+1:25:55
+Can anyone tell me how to identify where the weak point is on any given enemy is?
+It just the head.
+See, you think that head shots are a separate mechanical term.
+The big floating like robot kaku demon knock offs like shooting them in their central eye I think is their weak point.
+1:26:14
+And so I think it, I think it depends per robot generally.
+Does but that that's what I have determined again, 50 hours of this game and finally I just had to kind of like Google like, OK, how do I is there a tell?
+And supposedly there's like a glowing effect of some kind.
+1:26:32
+That sounds right.
+And I still I'm I'm.
+I'd be hard pressed to point to a diagram of each enemy and be like, ah, yes, there's the weak point.
+But the fact that that exists, you know, kind of neat that there's, there's both headshots and weak points.
+I appreciate that.
+1:26:47
+There's there's weak points, but there's also like interesting synergies that are just like, look, we know that like you have the giant hipfire mini gun, you're not going to be able to hit that weak point.
+So what if you had a synergy that was like you did extra damage for not hitting their weak point to kind of balance it out, which I can appreciate.
+1:27:03
+I don't particularly like the idea that I have to upgrade it 10 times in a row, but they're.
+Shooting their arms should be able to blast their arms off.
+That would be nice, getting at the robots especially.
+Well then, is it time?
+I think it is time, I think it's time for us to yeah, finally, finally hit that.
+1:27:23
+Are we going to save save the the game or are we going to self destruct it either with our rankings and I think.
+To will to find out, yeah.
+All right, folks, 6.5 and here's why I gave Enter the Gungeon A6.
+1:27:40
+This game's better than that.
+Wow, this game.
+Let's kick out.
+Sorry.
+You can send your.
+Header, then enter the Gungeon.
+There you go.
+That's Frog.
+Podzone@gmail.com is.
+That Here are the four reasons why I think it is capped.
+It can't get above 6.5.
+1:27:57
+It has maximized its ability in the category it's in.
+Bullet hell automatically limited.
+You can't do well in a bullet hell scenario.
+For me personally, I like Bullet.
+Hell, this man wants a tactical shooter.
+1:28:14
+He's calling this a bullet hell.
+He doesn't know what he's talking about.
+Game dev has scrambled his brain. 1000 Pardons.
+All right.
+We got a lot of, we got a lot of to finish.
+I have never liked bullet Hells.
+I will not like them.
+I'm a bullet heaven person.
+1:28:31
+First person shooter can be great given the context, but FPS you're limited there too.
+I don't like that experience in general.
+I know we played Squad, but there are limitations around FPS and fun bullet sponge.
+1:28:48
+I said that that's who I am in the in the very beginning of this episode.
+Bullet sponge enemies where you shoot them in the head and the bullet passes through all of what is observably their CPU and they're like, oh, I'm fine, that's a problem for me.
+1:29:06
+Bullet sponge enemies are bad and no real build diversity.
+We've talked about this a little bit, but I don't think that they're, I think that you, you kind of pick a thing and you stick with it all the way through and that's the build.
+1:29:22
+There's no, I mean like, yeah, you could pick a different thing and go all the way through, but there's no branching.
+There's no, that's the that doesn't appeal to me.
+And so granted, granted 45 minutes.
+So I I will caveat it with that, but I feel pretty confident I shouldn't.
+1:29:45
+But 6.5 that's.
+Based off the back cover that I read of this book, I can tell you with 100% certainty.
+Thank you.
+You know it's.
+It is A7. .5 It's OK to not like a game, that's totally fine. 86.5 is in the recommend.
+That is in the recommend that. 6.5 is above that.
+1:30:02
+Are you kidding me?
+This game has gotten off easy to be honest.
+That's the first thing I cracked as as soon as you said your score.
+Yes, that it is in the would recommend will category, which is its own benchmark worthy of praise.
+Colin, are you doing?
+1:30:19
+Are you are?
+You saving the ship.
+I am.
+I am going to save the ship.
+I think they should be able to go live on Mars.
+They'll live in peace.
+Also, Mars is a hell hole.
+It's if they want to do something with it, great.
+I don't want to live there.
+I'm going to give it a 7.5.
+1:30:35
+I think that it is quite a fun game for what it is.
+I don't know if it has the level of depth that I would want to spend a significant amount of time into it, but it does achieve a very good flow state and it has I I was surprised every time I finished a run how strongly the pull to start a next run was.
+1:30:58
+Be like, don't bullshit.
+I can't believe I died there.
+God, I was so my build was so good.
+I got a so like it.
+It had that feeling a lot, which is I mean, that's a pretty strong recommendation.
+I felt like it was a little bit bland, but I don't know if that really matters.
+1:31:16
+I haven't gotten far enough in the game really to to fully view the story, but from what I've heard on this podcast, it's fine.
+I think that I would have exactly the same amount of fun if the game had no story and no explanation for why you're on the ship.
+But so I mean, I think 7.5, which is honestly, that's like I, I try to do a pretty my, my ratings are pretty much bell curve centered at 7:00.
+1:31:40
+So it's above, above average.
+I think it's a a fun game to play.
+I had a good time playing the multiplayer yesterday with you guys.
+So yeah, I'm going to give it.
+Mostly recommend especially if you're like this style of like hero blasty shooter where you get to go on the power fantasy.
+1:32:01
+For me, I'm going to give, I'm going to actually self destruct it, but I'm going to self destruct Will's opinion and give it a 7.7.
+I think this game, like it's what I say earlier, it's it's very OK.
+I think this game is like maybe suffers from like looking a little generic at 1st and like I'm not super thrilled about like the like tiny incremental grinding stuff like that kind of stuff.
+1:32:31
+I don't I think could be reworked.
+It's not something that's like baked in the fundamentals of the game maybe.
+But when this game is shooting on on all cylinders, it is really shooting on all cylinders.
+And it is it is definitely like a dopamine explosion of just seeing number go up, shiny candies fall on the ground that I can pick up.
+1:32:55
+And oh boy, that that feels really good.
+And yeah, I think that like the IT, it just feels very smooth to play.
+I think the builds in this game are actually kind of interesting because if you don't have a a decent build going, you will be punished for it.
+1:33:12
+And the times where I'm like, oh, like I can actually build around a sprinting shotgun automatic bullet refunding type deal.
+I don't think I've ever seen in a game before.
+So it's it actually has some kind of interesting unique takes on it for something that on the face of it looks a little generic, but is maybe a little a little deeper than than it initially appears.
+1:33:35
+So a 7.7 for me, just above dot age and tying with blueprints.
+For what it's worth.
+Yeah, I think it a totally OK game.
+All right, well it falls to me to explain once again because I've been gone for two weeks, that the ranking system used to be a stack ranking system.
+1:33:59
+And so to try to fit that because my Co host who I adore so much and insisted that's what we're doing.
+So my scores are messed up so please don't judge me too harshly.
+So I've given Dead Zone Rogue 8.11 Andrew points which puts it in my top 10, and I was initially going to give it a much lower score, but I thought, you know, my top 10 needs AFPS in it.
+1:34:28
+There were no FPS in my top ten.
+Ridiculous.
+Got to fix this.
+So I thought, you know, well, the Legacy of Doom won't be too offended if I put it smack dab in between Doom, RL and Jupiter Hell Dead Zone being my new number 8.
+1:34:48
+One thing that we didn't quite have an opportunity to mention because we got waylaid by a an interesting conversation about enemy behavior.
+I think part of the disagreement stems from my appreciation of a retro FPS games and how the you're less from the game design.
+1:35:13
+From from a game design perspective, you're less looking at the like squad AI and squad behavior and more at like the individual classifications of enemies.
+And that like a good retro FPS experience as a roster of enemies with set distinct behavior.
+1:35:33
+And then it's like up to the level designer to place those enemies in an interesting and engaging way.
+And it is up to the player to to recognize and understand those interactions and how and those behaviors with those different enemy classifications and use the right, you know, strategies and the right weapons to to dispatch them and deal with them now.
+1:35:59
+And, and I think that's what Dead Zone has has put together is a roster of fairly distinct creatures that you can count on behaving in specific ways.
+So hey, I can deal with this particular melee guy in this way, I can deal with this particular range guy, etcetera, etcetera.
+1:36:18
+The, the, the robot that has ABB 8 circular Droid embedded in its head, when I kill it, if I don't headshot it, its heads going to pop off and float around and become its own floating enemy.
+1:36:34
+And, and you as the player understand, you know, what that set and predictable behavior is going to be and how to go about dismantling that challenge.
+And what, but something specific that we didn't get to discuss was that the way that these arenas start is that you enter a new room of which a typical run is like, you know, 20 to 30 rooms.
+1:36:59
+And you are in stealth mode.
+And you can just walk around the level and get the lay of the land and figure out like, OK, what enemy configurations, what classes of enemies am I dealing with?
+I know how they're going to act.
+So I can make some predictions about how these different fights are going to go.
+1:37:16
+And it's this wonderful opportunity for the player, this wonderful bit of player agency where you get to pick where this FPS level starts, where the spawn in E1M1 beginning is.
+1:37:32
+And that, that, that just a little piece of design is really smart and very engaging in a, in a somewhat not not immediately obvious way.
+And especially when you're in to a long run, maybe on a harder difficulty potentially and the challenges there and, and, and a lot of chips are on the table because you're getting close to finishing the particular zone for the first time.
+1:38:02
+Taking the time to strategize and figure out where you're going to start is really great and something that you don't get out of a lot of shooter experiences.
+That tactical, well, pardon me, I guess that slow sort of tactician planning portion.
+1:38:21
+And that is really delightful to me.
+Furthermore, what's really delightful to me is to learn this design, this development history and how the developers were able to take a somewhat disastrous situation and take all of this hard work and these pretty assets, these beautiful guns, these great sounding guns, these fun, engaging, fun to shoot and blow up robot designs and remix it.
+1:38:49
+Not even remix it, revitalize it and resurrect it, not unlike the protagonist in the game, into a really great gaming experience.
+I think is is commendable and inspiring and that's why I, you know, think this game deserves to be in the top 10 here.
+1:39:09
+And I suppose it'll probably get mentioned in the Omega Bowl and I look forward to that time.
+So 8.11 points out of 10.
+Yeah, you're you're mentioning of the of the starting cloak thing is something that I wish for our similar games segment that the number one game on here.
+1:39:33
+I wish that it had.
+I really wish Roboquest had that system.
+Roboquest I feel like is a stay tuned and 1/2 for sure.
+It does feel very much like this game in a kind of a slightly different style, very much a different art aesthetic.
+1:39:48
+But but yeah, I think like that that starting cloak thing.
+I'm just like, oh man, I really wish Roboquest had this.
+Maybe it does.
+Maybe that's something we'll find out about, but Roboquest top in the list.
+It definitely feels like Dead zone, but Borderlands slash, you are the robot.
+1:40:07
+Lots of robots in these games.
+Dead Link that we mentioned earlier I think Andrew has some experience with, but maybe more of kind of like a punk end of the spectrum cyberpunk type type shooter.
+We have a witch Fire which I think is kind of been rolling up the charts in terms of critical reception with that one being maybe more explicitly of a an extraction shooter.
+1:40:35
+Not PvP but definitely pve extraction shooter type but way more rogue in its design.
+There's space beast terror fright which I think is supposed to be like a Co-op squad based like dark horror theme but still like kind of like a corridor shooter but more maybe more horror oriented.
+1:40:56
+I put sulfur on this list mostly because Andrew was coin flipping between dead zone rogue and sulfur.
+But from what I from what I played at at PAX last year of it, I'm like, I could see this being being stay tuned for sure.
+1:41:12
+Our previous episodes, void bastards, returnal.
+I've I've come around a lot on super super stoked for sorrows, whenever that comes to PC, God willing.
+And yeah, so oh, some other ones that have come out recently, Void Breaker, which looks interesting, Jump Space, which is like it's not quite as much of A corridor shooter as this game is, but it is like, what if FTL, but you were first person shooting during all the FTL type stuff.
+1:41:43
+Getting some good eyebrow raises there.
+There is one game that I was like on the tip of my tongue this whole past week.
+I'm like, what the hell was that game called?
+I saw it being played at PAX W 2024.
+The guy was playing it and just hogging the kiosk the whole time.
+I'm like, I got AI want to play it, but he's just he's not giving up his thing.
+1:41:59
+And I couldn't remember the name of it until I went on YouTube to find someone's like walk like video of them walking around the show floor from a year ago.
+And I could just barely see out of the corner.
+I don't think this game has been well received, unfortunately, but similar, at least in the space, A game called Unyielder, which is kind of a it's more of a boss rush style, but it's still an FPS.
+1:42:23
+And from what from what I saw the guy playing of it, I'm like, that looks pretty cool, but I don't know, it's getting kind of dragged in the ratings.
+So we'll see.
+Yeah.
+So that'll check out those for some similar game recommendations.
+And as we wind down here and as we solicit your, your rage bait emails to our our Gmail address, grogpodzone@gmail.com is where you can send in all of your takes agreeing with me as to why Returnal has a better FPS systems than Dead Zone Rogue.
+1:42:55
+Or you could look at all the stuff that I I post from time to time on Mastodon Grogpod at Game Dev dot place where I just got a a prize package from the UFO 50 Cherry Rush stream that I was I was spectating.
+1:43:11
+They sent me some some cute magnets there.
+Grogpod Deadzone has all the ratings stuff that you can find, including links to Will's game slash app that is is just releasing as of today.
+1:43:29
+You can find links to that there in the account page.
+Maybe it's worked its way there or at least your your your feeder link of like sign up here thing.
+Yeah, if you if you go to the the site, I'm not, I don't want to mention it.
+This is not the place for that doesn't matter.
+1:43:45
+Yeah.
+We'll fix it.
+Yeah, I'll, I'll get.
+That out and post, don't worry about it.
+But yeah, that's going to, that's going to wind down our, our new #27 out of the 81 games that we've ranked thus far with Dead Zone Road 27, not, not a bad overall landing spot for it.
+1:44:02
+But but Colin, what are we looking at for our next game here?
+Well.
+I would say that it's truly.
+Similar to this game, but it does have a a a couple of similarities in that it is a shooter game.
+You get to walk around the level before it starts and you get to blow up some interesting mooks.
+1:44:23
+It's Orcs Must Die Deathtrap, which is a weird third person shooter, hero shooter, tower defense maze building game.
+I don't know, it's kind of a weird combination of things, but I've played it right.
+Multiplayer, exclusively multiplayer in my opinion, So I'm excited to play it with you guys.
+1:44:46
+Sweet.
+Well, that's going to wind up our Dead Zone Rogue episode, and playing us out from here will be some electronic beats for slaying some electronic robots.
