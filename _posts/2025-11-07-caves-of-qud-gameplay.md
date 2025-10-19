@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caves of Qud part 2: gameplay and mechanics"
+title: "Caves of Qud Part 2: Gameplay and Mechanics (with @BigSimple)"
 date: 2025-11-07
 file: 
 description: "
@@ -13,8 +13,9 @@ thumbnail-img: /assets/img/deadzone_rogue.jpg
 share-img: /assets/img/deadzone_rogue.jpg
 duration: "1:45:46"
 length: 86331408   
-tags: ["2025", 1st/3rd Person Action]
+tags: ["2025", traditional roguelike, honorary rogue, Guest Episode]
 ---
+
 
 
 <div class="container">
