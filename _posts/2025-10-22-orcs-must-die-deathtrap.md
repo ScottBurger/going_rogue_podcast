@@ -31,6 +31,15 @@ The Age of Men is over. The Time of the Orc has come! The long-lived and highly 
 
 * 1:42 - Game stats
 * 2:43 - One sentence description
+* 4:08 - Game release history & series background discussion
+* 9:27 - Tower defense meets action gameplay hybrid explanation
+* 15:42 - Tutorial experience & new player onboarding critique
+* 22:18 - Trap variety & strategic placement mechanics
+* 28:35 - Hero abilities & character progression systems
+* 35:47 - Multiplayer coordination & Co-op gameplay experiences
+* 42:13 - Map design quality & replayability concerns
+* 49:26 - Difficulty scaling & enemy variety analysis
+* 1:03:18 - Comparison to previous Orcs Must Die games
 * 1:09:36 - Rankings & final thoughts
 * 1:24:40 - Similar games & show wind-down
   
