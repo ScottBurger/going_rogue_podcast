@@ -1,0 +1,1590 @@
+0:27
+greetings The friends and welcome to another episode of the grog pod roguelike podcast where each one of these we trap a game into a maze of criticism, loudly talk over one another with the name Babble and see if our ratings propel it to the magical fortress.
+0:43
+The end of year roguelike playoff bracket.
+I am your holder of the mantle of order, Scott Berger, and with me are my scrappy band of Bright Eyed Hero Co hosts.
+Oh, barreling down the hall at you?
+0:58
+It's Boulder trap, Andrew Harshman.
+And this is Will writes.
+But I wasn't represented in this game, so I'm just a nobody I guess.
+And I'm calling represented by a sexy lady with a laser wand.
+This week we are talking Orcs must die.
+1:15
+Death Trap released January 28th, 2025 on PC, Xbox and PlayStation and published and developed by One Robot Entertainment out of Dallas, TX.
+Who?
+1:30
+If nothing else, you can say that they are consistent with their original 2011 debut release of Orcs Must Die 2012, Orcs Must Die 2/20/17, Orcs Must Die Unchained 2021 Orcs Must Die Three, and finally this year, 4 years later Orcs Must die Death Trap.
+1:52
+Your average player of Orcs Must die Death Trap has about 31 hours of gameplay in it and this launches the Orcs onto the popularity spectrum on our list here at the number 300 and sixth most popular roguelike game on Steam with 3649 total reviews.
+2:15
+Colin, what is your one sentence hero quip about what one does and Orcs must die Death Trap?
+Orcs must die.
+It's not exclamation point.
+Death Trap is a hero shooter where you build a maze so that you can funnel the various orcs into a death trap where you massacre them with some broke like elements.
+2:42
+Now I want to kick off our discussion zone here with in all caps.
+It's OK to like a game.
+All devs are go to heaven 'cause I have a feeling some people in Colin's parallel universe friend group will be listening to this.
+2:57
+Oh boy I can't wait.
+Can't wait for them to talk about this game that I really like and love.
+And I've had so much fun playing with my good pal Colin.
+But I, I want to, I want to start off with maybe the first thing that you see in this game, which is a easily, at least in my case, a easily skippable intro cinematic that I had to go back and rewatch because I was like, I thought I remember seeing something here.
+3:24
+And I think this kind of sets the tone for for what this game is and maybe our our thoughts about it.
+Intro the the the video starts warm ages of the order, as you well know, with the defeat of the corrupted lift Rift Lord Volwic, the orcs no longer fight united under a single banner and and your your camera is panning across a bunch of heroes that look like something out of like one of those 90s math textbook covers with as as many representations as possible, very as as broad spectrum as you could almost comically be, including a cat.
+4:08
+And our narrator goes on to say a great victory, yes, but our fight is far from over and cut to some sort of exploding pink skeleton man.
+Now our enemies have splintered into four factions, each led by a powerful general seeking to be the next ultimate ruler of the orcs.
+4:28
+We're panning across presumably wanted posters that look like they have AI slop writing on them with some goblin with a gun.
+Actually not AI slop, it's it's a real alphabet that you could translate.
+It's Oh dear.
+Well, so we we pan across some wanted posters and I guess I'll back up.
+4:49
+The art is is actually pretty good here, but but it is it is written out.
+It is written in this kind of nonsense script, but you know you you got some 41 posters.
+Due to the infighting and competition, the orc armies have spread into the far reaches of or order territory attacking riffs once thought to be safe.
+5:12
+And we're cutting to a big, big orcs with Wow looking armor and big like clubs and stuff, and they're running through these very interesting looking environments.
+These riffs provide magic needed for our kingdoms to flourish, while the orcs use them to satisfy their hunger for flesh and zeal for conquest.
+5:34
+Queue to burning buildings and burning seaside villages that otherwise would look very idyllic and peaceful and cut smash cut back to some sort of lecture hall where our scrappy heroes who to this point have said nothing and this stern looking lady walking back and forth saying I have taken on the mantle of order master until master sickness is found.
+6:02
+A role much undeserved.
+But our alternatives are bleak.
+And smash cut to some doofy looking bobcat Goldwaith looking guy playing a guitar.
+And as master I ask you warm ages to defeat these wannabe warlords and bring peace to the order.
+6:23
+Camera pans up into your cool looking hero squad.
+In other words, title card Orcs must die got trap I.
+Don't think I ever watched that.
+So I was really excited to hear about this intro cutscene because I thought at last we will get an explanation about what these riffs are.
+6:48
+And I still don't quite understand what is happening.
+Like actually, let's maybe go around the horn.
+Like what's our best guess?
+I I am in my head cannon, like I'm defending Helms deep and like these portals are leading to somewhere all the refugees are going or something.
+7:07
+That's that's that's that was that was my guess.
+Colin, you've actually played this game more than us.
+Do you know?
+I actually probably know less about it because I haven't watched any of this.
+I have not done any at work to figure out what the story is.
+I when I started playing it with my other friends I was even less I I was literally like clicking as fast as I could through everything so I could get into the game.
+7:30
+I didn't watch any of the tutorials, any of the intros, and I've never gone back and watched any of them, but I put 38 hours into this game so wow.
+But that's because Colin is so well versed in the lore from the previous Orcs Must Die games that he didn't he didn't need to know anything about.
+7:46
+All of all of my lore knowledge comes from listening to them make their bad quips during the during the games where they talk about how now they can play ceiling traps.
+Are they?
+Are the quips that bad?
+Yes, they were.
+Wow.
+OK, it was.
+8:03
+I thought they.
+Were, I think they're actually getting worse with the updates, but when we were playing there, they had like a really long, every time you started a mission, there's a really long like speech between two of them, which was not there when I played like a month ago.
+And I don't think it's a welcome addition.
+8:19
+It seemed like during one of those will was like, what are they talking about?
+What is it?
+What are they on about?
+Like, you know, the first time we played it was me and Scott and then or me and Will, I don't remember who it was.
+And then one of you joined like 10 minutes later.
+8:35
+So we had to restart it.
+And then it said the same quip sequence.
+And then Andrew, you joined like 10 more minutes later and they said the exact same quip sequence.
+But like it's like a minute or two of talking in the beginning.
+And I was like, OK, this is it was fine the first time, but the third time is not great.
+But what's?
+8:50
+The name?
+What's the name of the purple lady?
+Who?
+Who's the headmistress of the Order?
+I don't even know the name of the character.
+Purple Another purple wizard.
+Are you telling?
+Me.
+Oh my gosh, we.
+Got I don't even know the name of the character that I've put 38 hours into all these games, which is which shows you how much I care about the story, which is not at all and only care about the compelling.
+9:11
+Well, OK.
+Maybe we shouldn't get you know, too.
+Too swept up by by all this, this business of this the storyline.
+I guess it doesn't matter.
+I mean, mechanically, this this is a tower defense game and you're you got to defend something.
+9:28
+And in this case, we're defending A rift that was made by Wizards.
+Not to be confused with.
+Anything else?
+Not to be confused with blueprints.
+So true.
+So true.
+So true.
+I'm I'm reading the plot on the Wikipedia.
+9:44
+Apparently there are magical rifts between the human world and the dead world which provide a source of magical power throughout both worlds.
+Oh damn.
+Yeah, I feel like this game has has no problem with tell don't show, especially with the fact that it's very generous in the aspect that it gives you the the full ass history of this game in kind of like the the main menu things of like look up the enemies, the status effects.
+10:11
+Like the there there is like a lot of in game detail about all the stuff in the game, which I know that we've been critical of some stuff in the past about.
+And so yeah, if you want to read the eight chapter long history of the order from chapter 1 up to the present day, you sure as hell can do that.
+10:35
+And there is a a damn lot of text in there to go through.
+I'm not going to read any of it, but I was watching some of the cinematics the like the story cinematics from I think it was Orcs Must Die two or three.
+10:50
+I'm like, OK, this is this seems interesting.
+Where was this?
+Where was all this stuff in this game?
+And so I think like the fact that this is.
+AI think it got it it maybe the series got marvelized.
+Like we decided we need more quips.
+11:07
+We need more.
+It's a barrel of fun 'cause I'm the character who places barrels.
+Although she does have a line, she does have a Starship Troopers reference.
+I don't know if y'all caught that.
+I'm doing my part.
+Oh yeah, I appreciate it.
+And then all the arts go ha, ha, ha, ha, ha.
+11:24
+Yeah, so.
+So there's more meaningful substance.
+There are, there are.
+Whatever the word is, there are cinematics of substance.
+Fine quality keno in.
+The previous games interesting we should we should talk about before we get too too deep on the the story stuff.
+11:43
+We should talk about like, what the game actually is.
+Oh, sure, no.
+Like what happens in a typical game.
+Great question.
+Yeah.
+Is this, you said it was a hero.
+Is this, is this even a three-dimensional game?
+What is this?
+I mean it is 3 dimensional, there are multiple no no no.
+12:00
+No, I understand.
+But for the listeners, we haven't described what the game looks like.
+To your point, Colin.
+I feel like hero shooter implies third dimension.
+It's Overwatch.
+At home we have Overwatch.
+Perspective though, that's you know, that's it's not over the shoulder, it's just third person and what?
+12:18
+Is this what is he talking about?
+Not over the shoulder, all right?
+Like like that?
+That's the difference between like, what is it, Gears of War and that?
+Style.
+Oh yeah.
+Oh, yeah, I get.
+I get what you're saying.
+Yeah, You can see more of your character.
+All right.
+Like where?
+Where's the camera relative to the person it's behind and it's looking down at them.
+Right, that's an important in distinction.
+12:36
+But maybe not.
+But you know what?
+I said it.
+Anyway, so do you.
+Want to I was I was trying to be smart ass.
+Butt I mean I put this exclusively as a multiplayer game.
+So between two and four people you start on a map and the orcs are spawning at various gates and marching their way towards your rift and the the gates more open as the the the waves progress.
+13:00
+More paths, more paths.
+And you have various barricades to to funnel them into different choke points or or kill boxes if you will, where you place traps or or or shoot them with your own specific character weapons.
+13:19
+So in my experience it's about 5050 for where the damage comes from.
+And we got, we got every type of trap.
+We're talking about spike traps.
+We're talking about other types of spike traps.
+We're talking about saw Blazers.
+We're talking about lasers.
+Giant stone lion heads that spit out clanking bombs.
+13:38
+Wonderful Looney Tunes springboards that that that send the orcs flying.
+In crystals that shoot laser like solar lasers.
+And and more to unlock, which I I didn't really realize that there were.
+There were quite a few unlocks in different things that you can build.
+13:55
+Yeah, there was a bunch of stuff that the three of you didn't really interact with because you didn't like the game enough to continue playing it.
+But there are a lot of like, meta progression upgrades.
+You can make all of your traps better.
+You can make your character much better.
+Like when we did you notice when we played that I had like twice as much health as you?
+14:12
+And I did notice that.
+Yeah, that's because my character is maxed out.
+My, Oh my.
+Now this is a, a gameplay combination, sort of a mechanic combination that has existed for a while.
+And it's, you know, it's a good idea.
+14:29
+It's like, hey, yo, tower defense, popular addictive people like it, but sometimes it can be a little boring.
+What if what if you make a tower defense?
+What if your your maze, which somebody said maze earlier.
+I don't know how maze like these setups are, at least in my limited experience of this game.
+14:46
+It's kind of tiny funnel.
+But what what are you to do with your extra time?
+How do you get some more engagement?
+Well, of course, you in addition to placing all of your traps and your your walls, you get to actually be on the ground fighting, which is fun and and nifty and novel and pretty well executed in this game.
+15:08
+So well executed that they've made infinite number of entries in the series.
+Now, I think that's where you went wrong actually the the third person perspective where you're going in there and actually contributing to the fight.
+That's that's what I.
+Went wrong.
+That's that was the big mistake of this whole entire series.
+15:25
+And I could see how someone might think it's innovative because no one's done it, but no one's done it because it's not a good. 3rd dimension was mistake.
+The third dimension was a mistake is it's the you are on the like you hit play like you think about balloons, tower defense.
+Everyone's played.
+Well, you know, people played that game.
+15:41
+It's a popular game.
+You you're sitting there and like the balloons are going down and you're like you're placing towers and that's your job in this case.
+You're placing the things and then you're hitting go and then you're still like in the in the maze, so to speak.
+And yeah, that's that's where it really loses a lot of its fun, at least for me, because, yeah, that kind of game is just it's it's no good.
+16:03
+It's here.
+It's it's it's a game that's focused more on the precision and timing rather than judgement.
+And that's that's good.
+You.
+Hear that?
+Collin's friends.
+Collin's better friends.
+They're no good.
+This game is no good and you should feel bad for playing it.
+You know what the real problem was is that we never got a good physics trap run going, which is the most enjoyable part of this game is when you we talked about spike traps, we talked about acid and and lava and whatnot.
+16:31
+We didn't talk about minecarts barreling down hallways, just absolutely bowling their way through everything.
+Steam traps, launching people into the abyss, just good wholesome looting.
+Tooth fun.
+What I'm hearing is not the part where you're on the ground shooting things, but the traps part, the part that's the the fun part.
+16:48
+Is that what I'm?
+Is that right?
+I mean, it's all fun.
+Well, something.
+To consider though I I realize well it's not for everybody this this particular game as we're as as I think we might learn over the course of this episode it.
+Might perhaps only be for one of us.
+17:03
+But it but it allows a group of pals to play the game together, so that's kind of fun.
+No, there should be no games that are not fun that I don't prove of.
+I'm sorry.
+Fair.
+Enough.
+Fair enough.
+I think it's probably.
+I'm a very fair dictator, yes.
+17:20
+That that, that.
+There's an often a saying that I repeat to myself a lot when I compare podcast download numbers to to other shows.
+That comparison is the theft of joy and that.
+I never heard you say this before in your life.
+That's a great self deprecation.
+17:37
+That's unto.
+Himself.
+Oh yeah.
+And, and that comparing where was I going with this?
+I think that like there's, there's an aspect of like this game existing as its own kind of thing.
+And then there's comparing it to other stuff.
+17:52
+And I think like I'm having like it's a me problem of like, man, like it's really hard for me to just kind of take this as its own thing.
+Because it feels like there have been a number of of Rogue games that we've played at that have come out this year that have tried, like they've taken an existing franchise and put the Rogue spin on it to a really good success.
+18:18
+And there's also the comparison here to previous Orcs Must Die games, which I guess Full disclosure, I don't think any of us have played.
+I have not, but my other friends have played them.
+Yeah, so, so I can see how if you were like a big OMD head, you'd be like, Oh yeah, it's been 4 years, we finally get another OMD game.
+18:41
+Can't wait.
+Can't wait, let me go wait in line out in front of the GameStop, but don't stand in too much of A line because you might get hit by a prism laser.
+Exactly.
+And so previous Orcs Must I games have had a very like traditional linear campaign.
+18:58
+You replay maps with like different, well, yeah, traditional linear campaign compared to this, which is like you're replaying kind of the same maps with different modifiers to them.
+And at the end of the oh, and crucially, at the end of each, what is it?
+19:13
+Level or no wave in this game or no mission?
+Jesus, what did I write down?
+Waves, right?
+Well, there's 6.
+There's six waves per.
+Mission and at the end of each mission.
+My mistake.
+You can gamble forward to say, Oh yes, this experience that I've gained so far in this run, I can either bank it now and go back to the main hub castle and and unlock some more goodies or in classic rogue fashion, you can gamble it forward and see ah well, this next difficulty, this next higher difficulty of mission that I will do, which is 6 waves of enemies will have compounding factors to it.
+19:59
+So like you know you you start your first mission, orcs have like 20 + + 20% move speed or something.
+That carries forward into the next mission where oh, all orcs are on fire and have acid breath or whatever, that kind of thing.
+So it's like it's this compounding difficulty system there as compared to the previous games.
+20:17
+There's just like up now you're on a new map you have.
+I, I will say that like you say, oh, they're 20% faster.
+I think that generally they're more impactful than that.
+Like, oh, yeah, yeah, yeah.
+Like one of them is you don't respond if you die.
+Sure.
+Or or deeply.
+20:33
+Impact, you know, 2, I got one recently that was 2 fire elementals spawn per wave or, you know, higher likelihood of rifts opening where, you know, some enemies might pour out of a random spawn zone and things of that nature.
+20:48
+So yeah, the two this game's credit, it definitely has like impactful modifiers and impactful perks and impactful, I don't know, projectiles, I guess.
+There's also, I think what we're describing or there's distortions where they're each level having like debuffs, like increased trap prices, like stronger enemies and yeah, those so those things kind of stack in succession.
+21:15
+And then there's there's threads, which is your standard like pick one from three Boone system.
+Some of them are curses and and that kind of like helps to give your build identity as as you're going through this and four player Co-op, like we mentioned, like the previous entries only had two player and I think the four player here is is quite interesting as we'll get into in a minute.
+21:38
+The the maps here are larger, but there's fewer of them.
+I think maybe designed with three to four player Co-op in mind and what else?
+I guess in Orcs must I3 you could change weapons on your heroes, but there was like a much lower selection of heroes available.
+22:00
+Whereas here the weapons and spells are fixed.
+But you know, you kind of like upgrade, you have your upgrade tree per warm age, not hero, I should say.
+And that's and then yeah, you're you are progressing through 6 waves in a mission and then a number of missions to defeat a boss.
+22:24
+And that's kind of it in a nutshell.
+Yeah, I mean, you said that you can like gamble forward.
+I feel like that is a kind way of them saying we'll let you abandon your run here and get some loot or you can keep going in their regular, like if this was AII mean.
+22:43
+I think that's largely because it is a multiplayer game.
+You need a way to like, say, hey, we got to call this game now 'cause my kids are yelling or something, which.
+Yeah, yeah, I guess.
+Like I feel like this game is simultaneously like the art in it is very good, but the aesthetic?
+23:05
+Is very bad.
+Oh oh OK, I should change.
+And So what I mean by the end, like I think we've kind of talked about this on the podcast before is like art, like the artistic vision and like a design of it, like the actual like technical implementation of it.
+Like the animations look great.
+23:20
+I think like the the heroes, like the detail on the heroes themselves is very well.
+Like it's not like bad, but at the same time it's just like so generic I guess.
+I don't know like.
+A little bit it's we don't need Overwatch.
+23:36
+We have Overwatch at home.
+Yes I wrote down Timu Avengers, but that maybe.
+Yeah, there we go.
+I think I think the I think the hero design is probably the best part, but but the the enemies and the environments are a little I don't know, I don't know.
+23:54
+It's all very like, let's let's try to, it feels like they're trying to, you know, select a aesthetic that is established and that some people seem to like.
+And it's kind of generic, but it's like a safe bet.
+Like let's do the World of Warcraft.
+24:12
+Stylized, borderline cartoony big shoulder pad choice.
+I think it's a combination of that, which is like, that's not that's not like my preferred aesthetic, which is fine.
+It works for some people.
+That's great.
+But the game like right off the bat, just like I like it almost felt like deliberately alienating of like, hey, welcome, welcome to orcs must die death trap.
+24:35
+As you know from all this stuff that's already happened.
+I'm not gonna bother to explain anything.
+And like, like none of your characters have any personality from like the first 5 minutes of the game that I played, which I feel like is I feel like that's not true.
+They have too much personality, but it's only it's, it's in the form of one line quips that they say many times.
+25:00
+Right, and like compared to the like the cinematic video that I was watching from, I think it was Orcs must I3 or two.
+I don't know.
+It's the one where like the, the the the two, the two teens are like running around and the headmistress, like, you know, shows up as an as an orc and is like if this if I was a real orc, I would have eaten you by now.
+25:21
+And they they have like animation and personality to them.
+It feels like like one of those like original Pixar DreamWorks movies that still had soul in them before it just got like meet ground out of it.
+And in this one, like I just I don't get any of that.
+25:37
+Like I don't this intro cinematic does nothing.
+And crucially it it made me doubly mad when to even start the level select for this game you have to go and do Max's lessons or or his his intro stuff which.
+25:55
+Yeah, I'm sorry, Max as a character rough like take them back, redesign them.
+Thankfully the videos, the his tutorial videos are to the point.
+None of this, none of this barony crap where you got to play through these very difficult long 9 tutorials folks.
+26:17
+The the, these are, are snappy, they deliver the information.
+But like I was like just rolling my eyes and cringing really hard through all of Max's kind of this.
+Like, I mean, honestly, here's why I was cringing so hard.
+He's kind of the same archetype that I am, which is like long haired, like kind of rocker guy.
+26:36
+And like at one point he said a catch phrase that I unironically say myself and I was.
+Like no.
+I'm looking to this horrible mirror game.
+Why have you cursed me with this horrid message?
+But yeah, you got to do Max's lessons, which thankfully don't take that long.
+They don't take that long and I was, I was glad that they were there to explain stuff because Colin was doing his damnedest.
+26:56
+But there was like 3 of us asking him questions at all times.
+The the characters were like quipping over each other.
+There was like psychic talk between Max and Gabriella the headmistress.
+Oh.
+Gabriella.
+That's the name.
+Just like it was my character.
+It was too much.
+27:12
+So I went so it it simultaneously felt like OK, but also really annoying to go and watch these tutorial videos before you could do level select, which I I can get like I, I feel conflicted about it, but you go, you go into Max's lessons and it's like combos, a video explaining combos, threads, a video explaining threads.
+27:36
+And I'm just like, boy, they, they really swung for the fences on this one, didn't they?
+For they had it.
+They had four years to put.
+Yeah, and the just like the the description of the video that you're about to watch.
+Yeah, and that's not to say that there's like not text in the game, but it just felt like really, I mean it like again, comparison comparison theft of joy.
+27:57
+But like our just our previous episode, Dead Zone Rogue that we just did, that was a game that was like a hot dumpster fire.
+They re pivoted hard to make it into a rogue type game and it was like you could tell they put like a whole ass worth of effort into it.
+28:15
+This feels like very like like almost not even half ass like 25%.
+Ass.
+Now, of course I have not played 1/2 of 1/2 of an ass I haven't played the previous games.
+But most of the time we're talking about games that have been like, it's a game, a franchise or a, or a, a particular style of game that has been made better with rogue elements.
+28:42
+And yeah, from what you described, Scott, I, I kind of agree.
+It sounds like it's almost been made worse with rogue elements and not specifically because of the rogue Dom, but like when you when you mentioned that the previous games are like bespoke levels that that feels more interesting from like a puzzling tower defense, like solve the stall of the tower puzzle perspective.
+29:06
+Yeah, I don't know.
+I'm not.
+I mean, I'm sure about this one.
+All the levels in this game are the bespoke.
+They're not wrote.
+They're not procedurally generated.
+Right.
+And I think that's fine, no?
+No, no, sure, sure.
+But what I mean is that like it sounds, it sounds more interesting to me from a player.
+Perspective they could build they could build more of a story around it because.
+29:24
+They more of a story and also like with specific like design and tension like, oh, we want we want the player to have to like puzzle this one out and figure out what is an optimal strategy for this particular level layout.
+And then let's go to the next one.
+But I don't know.
+Yeah, and and like the the part that also kind of did me in as far as like, oof, this this game kind of feels like they phoned it in, was like I was I went through a solo run.
+29:48
+Like I was motivated, motivated enough to go through a solo run.
+Be like, OK, there's there's got to be something here.
+Do all the the three missions as as the crossbow twink, warm age van or vine van carrying me through and I I beat the first boss.
+30:09
+I beat Jin from the rejuvenator and I was like, OK, great.
+Like that.
+That final boss, like actually felt kind of like a tense battle.
+But and so I'm like, OK, great beat.
+Beat the one of the four bosses.
+All right, now we're going to start to get some traction in terms of like something, something going on here to like hook me.
+30:29
+And so I'm like, all right, I get dumped back into central castle zone, run up to Gabriella the headmistress.
+I'm like, hey, hey, I did it.
+I beat one of the four bosses and she's just kind of like ignoring me, looking at her books on the shelf.
+And just like, yes, OK, that's nice.
+30:47
+And there wasn't like any, any dialogue or like advancement of narrative or anything, which again, comparison comparing to like the previous games.
+There's a lot of that.
+Like there's a lot of personality and, and, and like interesting humor and like animation and just like stuff there.
+31:02
+And I, I had to take a step back.
+I'm like, what?
+Where did the four years go?
+Like, I can understand why, like this game got raped over the coals when it.
+Oh, it did.
+Yeah, like I think.
+Much like the orcs themselves raked over the coals.
+31:17
+I think the the the fans of previous Orcs Must Die games, we're maybe not expecting a rogue type game here.
+That's not to say that you know those kinds of games can't be good.
+Elden Ring Night Rain but but it's just kind of stuff like that that just feels like where's where's like the soul that was in like the previous ones.
+31:40
+It'd be like if like time splitters 5 came out and it was a rogue light and it didn't have like any of the animation or interesting like stuff from the previous time splitters games.
+That was kind of the vibe that I got.
+And so it was like, all right, well, if this game is giving me nothing I don't like, I don't feel motivated to do anything for it.
+32:00
+I feel like but, but I mean, Oh yeah, go ahead.
+Having not played the previous entries in the game, I did not feel that sense of betrayal.
+True.
+Sure.
+And for me, I feel like this game has really it.
+It has hit that floor for me that exists where it falls below the threshold of story for me to engage in, and therefore I just have ejected it for my brain entirely.
+32:25
+And I I forget that there is a story that exists like I'm judging this game purely off of the gameplay that I had.
+Not even with you guys.
+Right.
+And and like we've been ragging on this game for a while now.
+I mean, come on, we're we're not here to discuss.
+32:45
+Well, I guess we have been, but you know, we're not necessarily here to discuss the legacy, the hallowed legacy of the Orc must die franchise, which a little weird to name your franchise, like the franchise is just a call to ethnic cleansing.
+33:00
+So that's that's a little.
+Worried, but putting that aside, the meta currencies for the game are skulls.
+Are skulls.
+Bro so.
+That's just.
+Remember that you're putting like.
+Also there was when I was reading about the in in the Wikipedia about this franchise in general, it does talk about how they are using this power.
+33:25
+The order is able to maintain a perfect world for humanity and like are we the baddies in this language is a little awkward here but like that the orcs from the dead lands are trying to get into our perfect human world like.
+Yeah, that's that that doesn't feel great.
+33:42
+Furthermore, I'm I'm I'm rather worried to hear earlier, very at the very beginning of the podcast, we talked about how the rifts apparently are some kind of power source.
+So like human and elf and bear kind are like holding all the resources like and the orcs are just trying to get at it.
+33:59
+I I think there might be a different angle.
+There's two sides of the story.
+But anyway, again.
+Where's the alternative Humans must die game?
+Yeah, which I mean, hey, I feel like we deserve it.
+That's speaking as a vegan especially.
+But to be to be clear, I mean, come on, this isn't what people are coming to this game for.
+34:16
+They're coming for a fun multiplayer experience, right?
+So we should probably discuss maybe a little bit more about the gameplay.
+But before we do that, I do, I do want to heap some praise on the game's characters and story.
+This is, I appreciate a diverse cast.
+34:34
+We got a lot of representation here right out of the gate, unlocked.
+We got we got people of color, we got white people, we got robot people, we got bears, we got twinks, we got furries, we got scalies.
+Where's where's the will though?
+Where is the will.
+I'm talking about well.
+You which character is me I I looked at every I.
+34:51
+I you're the twink.
+It's the elk twink.
+I mean, it has your head.
+Like that doesn't fit.
+I feel like the bear.
+Maybe.
+Maybe.
+There's the little girl, the shotgun.
+I like a shotgun, but if you're.
+With the shotgun, that's true.
+That's.
+True, but she's but just.
+To finish out, hey girl, are we Harlow?
+35:06
+Is it Harlow?
+I very much appreciate it because she has a blunderbuss, which is great.
+We love a good shotgun.
+But yeah, this game has a lot of people, a lot of a lot of character designs.
+Of course, troll boys, good Dragons, bad Dragons, milfs, dilfs, and of course Wilfs.
+Not not to be confused with our Co host, but that of course stands for war fate war mage.
+35:26
+I'd like to fireball and but legitimately it's nice to it's nice to be living in the modern era where you can fire up a game, a multiplayer game and you can see a fair, fair, good bit of representation will maybe if you unlock like the the the the guy with a streak of grey in his hair.
+35:47
+He's he's a he's a quality looking, you know, fit sis white male that might appeal to you.
+You could play as Max.
+He's got a white man with a square jaw and a fine head of hair.
+No, I don't care about any of those things.
+I don't care about race, I don't care about gender.
+I don't care about any of that crap.
+36:03
+I just want someone who doesn't say annoying shit, and they all are.
+Yeah, they're fucking annoying and that's my biggest complaint.
+I can't play this game like.
+One liner, they're one liner Bazinga all of Yeah, they're just they're just saying Bazinga all the time to each other.
+36:19
+And that's my experience of the game and I just can't.
+I don't care what the gameplay is.
+If you you poison, if you poison a game with that shit, I can't play it.
+Right, right.
+You know, and we need to address this.
+There needs to be at the beginning of a game like in the same way that like you adjust the brightness and the contrast, you know, you there needs to be a setting like how much do you want to hear from these annoying characters?
+36:43
+And there needs to.
+Be a slide, but you see.
+Like I'm.
+Joking.
+But but you're given such good information from these quips, from things like a barricade will keep them out.
+Or maybe Sophie's right.
+36:59
+There's a beauty in death.
+I have that highlighted saying fucking who like So what?
+Sophie's the cat.
+All right, all right, Sorry, but I've, I've, I've plunged just back into us taking the piss out of this.
+This game's well deserving.
+I mean, you can't again.
+37:16
+What is most important?
+The most important clip though, is if you can still the see see the floor.
+You haven't placed enough floor traps.
+Because that's both good writing and good advice.
+It's good writing, good advice.
+And you know, it's it's also good life advice, good life, good, you know, daily acclimation, confirmation.
+37:34
+What is it where you stare in the mirror?
+Never mind, doesn't matter.
+Moving on.
+So what is what is the draw of this game?
+Colin, Tell us about it, because I mean, it's definitely fun to be had.
+Drive this game is that you can play it with your friends.
+It doesn't require like it it other people to be online.
+37:52
+I I mean this for me, it's been kind of like a rocket type thing.
+I don't care about people who don't play on PC.
+Oh man, I don't I mean, I guess perhaps it is crash platform.
+I wouldn't know.
+Calling on PC gamers must die.
+38:08
+That's the Collins next game.
+They don't need to die, I just don't care if they live or die.
+We just need to harvest their precious skulls for currency.
+As long as they're staying in the Deadlands, I don't care what they do.
+Well, we can't harvest.
+Them into my perfect human world that I get mad.
+We can't harvest their brains, obviously, So skulls.
+38:25
+Wow.
+Who's making a?
+Moment bazinga.
+No, I like the like we kid we joke.
+I I think it's a a fun silly time.
+It doesn't necessarily take too much deep, deep strategic thought, but you can like blast some stuff.
+38:49
+It's good multiplayer without having to be competitive.
+You can, the difficulty scaling is pretty decent that they it's not just easy, medium and hard.
+It's basically you can set it from I don't really know, it's like 11X to 3X skull reward points.
+39:09
+I don't know how that skills exactly the difficulty.
+I think it's just more damage that they do and more points that they have.
+Yeah, but but where's the sophisticated squad AI for the orcs?
+No, I'm joking.
+Yeah, they definitely.
+Do not have that they some of them are Archers and they can shoot at you from a distance.
+39:27
+That's annoying every once in a while.
+And oh and this game is Knowles love a good Knoll.
+Famous does have Knowles that come hunt you for sport.
+I I played a Knowle barbarian.
+Love to see a Knowle.
+A purple Knowle.
+Never seen that.
+Before now that's that is innovative game design.
+39:42
+No, but but to your point, Colin, like, yeah, it's once you, you know, this game has quite a bit of spectacle and it feels good to see the the horde of orcs coming to invade and you've got your all of your four players blasting away and sacking and slashing and all your traps set up and seeing seeing the rag dolls flying and the Gibbs a Gibbon.
+40:04
+That's pretty good.
+I think that this is something that we don't because of the way that we play games for this podcast, which is we play them for like 2 weeks and then never look at them again.
+We definitely do get a different ish view.
+40:21
+I think that there are a lot of games that we have played that, you know, if we just sat down and we're like I'm going to just play a bunch more hours of this, you would get good enjoyment out of it.
+And this is just kind of ended up being a game that I've played because it's a game that we're playing and it doesn't take any time to learn.
+40:41
+And what a ringing endorsement.
+Is that, yeah, I mean, but I feel like there was a vast no, no, it really isn't.
+It's an example of a lot of the games that we've played where we didn't really go that much more in depth after we were done playing them, where it is fun.
+40:56
+And if you have a any other kind of reason to keep playing it, then you do Like, I have social, not pressure, but social momentum to play this.
+So it's like, hey, want to play video game for 45 minutes at like starting at 10:15 at night because all of the all of their kids are put to bed.
+41:21
+And this is the like weird time.
+I can squeak out some gameplay.
+I do not want to play a hardcore game online where, you know, we have to like be competitive.
+It's just like, I want to like chill with my friends and blow up some orcs in a silly fun time.
+41:37
+I mean that and I think that you could get that out of a lot of games, but not necessarily a lot of the games that we're playing on the podcast, because not so many of them are multiplayer, but some of them are.
+And I think that you could have picked, I mean, some of the other multiplayer games we've played, I think, well, what's the streets of Rogue?
+41:58
+Is that the one where we like aped out?
+Like I could see something like that being the other game we played where it's like, all right, we're just going to like ape out for a while or just run around and like cause mayhem and like you do it because you have the momentum and because you know how to play it.
+42:14
+It's fun in that sense.
+Yeah, I can 100% see this being like a social hangout game that like, you know, you, you've fired up the bong, you're done for the weekend.
+You're just like, you know what?
+I don't really want to memorize all these complex Eldon Ring mechanics.
+42:31
+I just want to like watch like the ragdoll animations fly around.
+The anti beard scratch, yes.
+Quite possibly.
+Now, I was listing off all the wonderful, infinitely dateable and attractive characters in this game, but there was one that is missing.
+42:47
+Does does anyone know?
+I mean, aside from a a a Mohawk.
+Wielder a dog character.
+Yeah, I guess there's not a dog character.
+There needs to be a dog character.
+No, there's no sexy swole orc lady waifu, which is a real shame.
+43:04
+So hopefully they add that with some DLC.
+Hey I wanted to ask.
+Her big no orcs for enemies, not friends.
+They're not friends.
+I wanted to ask the the orc.
+Oh man, what an iconic archetype of of a character.
+What, what, what, what, what are?
+What do we think of the portrayal of orcs in this game?
+43:20
+And furthermore, if you have a favorite type of orc, I'd love to hear about it.
+For me, like it just felt like the tidal wave of enemies at a certain point just became this like Gray mass of stuff that was just happening that like I couldn't, I couldn't immediately tell why I should care about some versus others.
+43:42
+And I think there's like there's some of them that do stand out like bit like the guys with like the big Shields.
+I was like, oh, I, I got to do something to focus fire that guy down and this.
+Is and then we're talking about a big shield like this is whatever.
+However large a shield, you're 4 times.
+43:58
+Yeah, yeah.
+And then there's like there's some flyer enemies, but to me it didn't feel like there was any one of them that stood out of like, oh shit, it's that guy.
+And I got a like outside, outside of the boss.
+It was like I really got to like focus on taking that guy right there down, at least for me.
+44:17
+My favorite is just the normal non ranged orc, mostly because the character I play as has a like a charm ultimate and she could just charm things that are around her.
+And when like a lot of these guys, a lot of the enemies have voice lines and little quips they do, but you don't really hear them in the like mass confusion of the game.
+44:41
+But once they're charmed, they just are sitting around doing their weird voice lines and they've got a couple that are like, they're kind of funny.
+Are any of them work Work.
+I mean, they're on that level.
+I don't think it's exactly, I don't, I don't think they have verbatim stolen any Warcraft quotes, but they've got a little bit of charm and like if to them.
+45:03
+So I like them and they just kind of sit around and then and then of course when the next like group of enemies come in, they get absolutely pummelled.
+So you know you have a little time to hear their quips, but not that long.
+RIP to our work heroes in so so I'm very fond of you know, the serious orc is is great.
+45:24
+We love a serious, gritty Urakai, you know, imposing, intimidating, grim, dark type of well, let's say grim.
+And then on the other end of the spectrum, I I love the kind of goofy, bombastic like Warhammer 40,000 orc that is just like really out there and wild.
+45:46
+Like there's an iconic 40K orc called Gasguel Thraca, I think is his name.
+And he is like one of those powerful orcs because in his early orc Dom, he was shot in the head and some like mad doctor orc doctor took him and was trying to like do trying to heal him and was like, I can't, I don't know if I'm going to be able to save him.
+46:09
+But like, let me just put this like random piece of like metal this this like computer chip like into his brain and see what happens.
+And like that's sort of like supercharged his intellect and he was able to become like this giant mech robot wearing like general but also still bad ass dude.
+46:27
+I kind of feel like this game is is too in the middle, Like I wish the orcs were wackier or I wish they were more serious.
+And I feel like it's kind of this in between that doesn't please anybody, at least me personally.
+I mean, I would just put them in the two wacky category.
+46:43
+They all just OK, fair enough.
+They all just seem like extremely cartoony and not intimidating in the slightest and kind of kind of lame.
+Yeah, I.
+Wouldn't mind getting.
+More Urukai, the Lord of the Rings style.
+Like actual like, hey, I like, you know, something that looks fierce.
+46:59
+That'd be great.
+These guys just look like a bunch of lame cartoons that are appeal to the like.
+I don't know what mobile app gamers playing clash or or.
+You know one of these.
+Pretty like little game.
+I mean, it feels like that's what we're.
+Looking at here question question for you will or or really for all three of you.
+47:18
+If you could flick a switch and like in the beginning of this game, there was like a do you want Urkai mode or do you want like high orc mode?
+How much better is the game for you?
+You know if gritty 2 points.
+Immediately. 2 points immediately.
+47:35
+Wait, does it do we also turn off the sound of the annoying character saying annoying things?
+In fact, we just like rescan all the characters.
+No, that's what I'm saying.
+Like it's every, every single part of it is exactly the same 0 changes mechanically.
+Oh yeah, no, this.
+Game but but it's you're playing as like, I don't know, grog thar skull hammer the dwarf man with a blunderbuss instead.
+48:00
+Of no joke this this game could could for me anyways, given the rating, I'll I'll go into it a bit like gain two or three points easily.
+From just that, if it was just a little.
+Person right now the how annoying these characters in the design of everything it hurts me it actively makes me feel negative emotions and so that's yeah call it two or three points easily.
+48:23
+I think they there's a lot of the core gameplay I I love tower defense games.
+I don't really know so much love third person shooter, you know, sort of things.
+I can sometimes tolerate it, but in a multiplayer game, you know, that could be like overlooked if we're having fun with the guys, but not, not here, no.
+48:38
+I often have the test of like, OK, if you stripped away all of the flavor from this game and you only had mechanics left, how would you rate the game then?
+Or is it I'd rate it better?
+I mean, I feel, I feel like the art direction in this game is very, it has a very distinct and strong style to it.
+48:58
+It just, it feels phoned in compared to like the previous games.
+Again, like I, I feel weird saying that as someone who has spent 0 minutes playing any of the other games, but it just felt like it just, it has no direction to it from like like a game narrative perspective.
+49:16
+Like I can deal with annoying characters if there's like a reason why they're annoying.
+Like I kind of, I enjoyed playing bear man.
+Like he was fun to play.
+I didn't really notice his lines being super annoying.
+Twink boy with the crossbow was annoying.
+I didn't play enough with the cat who's an exact doppelganger of my cat who also thirsts for death it.
+49:39
+Definitely didn't help that well played as the most annoying character which is the the girl with the shotgun.
+But at the same.
+Time I played as at least a few over the course of it.
+It was the the the bear, the twink and the the shotgun girl.
+Like we're really good, honest that's but I.
+Have the diversity here.
+49:55
+If there was like, I don't know, like a cutscene or like interactions with like if the other characters are just kind of like hanging out in like the Great Hall and you could go up and just like talk to them.
+They don't need like big elaborate animations, but you could just like give them something to do.
+50:10
+They're just like cut out like cardboard, like wooden, soulless, like there's nothing behind those eyes.
+There's they're just like dead robots that have like no personality and like, I think that's the reason why they're annoying is because, like, why do I care about these heroes?
+50:27
+Like I, I don't care about these heroes.
+I don't care about this world at all.
+The Hall of Presidents where they're just speaking the lines from a mechanical body.
+Exactly.
+It is like a.
+Now that that would raise the game a few points from my book if the characters were all American president.
+50:46
+That's something it's something versus like.
+HDTV 1.
+HDT. 2.
+Your your Bill Clinton saxophone all quiz serenade That'd be the that'd.
+Be the character I play which charms the orcs.
+Yeah, exactly.
+51:01
+Perfect.
+Oh yeah, this idea might have legs.
+What?
+What's the legality I feel like?
+This game is already questionable on like, are people trying to get into a place?
+I don't know if we could do this with presidents.
+Oh boy.
+Yeah, OK, Fairpoint, but Teddy Roosevelt would be a pretty fun character.
+51:21
+All right, yeah, he turned into bear for him.
+Oh wow, incredible.
+Who's to say the bear in this game is not already Teddy Roosevelt?
+Colin, you've spent you spent way more time than US playing this game.
+What are your thoughts on the meta progression trees in this?
+51:39
+I think they're really well no, the meta progression is fine.
+I think the rogue progression within the missions is pretty decent in that it like does funnel you into a certain type of strategy that can be pretty different from run to run.
+51:58
+The meta progression I don't think it is very if not super impactful.
+You basically just your character just gets better without too much especially like once you like I've maxed out the character that I play with.
+52:17
+Eventually you just you get all the things.
+There are no choices to be made.
+There's choices in the middle where you're like, do I want more health or do I want like this thing or like there's one that's like eventually you could just like get another trap.
+You just bring one more trap with you to start with, which is pretty amazing.
+52:34
+But like, it's, it's, it's one of the, I feel like I have a lot of games for you, you know, once you, you make the choices on how you want to progress in the middle, but then by the time you get to the end, you just unlock all the things.
+And I feel like maybe to pivot off of that, one sort of major criticism that I have about this game's roguiness design is the fact that you can like go into a mission with like a preset loadout of what traps you have.
+53:02
+And then you can just like as far as I, as far as I can tell and correct me if I'm wrong, you can just like change out those traps at any time, right?
+Once you start the mission you can't, but between missions you can.
+Right.
+So like once you start another, like you're in the, you know, once you start the castle level, you're staying with the things, but then once you go to the like docks level, you can switch out your traps.
+53:24
+Yeah, I think I, I think you're right.
+I think it would be a better game if they did like, you know, OK, we're we're you're picking your traps.
+Some are banned, some are blessed.
+So it encourages you to to mix up your stuff and there I think there's like some weird potions you can get later that like randomize your trap, which makes it different, but.
+53:46
+But Scott, I think you're are you specifically talking about the trap layout you've built?
+You can in between waves like just completely rebuild it, correct?
+No, no, no, I I actually do kind of like that aspect a lot.
+Never mind.
+54:01
+I think, I think what I'm, what I'm getting at is like you go in with like a set, like a set.
+I don't know, like what, like 7-7 or eight?
+Yeah, I bring basically the same traps every run.
+Right, Yeah, it, it never felt to me like there was a particular forcing mechanism of like, oh shit, the, the, the rogue gods have rolled the die and I've been given this trap that I've never used before.
+54:28
+Well, let's let's see what happens with this.
+Oh, I was pleasantly surprised about how this thing interacted with that thing.
+Now I know that like that kind of synergy exists.
+It didn't feel like I was particularly motivated to try that.
+And in fact, like maybe actually disincentivize because like each of the traps has like their own upgrade like system to it.
+54:48
+And I wound up just being like, Oh yeah, I'll buy this.
+The ceiling mounted ice turret, Sure, why not?
+That one looks pretty cool.
+And it does like all the traps like look pretty cool and they do cool stuff.
+But I was like, oh, well, I have all these skulls.
+I guess I'll, I don't know, I'll just dump them into this one ice trap that I bought.
+55:04
+And just like, I just went very vertical with my upgrade path and then I was like, well, it's like I don't really have an incentive to to like pick any other traps.
+So I just went all in on the Icelands and I'm just like, all right, I'm just going to build around this and just start to try to funnel everyone into in the ceiling zones.
+55:25
+And I don't know, like I felt like I wish I could have been more restricted in my options and to have those options like pivoted on the like the the boons and twine things.
+55:42
+What are they?
+No threads that you pick up that that change how those things operate.
+Yeah, really it's the other way around.
+The threads get picked by what traps you've used.
+Right, So it's almost it's almost totally backwards.
+But Andrew, to your point, I think that A and I've been dumping on this game pretty hard, but in my solo run, I was like pretty, pretty glad and impressed that it kind of forced me to change up my trap placement strategy.
+56:12
+And when we were when we were multiplaying on the what?
+The underground sewer map, I think Colin, you were trying your damnedest to try to herd the the three other cats into strategizing of like, no, no, no, no, you got to put your barricades over here and you got to do this thing.
+56:29
+When I was playing solo I was like OK, I have all of the the barricade amount available just allocated to myself and I can do whatever I want at.
+My own case here.
+And I was like, I was funneling them down on one hallway.
+And then like, a door opened up.
+56:46
+I'm like, oh, they're going to come from that direction.
+Let's, like, tear everything down and rebuild this way.
+I thought that was that was good.
+I kind of wish that there was a more punishing timer to it of like, yeah, you got to stay on your feet.
+You got to like, you can't just take all day here, you know, that.
+57:04
+There seemed to be lacking some kind of pressure there I think.
+Four players is probably too many.
+The more players you have, the more the one you start.
+You literally have less total barricades.
+Well, per person, fewer.
+57:22
+No, your barricades are literally less.
+They're small.
+No, you have fewer.
+You have fewer.
+Total like all combined you have less.
+Is that true?
+I thought it.
+I thought it.
+Was that you?
+Yeah.
+Like you've got like it.
+It's like one or two fewer per per person in total.
+57:41
+Wow, I thought it was just distributed equally among them.
+No, it's, I mean, I think it's a little bit to like try and offset the fact that you have another actual person shooting at stuff.
+But yeah, you're right.
+And and you have to coordinate, which means you have to coordinate much better teamwork.
+57:57
+What?
+Like, yeah, it was definitely like me trying to hurt three people.
+Be like, OK, could you just put your trap, put your, put your put it here, put it.
+No, no, you put it in the wrong spot.
+No, I'm just going to delete your barricades for.
+A bit what?
+What do you mean sell like?
+Yeah, and also just take us more chaotic.
+58:15
+I think.
+Two or three is probably the best.
+Like two players, you get not quite double the traps, but a fair bit more traps between the two of you.
+You get a little bit more like coordination.
+You can pick each other up.
+58:31
+So if you die, you don't just die.
+So you have that element of like I'm down, come pick me up kind of thing, which I think is.
+Interesting.
+I was also like relying on night ring muscle memory of like, oh, Collin's down, I'll just shoot him to get him back.
+58:48
+Oh, that's right, I have to walk over to him and press the F key.
+Yeah, well, and usually, I mean, especially you playing as a melee character, it was always like it was pretty rough picking you up because you're in the thick of it.
+I think 4 is probably too many. 3 is great relatively.
+59:06
+And the single player experience is like is, is decent.
+What I what I really enjoyed about it was that of course you had, you know, complete free reign over the design of your death trap.
+And the actual I, I for someone who doesn't especially like tower defense games, I enjoyed the tower defense building aspects of this game.
+59:29
+Will would like if if Rogue Tower was a third person shooter and you were running around on like the the board shooting stuff, would that be better?
+What?
+How do you think I would answer that?
+Scott, you you would say no because Rogue Tower needed more Wow furries in it to really.
+59:51
+Yeah, you know how I know Rogue Tower has good music and this game doesn't?
+Because I can't think of a single song from this.
+And when you just said the words Rogue Tower, the music started playing in my head.
+We didn't play.
+I haven't played that for months.
+It's like, all right, get some harpsichord in here, baby.
+1:00:09
+Yeah, well, I think the the soundtrack to Rogue Tower is maybe more memorable.
+I think it like and and it's like good like the the music to Rogue Tower is good.
+I think the music in this game is actually pretty good also.
+Yeah, you laugh, you laugh.
+1:00:26
+I was going through and like OK, well, I've got to play this episode.
+I.
+Literally do not know if it has music in it.
+I have no memory of there being music.
+Well, yeah.
+I mean, I'm sure that there is.
+I probably would recognize it if I started the game up, but there is a.
+Lot of audio stuff happening constantly in in multiplayer and like if you're on Discord and shouting about like, no, no, no, you gotta run over here and do this thing.
+1:00:46
+Like, yeah, you could easily mistake this game for not having any, any soundtrack to it.
+But when I was playing solo, I'm like, OK, yeah, it's got like a pretty like decently good, at least from my uncultured metal ears, a a pretty, pretty good metal soundtrack from what I could tell.
+1:01:07
+And I was like, like, it was, it was noticeably interesting from my perspective.
+But I don't know.
+Andrew, did you pick up our resident metal head?
+Did you pick?
+Up anything that you poser, let me tell you about real metal, real cult, true cult metal.
+1:01:23
+No, I I appreciated that it was that it had that metal flair to it.
+I don't know if it necessarily matches the game.
+There's one of my favorite subgenres of metal is power metal, which is characterized by usually having soaring falsetto vocals and and fantasy themes and very, very melodic.
+1:01:52
+Often times they're singing about, you know, like I recently went and saw the band Rhapsody of fire great name and all their song titles are crazy stuff like, you know, Holy Thunder force and village of dwarves and like the final apocalypse.
+1:02:10
+Yes, of course, we've got to go for the emerald sword.
+The and and anyway, I find myself often often defending this this genre and be like it's not corny, it's not corny.
+People say it's corny.
+That's the that's the often often the refrain.
+1:02:27
+I'm like, it's it's epic, it's awesome, it's great.
+It makes you feel fantastic and good and upbeat.
+And anyway, the the way this game like looks is like is how I imagine people who don't like power metal think it's corny, Like this game is kind of corny.
+1:02:43
+And and the music, I don't know, didn't feel like it, didn't feel like it matched.
+But I appreciate it.
+I have a terrible, terrible confession to make.
+The music that popped into my head when you said Rogue Tower was actually the soundtrack from Orcs Must Die and not from Rogue Tower.
+So apparently I'm a bad person.
+1:03:02
+I have to.
+I have to rescind all the things I said about the music.
+Oh, and I'm so worried you were going to chime in with with some insult to to power Meddledom.
+That is funny.
+OK, so maybe the music's a little better than we thought.
+Yeah, All right.
+I'm full, full of shame.
+1:03:19
+I'm glad that I realized this during the podcast so I could fully shame myself on on on time.
+Well, for the record the the Rogue Tower music did pop into my head.
+But anyway all.
+This rogue tower music is good.
+Yeah, yeah, for sure.
+For sure.
+It's it's it's pretty good music.
+1:03:34
+Sadly.
+You you think I would have liked taken the time to actually listen to it.
+I didn't because I was busy.
+I've been busy trying to try to cram for a for a music festival.
+I'm trying to trying to listen to all the all the bands that are going to be present there.
+But hey Sky Burger, if you say it's good music then it sounds then I tend to agree.
+1:03:52
+If you if you think it's good, then it's good.
+That is the rule with music.
+And no matter what anyone else tells you, if you like it, then it's good.
+Unless it's hard bop jazz.
+I mean, no, no, no, no, you're right.
+You are 100% right, but you're wrong because I mean like, yeah, it's nobody likes bebop jazz from the 1960s, early or late 1950s, Nobody likes that.
+1:04:17
+It's OK to like bebop jazz, all basses.
+It's the rogue to heaven, rogue music.
+I'll make it.
+To heaven.
+Then, you know, you're really, you're a nobody, really.
+What else?
+Let's see, voice acting is awful.
+1:04:32
+Calling in his bizarro friend group we haven't spent.
+Any time on that, but we don't need to because we've all agree.
+It's.
+Just annoying.
+Casually, we have a list.
+You just say it like there's a fact that we don't.
+Yeah, I mean, I agree, but it's woo.
+Is there a list though?
+1:04:48
+I mean, I don't have any of them, I just know I hated.
+Them the ones that I wrote down in my solo playthrough like the all of these occurred at least five times that's on my solo playthrough and this this the list that I I had to start writing them down because it was so irritating playing is van who's van which one van is is crossbow.
+1:05:08
+Twink.
+Oh, it's the crossbow technical.
+Yeah, so his repeated voice lines on trap placement.
+No, no less where?
+And yet they still come barefoot.
+They never expect anything from the ceiling, floor traps key to any good strategy.
+1:05:25
+Maybe Sophie's right.
+There's a beauty in death.
+This should be fun to watch.
+I hate a gift from the heavens all.
+Of this.
+A barricade will keep them out.
+I keep getting better.
+And the orcs, well, they don't.
+No kill box is complete without wall traps.
+1:05:42
+OK, Mac, putting that theory to the test.
+You really wrote down a lot for having I mean there.
+There is a lot though.
+Yeah, there, there is a lot.
+But this was over the course of like a 45 minute playthrough and like I want to say like it, it was, there was at least like 3 times in a row where I was putting down a lava trap and he was saying, and yet they still come barefoot.
+1:06:02
+I'm like, yes, I got it, I got it.
+You said it the first time, please.
+So maybe there's maybe there's something to be said about the amount of voice lines that each character has.
+Counterpoint though, star crafts give me something to shoot.
+1:06:20
+Yeah, see, that's like. 1000 times but that's still bad ass and amazing.
+Maybe maybe there's someone who's just playing this for the first time that they are also an impressionable 10 year old and they're like, wow, this this cat with a a a blood rust for death is really cool.
+1:06:35
+I really love it when she says.
+Fired up.
+Or we were referencing.
+Work work.
+Which is from a line that a guy says over and over and over and over in a game from 25 years ago.
+1:06:51
+Now part, part of it's problem, nostalgia slamming, yeah, but but another part it's #1 there's, there's two main things.
+Like, yeah, the writing has to be like, you know, decent.
+Also just the raw variety when you're playing those strategy games, like each character has a lot of lines.
+1:07:13
+They say quite a few things and they're not.
+So they're they're also like mixed a little bit better.
+Like it's not necessarily registering in your brain every time a peon says work, work, or every time a Marine says, you know, you want a piece of me boy, or Get Me Out of this chicken shit outfit I remember as a kid.
+1:07:36
+Another part of it also is nostalgia.
+When I was a kid I was like, yo shit, just like in one of my favorite movies, Aliens, James.
+They do bleep it though.
+They do.
+I guess that's true.
+That's true.
+Yeah.
+I think.
+And, and the biggest, the the fact that there's so many lines is great, but like you hear them way too often.
+1:07:54
+And it's, it's, it's very in your face and very Marvel quippy.
+And alas, it's just time has time has passed.
+And that's, that's not that.
+That ain't it.
+You know what the problem is?
+1 yes, they're they're smarmy.
+1:08:10
+And two is they mostly occur when you're not really doing anything else.
+So you can't help but notice it.
+Yeah.
+So you're just like a full like third of my attention is listening to them say this dumb line again, versus if you're playing StarCraft, you've got like 0% of your brain available to like process voice lines because your brain is being used 110% on like zergling macro or Zergling micro versus.
+1:08:37
+Yeah, yeah, and let's not forget the great Zerg lines.
+Like.
+I mean, that's The thing is like I I'm thinking like, well, now, now all of my memories are are are suspect now that I can't remember I what the fucking soundtrack is, but I I'm pretty sure I have like all the vert the zerd lines memorized from StarCraft 2 make them with my map and.
+1:09:00
+The Overmind.
+Like I if you, if you played me a list of like StarCraft 2 units, I could tell you what move or what unit it is and what action it is doing.
+Like, Oh well, that's the attack.
+Hydrolysk noise.
+What about if you say so, Sir?
+1:09:18
+It's a siege tank.
+No, that's a vulture.
+Actually, that's a vulture.
+Well, that's.
+No, no, will, you're wrong, he says.
+I'll read you, Sir, One of many.
+And I I'm.
+Talking about StarCraft 2I.
+Don't know if what I said was accurate, I just completely made that up just in case I was wrong.
+1:09:34
+Therefore my.
+What about this one guys?
+Guess this one.
+This is Jimmy.
+Who is that?
+No idea.
+Yeah, Tychus Finley.
+Autocruiser.
+It's.
+An art.
+Oh yeah, we love that.
+We love the battle Cruise operational.
+Corsair, we're getting.
+Really off topic.
+Are we, are we going to cover well?
+1:09:51
+It's just like we want.
+We are, we are driven to talk about games with better characters.
+And yet they still come barefoot.
+Oh no.
+We should just review.
+I say we set a.
+Course for ratings, yeah, Star StarCraft has a Roglike mode at at some point, right?
+1:10:07
+And there's got to be, there's got to be a custom map that has a Roglike mode rating.
+That one, I mean, technically every time you spawn in you're in a different location.
+So roguelike.
+I don't know.
+It's a video game.
+Roguelike's a video game.
+So it's Rogue was a video game.
+1:10:22
+There you go.
+What more do you need?
+The bar is way down there.
+I mean, we played Stacklands, all right?
+So we we we know the bar is low dot age, Yeah.
+Well, I'm, I'm willing to pull some editorial authority for, for games on the on the spectrum.
+1:10:40
+The spectrums are what make things much like a, a, a, a spectrum of light very beautiful.
+Hey, Speaking of beautiful things, how about the numbers that we have attached?
+To say like a spectrum, like a rating.
+Speaking of spectrums, let's look at beautiful numbers.
+1:11:01
+So I'm guessing that will will perhaps be starting us off if we're going lowest to highest.
+What?
+No, that's not how we do it.
+I can hear the knuckle cracking from here.
+It's actually you can't.
+It's being muted by crisp or whatever.
+1:11:19
+There was some, there was some cracking there.
+But Scott, you had something you wanted to say or or did you?
+Or are we good to go into?
+We're good to go, but but of course, Scott, yeah, who's who's going to kick us off?
+Checked up, good to go.
+Will.
+Yeah, Will's going to start us off with rankings.
+1:11:37
+Over the course of talking about this game, I demoted it by a full point because I had it at 6.5 and then I realized.
+That's a recommend.
+That yeah, that gets into the recommend.
+1:11:53
+Yeah, above 6 is a recommend and I cannot do that.
+So 5.5 is where this one's going to end up for me.
+And this is, as we've discussed, primarily driven by my hatred for all the characters and all of their annoying properties, for the cartooniness of all of.
+1:12:13
+The.
+Enemies and it's hard for me to even if the rest of it, as Colin pointed out, is amazing.
+And if you just reskin this all with something that isn't annoying, I might enjoy it.
+I can't get over the pain I'm inflicted.
+By by the.
+1:12:29
+All the little quips and all the little annoyances the by the fact that this one character has a wrench.
+It's a sniper rifle.
+How is a wrench a sniper rifle?
+It doesn't make any sense at all.
+It's magic.
+What are you reloading?
+Magic.
+What are you shooting?
+1:12:45
+Magic.
+Orcskulls.
+OK.
+You're both shooting at them and with them.
+Why does this bear speak perfect English?
+It's crunched your your bullets are made out of ground up Orcskull.
+All right.
+Well, I mean, I don't, I don't think that's actually true, but.
+That reminds me of that doom gun where like you reload it by putting the skulls in like the grinder thing.
+1:13:06
+That would have been much better than this, but the unfortunately.
+One character that was that like 1 character is Doom Guy and all the rest of the exactly the same.
+That would be pretty funny.
+He's like in the mix, pulling their heads off and grinding them up.
+So continue 5.5 that's where it's going to land for me.
+1:13:26
+Sorry about that for the people who love this game.
+But yeah I'd be I just make better characters.
+Please.
+Please make better characters.
+Make adult adult.
+When I say adult I just mean like non things that are not meant for 10 year olds.
+This game is meant for 10 year olds.
+1:13:41
+That is the problem.
+I'll go next.
+I think my criticism throughout this episode was pretty biting, so maybe I'll keep my bad points a little short.
+And to the to the highlights here.
+I think the, like, it feels so painfully generic that like there's just nothing for me here to grab onto.
+1:14:03
+And it kind of feels like it wants to have its cake and eat it too.
+Of like, Oh well, like, yeah, don't worry about the story.
+But at the same time, like, I don't know, here's all like this stuff happening that makes it kind of feel like there was a story.
+But then they just kind of like, I don't know, like phoned it in for for four years.
+1:14:19
+Like I would if I was like a big Orcs Must Die franchise fan.
+I feel like I would be like really disappointed by this release.
+And even if it was, I was shocked that this game was not released in early access.
+But even then I don't I don't know how much of that would fix it.
+1:14:37
+The my bullet point line here.
+Give me the most generic fantasy game setting you have.
+That's kind of the feeling that I get from it.
+I feel like that if this game was like a $10 add on to like Orcs must I3, maybe that feels a little more justified, $30 feels a little steep for what we're getting here.
+1:14:57
+To be honest.
+I think I picked it up on sale for 20.
+That feels maybe a little more palatable, but still, boy, I don't know.
+I feel like everything that this game is doing vellum did better.
+Wasn't didn't have annoying voice lines like the like that was another game that felt kind of like also weirdly generic, but at the same time like they had a bit and they stuck with it of like everything is book puns and yeah, I got like annoying after a while, but like it's different.
+1:15:24
+It's something different, but OK, that all all that to be to the side.
+I've already spent 60 minutes taking a fat dump on this game.
+The goods here, the music in this game I think is very good.
+I think the the technicality of the art here is also very good.
+1:15:41
+I think all the characters have like a lot of very good detail to them.
+I think there's a lot of like very, very good environmental art design here, like all the stages feel unique and interesting like it.
+1:15:56
+Could run into a table and it would just immediately blow up.
+That's true.
+That's true.
+Some levels have some levels have like really cool looking like big telescope.
+Fantasy archetype.
+It's in every game honestly.
+Some levels have like, you know, dark, dark, deep sewers to them and like, I felt like interested to like jump around and look at stuff.
+1:16:18
+Like it was very interesting to look at.
+And I liked the the, the mission design as you progress through it of like, oh, it's getting like progressively more challenging.
+The final mission having two points that you had to defend instead of just one, I thought was a neat twist to it.
+1:16:38
+And like the the boss fight, I was kind of on the edge of my seat a little bit.
+I was like, OK, yeah, this this feels like a proper boss fight that I had to think about.
+And it felt like a a good tense situation.
+But that all being said, I think like, maybe I just need to take some more bong rips and just like, put my feet up and just be like, yeah, let's just go and throw some mine carts at some monsters.
+1:17:01
+And if that's what this game is designed for, that's great.
+I don't know if that's exactly what I was looking forward to get out of it for myself.
+And what was your number?
+Sorry again, one more.
+Time Yeah, I threw a number on here.
+For me it is a a gosh, where did the tab go?
+1:17:18
+It is a 5.9 just barely behind rogue Tower.
+I think Rogue Tower.
+I think Rogue Tower is a tower defense game, even though I dumped a lot on rogue towers like UI and functionality.
+Rogue towers also designed by one dude and who did all the music and like everything versus like a big studio team, an artist.
+1:17:42
+And so I think that that carries it a little bit more.
+I think Orcs must die, death trap being like a .1 higher than Rainbreaker, kind of like sets a similar tone of like there's cool stuff in here.
+There's just nothing done with it.
+1:17:57
+And if it was like more fleshed out, like, yeah, I could be totally on board with like, all right, yeah, let's go kill the other bosses here, let's see what happens.
+But like the fact that you beat a boss and like nothing is acknowledged and that feels like, Yep, Congrats, go grind some more.
+1:18:12
+I'm just like, Nah.
+Before we get to Andrew, sorry Scott, it doesn't actually make it so.
+There's two riffs on that last level that was just randomly chosen.
+You could have that on any level.
+That could be the first level.
+So sorry, it's actually worse than you thought.
+1:18:27
+Let.
+Me just subtract another five points off there.
+Okie, Dokie.
+Well, let's I'll I'll go next for I think I think it's fitting that Colin should wrap up this pod rating section.
+Hey Colin's friends, you've maybe never listened to the show before, so you might not know that originally this podcast had a ranking system.
+1:18:52
+Everything was stack rank.
+And so my numbers were just to try to fit it into an order 'cause I thought we were doing, you know #1 to number whatever.
+So my numbers are totally whack.
+And you know, honestly, your ranking games is silly to begin with.
+Anyway. 6.33 Andrew Points has been scored by Orcs Must Die Deathtrap that is behind it's right ahead a nightmare Reaper because oh man, I have so many issues with nightmare Reaper despite liking it so much and right behind orcs must die death trap is right behind a rift wizard, which it occurs to me that rift wizard is is really well, it's number one.
+1:19:29
+It's actually a roguelike and it's like, you know, very good game, honestly, and an inspiration because it's made by, I believe, just one person and of course critically includes a wizard with a purple robe, which we've established is basically the unofficial main character of rogue like them of roguelikes.
+1:19:48
+And yeah, but it occurred to me that Rift Wizard is is really it's it's a barrier in my ranking system.
+Like it, it stops a lot of games from ascending any higher.
+And honestly, I should, I should probably raise Rift Wizard in my ranking system.
+But anyway, you know what Rift Wizard is not?
+1:20:05
+It ain't a shooting game.
+And this game is a shooting game.
+And we need to talk about the shooting a bit.
+It was mentioned the the wrench.
+That's a little weird.
+That's a little strange.
+But I appreciate, you know, that this game, it has a lot of inventive gun ideas.
+There's just some neat animation work with how like the the the the twink bow crossbow is is reloaded and like the the character like he he like teleports like a new magazine like into his hand and then like puts it into the chamber.
+1:20:38
+Respects the question why doesn't he just teleport it directly into the chamber, eject the old one, teleport it right in same thing with Harlow.
+She should be, you know, just teleporting those directly into the gun.
+Anyway, what I'm trying to get to is that this is a shooting game and there are some critical shooting mistakes being made.
+1:20:57
+This obviously is very, you know, shallow and just a purely an aesthetic thing that I'm talking about the teleportation of the ammunition.
+But it's it's a good jumping off point to discuss how the breakable objects in this game, having breakable stuff and shooting game very important.
+1:21:14
+The breakable objects are terrible.
+It's it's this is the third game and they look God awful.
+You bump into a table, it explodes into too many pieces.
+It generates.
+It breaks the basic laws of existence.
+And it's just.
+1:21:29
+Running these tables you.
+Don't.
+You don't get rolling and Dark Souls roll.
+Where are you going to roll?
+Yeah, You bump into this table.
+It explodes into more pieces than existed in the original table.
+And this is the worst part of this.
+The worst instance of this is that there are some bow and arrow targets on one of the level.
+1:21:48
+You shoot those and it just explodes into a million pieces.
+It looks slow, sloppy.
+And you might think this is inconsequential, but it speaks to a bigger problem.
+There's, there's some issues with the shooting and, and the most the, the, the best slash worst example of this is in the gore system.
+1:22:05
+You know, you get some good decapitations, you get some good Gibbs, some good Gibbs.
+Depending on what side of the Mississippi you're from, you might pronounce it differently.
+But the gore system at times so often feels so unmotivated, like you fire into a squad into a into a, into a group of orcs, and often times like they'll just separate into five pieces, like and there's the torso, there's the limbs and there's the head.
+1:22:30
+And it's not it's again, it's unmotivated.
+Like I didn't see my actual projectiles hit them in those specific places.
+And it's not going to work.
+And in a game where half of it is shooting, the shooting needs to be good.
+It needs to be satisfying.
+It's a little bit satisfying, but it ain't that satisfying.
+1:22:47
+And as a result, I mean, as we'll said in the previous episode, that this game, it's going to be limited by that.
+If you don't fix your gore and your and your destructible terrain in your shooting game, it you're not going to get above a 6.33 of meaningless points in this horrible rigged system that we have.
+1:23:08
+Hey, one last thing.
+Collin's friends, we'd love to have you on the episode.
+If there's a level, if there's a pardon me, not not a level, don't come talk about this game, please.
+But if there's if there's another game rogue like.
+I mean, Joe has been on this podcast.
+He was on for Monster Train.
+Oh yeah, sure enough.
+1:23:24
+Yeah, someone with actual credentials, thank goodness, Which hopefully will be having one of those coming up soon.
+Anyway, 6.3300 points.
+I'll I'll wrap this up.
+I'm going to give it a 7.5 because it was fun to play with my other friends.
+I fun my brain.
+1:23:42
+My brain has just zeroed out the story and aesthetic aspects and I'm only playing it for the goofs.
+I am playing it as the maybe not smoking a ripping fat bong rips as I'm playing it, but for the for the same sort of like just casual game well.
+1:24:03
+You hate weed, right?
+I don't hate weed, I just don't answer that question on this podcast.
+By the way, I would not actually.
+I have no problem with other people smoking weed, I just don't enjoy it that much.
+But no, I, I, I mean, I, I could probably enjoy this game play while while having partaken a bit, but I mean, I think it's just a fun game.
+1:24:25
+I'm definitely giving it a higher score than I if I were coming to this cold.
+I I actually knocked a couple couple tenths of points off once you started comparing it to vellum because I was like, is it better than vellum?
+I really didn't like vellum.
+1:24:42
+I probably shouldn't like this game if, if this game and vellum were swapped in terms of like me playing with other people, I might have a different feeling about it.
+So I, I don't know, I for very specific circumstance, I think it would be a fun, fun, goofy time where you're you're, you're blowing some stuff up and if you think it's too easy, you can raise the difficulty to like a pretty customizable level.
+1:25:11
+You know, could it be better if, you know, when you shot them, they were just like guts and gore falling out such that you had to actually like position your barricades so that the mounds of their corpses didn't pile up and they could walk over it?
+I mean, maybe it would be a better game, but it'd be a different game for sure.
+1:25:28
+So I always believe it that I, I don't have too much like strength behind that score, but I, I, I have had a fun time playing it, so I'll leave it at that.
+All right, so stay tuned to our Omega Bowl episode where this game will be starring Wow boy.
+1:25:46
+Yeah, where we go through all the Orcs Must Die games in sequins.
+Where we where we execute this game on this?
+As you know, it's thrown off of the Spire.
+You know.
+Someone did mention the Spire earlier, I'm pretty sure.
+1:26:04
+Yeah, yeah, it's a, it's a, it's a split the split the spider like.
+Oh, there we go, they got.
+But yeah, I think that's gonna that's gonna do it for that similar games like this game.
+I also will give it a little bit of credit for being unique, because trying to find some similar games to this was a challenge because there's not like any third person first person shooter like tower defense Rogue games like this is a Unicorn in that regard.
+1:26:34
+But so I had to kind of split this out between like what are some other tower defense games?
+What are some other like Co-op shooters and tower defense we got?
+I don't think this game is specifically rogue, but it gets compared a lot with this game is dungeon defenders.
+1:26:50
+One person was very adamant about sending us steam keys to gnomes, the tower defense gnome game, which I I have played.
+Thank.
+Thank you listener for sending us that I did.
+I did play with it some.
+That game is pretty fun.
+Got to say there's Dungeons of the Endless, which is a it's a top down multiplayer tower defense game that had a very abysmal sequel launch.
+1:27:17
+So maybe also simpler in this sense.
+There's a game, Castle of The Alchemist that looks more kind of like top down shootery in a way.
+And then our previous episodes on Rogue Tower we talked a little bit about and the last spell, I guess I will lump in there as well, Co-op shooters.
+1:27:36
+There's been actually a pretty decent number of ones that have been coming out in that space, which is interesting.
+There is a century, which seems interesting, but maybe a little under people's radar.
+Recently released too much critical acclaim was Jump Space, which is like a four player FTLF PS roguelite question mark.
+1:28:00
+Very, very interesting.
+Stay tuned for that for sure.
+There's the if.
+If you thought this game was lacking furries, certainly no further than Gunfire Reborn.
+Where you got your furries, you got your scalies, you got everything.
+You all right so check it out.
+Gunfire Reborn.
+1:28:16
+Fun game, good game after the ridiculous takes y'all had last episode on on like a very accessible and like good by the numbers classic FBS experience, There ain't no way it was at the very top of my list.
+1:28:32
+Gunfire ain't no way I'm picking that because y'all ain't going to appreciate it.
+But anyway, yeah, I know it's pretty good game, unfortunately so friend of the show Helen pointed out that here's the problem.
+Here's the big problem.
+The actual like objective problem with Gunfire Reborn is you need to be fluent in Google Translate in.
+1:28:50
+Order to understand this game.
+Not so much using Google Translate but like understanding what the text is trying to say because yo the localization is and that's so good.
+Yes, definitely a a game that looks fun to play, but maybe.
+1:29:06
+Not so fun and 1/2.
+Well Andrew, you might be interested in this game.
+I think it's probably either by a solo dev or a very small team called Knights Within that I've been watching development progress on that is a Co-op medieval gun shooter game that I guess you are like medieval Knights with fully automatic weapons or something.
+1:29:32
+I play the demo of it on one of the Steam Nexfest.
+I'm like, I have no idea what this is, but I'm sickeningly curious.
+So that one, that one very.
+Power metal, yeah.
+Cool.
+And then there is a a game that I guess technically falls into this category called MUCK, which is like what if, what if Minecraft, but more sort of rogue and developed as a meme by a popular YouTube.
+1:30:01
+It's one of like the top 10 most popular rogue games ever because I think largely because it's free to play, but maybe that is more of a like a radioactive type game that like maybe like only break glass in case of emergency.
+1:30:19
+Gotta get those like and subscribe numbers up.
+Previous episodes for Co-op shooters.
+Everyone's favorite risk of rain too, but I remember everyone having a blast for our our vellum previous episode that we talked a lot about dead Zone Rogue our our exact previous episode to this one.
+1:30:37
+Oh, and I guess two more under the Co-op shooters that I didn't list, but these are more kind of on the very edge of the spectrum.
+Deep Rock Galactic, obviously.
+How did we forget to talk about that?
+But more more to the point like Deep Rock Galactic is having an actual rogue style experience designed from the another design from the ground up to be rogue first with Deep Rock Galactic rogue core that is in one of those TBD forever states that.
+1:31:06
+He's called a.
+Deep Rogue Galactic.
+Yeah, it was right there.
+What were they thinking?
+But maybe for branding purposes and and all that the juicy SEO Yeah, I think that's going to wind down our Orcs Must Die death trap episode and SEO.
+1:31:26
+Yeah, you can find all of our very carefully and crafted SEO material at the website Grogpod dot zone.
+I'm on a mission to try to do as much caves of cud posting as I can on our Mastodon Grogpod at game dev dot place and you can send emails to us again.
+1:31:45
+I've, I've, I there's that Simpsons bit of, of Ringo Starr, like slowly typing out all of his responses to the thousands of letters that he gets over time.
+And he's like, you know, it's a, it's a tough job, but I'm gonna get to every one of these stacks of letters that I possibly can.
+1:32:01
+Sometimes it feels like that when I'm replying to emails that people send me like 8 months ago.
+I do see them.
+I do read them sometimes I'm just like that Ringo.
+I gotta go watch that Ringo Starr videogrogpodzone@gmail.com.
+You can send in all of your orcs.
+Must I death trap feedback there.
+1:32:19
+But as I just spoiled it, our next episode is not just one episode, it is 2 big episodes, 1 1/2 on possibly the biggest traditional rogue lake that we will probably ever cover on this program.
+1:32:38
+Long time coming, long time in the making.
+Caves of Cud.
+Is cuds 1 cud cud cud?
+CUD.
+Here we go.
+And fellas, I don't mean to, I mean don't feel too much pressure, but like we will be run out of the genre if we don't give this a good score.
+1:32:58
+Like so fellas, you know, do you?
+Want a 2?
+5 out of 10, you know.
+Yeah.
+So, So what we're doing is we're, we're breaking this up into two parts to avoid another Elden Ring night Ring scenario of a of a four hour long super pod that no one is going to listen to.
+1:33:16
+So two parts, first part will be dedicated to the soundtrack and the story of the main quest of caves of Cuds.
+So there's there's a lot to cover here.
+We're not going to cover everything.
+It will be very spoilery, but up to a point and the the ending with a capital E will not be spoiled.
+1:33:38
+So don't don't feel that you will have your whole experience ruined, which is most of it.
+But I will say this, that like even even the hearing all the story, there's so much to it that if you're just like, OK, yeah, I know, I know how Dune is, sure, whatever.
+1:33:53
+And then you go see Dune in IMAX and you're like, no, nothing could have prepared me for it.
+That's that's kind of what I'm trying to hype up here.
+So we're doing a hype up episode that will I will try to get it produced and out a week from now.
+1:34:10
+But if you're like, you know what, I don't want any spoilers.
+I just want to hear the standard grog pod format that I love so much and I'm so used to.
+That'll be in our standard two week from now time frame and that'll just be like the usual gameplay, all that good stuff type thing.
+1:34:27
+It's made me more focused on the game playing.
+So the story or soundtrack, but the story soundtrack one will be more kind of like how we've done the music fest episodes in the past.
+So we'll be listening to a really great soundtrack by by Craig Hamilton, who did a great job with that, will be listening to looking at all of the story stuff that won not only the Indie Game Fest Award for 2025, but a Hugo Award for 2025 for writing.
+1:34:56
+So there's a reason why so.
+We're going to talk about judging it on that podcast.
+We'll be judging it on the second one on the gameplay alone.
+Yes, so that it'll be a a numbers free more just kind of like me just expositorying out onto Colin and Andrew with stay tuned a special guest.
+1:35:17
+So do stay.
+And maybe will if he decides to join us, actually.
+That that was accurate.
+Special guest Will.
+Will Will loves the sound of of nightmare factorial with with very goopy sounds in the background.
+1:35:33
+But anyway, yeah, next episode Caves of Cud 2 parter yeah, stay tuned.
+But to place out from this one will be some tunes for metal shredding tunes that you will shred some orcs with metal traps.
+1:35:52
+Too.
