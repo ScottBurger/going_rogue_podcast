@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/deadzone_rogue.jpg
 share-img: /assets/img/deadzone_rogue.jpg
 duration: "1:45:46"
 length: 86331408   
-tags: ["2025", traditional roguelike, honorary rogue, Guest Episode]
+tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
 ---
 
 
