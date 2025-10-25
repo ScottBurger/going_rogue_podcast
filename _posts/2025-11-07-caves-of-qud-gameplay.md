@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Caves of Qud Part 2: Gameplay and Mechanics (with @BigSimple)"
-date: 2025-11-07
+date: 2025-11-05
 file: 
 description: "
 "
@@ -16,6 +16,7 @@ length: 86331408
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
 ---
 
+O Glorious Shekhinah! To conclude our two-part special on Caves of Qud, we turn our focus from the epic storyline to the deep gameplay mechanics and systems of the game. Join us for a water ritual on how to negotiate with camel merchants before we clone them, managing our reputation with fuedal fungal lords, and how to navigate the differences between mutated humans, psychic warriors, and just straight-up cyborgs. 
 
 
 <div class="container">
