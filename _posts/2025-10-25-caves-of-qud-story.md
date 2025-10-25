@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Caves of Qud Part 1: Story and Soundtrack (with @BigSimple)"
-date: 2025-10-25
-file: 
+date: 2025-10-29
+file: https://grogpod.s3.us-west-2.amazonaws.com/caves_of_qud_1_soundtrack.mp3
 description: "
 "
 explicit: "yes" 
@@ -16,7 +16,7 @@ length: 86331408
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
 ---
 
-Live and Drink! In this extra-special two-part episode, we first examine the deep story, lore, and soundrack to Caves of Qud. Winner of the 2025 Hugo Award for Best Game or Interactive Work, as well as the 2025 Independent Games Festival for Excellence in Narrative, it only made sense for us to break this absolutely massive game out into two parts. Listen in as we set the stage via the incredible soundtrack brought to us by Craig Hamilton. While there will be heavy spoilers up to a certain point (don't worry, the ending is safe), simply hearing the story can't prepare you for experiencing it first hand. Part 2 will be the usual GROGPOD format, focusing more on the gameplay and systems in Caves of Qud. Until then, strap into that ejector seat and get ready to inject some Eater's nectar!
+Live and Drink! In this extra-special two-part episode, we first examine the deep story, lore, and soundrack to Caves of Qud. Winner of the 2025 Hugo Award for Best Game or Interactive Work, as well as the 2025 Independent Games Festival for Excellence in Narrative, it only made sense for us to break this absolutely massive game out into two parts. Listen in as we set the stage via the incredible soundtrack brought to us by Craig Hamilton. While there will be heavy spoilers up to a certain point (don't worry, the ending is safe), simply hearing the story can't prepare you for experiencing it first hand. Part 2 will be the usual GROGPOD format, focusing more on the gameplay and systems in Caves of Qud, and also back to our closer to 90 minute length. Until then, strap into that ejector seat and get ready to inject some Eater's nectar!
 
 <div class="container">
   <audio controls style="width: 100%;">
