@@ -6,7 +6,7 @@ We started the GROGPOD because we like roguelike games and like complaining abou
 ## Hosts
 Scott Burger - [author of "Intro to Machine Learning with R"](https://www.amazon.com/Introduction-Machine-Learning-Rigorous-Mathematical/dp/1491976446), data scientist. [Analytics blog](https://svburger.com), [Mastodon](https://hachyderm.io/@SVB)
 
-Will Wright - Jazz and darts enthusiast, data scientist. [Developing a roguelike deckbuilder](https://www.hardreset.app).
+Will Wright - Jazz and darts enthusiast, data scientist. [Developing a roguelike deckbuilder](https://discord.gg/GVpKJbvMb).
 
 Colin Smith - DnD dungeon master, mechanical design engineer.
 
@@ -29,6 +29,8 @@ Helen - [Mystery Dungeon expert](https://twitter.com/gagther)
 Tyler Pittman - Hades addict
 
 Kris - Elden Ring expert and #1 fan of Daniru17
+
+BigSimple - [YouTuber showcasing Caves of Qud](https://youtube.com/@bigsimple) and other indie games
 
 
 ## What is a Roguelike?
