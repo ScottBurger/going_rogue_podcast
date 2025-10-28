@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caves of Qud Part 1: Story and Soundtrack (with @BigSimple)"
+title: "Caves of Qud Part 1: Story and Soundtrack (with BigSimple)"
 date: 2025-10-29
 file: https://grogpod.s3.us-west-2.amazonaws.com/caves_of_qud_1_soundtrack.mp3
 description: "
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/deadzone_rogue.jpg
 thumbnail-img: /assets/img/deadzone_rogue.jpg
 share-img: /assets/img/deadzone_rogue.jpg
-duration: "1:45:46"
-length: 86331408   
+duration: "2:56:42"
+length: 166155632   
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
 ---
 
@@ -42,7 +42,10 @@ Live and Drink! In this extra-special two-part episode, we first examine the dee
    - Among the Tomb of the Eaters (Qud crypts)
    - Deeper Eaters (Sultan crypts, Resheph's sarcophogus, Herododicus, entombment)
    - Attenuated Signals, Fractals (Brightsheol, Rainwater Shomer, the Seraph's dream, the golem)
-   - Moonstair (Eyn Roj, 
+   - Moonstair (Eyn Roj, Ayog-No-Longer)
+   - Arrival of the Official Party (Final battle with Putus Templar, Girsh Nephilim, ascension)
+   - Similar stories
+   - Arrival (Part 1 wind down, preview for part 2)
   
 ---
 
