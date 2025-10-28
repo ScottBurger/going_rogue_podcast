@@ -28,10 +28,21 @@ Live and Drink! In this extra-special two-part episode, we first examine the dee
 
 ---
 
-* 1:21 - Game stats
-* 2:55 - One sentence description
-* 1:26:42 - Rankings & final thoughts
-* 1:38:40 - Similar games & show wind-down
+* 00:00 - Pilgrim's Path (guest intro, title screen)
+* 11:11 - Mehmet's Morning (Joppa, Resheph, the gyre plagues, the signal)
+* 26:30 - Overworld (Meeting the Barathrumites)
+*  - Golgotha (First dungeon)
+   - Stoic Porridge (Acceptance into the order, the Baetyl)
+   - Lazarus (Bethesda Susa, the trolls, Saad Amus the Sky-Bear, Temple of The Rock)
+   - Onward (Ezra, Mayor Haddas, Sixshrew, Yla Haj, Zothom the Penitent, Rebekah's grave, the Earl of Omonporch)
+   - Imminent II (Ereskigal the sentient computer, the Putus Templar)
+   - Attack on Grit Gate (Qud tower defense, NPC permadeath)
+   - Barathrum's Study (Leader of the order, the mystery of the signal, the Spindle)
+   - Substrate (Rainbow Wood, scroll bound by a strand of kelp, Pax Klanq, Barathrum's gamble)
+   - Among the Tomb of the Eaters (Qud crypts)
+   - Deeper Eaters (Sultan crypts, Resheph's sarcophogus, Herododicus, entombment)
+   - Attenuated Signals, Fractals (Brightsheol, Rainwater Shomer, the Seraph's dream, the golem)
+   - Moonstair (Eyn Roj, 
   
 ---
 
