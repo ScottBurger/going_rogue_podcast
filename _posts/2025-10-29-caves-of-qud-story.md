@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, tribes, starsiege, deadzone"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/deadzone_rogue.jpg
-thumbnail-img: /assets/img/deadzone_rogue.jpg
-share-img: /assets/img/deadzone_rogue.jpg
+cover-img: /assets/img/qud_bg_1.jpg
+thumbnail-img: /assets/img/qud_bg_1.jpg
+share-img: /assets/img/qud_bg_1.jpg
 duration: "2:56:42"
 length: 166155632   
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
@@ -31,21 +31,21 @@ Live and Drink! In this extra-special two-part episode, we first examine the dee
 * 00:00 - Pilgrim's Path (guest intro, title screen)
 * 11:11 - Mehmet's Morning (Joppa, Resheph, the gyre plagues, the signal)
 * 26:30 - Overworld (Meeting the Barathrumites)
-*  - Golgotha (First dungeon)
-   - Stoic Porridge (Acceptance into the order, the Baetyl)
-   - Lazarus (Bethesda Susa, the trolls, Saad Amus the Sky-Bear, Temple of The Rock)
-   - Onward (Ezra, Mayor Haddas, Sixshrew, Yla Haj, Zothom the Penitent, Rebekah's grave, the Earl of Omonporch)
-   - Imminent II (Ereskigal the sentient computer, the Putus Templar)
-   - Attack on Grit Gate (Qud tower defense, NPC permadeath)
-   - Barathrum's Study (Leader of the order, the mystery of the signal, the Spindle)
-   - Substrate (Rainbow Wood, scroll bound by a strand of kelp, Pax Klanq, Barathrum's gamble)
-   - Among the Tomb of the Eaters (Qud crypts)
-   - Deeper Eaters (Sultan crypts, Resheph's sarcophogus, Herododicus, entombment)
-   - Attenuated Signals, Fractals (Brightsheol, Rainwater Shomer, the Seraph's dream, the golem)
-   - Moonstair (Eyn Roj, Ayog-No-Longer)
-   - Arrival of the Official Party (Final battle with Putus Templar, Girsh Nephilim, ascension)
-   - Similar stories
-   - Arrival (Part 1 wind down, preview for part 2)
+* 37:30 - Golgotha (First dungeon)
+* 47:30 - Stoic Porridge (Acceptance into the order, the Baetyl)
+* 56:40 - Lazarus (Bethesda Susa, the trolls, Saad Amus the Sky-Bear, Temple of The Rock)
+* 1:12:30 - Onward (Ezra, Mayor Haddas, Sixshrew, Yla Haj, Zothom the Penitent, Rebekah's grave, the Earl of Omonporch)
+* 1:26:11 - Imminent II (Ereskigal the sentient computer, the Putus Templar)
+* 1:33:10 - Attack on Grit Gate (Qud tower defense, NPC permadeath)
+* 1:40:40 - Barathrum's Study (Leader of the order, the mystery of the signal, the Spindle)
+* 1:44:00 - Substrate (Rainbow Wood, scroll bound by a strand of kelp, Pax Klanq, Barathrum's gamble)
+* 1:59:34 - Among the Tomb of the Eaters (Qud crypts)
+* 2:09:10 - Deeper Eaters (Sultan crypts, Resheph's sarcophogus, Herododicus, entombment)
+* 2:16:12 - Attenuated Signals, Fractals (Brightsheol, Rainwater Shomer, the Seraph's dream, the golem)
+* 2:23:20 - Moonstair (Eyn Roj, Ayog-No-Longer)
+* 2:36:10 - Arrival of the Official Party (Final battle with Putus Templar, Girsh Nephilim, ascension)
+* 2:49:10 - Similar stories
+* 2:54:23 - Arrival (Part 1 wind down, preview for part 2)
   
 ---
 
