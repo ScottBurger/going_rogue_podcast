@@ -22,11 +22,11 @@ Live and Drink! In this extra-special two-part episode, we first examine the dee
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/caves_of_qud_1_soundtrack.mp3">
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/deadzone-rogue/id1650474911?i=1000730731032) | [Spotify](https://open.spotify.com/episode/1GgoODUIKv81sQElwfaz0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/deadzone-rogue.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/caves-of-qud-part-1-story-and-soundtrack-with-bigsimple/id1650474911?i=1000733987506) | [Spotify](https://open.spotify.com/episode/2znJCwfxv2Zngb382POSY9) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/caves_of_qud_story.txt)
 
 ---
 
