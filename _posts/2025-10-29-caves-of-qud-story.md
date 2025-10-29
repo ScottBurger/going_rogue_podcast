@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, tribes, starsiege, deadzone"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/qud_bg_1.jpg
-thumbnail-img: /assets/img/qud_bg_1.jpg
-share-img: /assets/img/qud_bg_1.jpg
+cover-img: /assets/img/qud_bg_1.JPG
+thumbnail-img: /assets/img/qud_bg_1.JPG
+share-img: /assets/img/qud_bg_1.JPG
 duration: "2:56:42"
 length: 166155632   
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
