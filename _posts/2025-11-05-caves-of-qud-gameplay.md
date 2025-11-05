@@ -43,9 +43,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Caves of Qud OST - Soundscape I
 
-Outro music: 
+Outro music: Caves of Qud OST - Onward Romantique / Live and Drink
 
 
 <div class="embed-responsive embed-responsive-16by9">
