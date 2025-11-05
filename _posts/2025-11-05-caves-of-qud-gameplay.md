@@ -32,6 +32,25 @@ O Glorious Shekhinah! To conclude our two-part special on Caves of Qud, we turn 
 
 * 3:44 - Game stats
 * 7:47 - One sentence description
+* 08:09 - Gamma World tabletop RPG comparison
+* 10:08 - Initial bouncing off & polish improvements
+* 14:23 - Tutorial mode & learning curve discussion
+* 19:31 - Character creation & mutation systems
+* 24:48 - Story structure & main quest overview
+* 29:17 - Death mechanics & permadeath options
+* 34:52 - Open world exploration & procedural generation
+* 40:15 - Village generation & faction systems
+* 45:38 - Combat mechanics & weapon variety
+* 51:22 - Skill tree & ability customization
+* 56:47 - Water economy & trade systems
+* 1:02:08 - Equipment & artifact identification
+* 1:07:45 - Mutation system depth & combinations
+* 1:13:31 - Enemy variety & creature encounters
+* 1:19:03 - Interface improvements & accessibility features
+* 1:24:38 - Save system exploits discussion
+* 1:30:15 - Community & modding ecosystem
+* 1:35:52 - Writing quality & atmospheric storytelling
+* 1:41:27 - Endgame content & difficulty scaling
 * 2:07:27 - Rankings & final thoughts
 * 2:25:15 - Similar games & show wind-down
   
