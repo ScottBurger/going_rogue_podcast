@@ -26,7 +26,7 @@ O Glorious Shekhinah! To conclude our two-part special on Caves of Qud, we turn 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/deadzone-rogue/id1650474911?i=1000730731032) | [Spotify](https://open.spotify.com/episode/1GgoODUIKv81sQElwfaz0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/deadzone-rogue.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/caves-of-qud-part-2-gameplay-and-mechanics-with-bigsimple/id1650474911?i=1000735349468) | [Spotify](https://open.spotify.com/episode/5k2HuFpjzN9X4GMfClFaq5) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/deadzone-rogue.txt)
 
 ---
 
