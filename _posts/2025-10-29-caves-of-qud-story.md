@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Caves of Qud Part 1: Story and Soundtrack (with BigSimple)"
+title: "Caves of Qud Part 1: Story and Soundtrack (with @BigSimple)"
 date: 2025-10-29
 file: https://grogpod.s3.us-west-2.amazonaws.com/caves_of_qud_1_soundtrack.mp3
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, tribes, starsiege, deadzone"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, caves of qud, kitfox, gamma world, story, audiobook"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/qud_bg_1.JPG
 thumbnail-img: /assets/img/qud_bg_1.JPG
