@@ -32,6 +32,8 @@ Kris - Elden Ring expert and #1 fan of Daniru17
 
 BigSimple - [YouTuber showcasing Caves of Qud](https://youtube.com/@bigsimple) and other indie games
 
+Robert Lippens - Podcasting mentor and friend of the show for 20 years
+
 
 ## What is a Roguelike?
 
