@@ -1,0 +1,1955 @@
+0:17
+Hello my friend, stay awhile and listen to the Grog Pod Roguelike podcast where each episode we dive deep into the catacombs of roguedom, slay its demonic ruler by slapping some rating numbers on it, and if it's wholly enough, revisiting the game at the end of season recap tournament, which is coming up much closer than I thought it was.
+0:41
+I am your village elder, host of the podcast Scott Berger and with me are my heroic Co hosts.
+This is will your health potion of guzzling.
+And this is Colin, a random corpse on a floor that you kick to get some gold.
+It's your main man from Tristram Andrew.
+0:58
+Harsh man, how you doing?
+And we are joined with a, a, a special guest, one who is almost like an, an honorary 5th member of the podcast because we are we're just in constant contact with them for so long.
+1:13
+And probably about this time, I think marks around like the 20 years of him and I knowing each other.
+But who is our who's our special guest Co host for this episode?
+Hello, I am work with both his legs.
+1:31
+It's good to talk to you all.
+My name is Robert.
+Yay, we can finally tear Robert away from his his weekend squad addictions to join our once every two week addiction to talk about games that Robert definitely loves and plays all the time.
+1:51
+Yes, yes.
+But it's great to be here.
+Yes, but yeah, in in this case we were talking Diablo 1997's classic game Diablo, although I have the release date here for January 3rd, 1997, but in some cases you could get it on the West Coast December 31st, 1996.
+2:09
+But for website purposes, I'm I'm listing as 97 November 97 was when the Hellfire expansion came out, but I'll talk about that in a second.
+Diablo 1997 Diablo.
+You can now currently find it on good old games on GOG.
+2:26
+You can find it on the Blizzard service Battle.net.
+You can find an Xbox game pass Hell, you can even find it on PlayStation one if you have an antique store near you.
+But for most of this podcast, we're going to be talking about the Devolution X version of Diablo, which I guess technically runs off of the GOG version, which runs on Android, Windows, Linux, Mac OSX, Free BSDIOS and iPad.
+2:53
+Nintendo Switch, Nintendo 3DS, Xbox One slash Series X, PlayStation 4, PlayStation Vita clockwork Π Gameshell, the GKD 350H, the Retro FW, the RG350 in the My U Mini.
+3:10
+Does it run on ATI 83?
+You know, I would be shocked at this point if it didn't because if it can run on basically everything else Diablo developed by maybe you've heard of them Blizzard who are well, I guess technically Blizzard N who existed from 93 to 2005, notably notable for maybe some other game.
+3:34
+You may have heard of Diablo 2, which came out in the year 2000, but and also published by one Blizzard who a a storied history that we could we could go on for for a long time about but the highlights 1994 Blackthorne Warcraft 95 Warcraft 297 Diablo and Lost to Vikings. 298 StarCraft and StarCraft Brood War 2000 Diablo Two. 2003 Warcraft Three 2004 World of Warcraft 2010 StarCraft 2 Wings of Liberty. 2012 Diablo 3/20/14 Hearthstone 215 Heroes of the Storm.
+4:16
+We all remember that one. 2016 Overwatch and 2023 Diablo four among many others.
+But your your average play so your average play time of Diablo.
+Normally I pull these stats from from Steam and do some wizard math on top of it, but in this case, I had to retreat to howlongtobeat.com and the main story looks like you can beat in 13 hours, but if you wanted to complete everything it's like 28 and finally doing some more wizard math using the 2053 total reviews on the GOG platform and comparing that to which will I'll get into the reason why against roguelike games on Steam, This would be the number 480 third most popular roguelike asterisk asterisk asterisk game on Steam.
+5:07
+But Robert, that item dropping sound that you just heard is A1 sentence legendary item that has a description of it of what one does in Diablo.
+Yeah, I mean, so you you enter some catacombs and you click your way down, mostly left clicking if you're a if you're a warrior.
+5:25
+And as you fight your way down, you fight harder and harder guys, and you collect better and better loot until you get to the end.
+And then you have to fight, as the namesake might imply, Mr. Diablo himself.
+Mr. Diablo Well, as people are downloading this episode and slamming their cars to a halt on the freeway as they always do, they're getting out of their cars and yelling into traffic.
+5:47
+This game is not a roguelike.
+Why is this roguelike podcast covering this?
+I'm quite upset.
+I'm very enraged, and I'm going to turn into the Lord of Terror myself.
+Well, I sense your souls in search of answers as to why we would be covering this, but I mean just coming hot off the heels of our Caves of Cut episode previously where it makes sense to kind of blur the lines between RPGs with procedural elements and pure, whatever that means roguelikes.
+6:19
+There are definitely things where like if a game goes super long, it basically isn't RPG anyway.
+So we're we're using some creative leeway here in order to give Andrew and Will a, a break from some, some pure traditional roguelikeism and get some more fire back in.
+6:36
+But crucially, this game also started as a traditional roguelike.
+So if you dig through some documentation that I have here, the creator of the game said he had ideas of creating Diablo from the start, combining D&D and stuff from the roguelike genre, particularly Ang Band, which maybe will be stay tuned for that one.
+6:59
+And he wanted to improve how quickly the player would be able to get into the game compared to typical role-playing games.
+The team's initial pitch was to take the excitement and randomness of games like Moria, Net Hack and Rogue and bring them into the 1990s with fantastic graphics and sound.
+7:17
+However, most publishers turned down the idea on the grounds that RPGs are quote dead.
+A quote from David Breivik here.
+Really quick on the creation of Diablo, he says.
+One of the things we wanted to try to get with Diablo was ease of gaming.
+The NHL series was really good at this where you just click and you're in the game before Diablo, when you created a character, you had to answer 53 questions about this and that and the other and you had to name it and you had to give it a back story and so on.
+7:44
+We just wanted to get in and start smashing things.
+And I guess the the last point I'll kind of touch on here was that this game was originally turn based is now famously real time.
+Although if you squint really hard, you can still see that the turn based implementation here, because when they were pitching this to Diablo around, yeah, they were.
+8:07
+Pitching it to the devil himself.
+And they may as well have.
+Blizzard was like, this game has got to be real time, none of this turn based nonsense.
+And so David Brevik, the lead programmer, was like, what if I just took these turn based systems and just made the turns really fast?
+8:25
+And that's basically what we have.
+We're like if you click on something or if you use a spell, it takes up like kind of a certain amount of time units you can sort of think of.
+But instead of pausing at the end of that, it just continues to the next thing.
+So.
+It's real time turn based.
+It's it effectively is, yes, real time turn based.
+8:41
+And that kind of gives us this, this origin story for how even if you take like the the bare minimum amount amount of like Polish and graphic.
+Well, I say bare minimum now, but I guess at the time we'll get into it.
+9:01
+If you take things that are very crunchy, like net hack and all those traditional roguelikes and put the the Blizzard level of Polish on it, this is the result.
+And so I think maybe that's our justification for talking about it this time.
+And and not only that, I mean, I don't know when the last time is y'all looked at the Berlin interpretation of what a rogue like is.
+9:22
+I mean, I of course have mine emblazoned on a sheet of aluminium metal, laser etched.
+You don't.
+Have like a diamond that you've just jammed into your forehead.
+Well, that's the yeah, that's the portable version.
+Of course, Diablo One has seven counted 7 of the elements.
+9:45
+Out of how many?
+Out of, I don't know, it's like 10 or something, It doesn't matter.
+Random environment, environment generation.
+Hello.
+This game is like the quintessential example of that.
+Come on, baby.
+You got the complexity and the level of solutions, the different ways you can fight three different classes.
+10:04
+That's three different ways to kill minions.
+Resource management obviously hack in slash.
+This is one of the hack in his slash in his games we have ever covered.
+Of course, it's technically grid based in in the idea that most games are grid based.
+10:22
+Yo check it out exploration and discovery come on specifically in the definition.
+It name drops.
+Yo, Berlin interpretation.
+You got to have those classic Berlin unidentified items.
+How many other games have we covered on this so-called roguelike podcast?
+10:40
+Dave Sukud with unidentified items.
+Yeah, like only the good ones, like like 3 or 4, maybe something like that.
+And then, you know, it kind of has it doesn't technically have permadeth, but I'm sure at some point we're going to talk about how how really awful it feels to die in this game.
+10:58
+So it may as well have permadeth.
+It's almost as bad.
+It's it's a fate worse than permadeth often times at.
+Least with permit death they put you down and tell you you can't get your items back.
+They're doing you a favor at that point.
+Dude.
+So hey, what?
+I thought it might be fun.
+11:14
+During our music episode, I talked about my history with Diablo One which is that I heard about it and I was enchanted by the concept of such a grizzly game, and I was critically enchanted by the concept that a game could be different every time you played it to the level could be randomly generated.
+11:32
+I thought it might be fun to go around the horn and ask about people's history.
+Is there any interesting historical notes?
+Colin, you mentioned that you probably would not have been allowed to buy this game when you were a child, given its demonic contents.
+I.
+11:48
+Mean my parents weren't even that.
+Like, I'm sure Wills definitely didn't let him bite.
+Absolutely.
+I mean, we were, we, I, I, I think we were lucky to get StarCraft.
+And that's only because I think my, my parents didn't see the cover of the, of the expansion because with the, what was it Kerrigan with the, I don't know, the mascara?
+12:07
+We probably just burned you a copy of of Bird War so.
+Yeah, no, I definitely would not have had this game though.
+Yeah, I mean, my parents weren't even that like hardcore.
+It's just like, well, no, you can't buy.
+There are many games you can buy, but you can't buy one.
+That's literally the devil.
+Right.
+12:23
+Like, I'm sorry, that's like we're not even being that like hard, just no.
+I feel like Andrew, we probably played, we didn't play Diablo one, but we definitely played Diablo 2.
+Like, oh sure, yeah, yeah.
+But.
+When did wait?
+When did Diablo 2 come out?
+12:39
+2000 like a mere peasant.
+Cuz I definitely played Diablo 2 so but that's I mean.
+And I did play Diablo one my parents didn't really care.
+They just you just play whatever.
+As long as you turn out OK, it's good.
+And now look what happened.
+I mean.
+I mean, I was fighting the devil, so it was good.
+12:57
+I was the good guy, right?
+So it was OK.
+Indeed, this is Yeah, this is an awesome game in the Old Testament style.
+This is a proper righteous video game that all good Christians should play.
+13:13
+Yeah, I definitely had Diablo too, so my parents didn't restrict me from playing it for that long.
+Like, once you're a teenager, you're allowed to.
+You're allowed to fight the devil.
+That's that's.
+Fair game.
+Well, they were just, they were so worried that you would be corrupted by the, by the, the, the presence.
+13:32
+Once I had been confirmed Lutheran, they knew I was safe.
+My soul was safe.
+There you go.
+Back.
+Before then I didn't fight them with the the small.
+Catechism.
+Now, did anyone face this, this issue, this conundrum growing up as a as a younger gamer?
+13:48
+Did anyone know anyone who insisted this game was called Diablo?
+No, Why?
+Well, I definitely wasn't that person, for the record, but I heard that quite a few times.
+And you know, it was one of those things where it's like, hey, you know, the Internet was around, but we didn't have it in the palm of our hand.
+14:05
+We couldn't just say, you know, so we didn't have any Spanish speaking people around apparently to add to just say look, here's definitive proof it is a word.
+It's original to.
+Pronounce it.
+Yeah, I think that like for me growing up, I don't know, like, but computer games and I guess specifically RPGs, like I was a big console gamer growing up.
+14:29
+So like computer games weren't really a thing for me at least until like StarCraft and then there was no going back.
+But.
+And I think I talked about this music episode, but like my very Christian neighbor down the street was like in hushed tones, like I found this game on my dad's computer and I don't think I'm allowed to show you it.
+14:49
+But, and I I remember him showing me like the very first level, like running around in the in like the cathedral zone.
+And I'm just like, at the time, I don't know what like we were probably like 8 or 9 or something.
+I'm just like, this is easily the scariest thing I've ever seen in my entire life just from like the like level one or two of running around.
+15:07
+And I feel like it, most of that is attributed like this game's aesthetic and art style is, is great.
+And I think that like even even today, like going on 30 years, maybe part of the scariness was just the fact that like the graphics were like, so not they're not, they're not bad, but they're like, so like crunchy and dark and grimy and grungy and so like.
+15:34
+Sure.
+It's pretty grim dark.
+I think that they're, I think.
+That Diablo one has a better aesthetic than Diablo 3 or 4. 100.
+Like Diablo 2, obviously, best, best Diablo.
+Yeah, but like this one, like, there's a lot wrong with it, but it does like, it's the best you could have possibly done in terms of like, like, oh, you're actually descending into this weird crypt into hell.
+15:59
+Like I don't think that you can make better graphics than this in 1998 Seven.
+And I'll add to like the for Diablo 3 and four, I think the the main problem there is that because they had made Wow and all these other games, everything just kind of became homogenized towards this kind of more cartoony style.
+16:15
+And then so like, yeah, they really lost the the cool dark aesthetic of the, you know, Diablo 1 and 2.
+Well, you know, like but but.
+For Warcraft it's fine, but for Diablo is like come on this.
+Yeah, well, the the trade off with Diablo 3 is that we get really good writing, like for the butcher where he says vegetable bad, meat good.
+16:34
+I mean, you can't beat that line.
+Oh man.
+Or I will.
+Feast on your bones as I as I drink your blood or I don't know, there's so many terrible ones.
+It's it's just the the random grab bag of arrogant Nephilim bone blood.
+You can never get beaten me.
+16:53
+So much mustache twirling.
+Marry a mustache.
+I feel like in this game and.
+You wouldn't be able to see it, that's true.
+Like 5 pixels on his face.
+All 5 pixels, although there there is a very nice remastered intro cinematic that I don't remember if it's in, if it's in the the GOG version.
+17:12
+But like even the remastered cinematic to this game, like really sets the tone for like, yeah, this is some dark shit you're about to get into.
+There's gonna be pentagrams and child sacrifice around the corner.
+And in classic Blizzard cinematic fashion it is.
+17:35
+It's so well directed and it's only like a minute and a half long, but it's just like it sets well.
+Hey, I feel like this is maybe from some other separate video game cuz I'm not entirely sure what it has to do with a lot of what you see in this game.
+But it starts with you boot up the game and first thing you're greeted with this is intro cinematic with like this big mound and like a sword with like a big like fiery glow behind it.
+18:01
+And it looks very looks very cool.
+And then smash cut to like this dilapidated shantytown and there's like crows picking eyes out of corpses on the ground.
+And there's like this quick shot of some knight who comes in and like, boom, immediately you can tell it's the StarCraft cinematic because if like I was, I was like half paying attention for a second was like, wait a minute, is that a StarCraft Marine?
+18:25
+Oh, no, no, no, that's a that's a night.
+Just is animated kind of the same way.
+Smash cut to more corpses and corners and like people hanging from their necks and gallows as you do in computer video games.
+18:42
+Presumably our night character is now unmasked like skull skulking around the the shantytown and then there's like a cut to some coffin that opens into some with some purple magic inside the the sword starts glowing purple and then like quick jumps to like goats wielding maces coming out of the dark and you are greeted by the screaming visage of the Lord of Terror himself.
+19:08
+Diablo in like this really like.
+Yeah, what Scott is trying to say is that it's sick.
+It is metal as hell and I believe that rendering of Diablo at the very end is was later used for the PS1 cover of this game, which is I assume that that's the version we all played, right?
+19:30
+That's the correct way to play this game on an analog controller.
+Hey I have the.
+PSX.
+I played it on the 2025 PC because I've never played this game before 2 weeks ago.
+Fair enough, fair enough.
+Yeah, this is this intro sets a tone.
+19:48
+Oh boy, oh boy.
+And even and and they I think you know pretty wisely they like like a good horror movie with with a a guy in a costume as the main monster.
+20:05
+They use lighting to their advantage, like these models.
+These 3D models look pretty bad but.
+The the way they're using shadow and and light is is very nice and again sets the tone and helps kind of obscure some of the this the less polished elements.
+20:28
+I mean, yeah, but again, couching it for like 1997, I can, I can only imagine the people that were playing this for the first time that were just like their socks were like completely blown off their feet of like, whoa.
+This is kind of unlike anything they've probably ever played.
+20:43
+Like I don't, I don't really have a good sense of where computer RPGs for the well the personal computer were at the time, but it was basically what like Balder's Gate and Ultimo.
+I think we're playing pinball on our our Windows 95 machines.
+I think that was what we were all doing.
+21:00
+I, I have the strong every time I go back and play Mechwarrior 2, which in my brain was lifelike graphics.
+And I'm like, Oh my God, this is like polygons.
+Like you can count them on your hand polygons.
+And yeah, I, I think it's better.
+21:19
+It's, it's easier to compare this to StarCraft for me because I have a much stronger memory of StarCraft.
+And like I remember being absolutely blown away by the the cutscenes in StarCraft 1 and just being like, this is cinema.
+This is like, and and part of it is like, oh, because Blizzard does really good.
+21:39
+Like the the the little mini movies in them are well done, like filmography type stuff.
+But then also just like that's good.
+Good.
+Oh yeah, yeah, that's a good.
+Cutscene The Blizzard cinematics of that era were like scheduled viewing like would gather around.
+22:00
+Still go back and watch the StarCraft 1.
+Like take us into orbital Lexi or Mr. Malvinstein or whatever it is.
+Yep.
+Like totally.
+Yeah, 100%.
+Where is the air support and his like lips are like completely unhinged from his jaw and.
+Everything right in my brain that where is the air support was like Steven Spielberg leveled cinematography like like real, real man.
+22:24
+You know you can go watch him like.
+Still really well done though, yes.
+And yeah, so so this game pretty old going on 30 years old.
+We played not the the 30 year old version as close to it was back then.
+22:43
+But think I'm just going to say this.
+Thank God for the Devolution X mod team because good Lord, I don't know if we could have even gotten as far as we did without or enjoyed as much as we did without it.
+And this is this is an open source mod that is like a port of the Diablo system and the Hellfire expansion that really brings it into a much needed like Diablo, like borderline Diablo remastered quality of life improvements.
+23:14
+And they're, they're it's like a mile long list of stuff with like being able to like click on things in a way that makes sense for the 21st century or like auto pick up gold or being able to run in town.
+23:29
+Good God.
+And that's so I guess like the kind of couch our, our playing experience in 2025.
+That's that's what we were playing with.
+So you do have the option if you go to to GOG good old games and by Diablo there you can play the, the OG Diablo.
+23:49
+And I did tinker around with that for a minute and I was like, Yep, I'm glad this exists.
+It belongs in a museum.
+And once again, thank God for the devolution X team.
+And yes, but the I think the design here generally is is kind of unmessed with really it's just kind of like quality of life Polish to, you know, make it more palatable to the modern gamer.
+24:14
+But you are greeted, yeah, after that interest cinematic with just like the start screen of like single player multiplayer or like some options and that's kind of it.
+Well, I guess at the time it was Battle.net as well, but for multiplayer.
+Our own multiplayer experiences, maybe we'll get into in a minute, but.
+24:32
+What was the?
+Multiplayer back in the day, was there anything?
+It was just a single player game, right?
+No, no, we had.
+Battle.net.
+There was Battle.net for this.
+Yeah, you.
+Remember Battle.net for StarCraft, right?
+Yeah, I well aware.
+I mean, Battle.net still exists.
+Well, like there's the old the old StarCraft Battle.net and new Battle.net.
+24:54
+Which I mean, I remember, I remember Battle.net and I mean, I'll throw you back to Mechwarrior 2.
+I remember trying to coordinate getting on to the same thing, but like you couldn't communicate with your friend because you only had one phone line so you had to.
+Like if we can't get into the same game by 7:15, then unconnect your computer from the Internet and reconnect your phone back in so we can talk on the phone and then we'll try and troubleshoot and then unplug our phone and try and get back into Battle.net or whatever.
+25:27
+This is why the LAN gaming was so that's what we did and we just like all get together one place or like it was it was it middle school?
+We play in the computer lab.
+The computer lab, exactly the computer lab.
+We had like a bunch of computer labs in the computers in the middle school and you could burn multiple copies of Bird War onto many computers as long as you have one legit CD.
+25:48
+Y'all, I used to have a whole dedicated laboratory for the computers.
+It used to be a real country.
+It was amazing.
+Yeah.
+That was a great childhood.
+Experience and the teachers would watch us with like, I guess it's good that they're playing on computers.
+They're learning, right?
+26:04
+Computers are the future, so they're learning.
+They're learning stuff, so I guess that's good.
+So yeah, my, my memories of Diablo 1 multiplayer are very positive.
+And my recollection is that it was pretty convenient to connect up to battle Nets and, you know, look at available games and hop in and, you know, play Co-op or or or not.
+26:26
+You play with strangers.
+The strangers on the Internet, that's the one thing they tell you not to do.
+Don't.
+But I mean, it's such a blasphemous game.
+Like, yes, mother, I'm breaking the rules.
+I'm.
+Playing the Devil game with strangers on the Internet.
+26:43
+I don't worry, I'm eleven now.
+I'm safe to go on the Internet.
+Again, this this is a very pro Christian game.
+We're here to slay the heathens and Goatman and yeah, but.
+What about the what about the ladies with huge jugs on like 15?
+27:00
+Succubus.
+Yeah, yeah.
+Well, it's a mature game and.
+Keep those to the later levels so you can.
+You have to be at least 12.
+If we get to that level, make.
+Sure, you've come of age to before you encounter the hardcore nudity present in this game, which was you know, you know how you're describing mech warrior like, oh, your memory is like it was so much more accurate.
+27:21
+When I saw the succubus enemies I was like yo I thought this was going to be way more pixelated but like this is this is waiting.
+Something in you it's.
+Not, it's not explicit.
+I mean, they're, they're, they're covered.
+They are.
+Not wait, really.
+They're absolutely not.
+27:37
+I thought I was a part of the the corset or something, but now let's see here.
+Let's zoom in on some sucky by nipples.
+Let's see what we got here.
+Yeah, this is what people are are are tuning into the podcast.
+They're skipping ahead in the time.
+Stamp It is hard the.
+So the artwork for this game is, you know, it's an isometric game.
+27:55
+Everything's broken down into, you know, Sprite work, most of the stuff.
+That single, that single black pixel is her nipple, but it could be something else.
+It is only one pixel.
+They're pasties as.
+I had.
+Assumed.
+Yeah, I forgot about that inventory slot, the pasty slot zooming.
+28:16
+You've got, you've got 3D models that they're then, you know, converting into a series of, of sprites, you know, for the actual game.
+I wish we had access to those original 3D models, especially for this enemy, because I, I bet they are a sight to behold because I, I imagine they're probably pretty rudimentary, similar to what we see in the the interest cinematic.
+28:38
+And unlike that one game that we cover, what the hell?
+What the what was the name of that PlayStation game we covered with the tower and the Pokémon stuff?
+Azure Dreams?
+Azure Dreams.
+Unlike Azure Dreams, the translation from the 3D models into the Sprite work is quite nice in this game.
+28:56
+So what's the verdict?
+What's the nipple verdict?
+Yeah, no, it definitely nipples now that I I've zoomed in and also just like the the artwork of like what this thing is like is clearly a topless woman.
+So yeah, it seems like that was a direction they wanted to go.
+So, yeah, there's blood and butts and boobs and breastplates and just all sorts of blasphemy happening in this game, which is, you know, was was, yeah, pretty, pretty unheard of.
+29:24
+Pretty.
+Not quite many things are.
+Learning a lot here, particularly about spreadsheet optimizations.
+Let's just say.
+Loot drop tables.
+I'm trying to find pictures of Diablo succubus online and I clicked on an image and it did say that I had to verify my age to view this content.
+So I'm going to say that's all you need to know.
+29:42
+Wonder if the Lord of of Terror himself is is also naked.
+Anyway, you jump into a single player or multiplayer instance and boom, you are you're in the game.
+None of this futzing around with the setting all of your attributes and what what God do you pray to?
+30:01
+And are you a half orc or a a Demi elf or any of any of that nonsense?
+I guess?
+Well, a, you have to pick your starting class and you have the options of warrior, rogue or sorcerer.
+30:17
+That's it.
+Back in the day, we didn't have all these fancy options of, of what kind of like weird elf twink you wanted to be or what kind of, you know, MacGyver, Tinkerer and, and all these other things.
+But it was, it was a simpler time.
+30:34
+And you know, we just, we just didn't have the RAM.
+We didn't have the RAM and storage space for all these other character classes.
+You you had melee or ranged or the other ranged class.
+And I think there's probably a reason why there's only one melee class.
+30:50
+But you click, you give them some sort of wacky name and bam, you're in that Tristram music just right in your face.
+Iconic, very classic.
+Probably one of the best town themes in any game, regardless of ones that we've covered on this podcast, which is good 'cause you're gonna come, you're gonna be coming back here a fuck load and listening to that opening guitar strum.
+31:15
+You're gonna be walking extremely slowly.
+Your little warrior is gonna be tapa tapa tapping Fred Flintstone as little tippy toes as slowly as possible from the town portal back to the town.
+Yeah, now, unless you're playing De Evolution X, which which has unfortunately Sprint in town.
+31:38
+Yeah, but it's it's it's a good theme.
+It's a great, great atmosphere.
+You you thought that opening cinematic was good.
+This town is great.
+I what the what's up?
+I mean, it was it's fine.
+It's it's and it's fine at best.
+But this is clearly this is clearly an MVP.
+31:55
+And I'll say over here is saying it's.
+Absolutely the minimum of what you could want.
+We'll name three towns from any game.
+Iconic towns.
+Pilot Town.
+Yeah.
+Viridian, Saffron, Midgard.
+32:13
+I mean, I guess it's maybe a little rudimentary by by today's standards, but it's stylized and yet you've got cool visuals and you've got a a host of of characters, fully voiced, decent voiced.
+Actors, of course, the characters is different, yeah.
+32:30
+Well, this is also critically something that we see as like a major staple from early roguelike games, which stay tuned next year is maybe a what your whistle moment.
+But things like like the OG rogue did not have a like a central hub town, but all of like it's major, like the major roguelikes kind of did.
+32:54
+So that like one of the first forks of it in 83 was Moria, just like what if rogue, but Lord of the Rings.
+And that starts you off in this very Diablo looking like town hub where like here's a here's like a Hut and this person sells magic items or this person sells armor.
+33:12
+See the same kind of thing in ING band.
+And I believe, I think hack also, I don't know if net hack does it, but more on that later for sure.
+But yeah, like, I mean, Andrew, you mentioned Azure Dreams earlier.
+That's like another kind of staple.
+You have your kind of hub world town that you're coming back to for merchants and things like that.
+33:32
+And we are, we are blessed with the first appearance of one Kane the Elder or Deckard Kane, who has quite a treasure in that harder cube.
+You have Farnham the drunk, you got Adria the witch, the innkeeper, whose name I forgot, the other guy.
+33:51
+There's Pepin the healer, blacksmith man.
+Griswold, right?
+Griswold, of course.
+Yes, Griswold.
+Which, if you like Griswold, hey look, don't get attached because in the second game you got to put Zombie Griswold out of his misery.
+34:08
+And not just once, because you're going to be doing Tristan runs for probably a while anyway.
+Hold on before we get back, I I have found the original Diablo manual and it does indeed tell you what right click, left click and double click mean yo which is it teaches you.
+34:26
+It's like double click is clicking twice quickly.
+Thank God.
+There you go.
+I thought you were going to say like there's some kind of flavor or story, like the left hand is the, you know, path of chaos or whatever, right?
+34:42
+It's like it's defining what what the idea of a class is like oh man you forget that these are things that we had to learn.
+Like oh double click means you have to type click twice but pretty quickly in a row.
+Something that my older Co workers don't always know anyway.
+35:01
+Sorry.
+Continue with your story about the hub town and and putting Duchess.
+From.
+Yeah.
+Chris Wald And there's a very important NBC laying in a puddle of blood outside of the the.
+Cathedral sometimes, yes, not all the time.
+35:19
+So one big thing about this game is random quests Where in I guess like other RPGs of the time, it was like, this is like a game you'll fire up and you're gonna go, well, maybe Balter's gets a bad example, but some you're going through a linear series of quests and you're gonna go and do this thing, then you're gonna go and do that thing and it's it's the same game every time.
+35:44
+And that's fine, you know, and there's plenty of things to experience and play with.
+But what if some of those quests didn't exist on this particular playthrough?
+And we take it for granted now, But this was I guess like what?
+Like you could have quests that didn't happen.
+And so as you meander up to the town cathedral at the top, which just like such, such great Moody vibes from it, but like right outside, there's just this dude in a big pile of blood.
+36:12
+He's like.
+Please, you must avenge my family.
+And like even the voice acting, I would say like for 30 year old voice acting still pretty good.
+But he'll give you you talk to him.
+And if you're like me, he'll just kind of Fast forward through most of the dialogue.
+36:29
+But he'll tell you that there's some demonic force inside the cathedral called the butcher has has killed so many people and you got to go and put a stop to him.
+And this will add a little item to your quest log in the in the bottom left.
+36:44
+But sometimes you won't have that.
+Like you'll boot up a game and there won't be that dude there.
+There will be some other quest for you to do.
+Like if the The Who is it?
+The is it an end in in that Ogden has when some goblins ran off with his sign or something?
+37:01
+Yeah, they stole the sign.
+Of course they stole the sign.
+So yeah, pretty important stuff, obviously.
+No, I think there's some, there's some mention of it having like a magical ward on it.
+It's very important to have the sign, or else the the end may be a danger, or you got to go fight the Skeleton King, or you got to go and purge the well that's been poisoned by demonic magic.
+37:24
+Or, oh, you might have to go and find a magic rock.
+Very important rock.
+Yeah, that's a really important one.
+Well, that's like a comet, right?
+Which is interesting.
+Yeah.
+It's like this whole thing about like, oh, this, this rock fell from the sky, from the heavens, like, which later is like, picked up as like a major story point in later Diablo games, which I thought was kind of interesting.
+37:43
+Yeah.
+And, you know, golly, it feels it must have been kind of tough some days for the devs to be like putting all the blood, sweat and tears, you know, all this work into these quests just to know that, well, some players aren't even going to see this.
+But of course, I guess they didn't have to worry about that because when the game came out, it was so popular, people were, you know, playing through multiple times and and having interesting, meaningful randomization that I often talk about and, you know, really making each run feel unique.
+38:14
+But, but bottom line, Scott, as, as you were saying, you know, whoever you talk to, whether it's a guy in a pile of blood or, or Griswold or the various different MPCS, you know, they explain to you in short order, you know, per the goals of the development team, like quickly, they, they set up the stakes like, hey, there is a great evil that has awakened under this town in the cathedral.
+38:36
+You hero, you have returned to Tristram.
+You need to go deliver us from this evil.
+And in in classic Diablo fashion, you you enter the the main dungeon and all of your multiplayer friends run off ahead of you and start sprinting around knocking monsters down.
+38:52
+You're like, hey, wait a minute, where did everyone go?
+Where's?
+Where are you on?
+Wait a minute.
+Oh, which town port are we going through?
+That's right, that's right.
+Now of course, you descend down through stairs.
+Classic rogue like traditional rogue like tradition of going downstairs.
+39:12
+No other games upstairs?
+Hardly.
+No, none of them.
+Diablo.
+Diablo famously only game with stairs.
+Different kinds of stairs too.
+Sometimes they're brown upstairs, Sometimes.
+The blood stairs.
+Yeah, you fly them.
+Different stairs, Yeah, you got to recast all your stuff after you go down the stairs, otherwise it doesn't apply to you anymore.
+39:31
+Yes, that is an important thing to know if you're a very, very squishy sorceress.
+But your first four, four floors are the.
+Four floors of horrors, yes, you have to deal with because as soon as it loads up this Tristram music, awesome.
+39:50
+The catacomb music or pardon me, the first like couple levels of music is kind of bordering on like Halloween mixtape like spooky dungeon.
+It's good, but just not quite as good.
+And you're, you're running around this huge labyrinth that is randomly generated, but once you've explored it, it's, it's set, which is the, the very hack like style, not ink band like style, which again, maybe we'll come to next year.
+40:22
+So the, the, you know, you explore a floor and it's set and you can come back up to the previous floors.
+Or you can use one of your very generous town portal spells to jump back all the way up to the very top.
+But you might be encountering the skeleton king or the you know, the the the famous maybe one of the most famous quests in this game on level 2 out of 14 total is the butcher.
+40:46
+Where again, like this game's atmosphere is great, where like you're walking around, there's like these these dank depraved like cathedral halls with skeletons, hundreds of skeletons running around that you are just basically bump attacking into from more or less.
+41:02
+Wait, hold on, I think you mean hacking and slashing.
+Oh yes, of.
+Per the Berlin interpretation.
+How could I get that it's a wrong?
+Of Roglax.
+And you might be on level 2, you know, walking around, you see this one, one room that looks like like it's this isometric.
+41:18
+You can kind of see over the roof into other rooms.
+And if you look over the roof into this one room, you see just like.
+Shadows.
+Flayed corpses and blood and and bone.
+Oh yes, in this room you go and open the door and some impish pig man in a butcher smock comes out and says what?
+41:40
+Well, what does he say?
+What's What's everyone's?
+Best, I believe, he says.
+Fresh meat.
+Anybody else want to give that a go some?
+More vegetable bad meat goods.
+Oh no.
+Wrong.
+That was that was Diablo 3 race.
+I don't actually remember what he said in Diablo 1, though.
+Terrifying.
+41:56
+I think it Yeah, it was probably what?
+They and he's not impish.
+He's he's like an ogre.
+He's he's a big.
+I don't.
+Think he's in Diablo 2.
+Which is ridiculous.
+He's in Diablo 2, He's in the yeah.
+We're gonna do some butcher runs.
+No, I felt like we said Mephisto runs.
+That sounds like something.
+Butcher was in the first act in Diablo Two.
+42:13
+He was in the cathedral part of Diablo 2.
+I am seeing Lizard Forum Diablo 2's cut content the Butcher.
+No, he's definitely in Diablo 2.
+Robert was probably playing with like all the cut content enabled with like maximum like oh wait now succubus jugs and like.
+42:32
+It's in the end, it's where you go down to the first fight on Dario on the top floor.
+There's like you're in a church basically.
+And then?
+He's.
+That I think he's like one level down.
+But he's in.
+This is why Robert's on the podcast today, so he could tell you where the Butcher is.
+I played too much Diablo 2 back in end of the day.
+42:47
+That's how I learned not to trust Internet strangers, because they stole my stuff.
+Yeah, yeah.
+Help.
+Me dupe it and they stole it from me, so never.
+Tried.
+I mean that is a a rite of passage like that's.
+That's it's like.
+Runescape when they when they lure you out into the wilderness, that one.
+43:05
+But yeah.
+And but, but all this to say, like many, many gamers have memories of this being a rather terrifying experience of exploring, which is again, exploration part of the Berliner Preterpretation.
+43:24
+And you open the door like, looks like, you know, at most any other door you've been going through at this point.
+And out charges this, this boss monster.
+He emerges from his abattoir full of horribly mangled corpses.
+43:41
+And you, you see the fate that that, that awaits you if you don't best him in combat.
+And luckily, you know, he's a tough enough guy that you can critically in the single player, you know, reload your your saves.
+So if you get murdered by him the first time, you know, OK, well, maybe I'll come back to this fight, you know, a little bit later.
+44:00
+Because he is gated off by that door, thankfully.
+But yeah, he he comes, this half pig, half man just comes like flying out the door with a butcher, like a butcher cleaver, like the size of your torso.
+Fresh meat.
+And it just goes like and like at the time if like level 2, that's going to do like 25% of your health with each thwack if you landed.
+44:22
+But yeah, like you can come back to him later.
+And then you there was one time, what was it in one of our, I think it was it was my multiplayer warrior character lost all my items.
+I'm like, OK, well, I'm just going to go and grind some more, some more stuff opened up a world came to level 2 and I, I don't know, it was maybe like level 16 or 17 came to the butcher and just like pummeled him with, with bare fists.
+44:49
+He's like fresh meat and I'm just like.
+You're the fresh meat just grabbed like I.
+I think Will and I were playing together and we ran into them.
+We weren't very high level and we ended up just running off in a different corners of the level as he was hunting us down and he just slaughtered us and then we played him.
+45:09
+I don't know.
+We'd level up a bit afterwards and then we came back and just like killing, it was very easy.
+I think we abused, did we?
+Abuse the door dynamic where we just like sat in front of the door so he like where his number counted for nothing and we just sat there and.
+I I think the first time we fought him I tried to escape.
+My character couldn't figure out how to like escape through the door and just walked around and got stuck and died.
+45:29
+Yeah, the pathfinding, you know, if, if we're going to air some grievances here, pathfinding is absolute dog shit in this game.
+But I understand there, you know, I don't know what kind of a pathing algorithm they were using, and they were limited very much by compute at the time.
+But yeah, if anyone just stood in a doorway, then suddenly you couldn't figure out how to get through that doorway.
+45:46
+And if you try to click on the other side, you'd be completely confused.
+You just couldn't do it.
+I think another fun fact about this game's development, the, I think the, the lead programmer, David Brevik at the time, this was his first ever C programming project at all period.
+46:02
+I think everything else that he had, he had built an assembly, but he was like, this is the first thing I'm building in C and he's just like, I maybe this will work.
+And like watching some of the videos of like how they did the development of it, it was very clear that like this was highly experimental technology at the time.
+46:19
+This was like.
+He was vibe coding it but he didn't have AI to help him.
+Yes, he had books on C, which as was the style at the time, were the the large language models that you know, you imagine having to like be a high level enough to right click on a book to learn it, to learn how to program and see.
+46:36
+But yeah, Butcher, iconic classic rite of passage for any 10 year old to open up a door and this blood covered monster comes out with a cleaver and cuts you down in two swipes.
+And, you know, it's so simple, it's so effective.
+46:54
+And then you compare that to the Diablo 3 Butcher fight, which is just this Looney Tunes ass, like just really over the top gaudy situation that is just uncalled for.
+47:10
+But anyway, we're here to talk about Diablo One.
+Indeed.
+Yeah.
+And of course, there's all those other iconic fights that we all remember from the rest of the game.
+Yeah, like the what?
+About the gold men, they're pretty good.
+47:28
+No, yeah, I I, I kind of joke.
+I kind of joke.
+There's there's lots of.
+Character, honestly, I feel like the fights that I remember are like big fight from from playing almost exclusive multiplayer with you guys.
+They weren't fights that we won as fights that we lost and then the epic struggle to recover our gear.
+47:50
+Oh yes, like our our battle with who's the skeleton king on like the first couple?
+Floors.
+He's on the 3rd floor, yeah.
+Yeah, third floor.
+And we, we.
+Couldn't even with all.
+Like 3 or 4 of us around him, we couldn't out DPS his, his health regeneration and we didn't know at the time that he was like weak to like blunt things.
+48:07
+And so we're all just sitting there whacking on him.
+And that's The thing is like you can just sit there doing that As for as long as your health potions will allow you, which is like another, I mean, that's another huge dynamic in this game is how fast you chug these potions.
+That's why I was the health potion of guzzling.
+But yeah, it it was not, it wasn't very exciting for me because you're just kind of sitting there.
+48:26
+Clicking on him and you're all crowded around him.
+And he's just not dying.
+I guess also for gentle listeners benefit, we had the Galaxy brain strategy to run 3 warriors simultaneously with Colin being our only ranged attacker whenever he would swap out with Andrew who is our own other only ranged attacker there's.
+48:47
+A reason here, there's a very, I think a very strong reason and that's because, and we start the game out as a mage, like you can go as a warrior, you can go to Pepin and get free life essentially.
+But as a mage, until we like enable that setting to get to free mana, you just are constantly like out of mana potions and it's like, well, you can spend all of your money on getting more mana potions.
+49:07
+And so it just felt like such a negative experience early on to be a sorcerer.
+I feel like that's, that's like some of the old, old DND philosophy of like magic is limited and spellcasters are absurdly weak when they're low level.
+49:25
+You hear about people talking about D&D like first edition, and they'd be like, yeah, the, the wizard will just die and you just have like a backup wizard.
+So it'd be like, you know, you got a couple Wizards in and then eventually you got one that that levels up to high enough that they could survive.
+Yeah, and crucially in this game it I feel like again, we're we're speaking with like 30 years of look back on it.
+49:47
+And I don't think at the time they really had a a plan for like build lock in or builds specifically.
+But in this case, it does seem as though the game wants you to play flexibly instead of being like build locked into a certain kind of archetype.
+50:05
+So when I was picking my like, Will had picked a warrior, Robert had picked a warrior.
+So of course, my warrior, which I creatively titled Morrior, I was like, Oh well, I'm just going to build him as just a pure tank.
+No, like as low intelligence, thick brow, the lowest brow I could possibly invest in, none of this magic bullshit, just pure strength, pure vitality.
+50:31
+It works in in Dark Souls games.
+It should work here.
+And boy was I wrong because wow, like you could probably get away with that through the first couple biomes in this game, but this game's difficulty curve like punches you in the mouth pretty badly later of like, no, you're not ready to take on the Lord of Terror.
+50:51
+What do you think you're doing?
+You don't have any spells.
+What do you like?
+And so I think like this game kind of incentivizes you to play very broad spectrum.
+So there's definitely like an incentive as a hack and slash melee warrior to invest in magic to get magic spells and make those powerful.
+51:11
+Because if you're just like, I'm just going to find a big sword and smack stuff like, no, that's, that's not going to cut it as as all the way to the end game.
+Yeah, that's what we found.
+Will and I, we defeated, we defeated Diablo.
+However, I used we very loosely cuz it was, it was pretty much Will cuz he had all the spells.
+51:32
+I so as we all know, I have a small baby and to find time to play video games, you really have to find a game that you can play with a single hand while you hold the baby.
+And the warrior was perfect cuz you could just like left click on the bad guys as you're holding this baby with the other hand.
+51:48
+And so all I could do was just left click on a lot of the demons most of the time.
+Meanwhile, Will's got all these spells.
+He's like flame walling people and stone cursing them so they can't escape.
+Cuz a lot of these enemies, like they run as fast as your, your character does.
+So if you need to hunt down a ton of Archers, like you're just like, OK, I'll follow you across the level and then I'll hit you one time and you'll move in somewhere else and then you're getting shot by like, you know, 5000 other characters.
+52:12
+So it's it's really hard to do even with a warrior without getting spells.
+I remember when the the first time we made it to the catacombs, which is the first Biome after the cathedral on floor 5 of this dungeon.
+It was like like Saving Private Ryan beach scene of arrows flying at us down the hallways from these goat Archers of just like thousands of arrows and like we're already like we we have no spells.
+52:39
+We're just like big dumb like ape warriors running down the hallway tanking all these arrows and Port Collin is like sitting in the back like trying to cast spells and like.
+There'll be like 1 stray arrow comes as like well I died also I was.
+52:55
+When that was this?
+Was like the first time we were all playing together and you guys were like 5 levels ahead of me, so I really was.
+I was at level like 4, like 14 hit points or something.
+Also, in classic Diablo fashion of Oh yeah, well, I'll just run ahead for five hours and grind some loot for you and then drop some loot and hopefully you'll meet the bluff of a requirement for it.
+53:15
+There was a lot of that for sure.
+Yeah, I was like, so decked out was like, well, I've got infinite magic, so yeah, drop all of your magic books for me.
+I won't be able to cast them more than like 3 times but.
+It's, it's and what I, what I, and I don't know if this is A to its benefit or not, but like we can talk about Griswold and like the, the dynamic of rolling for, for new loot.
+53:40
+Essentially, it's like, I mean, we're talking about how we're giving loot to folks.
+And so the way that you would accumulate that is either through the dungeon getting random stuff, or there's this just this ability in this game, every time you go and see the blacksmith or the witch, their items are completely refreshed.
+53:55
+And so you could just do this thing where you exit the game, start a new game, go in, talk to this guy, see his loot, exit the game, start a new game, go.
+And so just do that on repeat.
+And so as you're doing that, you're like, Oh yeah, maybe, maybe someone will need this kind of piece of loot here or this kind of piece of loot.
+And so it's really easy to, I wouldn't say easy.
+54:13
+It's really mindless if you're like watching Seinfeld or you got some Trek on and you're just like restarting games and just like basically grinding for the the best loots.
+I don't know if that's fun.
+But it was something to do, you know?
+Yeah, you got your VHS player going with your, your Seinfeld tapes or your, your TNG tapes and you know, on your, on your other CRTTV or CRT monitor, you got the Diablo going.
+54:40
+You're just like click, click, click, click, click, click it.
+This, this game is a very cautionary tale about dopamine addiction and gambling addiction.
+I feel like to some degree.
+There's only actually one gambling element, and that's with the worked because that's the only one.
+54:56
+You use money to pay for a chance.
+All the other chances you get are not using money to do it.
+I don't think that it's very easy to gamble without there being money involved.
+Well, I'm just saying technically speaking because technicalities are very important when we talk about gambling in like this industry in general, I mean.
+55:12
+Loot boxes.
+Loot boxes are gambling and this is just loot boxes in more wait.
+Where's the loot box though if it's not worked?
+Just random drops.
+They're not loot boxes exactly, But it's like, all right, I'm going to go fight this guy and he's going to drop something.
+55:28
+Who knows what it could be.
+Could be good.
+Probably won't be.
+Sure, sure.
+This game only has a few purely pure gambling based mechanics but but the the clicking and that connection with the dopamine hits it's very strong and lives.
+55:50
+It lives large throughout the gameplay and every second of combat is pretty it it hits pretty good.
+Then you hear that just.
+Click, click, click and ring, drop anything and you're.
+Like Oh my God, what could it be?
+It could be anything.
+It's the IT probably.
+56:06
+Isn't, but it could be.
+Diablo one has quite the the flow state that is as meditative as it is addictive.
+It's less than mindless.
+That was the joy of the Diablo one, because I didn't have to think at all.
+56:22
+Occasionally my character would level up, I'd like add five stats, and then I'd find the next enemy and hold down the click button on them.
+Left click, mind you, and I didn't double click.
+It was just a single click.
+Well, we didn't know how to double click.
+The manual told me.
+I read the manual.
+Well, levels 5 through 8 are the catacombs and like like we kind of talked about goat Archers, big, big, like rhino men that like bulldoze you out of the shadows.
+56:48
+Very dark.
+Much more, I guess like convoluted, like dungeon layouts, like I guess a lot more those.
+Guys were in the horn, guys were in the little below that right?
+I thought they showed up also in like the final level of.
+57:07
+They they could be in bro I thought.
+They were in like the lava zone.
+Oh, no, I'm thinking, OK, yeah, I'm thinking of the caves.
+That's what I'm thinking of.
+But in the the catacombs had the guys who would like disappear and then like reappear and they were very annoying because you'd hit them once, they'd run away and then another one would come at you.
+57:23
+They are very annoying until you kill them and every time oh that head pops off that's true.
+And you get that big old geyser of blood flying and y'all to to just clarify, you know this is this is an isometric game.
+57:43
+Each character can be facing a total of 8 directions.
+This death animation is in all 8 directions.
+You can see it from each beautiful angle.
+And he makes like a little noise as like his body collapses as the head flies off.
+58:00
+And like, there's so much of that great detail that oh, that reinforcement of, of the clicking and the clacking.
+And it feels great to just be hacking and slashing and going through these hordes and monsters like like no other game had had really, you know, done at the time.
+58:19
+Yeah, and despite there not being like really that many different monsters in the game, like you could have fooled me into thinking that there were cuz like there's just a ton of them.
+They hit really hard.
+They all like look very different from each other and like, yeah, like they all have kind of like different, like I was about to say AI, but maybe it's not quite that advanced, but like.
+58:44
+Behavior.
+Yeah.
+Like, you know, when you see a big, a big pack of skeletons, you you kind of have an idea of how to engage them versus a big pack of goat men.
+Or like you turn around the corner and there's these giant winged bow rogs and you're like, OK, like I got to think about how to approach these very differently.
+59:02
+And they all look really great.
+Like they all have that kind of like mid 90s like GIF looking like low res likeness to them that just like feels very scary even just to kind of look at from a 30 year on perspective.
+59:20
+Like all the the monster design's very good, especially like when they're just like very concealed in the shadows and you'll just kind of like get a little glimpse and be like what the fuck was that?
+And then it just kind of comes skittering out of the corner at you.
+Yeah, Catacombs, very, very dark, very tight corners, very good for probably the ranged classes because, yeah, when our warriors are trying to run up to the Goatman, they run away at the exact same speed that you run at them.
+59:48
+And you have to wait for them to stop before you can get one hit in.
+And then you're in this endless chase mode.
+But oh, and this critically, this is where you get your first shortcut.
+So in multiplayer, this is, I think, kind of a genius idea of like, hey, like you start up a new multiplayer game, boom, all the shortcuts are open.
+1:00:06
+Asterisk available to you contingent on some level requirements.
+So that way you can just be like, Oh well, I'm already this level.
+I'm not going to need to grind through the 1st 7 floors of the game.
+I'm just going to go boom right immediately into the catacombs or the caverns or hell.
+But this was this was something nice.
+1:00:24
+You know you have to meet a minimum threshold, but in single player like I think you have to get down to a certain level within each of these biomes, like the catacombs and caverns in hell in order to unlock a shortcut to the surface, Is that right?
+That sounds correct.
+1:00:44
+Well, I played a lot of the single player on the Steam Deck.
+Speaking of controller.
+Inputs OH.
+Steam Deck corner Robert We always have to go pay a visit to Steam Deck corner.
+Previously it was Scott's Steam Deck.
+1:01:00
+Deck literal, you know, but we don't know what.
+Happened with that crash up on it and now he doesn't have.
+Say indeed randomly that's the, but trees fell procedurally generated.
+Into his deck.
+But no, I'm actually delighted to hear about how this game plays on on Steam.
+1:01:19
+What's what's the OR on the Steam Deck, rather.
+That's wild.
+Yeah, like, I think like it actually plays surprisingly well.
+The controls are a little janky to work with at first, but was it?
+I'm just looking through the other things that the Devolution X team supports.
+1:01:35
+So like Xbox, PlayStation, Switch, like Nintendo 3DS, like yeah, like it would totally work on that because like you basically just have like a one button like auto attack where it's like if melee like attack nearby or arranged like auto attack whoever, like the nearest enemy is.
+1:01:53
+And it works really well.
+Like I was playing the rogue class and just like, yeah, like lazily sitting on the couch, just like holding down the B button and like letting all the arrows fly and just like scratching my ass and just being like, yeah, OK, this is this is a perfectly fun experience.
+And yeah, I think like the the again, like the devolution X like software allowing that to be a thing is like that that felt actually like pretty good from a single player experience.
+1:02:19
+But yeah, like we mostly played multiplayer.
+I think that's kind of like as equal a draw here, I think as the single player.
+But for us at least us like compulsive Diablo addicts, like we've we've played through basically all of them.
+1:02:35
+Like I didn't play Diablo 4 at all, but I think everyone else here has played Diablo 4 right?
+No, I, I went.
+I went to the way of.
+I walked the path of the Exile.
+Actually, I will say that my Diablo 4 experience almost exactly mirrored my Diablo One experience, which is Will and Robert started playing a little before I did.
+1:02:57
+I tried to join them, I never quite caught up and then they beat the game during a week where I was busy with work and then I didn't finish and.
+What's the lesson learned here, Colin?
+Don't be busy with work.
+Don't play Diablo.
+Click, click, click, click.
+Click I.
+Just need one more rift man.
+One more rift.
+Diablo 4 has horses in it, is that right?
+1:03:16
+It also says yes a lot which is pretty good.
+I'm just missing that Diablo 1.
+That is a shame.
+That is a shame.
+I really can't.
+Remember, didn't.
+You.
+I like mounts or something.
+It was very free edible.
+Yeah, right.
+I mean, Diablo Two kind of struck at the time when you're like your child imagination was just in full swing and you have that nostalgia from playing because Diablo 2 was great.
+1:03:40
+So every Diablo that came afterwards is like, you can't really compare it because Diablo 2 was just in your mind.
+It was.
+It was so great.
+And all our good childhood memories were associated with Diablo 2.
+It's like.
+Morrowind.
+Yeah, Marlin, but.
+Obviously the best of them.
+Diablo also introduced mechanics, though that's Diablo one didn't or Doggio 2 had the the I think the the most key thing was instead of like a linear progression path of just like here's five points, put them into these 4 attributes.
+1:04:06
+It was like a, oh, do you want to go bone spear?
+Or do you want to go, you know, there's actually a forking path where you can choose different upgrades.
+And that was like, Oh my goodness, I can play through it one time like this and then another time like this and you get a completely different style.
+And so that really I.
+Was I was part of it, I was definitely feeling that that's that that system was missing that that that emptiness of like, well, I'm playing a rogue.
+1:04:31
+It'd be cool if I could also have some spell like effects because critically in Diablo 2, even if you're not playing, you know, a one of the if you're not playing, even though you're not playing the necromancer or the druid or the sorceress, like even the Marshall classes have like fancy abilities where you're, you know, throwing hammers and and they're cool down, right, like shooting multiple multi shot and stuff and what, what have you.
+1:04:58
+So that's.
+Oh yeah, this game doesn't have any cool downs.
+It just got the magic.
+We also did play it on fast mode instead of normal speed because we just didn't have the patience.
+It was too slow on normal so we we bumped it up to fast.
+Although crucially, there are two faster speeds available from the Devolution X software that are almost like comically and.
+1:05:18
+Highly fast.
+Fast.
+Yeah, exactly.
+I think I tried playing it like cuz in StarCraft I'm just like Yep like fastest is clearly the way, the only way that you can play it.
+So I'm like, that should apply here, right?
+I didn't realize that like this, this was not a setting from the original game.
+1:05:35
+I'm I am also just discovering this for the first time.
+Yikes.
+Booted up in fastest and I'm like, Jesus Christ, there's no like what?
+Like you go down one floor and the skeletons are just like instantaneously surrounded you and your dad.
+Well, I mean like, I mean, to be fair, if you are at like a like, I mean like you can be at any level in the game and find like the equivalent, like, oh, this is a hard level, like a hard floor and then just go like down a floor or two and then suddenly nothing can kill you really.
+1:06:03
+And so going on fastest then very viable.
+Yeah, and I imagine if you have like, it's got to be a speed runner's dream of just like I've got all the key minds all set.
+I already know how to like teleport, teleport, teleport.
+Like flame wall, flame wall, teleport, teleport.
+1:06:18
+And then I'm done with the floor.
+That would be an interesting thing for like speed running games where it's like you're allowed to sit as a however fast you want, so you have to like try and figure out exactly how fast you want the game speed to be going.
+Like faster than the human brain can comprehend.
+1:06:36
+Yeah, it's like, sure, you could play it at 500X speed, but good luck.
+Well after well so bumming around the catacombs, you might get some more side quests like the the magic rock that we talked about.
+You might.
+1:06:53
+Going to the bone chamber.
+Yeah, the chamber bone.
+I got a, a major jump scare when there was some some like altar that had like a, a tome on it like, oh, what's this click?
+And then almost seemingly out of nowhere, the voice actor from Alderus from the StarCraft series comes on and just in his Protoss voice where I'm just like, what?
+1:07:17
+What the hell game am I playing?
+Like a Protoss advisor is talking about the Chamber of Bone.
+Famously, the the voice actor for the warrior class is one of the major voice actors from the the the Protoss faction.
+1:07:32
+And start we must.
+Construct additional bones.
+Exactly.
+Yeah, he's also the voice, Andrew, of Colonel Campbell from the Metal Gear Solid series as.
+Well, oh, yeah.
+Oh, yeah, yeah, yeah, of course, of course.
+Yeah.
+There's these lower drops around the game, which is kind of an interesting kind of an early example and like a good execution of that, that style where there are these these pedestals with these tomes on them.
+1:07:57
+You go up and you get this awesome reading of like what?
+Some really metal sounding, you know, Andrew.
+It's my history.
+This is This is.
+AI mean show don't tell is the best way to do this.
+Is well, the game is already showing you so much.
+They're like, how else can we possibly?
+1:08:14
+Well, yeah, you skip it if it's not like if it's if it's lore that you have to like read in a long document or listen to.
+No, no, no, cut that crap out.
+But.
+But what if?
+What if it was someone with a very soothing voice saying Beyond the Hall of Heroes lies?
+1:08:30
+I'm already.
+Bored.
+Well, I know, Skip.
+Skip, skip, skip, skip, skip, skip, skip.
+I think this way.
+Didn't like it, Baldrige.
+Three didn't do it for you.
+Too outrageous.
+And that's why.
+Hard reset has no like basically no narrative whatsoever.
+Do your does the.
+As you listen to have any play the Spire.
+1:08:46
+No, no it does not.
+Fire has as much narrative as you might need.
+It's got a whale in the beginning and it says climb the fucking stairs.
+Yeah, well, that's that's why Will doesn't like this game.
+It's because it's the exact, this is the antithesis of Sleigh the Spire.
+You're going down as opposed to going.
+1:09:01
+Downfall is also, you know, that's the.
+Oh, shoot, yeah, I guess you're right.
+Never mind all this.
+All this is optional.
+None of this is like, oh, you must read like this 20 page like Metal Gear Solid narrative in order to progress down to the next level.
+It's very it's.
+Like 30 seconds long and it's a fun listen and the music's going and you got the, oh, the spooky lighting and everything.
+1:09:22
+I think it it helps.
+If you want to read more and just go read the 79 page manual that came with the the.
+Game that just talks about double clicking now I talked about the.
+Darkening of Tristan, The absence of prying advisors and inquisitive priests left Diablo free to assume total control over the King's battered soul.
+1:09:41
+Like this thing like.
+Versus evil though, That's so boring.
+This thing has like sorry I can't get over this.
+This manual it's got like 50 pages of lore in it.
+We.
+Used to have manuals.
+We used to be a real country.
+We just have game manuals.
+1:09:58
+Scott.
+There's, there's also a, a optional potential, yeah, event that you aren't guaranteed to run into.
+There's like this, there's a room that has a like this mage in it, this NPC who is neutral to you.
+1:10:17
+And if you like walk in the room and he starts talking to you and he's like, leave me alone.
+I'm doing my arcane research here.
+Take this, this, this, you know, random spellbook or, or scroll and get out of here.
+And now of course, you're, you've been playing the game for like hours at this point and you are a lute goblin.
+1:10:33
+So of course, you start clicking on the various things in the room, and one of them is a bookcase.
+And as soon as you do that, the formerly neutral spellcaster is now aggroed to you.
+And it's like, how dare you?
+And as the battle, it's just lovely little, you know, tongue in cheek, met a joke on the player because it's like, well, you know, we knew you were going to go after that loot.
+1:10:58
+I mean I feel like I would have a similar that reaction if some some warrior came into my door here chugging a whole bunch of health potions that just started like ripping the books off of my bookshelves.
+Whenever was that?
+Yeah, but.
+The The devil himself doesn't live in your basement.
+Doesn't he though?
+1:11:15
+I mean I feel like most basements after the catacombs you come to the caverns which are much much more wide open.
+This has a level 13 shortcut requirement and is floors 9 through 12 and to.
+1:11:34
+Be clear that you might think caverns as boring.
+Don't worry, there's lava.
+There are picket fences, yes.
+And also I was calling them floors but they are in fact called levels.
+You are not to be confused with your character.
+When you get enough XP gains floors that Oh no no sorry levels that would be too confusing.
+1:11:56
+If I used parlance, that was the same thing.
+Yeah, no excuse for them that that's actually bad game design.
+They're like.
+Oh, but it was it was 30 years ago.
+It was it was this little company called Blizzard.
+You never.
+They were directly pulling from from roguelikes that had invented the idea of floors and levels and also DND it.
+1:12:17
+Was a simpler time Caverns also.
+Yeah.
+So we have lava that kind of like illuminates the room for you, which is quite nice.
+And then you can see all the succubi that are running around and shooting it.
+I don't know, like giant like stars at you that explode.
+1:12:37
+There are winged bow rods that are just big muscle winged demons.
+They're yeah, the the titular rhino man that come flying out of the shadows and, and bulldoze you all sorts of terrible nightmares down there.
+And I feel like this is kind of like, was this art sort of like main loot grinding floor because the next Biome of hell was just so like beyond our grasp at the time.
+1:13:00
+So.
+We did.
+We did a few runs run in in the caves, the cabinets.
+Definitely a more forgiving floor navigation system than in hell.
+But yeah, I feel like like caverns is where it just sort of felt like, all right, this is where we need to gear up to get to hell.
+1:13:21
+Screw the side quests at this point, 'cause when you come down to the hell level, like even just like navigating the stairs, it felt like a a supreme challenge of like these weird, like fleshy bone things that kind of look like stairs but not really.
+1:13:36
+And you can only click on like a very specific part of it.
+Yeah.
+That was really, that was bullshit.
+I don't know how many times we died because there's like the skeletons and bone staircase and you're like, I don't know where to click.
+Like let me up, you fucking piece of shit.
+I'm.
+Well, and the enemies also take priority right over where you click.
+1:13:51
+So if you click and there happens to be an Emmy who like walks in the way, I think it would like target the enemy instead of actually moving you up the stairs that you would initially clicked on.
+Which is why you can't get.
+Your gear when you drop all your gear and you're fighting dudes that are like trying to stop you from getting your back.
+Bags now God.
+I'm trying to save you from your own cowardice.
+1:14:08
+Yeah I I am a Diablo 1 apologist but the these stairs in hell are very bad.
+The hit boxes are rough.
+It's but it's the only problem with the game.
+Now Andrew, when you were you, you were mostly playing solo, if I understand right.
+1:14:27
+What was what was your hell?
+Was your hell experience very bad as our?
+It was.
+It was very bad, much worse than my memory of playing this game when I was younger.
+The way that I don't know if this is, I think it's partially to do with this port and it's partially to do with us playing multiplayer.
+1:14:48
+But like the level scaling, the difficulty scaling is is quite a bit different than like the one point O Diablo single player experience, because critically, in Diablo, one single player you can't, you have no, there is no grinding.
+1:15:05
+There are the levels that are generated and the enemies that occupy those levels and that's it.
+Those enemies aren't responding.
+There's no XP to farm.
+The best you can do is just, you know, explore fully, like in the Berliners repetition and find what has is is available to you.
+1:15:24
+And my experience of playing this game back in the day was that like you just progressed, you know, from floor 1 to floor.
+What is it, 18 or something?
+And you were more or less, you know, ready so long as you had built your character, you know, halfway decent.
+1:15:40
+And you hadn't, you know, invested poor poorly, and you hadn't, like, squandered your attribute points.
+What happens if you died?
+If you died, you could just load your game.
+Which if you have not saved in a while, is effectively permit F.
+But if you're like me and you're saving every single 5 seconds because you're like, ain't I ain't no way I'm going to relive that nightmare.
+1:16:02
+Yeah.
+Like, I mean your options are new game, load game or exit or like you know, quit the application effectively.
+But yeah, hell was really rough and I died trying to get up some stairs and I was not able in in multiplayer able to get back to retrieve my body and my gear.
+1:16:26
+And I almost kind of feel like that's a a good punishing mechanism for multiplayer of like don't go solo like in this.
+In Diablo multiplayer, you have to move as a coordinated unit.
+You can't have someone.
+We did that.
+1:16:41
+We all went down, we got clobbered and we aggroed the entire floor and then we couldn't go downstairs and even teleport away to try and get our stuff.
+That's because we didn't have any spells at the time.
+We were all no.
+No, we couldn't cast a spell.
+I tried, I went down and I tried to phase immediately.
+They're like just try and lure them away.
+We couldn't do it.
+1:16:57
+It was just down dead, no chance at all.
+Yeah, the key was.
+The key was if you get you just run off into a corner and before you're dead you alt F4 and then you just rejoin the game because there's no single host.
+We put on the 0 tier for the devolution X stuff so there was no like individual host so anybody could quit whenever they wanted to.
+1:17:15
+And or get kicked.
+Yeah, well, I'm sure we'll bring up the multiplayer fondness that we had in a little bit, but I've always like just I alta for it a lot of the time before I died.
+So I would lose all my stuff, I'd come back and I have like 3 hit points and talk to Pip and then go back down again.
+And when we were playing multiplayer, some of some of my most the most fun memories I have is when we entered a floor that was above our pay grade and we were all trying to exfiltrate ourselves.
+1:17:44
+Like quick, get to the town portal, right?
+Oh no, I've got 2 potions left.
+Oh no, I'm out of potions.
+And then you're just, you're just scrambling.
+Yeah.
+So it's not all bad, but it's mostly bad.
+We must have spent, what, 20 minutes trying to retrieve our equipment from one of the hell floors that like you, you come down the stairs and there was just like a a tidal wave of demons that just immediately surrounds you.
+1:18:12
+And there were. 25 Succubuses.
+Way, way, way more than that.
+I mean, I think we aggroed the entire.
+That's 50 jokes we.
+Ran away and we aggroed more and we pulled them back in the middle somehow.
+Yeah, and crucially, all monsters in Diablo.
+1:18:27
+Heel.
+Oh my God, they're very rapidly.
+So we couldn't chip them down.
+That was for a while there.
+I was like, man, just chip them down.
+But like wait no, that one fireball I got off doesn't do lost long term damage.
+Yeah, I tried to, and we had.
+1:18:44
+We had grown frustrated if we couldn't get our stuff back.
+So I was trying to use the old belt duping trick from the old Diablo one where you could just like, you drop an item and you close your inventory and you move away and you move back.
+And as you're grabbing the item, you're supposed to click on your belt, click like a healing potion or something on your belt and it would turn the healing potion into the item you try to pick up.
+1:19:02
+So people like dupe gold and dupe whatever kind of armor you wanted.
+So I was like, I'm going to get all our stuff back.
+I tried it.
+I can never get it to work.
+And then during the course of this podcast, I went and looked up the fact that devolution X had like resolved that duping issue a long time ago and it did not a thing anymore in in Diablo 1.
+1:19:20
+So I was just trying.
+Something that didn't.
+Work well.
+Let me just go to my rankings and drop it another seven points there.
+Yeah, I think like the the the loot grinding treadmill, like this was the first loot game, right?
+Like this was the first like looting like like workflow treadmill style game of like you know, you're you're running around.
+1:19:42
+I think with the intent at least in multiports.
+I mean it's the first real time looting game.
+I mean we are a roguelike podcast.
+Most roguelike games are loot games.
+Sure.
+Yeah, first, like real time like specifically with like the loot drops to like get a like a very kind of specific build that will like strength check like the last level.
+1:20:05
+Cuz it's not like throughout this game you are like I was kind of fully expecting to be like, oh, I'll just be a dumb sword and board like lowbrow melee warrior guy with like maximum health and vitality or like strength and vitality.
+And maybe I'll just come across an item that will like.
+1:20:21
+Like build synergize with that and I came across a couple that kind of did, but it it wasn't enough like I needed to spec out and like round off my character or like it definitely did not feel like I could like like see see a build develop.
+1:20:36
+It was more like I was kind of forced into, I need, yeah, I need like all of the tools available with the spells and everything.
+And particularly with like, and I guess like later Diablo games did this to a much more extreme degree.
+But like needing like, OK, I need like the set items and I need like the legendary drops and I need like all of the resistances and all of these things like all these boxes to tick in order to just survive the 75 succubi shooting, shooting their missiles at me from across the map.
+1:21:08
+But yeah, hell like you got, you got the succubus, you got the the mages who teleport away the second.
+Stone crew saved the day on that one.
+Who are The Who are the Knights?
+The steel Lords and stuff, yeah.
+Yo, those guys are dope, but they got to calm down with that death animation.
+1:21:26
+They just.
+Trying to do a whirling dervis or something like that.
+It's like so huge.
+And like, it's super high up in the air, like spinning around, like playing this like crazy sound effects as they spin and disappear.
+It's just like, whoa, OK.
+1:21:42
+Whereas I think the succubus is, they don't.
+They just kind of like fall over.
+Yeah, they, yeah, they just flop over dead.
+They were so annoying.
+But I eventually I got a flail that had like the fastest attack speed and it gave me a + 80% chance to hit, I think.
+So once you always hit them and they're just kind of like stun locked and they can't escape before they hit him once and they're like, you know, they run away and you hit them again and they run away and hit them again.
+1:22:06
+They maybe finally die, if they haven't healed already by.
+Then and and you were highlighting something that I think is critical here, Robert, that ooh, when you get that, that meaningful loot upgrade, you find yourself that new arm, you find yourself be that new weapon.
+Oh, it feels great.
+1:22:22
+And I mean, that's obviously common throughout gaming, but Diablo one does it very well and was one of the one of the first ones to do it exceptionally well.
+And then you lose all that loot.
+I think I lost all of my loot like I think a total of three times in the throughout the game, the the playing and I, I was enraged every single time.
+1:22:44
+And I thought I just, I was just done with it until we got the and then the next day I'd be like, you know what, maybe I'll just, you know, start over again.
+That'll be fun, right?
+And then you just get sucked back in.
+At one point did you say I discord?
+There is a Diablo shaped hole in my life feeling.
+1:23:00
+It's just like, yeah, when you're when you're just like, it's it's 9:30 and you're like, well, what am I I could play sleeve Aspire of.
+Course I do I do believe.
+I suggest in case of CUD to fill this hole.
+Yeah, that's a big, that's a big Wikipedia.
+That's a big like, look things up sort of game.
+That's not a chill like you know, smoke some weed and before you go to bed game.
+1:23:18
+I mean you.
+Just got to take a poof on the hookah and then you're all set.
+Well, hell, Hell takes us to the final floors of the game where we'll encounter Archbishop Lazarus, which if you've been paying attention to the 65 page, no sorry, 66 and 2/3 length manual, you'll know that basically like.
+1:23:42
+Incorrect, it's actually 80 pages.
+Well it's 6666 is what I was going for.
+Oh I see, that's the joke I missed.
+I missed the joke.
+Well, I mean, there are some references to him that that dead guy, almost dead guy laying in the the puddle of blood, which he's like, mysteriously gone later.
+1:24:02
+So presumably, like work, like came over and like, dragged him off and looted his body or something or or something.
+Somebody took care of it.
+Yeah.
+Yeah.
+The town janitor, what have you clean up these bodies, but he mentions like, oh, the Archbishop Lazarus, he brought us down to the catacombs just in a trap.
+1:24:20
+And like, so like you this, there's, there's an expectation that you know, you're going to probably encounter at some point.
+And my memory of this fight because I, I didn't get to him this time.
+Is it?
+It's a, it's kind of a cool battle if you're, you know, not horribly under leveled, I guess.
+I mean, we, Robert and I made it there and we've played it pretty lame, I think, where it was a stone cursed him and then you put a flame wall under them and then he just melts there and you're like, all right, we'll.
+1:24:45
+Just wait, you can stone curse Diablo.
+No, not new Lazarus.
+Yeah, Lazarus.
+I watched that full speed run video.
+I'm like oh that's how you do it.
+OK cool.
+Worked out pretty well.
+And Lazarus, do we in the story, Scott, do we know is he, Do he have something to do with Diablo's ascension?
+1:25:06
+The Archbishop Laverus frayed and dishevelled return from his absence and assured the townsfolk that he too had been ravaged by the growing evil of the monstery, with their desperate need for reassurance clouding their good judgement.
+Lazarus, the townspeople in a friendly mob who.
+He corrupted Leorico I think is the the skeleton king and like.
+1:25:23
+Ah, OK, OK, OK, got it.
+I just happened to have the page open where I was talking about Archbishop Bishop Lazarus.
+Thank God for that book.
+I mean, this has been a great boon, Emmanuel.
+Legendary tome of podcasting.
+Yeah, Archbishop Lazarus kind of a mini boss before the the main event, the final floor where Diablo, the Lord of Terror himself reigns supreme.
+1:25:50
+And yeah, I think as as the only two people that have actually made it that far because I was in bed at the time and I'm like, surely they won't be playing Diablo and beating Diablo without any.
+Time.
+I announced it the day prior where you gonna beat him?
+1:26:05
+And this is the time you'll be on.
+So well, I didn't think you were serious 'cause I didn't think there was there was no indication in the discord of all right, we're coordinating, we're moving in as a unit at this specific time, I can't Diablo I.
+Can't do that anymore.
+I got a baby.
+I don't know when she's gonna be awake.
+1:26:22
+She was asleep.
+The wife was taking care of the baby, so I was like, all right, this is my time to shine.
+I need to just hop on and play some Diablo.
+You launched the sneak attack and Diablo was not expecting it whatsoever.
+I was.
+Expecting me to be taking care of baby.
+It didn't work.
+Got him.
+1:26:38
+And then, yeah, you, you, you launch into his his pit and you do all of your, your fun bursting on him and blow him up and he.
+Well, there's like 3 like, yeah, you have to go through like 3 like blocks in this like quadrant based system of like slowly pulling the levers and then eventually getting to him.
+1:26:55
+And it's just like one of the most unfun, I think experiences of the game because the teleporters are just fucking annoying.
+And the only way we could kill them really was with the stone curse.
+And every stone curse I guess cost me like a mana potion because I'm a I'm a warrior that has no mana.
+So it's just like, oh, my entire inventory was just mana stuff and not any health stuff at all.
+1:27:15
+And it's just like stone curse replenish, stone curse replenish.
+And it was just it was it was unfun.
+I've.
+Never been playing with you.
+I'm sorry I failed you.
+I abandoned you like Leoric.
+And we just went back and forth to town constantly.
+We each had our town portals and we go in each other's portals to avoid getting rid of them.
+1:27:32
+And Will would just be constantly chugging man up oceans.
+I was too lazy to even learn how that thing worked.
+So I'm just like, I'll just click on them.
+I'll hunt down the sucky bike because I could, like, stun lock them with my hits.
+And then Will would just go on like stone casting all the stone, cursing all of the annoying teleport guys who teleport the very second you, like, get close to them.
+1:27:51
+Yeah, you'd have to hit them.
+Sometimes they'll just teleport and the minute they start that animation you can't have any.
+And this, and this is only viable, mind you, because of all like, because of like the five hours of grinding I did, which it was just like going through running up to the witch, seeing what book she has, starting the new game, running up to the witch.
+1:28:08
+And so you have to have like enough like books in order to like have the mana be somewhat reasonable when you use the spell.
+And so yeah, that was if I the only way.
+I can't imagine beating Diablo or getting down to that level without at least some degree of just grinding through a lot of bullshit.
+1:28:25
+But I guess that's the nature of these these games in the first place.
+That's true.
+Yeah.
+I feel like that that kind of the grindiness really highlighted itself to me as like it feels like a lot of rogue style games are anti grind because like the idea is like, well, you're dead and then you just restart a new one.
+Like maybe you'll win this one, but that's like antithesis to this kind of style of game.
+1:28:45
+And also I feel like other, you know, procedurally generated RPG games over like 6 hours long or something or or maybe over 10 hours, we're like, you're so invested.
+You're like, well, if I die, like I can't give up now and restart.
+I've invested so much.
+And yeah, I think the like it's, it's so baked into the DNA here, but.
+1:29:06
+Well, I think in the single player that's less present.
+That's true, according to my 20 year old memory, a lot longer for for my ancient memory of having played this game single player, but but also based on a little bit of reading that I was doing on on Reddit.
+1:29:27
+So I don't know, you can maybe argue that like, well, you know, you're playing multiplayer.
+Maybe, maybe, maybe grinding is more fun in a social environment.
+Maybe, I don't know.
+Well, this is very concentrated grinding.
+This is like just running to that one person.
+Like if I had to actually organically get all the books that I needed, it would probably have taken me at least 10 times as long in actual gameplay.
+1:29:48
+And so this was a way of getting around that.
+But I think the main, mainly it was just because we didn't have other DPS people or arranged people.
+Well, you.
+Didn't have me.
+You're a source of rest.
+Exactly lucky for us the the devolution X discord is actually like pretty like pretty active as like a Battle.net replacement for like looking for games and like seeing if people want to join your game like on loot farms and stuff.
+1:30:14
+So there is that kind of availability there, I guess I should say.
+But.
+But is it good enough to justify that?
+Yeah, I don't know.
+There's a reason why I kind of like, I did not engage at all with Diablo 4 because I was like, you know what?
+1:30:30
+I think I'm done with that kind of loot grinding treadmill nonsense.
+But you, so you, you've done it.
+You've beaten the Lord of Terror.
+You are greeted with a a classic or a Blizzard cinematic that has the the player character kneeling down next to this desiccated demon with a big jewel in its forehead.
+1:30:53
+And what better idea than to take out your knife and cut the jewel out of its head.
+And once you do so, you remove the the jewel and this demon like crumbles into this corpse of I think it's was it Kingly Orrick's son or Lazarus's son?
+1:31:14
+Or there's there's some it's it's in.
+The guy it's.
+Just some random dude.
+Well, random dude has a big gaping cannonball hole in his forehead and you're looking at this nice juicy soulstone and you're thinking to yourself, boy, wouldn't I too like to have a giant hole in my head?
+1:31:35
+And then the the cinematic has the has you shove it right into your forehead and the camera pans out and there's this giant glowing orb in your forehead and your player character is screaming as the camera pulls up in a way in a very con like moment.
+1:31:53
+And that's, that's, that's kind of it.
+But there is one more Will's favorite thing, one last voice over that kind of explains.
+And so I think maybe kind of sets up a little bit of of the next one.
+I don't think they really had what they were thinking of in mind for Diablo 2 just yet.
+1:32:09
+But you get another Paul eating voice over in very Alderis tones.
+Here of the soulstone burns with Hellfire as an eerie red glow burns blurs your vision.
+Fresh blood flows into your eyes and you begin to hear the tormented whispers of the damned.
+1:32:29
+You have done what you knew must be done.
+The essence of Diablo is contained.
+For now you pray that you have become strong enough to contain the demon and keep him at Bay.
+Although you have been fortified by your quest, you can still feel him clawing his way up from the dark recesses of your soul, fighting to retain control.
+1:32:51
+Your thoughts turn toward the ancient Mystic lands of the Far East.
+Perhaps they're beyond the desolate wastes of Era Knock.
+You will find an answer, or perhaps salvation, and it's just this robed figure standing with his big ominous red mountains in the background.
+1:33:07
+And then up comes the Diablo font.
+The end.
+Always to the east.
+What a sick ending.
+Come on, that's dope.
+Like normally I hate it when like there is a twist that it's like, well, the audience didn't know that information, but the character that we've been following knew that information.
+1:33:28
+I think it works in this in this circumstance.
+And it also is like very tonally appropriate, like, well, a hero doesn't have a happy ending.
+The hero is now cursed, you know, take on this burden to to be the Atlas holding this evil back from covering the earth.
+1:33:47
+And unfortunately, as we find out in Diablo 2, the dark wanderer, which our, our, our hero is reduced to, unfortunately succumbs to that power.
+And that's sad and and unfortunate, but hey, we get a wonderful franchise out of it.
+1:34:05
+Diablo Two, one of the greatest games of all time.
+Yeah, it it also because it's like the first game, it worked out the second game, yeah, that that storyline worked out the 3rd and 4th game, it's like, OK, I get it.
+You take the soulstone you put in your head, you eventually become some corrupted demon, rinse and repeat over and over again.
+1:34:22
+I don't know how they like can do something.
+New they can't keep getting away with this but.
+It's just like, yeah, they just keep, they just keep getting away with this.
+They keep using the soulstone in their head and turning into a demon.
+That is, that is the next version of.
+Diablo.
+Well, I mean, yeah.
+And you know Robert?
+Tried putting it in the bottom of the ocean.
+1:34:39
+Well, somewhere in the 88 page manual I'm sure that is mentioned the 66.
+Points now I closed it.
+I'll never.
+Know that's OK that's OK but hey you know that that repeating you know process those runs if you will are very rogue like and I'd say that the.
+1:34:58
+Very storyline itself is every run ends, every run ends with you with a gem in your forehead, and the next run is you.
+Yeah, that's like a new character going to kill your old.
+Character Berlin interpretation, right?
+Yes, yes, yes.
+Correct, it says right here.
+I would like it more if it were explicitly saying that each time you went to kill Diablo, we were killing your previous character.
+1:35:18
+That one.
+That would be pretty funny.
+Game.
+Yeah, yeah.
+Yeah.
+And if like here and there were like whatever, like one thing that you had.
+Before.
+That'd be kind of neat, yeah.
+Well Diablo 5 let's see, we had a almost an 11 year gap between Diablo 3 and Diablo 4.
+1:35:35
+So I'm guessing in 2034 we'll get Diablo 5, which features Archbishop Lazarus, some sort of soul stone getting stuck in someone's head and Adria betraying Deckard Cain once more.
+Although I would I wouldn't be shocked if like this, I feel like this game that we played is like demanding some sort of not even like a remaster, but like a, a reimagining as it were.
+1:36:04
+Like I could see a Diablo 5 being this game, but with like, I don't know if like Diablo All Stars or something where it's like a more focused kind of single experience, but you just like let's have like random shit from all of the Diablo franchise things and maybe a more kind of I mean they.
+1:36:21
+Did bring they did bring some of them in because Adria in Diablo 1 is in Diablo 4 and like Griswold's already dead Deckard Cain is Deckard Cain so he's just always hanging around work.
+You got to use his leg to open the cow level in the second Diablo.
+So they bring aspects of the characters that were in Diablo 1 into the other Diablo's but.
+1:36:41
+Well, they need this cross universe pollination with Protoss zealots coming in and you're just in there whacking the zealots and then, you know, the Dark Temple are up here.
+They're Heroes of the Storm or whatever, Yeah.
+That is Hero of the Storm, right?
+Well, it is, but it's like it's MOBA, which means it's bad, so yeah.
+1:37:02
+I mean like they do playable.
+Characters.
+Yeah.
+No, that's too big.
+Yeah, I could see.
+I I, I'm hey, I'm, I'm down for a reboot for this series.
+I think that'd be great because like, come on, the storyline yeah, has been trash since like the expansion to Diablo 2.
+1:37:20
+Like it's always this I want.
+Diablo crap.
+Where's my I stubbed my toe on the soul stone and now I'm possessed by Diablo.
+He's back again.
+What the hell like.
+You know, she's like.
+Give me a break.
+I want either Diablo craft or like Diablo tactics.
+1:37:38
+Oh, like a final?
+Oh, I got it OK.
+Patent Fantasy Tactics, but Diablo.
+Lizard, listen up.
+No, we, we, we have patent pending on it.
+They can reach out to us for exorbitant consulting fees.
+The opposite.
+We'll pay them to do it, actually.
+1:37:55
+We'll pay them. 6060 to $100.
+Yes, yeah, that that's think it would be a good and and crucially, it has to have like this.
+I don't know.
+How would you describe like there's been modern versions of this kind of art style where it's like like, you know, like how Factorio does its graphics, where it's like a 3D render and then it's like like converted to Sprite work.
+1:38:21
+But it has that like kind of diesel, like, you know, like gritty, like you can just like taste the oil on the sprites.
+They're so gross.
+I want that.
+I want that kind of visual aesthetic.
+None of this like happy.
+Grunge.
+I want it to be a little grungy.
+Yes.
+Yeah, like the pinata effect, all the coins are flying everywhere and.
+1:38:39
+Well, yeah, and lots of.
+Sucky bad too, obviously.
+Of course.
+Yeah, you.
+Got to have that.
+Well, that goes without saying.
+That is the main tactic right there.
+Well, is there anything else we want to?
+Well, I guess yeah.
+We didn't really touch on the Hellfire expansion to this thing, which adds a a couple new levels, the nest and the crypt, a couple new characters, the monk and barbarian.
+1:39:04
+And I guess like if you tweak the files, you can unlock a Bard.
+But there's things like oils and trap runes and some new spells and just some more stuff like the main titular boss Diablo at the end is Carter.
+There's maybe some different interface stuff.
+But I guess also fun fact, the Hellfire expansion of this game was a finalist for 1998's best add on award.
+1:39:29
+Does anyone know what the winner was for 1998's best add on?
+1998 half life opposing force.
+I don't think it'd come out well.
+Is it half of opposing force?
+No, Colin, got it.
+It was a Star Trek.
+1:39:46
+Got it came out so fast it's.
+OK, to lose to yourself, I guess, yeah.
+All right, Yeah, All right.
+Any anything else we want to cover before we jump into trying to sell this game for some gold at the at the blacksmith?
+1:40:02
+By which I mean ratings.
+Let's do it.
+OK.
+And standard Grog POD format going from worst to 1st.
+And our guest Robert getting the the last word here.
+Who wants to to roll the Diablo die between our lowest rankers here to to kick us off?
+1:40:21
+I'll, I'll go first.
+I mean, assuming I'm one of the ones, yeah, because I didn't put in 45 hours of grinding on this game.
+So I mean, I feel like part of my problem with this game was that I don't have the deep seeded nostalgia that you guys have for it.
+1:40:41
+I mean, I played Diablo 2, but I don't know if I this is probably the first.
+I played like 3 hours of couch Co-op of Diablo 3 and then however many couple hours with you guys in Diablo 4.
+But it doesn't quite have the the grip on my young psyche.
+1:40:59
+It has quite the same level as you and I I must admit I'm still in the caves with cud grind.
+I, I, I've bumped my internal cave with cud score up to 8.9 and every time I was like, oh, we could be playing Diablo and I was like, I would rather not, you know, it's like, it's just, it probably was a great game when it came out, but I don't know if I can justify playing it in 2025.
+1:41:31
+Like even just playing Diablo 2 would have been more enjoyable.
+So I'm giving it a 6.5.
+It's it's still is a good game.
+It still has a good like vibe to it.
+Like it still has some like good ambiance.
+1:41:48
+There's there's an 80 page.
+Like there's a lot of effort and thought that has gone into this game, but it's showing its age.
+And unlike some of the other games that are this old, I think it does suffer for that.
+1:42:05
+I mean, we alluded to not being able to go through doors.
+At the same time, it's incredibly frustrating.
+The number of times that you die just from like really annoying mechanics is high dying and like losing all your loot, very frustrating.
+1:42:21
+It's like, well, I don't want to grind through this again.
+I just do not like games where you have to grind anymore.
+I don't have the patience for it.
+And it did not snare me enough to to to do it.
+So I'll hand it over to Will, Who despite who did apparently have the patience for it but didn't like it.
+1:42:40
+Yeah, I mean, it's I, I gave it the same score of 6.5, which is incidentally that's the the score of Tales of Mage Ayala where I beat, I think I'd beat that game or got very far in that game despite not like. 60 hours into that game.
+Yeah, I'm not really enjoying it, but it was just like, alright, well, you know, let's I want to kind of want to beat it.
+1:42:56
+Why can't I beat it?
+And so it's one of those kind of things here where I'm just like, I want to beat Diablo.
+I don't know, I got nothing better to do right now.
+I don't want to get sucked into another game.
+So I'll just play this bullshit.
+And yeah, so I mean, I'll just reiterate here that it would be a better game if it had fewer annoying chores.
+1:43:14
+And this is like very much of MVP of this whole, you know, Diablo 234.
+And so, you know, I got to cut out some slack here because they didn't know about what good game mechanics were back then.
+But replenishing resources like HP or HP boost or just having things on cooldowns because that's like really important.
+1:43:30
+So you're not always like, oh, I have to spend an actual thing to like a town portal scroll to go back into town to buy man of potions.
+It's just like, no, by the time they got to Diablo 3 and four, they realized that's a dumb mechanic and they they did away with it.
+From what I recall.
+Actually, I don't actually, my rough top of my head activated powers, tech trees, better pathing, like Colin said, more diverse elites.
+1:43:53
+Elites in this game were very pretty much one-dimensional.
+They might have some kind of resistance, but they all just they all just have a different color and they're surrounded by like 4 or five other like, you know, harder guys.
+And so it was like compared to Diablo 3 and 4, extremely rudimentary.
+And nobody's mentioned this yet, but the map overlay system was absolute dog shit.
+1:44:12
+It just like completely obstructs your view of everything.
+It's like this overlay which goes right into the middle of the screen.
+And so it's just like always there, like occluding things and just looking really shitty.
+And I'm glad they figured out that that's a terrible mechanic in later ones.
+I guess my last complaint here, even though I, my list is quite long, I'm, I'm looking at the my last complaint is again, that like I said earlier, good versus evil is stupid.
+1:44:35
+I hate it.
+I don't ever want a good versus evil.
+I want the moral Gray zone.
+That's not interesting anymore to have just that boring mechanic.
+So that's going to be 6.5 for me.
+Well I am going to give this game a very well deserved 6.66 because.
+1:44:54
+Nice.
+I think that like.
+Easy, I might have to revise my game.
+Score.
+Yeah, I mean, like, look, this it's a 30 year old game for the PC that maybe hasn't aged as well as as other stuff.
+1:45:11
+The biggest criticism that this game really has that it's just it's not Diablo 2 and like they had to start somewhere, which is fine.
+It's it like melee is objectively bad in this game.
+I feel like like the actual act of like running up and whacking dudes just by itself, not not that fun.
+1:45:29
+There's a reason why 2/3 of the characters are ranged.
+Felt like for me, 50% of the game were just like doorway fights to just like reduce their numbers to nothing.
+I don't like the item durability system.
+I think the enemy health region is stupid city losing items in multiplayer like felt bad.
+1:45:47
+But again, like these are all things that like you have to figure out how to do things the bad way in order to figure out how to do things the good way.
+And Diablo 2 is the answer to all of that stuff.
+The the goods here there there are some goods to this game, believe it or not, the art and sound design to this game are really good.
+1:46:05
+They're really, really good for a 30 year old game.
+Voice acting.
+It didn't need it, but it's quite welcome here.
+It is a very, in a good way, a very good mindless zone out Zen action dopamine click game.
+1:46:21
+You just click around and get you get dopamine.
+It's great.
+I think the the pacing of the dungeon is reasonably good, but maybe the multiplayer stuff feels a little punch you in the face a little too fast.
+I do like the randomized quest stuff, the multiplayer actually.
+1:46:38
+Like I I had a fun time playing like despite the fact of like all the things, all the problems we were running into, like the like it was fun.
+I had fun playing it.
+And I guess lastly, like the devolution X, like software Primo, like I don't think I could have stood this game or had as much fun with it unless that stuff was there to have those kind of active quality of life things.
+1:47:01
+And yeah, like booting it up and playing it on the Steam Deck, perfectly fun experience.
+So I think Diablo One really crawled or dungeon crawled so Diablo Two could run it launched the incredibly successful franchise.
+1:47:18
+It doesn't need our ratings really doesn't really care what we think, but but I think also like this this is the reason why games like net hack and N band aren't as popular because you need you need graphics, damn it.
+You need like stuff to actually make this appealing.
+I guess let me rephrase as a commercial product.
+1:47:36
+Those are both free games open source.
+They've been open source for 30 plus years.
+Whatever.
+But yeah, I think generally this game I I had fun.
+It's maybe showing his age, you know, hasn't aged well in certain areas.
+But I think for the the time invested, like I'm glad that I got to experience the Diablo one, what it had to offer.
+1:48:01
+And I'm sure at the time, back in the 90s when people were playing it, I can see why this would have been as revolutionary as it was at the time.
+So it's my it's my new number. 59 out of 85 games.
+Yeah, I think 6.666 feels about right for this game.
+1:48:20
+Well, that is every everybody's entitled to their opinion, I suppose.
+Hey, look, this isn't the time for argument.
+No, no, no.
+But it is time to establish what's very important and is that we've definitively determined that this game is a roguelike.
+1:48:37
+So it's great that we're covering it today for the Berlin interpretation.
+And I'm sure you know Robert.
+What about the Seattle interpretation?
+I'm sure Seattle, you know, come on with the Tristram interpretation is what I'm interested, but also important.
+1:48:57
+Robert's guesting on the episode, so he doesn't know that we used to have a different ranking system and it was really convoluted and goofy and crazy.
+I'm like, all right, guys, I guess I'll use it.
+And as soon as I started using it, they go and switch it up on me.
+So no.
+So my numbers are all jacked up and no one can ever be mad at me for my rankings.
+1:49:13
+That being said, I'm giving this mother, I had her ranked higher and I had these jokers talked me into lowering the score during the episode.
+I got half of mind to raise it back up.
+I had it knocking on the door of top five, but I moved it to my #8 with 8.12.
+1:49:32
+Andrew points right behind Binding of Isaac, right ahead of Dumarel.
+This is Diablo we're talking about, baby.
+This.
+Oh no, I got to go back to town.
+You are excited to get back into that dungeon.
+You're tiptoeing back to the loot.
+1:49:47
+You're selling off the good stuff.
+Oh, you're seeing that gold number go up.
+Oh, you're, you're popping through the, the, the, the, the teleportation.
+You're back in the action, hacking and slashing just with every click, the joy, the serotonin is flowing directly into your, your, your, your, the town portals that are in your brain.
+1:50:06
+And it's just fun on top of fun.
+The the combat still hits after 30 years, folks, and the you know, as far as I'm concerned and a part of this part of my love Diablo, one has to do with my hate of Diablo 3 and four.
+I think that this franchise really went in the crapper as soon as they kind of abandoned the soul and the character and the nitty grittiness of this original series.
+1:50:32
+I think the atmosphere is still absolutely maintained and the fact that we played so much multiplayer is is we, we put up with this horrible lag like it was pausing like once a minute.
+1:50:49
+It was just like pause for a few good a few seconds.
+We put up with that because what a what a fun time it is to be adventuring and delving down into the depths of Tristram with your pals in search of loot and other things barely related to the.
+1:51:07
+Study of this.
+Character enemies.
+All right, so anyway, 8.12 points on the Andrew scale and now I'll kick it over to our very important guest star, Sir Robert.
+My thank you.
+1:51:24
+Let's see, I so I I need a little assistance with these numbers to figure out exactly what they had meant.
+So Will gave me a bit of a ratings guide I think off of the guide that I received.
+Alternative, you could rank it one through 4 out of the four Diablos.
+Oh.
+Interesting.
+1:51:39
+You can do what you can do whatever you want.
+Now use the right system.
+Don't listen to them, Robert.
+They'll change it next.
+Week.
+Yeah, you have the Archangel Terial on one shoulder, you have Will Diablo on the other.
+Shoulder my Diablo no.
+No, no will is like is like on the head of the real, you know, looking for bail.
+1:52:00
+I went with a 7.5, it was engaging so I needed.
+These days, I barely have time to play video games, which is very sad to be because I really enjoy playing video games.
+That being said, like these really long multiplayer sessions, I really got to get lucky with my timing in order to finish a game like that.
+1:52:18
+This one's great.
+I can just sit there and mindlessly click like I know when Will and I were finishing the game up.
+I had just cracked open a big beer and I'm just sitting there chilling, drinking a big beer, clicking on bad guys and we're just you know, we're just talking on on discord.
+It's great and having a good time clicking around the story.
+1:52:35
+There's a story there.
+I already know it because I know Diablo like the franchise really will.
+So I don't have to think too hard about like, oh, what's going on or, or I don't even like really care like what's going on.
+Yeah, there's Lazarus.
+He he needs to die up.
+Diablo's there.
+1:52:50
+He needs to die.
+Like that's all I need to know.
+So it's just, you know, easy clicking, drinking potions.
+You load up on a you go to Pep and you buy all your potions.
+You go back down, you click, click, click.
+You press the potion button.
+Sure, it's not like very engaging mentally sometimes, but you just want to zone out sometimes you just want to click on things.
+1:53:08
+And in that regard.
+And finally, the loot.
+It's always great.
+We all remember the dopamine hit you get when you find the legendary item and what stats does it have.
+And I got to talk to Deckard Cain to identify it for me.
+But when you find the right stuff and you go in, it's great.
+It's a lot of fun.
+So it was engaging to finish.
+1:53:24
+It doesn't have a huge replayability value, but it was fun.
+So 7.5 for me.
+Well, overall, I'm actually kind of shocked that that Diablo is.
+It's like kind of in the middle of the pack here.
+Of all of the 84 games that we've reviewed thus far, it's a solid 41, which, you know what, that's not bad.
+1:53:47
+Like for a game that's 30 years old or I guess going on 30 years old.
+Yeah.
+I think you know, well deserved all things considered.
+Some similar.
+Games, of course.
+Well deserved.
+This is the sorry.
+All right, anyway, all right.
+Well, I mean, yeah.
+1:54:03
+So here folks.
+Like, I'll try to condense this as much as possible because this is.
+What are some similar games?
+What is the entire incredible legacy that was inspired by this game?
+Tell us, Tell us about this.
+Let's let's read through every single action RPG game that was developed after 1990. 7 Some of them are even good.
+1:54:22
+Is in terms of action RPGs that are like very similar to this Diablo's.
+I mean, obviously the Diablo. 2.
+What?
+Never heard of it.
+You got your Titan Quest, Path of Exile, Grim Dawn, Dark Stone, Torch Light, Last Epic, and Smarog's dream of note.
+1:54:42
+And then maybe we'll turn the clock back some to like some traditional rogue likes that we kind of clowned on.
+But you know, are actually there's there's some similarities here.
+Disturbingly you Moria, which is the Unix fork of the original 1983 Moria game, disturbingly similar to this game Ang band also disturbingly similar for like ASCII art like console only like if you thought like 30 year old Diablo had too much graphics going on, well boy do I have some for you.
+1:55:14
+The the developer of our pretty well lauded previous episode doom RL and Jupiter hell created a game in seven days called Diablo RL, which is literally just the game Diablo in ASCII format that's free from the chaos forge website and then recently released.
+1:55:33
+There's a traditional rogue like with kind of I would round it up to maybe like Diablo 3 ish graphics but turn base called lost in Prayer which is quite interesting.
+Now we do have a previous episode of like more kind of actually rogue games.
+1:55:49
+Previous episode see Barony I would say is kind of similar to this to some degree.
+First person nostalgia bait that hits really hard.
+A lot of people love the fate games.
+FATE in all caps which is like Diablo for kids.
+It is like maybe a 50% fishing simulator, but it is very much like Devil of the Dime, the dungeon with your pet cat and like punch monsters kind of deal.
+1:56:14
+Oh also previous episode I somehow didn't put this in the right spot.
+Din's Curse felt very similar to Diablo One solo dev effort.
+Rigtings Mortal.
+I'm the God din that I booted up and I was like, Oh yeah, this you can see this is Diablo on it's on it's face.
+1:56:32
+Recently released Hell clock is quite interesting.
+What if Diablo, but Brazilian war.
+You got children of Morta, which is very multiplayer and Lord Lord like story focus heroes of hammer watch, which is like what if no story or less so Ravens watch people like book of demons.
+1:56:56
+I thought is quite interesting, which is like what if Diablo but origami deck builder, origami art with deck builder mechanics and real time question mark.
+Lastly, I'll throw this one in here because I think this might be similar but just for posterity.
+Shape of dreams recently came out which is a a multiplayer maybe more Diablo 3 kind of style action game.
+1:57:20
+But like what if something like League of Legends but good and good for you and in a rogue like format or you know, whatever that kind of format.
+So check those out.
+I set them all really fast.
+Hit that rewind button, play it real slow.
+And as we wind down here, you can follow us on Mastodon Grogpod Gabe dem dot place where I've been doing all sorts of cud posting for the past two weeks.
+1:57:47
+Our website Grogpod dot zone has all the stuff.
+And if you want to send in an e-mail like this one that I'll read here really quick, you can send that into grogpodzone@gmail.com.
+This is an e-mail I got from someone on August 21st, 2006 that says, hey, hey, this is Robert.
+1:58:05
+Just listened to the first quote trial episode of the podcast that that I did my very ever first ever podcast.
+God, what, almost 20 years ago.
+Jesus, the e-mail goes on to say kind of sounds like when I did my first podcast episode, a little uncoordinated with some noticeable, uh, and ers.
+1:58:26
+No worries, though.
+Scott's told me that you have the quote true pilot episode to come out today, so I will have a listen.
+Hope to see those issues ironed out.
+They do.
+They do so when you record a few more episodes.
+Glad to see you guys have started your podcasting at 1:41 PM on August 21st, 2006 from 1 Robert.
+1:58:48
+I don't know who that could have been.
+Man, we we actually became friends because you listened to my podcast and then we hung out in college.
+Hey.
+Wait, I'm going to western also what?
+This just reminds me that we should delete the first episode of our podcast we should redo.
+1:59:08
+We should do our dungeons at Dreadmoors episode in like.
+Revisited.
+Yeah, do a do a Cog Mind episode without Will.
+Wait, what?
+What was bad about on that episode, by the way?
+The the first one, I don't remember that being particularly different.
+I I think it was just bad because we didn't know what we were doing.
+1:59:23
+Like all good Silver's podcast episodes, We did a Dungeons at Dreadmore your favorite tradition I.
+Remember the game?
+Yeah, but it was very much like I was going way too deep into statistics and oh, right, yeah.
+Like, oh, let's let's find out what percentile it is.
+1:59:39
+Nobody cares.
+And yeah, so.
+So feel free to send it into your emails from 2006 to Grog buttons open at gmail.com.
+But that's going to wind down our our tormentuous episode here.
+1:59:56
+But the the Lord of Terror has been defeated.
+Our torment is finally over, but Andrew, what game do you have to pick for us to to play to round out season 3, The Grog Pod Roguelike podcast.
+2:00:12
+Holy moly season finale.
+Well firstly just want to say thank you Robert for writing in.
+So glad you're listening.
+Really makes you know making the show all worth it.
+Thank you for being on.
+You've been referenced favorably quite a few times on the show and it's great to have you actually here.
+2:00:34
+As for next week's episode, just like, you know, people keep accidentally shoving soul stones into their head and you know, the cycle just repeats and keeps going with this horrible Diablo Lord of terror terror situation.
+2:00:51
+We are going to be keeping it Diablo, keeping it grim, keeping it dark with Halls of Torment and just watch us give the game inspired by Diablo 1A better score than Diablo one.
+Like it's just gonna be crazy ridiculousness listeners.
+But anyway, looking forward to that.
+2:01:08
+I haven't actually played this, but I've heard great things.
+Yeah, I think this will be very exciting.
+Well, I think we're gonna.
+We're winding down here, but usually I have some kind of thing of like giving a hint of what the play out music is.
+We all know it.
+We all know what the play out music is going to be.
+2:01:24
+I don't even need to say it.
+We all know what it is, so here it is.
+2:02:32
+The.
+2:03:37
+The.
+2:04:44
+Music.
+2:05:42
+The.
