@@ -6,7 +6,7 @@ We started the GROGPOD because we like roguelike games and like complaining abou
 ## Hosts
 Scott Burger - [author of "Intro to Machine Learning with R"](https://www.amazon.com/Introduction-Machine-Learning-Rigorous-Mathematical/dp/1491976446), data scientist. [Analytics blog](https://svburger.com), [Mastodon](https://hachyderm.io/@SVB)
 
-Will Wright - Jazz and darts enthusiast, data scientist. [Developing a roguelike deckbuilder](https://discord.gg/GVpKJbvMb).
+Will Wright - Jazz and darts enthusiast, data scientist. [Developing a roguelike deckbuilder](https://apps.apple.com/us/app/hard-reset/id6745568849).
 
 Colin Smith - DnD dungeon master, mechanical design engineer.
 
