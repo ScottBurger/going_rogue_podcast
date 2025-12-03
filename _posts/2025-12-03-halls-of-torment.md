@@ -29,10 +29,10 @@ The agony and terror of season 3 of the podcast comes to a close with the Surviv
 
 ---
 
-* 2:35 - Game stats
-* 5:44 - One sentence description
-* 1:38:32 - Rankings & final thoughts
-* 1:52:02 - Similar games & show wind-down
+* 1:29 - Game stats
+* 3:07 - One sentence description
+* 1:27:24 - Rankings & final thoughts
+* 1:36:39 - Similar games & show wind-down
   
 ---
 
