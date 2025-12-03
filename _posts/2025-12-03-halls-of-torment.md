@@ -25,7 +25,7 @@ The agony and terror of season 3 of the podcast comes to a close with the Surviv
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/diablo-with-robert-lippens/id1650474911?i=1000737362694) | [Spotify](https://open.spotify.com/episode/417ZtdZh3POGjL1CstATTB) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/diablo.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/halls-of-torment/id1650474911?i=1000739452647) | [Spotify](https://open.spotify.com/episode/1Esi8R6Hbkth2l72k3eVVw) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/diablo.txt)
 
 ---
 
