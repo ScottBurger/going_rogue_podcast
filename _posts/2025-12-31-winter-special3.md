@@ -29,7 +29,7 @@ If the weather outside is fightful, than curl up in front of the fireplace with 
 
 ---
 * 4:18 - Live on the streets!
-*  - Jacob from [Better Publishing](https://betteragency.pro/gaming/) showcasing Don't Wake the Beast, Void Dungeon, and Order Automatica
+*  - Jacob from [Better Publishing](https://betteragency.pro/gaming/) showcasing [Don't Wake the Beast](https://store.steampowered.com/app/3258580/Dont_Wake_the_Beast/), [Void Dungeon](https://store.steampowered.com/app/3258590/Void_Dungeon/), and [Order Automatica](https://store.steampowered.com/app/2105840/Order_Automatica/)
 * - Holly, Jack, and Quinn showcasing [White Knuckle](https://store.steampowered.com/app/3195790/White_Knuckle/)
 * - Hasban showcasing [Rogue Eclipse](https://store.steampowered.com/app/782260/Rogue_Eclipse/)
 * - Andrea and Bob showcasing [Arcane Eats](https://store.steampowered.com/app/2640090/Arcane_Eats/)
