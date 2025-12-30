@@ -36,7 +36,7 @@ If the weather outside is fightful, than curl up in front of the fireplace with 
 * - Shiv showcasing [Pax Autocratica](https://store.steampowered.com/app/1067360/Pax_Autocratica/)
 * - Special message from the [Roguepod Litecast!](https://roguepod.show/)
 * - Pax Panel Q&A with the folks from [Being and Older Content Creator Doesn't Have to Suck](https://www.youtube.com/watch?v=E45DwNIFnHc)
-* - Risk of Rain 2 Tournament
+* - Risk of Rain 2 Tournament, [Swap Meat](https://store.steampowered.com/app/2790700/SWAPMEAT/)
 * 1:17:37 - Show wind down
 
 ---
