@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Roguelike Dev Interviews at PAX West 25"
-date: 2025-12-30
+date: 2025-12-31
 file: 
 description: "
 "
