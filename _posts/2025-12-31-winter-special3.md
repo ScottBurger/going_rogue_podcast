@@ -34,6 +34,7 @@ If the weather outside is fightful, than curl up in front of the fireplace with 
 * - Hasban showcasing [Rogue Eclipse](https://store.steampowered.com/app/782260/Rogue_Eclipse/)
 * - Andrea and Bob showcasing [Arcane Eats](https://store.steampowered.com/app/2640090/Arcane_Eats/)
 * - Shiv showcasing [Pax Autocratica](https://store.steampowered.com/app/1067360/Pax_Autocratica/)
+* - Special message from the [Roguepod Litecast!](https://roguepod.show/)
 * - Pax Panel Q&A with the folks from [Being and Older Content Creator Doesn't Have to Suck](https://www.youtube.com/watch?v=E45DwNIFnHc)
 * - Risk of Rain 2 Tournament
 * 1:17:37 - Show wind down
