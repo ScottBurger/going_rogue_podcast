@@ -16,7 +16,7 @@ length: 51591288
 tags: ["2025", grogpod, interview]
 ---
 
-If the weather outside is fightful, than curl up in front of the fireplace with your favorite roguelike gaming podcast! That's how the song goes, right? Well in order to find those new favorite permadeath games, Scott travelled back in time to August for the Penny Arcade Expo in downtown Seattle. With only one day's worth of ticket time this year, we had to cram as much into one recording as possible before familial duties took precedence. Check the timestamps below for interviews with friends of all sorts and their games and studios.
+If the weather outside is frightful, than curl up in front of the fireplace with your favorite roguelike gaming podcast! That's how the song goes, right? Well in order to find those new favorite permadeath games, Scott travelled back in time to August for the Penny Arcade Expo in downtown Seattle. With only one day's worth of ticket time this year, we had to cram as much into one recording as possible before familial duties took precedence. Check the timestamps below for interviews with friends of all sorts and their games and studios.
 
 
 <div class="container">
@@ -49,8 +49,10 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro/outro music:  Barbara Dennerlein - Let It Snow
+Intro music:  Barbara Dennerlein - Let It Snow
+
+Outro music:
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hALQHBpwysY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
