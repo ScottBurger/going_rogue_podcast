@@ -16,7 +16,7 @@ length: 51591288
 tags: ["2025", grogpod, interview]
 ---
 
-If the weather outside is frightful, than curl up in front of the fireplace with your favorite roguelike gaming podcast! That's how the song goes, right? Well in order to find those new favorite permadeath games, Scott travelled back in time to August for the Penny Arcade Expo in downtown Seattle. With only one day's worth of ticket time this year, we had to cram as much into one recording as possible before familial duties took precedence. Check the timestamps below for interviews with friends of all sorts and their games and studios!
+If the weather outside is frightful, then curl up in front of the fireplace with your favorite roguelike gaming podcast! That's how the song goes, right? Well in order to find those new favorite permadeath games, Scott travelled back in time to August for the Penny Arcade Expo in downtown Seattle. With only one day's worth of ticket time this year, we had to cram as much into one recording as possible before familial duties took precedence. Check the timestamps below for interviews with friends of all sorts and their games and studios!
 
 
 <div class="container">
