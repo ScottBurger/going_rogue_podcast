@@ -25,7 +25,7 @@ If the weather outside is frightful, then curl up in front of the fireplace with
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod-roguelike-podcast/id1650474911?i=1000743276661) | [Spotify](https://open.spotify.com/episode/0SFvGBsHpf967IzINyI5dB) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/2024_winter_special.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/grogpod-roguelike-podcast/id1650474911?i=1000743276661) | [Spotify](https://open.spotify.com/episode/0SFvGBsHpf967IzINyI5dB) | [YouTube Music](https://www.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/2025_winter_special.txt)
 
 ---
 * 3:09 - Live on the streets!
