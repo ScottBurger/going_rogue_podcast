@@ -1,0 +1,817 @@
+0:33
+Greetings friends and welcome to the Grog Pod Roguelike Podcast and our 2025 Winter special episode.
+The Co hosts have the week off this time visiting with their families before being forced back into the procedurally generated dungeon that I've constructed for them to review and rank the games that we foist upon each other.
+0:56
+And yeah, welcome.
+This is the episode in which I slapped together all the recordings and stuff that I have I guess now made a tradition 2 in a row of going to the Penny Arcade Expo packs W here in downtown Seattle.
+1:13
+And yeah, it was a lot of fun.
+Only had one day this time to go there.
+So as you can imagine, lots of limitations and stuff associated with that.
+And it's always one of those things where it's like you put out this huge battle plan of like, OK, I'm going to go from here to here and you're drawing lines all over the map and you're trying to figure out how how best to get as much interesting stuff together as possible.
+1:37
+Then you you just come into the show floor and you're just completely overwhelmed by everything that you're looking at.
+And it's kind of fun to go back through these recordings and, and realize just how over stimulated and unprepared I was, even though I had this whole print out of like, got to go over here and talk to this person and go over there and talk to that person.
+1:57
+It's just there's, there's never enough time even with just starting right as the doors open.
+But I like to think that might, there might be something here useful for this week.
+So, so, yeah, this is a bunch of a bunch of developer interviews that were showcasing stuff at PAX along with a little some extra bonus stuff.
+2:21
+And yeah, I'll, I'll.
+Without any further ado, hand it off to past Scott back in August of 2025.
+Thanks again future Scott and yes, welcome back to the pass of August 2025.
+2:40
+Hot off of the bus bright and early here as I feel once again very self-conscious walking down the streets of downtown Seattle for packs of the Penny Arcade Expo.
+Hoping to get a a full day's worth of content here, Checking out some new stuff that I haven't seen before.
+3:02
+Checking out some old stuff possibly.
+It's always a interesting experience seeing what what we can scrounge at, but if nothing else, lots of cool things here at PAX.
+Be sure to to check out the previous episode I did last year with the same kind of similar format.
+3:24
+Yeah, hoping to get some some good interviews.
+Hoping to see what is some cool player reactions of stuff.
+I remember the last year a lot of cool games that had a a mile long line associated with them.
+At least on Saturday, today's Friday and maybe I can actually get some some good gaming time and get some good previews and see what's out there.
+3:49
+Well, walking through the the doors here at PAX am pleasantly surprised to see just how many people there are at.
+We're checking the time 10:30 on a Friday morning.
+Good turn out so far.
+I'm actually kind of pleasantly surprised.
+4:05
+Although this is the first five feet as you walk in through the door.
+Also, with that first five feet you are bamboozled with a giant Bandai Namco booth, but also me personally bamboozled as to where Elden Ring night rain is.
+4:21
+If Elden Ring night rain is not on screen, everyone has to be asking where is Elden Ring night rain, particularly after we had just done our episode on that a few days ago.
+This.
+Is Pascot reporting here?
+Of course.
+Walking past some Nintendo Switch to Kirby Air Riders demo booths that wow.
+4:42
+Yeah, OK.
+This is why the the line is so long.
+Right across from the Escape from Tarkov arena, all of your classic traditional rogue lights coming around the corner here in the Nintendo area, there's a a huge booth with maybe 25% of these gaming consoles set up with Hades 2.
+5:03
+One point O coming out soon.
+I'm hoping, I'm hoping any day now.
+And the other back half of it are Elden Ring setups, which I can only hope that they've fixed whatever kind of frame rate issues they got going on in there.
+5:19
+And very bravely, only maybe like one, maybe 234 kiosks with Hollow Night Silk Song playable.
+I can imagine basically everyone here would be in queue for that coming out a week from this recording or in a few days or anything.
+5:39
+But yeah, let's see what else we got.
+So yeah, I'm Scott.
+I do a podcast on rogue like or rogue light games or however they're defined these days.
+Who am I talking with today and what are you showing off here at PAX W 2025?
+5:56
+Hello Scott, I'm Jacob from Better Publishing.
+We're the new company which show their games.
+Today that's our our new label because we are working in Better Gaming Agency from 8 years and we expand our company with the publishing label.
+And today I have a two games, 2 roguelike games.
+6:14
+The first one does is Don't Wake the beast.
+If you like Lords of the Ring, Lords of the Ring and to imagine a Bilbo Baggins who take the treasure from the smog, that's the game.
+You are a thief, you are going to the dungeons, you must take the treasure.
+But the tricky, the tricky part is the most important treasure is secured by a big beast.
+6:35
+In first Biome you have a dragon, so if you take the treasure from the dragon, you must run away because he want to catch you.
+Every dungeon is a different generated so everyone is a different and our references was the board game clank.
+So every every sound is very important because you know if you go to the golden Monet on the on the floor they give all the sounds.
+6:59
+So you must avoid the trap because the sound can turn on enemies.
+So it's a risk reward game.
+Because if you take a lot of treasure, the weight is too high and you are not fast.
+You must think what is the best, the best tactic.
+7:17
+If I take a lot of treasure and have smaller possibility to run to your Tavern or you don't take anything, go to the dragon, take the treasure and you are fast and back to the to the Tavern.
+Of course, after everyone you can sell sell the items.
+7:34
+We have a story, so it's not only typical rogue like focus on action, but we have a story to which push you to to take the new story adventure.
+And the second game is order automatica.
+7:51
+It's a rogue like auto Butler.
+You are fighting for the three three by three grid with your enemy.
+Of course, every run is a different like in the rogue like our reference is Palatero inscription.
+8:07
+You can prepare your own deck, you can you can level up your characters and you are fighting with your secret enemy.
+So I love repliability games.
+I love rock like games.
+Enter the Ganjan.
+What is one of my favorite games, play the Spire.
+8:23
+So our label publishing, our publishing labels focus only with replayability and pro play games.
+Nice.
+I've been noticing that a lot of interesting game dev stuff has been coming out of Poland over the past five to 10 years or so.
+8:41
+What do you think is kind of driven that new or like that that more broader renaissance of stuff like out here in the West?
+That's a good question We bring to the PAC 16 Polish games.
+So you are here in the Polish, Polish game booth and you know, we have a heart to create the game.
+9:01
+We have the wheelchair which is the biggest game from Poland, but we have also more than 500 indie developers in Poland.
+And we have a cool ideas.
+And I think if you have a good market, if you have a good employees in your company, it's easier to create a good game.
+9:23
+And of course we are still cheap countries.
+So, you know, it's maybe it's difficult, but if you get a good, good money from Polish company and the cost of your life is smaller, it give you a better chance to, to create a better game.
+9:40
+Yeah, so.
+We're still growing markets, but but I think we are we are good in game development.
+I I see that don't start or don't wake the beast is running on a Steam Deck here.
+Is is that kind of becoming a more central focus for indie game devs these days of like making the Steam Deck kind of a a thing to develop for specifically?
+10:05
+Yeah, overall the Valve is a partner of our Polish book.
+So you find the Steam Deck on all our our game.
+And yes, I love the handhelds, I love the Nintendo Switch, I love Steam Deck.
+And you know, usually Rogue race is a small game with a very deep mechanics, etcetera.
+10:24
+But I love pixel art games and Steam Deck is a great hardware to to play in one moment.
+OK, I have a time.
+I I take the Steam Deck 5 minutes, one run.
+OK, I can finish.
+So yeah, Steam Deck is a great opportunity to developers to create a game.
+10:40
+What?
+What are you hoping for success for this weekend?
+For showing off the stuff here.
+Who?
+That's a good question because it will be a busy time.
+Yesterday we had a meeting with the Valve, today we have a box, we have their mix.
+So it's a it will be a very busy weekend.
+10:56
+And you know, from my perspective, when I see the smile on face when the people come to my game and play, that's the best thing.
+I saw you guys were set up here.
+White Knuckle played the demo, loved it.
+So I thought I made a special trip to go.
+11:12
+OK, got to put it on my itinerary, got to stop here, got to talk to the the people behind the game.
+Who are the people behind the game here?
+Hi, I'm Holly.
+I'm the lead developer of White Knuckle.
+Yeah, I'm Jack.
+I do music, sound editor, trailers, little bit of lore.
+11:28
+I'm Quinn, I do a lot of the art and animation.
+Nice.
+What brings you guys here to PAX?
+Well, we, we launched our game a few months ago and we've had an amazing reception and our publisher, Dred wanted us to come out to kind of show stuff off.
+11:44
+We also have a new update coming out next month, The Abyss, which is the 4th region of the game.
+So we're kind of just showing it off, letting people in the community try out the new content before it, before it's available to the general public.
+Yeah.
+Yeah, what was Why?
+12:02
+Why climbing?
+'Cause I really, really like rock climbing.
+And then Jack said OK, climbing, but horror.
+And then we all went.
+And then months later, we're here.
+Basically, yeah, it was.
+It was a random discussion of us saying, man, we haven't done like a like a game jam or a land party or anything in a while.
+12:21
+We need an excuse to do that.
+And then Quinn said I've been we should do a rock climbing thing.
+And I said, what if we made it scary?
+Yeah, yeah, yeah.
+I think that's one of the things that kind of drew me initially to.
+It was like, well, like, I have a lot of friends that are into rock climbing.
+The Seattle area is like a big rock climbing area.
+12:37
+Yeah.
+Yeah.
+And this it's it feels like a very unique kind of theme tying the two together.
+What kind of inspired this specifically?
+I think it's like we, we started out, we knew we wanted to do a climbing game.
+We always loved horror as like a game genre and climbing is inherently the stressful, scary thing, right?
+12:58
+And so making a game that just merges the two that makes the, the stress and the, the, the fear associated with climbing and combine that with like other things that are chasing you and other things that are stressful, it just like accentuates it, you know.
+And so we, we had a lot of ideas and eventually we were like, well, we like, we all like big industrial facilities.
+13:19
+You know, I'm a big fan of the original Half Life and like, you know, Black Mesa and Aperture Science and all these things.
+And so we kind of built the universe that would fit the vibe we wanted to go for, and it all just kind of came together.
+Yeah, how, how did you guys, I guess?
+13:35
+Yeah, like it.
+It feels very Half Life, very Quake kind of themed to it.
+Was that sort of like the the initial art design?
+No, it was a little bit closer to the return of the Ober Din, at least when I pitched it.
+But Holly did some good like exploration early on that let us to believe that that's it wasn't going to work and that's when we moved.
+13:56
+Into the look we have now.
+In the original idea, it was going to be you're climbing up like a Cliff and it's going to be like rock dwellings and things like it was going to be the sort of historical site that you were escaping from something chasing you.
+And so it but it changed into this industrial horror setting.
+14:11
+It, it all sort of worked out in the sense that as we explored what would make the game kind of just more fun to play, play more smoothly, we realized if we put people in more claustrophobic spaces, that might work out better.
+It like we were able to sort of control the environment better and influence the the gameplay, influenced the art, sort of vice versa.
+14:30
+It it just went back and forth for a good two or three weeks, I would say, until we settled on this, yeah.
+Yeah, yeah.
+I'm noticing you have a Nine Inch Nails shirt on here.
+Did that have a kind of an influence to the sound design at all?
+Big time.
+Yeah, not so I mean, 9 Inch Nails is my favorite band and they absolutely influence the music of the game, a lot of the sound of the game.
+14:49
+I mean, I've like I listen to the Quake soundtrack just while I work on things to drill like Quake 1 soundtrack.
+It's just a nice, Moody, ugly thing to listen to while you work on anything.
+So yeah, that influenced a lot of the sound design.
+And yeah, just a lot of the the ambient atmosphere of the game too.
+15:07
+I love environmental sound design in particular, so this was a great space to just go wild and make it something insane.
+Nice.
+What does success look like for you guys this weekend?
+I mean, for this weekend, oh God, I don't know, a lot of good feedback on the new content, probably maybe new people seeing the game.
+15:25
+One of the things that's crazy for us is like a year ago, none of us expected we'd be doing this.
+So being here and also interacting with members of our community has just been like, that is success in and of itself.
+You know, people coming out to see specifically this game is crazy.
+It's.
+Like this might initially success kind of came across like this might pay for like 1 semester of my college courses maybe that that might be OK.
+15:51
+And it's, it's ballooned beyond like I think anything we were expecting just yeah.
+It the IT it's.
+Just it's, it took off like a rocket like as soon as the demo launched back in October.
+It's it's been an insane ride ever since and we're very happy about that.
+So happy.
+16:08
+Nice.
+All right, Well, thanks guys.
+Scott, thank.
+You nice to meet you, Scott.
+Good.
+Luck, Thank you so much.
+Well already off to a great start with some good interviews with some cool looking games.
+Walking around the show floor here and I'm hearing this awful banging noise coming from the Borderlands 4 booth that I can only sympathize with the exhibitors that are right next door to here and every every 5 minutes it kind of sounds like someone's going into a chamber and just smashing pots and pins.
+16:43
+What we got here.
+It looks like a some kind of dummy.
+There's a lot of broken glass in there.
+Looks like a a great time all around.
+A very loud time.
+I feel like they maybe should have double soundproofed it.
+The first couple times I was walking past this I thought for sure it was some sort of construction or something still going on.
+17:12
+Who am I speaking with today and what are you showing off here at PAX?
+Hi there.
+Thank you for your time.
+I'm husband also known as McDougal online.
+That's all my handles on socials.
+I'm here showcasing Rogue Eclipse.
+It's a game where you go zoom zoom and Pew Pew in the most spectacular neon infused Arcadia action possible.
+17:33
+Love letters the likes of Star Fox and Rogue Squadron to give you an actual answer.
+It's an epic Space Flight full of hell, rogue light, and it's set in a universe inspired by arabesque futurism, which is basically taking my cultural heritage and projecting that 500 years into the future.
+17:54
+And yeah, you basically take on swarms of starfighters, merciless armadas, and have to Vanquish a malevolent evil that spans the cosmos.
+Nice.
+That seems like a very unique theme.
+What inspired you to kind of come up with that?
+In terms of the setting or well, I guess I mean, for me, the way I describe this game, it's taking my childhood and distilling it in a bottle.
+18:20
+And The thing is I wanted to portray, I wanted to have AI wanted to take a different approach to science fiction and take the rich well, take my own cultural heritage and see see what's there right.
+18:39
+A lot of discoveries such as mathematics and astronomy have their roots in Arabia, so that's one tie to it.
+But then the other thing was just wanting to bring something different to the table and not just have something that was just entirely derivative of what we usually see in science fiction media.
+19:00
+And quite frankly, it's a setting that I like.
+It just felt like a new, exciting frontier for all sorts of new things that players haven't seen before that could happen.
+Nice.
+The the PAX show floor has been open for a grand total of maybe an hour or so.
+19:16
+What's the most surprising thing that you've seen people do with your game that you didn't expect them to so far?
+I think I am I here I was thinking I made the build slightly easier.
+As it turns out, it's more difficult than I think was expected, but that's.
+19:36
+A sign of a good rogue like, right?
+Oh yeah, I mean for me, but but, but that's the thing for me, it's having a effectively it's have that one more run, right.
+And part of the game is so there's two parts.
+19:53
+We have what we call an evolving rogue bike structure.
+So something in the vein of eternal we actually to to our narrative is actually woven into the structure.
+So we leverage it.
+And exactly how you come about that will be for players to discover when they play it.
+20:10
+But one of the key things is I love this genre.
+I could if we could literally be all day here if I mentioned all the Rogue bikes that I played.
+But I also wanted to use that structure to do really interesting things.
+20:26
+So for example, even though we're not, even though we are Rogue bike, if you die mid run, I don't let you walk away completely empty handed.
+So you'll get like new starfighters and components and things like that.
+Progression.
+Systems.
+Exactly.
+But what can I say?
+20:45
+I'm a sucker for being a purist.
+So very much, you know, playing like old arcade games back in the day where when you die, you kind of effectively get set back.
+How is how is the world of developing?
+This is a very 3D looking game.
+It looks it looks very good.
+Thank you.
+What's what's the kind of challenge with doing that style as opposed to the, you know, tried and true, like, you know, every you think roguelike games, you think top down pixel pixel art kind of things.
+21:12
+Well, I mean, I really chose probably what is one of the most unforgiving genres where, where can the player go?
+Anywhere.
+Where can they fly anywhere?
+How close can they get?
+Can they get?
+They can see everything.
+Nothing's hidden in this genre, but kind of in a strange way, the I actually looked far beyond that.
+21:31
+So simplest answer is that's where the bullet hell element really fuses nicely, where effectively it offers that skill mastery that it offers that skill mastery essentially because that's kind of the thing I'm more in for.
+21:49
+I'm less interested in like, oh, like you make your stats go up and like that.
+I wanted to be like players are gods and mastery of Space Flight and they've achieved that and that is really the main thing here.
+22:05
+Sweet.
+Well, thanks again.
+Good luck with the rest of the convention.
+Thank you so much for taking the time, I really appreciate it.
+Who am I talking with and what are you showing off today at PAX?
+Hi I'm Andrea, I do game design and art for the game.
+I'm Bob.
+We're a husband and wife team.
+22:21
+So our game needs is our new game.
+It's a fantasy cooking rogue like deck builder.
+Yeah.
+So you, you, you have a deck of ingredients in kitchen tools and some magic spells to enchant the cook tops.
+And then you play your ingredients onto the cook tops and you have to wait for them to cook.
+22:39
+So you modify them with the tools and you stack them together with other ingredients.
+And then customers come in and they they're hungry.
+So you need to make enough food to satisfy them, but there's no recipes.
+You just cook whatever you think looks good, whatever you think works well together to try and satisfy them.
+22:56
+But if you make them wait too long, they'll start getting impatient, they'll complain.
+So you try to hold it together until you've got enough food to to serve them.
+And once you've kind of cleared, cleared everyone out for the day, you take that money back to town so you can buy new ingredients, hire new kitchen staff that are like passive bonuses to combo enchant your cook tops with, you know, other kinds of passive rules.
+23:17
+And try and create a build that works well together to be like a coherent cuisine strategy for your restaurant, getting stronger and stronger across the run.
+Nice.
+This seems like a very kind of unique take on this.
+You know, like roguelike deck builders seem to have kind of like a very, I don't know, common theme of like dungeon crawling and things like that.
+23:36
+This feels very unique.
+What, what sort of inspired that?
+Well, I mean, first of all, like we, I mean, we love all these games.
+We play so many of them.
+But yeah, like having a fresh theme does a lot to just like palate cleanse a bit, you know, and, and there's just not that many that aren't super violent, you know, and there's a lot of people that we talked to who are like into cooking into the kind of light hearted fantasy of it all, but are like kind of sick of murdering everything.
+24:03
+And so just focusing on the positive emotion side of it of like, you know, making people happy, feeding them the stuff they love and, and having them be full and satisfied and thrilled when they leave instead of dead.
+Yeah.
+But also like, we love Iron Chef and Top Chef of those like creative cooking shows where you have a like a creative master who you throw a secret ingredient you throw a weird curveball at, and then they improvise and do something awesome with it.
+24:30
+And that's just like what we love about roguelikes.
+You know, it's like you learn the systems, you become a master of the systems, and then the game throws random stuff at you and you improvise.
+And so specifically for a cooking game that's very different from not just not just in like Rogue, like space, but like even for cooking games, they're always not always, but very frequently.
+24:50
+They are more like a line cook, high pressure restaurant, like overcooked style things.
+It's like do a recipe exactly as fast as possible against the time pressure.
+And this is more like you have all the time you need to think because it's turn based and there's no recipes.
+25:06
+You cook whatever you think will be good and everybody's coming into the restaurant.
+It's more like a chef's table, you know, like they're here for whatever you think they'll like, right?
+And so you can do more of the creative master chef fantasy improvising with what the game throws at you to make cool meals instead of the like high time pressure, you know, line cook simulator.
+25:26
+Right, yeah.
+How do you go about making like, you know, it, it feels like with deck builders, like synergies between interacting systems is like a really hard nut to crack or fish to chop in this case.
+And you know, like I, I feel like with things like, Oh, you know, your, your classic dungeon crawl things, it's like, oh, I have this kind of established trope to build off of.
+25:50
+But with cooking, I mean, as someone, I feel like this resonates with me a little bit.
+Open up the fridge, like, oh, what am I going to do with all these ingredients?
+How am I going to get creative with this?
+Is there kind of like a similar aspect with the cooking angle?
+Yeah, I mean, so that's one of the things that's most fun about designing something like this is getting to kind of explore the mechanical space that emerges from the themes that like, you know, instead of just doing another round of, you know, the same mechanics that you're familiar with.
+26:19
+There's a there's a shortcut there.
+A lot of people, like already know those things.
+You don't have to teach them.
+And that's nice.
+So we have a little extra load to lift here to get you on board with like the cooking metaphors, but then we get to play with things like, oh, well, this is seafood.
+So maybe you get a, a kitchen staff who's good with like like a sushi chef.
+26:38
+And so now that seafood doesn't have to cook as long and now you can serve it immediately raw.
+And that's a different kind of thing than when you have like the, we have like the battle Nona, like old Italian grandma who slow cooks everything, but she's like just super tough.
+And we'll just be able to absorb the complaints while people grumble while they wait, like, deal with it.
+26:56
+It'll be good when it comes and then they're happy and, and, you know, playing around with those, the the like metaphors and, and mechanics like thinking of spices, different kinds of spices as status effects and elemental properties and stuff and playing around with what those can mean in this kind of situation.
+27:15
+And then also just like the customer behaviors.
+And so like what, what is having cooking food, cooking on a cook top mean for what they can do to you?
+You know, so like this, like this little goblin on the screen right now, he he'll like knock the top ingredient off whatever's in front of him.
+And so, you know, you're manipulating this space in front of you too.
+27:34
+Like, you know, Slate aspire, you just drag cards directly to the to the enemies.
+But like here you've got the cook tops that are this other board to play with and he's stack ingredients on top of them.
+And so there's all this manipulation that can happen there and a fairly, fairly involved little math puzzle that emerges from that layer of like what their hunger values are, what your food values are, how it's split up between the cook tops.
+27:57
+Whether you really want to stack things together or spread them out.
+And what kind of synergies come from kitchen staff, cook, top enchantments, ingredients, kitchen tools that that are encouraging you to stack or spread or manage that situation?
+Is Gordon Ramsay the final boss?
+Gordon Ramsay is one of the possible Act 3 bosses actually.
+28:20
+Excellent.
+Yeah.
+He nailed it.
+Has there been anything surprising with how people have been interacting with the game so far that you didn't expect?
+Yeah, honestly, OK.
+So we had two big like question marks in our mind about who the game really is going to appeal to.
+On the one hand, we like, we're really deep rogue like deck builder nerds and we're like a little nervous at first that like it's got a very kind of cute and friendly aesthetic.
+28:46
+And we're a little nervous that hardcore rogue like deck builder folks might assume that it's simpler than it is because it's it's pretty complicated.
+We got a lot of feedback from our friends that are really into the genre that like, it's a lot to think about.
+It becomes a satisfying puzzle once you get in there.
+But especially again, with like having to learn the cooking metaphors for everything it can, it can feel like a lot.
+29:06
+So we're worried that the aesthetic might, might give people this wrong signal if they thought it was too simple.
+Luckily, I haven't really been seeing a lot of people warded off by that.
+On the flip side, though, I've been really surprised that so many people have been coming up because they like the idea of like a fantasy cooking game, but they're not really that familiar with roguelike deck builders.
+29:26
+But they're like getting into it.
+They're not.
+They're not put off by the complexity the way I kind of worry they might be.
+And it's a good lesson because what they actually say is like, oh, all those cooking games are so it's stressful.
+They're so high pressure that I actually get to like think I don't care that it's complicated because I've got all the time I need to like think about my turn.
+29:45
+And so that's been kind of a relief, like, oh, cool.
+And then like, maybe this actually works for people who are just into a chill cooking vibe, even though it's actually a really cerebral, you know, rogue like deck building puzzle because they just have the time to to spend.
+30:01
+It's not a real time pressure.
+What's it like being a a husband and wife Co dev team?
+That's pretty great.
+It's just the two of us.
+So we we don't really have anybody else that we're like responsible to.
+So if we need to take a day off, not a problem.
+30:18
+You know, if our, we have kids.
+So you know, if our kids sick or had some issue come up like it's easy understanding and nobody to feel like we're letting down if we take that moment and then we can hop back on later and finish the job.
+And do you have any?
+Favorite recipes that have made it into the game?
+30:35
+Well, so there's no real recipes in the game.
+You get to do whatever you want.
+But we have been just like sticking foods, ingredients, ideas in that that we think are fun, that we like, that we we like to explore.
+So yeah, I guess sometimes we have to kind of question whether like does everybody even know about this kind of food?
+30:55
+But at the same time, because you've got this massive catalog of different cards, you know, you get to, like, put some weird niche things in there that only a few people will ever really get.
+It's OK.
+Not everybody has to get everything.
+So yeah.
+Nice.
+Well, good luck.
+Awesome.
+Thank you so much.
+Yeah.
+Thank you.
+I'll be with you till midnight.
+31:17
+Please go ahead.
+OK, great.
+Yes, so I'm Scott.
+I do a podcast on roguelike games.
+Pleasure.
+Who am I talking with and what are you showcasing here at PAX today?
+Fantastic.
+So my name is Shiv.
+I am Head of Business Development at PAX Autocratica.
+We are a satirical totalitarian colony SIM with rogue light FPS.
+31:35
+What that means is you are able to build and manage your own base, pass ideological policies and decrees which shape how your citizens live, and then take those very citizens into space expeditions for FPS Rogue light combat.
+The idea of that being that the gameplay loop starts forming around that interaction or interplay between how your base is formed and what you do in open space.
+31:58
+So when you're in space, you're able to get fast-paced FPS action, gather new resources, conscript new groups and get them all the way back to your base.
+So while the space element of it is FPS roguelite where it's always changing maps reset, the core element of your base stays the same and that interplay is what the fun is all about.
+32:20
+Well, I mean, just walking past here, it looks very visually impressive.
+I thank you for that.
+What was what was the inspiration with going with a a very detailed, very graphical heavy rope liking because that that seems like it's a it's a hard balance to strike.
+32:38
+I.
+Love it.
+Best question I've got all day.
+So I think one thing which a lot of games aren't able to perfect is the replayability.
+Four reason behind that being that you can get very easily saturated in the either direction.
+If you go into FPS too deep, it can become kind of exhausting after a point just having the same game play at the same level as well with base building.
+32:59
+I, for one, can get very bored after the first two hours of base building.
+What our game allows you to do is it has fresh replayability because if you're tired of your base building, go explore space.
+You're tired of exploring space, lead your troops into combat.
+Tired of going into combat, bring it on back to your base.
+33:15
+So that unified loop still goes on.
+And for us, we always wanted to have elements of sci-fi.
+We wanted to have elements of dystopia.
+If you ask for inspirations in terms of games, I would say we prefer to have one.
+As to 1 we we prefer to avoid one is to 1 comparisons, but I would say cult of the lamb is close in terms of the dystopian sci-fi scheme for the darkness, the lore behind it, risk of rain for the for the roguelike is definitely up there.
+33:45
+And for the base building clarity, the approachability, the get your guy, make him do this, make him do that and what happens next?
+Battle World right up there.
+Nice.
+What you, I mean you said your background was kind of like in the biz dev side.
+How, how is that in terms of like, you know, there's a lot of indie devs who are just kind of like do it all.
+34:04
+But like, you know, being able to like market a game correctly and being able to like make sure people see it all the kind of like, you know, making sure it's it's successful kind of stuff.
+How, how Like what are the sort of challenges involved with that with a small studio like?
+This my second favorite question.
+34:20
+So I think a big part of building the game correctly is first understanding what vision you want.
+So as head of business development myself, I wasn't part of those early days, but a lot of what it included was trying to have a game which has a fun gameplay loop and trying to get that perfect is always step one.
+34:37
+As a marketing and BD guy, I'm not going to lie and say market from day one because that's not the way stuff is actually built.
+Once you have a community which is giving you feedback which is passionate about the game that you've built.
+Once you have a vision that is non compromisable, then I think getting in the right sort of vision or handheld help for marketing or biz dev is very powerful because first, the community needs to always feel engaged.
+35:00
+The community is not going to feel engaged only within the game.
+You need to have outlets for them to go and express themselves outside.
+We've seen glimpses of this in the past few decades, but with a today's landscape where people Rep Fortnite not in the game.
+They Rep it when they breathe and wear that T-shirt.
+35:15
+So I think getting outside of that game is only possible with having engines of marketing and biz depth behind it.
+And I think what I've been able to do is, to a certain degree, get more awareness about the game, get more collaborations that are able to get more passionate people to see the game through different lenses and communicate that to a community in an extremely strong way time and time again.
+35:36
+What's something that has kind of surprised you about people coming here to the Play Play the Couple demo?
+Laptops, people don't leave our seats.
+People just don't leave.
+Maximum today the seat has been empty for 30 seconds.
+Wow, nice.
+So.
+I mean besides, jokes aside, I think everyone comes for different reasons.
+35:53
+Everyone has different passions here, but the core idea is if they can gel with our game.
+Our game is very lore heavy, but it also gives you just a pure escape from the day.
+It gives you a way to completely reset, have your own base, have your own life story which you just cultivate and grow.
+And I think giving people from the age of 9 to 70 plus today in the first few hours already a glimpse of that gives us and the entire development team so much joy.
+36:17
+Nice.
+Well, good luck.
+Pleasure.
+What was your name again?
+Scott.
+Scott, pleasure to meet you.
+Nice to meet you.
+Here it is.
+Hey gang, Future Scott chiming in here once again.
+This is where I would have had the interview that I did with the developers from the game Master of Peace that were showing off at the PAX show floor.
+36:39
+But I think because of the proximity to the Borderlands booth or something, the the audio was unfortunately totally unusable.
+And as a result, I can't really put it in here without having to really like waylay your eardrums with like smashing sounds and all sorts of other stuff.
+36:58
+So great game.
+I think the this master of piece was probably my game of the of the day of all the ones that I had played.
+And I thought I had just a really good visual art style too, is very, very much kind of like into the breach, but with chess pieces in a way.
+37:18
+And hello, this is Hi, Molly Taking.
+This is my cat.
+Yes, hi.
+I knew this would happen.
+I knew if I left my office door open while recording, the cat would come in doing her best to lobby for dinner. 12 minutes, actually, an hour and 12 minutes ahead of schedule.
+37:39
+But where was I?
+Yeah, So masterpiece.
+Great game.
+Loved playing it on the packs show floor, but the audio interview quality was just not up to par unfortunately.
+But I did send out kind of like text questions to them to come and get back to me.
+37:56
+So if that happens I will link it in the show notes.
+But otherwise, yeah, I'll be linking kind of like all the games that I've been interviewing people here with so far into the show notes, masterpiece included.
+But instead, I think what I'll do is I'll insert here a little, a quick little 32nd promo here.
+38:17
+I like to famously think that I don't don't do ads on this program, but this one, I think is kind of an exception.
+So without further ado, let's hear from Danny and David.
+Hey Danny, have you heard of Rogue Pod Light?
+38:34
+Cast.
+Oh hey David, you mean our bi weekly podcast where we play and discuss a new rogue light every episode and try to figure out what makes a rogue light truly great?
+Yeah, that's the one on Rogue Pod Light Cast.
+We've embarked on the impossible mission of creating the perfect Rogue Light tier list.
+If it's so perfect, why is everyone on Reddit always mad at us Because Noita isn't C tier?
+38:53
+I guess you're gonna have to listen to find out.
+Check out Rogue Pod Light Cast wherever you get your podcasts.
+Now you might be thinking to yourself, that's weird for a roguelike podcast to have an advert for another roguelike podcast on their own show.
+39:10
+But I'm actually a big fan of of Danny and David's program, the Rogue Pod Light Casts.
+I've listened to every one of their episodes.
+I think they have just a a really great vibe to them.
+And yeah, I think you should 100% check out what they have on on offer.
+39:28
+They've also covered a whole bunch of games that we haven't covered because as you are probably well aware, there's like a bazillion games in this genre.
+And you know, why not have multiple rogue style podcasts?
+As long as as long as this the Grog pod is in like the top 10 of roguelike podcasts out there, I'll be happy.
+39:48
+But Danny and David Rogue, rogue pod light cast, great show.
+Also based out of the Puget Sound area.
+If I had a, you know, nickel for every one of those.
+But but yeah, feel free to listen in on their show for a 32nd spot for the Grog pod here as well showing up on there.
+40:07
+So we've been doing a little trailer swap program.
+But yeah, so rogue pod light cast, great show.
+Speaking of great shows, let's get back to past Scott on the show floor.
+This is me grabbing some time with the people who had done the panel.
+40:29
+Also I think very, very appropriately themed with this and Danny and David's program.
+The panel was called being an older.
+Content creator doesn't have to suck and actually it was a really great panel.
+I sat in on it and it was just hammering all the points home of like, what is it?
+40:48
+What is it like to be like making whatever content is it as a geriatric over 30 kind of a thing?
+I'll link the Pax W video that they did or the recording up on the show notes as well.
+41:05
+Yeah, I was hoping just to get time with maybe one of them after the show and and that I actually got time.
+But basically all of them, I think -1 I forget who, but but yeah, listen in on a couple minutes that I was able to grab from them at the end.
+I was noticing that the the host of the panel Tanya had.
+41:24
+This really great.
+Key chain kind of thing on they had like a, you know, a little charm on the end of it that was saying like social battery and it had like a little physical slider to it and was like all the way at minimum.
+So I saw that and it was like, OK, better wrap this up.
+41:39
+Maybe not make it like a a 10 minute interview kind of thing.
+I need to get me one of those for sure.
+But yeah, listen in on this bonus bit at the afterwards of being an older content creator doesn't have to suck with panelists.
+Tanya Depass, Keith Dwayne Mitchell, Lauren Urban Hadil, Jean, Tyler Boyce, and Alex Skye.
+42:07
+Yeah.
+Well, thanks.
+Great panel.
+I was trying to think of of like good questions to come up with afterwards, but I was like, Nope, you guys covered that, you covered that.
+Amazing.
+I have maybe one follow up question.
+What is content?
+Consumable bite size media that people make for money.
+42:25
+What she said.
+Creative things that you put out there for other people to enjoy.
+What is content to you?
+And I guess maybe that pivot off of that, what is what does like content mean to you from like a podcast perspective?
+Something I can listen to in an hour to 30 minutes.
+42:46
+Yeah, it has to be easily consumable.
+Like I I know that a lot of people have like 3 hour games but I I went through Gilligan's Island.
+Never again.
+I kind of agree with both.
+I do prefer podcasts in shorter bite size form but I don't mind if they're longer.
+43:05
+But I think what's more important is that it is 100% something that is focused on audio.
+A lot of a lot of people take what started as a video and just turn the audio into a podcast and aren't thinking about the audio only version of it.
+43:23
+And so you lose something in the translation.
+So podcasts are best when it is geared towards something and where you you only need the audio 100% and you get all of what is necessary.
+What do you guys think about AI stuff invading the podcast realm?
+43:40
+Content wise, I.
+Hate it.
+I hate it.
+Yeah, AI is coming from my.
+I'm going to meet it in the parking lot.
+AI, please leave.
+Now fuck AI, fight it.
+I'm going to in the parking lot, but no, I I worry about AI because it's not.
+It's not.
+I just don't think it's possible to use it responsibly.
+43:58
+There are no guardrails and I'm tired of it scraping my work.
+Stuff.
+And to be clear, we're talking about large language models that steal other people's content.
+Generative AI, Yeah.
+And so, yeah, there's no ethical way to use it.
+44:14
+It is not smart at all.
+It is consuming large quantities of resources every time it is used.
+And the people who say I need to use it to come up with creative ideas are basically just recycling stuff out of like a word salad.
+44:36
+It's not actually doing anything for anybody.
+It's and it's stealing from other people's content, whether it is art, whether it is music, whether it is podcasting, whether it is whatever it is, it is just taking stolen stuff from a whole bunch of creators and putting it in a blender and spin it out in other places.
+44:56
+So yeah, those kind of generative AI models are just AD for every part of every industry.
+Also, one last thing, if you use AI, all of this consider you're just silly.
+You're silly and unserious.
+Yeah.
+Very silly.
+What makes you what makes you guys the most optimistic about technology with podcast stuff coming up?
+45:17
+People with the whole AI, I find people becoming that more invested in their art, they're spending more time on their art and they're fighting for art, podcasts included, and I think that is lovely and wonderful.
+The technology I'm the most optimistic about is we're recording this right now on a phone and it's probably got some decent sound to it. 10 years ago, this would have been impossible.
+45:45
+This would have been this.
+The sound would have been horrific.
+This would have been a chunky device.
+It would have probably required a giant battery.
+The fact that the, the actual physical technology to do what you're doing right now has become easier and cheaper and and easier to get more accessible at the tools to do the creative thing that people want to do have become easier to access.
+46:14
+So it's it's that difference between I'm not having technology do the creative thing, I'm having technology make it easier for me to do the creative.
+Thing I also like the fact that technology now empowers people to do things that they were afraid to do in the past.
+A good example is feature versus.
+46:32
+V tubers.
+A lot of people want to do this, but they can't do it because they're afraid to show their face.
+But a lot of people say they need to show something to represent who they are.
+With the new technologies out there and their programs, applications, the processes are in place where people become V tubers and live their life.
+46:48
+And do what they want to do and have fun.
+Great.
+Thank you guys.
+Great panel.
+Thank you.
+Really an incredible day of paxing today here on Friday and standing out here watching everyone go through the risk of rain to PC tournament as it is, I think going on a timed basis.
+47:12
+But never have I seen so many monitors all running risk of rain to at the same time.
+And it's kind of a glorious sight to see all sorts of wild, I guess pixelated question mark nonsense going off on all the monitors at the same time.
+I'm curious to see who the winner will be as I did the the Vampire Survivors winner interview last time.
+47:35
+Curious to see how how they scored, how they liked it and what the overall vibe is.
+Fun.
+So yeah, I'm Scott.
+I run a podcast on rogue like, rogue like games, whatever those things are.
+Did I hear right that you were first and 2nd place?
+47:53
+1st and 2nd both on rail gunner I got the first score was 2048.
+That's all that matters.
+So it was by time.
+Yeah, it was by time last year it was most amount of points in 60 minutes.
+So like people just looped on drizzle and got the win.
+48:09
+But this one was like fastest time I was I was so locked in This time I I have 700.
+I think I have like 800 hours at this.
+Point.
+Wow, I've been.
+Rigorously trading for this moment.
+So this was this was an event that you were actively seeking out.
+48:25
+Yes, yes, to compete in.
+Interesting.
+So they did.
+It last year because they had a training last year.
+Nice.
+Any any tips for burgeoning risk of rain Two players?
+You you did it with Rail Gunner right?
+So DLC.
+Movement speed is your best friend if you're trying to get the fastest time.
+48:47
+Shaped glass.
+I I built like 2 shaped glass to have I was doing 4 times as much damage.
+I killed metrics instantly and there's a lot of tech on rail gunner specifically.
+You can pillar skip with no items, it's just pretty.
+49:06
+Difficult.
+I don't mean to exclude the other other parts of the posse here, but how?
+How have you enjoyed the the con so far?
+Is there anything else you're looking to over the weekend?
+Well, I'm here for four days.
+I went to the Gearbox thing hoping they'd announced some Risk or rating news today, but they're just like, oh, hey, we're announcing a stream.
+49:27
+We're going to be announcing stuff on the 5th.
+But I think I'm I'm going to see the voice actors for Clear Obscure tomorrow.
+I want to play Kirby Air Riders.
+Yeah, I mean, just a lot of demos.
+49:44
+I played a lot of a lot of really fun indie games.
+I'm a big indie game.
+Fan any anyone wants to stand out so far?
+There is swap meet, which is a lot like risk or rain.
+I've been keeping my eye on it for a while and I thought it was so cool when I, when I saw it here.
+It's like roguelike, but you like swap out your body parts and it's super silly.
+50:06
+I it's a lot of fun.
+I think there's a play test soon.
+Yeah.
+And then Kirby Air Raiders because I really like that game on the the game.
+Well, thanks, Congrats again and yeah, enjoy the the rest of the con.
+50:26
+Everything.
+Well, you know how they say Rome was not built in a day?
+Well they also say that you can't see everything at PAX in one day.
+I think this kind of concludes my coverage for PAX for this year as I was so excited to go back to the main Convention Center after going and watching the the Risk of Rain 2 tournament, Like, oh, I've got to go and check out other games that people have recommended.
+50:51
+There's always so many things.
+You just walk by and write, oh, I'll do it a little later, I'll do it a little later.
+And then you get up there and they say, oh, sorry, the convention show floor closes at 6:00 PM and it's like 558 as you start rolling up that escalator.
+So word to to future Scott or I guess future future Scott next time.
+51:13
+Yeah, make make sure to just go and see everything.
+It's always fun coming down here to downtown Seattle to experience video game conventions first hand, talk to lots of interesting people, play lots of interesting games, and just take in the overwhelming visual spectacle and sensory overload that accompanies 10 hours of walking around looking at video games.
+51:42
+So I'm going to throw it back to you, future Scott.
+This is past Scott signing off as I walk down to catch a bus to head home for some grandma babysitting over the Labor Day.
+Weekend.
+Well, thanks again past Scott for doing all that recording and giving future Scott the notes that I probably need to get a pop filter for my phone as I do any more of these kind of recordings in the future.
+52:11
+Yeah, I think like, once again, always have a great time at PAX.
+This is one of those like wake up call things of like, wow, maybe I do need to get the full weekend pass and just need to go every day and just scope out everything on day one and then day 2 be like, all right now interview time or like, yeah, just there's there's no way you can see it all in one day.
+52:29
+Weekend pass 100% recommended.
+Yeah, that's gonna wind down our special here as my cat is angrily demanding food from the hallway.
+You can send in some long form text correspondence to our e-mail grogpodzone@gmail.com.
+52:47
+You can see all of my unhinged ramblings about the Game Awards at our Mastodon at Grogpod Game Dev dot Place.
+And Grogpod dot Zone is the one stop shop that just has everything.
+Just send your friends there.
+Grogpod dot Zone has all of the stuff.
+53:04
+All of the mutable, irrefutable rankings and such.
+But to play us out here is going to be a little teaser for our kickoff to season 4.
+Got Four Seasons of this already.
+I don't know how my Co host would put up with me for this long, but season 4 kicking off with an oldie but a very goodie, very popular.
+53:29
+Potentially a frog in my throat as I almost say it.
+Maybe traditional roguelike question mark.
+We're revisiting the Mystery Dungeon series and we are coming back to the Mystery Dungeon series with Pokémon Mystery Dungeon Red and Blue Rescue Team all the way back from I think 2004 or something, way back when.
+53:51
+But yeah, playing us out here will be some some tunes to get you in the mood for rescuing that Doduo that's fallen into a pit.
