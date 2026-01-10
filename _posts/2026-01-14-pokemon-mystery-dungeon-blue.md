@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Pokémon Mystery Dungeon: Red/Blue Rescue Team (with Helen @gagther)"
+title: "Pokémon Mystery Dungeon: Blue Rescue Team (with Helen @gagther)"
 date: 2026-01-14
 file: 
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, tribes, starsiege, deadzone"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, pokemon, mystery dungeon, blue rescue team, nintendo ds, rescue team dx"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/deadzone_rogue.jpg
 thumbnail-img: /assets/img/deadzone_rogue.jpg
