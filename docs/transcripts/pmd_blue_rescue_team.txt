@@ -1,0 +1,2195 @@
+0:52
+Greetings friends, and welcome to another episode and another season of the Grog Pod Roguelike podcast where we're all friends, friend.
+Each episode we wake up inside a new rogue style game, rescue the lost game mechanics and lore, and if it gets to Lucario rank, we'll revisit it at the end of our season recap tournament.
+1:13
+I am you're a 5000 IQ host, psychic host of the podcast Scott Berger and with me for this kick off episode of the season of the Grog Pod.
+Who's that pokey host?
+This is Will Wright.
+1:29
+This is going to be the Dream Eater dragging you to the dark place.
+Oh, hello.
+I'm known as, you know me.
+I'm old, shadowless Andrew Harshman.
+And it's me, Colin.
+I'm just a helpless caterpie who needs help in rescuing.
+1:45
+And we couldn't be navigating the the crevasses and fire fields of this episode without our special guest, who's returning from our previous Mystery Dungeon, Sheeran the Wanderer episode.
+Hi, I'm miss Helen at Gagsler.
+2:03
+I don't have a Pokémon related bit ready I'm sorry.
+Well, as you probably could have guessed from the from the title of the MP3 that you just downloaded, we are talking this week about Pokémon Mystery Dungeon Blue Rescue Team released in Japan November 17th, 2005 and in the North American released September 18th, 2620 years.
+2:30
+Where can we find it?
+We can find it on Game Boy Advance for the Pokémon Mystery Dungeon Red Rescue Team version version.
+We played Mystery Dungeon Blue on the Nintendo DS and the remake the remaster Pokémon Mystery Dungeon Rescue Team DX on the Switch released in 2020.
+2:51
+This was developed by our friends at Chunsoft who gave us our previous episode here of Mystery Dungeon 2 Sheeran the Wanderer.
+I'm looking through their list of 10 other games that they've developed up to this point for Pokémon Mystery Dungeon that we haven't haven't covered it all yet because I guess technically when we were talking about Azure Dreams and one way Heroics, those are I guess honorary Mystery Dungeon games.
+3:16
+But anyway, published by I don't know if anyone's really heard of this solo indie dev company called The Pokémon Company.
+Something like the highest grossing media franchise of all time or something.
+I don't know.
+It's really obscure.
+You've probably never heard of it.
+3:33
+Following my my heuristics from the Sheer and the Wanderer episode, because this game is not on Steam, Trying to figure out how popular this game is.
+Blue, Blue rescued Red like this, I guess.
+Combined Blue and Red Rescue team sold 5 million copies.
+3:51
+And if we're going by the the Sheeran math that I did last time, it's something like, I don't know, like 2% of people actually like rate games on Steam.
+So 5 million sales, 2% review rate.
+It's about 100,000 reviews.
+Let's say.
+That would put it on our Steam list of all the other games that we've talked about at Something about like the like the number 25 most popular Rogue in air quotes game of all time, which is no small feat.
+4:21
+You like Pokémon?
+What?
+And also the the amount of gameplay hours is tough to to do.
+But following Sharon from last time I went to howlongtobeat.com.
+And according to that your average player Pokémon Mystery Dungeon Blue has about 18 hours of main story, 43 hours of main plus sides and you're completionist of Mystery Dungeon.
+4:47
+Mystery Dungeon Red and Blue has 208 hours of gameplay in it.
+Scott, you told us 10 hours to beat the story.
+I just want to point that out.
+That's how long.
+It was.
+Astray.
+That's how long it took me.
+But before we jump into our our rescue rankings of this game, Helen, you're in a dream and you've been visited by a Gardevoir who has who tells you a a secret.
+5:19
+And that secret is the one sentence description of what one does in Pokémon Mystery Dungeon Blue Rescue Team.
+It's not a rogue like.
+OK that's one.
+My real 1 is what is it like to be a child and to not be believed?
+5:40
+That's what I have to say about this game.
+But you're not a child.
+You're a Pokémon.
+You're a child.
+Or are you?
+You're a child.
+You're a child who is not a Pokémon.
+There we go.
+That sums up all the game play.
+That sums up all the items in the game.
+5:56
+Well, she only got 1 sentence.
+That, that.
+Yeah, OK, that's fair.
+Yeah.
+We, we have gone a little off the deep end historically.
+What else does one do in this game other than be be a child that everyone ignores?
+Well, I mean, Helen, you say it's not a roguelike, but there's lots of dungeons.
+6:14
+Those dungeons have floors, they're connected by stairs.
+There's there's leveling, there's there's shared rules and move sets between the player character and the enemies.
+Do you lose?
+Procedurally generated.
+Do you lose those levels in?
+Well, I mean you lose pokey bucks which are, I mean practically is important.
+6:35
+You do that in normal Pokémon too.
+When you lose a normal Pokémon you lose money.
+Is that a rogue like?
+Yes, I only if you crawl under a truck afterwards.
+So I mean there's no perma death, but there is a there is a perma death mode maybe later in the game.
+I think it's it's plenty roguey for us to be talking.
+6:53
+You're right though, Andrew, they should kill the Pokémon when they die.
+Yes, thank you.
+I'm.
+Well.
+Thank you.
+To that in the start of killing Pokémon conversation.
+Yeah, you know, so yeah, what, what?
+Let's let's paint a little bit of a picture for people who maybe aren't familiar with this game.
+7:14
+It is, of course, a grid base.
+You're you're piloting a Pokémon and no, no, no, you're not a Pokémon trainer in this game.
+Think again.
+I think again folks, your your character, not just your character, but you yourself have been Isakai into the Pokémon world and you're piloting kind of like the Avatar program in James Cameron's Avatar.
+7:37
+You're piloting a Pokémon and in my case a blue Pokémon.
+So it's even more apt a comparison on in a grid based world, you build a party and you are going around engaging in Mystery Dungeon trademark combat, which usually involves bumping into adjacent enemies.
+7:57
+Games doing a lot of math behind the scenes and so you get a good dungeon crawl experience.
+But it's fast, it's quick, and because it's a Pokémon game, you can select manually select specific abilities, TMSHMS which stand for something I don't.
+8:13
+I couldn't be bothered to look it up.
+Trademark.
+Absolutely.
+Yeah, I think like this this game I added to to our list and I think this this season of the podcast will kind of under score.
+Why?
+8:28
+Because in the past we've kind of that intentionally like pulled at the Silly Putty that is like the the madness of genre definition.
+And there's some games that we've covered that are definitely not roguelikes from their marketing material, but maybe have a mode that's similar to it or you know, is is enough inspired by the the idea of the genre that warrants at least a discussion, if not like it's it's interesting from a discussion perspective.
+9:00
+And I think that's why like this one lands here because the these games sold something like almost 14,000,000 copies before FTL became popular.
+And I think it really kind of unders like underscores like this is what like turn based grid based dungeon crawlers were up until other other ones that have like come out that have kind of like wrestled back the definition of like, oh, that's not a real roguelike.
+9:32
+It's this instead.
+Like I don't think there have been 14,000,000 players of net hack or dungeon crawl stone soup or things like that.
+But so it's worth talking about like that's that's like 11,000,000 before Spelunky O 8 came out and maybe like 12 million before Binding of Isaac.
+9:50
+So like this was like a game that came out that had such enormous colossal appeal, large probably because Pokémon, but I think like is maybe the best intro to a traditional roguelike game question mark.
+10:11
+Is this the most most popular traditional roguelike?
+In terms of like grid based turn based dungeon crawling, yes, permadeth, no, as we'll probably talk about in a minute, but I think like because we're, you know, coming off of the heels of our Omega Bowl 3 winning caves of cud, I think like permadeth is like a major critical component to like what makes a rogue like work.
+10:40
+Like I don't think Hades would work if permitted if like the death of that run didn't reset you.
+In the same vein, playing Caves of Cud as a pure roguelike is a miserable experience right out the gate.
+It's really bad.
+It is not user friendly at all.
+And playing on like a role play mode where you can like reset from a checkpoint much better.
+11:00
+It kind of comes back in on itself afterwards of like oh OK now I'd like understand all the game systems and all these enemies and stuff and now primitive feels like a a more suitable option.
+But that's why when I was coming to this, like I, I think I started playing this like last summer or something because I knew that like this was on the horizon.
+11:20
+Like I'm giving myself plenty of ramp time to just kind of sit and Stew in it.
+And like when I was playing caves of Cod, I'm like, God damn it, I just wish it was like, just send me back to the start of the dungeon.
+Don't like kill me outright for the perma death mode.
+But but I think we're maybe getting a little bit of ahead of ourselves like this, this Pokémon game here is like neck deep in nostalgia.
+11:43
+Like this is like people are super nostalgic not just for Pokémon, but for this game in particular as well.
+So I kind of want to go around the horn here with what what are people's experience with Pokémon growing up?
+How does that translate to now?
+Like you, when was Yeah, Colin.
+12:02
+I mean, I, I posted in our, our, our internal discord that this felt like Jason Bourne, where I was just like unbidden knowledge springing forth from my deep subconscious, like Pokémon knowledge 'cause I basically had everything from the first two generations of Pokémon memorized at some point in my life 25 years ago.
+12:28
+But that is, and then I haven't really done anything with Pokémon since then.
+So you know, everything that you could play on the Game Boy Color.
+And so then, you know, DS, I never had DS.
+So this, I actually, I'm, I'm surprised that I didn't know about these.
+12:44
+I'm surprised that my sisters didn't play them.
+They're seven years younger than me.
+So I feel like they must have just not known they existed.
+I feel like these did come out during like peak Halo three time for us and I feel like that was at least for me anyway, That's where mine mine's I was at will what?
+13:00
+What's your historical experience of Pokemans?
+The Pokemons, Well, yeah, I was all about that when I was in like, I want to say 5th grade, 6th grade.
+I mean, the fifth grade, 4th grade sounds right.
+Actually, I vaguely.
+It's 5th grade. 5th grade.
+13:17
+OK, yeah, no super into it, only the original 151.
+That's what my knowledge kind of cuts off at.
+I know I'm getting some eye rolls right now, but yeah, no, I was, I was the kid that I would draw a Pokémon and like sell that drawing to someone in school because people were like so obsessed with this stuff.
+13:36
+And so I was able to monetize on these, these mega fans and I, I, I thought it was an interesting franchise.
+And now I look back and I think I'm, I'm not, I think it's so stupid.
+But you know, you know, times change, people change.
+13:53
+People grow up.
+Some don't, as we'll find on this podcast, some you.
+Know.
+Yeah.
+But not the Pokémon in this game.
+They don't evolve, at least not until much later.
+Yeah.
+I was.
+I was pretty pretty disappointed when my pokemans didn't evolve when they hit the appropriate levels.
+14:10
+Well, we'll, we'll, we'll get there.
+We'll get there.
+We're.
+Talking about story in a bit.
+So much to say about Pokémon.
+We could do a whole episode on this on this topic.
+Just 4 unks reminiscing about what it was like when Pokémon first dropped.
+14:28
+So my experience was that I was on a family camping trip and some of our family friends, some of the kids had Pokémon and I played it.
+And I've said this before, what struck me about it was it was the first like good Game Boy game that I experienced.
+14:46
+It was the first, like, full-fledged, fully realized game experience, but on this tiny little, you know, black and white portable system.
+And that that really struck me.
+Also, I thought it was very entertaining that the main antagonist was named Gary because my dad's name is Gary, and he was delighted to hear about that.
+15:08
+So I, I was, yeah, I was very into it.
+I clicked the cards for a while, but really I did not touch a Pokémon game beyond red and blue for a super long time and these games I didn't realize existed as well.
+15:23
+I'm not totally sure what I was doing instead of picking up more Pokémon games, but I guess I got distracted by PC gaming or something.
+Helen, me Turn.
+I've played every mainline Pokémon game.
+I've played every single one for a long time.
+15:41
+When you googled my full name, what you found was me as like a 12 year old placing in like top 8 or 12 or something in the Seattle official VGC Pokémon tournament for like whatever kids bracket.
+16:01
+I'm deep in it.
+I have like elaborate and extensive Pokémon and Pokémon trivia knowledge.
+Like I don't, I don't think of myself as a crazy Pokémon person 'cause I'm not like, I don't know, talking about it all the time when it's not relevant.
+16:19
+But like, I don't know, I'll watch like, you know, every once in a while I'll click on like a listicle or video listicle that's like top ten Pokémon things you didn't know.
+And I'm like, I knew that I knew that.
+Well, actually that is not quite correct.
+16:37
+So that's my Pokémon experience.
+Big fan of Pokespay pocket monster special the Pokémon manga which is maybe the best outside of the history dungeon games.
+The best like Pokémon world stories are in that comet.
+16:56
+Do you need?
+Do you need me to list more credentials what I'm about to say?
+Yeah.
+I mean, we'll, we'll probably be touching more on on it as we go along, but.
+I need to know more about your your Pokémon battle skills now.
+It was that that that was like 6 Pokémon Pokémon battle.
+17:14
+You Game Boy link each other to this like Convention Center or something.
+I'm I'm fascinated at like this.
+I'm assuming this was mostly pre Internet, yeah?
+Well, this was in the Nintendo DS era, so the first like official VGC tournaments were in the DS era.
+17:31
+So it was like, you know, everyone brings their own DS and game and they actually didn't have a built in system at the time to like force like OK, like now for those systems, they for those for those tournaments, they have a system in the games world just like set all your Pokémon to 50.
+17:48
+Like that's the rules.
+But like you actually have to manually make sure your Pokémon met all like the rules.
+And then they have to like check your team.
+You have to like carry around a team list to make sure you weren't a little cheater, but VGC is it in its life.
+18:04
+VGC stands for video game championships.
+It's the like official Pokémon company, like the official competitive format.
+It's bring 6 take four and it's double s.
+So you like go in and you get to like this like, preview screen and you can see your six Pokémon and their six Pokémon, and then you each take four of them into the battle.
+18:30
+So you can like, just want to see what they're cooking.
+And if you like, see if you know what's maybe you'd like, think you know what they're going to lead with or whatever.
+Or, you know, they have a really hard counter to something you have.
+You have a really hard counter to something they have.
+So yeah, but double s, double s is important.
+18:46
+What does wait?
+What does double s mean?
+2B2.
+So in Pokémon Ruby and Sapphire they added double bottles, which is.
+Both sides have.
+Two Pokémon out.
+OK, got it, got it, got it.
+I was like, is it like you and a friend are also playing and you're like.
+19:03
+That, Yeah, I completely misunderstand.
+Nevermind.
+All right, I'm glad you asked.
+I feel like maybe maybe we're getting off topic from from our roguelike podcast.
+But all this to say, Helen is incredibly qualified to talk about this and she has the most, you know, valid opinion of anyone here, obviously, because she might not be the very best, but she was the 8th very best.
+19:27
+More valid than Whoa 9 holographic, ancient new.
+Pokémon Movies.
+Are those old ones or are those from when they re release them and don't?
+Let them.
+These are the O GS in the foil from God.
+What was that?
+Did you have to watch that movie 9 times to get 9 cards?
+19:44
+You had to go and buy a ticket.
+Did you go?
+Did you see the Pokémon movie 9 times?
+I saw the poke, I saw it maybe three times in a row and then my parents were taking it, taking me to it.
+So then I wound up like anytime that I would go to like a different movie, like while I was still playing, I was going to a lot of movies that weekend, as you can imagine.
+20:04
+And I I think like I would just cuz you had to like buy ticket and then like go through and they would give you the card and then.
+I think I like went through, bought the ticket, got the card and then went back through the turnstile to like get the ticket to go to the actual movie that I wanted to, because, you know, they, they had like the gatekeeper people to make sure like, oh, you got to go.
+20:24
+You got to make sure to go to the movie that you're watching kind of thing.
+But yeah, I have my, my huge collection of Pokémon cards here.
+I think I what was that?
+I probably think I was a a Pokémon red child growing up and.
+20:40
+I knew it.
+I knew it.
+Everyone knows blue is best.
+No, I'm sorry.
+Sorry.
+Collins but like, gotta get that barfet, nerds.
+Collins Collins coming in for the girl version this.
+Is well, my brother, my brother had red and I had blue and we had two games we bought.
+20:57
+Oh man, we bought 2 game boys.
+For us a Game Boy was not a machine that played games.
+It was a machine.
+We bought Pokemons and we bought the Game Boy to play Pokémon and other games were like a wow.
+It's crazy that the Pokémon machine can also play other games.
+21:16
+I mean, it really was like a console selling game at the time, right?
+Like I mean, I was, I'm a little bit younger than you guys.
+So I experienced kind of like I experienced Gen. 1 and 2, like at the tail end of them as a small child, but like, it was kind of the Game Boy game, right?
+21:36
+Like in a lot of ways, right?
+Yeah, it was the cornerstone of like 5th and 6th grade for me.
+I almost, I was like this close to failing 6th grade, I think because of Pokémon Silver.
+And, and I wound up at the time getting a, a Japanese ROM hack on my 90s compact Presario running.
+21:56
+And I was playing through all of Pokémon Silver as a 6th grader, playing through all of Pokémon Silver in Japanese, almost learning Japanese accidentally as a result.
+And yeah, he's.
+Just like memorizing the shapes of the letters.
+22:13
+Basically, I was like, I was, I was like pronouncing them phonetically at the time because like, even though like my starter for this game, Totodile is like that's the English name for it.
+Like whatever the Japanese name of it of it is that spacing on like that's, that's what like my brain is like kind of anchored on weirdly enough.
+22:33
+So like if I'm encountering A hoot, hoot or something from Gen. 2, I'm just like, what was the Japanese name for that thing again?
+Oh, that's right.
+That's what it's really called.
+Got it.
+Yeah.
+So Pokémon Red yellow gold Silver Pokémon Pinball the Pokémon trading card game for Game Boy that.
+22:53
+One's good.
+It's like a good digital TCG game.
+It is.
+Going over to going down the street to my to my the Pokémon board game.
+Oh dog shit.
+So bad, so bad.
+Are you talking about less?
+I think I know the exact one like the.
+23:09
+The very first.
+One they made.
+Yeah.
+Yeah.
+Absurdly bad.
+So disappointingly bad.
+All right.
+Well, we we should probably talk about this game at some point, yeah.
+It's just a game about rescue teams.
+Is a game, unlike there's other games.
+23:25
+You are a Pokémon indeed.
+And I think, crucially to compare to our last real Mystery Dungeon game of Sheer and the Wanderer, I'm not gonna include, well, I don't know, Azure Dreams is also weirdly similar because of the monster collecting.
+But anyway, this is so much closer to Sheer in that you know, you're using, you're walking around in a grid based tile based engine and instead of like whomping monsters with items that you pick up for the most part, you're using your pokey moves, all of your familiar bubbles and water guns and and things like that.
+24:00
+You're just like going around, just like staring at stuff, leering at stuff, making scary faces and stuff.
+And you are.
+You're bludgeoning other Pokémon into submission to be your friends, just like you do in real life.
+But also crucially different to to Sharon is that you can, you're rolling at least at a minimum with a squad of two, and you can go to go up to as high as a squad of four, but you are running around your bludgeoning Pokémon to to catch them.
+24:29
+In that sense.
+You're, you're picking up items and you're doing quests along the way and you're getting more and more loot and gold and things like that.
+A notable change from the other Mystery Dungeon games, a severe lack of dungeon traps here, which I can 100% get on board with, at least for the story mode.
+24:51
+Virtual high 5 there to hell.
+And I saw that, which really made me very mad in in Sharon.
+Glad to see that they're dialed way back here.
+But yeah, so if you're running around the dungeon and either you or your partner faint, then you're sent back to town, you lose some amount of your your pokey gold, you lose some of your items.
+25:14
+So it's not permadath.
+But if you're grinding through like a 30 or 40 floor dungeon, it may as well be because like the amount of time that you've dumped into that dungeon crawl and not using emulator save save states like I was, then you're just going to throw your DS across the room.
+25:30
+So oh, and crucially, another another point here is that there are new ground tile types that certain Pokémon can walk on but others can't.
+So for example, if you're going through like a, a fire dungeon, there's like lava tiles that like a fire type Pokémon can walk over.
+25:47
+Or if there's like water or ice tiles or something, then a a, a water tile or a water type Pokémon can move over.
+Or if your Pokémon is flying, they can just say fuck it.
+And like, nothing really matters to me at all.
+And in that way it is similar to kids with cut.
+Indeed there are moves.
+26:06
+There's pokey moves.
+So you have 4 moves for a given character.
+You can link those together into various sequences.
+So you could do like a sleep powder and then a Leech seed immediately afterwards.
+But that comes with the the consequence of draining your your PP, your PowerPoints for for those.
+26:25
+And then if you run out they D link And what?
+What are else other than Oh yeah.
+You have.
+They follow you in a line and.
+They they follow you in a line and you have these weird like AI micromanagement tools between IQ and tactics, which I was I was getting the hang of it towards the end and kind of like micro in my dudes around.
+26:50
+I kind of wish that I explored it further earlier on for some of the boss battles, but this is a thing where as as your Pokémon are instead of evolution, so to speak, it's more like they gain like AI traits to them.
+Like oh, this, this Pokémon knows how to use items and like if it has a reviver seed on it, then if someone fades, it'll do like a cool spin move and throw the reviver seed at them and and heal them up.
+27:16
+And then there are things like tactics, which are like, OK, in the heat of battle, in the heat of this moment, what are you Bulbasaur going to do to either aid me in combat or get the fuck away and not get bludgeoned by a Moltres kind of thing.
+So there are ways that you can kind of micro them around and that becomes more useful as a tool in the postgame stuff that we'll probably get to.
+27:40
+But between that and like the item usage, it's, it's kind of your standard Mystery dungeon fare of like you'll be going through this dungeon, you'll be picking up items to help you along to like show me where all the all the enemies are.
+Show me where the exit is or warp all the enemies in this room away from me or bring all the items to me.
+27:59
+Those kinds of things.
+And those can come in the, the form of berries, like Oran berries that give you 100% health, different seeds that that you can throw.
+And some of them are cursed items that like will slow people down.
+You can throw them at enemies and stuff.
+28:16
+You have bands which I think are supposed to be bandanas, is that right?
+I think so well, it I so you there's like the one that you have as like you're like rescue team thing and like in the official art, it's like on some of your guys, it's like a like neck scarf.
+28:34
+On some guys it's like a head thing.
+On some it's like tied around the like ankle.
+So it's just presumably like, I don't know, some sort of little rap thing just depending on what limbs or head you possess.
+It's like a hanky coat.
+28:49
+Right, yeah, not not like your livestrong bands that go around your wrist.
+These are these are things like power bands or special bands or like pecha scarves to protect from poison.
+But then you have a orbs, you know, just just orbs that will help you escape or freeze monsters and things like that.
+29:10
+Or or not work in the boss fights.
+Yep.
+Yep, I I remember that you got your TMS, your HMS for things, for swapping out move sets.
+Like if you're in a you're going through a dungeon.
+Oh no, I've run out of PPI, don't have any Max elixirs on me anymore, what am I going to do?
+29:26
+Well, you're in luck.
+You can swap out those moves with a with a technical machine or hidden machine to to refill those item or those movements or yeah, the the move slots in as much as movement is, is an ability.
+So OK.
+29:44
+And oh, and then we also have we'll get to in a second, but Pokémon Square, which is kind of like your main town hub that has your Kecleon shop with two, I believe these are Gen. 3 Pokémon that are shopkeepers that have stuff where you can buy items in TMS.
+30:00
+You have your bank where you can store money with with a a Persian cat.
+You got your wiggly tough friend shop.
+Yay, we're all friends.
+Happy bubble gum sunshine.
+This is where it's explained in a minute here, but this is where you must buy areas for Pokémon to reside.
+30:21
+You got your Kangas Khan storage where you can store and retrieve items.
+You got your Gulpin Link shop.
+Sweet storage The item storage shopkeep is real sweet.
+I'm gonna I'm gonna go on a rant, so don't.
+Be careful poke Pokémon, you got your gulpin link shop which does all the linking stuff and that's where you can remember moves that you have forgotten so that you know you can only have 4 moves at a time.
+30:46
+So you feel like I don't know if I want to forget this one.
+You can always go back and.
+Really, really appreciate that.
+That's a good quality of life feature.
+Yeah, it it it it allows you to kind of like get a build going to some degree.
+You got wish cast pond with the the loremaster and in the post game, that's where your evolution chamber will end up being.
+31:04
+You got your Dojo where you can do very easy three dungeon floors to kind of grind up and do a little bit power leveling.
+And then you got your Pelipper post office where this is, where the rescue job board is and where you can do online rescue missions to help friends who have fallen in dungeons and things like that.
+31:25
+OK, I think, I think that's kind of like the broad, the broad strokes.
+I guess we'll probably fill in details as we.
+Indeed, and critically, you This is a game.
+This is a game about forming a rescue team.
+What is a rescue team?
+It's, it's hey, when there's when a missing person report goes out on the the favorite, the popular hiking trail here in the Pacific Northwest, we send out the volunteers to go and rescue the poor folks.
+31:49
+Similar thing, except you're Pokémon.
+Hey, I got it.
+I got it.
+Here we got to go around the horn and find out what people's Pokémon rescue team names are.
+I, of course dubbed mine the very clever Pokey Patrol.
+Mine was a Team Grog pod as a as you would probably guess it to be.
+32:09
+Natural I.
+Always, I always make them something vulgar because I I've played these games since I was since I'm an adult and I just always make them I'm like, what will sound the worst when it like gets name dropped in the.
+Story for sure, for sure.
+32:25
+I think mine was chunkers, I don't remember.
+That sounds about right.
+I was ape kips because I had a a mud Kip as my partner.
+And I.
+Couldn't figure out what else I wanted to call it.
+Right, right, right.
+And of course, there's the the meme of the the Ape Squad and going ape mode strong.
+32:44
+And all.
+That stuff the the indeed, the plant of the apes situation.
+Well, real quick I'm I'm going to try.
+And plant the apes pick like come back, they go in the spaceship and they come back and everyone's Pokémon.
+Oh.
+That's that's going to be the next one you.
+Maniacs.
+32:59
+So I'm going to try my best to not like, nitpick the lore and the world of Pokémon there's like.
+Would you try to avoid it?
+There's.
+Lots of.
+Possibly beast in front of you.
+Just dig in.
+There's no pockets at all.
+Yeah, there's no.
+33:15
+I didn't see a single pocket in this whole game.
+Not a oh, I see what you're saying.
+Yes, it's so true.
+So, rescue teams.
+Quick question, I'd never heard of a rescue team before.
+Is this the first instance of the concept in Canon of a Pokémon rescue team?
+33:33
+Correct.
+This game or this game or these set of Mystery Dungeon games, like as far as we can tell, are kind of set in their own continuity.
+In one of the later Mystery Dungeon games, we see like we, we see like large swaths of the world in a way that kind of like makes no sense.
+33:55
+If you think about the fact that like the normal Pokémon games, like Japan is full of cities, you know, it's just kind of like, interesting, interesting.
+But when I first, like, started playing this game, it's like, all right, we're going to form a rescue team.
+Your partner, you pick a partner Pokémon, in my case Pikachu, because obviously Pikachu, Pika Pee, my man, which is what I named him, is the only choice.
+34:18
+If I want a Sprite of character following me around, it's got to be Pikachu.
+So when he says, hey, we got to form Andrew, we got to form a Pokémon rescue team.
+I'm like, rescue them from what?
+Wandering around in random places?
+34:33
+That's what Pokémon do.
+They wander around until a hapless 10 year old bumps into them and has to fight them to the death.
+So that's that's.
+My only rescuing a raccoon from the wolf.
+No, no, I joke.
+Of course, the reason, the reason that we're rescuing people is because in this pokey world that we have been Isakai to, that we've been transported to, there has been an increase in natural disasters, one of, well, just one of the many topics that is incredibly poignant and relevant to today, despite being a 20 year old game.
+35:06
+So there's all these natural disasters happening and all these Pokémon getting in trouble, and we got to go rescue him.
+There was a very wild Lord like getting way too deep into the Lord video of like, you know, like that that picture of like the glacier and it's just like it goes like deeper and deeper and deeper.
+35:23
+And then they were just like getting way too deep into it.
+And then like the bottom of the glacier was talking about like parallel universes and how this one like has like a potentially a weird story tie in with another Pokémon game with parallel universes.
+And that like a major aspect of the end of the story here is like a thing from one of those other games.
+35:43
+Question mark that maybe we'll come back to, but to.
+Watch that.
+So all that to say, Scott, what is the story of this game?
+What's the story?
+Of our beloved story to this game, which I think is the principal draw that most people have to this game in this series.
+35:58
+What the hell is Yeah, But when when when you ask people about Pokémon Mystery Dungeon, they always talk.
+Oh, I I loved the story.
+That was the main thing that really gripped me and.
+I'll be talking about and thinking about the storyline for years and years and years.
+36:14
+I need to, I need to interrupt for a moment.
+People really like this game.
+But when people talk about Pokémon Mystery Dungeon, they are more often talking about the next game specifically.
+That's the Sky Explorer 1.
+36:31
+It was, yeah, it was time and darkness.
+And then Sky is like a third game.
+Sky is Sky adds like some stuff that like makes the game easier, which is funny because like they're already really easy games for children.
+And then at the same time like adds a bunch of like cool new story content and stuff.
+36:49
+If you, if you like Wiggly Tuff from the store, Wiggly Tuff is.
+There's a lot, there's a lot of wiggly stuff in there.
+This guy hates whimsy.
+This guy hates.
+Whimsy.
+Well, you could beat the.
+Game did we all beat the game?
+No, I didn't beat it.
+Yes, I got through it all.
+37:05
+Right.
+So, so, so this the, the, the story that people are largely drawn to for the series begins with a, a sequence, white text on black, which is always kind of like the, I think like the internal player characters narration of where am I?
+37:25
+What's what's going on?
+Am I, am I dreaming this?
+And then the words, OK, let the interview begin.
+And it starts with Will's favorite thing in the world, a Myers Brigg personality quiz test.
+Is that actually wait I I no I mean I took the test.
+37:41
+I'm curious how did it design Pokémon?
+Does anyone know?
+Like what the deal knows behind it?
+Yes, please tell people curious.
+So every Pokémon basically has like, you know, there's like an adjective attached to the Pokémon.
+Some of them are natures from from Pokémon games, some of them aren't, I think.
+37:59
+But basically every question, like every answer for a question will give you like a couple points towards one of these Pokémon from from memory.
+I think it's like not something, you know, you might answer a question, it might give you like two points towards one and one point toward another.
+38:19
+It's not always just like these are Totodile points.
+But I mean the thing that's kind of funny about the personality quiz in this game is like it only gives you like 3 or 4 questions and most of those have like 2 or 3 answers and there's like 16 Pokémon or something.
+38:39
+So like, you know, it's like in any one instance of taking the quiz, it's like you're not even going to have every, every Pokémon as a potential like outcome.
+You know, like I remember doing specifically with the second game I remember playing when it came out as a child, I remember having to like retake the quiz a bazillion times because it just like would not give me the questions for whatever Pokémon I wanted.
+39:06
+Just have to like, keep going.
+So for example one question like do others tell you to watch what you say and you are given a yes no option and if you pick yes you'll get impish plus one and sassy +2?
+Yeah, every week on this podcast.
+Yep.
+Or if you say no, you'll get Calm +2.
+39:23
+So yeah, it, it kind of like pushes in One Direction or another.
+And then like that'll, that'll determine like, OK, like add up those points.
+What I mean it's, it has as much scientific basis to it as being an INTJ or ESFP.
+So it makes but it, you know, it that much sense when you know at the very end it says, OK, are you a boy or a girl?
+39:46
+You flip a coin and pick which one.
+I think that really only kind of, well it determines 2 things.
+It determines like some of the Pokémon are explicitly locked out of one of those options and it changes the UI color where I think that the girl when I believe is pink.
+40:02
+I, I believe some Pokémon, so like I if you're like impish or whatever, I believe that that might give you a different Pokémon based on what gender you are.
+I'm looking at this game facts, Something, something, and yeah, absolutely, there's like a completely different list for male versus female.
+40:21
+Yeah, so, so the the starters that you can be assigned based on this, this phrenology exam here are your your favorites between like Bulbasaur, Charmander, Chikorita, Q Bone, Syndiquel, EV Machop, Meowth, Mudkip, Pikachu, Sidux, Skiddy, Squirtle, Torchic, Totodile and Trico.
+40:43
+And then after you do all that, it says, all right, what what partner do you want to pick?
+And from that list it, it narrows down considerably where your only partners that you can pick from are Bulbasaur, Charmander, Chikarita, Syndiquel, Mudkip, Pikachu, Squirtle, Tortic, Totodile, or Trico.
+41:00
+So you're, you're at least given the option of like, all right, who, who do you want your buddy to be?
+That is so many sprites, so many facial gesture sprites.
+Wow.
+OK.
+Yeah.
+And I, I wound up going, I was assigned Totodile, which was the the first, first water start for me personally.
+41:21
+And then I wound up picking Bulbasaur as as my partner, which I didn't realize at the time was hard mode, but I'm curious what other people's selections were.
+I was Cyndiqual and Mudkip, which are I'm looking at this now and they're both the timid Pokémon, so I guess that's the theme for my team.
+41:42
+But chomp and whatever the mud.
+I don't.
+I don't even know the name of this thing.
+Oh, come on.
+He just said it.
+Mud kid.
+Mud kid.
+Yeah, I I don't know.
+He was the get away from me.
+You're the annoying piece of shit that I just don't want to have.
+Oh.
+Man like it was so frustrating dealing with this fucking Pokémon I swear to.
+42:01
+God this guy hates children so much.
+Don't ever let this guy be a father.
+I would be a great dad, first of all.
+Second of all, but this is absolutely absurd, this game and and how this oh God, I just.
+I've been using the the crying mudkip emoji a lot in our discord channel over.
+42:17
+The post but critically, Well, why did you choose those Pokémon?
+Choice.
+Is there a choice in that?
+I don't think there was a choice.
+Because he's brave, that's what this our our personality quiz says that he's a famously because.
+Of Mohawk, you pick the ones with your hair.
+42:33
+I I I miraculously got the Mohawk to do.
+It's the mature.
+Incredible.
+It's perfect.
+The game knows you so well.
+Yeah, and the mug gap has kind of a little thing going on, a little fin thing.
+So I was like, all right, we got some mohawks.
+I can deal with them there.
+You go.
+Do you like some mug kids?
+So yeah, yeah, yeah.
+42:51
+Come on.
+I can't believe you don't know from well, Mudkip from the meme anyway.
+Up to 151, everything beyond absolute.
+Mystery to me.
+Which I I recognized Totodile's appearance.
+I did not recognize his name.
+So I was like what the hell, Totodile?
+43:07
+And as I mentioned before, Pikachu, because he's my best friend, a dear friend, a friend I'll never forget A.
+Friend.
+Like no other.
+What cried in the anime when you thought Ash was going to get rid of him?
+I mean, we'll get to that.
+Helen, on your on your 75th playthrough of this game, did you pick someone on on hard mode or your your fan favorite?
+43:29
+I'm too busy being a student to have played this game for this podcast.
+I'm pretty sure last time I played this game I I played a syduck to put myself in hard mode because I know that syduck gets like.
+43:48
+I think syduck gets like a dog shit move fool or something.
+I think I might have similarly made my partner a chikorita to put myself in hard mode.
+And.
+It's.
+Like the least like TV ready pairing of Pokémon.
+44:05
+Imagine a series that's just all about Syduck and Chikorita.
+Those 2 girls girls.
+Just two girls who can't do.
+Shit, I don't, yeah, I, I'm, I'm shocked at like how awful this game would be if you had a grass type Pokémon.
+44:21
+Like it's, it's just like grass type fuck you.
+Like every single thing, every single thing.
+Like all of the dungeons are like ice, fire and flying bosses.
+You're just like, hey, get absolutely wrecked.
+44:38
+Which I'm, I'm was astounded.
+I went into this game totally blind last year and I was like, I'm just going to experience it as it comes and then maybe after the second boss find I'm like, Jesus Christ, what, what am I doing?
+Like I was just getting like bulldozed every time.
+44:53
+So, so you've picked your partner and you were greeted with a dialogue box of someone saying, hey, excuse me, Excuse me?
+You're you're awake.
+You're finally awake.
+Great.
+And you're greeted by a talking Pokémon the first time ever.
+And your player character is bemused.
+45:11
+You're like, what?
+A talking Pokémon?
+And your partner's like, well, yeah, you're a Pokémon too, aren't you?
+And you're like, no, no, I'm a human.
+And before you have any time to kind of settle your differences with your partner, a Butterfree comes in and says, it's horrible.
+45:27
+My poor baby, my Caterpie is falling into a cavern.
+I need help please.
+And your partner says that sounds bad.
+We have to go help.
+And you're you're thrust into your tutorial dungeon.
+You're very nice three floor tutorial dungeon with your little pop up saying like, hey, here's here's how food works.
+45:46
+Here's like you go and pick up an item and you know this is how this thing works.
+And you're bulldozing over worm poles and other things along the way.
+And you come to your your first rescue team success by coming coming to I I got to say, like the little crying Pokémon portraits just kill me in this game.
+46:04
+I'm just like, Oh my God, I can't they're it's a crying caterpie that says wow, mommy, where are you sniffle?
+And I'm just like, oh God, like I am.
+I am such a softie for this universe and seeing.
+Rules.
+I'm seeing a crying caterpie and I'm just like please don't do this to me.
+46:23
+So you you warp with the caterpie out in some sort of like.
+Don't do this to me sums up a lot of the.
+Story.
+I mean like what?
+How does this how does this game have its hooks in me just to pull it on my heartstrings constantly?
+Well, you you rescue the caterpie, the butter free, so I don't know how it could ever repay you properly, but but you know, that's OK.
+46:45
+There's been a lot of dangerous fissures and earthquakes lately, but you know, you get a little screen that pops up says that's that's when your hero and your partner began their careers together and and you go take a nap and you're very like the pixel art in this game is incredible.
+47:02
+I feel like you're waking up every day and like this little thematically appropriate for your Pokemons type rescue team base, which you would think there would be other people there, but it's just you hogging up this enormous cavernous mansion of yours with me with like Totodile, there was like waterfalls and like a little pool to wade in and Bulbasaurus got this big like grass mat and little berries.
+47:31
+And just like there's an amazing amount of detail for for Game Boy game in in these, like all the Sprite work in this is just amazing.
+But but you wake up and you're you're thrust into your next adventure.
+47:48
+A pair of magnumites come up and say, help, we need help.
+One of our trio, Arthropole has been lost.
+And you go into into the 6th floor Thunder wave cave to go and save them.
+And it's another real easy adventure.
+And then this is where it starts, starts to ramp up the incredibly childish easy difficulty just a little bit, where next you are greeted by a Doug trio that says, oh, our our poor baby Diglett has been lost up somehow up at the top of Mount Steel, the nine floor dungeon.
+48:21
+You make your way up there and you are greeted with your first boss fight.
+And I thought, and again, like the art to this game I think is great.
+The music I think for this game is great too.
+And this is where you get your first boss game battle.
+Yeah.
+It's good.
+That's it.
+We're bad.
+48:38
+I'll go ahead and.
+Throw that in there.
+Every all the music is just it grates Will you're going to.
+Turn it off ratioed left.
+Right, I think this.
+Guy needs to be on the list.
+Speak some.
+I'm going to speak my truth, OK?
+I mean, it's a very subjective thing, but this music is great.
+48:56
+Well, it's, it's terrible.
+There's well, we got any jazz or no bebop?
+In it whatsoever.
+I knew every note that was going to happen before it happened.
+That's that's how bad it is.
+Will Will's character is coming up here in a minute but but we rescue Diglett.
+No, because a woman has to like that character.
+49:13
+So we, we beat, we beat a scarmory who is protecting the poor, the poor baby Diglett.
+And we, we bring Diglett back and Magnamite says, oh, we're we, we love working with you.
+We want to join your team.
+And it's funny that they're like yelling at you in all caps.
+49:29
+But I believe it's supposed to be robot voice, but they say, oh, too bad, sorry, we can't join you.
+See you buzz, buzz, buzz, buzz, which I was just, I thought was really funny.
+And so your partner leads you into Pokémon square and kind of introduces you to all the NPCS and all their functionality and stuff, One of which is wiggly tough who has this deranged like wide eye stare of I I played like the first like 10 minutes of explorers of time and I'm just like you're greeted with like this flaming Jigglypuff, like tribal Hut.
+49:57
+And I'm like, it was there all along, like that dead eyed stare was was hiding some kind of.
+Explorer Times.
+The next one or another one in the series?
+That's the next game.
+Yeah, that's one of the versions.
+Technically it would be I guess like we're I've been recommended to like we would do explorers of sky next because it's like it's it's the definitive version effectively.
+50:20
+But yeah, so it's it's like rolling time and darkness into one game.
+So you don't have like the egregious Pokémon splitting stuff, but but so you're interested and wiggly tough says like, Oh yeah, you know, you have to buy friend zones in order for your friends to come live in.
+This is something that I believe was fixed in the later games because like, it's it's it's a tedium, but they're so pretty.
+50:43
+Yeah.
+So like I just.
+Wanted to be able to buy so.
+Pretty, I wanted to buy the friend zone after I caught the Pokémon.
+Not have to buy them and then hope that you met the Pokémon that you bought the zone for.
+Yeah, that's a little annoying.
+Also I I just assumed that like getting buying the zone would unlock it and then I could go and like get some good ass Pokémon so.
+51:04
+I like spend the.
+Most money on the most expensive place and I think it's only in the post game.
+I don't I don't even know what it what the deal is.
+So these zones which you have to go and visit to go and get your teammates to to to put them in your team before you go off on an adventure are very atmospheric.
+51:20
+And again, they're just, they're, they're great examples of like how good this game looks and, and the again, the atmosphere that can be achieved with relatively, you know, rudimentary tools and technology.
+These friend zones are so good, in fact, that when they remastered this in 3D, they didn't they they didn't even bother remaking them because my theory is because they're like, well, we can't recreate this greatness, you know, But I no, obviously it was, it was too difficult or it was too much work and they said I cut it.
+51:53
+I mean, I think that they like turned them into still images though, which is the remake is bad.
+Let's just put it out there.
+The remake has a lot of problems, but like because they have a lot of them have like little moving details in them, like if you're like the water one, like there's like pond ripples and stuff.
+And I think they just like turned them into PNGS.
+52:11
+For the I see, I see.
+But they did not bother to put in the work to render them in 3D like the rest of the remake.
+Yeah, I mean, the, the friend area is weird because yeah, like you go into the dungeon, you, you blood a Pokémon to death.
+And then it's like, I'd love to join you on your adventure.
+52:27
+And then when you leave the dungeon, it is sent to these these zones where they're just kind of like doubly, doubly walking around.
+And then like you can go and check up on and it'll have like a little funky dialogue that says like, it appears to have been worried, but seems to have solved it.
+I'm just like, OK, sure.
+52:45
+But anyway, so you, you do a couple rescue missions, you come back into town and there's, there's a, a jump bluff, a Pokémon I'm not familiar with, but just has this wretched look on its face.
+Jump bluff is Gen.
+Gen. 2.
+Helen is gesturing here, which is weird because like, it felt it.
+53:01
+Yeah, I don't know, it just it feels.
+Like a jump bluff.
+I, I don't know what the Japanese name is it maybe anyway just has this like awful look on its face.
+I'm just like my, my heart is just is killing me here of like please help my friend, please I need help.
+53:19
+And this, this douchey shift tree who I think is like 1/2 tree Pokémon says forget it chump.
+We're not about to work for that in another Pokémon in the square is like, you know, jump Bluff's been begging for help, but I just I feel just so bad for them.
+53:37
+And then your your Omega cool kid team rolls on in team.
+ACT now.
+Up to this point in the game I felt like I had evolved fast, that I'd I'd matured in some way or, or or or lost my my childlike wonderment sense of wonder.
+54:01
+I thought I was immune to this Pokémon stuff.
+But as soon as Alakazam comes walking in I was like, yo, it's Alakazam and his fucking bad ass team of big Dicks swinging pokey dudes.
+This is awesome.
+And it's also what, Charizard?
+54:19
+He's got 120 HP y'all.
+No Tyranitar.
+Tyranitar the obviously the best of the three.
+I mean, yeah, he's super.
+Cool.
+Like literally is is very good.
+Oh, good to know.
+Better than, better than Charizard.
+So yeah, the.
+Coolest Pokémon rescue team around makes an entrance into the town square.
+54:37
+They they roll on up like the marshals of the town that they are in Alakazam or says, you know, no need for things.
+It's only natural that you get the help that you need.
+And if any, if anyone turns you down again, come see me.
+54:55
+Take care.
+Hold on for Andrew's context, Tyranitar doesn't evolve until level 55.
+Wow, it's a fucking beast.
+To be clear, I didn't recognize him but like just the Sprite I'm like yo this guy looks cool.
+Also he's he's rolling with Al Kazam and Charizard.
+55:13
+He's serious business heavy outfit.
+And all of the Pokémon and the Pokémon square are like also aghast.
+They're like, I wouldn't expect anything less from a Gold gold rank rescue team like you are you're rolling into this game at like like F tier dog shit rank and this gold rank crew just rolls on up.
+55:31
+They're like, hey, you need help, you come to us.
+Don't even worry about it.
+So, so like you, you and your partner are like, oh, well, that was a lot for the day.
+Let's let's go home, let's get some rest.
+And this is where you have one of your dream sequences where you are visited by, I was not familiar with this Pokémon.
+55:47
+I wasn't sure if it was a Pokémon or some other like weird Sprite ghost where I was just like, I don't know what this thing is, but it is like blinking in and out.
+And then you're like, what a human, my role.
+And then wait, wait, no, come back.
+And then the dream fades.
+And this is something that we'll encounter a few times in the story here.
+56:05
+But the second you leave, you're like, all right, your partner's like, all right, you ready to go and do some more rescue team fun?
+And then who shows up but the polar opposite of Team ACT Team FUI?
+Guess Gengar, Medicham and Atkins roll on up and they say we're the rescue team of evil.
+56:26
+Team Meanies is who we are and the must like.
+If Gengar had a 10 foot wide mustache, it would be fully twirled at this point.
+And and yeah, all subtlety has flown out the window at this point.
+Atkins says you wanna know how it works?
+56:41
+If we have the cover of a rescue team, maybe we can get away with so much more.
+And Metacham says we have our eyes on world domination, which I was just like, OK, sure.
+I don't know what they're dominating, but they steal all of the rescue team letters out of your mailbox like the meanies that they are, and your partner says they took off.
+57:04
+What an unbelievable bunch.
+So anyway, you are you're taking up your next task of rescuing A Metapod.
+Caterpie's best bud has gotten lost in the sinister woods, so you have to traverse this thirteen floor dungeon to get up to the top.
+57:21
+And who would you find but team Meanies waiting for you?
+Sorry, this is very this is very important.
+This is this is this is this is there is some exploitation there.
+There is there is a some blackmailing of sorts that happens before this mission And like leading up this OK, you're like maybe a couple hours into this game And like initially I, I got to tell you the gameplay like how easy the the, the the first part of it is was really rough on me.
+57:50
+And then until I realized Slash, the game reminded me Slash maybe taught me like how to favorite moves and how to link moves, which makes the actual combat much more engaging a little bit more like a beat em up kind of in that like you're sort of, you know, making decisions about what attacks you're using.
+58:10
+And it's was instantly much more engaging.
+What those things were unlocked.
+I was not having an amazing time, but it started building a little bit and then and then the ACT team shows up and I was obviously completely starstruck by them.
+This mission though, the the excitement and the motivation for me really just just just went off the charts because the meanies they show up and it's like Caterpie's like yo, my, my sibling Metapod, which is a pod, somehow went and got lost in the woods.
+58:45
+Don't know how that happened.
+Doesn't matter.
+It doesn't matter.
+It doesn't matter.
+Will you help me like, And then the meanies show up and they said no, no, no, no, we're going to take this job.
+And once we find Metapod for you, you're going to owe us money.
+And Caterpie is like, I don't have any, I don't have anybody.
+I'm a bug.
+59:00
+They're like, well, don't worry about it, kid.
+I'm sure your parents will friggin will pay us, will pay us, you know, lots of money and they're going to pay interest too.
+So it's a race to see who can get to Metapod, save Metapod, but also save Caterpie and his family from a life of criminal exploitation.
+59:20
+And I was like, so ready to go, I'm like, yo, fucking go, go get Magmite.
+We got to get the crew together.
+We got to roll heavy, get our shit linked and let's ride.
+And I was like, so excited.
+And that that storyline motivation really amped up what the sinister woods.
+59:37
+Maybe not the most amazing mechanical experience, but when you have like the context and that motivation of that storyline, I was in in, in like Flynn.
+Whereas I this is where my frustration with the fact that you couldn't click A to make the text go faster started really kicking in.
+59:54
+Like, I mean, I'm glad Andrew, I'm so glad that you enjoyed this, but like, I could not care.
+I held that B button down or I don't know, I don't know what button is actually with the but I'm just yeah, story lore.
+1:00:11
+Skip it's.
+Fine, it's fine.
+It's not like it's not bad.
+I just don't it's.
+Bad.
+No, it is bad.
+It's really bad.
+It's.
+Really.
+Really, really really.
+Bad.
+It's like I didn't read it and I didn't like it because I didn't read it.
+1:00:27
+I didn't like the children's story that I didn't read this picture book that I couldn't be bothered to read.
+So I.
+Slowed down.
+I read some of this shit and then I realized this is absolute garbage.
+And you know, you see it as it's flying by.
+I'm not incapable of reading at the speed that it, like, prints it out.
+1:00:44
+And I'm just like, Oh my God, this is the worst fucking story.
+I think it's I think it's fair to say that.
+I think it's fair to say that this game has an intended target audience.
+Yeah.
+And Will is about. 37 year old guys, yeah.
+About outside of that orbit as physically could be as the universe would allow, I mean.
+I think the the question comes down to are we are we reviewing this as a game that were you to hand me this game as it was not a Pokémon franchise game and it had been created in 2025.
+1:01:15
+Would I play this game versus was it an excellent game for the audience of the time?
+And I'm I feel like we might get some different opinions on the game quality based off of how how nostalgic we feel about it.
+1:01:31
+Never heard about AS.
+Well, no.
+We did this.
+I never heard about it, Colin.
+You were handed here in the Wanderer and you didn't like.
+That I didn't have our answer.
+Yeah, exactly.
+I mean, that's the other problem is too, I didn't particularly like sharing the Wanderer, and this game is sharing the Wanderer.
+1:01:48
+The same with.
+More palatable, I mean significantly, like I know will will might go off on the like graphics and stuff like I did find it to be like I thought they were well done.
+I thought the the Sprite art all quite good.
+You know, like I think that some of the UI aspects of it was rough, like, but you know, I'll give it to it, give it give us some passes.
+1:02:15
+It's an older game.
+There's a lot of like JRPG bullshit of just like, yeah, you don't, you don't need like 75 menu button presses like.
+These love men solved.
+Long before 2005.
+Well, but were they solved for handheld?
+1:02:32
+That's the other thing too is I'm playing this on a 34 inch ultra wide monitor sitting at my computer.
+Like if I was playing this on the five hour road trip that we would do every year to visit my grandparents, like that is a very different experience.
+1:02:49
+Yeah.
+Like even even now today, like playing it as a phone game, I think would be a a different experience because it's like, oh, the form factor.
+Is and, and, and crucially there are NDS emulators on smartphones that you can put on which like very like the form factor looks like it works very well for like that stacked screen experience and just has like the UI buttons on it.
+1:03:11
+And particularly I think because it's turn based, like you don't have to worry about being like really on it in terms of response time.
+But yeah, I like I did.
+I did basically all of my gaming on the Steam Deck and there.
+You go there, you have it.
+And in the same way that this game was made, you know, a particular time for a particular audience, it was made for a particular set of hardware which was handheld, which was portable.
+1:03:33
+And I couldn't quite simulate that because I was a little bit behind the ball and I started the game like a week late.
+But what I was at least able to do was I was able to achieve playing the game on my couch.
+I like spun one of my monitors around and like did it vertical so I could get the DS double screen stack.
+1:03:53
+And I ran a big long Ausb cable and and that was nice.
+The next time we cover one of these games, I'm, I'm definitely going to get this set up for, for portable.
+And I will admit that, you know, part of my excitement and my my attention just being totally reeled in and me just being locked in on this mission to go and rescue a fucking cocoon with eyeballs that that people make Dick jokes about because it it's one of its ability to pardon was fueled by nostalgia.
+1:04:25
+But I would, I would also argue that like this game presents a world and A and A and a selection of characters that is charming.
+And you're kind of brought into it.
+And by the time you've played it, you know, for several hours and you've gotten to this point, you know, you have kind of become accustomed and you have, and you have come to sort of understand and appreciate the the stakes and the tone of the game.
+1:04:51
+So yes, part of it is nostalgia, but I think another part of it is that the game really like sells the vibe.
+I mean, I'm definitely in the middle between the the 2 ends of this camp, the will discussed camp and the the rest of the podcast love camp where it's like it neither I I appreciated the nostalgia, but it's not like driving me forward of like, yes, I'm so excited to race in quotes to find Metapod because 1 you know, it's not actually a race.
+1:05:21
+Like, you could dig around as much as you want.
+There's no there's no time limit here.
+Well, of course I knew that.
+But as gamers.
+I hate fiction.
+We are.
+Accustomed to suspending our disbelief a bit and anyway, sorry to interrupt Scott.
+So we went off into the list, which not to I, I apologize.
+1:05:38
+You're of course the Omega host.
+I mean, how in depth are we going through this this this story like.
+I mean like dungeon wise we're like halfway through the game surprisingly.
+Yeah, it's not that long.
+Can I interrupt again real quick though?
+Yes.
+Who?
+Finished who?
+Did not finish the game is it Colin or did other people not finish the game?
+1:05:56
+You.
+Finished the game is the question.
+We finished the Andrew.
+Andrew.
+I mean, yeah, you.
+Know.
+Yeah.
+What?
+Yeah.
+Uh huh.
+Hey, you're you're that time.
+Interesting.
+Interesting.
+Wait, how far did you get give a?
+1:06:12
+Give us a great when we're going through the story I need when we get to where you stop, I need you to reveal.
+I need you to confess.
+All right, look, here's the deal.
+Here's the deal.
+I'll just I'll just tell you right, I was going to launch into my into my into my bit, but we'll save that for later.
+1:06:29
+We'll so we got to go to Andrew D's to tell the truth bit.
+All right, so I thought this game was shorter than it was and I started it late and I was at a convention this weekend and it's sort of excuses excuses.
+Hey, look, bottom line is I tried my best, all right, I tried my best.
+1:06:47
+And and this afternoon I was on the final fucking dungeon and this game can be a little swingy and suddenly my toe to dial named Andrew.
+I me because I'm in the game, which we all know.
+I love a game where you yourself are a character, like when you're the commander, you know, in XCOM or you're, you know, the chancellor or whatever in the Protoss campaign of StarCraft.
+1:07:12
+So this is this is this is great.
+Love loving the integration of the the the player as a character.
+I got 1 shotted and I was like, well, fuck, there's there's there's literally no time.
+I'm at the very end.
+I'm going to go watch on YouTube what happens.
+And even though I was watching the ending boss fight and ending cutscene on YouTube with the wrong names and the wrong characters and the wrong sprites, it was so effective.
+1:07:41
+I think this is a really great and well done piece of storytelling.
+I'm very impressed by this game.
+Very impressed.
+By all right, so anyway, back to the silent chasm of our story.
+What I'll I'll I'll turbo along here because there's there's a lot to it.
+1:07:58
+There's a lot of dialogue, but we'll try to hit the main main points here.
+So jump off comes back to you and says, you know, Oh my, my friend hasn't been rescued yet.
+Shiftery went after him, but he no one seen him in days.
+So you go to the the silent chasm nine floor dungeon.
+1:08:13
+Here you find shift tree like pass out at the end.
+He's like, forget about me, go on without me.
+And then like.
+You know what I can do?
+One of these like dope, like cutscene sequences, right?
+The lights, it goes like pitch black and starts like flashing like and then like this like Zapdos descends from nowhere and you only see like flashes of them at first.
+1:08:35
+You're just like, holy shit.
+And it's just like he dared disturb my sleep.
+I have no mercy for you meddlers, and that includes you.
+I am Zapdos, the embodiment of lightning.
+And I'm just like like way back in my chair of like, oh shit, am I going to have to fight him like right now?
+And he says, well, you know, if you if you want to save shift tree, you got to go all the way up to mount Thunder to fight me.
+1:08:55
+So you save this dopey looking jump off and like the sprites for these things are just so, so stupid and charming looking.
+Or they're just like these like, I don't know, cotton balls with smiley faces on them.
+And just like the the emotional whiplash you get of like I was just accosted by this legendary Pokémon and then now these little tumbleweeds are are thanking me.
+1:09:18
+So anyway, like you, you go to mount Thunder, your first thirteen floor dungeon, which has a little bit of like a checkpoint break period towards the end, which is nice because at least for me, I was getting bodied by Zapdos a couple times and I had to restart from save states.
+But in theory you had you wouldn't have to go all the way back at the beginning.
+1:09:37
+Yeah, I'm I'm gonna take deadline here.
+So your and your your partner is like, you don't scare me legendary Pokémon.
+And it's just like cowering behind you and like shaking back and forth.
+Like the animation is great for like conveying all these hilarious emotions and stuff.
+And you've got all these different variations of your, your partner, Pokemons, expressions, facial expressions and everything.
+1:09:59
+It's all all very cutesy, all very anime.
+So anyway, baby, your partner's a baby though.
+It's it's.
+Well.
+You're a baby.
+You're a baby too.
+You're supposed to be playing this when you're 7 years old and it just came out.
+1:10:14
+Right.
+And I'm 30 years beyond that, which is the problem here.
+And.
+You are all adults, you should feel the same way.
+By mind you, so I, I find this highly unusual that you are all like, oh, the story is so compelling.
+No, it's not It's not.
+1:10:29
+It absolutely isn't.
+And if you think otherwise, you're a bad person, you're a bad adult.
+Well.
+Well, all I got to say is you better watch what you say about Pika T he is my best friend, my dearest friend and a friend like no other.
+It just I mean.
+1:10:48
+So so you bought a Zapdos eventually with by abusing sleep seeds and finding out that your orbs don't work eventually.
+And then Shiftry comes back and our and team ACT rolls up out of nowhere and says you know, you know, we, we had our suspicions.
+Perhaps you're not a Pokémon, aren't you?
+1:11:05
+Even though you were running around saying you were not a Pokémon.
+Alex, Sam tasked you with going and and meeting Zatu, the Pokémon that stares at the sun all day, which is great for his eyes.
+The wisest of the Pokémon.
+The wisest The Great Canyon with great background music. 13 floors you go.
+1:11:22
+Hell, and this is this is the point that I got to.
+So there you go.
+Oh my God, like 3 hours what?
+You know, man's been sick.
+It's been it's the holidays.
+No, no, I have no excuse.
+I mean, it's, it's fine to to to like a game.
+1:11:40
+It's fine to not like a game.
+It's fine to complete a game you hate and then the podcast and hate it.
+Until Scott starts paying me Hallie, you have the disadvantage of you've you've came on 2 podcasts and they've both been the same game so and they've both been a game genre that I have not ended up liking.
+1:11:57
+So until Scott starts paying me, I'm going to stop playing.
+When I'm not having fun, I'm.
+Telling you, I'm telling you.
+Very funny to me.
+I'm telling you.
+The renegade fugitive arc is.
+I watched, I watched the video, I watched the video, so I know what happened in the rest of the plot.
+1:12:13
+You got you got your briefing in.
+Yeah.
+So so you talk with Zatu the the wise unblinking staring Pokémon.
+And all day I stare at the sun.
+Unblinking gives me sight for all things.
+He says he pulls out his walking cane because he's blind.
+1:12:30
+But anyway, you talk with him about like, you know, you have a special role to serve here and you are in fact a human and all these disasters have been happening and all that kind of stuff.
+And then who should be listening to eavesdropping but one Gengar of team meetings and he says, haha, this is going to be useful.
+1:12:48
+You go back in town and you you learn more about this nine tales legend and you go and talk to wish cast this dopey Pokémon who's the loremaster who tells the old folklore.
+And this is kind of like a the major thrust of the story to the game is like that.
+1:13:09
+There there was a human who had a Pokémon that was a guard of war that they encountered A9 tales and the human grabbed the nine tales tails and I guess was cursed and but when the curse was cast the Gardevoir said get down Mr. President and jumped in front and took the cursed blast instead.
+1:13:31
+And then I guess the human abandoned the OR the yeah, the human abandons the guard of war and is still still cursed anyway.
+I want to note this is 1000 year curse.
+That's what the lore is.
+So 9 tails apparently in this universe are capable of doling out 1000 year curses.
+1:13:49
+I mean isn't that the actual 9 tails legend?
+Like 9 tails is absurd. 9 tails is like a like a Japanese.
+Yeah, it's like kitsune yokai.
+Stuff, yeah, Yokai that's.
+Yeah, I got that.
+Yeah, I know.
+I know what that is.
+1:14:06
+So anyway, why, why would that Pokémon cardboard take the humans place?
+Well, that the, the, the legend goes, that human will one day be reborn as a Pokémon and the world's balance will be upset.
+That is how the legend ends, says wish cast.
+And so your, your partner's like, wow, that was kind of a lot.
+1:14:24
+I can't seem to be motivated.
+Let's go tuck in for the day and then just basically like apologizing like I'm so sorry, I'm so sorry.
+So the next morning you wake up that.
+Happens at the end of like every mission, which is so relatable.
+I love that, that your partner after you do 1 mission and like that's it.
+1:14:41
+It's like I'm white.
+No, didn't we do great today?
+I'm tired.
+Let's get some rest.
+And that's how I feel like anytime I'm doing like a project around house, it's like, it could be like 1:30 PM and like, Oh well, you know, I finished, you know, refinishing this, this, you know, three by three foot section of the floor.
+1:15:01
+All right, well, didn't we do a good team?
+Let's go to bed in our totedile Hut.
+So anyway.
+Yeah, I like how that happens.
+Even if you're like I'm going to go to the tiny woods like 3 floors crushed everything in one hit like big day boys.
+Puckard.
+Nice workout.
+1:15:18
+There absolutely did.
+So you come into Pokémon Square and who is there but Gengar spreading misinformation?
+And false news, slander, fake news.
+That conspiracy that, you know, I don't think the human can complain about anything if we get rid of it.
+1:15:33
+Isn't that right?
+Player character and then the bell sprout says you, it was you and your partner's like whoa whoa wait a minute there's a good explanation for all this and that's how it is.
+Fellow Pokémon me Gengar, listen to me I.
+1:15:49
+Because it was established in the in the in the future seeing of the Pokémon that stares into the sun that the appearance of this of of this human in Pokémon form is linked directly to the increase natural disasters.
+So yeah, the the the human is in in some way.
+1:16:08
+And so of course Gengar's spinning it as well.
+It's clearly the humans fault.
+And your partner Pokémon is sticking up for you hardcore here.
+Like what's gotten into you?
+Everyone.
+And then the the Lombre attacks you just like the, the townsfolk are just starting to like beat you up.
+So you run away, you run back.
+1:16:25
+And who should show up at team ACT?
+Who says we are Al Kazam himself says we've arrived at a consensus.
+We must get rid of you children's game and Team ACT says.
+OK, well now you're being hunted.
+1:16:40
+We're going to give you a 24 hour head start.
+Because because Al Kazaam is like such a pal.
+He's like I am, you know, he's he's got an IQ of 5000.
+He can he knows everything that's ever happened.
+That's what they say in the in the game.
+He is such a a bro that like you know, he is bound by honor.
+1:16:58
+He must dispatch this this horrible demon Walker of this human in Pokémon form but.
+Yeah.
+But he wants to give you, he wants to give you a chance.
+Just get out of here.
+You know, you better run as far as way as you can.
+You got two more.
+He knows that you're innocent, but he's willing to follow the will of people and still hunt you to death.
+1:17:17
+Yeah, this, this is awesome.
+And we got good music and we got great effects and fun Sprite work going on.
+And it's like the Warriors.
+It's like you got to get back to Coney Island.
+You got to get the fuck out of here because every gang, every Oakmont rescue team in New York City is coming with broken bottles and crowbars to come and kill you.
+1:17:37
+Yeah, Al Kazam says.
+We say come tomorrow rescue teams of all sorts will take up the chase and attack you without hesitation.
+That goes with anyone like any allies that come with you will can be considered an enemy.
+The trackers will attack without mercy.
+That goes for us to we will join the hunt to be rid of you children's game.
+1:17:57
+So your partner's like, you know, in their own way, Al Kazaam's team has faith in you too.
+They're going to give you a head start.
+They're going to like come at you with their full force and all that stuff.
+And the caterpie you've saved is like, yeah, you can do it.
+I I think you're innocent, but I'm still going to hunt you down too.
+1:18:14
+Why not?
+And the jump off is like, we'll be waiting for you to return kind of stuff.
+And then you get your your white on black text that says thus began you and your partner's cruel and arduous journey as a fugitive.
+An insane message that I never in my wildest dreams would have imagined.
+1:18:34
+I've seen a Pokémon game.
+These these these story sequences are incredible.
+So so you are chased basically across like the the overworld to to various dungeons and you come.
+Across beautiful Sprite work of the landscape, the horrible like Mordor like landscape that you and your buddies Sam and Frodo are making their way over the hellscape being chased by the mobs.
+1:18:59
+This could be like easily reskinned into like a Lord of the Rings, like Frodo and Sam game that like I'd be like, yeah, I'd be on board for that.
+So yeah, you're.
+But it doesn't make any sense.
+Let's just stop here for a second and say this doesn't make any fucking any of these stupid fucking Pokémon stopped and say, hey, what's your side of the story?
+1:19:16
+No, it's all, oh, we believe Gengar, right?
+It's just, it's so fucking.
+Can you imagine a world where people just like find the first thing that they find on the Internet to be true and that's the truth that they roll with for the rest of their lives?
+Imagine a world that like it was just.
+1:19:33
+It would be so fantastic.
+Your friends, these are the people you talk to with in town.
+You're like, you know each other.
+And suddenly they're like, hey, I'm going to punch you in the face.
+And they they, they acknowledge as they're doing.
+I'm like, I don't know if I should be doing this but it's just like.
+I've.
+Ever seen it's terrible?
+1:19:52
+But you haven't.
+At this point.
+You have admitted that you are a a human in disguise.
+You are a some sort of creature that's been transmogrified into a Pokémon.
+Yeah, like you, you're you're a player.
+You're.
+Obviously a like a skinwalker at this point.
+And and and the connection between that and the events are what they're hearsay.
+1:20:12
+The the the the all, the the quake.
+Well, you don't, you don't deny it fast enough.
+OK, I've played enough Mafia games or Werewolf games.
+You you don't.
+You got to deny that quickly and hard like I there are no way I'm all.
+Right, let's let's boil this all down the.
+Game does, obviously.
+Game does a ghost so so moving along, you know you're you're you're chased through.
+1:20:29
+Are we going?
+Through the entire plot, I'm going to have to stop Sky I've typed to you we're we're no well.
+OK, so hang on.
+We're we're getting pretty close to the end here.
+This is like the very beginning of the game as far as I remember.
+We are not getting.
+Close.
+That's not true.
+This is like most of the game.
+This is most.
+1:20:44
+Of the game 'cause I'm not gonna sit here.
+All right.
+We'll, I'll stop interjecting and gushing about these sequences that I think are so well.
+Crafted, Yeah.
+So I won't go through all 15 floors of my plays here, but you get up to the top, you defeat Moultras, you after that go and defeat Articuno in the 20 floor Frosty Forest where this this I thought was like the shittiest boss fight of the game because I was rolling up with a Totodile and a Bulbasaur and Articuno has this bullshit like global like snow attack that crits both of my characters at the same time.
+1:21:20
+But and again, like this was something that like I probably could have been a little higher leveled for.
+But like this crucially, like you're on the run from your Pokémon town, so you can't like access your storage, you have no money.
+Like the, the only real thing that you can do is kind of grind these little mini dungeons at the bottom of like these 30 or these 24 super dungeons.
+1:21:41
+And like that's the best you got 'cause you're on the run.
+Like you have no access to like any of your stuff, Like all of your orbs, all of your seeds, all of your items are just like kaput at that point.
+So you're like, this is where it feels like you really have to engage with the systems of the game and really have to like, all right, what what am I going to procure along the way?
+1:22:00
+How can I use this to my advantage?
+That was the only way I could beat Articuno, which felt like a a massive like step up in difficulty for me.
+And I also didn't realize that Bulbasaur had sleep powder the whole time and like would have just like bodied the boss for me like no problem.
+1:22:16
+And I'm just like, well, that would have been great to know like five hours ago.
+But so you beat Articuno and then a Pokémon Absal joins, joins your, your, your path, which it kind of fell flat for me a little bit.
+I'm like I have no idea.
+What?
+Oh, I thought that was I thought.
+1:22:31
+That was great.
+I thought those do you know, do they talk about Absal's deal?
+I can't remember.
+I don't think so.
+They're just like I will join you in your cause and.
+No, that's great.
+No.
+Absal's thing is that Absal is Absol is like an omen Pokémon that shows up when like a disaster is going to happen.
+1:22:48
+OK.
+That makes more sense in that context.
+So joining you during this is very funny.
+There, there is there.
+It's quick, but there's a couple bits of dialogue where like specifically Absoul is like who I named Absalom, like says like yo, I, I I can detect natural disasters and things like that.
+1:23:08
+And like, as you start the dungeon, like you see him for a minute and then darts off very mysteriously and then shows up.
+And like I again, a well done sequence where it's like the Pokémon decides to join your team.
+And, and it, it again really worked for me.
+1:23:25
+He's like, I have decided he's like, I, I, I go out and I, I, I, I must stop these natural disasters.
+And I hear that you, you know, I've been linked to them.
+I have decided dot, dot, dot, we should join forces.
+I'm like, Oh yeah, let's go, come on.
+1:23:40
+Cuz this is like the only time that you can get people or the other Pokémon added to your party also so it's.
+True.
+That was also there was also an exciting element that.
+Yeah.
+So you're on your way to to on another mountain path.
+You get a vision from the the God of our ghost again, who says, you know, you got to go to to uproar or a mount freeze and you got to seek the 9 tails up at the top of 20 floor dungeon.
+1:24:05
+You make your way through these these icy biomes and you get up to the top and what should be there but team ACT waiting for you and you're like, oh shit, me, my, my little baby Pokémon and my bull baby Pokémon partner and Absal just gonna have to like fight to the death against the the gold rank super team.
+1:24:27
+And just as you're about to like start going toe to toe, who comes in but says cease this at once.
+And then in flies the 9 tails Sprite into the the heat of battle, catching everyone off guard.
+And then they say that yes, I am indeed the one from the from the from the from the lore.
+1:24:45
+And then they say to your player character, you may relax, it's not you.
+And then your little partner does this hilarious, like like little dance around you of just like, yeah, I'm so excited.
+I knew it.
+That's great.
+Hooray.
+And then Tyranitar says, you know, oh, we're so we're sorry we got worked out by that Gengar.
+1:25:03
+Charizard says, no, I suspected Gengar from the start.
+You're the the player character doesn't just look like the treacherous type to me.
+As he says with a shit eating grin on his face.
+But the earthquakes keep happening and and 9 tail says well you know these earthquakes are going to awaken the beast that embodies the ground, the beast that sleeps deep underground.
+1:25:23
+Groudon will be awakened And Alex says what?
+Groudon is rising so they they volunteer to go deal with this.
+And I'm just like at this point again, I have no idea what a Groudon is.
+I'm just like is this some sort of like magma spirit I guess a Gen. 3 Pokémon and.
+1:25:41
+It's one of the Gen. 3 legendaries, right?
+Yes, yeah, it's, it's one of the two or one of the three box arts.
+It's Kyogre and Groudon are like sea and land and then Rick Kwaza is sky and is the third game.
+Yeah, I don't know what the heck this Pokémon was either, but the game establishes like yo, this is a big deal.
+1:25:58
+This is like the Tarasque, like waking up, like yo.
+What does that mean?
+Don't.
+Worry about it the.
+Sprite is literally larger.
+Yeah, it's a.
+He's a, He's a big chunky boy.
+So you come back to you.
+Alkazam sends a a a Pelford letter back into town and you eventually come back and the town greets you with, oh, we knew you were, you were good the whole time and I always believed in you, blah, blah, blah.
+1:26:28
+And shiftery comes and says I was saved.
+But like all the all the characters that you've saved in your journey so far, like, you know, thank you so much for helping us.
+We knew you were innocent this whole time.
+Get out of here, Gengar, you and you team meanies and they're kind of kicked out of town and all those shopkeepers that you interact with after the fact are like, we promise we won't make the same mistake again.
+1:26:48
+Please.
+They don't give you anything for free.
+But no, But then, like the plot kind of grinds to a halt here.
+And this is like the part where I have the biggest problems with the story myself, where like I at this point, I could see how you could be like, all right, the game is done, like that's it, right.
+1:27:04
+And then you go through this like I think super tedious, like 3 three times through having to go through this ten floor uproar forest to to get mankeys there, their chestnuts which peeled.
+1:27:19
+Chestnuts.
+Peeled chestnuts.
+And the first time I did this, I accidentally peeled it myself thinking like, oh, I got to peel it first and then give it to them because they want unpeeled chestnuts.
+I unpeeled it and then I consumed it and then I had to.
+So I had to do it four times.
+That's unfortunate.
+Which way?
+1:27:35
+So I lucked out with this dungeon in that I picked up the necessary number of chestnuts the first time through and just had them on hand.
+So wait, so you can pick good RNG?
+Yes.
+Thank you it.
+Was always on the 9th or 9th or 10th floor.
+1:27:54
+Yeah, I don't know, I I didn't get orange good RNG in other parts of the game, but it worked out quite nicely.
+Yeah, the the main plot kind of screeches to all, but I appreciate it when a game gives you permission to go do side quests.
+And this is like a good opportunity to go do bulletins because it kind of, it kind of feels bad and kind of strains your, your suspension of disbelief when you're playing like an open world game and there's some really important driving main quest, but your character's fucking off and collecting your route, you know?
+1:28:28
+I mean, this is a game about being a child, but it's also a game about having a job.
+And I can think of another Nintendo DS game game Kingdom Hearts 3 Five, 8 / 2 days.
+Great title that.
+1:28:45
+Also Andrew's laughing.
+That also did a similar thing of kind of like narrativizing video game TDM as you doing your job.
+I don't know, I think it's kind of cute to have like an interlude where you just like go back to work.
+1:29:05
+Like you're just going back to doing gigs for a little bit.
+I would be, I would be more OK with this sequence if it was just like, oh, you can go like just go and do like 3 random quests instead of like the very specific one for the Mankees.
+If they were just like, yeah, we just need time to like, because what they're doing is they're rebuilding your Pokémon Hut.
+1:29:23
+And then by the time that they're done, it's for me, it was in the shape of a big Totodile head, but like it can be in the shape of a Bulbasaur or whatever your starter.
+Yeah, they transform your HQ, which which was, you know, pretty good looking to begin with into a, into a, a persona head.
+1:29:41
+Yeah.
+So they have 16 different head head cues.
+They.
+They have one for every character, yes.
+Yeah.
+So anyway, you, you, you finish renovations there, you come back into into town and the earthquakes are getting worse and they're everyone's trying to get all of the the the top tier rescue teams in and there's a Scyther, there's a pincer whatever the Chikorita final evolution.
+1:30:08
+All the stars are here cuz yo the axe squad is missing.
+Yeah, 18 ACT is gone.
+And then, well, as it so happens, who's going to step up to go and rescue them?
+Well, the only the the rough team Hydro's Roughneck Blastoys.
+1:30:27
+You got Golem and then you got the octopus thing that all team up and we're all right, we're going to go and we're going to rescue them from the Magma cavern.
+And then you come back a day later and they're like, they're just like a beaten up and dead in the Pokémon Square.
+Oh, look like the their corpse hasn't been on display in the main town square is a warning to the rest.
+1:30:49
+No, Yeah, they're they are.
+They have got completely wiped.
+They've been they've been squad wiped and who who better at that point, once the most powerful Pokémon had failed, then for the little kids to band together with their the power of friendship and bubble gum and all the the gummies that you've been eating from the dirt to boost your IQ, just like a good child would do.
+1:31:13
+You volunteer for this suicide mission to go into the magma cavern to rescue team ACT and you show up and it's just like pool.
+It's like you're effectively coming into mount dune.
+There's giant pools of everywhere.
+And I like this is another case where, like I really love the how the Sprite work changes as you go through the dungeon where it starts off kind of like rocky.
+1:31:33
+There's a few little magma spurts here and there and by the end it's just like full on like lower Norfair, just pure like demonic magma mayhem going on.
+But before you come to the main boss, you are coming into a room where like both Charizard and Tyranitar are like on their ass passed out and you're like, and Tyranitar says Al Kazaam is still battling Groudon.
+1:32:01
+Still fighting, still battling him.
+So he's been like Gandalf dueling the Balrog for like days and days and days.
+And then when you come up and talk to him, your partner, in my case, Pikachu, says, Al Kazaam, are you OK?
+1:32:16
+And I just imagined that that line that Marcellus Wallace says in Pulp Fiction, I'm pretty fucking far from OK.
+Like he's just been locked in this.
+Nah dude, I'm fine, don't worry.
+About it, yeah.
+So, so you, you go toe to toe with the, the Lord of of the earth itself with Groudon.
+1:32:36
+And like, ironically, like all the boss fights post Articuno were kind of a cakewalk for me.
+I think maybe because I understood the game systems better at that rate.
+But but I, I, you know, you roll through Groudon, you come back to Pokémon or, yeah, Alakazam sends a psychic message back to all the Pokémon or no, sorry, I'm getting ahead of myself.
+1:32:54
+The Google Docs you come back to Pokémon Square, everyone at the same time gets a psychic message from Zhatu.
+There is a meteor coming because we needed more plot stuff to shove into this game.
+Terrible.
+It is from the sky falls a star.
+It's a it's a huge one and then it cuts to this like giant, like huge meteor earth.
+1:33:15
+Then again, let's Sprite work is very good and foreboding here.
+This huge like screen shaking giant meteor coming in that you would think is going to impact the earth in like at any second, but you have plenty of time to rest for the day.
+Get psychically teleported with you and your partner up to the final dungeon.
+1:33:33
+And, and to be clear, it is it is established at this point that like this is the reason for the natural disasters is this forthcoming giant.
+It's such a big meteor that it has to occupy the second screen on the DS, which like great use of the two screens.
+1:33:49
+Indeed, indeed.
+So like the stakes are higher than it ever been.
+There's been good payoff for the mystery of like what's going on with this whole situation.
+Like there's just lots of like cut and dry, nice clean, good storytelling.
+1:34:07
+Like the stakes are set up and we and, and things are put into place and they are delivered upon and it's, it may seem like a simple thing, but a lot of games completely fuck it up.
+Helen, your hand went up immediately when clean.
+Nice clean.
+1:34:22
+No, no, no, no, I want to I want to talk about the last dungeon.
+I really the last dungeon is like full of like some of the highest stated Pokémon that existed at the time in like Gen. 3.
+Like aren't there just Salomons is like roaming around like there's just like crazy like high started Pokémon and you're just killing.
+1:34:45
+So this is yeah, so this is Sky Tower.
+This is a 31 floor dungeon, the longest one of the game so far that well before that you are greeted by your final psychic vision with, with Gardevoir.
+Who who says, you know, we we sought out a hero, we searched, we couldn't find anyone.
+1:35:03
+But you know, we, we sought out a human to come and and help solve with this problem here and you know it.
+They're they're giving you like, hey, this is the final mission.
+Once you do this, you're going to have to part ways with your pokey pals because there are encounters.
+1:35:21
+There are also farewell.
+Oh man, who the fuck?
+Who is the asshole that like, snuck into my house and figured out exactly what to put in this 20 year old game to like, make me just like, stop and groan and really, you know, suffer introspection?
+1:35:40
+Like, yeah, it, there's some, there's some, there's some legit good writing and good translation work here, I'm telling you.
+I feel like they maybe should have led with the comet earlier instead of just being like, oh, by the way, there's these natural disasters.
+Oh, just kidding, it's because of Groudon.
+1:35:57
+Oh, just kidding.
+It's because of this giant meteor in this guy.
+It felt like the writing team was just like, I don't know, let's just throw this in there.
+We got more stuff to do, but.
+I was specifically referring to the the line about.
+Oh yeah, yeah, yeah.
+There are encounters and there are also farewells, which this this has been weighing on my mind the entire game.
+1:36:16
+I'm like, oh shit, is this game gonna like, make me choose like, whether to stay here with my best pals in the world in the land of the Pokémon, which is like, objectively better than real life in a lot of ways.
+Well, you don't know.
+You don't know what your life was like as a human before.
+1:36:32
+Maybe you had a great life.
+I also appreciate that the game just comes out you.
+Have like a wife and child waiting for you back home and they were so sad because you got to go skinwalkered into a Pokémon.
+Well, you canonically are a child in this.
+So if you had a wife and child back home, I think that maybe you're.
+A very, very mature child.
+1:36:48
+Well, I read it.
+Differently 6 year old father.
+Unlike some of the people on this podcast, I was able to, you know, sit down, play this game, absorb it, understand what the world is, understand what the stakes are, understand what the vibe is, and also realize that I am a character in the game.
+1:37:06
+So like the decision that I would be making, whether to go back to real life is my actual life.
+Like I am, I am one of the characters.
+And that's what I thought at first the game was angling for.
+And then I realized, oh, no, wait, this, this is a 20 year old game and it says also a children's game.
+1:37:23
+So it's probably not going to have some like weird existential adult decision.
+At the but.
+I don't know, I feel like there's plenty of JRPGS that are just like, let's kill God now.
+Yeah, this.
+Is true, which is kind of what you do in this final dungeon.
+1:37:38
+I think this.
+Most of them weren't released originally on DS, though.
+Yeah, yeah.
+So what are you doing this dungeon?
+The well, the sky tower has the best music in the game by far.
+Dope, dope music for the the main dungeon even doper like you know when you like you get like a main boss battle theme in a game and then it changes to like a like a unique boss battle theme at the very end.
+1:38:00
+You know you're for some deep shit.
+So you're you're progressing through this like super long dungeon word like you had this foreboding sense of like this.
+Is it like this is the last last thing and who up at the top Do you do you find?
+1:38:16
+But none other than something that looks like it masters all the dragon balls, this giant serpent creature who's the I guess the other legendary from the from the third Gen., Ray Kwaza, who says prepare for the end in the special boss music starts.
+And he says so.
+1:38:32
+And he's just like, no, I'm not going to look up at this giant meteor right above my head.
+You're going to have to fight me to the death in order to convince me to like look 6 inches upward here.
+And then so you you body him eventually by abusing sleep powder as you do.
+And then at the very end he says, all right, before I try to blow this meter out of this guy, I got to know like your resolve.
+1:38:53
+Where's your heart at?
+It's the star is too close.
+Now if I loose my hyper beam here, you would not escape unscathed.
+So your your partner's like so we accepted that from the start.
+We've been on the suicide mission and ready to die to save pokey pokey land.
+1:39:10
+And then Ray Kwaza says take charge of your destiny and then goes and then like shoots this giant hyper beam up again.
+Great use of the dual screen system here.
+Oh dope.
+Hyper beam up to like attack the the meteor coming down.
+It blows up and just before everyone is is killed, Zatu and Alexander psychically teleport you back to the the Grand Canyon where you're surrounded by all of your friends.
+1:39:35
+You did it, you did it.
+You saved the earth, Bruce Willis style by blowing up the meteor.
+You didn't even have to sacrifice yourself this time with the drilling equipment, but there's like these little light sprites that start surrounding you and you realize, well, it's time.
+1:39:53
+And you say, you know, Alex Sam is like, oh, it's, it's, it's time for you to go now, isn't it?
+And you're like, yeah, but you will always be my friend partner Pokémon.
+And they're just like, they're like the Parker partner Pokémon is just like a bawling this whole time.
+Like the the sad pokey portraits are just killing me.
+1:40:11
+And I'm just like, it's like, it's like, I was like losing a pet or, you know, you're.
+You're playing this game with like the effective mental capacity of like a golden retriever the whole time.
+And you're like, I'm sorry, buddy, it's time to go.
+And I'm just like, oh, you can't do this to me.
+1:40:26
+This is this is terrible.
+I will never forget you Don't go, partner.
+Pokémon just crying Pokémon.
+I'm blessed to have met you.
+What am I going to do when you're gone?
+Partner, I'm so sorry.
+This is goodbye.
+Yeah, at one point your partner says, oh, but we're friends, aren't we can't go.
+1:40:44
+And it's like, bro, I am this is this is tearing me apart, Lisa.
+Yeah, Like, if this was coming, why didn't the player tell me?
+And then Alex Sam says these words couldn't be spoken.
+And then it kind of cuts to like, you're you become Stardust.
+1:41:00
+You're floating among the stars.
+And the text comes back and says your friend is heartbroken.
+A true friend, a friend for life.
+You finally realize it now.
+Your, your mission is accomplished and you know you've, you have ascended, you've become Stardust.
+1:41:15
+You're dead now.
+Congratulations.
+But if you wish and you wish very strongly, perhaps you will meet again.
+And then with, I think, another kind of rug, emotional rug pull to this game.
+Your little light orb lands back in your your little Pokémon square and all the Pokémon you're like, Oh, you're back, You're back and you're everyone gives you a big group hug and you get a the end screen.
+1:41:38
+It says the story of of your player character and your partner ends here dear to your heroic actions.
+The falling starter was destroyed and peace has returned to the world of Pokémon.
+And then you have 25 post game optional dungeons that you can crawl through for 99 floors and fight all the extra legendaries and complete all the story lore behind Gengar's quests and figuring out all the extra stuff that entails and reuniting with Gardevoir and all that extra stuff.
+1:42:10
+I forgot that's not in the base story.
+It should be.
+But it is not well anyway, so, so Gengar does does get a resolution to their story arc with Guard Avoir, but you have to go through like 3 or 4 different postgame dungeons in order to unlock that capacity.
+1:42:31
+And that's kind of it Like the the post game to this is, is kind of all over the place just with like tons of stuff.
+Like if if you engaged with the core tenants of the gameplay and stuff, then boy does it have it in spades at the end.
+Because there's a quest that you can do to go.
+1:42:49
+And I think effectively just add like more skulls to your collection or partners to your friend areas, so to speak, by going and recruiting all the legendaries.
+And you know, if you want that 1% chance of recruiting Mew and buying their friend area first beforehand, all those fun.
+1:43:06
+It is.
+What does a MEW friend area look like?
+Is it that truck true?
+If only but but yeah like the on your on your load game screen it'll show you like the legendaries that you've beaten and the ones that are in the postgame.
+1:43:24
+I I did go through and I beat Kyogre in the storm EC.
+I did do that postgame dungeon, which I will say like for 40 extra floors of more dungeon crawling pretty good.
+Like it dials up the difficulty substantially.
+There's more bullshit traps, but there's a ton more items.
+There's a lot more Pokémon that I didn't see it all in the base game.
+1:43:42
+They're kind of like all littered throughout all these post game dungeons and things.
+But that's where Kyogre MU ho O Celebi, Lugia, MU 2 and Deoxys all are.
+And beating all of them just adds their little portraits to your to your load game screen if that's what you're into.
+1:44:02
+You can't.
+You can't catch them.
+You can't get them on your team.
+No, no, you.
+Can't totally you can.
+If you're willing to go through the the painstaking, it's like let's take Celebi for example.
+You got to go through the solar cave, you got to unlock the Southern island friend area.
+Then you got to go through the Northern range dungeon to get to the Pitfall Valley dungeon, then the Sky Blues, Sky Blue Plains friend area.
+1:44:22
+Then you are faced with the Purity Forest 99 floor level 1 starting dungeon, which is just like at that point you're you're literally playing like a rogue, like a a traditional roguelike game in Pokémon format.
+You've had to jump through a lot of flaming hula hoops to get there.
+1:44:39
+But I mean, yeah, I think ain't the the how?
+Many hours in, would you be at this point?
+You would probably be like 20 or 30 hours.
+Well, so if if we had beaten here in the Wanderer, we would have this as the the the I can't talk.
+1:45:01
+This is how fear and the wanderer works.
+This is how fear and games work is in cheer and games.
+You know, the main story, like has its own like story.
+And then once you beat the main game, you know, you unlock a bunch of different dungeons in various ways and in various orders that each have like their own little mini story attached to them.
+1:45:21
+And you know, like, because it's, because it's cheer and you know, like, you might go into like the dungeon where everything starts at level 1.
+You know, the dungeon where it's like true roguelike.
+Or you might have like the dungeon where it you're meant to bring all your OP stuff because it's, you know, it's like set up that way.
+1:45:39
+Or you might have like dungeon with some gimmick, like only, only wacky gimmick guys show up or something.
+And each of those will have like usually will have like a little story when you unlock them and then a story when you beat them.
+And so that this, this setup in this game is almost exactly the same.
+1:45:58
+I mean, like with the legendaries, really like from what I remember the, you know, when you unlock one of the legendary dungeons, it's kind of like, oh, here, you know, here's this thing, you know, it's like, oh, Kyogre is out there and you go beat it and you go talk to Kyogre.
+But also a lot of the end game dungeons like the crazy 99 floor ones like are similar to they're like analogues to the same type of end game content in Shirin where it's like.
+1:46:26
+I'm assuming you're like getting items throughout that dungeon that can like restore your, your PPS, and you.
+Yeah, like there's there's in some cases there aren't.
+And then you have to figure out like, well, I'm, I'm like I stepped on a trap and now like this move here is like totally depleted.
+But like how do I play around that with like TMS that you pick up and like your build is altering as you as you go through the dungeon and things like that?
+1:46:49
+Having to like, use worse moves, knowing that like you will level up later in the dungeon, you know, it's like, well, I can use up my tackle, pee pee and replace tackle with something else.
+Oh yeah.
+Also for most of the end game stuff you can bring in whatever Pokémon you want so like you can go do that as like right quasi or whoever you have if you want it.
+1:47:09
+You can do that as the big boys so are still big when you play as them.
+Yeah, and and the really, yeah, they're.
+Just like are there sprites like overlapping?
+You can only take one if you if you use a big ass boy, you can just only take that guy.
+Yeah.
+Oh yeah.
+They like have like a squad of like 4 onyxes.
+1:47:26
+Or no, yeah, yeah, they just like take up more, more spots.
+And this is yeah, so the, the, the post game dungeons, like your partner is like you back from the dead.
+Hooray.
+I have an idea.
+What if we trade out team leaders now and you're like, boy, I sure wish you came up with this idea earlier so I didn't get bodied by type advantage.
+1:47:46
+So yeah, you can then like choose to be any Pokémon that you've recruited at that point.
+You can take ABS all into whatever for dungeon.
+You can take charmander on whatever rescue quests you want to do.
+You can be a Magnemite forgotten.
+I'm assuming you're you still need to have your Pokémon as part of the team.
+1:48:05
+No, no, you can go.
+Solo early in the post game you the story kind of like D tethers from your two characters.
+OK, so you could be like I am, I am an Oddish you just before random Pokémon that you've you've picked up along the way.
+1:48:22
+Interesting.
+OK, yeah.
+And I'm assuming at this point that you've also evolved or you've unlocked the ability to evolve your Pokémon?
+Yes, I believe that is like specifically when it's D tethers is when you unlock that.
+I guess that that makes sense because you're like, not as you focus on your character, is these two Pokémon?
+1:48:44
+Yeah.
+So they like, well, they're all just kind of team mates now.
+Also, they only have they only have a couple talk.
+Sprites for a lot of the.
+Pokémon, I don't think every single Pokémon has like the like 20 or whatever that our base, the various emotions that we have.
+Yeah, just 20.
+1:49:01
+For all 301, how many Pokémon?
+Are there in this game?
+I think it's like 380 something.
+So that's a lot of content.
+It is is there all are there all of the Pokémon from the first 3 generations in there?
+There's all of the Pokémon from the first 3 generations, plus a couple cameos.
+1:49:18
+They just added some in for fun.
+This OK, this is something that they like I believe only ever did between Jen's one and two and Jen's three and four, and that was that they would have like little teasers.
+Like there was one Pokémon.
+OK, I think it was the Lukia movie had like Lukia and like Dawn fan show up in it like a couple Jen 2 Pokémon before they were like out anywhere else just as little teasers.
+1:49:43
+Yeah, yeah, like.
+Scott mentioned Lucario earlier.
+Lucario is kind of like this like mythological super rescue team.
+That's a Gen. 4 guy.
+And like similarly you can get a little like we vile and Munchlax like trophy at your base.
+Those are those are more Gen. 4 guys just like little like sneak peeks.
+1:50:03
+It just didn't feel like putting the whole the whole gang in because it starts getting overwhelming.
+What, all of Gen. 4, or I mean, those games weren't out yet and pro weren't out yet when this came out, came out before.
+So it's like, yeah.
+So they really.
+Were like previews for the games in the future.
+1:50:19
+Yeah, yeah, yeah.
+It's kind of cute.
+So in terms of the mechanics, I think this is one of those games where if the the more you learn and like master all of the systems and understand what all the moves are and all the different types like that's that it rewards that.
+1:50:36
+But it does suffer a little bit from like, well, are you really going to invest that much time or if you're not like a super fan?
+So like it's, it's a little tricky, but I found that like as the game went on, like I was enjoying it mechanically more and more.
+And how many?
+How many characters in all dungeons one hit KO?
+1:50:52
+What percent of your interactions were one hit KO?
+Maybe like 75% of the time.
+Maybe 80?
+Yeah, I was just saying 9095%, it feels like was like I walk up to a thing, I do the thing, it dies.
+And that's the level of strategic and tactical awareness you need to have as a.
+1:51:11
+Player and and I'm totally I'm totally OK with that for the story mode because the the post game dungeons are just like fuck you mode of like I went into the to the Kyogre dungeon thinking like, oh, this will be a piece of cake.
+I've been like one shooting everyone this whole time and I'm just getting like bodied by tentacools like level 1, unlike the first floor of the dungeon.
+1:51:33
+I'm like, Yikes, OK, I was totally unprepared for this.
+And so I think like the, the post game stuff, like really ramps up, like the tactical decision making you have to do.
+Like I, I was just going through the buried relic dungeon, which is the one where you fight MU in, but you got to do this other stuff.
+1:51:51
+And like I'm, I'm just like, like, OK, in order to do this, I have to like think like 3 moves ahead for this so I don't get paralyzed by that.
+And there's, there's a lot more going on in that.
+So I kind of in that sense appreciate that the story mode does kind of like go easy mode and then like saves, saves the sicko mode for later.
+1:52:08
+But Will, like I, I hear, I hear where you're coming from, cause like the first couple of hours, like I was like, yo, I'm, I'm like one hit killing everything with a rock or with a tackle.
+And then once I got more moves and had different moves for different situations, like it's, it got more interesting to me.
+1:52:29
+And honestly, I mean, again, I'm FPS meathead, so it didn't really take that much for me to get engaged.
+It's like, oh, great, now I have like an attack that does a lot of damage and I have an attack that's like really defensive and then I have my regular attack.
+Oh great, wow, this is this is incredible.
+1:52:44
+This is such a sophisticated game because I'm used to shooting and reloading.
+That's it.
+I mean, this game is here in the Wanderer for children and with Pokémon here in the Wanderer, a game that would that this podcast did not like and was too hard for this podcast so.
+1:53:02
+Too hard.
+It's not quite the right word.
+I'm excited to beat it.
+No, but I didn't beat a lot of games that I didn't think it was too hard.
+Wow, wow, I.
+Mean look, I'm going to be straight with you.
+I didn't beat it because I wasn't enjoying it.
+Like I was like, I could be doing other things right now and then I did those things instead.
+1:53:21
+Like, yeah, the game probably does get more interesting and more complex later, but if I'm not hooked by it after playing 3 or 4 hours, like I'm not being paid to do this, I don't care.
+I don't wait.
+They're not better things like learning the the push HM at the the climbing gym.
+1:53:40
+No like I tried to do an in Lord joke and I don't even know is it ATM or an HM or maybe it's strength I don't remember.
+Any rock climb is in Gen. 4.
+Andrew Rock climb is in Gen. 4.
+Strength.
+Strength is the HM for push.
+Rank is the.
+It's true.
+There we go.
+I have a story about that to tell later on.
+1:53:58
+I.
+Think the mic.
+Anyway, I have things to say about OK, can I, can I tell my my story of my experience with this game as a child?
+Sure.
+So I played this game like probably when it came out, probably like within the year it came out, which was like what, like 2, I think 2005. 2006 for North America.
+1:54:16
+Yeah, OK, so I would have been 20 years ago, so I would have been like 8 years old and I was like a sad gay child bullied child playing this game about like about adults not taking your side and about not helping you and.
+1:54:42
+Being surprised by the community.
+Yeah, With like, maybe like a nice lady in your dreams who is like helping you.
+But like, I as a child playing this game basically like saw it as like an analog for my life in a very real way.
+1:55:02
+And I also like this is one of the first games I remember beating ever, like finishing all the way through.
+This is also this is the first time I ever cried playing a video game.
+I sobbed at the ending.
+Will's making a face like he doesn't understand a child reacting to children's media.
+1:55:23
+What the fuck is wrong with you?
+I was.
+Getting a little I was getting a little terrified watching someone's commentary of the end of the game after beating it.
+I was like, Yep, in the fields.
+Like I can, I can sympathize with this game. 100%.
+I mean, I think that there's no.
+Difference.
+Like Helen, you have like deep, deep nostalgia for this game.
+1:55:43
+Like you playing it as an 8 year old.
+Like, yeah, you're absolutely allowed and right to have like a strong emotional response, like connection to the game.
+So if we're, if we're looking at this game as, how much did you like it when you were a kid playing it for the first time?
+1:56:02
+Like I really, really liked Pokémon.
+I really, really liked a bunch of stuff as a kid and I that's that's fine.
+And like, I'm glad that like many people, I'm sure love this game.
+Well, I am a registered Pokémon game hater and I've never played this game before.
+1:56:20
+I've never heard of this game before.
+And it 100% worked on me.
+I don't buy this thing of Oh yeah, it's because you played it when you were a sad kid.
+It's like I played it as a sad adult and the ending worked just fine.
+And it's like a very simple and like direct, like just emotional ending that that works great.
+1:56:42
+Yeah.
+Simple and effective.
+Good.
+Versus evil.
+Oh, I I heard that one before.
+I think.
+Yeah, good.
+Like a Diablo.
+There's no evil in this game.
+There's no evil in this.
+Meanies the meanies the what all.
+Oh my God, are you fucking kidding?
+1:56:58
+There's a difference between bullies and evil people will.
+He was going to drag you to the dark place for that's hell, essentially.
+But.
+But he's yeah, bullies suck.
+Shit.
+But Gengar in that dream sequence has a come to Jesus moment where he's like, you know what?
+1:57:14
+This isn't like me.
+No, he doesn't.
+No, he just can't find a way to drag you there.
+That's what he says.
+I don't know where I'm going.
+I'd love to drag you to hell, but I.
+Don't.
+No, he does stop.
+He does stop to say this isn't he does.
+I didn't take a screenshot of it, but I have the the full Gengar.
+1:57:30
+Like mine?
+Interesting.
+Where?
+Yeah, I mean, like he does, he does have a change of heart.
+Do do we want to spoil Gengar's involvement with the actual story?
+Here please, please spoil Gengar's back.
+Story real quick cuz we've already talked.
+Too much, I think.
+I think we gotta, we gotta pause on the story.
+1:57:47
+We cannot do any more.
+OK, we'll we'll leave that for the listeners to explore.
+Oh my God, we just.
+Got to get to the Murky cave first, but but good luck with that one.
+So yeah, do we have anything else we want to touch on before we wrap up with our rescue team rankings here?
+1:58:04
+Well, a long list, but there's not a lot of time now.
+So I'm ready for that.
+I'm ready for ranking.
+Yeah, let's see, mechanically it's annoying when you go to start a dungeon and it tells you that you have too many people for the dungeon instead of just like to asking you all right, which one do you want to drop?
+You got to go all the way back to your base.
+1:58:20
+Then you got to go to the the friend zone and then you have to tell your Pokémon on you got to tell your Magmite to stand back and stand by and then and then you can go back to the dungeon.
+Like that is kind of messy, but clearly they fixed it.
+And I mean, I don't know what it only takes.
+1:58:36
+I guess 60 seconds could be worse.
+OK, I think it's finally time for us to get into our undebatable objective ranking numbers here.
+That cannot be disputed whatsoever because like all video game podcasts, we we own all of the importance associated with this.
+1:58:59
+So so no one can debate these memories.
+And in traditional format, going from from worst to 1st and saving our guests for last.
+We're we're gonna kick us off with someone who had previous as I was digging through their fun theory Google Sheet to see that they had rated Pokémon Red and Blue as a nine out of 10 correct.
+1:59:21
+We're starting off with Will's rankings, who I can only assume that this game is also as high of quality.
+Yeah, No, no, that's not, that's not outstandingly clear so far.
+No, no, this game is terrible.
+1:59:36
+It's it's a, it's a, it's a 4.5.
+It's a 4.5 for me.
+And for many, many reasons that we didn't really have a lot of time to get through.
+So I'm not going to be able to go into too much depth here.
+But yeah, yeah, the the story is is.
+Oh my.
+1:59:52
+Yeah, yeah.
+If you're seven years old, 8 years old if you're under this.
+Guy hates kids so much if.
+You're under 10.
+Maybe this kids love me by the way, I'm anti establishment.
+They understand that right away.
+Kids, kids absolutely love me.
+I'm going to throw that out there, but I do I like the kids.
+2:00:09
+No, obviously not because they're terrible.
+They're they're they don't know what they're doing and and nobody in this story knows what they're doing either.
+Everything that's there's a 12.
+I counted it 12 second punishment.
+And every time you start a new day, you want to know why?
+Because that stupid fucking Pelican, it's flying in and it needs to go clunk and it needs to put a new and it's just 12 second animation.
+2:00:33
+You're just stuck there.
+You're waiting, you're just watching like why is this taking so much time?
+And you have to do this over and over and over.
+And that's just like one thing of the many.
+Every little interaction you have with anyone is just like, oh, Are you sure you want to do that?
+2:00:50
+Do you want to hit a another 10, 10 times so that we, I don't know where the button is?
+It's the UX for all of the interactions, for all the shopkeeps, for all the people in town is so incredibly painful.
+And it's incredible to me that, I mean, I guess it's 2000, 2005, 2006.
+2:01:09
+What was it, 2005?
+Maybe 2?
+1005.
+Yeah.
+I mean, like, we've learned a lot in the last 20 years and UX is one of the things that we've, we've kind of, I think got down a lot more.
+But this was an extremely painful game to play, an extremely painful game to to get to the end of.
+2:01:28
+And I don't recommend it for anyone.
+Do not play this game.
+Do not play this game if you're over 10 years old.
+That's my recommendation.
+Ringing 4.5 Colin.
+All right, I'm going to come in with a 6.6, which puts it at basically exactly the peak of the bell curve games that we've played.
+2:01:50
+Maybe a little bit to the left, but I'm going to compare.
+I'm going to this is going to be a kind of a weird comparison, But I have up on my screen Ogre Battle 64, which came out in 1999.
+And it's kind of a game that I have a similar thoughts about, which is I loved this game as a kid and I I think it probably is still like good in many ways.
+2:02:15
+But I went, I tried to replay it as a, an adult and we have come so far in UI that and like just game systems in general.
+And I'm like, boy, it a real like really good remake of this would be interesting.
+2:02:34
+I haven't played any of the Final Fantasy 7 remakes.
+I wonder like if that I know that those have been like very strongly remade with all of the the quality of life stuff.
+So that is really what I would want to play out of this game.
+Not the actual version on the DS, the the 2026 remake with all the bells and whistles with the like you can click through faster and and yes, I know that games like that exist Helen, but we didn't play that game.
+2:03:02
+We played the 1 from 2006.
+So.
+No, I wanted to tell you that they remade this game and it blew ass.
+I think we made this game and fucked it up so bad.
+Yeah, I mean, and that's the risk.
+Like, yeah, I don't think the story was as bad as Will thinks, but I it also didn't like grab me.
+2:03:19
+I found it to be fine and so like it.
+It did not.
+The sprites were great.
+Like Pokémon in general fun, but like it's not going to be the thing that keeps me playing if I'm not having fun playing the actual dungeon battle part of it.
+2:03:38
+And granted, I didn't get as far into the game, and I'm sure it probably does get more tactically complex as it gets later, but if I'm not having fun after the first like while like I'm there are, I have so many games that I could be playing, I'm going to go play those instead.
+2:03:57
+I still haven't played Expedition 33.
+I know that's going to at some point suck up like many 10s of hours of my time so I could go play that.
+So 6.6.
+Well, in a stunning twist, Helen, you you'll, you'll be thankful that they're not all sixes here.
+2:04:14
+In a stunning twist, Somehow I didn't have the highest rating to this.
+So I get to go next and I think I'll I'll start with my criticisms first.
+I think that there's aspects of this game that feel super grindy that like I could have done without some of the I didn't really well the the plot where you're getting chase and you're on the runny don't have access to your stash.
+2:04:39
+I was kind of annoyed with it first.
+I get why it happens, but I felt like I was really kind of powerless and clueless as to what to do.
+And then I feel like the storyline is sort of sort of it's well done for what's going for, but it's sort of all over the place in terms of focus because it's like, oh, the nine tails thing is really important.
+2:04:57
+JK, it's ground on.
+JK.
+It's this giant comet.
+Like it could have been maybe a little more concise in that regard.
+The manky bit.
+I did not like it all because I got bad RNG and I had to do the dungeon three times.
+I guess technically four times.
+But but yeah, I think there's, you know, it's, it's a 20 year old game that's kind of comes with the territory of an old JRPG.
+2:05:21
+The the goods here.
+I think the the writing and the story overall are very sincere and cute and maybe a little corny, But that's, that's what the game is.
+That's what it's going for.
+And I think what it's going for there it excels with the art and sound design for this are great.
+2:05:39
+This is probably the best Pokémon game I've played since Gold and Silver.
+I think this is really good I'm it's made me super pumped to play explorers of sky.
+So much so that like I don't want to play the post game dungeon this I just want to jump into that one instead.
+2:05:55
+The combat flow is much better than the standard Pokémon game.
+I tried booting up Pokémon Emerald Rogue which is like your standard kind of Pokémon turn based combat but like overworld rogue like stuff and it just did not work for me at all.
+2:06:10
+I thought this was much better.
+It was a much more forgiving sharing experience because like I didn't have to deal with the bullshit traps all over the place.
+The the artwork of the dungeons felt great.
+I think it was a good Gen. 3 intro to us boomer kids who maybe didn't grow up with the Gen. 3 guys.
+2:06:30
+But and I think like the the Pokémon micro was like a little tedious, but actually like kind of compelling from a strategic standpoint in the post game stuff.
+So there's an absolutely baffling amount of content after the story if you're into that, which is great.
+2:06:46
+And I think it makes it for a great jumping off point to better Pokémon Mystery Dungeon games, but a strong first entry for for what they're going for.
+Yeah.
+And shocking twist Andrew.
+Oh yeah, I guess the the number I gave was an 8 point O which for me puts it just ahead of heat signature and tying it with Jupiter Hell in spirit fall.
+2:07:09
+Yeah, I had a little lower, but then during our discussion, I I raised it from high 7 to to to higher because I don't know, I was, I was thinking to myself like, oh, can I, can I say in good faith that I, I like this game better than blueprints, which is like, oh, such a revolutionary puzzle game.
+2:07:31
+But then I thought, I don't really like puzzle games.
+I'll, I'll kick it up a little bit.
+All right, so the faces that we're getting you thought you thought the the Sprite work on the faces of your partner Pokémon were expressive.
+You should see will right now.
+All right, so I had a whole bit planned where that we were going to, we were going to, we're gonna play a game called Who's that Pokémon dot dot dot Berry where I was gonna name Pokémon Berries and you were gonna have to tell me if they were real Pokémon berries, the ones that I made-up.
+2:08:03
+But we just simply don't have time.
+We simply.
+Told Andrew I could get 100%.
+I told Andrew if he gave me, if he fed me real Pokémon berries and fake Pokémon berries I could 100% that.
+Not, not one myth.
+I mean, we wanted to find out, but we'll we'll find out when we cover one of the other Mystery Dungeon games.
+2:08:19
+All right, here's check it out.
+Look, Pokémon incredibly popular for a lot of reasons.
+One of the reasons is because it resonates with people.
+People like it and people that includes adults and I think that if you go to play a game like this and you can't get into it, you find yourself repelled by how cutesy and how how how kid friendly it is.
+2:08:44
+I I would invite you to look at the game mechanics.
+One of the statuses in this game is cringe.
+And if you find yourself not being able to get into this game, I, I think you need to, you might, you might be susceptible to cringe.
+2:09:01
+And I would encourage everyone, I think to be a fully fledged mature person, you should be immune to to that response.
+And if you're, if you're, if you're a coiling, if you're cringing at this, this tone of a game, I would encourage you to, to lighten up a little bit.
+2:09:19
+I I think this is a well crafted game.
+I was again rather riveted at at at at certain moments at certain arcs, especially the fugitive element because it was so unexpected.
+2:09:34
+It took such a turn.
+I was so surprised and so impressed and delighted.
+Delighted the entire time I played this game, except for the first couple of hours where I thought it was going to be a snooze fest.
+But it got more interesting as time went on.
+This game scores 8.10 to Andrew points because of course the points that my Co hosts are using is a completely different scale.
+2:09:57
+They changed it up on me when I wasn't looking.
+So that puts it right ahead of Halls of Torment and right behind Bellatro all.
+Right, Helen, take us home.
+This is a game for children.
+This is from a type of handheld game for children where you're meant to play the game in like 30 minute increments when you can, not when you are mainlining the game in two days to go talk to your fellow men in their 30s about it.
+2:10:28
+This is a game to be played as a child.
+I would rank this game like exactly what I ranked here in the first, which I don't remember what that is, but it was probably like a nine point something to piss you guys off.
+I don't know.
+2:10:45
+I play in my soapbox.
+I play old games all the time.
+I played the first five games on the Trails franchise in two months.
+That's that's the level of old games shit I'm on.
+They're remaking those games right now.
+2:11:01
+And my response is why?
+Why would you do that?
+Skill issue.
+Skill issue.
+Frankly, that's what I have to say.
+OK, well that's going to wind down our mega episode here on a a mega favorite from some people's nostalgia banks very quickly, very, very quickly because we've gone way over budget.
+2:11:24
+Some similar games here.
+For Pokémon Mystery Dungeon Blue Rescue team.
+We have our previous episodes that are Mystery Dungeon adjacent with one way heroics.
+We did the episode on sheer and the Wanderer.
+For NDS we did Azure Dreams.
+Some actual ones that we haven't covered yet are Explorers of Sky.
+2:11:43
+From Pokémon Mystery Dungeon we got Super mystery Dungeon.
+Pokémon Super Mystery Dungeon was another one to recommend.
+Double thumbs down from Helen, but someone's the worst.
+One, I'm sorry, this is your people are going people who listen to this whole thing somehow are going to write in Super Mystery Dungeon is so bad that's I hate that game so much.
+2:12:04
+OK, excellent.
+Noted.
+Well, we'll maybe do instead Pokémon or Pokémon Emerald Rogue, which is like standard Pokémon combat, but like a rogue overworld.
+There's Pokey Rogue, which I think is just the combat and you can play in a web browser.
+2:12:20
+We touched on a little bit of the of the previous Mystery Dungeon games.
+There's Chokabos Mystery Dungeon.
+We got another one for NDS.
+That's a Izuna Legend of the Unemployed Ninja, which has a dope soundtrack, a traditional roguelike A1 that's up on Itch called Summoner RL in all caps.
+2:12:38
+Steam has got some other ones that are sort of adjacent called Dice Folk, Seralim Ultimate and Atheromancer, which are kind of creature collector more more kind of Rogi games.
+Because at a certain point all the Pokémon just sort of blended into weird monsters and aliens, and at that point they may as well just be a different game.
+2:12:55
+But yeah, that's going to wind down this another mega episode that we have here.
+Helen, do you have anything that you want to plug on your way out before I plug all the usual socials here?
+I love grid slop.
+Play Shinmug on my Tensai Strange journey.
+2:13:10
+Play Ran Six.
+That is all.
+Excellent all right well, our socialplugsgrogpodzone@gmail.com.
+I'll save this this e-mail that I have here about us starting up a Patreon next time, but you can write those in to grogpodzone@gmail.com.
+2:13:28
+Our Mastodon Grogpod game dev dot place has me posting all sorts of Pokémon anime nonsense.
+Grogpod dot zone.
+That's where the rankings and all the other stuff lives.
+The one stop shop.
+All right, so that that concludes our our episode on on pocket monsters.
+2:13:46
+But Colin, what do we have on deck for for next episode of the season?
+Well, we're going to skip forward 20 years.
+We're going to do Monster Train 2, Monster 2, Rain.
+I know will already played at least some of it, but I've been holding off because I assumed that at some point we played on the podcast.
+2:14:08
+So I'm pretty excited.
+It's one of my what is it like #5 for me on my on my list.
+So like is one of the I gave, I gave the first one at 9.5 and people seem to like this one better the the new one better than the the original.
+So I'm I'm pretty excited about it.
+2:14:25
+Time to get hype fight that the the good versus evil as Will loves to say so.
+But playing us out from this episode we're we're going to send the podcast and our listeners off into a psychic blast up to the sky tower to convince the Dragon Ball up.
+2:14:40
+Sorry, I mean that right Ray Kwaza to help help us save the world with a hyper beam up in the sky tower.
