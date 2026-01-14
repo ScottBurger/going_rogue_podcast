@@ -8,15 +8,15 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, pokemon, mystery dungeon, blue rescue team, nintendo ds, rescue team dx"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/deadzone_rogue.jpg
-thumbnail-img: /assets/img/deadzone_rogue.jpg
-share-img: /assets/img/deadzone_rogue.jpg
+cover-img: /assets/img/pmd_brt_banner.png
+thumbnail-img: /assets/img/pmd_brt_banner.png
+share-img: /assets/img/pmd_brt_banner.png
 duration: "1:45:46"
 length: 86331408   
-tags: ["2005", honorary rogue, traditional roguelike, Guest Episode]
+tags: ["2005", honorary rogue, traditional roguelike, mystery dungeon, Guest Episode]
 ---
 
-The winter special episode is here! This week we turn back the clock 3 months to a number of interviews Scott did with developers and panelists at PAX West here in Seattle. A ton of fun, he got to talk to a lot of really cool and fun people who entertained my nonsense questions. With so many great games played and talked about, we're already penciling out plans for next year's possibilities! Check the timestamps below for interviews with friends of all sorts and their games and studios.
+Yoom-taah! To kick off season 4 of the podcast, we choose you: Pokemon Mystery Dungeon Blue Rescue Team! Joined by our expert guest on the sub-genre with Helen, we revisit nostalgia and fresh experiences for a 20+ year old spinoff roguelike...lite...game? Hopefully the listeners don't also brand us as fugitives, focing us to traverse the Great Canyon of JRPG menu systems to the high peaks of Friendship Mountain, while eating jelly bean-based IQ boosters we find on the dirty ground. Can we overcome Team Meanies' quest for world domination? Can we find our lost sense of gratitude in the depths of murky caverns? Were we the true meanies after all? Time to take charge of our destiny and find out!
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -41,9 +41,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Pokemon Theme Saxy Style - The 8-Bit Big Band featuring Grace Kelly and Leo P
 
-Outro music: 
+Outro music: Blue Rescue Team OST - Sky Tower
 
 
 <div class="embed-responsive embed-responsive-16by9">
