@@ -24,7 +24,7 @@ Yoom-taah! To kick off season 4 of the podcast, we choose you: Pokemon Mystery D
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/deadzone-rogue/id1650474911?i=1000730731032) | [Spotify](https://open.spotify.com/episode/1GgoODUIKv81sQElwfaz0B) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/deadzone-rogue.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/pok%C3%A9mon-mystery-dungeon-blue-rescue-team-with-helen/id1650474911?i=1000745098339) | [Spotify](https://open.spotify.com/episode/4kF5Hd9PQXRD5GedUoDlPS) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/pmd_blue_rescue_team.txt)
 
 ---
 
