@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, pokemon, mystery dungeon, blue rescue team, nintendo ds, rescue team dx"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/pmd_brt_banner.png
-thumbnail-img: /assets/img/pmd_brt_banner.png
-share-img: /assets/img/pmd_brt_banner.png
+cover-img: /assets/img/pmd_blue_banner.png
+thumbnail-img: /assets/img/pmd_blue_banner.png
+share-img: /assets/img/pmd_blue_banner.png
 duration: "2:19:48"
 length: 114986328   
 tags: ["2005", honorary rogue, traditional roguelike, mystery dungeon, Guest Episode]
