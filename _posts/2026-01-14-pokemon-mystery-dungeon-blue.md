@@ -41,7 +41,7 @@ Yoom-taah! To kick off season 4 of the podcast, we choose you: Pokemon Mystery D
 * 1:16:58 - Mt Blaze, Frosty Forest, Mt Freeze
 * 1:24:00 - Return to town
 * 1:27:50 - Magma Cavern, Sky Tower
-* 1:30:10 - Postgame content
+* 1:41:50 - Postgame content
 * 1:55:55 - Rankings & final thoughts
 * 2:07:37 - Similar games & show wind-down
   
