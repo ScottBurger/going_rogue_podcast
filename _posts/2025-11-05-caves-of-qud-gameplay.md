@@ -18,6 +18,8 @@ tags: ["2010", traditional roguelike, honorary rogue, Guest Episode]
 
 O Glorious Shekhinah! To conclude our two-part special on Caves of Qud, we turn our focus from the epic storyline to the deep gameplay mechanics and systems from the Salt Dunes of the west to the Deep Jungle in the east. Join us for a water ritual on how to negotiate with camel merchants before we clone them, managing our reputation with fuedal fungal lords, and how to navigate the differences between mutated humans, psychic warriors, and just straight-up cyborgs. Get those schematics ready as we disassemble one of the densest and deepest "traditional" "roguelike" games out there.
 
+[Part 1 of our Qud Qoverage focusing on the story and soundtrack can be found here](https://grogpod.zone/2025-10-29-caves-of-qud-story/)
+
 [You can find the in depth tutorial series we did with BigSimple to learn this massive game here!](https://youtu.be/1sOEBoRN1S8)
 
 <div class="container">
