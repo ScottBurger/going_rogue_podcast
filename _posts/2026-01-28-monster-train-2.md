@@ -28,10 +28,10 @@ Angels and demons all over the world, join hands and start a Monster Train seque
 
 ---
 
-* 3:03 - Game stats
-* 5:59 - One sentence description
-* 1:55:55 - Rankings & final thoughts
-* 2:07:37 - Similar games & show wind-down
+* 2:00 - Game stats
+* 5:30 - One sentence description
+* 58:35 - Rankings & final thoughts
+* 1:06:03 - Similar games & show wind-down
   
 ---
 
