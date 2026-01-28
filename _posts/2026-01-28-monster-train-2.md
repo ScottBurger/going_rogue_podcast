@@ -24,7 +24,7 @@ Angels and demons all over the world, join hands and start a Monster Train seque
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/pok%C3%A9mon-mystery-dungeon-blue-rescue-team-with-helen/id1650474911?i=1000745098339) | [Spotify](https://open.spotify.com/episode/4kF5Hd9PQXRD5GedUoDlPS) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/pmd_blue_rescue_team.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/monster-train-2/id1650474911?i=1000746967091) | [Spotify](https://open.spotify.com/episode/4IHVz9EDJdF2cAonm7ZudI) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/monstertrain2.txt)
 
 ---
 
