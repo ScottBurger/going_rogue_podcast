@@ -20,6 +20,8 @@ Live and Drink! In this extra-special two-part episode, we first examine the dee
 
 [Find the soundtrack on Steam here](https://store.steampowered.com/app/1247760/Caves_of_Qud_Soundtrack/)
 
+[Part 2 focusing on the gameplay mechanics and systems can be found here!](https://grogpod.zone/2025-11-05-caves-of-qud-gameplay/)
+
 [You can find the in depth tutorial series we did with BigSimple to learn this massive game here!](https://youtu.be/1sOEBoRN1S8)
 
 <div class="container">
