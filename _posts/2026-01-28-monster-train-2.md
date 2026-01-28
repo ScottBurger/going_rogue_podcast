@@ -2,7 +2,7 @@
 layout: post
 title: "Monster Train 2"
 date: 2026-01-28
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/monster_train_2.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,16 +11,16 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/mt2_banner.jpg
 thumbnail-img: /assets/img/mt2_banner.jpg
 share-img: /assets/img/mt2_banner.jpg
-duration: "2:19:48"
-length: 114986328   
-tags: ["2005", honorary rogue, traditional roguelike, mystery dungeon, Guest Episode]
+duration: "1:14:05"
+length: 59757264   
+tags: ["2025", deckbuilder]
 ---
 
 Angels and demons all over the world, join hands and start a Monster Train sequel! One of our highest rated deckbuilder rogues arrives at GROGPOD station once again, featuring some interesting twists on the established formula. As we'll explore more in this season, we'll be looking closely at what makes for a good sequel while trying to make as many obnoxious monster moaning sounds at turbo speed as hum- ... as monster-ly possible.
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/monster_train_2.mp3">
   </audio>
 </div>
 
@@ -35,7 +35,7 @@ Angels and demons all over the world, join hands and start a Monster Train seque
   
 ---
 
-Next episode: Monster Train 2
+Next episode: Roboquest
 
 Contact us at grogpodzone@gmail.com!
 
