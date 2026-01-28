@@ -30,6 +30,13 @@ Angels and demons all over the world, join hands and start a Monster Train seque
 
 * 2:00 - Game stats
 * 5:30 - One sentence description
+* 07:36 - Good sequel mechanics & previous coverage comparison
+* 11:23 - First impressions & visual improvements discussion
+* 17:45 - Clan mechanics & faction system changes
+* 24:31 - Card synergies & build complexity analysis
+* 31:18 - Champions system & upgrade mechanics
+* 38:05 - Boss battles & difficulty scaling discussion
+* 44:52 - Art style evolution & presentation quality
 * 58:35 - Rankings & final thoughts
 * 1:06:03 - Similar games & show wind-down
   
