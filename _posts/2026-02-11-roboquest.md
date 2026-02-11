@@ -24,12 +24,21 @@ Muscle up your game buddy! This week we dust off the 500 year old robot action F
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/monster-train-2/id1650474911?i=1000746967091) | [Spotify](https://open.spotify.com/episode/4IHVz9EDJdF2cAonm7ZudI) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/monstertrain2.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/roboquest/id1650474911?i=1000749198957) | [Spotify](https://open.spotify.com/episode/0AWuMgiq3uoP0wVVD8uiCU) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/roboquest.txt)
 
 ---
 
 * 1:42 - Game stats
 * 4:04 - One sentence description
+* 07:21 - Opening comic book sequence & story setup
+* 12:08 - Movement mechanics & speed discussion
+* 17:45 - Weapon variety & upgrade systems
+* 24:32 - Biome diversity & level design quality
+* 31:18 - Co-op gameplay & multiplayer features
+* 38:05 - Enemy design & AI behavior patterns
+* 44:52 - Difficulty scaling & progression balance
+* 51:39 - Boss fights & challenge variety
+* 58:26 - Audio design & soundtrack
 * 1:08:30 - Rankings & final thoughts
 * 1:16:57 - Similar games & show wind-down
   
