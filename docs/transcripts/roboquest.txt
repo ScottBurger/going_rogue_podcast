@@ -1,0 +1,1188 @@
+0:20
+Greetings friends and welcome to the Rogue the Grog Pod roguelike podcast, where it must have been one of those hacking bots that got me there where where each episode we flipped through the comic book pages of roguelike game, Riddle it with ratings bullets and if it can grind its way to the end of the year, we revisit it at the end of season recap tournament.
+0:43
+I am your Big Blue football wielding sports Cyborg host of the podcast Scott Berger and with me are my friendly Co host buddy Bots.
+And I have returned, you know, it's me, Andrew Faced plasma rifle in the 40 Watt range, Harshman.
+0:59
+And it's me calling a little little little robot just hiding in the grass, pop up and shoot ya.
+I'm almost, I almost thought calling you were going to say you were calling Smith and Jigba, but.
+But anyway, this this week Will is out, dutifully prepping for his own games. 1.0 release coming soon.
+1:17
+Stay tuned.
+And 1/2, but our schedules have also been totally wonky this part of the year because we accidentally scheduled a lot of our time off and vacation plans back-to-back to back on on podcast week.
+All four of us managed to book four different heavy metal cruises.
+1:33
+Is is what a coincidence?
+Who we need to next year, we need to coordinate our schedule, so we're all taking a vacation one at one time and then we just skip that week.
+I've got it.
+We'll we'll plan an entire cruise around Rd. like.
+Bear with me here.
+1:49
+It's 70,000, fellow Rogue.
+Rogue fans.
+Yep, most of them slate by your heads and we'll cram them all into a cruise ship and then we'll just, we'll record there.
+We'll do a live.
+Ship.
+We'll set the cruise ship to ship adrift and we won't know where it's going to go.
+2:06
+The.
+Tides, the ultimate RNG.
+Yes, and something about procedurally generated paths get that mersa perma death going.
+Well, Speaking of heavy heavy metal, this week we're talking Roboquest released early access August 20th 2020 and one point O November 7th, 2023.
+2:26
+This is another almost kind of find it everywhere sort of game.
+Steam, Xbox, PlayStation.
+No Switch release yet as I am looking through, but this is developed by one rise up with AY studios from Lyon with AY France, whose previous game they they somehow were putting out like a a crazy amount of content in 2020.
+2:50
+Between January of 2020, they have this kind of VR winter break game that I guess is just like throwing snowballs around.
+But like AVR tech demo April they have another kind of VR first game, The Burning Descent.
+And then in June 2020, they come out with their demo for our game we're talking about tonight, today at Roboquest.
+3:11
+So kind of a lot going on for them in 2020.
+But Roboquest ground pounds in from the high heights on the popularity rankings at #72 on our Steam rankings here with 23,457 total reviews.
+3:28
+Your average player of Roboquest has about 39 hours of gameplay in it, which, you know, we'll, we'll see if we get there later this year.
+But before then, Andrew, what is your one sentence description?
+What one does in Roboquest that your peppy teenage sidekick will motivate you with.
+3:46
+OK, so you got that that that red Arnold Schwarzenegger overlay.
+I overlay.
+I'm selecting possible different responses.
+So in Roboquest you assume the role of a Terminator 2 style friendly robot and you run, grind, roller skate and of course Mario head jump your way through a procedurally, I don't know, arranged borderline corridor shooter populated by Terminator one bad robots which is filled with tons of guns and perks and items.
+4:23
+Oh, also cell shading.
+Oh yeah, yeah, this this game on the face of it kind of looks, well, it looks very Borderlands and it even has the little kind of Borderlands Y style, like you're shooting a gun and it's going Pew Pew Pew off to the side.
+4:39
+And I thought the written.
+Sound effects.
+And I remember the first time I saw that, I'm like, man, like I had played this game, gosh, maybe like right when it came out in early Access, like ages ago, I thought, oh man, is that gonna get super annoying?
+4:55
+And then like 10 seconds into playing the game, like I totally forgot that those existed because that I feel like that's one of those things that in Borderlands like really annoyed me.
+And I feel like this game takes a lot of lessons from border.
+Like one of my bullet points to the Google doc here is like, this is the the the lesser annoying version of Borderlands because there's no voice acting.
+5:18
+There's no like over like overly done like jokiness to it.
+It it feels very good like like design wise and and scope wise but.
+Yeah, I'm, I'm no friend of Borderlands either.
+I I had a good time playing the demo at the packs one year Borderland one before we knew better.
+5:39
+And then the actual game came out and I think I got to like the first like non story quest and I was like, Oh, this is I'm I just got to go collect mushroom caps.
+Like I'm not come on right out of the gate with this crummy mission design, but this is a game with no missions hardly.
+5:56
+Well, they're kind of hard, but, you know, different, different gameplay loop.
+Yeah.
+And I mean we like the cell shading, though the the Borderlands art style is well done in this game.
+Yeah, yeah, I think.
+I like the presentation.
+Yeah, but I think the presentation art style in this game is is really good.
+6:13
+And again, like the first time that I was playing, I was just getting bodied all the time and I was only really going through like the first actor, first Biome.
+And I'm like, it's the whole game.
+Does the whole game just kind of look like this?
+Like that would be kind of kind of lame if it did.
+I was glad to be wrong, which we'll get to in a minute.
+6:29
+But but even just this first level that you pop into is very, very much like a, you know, a, a desert.
+You're running through like desert canyons and it's like very colorful.
+I feel like the the cell shading works well with how maybe desolate is the wrong word but like Spartan the the environment design is at least for like kind of the first area but.
+6:54
+Definitely, yeah.
+Now this kind of environment in like a Modern Warfare or mid 2000s game or late 2000s game would look not so great.
+Yeah, but maybe putting the the the Robocart ahead of the robo horse here.
+The first thing that you're greeted with when you boot this game up is this like very charming and like well animated question mark comic book sequence, you know, like cell shading.
+7:21
+You know, it's it starts off with you.
+You're in the far distant future because your Volkswagen bus has anti grab jets where the wheels ought to be, which is an A neat touch.
+It has this kind of very like sort of Mad Max emphasis on the Max, you know, design to it.
+7:41
+But you know, you're you see this peppy like rebellious teen girl who's driving this bus out through the desert and she just gets out of radio range and oh, finally I'm out of out on my own.
+And wouldn't you know it, just like on all those Rd.
+Trips that you go on out in the middle of the desert, the first thing you happen to come across is a 500 year old robot buried in the desert.
+8:02
+Who wants to be your friend?
+Well, yeah, I mean, the the character whose name we come to realize is Max.
+She pulls him out of the sand, winches him out and plugs them back in and jam just happens to have a 500 year old robot battery on standby to to jam it in and is looking on her fancy iPad things as guardian.
+8:25
+Last update, 503 years mission colon take humans to the city and I'm like, OK, I got it.
+Then your, your robo character springs to life and it's like, you know, all right, let's let's go get it and that's, that's, that's it like you are in it like that is, it is very fast.
+8:48
+I kind of, I don't know like expected there to be more of these like comic booky sequences 'cause I think these are really well done.
+Like I, I really like the art for these and the character, like the like the characterization of like the robot and you know, the, your, your NPC pal Max like feels like very charming and cool.
+9:12
+And I'm like, Oh yeah, this is, this is great.
+Like I'm super on board for this.
+And then you boot up the game and you're like, you're in it and you're like, ready to start a run.
+You know, you're in your little like base campy zone.
+And I run up to Max.
+I'm like, oh, hey, it's, it's, it's the, the person who saved me from the desert.
+9:29
+And she kind of has just like this dead eyed robot stare going on.
+I'm like, oof.
+They spared no expense in this department, did they?
+Right, the only human in the game, ironically, is least lifelike looking entity.
+I was expecting her to have some like little quips just like some throw away voice lines but they don't.
+9:51
+I mean correct me if I'm wrong, they don't.
+She doesn't have any voice lines in the whole game.
+No voice lines and I think that like weirdly.
+So I don't know if this is like a translation thing, but like the like the quipping and like stuff that she says is like so inconsequential that I was just like, well, why?
+10:10
+Why is she here?
+Like what is I don't like I I almost thought for a minute it was setting up like a bait and switch reversal of like, oh, it turns out she's actually a robot and she's a bad robot.
+I was like, that would be, that would be really cool.
+And then it didn't happen.
+10:25
+I'm like, oh damn.
+But it would.
+Have been something.
+But she does have like, you know, little kind of like comic book quote boxes above her head that in between like little interstitial things, she'll say like, you know, remember, the bigger they are, the harder they fall.
+10:42
+Or so here's the plan.
+You kick some robo butt while I'm going to chew bubble gum and you know, like little like winky things like that.
+But I'm just like.
+It would have been bad if it was voiced.
+It could, it could have been, it could have been bad.
+This is true.
+So this is, you know, a nice Safeway to go.
+10:59
+And they still injected some character in the writing of said little quips.
+But yeah, like I I spent a very long time like stop stopping and speaking to her every time.
+And then I realized, Oh yeah, it is it is pretty inconsequential.
+11:15
+I can just, I can just go, which I guess is kind of nice the the developers are giving you to go ahead to just smash out these runs.
+Yeah, this game does feel very fast in comparison, I think to our last rogue shooter game that we played with Dead Zone Rogue, which I I have a lot of like very interesting comparison points here with that, where like Roboquest feels like very fat, like it's so fast, like you can beat the first level in like 30 seconds because like combat is technically optional except for like the times that you're locked into, like you must kill all the enemies in this room before progressing situations.
+11:57
+That's that's actually because they couldn't figure out the complicated squad based AI system that everyone wanted from the dead zone rogue level and they realized, Oh no, we just got to let you run past it.
+We're not there yet.
+We don't have the Guardian 500 years in the future technology that.
+12:14
+AI.
+That exquisite AI.
+Exquisite AI.
+Yeah, it's, it is, it is very quick.
+Apparently.
+There, there are these, there's these wonderful little roller coaster track pieces all around the level that lets you glide around, grind about.
+12:35
+And it's a pretty vertically minded game.
+So much so that in the tutorial gives you the option to select Max's special, which is a crosshair where in the camera is kind of set a little bit further up.
+So the the crosshair is, is not in the middle of the screen, but it is down towards the bottom of the screen a little bit.
+12:52
+Just so you have a little bit of extra screen view of what's above you, which I, I, I, it's not really anything I've ever seen before.
+And I played with that and I thought it worked nicely.
+I feel like this that is something reminiscent of console shooters because I remember that being like a big thing with Halo 2 where like the the targeting reticle was like 20% lower on the screen than it was.
+13:18
+Like I, I and I think that was the case.
+I guess I have seen.
+One, but yeah, that's that's like I don't remember that part from the tutorial all like the so so Max has like a special that you can activate that.
+Oh, oh, sorry.
+That that's just, I, I believe that's not going to call it in the game.
+13:34
+They call it Max is special and it's just, it is just one of the during the tutorial it says which crosshair would you like to use?
+Regular or the southern one?
+Yeah, and apparently there's some other movement methods, which none of which I unlocked in 20 hours.
+13:51
+There's a grapple hook, apparently.
+A jet pack maybe?
+Yeah, I think this is this is maybe my biggest criticism with the game.
+Like there, this game is a lot of like really good, very smart stuff going on with it and a couple sticking points.
+This is one of them.
+So these are called gadgets.
+14:07
+And these are things that like the closest corollary I can think to is like, remember, like with Dead Cells, how like you would be progressing through the environment and there would be like this very obvious like Metroidvania thing you couldn't solve.
+Be like, oh man, if I had a wall jump, I'd be able to get up into that other zone.
+14:24
+That's kind of like what these are where there's like some parts of certain biomes that you're going through.
+It's like you've clearly, very obviously can't get up there or through that thing and you need some movement Mac guffin to get through there.
+And so there are these gadgets that are stuff that you kind of come across by doing optional sort of quests throughout a run, some of which required multiple runs to solve multiple parts of of these things to to go through.
+14:56
+But like one of the easiest ones is, I think it's the hero Cape.
+And this is 1 where like you just progressed through the game as normal.
+And when you get to, I believe it's Aqua station, there is a, a little robot kind of in the, in the checkpoint room who's like it frozen in a block of ice.
+15:16
+And all you got to do is just you got to do some kind of fire damage to him and then that'll melt the the robot.
+And then that will for whatever reason, unlock this hero Cape.
+And what that allows you to do is like if you're up in the air, you can smash control and you will do like a ground pound attack.
+15:32
+And you might think like, OK, yeah, that's neat.
+But there is a another gadget called the Pogo stick.
+And this was one that actually like kind of I was like, oh, well, I can see where they're cooking with this with this kind of setup here.
+15:51
+My gripe with this is that I wish it was more upfront and like it was more required for like beating the game with because it it's very interesting.
+So the Pogo stick is a gadget that's hidden in the quarry level, I think of one of the act one branches that you can unlock.
+16:09
+And this is the thing where like the Andrew, like you were saying, the levels have like a very interesting level verticality to them.
+And there's they're kind of begging for you to like go jump on stuff and explore things.
+And it has this kind of like, again, maybe coming back to Halo 2 of like, Oh yeah, I jumped on this thing.
+16:25
+I jumped on this other thing.
+I found this skull hiding in the middle of nowhere and it activated this crazy thing.
+That's where some of these things live.
+And the Pogo stick 1 you can find kind of find in the quarry by parkouring around.
+And there's this robot just kind of hanging out on like a steel girder up in the air.
+16:42
+You go and talk to him and you're like, oh, you got the Pogo stick.
+And so where this starts coming together is like Pogo stick.
+You Crouch and then like after a second and a half or so, it'll it'll like give you like the throwing sound.
+And then like when you press the space bar after that, you'll do like a super jump.
+16:58
+So you can see how Pogo sticks sticks work.
+Well, as you know from all of your Pogo stick experience, after you've Pogo stick up into the air, then you can ground pound down to do this kind of like, you know, synergy move there.
+But more than that, right out the gate there, like this game has a lot of like very good fluid movement to it.
+17:19
+And one of which is like if you're just moving forward and you press the Crouch button, you'll do like a Crouch slide, but that also charges up your Pogo stick.
+So you can basically be doing like a a constant like Crouch slide charging Pogo stick jump, like mega jump in the air and then ground pound like constantly.
+17:37
+That's neat.
+And this is stuff that I'm like that like, I only just discovered this maybe like an hour ago.
+And I'm like, you know, that would have been great to know like 10 hours ago when I was first, first playing the game of like all these cool movement options be opened up for, for later in the game.
+One of the other cool movement things slash I don't Even so it's movement and movement adjacent is that you have Mario style like hop on enemy's head stuff, which I forgot existed for a a while.
+18:09
+But like it definitely helps you like if you're just running around, you can like bounce on stuff around.
+It makes it so you want to like get in there a little bit more, which I I liked a lot because most of the time it's like, oh, if you were in, in most games, if you touch the enemy, it does damage to you.
+18:25
+And that is true in this game too, but not if you're bouncing on them, which is like give you a little more optionality to like get in close and and bounce on stuff, which I thought was fun.
+Yeah, I think Roboquest does a very interesting job with like subtle game mechanics that are, are very smartly implemented.
+18:46
+And like you were saying with like getting up close there's, well, I guess like on the flip side, they don't really explain this very well, but there's like a chip damage system where like when you take damage, you kind of have like 2 health bars and like you take damage like your main kind of green health part goes down, but there's like a dark grey health bar behind it.
+19:04
+And when you blow up a, a robot in a very bloodless, child friendly way, it explodes out with all these happy green orbs that you pick up.
+And those orbs like refill a lot of that like dark grey bar.
+19:22
+But like once that is fully filled up, then you're like, oh, great, I'm back to full health again.
+But like when you start accumulating those green orbs for more health, it goes up way slower.
+So it's like encouraging you to like get up, get into there, get into the fight.
+Don't just like be sniping all the way back from across the map, although there are some instances where you can build into that.
+19:43
+But like it, it incentivizes you'd like get up, get up close and just like get in the middle of the fight and like all these exploding green orbs will be all around and like, you know, you pick picking them up and all that stuff and like that feels well designed.
+20:00
+And then also maybe like coming back to to, you know, obscure Halo game mechanics again, they're like.
+I don't know how many other people dedicated like a huge chunk of their high school career to understanding what backpack reloading was.
+But in Halo one there is this like glitch that you could do for backpack reloading where you would like press the reload button twice in quick succession, then change weapons.
+20:25
+And then the other like weapon would be like going through its reload process while you had your other weapon out.
+But in this game that's built into the game like the.
+Yes, I like that a lot.
+Like there's nothing worse than you use all of your ammo, you switch to your secondary gun, you use all your ammo there, and then you unwittingly switch back to your first gun and it's still unloaded and you're just like, damn, just just feels bad.
+20:51
+Totally, totally.
+Also double jump right out of the gate.
+Don't unlock it.
+Excellent.
+Good like that.
+Yeah, so as you are progressing through a run of Roboquest, you'll you'll be like going through I guess like you know, corridor.
+21:10
+It feels very corridor shooty at 1st and you're like, I don't know like this, you know this this all right, sure, fine.
+And as you progress through through the world, you'll, you'll come to like these like little rest stop zones where it's like, OK, you can get, you can get your health refilled a little bit.
+21:30
+You got some more buying options from helpful robot vendors.
+You can see what other like options of guns you can pick up and stuff like that.
+And typically there's usually like one robot in there saying like, Hey, like if you show me something, I'll give you some reward for it, like little mini quests like that.
+21:50
+But there will also be these like imposing locked doors of like, oh boy, wouldn't you like to come through this area?
+Well, you got to find some special key, you know, like, well, that's great, but I didn't, I didn't see any key on my way here.
+22:08
+I think a lot of these levels are opened up by keys you find later in the game, which is kind of interesting.
+So things like the the ruins or the quarry, your first kind of optional branching pads, you have to find keys later in the game through various means and then on another, you know, then that stays with you permanently.
+22:28
+So when you start a new run, you can just run up and oh, great, now I have access to the quarry and I can do stuff from there which would open up like, oh, now I can go to Aqua station or the fields or or something like that.
+And and additionally like corrupted even harder side levels.
+22:46
+Should you so desire for various end of the game final purposes, which maybe we'll talk about in a little bit.
+But yeah, I thought that was that was kind of an interesting mechanic there.
+What was I going to say?
+23:02
+I was going to say something before talking about the what were we just talking about before I went into this wildtangent about the the world stuff.
+Oh, we're talking about jumping on robots heads.
+We're talking about double jumping.
+We're talking about Pogo sticks.
+Let's see here.
+23:19
+Let's not forget also this game has guns in it.
+Well, I'm sure, I'm sure you'll remember soon enough, Scott.
+Yeah.
+Yeah, the the branching path system, I think it's pretty neat.
+Honestly, I think the only path I unlocked was like to the ruins and I do not like the ruins.
+23:39
+It has a mechanic where everything you'll you'll enter an area.
+So the way that the procedural generation has done is you've got these bespoke modules which are well designed, which are their own, you know, combat arenas.
+Often times they're kind of rectangular and there's kind of a beginning and an end and not super open, but anyway.
+24:00
+And the game, you know, kind of randomizes how those are connected and they connect very seamlessly and it gives you a pretty good FPS type experience as opposed to dead zone rogue wherein each module, each level module is self-contained and you enter a door and you just sort of teleport to the next one.
+24:19
+And I think that's cool and it's pretty seamless and impressive.
+But I, I don't, I don't know if it adds that much to the game necessarily, but it, it, it looks very nice and works very well.
+Anyway, so the one thing that I unlocked was the ruins.
+24:34
+You go to the ruins and it has a mechanic where you went to one of these modules and, and all the enemies have a shield on them.
+But then there's a enemy in the back that is generating the shield.
+And that would be fine if it was a more open arena type space like you see in the later levels of rebel quest.
+24:52
+But that early in the game, I, I did not enjoy it all.
+And so I, I, I don't, I again, this, I don't know how valid A critique this is, but like my, my personal player experience with experimenting and unlocking new branches was immediately bad.
+25:09
+And so I never did it again, except for sometimes there are in later levels, like these weird, those corrupted gateways we're talking about.
+It's kind of cool.
+I, I had no idea that there were keys later in the level that you would somehow keep in between runs and then could use what also where, where are there's a robot?
+25:28
+There's a there's a robot monkey of some kind who was on vacation hiding behind a waterfall.
+Classic video game trope, tried and true, who was looking for his his swimming trunks.
+I have no idea where swimming trunks are.
+Does anyone know where they are?
+25:45
+So, so I just did this before we popped on the recording this.
+And these are like the kind of theme of these convoluted quests that you go on where some like some of them I feel like are a little too much, others are just right.
+And some of them like just melting the little guy are like, OK, yeah, I get it.
+26:05
+The swim trunks 1.
+You have to 1st unlock the buddy bot.
+And I forget how you do that, but it's somewhere in the wiki.
+And the buddy bot is like this, this optional like weapon slash summon that you can start with.
+So the start of a run, you can like pick up, pick up this little buddy bot.
+26:23
+It's very cute, very, very orbular.
+And like when you switch, let's say you have your starting pistol or buddy bot, and when you switch the buddy bot, it's just like you're holding up the buddy bot and you're like holding his arm and like using his arm to shoot.
+Or you can put him on the ground and he'll like run around and like distract enemies and stuff.
+26:43
+The buddy bot you have to take to the Oasis I believe, and the first like the first starting zone of the Oasis were like you're, you know, Max is there and you have all your options and stuff.
+Waterfall of course, behind that waterfall is a door with a buddy bot logo on it.
+27:05
+You present said Buddy bot.
+The the lock pulls off and for whatever reason there's a robot behind there that has swim trunks and that's where you pick up the swim trunks to take to the surfer bot later in the Oasis level.
+I see.
+In order to do that.
+27:21
+And he's a surfer.
+Excuse me?
+He's not a tourist.
+Probably local.
+But also crucially, like in that same zone where you present said swim trunks, if you don't have them, you can still unlock the hunter class there by interacting with just a it's a blink and you miss it kind of a thing.
+27:40
+But there's there's a lot of hidden detail on a lot of these maps here of like a javelin in the ground and you just walk up to the interact with javelin.
+You've unlocked the the is it the Ranger, the Ranger class?
+And just like, OK, great.
+27:58
+Yeah, I did.
+So before we get too far in Full disclosure that I did not play that much of this game.
+I just had didn't have that much time.
+So I only unlocked one class, the Commando.
+And I thought it was kind of weird that they put so much effort and like care into the discovery of first guardian guy.
+28:19
+And then the the second one you unlock, it's like, hey, by the way, you unlocked a thing like where's my cartoon for Commando?
+Like I don't even need like that much.
+Just give me a splash screen of like, it's you kill 750 enemies.
+28:35
+And then like, where did he come from?
+Yeah.
+Yeah, it would have been nice to have a a little a a similar thing where you unearth him and act.
+We don't have that much plot.
+And I mean, I guess there's more plot later, but like, it would have been nice to have a little flavor there.
+28:51
+Yeah, and I feel like that's that's sort of like my other gripe with this game is that like the the like the little comic book movie sequences are, are really good in this game.
+They're very like well animated.
+They're very charming.
+There's a lot of good characterization to it.
+And the shooting stuff like the you actually like going through a run and shooting stuff is really good.
+29:12
+It feels very good and fluid and it feels like you're making a lot of interesting decisions along the way.
+And then it kind of feels like everything else is just like, I don't know, like we'll just like they kind of forgot to like tie those two things together closer.
+Maybe.
+Like I think what I would have wanted was like when you unlocked like one of those character classes, like, I don't know, having like the little movie, like the comic book movie thing of like like, oh, now the purple guy's in or now the green guy's in because it's just it's just the yellow starting command or guardian class to start off with, which is fun like.
+29:48
+They could have had the the commando, the next guy that you get would you get by defeating 750 enemies?
+He could have been like shows up and be like, now that you've proved yourself here, I am like you don't even need to find it.
+I mean, you don't find him in a level, but like I I don't even need like a full comic book.
+30:04
+It could just be like one splash screen.
+With Mando has joined the fight.
+No, I mean it does say that like you unlocked it, but like, you know, some characterization also that was more fun and to my I I didn't particularly like the guardians like special ability, like the whole shield stuff.
+30:23
+Not it's just not generally how my playstyle works.
+I like the shotgun and and grenade rocket launch thing much much better.
+Yeah, the the one like that I was able to find in my limited play time with this game was with the Guardian because there was one of those like passive perk things that are like you.
+30:44
+So you're running around, you're killing bots and you pick up like little, little screws that are your XP, which are the things that don't heal you.
+And so if you're like speed running through the game, you're not picking those up.
+31:00
+So it's this interesting, kind of like you are graded on 2 separate curves at the end of every level between like how much XP did you get, you know, DD through S ranking and then how much like what was your speed ranking?
+So if like you're very slow and thorough, like you can grade yourself that way.
+31:17
+And when you level up, you get one of your classic pick one from three perk kind of things from these these styles of games.
+And the one that I got for Guardian was like when you activate your bubble shield, like you have unlimited ammo for like that six seconds.
+31:32
+And there's one gun in this game.
+It's like the the men in black, like cricket gun that has one shot, but it does like 5000 damage or something stupid.
+And I was, I'm like, OK, I have a bubble.
+Like I've been stacking all these perks to make my bubble shield last longer.
+31:49
+And the longer that it's lasting, I'm having more infinite ammo.
+And so I was just like pulling out this gun that should be just like a one shot and then you're taking 3 seconds to reload it.
+Now I can get off like 9 or 10 shots in a row and I'm just walking.
+Into to a room and.
+Just like bulldozing whole rooms of dudes with it.
+32:06
+I'm like, that's the trick, you cracked it.
+I was.
+Trying I've been trying to make that build work for like 10 hours.
+I this unlike dead zone rogue, unlike other first person games, I hardly ever felt powerful in this game.
+32:26
+And part of that was that I was playing it on hard.
+But even when I dropped down to normal, it just, it always felt like I do not have enough damage output.
+I simply, this is untenable.
+And I finally got to the final boss and I didn't even like early today, I got to the final boss and I didn't even bother doing any more runs Just based on like the math.
+32:49
+It's like, OK, I got, I whittled him down like 15%.
+Like I'm doing I'm, I'm doing some rough math in my head and it's like that I just, I do not have enough number to kill this guy and to also dodge all of these lasers.
+33:05
+Like the final boss level is like bananas.
+And I feel pretty confident that like, if I went on some of these little quests and got some of the movement items unlocked, that would help a lot.
+I'm looking at this.
+Power crystals thing.
+33:22
+If you get red power crystal, deactivate all lasers on the moon.
+That would be useful.
+Yeah.
+Where?
+Are these, where are these lasers?
+Our other big problem?
+I have the game very much incentive.
+It has a wonderful scoring screen.
+It feels so good to get an S rank, the big O big OS very exciting.
+33:40
+It incentivizes you to go fast, but it also is incentivizing you to go on these little quests where you have to poke and prod and look at every detail of the level to find these unlocks.
+And I don't love that those two are in conflict.
+I feel like there could have been a better way to do that.
+33:55
+Perhaps those items are hidden in the the little base camp zones, the rest area between the fighting perhaps, or or really just anything other than what they they have right now or make them lot linked to like how well you do the boss fights or something anyway.
+34:15
+So I mean go ahead.
+Where are the where are the where are these crystals?
+Yeah, so the I know.
+The power crystals, which are things that you can use to to bring the difficulty level, the final, the final Biome down, the whole Biome.
+34:33
+Are things that you find.
+In like these corrupted side branch levels.
+So for example like you start a run in the canyons, you can side branch out to the quarry and then in the quarry level there is like a like a section that requires a like a three digit code or something like where the hell am I going to find a three digit code for?
+34:54
+But if you remembered from the from the rest area in the canyons that gave you the branch option to go to the quarry, there's like a like a poster, right?
+Like it's in hindsight, it's blindingly obvious.
+35:09
+But like you run past it like 10 times.
+You're like, I don't know what this means.
+And there's a three digit number right next to the gate to the quarry.
+If you were to take a screenshot or write that down, you take that 3 digit code to this one section, open up another, another door that leads to like the hard mode zone of the pit and these.
+35:33
+And so like there are there are various branches of these from all the different levels.
+There's the rift, the scrap yard, the Doom gardens, District 13, etcetera, where each one of these has has like a big power crystal.
+And these are slightly different levels where instead of just going like end, like end to end, it's more of kind of like a, a, an open concept plan of a, of a stage where in each one of the normal levels you have like an option to go on to.
+36:06
+Like these little little purple crystal paths.
+They have some like cute little like platformer like jumpy puzzle with like laser grids and stuff I thought were pretty well done.
+And it is a nice.
+Change, yeah.
+You get a little loot at the end of it, and I almost always did them.
+Yeah.
+And it's.
+36:21
+A good little risk reward mechanism.
+These corrupted levels are like, are like three of those.
+And so you have to, you have to go through three of those And you know, there's, there's enemies along the way, but like, there's like, I think they're, they're all kind of like, you know, Tripoli branched off from each other.
+36:40
+And then after you do that, I think you fight a boss 'cause I think all of these are at the end of the chapter for that Biome or something.
+But you, you fight a boss and then at the end of that boss is like a, a power crystal that's there and you go and activate or you, you claim the crystal to take back to base camp.
+37:00
+And what that allows you to do is to activate those to make the very final level easier.
+So if you like, and, and some of them are contingent for like these goofy side quests as well.
+So.
+And to be clear, this isn't like.
+Hidden.
+You start, you get to the moon, which brought to mind when you fight Nazis on the moon and the Wolfenstein series.
+37:18
+So I appreciated that.
+So you get to the moon and there there's these giant crystals right there and there's a little and you go into the next area and there is a little screen that talks about the crystals.
+It's like, oh, cool, well, surely I'll naturally encounter one of these 'cause I mean, there's six of them.
+Surely one of them I will, I will find and has has not happened.
+37:39
+So this this gatekeeping, I know it's not totally a gated situation, but it feels that way.
+And all of these there's there's a lot of unlocks, there's a lot of meta progression.
+This has got to be in like the top three of games where there's no way you could beat it first run like in a rogue like you want there to at least be the illusion that like, well, if I was just good enough at at Hades, I could beat it first go.
+38:09
+Like I I think it might be literally impossible unless, I don't know, maybe there's a bot that could be designed to allow you to dodge every bullet.
+This this is an interesting question.
+Because so like the first few times I was playing through this like a long time ago, I'm like, I'll just play on normal mode and you're getting like bodied halfway through and just like, okay, yeah, like that's the standard thing.
+38:32
+I'll just like upgrade the stuff to give me more options, blah, blah.
+But for this time, I'm like, okay, I have to do my due diligence and research for this game.
+I I have to see what the end game content looks like, I'm going to turn the difficulty all the way down to like super noob ass easy mode for like It's interesting to see in a shooter.
+38:50
+I, I, I haven't seen that too many times.
+And it's, yeah, there's like a, it's called like discovery mode or something.
+And and the tagline is.
+Like, for people who are new or like if this is your first ever first person shooter that you've ever played, which, what a choice.
+Yeah.
+Bold.
+Bold choice for.
+39:06
+A a rogue style game that are are supposed to be famously difficult.
+But at the same time I'm like, I guess I'm OK with that being an option 'cause if this is like there, there has to be like 3 people on earth for for which like this is their first first person shooter game and their parents won't let them play anything.
+39:25
+They won't let them play Doom Eternal.
+Like we'll get you this game 'cause there's no blood in it.
+You're just shooting robots.
+It's fine.
+And I could see them being like, well, I've never played a first person shooter before so I'll put it on easy mode.
+And like the enemies are so painfully easy, at least to start.
+39:41
+I'll say this at least to start where they're like maybe shooting like once every 10 seconds or something.
+And in that in that playthrough I beat that whole playthrough like just in like 1 sitting and I was thought like, oh man, like was that too easy?
+39:56
+Like that I spoil myself by like going through and like.
+Man, like the end levels were still like making me sweat and they were still really hard and that was on like noob ass easy mode so well at the very least in.
+Terms of like accessibility, appreciate that that option is there.
+40:16
+I was just again surprised to see it like it's it's pretty commonplace in like AAA story driven games.
+Pardon me.
+And like, like all the, you know, like Sony, big AAA games seem to have that type of option.
+40:33
+And I'm glad it's there.
+It's interesting that Returnal did not.
+Have that but yeah, I think like this game yeah like if you set it to easy mode and you're just like booting it up for the first time theoretically you could beat it on OK, play through all right well that's that's.
+40:50
+Good to hear again.
+Perhaps I just was overestimated my abilities or something.
+So most of the time I played it on hard and yeah, it's just I just not not a problem of aim.
+41:05
+My dodging could have been better, I suppose, but like most of the time it's just like, yo it, the time to kill is just too long for all of these robots.
+And I'm like stacking.
+I'm I'm making, I think, pretty informed perk choices like, all right, I'm going to go all element or, oh, I'm going to stack everything onto the guardian Shields that when I activate the guardian shield, I'm shooting faster, I'm doing more damage.
+41:29
+And like I I was, it was it was just it felt frustrating.
+Whereas in dead zone it was very often there was like a climb to get to that level.
+But like once I would get a build going, it's it's it, it felt easier to put together a semi broken build that still felt not, not unfair and not like ridiculous, but like well earned and still competitive.
+41:56
+I mean, that is the goal.
+Of all roguelike games is to feel a little bit broken.
+Not necessarily.
+I mean, some games is to feel a lot broken.
+Like the original Monster Train was like the scaling was my favorite part of it, which is like unless you have a broken build, you get crushed.
+42:12
+But then even but you're like, I'm doing 1000% more damage at this point and I think part of the reason for that.
+Is that in these perks there's a lot of 10% better yeah sort of shit and we we don't like those types of perks.
+42:28
+Now what is Here's a philosophical.
+Question Where?
+Where is the breaking point for that?
+When right?
+When do you actually know?
+Perhaps, Perhaps.
+But it might be higher.
+Well, I I feel like there's something.
+Missing where it's like, like it, it can be those stupid vague numbers, but if you show me some sort of like bar of like you're gonna up this thing by like 36%, like that's great.
+42:54
+I don't know what numbers mean.
+But if you show me like a bar like tripling in size, I'm like, yeah, baby, let's do it.
+Like we're going all in on on fire grenades.
+Why not That's that I feel like is kind of missing here and I don't I don't think that like dead zone did that like particularly better, but well, I I think one of the.
+43:11
+Default perks is like 50% more ammo and it's like all right, awesome, great, good.
+I I I my memory is that dead Zone does this quite a bit better.
+Well, so just the guns.
+The guns feel better.
+I just in general, not the gun.
+Pardon me, the guns from a stat stat standpoint, like I never, never in robo quest did I pick up a gun and go, oh, wow, this is like this is this is it.
+43:36
+This is the sawed off.
+This is the double barrel shotgun from doom.
+This is the golden gun.
+This is the gauss rifle from of of half life fame.
+Like one time I picked up a legendary super duper gun in 20 hours.
+I saw it one time and it was OK.
+43:53
+I and maybe that's maybe that's because it was on hard.
+I'm not sure.
+The actual hard stats are not that much higher than normal.
+It's like plus 10%.
+We're just kind of saying how 10% it's nothing.
+It's like plus 10 or 15%, like enemy damage or enemy aggression or something.
+Yeah, I don't, I, the game isn't quite balanced to my particular FPS meathead sensibilities.
+44:14
+I think in, in, in general.
+But yeah, let's get more bars, let's get more 25% minimum of these sorts of upgrades.
+But in general, from like a design perspective, I, I, I like a lot of the perks.
+I think the way that it encourages you to use your, your melee ability and your special ability is cool.
+44:35
+Like for example, with the commando, you can get one where in there's there's a lot of play between the melee ability into the queue rocket ability and like one will recharge the other one will increase the damage of the other.
+44:50
+And and you get into this almost of an an MMO type flow of where you have your your rotation of abilities.
+And that feels nice to get that rotation going.
+But again, one would hope that once you get that rotation going, you feel like you're being, you're effectively dismantling the enemies.
+45:10
+And I never felt like I was being I was especially effective and and this was one thing that I would like I.
+Was scouring for of like OK, there's there's like even more difficulty systems beyond hard.
+They're called guardian level difficulties and the the highest one is guardian 4, which I guess it's like the sicko mode difficulty for once you've unlocked all of the meta progression stuff.
+45:33
+There is an endless mode in this game that I was like I was I was reasonably interested in checking out, but I was doing the math and like there's no way I'm going to be able to get like 100 wrenches unlocked from like the final meta progression tier before recording time.
+So there's this YouTube hater axe HADERAXE who has like like Roboquest has got to be like this guy's favorite game because like he has I was watching one run through that he was doing of I think it was the Recon class.
+46:04
+I'm like, OK, let's watch this one 'cause I don't I don't really understand the Recon class And all he was doing like this like coked out melee build where he had some sort of like like he was focusing all in on melee stuff.
+And I don't think that like that's a a class that like is particularly like melee first, if I remember right.
+46:26
+But he was like finding all like these crazy synergies and like late by the end of the video, he's just like swiping so fast that it's just like comically broken.
+So there probably is, I guess there's options out there.
+I I.
+Should have much earlier.
+46:42
+I should have watched some gameplay videos because I, I think there's there is something fundamental I'm not.
+But I think your point stands because.
+Like, you know, in in, you know, 20 ish hours of gameplay like that should have been something that like you, you know, you get your first broken build in like, you know, 3 to 4 hours of gameplay, but the game is also broken and who's going to, you know, break the game faster kind of thing.
+47:04
+Sure, part part of.
+I think maybe my I remember at one point will elucidating this point very clearly and very nicely, wherein meta meta progression is kind of its own perfect type of game balance.
+47:24
+Like you can make the game as hard as you want or as hard as you want, because eventually you'll reach like an event horizon.
+Each individual player.
+When you've unlocked enough meta progression stuff that you can now, you can now complete the game that you're skilled.
+The game will tune its difficulty to match how.
+47:42
+In effect right I have.
+Unlocked everything in the meta progression menu and I just the, the number is not high enough.
+It's not high enough.
+And I am, I'm shooting those Orbeez right in their little, their little eyeball spot.
+And yeah, again, maybe I'm misunderstanding something about the per keywords or what have you.
+48:04
+Yeah, I'm.
+I'm looking at a speed run here.
+Well, I don't know so far.
+Interesting.
+All right, well, OK, we're not gonna we're not gonna record me just watching this.
+Yeah.
+Let's shout out to hater acts.
+All right.
+Welcome to the Hater Acts podcast.
+48:20
+But but hey, let's talk about shooting.
+For a minute.
+That being said, the shooting feels pretty good and like dead zone Dead zone Rogue, that's what it's called.
+Here we go.
+It really is a terrible name for a game.
+48:36
+It is not great will and.
+I on the way home from.
+Watching the Seahawks win Super Bowl we're trying to remember the name of.
+That game.
+And neither of us could.
+Excellent.
+That's standing good.
+So like that game, this game somehow makes killing robots fun, which for a long time I feel like the FPS genre had an issue with where it was just objectively better to be jibbing apart some blood sack some some living biological creature.
+49:08
+But in this game, you know, combination of good, good sound, sound effect feedback and maybe not powerful in execution always for me, but powerful looking guns and good feeling weapons and various effects of sparks and and pieces of machinery flying off.
+49:27
+It feels very nice to walk around this game and shoot stuff which is sounds simple and obvious, but is not a guarantee with shooting games.
+And it's quite nice here.
+And the guns themselves are varied.
+Interesting and fun to look at and fun to use.
+49:47
+The only downside I have for the guns?
+Is that like if you're in the like side branch corrupted puzzle things, when you choose the the gun, the game pauses.
+If you're in the middle of a run in a level, it does not pause when you're looking at it.
+50:04
+So it is hard to like from a a very new player.
+It's hard to judge which gun you want for sure.
+You're like scan, oh God, scan these, scan these attributes, try and figure out what your is this good enough to break the build that I'm going for?
+50:20
+And then you're just like time to go.
+Yeah, any any game that allows you to do a.
+Wield cast iron pans as a melee weapon.
+Yeah.
+That, that's that's they.
+End up cast iron.
+Pans are pretty good.
+To be clear, the cast iron pans.
+They are.
+50:35
+They are.
+Nunchucks in fact, that they are held together by some kind of a light Saber type of beam that you can swing around the pan.
+Pan Chuck indeed Chuck the pan.
+I also specifically.
+Want to call?
+Out the I I forget what the game calls it but it is a Warhammer 40,000 bolter which is a caseless.
+50:59
+Like.
+Rocket firing rifle of of sorts.
+And this is a very good portrayal of the bolter.
+Sometimes it the fact that it these shots explode is missed in video game portrayals.
+51:19
+And it it looks good and feels good to use.
+And it's it's got the right sort of a rhythm of firing that's not super fast, but it's it's fast enough to to feel quite good.
+Did anyone use the like knives and hatchets and things of that nature?
+51:36
+I thought the hatchet was fun.
+I I didn't really experiment.
+With melee builds that often 'cause I felt like, I mean, I was just talking a minute ago about like, oh, this game is great 'cause it encourages you to get up up close and personal.
+But I'm a I'm a big weenie and I wanted to just sit like way back and not take any damage, particularly on normal mode, Quote UN quote normal mode, 'cause I was like, man, I'm just I'm taking so much damage on like the chapter 2 levels that like I felt almost well, almost disincentivized, but at the same time, maybe not the best character class for that as well that I was using perhaps, perhaps with regards.
+52:15
+Speaking a little bit more about the you mentioning the the second act or second chapter remind me of some other sort of neat smart design choices that make the act of just pointing and shooting at stuff more engaging.
+52:30
+Because if that's all your game has, then you're going to get bored pretty quickly.
+The robots, they're these starting I think in chapter 2.
+There's these tiny shield robots which will like fly over another robot and produce a shield.
+So you have to contend with them first.
+52:47
+And it's, it's kind of fun because you know, you're used to aiming high for a headshot in in these games.
+And in this game it's like, Oh, no, you got to aim a little bit higher even.
+And it, it, it's almost sort of playing off of muscle memory that already exists in this genre and, and adds another opportunity.
+53:03
+It's like, oh, you thought a headshot was satisfying.
+Well, this is a double headshot.
+You got to get that the the second head first and then the robot head and there's, you know, fun little things like that throughout the game.
+I also want to specifically call it.
+There's a roller coaster themed boss fight where there are these, yes.
+53:23
+That's that's that's so.
+Great taking, you know, one of the core movement mechanics, which is these these rails that you're grinding around on and making that the the main part that making that the level for this boss fight.
+And yeah, it's a giant Caterpillar that's flying around on the railing and you're also grinding around on the railing while acid is is coming up from the bottom.
+53:45
+Super cool.
+Very, very good stuff.
+See, and that's where that's where I felt like I wanted.
+More of that because like the other, the other movement mechanics of like the ground pounder, Pogo sticker, like the graph, like don't even get me started on the jetpack.
+Like the amount of shit that you have to go through to unlock the jetpack is like it's ridiculous.
+54:04
+Like I was, I had a goal to get through to unlock the jetpack and play around with it before recording.
+And I'm just like, there's no way.
+There's no way I can do it because of all the backtracking you got to do.
+But I wanted there to be more boss fights that incorporated that stuff.
+54:19
+So like if you got that stuff earlier on and it really kind of showcased like, oh, this is like how open and fluid and like you know, you're, you're able to in Biome one just like jetpack up to like the Canyon rim and now you're like shooting down into the Canyon.
+54:35
+Totally different gameplay experience.
+Or like from up there like grapple hooking it like up to an enemy and like melee in them and stuff like that.
+Like that.
+Would have been really cool if I had all those options unlocked like 4 hours in.
+I don't know if that's something that they added in later and like I could I could totally see that being the case where they were like, well, we didn't design the game around like a grappling hook jet, you know, jetpack fight.
+54:59
+But God damn, that would have been fucking sweet if it was the the Tony Hawk like rail grinding one was.
+I thought like that one stood out to me as like one of like the my my favorite boss fight of the game just 'cause it was so Oh yeah, unique.
+That one was especially.
+55:15
+Good and and the other boss fights are no slouch either.
+I think they're all pretty well designed, although the mole guy who who drills through the ground and pops up, he has one move set where I'm not sure.
+I don't quite understand how he gets in and out of the state.
+55:32
+And sometimes he just stays in the state of just blasting you with these giant orb projectors.
+Yeah, and if.
+You go to.
+The wrong part of the arena during that fight, you're you're you're dunzo.
+So the minor, minor complaint.
+But in, in general, yeah, the boss fights are pretty good.
+55:50
+Yeah, that last boss fight, I I don't advise anyone trying to take that one on without doing these crystal quests, which I'm a little annoyed by.
+It's like, I'm sorry, is this is this a shooting game or is this like some kind of a weird ammo?
+56:06
+I mean, quest is in the name, I suppose, of this game.
+Yeah.
+What is the deal with that?
+What's?
+The What is the name of this game?
+Robo Quest 'cause you're a robot.
+Well, so I guess.
+We we kind of talked a little bit about the like the intro story sequence things, but you know, it, it says like right up front mission, take humans to the city.
+56:27
+And you know, like the again, like I wish there was there were more of these things 'cause when you fail a loop and you go back to the beginning again, it it, I feel, you know, you're never supposed to compare your favorite children.
+But right now I'm playing ahead for one of another game that we're playing later on this year.
+56:46
+And I just keep comparing it back and forth to that one.
+I'm like, God, that other, the other game does it so well.
+Why can't this one do it?
+I'm like, Nope, what about that?
+You can't compare them.
+What about comparing your least favorite?
+Children or your mid tier favorite children?
+I wouldn't say Robot Quest is my least.
+57:02
+Favorite child?
+No, no, no, I know, but but like these the little comic book sequences, I think kind of spell out of like, oh, you know, you're you're going into this like big like futuristic techno city or or the, you know, yellow guardian robot is like your your quest is to go take human to city for reasons question mark.
+57:26
+And there's this like big like giant red eyeball that hacks into your computer screens or Max's computer screens every so often says no, you you're not allowed in here.
+Humans, all the humans have been banished, etcetera.
+And then, you know, eventually you break into the city and it's this very big, lush, lavish garden and all the biomes that you're running around in there look, look great.
+57:47
+It's just really good environment design.
+But you know, the, the big eyeballs saying like, you know, you, you're ignorant species.
+You, you were banished from the city and you ate all my fruit and stuff.
+And Max is like, no, you, you stupid psycho.
+Why don't you banish us?
+And your, your player character, the robot, solves all these conversations by just like, charging into the thing and punching it into submission, which is, yeah, the the storyline is intriguing.
+58:14
+And I would have appreciated a little bit more like that's a, that's a good hit.
+It's like a good, a good hook.
+Rather is why was mankind banished?
+Which I mean, as as a vegan, I can think of plenty of reasons why mankind would be labeled as bad.
+But I, I, I am curious.
+58:31
+I, I, I'll probably keep playing this game.
+It's it's it's pretty fun and definitely there was a major drive for me to, you know, the the one more run sort of thing existed.
+So be I am intrigued and enough to want to know how the story ends or at least get an explanation of like, wait, what's what happened 500 years ago when mankind, when humankind was outcast from this robot AI controlled utopia?
+58:57
+Yeah.
+And about those levels, when you get to the actual city, the game switches up the the level design a fair bit.
+Instead of being these kind of more of a linear kind of snaking paths, branching snaking paths, you get to these larger open levels wherein you have specific objectives.
+59:19
+Like you have to go and kill 5 different bosses or there's another one where you have to get to 2 of the purple corrupt zones.
+I, I forget what they're called.
+And I appreciate that, that, that, that was enjoyable.
+And they still keep the verticality so you can be running around on the rooftops and things.
+59:38
+And that slightly more open level design is something that I definitely enjoyed without being so sprawling that like, you know, you're constantly getting lost.
+So often times in these rogue light games, like in act three, they decide to do a gameplay switch up and sometimes it doesn't work.
+59:55
+In this case, I think it works pretty well.
+It kind of makes me a little mad that like.
+Other other like established shooter like IPS have not tried doing something like this because I feel like if this game if this was like a Halo game, God damn this would be an amazing Halo game because of just like run it like using the environment like run around and jump on stuff like it it I feel like.
+1:00:18
+If you are, if you are a fan of that kind of like, you know, Halo style, like running around the using the environment as like a thing.
+But like that works so well.
+Like it was tickling my my Halo brain so well when playing this game.
+1:00:33
+And it made me, yeah, just wanting to see, see that adapted more of like, how come we don't have more Mario games designed like this?
+You know, like get get weird with the IPS people.
+I mean, like this, this one's great.
+I'm glad this one exists.
+I I think to me one of the best things that Roboquest does.
+1:00:50
+Is it's a really good example of how you can take good core gameplay and, and stretch it out in a good way, like, you know, slap it out into a tasty pizza that is better than just that ball of dough.
+1:01:11
+It's I, I, I definitely in a way, I'd like to see more games, more shooter games, especially like this, because of course, one of the the main issues that's plagued the FBS in honor is that the campaign, these campaigns are so short.
+You know, the game's so short, but just some of the some of the stuff under the hood with the perks and the numbers I'm not so into.
+1:01:36
+Oh, hey, here's something that's not under hood and very apparent.
+There are scopes in this game, but there's no iron sights.
+BB.
+We don't need iron sights in every game.
+I love shooting from the hip.
+Definitely speaks to the boom shoot part of me appreciate that quite, quite a bit.
+1:01:56
+Now.
+Pardon me, dead zone did have you know, iron sights and it's you know, it's it's it's fine.
+It's just I I don't like the idea that iron sights have to be mandatory in games.
+So it was nice that I wanted them.
+You would have liked them.
+You wanted to aim.
+1:02:12
+Down I actually, I don't even know.
+If I, I don't know if.
+I even wanted them more than just I instinctively tried to do it and my like crocodile first person shooter brain was like, why no, why no aim downs, downs scope?
+1:02:29
+Why no?
+Yeah, exactly.
+Like I hear you.
+Here we coming from yeah, I think.
+The there's also something in this game, the again, this game really doesn't go out of its way to explain anything to you.
+And the wiki is kind of hit or miss, but there's something called a collector in Roboquest that I don't really know anything more than that.
+1:02:52
+But I think like in other Rd. games, it allows you to kind of set some sort of control over your build such that you can like like thumbs up or thumbs down or like ban things from the pool that can give you a little bit more authority on how you you build that run out.
+1:03:10
+Because, yeah, I mean, like as you're progressing, you're just like, I don't know what any of these the options are for this class.
+Like, I don't know how it should be specking this thing out, but like, where's that broken build like in other games, Like you can kind of see how the puzzle pieces are falling together in this one.
+Like it's good that there's like a lot of stuff, but there's maybe a little a little too much stuff right out of the gate that like kind of kind of mystifies that a little bit.
+1:03:35
+So I don't I've no idea what this collector thing is or where it comes into effect, but that seems like another sort of tool that you can use to to hone hone that stuff down.
+And I feel like the the in service of what question, at least for me, was like, like, why am I playing this game?
+1:03:53
+What am what am I supposed to be doing for this?
+Like long, long term?
+And for me it was beating the story mode.
+And after I after I did that, it was like an Alexander wept moment because I'm like, is that it like did I did I just like spoil myself on everything?
+But you need.
+What you need is of course a.
+1:04:09
+Slay the Spire style heart.
+A boss after the boss.
+Yeah, yeah.
+And that that was kind of what I was hoping.
+That the the main boss was and that like, you know, each time you beat it, like you're, you're collecting like the power crystals and the power crystals themselves are the thing that like fall down the gate so that you can go and kill the heart, so to speak.
+1:04:29
+But yeah, it is it is kind of amazing that more games don't sort of ape that format of like, you know, all right, I I beat like the Act 3 Elite boss, but but you didn't beat the boss, now, did you?
+Yeah, I mean, I imagine it's just.
+1:04:45
+Harder because then you have to make the next boss like just more more stuff like it's easy for something like Slave the Spire because that doesn't really require like a lot more programming work.
+But I think I think with like third person shooters in.
+Particular because of that 3D aspect, everything is just like geometrically more, well, pun intended, more, more complicated because you just have so much more like bullshit you have to worry about versus like 2D sprites.
+1:05:13
+Yeah, one thing we haven't.
+Yet mentioned is sound design music.
+Very good.
+Like very good music.
+Oh yeah.
+Oh yeah, I say that.
+Often, but I think this is.
+A step above most of the soundtracks.
+1:05:28
+Like it was stuck in my head At work today and I have not played this game that much.
+So that's pretty like.
+It is immediately stuck in my head and it has a good use of like restraint.
+To it as well for how like bombastic it is, because when you're in the little prep zone before like your biomes start, it's got like maybe like a theme that's kind of like toned down a little bit, but like still kind of like getting you in the in the mindset.
+1:05:53
+And then when you walk up to like the hologram or like the the force field gate to like all right, this is when you're going to start blasting robots.
+You cross that threshold and then it boom like the, you know, it just drops you right into the music and it just feels so good.
+It's very, it's very well directed in that aspect.
+1:06:09
+I I'm listening through the soundtrack right now and it's like.
+The later tracks are good too.
+Like I haven't really listened to them anywhere near as much, if at all.
+And it's like, Oh yeah, these feel like good Moon tracks.
+Like Good Moon.
+1:06:25
+Yeah, there's.
+I believe the big bad is called Iris.
+And the story sort of leads you to believe like, oh, you're going into the final, the final battle.
+And Max says, like, according to my, you know, according to these readings, Iris is right through this door or whatever, like in the next area.
+1:06:42
+And yeah, I, I made sure to turn, turn the music up a bit, make sure I didn't have any distractions, a podcast or something so that I could really enjoy that.
+And, you know, it hit me with an original track.
+First time I've been to that level and it was a a good auditory experience.
+1:07:00
+It's sort of a metal electronic fusion that's that's well done.
+That doesn't like go too far into either those genres.
+And it's definitely greater than the sum of its parts things.
+It's got a little bit of a poppy, a little bit of.
+A pop hint to it too as well, though a little bit of a especially the earlier, especially the earlier ones.
+1:07:20
+There's there it's it's metal, but it's like pop metal.
+Sure, it's very pop.
+It's it's very melodic and it's got some, some nice.
+Juicy hooks to it, for sure.
+Yeah.
+Yeah.
+It's it's good stuff.
+It's well done.
+It's obvious why Scott picked it for our music fest.
+1:07:36
+Yeah.
+Yep, Yep, Yep.
+All right.
+Anything else?
+We want to cover before.
+Popping well as always, I was hoping to get.
+Will's input on.
+Some of these weapon.
+Designs some of these these how how tangible some of these these weapons were but it'll have to wait when we eventually I mean yeah, we'd ask him like how.
+1:08:01
+Much do the pants compared to the nunchucks.
+If you could tell us the answer was so true, yes.
+Yes.
+Yeah, but I think that's it for for my notes.
+This it's it's one of those games where it's like I enjoyed playing it so much, but my ranking unfortunately doesn't really reflect that very much.
+1:08:23
+Let me just double check my my maps here or my maps, my notes here yeah, Robo quest I it feels like they took a lot of something I do want to call it before we get into rankings is I was a little unclear on when this game came out and because it feels so very much inspired by by things like Borderlands things like Overwatch, it brought to mind, but on like very positive ways.
+1:08:51
+And so it first I thought, did this come out, you know, right when like Overwatch came out or clearly came out much later.
+And yeah, it took, it took a lot of positive elements from games that I don't especially like that much.
+I don't especially like Overwatch or Borderlands that much.
+And this is like a good version of that in a lot of ways, which I appreciate.
+1:09:11
+It took the style, but not the stuff that you don't like indeed.
+Border Borderlands is the Roboquest at.
+Home now.
+Are we new?
+Rankings.
+Yeah.
+I'll, I'll.
+I'll, I'll start us off here, but there's, there's one.
+1:09:28
+Thing that's not a number in there.
+Yeah, I'll start us off.
+I'm going to give this game an A minus.
+Because I don't feel like I played this game enough to give it a real ranking.
+I will give the the quick ranking up I've I've we've compared this enough to dead zone rogue.
+I gave that a 7.5 and I'm almost 100% sure this game is more up my alley than that.
+1:09:48
+So somewhere between 7.5 and 8 is probably where I would rank it, extrapolating out from from my 109 minutes of playing, which sounds like very few, and it is, but that's like, this is such a fast game.
+1:10:05
+It's like 9-9 or ten runs.
+Like I was blasting through them 'cause I was trying, I was like trying to get in some runs for this game, for this podcast.
+So I was not, I did not look at the story.
+I did.
+I was just like jamming through all of my runs.
+I was going as fast as possible, but yeah, I had a good time playing it.
+1:10:24
+I I don't know when, but I will play more of this game.
+I thought it was basically everything, all of the potential that I felt like we had in Dead Zone Rogue.
+I feel like this kind of capitalized on in my book.
+Like I like the style of the game better.
+1:10:41
+I thought the flow of it was similar, but just a little bit more snappy for me.
+And I really like the weapons.
+I thought they were pretty fun and interesting and different.
+Like the, the the weapons felt different from each other.
+1:10:57
+They were truly like, some of them were strange.
+I don't know if they were good, but they acted differently.
+And that was enough to be like, oh, well, this is a weapon that I don't think I really want, but it's 2 levels higher than the crappy gun I have now.
+So I guess I'm going to shoot weird rockets for a while or like bubbles that bounce great.
+1:11:15
+So yeah, I think it was fun.
+I I think that this is a game that many, many people would like.
+I don't know if all all people would like it a lot, but I think it's pretty much anyone could pick this up and have a decent amount of fun with it.
+Yeah, I think I would agree with that.
+1:11:33
+For me, I'm going to give it my exact same ranking as Dead Zone rogue because I which is a 7.7 and the reason why I think it's like they they both solve like different problems for what they're going for.
+1:11:48
+And I think like Roboquest solves like a lot of like problems that I had with dead zone rogue.
+Dead zone rogue solves like some problems that I have with Roboquest.
+If they somehow come like did like a fusion dance and combined their powers into one game that I'm sure like would not be very good, but I would still be interested to try.
+1:12:05
+It would be interesting, but yeah, I think like, I don't know, the, the difficulty kind of feels a little all over the place.
+If it had like 1 difficulty mode and it was just like, this is the difficulty mode, you're gonna like bend the meta progression and the broken build stuff to, to bend to it.
+1:12:23
+Maybe that would feel a little better for a game that's like entirely filled with robots.
+Like it feels very lifeless and robotic ironically, but like there's some robots that have like very interesting charm and like the dancing like jukebox robot at the very end.
+1:12:40
+I love that guy.
+Shout out to jumping.
+Dancing hoot and hollerin.
+Very cute but like Max.
+In game is like this, like dead eyed like we were posting jaws memes about like some like a doll's eyes.
+1:12:57
+And I'm just like, like, why bother having her?
+Like if it was if the little rest areas were just like little comic book things that that popped up, I don't know, like, would that be better meta progression?
+I felt man on the enemy's design.
+Like, I think when I was running around and shooting them felt OK.
+1:13:14
+But like, for the life of me, I could not draw you a picture of what any of the robots looked like other than Sir Catter Coaster.
+Other than that, yeah.
+And I guess like, some of the mechanics could maybe be explained a little better.
+Oh, and the gadgets, like the gadgets need to come out way faster.
+1:13:31
+But the good stuff that I do like about this, yeah, like the art design for the comic book sequence is great.
+I love everything about it, the characterization, the charm for it.
+Just wish there was more of them.
+I will shout out Sir Catter Coaster One More time for being the Tony Hawk FPS boss fight that I've always wanted and never knew existed until now.
+1:13:51
+A lot of the level design is very colorful and and open and very fun to look at.
+I think the the environment design is very good.
+The soundtrack goes way hard and yeah it's it's very fast and fluid if you want it to be and it can be very slow and methodical if you want it to be.
+1:14:09
+So yeah, I think it's a 7.7 for me.
+OK, so initially I.
+Thought well, this is this is an easy rank I I put it right behind dead zone just because I like dead zones.
+I like elements of it just a little bit better, but then that would have put it ahead of Jupiter.
+1:14:29
+Hell, I'm like, I can't do that.
+And I just kept going down the line.
+I'm like, Nah, I can't quite do that.
+Can't, can't justify that.
+And a big thing was risk of Rain too.
+I'm like, I realize it's a different type of shooting game, Risk of rain too.
+So they're not directly comparable.
+1:14:44
+But like, honestly, risk of rain too should probably be way, way, way higher.
+But anyway, OK, so here's the bottom line for me.
+Still, even though it ended up much lower than dead zone rogue on my list, I I was still very much, you know, comparing them in my brain space and trying to figure out in my meathead FPS brain space and trying to figure out like, well, what's what are the pros and cons of these different games?
+1:15:10
+And dead zone sacrifices speed for a little extra strategy and a little bit of putting the player to work in the actual game development as as the level designer.
+1:15:27
+Because if you'll recall, if you'll think back to dead Zone Rogue, instead of having connected level modules, it drops you into a more generally more open arena type space where you're not instantly fighting.
+You're you're in stealth mode.
+And it's not until you shoot the first bullet that that you get at all the enemies aggro to you.
+1:15:44
+And so you get to analyze the level, look at the different classifications of, of enemies that are in the space and figure out, OK, where's the best place for me to start in this level.
+And part of the reason it can do that and depend on that pretty major mechanic is that the different enemies are have a little bit more distinct and specific behavior, which is something that I, I look for as an especially as an old school FBS player, something that, you know, you don't see in like Modern Warfare style of games where it's like usually you're just fighting guys with different guns.
+1:16:22
+And that's that, that calm strategizing stage really works for me because of that interesting reason that you get to be kind of think about the level and, and, and, and make the, that, that those tactical decisions.
+1:16:39
+But also because it's, I, I think gives a game a nice flow where that action-packed, balls to the wall shooting speed fest is rendered irrelevant if you don't have time to, to calm down.
+1:16:58
+And you know, the roller coaster is no fun if you're just at one level.
+It's got to go up and down.
+It's got to have some height and, and different and, and elevation changes.
+Yeah, it's got you got to go all the way up before you hit that, that big drop and and the Caterpillar roller coaster waiting for you.
+1:17:13
+And by no means Roboquest doesn't that that's not necessarily an issue with Roboquest.
+The the flow and that's that roller coaster is is handled fairly well.
+1:17:28
+I just think that zone handles it better.
+And for that reason, I have awarded it on my custom Andrew scale because we all know that my my Co host, they had a different one, but then they changed it.
+So mine's a little bit different.
+1:17:43
+They got to, you know, take it with a grain of salt. 7.86 Andrew points, putting it right behind the world of horror, putting it right ahead of into the breach with I feel, which I feel a little bit bad about.
+But again, my numbers are a mess.
+So no one can get mad at me or hold me responsible for anything.
+All right, great.
+1:18:00
+What what a what what a fun time again.
+Had a great time playing it.
+I I wish I could give it a little bit higher score but just due to personal preference it gets dropped a bit.
+Similar games to Roboquest when I was.
+First ideating this podcast of like what, what games are we going to cover?
+1:18:19
+Like the the concept of like a first person shooter rogue style game was like like unthinkable was like basically unheard of at the time.
+And now, like I have this like laundry list of like, man, I gotta I gotta cut some of these off or I'm going to be here all night talking through some of these.
+But we've done a number of rogue style shooters in the past, ranging from Returnal, which I guess is like the dark edge Lord version of roboquest.
+1:18:44
+We talked a lot about dead zone rogue previous episode.
+We have not talked at all about our previous episode about void bastards, maybe with good reason or nightmare Reaper with good reason, But there are some other shooty shoot rogue games out there.
+And I guess I don't know, maybe like first person hacky slash that also kind of fills a similar similar vein.
+1:19:04
+I've I was playing and having actually a pretty decent time with some crab champions this week as well.
+Just for comparison point purposes.
+That game is some wild nonsense.
+Let me tell you which fire I'm gonna like try to lobby Andrew really hard at some point for him to to check out, but definitely but some others that were in contention.
+1:19:26
+For this one were.
+Abyssus and Sulfur, but there's some others on the list here like like Nova.
+Definitely is is is on my list.
+And wait, waiting for one point O well, you don't have to wait for. 1.0 for mortal sin anymore that is that has come out of 1.0.
+1:19:44
+I don't remember if Voin VOIN has come out of early access but there's other games like Void Breaker and Deadlink and Space Beast Terror Fright and one that I thought was gonna have more hype behind it but is kind of like a first person FTL first person shooter type game called Jump Space.
+1:20:03
+Originally titled Jump Ship.
+But maybe maybe they didn't want people jumping ship off their game but.
+Yeah, so that's, that's a halfway decent check out list that it keeps growing every time that we cover a first person shooter game.
+Like God, there's so many, there's so many good ones to pick from of, of throwing people's throwing people's way.
+1:20:23
+But in the meantime, if you want to throw your suggestions for what first person shooter game we should check out next, you can send those to grogpodzone@gmail.com or e-mail.
+You can see all of the Seahawk posting that I was doing this weekend as my blood pressure was skyrocketing out of control on Mastodon.
+1:20:42
+Grog Pot, a game dev dot place and Grog Pot dot zone is the website where if you just, it's too much to remember, I don't know, I don't know where to go.
+Just go to the website.
+Grog Pot dot Zone.
+You don't have to remember anything else.
+Just go there.
+And so if Will was here, this is where he would have to defend his his picking of his next game, which, you know, like we, we talk a lot about what, what is or is not a rogue like or rogue like game.
+1:21:11
+And in some cases it's, it's good to kind of stretch and pull at that definition boundary and see where that graduation scale changes from black to white.
+And what does it mean for for games to be these, these are that kind of thing.
+So Will has picked for our next episode to cover Project Zomboid to once again live out his urban survival fantasies.
+1:21:35
+Eddish.
+Sorry I.
+Shouldn't be goofing on our.
+Our good pal and good Co host indeed.
+I'm so from my memory of this game.
+I'm with him for the argument that this this is this counts.
+1:21:52
+But I guess when we find out with that case of cut that was barely.
+Roguelike game and we.
+Gave.
+It to give me a year or so, Yeah, I mean, it's, I mean, Pokémon Mystery Dungeon, there's all.
+Like sorts of things that are like, I mean, there, there are some games that I have planned to, to torture you with later this year as well.
+1:22:10
+That while while on the face on the box art might say traditional roguelike from the 1980s, I'm not so convinced.
+I don't, I don't know that making a traditional roguelike game from the 1980s fifty hours long is a good idea.
+But you know, like maybe we'll play 110th of that and then we'll kind of revisit some of these opinions at the end of the year.
+1:22:33
+But Project Zomboid is our is our pick for next week.
+I guess I also should have mentioned where Roboquest landed.
+It's our number 22 out of 88 games that we've covered.
+I feel like it should do that more often, especially when the game is is performing better than average, at least with our at least with our initial first impression rankings.
+1:22:51
+Maybe we'll see how those change throughout the year.
+And the Colin will probably give it a zero and that'll that'll drop it down.
+I'll give it AB plus.
+Yeah, OK.
+It's definitely not screwing up the.
+Math on the back end anyway. 22 out of 22 out of 88.
+That's a perfectly respectable landing spot for for Roboquest to to drop down to that Marvel style hero pose and shoot out all of the energy waves.
+1:23:17
+Yeah, Project Zomboid next week will spend at least 30 minutes bickering about what a what a roguelike game is, if not in the YouTube comments.
+So, but playing us out from this episode, here for Roboquest will be the final track, finally, the final track for the final boss, the final metal hero.
