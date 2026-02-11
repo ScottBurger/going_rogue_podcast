@@ -2,7 +2,7 @@
 layout: post
 title: "Roboquest"
 date: 2026-02-11
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/roboquest.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/roboquest.jpg
 thumbnail-img: /assets/img/roboquest.jpg
 share-img: /assets/img/roboquest.jpg
-duration: "1:14:05"
-length: 59757264   
+duration: "1:25:36"
+length: 71691072   
 tags: ["2020", 1st/3rd person action]
 ---
 
@@ -20,7 +20,7 @@ Muscle up your game buddy! This week we dust off the 500 year old robot action F
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/roboquest.mp3">
   </audio>
 </div>
 
@@ -28,10 +28,10 @@ Muscle up your game buddy! This week we dust off the 500 year old robot action F
 
 ---
 
-* 2:00 - Game stats
-* 5:30 - One sentence description
-* 58:35 - Rankings & final thoughts
-* 1:06:03 - Similar games & show wind-down
+* 1:42 - Game stats
+* 4:04 - One sentence description
+* 1:08:30 - Rankings & final thoughts
+* 1:16:57 - Similar games & show wind-down
   
 ---
 
