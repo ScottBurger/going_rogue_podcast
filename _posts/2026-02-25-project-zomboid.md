@@ -16,7 +16,7 @@ length: 71691072
 tags: ["2013", top down action, honorary rogue]
 ---
 
-Muscle up your game buddy! This week we dust off the 500 year old robot action FPS Roboquest: something like a "Doom Eternal for kids", the electrobeats of synthwave send you hungering for more and more of those delicious green health orbs. Infiltrate a gigantic city of bad robots, rescuing good robots along the way, and unlock all sorts of wacky movement gadgets, character classes, and more hidden secrets than you can shake a pogo stick at. Always check behind those waterfalls!
+Brains! Brains! This week in "yes we know it's not a roguelike", we venture into the heart of Kentucky for some country-fried human flesh with Project Zomboid. The zeds have spread and you have one goal: survive as long as possible. Do you loot the local school for backpacks and safety scissors, or the police station for pistols and shotguns? Do you dare risk alerting the manic hordes with your car as you break windows in your desperate search for prescription meds? ...in the game, I mean... allegedly, Your Honor...
 
 <div class="container">
   <audio controls style="width: 100%;">
