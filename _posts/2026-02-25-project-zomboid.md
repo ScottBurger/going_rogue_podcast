@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/roboquest.jpg
 share-img: /assets/img/roboquest.jpg
 duration: "1:25:36"
 length: 71691072   
-tags: ["2013", top down action, honorary rogue]
+tags: ["2013", top down action, honorary rogue, early access]
 ---
 
 Brains! Brains! This week in "yes we know it's not a roguelike", we venture into the heart of Kentucky for some country-fried human flesh with Project Zomboid. The zeds have spread and you have one goal: survive as long as possible. Do you loot the local school for backpacks and safety scissors, or the police station for pistols and shotguns? Do you dare risk alerting the manic hordes with your car as you break windows in your desperate search for prescription painkillers? ...in the game, I mean... allegedly, Your Honor...
