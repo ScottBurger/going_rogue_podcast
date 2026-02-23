@@ -6,14 +6,14 @@ file: https://grogpod.s3.us-west-2.amazonaws.com/against_the_storm.mp3
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, against the storm"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/against_the_storm.jpeg
 thumbnail-img: /assets/img/against_the_storm.jpeg
 share-img: /assets/img/against_the_storm.jpeg
 duration: "1:26:03"
 length: 67568077
-tags: ["2022", colony sim]
+tags: ["2022", squad management]
 ---
 
 Lousy Smarch weather! Come in from the cold and warm up with an episode on the recent hit citybuilder roguelite Against the Storm. We've got biscuits and pie, jerky, and a nice dry roof to keep your resolve high. There's lots to talk about between lizard happiness, a Queen that no one has confirmed exists or not, and everyone's favorite topic: supply chain logistics! Man it's wet out there. Check me through will you?
