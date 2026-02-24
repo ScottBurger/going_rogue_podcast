@@ -2,17 +2,17 @@
 layout: post
 title: "Project Zomboid"
 date: 2026-02-25
-file:  
+file: https://grogpod.s3.us-west-2.amazonaws.com/project-zomboid.mp3
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, monster train"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, project zomboid"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/roboquest.jpg
 thumbnail-img: /assets/img/roboquest.jpg
 share-img: /assets/img/roboquest.jpg
-duration: "1:25:36"
-length: 71691072   
+duration: "1:46:19"
+length: 88661232   
 tags: ["2013", top down action, honorary rogue, early access]
 ---
 
@@ -20,7 +20,7 @@ Brains! Brains! This week in "yes we know it's not a roguelike", we venture into
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/project-zomboid.mp3">
   </audio>
 </div>
 
@@ -28,23 +28,24 @@ Brains! Brains! This week in "yes we know it's not a roguelike", we venture into
 
 ---
 
-* 1:42 - Game stats
-* 4:04 - One sentence description
-* xx:xx - Roguelike arugments
+* 1:34 - Game stats
+* 4:16 - One sentence description
+* 5:50 - Roguelike arugments from the Zomboid community
+* 12:00 - Actual gameplay
 * 1:08:30 - Rankings & final thoughts
 * 1:16:57 - Similar games & show wind-down
   
 ---
 
-Next episode: 
+Next episode: Hoplite
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: Jimmy Greene - Last Summer
 
-Outro music: 
+Outro music: Project Zomboid OST - Maybe We Can Win This
 
 
 <div class="embed-responsive embed-responsive-16by9">
