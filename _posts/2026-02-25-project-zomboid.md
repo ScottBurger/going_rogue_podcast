@@ -24,7 +24,7 @@ Brains! Brains! This week in "yes we know it's not a roguelike", we venture into
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/roboquest/id1650474911?i=1000749198957) | [Spotify](https://open.spotify.com/episode/0AWuMgiq3uoP0wVVD8uiCU) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/roboquest.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/project-zomboid/id1650474911?i=1000751300047) | [Spotify](https://open.spotify.com/episode/5xDTj2jXFF5fKNdINSqkxB) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/roboquest.txt)
 
 ---
 
