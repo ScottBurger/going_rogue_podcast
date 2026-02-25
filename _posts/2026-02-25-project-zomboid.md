@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, project zomboid"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/roboquest.jpg
-thumbnail-img: /assets/img/roboquest.jpg
-share-img: /assets/img/roboquest.jpg
+cover-img: /assets/img/zomboid.png
+thumbnail-img: /assets/img/zomboid.png
+share-img: /assets/img/zomboid.png
 duration: "1:46:19"
 length: 88661232   
 tags: ["2013", top down action, honorary rogue, early access]
@@ -49,5 +49,5 @@ Outro music: Project Zomboid OST - Maybe We Can Win This
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHAWqANGI3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
