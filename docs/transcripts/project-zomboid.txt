@@ -1,0 +1,1789 @@
+0:17
+Greetings friends and welcome back to another episode of the Grog Pod Roguelike Podcast where each episode we hunt through hardware stores for roguelike games, realize we're in the rogue adjacent department, and then pump the game full of ratings bullets.
+And if it reanimates at the end of the season, we'll revisit it for end of year recap tournament.
+0:36
+Like all podcasts hosts, I am brain dead, flesh eating and aimlessly shambling around.
+It's me, your host Scott Berger, and with me are my Kentucky Fried Apocalypse Surviving Co.
+Hosts, this is Will writes your undercooked egg that you thought you cooked but now you're sick.
+0:54
+And it's me, Colin.
+I'm a little Kirky zombie that's going to pop out at you.
+And I am the ubiquitous empty grocery store shelf.
+Hey, it's me, Andrew.
+This week we are talking Project Zomboid, which yes, I know, I know, we'll get to in a second.
+1:15
+Project Zomboid released Early Access November 8th, 2013.
+This is APC exclusive where you can find it between either Steam or Good Old Games and this was developed and published by a a A-Team called The Indie Stone which I believe is a mostly UK based group but have people out in Canada and all sorts of other parts of the world.
+1:39
+This is This is an extremely popular game, to put it mildly.
+It is not on our list of of rogue games on Steam, but if it was, do we have any guesses as to where this would land?
+First off, maybe #1 you're not far off.
+1:57
+What if the slate?
+Expire so #2.
+How about #8?
+Well, the the answer is if so, if this was tagged a a rogue like or any sort of those kind of categories, again, we're using a a pretty stupidly loose umbrella here.
+2:13
+Or if it was tagged with procedural generation and permadath, somehow avoiding all of those things, it would be the number 3 most popular rogue ish style whatever game on Steam with 431,601 total reviews sitting just behind.
+2:34
+And OK, like admittedly like this this has this episode's gonna have like a bazillion asterisks in it.
+The top 2 here are Don't Starve Together with 524,000 reviews and Lethal Company with almost exactly 500,000 total reviews.
+2:50
+The Project Zomboid would come come in hot at #3 here, followed by the Binding of Isaac rebirth at 376,000.
+So again, we're we're kind of bending, bending the the definition here a little bit.
+But your average player of Project Zomboid has about 230 hours of gameplay in it.
+3:09
+And just to put it in perspective, so I break these out into like percentile ranges here.
+The 25th percentile of people has like 26 hours of playtime median, the 2:30, the middle chunk 230.
+And then the like the 90th percentile has like 1300 hours of gameplay in this game.
+3:28
+That's a wild amount of playtime.
+I wonder.
+My bet is that the ratings number of ratings on this game is skewed.
+I bet you more the average player of this game rates things more often.
+That's a good question.
+And I wonder how many of those 430,000 ratings are just like accumulated ratings over 13 years versus other other games?
+3:54
+I mean, it's still, it's still like a, a metric of like how intensely people like the game.
+Sure, yeah.
+But Speaking of intensely liking Will, what is your one sentence of what one does in Project Zomboid?
+4:10
+Well, that's a great question, Scott, and let me answer that with it's a it's an isometric zombie apocalypse survival crafting game based in Louisville in 1993.
+That's I mean, that's that's basically what's going on here.
+4:26
+Obviously there's a lot more to it, but that's the one sentence.
+And that slight expansion on top of that is this is one of the deepest sort of, I mean, like I bounced off this game initially.
+I I played it for like a couple hours.
+I'm like, Oh my God, there's just way, way too much.
+4:42
+I don't feel like reading the wiki bounced off.
+I came back, you start playing, you start being like, OK, how does that work?
+How does what's, what's welding?
+How do I get a carpentry?
+How do I barricade the door?
+And then as soon as you start getting curious, then you have to like research.
+How does it actually work?
+And that's when you get into the vicious cycle of being forever playing Zomboid and on the wiki on the map and figuring out what's the best location, what are my goals?
+5:05
+What am I trying to do?
+How does that work?
+And it's just, Oh my God, this is going to be a, a favorable rating for me, to say the very least.
+Yep, and it's it's I'm going to this is going to be a a preface of our blanket statement.
+It's OK to like a game.
+It's OK to not like a game.
+This is an all devs go to heaven episode for sure, but I know that the listeners are are frothing at the mouth they're slamming.
+5:27
+I feel like, I feel like Scott, you have to add the caveat of two of where all devs go to heaven, but also all podcasters go to heaven.
+Well, me, I don't.
+Want to go to heaven?
+Yeah, that's true.
+Yeah.
+So, so the listeners are are frothing at the mouth, per the usual.
+They're slamming their brakes on their car in the middle of the intersection.
+5:44
+They're pulling out their barbed wire wrapped baseball bats and they're screaming at the top of their lungs, shirtless and bleeding from the eyes.
+It's not a robotic bra.
+And I was I was fully prepared to have will go in and defend himself.
+But I, I did some, some putting the question to the Project Zomboid community and asking what they thought.
+6:05
+And I, I have some, some answers here from Project Zomboid fans that kind of back will up on this sort of on this sort of pic here.
+So I'll, I'll read this one here from duct tape AI who writes us to say.
+6:21
+And so I guess like the question that I put out was like, you know, would you Project Zomboid fans consider this like Rogi in some sense, like we're, we're planning on covering it for a podcast.
+Like what do you guys think duct tape AI writes us to say?
+As far as map randomization goes, the structures are static but what's in them largely isn't.
+6:39
+There are specific exceptions, but generally each building has random items and zombies in it, and there are random placed quote stories as as well which make the places that they exist different than they would be by default.
+Also there are quote treasure maps where you find maps marked up by NPC survivors that lead you to perceivedly generated stories.
+6:57
+Slash loot.
+I think of it as similar to Caves of Cud or 2025 game of the year where you might do the same quest run after run but the world map and the world map is static but what you find in the places you go to changes each time.
+If you're being really pedantic about definitions then maybe it doesn't quite count, but it's a survival based permadath action RPG with deep progression systems and randomized run content so I'd say it counts.
+7:24
+As far as the like slash light dichotomy goes, if you die you can make a new character in the same world and all that stuff you did will stay so you can move into your old base and stuff.
+There's also mods that you transfer XP from 1 character to another, but that's not part of the vanilla game.
+Yeah.
+I mean, I think it's as, I think it's as rogue like as many of the other games we've played.
+7:43
+Like I think it falls like I played a couple of characters.
+I have not played very many hours, but I have in those couple of hours I've already played a couple of characters and so far my game has felt very rogue like in that I'm short fast runs.
+8:01
+And, and I, I remember Andrew's very prescient statement that I wish I'd come up with myself, but I have to give credit where credit is due, where like there's, there's always like this, you know, big argument of like has to have procedural generation in it.
+Well, does luck be a landlord have procedural generation?
+8:18
+Does Risk of Rain does Slay the Spire question mark?
+Or is it meaningful gameplay impacting randomization?
+Yeah, that and I think runs, it has to be like runs of stuff.
+Yeah.
+Which I think this falls into the same category as a couple other things where the worse you are at the game, the closer it is to a roguelike.
+8:39
+I put that in the same category as I mean Caves of Cut is that Rim World, which we've I think is still the least roguelike game we've played.
+Absolutely.
+That despite being extremely procedurally generated.
+And grid based and some of the other check marks.
+8:55
+Too.
+Yeah, it's like roguelike shape, but not roguelike tell.
+You what?
+I'm just happy that so Scott was able to have some flexibility here.
+This was the way he put it was as as a way of paying back for how terrible Pokémon Mystery dungeon for me and how much that hurt my soul.
+9:15
+I got a little flexibility on this one and I'll take it because I'll tell you what I am absolutely loving this game.
+I just checked my hours.
+I was not expecting to see 116 hours.
+I don't exactly remember that the install date, but I this has just been my I wake up, I play for a couple hours, do work, you know have a lunch break and then, you know go for a run play some more.
+9:33
+It's just the, it's just great to come back to and I'm always thinking about what's my next plan, what am I trying to do now?
+And it's just, it's got that kind of Kenchi style addicting, addicting factor to it.
+I'll I'll read one more here from the Project Zamboid group.
+This one's shorter is from Ritonaru YT, who says the ability to the inability to reload your character favors rogue likes or rogue light status.
+9:59
+Let me put that hard T on there.
+Doesn't actually need dungeons to count.
+Question mark.
+While you do lose your character, you can respawn and take advantage of your previous progress in that save.
+There's also no wind condition which we'll come to in a minute.
+The map never really changing isn't that big of a deal since the loot slash zombies slash events do change frequently enough.
+10:18
+It's like playing Ilona.
+Stay tuned and a half where the overworld is the same every time.
+I think PZ is one of those games where people choose to play like a rogue like more than it actually is.
+Call it an honorary rogue light lol.
+Yeah, here, here.
+10:33
+Honestly I think it's far less of a stress stretch than other games that we have played, that's for sure.
+Ever since.
+Stacklands, I think that was the one for me where I'm just like, are we a really a roguelike?
+Podcast.
+I don't know.
+I mean there are there's a number of games that we've covered in the past that like certainly blur the line.
+10:52
+I feel like Rim World is close enough to Dwarf Fortress to like get it over the line and that like door door fortress having its own channel in the roguelikes Discord, like kind of opens that door a little bit.
+It previous episode inscription I think certainly like I think.
+11:10
+We're we're definitely a an inclusive rogue like podcast like anything that's inspired by feels like vaguely visible and that we want to do like I don't want to feel constrained, man yeah, if.
+11:26
+If if I would, I will always bend in the direction of we're having fun with something then being like overly pedantic about no, it has to serve.
+It has to pass seven out of nine criteria of the Berlin interpretation or for it to be included on the podcast.
+11:41
+Bam, bam, bam, slam the door kind of thing.
+And yeah, sounds like indeed well.
+With that out of the way, that issue dead, buried, never to reanimate and rise from the grave, absolutely not out of the question.
+We can proceed with talking about this zombie survival game.
+12:04
+First topic of discussion I need to put to the group how we feel about zombie survival as a genre these days.
+Fucking love.
+It best genre out there or second best after cyberpunk?
+You know As for my own personal reasons, right?
+When are we getting that cyberpunk zombie survival game?
+12:22
+Huh?
+Well, I mean.
+If you make mutants into your game, you can, you kind of get zombies and the cyberpunk vibe.
+And it's not that I.
+I feel like those two genres are actually the opposite though.
+One is the dystopian in that the civilization is is pinnacle at an awful place and the other one is it is dropped down into an awful place.
+12:42
+Oh, but.
+They are both deeply concerned with matters themes of capitalism and consumerism and the like.
+But that's of course it is.
+I'm I'm, I'm still into zombies.
+12:58
+I think they're still still fun.
+Me I.
+I.
+Don't know like I there's some zombie pieces of media that I really like and some that I do not like at all and I really really like the the Resident Evil series.
+I really really like the first season of The Walking Dead video game is half life a zombie franchise?
+13:20
+Would we, would we know they're they're they're aliens, mutants.
+Do we?
+I mean, I think, I think I, I know where you're coming from, but.
+No, well.
+I.
+It's an interesting question, sorry I shouldn't dismiss it so quickly.
+There is the elements of of zombie apocalypse as a place, as as a, as a location.
+13:43
+Like Black Mesa has that survival element.
+Survival is the most important thing.
+So I mean it's, it's adjacent, I think.
+Zombies are a really lazy bad guy enemy antagonist design because they're like they're invincible monsters that are just like one step up from like a skeleton horde but with no necromancer that you can defeat to destroy all the the The Walking Dead.
+14:07
+They can just amble, like they can just amble around for Infinity, right?
+Like you can just have zombies living on Earth for like 50 million years or something.
+Yeah, like those.
+Necromancers, yeah.
+They're like, you know, they're only living forever too, you know, That's a big problem for me.
+Necromancers, they're absorbing life energy.
+14:22
+So I think I think it's better to think of zombies not as antagonists or villains.
+They're an environment.
+Like they're an environmental hazard, but your where your game is based around that environmental hazard, at least for a game like projects Envoyed like yeah, and.
+14:40
+And I agree.
+And I feel like there is, there's an element to which, and maybe like Vampire Survivors is like a weird, like corollary to this where it's like you're, you're not so much concerned about like, oh, you know, there's just like giant tidal waves of enemies attacking you at all times.
+14:59
+And that like, that almost itself is like the map and the environment that you're interacting with.
+And like all the rest of the stuff that's in there is kind of ancillary to it.
+But I don't know, like I feel like there's times where where I do like zombie media and other times where I do not.
+15:17
+And I feel like in this specific case, I'm not, I'm not so like super thrilled about this zombie implementing.
+Well, have you?
+Have you thought about it much?
+What's the reason?
+What's the what's the crux of the matter?
+Because I think from from my point of view, the zombie is in in many ways the ideal enemy or antagonist because what is psychologically like what are some of the most horrifying things?
+15:38
+Well, it's not going to be the, you know, the actual beast of the woods, right?
+Or that, or the the fantasy monster.
+It's usually some kind of form where it is human or like a human.
+And then it's just like mutate.
+It's just kind of some variant of that that is, that looks that, yeah, mutated or otherwise decayed, disgusting.
+15:55
+And so you see in that like something that horrifies you, that causes immediate disgust, but also that is a reminder that that's what you can become if you are are victim to them and they're not exactly, they don't kill you very nicely either.
+They they they it's going to be a gruesome, terrible death.
+16:11
+Sure.
+So.
+I've seen Sean have a.
+Very strong horror factor with these guys.
+Yeah, it's true.
+It's true.
+I mean zombies.
+I think they're popular for a reason and that is one of them is that they're they're very effective monster and effective terrifying force that you have to contend with.
+16:28
+And also.
+You feel good about killing them too.
+That's another.
+Great thing.
+It's like a morally that's.
+Right.
+No, no.
+It's got a soul.
+No, it's just kills the thing.
+Yeah, right away.
+Well, except for like you're killing your brother who turns into a zombie.
+No, that's easy.
+And I think that is the oh, and if you're a zombie.
+I'm taking you out right away.
+No, that's.
+16:43
+Fair.
+I mean, I'm going to say that's so that's the big difference in zombie media between a video game and like TV or movie media is that movie media is focused 100% unlike the human implications of people that, you know, turning into zombies.
+16:59
+And yes, thank you.
+Will, if I turn into a zombie, you won't need to kill me because I'll like I'll, I'll, I'll find a way to like keep myself from doing harm to others.
+Like nothing I hate worse than zombie media than someone who gets bit and hides it like fucking or, or it's like, or people who are like we're we won't put them down.
+17:19
+It's like you should though.
+Mm hmm.
+I mean.
+Those are all people that have never seen a zombie movie and clearly don't know that the the computer AI is going to betray them at the last possible second because because they hit it.
+But anyway, so so this game, Project Zomboid, as you know, open world, early access survival zombie crafting game, something that's pretty popular to say the least, like Will has certainly dragged us through.
+17:47
+Well, I say the word drag.
+Will has invited.
+Everyone loves.
+It except for Scott I'm going to point that out everyone loves these games that I like everyone loves the forests I mean everyone loves what's the other one and and that's.
+Fair, because I feel like people do like zombie media and zombie survival games.
+18:04
+It is definitely a genre that's not for me specifically and that's fine.
+I can definitely appreciate and understand like why people find it fun and interesting.
+It's just it's it's a me.
+I fully understand it's a me problem and it's a thing that's just it's not for me.
+But but yeah, so why is?
+18:22
+That again, this is the second time I've asked why I think it's.
+Because I don't know, like it's just, it doesn't seem like in, in Resident Evil 2, for example, one of my probably one of my like top ten games of all time, It feels like there is like a, a cool cohesive narrative to it.
+18:37
+It's I, I guess it's not so much a survival game in the sense that like, Oh no, I stubbed my toe.
+Now I have to like bandage my toe.
+But in order to bandage my toe, I got to read a book on how to bandage my toe, But I'm too dumb to read the book on how to bandage my toe.
+So I got to read a picture book on bandaging.
+18:53
+And then like once I've got.
+To grind up your your reading skill from picture book to child book Yeah, there's.
+That and then like the more so I have a note in here about like simulationism and like like as things become like more and more like simulators, there's like, there's like an escapist part of simulators and like a realism part of simulators.
+19:14
+And when I was doing my pilot's license, like I was in X-plane and like Microsoft Flight Simulator a lot 'cause I wanted to like simulate like how the plane was flying and I wanted to, to be like real and stuff.
+And I, I get that.
+Like this game is trying to be real.
+And like other zombie survival games or survival games in general are like, you know, you're naked and afraid.
+19:34
+You're out in the the, the northern wilderness of the Vancouver Island and you have to like basically primitive technology, return to monkey like your way to not starve to death and Oh no.
+Your left bicep is cold.
+Yeah, like.
+Your left and and like I'll I'll come to door fortress here in a second.
+19:49
+That's where I'm, I'm headed to.
+But like there's an aspect of like, it becomes so simulationist where it's just like, why don't I just go outside and do this myself?
+And like I'm, I'm in like I have a, a big enough yard that like the eternal war against blackberries is always going to be there.
+20:05
+And I kind of feel like that's my zombie survival game of just like fighting back the hordes of vines and then like, Oh no, my fingers scare.
+You though a BlackBerry Bush is not going to come out of nowhere and grab you, Scott.
+I can hide in your bushes if you want.
+If you pay me, I'll scare you.
+20:21
+Now, now to like, conversely, Dwarf Fortress is a very simulationist game where like a dwarf is going to stub their toe.
+Oh, no, it's infected.
+And then like, you know, you have to build a medic.
+And it's like a lot of the same kind of like, irritating minutia, but it's not me having to do it.
+I'm delegating all of that nonsense to the dwarves.
+20:38
+And there's like hundreds of them.
+They're expendable.
+Like, that's the idea.
+And I feel more annoyed about like, you know, having to like, suture my own wounds and like pour iodine on it.
+No, no, I didn't get the the disinfectant ratio just right.
+And now I have gangrene like that kind of thing in this.
+20:54
+Game just so everyone knows.
+I know, I know, but like.
+I get it, I understand why people get it, but it feels too realism for me and not escapism enough.
+Not enough escapism, I mean, I feel.
+Like the biggest offender for this is of course Cataclysm Dark Days Ahead, which is the the a very poorly rated game from this podcast, which again.
+21:17
+Is another super popular one.
+Like people love, love that game.
+And I feel, and I can understand why.
+And I feel like if this if, if Cataclysm had like the more like friendly, approachable UI and interface that this game does, I like me personally, I'd probably like it a lot more.
+21:34
+But there were some things about Cataclysm I kind of like better than this game, but yeah.
+Well, I that I think is a good answer, Scott, and I agree with you to some extent.
+I also have an answer for this question why I don't like the specific type of zombie survival game as opposed to a survival horror game.
+21:54
+Like, that's a totally different gameplay, totally different situation.
+I am also fond of the Resident Evil series, but other than, you know, story and general theme, not very similar to the game that we're covering this week.
+So I I don't know if I fully returned to embrace the zombie genre, at least not this type of like modern day zombie apocalypse.
+22:20
+I used to be very into this stuff.
+I, I bought the zombie survival guide very early.
+I actually got it from the library.
+I should say, excuse me.
+And in the early 20 tens might have actually been 2010.
+I went to Zombiecon in Seattle, which for a 1st event, it was actually only it was the first of two.
+22:42
+They they never did more than two.
+This was stacked.
+I mean, we got George Romero.
+Ever heard of them?
+That's.
+The Thriller dance, right?
+Absolutely.
+Not of modern, I guess the the the 20th century really the the the start of American zombie films, right as a genre.
+23:01
+Bruce Campbell was there.
+Malcolm McDowell was there for some reason, because he had been in in some horror films, I guess.
+No, I think it's because he was friends with George Romero.
+It's my it's my recollection.
+And wow, that was a hoot.
+23:17
+I showed up dressed up in my zombie survival gear, complete with a a bandana made from made from a tie.
+But anyway, I know a.
+Bandana made from a bandana.
+Is that not because I?
+Was like I was wearing like my Geek Squad like button up shirt and so kind of idea was like he had to build it.
+23:38
+I'd improvise as in.
+A traditional zombie survival game.
+He had to build it from the things he had on hand.
+So true.
+And despite having fun collecting those real world items to craft, my office worker turned zombie survival survivor.
+Here's my problem with these types of games.
+23:55
+I do not like looting boring stuff at least.
+Like when I'm just having to loot the normal things that I purchase from the grocery store.
+It is extremely tough for me to engage with that.
+24:10
+But.
+Andrew, what happens when you come across a well stocked grocery store full of cans and cans of creamed corn?
+You're like, oh finally I can now survive the zombie hordes.
+Until you realize, much to your dismay, there is nary a can opener to be found.
+The horror or your?
+24:27
+Legs are too weak.
+Your small, frail legs are too weak to carry them back to your hole.
+Yeah, I think like the the improvisation and loot stuff is like a central pillar to Project Zomboid, but I guess maybe we're getting a little ahead of ourselves.
+24:45
+What do you do in this game?
+I think this game actually does like does a tutorial very well here of you jump in and it's like, all right, let's have this cute little cartoon red panda.
+I think it's a red panda.
+It's not a raccoon, right?
+25:01
+Teach you the ropes how to survive.
+And it's it's you know, charming and cute and funny where it's like, you know, you, you are you spawn into this house.
+It's like, hey, and I think this, this is kind of emblematic of how basically all of my runs went, which was you spawn in some kind of house somewhere.
+25:21
+You're scrounging around for kitchen supplies to use to, to mutilate whatever zombie that you first encounter.
+And then you check to see if that zombie has any better loot for, for attacking weapons.
+Maybe.
+Oh, this they got a, they got a, you know, you use your, your well seasoned cast iron pan to leak the brains of the zed that was in your house.
+25:40
+You pick up a, a butcher knife.
+That's on them.
+OK, great.
+I'm progressing.
+You use the butcher knife to take out another zombie that has let's say like a pistol on him.
+OK, this is great.
+Things are going great here.
+You're doing some Metal Gear sneaking around you.
+You take out some more zombies in the backyard and you're doing some vaulting.
+25:57
+You're doing some sneak attacking.
+And as you know, the game is eventually like, OK, here's how you manage your inventory.
+Here's how you know, you go through like crates and cupboards and things in in the house and going into the backyard shed to find more stuff.
+26:14
+And you finally you get a backpack and you're like, OK, I'm I'm ready.
+I'm ready to go and take on the zombie apocalypse.
+And then the game is like, OK, let's see how long you can survive in this tiny little tutorial zone where each gunshot that you use to take out a zombie alerts more zombies.
+26:30
+And maybe you get bit once and the game's like, don't even worry about it.
+You you're attacked, you're bitten.
+Open up the health menu.
+Press this button here to apply the antidote.
+April fools, there is no antidote.
+You're doomed.
+You got bit that that's it's too bad now you have to suffer a slow death over the course of, I don't know, maybe let's say like 5 in game minutes or something of watching your character dig like 3 days. 30.
+26:56
+OK, it's even worse.
+Yeah, you get a fever.
+And it's like a slow degradation.
+It's a, it's no good.
+That's why you have.
+To just turn on the the the option that makes you die instantly.
+That's what I've done.
+Yeah, yeah, you.
+Mentioned that night I had one.
+I didn't initially realize that infection always meant infection with the the the zombie infection.
+27:15
+That's not true.
+You can definitely get infected with bite if you smash a car window with your hand or a window in general, you can get infected and then, well, OK.
+I thought you could only die from being bitten, so I thought that my scratch was not infected with zombie infection.
+27:30
+Scratch has a 7% chance, not that I've memorized all of the probabilities, so actually.
+Not that you've memorized.
+I was like, I don't know why my.
+Character is so sad.
+He's well why isn't this infection healing?
+I go, oh, he's looking real rough.
+Yeah, you're.
+Getting really hot all of a sudden.
+Why is your health going down, huh?
+Yeah, so.
+27:47
+This tutorial, we talk a lot about tutorials.
+We complain a lot about tutorials.
+I have almost nothing negative to say about this.
+In fact, I think this is one of the best tutorials I have experienced.
+28:03
+And in part because of that ending that you're describing, Scott, where the game says Psych, there is no antidote, and then just endless waves of zombies show up until you die.
+That's the end of the tutorials.
+You're getting killed.
+The the this tutorial is like its own little self-contained micro game that's like maybe like only 15 minutes long.
+28:25
+It's got a full narrative, it's got twists and turns.
+You've got to you've got to deal with some of those central major plot points found in zombie cinema of what do you do when confronted with, oh, no, it's your immediate relative that's been transformed into a zombie?
+28:41
+Well, the answer is you smash their skull in with that well seasoned iron.
+It's about to get more seasoned.
+And it is also, it's it's fun.
+Like you get to just without, you know, much worry of serious repercussions.
+28:59
+You get to engage with the pretty fun combat of this game and you get to do some some smashing and some stabbing and some blasting and then at the end you get to die in glorious hand to hand.
+Combat did you did you run?
+I I ran, I I got to manage to run on the outside.
+I'm like what?
+29:15
+And the tutorial just that never ended and I had to like eventually just sacrifice myself.
+Yeah, I mean.
+It it is, it is a a very gated in with like tree because I did the same thing.
+I'm like, well, I'm just going to run away from the zombies for 20 minutes, see how far I can get.
+But but yeah, I think like this game really underscores what it's about with every time that you start a run, it prompts you with like this very ominous looking text wall of like, oh.
+29:37
+It's such a good loading screen these.
+Are the end times.
+There is no hope for survival.
+This is how you died.
+I thought that was a really good intro.
+Like for a game that doesn't actually have like designated plot like, that's a great plot hook.
+29:53
+And the music too, while that's playing that that sort of what scale is that?
+It's the like a minor harmonic scale that she's singing in.
+And it's got the sort of a, you know, a Middle Eastern sort of like influence it.
+It's really very fitting with a cello.
+And it just.
+30:08
+Oh, it is.
+Very striking.
+It stops you dead in your tracks, even if you're, you know, on your computer multitasking, maybe looking at, you know, a podcast or video podcast or something.
+It's it pulls in your attention and it sets the tone and the stakes, but.
+30:26
+Before you even do that, before you see the before you, you're, you're playing the replay of how your last character in the Louisville metro area died.
+You got to do something that you you got to do in a lot of these games.
+You got to make your character.
+30:43
+And much like Cataclysm Dark days ahead, you have a, a, a slew of occupations.
+You have a slew of character traits and negative character traits as well that you can pick to kind of like either either like min Max or if you're just like me, you just pick a Carpenter or whoever starts with like a hammer 1st and then you just hit the random trades button every time.
+31:05
+Will did you have a a specific occupation you gravitated towards?
+Absolutely.
+But I feel like because I'm only have 116 hours, I'm only like the beginner level of selection.
+Not like the very beginner, but like the beginner level.
+Like it's good to go with the the burglar because cars are one of the most effective ways of killing things in the game.
+31:25
+And if you're a burglar, you can Hotwire a car.
+And in the sandbox settings I did like in deep by default, almost all cars come with like no gas.
+And so it doesn't make any sense.
+You have an apocalypse and you've got all these people driving around, they're pulling into their parking spot and at the grocery store out of gas.
+31:41
+They literally run out of gas and they all do that.
+And so I thought that was insane.
+So I managed to give my burglar a little bit of a buff by giving some a little bit of gas to the cars, but it's so much it's really nice occupation to have.
+I guess pros do things like the the veteran who doesn't get panicked and I think they're good with the guns, which is a definitely a nice thing to have because it takes forever to level up aiming and reloading unless you have the perks for it, or at least the kind of the plus 100% experience to that stuff.
+32:11
+And.
+You're of course able to refill every car in the Galaxy with a click of a button using the pretty in depth and handy difficulty customization options.
+That is, shows up right before the character creation, but I'm sure we'll talk more about that later.
+32:30
+But yeah, after you pick your your character, then you got to do the other big question of where in the the general Knox County, Louisville suburbs area are you going to spawn in?
+You know how big that is?
+How big it's Well, from the interactive map that I'm kind of scrolling around through, here it is.
+32:51
+This game is fucking enormous 75.
+Square miles if, if I, if I recall correctly, yeah.
+And I think I've ever seen Yeah.
+And.
+And much to your point Will where it's like you don't necessarily need procedural generation if you have like this much content and you're just like basically not like running into the same situation twice, unless like you really specifically like push yourself into that direction.
+33:15
+So like as far as meaningful game plan gameplay impacting randomization goes, certainly ticks that box for sure.
+But you have options of starting.
+I I think it the game doesn't even let you start in downtown Louisville proper because it's like.
+It's like big for you, yeah.
+33:31
+It's like suicide Mission level, but you have a a list of kind of like suburb towns to pick from from like Riverside and Wallace Lake or Rosewood.
+Very, very nice sounding suburbs is filled with shambling brain dead monsters that are just going to eat the tongue out of your mouth.
+33:50
+I wound up starting most of my play areas in West Point because I thought like, oh, they're going to have like a big military base and stuff.
+And like, am I remembering right?
+It gives you kind of like a preview of like, here's here's this kind of stuff that you are expecting to find there.
+It's like a general map layout.
+34:06
+Yeah, it gives.
+You a little description and yeah, my point is I think the biggest town outside of the Louisville proper, yeah.
+Now I want.
+To go to Louisville.
+That's The thing is like you have to go through a military checkpoint to get there.
+So they have like this big kind of a a big challenge if you want to get into the main area.
+34:23
+And that's that's what I got to, you know, I'm trying that's what I'm trying to do next is get into the main area.
+But you have to like amass enough ammo, which means you have to suck out resources for.
+I'm getting ahead of myself here, Scott, You were saying?
+Yeah.
+So I mean, you know, you, you pick what, what suburb you want to start in and I believe no matter what, what starting location that you start in, you always start in a house.
+34:46
+Is that right?
+You could start in a like a hotel too or.
+OK, yeah.
+So it's just like you're starting in some building.
+Yeah.
+And like every zombie survival apocalypse scenario, you've woken up three days after the zombie apocalypse has happened.
+35:01
+You're just like, huh, what's, what's all this zombie stuff going on?
+I just woke.
+Where am I and all of your all of your neighbors are more brain dead than they usually are.
+They're more flesh eating than typical than usual.
+And yeah, the second you leave your house, like your whole neighborhood is just kind of like walking around clambering for brains.
+35:21
+And now it's it's like that tutorial put into action of like, OK, what, what around your house do you have to survive?
+What can what can you loot from your neighbor's house?
+If the loud ass car alarm that they've rigged their house with doesn't go off when you break their windows to see what kitchen knives you can steal.
+35:45
+Yeah.
+And it kind of sets you off on it's, it's a very open-ended sandbox of like make your own goal.
+But I effectively, I think there's maybe 2 two ways to kind of score your run in this.
+And that's like for how long you've survived and how many zombies you've killed.
+36:00
+And maybe there's some like extra kind of bonus objectives, but those are the things displayed when your run will inevitably end because there is no victory condition in this game.
+You can't escape the town.
+You can't climb a loud helicopter that's following you to to safety.
+36:16
+You can't like, procure some sort of zombie antidote.
+It is literally just how how long can you survive?
+And how many of your neighbors can you gun down in the process?
+The American Dream, really, if you think about it.
+And the lack of an objective is maybe the one thing that I prefer in Cataclysm dark days ahead.
+36:41
+Throughout this game, I realized, I realized at many points that like, oh, this is a this is a make your own fun kind of game like which I and respect for people who have the time and patience to do that.
+36:58
+But most of the time when I go to play a video game, the big selling point is that it is automated.
+It has created a goal and a fun mechanism for me.
+And I don't necessarily need to be creative.
+37:15
+I can save that for some other time.
+So, you know, in but thirteen years of development I'm I'm kind of surprised they haven't added more scenarios there.
+There are scenarios, but there's not a get to the evacuation .1 which feels like a no brainer, no pun intended.
+37:35
+Why not?
+Like why not just survival in general as a as a strategy, survive one month as a as a first school, survive two months.
+Once you get into two months, you'll find that all the perishable foods they're gone.
+And so you can either eat really fattening food and become obese because for all the non perish, or you can learn to farm.
+37:52
+And so there's kind of natural.
+It was a natural progression of things that you'll want to learn as you're going along.
+And eventually you have a car, it's really great.
+It'll break down, it'll have some problems smashing to do me zombies.
+Maybe you want to repair it.
+And so like there's a natural sort of like, oh, how do I repair?
+Oh, I need to have this sort of knowledge and I need to do these sort of things.
+38:09
+And so it feels to me like or hey, you realize you need the mechanics magazine that teaches you how to do it.
+There's a bookstore in town or there's a gas station over there.
+Maybe I'll try and raid them.
+And so all these mini quests all ladder up until I mean, I think I shared my that one part of my notepad of like the looks like about 50 different like done tasks that I'm just right your.
+38:31
+Own list of this.
+Is what I'm trying to do next.
+This is like my priority order.
+I have like 10 things right now.
+I want to cut all the over our own grass in my property and the driveway.
+Get my welding up to 3 so I can fix my hood.
+Get more nails for my tall fence around the property.
+Like these are all the objectives that come out of the natural goal I made.
+38:48
+A similar objective list, uh, but for a different game.
+OK, spawn into the deserted urbanscape.
+All right, open the by menu.
+All right, select a rifle.
+OK, now proceed to bombsight B like it's I, I, I respect you doing that.
+39:07
+And I, and I, I totally, I totally understand how a reasonable, a reasonable, capable, intelligent human being could derive a lot of fun and excitement from that.
+It's just for my type, the type of gamer I am.
+39:24
+This isn't the first type of genre that I I I look for.
+And it's very much a.
+Personal preference thing there's maybe.
+Like a middle ground here as well where like on one end of the spectrum you have like the game is so simulationist it just becomes like a life slash yard work simulator.
+39:41
+And then on the other end of the spectrum where it's just so like arcady nonsense that like there's no kind of like thought put into it.
+And I feel like there's maybe somewhere in between here where like so I guess for the listeners benefit, like we only so far have played all this just single player and multiplayer was only something that was really added somewhat recently.
+40:03
+Oh yeah.
+Was that the beta 42 or the build 42 update in December 2025?
+Yeah.
+For.
+Build 42 they had multiplayer, but they also had had it working for build 41.
+And so I think that's where like, I, I can kind of sympathize with Andrew's argument of like, like cutting the long grass doesn't sound like an appealing objective to me either.
+40:25
+But if you had like a multiplayer scenario where it's like you and like 9 of your best buds are like, OK, like our objective is to see if we can beat our high score of surviving one month like we did last time.
+It it feels like there's an opportunity to reduce that drudgery in minutia by having people specialize.
+40:43
+Like, OK, Colin, your goal is to like run across town and try to find fuel for the car.
+So will can then drive the car to the military checkpoint and re up all of our ammo so we can survive the night or whatever like that.
+That seems.
+I mean it sounds.
+Like maybe instead I should just grind like grass cutting skill.
+41:01
+Now I can now.
+Now since there's nine of us, 8 of you can go do fun things and I can do 8 times more grass cutting.
+Yeah, specialization.
+That's how we rebuild civilization is we we specialize, we get someone who is an expert at lawn care, and that's how we're going to live side by side with the immortal zombie hordes that will eventually drain our ammo resources and pour over the fence.
+41:25
+Well, actually you can.
+Kill them all, you can live like there's 75,000 zombies in Arian and you can literally kill every last one of them and have no zombies left.
+Is that when?
+The US government comes back and it's like, wow, wait, holy.
+Shit, there's 75,000, you say?
+41:40
+Yeah.
+Right now I've got 70. 5000 zombies, 75 square miles, 7% chance of getting infected from a scratch.
+What are these devs playing at?
+There is some kind of a conspiracy afoot.
+So this again, this is a totally valid way to have fun and a successful way to have fun.
+41:59
+This game has a ton of a ton of reviews, but you know, part of this podcast is kind of our initial impressions.
+And that was a that left a really big impression when I realized, oh, by default it's just the sandbox.
+And it's like, well, I don't even know how to play this game yet and you're telling me to just jump into the sandbox and be creative?
+42:18
+What, No, I can't possibly do that.
+And that's, and that's why for me, honestly, the tutorial was like my favorite part of the game.
+It was like story driven and like, and it highlighted and, and and brought the light said, Hey, look at this gameplay feature now engage with that.
+42:34
+Hey, look at this gameplay feature.
+All right, have fun.
+And then here's like a very sort of simple, but efficient and effective little narrative to go along with it.
+Yeah.
+And I, I, I, I so I played this game like back when it was a brand new super briefly and I recorded like a little let's play video with one of my my good pals And I went and found that video and was watching it again.
+43:06
+And the gameplay looks remarkably similar.
+And I guess I was just, I was hoping for there to be a, a little, a little more actually, you know what, look, it's plenty advanced.
+They've added a lot to it.
+But I just again, I, I, I was hoping there would be some kind of a, a narrative, which isn't which, which again, is fine.
+43:25
+And there are some scenarios that you can choose to engage with.
+That's why I played the, the cabin defense mode a fair bit.
+So again, Oh yeah.
+So I didn't play.
+Any of the I didn't play any of the scenarios.
+How do those work?
+Is it the same map or is it like it's own contained adventure?
+43:44
+Well, the one.
+That I started on because I I there's a scenario that says CDDA and I'm like, Oh well we did Cataclysm dark days ahead as a previous episode.
+Let me click that as my first introduction to this game as the tutorial and you start and your house is on fire and I'm like, we're off to a great start.
+44:01
+I'm panically running around trying to find something and then I just like turn around the corner, open the door, zombie right there bites me and I'm already infected.
+I'm like OK, this is.
+A delightful you got.
+You got what was coming to you.
+Yep.
+A.
+Delightfully intricate goof, A goof and gaff on the at the expense of Cataclysm dark days ahead where you've got, you know, there's these different scenarios where it's like survive the winter or defend the cabin and then the Cataclysm dark day ahead.
+44:35
+Dark days ahead scenario is you start like on the floor of your bathroom, having presumably like slipped in the shower and knocked yourself.
+You have a cold, You're sick.
+Your house is.
+On fire.
+Oh, and also the zombie apocalypse.
+44:51
+Wait, no.
+There's also glass in your groin.
+You still there's a glass?
+What you have to take, Yeah.
+You have to pull the glass out of your groin to start the game, so I would be.
+What?
+What is it supposed to have happened to this poor man?
+Mondays.
+Am I right that it's?
+That's what it feels like to play Cataclysm.
+45:07
+Dark Days Ahead.
+I I'd be curious to know what the whole back story is behind this this inside genre joke.
+No idea.
+I'm guessing they have a scenario in CDA like this, but and this is just a sort of paying homage, Sure.
+45:23
+Sure, sure.
+And Speaking of CDDA, let's let's put heap some praise on this game.
+Wow.
+It looks so much better, it plays so much more smoothly.
+Interface is a dream compared to Cataclysm Dark Days ahead.
+45:41
+And there's it's.
+Isometric.
+There's multiple dimensions.
+Yeah, definitely.
+Definitely.
+When I played it back 13 years ago, all of the character models were two-dimensional, but they have implemented these 3D models which I think look very good and blend into the two-dimensional world very nicely.
+46:04
+I assume that they switched to 3D models just because it was, you know, quicker to do the animations and everything.
+And it's impressive like how well the games like graphics and like processing scale like you would, you would think that like if you have 1000 zombies on screen, it would just like tank the frame rate and the game would just crash or something.
+46:25
+But it it for me, I mean, at least it ran decently well.
+And like I was actually kind of impressed playing.
+I think I played like four or five hours on the Steam Deck and it seemed like it was just humming along just fine.
+And I'm like for a game that I was expecting to be super menu heavy and like mouse and keyboard first class, which is fine.
+46:46
+Like there was actually some effort put into like joypad controls, which was which was nice.
+I still think mouse and keyboard's better, but I could see if like maybe in another 13 years, if they add joypad support, it would be pretty good.
+And then maybe a Nintendo Switch release.
+47:01
+But, but yeah, I think like for, for like how long this game's been in early access, like they, it seems like they're kind of ending or like coming around the final bend of stuff that they're adding because they're in the process of adding like NPCAI at the moment.
+47:19
+And I, I don't know like how, what the cadence of their release schedule is, but it seems like if we're at release build 42 right now, it's like in theory build 48 from what I'm looking at the road map menu here, like build 48 is when like all the NPC stuff will be done.
+47:36
+So in theory, like there might be more things to interact with and more like kind of like Cataclysm style, like quests to do outside of just like a Farming Simulator.
+And you know, like that that seems like they're they're headed towards some kind of completion goal and it won't be just like a shambling early access zombie for the end of time, but but there's certainly certainly some more stuff that they're planning on adding and despite.
+48:07
+Being in early access, it feels as someone hasn't played the game in 13 years, like very, very polished.
+Again, I was just surprised that there wasn't like a a core scenario, which you'd be welcome to ignore, of course, and just go about your merry way and do your do your own thing.
+48:23
+Maybe I don't want to go to the FEMA checkpoint.
+Yeah, they do.
+Want to?
+They could just be like you're for the first game.
+We recommend you start in this town and attempt to get to the bridge out north of Louisville like.
+48:38
+No.
+Just drop you in, you don't have to attack.
+When you when you start the game, all you should be doing is forgetting all the survival aspects and fighting things with your bare hands if you will need to.
+Because learning the timing of like when you can push guys, when you can stomp their skulls, how to like aim so that you're not like attacking right next to them and then they bite your neck because that it happened to me so many fucking times.
+49:01
+Oh my God, there's this one.
+Well, I could there's always a one time for everything.
+But like I see a zombie.
+I know he's there.
+I come around the corner, my bats up.
+I know exactly where he is.
+He comes to the right and I just swing at where he was and he comes in to come.
+And that was a 40 hour game.
+That's how I lost a 40 hour game was just I knew where he was.
+49:19
+I was just the stupidest fucking bullshit.
+I I that's.
+That's brutal.
+Hey, we should talk about the combat.
+How do we?
+What do we think of it?
+It's hard.
+Yeah.
+It's it's.
+Hard, as you say, will.
+As a new player, that's what you should be focusing on, learning to fight.
+49:37
+I feel like if the if the crafting systems, and forgive me will if if this is actually in there and I just haven't spent enough time with it to encounter it.
+But like if the crafting system allowed me to build stuff like out of the World War Z book of just like long pole with a scythe at the end of it that I could just cut their heads off from a long distance.
+49:55
+Like if I could get like some Dark Souls looking weapons built in here and just like like bam, like spear spear from like a long distance away and like, you know, doing like dodge roll like scythe attacks and stuff like that would be pretty sweet.
+I didn't find like the melee to be like soup.
+50:14
+It felt like combat was a a way to get out of a situation, not necessarily to win a fight.
+I mean, like, it's absolutely like the way it worked.
+Once you get to a competency with fighting the hordes, if you see three together, you just mow them down.
+50:30
+You don't even think about it.
+If you see 10, you're like, OK, I'll have to take a second kind of Dodge back a bit. 2020 is about the maximum you can do before you run out of like exhaustion.
+And so if you're seeing 50 or 100, then you get the guns out, you get the cars out, you start running, you back in here A. 100 I feel like I've only seen like 5.
+50:50
+If over 100 folks if you thought that.
+Video I posted into like just yesterday.
+Like with me like murder.
+I think I killed about 600 in the main town of this and I'm just going around with a shotgun or a pistol and I'm just like, because I just raided the police station.
+So I'm like, I'm flush with ammo and I'm just like, all right, this city's got it coming.
+51:10
+And I went out blasting my shotgun at once.
+Just start spinning around just fucking mowing them down.
+It's just it's that to me is if you want to have like a break from the survival crafting and get into like some just straight killing.
+But what did?
+You do actually should be a goal.
+51:25
+Right now for everyone out there is like raid a police station, kill everyone in town.
+That's fun, but will what?
+Do you do in the game?
+See now what you've described sounds like a very like a wonderful gratifying gaming experience.
+51:41
+So I can I can definitely get behind that sounds sounds like a hoot.
+A hoot and a half Darcy.
+It's 600.
+My goodness.
+Now real quick, I want to point out Will is describing hordes 50 to 100 zombies.
+If you thought a game called Project Zomboid, not sure what a zomboid is, but a zombie game isn't going to bring the hordes of shambling undead, think again.
+52:04
+This is one of those games that delivers on the promise of what it is selling.
+There's no snake oil here.
+This is the genuine zombie apocalypse experience.
+Absolutely.
+Can we talk about the stealth system?
+52:21
+I'm curious what people's like experience was with like stealthily sneaking around away from zombies was because it felt like for me they had some sort of like fucking soliton radar bullshit of like being able to see me through glass across the street with their like like their zombie eyes are rotted, they're falling out of their skull, but they're still somehow like 2020 vision enough to like laser in on me up on like the second floor of this house.
+52:46
+Wow at.
+Five hours into the game, I could, I felt the same way.
+But eventually you'll learn the nuance.
+And that's that's the thing.
+This whole game, a lot of the fun is like learning from mistakes.
+That is pretty much that's like or 90% of the fun is sure.
+And in this case here, yeah, I just have a mob following me and I would just keep walking away and you're slightly faster.
+53:06
+But I could never lose them.
+I never understood, like, how do you, what are you supposed to do here?
+You just have to know.
+Like if there's a building you just kind of like and you have a horde behind you, you Sprint up to the up to the edge of the building and then you kind of just walk around it and then you walk away.
+53:22
+And then like, that completely stops them if they're seeing you from far away.
+What that means is you have to learn how to close the curtains.
+You need to turn off the lights and you need the Crouch walk everywhere.
+As soon as you do that, they'll have no, they'll have no way of sensing you in that building.
+And so a lot of it, every time that I've had someone like on the outside see me, it's because the window's been open and I've just been like clomping around just like, oh, yeah, let me get my frying pan.
+53:45
+Got like this cooking going on.
+Oh, my God, Who's at the front door?
+Well, you, you, you better know as a zombie at the front door, John Zombie.
+It's almost always.
+Going to be a zombie at the front door.
+Yeah, Are there?
+Are there?
+Non zombie NPCS right now or is that only something that's going to happen?
+54:03
+It's going.
+To happen.
+I think that multiplayer is how they were kind of relying on that experience.
+Well, I'm excited for that.
+I haven't even.
+Got to blow your minds fellas. 13 years ago.
+I just, I just reviewed the footage.
+There were human NPCS.
+What?
+Yes.
+54:19
+Indeed, they got turned into zombies.
+My buddy my buddy Jeff, during this 13 year old YouTube gameplay video tells me a story about how he was held up in this house, had it locked down, or at least he thought locked down and he woke up to find just standing in his bedroom just a random guy some.
+54:41
+Random.
+Human NPC had gotten inside and well, of course you know he panicked and he shot that man's face off.
+Turns out he was not a zombie, which to a friendly guy, but yeah, in this in this gameplay footage, like we recruit some like random dude.
+So I'm curious when they pulled that out and decided to rework it for I guess a decade that I'm.
+55:04
+Guessing it's like 7 days to die where like NPCS and having like, you know, roving bandits as an idea is a much harder thing to implement than just to have it like a static like sort of like merchants.
+And so if you have to get the AI in there, if they make them well balanced it, I believe it just throws things off, especially cuz they have to interact with zombies and like what's their relationship gonna be?
+55:27
+Are they gonna just be overwhelmed right away?
+If they're not overwhelmed, like how are they able to?
+So they have to have like a super advanced AI.
+At least that's how I'm imagining it.
+And that's why I would pull it if I didn't know that it was actually providing value without a lot of investment especially.
+55:42
+If you're providing.
+Value investment?
+What is this guy talking like he's some kind of game developer?
+I got my.
+Monocle on over here and.
+Because he is a spoiler.
+So what?
+Me capitalist.
+No, no, no, no.
+Capitalism big.
+55:59
+I mean, I'm.
+Out I'm forced to be in this system.
+But this is not a political podcast.
+Yes, yes, yes, right, right, right.
+Of course.
+So yeah, no, I understand it's it's a big sure.
+I I I imagine that they want to get it right and it's a bit of a challenge to implement for it's only. 70 kilometers of surface area you got to simulate at all times what what could go wrong.
+56:21
+But to answer your.
+Question, Scott.
+Yeah, the like the combat, the new player experience for stealth is that, hey, this is hard.
+Yeah, and I felt like I don't know if this game would be better if it had some sort of Skyrim style like little little eye that like would tell you like if you are being if you are visible to the zombies at any point and it'd be much.
+56:43
+Worse.
+True.
+And I wonder if like, 'cause there's like weather events that come through the game where like, oh, there's like a dense fog coming through.
+And I don't know if like, if that makes the stealth easier or if like you can get creative with some of the sandbox elements.
+57:01
+And like, let's say you have like a radio on you and you turn it up to Max volume and you like, huck it across the block and do that.
+OK, Like that stuff.
+That stuff makes sense in terms of like being able to be creative with the sandbox environment.
+57:17
+Firecrackers.
+Too firecrackers, I can see that.
+But yeah, I imagine that yeah, what and and PC editions would would certainly add some more stuff in here.
+Will, did you ever encounter the helicopter event?
+57:34
+Absolutely.
+Every single run.
+What are your?
+Thoughts on on helicopters I've.
+Never had any trouble with it.
+To be honest.
+I don't know, Like whenever I hear the, whenever I think the helicopter event is like I'll be on days like 7 to 10 or like it's like after after about a week or so, there'll be a helicopter and all the zombies in the area are drawn underneath it.
+57:53
+And for some reason the helicopter wants to hang out right above wherever you are.
+But I don't know, I'm just like upstairs in my 2 story house.
+I've got all my doors barricaded and I just kind of like wait it out.
+And I've never had a problem with that.
+I guess I could have been tried to be more adventurous and like gone out and fucked with them or like tried to run it.
+58:11
+But like, why would I want to do that?
+That sounds like risk.
+You want to like this is a game where minimizing risk is the goal because eventually over the long run, any form of small amount of risk will lead to your desk.
+But you got.
+To just go big risk, big risk.
+I mean, you've seen those.
+Videos of like, I take some risks and I, I get really lucky with these, this really long life I've had so far.
+58:31
+We are.
+Here to, you know listen to gather around and and here will the expert talk about this game and call and just instantly like Nah Nah, take all the risks that's true for.
+Sure.
+I mean, I think you should early on, definitely like you gotta while you're learning the mechanics.
+58:50
+And I say that as someone who probably is probably still in that phase but thinks he's not.
+And so that's why I have these things.
+I got bit.
+I got scratched today when I there was just two zombies in front of me.
+I'm going up my baseball bat with the nails in it and I'm just like, OK, come on, are you kidding me?
+59:07
+I just I take a swing at one of them and somehow I miss.
+I think he like didn't underhand his swing and like you have to be extremely accurate with your angle.
+And then he just got in there.
+I got a big laceration that's a 25% chance of being zombified.
+59:23
+And I just wrote I got lucky again, again.
+And so I didn't die right away.
+But no, even now I still in very simple scenarios am getting hurt when I shouldn't be.
+And I should have died probably about 10 times so far this life.
+59:39
+What's?
+What it what are the sort of like the elements of a of a winning run?
+Like, how would you, how would you determine that you've won a a run in this game, so to speak?
+Well.
+I mean, I think the ultimate goal is to like be in the densest populated area of zombies with all the best things and to be secure against all of it.
+1:00:01
+I think that's.
+Reclaiming civilization, Yeah.
+Something like exactly something like that, where you're able to create a, a barrier and have all the self, you know, all the resources you need and also be self-sufficient so you don't have to go out and to have any.
+Basically, if you're taking your risk and you're basically making AA0, that's the goal is to take this 100% risk down to zero.
+1:00:25
+And if you go to 0, obviously the game becomes unfun.
+But that's sort of the goal is to make the game unfun, I think.
+And, and you always die on the way to do it because it's just so hard to make the game unfun, at least in my view.
+So is.
+There is there a way to accomplish that without the game turning into a zombie themed Stardew Valley simulator?
+1:00:46
+No.
+No.
+What?
+I mean, like, or, or you can eat a lot of bad food or I mean, like you could, you could do a lot of like rushing through, not doing any farming, not doing any, any animal husbandry, not doing any of that stuff.
+1:01:02
+And just like rush right away, get all the guns, try and level up your shooting, bust through like the hardest part of town.
+And like you won't be able to build walls of course, because you don't have any carpentry, but like you can have that kind of life.
+But it feels like you have to put levels into specific things like carpentry or the OR or welding for some metal fences.
+1:01:22
+And so you kind of have to do some of that stuff.
+And if you don't want to eat like the worst possible food, you kind of have to learn some of the agriculture or animal husbandry.
+So to answer your question, no, this game is a Stardew Valley wrapped inside a a zombie game.
+1:01:40
+And so if you don't like Stardew Valley.
+Well, that's great.
+Because this game lets you choose, hey, do I want to wake up today and water my plants, or do I want to go out and kill some zombies?
+Yeah, you can choose violence.
+Your mood when you wake up in the morning determines exactly what you'll be doing for that day.
+1:01:57
+And by mood, you mean like the, the, the human playing the game mood versus like your actual player character's mood?
+Yeah, I mean.
+Like today I could have like, I have 400 nails now and I'm like, OK, that's a good number of nails.
+Maybe not actually not that much.
+I can like continue building the, the, the wall around my, my lodge in the woods on the lake.
+1:02:14
+And it's just this beautiful location.
+I make that because that's a long term goal or I could get in my car and I've wanted a trailer for a long time.
+It has 100 weight that it can store.
+I'm going to go out and just drive around for a bit.
+And then as I'm driving around, I find this random thing going on like they were, Hey, look, there's a, a building under construction.
+1:02:33
+What's inside this thing?
+And it was over here.
+Oh my God, there's, there's thousands of planks in here.
+Not thousands, but there's a lot of planks in here.
+And, and I don't know, it's kind of like it's a, it's a very like, oh, wow, look at that.
+And it's every, every turn you're taking is like this a new sort of a surprise.
+1:02:51
+It's a surprise around every corner.
+Why?
+Can't we have the mission objective escape to Plank City?
+That's all I'm asking for.
+All right, so we're talking about what what a winning run is and how sort of reclaiming civilization or or building your own like sustainable outpost is, is important.
+1:03:10
+What if this game had flags like in Terminus?
+Can you remind me the flag?
+Mechanic.
+I don't remember a flag.
+Mechanic, I remember you tried to get to the terminal or my recollection.
+Is that you can you can you can forgo escaping and getting like to the terminal and instead try to like reclaim the city and each sector.
+1:03:34
+Did you do that?
+Will you like you clear it of zombies and then you craft a flag and you plant the flag.
+You do that in the ground and that means ha ha, you've officially it was.
+Like a territory control system almost, right?
+I was way more into the speed running I think than I was into like that long grind for some reason.
+1:03:52
+And yet.
+You still did the long grind.
+I don't, yeah.
+I don't remember that.
+I'm not sure if I beat that.
+If that was a a big mission objective.
+I don't.
+We'll have to.
+Look at the tapes.
+But I appreciate it.
+You definitely reclaimed a good chunk of territory from what I recall.
+So I was, I was thinking about Terminus, which is another zombie survival game that we covered on the show.
+1:04:13
+And despite the combat in this game being pretty Dang hard and unforgiving, I I like it better than the Terminus combat, which was sort of a turn based location based targeting system.
+1:04:31
+Yeah, probability.
+Based like, oh, you have a 20 percent, 30% chance to hit right?
+And that just kind of comes down to, you know, real time versus turn based.
+And both can be very good.
+But I think in this case, the real time and the way that it is done, I far prefer it.
+1:04:47
+And the fact that I actually had to like click on the zombie's head when they're on the ground to to squash it.
+I really appreciate it and that sound.
+When their head finally blows up is a very satisfying crushing noise, right?
+Yeah, I told.
+And that's, you know, those are the the sorts of touches that I would expect from like a twitchy shooter type of game.
+1:05:05
+But for it to be present in a survival game, I was really delighted and impressed to see so.
+What I guess like how like will you said, you said I had a similarly like touch and go experience when you were first playing it.
+What was like the moment that like was like that breakthrough of like, whoa, OK, I can definitely get sucked into this now.
+1:05:26
+Was it just like seeing how the system's unfolded and just investing more time with it, or I think I.
+Was in the first little like, where did I spawn?
+In Rosewood I think, and I was a new player.
+I just spawned in with nothing and I'm like looking around the city and there's just this, this 20 zombies coming at me.
+1:05:47
+I'm running away.
+Suddenly I find a car.
+I didn't have the burglar tray at the time, but I just got super lucky.
+There was keys in the ignition.
+And I'm like, Oh yeah, here we go.
+My vengeance is at hand.
+And then I turned the car on and I just kill all of them.
+And I'm just like, that was a huge threat.
+1:06:04
+And I just neutralized it because of like this rent, like this completely random set of circumstances.
+And that was just like that.
+OK, now I know cars are like the sudden learning that cars can kill like up to 50 zombies or, you know, even beyond that.
+And then like being able, like, OK, think about all right, now that I know that, how do I base the rest of my runs?
+1:06:24
+And like, it was just like this sudden learning and destructive capability that you can, it's, it's like kind of like going into a game like you're a mage and then you suddenly like, you're like try and cast a spell and suddenly lightning bolt comes out.
+You're like, what's this power I have now?
+And it felt really awful.
+1:06:40
+When you learn fireball.
+Yeah, no, it felt like I got a fireball early on and that is what it felt like was.
+There something that surprised you about how the game operated that you didn't expect because, I mean, you've played a lot of zombie survival games, like, you know how this genre works.
+1:06:57
+And like, so you were jumping into this like, OK, familiar territory, but was there something that was like, whoa, there's something this is like, so unique to Project Zomboid that like, no one else has done it, and that, like, this game stands out significantly because of it.
+Yeah, when when a zombie comes at you in close proximity, like from the dark, you get that sound of like that little like like the actual music times with it to give you what's.
+1:07:26
+The time I'm.
+Looking for the it's.
+Like a jump scare sound jump scare.
+Exactly like it has like a violating and it's just like, Oh my God.
+And it really freaks you out.
+I thought I'd.
+Straight out of me, Yeah, I've never.
+Seen that before where it actually times that specific scenario with like the sound of the game, but I really love that integration.
+1:07:46
+It made it feel very much more intense.
+I was.
+Sleeping down in a basement.
+I cleared the the thing but I guess I hadn't.
+Like I guess the door was still broken open.
+I left this this door room that I'd closed and there was like a zombie lady just out there.
+1:08:02
+Boy wasn't expecting that.
+The the full full on jump scare Very good yeah I.
+Like that, I mean, I don't usually, but it just fits really well here.
+And I think they did it really well with programming.
+The if if a zombie in this territory and you're like field of view has not seen them and then suddenly you see them when they're within 2 meters, then make this sound.
+1:08:26
+And so I think that's or something like that.
+That's a very good way of doing it.
+And how does?
+Your player character Like stop being horrified at seeing zombies because you'll get like these little status icons of the mood show up on the.
+You gain.
+You gain like thicker skin over time.
+1:08:42
+Well, yeah, actually.
+That's, that's a real element is like after about a month or two, like you're, you're not as freaked out by zombies, just that by nature of just being seeing them so much.
+But also there are beta blockers.
+So there's a lot of medications you can pick up in the game.
+And so if you have a Fanny pack, you want to keep them loaded with your antibiotics, your beta blockers, your caffeine, your painkillers, all that good stuff.
+1:09:03
+And so eventually you can medicate pretty much everything.
+Just like in.
+Real life, yeah.
+I think that like the how the game evolves over like a long period of time is also interesting because like, you'll come across like radios or like TV's and stuff that you can kind of see how like, like the Louisville area county has been like quarantined off.
+1:09:24
+But you can still like kind of see how the outside world is reacting to your situation of like, oh, they're like, there's still people walking around and they're out outside and stuff.
+And you're just like, yes, but it's a zombie apocalypse people.
+And, and there's still like country music stations playing.
+1:09:42
+But like, they'll, they'll have like a little text that pops up on the screen of like what the people are saying.
+They're like, you know, I think there's something, you know, going up, you know, the, the elites don't want you to know about what's going on in Louisville.
+And then over time, it seems like the OR like whatever virus that the Knox event that has befallen Louisville escapes containment.
+1:10:04
+And like you're listening on the radio or watching the TV of like seeing the, the apocalypse like spread to other places.
+And then eventually, like those helicopter, those annoying helicopters stop coming and the TV goes out.
+And how it goes out.
+Yeah, and then it's like you, you have become naked and afraid, returned to monkey Bronze Age mode of like, well, like, I guess now I just have to survive until the end of time with like, you know, you have 20th century technology at your disposal.
+1:10:32
+But at the same time, it's like, well, Hannibal husbandry and sowing seeds it is again, which.
+I do appreciate it with the game LAX and like an overt obvious big flashing message here as your objective get to the get to the evacuation point.
+It makes up for in that sort of survival apocalypse timeline progression.
+1:10:55
+So there is a certain a certain plot in how events and conditions unfold.
+The electricity goes out, the water goes out, all the food spoils you're.
+Given a little bit of a ramp towards like, it starts off easier because the the perks of civilization still exist well.
+1:11:13
+This scenario too, where you can actually start like a week before these events.
+And so instead of starting three days after, you start a week before.
+And so it's normal society and you're like, your goal, knowing this is about to happen is like, how do you steal things without getting caught by the law?
+1:11:28
+Wait.
+Is that?
+Real.
+That's a.
+Real scenario in this game?
+Yeah, I'm not.
+Sure, if it's one of the defaults and I I've watched a lot of YouTube things on this now and so I just remember it's like a.
+Mod and.
+It's possibly a mod, It's possibly a vanilla scenario.
+I'm not really sure.
+1:11:44
+But it's, it seems like a really interesting way of experiencing it because, yeah.
+And then you're seeing in real time, people are actually being converted to zombies and, and you have to like try and do like steal things, but police will catch you and you can become a, a criminal before the end and like get shot.
+1:12:00
+And so it's a balancing like I can become how much I can get.
+Shot Wow, what a game.
+No yeah, that's that's super cool, though.
+No seriously.
+And it also allows you to do sort of like, oh, prepper mode, like you can kind of do the the prepper simulation Neat.
+1:12:16
+Get your. 55 gallon drum of I think it's.
+A I'm pretty sure it's a.
+Mod I have a 55.
+Gallon drum in my closet right now.
+That's how much I know that the.
+Build that, like we're all running doesn't have all the scenarios because they're kind of fine tuning it for this particular build.
+So or maybe it's a mod, in which case get that mod in the game.
+1:12:33
+Yeah, it might.
+It might.
+Be special.
+I can't recall, it was ambiguous amphibian.
+That was the YouTube I think it's called.
+It sounds like it's called Week 1, and it is.
+A mod right and.
+It is a mod.
+OK, so it's a.
+Mod OK.
+Is there is there like a short list of like these are the top mods to install or is it kind of like your mileage may vary I'm.
+1:12:53
+Only vanilla so far, if you like.
+At 116 hours, I'm still like completely satisfied with vanilla and so I, I know eventually I will and so that I haven't even got to that like point where I I'm looking at mods yet.
+So that makes me think this is going to be a 500607-A thousand hour game potentially by by the time I I get done with it so.
+1:13:15
+Not specifically a mod, but something that I played around with was the custom difficulty setting settings and just setting up a super favorable, super cheesy game state where my XP gain is multiplied by 1000 and just sort of running and gunning and having more of an arcade experience.
+1:13:39
+And yeah, I appreciate that that's in the game and you're allowed to make your own fun and fine tune your experience.
+Unfortunately, my first couple of goes with that, I set the I'm like, well obviously I want, I want to have more zombies to kill, so I set zombie population to like insane and don't do that.
+1:13:59
+How did you die?
+Don't do it.
+What was what was the circumstance of your death?
+The.
+Circumstance of my death was getting slowed down by the forest and there being a shit load of zombies in the forest and actually.
+You know what you just the word slow down just reminded me of my biggest complaint right now of this game is vehicles and the how their power works in reverse.
+1:14:27
+You have the most torque possible.
+It's insane.
+But if you go forward and you torque, that sounds like a.
+Good name for a game mechanic mechanical term that you might put into a card game.
+So going backwards you have the most torque.
+That doesn't sound realistic, no.
+Not at all.
+1:14:43
+And then if you go forward, you get a lot.
+I think it's, it feels like about half, maybe 6070% as much torque.
+But if you turn while you're going forward, then it gets cut down by another like I want to say 20, thirty, 40%.
+And if you're like in a Bush and you're turning, then you basically go to 0.
+1:15:01
+Depending on like what sort of vehicle you have, you can actually get down to like where you are moving at like just the most minuscule sort of way with just a normal vehicle without being like surrounded by zombies.
+So as soon as you are like have a zombie in your view, if you're not on pavement, that is a death sentence because you just do not have the torque to run through these guys.
+1:15:25
+If you hit one, they can get caught under your, your tires.
+And so you'll be like, like not not spinning out, but just unable to back up and they're going to smash through your driver's side window.
+And it's just like learning that lesson is something that I think everyone has to do because I mean that.
+Sounds hard to work.
+1:15:41
+It's just like a they work poorly.
+You do you want to back into the guys you want to do like 1-2, maybe 3 per hit, but you cannot smash into a group of 20 and hope to live.
+That is never going to work out.
+This is.
+1:15:56
+What Ralph Nader was talking about.
+No, the fact that it's even, you know, a viable, you know, strategy at all.
+Is is is neat, but I I mean it makes sense that it's not like super Opie.
+I mean, kind of once you learn the mechanic and you're a burglar and like you, you, you one car stops because you break the engine and you jump out and rail a car.
+1:16:17
+And you sure, sure.
+You're like the rampage continue.
+It's yeah.
+That's so it's very viable rather excuse me, but you need to be willing to be swapping cars.
+I'm just.
+Looking through some of the steam workshop mods for projects envoyed and just just filtering it to the vehicles tab here.
+There are 2233 mods for just vehicles mods.
+1:16:37
+Just mods where I feel like this.
+This feels like a classic case of like if you can think of something in this game that you wish was in there, there's probably a mod for it at this point.
+Can you make?
+All cars red Corvettes.
+Well, here we have a, a, an armored personnel carrier.
+1:16:54
+We got a Mini Cooper, we got RV's.
+I mean, you got to have your survival apoc, your apocalypse survival RV.
+Can I get a BT?
+R or BMP?
+I mean a a main.
+Battle Tank, even a A.
+Resident Evil themed car seems pretty close.
+1:17:09
+You get some rusty trailers.
+I just maybe. 30mm automatic fire with at least 500 rounds.
+Well, there's not, I'm not.
+Well, on the first page of it, I'm not seeing any specific military vehicles.
+But Andrew, you might be interested to know that there is there's an M. 4 Sherman tank.
+1:17:29
+There you go.
+Oh.
+Yeah, there's Tiger.
+There's another 3000 hours of content right there.
+You can just get into the Sherman tank and just mow down hundreds of zombies.
+There's a a mod to bring in the the half life soldiers, the HECU guys into into cataclysm.
+1:17:48
+Perfect.
+So you can get the shepherd in there to hunt for Gordon Freeman.
+Yeah.
+I mean, overall, like, how many?
+Where was it?
+Yeah, there's 45.
+There's 45, like 1000 mods for this game, obviously.
+Workshops.
+Many, many.
+Mods, many mods folks, and I'm sure there are some that add those those objectives that I'm looking for or something similar probably or something similar.
+1:18:13
+Are there any other last things that we want to talk about before heading into slapping some 45,000 numbers on here for, for our initial, I guess we'll, we'll caveat this again to say our initial first impressions of this because our scheduling is a little wonky this week, but any other any other last call for topics maybe there?
+1:18:34
+Is in fact a mod that lets you add a Corvette.
+Oh of.
+Course I was worried.
+What's the status?
+Of wealth, or what's the symbol of wealth and status?
+This marvel of the old world engineering nest it's banned in among ruined streets, the powerful engines still capable of screaming down the highway.
+1:18:50
+Any survivor looking for speed at the expense of safety.
+Who?
+Wrote this a madman of Madison Ave.
+Wow, I feel like I need to run out and buy one of those vehicles right now.
+Very very cool.
+So unfortunately I'm I'm too much of A dope to figure out how to build a character to well obviously I need to be a burglar.
+1:19:09
+I wasn't able to drive have any of these cars.
+Are they 3D models?
+Yeah.
+Or they are OK?
+Very good.
+I assume so.
+Good to know.
+Good to know.
+Oh, horse mod.
+That well, OK, Importantly, is that where you play as a horse or where you just ride a horse?
+1:19:30
+It does appear that you find them and you wrench them and you are not a horse, but you can also jump over fences, though there's.
+Probably a mod for you playing as a Bojack style horseman, yes.
+Can I play as an animal?
+We got to start.
+Modding this game?
+Come on, All the great ideas we're coming up with.
+1:19:48
+Scott, you can play as an anime.
+Girl.
+Well.
+Of course, I mean, that's the first mod for every game.
+But like Scott, I watched that that that link that you put out there, which was like the rich versus the poor in the in the for the 100.
+Are the the people surviving in the the apartment tower?
+1:20:04
+Yeah.
+And I didn't realize that there was, I mean, obviously with this being such a popular game, I didn't realize that.
+But like there are a lot of people super into this game.
+There's a ton of drama around the this kind of Squid Game like scenario.
+And yeah, there's lots of there's lots of content out there with people just like, all right, there are 100 of you and the circle is closing in the classic sort of thing.
+1:20:26
+And yeah, it this game is not just zombie survival, it's also just a, a version of human survival or like just a, a dynamic in which humans can express their will to survive or otherwise.
+1:20:42
+Yeah, I guess.
+What what I'm Will's referencing is the video by the YouTube Harvest Extras called Can 100 Zomboid players survive or simulate civilization in an apartment?
+Question mark and it's a 3 hour long video that was just randomly clicking around I skipped through.
+That, by the way, there's no way within three hours of that crap.
+1:21:00
+But I was like wow, please.
+After, it's riveting.
+Content, come on.
+But it yeah, it does demonstrate that this sandbox can be used to great effect for.
+Sorts of scenarios and fun.
+There is a.
+Mod that lets you play Doom on the computers in the so full full regular game of doom so you can run.
+1:21:20
+Doom.
+You can run Doom on your refrigerator touchscreen.
+You can run it on a pregnancy test.
+And yes, of course, because we all wanted to know, yes, you can run it on the computers in Project Zomboid.
+Good to know.
+I'm gonna rate this.
+Thing.
+How about you guys?
+1:21:35
+Well.
+Every.
+Everyone else looks super ready to throw some preliminary numbers that could change as the year goes on.
+Let me, let me reiterate this, that when a Mega Bowl season comes at the end of the year, that's when that's when we lock the numbers in.
+But until then, they could float around, they could change a little bit here and there.
+1:21:54
+That's totally fine, Totally fine.
+Not Yeah, we gotta, we gotta etch them in.
+Blood on our foreheads here first.
+First and foremost, I'll kick us off washed.
+Off though, no, yeah, I mean I'll.
+I'll give the other codes a time to think here.
+I'll, I'll kick us off this.
+1:22:11
+I think Project Zomboid is, is super popular and I can respect its popularity.
+It is a super not for me game specifically.
+I'm just not into open world survival crafting games, zombie games.
+I'm a coin flip on if you know if I like them or not.
+1:22:28
+I have a whole mile long list of like things that I don't like about this game, but I feel like overall can be the the major criticisms of mine.
+I feel like can be summed up that like this feels like the Euro Truck Simulator 2 of zombie games for me, where it's like it's super in depth.
+1:22:44
+It's got a lot of stuff, a lot of people like it, It's well regarded.
+It's just not for me.
+And that's I feel like that's that's it.
+That's all that I can really say about that.
+It's for the group of people that like it.
+I'm glad that they do.
+I think for me, like this game was maybe more entertaining for me to like watch other people play than for me to play it.
+1:23:05
+I got a similar vibe with like Cataclysm and watching a Rycon role play videos of I'm like, yeah, wow, that is that does look fun and I'm glad that someone can extract that level of fun out of it.
+That just seems like it's too much work for me to extract that fun out.
+But I think the things that this game does well graphically, I think this game is is very good graphically for how Simsi it can kind of look when you scroll all the way in.
+1:23:31
+But like when you scroll some pretty good distance out, like you know, it's it's got a lot of stuff going on.
+It gives you a good field of view to it.
+The music is is pretty good for this game.
+I feel like the the tribal, like Dune like music.
+1:23:48
+I would much I'd much prefer that over whatever country music is playing over the Louisville radios.
+So I'm I'm glad for that.
+At the very least, it plays pretty well on the Steam Deck.
+Like I was, I was pleasantly surprised at the level of joypad support that they had in there.
+There's still some to go, but just the fact that they're even thinking about that is is nice.
+1:24:08
+And I feel like this, I haven't experienced this game yet as a multiplayer game, but I can see how this game would be maybe more fun as a multiplayer game and getting that kind of experience.
+Like I could totally see us doing something like that later in the year when the scheduling kind of calms down a little bit.
+1:24:25
+But but yeah, like for me, I don't know if like this, the genre is not my my first pick numbers wise, it's a 5.5 for me, putting it just behind Rainbreaker and just ahead of dungeons of Dreadmore.
+And, and as a result, like when I was playing this game, like, I don't know, like is like I rated Cataclysm really bad when I first played it and I didn't have a good experience with it at all.
+1:24:51
+And the more other zombie games that I've played, the more that I've kind of come to realize, like maybe there is something about Cataclysm worth going back to.
+Maybe we'll revisit it again sometime down the road.
+So I'm going to try it.
+Twice we did 2 episodes on it.
+Wait, what's?
+Your rating for two.
+We did 2 episodes on it.
+1:25:06
+Yeah, cuz.
+We, well, I mean, I can't remember if we actually did 2 full episodes or we did two.
+We like attempted to do it one week and then had to give up because it was too much work and we swapped to like some other game we played.
+Yeah, I mean.
+Yeah, that.
+I forget what game that was.
+That was pretty early on, I think.
+1:25:23
+And then yeah.
+And then we added it needed more time to bake, but it still didn't help.
+But I think I'm retroactively changing my 4.2 for Cataclysm to a five.
+You probably.
+Shouldn't, Yeah.
+No, that's a big mistake because OK.
+Yeah, you're right.
+1:25:38
+I'm, I'm gonna leave it as I'll leave it as a 4.2 just for for spite reasons.
+But I want to, I want to like give Cataclysm more credit because it has an end goal.
+It has.
+You should go.
+Play it though before you rate it up.
+Or should I?
+Watch other people play it and I was like.
+1:25:54
+Kind of.
+You should try to.
+Play it because I remember watching it and thinking like, I mean, there's a reason I picked it because I thought it looked interesting.
+And then playing it and just being like, I could just go to work and at least I'd be paid money and I wouldn't have to think half as hard.
+That's fair.
+Yeah, I guess.
+1:26:10
+Like for me, Project Zomboid 5.5, it's just, it's not a good alignment of genre.
+I wish there was more an objective.
+Maybe it's something I'll load up with like all sorts of crazy anime horse mods and then that will make it crazy and fun.
+But just out-of-the-box, for 13 years of early access, I was kind of expecting more.
+1:26:29
+What?
+More were you looking for?
+An end goal, I don't think the match be OK.
+Well, again.
+Again, this is a me problem.
+I fully realize this is a me problem, but the fact that like you can't escape the town by just like walking around the barrier on the bridge is kind of dumb.
+1:26:47
+Like give like these are the end times Like this is how you died.
+Yeah, I get it.
+But like, why am I playing this to just like keep playing it?
+I don't know, Like I'm I'm still I'm still in that rut right now.
+That's like.
+Despite the person that tells you you're going to die, you have to say fuck you, I'm not going to die.
+1:27:04
+I am going to survive.
+You can't tell me I'm going to die, but I don't.
+Want to do that via sowing seeds in the ground?
+We all.
+Die eventually, yeah.
+I want to.
+I'd rather sow seeds in my real backyard than doing it in the the yard work simulator version.
+I don't know.
+Again, it's a me problem.
+1:27:20
+I'm happy to happy to say I'm at fault there, Andrew.
+Tell us about your problem.
+I agree it is you.
+It is a you problem, but also like wouldn't like Donkey Kong arcade suck if it was just a climbing game?
+Like you know, you just have like an objective anyway, totally valid form of fun, personal preferences, etcetera etcetera.
+1:27:40
+OK, so going back to Zombiecon 2010 in beautiful Seattle, WA, I showed up oh with a with a a glimmer in my eye, young Andrew Harshman dressed up per the Zombie Survival Guide by Max Brooks, who was present at the convention, and I had him sign my copy of the Zombie Survival Guide.
+1:28:06
+He's totally.
+End up right now.
+He's quite proud of this.
+Absolutely and he signed it said says it says on the the on the inside of the the dust jacket.
+Hey, Andrew, you look so ready.
+Exclamation mark.
+But turn to page 63.
+1:28:21
+And of course, on page 63, there's a neat little diagram of someone with long hair like mine getting pulled on by a zombie claw and devoured.
+That's actually really good.
+It's so good.
+It's so good.
+That makes me like.
+This guy a lot.
+And look, here's the deal.
+1:28:40
+I'm sorry, I can't.
+I can't do it.
+I can't cut my hair.
+I can't cut my hair and I also can't.
+Another thing I can't change about myself is my dislike of looting.
+You you gotta the loot needs to be really exciting for my monkey brain to engage with it, for my lizard brain to like what what I'm seeing.
+1:29:02
+And the interface needs to be like some next level super convenient, borderline somehow fun and rewarding to use.
+The the looting system in this game is pretty solid.
+And I, I really appreciate that and I really appreciate, you know what they've built here in Andrew points, because we of course, we know I'm using a different scale than my my Co workers who bamboozled me is 6.87 points, which hey, this is so bad.
+1:29:29
+That's right behind dead cells.
+That's a head of rain breaker.
+But it is unfortunately 16 slots below Pokémon mystery dungeon rescue team garbage.
+Garbage.
+Garbage.
+Don't listen to this man.
+He just he just he just voided all credibility.
+1:29:45
+He tried to build up there I.
+Will agree that Pokémon Rescue Team would be made a lot better if you could perform vehicular manslaughter in Pokémon Square.
+So anyway, Colin, take us out of here.
+I am going to give it of course, the most important thing which is it is 25 slots ahead of Pokémon Mystery dungeon rescue team God.
+1:30:10
+Thank God I'm giving it a 7.5 and I'm going to with the very strong caveat of I only played five hours of this game, which is I feel like almost a criminal amount in order to be rating this game.
+Granted, the only five hours of video games I was able to fit in in the last two weeks, but so I'm giving this 7.5 off preliminary result.
+1:30:33
+I'm pretty sure that's a floor, not a ceiling.
+I'm this is the kind of game that I have a strong suspicion that I would get very sucked into if I get over the initial hump it's got.
+There's a large learning curve of like reading the wiki, which is not my favorite initially.
+1:30:58
+I will absolutely do it incessantly once I get into a game, but I have to get the I have to get my it's hooks into me.
+So I feel like that's one of the biggest problems with the game is like it does not it it does have a pretty steep on ramp to get into where you're in some sort of flow state or you're doing stuff or you have like I like so far I've just been kind of like aimlessly wandering.
+1:31:21
+I I think like I do think that having some sort of proximal goal system, at least early on where it's like, Hey, the the house I started in has a map and I know that like I should, there's like Billy, Billy Bob friend with guns house is 17 houses down the line.
+1:31:40
+Like I should try to get there just as like an initial starting goal.
+You don't have to do it, just it exists.
+And then maybe like a couple of different goals scatter around the map of like things that are obvious points of interest that might become like maybe not end game goals, but like mid mid late game goals.
+1:32:02
+Like I guess make to make it to Louisville is like a good goal, but it's not.
+That's a. 200 hour goal.
+That's not a quick goal if you want it.
+Spelled out if you want a.
+Quick goal I'm happy to lay out like the newbie like.
+1:32:18
+I don't.
+No, but that's The thing is I don't like yes, please tell me after the podcast, but that's not something that I should have to be like.
+Well, my friend who's played 100 hours in the game is telling me how I should have fun in it.
+Like a game should be able to tell you within itself how to have fun.
+1:32:34
+It should have a better wiki within the system like because it knows you're going to be looking at stuff.
+It's hard to find out what stuff's crafting, but like I think it's got a lot of stuff going on.
+Good for it.
+I'm I'm going to say I would love to play more of this game.
+I don't know if I will, but if I if given an ample amount of time, I probably would like this game a lot.
+1:32:58
+And that's about as much as I can rate it for right now.
+So will tell us why it's the best game.
+Oh my.
+Goodness, this game, it's hard, which is a requirement for good games.
+I I think, I don't think is there an easy game out there that's good chess.
+Pokémon.
+1:33:14
+OK.
+Thank you, Colin, for that very smart comment there.
+Yeah, no, this is hard.
+It takes a it it and I agree that the, its ability for it to put its hooks in you is like the biggest challenge it has to overcome because as you're entering the game, you're like, oh, OK, now I've conquered my house.
+1:33:35
+What do I do now?
+OK, I've got food to last me a few days.
+I've got water, infant supply, I'm watching TV.
+What do I do now?
+Well, I guess to go raid the neighbor's house.
+Sure, there's some zombies there.
+No problem.
+I had this, you know this not kitchen knife, whatever.
+And then you're eventually like, you know, you got killed because you while you were raiding, you were faced towards the cabinet in that kitchen while you were trying to pull out these cans of mushroom soup.
+1:34:01
+And the zombie comes up behind you.
+You didn't expect it.
+And then you learn a valuable lesson.
+You learn that lesson that you cannot turn your back on anything for any amount of time.
+You can never assume that there's not a zombie in every single shadow.
+And so this game is is 1 where it punishes you over and over and over again.
+1:34:22
+And as you get punished and it sucks because it's perma death and there's no safe point and you have to start again, then you get like, I don't know, for me, I got this a sense of excitement of like, OK, I learned how I fucked up and now I'm going to try something new.
+1:34:37
+And there's so many phases as you go from like I have a one week character to I have a two week character to a month, a month, a month.
+As as soon as you get to a month, you have no more electricity, you have no more water.
+And so you have to start to like take into account all of the complexities of the scenarios out there.
+1:34:57
+And two months, three months, what does it look like?
+A year?
+At every single point there's a new challenge, there's a new objective.
+And yeah, for the current run I'm on right now, I thought it was 60 hours.
+It's probably about 80 or 90 hours right now I have into this current run.
+1:35:15
+And that's an insane amount, at least for me to like to not die.
+And all my other ones were like, it's almost like a, an exponential curve sort of thing.
+Like, Oh yeah, I died in an hour.
+I died in, I died in like 3 hours.
+Oh, I died in six.
+I died in like, you know, I got finally got like a, you know, a few days in.
+1:35:31
+And so it like it built up And now finally there's this character where you like you learn all the simple ways to die and then you're like, how do I absolutely crush risk?
+How do I control all the weapons have the highest level of security?
+1:35:49
+And that to me as someone who who's one of my primary objectives in games is, is is this this phrase I like to use?
+But I know it sounds quite insane when you say it out loud, but like, I want to protect what's mine that sounds.
+1:36:05
+That sounds crazy.
+But like that to me is an, A sort of a almost, it's like a raw human sense of like of, of a purpose.
+And so you want to build a.
+Base.
+You just want to build bases?
+Yeah, I want a.
+Compound where I'm walking around the perimeter of it with my dog and these are in real life.
+1:36:24
+These are the things that I want, and in this game I get to simulate my want to escape from society that I hate and to create a lifestyle.
+I don't know about being alone, but yeah, solitude.
+That's that's fine in many ways.
+1:36:41
+And this game lets you like, live out this this fantasy and it's always building, it's always improving.
+You're always learning.
+I gave this game a 9.5 out of 10.
+This is one of the best games ever created.
+And everyone else here has played the game for what, 10 hours or less?
+1:37:00
+5 hours I think is what I heard a lot of.
+Yeah, I don't know.
+They don't know what they're.
+Talking about just disregard everyone here.
+This is an incredible game.
+It's easy, like I said, it's easy to bounce off of like I did initially because it's so complex.
+But once you get into it, once this guy is hooked into you, you're like, this is the game for me.
+1:37:19
+And I at 116 hours, I don't see, I don't see the death that I'm inevitably going to have from something as stupid as eating a uncooked egg that almost got me that literally today that almost got me.
+And like, that is something that's I don't even play for another 100 hours, 200, three, 104.
+1:37:39
+Hours.
+How did it almost kill you?
+Because it makes you.
+Sick like my character I selected like AI get extra sick when I eat bad things and because that let it's like a minus characteristic so you can get better things like other positive traits and because of that, like it really affected me.
+I had cooked ones in my inventory and I had uncooked and I, I accidentally selected the uncooked one to eat and that fucked me up.
+1:38:02
+I had to like immediately eat all my best food, get my, my best sleep in.
+And even then my health went, it got super low before I finally got cured.
+And that's an, and that happens all the time that I had the 95% of my health gone earlier when I stepped into a flame incidentally, like I was like, and this is the thing you learn.
+1:38:23
+It's like campfires super dangerous and as you move like things into the campfire, your character will pivot just like without you like telling him to and he walks right into the campfire and then you just lose all your health and you're like, I'm on fire, what do I do?
+1:38:38
+I've never been on fire before.
+I guess there's a right click option to extinguish.
+OK, now I guess I'm have to bandage disinfectant.
+It's super intense.
+And that's just, I don't know, I love all that stuff.
+This is me ranting about how great this game is for a long time now. 9.5 this is I I think the was it the 4th best game I have on here Let's hear will rankings yeah no, it's tied for third with the bellatro.
+1:39:03
+So Rimworld or slate aspire rimworld blotro and blotro and project zomboy are tied for 9.5.
+What a good praise I'll play it.
+You should all play it tie.
+Praise yeah, that'll put Project Zomboid overall on our number 36th overall out of 89 games that we played.
+1:39:23
+You know it's a good like upper, upper part of of the curve there.
+So not not doing too one slot.
+Ahead of Monster Train Two, yeah.
+We're on a we're on a good streak here with we're consistent.
+We're consistent with our ratings numbers.
+Similar games to this.
+This one was hard because this game is so unique.
+1:39:40
+There aren't really a whole lot of games that are like similar, like ticking all of the boxes, but there it's there's some games that are similar in One Direction and some that are similar in another direction.
+But if you if you're a big hater on cat on our cataclysm dark days ahead, see our previous episode on that.
+1:39:57
+I'm not sure if I would recommend that episode to people who really like that game, but we did not have a fun time with it.
+Terminus zombie survivor is another previous app, rim world.
+I would kind of classify that as similar to this in a way.
+Again, if we're kind of squinting at it, this game feels.
+1:40:13
+In terms of games that we haven't covered yet, this game feels very similar to like don't starve to me to like open world, like survival type stuff, Build a base, get your engine running of of food and all that.
+Over over the the different board game weekend, the Colin that I was attending, I was testing out a little bit of a game called Neo and EO scavenger, which is almost like a top down 4X board game slash survival game, which I think is more more kind of like near near future sci-fi type stuff.
+1:40:46
+But there's the classic also in development for 25 plus years more.
+I don't know if you could really call it a traditional roguelike because open world survival stuff, but unreal world.
+We we talk a little bit about it on our music episode.
+1:41:03
+It like what if this game but Bronze Age and bronze is cracking as they say.
+There's some zombie ones that I was looking at that seem kind of interesting.
+Like there's a game called one bit Survivor, which is like maybe like a dungeon crawler with like gameboy aesthetic, but like kind of cool animations.
+1:41:20
+There's Z zone, there's they don't sleep.
+Some other kind of like lesser known titles, one that that we mentioned earlier that's gotten a more kind of official Steam release.
+Ellen Elin is a similar kind of like big static open world.
+1:41:39
+All the stuff in it is so dynamic and emergent that it is effectively like procedurally generated.
+Stay tuned and 1/2 for door fortress for sure.
+I guess we did just a previous episode on streets of Rogue, which I guess is is like chaotic enough.
+1:41:55
+I don't know, like it's it's not it's not quite the same.
+There is one game that was playing that was like, well, this has this has farming in it and gunning down zombies, but it feels it feels more kind of attuned to the Scott end of the spectrum of atomic crops, which is the post apocalyptic it it it's I get very strong zombies ate my neighbors vibes from it from like super Nintendo.
+1:42:19
+There's some other zombie ones.
+I I think 0 sievert is like a a an extraction shooter that's kind of top down cartoony.
+And then of course, who could forget mentioning Escape from Dukov as something that for whatever reason is tagged as a rogue light action game.
+1:42:36
+But there's something I feel like there's something similar about like a extraction shooters returning to base with your extracted loot with this, that that.
+Yeah, if you're if you're patient enough to rewind the episode 5 times and hear me list all that stuff out, go check those games out.
+1:42:52
+But that'll wind down our Project Zomboid episode here.
+If you want to write in with your zombie apocalypse survivalstories.grogpodzone@gmail.com.
+Our Mastodon Grogpod at game Dev dot place is where you can find that.
+1:43:08
+And our website Grogpod dot Zone has all the rankings and stuff.
+But, but as we hop out of this episode, Colin, what are we picking to check out for the episode coming up after this one?
+1:43:25
+We're going to switch gears a little bit and we're going to play the mobile phone game Hoplite, which is a rogue like puzzle chess simulator game.
+I'm not really sure how to describe it, but it's small.
+1:43:43
+It's it, it's perfectly adapted for when you're going on a week long ski trip and you won't have access to your enormous gaming PC.
+So hopefully we'll have some fun times on a smaller screen.
+Yeah, it's been a while since we've picked out a a mobile exclusive game and this one is is well regarded.
+1:44:03
+And I remember dinking around with it some time ago and thinking this, this, this seems interesting.
+Will will love the chess tactics vibe to it, but but that will do it for our Project Zomboid episode here and to play us out.
+Well, you know, all these zombies, you know, all all this dreary Cormac McCarthy style apocalypse scenarios.
+1:44:25
+Maybe we can do this.
+Maybe if we can win this, friends, maybe we can win this and we'll play out with some zombie survival tunes and Project Zomboid get you in the mood for that final movie in the Dune franchise?
