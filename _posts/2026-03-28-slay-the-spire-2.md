@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/roboquest.jpg
 share-img: /assets/img/roboquest.jpg
 duration: "1:25:36"
 length: 71691072   
-tags: ["2013", top down action, honorary rogue, early access]
+tags: ["2026", deckbuilder, early access]
 ---
 
 
