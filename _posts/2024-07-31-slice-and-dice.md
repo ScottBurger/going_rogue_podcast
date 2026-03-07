@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/slice.jpg
 share-img: /assets/img/slice.jpg
 duration: "1:15:06"
 length: 59842459 
-tags: ["2021", solo dev, deckbuilder, dungeon crawler, mobile game]
+tags: ["2021", solo dev, deckbuilder, mobile game]
 ---
 
 It is a good day to dice! This week we polish up some D6's for the dungeon crawler Slice & Dice and throw them against all sorts of hideous monsters. We're talking goblins, zombies, exploding skeletons, bloodthirsty fanatics, and so many more. In a game with modes on modes on modes, we try to navigate being cursed, blessed, and blursed while slaying dragons, succubi and undead samurai. Can our party of housecats and an over-levelled wizard save the day or will all of our dice be turned to stone and we get swarmed by imps? Ready to roll out!
