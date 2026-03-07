@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/void_bastards.jpg
 share-img: /assets/img/void_bastards.jpg
 duration: "1:20:05"
 length: 64179697 
-tags: ["2019", shooter]
+tags: ["2019", shooter, action]
 ---
 
 Oy, Gary! Is that you? Join us this week as we rehydrate some prisoners for derelict spaceship looting zaniness with Void Bastards! A 2.5D space shooter with more mutated freaks than the typical bus stop in Yoker, we try to appease the voice from the Stanley Parable with some bureaucratic busywork in the form of gun shooting. All the while fending off space pirates, space whales, and assessing if that gas station sandwich you just spent your credits on is or is not going to give you a parasite to start talking with a Glaswegian accent, aye?

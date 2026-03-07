@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/rogue_tower.jpg
 share-img: /assets/img/rogue_tower.jpg
 duration: "1:03:40"
 length: 49911227
-tags: ["2022", tower defense, solo dev]
+tags: ["2022", top down action, deckbuilder, solo dev]
 ---
 
 Happy New Pod! Or new game! Or new game+! For our second season kickoff we bring an army of orcs and goblins marching on your doom in Rogue Tower. What other podcast can you find deep dives on tower defense strategy in the form of thrilling spreadsheet functions and macros? The Excel fincancial modelling world cup may have just ended, but this game sure EXCELs at metal tunes, one-more-turn-itis, and laser-blasting pyramids. Does Will hold a world record for this game? Send in your armies of Boron-encased glass panes and find out for yourself!

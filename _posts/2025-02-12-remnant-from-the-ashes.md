@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/remnant.jpg
 share-img: /assets/img/remnant.jpg
 duration: "1:35:27"
 length: 80422433 
-tags: ["2019", honorary rogue, shooter]
+tags: ["2019", honorary rogue, shooter, action]
 ---
 
 This week in "wait, that's not a roguelike!" we tackle the Souls-like shooter Remnant: From the Ashes! A lot of high-budget games that aren't rogue-first have been coming out with rogue modes and Remnant is no exception with it's DLC-based mode: Survival. Join us to complain about getting bodied by bosses, watching out for archers, and trying to figure out just how much chocolate you need in a cake before you call it a chocolate cake.

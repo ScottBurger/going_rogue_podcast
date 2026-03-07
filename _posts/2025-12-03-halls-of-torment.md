@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/halls_of_torment.jpg
 share-img: /assets/img/halls_of_torment.jpg
 duration: "1:49:10"
 length: 89913552   
-tags: ["2023", top-down action]
+tags: ["2023", top down action]
 ---
 
 The agony and terror of season 3 of the podcast comes to a close with the Survivor-like, Diablo-lite game Halls of Torment! Hear the demonic horns and twisted drums that lay down the epic background music, feast your eyes on the gorgeous low poly, highly pixelated 90's inspired spritework! Collect those soul stones, find the artifacts and items from the demonic lord's hallowed halls and see firsthand the horrors of greed! 

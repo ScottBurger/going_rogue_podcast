@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/deadzone_rogue.jpg
 share-img: /assets/img/deadzone_rogue.jpg
 duration: "1:45:46"
 length: 86331408   
-tags: ["2025", 1st/3rd Person Action]
+tags: ["2025", action]
 ---
 
 Get in the zone! This week is a game with one wild journey from starting out as Starsiege: Tribes-themed extraction shooter to an original roguelite experience - it's Deadzone: Rogue, of course! Awaken on a ship to shoot through piles of robots and uncover the mysteries that an unhinged space program influencer billionaire promises folks who sign up for a Mars cruise. What dangers might we face? Or NOT face? Maybe we are all just brains in a vat, if you think about it. Actually... you don't want to think about it. You'd rather try to find some matcha on this ship instead. What you do you mean there's no matcha on board? Oh that's a big drill you have there...
