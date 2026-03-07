@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/orcs_must_die_deathtrap.jpg
 share-img: /assets/img/orcs_must_die_deathtrap.jpg
 duration: "1:37:03"
 length: 78730128   
-tags: ["2025", 1st/3rd Person Action]
+tags: ["2025", action]
 ---
 
 The Age of Men is over. The Time of the Orc has come! The long-lived and highly rated franchise of Orcs Must Die! comes to the rogue world for the first time with its 2025 release of Deathtrap. A game OMD players have waited 4 years to see a sequel finally arrives featuring 4-player co-op maze-building character-quipping action. Join the team of sassy teen #1, wrench arm boy, sassy teen #2, murderous cat, and big lovable bear man to stop the Orcs from getting into those precious portal for... reasons... Look, the special brownies are right over there, just one more mission and they'll finally kick in, okay?
