@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/roboquest.jpg
 share-img: /assets/img/roboquest.jpg
 duration: "1:25:36"
 length: 71691072   
-tags: ["2020", 1st/3rd person action]
+tags: ["2020", action]
 ---
 
 Muscle up your game buddy! This week we dust off the 500 year old robot action FPS Roboquest: something like a "Doom Eternal for kids", the electrobeats of synthwave send you hungering for more and more of those delicious green health orbs. Infiltrate a gigantic city of bad robots, rescuing good robots along the way, and unlock all sorts of wacky movement gadgets, character classes, and more hidden secrets than you can shake a pogo stick at. Always check behind those waterfalls!
