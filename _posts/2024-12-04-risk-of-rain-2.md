@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/risk2.jpg
 share-img: /assets/img/risk2.jpg
 duration: "1:34:14"
 length: 67577808 
-tags: ["2019", shooter]
+tags: ["2019", shooter, action]
 ---
 
 Risk of Rain returns and in threeeee deeeeee! One of the most popular rogue games ever closes out season 2 of our podcast this year by dropping into a chaotic swarm of low-poly, monster-infested lands backed by screaming synth guitar sounds. From multiplayer near-victories, to solo-play over confidence, Risk of Rain 2 is a Bundle of Fireworks to send us off into the holiday season for some Bison Steaks and Energy Drinks. 
