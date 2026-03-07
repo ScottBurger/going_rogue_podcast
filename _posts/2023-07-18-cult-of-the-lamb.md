@@ -12,7 +12,7 @@ thumbnail-img: /assets/img/lamb.jpeg
 share-img: /assets/img/lamb.jpeg
 duration: "01:28:25"
 length: 69211825 
-tags: ["2022", colony sim, hack and slash]
+tags: ["2022", squad management, top down action]
 ---
 
 Welcome to the family follower. Everyone here is happy and healthy. CHOP WOOD! MINE STONE! Obey our glorious leaders commands! This week we meditate on the nature of organized labor and religious indoctrination with Cult of the Lamb. What lies beneath the adorable art and crown that sits atop our infallible and fluffly leader's head? Tune in for how to build your very own machine learning model to cheat at Knucklebones. That's not a commandment, right? The Lamb is good, the Lamb is great, we surrender our will as of this date! No microphone problems, in the name of The Lamb!
