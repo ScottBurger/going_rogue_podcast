@@ -124,4 +124,4 @@ The full combined ranking data can be found below:
 | 86           | [Low Magic Age](https://grogpod.zone/2023-03-29-low-magic-age/)                                          | Squad Management      | 2.9         | 3.0         | 4.0        |              | 3.30      | 3.0    | 0.61    |
 | 87           | [A Valley Without Wind](https://grogpod.zone/2022-11-09-pineapple/)                                      | Platformer            | 2.0         | 4.5         | 2.0        |              | 2.83      | 2.0    | 1.44    |
 | 88           | [Hack, Slash, Loot](https://grogpod.zone/2022-11-09-pineapple/)                                          | Traditional Roguelike | 2.4         | 2.0         | 3.0        |              | 2.47      | 2.5    | 0.50    |
-| 89           | [Realm of the Mad God](https://grogpod.zone/2022-11-23-madgod/)       
+| 89           | [Realm of the Mad God](https://grogpod.zone/2022-11-23-madgod/)                                          | Top Down Action       | 1.0         | 3.0         | 2.5        |              | 2.17      | 2.5    | 1.04    |
