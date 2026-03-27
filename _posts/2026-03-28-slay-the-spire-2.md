@@ -18,6 +18,8 @@ tags: ["2026", deckbuilder, early access]
 
 Rise... champion... again! The Spire returns to be slain once more, in the biggest roguelike launch of all time! Our top rated game of the podcast now has a sequel, but how will its early access evaluation period hold up? How sly will our ratings of the new characters be? Will we DEMAND to visit a more exciting planet? Will our souls be eternally bound to a tooth-filled grimoire? What about Osty? Is he safe? Is he alright? Who is this mysterious Architect who sits atop the new Spire with a bunch of deflated hearts and bronze automotons?? Finally it arrives!
 
+We also finally welcome a new theme for the podcast after 4 years! Developed as part of a suite of multiple recordings, it's a tune that will evolve over time, so keep an ear out and don't immediately skip that first 30 seconds of random jazz music I've been posting previously! [You can find more about Louis' work on his website here](https://louisfmusic.com/)
+
 <div class="container">
   <audio controls style="width: 100%;">
     <source src="">
