@@ -8,15 +8,15 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, monster train"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/roboquest.jpg
-thumbnail-img: /assets/img/roboquest.jpg
-share-img: /assets/img/roboquest.jpg
+cover-img: /assets/img/spire2.jpg
+thumbnail-img: /assets/img/spire2.jpg
+share-img: /assets/img/spire2.jpg
 duration: "1:25:36"
 length: 71691072   
 tags: ["2026", deckbuilder, early access]
 ---
 
-
+Rise... champion... again! The Spire returns to be slain once more, in the biggest roguelike launch of all time! Our top rated game of the podcast now has a sequel, but how will its early access evaluation period hold up? How sly will our ratings of the new characters be? Will we DEMAND to visit a more exciting planet? Will our souls be eternally bound to a tooth-filled grimoire? What about Osty? Is he safe? Is he alright? Who is this mysterious Architect who sits atop the new Spire with a bunch of deflated hearts and bronze automotons?? Finally it arrives!
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -36,15 +36,15 @@ tags: ["2026", deckbuilder, early access]
   
 ---
 
-Next episode: UFO 50
+Next episode: Megabonk?
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: 
+Intro music: GROGPOD Theme 1 by LouisF
 
-Outro music: 
+Outro music: Clark Aboud - Ceremonial Beast
 
 
 <div class="embed-responsive embed-responsive-16by9">
