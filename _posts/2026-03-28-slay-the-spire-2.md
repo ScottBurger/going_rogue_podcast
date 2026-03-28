@@ -33,6 +33,17 @@ We also finally welcome a new theme for the podcast after 4 years! Developed as 
 * 1:02 - New intro theme by Balatro composer LouisF!
 * 2:41 - Game stats
 * 4:40 - One sentence description
+* 5:37 - Early Access Disclaimer & Future Revisit Discussion
+* 7:50 - Comparing Sequels
+* 10:42 - Major New Features
+* 12:23 - Art, Animation & Dynamic Music Integration
+* 14:06 - New NPCs, Story Beats & Lore Progression
+* 21:04 - Unlock Systems & Achievement Design Discussion
+* 30:25 - Infinite Builds, Balance Patches & Review Bombs
+* 32:45 - 4-Player Co-op Mechanics & Board Game Origins
+* 45:30 - The Regent & Necrobinder
+* 1:09:02 - Card Enchantment System
+* 1:19:01 - Art & Animation Improvements
 * 1:29:30 - Rankings & final thoughts
 * 1:44:49 - Similar games & show wind-down
   
