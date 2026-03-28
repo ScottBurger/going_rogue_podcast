@@ -2,7 +2,7 @@
 layout: post
 title: "Slay the Spire 2"
 date: 2026-03-28
-file:  
+file:  https://grogpod.s3.us-west-2.amazonaws.com/slay-the-spire-2.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/spire2.jpg
 thumbnail-img: /assets/img/spire2.jpg
 share-img: /assets/img/spire2.jpg
-duration: "1:25:36"
-length: 71691072   
+duration: "1:54:29"
+length: 93444240    
 tags: ["2026", deckbuilder, early access]
 ---
 
@@ -22,7 +22,7 @@ We also finally welcome a new theme for the podcast after 4 years! Developed as 
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/slay-the-spire-2.mp3">
   </audio>
 </div>
 
@@ -30,15 +30,15 @@ We also finally welcome a new theme for the podcast after 4 years! Developed as 
 
 ---
 
-* 1:42 - Game stats
-* 4:04 - One sentence description
-* xx:xx - Roguelike arugments
-* 1:08:30 - Rankings & final thoughts
-* 1:16:57 - Similar games & show wind-down
+* 1:02 - New intro theme by Balatro composer LouisF!
+* 2:41 - Game stats
+* 4:40 - One sentence description
+* 1:29:30 - Rankings & final thoughts
+* 1:44:49 - Similar games & show wind-down
   
 ---
 
-Next episode: Megabonk?
+Next episode: Megabonk
 
 Contact us at grogpodzone@gmail.com!
 
