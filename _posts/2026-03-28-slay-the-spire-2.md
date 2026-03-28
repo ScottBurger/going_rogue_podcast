@@ -26,7 +26,7 @@ We also finally welcome a new theme for the podcast after 4 years! Developed as 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/roboquest/id1650474911?i=1000749198957) | [Spotify](https://open.spotify.com/episode/0AWuMgiq3uoP0wVVD8uiCU) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/roboquest.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/slay-the-spire-2/id1650474911?i=1000757852763) | [Spotify](https://open.spotify.com/episode/5pUQIcz0BM4RC1WW9tbCJC) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/roboquest.txt)
 
 ---
 
