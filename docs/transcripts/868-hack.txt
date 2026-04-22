@@ -1,0 +1,1316 @@
+0:13
+Greetings friends and welcome to the Grog Pod roguelike podcast where each episode we hacked the planet escape with some ratings numbers and if the game siphons enough creds revisited in our end of season recap tournament.
+I am your lead Black Hat pen tester, Scott Berger, and with me are my leather trench coat wearing Cyber Sleuth Co hosts.
+0:35
+Hello, I am a frowny face named Andrew Harshman.
+And I'm Colin, the cyber sleuth, the hacker, the agent.
+I'm all of them.
+Could be anyone.
+Wow.
+Well, I guess I'm I'm Will.
+0:50
+And what am I?
+I'm a glitch, a debug thing.
+I don't know.
+Techno Babble.
+That's what I am.
+This week we are talking 868 hack released originally on iOS for mobile devices.
+I guess iPhone and tablets at the time December 8th, 2012, whopping almost coming up on 14 years ago, but getting its steam release few years afterwards January 27th, 2015.
+1:19
+This was developed and published by 1 Michael bro, who is kind of a was it.
+I, I, I guess like the, the, the tagline is he's your favorite game dev's favorite game dev, as it were, who has a, a long list of games that he has solo dev D and put up on his itch dot IO store or in places susceptible to link rot or what have you.
+1:47
+But with a a career spanning back since 2011 developing games, I'll just quickly breeze through some of these here because there's a lot of them.
+Vertex Dispenser, kind of like a math RTS compendium, which is like a collection of weird local multiplayer only games.
+2:07
+You got Zaga 33 which is kind of like a mechanical precursor to 868 hack.
+We got 868 hack followed by Core Ripped which is sort of like a very Michael Bro style Sokoban game.
+You got Vesper 5 which is a it's a game that only allows you to make one move per 24 hour period.
+2:30
+You have other games titled like become a great artist in just 10 seconds.
+You got Helix.
+You got other rogue ish games like imbroglio, cinco paus, P1 select and coming fairly soon I think later this year 868 dash back sort of spiritual successor slash remake of of this game come to steam in hopefully later this year 2016 or 2026 Jesus.
+2:58
+Nobody in the audience knows what any of those are, I'm guessing.
+Is that right?
+I mean I.
+Don't know any people clicking in on this who are familiar with Michael Bro games from the early early 20 tens know what those are and I've played.
+3:13
+I actually got a gift a gifted copy of Cinco House from the guy who created one of my all time favorite ninja platformers N Plus Plus that game is some wild like we'll we'll get into it for this episode, but 868 hack is like the most intelligible of his games to a brought to a general audience the.
+3:34
+Most 868 hack is the only one with its own Wikipedia article.
+Oh excellent.
+Well, it sounds like the the Michael Bro Uvra is pretty pretty vast and pretty diverse.
+But of course we are discussing 868 hack.
+3:51
+So I think we need to get into the hacking mindset.
+I I went ahead and took the liberty of generating from my brain space with the help of the Internet, some hacker names for all of us.
+So if I may really quickly, I'm of course Andrew Harshman AKA Trojan Harsh.
+4:10
+Then we have a Scott Berger AKA Berger Meister boot record and with us is Colin Smith, AKADDOS Smith.
+AKA the Smithsonian DDDO Smith DDDDDO.
+4:27
+Smith and for Will Wright, also known on the Internet as Will I am OK, Perfect.
+Here we go.
+Perfect.
+Yeah.
+And so I think like people that are that are anyway.
+But that one was no good, sorry.
+4:42
+I thought that was going to get a pop.
+Because of course Will dot I dot am is the name of a musical artist we all know.
+But so anyway.
+Sorry, I knew this will probably didn't.
+Though Yeah, yeah, yeah, yeah.
+Scott Berger.
+Will will dot was.
+There, OK, very good.
+4:59
+I go play the hacker alias Neo, you see.
+Bergermeister boot record Sorry, Please please proceed.
+You know unironically there is an EDM chiptune artist called Master Boot Record who is.
+Coming to town soon.
+Send me some.
+We'll, we'll, we'll we'll discuss this more offline or we'll just make this whole episode about master boot record EDM chiptunes.
+5:18
+Anyway, yeah, I think people clicking in on this episode know what 868 hack is and they are familiar with sort of all these other games, which and like, it's weird because like 868 has a hack is kind of like languished in obscurity for some reason.
+It's very popular with people who are familiar with his work.
+5:37
+And yet on Apple, a whopping 59 total ratings since it since it launched Steam.
+This is like, I think quantifiably the most obscure game that we've covered on the Steam catalog.
+I think I think I did a little bit of wizard math to give get us a number for Azure Dreams because I don't have the exact sales numbers, but for Steam, this is the number 2550 eighth most popular rogue game, whatever game on Steam with a whopping 122 total reviews.
+6:12
+To put that in perspective, some of his other rogue games, imbroglio has 109 reviews on iOS and single pass, which many people tout as like some of his his best work, 84 reviews on iOS.
+So if anyone is listening to this podcast and is saying like, Oh no, they're getting it wrong on XY and Z, please link us to your iOS review because let's let let's see what you have to say on it.
+6:36
+So your average player of 868 hack has about 5 hours of game play in it.
+It's a pretty short game, but but Colin, what is the one sentence spear phishing, network intrusion, intrusion attempt that describes what one does an 868 hack?
+6:54
+Move face, slurp data, get points, don't die to virus.
+That sounds about right.
+I'm looking through our, our skipping ahead a little bit of the show to just sort of get a preview of our our made-up rating numbers that we slap on things.
+7:12
+Whose line is it anyway?
+Wow.
+And.
+So, so early in the show.
+My word.
+Well, this is this is I always have to do that in order to say like, well, do I put the preamble on there of all debs go to heaven and it's OK to like or slash dislike a game.
+I don't think we'll we'll come down quite that negative on it, but I have a backstop just in case.
+7:29
+So anyway, I think yeah, this is for people that kind of follow the podcast episode episode.
+This is another sort of classic grog pod whiplash where we go from like something that's in this one zone and then we next episode of something completely different.
+7:45
+And I think this kind of fits the whiplash going from our very successful, very popular solo dev effort of Mega Bonk last episode to 868, which our most obscure, at least on Steam game, even though Azure Dreams is probably still #1 But I think this kind of highlights this sort of snapshot in time of what like indie, let's let's say like mobile indie game development was in 2012.
+8:13
+Like we're back in the era of Steam green light.
+I guess H dot IO was still.
+So this was so this was iOS first.
+IOS first, yes, and then three years later.
+For like a while then.
+Yes, at least three years and then it was ported out out to Steam.
+8:28
+After I'm sad it never got ported to Android, it seems very surprising to me that it never got ported to Android because like so I play this part.
+Part of the reason we're playing this in the first places too is because it is a shorter game.
+It is a little bit more portable.
+I was able to play it on my laptop on a plane, but it seems like it would have been extremely easy to play on a phone.
+8:54
+Like there's not really buttons and also like even even the the port to the PC itself feels like it's coming from a a a touch 1st type of environment so.
+Yeah I wound up I actually bought this game twice 'cause I bought it on steam where everyone was siphoning my family share from it, but I was also I I re bought it on IO on the iOS store 'cause I have an iPhone, I have a tablet and I was like OK, I know this is like originally developed for mobile.
+9:22
+How different is it?
+It's not really that much different, but you it does have that tactical or like that tactile movement to it where you can just like swipe anywhere on the screen to go up down, left and right to do your actions and, you know, pressing and holding things instead of right clicking.
+So like I, I feel like because I've spent so much time playing it on the steam deck specifically that it feels it feels right for that it it plays well on the PC, but you can tell well, I don't know, like it plays well on iOS devices on the iPhone.
+9:54
+It gets a little cramped like when you're like pressing down the button to like see the the tool tip stuff of like what is this thing like half of your fingers blocking it?
+So I think that like, you know, for the for the era of 14 years ago for iOS games when you know, people were still like this is back in like way back in the era of like FTL, Spelunky, Dungeons of Dreadmore type zone, people were still kind of figuring out what this new part of the genre was at the time.
+10:26
+So see, I I can't kind of can't fault it for that, but I think the the PC style of interface certainly seems very good and if nothing else, like the steam release has given us this absolutely hilarious Steam trailer to the game that Andrew's very excited this.
+10:44
+Trailer's great.
+Good stuff.
+Well done Mr. Bro.
+You have this very unhinged looking homeless man running around like using his iPad to hack into cars and 3D print purses instead of stealing them off the street.
+11:01
+And unhinged homeless man.
+I mean not to not to belittle.
+Unhoused.
+The unhoused persons, but surely that is our solo deals.
+It is that is that is Michael bro running around.
+I do.
+I want his T-shirt so bad.
+11:16
+That's just like the the protagonist of the game name pixelated :).
+There's got to be.
+Aren't you just the the the happy :) man?
+Like in your like icons now.
+The the, the the, the, the.
+11:34
+Central face for dwarves and various roguelikes I.
+Suppose that's true, that the, the logo of the website or the podcast is like the, the IBM Unicode :) thing.
+11:49
+Although like I'm, I'm trying to do a revamp of that for the big Episode 100 drop and I can't find a font that's like that same pixel stack.
+Anyway, yeah, like, great, great protagonist, great Steam trailer.
+12:04
+Michael's running around hacking into stuff.
+It just has like this very unhinged like grungy matrix style vibe to it of like exposed circuit boards and you're hacking into the mainframe and in a very cartoony fashion.
+12:21
+But yeah, like I think this game kind of sets the tone initially with like the the tutorial that you're dumped into right when you start where I feel like more games need to start up with a 90s modem boot sequence sound effect.
+12:41
+But you have like some very Matrixy style ask, you know, like pixelated text that comes up sailing like dialing 000-868 dash hack a game by Michael Bro and some words by Leon Arnott.
+12:58
+It's, you know, some, some cyber techno Babble, you know, future cores, networked cooling vats operating at 33°, presumably Fahrenheit because that seems more appropriate than if it was, I don't know, 33° idle temperature Celsius.
+13:15
+The Damon services are active.
+The virus scanners are disabled.
+Kryptog security encoded glitch processes all systems ready.
+It's 86 minutes after midnight in Zaga City and it it says initialating initial, initiating tutorial sequence.
+13:37
+I'm getting hacked here.
+And this is kind of I think where it where it shows that like the game is pretty obviously made for a touch interface first where it says, it says use arrows to move, but it has a little digital hand on there.
+Yeah, and it doesn't have a like press and hold to like touch and hold to to to show the tool tip like the right word for.
+14:01
+Yeah, and it it says hold for description at at one point.
+And I could see how that would be a little misleading where it's like, well, hold what?
+Like it like that's where it's giving you the the tooltip to say like, hey, like if you press space, that's how you use data siphons to like get abilities or progs as they're known in this game.
+14:23
+But it just says hold for description.
+You're like, what do I hold down space?
+But I, I guess like, you know, you figure it out very quick, but oh, right click.
+Got it.
+Oh, right click of course I I just like, right?
+I don't know how I stumbled on to that.
+14:38
+I guess you do have a cursor in this version.
+Yeah, I mean, I feel like that was just like push the buttons, put how many things could you have, you know, like let's just push every button that like makes sense until like how many could?
+Possibly be you.
+Know on the keyboard hold space, hold left click, hold right click but.
+14:57
+Other than that, pretty good tutorial.
+Yeah, like it, it kind of like segments off the play space so that you're not like overwhelmed with stuff.
+It has like these this.
+I will say there is one thing that the tutorial misses that Will informed me of last night.
+15:15
+Did you know that if you get more than 10 points in a single level it heals you?
+What?
+No, I did not know.
+This because you're a low scoring scrub.
+Wow.
+Interesting, Interesting.
+That's good to know.
+That's like make a slight difference in how you might play.
+15:35
+That's true level, yeah.
+If you if you're in the frowny face mode, which is when you've taken two hits of damage and the third is your death, then it'll take you from a frowny face up to neutral.
+And so that'll that, that means you can actually get that last, you know, eight points block or whatever you're aiming for.
+Yeah, I think like the the the tutorial here is good because it kind of runs you through all the major game mechanics.
+15:56
+But like they're like what you're saying, there's a a lot of layers to the gameplay onion here.
+So real quick, the tutorial tells you like, you know, you move towards an enemy to attack and you shoot out like this big long laser beam that hits hits enemies.
+You collect data siphons, which are other little smiley faces on this 345 by 5 grid that you're running around and that gives you the ability to press spacebar.
+16:23
+And what that does is it allows you to collect either energy or credits from let's say the ground as you're running around on this grid.
+Each grid space has little dollar signs or fancy S looking Galaxy swirls on it that correspond to two different energy currencies.
+16:44
+And then you got squares that have your abilities that you can you can choose to grab if you want, but the caveat is that's going to alert enemies and the better abilities are going to alert more enemies.
+So you run around, you activate this thing.
+Oh no, a bunch of you know, monsters have popped up.
+17:00
+But luckily you can actually just use this ability and then Kablammo, they're all they're all taken care of.
+Other blocks that you might encounter have they alert enemies, but they have points in bright pink.
+And that's kind of the objective of the game here is to get those points and get out and you enter the port and it kicks you out to a run of the game or that I guess the main menu if you've already done a run here.
+17:24
+But but yeah, like I think Andrew, to your point when you're mentioning in the Discord earlier today, like it doesn't really under score that the.
+Look, let me let me try to get out ahead of this every game. 90% of the games we cover have, especially survivor likes, have a scoreboard, have a leaderboard, which I have conditioned myself over the last like 10 years to completely ignore because there ain't no way I'm touching those top spots.
+17:58
+So yeah, like sure there's a score screen, but who cares?
+I'm playing rogue lights.
+A victory is a victory is a victory.
+So like I went into this game not realizing that Oh no, this is actually like kind of an old school arcade style experience where points are the objective.
+18:15
+Who's cares if you are successful?
+If your run is a win, if you survive, it's actually the points you're after.
+I'm not so sure if the tutorial does a great job of communicating that it might have.
+And I was just so hung up on the fact that I didn't understand how to press and hold and like read things like the first time I played the tutorial.
+18:34
+It's like, all right, now press now press this number for AD bomb.
+What the hell is that?
+I don't even like, I was having to like infer like what was happening, Like I was having to interpret like, OK, I pressed that button, the D bomb, and that blew things up.
+18:50
+No, I mean, the tutorial does tell you that like, oh, well, that's D stands for Damon.
+I guess I could put that together eventually.
+Let.
+Me, but I I just I've heard it twice now and it's a demon AE apologies.
+Demon.
+It's not.
+I always thought it was Damon because because it's.
+19:08
+AE spelled differently, but it sounds the same, which is ridiculous because DAEMON the Damon, as you were saying, that's a that's like a benevolent spirit.
+And that's also the the term used for the little critter is that shape shift in the Philip or the the the?
+The.
+19:24
+Dark materials series and and then demon, obviously evil entity.
+So that's just a, you know, as ADEMON that is.
+And so that's.
+Even clear I guess technically in the IT world they are known as like gateway demons but they're spelled AE so I guess.
+Regardless, the tutorial's pretty good except for two clearing issues for my money.
+19:43
+Now, after I started playing the game, I got a pretty good handle on it and I was and, and, and I'm very impressed how from the intro screen to the tutorial to the actual gameplay, very cohesive art style.
+This is supposed to look like a a retro futuristic hacking interface.
+20:01
+Lots of nice vibrant matrix greens and little glowing effects which are just, you know, achieved by well, of course you have a gradient of different green pixels and.
+That that's highlighted with some some nice purple and blue and it really gets you in the in the mindset of of being an elite hacker in a like alternate future of some kind.
+20:27
+It's it's like cartoon hacking where like you know, or, or or like what was that 90's the 90s cartoon TV show reboot.
+It feels maybe like a little a little like half that and half the matrix in some sense.
+20:43
+You know 2 two things that are basically the exact.
+Same, basically the exact same.
+But all of this is to say, I guess you are in the story of this game, the the numbers, the points, that's like valuable data that you're trying to get, I guess.
+There is a story to this game.
+20:59
+There is.
+I played this game for 12 hours before you guys start talk comparing high scores and I'm like, what is that?
+What do you mean?
+What do you mean high scores?
+I'm I'm up to three successful runs.
+What do you mean high scores?
+Oh, the points actually are the main goal.
+21:15
+I mean it.
+They can be.
+I like I, I feel like, I feel like you're playing it in a less fun way if you don't.
+I'm certainly playing it in an easier way.
+But but like if perfectly valid to like, there is no congratulations, you beat the Game 7 or you beat seven runs in a row.
+21:35
+Therefore you.
+Hypothetically, imagine if we were talking about any other game.
+Imagine if we were talking about any other game we were reviewed.
+That's like, well, Andrew, I mean, you trying to get to the end of Hades?
+I mean, I guess that's a valid way to play the game.
+It's probably less fun.
+But anyway, this is a very different gaming.
+Experience.
+21:50
+Well, it'd be like if you were saying the only way, the only valid way, to play Hades is to see how many runs in a row you can win.
+I it's not a perfect comparison, sure.
+I mean, it sounds like you you want to play soccer, but like the main goal is just to kick the ball back and forth and never score any goals.
+That sounds that's more like how I'm imagining it.
+22:08
+All right, I think anyway, I think this is, I think, the version of the game that I was the best at, which was of course, no.
+Obviously top score.
+Top score over multiple runs is the most interesting.
+Yeah, and I, and I think like where this game really shines is like playing this game solo in a vacuum is like it's fine.
+22:27
+You know, like you, you could probably play this game and well, like you, you could.
+Yeah.
+Like you were opening up your laptop and, you know, hacking the the in flight Wi-Fi.
+People might raise some eyebrows, but yeah, maybe if you're on the plane, don't shout.
+22:42
+Yeah, I got the D bomb and I'm activating it.
+I'm going to siphon your energy.
+But I think having having a either like a, a group of people to play against for some sort of high score, cause like all the leaderboards are like so hilariously like out of reach of like, yeah, there's no way I'm going to score like 868 points in a run or whatever.
+23:06
+But like, I thought, I thought I was the top dog for the longest time.
+Like, oh, I've got 43 points.
+There's no way anyone's going to touch me.
+And then will come zooming out of nowhere with like 49.
+And then Colin just comes flying back from vacation and then I think hacking leaderboards and uploading his score of 96 points and four runs in my head, my wig kind of blew off.
+23:28
+But like it, it feels like that's where a good part of fun comes from is getting that kind of score comparison value 'cause otherwise, like, you know, you, you go through one of the game you dumped out to the main menu and like Andrew's talking about, you have like, you know, this kind of list of previous runs that you've done.
+23:46
+And kind of like, not really a whole lot of it is explained very well.
+But you know, you have something that says like, you know, hacker, kid, agent Cyborg or whatever.
+And those are, those are the, the starting classes that you started your run with.
+24:01
+And then it'll be going descending order of how many, how many points you had on for each of those runs.
+So you have kind of like a local leaderboard.
+You can see like, oh, at what, like out of the 8 stages available for that run, did I complete?
+24:17
+And then like sort of leftover resources of like, well, how many, how many siphons did I leave on the table?
+How many credits or energy or how many prongs did I have at the time?
+And crucially, you can kind of like right click on those to see what your exact loadout was.
+And then it'll tell you in the last column like, oh, like, is that, is that hacker still alive?
+24:35
+Is it out there in the ecosystem or did it get claimed by a virus?
+And so it's kind of fun to see that like, you know, for any, oh, so you got like two different scoring systems as well.
+Like you got your overall high scores and then you have streak scores, which is kind of a different way to play.
+24:53
+So like you can get like as many points as you can within just the 8 levels of a run.
+Or you could say, all right, I've got 10 points.
+I'm feeling good about this.
+I don't want to like risk them too much.
+Let's just roll over through level 8.
+That'll end this run here.
+25:10
+Then you continue that run.
+That's your really your only option.
+And that's that'll start run #2 and you'll kind of go through the same sequence that I guess we'll talk more about in depth here in a minute.
+And let's say you get another 10 points there.
+All right, I'm up to 20 points feeling good.
+25:26
+I'm at the final level.
+All right, let's let's get out of here with those point, those siphoned points that I've escaped the mainframe with.
+All right, Stage 3 a power up.
+Oh, yeah, I'm gonna be unstoppable now.
+Oh, wait.
+25:41
+Power ups for dot, dot dot the enemy.
+What, so there's this kind of like built in backstop mechanism to say like, well, instead of, you know, the Andrew method of like, I'm just going to get one point for an 8 level run and I'm just going to do that for 95 runs.
+25:59
+And that's how I'm going to outscore Colin in the end.
+Going to play a super safe, super low risk.
+Nope.
+Those, those mainframes they're learning.
+It's a, it's a, it's a learning computer, as they say.
+And the enemies eventually will get various power ups over time, which will kind of help to put a stop to your efforts with things like which, which are are interesting and terrifying at the same time.
+26:24
+Where you'll get things like Kryptog teleports, where the the the kryptogs the enemies that start invisible but are only revealed if they're in the same room or column over.
+You can now teleport.
+26:41
+You can get things like demon resistance where instead of the base level three hit points, they now have five hit points.
+We can get things like Glitch Wrap where the little pink guys that will like walk through walls and things can now walk through like the edges of the play space and come up from behind.
+26:58
+You they get Pac-Man powers.
+They get Pac-Man powers.
+There's things like, yeah, like you're your attack shooting in the opposite direction from what it normally would be, and then like viruses moving three spaces instead of just two, which not encountered yet, but I can only imagine is a pants shootingly terrifying, but yeah.
+27:18
+As.
+Yeah.
+No, I did.
+I did experience the PAC manpower.
+That was it.
+It it I think is a good example of how, with a relatively limited rule set, this game does a whole lot and provides quite a bit of variety, A surprising amount of variety for just a, you know, 5 by 5 game.
+27:42
+Yeah, there's there's a lot packed into a small package here.
+And I think the developer, Michael Bro was saying that like, well, you know, this, this is kind of a or like these style of games that he's made are kind of a response to at the time, like the the bigger traditional roguelike games, like like even just regular old rogue or net hack or, you know, those types of things have like an 80 by 20 sort of like tile space that you can play in.
+28:11
+And it's not was like, well, you never really need a bigger board than 9 by 9, which is used for go.
+So, you know, like, let's let's try to like pack as many of those mechanics as we can into that play space.
+So.
+That was my one of my thoughts about playing this was like what if this was just way bigger?
+28:29
+How would that change the game?
+Like what if it was instead of five by 5:00?
+What if it was 25 by 25 like I think it would be?
+It's pretty clear that all with that amount of distance all the the the viruses that move faster than everything else would.
+28:44
+Just like you'd have a wave of all of that stuff attacking you first.
+Well, it'd be spawning in random spots, so.
+Right.
+But those those ones on average would reach you faster and so you'd have like that way would always be the first thing that happens and.
+I don't know.
+Well, it would be.
+It would be a fundamentally different game.
+29:00
+Yeah, yeah, I think, I think your answer is Cogmind.
+Yes, you're right.
+It would be Cogmind superior game.
+Yeah, I honestly so this this game feels to me.
+I put it in the same category as I put like free cell or I, I guess it kind of slice and dice too, where it's very small self-contained.
+29:22
+I my biggest frustration with this game is that it isn't on Android because that feels like a, it could be an excellent like downtime phone game.
+I don't have an Android or I have an Android, not an iPhone.
+So I'm not going to play it on my phone and I'm not going to bring my laptop to the dentist.
+29:39
+So like that does limit my ability to play this as a 5 minute game, which it absolutely can be very easily less than that.
+I mean, how long does a single level take?
+You could easily do it in under a minute.
+29:55
+You could finish this whole a whole thing in under 10 minutes.
+Like without maybe not easily, but like without a crazy amount of effort.
+So but like it it's it's it's a nice small compact package and we've been talking a lot about the theme.
+30:12
+I honestly think that you could reskin this as anything and it would be like you could, it could be a Candy Crush, it could be plants versus zombies, it could be entirely abstract.
+And I don't think that it would really fundamentally change how the game is played.
+30:30
+Like, I don't think that that like I think the theme is fun, but I don't know if it informs your gameplay decisions in any way.
+Well, the other, the only other game like this from Michael's collection that I played being Cinco Pals is a wildly different theme, plays wildly different.
+30:49
+And I don't know if the other ones do.
+I've, I've just got like gone based on descriptions that like each one of these style of games is like like crazy different than the last where Senko Palace is all in either Portuguese or German, so there's no English like deliberately so 'cause it's like, what if you were playing the game that like you didn't understand the native language too and.
+31:11
+What if you're Portuguese?
+Well, yeah, that was the other thing was like, oh, I wonder if Andrew plays this game in German mode.
+It's just like, Oh yeah, that's no problem.
+What's what's the deal here?
+You don't understand, but but yeah, like sussing out the game mechanics with that is kind of like the mystery to it of like, how does this thing work?
+31:28
+And like all the interlocking systems.
+So there are there are like widely different versions of it.
+But I do think that like, yeah, like this is certainly a very a smaller scope game, kind of like our our hop light episode that we did very puzzly.
+Yeah, yeah, Hot blood is a yeah, another, probably more relevant and more recent example.
+31:48
+Because yeah, like the I was scrolling through the list of other games that we've done that are this small and Andrew was unfortunately not on on the the the panel at the time when we covered luck be a landlord.
+But I feel like that's also similarly small scoped.
+32:03
+But lots of interesting emergent gameplay coming out of it because like, otherwise, you know, like some of the games that we've covered have just like massive scope, like Caves of Cutter, Pokémon Mystery Dungeon.
+But this is like definitely something smaller, something more compact that yeah, like the times that I was just kind of standing in line at Trader Joe's, I'm like, yeah, OK, I could, I could like do a level of 868 here.
+32:27
+Worked out pretty well.
+And I think that like, yeah, being being on the Steam Deck suits it very well versus like I got to go trudge over to the computer to play 5 minutes of it.
+There is essentially no meta progression.
+I mean, there is the tiniest amount of like in terms of you're slowly unlocking the the various skills or progressions or progs or whatever you're calling them.
+32:47
+Progs is probably programs, not progressions.
+But but other than that, like those are just I, I, I'm assuming just there to give you something to look forward to, but also just to keep it a little bit less overwhelming right at the beginning.
+33:04
+But there is no Haiti style like big meta progression system.
+There's no caves of cud level and map and all that stuff.
+So I mean, it's a much more self-contained tiny experience, which I appreciated.
+33:23
+Yeah, I mean there's.
+Seems like maybe not all of our podcasters appreciated it in the same way.
+Hated it.
+Hated it?
+Well.
+I just.
+I don't know.
+I, I I.
+Like a good chest puzzle, but a chest puzzle is one that you have to actually sit and consider all the possibilities before making like 345 moves.
+33:41
+This one is the possibility that the the possibility space is so uninteresting.
+I think that's, that's my main complaint here is that like the, the, the, the most interesting or I don't even know if I want to call this annoying actually, is that the random spawns of everything, everything just kind of randomly spawns.
+33:59
+And that is essentially a huge part of your likelihood of progressing.
+Whereas in chess you don't have to work.
+There's no rain, obviously, there's not any random spawns.
+And so you can actually work through the problem.
+This one was just like, OK, well, I'm going to make a move here.
+And there is a, you know, there's, there's, there's 20 spots or there's like we'll say like 10 available spots above me and like 10 below me for them to spawn.
+34:20
+And if they happen to be above, then I'm fine because I have like a little like a, a tunnel I can go back into.
+But if they spawn down here, then I'm toast.
+And so that kind of thing is fundamentally unfun in my opinion.
+It's just like, oh, I got screwed by some RNG.
+It's like, OK, so this game is not really one of true skill.
+34:37
+It's a game of, well, if you do enough times, if you play this game enough times, eventually you'll get a lucky spree that makes it so you get a very high score or in Collins case, you get super lucky.
+I want that the first run or the 5th run or whatever, but it just seems like in playing because I, I played this game more way more than I thought I would like 5 hours and that was mainly just to beat Scott and which I, you know, thankful.
+35:00
+I mean, the competitive nature of me is the only thing that really made this happen at all.
+But I just.
+It's so I agree to just lie and tell you that I had like 5 more points than you just to string you along a little bit further.
+So well, I don't, I don't necessarily disagree with your assessment of the game, but this this concept of like getting a lucky run is, I think something that is present in a lot of modern rogue light games where it's like you are trying to get that first victory, that first successful run under your belt and your skill level isn't quite there.
+35:38
+Your medic progression isn't quite there to get you to that victory screen.
+But then you get a lucky drop, you get a piece of loot that's perfect to get a a lucky synergy of a couple of different perks.
+I'm thinking about enter the gunge.
+I'm thinking about Dead Cells and and then it's it's up to the player to like take advantage of that RNG well.
+36:02
+We have to, we have to translate this into Will's term.
+So imagine Slate Aspire 2.
+You get like a really good card early on and then a relic that synergize with it.
+There you go.
+Now continue, Andrew.
+Yeah.
+So like imagine you're you're, you're not as good in Slate Aspire as you are now.
+36:20
+But there's, I don't know, this is at least I don't know if this is an experience shared by my Co host.
+But for example, when I was playing enter the dungeon for the first time, you know, I'd get, I'd get these runs where I was, I was close to getting to the very end.
+I was close to beating it.
+36:36
+And there were those exciting moments where I would I would get there would be that that cross section of my my skill level was increasing and also my RNG was good enough that like I had a shot at getting my first victory screen.
+36:53
+Obviously this game is very different than traditional.
+Pardon me then, modern rogue light games and I.
+I, I I if I was.
+Playing on your level will, I guess I would have more of an appreciation for this, this specific RNG issue that exists in this specific game.
+37:14
+I'm not good enough at this game to be bothered by such things.
+Well, and I think that there is like interesting elements that you have with the tools at your disposal that can deal with some of that stuff because yeah, like it does does feel bad.
+Like you spawn like on a level and like, Oh my God, there's like a million dudes.
+37:30
+But like the, the spawn rate increases linearly with the number of, of levels that you're on.
+So for example, like sector one out of eight, one enemy spawns and one enemy will spawn every 12 actions that you take.
+37:46
+So either like siphoning something moving or shooting or whatever.
+And that number decreases the further you get.
+So if you're on the final sector, any like 5 things that you do, another enemy's coming in, but like sector 2 will spawn 2 enemies, Sector 3 will spawn 345 and six, etcetera all the way up to like the final level.
+38:02
+Like 8 dudes are spawning all at the same time.
+And in some cases you can kind of use this to your advantage where if you know they're like, OK, I know that like the entire map is going to be filled with dudes and I'm going to be surrounded and killed in two seconds.
+But I know that I have the, the step Prague that allows me to take one step freely.
+38:22
+I know it costs like it'll, it only takes 3 energies to use.
+So if I just bank up a bunch of those, I could just like go in on like level 7, like grab all the point blocks and go into level 8.
+Everything is covered with enemies, but I can just go step, step, step, step, step step before they've done anything and escape with all those delicious points from the mainframe.
+38:47
+Oh yeah.
+From the mainframe indeed, those those those elusive points which I should have known about and would have improved my experience.
+I mean, I actually I, I had a fair amount of fun playing this game Despite that.
+Yeah, Scott, the different prods, the different programs, which in a different game would maybe be called like perks or powers, skills.
+39:09
+Skills are distinct and interesting.
+And once you, you know, learn what they are and you start a run, you can, you can kind of, you know, put together a strategy in your brain.
+What, what other stand out progs are there?
+39:26
+The warping probe.
+For example, yeah Warp Warp is real good where like you will randomly like your happy :) player icon will like randomly like attack and complete like.
+You will tell a frag a random enemy, which is great because like, you're backed into a corner.
+39:43
+Oh no, you're surrounded, you know, You know you're going to take damage unless ha ha.
+Nothing personal, kid.
+Yeah, and, and crucially, like there's a another like really smart meta strategy that you can do where like let's say you're on a level and there's one enemy remaining or something, but there's like, and they're not a virus, so they're just moving one tile per whatever.
+40:04
+And you like kind of bait their movements to be on a certain part of the map.
+You escape to like the next level.
+That enemy stays on that spot from where they were on the previous level.
+And if the other enemies are still spawning in, you could say, all right, if I have the warp power, I could just warp right to where that enemy is.
+40:22
+And if that's like super close to the exit, boom, you've just solved that level without getting surrounded.
+No problem.
+There are.
+Other ones for those other enemies are still going to be on the next level then.
+So then, Nell, you have.
+Well, what if you?
+Step next level person's problem.
+There are things that like yeah, you can do like push or pull to like the the descriptions for these are very in theme would.
+40:44
+Pull be good.
+Ever.
+Yes, because like if for example, like let's say you have a whole bunch of of demons on the map, like the three hit point super tanks and what you do is you could pull them towards you.
+That will cause them to overlap on a block.
+41:03
+And then let's say you have the the debug problem.
+I see.
+Terminate overlapping, Bam, they're like 6 of them are dead immediately.
+If they're next to you and you pull them into you, do they hurt you?
+That's a great question.
+I was never.
+Brave enough to many times actually they do not hurt.
+41:20
+You shouldn't like an accident.
+So if you if you have like if you pull five guys into your location though, and you move away, then you'll get hit five times from.
+So what you do is.
+You pull them in and if you have step, then you take a step and then you take an action.
+So there's still one behind and so.
+Or you or you debug them and so there's five of them on top of each other and they.
+41:38
+Have or you debug you can crash.
+You can use that.
+Right, there we go.
+Step step and wait are like.
+I feel like the unsung heroes of like The thing is exactly 11 square wrong and you need them to be either one closer or one further away.
+41:57
+Yeah, to to to borrow another chess analogy, this is a very Zugzwang or, or Zukzfung type game where like you'll be cornered and you'll be like, well, I don't like it.
+Normally in, you know, games like caves of cut or whatever, you just press the five button to just wait in place.
+42:12
+But no, you need an ability to do that and you're just like, well, fuck, I don't have that ability and now I'm dead.
+I kind.
+Of think this game would be better if they're if you always had the weight ability and you could just I mean, and it cost you one energy to do it.
+But it was just like inherently native.
+42:29
+Yeah, yeah, like you could always use one energy to wait for.
+Me, yeah, I mean.
+So that way it's actually.
+Very expensive.
+What?
+If it cost the data, siphon the the thing you used to.
+I mean, I guess that is kind of a weight.
+Data Siphon is a weight, yeah.
+42:44
+I mean spend one turn without you moving.
+There's also the the undo button as well which versus the the weight description where it says increment time step, undo says decrement time step, which I think is very.
+I mean, so undo is just basically you, you undo your move, right?
+43:00
+Yes, and that has gotten me out of a jam many times where I've.
+Like it gets you out of a jam, but only if you It doesn't.
+Actually.
+It only helps you if you did something unwise.
+Which for me is very often.
+But like it's the optimal way to play would still just be to not make the wrong move, which good to.
+43:22
+Know thank you for that insightful.
+No, but which meant me, which wouldn't I couldn't ever take that because it would be like, well, no, you should just play better.
+I know what you're saying.
+It's like.
+Should I spend resources to get this thing that would allow me to spend more resources if I play like a bozo?
+43:39
+Sorry.
+Yeah, well, and it was like, oh cool, I've backed myself into a corner.
+Now I can use all of my resources to get it so that I'm backed into a corner three turns from now because I still didn't actually get far enough out to like, unfuck myself.
+Well, that being said, you know there's a wide variety of ways to play this game, so if you're undoing stuff or you're warping around, or if, like me, you're obsessed with the attack plus Prague, which makes it so that your base damage though is doubled.
+44:08
+It's so expensive but y'all listen up.
+You know I won't I.
+Won't listen.
+Yeah, I'm talking to the audience.
+You know, a power up is sick.
+You know the developer, Mr. Bro, he knew what he was doing when he designed this thing like this.
+44:25
+Power up, you activate it, Your, your, your power level increases, your damage increases, your little :) suddenly has a little, a little like Mirage, a little sort of glowing, pulsating outline around him.
+44:41
+And not only that, the music changes.
+There's a music change.
+That's how powerful this power up is.
+I know it's overpriced, I know.
+I forgot this game has music.
+Activates like so many it spawns so many enemies on the screen.
+But golly is it satisfying to use, which is very impressive given how, again, simplistic the graphics are on this game.
+45:04
+Yes, there is music in this game.
+What do we think of the sound of this game?
+I found some of the sound effects to be a little grading, a little annoying, but eventually I I was, I don't know, I got ear blind to those.
+I played on mute on a plane, so if I was playing it on on non mute on a plane without headphones, how mad would my seat are the people sitting near me, how mad would they have been?
+45:28
+I think people would be confused.
+They'd be like, what is that?
+It's like, like are a lot of the sound of his like people who think, is there a problem with my seat?
+Is there an issue with my you know my, my little?
+They thought that I was hacking the plane.
+Right.
+Yeah, probably.
+That's a.
+45:43
+Real question, does it sound like hacking?
+Well, yes, because I imagine that any time that I'm like hacking the IRSD base or something that anytime that I'm doing that all the key presses that I'm making are like the exact sounds that I would make with my mouth put through some sort of digital filter.
+46:01
+Yeah.
+I think like the the background music as it were, is is more just kind of like there was one, I think a Steam review that I was like glancing through that was like saying that it it sounds like you're being digested by a computer, which I'm just like, Yep, that sounds right.
+46:16
+And I love it.
+Some of the sound effects.
+I think if I was like solo deving my own game and I was like, well, like it's 2012.
+There aren't really like sound effect libraries on Fiverr that I can go and get.
+I guess I'll just make all the sound effects myself going like, and that's about the extent that I would do them.
+46:37
+And I think they work well here because it, it's like a little unsettling at first, but like, yeah, I, I kind of went ear blind to it.
+Now I find a little like, kind of charming actually.
+Oh yeah, no, on the whole, I like it.
+It reminds me of Dwarf Fortress in the in the intro when like at the very end of it, he's like that.
+46:53
+Yeah, exactly.
+And.
+I do love that the Dwarf Fortress intro is so good like it is.
+It's better than has any right to be.
+Stay tuned for for later this season.
+As for the music, it's, it's like an ambient track.
+47:09
+That's not like it's, it's not, it's not very, I don't know, pronounced or noticeable.
+Like I I, there's no way I could like, hum the melody.
+Yeah, it's it's like very like if you set your synthesizer to grunge mode and we're just kind of like like leaning on like multiple keys, like very slowly back and forth like it has, it has kind of like a hypnotic quality to it.
+47:31
+It's very good, like background thinking noise without being too overbearing.
+I think it works very well here.
+And the the upcoming sequel 868 back real quick has a has a playable demo on Steam right now that you can go play and the music for that is kicking.
+47:50
+I will say if you if you're into like techno drum and bass music, it has yeah.
+It's got like a good a good sick theme to it that I'll probably play this episode out with it because I was originally like I'm gonna mental point flip between that and like the actual background music for for this game.
+48:10
+But oh man.
+Like, yeah, the the if you're into like that kind of which you.
+Should be.
+Yeah, I think, I think you would like that.
+Music and and you know what else is kicking the the visuals.
+I'm I'm really liking the look of 868 back.
+48:26
+It's it's it's like if you HD remastered and did a good job of the 868 hack graphics like everything is very recognizable, but with a lot more detail.
+But still the the aesthetic, the style is intact.
+48:43
+It's weird seeing like, like a like it feels like when you're playing a game in 30 frames per second for so long, you kind of go blind to it.
+And then when you play that same game in 60 frames per second, you're like, whoa, this is like maybe too much detail, but in a good way.
+I feel like.
+48:59
+I don't know.
+Yeah, I I'm super excited for that.
+I think that sequel is going to be real good.
+And crucially, I think like maybe not to to jump ahead in my notes too much, but like so the sequel 868 back Michael Bro finally has a publisher that he's working with called Phingy Games who have published other games such as I don't know if anyone's heard of Chicory, A colorful tale, but they have also published Colin, you've probably heard played Tunic somewhat.
+49:28
+If I remember Scott, you have so much faith in our village.
+Colin, you've played.
+What about jerkin?
+What about pirate shirt?
+Or I was a teenage exo colonist.
+But but yeah, I think like this is this is sort of the thing that when esoteric solo developers kind of like build out like their own game world, that's like, oh, this is a game that's like for this person, by this person.
+49:53
+And when they finally have a publisher to kind of crack the whip a little bit of like, look, your your ideas are great.
+But like if you were just to tweak a couple things here, it could sell like, or let me rephrase, not sell, but it would be much more broadly appealing, let's say.
+50:08
+And that's like what happened with caves of Cud and Dwarf Fortress when they partnered with Kidfox.
+And I'm just like, oh man, like, you know, finally, if if Michael's games like get signed on with Finji, like maybe we'll get those other games of his like maybe in like a re release fashion.
+50:25
+I like just playing around with the new 868 back version on demo on Steam.
+I can just see that like, yeah, like all of the kind of things that we're barking about it like, well, yeah, like, you know, it was a port from a mobile game.
+You can kind of tell these taking sort of all that feedback into account of like, Yep, like when you hover over something, it tells you what it is in a more kind of obvious 2026 game design fashion.
+50:52
+But yeah, that's it's super fun.
+I like a lot of the ideas that are going in it.
+That is an interesting game development situation conundrum of sorts.
+Like how does a publisher work with a unique artist with a unique vision and not compromise that vision while trying to make the game?
+51:18
+Maybe not, you know, the most commonplace played popular game in the world, but a game that more people, more accessible game, I suppose.
+I don't know.
+I think that's like not impossible to do like.
+51:34
+Oh shit.
+Well, clearly it's been done.
+Here you go.
+Here's a little bit more resources.
+Here's a little bit more like help.
+Like even if you're not like, I mean, Dwarf Fortress is the best example of like, hey, we could do the graphics for you because obviously you don't give a shit about that.
+51:52
+There you have it.
+And, and if only we had more publishers like that.
+Less less publishers messing up these games.
+I mean, most I, I feel like if you're starting off as a solo dev, it's, it's got to be at least a little bit of a labor of love you.
+52:10
+You're not doing it just just for like, I mean it just to make money on my weird hack :) game like.
+If he made enough money to make AT shirt so that's good.
+Well, we'd love to see that.
+Yeah.
+So.
+52:26
+Just us, we He probably made enough money so I.
+Didn't make that word.
+My word in true hacker.
+Fashion.
+What?
+Critically, I have a question for the panel.
+Does this game make you feel like a masterful, powerful, smart, tactical hacker?
+52:50
+Do you feel?
+I would say yes, but I'm curious.
+Wow.
+OK what?
+What about you, Andrew?
+Are you in the yes or no camp?
+I mean, when, when something went according to plan, when I I dominated A sector, it felt pretty good, definitely.
+53:08
+I'm not saying it didn't make me feel good at game, but it did not make me feel I I did not entrench you're an immersed like I was.
+I did not feel like I was hacking anything.
+Even on a plane, even on a laptop, even on a.
+Plane, I mean, I feel like Will did say not in the podcast at some point that it it feels kind of like a hacking.
+53:29
+It's like a mini game and a different game which that would it would actually make me feel more like a hacker if I was playing another game and then I played this game within inside.
+If I fall out, you're trying to open the the terminal and then you do this mini game in order to to get inside.
+53:45
+Yeah, that would make me feel more.
+Like a hack or beyond like level 5 or something.
+Or get a score of 10.
+Or so So is is there a reason why that applies here but not to luck be a landlord?
+I mean luckily luckily be a landlord.
+I'm not.
+I don't feel like a hacker either.
+54:01
+Yeah.
+Now that one's much longer though in terms of it's the number of there's much longer, there is a lot more synergizing that actually happens like this game.
+There's no extremely limited synergies and that's like one of my biggest gripes about it.
+Lucky Landlord is synergy rich and it's just like the synergies popping out at every single feature in that this is like, I guess I can like see them while they're spawning in and then blow them up while they're spawning in for slightly more damage.
+54:31
+Like there's there's not really a lot of synergies happening between these and I think you guys tried to point out like, oh, well, you can do this and that, but it's just like they're loose synergies at best.
+You get like a point plus .2 modifier on sure things together versus like the luck be a landlord where it's exponential.
+54:48
+I mean, I don't need to have synergies in order to enjoy a game.
+It's not like prerequisite, like I've played many games where there's not a first person shooter, there's not a synergy between hand and gun.
+I can still have fun, but there's a synergy.
+Between having a long distance weapon and then have being in a place where you have a long distance sight vision or you know.
+55:09
+Yeah, there's a synergy between having a thing that lets you step faster and getting into a corner in a hole and letting them like come to you.
+Like there's.
+There's some amount of synergy in the game.
+It's just not like that's not the point of the game.
+It is a small aspect of it.
+55:27
+I I mean, I, I, I mean, I enjoyed this game like I just wait, wait, wait.
+Did it make you feel like a hacker?
+It's like that specifically.
+No, I don't.
+You guys are you guys seem very enthralled with the theme.
+55:43
+I do not.
+I did not find the theme to be very impactful to my enjoyment of the gameplay.
+It was just kind of there as well.
+I completely.
+Agree.
+I mean.
+It just felt like this I can't do with.
+Anything like you said earlier?
+I could have played this as a Candy Crush game and I would have had just as much fun.
+56:00
+Which was exactly for me.
+Yes, fun and for will no fun.
+So.
+I mean, it'd be cool if there was actual.
+So if you're hacking in, maybe build on that a little bit.
+What are we hacking into?
+Give me a little bit of background.
+And then maybe when you actually do hack something like, the result is.
+56:18
+Like you're kidding.
+No hack.
+Maybe the meta progression between is like, OK, so you just hacked a bunch of PII, all right, something terrible to do.
+And then you have the option.
+You can sell that PII to this other nefarious organization or you can, I don't know, do.
+56:35
+Exercise I've I've I've got the solution to Will's quandary here, which I'm I'm like I can see both sides between Colin like now just keep it like a simple puzzle game and Will wanting like no give me some more substance.
+I can see both sides to it and from Will's side there's a game called Black Ice, which is like almost it's almost like 868 but a first person shooter in like a laser tag arena.
+56:59
+And the idea like so the the the concept is like this like laser tag arena looking place.
+Yeah, yeah, net runner.
+It it does feel very nut runner because you're like when you're in this kind of aggro crag environment, it's like you're in the net.
+57:15
+And when you like, you know, do your siphoning of Prague's equivalent, you know, you're you're hacking the ice, but you're you're given a goal like, well, why are you doing this?
+Well, because your daughter is sick and the capitalist corporate overlords are driving your cancer pay payments up.
+57:31
+So you're just going to like go in and steal all the money from the corpose.
+Like that's that's the kind of like broad overarching, like point of the game.
+And when you do so when you, you know, hack a thing, it spawns like enemies and you're shooting at them and it's much more synergy driven.
+So I can see how like the scope for that would work in that that kind of realm and you know, maybe something like 868 hack or you know, or back could exist as like this interesting mini game within that broader framework.
+58:04
+I could see both sides of it.
+I think like this just on its own, is that its own independent entity Still certainly works though.
+Yeah.
+For sure, for sure.
+It's an interesting game to review because it's like it's it is extremely unique in how it was developed and how it was conceptualized.
+58:23
+This is like this is like a almost like a, you know, this is a indie game in the in the most, it's a very indie indie game from that era that we discussed earlier, where indie games were still pretty artsy, still pretty fartsy.
+58:40
+This is, this is a, you know, this is an art.
+Exhibition, I mean, so I'm looking at the Wikipedia and it's it started off as a seven day roguelike, which honestly that's not surprising to me at all.
+It feels like a nice small, self-contained game, and I think like, I, I know that I personally am ranking it as a, not as a.
+59:04
+Like if I could only take one game to the desert island, it would not be this game.
+But that's not that doesn't mean it can't be fun for the 5:00-ish hours that I've played at.
+But we established early on that the competitive element is important.
+59:22
+So what if there were three other desert islands that we're all connected with?
+Some kind of, oh, I don't know, coconut based?
+Well the island obviously bring then, then we would be playing squad.
+Over the Coconut network.
+59:37
+Excellent.
+And the performance?
+Of the coconut, just as.
+Good.
+You wouldn't even notice.
+Coconut.
+Yep.
+Was I?
+Was I the only one that played the the plan BDLC for 8/6?
+8 No, actually I so when I started out this game, somehow I I clicked on that that and I only played that for the first like hour.
+59:58
+Yeah.
+Which was very, very confusing.
+Yeah, you were playing.
+I don't know what is happening.
+Yeah, I lost a lot.
+I was very confused.
+I was like, man, they really don't explain any of this.
+I was like, I just genuinely didn't understand what was happening much of the time, which I mean, mild complaint.
+1:00:17
+I don't know how that happened, but I probably just clicked something wrong.
+But.
+Yeah, I mean like in the main, in the main menu thing, it's like it, it kind of gives you like a little like left, right arrow selector.
+So I could see.
+I think I must.
+Yeah.
+If you were like, oh, next I want to do what the next thing is, right.
+1:00:34
+Oh no, I mean I'm sucked into the I've been hacked.
+I don't even think I I think it.
+I think I like clicked the right arrow and it moved to the next one and I didn't notice that it had happened.
+Yeah, you were definitely hacked by by.
+I was hacked, yeah.
+So the plan BDLC, just to kind of explain a little bit like we were talking how in the normal version of the game you go through, you get to to run #3 and the enemies have now started to power up.
+1:01:01
+Well, strap your socks on because Plan B, you start up your first run with that.
+The enemies are already powered up and the UI goes blue as it does like it does when you get a power up right out the gate.
+But the, the bouncing mechanism is that you can actually pick what sort of starting class you want to be.
+1:01:22
+So you can say like, well, all right, based on the, the, the, the layout here in the enemy power up that's going on, like, do I want that extra starting siphon?
+Do I want the 10 credits?
+Do I want the 10 energy or do I want the extra Prague?
+So it kind of gives you some flexibility there.
+There's nine new ones, some of which actually use siphons as the currency to activate it, which is interesting.
+1:01:45
+So like, so for example, normally when you use your your siphon, it just goes in an up, down, left, right, like plus pattern.
+But you can you can get the X hack, which uses a siphon as a currency that rotates it from a plus to an X style or like another one is is dot quit, which just terminates the session.
+1:02:06
+So if you're in like level 5 and you're like kind of got a lot of points, but I don't want to risk this.
+You just hit that and then that'll end the run.
+Like you don't have to get through stage 8 as a as a result, there's some other ones like making adjacent enemies fight each other or what's another one in here?
+1:02:25
+You can lower an alert levels, all that kind of stuff.
+So it's it I think puts more focus on like the run, like point accumulation and as opposed to like the individual, like within like one single run, how many points can you get?
+1:02:43
+It's much more of like, OK, you're expected to do many more runs and kind of balance out that initial R and.
+DI think if you'd played a lot of this of the classic game.
+I think Plan B is like the logical progression of like, I want to experience the weirder later part of the runs without having to go through three runs to get there.
+1:03:05
+It's like, yeah, just you've added more complexity right off the bat.
+You're not doing the the boring early levels.
+Which I.
+Mean not that they're like particularly boring, but yeah, you could just you could you're in the in the weird immediately, which I probably would appreciate.
+1:03:22
+Would have appreciated it more if I had started playing the regular game and then found my way to Plan B, but didn't give me a firm grounding once I finally got to the real game.
+Well, I know that I have a whole bunch of other data or bullet points in my doc here about what what does it mean to be successful as an artist and the The Ruins of Capitalism and Eric Dolphy jazz albums, but I don't know how much more deep we want to get out of that before.
+1:03:51
+We're talking about possibly for a while.
+I mean, if you.
+Want to?
+I think it might be time for ratings, my friends.
+Well, OK, All right, unironically, I do have a bullet point in here about.
+So there's kind of this back and forth about like, well, like if this game had such a big impact at the time.
+1:04:08
+And but like going back, like a lot of his games from like 2013 to like 2017 were like nominated for like indie game fest awards for like novelty or like excellence in design.
+Like a six 8 was nominated for the 2014 IGF excellence in design award, only losing out to papers, please, which, you know, hey, no, no slouch there.
+1:04:33
+But like just just to like go up against that, I think kind of exemplifies that kind of popularity there or or at least that kind of like critical acclaim, but.
+I I'm ready.
+I'm still still on the Wikipedia article.
+Apparently it was 868 how it was ranked number 42 on polygons. 100 best games of the decade.
+1:04:52
+I have surprisingly high for a game that has like.
+It's technically all of Michael Burrows games, but they they put 868 as just like if there had to be one game that sort of exemplified it.
+Yeah, so it's, yeah, it's more of like a career achievement award, but yeah, like ahead of super hot and like just behind NBA2K12 like that same that same article has, well, I, I don't know if this will taint your, your, your thoughts on it, but Spelunky was #3 on that list.
+1:05:22
+I mean, I didn't like Spelunky, but I understand why people like Spelunky.
+Yeah, and Minecraft was #1 so I guess that OK.
+Well, that's that's objectively probably true.
+Yeah, but I think there's like there's this push and pull that like I think there's there's people, maybe myself included to some degree that are like, well, if this game was like so well nominated by like indie game awards and stuff like shouldn't it be more popular?
+1:05:49
+And so I think like where I'm going with this is like back to that Eric Dolphy thing was like, I was, I was trying to like scour the Internet for like, OK, jazz.
+Like we use we had been using jazz weird.
+You know, random jazz music is intro because the rogue like genre is effectively just jazz of the RPG genre.
+1:06:06
+So Eric Dolphy, I think kind of fell into that same symptom of like weird and experimental wasn't really a commercial success at his during his time, but had this like weirdly like broad impact on the greater universe around him.
+Does that track at all will with what you know about Eric Dolphy?
+1:06:25
+Is Eric Dolphy just like the Michael?
+Dolphy.
+Character.
+So what I know him best for is his album Out to lunch.
+And in particular, there's a track called a Hat and Beard, which I believe was what was it in like 9 eighths or no, it was a one and two and three and four and five and six and seven, 8:00 and 9:00.
+1:06:43
+And yeah, so it was 9 eighths and and it was it was just a really just a it's how do I describe it?
+I mean, it's a bebop, but it's a hard bop.
+And so it's and it's a very off the wall and the symbols clashing and just it just, oh, it's just like it, it's it's creating a I'm going to start talking about you.
+1:07:02
+I can I see myself?
+Going I'm listening to it right now and it's certainly something.
+Oh yeah, it's absolutely fantastic.
+If you haven't listened to that album, especially that track, please do that.
+So, Scott, to your point though, I has.
+I'm sorry, I'm listening to this.
+1:07:19
+It's just like man tries to make the sound of like a seal on the beach with a saxophone.
+He's.
+Pushing the boundaries, he's expanding the genre.
+Yeah, the itchiness, he creates the itch and then he scratches it for you.
+1:07:37
+And so it's like it's a, it's a.
+Beautiful.
+But with relation to the to to to rogue lights and this game in reticular, I don't know if I would consider them the same sort of direction here, because this is actually just like a branch of jazz, whereas I don't know, I don't know that and I don't know a lot about like since that, like how how did that cascade through all of jazz and and all the artists?
+1:08:02
+I don't I'm not much of A jazz historian, so I can't it's hard for me to speak to that.
+But I don't know what's the impact that this game and this sort of thing has made on other developers.
+I can't say that I know that either.
+So I don't have a very strong opinion here.
+I just it feels like this game is so obscure and didn't really push the envelope in any interesting.
+1:08:21
+No, no offense, but no interesting ways.
+It's just a.
+It's a standard.
+Sort of, really.
+Simple puzzle game.
+Yeah, and and what's weird is that like for how lauded the other Michael bro games are, I feel like, OK, we'll certainly like we should have had that Vampire Survivors moment of like, you know, oh, now we have like 10,000 bro like games and there are like game jams that try to make games in this style.
+1:08:46
+There are certainly like I think itch dot IO has its own bro like genre tag to it or something.
+But like, yeah, it's it's weird that I I feel like the the cap for the style of game in terms of popularity is something like pawnbarian where it's it's another kind of like chess, much more emphasis on the chess, but like small grid tactical style stuff that like doesn't really overstay its welcome.
+1:09:11
+It's not trying to do too.
+You know, it's not like going Caves of Cud deep in terms of its systems, but but like that's the other.
+Well, or what's the the FTL developers?
+They made the the robot game.
+1:09:28
+Into the breach is what you're thinking.
+About yeah, I mean, I feel like Into the Breach is also a similar to kind of game.
+It's except it's got more progression.
+It's it's the puzzle like where you've got some like tactics Y things.
+It's not actually that similar, but it's the same.
+1:09:45
+Kind of like small grid do some things.
+You know what sets that one apart though?
+Cuz I mean, it has the similarity of having enemies spawn seemingly randomly, and there is a bit of randomness involved in how the map is procedurally generated.
+But the key difference for me and what makes that game especially interesting is that your dudes are multiple.
+1:10:07
+And so you go, you can like you move them all during your turn.
+And so you have like multiple.
+The decision space is much broader because you're not just going up, down, left, right or space.
+That's five literally 5 things you can do and only 5 things you can do in 868, whereas that's not true.
+1:10:25
+Would you say that's not true?
+I mean, there's each of the skill things is a thing.
+Yeah, you can have like 10-10 other abilities that you could leverage, but OK.
+Yeah, all right.
+If we had three smiley faces.
+Different, different, different positions and they all have their own like specialty.
+And so your, your job then is to like try and build interesting combinations of moves across your entire turn.
+1:10:45
+And so I don't know that that to me is a much more interesting and, and fun experience.
+Sure.
+Yeah.
+And like that's, you know, obviously a more, I guess in depth synergistic design system.
+Who doesn't like big robots punching bugs?
+1:11:02
+But but yeah, like I, I, I could, I could totally see 868 having some sort of impact on the design scope of that.
+It's interesting that yeah, like we don't we don't have more into the breech likes as it were.
+I mean, I I played that Masterpiece demo at PAX last year and I like that.
+1:11:23
+That was really impressive.
+But but yeah, I think in terms of like why this specific game is not as popular, I don't know, maybe we'll see like with 868 back once it finally gets some publisher attention and people can kind of.
+Like the Kit Fox?
+1:11:40
+Yeah.
+Glow up.
+Maybe Michael just needs someone to be like a full time marketer of his games cuz yeah, as as as we know, solo dev plus marketing equals.
+Yeah, but is Steam trailers great?
+That's true, yeah.
+1:11:56
+If we get another completely unhinged Steam trailer out of it, it'll all be worth it.
+Absolutely.
+All right.
+Any other details that we want to touch on before I launch a a very quick potentially new 2 minute segment on everybody?
+1:12:13
+I'm excited.
+Let's have it.
+OK, so so I'll include this in the rating section and then we don't want to over stare our welcome too long on here.
+But I think there's been you know, the the last thing on earth that I look at is YouTube comments.
+But every so often one of them will have maybe a point about like, you know, well, like, you know, how how much did you guys like actually critically examine this game?
+1:12:39
+I think we've done a a pretty fair job so far.
+But just to call out for any new listeners that like the average of all of our average scores on this podcast is like a 6.7, which is not to say that like a 6.7 is bad.
+1:12:54
+That's just what the average of our average numbers is.
+And so like, if we give something that's like lower than that, like, I don't know, I feel like there's some aspect of the Internet that's just like, you're shooting on my favorite hobby.
+How dare you?
+So I've compiled a, a, a list of questions that anytime that like, you know, if we have something that like falls below that system, like maybe I'll open up the floor and we don't have to spend too much time on it.
+1:13:20
+But I'll pick one out of these series of questions for us just to kind of play devil's advocate, as it were.
+And so for this one, I'll just, I don't know, randomly pick one out of the out of the hat and pick this one.
+So before we actually slap some fake made-up ratings numbers on this thing that will piss everybody off eternally for no reason, question to the panel, what would a person who gave this a 10 out of 10 say we've gotten wrong with our analysis so far?
+1:13:51
+We haven't mentioned much about how how really like elegant and consistent, internally consistent this game is like it is.
+It's very like predictable.
+There are rules and those rules like like a classic roguelike game you are beholden to as well.
+1:14:15
+If you're on top of a cube and you.
+Hit, I'm going to be I'm going to be with Will here in the air race that this isn't a 10 out of 10 game.
+I'm sorry, I like this.
+That's one question.
+It's Andrew's point though, like all games have rules though.
+There's nothing that you just said there that makes that like a definition of a 10 out of. 10 but it's if you had to.
+1:14:33
+Put very, I just think.
+I think it's very elegant.
+If you put yourself in the shoes of someone who is a big fan of the game, like what could you see from their perspective that would would make this like, oh this game is this game is just like the tops.
+1:14:50
+I'm really struggling.
+I mean, maybe brain damage, maybe we wish we need more brain damage in order to get there cuz.
+Or maybe we really enjoy colors like the contrast colors just triggers a deep neurological reaction in them.
+1:15:06
+I mean, I like this game.
+I don't think that this is.
+I could see this for some other games that I gave a slightly higher score or actually even gives us I gave a lower score.
+I don't think there's enough here to to boost this particular game up to a 10 out of 10.
+Maybe if you've never played any game before and and you're sucking on a desert island and this is like you either have this or you have watching some crabs.
+1:15:30
+I might watch some crabs, though.
+I mean, the crabs are kind of.
+Interesting if you have 10 games and you have to give a score to each one of them when I Oh yeah.
+I guess, yeah, if you only had like Game Boy games prior to Pokémon and or this game, you might be like, Oh well this is obviously like is if you introduce this back in like 1994, because this is very possible back in 1994, this may at that time have been considered a 10 out of 10 game.
+1:15:54
+That is how you do it.
+You go back in time to before we had good games.
+All right, well, we've solved it.
+Time travel, all right.
+Actual made-up raking numbers that don't apply to anything because they're all made-up.
+Just like who's line it anyway?
+Andrew, kick us off.
+Yes well famously I was hoodwinked by my Co host into using the wrong scoring system so my score might seem especially low.
+1:16:17
+But really, you know, when it comes to game the, the, the field of game reviewing, of game criticism, the actual number doesn't matter so much.
+It's more about listening to a review or getting a sense of what they like, hearing them talk about a game and then, you know, comparing that what the reviewer likes to what you as a gamer like.
+1:16:39
+And bad review is the best review for you.
+Yeah, yeah, yeah.
+So this game's gonna get, what's it, what's it gonna get?
+Well, before I get the actual number, I like this portrayal of hacking.
+I think there's like in terms of like fictional hacking, there's there's there's bad fictional hacking and then there's like fun stylized fictional hacking.
+1:16:59
+So for example, in Die Hard live for your Die Hard live, this is what number four or five in the series anyway, if you.
+Just go with Justin Long in it, yes?
+Exactly.
+There is are so much goofy Hollywood, you know, UI made-up techno Babble.
+1:17:20
+And the the, the worst part of it for me, the worst detail in the film was there's a sequence where one of the evil lady hackers, she like, rolls up to this, this, this facility.
+They break in, they storm the place and she rolls out a keyboard.
+1:17:36
+She pulls out her keyboard to do some portable hacking.
+She rolls out a rubber keyboard.
+Now, I used one of these rubber keyboards back in the day at a RadioShack and it was the most God awful typing experience I've ever had.
+The idea that someone would use that to do anything serious?
+1:17:52
+Insane.
+And of course, you know, I was just chosen because, you know, some a set dresser thought it looked neat anyway.
+Then there's the fun type of fake hacking, but which is like the film hackers.
+Ever heard of it?
+Absolute cult classic for a reason. 868 hack falls into that fun hacker category.
+1:18:11
+And I, I, I truly do think it's a efficiently, it's an efficient, simple, elegant game from a game design perspective.
+I there's a lot to admire about it and I had a lot of fun when I wasn't trying to maximize my points and just trying to survive. 868 Hack comes in in my stack rank, right behind Barony, right ahead of Spelunky and it scores 5.74 Andrew points.
+1:18:40
+Well, well.
+No, it's going to be a six for me dog.
+It's a it's just the decision space.
+Like I said, it's not it's not super interesting.
+And the more I thought about it, it's like everything moves at once.
+You move once and everything else moves at once versus you move once and one of the enemies moves once.
+1:18:58
+I mean, just to draw the comparison to chess again, if you know, I don't know, it feels like the simplicity of they're all just moving at you and you have to like figure out what corridor they're going down, what path they're going to take.
+Like that's just not a fun mental calculation because they're, and it is, by the way, like the, the like the D or the what is it?
+1:19:18
+The the pink dudes are those glitches.
+I forgot the names of these things, but like they have a specific pattern.
+Like if you're like moving towards a corner and you don't want to get caught into the corner, they they have a specific sort of pattern they take.
+And I'm not sure if the other ones do.
+I never actually paid that close with attention because you can avoid taking a hit of damage if you like calculate exactly like if you know what path they're gonna take.
+1:19:39
+But the point I'm trying to make here is those were not interesting decisions or those are not interesting observations.
+The game is too simple.
+The the the graphics are almost nonexistence and as we know with into the breaches we've discussed versus into versus Cogmind, the big if you put into the breach graphics into Cogmind, Cogmind becomes a good game.
+1:20:00
+This game is maybe it could actually become a mediocre game if only they had this sort of into the breach style graphics and maybe a little bit of a story.
+Maybe there's some maybe there's a little bit of a meta progression.
+This hard rogue light game.
+There's no such thing as a good hard rogue light game, in my opinion.
+1:20:17
+I just it.
+They're just.
+They're so simple, they're so dumb.
+I I just can't get them.
+It's 6 out of 10.
+I mean, I that's a my bearer barely recommend.
+That's if like you'll have nothing else to play.
+Maybe you do this, especially if you have people to compete with where you want to beat them.
+Like that's the the my competitive nature.
+1:20:34
+As I said earlier, that's really what made this.
+It's the only reason I opened up again.
+As I I told Scott, he threw the gauntlet down with by posting his score.
+And I'm like, I can't be, I can't be happening that.
+No, no, no, no.
+So that's that's really what compelled me.
+But there you go.
+Colin.
+1:20:51
+All right, I'm giving it a 7.5 Colin points because, you know, for for each giving her own stylist kind of points.
+But yeah, like I, I, I found it to be an enjoyable, fun small game.
+I put it in the same category as the free cells hacking slice and dice.
+1:21:16
+It's a phone game.
+It's not on my phone, which is my biggest complaint with it.
+But like, I thought it was an enjoyable 5:00-ish hours.
+It passed the time extremely well on a plane where I'm like not, I really don't want to like get deeply invested in a game.
+1:21:36
+I'm like cramped in there.
+Like I'm not going to be playing a first person shooter.
+Or could the playing enter the dungeon?
+But yeah, I I thought it was a interesting puzzle.
+I didn't like, I don't care at all about the hacking theme of it.
+1:21:57
+I did not find it to be relevant to the actual gameplay.
+I think you could play it with just red squares.
+You could play it with like literally like random checker pieces and chess pieces that you grabbed from, you know, you could physically play this game on a board in your home with like someone running the AI.
+1:22:23
+Basically, it's a solitaire game and that's kind of how I'm doing it.
+That's how I'm rating it.
+I think it was a good fun solitaire game for a little bit of downtime.
+If you want to play a real hacking game, the I'm going to preempt Scott a little bit.
+The best hacking game is Exapunks Zaktronics game that actually feels like you're doing hacking.
+1:22:40
+And you do need to like know how to program a little bit in order to play any of those games, which is why I didn't get so far into it because I don't know how to code well enough to beat that game.
+So that's my my review and my recommendation.
+So, Scott, I'll leave it to you.
+1:22:56
+All right, well I will round us out by giving 868 Hack an 8.06856527 just behind Halls of Torment for me and just ahead of Jupiter Hell on my rankings.
+1:23:14
+I think this game is neat.
+When I first saw footage of it, I was kind of unimpressed where I'm just like, yeah, people talk a big game about it, but I don't understand what the real draw is until I actually started playing with it.
+And then I was like, okay, yeah, I think I'm getting the hang of this.
+And then once I'm in level 8 and I've got like 40 points banked and I'm like, OK, I got to get to the exit in order to get to the next, next run here.
+1:23:38
+Like, I was like sweating bullets.
+And I'm like, OK, I could see.
+Now this is where people get that sense of, you know, hacking in that sense of almost like a heist game And not like, you know, hacking in with like, terminal command codes sort of thing.
+But like, I've got my big garbage bag full of points.
+1:23:55
+I'm about to just like escape out into the net and I think it did that very good.
+The mobile versions, iOS, iPad, they were fine like that.
+That certainly played about as well as I expected it to there.
+But yeah, I think like on the Steam release, just like that, there's just that tiny little bit of jankiness that like, you know, for for a game that is what is it like I think a whopping 6 megabytes, 6.2 megabytes.
+1:24:24
+I think that like, you know, this game does quite a lot with it.
+And if the the little bit of jankiness there is like the biggest criticism that I have, I think overall it's it's quite solid.
+Like it was very fun to battle everyone for leaderboard positions.
+I think that the times where I was like in a very tactical situation like, OK, how can I use these tools that I have available to escape and get those points out of here, I thought worked really well.
+1:24:51
+I think like the overall like Prague design is very thoughtful.
+The stuff that it's expanded about with the the plan BDLCI think also works very well.
+And the 868 back I'm super pumped for.
+So go and go and play the demo for that.
+That overall is going to put 868 hack at our new number 54 game just behind Cult of the Lamb and I think appropriately just ahead of hop light, which feels feels like a good like we got a good like pocket of mobile ish games there between like 868 hoplite and then Pokémon Mystery dungeon blue rescue team right after that.
+1:25:30
+Like games that all like somehow have all clustered next to each other of like things that you would play for like, I don't know, 20 minutes at a time and have a decently good fun time with.
+So number 54 out of 93 games were closing in on that episode 100 coming in, coming soon here.
+1:25:49
+But yeah, similar games.
+There's, you know, some some like initially this was a real small list, but it's expanded where I guess.
+Yeah, we were talking about Into the Breach, Hoplite previous episodes, Cinco Paus Imbroglio and Zaga 33 are think the I think the most closely similar from Michael's other games.
+1:26:12
+But but coming up.
+Yeah, we got pawn Barian morph blade by the dev who did heat signature feels very similar in in kind of small scope, but like very puzzly.
+There was one that was playing recently that we got a a gift key from Thank you.
+1:26:30
+That's net dot crawl, which has, I think what Will's kind of looking for for like more kind of spiffier graphics, more kind of like it's almost like what if this game was like a deck builder in a way, and there's much more of kind of like positional the hex grid style movement on their.
+1:26:50
+There's a there's some bro likes that were developed by Zunil, ZUNIL dot itch dot IO amalgamate and magpie, which people like, but there's a whole tag on itch dot IO for bro like games Black ice that I mentioned before.
+1:27:05
+I think that supports up to 16 player like LAN Co-op or something Crazy first person shooter version of 868 Hack that I can already tell Andrew is Googling frantically.
+There's a game called Dungeon Deathball that I like a lot, which is very small, but like very small kind of puzzly good, good charm to it with you're throwing, you're throwing rugby balls and getting touchdowns.
+1:27:30
+Master of Peace.
+I played a little bit of it, PACs West and like Colin was saying, XA Punks if you want to get that Zaktronics itch going.
+But yeah, check out that stuff.
+I've been putting all these into the YouTube description for the episode as well.
+1:27:47
+If people want to find actual links to these things, if there's a coherent way that I can actually put it in the podcast description, I'm currently researching that.
+But in the meantime, you can find so that's yeah, that's similar games, but there's also similar pods.
+I'll I'll point out here similar podcast that the formerly eggplant, now secret lives of games podcast has been doing a Michael bro game once a month deep dive.
+1:28:12
+So if you want more info on 868 and Zaga 33 and Cinco Paus if they don't do that whole episode and Portuguese would be very disappointed, but check that out if you if you are Craven for some bro discussion.
+You got it all there.
+But in the meantimegrogpodzone@gmail.com tell us why we're still getting it wrong with all of our critiques.
+1:28:34
+Grogpod at game dev dot place.
+I've been putting some more micro reviews up there in grogpod dot zone has everything in one stop.
+But as we stop this recording here for 868 hack, you know, we we've we've talked a lot about a a small scope game.
+1:28:51
+But what if what if for our next episode, we didn't play just one, we didn't play just two, we didn't play 50.
+That'd be too much.
+But what if instead we played seven games out of the Bah Bah Bah bom UFO 50 collection.
+1:29:09
+So so as we're we're without hacking the mainframe out of here, it's time to climb up some some fun rogue style games that I promise they're all not made by Derek.
+1:29:25
+You.
+I know we kind of came came down hard on our splunky episode, but we are talking bug hunter.
+We're talking Velgrass, planet Zoldath, Waldorf's journey party house overbold, Campanella 2.
+It's going to be a fun time.
+Yeah, I'm super excited.
+1:29:41
+I've beaten most of those games or gotten so close to beating them and then dying within like the last possible second classic Scott fashion.
+But yeah, it's going to be it's going to be a hoot.
+So to play us out from this episode, instead of some grungy digestion music that would normally play for for the end of the episode from 868 Hack, I'm going to put we're going to hit some drum and bass beats to hype up for the upcoming 868 back.
+1:30:11
+We're back to Hack.
