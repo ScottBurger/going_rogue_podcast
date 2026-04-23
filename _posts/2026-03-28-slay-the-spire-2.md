@@ -55,7 +55,7 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: GROGPOD Theme 1 by LouisF
+Intro music: GROGPOD Theme 1 by Balatro composer LouisF - https://louisfmusic.com/
 
 Outro music: Clark Aboud - Ceremonial Beast
 
