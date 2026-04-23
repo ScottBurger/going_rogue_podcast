@@ -30,7 +30,7 @@ Ordo ab Cubo! It's a mad, mad, mad, mad world out there so what better way to ce
 
 * 1:23 - game stats
 * 2:14 - one sentence description
-* 5:44 - Cognitive load comparison to previous episode Daisomancer
+* 5:44 - Cognitive load comparison
 * 8:08 - Steam Deck performance and Java runtime discussion
 * 12:18 - Synergy mechanics and verbosity versus cognitive complexity
 * 23:20 - our story begins... actually what IS this game?
