@@ -1,0 +1,2923 @@
+0:13
+Greetings friends and welcome to the Grog Pod Roguelake podcast where normally we dust off just one Rogue style game, deep dive its alternate history creepypasta and if it gets enough cherries, revisit it at the end of season recap Tournament of Hyper Contention.
+0:31
+I am your deluded corporate grasshopper boss of the podcast Scott Burger and with me are my Wild Buddy Co hosts.
+Hello, apologies, I'm on.
+I'm on mute, But more importantly, I'm Andrew Harshman.
+0:47
+I'm known for my famously, obnoxiously large hit box, and with me are also Colin Smith.
+I'm just a walrus gliding through the air and your dreams.
+And wouldn't you know it, it's our old friend.
+Woody Hi, this is Woody Saskowski.
+1:04
+Has it been a while since you guys recorded first?
+Scott said.
+Normally like we were.
+We were Garfield's, Garfield's friendly cat that Garfield hates.
+And then Andrew took about four minutes for to introduce.
+Himself, I thought it was clear I was reading notes over here and my hand was just up by happenstance.
+1:23
+Yes, it was.
+It was.
+Very clear by you facing forward directly into the screen with no notes in front of you that that's what.
+Was happening.
+I'm.
+I'm looking over here.
+I'm looking over here.
+Yeah.
+Well, this is this is a swell, excellent chaotic start for what could be a a chaotic review given how many games we are covering.
+1:43
+But we have a patented system to keep us on track.
+And of course, we wouldn't dare review all 50 games in one go.
+We have but a but a selection.
+Scott, tell us about the selection.
+Well, yeah, shocker, we're playing UFO 50 and and I guess, well, we're not playing it, we're talking about it.
+2:03
+Hang on, let me boot up my Steam Deck real quick.
+We're we're talking UFO 50 this week, but more accurately, we're talking about UFO 7.
+We're only talking about the seven rogue games.
+We'll we'll, we'll also talk more about the Collection General after that.
+But this being a roguelike, roguelike or whatever podcast, we're, we're deep diving and focusing in on just 7 of this massively sprawling game that just has a crazy amount of content to it.
+2:32
+So let's let's just dive right in.
+We're we got a lot to talk about.
+So we're just going to do the normal thing and we'll talk through each of the seven games and then we'll open up the kind of general discussion afterwards.
+But first we are talking UFO 50 released originally for the LX series of consoles August 1982 and then also I guess released or recovered question mark later for Windows September 18th, 2024 and then just last year on the Switch, Nintendo Switch August 7th, 2025.
+3:11
+This was originally developed and published by One UFO Soft back in 1982 by Benedict Chun, Jerry Smolsky and Thorson Petter and gracefully brought us brought to the modern age by the UFO recovery team at Mossmouth who is led by Derek You, who you might remember from our well.
+3:35
+I remember them.
+Are critically acclaimed.
+Everyone loved episode that we've done previously and previous guest episode for with Woody for Spelunky.
+So Spelunky 1 and 2 Derek Derek U classics.
+3:50
+But it's also helped out a lot with it's it's a it's an ensemble effort with 1 John Perry, who is a board game designer known for air, land and sea hot streak spots and coincidentally also developed a board game with Derek U called Time Barons.
+4:07
+We have Eric Circa who did the music for Spelunky one and two, he did the music for Downwell gun Brick and crazily, this man is is gunning for an Academy Award here did all of the music for this game, all 50 games.
+4:24
+This guy did the music and and directed and like designed a lot of them.
+They're going to add a new.
+They're going to add a new category called Best Music direction in NES style throwback metafiction video game.
+Mm Hmm.
+4:39
+It's that's not that he did that music for.
+All of them, yeah.
+It is not this whole this whole game like as an undertaking is nuts like this.
+This game was basically made by I think like 8 people.
+Yeah, we have.
+We have Paul, Paul Hubans, who has worked on other games like World of Goo.
+4:57
+We got Tyreek Plummer, who's done a potential stay tuned Rogue game called Catacomb Kim Kids among a whole bunch of other games and Ojiro Fumoto who's done the definitely stay tuned Rogue light down well and so there's.
+5:15
+A rogue light.
+My goodness.
+Yeah, so there's a lot of stuff in this game.
+Your your average player of UFO Fifty overall has about 50-6 hours of gameplay in and that might vary from here to there.
+What's interesting just for the Rogue games, specifically the each each game in this 50 game collection has its own entry in howlongtobeat.com, which is also pretty zany.
+5:40
+But on average, just the Rogue games here, they vary from like one hour to 6 1/2 hours, but on average they're about 3 1/2 hours long, give or take.
+Well, I mean that it's so hard to define that because like most of these games from start to finish or are 20 minutes long.
+5:59
+If, if if that.
+Well, I guess like this might be going by the criteria of getting the gold cart, which we'll come to in a minute.
+Popularity.
+I was kind of surprised with this.
+UFO 50 clocks in only the 193rd most popular.
+I guess Rogue game on seeing if it's because it's tagged as such with 7265 total reviews, I thought we'd be a lot more than that.
+6:20
+But first, Woody, what is your one sentence back of the LX Systems box description of UFO 50?
+Celebrate the amazing innovation ahead of their time.
+Innovations of UFO soft in this I guess it would be 40 year anniversary collection.
+6:42
+If, if there's one thing I love doing with this podcast is giving my Co hosts a completely impossible tasks to achieve every two weeks.
+And this is, this is no, no shocker once again, where I, I kind of set them up for failure to say, Hey, wouldn't it be great if if you guys just like took some valuable time out of your busy lives with between moving and going to conventions and stuff to hey, why don't you just sit down and play seven of these weird games that you're probably going to only like 1 of them over the course of two weeks.
+7:17
+So what I did to kind of get ahead of that was to host my own party house situation and inviting the pod crew over where we played all these games in person.
+Because I feel like there's a kind of quintessential element to UFO 50 that's experienced in a group that you don't kind of get just playing solo.
+7:34
+So we we did all the games sequentially for enough time to kind of yeah, OK, let's move on.
+And yeah, so there.
+And also there was no way that we would be able to cover all 50 or is it 51 or 101 games in in 1-2 week time span?
+7:54
+Because to be clear, these aren't 50 like Warioware style micro games.
+These are 50 fucking full ass games.
+Like there's there's substance to these that is it's it's like hard to get your attention around for even just one of these for like 2 weeks.
+8:10
+So I had kind of a six month head.
+Start.
+I disagree.
+OK, we'll get to that.
+And so my my assignment for the Co host was to say, OK, just find what what fun you're getting out of this from this like cursory in person experience and lock into that.
+8:26
+If that means just like bounce, like surface level bounce around a lot of different games do that.
+If you only like a couple of them, just play those.
+Or if you only put 9 hours into just party house, just only play that.
+So so I think like this is this is for for some of us, just kind of like, you know, first impressions for others, kind of a deep dive.
+8:50
+And so the, the plan for this is trying to compress all this density down in something under 2 hours.
+So we'll, we'll kind of keep it moving along a little bit here.
+But but yeah, we'll talk about the road games first and then open it up for general discussion afterwards.
+And then, yeah, so, but first I want to throw a question to to Woody's side.
+9:12
+UFO 50s kind of a lot going on.
+Who's the target?
+Who's the target demographic for this?
+Who's this game for, exactly?
+It's for Woody Siskowski.
+It's and.
+Scott and Scott also.
+Yeah, it's for people who grew up playing NES games and still have a legitimate interest in playing them still, but have sort of trouble getting around the the jankiness.
+9:40
+It's people who really want the mystery and sort of simplicity of the retro games without as many of the frustrations that actually come with the retro games, like with more of sort of the modern game design sensibilities.
+9:56
+Yep, Yep, Yep.
+Yeah.
+This game, I, I, I don't remember who.
+I feel like it was you, Scott.
+Like, I think you texted me like a week, maybe a couple days after this came out and said like, hey, this UFO 50 game came out.
+It's pretty cool.
+10:12
+Like these are like full games.
+And I'm like, OK, I'll try it.
+And so I downloaded it and, you know, this game's 25 bucks, which is not not is nothing, you know, for the quantity of content that is in here.
+10:27
+But it feels like a lot when you boot it up and put the first game and then you move two inches to the right and a block just kills you.
+And you're like, oh, I spent $25 for this, but I've been playing this game basically since it came out.
+10:43
+Like I think I'm up into the 300 hours on one of my profiles and I still have not.
+I've golded I think 40 of the 50 games, but I it it it gets harder when you start having to play games you don't like as much.
+10:59
+And of course, to to get a gold disc in this game means that you've you've more or less beat the game, quote UN quote.
+Now there's a there's another level of like having achieved a high score or something to that effect.
+But like, generally speaking, gold disc means you have you've reached the intended ending you right, you've beat the game, you've.
+11:17
+Competed and then, yeah, to get to get a cherry, which is sort of the next level.
+It might be achieve this specific score or, you know, get all the keys to unlock this secret room.
+And usually, I mean, it's just a natural.
+Like the games that I enjoy, I tend to gold and cherry because I want to keep playing them.
+11:34
+And the games that I have struggled more with, just some, sometimes getting the gold is a little bit of pulling teeth.
+And I'm guessing that, like Andrew, you probably have some history with like NES games, retro games, like.
+Oh, I absolutely do.
+May I talk about it?
+11:50
+No.
+That's why this is neither the time nor the place, Andrew.
+May I have the floor for a few minutes?
+So famously, I grew up in a house without a gaming console.
+Famously you can.
+You can read about it famously Local the Local.
+Newspaper.
+12:06
+Yes, yes, yes.
+And you'll see that.
+You'll see.
+Pardon me now I did have a, there was a PC in my house and we had some computer games, but I mean, I'm talking about like chips challenge.
+Chips challenge doesn't even have like a walk cycle.
+12:23
+Like, I mean, it's, it's all right.
+And like got a handful of like pretty decent computer games, but no console.
+And oh golly, I I could only ever play console games at my friends houses.
+And then when I was about 12 or 13, maybe my older cousins bequeathed on to me a NES.
+12:43
+And I might be, you know, I'm probably getting the time on wrong.
+I was probably more like 10 years old.
+I don't know anyway, when I was youngish.
+But having having been alive long enough to realize, oh, there's a gaping hole in my gaming life.
+I have no video game console.
+My older cousins say here is Nintendo Entertainment Center and here is like 30 games.
+13:02
+And this was like the IRL analog version of UFO 50 where I got to just pick a game, slap it in.
+Usually it took a couple tries, you know, blowing on the, on the cartridge, etcetera, etcetera, and play it.
+And, you know, maybe I played it for a while, maybe I played it for a teeny tiny bit.
+13:20
+And then, you know, I'd swap it out for another one.
+And each sitting was made-up of, you know, 345678 games.
+And this, this, this wonderful experience of having a library of retro games available to you that you can sort of pick and choose and enjoy or hate is really something unique, uniquely fun and uniquely exciting.
+13:46
+And the fact that UFO 50 starts with the very first game being remind me of the name.
+It's the egg.
+Game.
+Barbuda is like the perfect first game choice because you're sort of naturally, of course, inclined to start that one up first.
+And it's pretty difficult.
+14:02
+It's pretty goofy.
+It's pretty like hard on purpose.
+And it's like the perfect game to start with because you're going to play it for a little bit, but you're probably not going to just grind through the entire thing.
+No way.
+You're going to go all right, Well, that I have.
+I get I got the idea of that game.
+Now let me drop back out to the menu and go to the next one.
+14:19
+And that's when you're your exploration, your adventure, your your journey starts with UFO.
+Just for a little bit of audience context, when we're saying like first or next, the game by default arranges these 50 games in the the fictional release order of when they came out.
+14:35
+So Barbuda would be, I think it was released in 1980.
+And then the second one is Bug Hunter that came out a year later.
+And before we get before.
+We're here roughly in terms of like game visual complexity, yeah.
+So.
+Like Barbuda is much more visually.
+14:53
+Primitive.
+Yeah.
+And Barbuda has no music like Barbuda just has much more of a feeling of jank.
+Very early 80s gameplay.
+Colin What?
+What?
+What were you, an NES kid growing?
+Up I was an NES kid and we didn't get a super Nintendo, so I went straight from NES to N64 wow, which was a big jump, but not as big as nothing for I mean that was Andrew just living in the in the wasteland.
+15:21
+I know it was a really a tough time, that's for sure, but I never I never had a a Super Mario 3.
+So that's the.
+I just beat that game for the first time like yesterday because I realized that I had never like, we're so used to just getting the warp whistles and be like, all right, I'm going to go right to World 7 just to move it along.
+15:44
+And I realized like the vast majority of the middle of like I played the first two worlds of that game a ton of times.
+And then like worlds 5 and 6, I like had hardly played any of the levels.
+And my review is that game's pretty good, I think.
+16:00
+Yeah, I think it's worth your.
+Time Mario 2 not as good?
+Not yes.
+I like a lot of that too, for the record.
+And it's not.
+As good as 3.
+Mechanics Minnie and Max, of course, is very much inspired and informed by the You know what I mean when I say Super Mario Brothers 2 like the US version.
+16:19
+Woody, at risk of getting derailed, derailing this podcast real quick, when you say that you beat the game for the first time, you mean you, you played through every level.
+I played through every level, yeah.
+Impressive.
+I don't actually, I don't actually know if I had even beat it before because I learned that the final boss Bowser in Mario 3, basically Derek, you ripped it off in Spelunky because that's how Olmac OMAC works.
+16:44
+Is famously one of the one of the great boss fights and of course you'd want to include it in in a game like Spelunky.
+I'm of course being sarcastic.
+It's not very good.
+It's.
+Boss Boss fights are not the strong point of Mario 3.
+No, no, no, it's I guess it's memorable though.
+17:02
+Fantastic.
+Well, we'll get on you.
+And of course, so Scott.
+Well, Scott, how much any yesing were you doing?
+Well, the day I I actually learned to read from NES Game Genie manuals because my brother would be wanting to to like beep through this like really shitty Godzilla game for the NES.
+17:22
+That was like impossibly hard.
+So we got a, a game Genie and he would like sit there and be like entering in the like I would read off like these random like letters and numbers.
+So I had to know my letters and numbers.
+It was really hard, but I was so determined to get these like codes read out about like audibly to my brother who'd be like typing them in on the D pad or whatever.
+17:44
+And I'm.
+Sure, he had much less patience for you than any teacher.
+Yeah, definitely.
+Get it right, Scott.
+There were many in Noogi to be had, so, so yeah.
+And I think like for the most part, I was more of a Super Nintendo kid.
+I didn't really have that much of A connection to the NES.
+17:59
+I feel like I have more of a connection to the NES from like going over to Woody's house and then him being like you need to play.
+Was it like last action hero or?
+Oh, that was a Super Nintendo game.
+I remember we had a good time playing Arch Rivals.
+For yeah, definitely.
+Or what's the one with like the chess pieces that do like fantasy combat?
+18:19
+Oh, Arcon.
+Arcon.
+Yeah, Arcon.
+Rules though, that is, That is mostly an old, old PC game, but that game's great, yeah.
+Now.
+Before we get accused of, you know, being a bunch of nostalgia heads, I think we can, we can say right out of the gate that, well, you mentioned Woody about these games being inspired by the NES era with new game design principles and sensibilities.
+18:46
+I think is is very accurate.
+And I think there's a huge amount of entertainment value to be had for people who aren't even that familiar with with NES games.
+But I will say, like it is less like, even though I appreciate the modernization of the design, I think that for a lot of these games, there is much less modernization of design than because like, sure, there's there's so many games that like have a retro throwback aesthetic.
+19:13
+Like, I mean, I've talked about a ton of them on the podcast, like, you know, and enter the Gungeon Dead Cells kind of has this sort of throwback to A6, like it looks way smoother and stuff, but it's not, you know, cutting edge graphics and this get these games have a lot of stuff that are deliberately designed to not like this game.
+19:37
+These games do not hold your hand.
+And I just, I know we're going to get into them specifically, but to me, that is the aspect of retro gaming that I think still gives it a very unique feel.
+Because I, there's this NES game I think about a lot, which is a terrible game.
+19:57
+But it's the Back to the future two and three-game where you get into this weird future world where you're like, it's a platformer and you're running and like jumping over hamburgers and like weird hot dog men and seems to have nothing to do with any of the movies.
+20:14
+But I just remember running around in it and just being so baffled, like as an emotion, Like I feel like these retro games.
+Create an emotion of Baphomet like more than anything else, where you're like, I don't know what's happening, I don't know what I'm supposed to do, but I'm intrigued and like the difference is that that game sucks.
+20:37
+And like the games in this also have that Baphomet and we'll talk.
+We'll talk about it when we get to sold.
+Out totally you're you're so right that that definitely this this UFO 50 is a project certainly embraces the difficulty present in retro games.
+20:53
+Well, not only the difficulty, but just the lack of explanation.
+Lack of explanation etcetera, but but it's all generally very well designed and like and that is something that was not present in the NES era.
+There was a lot of shovelware and that's, that's what I admire that even even the most difficult and unfair UFO 50 games are at least like pretty well thought out mostly and have a lot of modern conveniences.
+21:24
+Like you can skip the intro cutscene.
+It's very quick to get back into the game when you die for the umpteenth time.
+It's like, you know, whereas with NES games, sometimes just the simple act of starting another run was like a hassle.
+Yeah, the hit detect, the hit detection is always pretty tight like.
+21:43
+Yeah, sure.
+OK.
+And I feel I do feel like the other advantage that this game has is like 50 games.
+Like I guess I didn't think about how many games, 50 games actually was I mentioned.
+During our game day that I was trying to remember the name of this game recently.
+22:00
+I'm like what is it UFO 30?
+Sure UFO and then fifty.
+What the hell?
+What an achievement.
+Yeah, and because I do feel like with that sheer quantity and variety that it presents, win games don't work for you.
+22:15
+Or just, you know, there's a couple games in here that I would detest or just not even very good.
+Like it's kind of fun.
+Like even in its own right, I'm like, well, it's nice.
+It's kind of funny that this bad game is in here and then you just kind of skip it and go play the next one.
+22:31
+Yeah, I feel like there there's a great filter associated with the NES aesthetic that it's like if if like you are not into that aesthetic this like you're not going to like really be interested in this game at all.
+22:48
+I feel like that's kind of the first hurdle you have to jump with that.
+And then like on top of that, like, you know, but and I think for those people, like the NES game Action 52 and UFO 50 are the exact same game.
+It's just, it's just a bunch of these like small games that are just like absolute dumpster fire garbage.
+23:09
+Why should I waste my time?
+I'm going to open up factorial again and start, you know, my conveyor belt systems all.
+Over.
+I don't know who you could possibly be talking about it.
+That sounds pretty vague and universal.
+So.
+So.
+So Scott what is this system we've devised Yeah, so.
+23:25
+So.
+So the system, all right, so the system we've already gotten way off track.
+Let's get back on that factorial train track and get this podcast back back rolling here.
+So when you first boot up UFO 50, you are presented with this like it's a great.
+23:43
+Well, no, even before that, like so yeah, here no one has ever pirated a game before, so no one would know about like those cool like cracked video game like like keygen screens that have like the like the music that's just like way too good for some reason and like the weird backgrounds.
+24:01
+But there's like this little there's there's this like almost kind of crappy NES slideshow that's going over sort of the prehistory of this that is Derek, you and the other people of the UFO recovery team opening up like Storage Wars style, this container that just has all this like memorabilia from like a.
+24:24
+A.
+Failed Nintendo company maybe?
+Maybe akin to like Datasoft or something that like, there's all this, like, there's these games in here and like these flamingos wearing cowboy hats and a stuffed walrus and an orange couch.
+24:40
+What's going on in here?
+And you know, you have like this scroll that goes past, like, here's the UFO recovery team.
+Not the developers, but the recovery team.
+And then you know that that will sort of like plan a loop, but it's giving you this kind of background of like this is this is the gimmick of the game is like this fake Nintendo company that used to exist went bankrupt and Derek, you and friends took these games and revitalized and remastered them for the modern era to get them out on Steam.
+25:11
+Dammit.
+And so you you Fast forward through that and then it has presumably like the LX systems console that these were supposedly developed for pop up with like I'm guessing the boot up sound for that console, like the and then you have these cute little like Mario and Luigi, surrogates of pilot and Isabel the the UFO soft corporate mascots come in.
+25:38
+They do a cute little like intro sequence where you know, it pops up to the main title screen.
+It's very colorful, it's very animated and has a great personality to it.
+And then boom, finally you're into this overwhelming grid of initially like, like darkened blue floppy disks with covered with cobwebs, like, what on earth am I looking at here?
+26:00
+And the first thing that you do is you pick on one of them and inevitably it's Barbuda.
+And it has this really cute sequence of like the floppy dis like pulls up in like this great little animation.
+And then it's like, like the dust is like whisked away from the floppy disk and it's just Barbuda.
+26:18
+And then you jump right in.
+And it does that for basically all the games the first time you dust it off.
+But that's, that's kind of doing a lot of groundwork to set up this, this general gimmick or conceit of UFO 50 of like these are games from the same developer publisher that have kind of like an interconnected universe to them.
+26:40
+And maybe like some also subtle like creepypasta meta layers of like the game development is industry and what does capitalism mean when a game gets too popular and all those things, what happens when the developers get fired and all those, all that stuff.
+26:55
+So, and crucially, crucially, this is a 2 button input for every game.
+So each one of these games, you have your up, down, left, right D pad, you have your A button and B button, classic NES style.
+That's it.
+So you might be asking yourself, how on earth are you going to do a twin stick shooter?
+27:13
+Well you might be asking why on earth are my Co host using a joystick for all of these retro games?
+Uh, Woody, what kind of controller are you using these days?
+Well, I use before we do that real quick, real quick uh, I before my bid is up here, I want to take 30 seconds to just.
+Kind of, Yeah, yeah.
+How are they going to do a twin stick shooter?
+27:29
+Uh, poorly?
+Yeah, Well, well, here's here's the level of variety that you can kind of expect from these 50 games.
+I'm not going to do all these, but just like enough to kind of give a.
+General Yeah, it's quite the library, please.
+You got stuff from like NES Souls, F1, Splatoon, suicide bomber, Lemmings, medieval Tetris attacks, pilgrimmatic Rube Goldberg, explosions.
+27:50
+You got Dominant Species, the board game, NES edition, Dive kick, Mario, Samurai Windjammers, Legend of Lee, Carvalho, Colon, Rory, Mcilroy's Awakening.
+You got Flappy Bird, Mario Kart.
+You got BBVBVV Jazz.
+You have GTA, Alien, Amazon Driver game.
+28:09
+You got Beanbag, middle school dodgeball, Wild West, XCOM, Metroid, VVVVV, Ania.
+You got Caveman Tower defense, Robot pinball, GG, Super Smash Brothers NES edition, Mike Tysons Wizardry Indian mythological Contra Wild West Final Fantasy 4A whole ass JRPG in this game.
+28:32
+You got croakin all the RPG.
+You have uninvited 2 colon Resident Evil NES edition.
+You got pocky and rocky UFO soft edition.
+You have Honey I shrunk the kid multiple times.
+You have a zerg versus zerg NES edition knife fight simulator.
+28:47
+You have an alien Nancy Kerrigan simulator.
+You got sidewell and then you have a game with 50 other hidden mini games in it and that's not even the whole picture.
+So I'm going to stop there.
+I.
+Just want to give, I just want to give Scott a little applause there.
+29:03
+I know it doesn't pick up on the mic, but that was that was very impressive, Scott.
+Definitely, definitely.
+And and before we get into the games, like each one of these has like terminal codes that are kind of like game Genie things.
+The terminal also comes into play for like the hidden 51st meta commentary creepypasta game.
+29:22
+Each one of these games we kind of talked about a little bit has a little bit of milestones of like a, a house gift.
+There's like this little house where like an idol walking like little piggy will go around and like do things in this house that you can fill it with stuff.
+You do like a small little early game achievement in each game and it adds a little thing to that.
+29:41
+You get the gold, the cartridge turns from blue to gold if you beat it.
+The cartridge turns from gold to a cherry color if you do the extra little challenge to it.
+And then afterwards it just kind of becomes like here's some post cherry speed run challenges.
+There are community LED specific challenges called dark cherries, which are affect like kind of sicko mode things associated with it.
+30:03
+But that's kind of this game from a 10,000 foot level nutshell for like each of the little stuff in it.
+OK, controller stuff go.
+Not only are there 50 games, not only is there like a cool meta story about where these games came from, not only are there achievements for each of these games, there's fake history information and like factoids about them.
+30:21
+There's also unlocks to be had for a little weird pig house thing, which I guess is kind of neat.
+I don't know who that's for, but I'm glad that it exists.
+Yeah, there's a there's a whole lot going on.
+Sorry, I just wanted to, I just wanted to give my Co some grief.
+We got together and played in person, Woody and and and I show up and I'm like, I'm gonna show off how good I am at Velgris.
+30:42
+And I immediately get wrecked.
+And partially because I had a long day.
+I don't have very good at the game.
+But also because Scott had the most insane controllers set up.
+He's got Xbox 360 controllers.
+Oh yeah.
+Historically, famously Speaking of famously, famously the worst D pad in the world, Scott.
+30:59
+And I, oh, Scott and I played, we played this game together in February with his setup so.
+I know my well, OK, maybe you did, but maybe you're just better at using a more of a wider variety.
+The point is I'm like this is a retro game.
+I want I'm gonna this is a retro game collection.
+It's a retro game, a tribute.
+31:15
+I'm going to use AD pad almost every time.
+And then all three of my Co hosts start using the joystick.
+What the hell is going on?
+How do you play this game, Woody?
+What kind of I?
+Actually I use it with an NES Classic Controller.
+My man.
+I, there's a, there's a company called Ralph Net or something that makes an adapter that I originally bought to be able to play clone hero, but it will plug in the because it's the same as the Wii connection for the classic controller.
+31:44
+So it will plug in a NES classic controller and the game is actually just smart enough to recognize that input.
+So it's it's really cool to play this game on ATV with the NES controller.
+Like, it just it really.
+31:59
+It tricks your brain into some kind of weird alternate history.
+I plan on an ultra wide monitor with my steam controller which doesn't have AD pad.
+It has a second.
+Oh, you it's not.
+It's the.
+Retro, Retro.
+Steam Control.
+With just a a hint of AD pad maybe there.
+32:15
+So I used the joystick because it was actually possible to play with the fake D pad.
+Colin, if ever you are interested in instantly improving your twitch abilities, I'm not get a real controller.
+I do have an throw that abomination into the sea.
+32:32
+I do have another like so many Waldorf failed runs it hadn't made the move yet.
+So this is the only controller I had and this is the only controller I can play Rocket League with because I that's right.
+The only reason I haven't quit in protest over this controller is because I acknowledge the very valid reason that you still own it is for Rocket League.
+32:51
+Plug it in.
+Now the the the Bluetooth doesn't work anymore, so now it has.
+To look in I.
+Don't know what I'm going to do when it breaks.
+Well, you're going to get a new one, right we.
+I don't know if the new ones have the same button scheme.
+I'll just have to quit Rocket League.
+Apologies for that, that I just, I have to vent a little bit.
+33:12
+I guess it's a place.
+It won't be my word right tonight.
+What are we we're what are we 40 minutes into this podcast and we haven't talked.
+We haven't.
+Started on the first.
+Thanks for listening, everybody.
+All right, great.
+It's the end of the program.
+Scott, would it be too bold of me to to suggest that we do not do the rollover system and we simply do 15 minutes per game?
+33:32
+It's it's 15 minutes per.
+Game it's going to.
+Be an hour and 45 minutes.
+We need 5 minutes per game toss.
+Well, let's just start.
+I mean, we're going to talk about Bug Hunter, which I think is actually one of the games that will require the most conversation.
+33:50
+Yeah.
+Let's let's let's jump in as I write down some notes here.
+Yeah, let's let's begin with bug.
+Hunter.
+This is the second game in the collection, and I believe it fictionally came out in 1981.
+34:10
+I think so.
+I did not write that one down.
+I wrote down basically everything.
+Else right, we're we're talking about these games in their their fictional release order.
+Yeah, so this this is number 2, right after everyone's favorite Barbuda.
+And the the idea here is that the moon quarry has a bug problem and you've been hired to fix it.
+34:31
+And for the gift for this one is to complete your first job.
+The gold is to complete three jobs in a row.
+That's beating the game and the cherry condition is complete 6 jobs in a row and howlongtobeat.com has this pegged at 4 1/2 hours.
+Generally speaking, what you do to complete a job is you kill 30 bugs within a 10 day time limit.
+34:54
+You.
+Each successive day or each successive mission job, you lose your quantity of days, so you have to do it faster.
+Well, not not each successive one.
+I think it's after job.
+It goes from 8:50.
+But yeah, so, so like it like that difficulty will adjust the further you get into it is kind of a difficulty modifier.
+35:16
+But you have a 6 by 6 grid of tiles that are either like a standard elevation, some are elevated, some are just like pits.
+And there are there are bugs.
+There are as as the great Tuco Salamanca from Breaking Bad would say blue, yellow, pink.
+35:33
+Yeah, yeah, bugs.
+Give me some more of those.
+And yeah, so your goal is to is to eliminate these bugs using a combination of movement and attacking modules or.
+On a grid in in sort of a turn based esque fashion.
+35:50
+Yeah, you essentially have one use for each of your powers, which is either to shoot or to move.
+And then once you've used them all, you have to move over to refresh, which essentially reactivates all your powers.
+But then the bugs get a moves and more bugs will spawn.
+36:07
+And eventually each time you let the bugs live and spawn another turn, they will evolve to a more powerful form and eventually they will turn into an egg, which if I think that's four turns in, and if that egg hatches, you will lose instantly.
+36:23
+Yeah, yeah.
+And so you have blue, blue, yellow, pink bugs, they all start in these larval forms to begin with.
+And there's there's for that run that you're on that mission that day or that job.
+36:39
+I guess there's kind of a predetermined like this, like this is this one will evolve to the next one, the other one won't.
+But you don't really know that ahead of time.
+You can kind of get a sense as to what that plan will be by going into something that's called practice mode, which was my life's blood here, where in between jobs you can do something like go to the next job or save and quit.
+37:03
+Like this is actually like a game that you can kind of be like, all right, I'm going to pause now and go do something else.
+But when you do save and quit, instead of starting up a new job, you can go to practice mode.
+And in that you can kind of fuck around a little bit, but you can see what the upcoming evolutions will be.
+37:18
+For that job, Are you sure, Scott?
+Yes, that this is the only way I got the cherry.
+I didn't know that it was the same, I thought that it was just randomized every time whether you were playing practice or legit.
+No, it is like, so for example, like if you're, if you're on a job and your your evolution sequence, or let me rephrase, the bugs that will evolve have two options.
+37:46
+So the yellow ones will either evolve into this the Shrek Nids that when they explode they shoot out like shrapnel in the four cardinal directions, or dragon flushes which are invincible until you kill all of like their little minion critters.
+Those guys are the worst.
+38:01
+Those guys suck.
+You have the Thoris or the the the blue guys who can either evolve into Phlorus, who like who like to.
+I love the the phrasing of this nest on private platforms.
+And when they spawn in, they'll like they'll create like an elevation beneath them.
+38:19
+So they're already like one elevation above.
+And if you're below them, you can't attack them.
+You have to get to the same elevation or move them downwards.
+Or you can use a throw.
+There's two kinds of shots.
+There's a gun item or a throwing item.
+And the throwing item allows you to throw to higher elevations or over characters.
+38:35
+Yes.
+The blue guys can also evolve into the Quasnar, who when they evolve they will turn the energy cubes on the map that are kind of your currency that also explodes.
+They'll they'll pop in and then they will turn them into negative energy cubes that if you walk over it, it will detract from your banked total of energy that you use to buy stuff.
+38:57
+And if you shoot them in theory, like if you shoot the little yellow energy cubes, normally those explode and cause a chain reaction.
+If you shoot the blue ones, they add more blue ones.
+And if you get I think 3 or 4 blue ones, it creates an egg.
+No, I didn't.
+I never did that.
+39:13
+I found that out the hard way.
+And then finally, the pink boys will either evolve into Armadongs who have a one extra hit point, which is a big nuisance, or Cephalogs, who when you kill them, they create a pit or, and and there's you know, that there's variation in nuance to all of these characters, which like this game.
+39:34
+I was really surprised at how like how much I really like this game because when I was first playing UFO 50, I was like, oh man, is it gonna be 50 fucking Barbudas?
+And then I jumped into this.
+I'm like, oh, oh, this has got some legs to it.
+And I was really glad to play this for the podcast so I could get really deep into it.
+39:51
+And yeah, like, I was, I think I have, I don't know, like 15 hours on just this game.
+No, this game rules.
+It's weird.
+I mean, amongst many of the very creative weird choices they made with UFO 50, like they put this game second and this game is.
+40:09
+Probably 1 of the top three most complicated games in UFO 50, like in terms of the variety of mechanics and how much you kind of have to figure out on your own.
+I mean, the secret to winning this game, spoiler alert, is that you can, if you're on an elevated platform and you drop down, you can stomp enemies.
+40:32
+That's right.
+And switch.
+Those bugs.
+It took me a while to learn that.
+I actually learned that by just letting the intro video play before the before.
+Like you go to the main menu of the game and I saw this sort of demo mode doing that because you realize that you can't keep pace with the with the enemy spawns just by using your weapons.
+40:55
+Especially as the future days go on and you start losing days.
+And so the ability to kill enemies just with your movement and then continually go and get more power ups which that you could swap.
+Because there's a menu along the right side of the screen that once you use a power, you can press down and then spend your little energy cubes to replace that power with one from the right side, which will automatically refresh it.
+41:23
+Right.
+And sometimes that's a sometimes you're doing it to upgrade your skill.
+Sometimes you're like, I just need one more attack.
+Because.
+I'm spending it to replace the thing with the same thing.
+Because the I mean, the the ideal way to play this game is to kill every alien every turn, which is can be hard, but is is plenty doable.
+41:42
+And I hadn't played this game in a while, but I just, I just booted it up and remembered how how great it was.
+And you know, those skills definitely stuck with me.
+Just this game is, I don't know, this game is, this is gonna come up a few times.
+There's a few games that we're gonna talk about that I like and I'm happy that we're talking about, but I don't really feel like they're roguelike games.
+42:04
+And this, Yeah.
+What's Rogue?
+About this game, the spawns.
+Yeah, no, that's fair.
+Like this is just, this is a strategy puzzle game.
+Like, yeah, this is roguelike in the same way that Tetris is a roguelike game.
+It's like.
+Well, it's unreductive.
+Crucially, the the episode that we just did before this was on a very esoteric and niche game called 868 Hack, which is it's people definitely put into the roguelike camp.
+42:31
+And again, this is where we're kind of just splitting hairs like sure, this like, well.
+Some say, Scott, actually, you know, in fact, not many people know this.
+That hack was actually inspired by Bug Hunter.
+That's true yeah, because it came out that's the only meta joke I'm going to do that's it.
+42:49
+Anyway, yeah, it's not dissimilar for sure.
+So like, I mean, yeah, where where where the aliens spawn, what the map looks like, That's all like randomized, which you could have done it with like pre built levels I guess, but it's infinitely more interesting to be randomized and I think this game would be bad with.
+43:04
+Pre built levels.
+Oh yeah.
+I think it would function as a game, but it would be bad.
+You're right.
+Yeah, you absolutely need the variety, especially because it's not like that hard of a it's not randomized in a bespoke way.
+It's pretty actually random.
+43:20
+Sure, sure, sure.
+So I barely played this game, but what really stuck out to me was that it is a So again, you only have AD pad.
+Pardon me, You have 4 directions and you have two buttons and that's not a lot to work with.
+And yet and you have this what's a fairly complicated interface with like the different modules along the bottom and buying different modules.
+43:41
+I was really impressed with the UI and the controls and I thought it was, it was pretty elegant and and also like unique like I've I've never really seen a game that's laid out like.
+This I mean.
+On a retro console.
+It, it is amazing that they came up with 50 games and at least, I don't know, 20 of them are like totally unique.
+44:00
+Like they're combinations of the sort of like Scott did in his wild introduction of each game, Like they're combinations of games that like you've never would have thought of or seen before.
+And yeah, I think bug Hunter is, is pulled off really, really well.
+And this is, and again, it just, it really shows the variety that's present here.
+44:21
+Barbuda is such a slow paced slog of a game and I, I don't even mean that in a derogatory way.
+That's just kind of its vibe.
+And this is a real sort of, this is a real thinker and it's, it's, it's interesting that they decided to lead off the UFO 50.
+Like it has like 1 platform.
+44:39
+It has barely any just straight up platformers, like they all have some kind of there's not that modern platformers in general and they all have some kind of weird hook.
+I guess we're going to talk about a few of them, but there's none that's just like, oh, this is a Mario Brothers knock off, right?
+Which is surprising to me anyway, Bug Hunter's great.
+44:57
+It's really fun.
+It's the kind of game that I feel like if it released as like an independent, like if it was slightly, if they added slightly more content, not too much, and sort a couple more game modes, you could easily release it as a standalone game for $5 and it would be great, yeah.
+45:14
+Yeah, totally.
+I mean, like I was, I was super motivated to to like beat it and like that this is something that will also come up a couple times of like streak scoring being like the way that you beat this game because, you know, you beat one job and you're just kind of like, OK, yeah.
+Like that took, I don't know, 10-15 minutes.
+45:32
+That was fine.
+But once you like have that that streak counter going, you're like, oh man, I can't give up my my 5 streak right now.
+I gotta.
+Yeah, it, it gets very tense when you're when you're trying to get that cherry with the 6th day.
+You know, I, I think Arnold Schwarzenegger made a movie about it.
+45:48
+And you have to get the, you can't choke.
+You're like, all right, I guess I'm going to try.
+But then you have to start over for streak 1.
+Yeah, this game also has a weird two player mode where when Woody and I were playing at a board game retreat on a big screen or a projector screen, we weren't entirely sure how this was different than the main game.
+46:09
+But then we found out about 2/3 of the way through it's a racing game where like, what player A is racing player B to kill more bugs.
+But crucially, you can also kill each other to like, you know, it'll take you around to reset.
+The same size map then.
+46:25
+It's the same size map, but there's no egg pressure, so the the bugs won't evolve to an egg state and end the game that way, which is kind of kind of interesting, But but it was it was fun from like a tutorial perspective of like if you and like a friend.
+A lot of these games have like weird two player modes that are like also very unique.
+46:42
+But like I feel like playing this game as a two player mode OPS as a as an interesting level of a tutorial where you don't have that egg pressure.
+You can just kind of see like, oh, oh, I didn't realize that I could push bugs into an energy cube to blow them up or or shoot the like a line of the blue anti energy cubes to double them.
+47:04
+Kill the bug that's near or the the anti energy bug that's nearby, revert them back to normal energy, then walk over them for like a huge bonus.
+Like that's the kind of stuff that you can kind of.
+Yeah, the two player mode was fun to mess around with, but it lacks the actual sort of tension.
+47:20
+It's not nearly as engaging as the.
+Speaking of tension, we have a limited number of actions before our 15 minutes comes to a close, right?
+What are our final thoughts on Bug Hunter?
+Thumbs up, yeah.
+Thumbs up.
+All right, well I have my own patented system which isn't thumbs, it's the UFO rating scale and U stands for unfortunate.
+47:38
+It's unfortunate.
+I don't like this type of game more.
+I should revisit it.
+I pardon me, I should play more of it.
+It's fun.
+OK, moving on to our next game.
+Let's queue up that PTSD platformer music and we're going to talk about Velgrass.
+48:25
+This is a taking another note here the space pirate Alpha is trapped in the deep pit known as Velgris.
+Help her climb out and the gift for this is to collect 2 keys.
+The gold is to escape Velgris and the cherry is to unlock the final level and defeat chakras.
+48:45
+The general gameplay overview for this is that you climb 30 sections of platformers to beat or platforms to beat. 1 individual stage.
+There's three stages.
+You have a shop in between each stage that has some charming parrot lady.
+49:02
+Shopkeep.
+She's a hairless cat, so you know.
+I love it and crucially, avoiding this giant rotating spike pit at the bottom.
+And every block that you are jumping around on will crumble very quickly.
+So you have to be light on your feet.
+You got to be fast and all you got to do is just.
+49:17
+Woody is smiling and nodding.
+And you got to I I.
+Agree with what Scott said.
+A giant spike rolly thing comes up and crunches you.
+He's not wrong, he's more of.
+Like approval, like yes, this is exactly a retro type of.
+Yeah, type of that I desire.
+49:33
+Yeah.
+Anyone who falls should be crushed by the spikes of justice.
+No, no, no, real quick.
+Actually, I want to call this out real quick.
+So this is a roguelike in that of course, the block placement is random.
+There there are three main stages and the layout is going to be different each time and that makes each climb very exciting and and and and like a modern roguelike.
+49:55
+This game this game is is is wild.
+It's it's it's presented like a retro game, but it has this very modern feature, which is in modern roguelike games, story driven roguelike games, there's always an in story reason for why you respond, why you have multiple lives canonically, It is my understanding based on the game over screen, you're not dying, you're just falling back to the bottom of the Valgris pit and you're starting your climb again.
+50:25
+And what about the spikes that are visibly just?
+Yeah, well, she didn't.
+Well, you they're not.
+They're not pointy falls.
+They're not.
+Pointy she's still alive she has armor she's fine they're.
+Not pointy spikes.
+They're they're like the brushes in a car wash.
+Exactly.
+They just push you.
+Damping you down.
+50:40
+So I like this idea.
+Sorry, Scott, your your summary was was perfectly fine, but the actual intro text is a little more dramatic and exciting.
+And, and the basic setup is that this is like you're in the Sarlac pit, you are Boba Fett and you're fighting your way out is kind of the idea.
+The Alpha who is the character here seems pretty obvious to be a sort of Samus Aaron parallel and this I wonder if the director of this game was inspired by the same thing that I immediately thought of was when I first played the original Metroid.
+51:12
+This is what I'm talking about for like sort of the wonder of NES games.
+I don't know if it's just an age thing, but like, you know, you play it when you're going.
+Like you go through the first couple rooms of the original Metroid are just sort of straightforward and horizontal.
+And then you get to this long platforming vertical shaft that when you play, it just feels like it goes on forever.
+51:35
+And you know, now when I've gone back and played that game, I'm like, it's not actually all that long.
+But when you are a little kid and you struggle to just jump from one platform to the other, you're like, does this corridor does this, you know, does this just go up forever?
+And I feel like Valgris basically just took that room and it's like, let's expand that into a whole game.
+51:55
+Yeah, this is the, this is one of the a couple games we'll talk about that I feel like really is drawing from like rogue.
+Like it's like, OK, we're going to integrate rogue like systems into one of these games as opposed to just a more arcady thing.
+It's it's the Derek you Downwell experience.
+52:11
+It's up well.
+We got the.
+We got the random level generation we have.
+The isn't reason for why you're responding.
+You can.
+Collect the coins.
+Coins and currency to spend on perks.
+Perks which make a huge difference.
+And this is where my problems with this game begin.
+52:30
+Arguably I would argue that the first level, the first stage is the hardest one because as soon as you unlock the health upgrade, slower stun, as soon as you upgrade the the the platforms disappear more slowly, the game becomes a lot easier in my opinion.
+52:49
+And that feels a little strange.
+It's like, well, surely the first level should be the easiest.
+Level, well, I kind of in some ways I kind of appreciate that because yeah, usually when you die it's going to be in the first level and so you don't lose as much gameplay progress.
+53:05
+It's always a real bummer when you die on Level 3 of a rogue like.
+It's the opposite.
+By the same token, when I beat this game, it the first time I beat a run, it didn't feel like much of an accomplishment because it's like, well of course I won.
+I had all these perks that made me God like I had AI had a second jump.
+53:23
+You start with a double jump, you get a triple jump, Forget about it.
+You were going to say something.
+Andrew has literally the opposite complaint on a game that we will be reviewing as well that it the first level is boring and bland and he wishes he could just get right into the hard part immediately.
+53:43
+So true, yes, and it actually is in the same quote UN quote franchise Canon, but we'll get to that soon.
+We'll get to that soon enough.
+All right, another thing I need to call out right immediately is that this game, OK, so it's like it's a fast-paced, not necessarily fast-paced, but you know, you.
+53:59
+Can't take your time.
+This game isn't fast-paced then.
+Like, I don't know what you're looking for in terms of fast-paced.
+This game is like irrationally stressful with how fast it is it.
+Feels like no, no, no, sorry.
+Let me clarify.
+At first you might think, Oh my God, at the bottom of the screen there's a giant roller spike thing.
+54:15
+I need to outrun it.
+Not exactly.
+The roller thing only moves when you move, so you actually have more time than you think.
+And really what's the limiting factor is how many platform blocks there are and how quickly they're going to disappear.
+54:31
+I'm the limiting factor.
+My oh, oh, you are the limiting my hands, my hands.
+I see you were, you were not raising my hand to talk.
+I was displaying my hands as a this the limiting factor is these 10 fingers.
+Yeah, yeah, that's, that's true.
+That's true.
+So at first I was trying to speed run this game and climb as fast as possible.
+54:48
+And I realized, wait a minute.
+No, I can actually take a little bit of time.
+I can go left and right and, and I can collect more coins and get more perks and then, you know, etcetera, etcetera.
+But so that's so that's the interesting.
+It's you're right, but compared to the other games, it's it's pretty fast-paced.
+55:05
+Another big complaint.
+Supposedly this fake console, this fake retro console was so far ahead of its time in the 80s, in the 80s, it had a wide screen display.
+This game, since it's a wide screen display, is squished.
+The playing field is squished in effect and that roller spike thing at the bottom of the screen is on your ass the entire time.
+55:28
+When I say on your ass the entire time is that it's always very near to you because the IT only it only goes up.
+The screen only goes up.
+The spikes thing only goes up as you jump and you go further and like, the pressure is always on.
+And what kills you most of the time in this game is you jump too high.
+55:46
+A platform that you were depending on below you disappears, is consumed by the spike ball, and then you fall to your death.
+And that's such a some might say that's an interesting inversion of platforming expectations.
+I would say it's frustrating because in platformers there's always been the, the, the, the rule, the golden rule of like, well, I can risk making this risky jump because I know there's a safety platform below me.
+56:16
+That safety platform is almost always a death trap.
+It's almost always gone.
+And that's kind of interesting, but it's like extremely.
+Frustrating this game I I like this game.
+I think it's fun I I have a real fondness for games that you just die very quickly and then come back almost instantly.
+56:34
+I end up playing them for far more longer than I want to.
+But I do feel like this game has a lot of elements of seemingly unintentional jank, which is like what Andrew has just described.
+Like sometimes your jump is weirdly floaty.
+Sometimes it's yeah.
+56:51
+And it's the platforms below you disappear there.
+There is a quantity of I don't like the way your gun doesn't default to looking up like the gun defaults to like shooting right and left, and so you actually have to simultaneously hold up on the control pad while you're trying to navigate.
+57:08
+And to my point about needing a good D pad, if you, if you got a crap D pad, forget it.
+Like your accuracy is gonna be out the window and you're gonna accidentally be running off platforms.
+You're gonna be actually shooting in the wrong place.
+You're gonna be accidentally shooting clouds the the leading platforms that you didn't mean.
+57:23
+To yeah.
+So I I I do, I do like this game.
+I do think it's fun, like I had a good time playing it and got the cherry, but it it does feel less polished than some of the other games in this.
+Collection.
+I got the cherry too, for the record.
+Nice work.
+Which means not only do you have to escape the game, which is 3 stages, you have to, as you're climbing and trying not to fall to your death at all times, a bird flies in and this bird is a trap.
+57:52
+The trap is it takes your focus off of staying alive and staying moving and not standing on a platform so long that it disappears and you fall and die or pardon me, fall and you have to see this.
+This bird is a bullet sponge.
+You have to kill the bird or wound the bird.
+58:08
+The bird gives you a key.
+So this happens three times.
+If you collect all three keys, then you unlock the special super duper 4th stage and that's where you have a boss fight which what do you what do you think of this boss fight?
+I don't even remember.
+It was long enough ago that I did it that I, I, the problem is like this is sort of, this isn't really a criticism of UFO 50, but I was very engaged by most of the games, like as I was playing them, like I was into Belgris and I was into Bug Hunter and I had a great time.
+58:38
+And then sort of once I got the cherry, I was like, all right, that's enough bug hunter, that's enough Velgris, let's move on to the next thing.
+And so I think I only saw this 4th world boss once, and I think I had a pretty comparable experience as you, which was by the time I reached that, I felt very powerful and it didn't feel all that climactic.
+58:58
+Though maybe that is good because I probably would have thrown my Steam Deck across the room and I died on that fourth world boss.
+For sure, for sure.
+I would say in terms of presentation, it's pretty good.
+Mechanically it's it's, it's fine, you know, it's it's pretty solid.
+But if I hadn't gotten it first try, like like the first time I got to the fourth stage was the time I beat it.
+59:20
+If I had had to grind that, there's no way this game is way too aggravating.
+And, and, and the way I would put it is that this game is designed in such a Spelunky way.
+This game is designed in such a hostile way.
+59:37
+It is hostile to the player.
+Almost every major design decision is in the game's favor and against the player.
+And that just, it doesn't feel good.
+I'm all for challenge.
+I love, I love hard retro games, but this, this it feels, it feels nasty.
+59:56
+The game design is nasty.
+I don't mind it.
+I agree the game design is nasty.
+But like, you got 49 other games there.
+Like if if I had spent $5 and just got Valgris, I'd be like, oh, what is this?
+But it's just about, it's about recognizing when you're on tilt.
+1:00:12
+Would you fall in for the 30th time and that music starts up again and you're like, oh, the starting music, Then you just got to exit and go play some, you know, Oh sure, grind and grim rock a little more.
+As the as a part of the greater collection, Velgris certainly has its place.
+1:00:31
+Yeah, I I agree with you.
+But I I think as far as like just a stand alone game, it does not have the IT is not as well thought out as bug hunter.
+Yeah, I would just.
+Like tilt 100% of the time playing it.
+That's fair.
+Well, crucially, the only way that I could beat this and some of the other very twitchy games in this collection.
+1:00:52
+Buckle up folks.
+You're never gonna guess well.
+So as an old man, my reaction time is effectively 0.
+So I can't, like, I can't play twitch shooters.
+I can't do any of the fun stuff that I used to in my youth.
+I have Gray nose hairs.
+People like this is what it's come down to this.
+1:01:08
+Then it'll happen to you too.
+There is a wonderful setting on the Steam Deck that you can set the FPS cap to 30 or 45 or whatever frames per second and that will effectively have the game speed for all these twitchy games.
+1:01:25
+Playing with the Game Genie here and.
+I I had to use it because it was like unplayably fast for like I would just die and I'd just be like, Oh my God, I'm like literally sweating buckets playing this game and setting it to a slower speed felt much more manageable to learn it.
+1:01:40
+And then by the time that I could feel like, OK, now I understand what I'm supposed to do, setting it back to 60, I'm just like, Oh my God, I don't even understand what I'm like.
+It's just all muscle memory and I like.
+The I Do one, There are a few games in this collection that I think are absurdly hard, but I did There's a real butthole of a game called Star Wasper that's like a vertical shooter.
+1:02:03
+That is one of the hardest games I've played anyway.
+Another game that should not be widescreen.
+Yeah.
+Exactly wrong.
+And you?
+What I did realize about that though is for a lot of these twitchy games, playing on the steam deck is actually a lot harder if you if you actually are playing them on a PC with a decent controller and D pad, you're just way easier to see the space between platforms like Andrew was saying.
+1:02:28
+Like the widescreen in Velgris, everything seems very close and when you're playing with the widescreen of the Steam Deck it also it's like it's very hard to gauge vertical angles.
+So a lot of these games I had much better luck with playing on my PC.
+Indeed, and of course the final minute over 15 should be devoted to our two hosts that got talked over, Scott and Colin.
+1:02:49
+Any other Valgorous comments?
+I, I like what this game does at like a mechanical level.
+I'm bad at it.
+I can respect what it's doing and I can 100% see the frustrations.
+So yeah, I think if like if you're not a twitch gamer, if you're more of like a slow thinking strategy gamer, it's not the game for you.
+1:03:08
+But that's, that's fine.
+There are a million other games to play.
+Yeah, so I feel like my problem is that y'all seem impressed by the fact that there are 50 games and I am entirely unimpressed by that.
+So I am viewing each game.
+1:03:23
+How?
+Many games?
+How many games have you designed, Colin?
+Irrelevant.
+How many?
+How many?
+Professional football games.
+Have you played in how many?
+I have a section in my notes.
+That's how many.
+Airplay Holin is a hater.
+Yeah, so I'm not.
+I'm judging each game individually and I didn't enjoy this game.
+1:03:42
+Yeah, that, that's fair.
+You honestly, you would have blown my mind if you came in and were like, yeah, Velgris 'cause.
+I mean based.
+On our previous conversation.
+Yeah, exactly.
+I think based on the other games that I also haven't liked that have been full games.
+Like I didn't like Enter the Gungeon, Yeah, because it was too twitchy, too fast.
+1:04:02
+This is like if you took all the parts of that that I didn't like and then made it only that.
+Yep.
+Well, setting that Steam Deck at 30 frames a second might.
+That's yeah, that's like, cool.
+It's then you're just cheating.
+Yeah, it is cheating, I will fully admit, but that's the only way I could have beaten that.
+1:04:18
+Game.
+Just to be clear, Colin, although I'm not a hater when it comes to the matter of UFO 50 as a whole, I'm a hater when it comes to this game.
+At the end of the day, I thought it was more frustrating that it was worth I, I yeah, I'm not.
+I'm not hugely into it either.
+1:04:34
+Sure.
+OK, that's gonna roll us over to our next game.
+We're gonna.
+We're flying the Campanella out to planet Zoldath.
+1:05:17
+Where in this game we are tasked with brave the Wilds of planet Zoldath in search of the intergalactic treasure map.
+Your gift for this is to find one out of the three map parts.
+Your gold condition is to leave Zoldath and your cherry condition is to win in under 20 minutes.
+1:05:36
+Speed run condition How long to beat has this one pegged at 1 1/2 hours.
+Your general gameplay overview is to wander this procedurally generated Zelda ish map to find 3 treasure pieces that are just items lying on the ground.
+You collect various resources.
+1:05:52
+There's like 4 different resources of varying abundance that's different each time you talk to aliens to to trade with them or get attacked by them.
+And then you pick up items like an alien translator, meat printer, hazard boots, mines, metamorfer gun.
+1:06:12
+And then you walk around trying to find 3 treasure map pieces where one is usually behind some sort of item specific gate where you have to use those bombs or metamorfer.
+One is you got from trading with an alien via resource gathering.
+And then one is in this little like mini dungeon in this I think it's like a six.
+1:06:30
+There's like a a 7 by 5 screen grid for planet Zoltath.
+Indeed, as soon as I saw the scam, as soon as it was explained to me, I thought, Oh well, yeah, this is kind of like a, a, sort of like a Zelda randomizer ROM in some ways.
+1:06:46
+It's more simple than that, arguably, but yeah, that that's kind of the the general idea.
+Each time you play this Zelda type game, the key items and the equipment are in different places.
+Yeah, and even the aliens that are your enemies and the aliens you can interact with change.
+1:07:07
+There's essentially 4 alien races in this game and in some runs, you know, you might be talking to the dinosaur guys in another run.
+I don't even all the, all the aliens in this game are very cool design, but like they're very sort of abstracted, hard to describe.
+1:07:25
+But in some ways that does add to the feeling of jank because sometimes you'll walk up to talk to an alien and then it hurts you and you realize, oh, that's actually the one that I am supposed to stay away from.
+Well you you would also be jump scared by the florists who returned from Bug hunter in their fully evolved state and they might be friendly this time with their big their big like 2 legs and big twirly mustache that mustache.
+1:07:49
+And you walk up to them and they have this very cute animation of like stomping their feet and like saying like Bah Bah Bah Bah Bah Bah as their mouth moves up and down and it might be alien gibberish.
+You might have to go and grab the translator or they might have something useful to say like, oh, what's that smell?
+Oh, it must be you.
+You stink.
+1:08:06
+So this.
+Game This is not my favorite game in UFO 50 by any means, but.
+If anyone's favorite game I would possibly.
+I don't think so, but I think if you were, if I had to pick one game in the UFO 50 collection that I feel like most encapsulates what UFO 50 is about, it would probably be this game, because this game has sort of it's.
+1:08:30
+Extremely damning.
+Well, this game, I'm not talking about just level of I like, I mean, I like this game.
+I think it's fun, but to me it is.
+You have this sort of top down Zelda view.
+It's like a clear homage to that style of gameplay, but it has this modern sort of randomizer.
+1:08:52
+But it's totally this game.
+I think almost better than any other game in the collection.
+Encompasses what I was talking about of like the mystery of NES games.
+It's because you just land on this planet.
+The goal of the game is to get 3 map pieces, but you have no idea where these map pieces are.
+1:09:09
+Some enemies just randomly, yeah, talking alien gibberish.
+And you're like, I don't know what any of this means.
+And it's just this game.
+One of the things that's kind of a pet peeve of mine about more modern game design.
+And I think the souls games are the most guilty of this, where they essentially feel like they are encourage you, encouraging you to go online and like look up strats to be like, OK, what is this item?
+1:09:36
+I actually do got do and like, how do I build around it?
+Whereas I feel like Zol death is simple enough that you're like, you know, if I just wander around, I'll figure this out like you're you're not gonna it's it's mysterious, but like you can the the whole world is only like 4 or five screens vertically.
+1:10:01
+Yeah, there's not like a whole lot of complexity in terms of like the items and like what they do is like a boomerang in this game is very obvious what it does.
+The metamorfer will like turn you into a little chicken and you can get into small to small reaching places.
+The like the the hazard boots you can walk over this.
+1:10:17
+But a lot of a lot of the weapons have like multiple cool functions, like you can use the boomerang as a weapon or you can use it to get items that are out of reach.
+Or like if you get the hazard boots and the Metamorphur, you can metamorph enemies into little animals and then stomp on them with your hazard boots so and kill them that way.
+1:10:35
+So there's a lot of odd sort of interactions that just this game just rewards you for experimenting, and I feel like it's short and small enough that I am willing to experiment and do something that might not work.
+Yeah, I I also had I see like this is like a classic UFO thing of like you go to the UFO 50 subreddit and someone will post.
+1:10:58
+Here's my tier list of all 50 games, and each one is wildly different from everyone else's.
+And so they all have party house on the top.
+All, they all have party house on the top and they all have Zoldath and onion delivery at the very bottom.
+And for some reason, like really?
+I started up onion delivery the other day and I was appalled at the controls.
+1:11:19
+Like I'm like, yo, this is like the Dick Tracy NES game like.
+Onion Delivery, I'm sorry, drives me nuts.
+It's like I cannot handle.
+It's like I made it through so many of the other games and I fear that I'm going to get 49 golds and the last one is going to be onion Delivery and I'm just going to lose my mind trying to get it.
+1:11:38
+I can barely make it through day one.
+So so with zoldaths.
+Yeah.
+Like I think people bump up on the randomness a lot of like this is this is almost like a a comedic up like sending up of of roguelikes where it's like, what if everything in the game was random?
+1:11:54
+What if the rant like the equipment that you encountered in each run was different each time?
+So I don't know what's going to happen and like all the enemies, like are they going to be hostile or not or where?
+I've, I've never seen that a roguelike game before.
+This run, this particular character is bad.
+1:12:09
+The next run, they're good.
+Like, that's that's pretty.
+That's pretty wild.
+Yeah.
+And so I can see where people bump up on that, especially with the Cherry condition of trying to speed run this game in 20 minutes.
+Where the first time I beat this game I fucking beat it in like 21 minutes.
+1:12:27
+And and so like in that classic case, if you're like, OK, well, I could I could do that in 20 minutes no problem if I beat it the first.
+I think my first time I beat this game in like 45 minutes, but I was really taking my sweet ass time.
+And crucially, I think the game timer steep still keeps going if you pause the game, which I thought was my clever, my clever way to Juke it, but it got me so and I can see where this like if everything is random and like your your speedrun pathing is affected by that.
+1:12:56
+It goes kind of counterintuitive.
+Like there's that friction there of, well, I'm supposed to be this game in 20 minutes.
+But if the game won't let me do that because of the random bullshit that like I've just rolled for this session, like that's that seems that's.
+NES baby, that's just get screwed.
+1:13:13
+Yeah, I mean, this is old style game, I can suppose.
+I I guess I get what you're saying Colin, but the NES isn't known for nasty RNG in the way that nasty RNG can really undo.
+Yeah, but it could be known for like jank.
+1:13:29
+Like, I'm sure there's plenty of instances of an NES.
+Game as a wider theme?
+I get what?
+You're saying you've used all your missiles at some area where you need them to get to a new level and then you have to backtrack a whole bunch to go get them like this game.
+I I think that this game is not hand holding at all, but it's concession is that it's just not that big of a game.
+1:13:50
+So you feel you feel like you don't have to be like writing maps down to keep everything on track.
+I.
+I was thinking about the is that a way that people play this game to to map out each run?
+No, no.
+That's how I've seen it the the first time.
+OK all right, so so some people have done it.
+1:14:07
+I, I got to tell you 2 main problems with this game for me, it, it, it didn't, I didn't even fire it up until like yesterday or today.
+Like we played it at Scott's place and I'm like, I'm not really compelled to, to play more of this.
+It's interesting.
+1:14:23
+But here's the deal, the, the core combat not that good in my opinion.
+It's very, it's, it's too simple for its own good.
+Now the different items that helps #2 not a good main character design.
+This is such a forgettable character.
+1:14:39
+It's a pilot guy in suit.
+It's the.
+Early design pilot, yeah.
+Yeah.
+Interesting.
+Well that's kind of a fun back story, but he looks like ass.
+No wonder they redesigned.
+Him I, I, I don't know, like, I like this game, but I don't know what percentage of me liking it is just cuz I think it's very clever.
+1:14:58
+Like there's definitely a difference between I can get a lot of mileage for just being impressed by like the creativity and sort of the the very tight design of something like every item that you get can have a purpose in helping you beat the game.
+1:15:16
+So I, I just really do have a fondness for this game, but I will also assess like it's not all that fun like.
+Understood.
+Yeah, that's, that's an interesting distinction.
+I I and I was like, I don't where exactly is the fun of this game?
+Like my, my playthroughs felt like I'm just kind of wandering around and oh, look, there's a thing, Go pick it up.
+1:15:36
+Oh, I guess, yeah.
+I mean, it makes you better, but I didn't feel like I had goals or decisions.
+I I guess the decision of what to keep and what to drop was there, but it was mostly just like aimlessly wandering around until I either beat beat something or died.
+1:15:52
+Well, I mean, I guess the fun is sort of finding what each item does the first time you use it, like and just sort of discovering things by doing.
+But that I.
+Hate learning?
+That does not lend itself to replay value because once you know what the item does, you're like, all right, I'm just going to do this over again.
+1:16:12
+And at its core, like, again, I know that this this excuse doesn't track with Colin, but like, there's 50 games here.
+So if I get all the fun I want out of this game in an hour by having two or three playthroughs, that I still feel fine about that.
+1:16:30
+Entire.
+Totally.
+I yeah, I hear you.
+Scott, can we move to the next one so that we.
+Yeah, the only other thing I was going to say about Zoltath, the main the main music for it is fun.
+I just hate that it restarts every time you pick up a fucking energy cube.
+And then I have to like that ear worm gets lodged into my brain and it I can't get it out of there and I'm simultaneously humming along with it and being tortured all weekend.
+1:16:54
+So.
+And I even remember I'm still.
+Stuck on the Velgris theme music?
+Scott, you pointed this out.
+Fun game over message.
+Oh yeah, this this game.
+When you die, the text pops up on the screen.
+You have succumbed to Zolnath, right?
+This is.
+Pretty great.
+1:17:09
+It's great.
+I love that there's also.
+Fun.
+The writing is pretty is pretty fun.
+It's pretty fun.
+For sure.
+Yeah.
+When the aliens talk to you, it it, you know, it's fun.
+Like this is a good game to like, beat once and then move on.
+And yeah, unless you're like a cherry completionist kind of thing.
+Sure, sure.
+Sure.
+And yeah.
+1:17:25
+Hey, Woody, I hadn't thought about this until you brought it up.
+Definitely I I get I, I, I dig what you're, you're laying down about this being sort of a a little microcosm of what UFO 50 is as a as a whole.
+Definitely has that that mystical oh and NES feeling for sure.
+1:17:45
+All right.
+Next up, what do we have, Scott?
+Up next is going to be a very dreamy game for us.
+Up next is going to be Waldorf's Journey.
+1:18:24
+The.
+1:18:54
+For this, Waldorf didn't go looking for adventure, he was just trying to enjoy a nice nap.
+The gift condition for this is to complete 50% of the journey.
+The goal is to uncover the secret at the end of the dream, and the cherry condition is to win with 50 or more shells.
+How long to beat has this pegged at about an hour to beat.
+1:19:13
+And the general gameplay overview is in your walrus dream, you basically charge up a golfing mechanic shot to to charge up an aim, and then you fly through the air and you can tap while in the air to kind of flap your little walrus flippers, as as we all know well and good.
+1:19:32
+But there's also items that you can buy from a Princess Penguins shop, things like beach balls, propellers, binoculars, and tuna cans that can kind of help you platform your way around this map.
+It's very simple.
+You just go from left to right.
+But it's a platformer.
+1:19:48
+It's a golfing platformer.
+And there's shells that are kind of floating in the air that you can pick up to use for money to to purchase stuff.
+Sure, you got currency, you got your energy, so you can get more flapping allows you to, you know, once you've sprung through the air, gives you a little bit of control.
+1:20:05
+This is one of those games where it was very magical the first time I played it because you start it up and it's like, oh, it's a platformer.
+Well, I'm moving so slowly because of course I'm a walrus on the ground.
+And then I'm like, OK, what the hell are these buttons?
+I'm just button mashing.
+And I'm like, I don't understand how this works.
+1:20:21
+And like the fun experience of playing a game without a manual and just trying to like figure out how does the first time you control yourself into the air, you're like, Oh, no.
+Exactly.
+It was so cool.
+I, I, I let out a, a, a, a a chuckle of delight the first time I sprang into the air.
+1:20:39
+I'm like, oh, OK, this is this is fun.
+This is unique.
+And to be clear for the listeners, this game does not feature the old man wisecracking muppet who is paired along with Statler.
+This is instead a fun walrus man.
+1:20:56
+Well, Maria Salas.
+Will be found.
+Here either No, I guess he's not a walrus man he he needs.
+Pardon me, a man who's a male walrus.
+Yeah, he is Lot.
+He is lost in the dream and he needs to get to the end of the dream to warn.
+His Oh yeah, yes, yes.
+What?
+1:21:12
+Warn his fellow wall spoiler wall rye?
+That's OK.
+I'm just declaring that it's OK.
+You got to warn your fellow wall rye that the hunters are coming and they need to get off of that ice floe.
+This game, like every like pretty much every game in UFO 50.
+1:21:27
+I think it's charming and clever.
+I probably like this game the least of any of the ones we're talking about because to me this is basically feels like blind jump the game.
+Like as you progress and the platform sort of get smaller and smaller, like the there's no way your camera kind of naturally drifts the direction you're facing, but there's no way to sort of move it down below you or have it go farther forward.
+1:21:57
+There is a beach ball item which will essentially allow you to Kick It Out in front of you and gauge the power of a shot where you will end up.
+But a lot in the end, like I spend a lot of time, just like, all right, I'm just gonna fully power up my launch and hope I land somewhere well.
+1:22:14
+Sure, but you've, you've accrued resources that afford you the, the, the option to do that like, Oh, well, I've, I've, I've got the checkpoint or I have enough energy that you can make a wild leap.
+And that's, I think that's a chance you have to take.
+1:22:31
+And the game doesn't give you enough information to make it necessarily always an informed chance, an informed decision.
+But it gives you resources where you can take that risk.
+That's tough when you're going for the cherry and you have to stockpile your 50 shells, but.
+1:22:49
+Well, that's true.
+That's true.
+Well, then then focus on the shells.
+But also, I guess you then also have to focus on the fish.
+And basically what I'm saying is we'll just get good.
+But yeah, these cherry conditions can sometimes be very difficult.
+And of course, like a good achievement should the cherry conditions of these games, it it it encourages you to play the game in a different way.
+1:23:06
+Yeah.
+Which is which is what an achievement should do it.
+It shouldn't be something boring, you know, game play wise.
+I kind of, I kind of agree with you, Woody.
+Maybe it's not the most amazing thing.
+It's novel.
+I think it's pretty fun.
+It's a pretty short game and I played it immediately after beating Valgris and I beat Valgris and I'm like doesn't even feel that good.
+1:23:28
+I kind of hate that game.
+By the way, on my UFO scoring scale, Valgris gets a AFO, which stands for fucking Waffle and and maybe you know, I like a little better than that.
+Effing awful.
+1:23:43
+Let's say that.
+OK, but but here's the point I started up.
+I started up Waldorf's adventure and what a beautiful, wonderful palate cleanser, beautiful music, beautiful atmosphere, the background slowly the sun is setting critically, something I should point out that the storyline for this game is that this is all couched.
+1:24:01
+The the narrative device is that this is, as you mentioned, Woody, your dream.
+So when you die, once again we have a rogue like reason for why you're responding when you die.
+The game over screen is Waldorf wakes up and he looks around and he sees all his fellow walruses and everyone's snoozing.
+1:24:17
+And the continue is, do you want to go back to sleep or do you want to exit the game?
+And if you go back to sleep, you begin to dream again and you enter Waldorf's journey anew.
+And of course, it makes so much sense that he would dream.
+He would, he would wish that he could fly into the sky because he's a, he's a water based trooper, well, at flying because he can't imagine himself actually flying.
+1:24:37
+But this is like basically how flying in my dreams always works.
+Like anytime that I may like get, fly, get I'm able to fly.
+It's only through like extreme effort.
+And I'm always like focusing so hard in my dream not to fall.
+And you're eating all those.
+Tunicants, basically.
+That's basically Waldorf.
+1:24:53
+Here, Yeah.
+You know, these tunicants, unlike Velgris where the platforming is so hyper precise and annoyingly so.
+I would argue at certain times.
+Scott, you pointed out when we were playing at Waldorf's hit box for landing on platforms is huge, amazing, enormous, as big as the right Woody.
+1:25:12
+Sometimes you're having to make a blind jump and that doesn't feel great.
+But you you got a lot of of walrus mass that just barely needs to make contact with a platform like one pixel.
+And you're, you know, you've got amazing core strength, amazing core strength.
+I do feel like probably of all the games that we've talked about, like this one has the least going on, like in terms of which I I don't think it is a dig at it at all.
+1:25:39
+Like, I think that kind of works to its advantage, but like you said, you go from left to right, you kind of launch yourself across the map and hopefully you have a good time and piece of cute on the way.
+Yeah.
+I think it's like a very like I didn't, I have not played that many of the the games of UFO 50 outside of the 7:00-ish we played.
+1:25:59
+It feels like a very good palate cleanser.
+Like I could imagine if I was playing this game a lot or UFO 50 a lot and I got real tilted by one of them, I'd be like, I'm just going to go play like 2 rounds of Waldorf's Journey and just like float a bit.
+And if I'd lose, it's like a laugh.
+1:26:17
+It doesn't feel, it doesn't feel like the stakes are high, but in like a good fun way, like, Oh no, I missed the platform Odarn.
+And you don't even die.
+You just, well, there is actually kind of a dark underside to the storyline, but technically, canonically, you don't die.
+1:26:32
+You just OK, you get ready to go back-to-back to sleep.
+But here's the deal.
+Light spoilers.
+As as Woody already discussed, your goal is to get all the way to the right side of the screen.
+What is at the right side of the screen?
+What?
+What is there?
+Scott, you're our our story expert.
+1:26:48
+Well, you there's just a door floating in the air that you go into and you enter some psychedelic shell palace and there's some, it's awesome, some some wizened the elder at the end end of the shell palace who gives you some hints that I think for the regular gold condition is just like, hey, there's some danger coming or whatever.
+1:27:10
+Yeah, there's these little hints as you're traveling across the level, like there's something on the horizon, something's out there, something.
+And it's kind of, it's ominous, it's cool, it's kind of mysterious.
+And and one of the messages like, oh, this is a really frustrating way to communicate or another one's like they're coming for your teeth and you're like, what the fuck is this game?
+1:27:28
+Well, I don't know the one time I beat it because again, it's not a very long game.
+I guess I, I don't know exactly how it's calculated, but like I guess I had enough points or something.
+Where the the NPC at the end of the game who has this like psychic walrus has apparently been calling to you through dreams and he has contacted Waldorf and he says, come, you know, he's trying to, he's trying to beckon you through the dream realm.
+1:27:53
+And when you finally get to him, he says, thank God you've made it.
+I have an important message for you.
+You need to warn your walrus brethren that there are there are trappers, there are hunters on their way to your, your little island, your little iceberg, and they are coming to harvest your body and to take your teeth.
+1:28:19
+You need to take your brethren and escape immediately.
+And immediately my vegan, you know, radar starts going off.
+I'm like, this is a masterpiece.
+This is a piece of this is a vegan text.
+And once you achieve that, you go back to the waking realm.
+1:28:36
+And Waldorf says walruses, we must escape at once with our teeth intact, for there are humans who seek to to take away what but what is most important to us, our lives, but also hard to harvest our dust.
+And you escape.
+1:28:52
+And there's a wonderful little cutscene.
+You escape off into, into the ocean and the trappers show up on the island.
+They look around, they go, what they're gone.
+And then the credits roll.
+Music's playing and all the happy little walruses are flying and floating in the water as the, as the, as the, the title plays as the credits roll.
+1:29:14
+And what, what a what a delight.
+Such a wonderful pay off for me personally.
+All right.
+Well, because I've used my, my.
+Well, I guess First off, do we have anything else we want to say about Waldorf before we?
+Yes, on my UFO 50 scoring scale this gets a 50 which stands for 50 year Golden Jubilee disc.
+1:29:35
+Great score, great score.
+Any other final thoughts on Waldorf?
+Thumbs up, thumbs up, thumbs up.
+Well, hey, wow, what's this?
+My goodness.
+We someone has arrived by way of the dream realm, Will, right.
+Well, actually, I do believe he has entered through the door of the party house.
+1:29:51
+Yes.
+And before we get off Waldorf, though, famously Will, as we were going through and playing the different games, you were not impressed by Valgris and and and Zoldat.
+We played Waldorf and you go.
+Well, that's the first good one, he said.
+Something.
+Relative to the other stinkers, that was something that stood out as like, you know, I might play this does relative to party planner doesn't even register, but you know, I agree.
+1:30:16
+Yeah, it was.
+It was on the, IT was on the radar for.
+You know, and also you did quite well at it also, Colin almost it felt like he was going to one shot it.
+Like you got very far in your first run.
+Colin No, I did it in the first run.
+I'm sorry, first run.
+We're we're.
+1:30:31
+No, we're.
+No, we're still talking about Waldorf right now.
+Oh, apologies, I I was talking about Waldorf.
+And now we're on to party planners all.
+Right, so well, hang on, hang on, hang on.
+So last thing I'll say about Waldorf before we move on a very fun and unhinged to two player mode.
+Go check that out.
+1:30:48
+But yeah, so as as we have activated our driver ability to go and pick out our star guests bringing in will for.
+Oh, you're lazy.
+You're lazy.
+Let them in Co host.
+Yes, it is.
+It is time for us to talk about everyone's unanimous favorite game in the UFO 50 collection Party House.
+1:31:24
+And this is the text that you were given.
+Can you throw the best house party of the summer without getting busted?
+Question mark.
+Your gift here is to beat 1 scenario.
+Your goal is to complete all 5 scenarios.
+Your cherry condition is to achieve a streak of five.
+1:31:42
+It says achieve a streak of five.
+It's not super clear.
+You have to do that with the random mode that's in the game.
+And how long to beat?
+Has this pegged at about four hours of gameplay.
+Your general gameplay overview is you are playing sort of blackjack.
+You're drawing houseguests out of a deck in air quotes and your goal is to draw 4 quote star guests.
+1:32:03
+They have a little star next to them and then end the party in order to win within a 25 day limit.
+And you are building a like a deck drawing and milling engine.
+You expand your house slots by accruing money.
+You use popularity points to acquire new guests into your Rolodex and you have to crucially avoid troublemakers.
+1:32:25
+If you get 3 troubled you busted and or well you're busted in multiple ways and you have to avoid having too many people at the party or that will bring the fire Marshall in party house.
+This.
+Have any of you guys played a board game called Quacks of Quedlinburg?
+1:32:41
+I have.
+OK, so I feel I feel like this game.
+Wait, actually I think I have played it.
+That's the like you're making potions.
+Yeah, You're making potions, and you buy, like, ingredients for your potions, which are little Pogs, and then you put them in this bag and, you know, you draw into your bag.
+1:32:59
+And so in theory, you know, and the more you draw, the more you advance.
+I think that this game is clearly inspired by that.
+This is designed by John Perry, who's a board game designer.
+Yeah, this feels like it could be a board game.
+Yeah, this game is is basically just straight up a actually it.
+1:33:17
+Just is a board game.
+Yes, it just is a board game, which a couple of the games in UFO 50 are.
+The Dinotopia one or whatever that's called Avianos is, is 1 as well.
+Yeah, party house is great.
+Like it it the the art style looks really good.
+1:33:35
+It looks a lot like earthbound.
+I I feel like like the characters have have that design and so they're really colorful and appealing and it's just, it just plays well.
+Will, why did you want to?
+Why did what did why did you want to only show up for the party house?
+1:33:51
+This is the only one he played.
+This, no, this is the only one of any relevance towards a good game whatsoever.
+Not like good game.
+The fact that I came in here and it was prefaced with everyone has unanimously said this is the best game.
+1:34:08
+That means something, right?
+Is that true, first of all?
+Second of all, if it is, then I have a study to cite here with some scientific facts the basis in how the developers got this game all wrong and not this game is in party planner but this game is in UFO.
+1:34:25
+Party house.
+You keep saying party planner.
+Party.
+Oh, it's party house.
+Party planner, Same thing.
+A man doesn't even know the game he claims to be the best.
+Sorry, Will.
+Of course, this is kind of your segment.
+I I'm sorry, it's not my segment.
+It's the guest.
+1:34:41
+Well, I was.
+I was shocked that when when I tasked all the Co hosts with the impossible journey of playing whatever they felt was fun from this I was expecting Will to just be like, now I'm not going to engage with this at all because I'm not an NES kid.
+Hate anything having to do with retro aesthetic.
+1:34:57
+I get it.
+I get it 100% like that makes total sense.
+And then like as soon as we were done with our 868 hack recording, I see Will firing up UFO 50 for some reason and then a couple days later saying, Oh yeah, by the way, I got the cherry and party house like Steve was shooting out of my ears.
+1:35:14
+I'm like, what parallel dimension have I woken up in?
+Because there's a.
+Card based game.
+It's deck builder.
+I mean, what's the best?
+What's the best game of all time?
+Slay the Spire.
+Never heard of it.
+Now imagine if you got to take all of your favorite characters and NPCS from Slay the Spire and invite them to a super fun party.
+1:35:35
+This medium is the best thing about this game in my opinion.
+It's a very dumbed down version and it's my favorite.
+Part personally, I should say.
+Excuse me?
+It's still fun, and there's still like a mechanic to work out.
+It's a problem to solve.
+Once you get the meta, the replay value, I think kind of dissolves a bit.
+1:35:53
+But like, when you're learning that and all the characters, you're like, exploring all that stuff that is super fun.
+There's an element of discovery, which is exciting and new and novel in a way that I haven't seen because I haven't played all these other board games out there that are, you know, similar.
+1:36:09
+But like, this was new and novel to me.
+And yeah.
+I haven't played blackjack.
+Well, blackjack, you don't have control over what you're putting in your deck.
+Sure, sure, sure.
+I I, I understand.
+I'm, I'm oversimplifying it majorly.
+1:36:25
+Will I want to hear this grand unifying theory of why UFO 50 is such a stinker?
+Yeah.
+Here it is.
+So in 1998, there's this.
+Scientist Christopher Shih has this study.
+It's a very highly cited study and it's, and it's basically this idea it, it, it can be best summarizes less is more.
+1:36:44
+Let me let me just break it down.
+I'm sure some of you have heard this and know what I'm talking about others maybe this is new, but in this study you have a, a dinner set.
+It's got 24 items in it and they're all perfect, in perfect condition.
+And you have a group that goes in there.
+1:37:00
+It evaluates it by itself and they say, Oh yes, this is worth about $30.
+And then you have, you know, that another group look at that same set, set A that that those items plus other items and some of those items are broken and chipped.
+1:37:20
+So it still has all of that 24 piece set, but also like, you know, good stuff, but also some shitty stuff.
+And turns out that when you have individual evaluations, what people will say is that yeah, the one with more shit is better.
+Because it it.
+1:37:36
+It because they don't see the other one, they don't have the comparison.
+But when you have people going in there and they see both of them, excuse me, the opposite of what I just said right there, the independence when they can see both of them, they they end up saying, Oh yeah, well, this one's the 24 piece set that's actually worse than the other one that has everything that includes everything.
+1:37:55
+More stuff but broken stuff.
+And so the point here is that if you include shit with something that's great, people will perceive in a joint comparison that that that thing is worse.
+And so if you have a golden item, if you have the golden fork in this inter set and you include all this chipped glass around it, which is all the other stuff, they're not even plates, they're chipped glass.
+1:38:19
+Then turns out that that golden fork plus the chip plates is worse than just the golden fork.
+Just give me a golden fork.
+Just don't give me UFO 50, Give me party.
+Planner.
+Yeah, give me that.
+1:38:35
+A strong.
+You're making a strong argument here, Will.
+Yeah.
+And just a game that you know the name of.
+So, so spend so spend the time that you would have spent making those 49 other games and make this one good game better.
+That and more content.
+You know, like I said, this is a very somewhat simplified right now.
+1:38:51
+There's a limited number of characters.
+There's kind of only one primary build that you end up getting to at the very end.
+So just spend your time building that.
+I know I just botched.
+No, no, no, that, that is intriguing and and that sort of makes sense.
+1:39:08
+That study makes sense based on what I know about that now that I've heard it and based on what I know about human nature.
+That being said, the designers did not set out to make a game.
+They they set out to make a game library.
+And that was their first mistake.
+1:39:25
+So I mean it was, I guess it was, yeah, it was a failed the project right, right off the off the bat if we go by that 1998 study.
+I think the conclusion that we're supposed to draw here is that in Slay the Spire we should only really have like 2 cards, and those two cards should really only be like the good cards, and all the rest of the bad cards shouldn't be in the game at all.
+1:39:47
+What is it?
+This is a straw man or something.
+And so so bringing it back.
+Logical trapezoid.
+Bringing it back to party house, yes, I was I was really like shocked at how like evocative the theming of this game was with like the tension of trouble management.
+1:40:09
+So you know, you have some characters and yeah, every every run of this game starts the same where you have like the same kind of basic quote deck of.
+Like an old friend who gives you money.
+No, the old friend gives you popularity, the.
+Rich.
+The rich friend gives you money.
+That's right.
+1:40:25
+And then you have the Wild Buddy who gives you some popularity but also some trouble.
+And if you get too much trouble, there's this little this little cat on the top of the house that will start shrieking and just saying the party's getting out of control and you're just like, well, that's fine.
+1:40:41
+I know that there's a two in five chance for me to draw the.
+I don't know, I drew them.
+How could that possibly have been the odds?
+So yeah, I think like that that is just an absolute slam dunk of like a crisis management and elevated heart rate simulation that really like you can't find anywhere else in.
+1:41:05
+This game, one of many games with great cats.
+It is like Jack Black.
+Jack Black, Well, I would invite to my party house every time.
+He's one of the celebrity star guests.
+It is like blackjack, but Colin, it's like blackjack if you were able to build your deck right and each deck has wonderful pixel art and wonderful theming.
+1:41:27
+Irrelevant.
+And as you well, it's relevant to people with eyes and I'm interested in video blackjack and it doesn't have beautiful art and well that I think that's very subjective and different situation.
+But the point I was just trying to make is that I'm glad this isn't just a boring ass board game with no animations and no good pixel art or sound effects.
+1:41:48
+I just blank cards with numbers, a green 2 and a yellow 1 and I just find out what number I got.
+And you just went out.
+Does that come with or without the cracked dishes and the rusted silverware?
+No, that is the golden spoon.
+Oh, OK.
+1:42:04
+I got it the.
+Crack dishes are any superfluous information that distracts from the purity of the game.
+I want to hear what Will's favorite moment was that like, cuz like normally with some of these games that don't fit Will's style, it's you know, it's a very bounce off kind of experience.
+1:42:20
+So, So what?
+What kind of motivated you to get through the five different scenarios and then make that leap to actually try for the Cherry condition?
+Yeah, so I wrote a Python script right away in order to determine what the optimal amount of trouble to accept was in the early game.
+1:42:39
+And that's what hooked me because it was an extremely interesting problem from a stats point of view.
+And, and, and that was something that I knew I could find out if I.
+Put the effort.
+Into writing the script and and and figuring out.
+I say writing the script.
+Claude writes the scripts.
+I don't.
+I don't touch code these days.
+1:42:54
+So in orchestrating all this stuff, it was an interesting problem and it's one I didn't solve, is when I made progress towards and then during the process of getting towards the end, I'm like.
+I got it.
+It's an 8020 thing.
+They'll getting to the full picture sort of to the 100% that's going to take way too much effort.
+1:43:13
+So, and the game wasn't that complex and so, but during that interim was like, oh, maybe I can like build an analytical solution here.
+And that was exciting.
+And so as soon as I have to write a script, break open a spreadsheet, that's when I know it's a good game.
+1:43:30
+That's basically the criteria for most of the good games that are out there.
+I just want to comment that Will, it's very clear that Will and I have brains that exist on that.
+They just approach things in very opposite viewpoints because to me, the minute I have to bust out a spreadsheet, I'm like, what am I doing homework here?
+1:43:50
+Like I don't want to deal with this.
+I mean, there's lots of valid ways to go back to playing like our 300 of our factorial factories.
+I was just, I was playing instead of, instead of being on this podcast.
+That's exactly what I was doing Factorio.
+And then I'm.
+1:44:05
+Like, all right, I guess I'm being pulled in.
+Yeah, Yeah.
+But I mean, I will say it's a testament to the quality of this game that both Will and I had a good time with it.
+Like it's really, it's really an engaging game and I think that it delivers a somewhat complex piece of problem solving in a way that is very visually appealing and intuitive.
+1:44:29
+Like, you don't need to bust into the spreadsheets to sort of get a feel for how this game works and get good at it, but if you want to, you can.
+I I think it's going to write a Python script.
+Sorry.
+Yeah, I think this game is interesting in that it's, it's one of the kind of examples of like I think some of the other games in this collection.
+1:44:48
+I I don't think that you could have actually run them on an NES.
+No, like, no, I don't think.
+Physics wouldn't have worked for most of these games.
+You could absolutely have had party House on the NES.
+There is nothing there like the, the math behind it, the like probabilities and the the stuff.
+1:45:05
+Maybe not as much art, but maybe just as much art.
+I'm not sure.
+Like, and it's, it's, it's fascinating to me, like, oh, we could have had this game as an NES game when we were nine.
+Yeah.
+It would have been one of the top, probably the top three games on NES, yeah.
+1:45:20
+It would been like a yeah, maybe there'd be a little more into it, but.
+Yeah, so much of games coming out of that because if that was one of three known branches, you have your your side scrollers, your yeah, I guess you'd have Mario Brothers, Legend of Zelda and Party House.
+1:45:36
+Yeah, like that would be a whole like.
+We'd be reviewing house like games.
+I agree that it is.
+It is neat.
+It is neat to see this game built with the technology of a, you know, retro console that that is cool to see such a wildly novel concept and a wildly novel theme presented in a way like, well, here's what it could have looked like in an alternate universe.
+1:46:03
+I I agree.
+Yeah.
+And it's for that reason that we are coming to the close of our time that on my scale, this gets another you for it's unfortunate that I've never played Party House.
+Well that's not true.
+You played it at the at the in person party.
+1:46:19
+House No, no, I just watched it be played.
+But I, I was far too busy frustrating myself with twitchy games.
+And yeah, anyway, it looks, it looks like it looks like fun.
+And I think it's a great example of how you can take a board game concept, core mechanics, and it can be elevated by the medium of video games.
+1:46:40
+Real quick, I want like this.
+This felt like a, a perfect place to share my wild buddy story, particularly from like the, the the Bellingham Woody aspect where way back in, in the college days when we were hunting for a place to rent, we were we we had this kind of like, let's say he's a a friend in law who kind of like glommed onto the friend group.
+1:47:06
+I don't know, let's let's say some random name out of a hat.
+I don't know Wes.
+And he he was your very standard college kid.
+I don't know.
+And the the rest of us were looking around trying to find this really nice house to rent.
+1:47:26
+We finally found this one.
+It's a nice, quiet St.
+And Wes was a very typical, I don't know, like weed, Stoner, libertarian, early 2000s college kid type.
+You know you, you know the type.
+And so we're, we're there with the realtor, like 4 of us plus Wes.
+1:47:45
+And we're trying to be on our best behavior for this.
+Like, OK, we want this house.
+We want this house so bad.
+It's so it's just well designed.
+It's, it's so quiet.
+It's got everything we need it to do.
+The realtor is like, all right, you guys, everything looks like it's working out really well here.
+1:48:01
+You guys got any last questions?
+And unprompted, Wes just comes out to say, yeah, so like, and I believe this house was like basically right next door to the fire department, like houses well, or something like that.
+There was some proximity factor to law enforcement of some degree.
+1:48:18
+And Wes, unprompted was like, so we could have parties here, right?
+And I'm not envisioning like a big party, but just like a party with 20 people Max or something like that.
+And the rest of us just kind of look agog at each other just like, what the fuck is he doing?
+1:48:37
+Like we don't even know 20 people, any person party.
+This is like we can only dream.
+We can only dream.
+And the cat on the roof is like screeching out of control at this point.
+And the realtor's like, that's a good question.
+Let me check with the house owners and I'll get back to you.
+1:48:53
+And we were dropped from getting that house as a result.
+And so that explains why we went with a four person duplex instead of five.
+Well, with the house that we are renting did.
+You get kicked from the the Rolodex I think invited you to the next party.
+1:49:08
+Yeah, he was.
+He was banned from all the next party planning that that we were doing as a result.
+But yeah, that that that like felt like such a titular wild buddy moment to me that when I every time that I'm playing party house now, I'm just like, and I hit that bust and the the police show up.
+1:49:26
+I'm.
+Like oh God, I drew a Wes again.
+God damn it, you gotta ban, you gotta ban him from the next party.
+I knew it.
+I knew that was going to happen.
+Yeah.
+Any any last things we want to say about party House?
+The, I think the music works really well, particularly like when you have a small party, it's kind of like a quiet like subtle tone to it.
+1:49:47
+And then as you upgrade your house size, that like the music changes and becomes more of like a party atmosphere.
+And if you get to a very large house, it becomes like this very big swelling kind of segment, which I thought was fun.
+I did think that the party planning part where you're actually buying the guests and putting them into your Rolodex, that music got a little annoyingly repetitive, but I think at that point you're just like going and buying the guests so fast.
+1:50:12
+I.
+Mean this is a game that you can easily play listening to something else.
+Sure it's.
+Yeah, like your favorite rope like video game podcast.
+Exactly there.
+You go?
+Yeah.
+Any more thoughts?
+Hey, thank you.
+Thanks.
+For being.
+Thanks for coming.
+To your own podcast, will the game would 7?
+1:50:30
+It would be a 7 if it was party planner.
+But because as like the study showed, it's 30% of a depreciation as a result of being included with the other chipped glassware and whatnot.
+I'm going to say it's about a 4.5 or so.
+So take that with a grain of salt.
+1:50:45
+Just curious, how many games, troublemaker, how many games did you play in in the collection?
+The ones that were recommended, OK, I don't know what the exact number I want to say.
+I probably played about 1520 of them.
+OK, cool.
+No, I not all I I admit.
+Yeah, that's fine.
+I would say the ones that are recommended, like if you look at people's general tier lists are usually pretty on point.
+1:51:07
+So cool.
+Cool.
+All right, kick them out.
+See you guys, we're going to use our we're going to use our magic genie power to to kick Will out of the for for reference, Will was not the West in that story that that was a totally different person that that was.
+1:51:23
+Will.
+Has his own.
+Will has his own share of Wes's to to to deal with in his rooming situations.
+Indeed.
+But yeah, that will that will kick us from party house over to over bold.
+1:51:57
+And an over bold in the notorious Red arena.
+The more risk you take, the more money you make.
+And the gift condition for this is to win at least $500 Zolbath bucks in one fight.
+The gold to beat this game survive 8 rounds in the Red arena and the boss at the end and your cherry condition is to win with at least 4500 money.
+1:52:21
+How long to beat has this pegged in about 2 1/2 hours.
+And your general gameplay overview for this is that it's a it's a top down shooter.
+You're firing.
+Firing your gun fixes alpha who has returned in in that direction.
+So that way if you're shooting.
+1:52:37
+As long as you're holding the, as long as you're holding the button, you stay a fixed shooting direction.
+Correct.
+You have a a blaster that you shoot or bombs that you can drop on the ground and you kill enemies that show up to end around.
+That's really it.
+And then it that kicks you out to a shop where you can increase your wager, but that also increases your danger from the extra enemies that pop up.
+1:52:59
+Meaning that you know if you want more money earned from the next round, you have to up your risk by adding more enemies to the pool.
+You use that extra money to get more upgrades for things like lure bombs that will lure lure enemies towards the bombs.
+1:53:17
+You can upgrade the bombs with like a project or yeah like shrapnel or you can get like a Shields to block a an explosion or projectile hit you.
+Gotta buy the shield to block the explosion.
+That is like the most important purchase.
+You can get Med kit drops that drop down every 30 seconds ago and you can upgrade your blaster to do like knock back damage and then the final fight boss is like this giant trilobite that summons like these exploding minions after you your high level.
+1:53:48
+All right, check it out.
+Yeah, I got I got the gold diskette and I I very nearly destroyed a controller playing this game.
+Now part of the reason I said such a hard time with it was because it is another hostile design ethos, another very non gamer friendly design philosophy.
+1:54:16
+And another part is that I undervalued the specific shield upgrades.
+I kept going for the health upgrade.
+No, no, no, no, no.
+Get those top row shield upgrades or else you were going to pull your hair out.
+Hey, check it out.
+This is like we were talking about the the the the the history, then the sort of meta theme and plot of this of UFO 50.
+1:54:39
+This clearly in in the lore than the Canon.
+Here's what I imagined that Overbold was a pretty good, pretty fun arcade game with better graphics, a bigger screen, 2 sticks for a dual stick experience, and then when they ported it to the less capable NES they completely fucked it up.
+1:55:03
+LX3 and party pardon me, the LX3 This game is like hey, what if we took the biggest character possible and shoved them into the smallest arena possible and we had enemies that will one shot you spawning all over the fucking place.
+1:55:21
+Also if your shadow touches a lava pit, you take damage.
+Yeah, great job guys.
+Great job.
+I am close to starting a campaign.
+In fact, I'm announcing it right now and the campaign is to to to to demand that Steam remove UFO 50 from its marketplace until they patch this game out.
+1:55:45
+I hate this game.
+I do not like over bold at all.
+The one thing I will say about it that's good, that is legitimately good is that you know, for the for the problem of how do we do a top down shooter without 2 sticks, without 2 joysticks.
+1:56:02
+Well, I'll tell you what you do.
+You do what they did in Smash TVNES and you plug in 2 controllers and you use 2D pads.
+But short of that, the solution that they came up with of holding down the firing, I think it's been done in other games, probably it works pretty well, but not in this game.
+1:56:22
+If we had this combat in in like something like Zoldath, I think I'd be pretty into it.
+But for an arena shooter, this is this is rotten.
+It's rotten and it's not.
+It's not an enjoyable gaming experience in my opinion.
+I was noodling around with another classic era, a fixed position shooter, 1 button shooter game that that Woody showed me the light for called the Chaos Engine.
+1:56:49
+And that reminded me a lot of like kind of like, you know, how do you solve this problem?
+You can't strafe if you're holding down the shoot button and that.
+But for whatever reason, the shooting in that felt way more responsive than like, I mean, you also have food, food power ups, special power up.
+I'll tell you part partially why, Scott, I would bet that the enemies in that game die.
+1:57:10
+These enemies have so much health it's insane.
+And at one point when we're playing it at your house, Scott, you so you're like betting on in between rounds.
+There's a neat betting mechanic.
+It's like you increase you, you boldly increase the the the the pot.
+1:57:27
+Each time you upgrade in, you raise the pot by 100 Zodath bucks.
+It adds another wave of enemies.
+And there's different types of enemies.
+And they're all bastards.
+And they're all designed in an incredibly aggravating way anyway.
+And every time I would up, up the ante and it would, it would say, I'd hit the button and it would show me the enemy that's gonna spawn.
+1:57:46
+I'd hit the button and show me a new enemy.
+Each time I'd go, Gee, at some point Will said, is there any enemy that could randomly appear that you would be happy with?
+And I was like, no, they're all, they're all bad.
+They're all bad.
+They're all aggravating.
+Little Caterpillar cats.
+1:58:02
+Those ones are easy.
+The the flowers aren't bad because they show you where they're going to spawn ahead of time, so you could just drop a bomb.
+I just want to say.
+Cut you off.
+Sorry Scott.
+And I'm and now I'm cutting off Woody.
+I want to say I agree with everything that Andrew has said as a criticism and a design of this game.
+1:58:19
+But I like this game.
+I think it's fun.
+I I think all of Andrew's criticisms are accurate except for the part where he said that it was bad, because I do think this game is hostile in its design.
+It has a lot of irritating challenges, but it's like Velgris.
+1:58:39
+It's a game that you just kind of, I have a good time knocking my head up against and it's short enough that like, I never mind when I die because like, I don't feel like I've lost that much time.
+I'm happy to go again.
+I remember this.
+1:58:55
+I like this game.
+You know I had a very good time playing this game when I played it, but I was looking it's one of my least played games on the collection because I remember getting the cherry fairly quickly.
+I don't know, I, I think, I think this game is very fun in its simplicity and it just has very intuitive design, albeit frustrating and kind of rage inducing.
+1:59:21
+But I guess on this pocket, I've come to realize like, I kind of like games that make me rage and I don't know what it is about it.
+It's just at some point, you know, I, I can recognize when I'm on tilt and I can stop playing it, but right up until that point, I, I have a pretty good time.
+1:59:38
+I mean, I definitely have had that.
+Like I remember when I was trying like playing StarCraft 2 a little bit more competitively and I would be like rage start the next game and be like, I'm not sure if I'm having fun right now, but I can't stop myself.
+And then there would be like days where I'm like.
+1:59:56
+I.
+I don't know if I have like the emotional energy to start playing this a StarCraft session right now because I'm going to get too mad.
+But the difference is, like with StarCraft moving longer, yeah, it is much longer.
+And you have somebody else on the line and you have something real at stake.
+2:00:15
+I mean, real is relative, but like you have an actual rating at stake compared to this where you're like, oh, I just fucked up because I'm on tilt.
+I am going to stop playing this game and.
+But Woody, that is, I mean, this is, This is why, you know, you're such a, such a renaissance man, such a an elevated wise person, a wise gamer, because you have the ability to do that.
+2:00:41
+Unfortunately, I, I'm pretty lousy at it.
+And it's something that I should work on.
+If you've given me 'cause to, to reflect on my own inability to not just keep rage restarting, restarting, restarting and trying to grind it out, which which never works.
+2:00:59
+Going back to something that you said about you said something about how you feel like, oh, you haven't lost that much progress.
+You start that restart the game.
+I really think that the first round of this game you referenced earlier, Colin, is a complete waste of time and that the game should start on the buy.
+2:01:15
+Screen and there are user mods.
+Yeah.
+I see.
+What you're saying?
+That have that have like patched that out directly to the shop screen.
+That is very smart.
+I also feel like the game should probably give you a little bit of a break and give you a little more money to start with so that you can start engaging with these fun builds.
+2:01:33
+But I get it.
+Then it wouldn't be as much of.
+AI mean it gives you a little game.
+You know, it gives you a little more replay value to not be able to get all of the builds all of the time.
+I mean, sometimes when you have a really good run, like I got to the point where like 2 rounds earlier I was almost filling up the wager and then I was almost able to get every power up and then the game just kind of become silly but.
+2:01:58
+Indeed, Now that is actually, I'm sorry, I said the only thing that I like about this game.
+There's there's another thing that I like.
+Hey, when we're playing rogue likes, rogue lights, we are looking for significant perks.
+We're looking for impactful upgrades.
+2:02:14
+And this game, I think has kind of makes the mistake of making you too weak at the beginning.
+But there are in addition to like health buffs and Shields, which again, I feel like maybe you should start with a little more HP.
+It has a bunch of, as you mentioned earlier, Scott weapon upgrades, mine upgrades, there's a ricochet ability, there's push back, there's the the, the one that the the mines pull you, you know, pull in the enemies.
+2:02:40
+So like that, all that stuff.
+Pulls upgrades off drone that double s all of your abilities.
+Which is very powerful, yeah.
+And like, talk.
+That's so cool.
+Yeah, that that says that's a good point, Andrew.
+Like this is the game.
+Like the the upgrades in Veldgrass are useful, but they are not.
+2:02:58
+They don't feel as impactful on the actual gaming experience as the ones in over bold do.
+Yeah.
+And I feel like there's kind of maybe 2 to like build directions where you're either like going to fold like mine upgrades or full blaster upgrades.
+2:03:13
+And but like if you try to mix the two, it doesn't really work that well.
+And my 1 winning run that I did, I had a dash upgrade and just maxed out all the stuff with the mines.
+And that worked out really great up until the final boss where then I ran out of mines and I was like, oh fuck, my blaster is like way underpowered.
+2:03:32
+And I was able to kind of dash attack through stuff.
+But even then it was still like edge of my edge of my seat, like I was sweating bullets.
+And it was, it was fun.
+I would say it was fun.
+I almost kind of think that like the unhinged 2 player mode to this is maybe more interesting because it's like you, you increase the wager that you think you could do and then the other person's like I think I could do a little bit more and then whoever backs out has to play that session.
+2:04:00
+So I feel like that might be that might have more long legs to it gameplay wise and like a party setting.
+But I could see, like, you know, beating this could be another classic case of like, yeah, you beat this game once and then you're done with it.
+And that's fine, Yeah.
+Yeah.
+And they they could have easily just.
+2:04:19
+Phoned it in and been like oh the players take turns and whoever gets the most at the end wins or whatever.
+Nope.
+They came up with something cool.
+They came up with something interesting and that is present throughout UFO 50.
+Like a lot of the games have two player and those two player modes are almost always something neat, which I I really commend the designers for.
+2:04:39
+So I didn't like Enter the Gungeon, a game that is good, and this is like if Enter the Gungeon wasn't as good.
+So no, not.
+For me.
+Yeah, again, you would have totally blown my mind, Colin, if you're like, yeah, Overbolt was great.
+So I I think you're, you're totally right.
+2:04:55
+I don't.
+I don't begrudge anyone for their opinion on it, but not the kind of game that I'm looking for in a in a relaxing Tuesday or what Thursday evening.
+Right, well, as we blast off from over bold here, we blast in to our final rogue game of the evening with one of maybe maybe one of the most ambitious titles on the UFO 50 collection.
+2:05:23
+We are talking Campanella 2.
+2:06:03
+The pilot's gone missing in a giant space station, and his sister Isabel is determined to find him.
+Your gift for this is to obtain the Friendship bracelet.
+Your gold victory condition is to escape with Pilot question mark, and the cherry is to save the planetoid, which involves collecting all three scrolls from the sages.
+2:06:25
+And this was long question mark.
+No spoilers.
+I haven't beat it yet.
+I haven't beat it either.
+We'll get to that.
+How long the beat has this one pegged much higher at 6 1/2 hours, and I can totally believe that this game has been hard.
+Yeah, I was good at this game.
+2:06:40
+I've played way over six hours.
+The general gameplay overview for this is like the so this kind of assumes that you've played the other Campanella games on the system, meaning Campanella One or Big Bell Race.
+Or if you're in my case and you're just like, no, I'm just going to throw the Co host into it.
+2:06:58
+But this is a Flappy Bird style UFO flying saucer that you joust.
+Yeah, yeah, like you.
+Know joust mechanics.
+If the if the ostrich had fuel that you had to manage you flying around a procedurally generated level, you collect 10 floating stars to open up the level exit.
+2:07:17
+And then from there you can you go through this on foot side scrolling cave sequence where at the end of it you either resupply some fuel or you fight this, I don't know, like long elephant nosed hog creature that shoots bombs out of its trunk rotumbo.
+2:07:38
+And then you after that you pick from two options from your next level.
+And as you are progressing through your acquiring upgrades, you're going through different side scrolling.
+Yeah.
+So, so your upgrades that you acquire, you can either get for your side scrolling blaster sequence or for your ship flying sequence.
+2:07:56
+And during all this, you're managing your fuel, you're managing fighting enemies.
+Eventually you'll come up against the final boss fight, which maybe we'll talk about.
+And then after that maybe spoilers, you have a very unique kind of ending sequence to this game that that once you get to it, it's it's not proc Gen., I'll say that much.
+2:08:22
+So maybe maybe give it a little study first before before you know you're in it.
+But it's like this Star Fox style escape sequence that that then you escape the planetoid with and that's kind of your general 10,000 overview. 10,000 foot planetoid overview of of Campanella 2.
+2:08:42
+And then it has.
+So Andrew, you can come back, Andrew.
+I do also I.
+Took my headphones off.
+No, I know.
+I heard the most important thing, which was escape sequence.
+Why you got to spoil that?
+It's so exciting to get thrown into an escape sequence without knowing.
+I should have turned my headphones down.
+2:08:57
+I heard them even though they were off my I heard that even though it was off my head.
+Yeah.
+Hey, the the this is this is this is a master blaster style game.
+You have a vehicle that you're doing vehicle things in and you have an on foot mode where you're doing side scroller things and both are good, fantastic.
+2:09:19
+That's no easy feat.
+They basically designed two games and they're both good and there's great rogue like elements and great upgrades and and a fun story and cool characters and cool enemies, cool environments.
+This is 0 of course is going to get A50 rating on my UFO 50 scale for the 50 year Golden disk jubilee.
+2:09:42
+I'm, I'm glad that we're finishing with this game because to me this is the like, this is clearly the game that is like, oh, like Derek, you designed this.
+And it is basically like, I'm going to use a lot of no, Derek, you didn't design this.
+Shocking.
+2:09:57
+No, no, no, no.
+This is too fun.
+This is Eric's.
+This is too this is too kind and.
+And, well, I don't know what you're.
+Talking about this game's brutal, it's.
+Brutal doesn't feel like it's malevolent.
+It's exactly.
+2:10:13
+I don't know about that.
+Sometimes it's.
+Predictably hard.
+Campanella 2.
+Surprised.
+Sometimes, sure.
+But like, it doesn't.
+It doesn't feel like Spelunky.
+It doesn't feel like a nasty game.
+This is a hard game.
+It's challenging game.
+2:10:29
+It's very difficult.
+So, so this one.
+This one was made by Eric Circa, the guy who did all the music in the game.
+My God.
+I believe he's got it.
+All I believe also bug hunter was Eric, surprisingly.
+So I think that was John Perry, but.
+Anyway, Well, yeah, so, so also part of the nebulosity of this is like it's not very obvious that like it doesn't, it doesn't say in the game credits that like this person worked on this game.
+2:10:54
+It's like the the Larping of the fake developers.
+It kind of muddies those waters a little bit.
+But I do believe, because I was listening to a so there's this community event called Cherry Rush where they speed run through all the UFO 50 games.
+And Eric was on this specific one where he was giving some good commentary to it.
+2:11:14
+And I feel like this game kind of almost feels like Erics interpretation of Spelunky to some degree.
+Where in that stream he was saying on the stream quote, I fully admit it, this is not a fair game.
+And to me that made me feel a little bit better.
+2:11:30
+But he also goes on to say that we had a choice between a fair game and a fun game, and we opted to make it fun.
+Specifically about the level Generation 2, he says that it was important to me that it felt primitive, that it didn't do anything too sophisticated.
+2:11:47
+And so those are things that kind of like stick out to me of like, you know, there is this very obvious Spelunky way of designing the levels and like the critical path through it that could have just been copy pasted into this because they were working on UFO 50.
+2:12:04
+That's the same time that they were building Spelunky 2.
+And Eric was like very integrated into the Spelunky 2 design process.
+He did all the music for that.
+And so like Derek, you and Eric were all Derek and Eric.
+We're both working on Spelunky 2 while they're building Campanella 2.
+2:12:21
+So I can kind of see where they might take some design decisions from that to say, yeah, this would be the correct way to do it.
+But would they have done it the correct way in like 1985 or?
+Whatever on the Internet. 3 So there, yeah, there's aspects to this that I do.
+2:12:39
+I believe there is a a power up in this game that literally does nothing.
+Like people have tried.
+To figure out what it is and it just doesn't do anything and they left it in the game.
+And he said on that stream, which number one is very funny, but #2 he said in the stream that like, the intent for that was that, like at the end of a level, you have this countdown timer that's like, hey, you got to get to the level exit.
+2:13:02
+If you let that run down, like all of these, like, jellies come in from the edge of the screen and we'll just kill you and do a million damage.
+And there's no way to stop them.
+And that the idea was that that amulet would somehow stop that or prevent you from dying from that.
+But for whatever reason, they just didn't.
+2:13:19
+They didn't have that enabled in the game.
+I don't know if that's in the game, that which.
+Is that's a true, like, old school jank game thing where it's like this, this amulet protects you from danger and you're like, no, it doesn't.
+What does it actually do?
+But.
+2:13:35
+But like, oh, sure, the mystery of what the actual mechanic is, but it's like, like, I'm pretty sure it doesn't actually do anything.
+Like, And then like, yeah, 15 years later, they're like, oh, yeah, we like, we forgot, we miswrote the code and actually makes it so the enemies do 25% more.
+Yeah, yeah, yeah, yeah, exactly.
+2:13:50
+And of course, at the time, there wasn't an easy way to patch it because there's no Internet.
+Yeah.
+The Stack Overflow or some weird.
+That's so funny.
+I was, I was just playing the game earlier today and like I've gotten this thing, it's the only thing I can afford.
+I guess I'll buy it.
+2:14:06
+I I can't quite figure out what it does.
+Well, that's interesting commentary.
+One of the the unhinged NPCS that you find in a shop will say something that like the amulet protects from like ghostly visitors or something that's like.
+Right the Jelly's.
+OK.
+Yeah, that's that's kind of signalling towards it doing something.
+2:14:24
+And I think also in Barbuda, this might, this might be like a slight Barbuda reference.
+There's just an item in Barbuda called trash.
+It literally does nothing like it is not nice like there's no use for it.
+I guess maybe other than unhinged like dark cherry speedrun type stuff.
+2:14:40
+But but I feel like my my biggest friction with this game is fuel because like and so I I beat this game.
+It took me a lot to beat this game.
+I think I put, I don't know, like 9 or 7 hours into it to to finally beat it, but 9 hours, 9 hours and 5 minutes to to gold this game and there's a lot of mechanics going on.
+2:15:06
+Like the first the first few times I played this game, I hated it.
+I hated this game is the bottom of my rankings.
+Blows old Ath and I thought like this game is just like it's a poor man Spelunky.
+It's like almost I almost thought it was like Eric doing a like a like a commentary on Spelunky of like spelunk is a bad game.
+2:15:26
+This is why.
+But in reality, once you kind of like get your head around that, like fuel and health are like these resources you have to have a strategy for and plan for that, the game then like really opens up a lot.
+And I think unfortunately, like this game maybe is too easy.
+2:15:46
+If you get this one specific upgrade that as you're flying around you can kill enemies in the UFO flying saucer part of the game and that will give you fuel.
+I don't think I think that that makes the game beatable.
+I do not think that that makes, I think that is very important to beating the game, but I would not describe it as making the game too easy.
+2:16:07
+Well, the the flip side of that is that your other fuel strategies are either just going into shops to find something that gives you more of your fuel meter maximum, which is hard to find.
+Or there's other strategies that like if you get an item that allows you to pulse like magnet, you know, magnet stars through walls, kind of the stars give you a little bit of fuel.
+2:16:26
+And so then it would save you fuel.
+Right.
+And it would save you fuel from having to trudge around some of the like most dog shit level design I've seen from a proc Gen. system where like you'll just have like a node that goes out into nowhere and just elbows down and then there's just like nothing there and.
+2:16:42
+You're like, oh man.
+Because you use too much fuel getting there.
+Yeah.
+And like I, I, I get that.
+Like there's aspects of like, hey, the 1980s LARP, like they wouldn't have done it the right way.
+And yeah, like, I, I agree that like, maybe that's an important part to preserve.
+2:16:58
+It was just super frustrating because even if I had all of those upgrades and I did everything right, I just roll the dice and I'm just turbo fucked for no reason.
+I I actually you're.
+So right, You're so right.
+And like the randomization like adds to the game like we like we love rogue light games and the randomization elevates it, But the way that it's implemented, I I I hear you and the fact that they Larped it is I I respect, but also you're right, Scott, it doesn't feel.
+2:17:28
+Good to get.
+Turbo fucked by the level design.
+Sorry, what do you?
+What is?
+Yeah.
+Oh, I was just going to say this game makes me more frustrated than any of the other games we've talked about because it feels like this game is a lot longer.
+Like, you know, Velgris, you can get through a level in, you know, a minute, minute and 1/2 this game.
+2:17:49
+Each world, there's like 4 worlds in this game.
+Each one is composed of at least 2 sectors.
+And so it takes a lot longer.
+If you fail, you're back at the beginning and I my biggest weakness with this game is I don't like the side scrolling sections.
+2:18:06
+I think that they're I think that they're boring.
+Like I think that they are funk perfectly functional, but like I pretty much never get hit on them because the enemies are all fairly predictable.
+2:18:21
+And especially if you get like a power up for your side scrolling gun.
+And I always die in the, you know, on the UFO sections either from like Scott said, getting randomly hosed by going into a corner.
+And so I never am all that engaged by the side scrolling sections.
+2:18:41
+And they make up a fairly big chunk because one of every three rooms you go in in each level to get power ups, like you have to go through the side scrolling section.
+And it feels a little tedious to go through this side scrolling section to get the power up.
+2:18:58
+That increases my coin intake every time.
+But I feel like I have to do it to get myself as good a footing as I can to continue in the run.
+To defend just a little bit is that they're not very long.
+They're not very long and.
+2:19:14
+They're about as long as one round of over bold.
+Yeah, depending on how much you're wagering.
+Maybe, maybe something's longer.
+Colin, your your thoughts on the side scrolling?
+I'll just say I don't.
+I don't dislike them, I just don't think that they're the meat of what this game should be like.
+2:19:35
+I find the interesting part of this game to be the flying around in the spaceship like side scroller is not it it?
+It probably makes sense in the context of a game that could have come out in the 80s, but I don't think it's interesting for a concept of the game in 2026.
+Like the Flappy Bird joust, UFO flying around ring thing like that is a interesting novel thing to play today and I felt like the side scrolling bit.
+2:20:03
+It's just kind of a distraction.
+It wasn't, it wasn't good or bad, it was just kind of there.
+Right, but you have to play a little bit.
+Of time I want to just get back to flying in the.
+UFO yeah, I I totally agree.
+But it's with a roguelike game, like if something is just kind of neutral and then you have to play through it a bunch of times, it really starts to wear on you and I feel like.
+2:20:24
+I didn't play this game anywhere near as much as you or Scott so it it might become more annoyance to me and.
+More of it for like the procedurally generated things are the side scrolling levels.
+They are procedurally generated to some degree.
+2:20:39
+Or they're like modules that are stuck together.
+But they're never very interesting, like they never have any sort of verticality to them.
+Well, that's.
+Where I kind of disagree with you, Woody here, here's the fun that I have in the side scrolling bits is that you can't, you don't get the experience of a bespoke side scroll level where you learn the best route and you get to like feel good about like I've mastered the route of this, this particular Battletoad segment, for example, or this specific Contra segment.
+2:21:11
+But you do learn the modules and the modules are randomized.
+So if you, when you recognize, oh, this is that specific spot where the 2 scorpion guys are going to spawn up on the top part, I know the best way to maneuver and kill them.
+It feels kind of good to just go through and smoke them.
+But but overall, you're right.
+2:21:29
+I I agree to a lesser extent that the side scrolling sections do get a bit tedious, especially in the first world.
+Yeah, and I.
+I, I don't know, I feel like that has held me back in terms of wanting to go for the cherry on this.
+Sorry, remind me.
+2:21:45
+Oh, nevermind.
+Actually, don't tell me the the.
+Cherries.
+I Bill, I I mean.
+Next.
+Next.
+OK, well, well, the cherry condition.
+But it's held you back.
+Yeah.
+And you're.
+And you're so right about it being such a long game.
+This is one of those games where I've had to take breaks, partially because of how long it is and because it's just like, golly, I've been, I've been sitting here for a long time.
+2:22:06
+Yeah, this game is basically as long as Spelunky, if not sometimes even longer if you were really trying to book it through a Spelunky.
+Because like you, you have a fairly limit ability to book it through this game.
+Because I feel like the upgrades are so important that you need to do a lot of these side rooms to be able to get them.
+2:22:27
+Indeed.
+Here's a question that for for the big Campanella heads here you go through your first world and you are presented with, well, the the first cave sequence that you can optional cave side room that you can do.
+2:22:44
+You're usually well, they have fixed rewards for some of these.
+The first one in I think, like Burroughs wonder Burroughs too has an option for and it's always the same.
+It's always like get 5 health back, increase your health by a maximum of two, or get the coin upgrade so that you get more gold for on every kill.
+2:23:07
+I always get the coin upgrade that feels like the thing that makes the most sense that early in the game.
+It it's that classic thing of when you're starting a rogue like and or you're, yeah, you're, you're new at a rogue like.
+Many of these games give you that type of a choice where it's like, do you want to increase your health permanently or do you want to heal?
+2:23:28
+And you know that you're still a novice.
+But yeah, you know, you're still a novice when you're depending on that heel.
+Yeah.
+And as soon as you start getting good enough that you pick the upgrade or some other, you know, monetary gain or what have you, you know, whatever run really perk, then you're turning the corner.
+2:23:46
+Sadly, I'm still having to pick the full heel more often than I'd like to.
+Yeah, I mean, and you know what I said like I don't usually get hit hit that much in the side scrolling section, but like if an enemy hits you, it deals you like 3 damage and you start with like 5 health, so.
+2:24:03
+Not, not a lot.
+Not a lot, that's for sure.
+And there's very few ways to get more health aside from using one of those power like those.
+Upgrades indeed.
+I do want to do a quick call out to.
+When you get hit there is an actual number that pops up and says you know, minus whatever amount of damage when you run out of fuel, specifically when you run out and on average these the damage is 2345.
+2:24:26
+You know when you run out of fuel and your ship crashes, the number that appears is 9/9 smacks out like you're deader than dead and it doesn't feel good.
+But I I thought it was a fun detail.
+Yeah.
+I mean, go ahead, Scott.
+Oh, and and crucially, like.
+2:24:44
+If you run out of fuel, you can burn coins to kind of limp you to the exit, which I've relied on a handful of times.
+And it's come in clutch.
+Yeah.
+I mean, this game, like pretty much every game, most games in the collection, I feel like it's clever.
+I I like what it's doing.
+2:25:01
+I just, I guess, I guess I wish it wasn't.
+So it was.
+I wish it was either shorter or slightly less hard.
+It, I mean, not only is it fairly long, like it has branching paths.
+So like even even if you play through once, you're like, oh, I didn't see all the levels.
+2:25:17
+I agree with that.
+And I think that some of the the fixed level rewards that like you can kind of plan a build around some of them are duplicated and one of them is the amulet that doesn't do anything, which it seems like like pretty bullshit.
+If one of them was guaranteed to be that like get fuel from enemies on kill in the in the ship section, that would number one, give you a path that will be like, OK, this is the the newbie path.
+2:25:43
+And maybe that that doesn't align with the cherry goal 100% of the time.
+Yeah, but if like going into temple grounds or the rink or something, like if I know if I go there and if I can find the shop, I'm guaranteed to get that enemy to fuel upgrade.
+2:26:02
+And then now I can finally like play through the rest of the fucking game and not have to worry about, you know, losing fuel because I I took a left when I should have taken a right.
+And then you flip a coin bat and you lose.
+And like that I get like developing a game that's more fun instead of balance.
+2:26:18
+That's not fun.
+Like if you flip the coin and you lose, like especially that far in, it's not like that doesn't feel good.
+Like, yeah, the cut, Scott.
+By the same token, when you flip the coin and and you, you get heads, you know, three times in a row and you start a level and there's like 2 doorways right next to each other and a bunch of gold like a bunch of guys that can farm for gold that feels.
+2:26:40
+Good, that does feel good.
+I don't know if it makes up for it, but like there are there is there is a counterbalance where sometimes the RNG blesses you and that is exciting.
+Yeah, I mean, this is this is a rogue like podcast and like this is the game that is definitely the most rogue like all of the games in this collection.
+2:26:59
+And so if that's how you're going to judge it of which game is the most rogue like and scratches that rogue like itch like this is #1.
+And that's why I think it grew so much on me overtime, going from like me absolutely hating to the the game to being like, oh, like beating the final boss in like this triumphant moment of like, wow, like I beat that game.
+2:27:21
+It felt like me beating Battletoads almost of just like this was like it's, it's such a hard game and it's such a hard roguelike game on top of that, but like.
+This it it feels the most like a a a full game like a lot of the other ones feel almost kind of like a mini game or or like smaller.
+2:27:42
+But this is like you could sell this as a stand alone game.
+Pretty.
+I think that a lot of that symptom, Colin, is the ones that we have played for this podcast have tended to skew on the earlier chronological release order.
+As you get farther to the bottom, there are some games that are real, real full games.
+2:28:01
+Sure, sure.
+And I'm, I'm, I am explicitly only saying among the seven games that we are looking at for this podcast.
+Yeah.
+I agree.
+I agree with you.
+I know that there are other.
+I know there's the whatever the RPG game is is like a full.
+There's there is multiple like.
+2:28:18
+Well, there's whatever the one is that takes like 20 hours to be.
+Yeah.
+Well, well, let's let's as we're running out of our fuel budget on the KLC segment here, leading coins, anything else we want to talk about this before opening up the floor to the whole collection in general?
+2:28:34
+I think the floor needs to stay closed.
+Just real quick.
+I, I think, I think with this particular game, the IT suffers from the symptom of there.
+I said at the beginning, there's two, there's two, they've designed two games and they're both good.
+Here's the problem. 1 is really good and 1 is pretty good in my estimation, Sure.
+2:28:55
+And the the UFO, the actual flying does indeed very much outshine the side scrolling.
+But I think it needs the side scrolling to just for just for the the I don't know the the the feel and the plot and like the excitement of the game.
+2:29:11
+I agree you.
+Landed on this, the space whale.
+I'm I'm glad I'm glad to hear that you land on the space whale.
+You're going on this epic adventure and like it.
+It feels so important to the theme and the setting and you're encountering.
+All these whacky.
+I think if this game didn't have the side scrolling section then what Colin said about it feeling like a real game or like a a more fully formed game would not the case.
+2:29:34
+I think it would feel more like a mini game for sure and I.
+Didn't mean to imply that Woody that, that you, you want it removed per SE, but it's important.
+And at the end of the day, though, I do agree, I wish it was as good.
+Maybe diagonal shooting would have helped Contra style.
+2:29:52
+But of course, obviously the mechanics would have been very different.
+And I, I understand it's, it's that that's a totally different thing.
+Anyway, I like it a lot and gosh if they ever did a sequel, a Campanella 2 colon two-part part Part 3, whatever with like 16 bit graphics.
+2:30:10
+Like I want to see a SNES version of this game that was its own standalone game.
+I think that would be incredible.
+All right, that's seven games out of 40.
+Three others.
+Now we're going to talk about those.
+So let me fire up the timer.
+2:30:26
+No, there's there's too much of this game to cover in even just the roguelike games.
+This episode's running real long the tooth here.
+So yeah, what?
+Woody, from your perspective as someone who's played a lot of these games, we've talked a lot in depth about a lot of these games.
+2:30:48
+What are some of the stand out ones that you were surprised by that that that weren't were the ones that we talked about so far?
+Sure.
+I think one of my favorite games on here is a tactics which you described as the medieval Tetris attacks, which basically you there's castles on each side and sort of your army is sort of put out just sort of constantly and you need to basically swap the order of your guys to make a more efficient formation.
+2:31:19
+And certain got you know, you want to try and put the shield guys in front of the spear guys or like line up your horsemen to form a sort of, you know, to sneak in and hit their castle.
+It is a really really well designed game that strikes like tactical and puzzle in the same way that like something like bug hunter does, but it is really fast-paced and I find it really appealing as a multiplayer game.
+2:31:44
+I also another favorite game of mine is hot foot, which is the dodgeball beanbag game, which is I think of all the games on this has the best cooperative mode.
+It's it's kind of a it it feels weird to play it in the one player mode cuz you have to control 2 characters simultaneously.
+2:32:04
+But the cooperative mode is really a delight and has a lot of very fun back story and lore for the elementary school kids that are having to play this beanbag dodgeball against each other some.
+Of which are the fake developers as as little kids?
+2:32:22
+Oh, yeah, that's true too.
+They they even do the thing like at the start of a Mortal Kombat match, you'll have like, they have like an arch enemy where they'll have set dialogue against.
+And then in the end you have to fight against the robot Blorg, who's programmed to win.
+Yeah, Hot Foot.
+Hot Foot is pretty delightful.
+2:32:39
+I also, I there's a lot, there's a lot here that delights me.
+Let me here fill up time real quick just so I can make sure I didn't.
+Forget any I think for for me, the ones that kind of stood out to me, I was I was kind of man on UFO 50 when I first played it, but I like the thing It's very.
+2:32:57
+Easy to be man on UFO Fifty the first time you play.
+Because it's like it's like playing minesweeper of like, alright, I'm going to click on this one.
+Oh, what's this one block koala?
+Yeah okay, I guess I'll play this.
+Well, this game is dog shit.
+I'm not gonna play the rest of.
+These block koala sucks.
+I like.
+Michita Ball when we're playing.
+2:33:14
+That seemed like a game that I would have loved as a kid.
+Just me and my brother.
+Let it be known that Colin was the victor of our mini tournament, which is why I liked it.
+Yeah, that game's that game's dope.
+Sorry we, but we interrupted Scott.
+Go.
+Ahead, but but the two that sold me were Wanger and Warp Tank 2 games that both involve like the VVVVVVV, like gravity flipping mechanic, one of which is a Metroidvania and the other one is more of kind of like a a puzzle game, like a puzzle platformer.
+2:33:41
+And both of those, I was just like, whoa, this is so different than anything else that I've played.
+Let me play through some of these other ones.
+And then, yeah, like moon cat.
+Amazing.
+Yeah, I want to talk about Moon Cat.
+That was the game I forgot because that was the game where I, my mind was blown and I'm like, OK, UFO 50 is a the real deal because like I booted up moon Cat and for the moon Cat, like I, I don't know how like basically it's a 2 button game, but one of the buttons is your control stick that moves you left.
+2:34:16
+Or actually the default controls are backwards.
+So no matter what direction you press on the control stick, you move right.
+And then no matter which button you press, you move left.
+And in order to do stuff you have to like to jump you like tap both at the same time or you have to double tap One Direction to dash.
+2:34:35
+And it totally blew my mind.
+I thought my console was broken.
+And yeah, because like it, it starts you out by like putting you on this little platform where you you have to move to the right and your expectation is I'll press right on the D pad and then Moon Cat moves to the left.
+You're like, what the fuck is happening?
+2:34:51
+Yeah, it is a wild, wild game.
+And it totally like just made me realize, oh, there's clearly like, if, if this is one of the games, then I have to try all the games because there's clearly going to be something weird going on in in all of them.
+2:35:09
+I guess I'd like to I have to mention for you woody Lords of Disconia.
+Yeah, Lords of Disconia is very, very cool and clever.
+It's yeah, that's the Croc and all game that is kind of like Archon, where you shoot like discs, might be like a knight or a mage, and you shoot them into your opponent's discs to deal with damage.
+2:35:28
+The problem with that game is you have to play against the computer AI, which is pretty busted.
+It's really hard rail hot man.
+There's so many great games.
+When I look through this list, it's like and so many weird things you'd never think of.
+Like rail heist is a weird kind of like timed tactic shooter that's kind of like XCOM or something where you can set up guys to like, you know, do Overwatch and it it it that's a whole world that I.
+2:35:54
+It's like a cowboy Wild West.
+XCOM.
+Yeah.
+Yeah, I never quite figured it out, but it always kind of engaged me.
+Oh, and the other one is, oh God, so many.
+The other one, like pin golf, pin golf is just like a side scrolling kind of mini golf thing.
+But the the gimmick is you can't.
+2:36:11
+There's lots of obstacles, but you can press A while the ball is in the air to like give it this sort of diagonal vertical drop and dunk it, which is allows you to go off ramps and do all kinds of sweet stuff like that.
+It has a super cool like art style.
+2:36:26
+Yeah, I mean everything has like.
+Is is like really incredible.
+Like, I don't know you could do that with NES graphics.
+Well, yeah, I mean, and this was not actually designed via, you know, actual NES hardware well.
+Sure.
+But like, I mean, they're working with like the color palette and the amount of pixels and like, you know, approximately.
+2:36:45
+Night night manner is AI mean this is you know if you look up a tier list, most of these are on the top tier.
+But like Night Manner is a sort of first person adventure game, like a LucasArts thing where you have the an inventory of stuff and it really is a surprisingly scary game and really well done and it feels.
+2:37:04
+That's like the one that's like uninvited.
+Yeah, exactly.
+I got to check that one out.
+Yeah, and then Minnie and Max is probably the best game that I have not yet fully delved into, because every time I get to a certain point in the game, I get totally overwhelmed by what it actually offers and the scope of the game and real, and then just feel like I can't handle it.
+2:37:30
+That game, mini and Max has one of like the all time best final levels of like any any one of that era of gaming that I've played.
+It is.
+It is if you are able to invest to getting to that final level, so worth it.
+2:37:46
+So so worth it.
+OK yeah, I mean I got this is reminding me I need to recommit to mini and Max cuz I had I had forgotten about it, but it is it is a really cool game.
+I just I always struggle with backtracking and keeping track of myself in games.
+And if you know how mini and Max works then that you can see how that would be pretty difficult.
+2:38:05
+Andrew, were there any standouts to you for the non rogue games that you tinkered?
+With yeah, Waspir, the Schmucks game.
+I hate.
+That it's.
+Brutal.
+I hate that.
+Like again, I realized that wide screen isn't literally.
+2:38:22
+It's not like they just took the game screen and like cut the top and bottom off.
+I understand that, but since they designed around the design principles of having that large rectangle and you're at the bottom of the screen and you're flying upwards, enemies appear on screen.
+This is a schmucks game.
+Enemies appear on screen and you have almost zero time to react it.
+2:38:41
+Scrolls so.
+Fast, it's wild.
+And now the the system that the the the upgrade system is like interesting.
+I have a lot of problems with it, but I I've been grinding away at it and it's it's it's a lot of fun.
+It's a lot of fun in a bullet hell way and but like it's it's brutal.
+2:38:58
+As you say, Woody, the other one Ninpec is fun.
+I I didn't cherry it, but like I beat it.
+I got close to cherrying it, but I think I'll probably play that a little bit more.
+That one is a little bit designed and kind of a kind of an annoying way.
+Like did you know that you can accidentally jump down off of the screen in Nimpec if you hit the raw, if you hit down, if you're if you're holding your joystick or joystick or D pad at the wrong angle to hit jump, you can just leap down out of the bounds and die.
+2:39:28
+It's like why'd they even put that in the game?
+Like but the.
+Technology wasn't there yet to fix it.
+That's right.
+Well, well, critically, it's the third game and it says here in the description riding the wave of Ninja Mania.
+Ninpec was the first implementation of scrolling on the LX system.
+2:39:45
+I mean, they're not wrong historically.
+I that was definitely ninja mania.
+And yeah, so true, I played a little bit of Derek Yu's side scrolling beat em up game.
+Fist Hell.
+Is that?
+2:40:00
+Yeah, yeah.
+That's the beat em up that game kind of sucks.
+I'm.
+Planning on playing more of it though because I kind of honestly it felt like like I have a soft spot for like bad beat em UPS and he nuts himself and he loves playing games that are.
+The the vibe, I mean like everything, the vibes in it are totally Immaculate.
+2:40:16
+I just wish it was a.
+Bad game.
+Yeah, yeah, yeah, for for sure, But like I mean, I just I hate Spelunky so much and like this game like fist hell made a very positive first impression.
+I think I'm going to play more of it.
+Colin, What?
+2:40:31
+What non rogue like UFO games did you play?
+Not many, right?
+No, I really haven't played the other games.
+I played for one where you're trying to save the pilgrims from devils.
+Devolution.
+That was, that was good.
+I I thought that was clever.
+I I really like Roshita ball.
+2:40:48
+The other played like that was like hit the nostalgia spot.
+I don't know if it would be like an excellent game just to play independently, but that felt like a game that you're that's a cousin NES game for sure, but like one that you had a lot of like fond memories playing with your cousins at their, you know, at their house when you randomly were there.
+2:41:11
+The other game that I want to mention that I had mentioned briefly earlier when we talked about Party House is Avianos, which is a super ambitious, like military strategy game based on like action selection.
+2:41:28
+Like you select these dinosaur ancestors that allow you to like move or build in a specific area.
+Colin, I definitely recommend giving Avianos a try because it's pretty amazing what they're able to accomplish in a in a in A2 button game.
+Yeah, I I looked at that and just just from the like screenshots alone, I'm like, oh, right.
+2:41:48
+I mean, I think in general I'm going to like the games on this that are more strategy focused because the limitations of the system are less like you don't the things that I found limiting where the the times when it's trying to like do timing stuff in the context of a 80s style system, which I'm not as interested in trying.
+2:42:12
+Yeah, that's.
+Fair.
+I think Colin, you'd probably like camouflage a lot also because like it's a, it's a little real timey, but it's very puzzly.
+And I as far as I know, I don't think it's that short or hard.
+I'm just really bad at it.
+It is.
+It is pretty short.
+It's Scott.
+2:42:29
+Anything else?
+Gosh, there's there's too much to cover.
+Yeah, I think, I think we should probably book it to to our rankings segment where you know they're.
+Just normally 3 hours in.
+Yeah, I mean we're we're you know, this is this is Part 1 of nine of our UFO coverage.
+2:42:46
+So TuneIn tomorrow and we do the other three hour episode.
+Yeah, Colin kick us off with with our random.
+Oh, before we do that actually critically, the last couple episodes I was worried that like people were were kind of mad about like our review approach.
+2:43:04
+So I went to the UFO 50 discord and I asked them like, hey, you know, we're, we're different play styles here.
+Some of us might not like this game at all.
+Some of us kind of like, what's a good way to review this game in good faith so that we don't make everyone all pissed off and such.
+And so we have carte blanche to do this.
+2:43:22
+I'll read just a couple quotes here just because we're already running along.
+I'll guide from the discord says who cares about UFO 50 fans?
+Just review the games you have.
+You have takes on those.
+Who cares?
+It's not 2024 anymore.
+You're not going to piss people off if you think a game sucks.
+2:43:38
+Wait, this person was on the UFO 50 discord?
+Wow.
+OK.
+Yeah, wise person, wise person, one more, Violet says.
+I mean if a game sucks you should tell people as.
+Sage advice.
+And then sleepy, the last one I'll read here who has 14 cherries it says.
+I was originally just gonna say something about how as long as you don't call a game objectively bad.
+2:43:59
+Because UFO 50 IMO is all about subjectivity.
+But on a second thought, yeah, you can just call a game trash.
+It's your playthrough, your review, and your experience with the game.
+Sure, I may be a little sad when y'all inevitably call a game trash, but who cares?
+And so I think that kind of answers some of these these YouTube comments that I've been getting lately where people were saying you guys aren't reviewing the game in good faith.
+2:44:22
+No, we have carte blanche from like the fans of the game.
+If it didn't resonate with you, that's fine.
+Numbers are numbers.
+Who gives a shit?
+It's not 2024.
+I want to kick us off.
+I mean, I this is a, a video game podcast, but it's also just a video game book club where I play as much of the games I feel like.
+2:44:42
+And if you don't like my reviews and you think I'm not reviewing in good faith, that's probably true and I don't care that much.
+Well, I I actually.
+I'm reviewing it as much faith as I feel like doing and I try and be upfront with how much I've played.
+And I want to give you kudos because I really do appreciate your review style of being upfront about what you like in games and what works for you and what doesn't.
+2:45:09
+You do you don't.
+You don't make an effort to like, oh, if you know, you don't try to pretend and see something from like Andrew's and I's Twitch perspective of if I was into that, I would.
+I might like this.
+You did because I feel like for people listening who maybe have a similar taste as you, your review might mean more of what you like to them.
+2:45:31
+Yeah, I mean, I might acknowledge that, but I'm not going to let it influence how much I like the game, right?
+So I, so I gave this game a 6.5 and that's explicitly on the seven games we played.
+And it's hard to, I, I, I don't know how to actually rank it for real because it's, that's like an average score of the games, which feels strange to do.
+2:45:59
+Like it's, it's not one game, it's many games.
+So like within that 6.5, there is a range of games that are like, I would not play this game anymore versus something like party House, which is like, OK, Party House in itself is probably like a 7.9 or an 8 or something like a genuinely good game that I liked.
+2:46:18
+Waldler's Journey.
+I found that surprisingly delightful.
+It's not very big.
+It's probably not like enough of a game by itself to give a great rating, but I I and then so in that package, there is going to be a broad spectrum of how much you like the games.
+2:46:36
+If you were forced to pick at random.
+I not sure that I would like the game that was randomly selected, but that's not really how this game is going to be experienced.
+So I don't know.
+I'm I'm giving it a low rating and I don't mostly out of like, I don't know how to rank this game.
+2:46:54
+So that's just a pure, pure average of how much I enjoyed the games that we played.
+A perfectly valid review of it.
+Andrew give us a a non valid.
+Yeah well I'm always upfront about the fact that my Co host tricked me into using the wrong rating system so my numbers are all jacked up.
+2:47:13
+Don't worry about it.
+Never get mad at my numbers ever.
+OK UFO 50 is a whole package.
+I think it's a achievement in gaming and achievement in gaming design.
+I think it's so cool that it simulates this like unique experience of going through a cardboard box of cartridges and just, and just taking, taking a walk, a browse, a look through this, the selection of games and not knowing what you're going to get, what you're going to like, what you're going to hate.
+2:47:47
+And, and it's, I made maybe sappy to say kind of it's an experience that as a gamer, I, I really cherished that time when I had that, that NES collection at my disposal, and especially when I was first enjoying those games and learning what, what the library contained.
+2:48:10
+And, but, but with UFO 50, somehow you get the added benefit of, I mean, it's a facsimile of that experience, but it's a pretty good one.
+And also, on average, the quality of the games is higher than the Yeah I had in my tattered cardboard box.
+Yeah, I mean The thing is like this collection, if this was a collection of 50 NES games like this would be better than the NES like collection like.
+2:48:33
+Quite possibly, Quite probably.
+OK, so UFO 50 by itself, if I if this was just a game podcast, I guess I would say it's an easy 9/9 plus easy.
+But my rankings, this is a roguelite podcast, roguelike podcast reviewing explicitly calling like you, the seven games that we covered.
+2:48:56
+I give it 7.06 Andrew points, which puts it right ahead of Megabonk and right behind Noida.
+I think Waldorf's adventure is like a great piece of art and a great piece of just a a micro, not a micro game, but it's a small scale game that I think is an overall really great package.
+2:49:23
+The graphics are great, The the the the concept is great, the story is great, the the vegan propaganda is great and the the movement is like so novel and interesting and I I think it's I think it's spectacular.
+2:49:42
+Campanella 2.
+I think it's also spectacular and sequel when let's get the 16 bit full-fledged standalone game, please.
+Flying in that game feels so good when you pull off a cool maneuver, it's incredible.
+2:49:58
+It's wonderful and I'm going to keep hacking away at it, and hopefully I like the final act as much as I'm liking the 1st 2:00.
+I'll go next.
+I think my my individual ratings of these games would go something like like if these were just games that were just existed by themselves on Steam that if you paid 5 bucks for, what number would I give them?
+2:50:21
+I'd give probably planet sold out the five over bold A6 Waldorf's Journey, a 6.5 Belgrus.
+I'll I'll be charitable and give it a 7 Campanile to maybe depending on my mood, like A7 or a 7.5.
+And then I think bug hunter and party house are maybe tied at like an 8.5 if they just existed in a vacuum, but they don't.
+2:50:44
+They exist in kind of like this cohesive package and like the just the rogue, like those rogue games as a package themselves, I think elevate up to like probably like a nine out of 10.
+And then I think like the context of them within the broader collection elevates it even further.
+2:51:05
+And so I'm going to give it a 9.1 my the tying the same score that I gave Spelunky because I think that, like, it is just a phenomenal project.
+And it was amazing that it held my attention for so well that it's so varied.
+2:51:21
+We've talked a lot about sequels on this podcast and Campanella 2 being such a weird and distinct sequel from Campanella one.
+I'll roll that in there.
+Take notes.
+Monster Train that.
+Yeah, like there's there's so much like I have 30-4 pages of Google Doc notes.
+2:51:38
+And not all of that is just like giant screenshots.
+There's really like my only criticisms here really are that for me the the 60 FPS twitchy games just feel too fast.
+Like they just feel too fast for me to really kind of react to.
+2:51:54
+It feels like cheating putting it down at a lower frame rate.
+But like I was able to enjoy it then and they're like I was having a blast playing Belgrus and Campanilla 2 at a speed I could maybe more enjoy it with the like.
+I think the turn based games here are better than the action ones maybe for that reason, but none of these games really overstay their welcome.
+2:52:16
+The the music and art direction for all these games is incredible.
+Eric is just an absolute hero for doing so much.
+Like these games are great.
+The soundtrack is also amazing.
+Like go and go and buy.
+What are you still listening to this podcast for?
+2:52:32
+Get like close this go and buy the soundtrack for for it and just boot up Campanella 3 Astrolin on repeat or like the mini and Max final level for gear phase.
+They're all so good.
+They're all so, so good.
+I think Derek, you did an amazing job with a lot of the pixel art for this game, even if I didn't really jive with a lot of the games he directed.
+2:52:51
+And there's something for everyone here.
+Like everyone's tier lists are all over the place, even just on this podcast.
+Like we've agreed and disagreed wildly on lots of stuff.
+And yeah, like, I could read through like another 3 pages of the final thoughts section that I have here, but I'm just gonna say this game is great.
+2:53:08
+Like even just the rogue games or even if you're just like will and you just bop in for party house for 9 hours and you have fun time that itself that like that right there is fine.
+Like that's a totally valid and fine experience to have.
+So for me, 9.1 my #14 game tying it was spelunky just barely ahead of vampire survivors.
+2:53:27
+Woody, bring us home.
+Sure.
+This game I get, I don't know, it, it's, it's a, it felt emotionally important to me.
+Like as a 30 something white guy, it feels weird to be like, oh, I'm glad that I feel seen.
+2:53:44
+But like it was nice to feel seen in such a direct way because I really do have a fondness for actually going back and playing the old games, but often get hung up on the fact that a lot of the old games are are bad, are like designed badly or have things in my way that just gives me enough friction that I stop playing.
+2:54:10
+And it just I went through so many stages of the UFO 50 collection of getting dropped something from Barbuda and thinking, oh, this is not for me to then finding games that I really enjoyed and getting sucked into those and then just jumping from game to game.
+And it was just wild how, you know, I'm kind of in a, in an ebb in it right now 'cause I, I only have the games left that I am not as engaged by.
+2:54:36
+I just slowly been guiding Grimrock.
+But I, I will, I will get into Miriam, Minnie and Max more.
+Yeah, it's just as to me, it's just a wonderful piece of art and like it it, it's the definitive game to me about video games.
+2:54:55
+Like it is the definitive sort of meta game.
+And if you have been playing video games since the, I want to say since the 80s, but that is inaccurate.
+If you have been, if I have been playing games that have come out since the 80s, it's really fun to see this sort of evolution and different aspects of game design.
+2:55:15
+And I understand why for this podcast, you know, we just want to talk about the roguelike stuff.
+But for me, you can't, you can't separate it from the whole package.
+And even what you know, what Will was saying about the more you add and kind of doles the really good games in here.
+But I still kind of find joy except for onion delivery because fuck that game.
+2:55:34
+But like I still find joy in even the games that were a little more of a slog to get through and just sort of the weirdness around them.
+So yeah, UFO 50, one of my favorite games of all time.
+I'm giving it a 10 and.
+2:55:51
+Would you put it higher than Enter the Gungeon or Spelunky?
+I would put it higher than Spelunky because it has such a just a variety and just I'm so I'm just so impressed by it.
+Like it's just something I really enjoy thinking about.
+2:56:07
+I would not put it higher than Enter the Gungeon.
+Yes, yes, yes.
+And that's why you're on the board.
+That's why you're on the board of many things, very many important establishments, including the board of honorable reviewers.
+2:56:24
+Now, I soak a lot about how, you know, oh, this is all very subjective, blah, blah, blah, blah, blah.
+Nope, Woody's opinion objectively right all the time.
+Gungen is at the top of the heap, maybe.
+The only we'll see what Andrew, how hyped are we on Enter the Gungen too?
+2:56:39
+We're pretty, we're pretty hyped.
+We're we're shaking on our on our.
+Pretty high.
+Is it gonna be better?
+We'll see.
+Is it gonna be 3D?
+Absolutely.
+Yeah.
+We, we, we hope, we hope we're very excited about it.
+We just, we leave it at that.
+Woody, do you know if if Gunjan 2 is coming out this year?
+2:56:55
+But the announcement is this year, but there has been no specific date of this year.
+Take as much time as you need y'all.
+December 31st at midnight kind of deal.
+Anyway, yeah, if you have interest in video games like and interest in video games beyond just like wanting to play Fortnite or Call of Duty or just whatever.
+2:57:16
+Yeah, yeah, if if you actually like are curious about video games as like historical relics and change and design, like I think this game is a must play because even if even if half the games you're like that's not really for me, you're still going to find 25 games.
+2:57:36
+You're like, oh, that was really cool.
+And I just think that they do a great job finding games for the woodies of the world and the Collins of the world and the wills of the world.
+So, yeah, I give two thumbs up.
+Excellent.
+Well.
+I'm I'm going to speed through the the rest of the stuff because I know every everyone feels bad when we go these longs on on these podcasts, but I think it was worth it this time.
+2:58:00
+Not all of these will be 5 hours long, I promise, but yeah, so so that will land UFO 50 at our new number 31 out of 94 games that we've covered on the podcast.
+So pretty good overall placement.
+I'm happy with that.
+I wasn't expecting it at a top 10 or anything, but but by the hidden gem status of the back of the envelope mat that I have going, it's our number 2 hidden gem game that we've covered in the year so far.
+2:58:26
+So maybe what's the number one?
+The number 1 based on the math that I have going is 868 hack because of largely because of how obscure it is.
+That's.
+That sounds like.
+A game that's the most hidden.
+That sounds like a game for nerds.
+It is 100% a game for nerds.
+2:58:42
+And so yeah, so, so some similar games actually, I'll start off with a similar podcast.
+If you actually want to go through a deep dive of each one of these games.
+The I also said this on the 868 podcast, but again, not something we'll do every time.
+The egg, formerly eggplant, now secret lives of games podcast did a whole year doing like a 90 minute long episode on every game from the UFO 50 collection.
+2:59:07
+So if you want 90 minutes of overbold, you know the exact source to go for.
+Go find out the the secret Lives of games podcast.
+They'll they'll go into way more detail than we did go into way more about all the game mechanics.
+I can bet like I've listened to all of them.
+I can best sum it up as a combination of the game philosopher, Bernard suits, Ludo narrative dissonance block koala increasingly unhinged listener voicemails, Greg Dash milk.
+2:59:36
+People constantly saying we'll get to that.
+And then people also saying, yeah, but they had to make 50 games.
+So that's your that's your overall summary of of their It's a very good podcast.
+If you are interested in UFO 50 and you want to learn more about all of it instead of just us very high level glossing over stuff, go go check out the secret lives of Game podcast.
+2:59:55
+Crucially, their last episode in that sequence I was I have a brief cameo on at about the three hour 40 mark of their finale extravaganza.
+Podcast or maybe a type of that UFOUFF year of UFO 50 finale eggs Stravaganza.
+3:00:13
+I have a snarky listener.
+Very nice but comedic listener.
+Voicemail.
+I submitted at the three hour 40 mark for that.
+Wow, I think that that podcast is sitting halfway listen to in my downloaded section.
+So I'll need to I'll need to persevere through to get to get to your voicemail.
+3:00:32
+Nice.
+Yeah, so, so real quick, I'll speed run through these also so similar games to UFO 50, Bug Hunter, Into the Breach 868 hack, Veldgrass Point P, kind of a mobile game and down.
+Well, obviously planet Zoldath.
+3:00:49
+Planet Zoldath, very similar I guess in concept.
+Doodle Doodle Jump.
+Veldgrass is like Doodle Jump, Doodle Jump, never Doodle Jump.
+OK, I'll just take my word.
+For it I'll.
+Add that to the list Planet, Zoldath, Toe Jam and Earl.
+That's Waldorf's journey.
+3:01:04
+There's a game called Jump King and a balloon fight.
+They're kind of similar in concept.
+Party house, obviously luck, me, a landlord, and one that I've said a few other times on this show.
+Maybe we'll cover it at some point.
+I don't know how to like Andrew.
+How do you pronounce this eldritch word?
+3:01:20
+Fung Tang, FHTAGN.
+Simulator.
+A toggin simulator.
+It's kind of like a eldritch eldritch horror simulator.
+Game is very similar to Luckbee.
+Landlord Overbold, you got your classics.
+Binding of Isaac and Nuclear Throne.
+Not really as good as either of those.
+3:01:36
+Campanella 2, very similar to Spelunky or maybe Spelunky 2.
+And then I guess also outside that realm, something that's similar to Lords of Disconia but more rogue.
+What do you might be interested in?
+Flickshot Rogues.
+I am interested.
+OK, yeah, and that'll do it for for similar games like that as we wind this section down. grogpodzone@gmail.com That's the e-mail.
+3:01:57
+You know the drill.
+Mastodon, our Grogpod at game dev dot place.
+Check that out.
+Grogpod dot zone, the website that has all the stuff.
+Woody, anything you want to plug before?
+Yeah, I want to plug UFO 50.
+It's really good.
+Never.
+Heard Yeah.
+What a guy, what an ally to the developers.
+3:02:15
+All right.
+And so as we wind down Jesus Christ, our longest episode by a easily a country mile, that's not.
+True.
+I don't think that's true at.
+All.
+No, sorry.
+Country mile when we start recording at like 7.
+Well, Caves of Cub we had, we legitimately had to split into two separate episodes, but yeah.
+3:02:32
+Yeah, the story episode was so long, Scott.
+Anyway, continue.
+Continue.
+Sorry.
+Anyway, yeah, so.
+So next we're going to do the story of Barbuda.
+I said we kid, we kid, our Omega, the host.
+Thank you, Sir.
+But.
+But yeah, as we wind down this episode, it's time for a game with some real graphics.
+3:02:52
+Yeah.
+So, you know, we just, yes, we of course just visited the past, the 80's, the the retro age of of wonder and mysticism.
+Well, now we're going to the far future, and we're going to not the wonder of the future, but the the terror and the discord and the violence.
+3:03:17
+For in the grim darkness of the far future, there is only War Warhammer.
+Dark Tide.
+Here we come, Co-op FPS action.
+We're going to be delving down into the Hive City and fighting the forces of Chaos and all while we're on voice chat.
+3:03:36
+Looking forward to it.
+Looking forward to another 7 hours of us unpacking the the lore of of Warhammer, yes, but playing us out from this.
+You know what?
+What?
+What better way to send off our big party of a UFO50 episode with some tunes from Party House.
+3:03:53
+But keep an eye out for those cops.
