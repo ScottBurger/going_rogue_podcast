@@ -4,15 +4,15 @@ Want us to cover a specific game? The more frequently it gets requested, the hig
 
 Examples of past listener requests include:
 
-The Last Spell
-Brotato
-Against the Storm
-Barony
-DoomRL
-Jupiter Hell
-Mystery Dungeon: Shiren the Wanderer
-Noita
-Path of Achra
-Spelunky
-Diablo 1
-Slay the Spire 2
+* Against the Storm
+* Barony
+* Brotato
+* Diablo 1
+* DoomRL
+* Jupiter Hell
+* Mystery Dungeon: Shiren the Wanderer
+* Noita
+* Path of Achra
+* Slay the Spire 2
+* Spelunky
+* The Last Spell
