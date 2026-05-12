@@ -38,7 +38,7 @@ Get in the zone! This week is a game with one wild journey from starting out as 
 * 34:29 - Difficulty options & enemy health scaling problems
 * 38:56 - Enemy AI behavior complaints & tactical shooter debate
 * 53:10 - Protagonist voice acting & narrative setup
-* 56:42 - Act One story reveal: brain in exoskeleton
+* 56:42 - Act One story reveal
 * 1:08:01 - Act Three body horror & final boss fight
 * 1:14:50 - Ending choice: self-destruct or escape decision
 * 1:26:42 - Rankings & final thoughts
