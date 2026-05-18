@@ -44,7 +44,7 @@ https://grogpod.zone
 
 Intro music: GROGPOD Theme 1 by Balatro composer LouisF - https://louisfmusic.com/
 
-Outro music: Eirik Surhke - Big Party / Infinity
+Outro music: Jesper Kyd - Disposal Unit (Imperium Mix)
 
 
 <div class="embed-responsive embed-responsive-16by9">
