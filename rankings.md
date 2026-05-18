@@ -30,6 +30,21 @@ top 3 most widely disagreed on games (std dev)
 [At the end of every year, we rank the games for that year in a playoff tournament](https://grogpod.zone/tags/#omegabowl). A good place to start if you want to hear condensed thoughts on the top games.
 
 
+The top 10 "[hidden gems](https://github.com/ScottBurger/going_rogue_podcast/wiki/GROGPOD-Hidden-Gems-Methodology)" of the podcast so far are:
+
+1. [Spiritfall](https://grogpod.zone/2025-06-20-spiritfall/)
+2. [Star of Providence](https://grogpod.zone/2024-04-10-star-of-providence/)   
+3. [Path of Achra](https://grogpod.zone/2025-05-07-path-of-achra/)  
+4. [Jupiter Hell](https://grogpod.zone/2024-07-17-doomrl/)
+5. [Cogmind](https://grogpod.zone/2023-03-15-cogmind/)
+6. [Slice & Dice](https://grogpod.zone/2024-07-31-slice-and-dice/)  
+7. [Rift Wizard](https://grogpod.zone/2025-01-29-rift-wizard/)  
+8. [Caves of Qud](https://grogpod.zone/2025-11-05-caves-of-qud-gameplay)
+9. [868-HACK](https://grogpod.zone/2026-04-22-868-hack/) 
+10. [The King is Watching](https://grogpod.zone/2025-09-10-king-is-watching/) 
+
+
+
 The full combined ranking data can be found below:
 
 (Special thanks to [tabletomarkdown.com](https://tabletomarkdown.com/convert-spreadsheet-to-markdown))
