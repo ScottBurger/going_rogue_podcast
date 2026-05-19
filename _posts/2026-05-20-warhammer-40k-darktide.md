@@ -16,7 +16,7 @@ length: 155342941
 tags: ["2022", action, honorary rogue]
 ---
 
-Emperor guide thy aim! Roguelikes and -lites span a spectrum, especially when they come as added game modes to big budget titles that aren't roguey themselves. This week we explore Warhammer 40K Darktide: the action RPG featuring two ... sort of ... rogue-ish (heavy squinting) game modes, I suppose? Join our floating interrogation skulls as we try to survive the Mortis Trials and Expedition game modes, while grinding through waves of muties chain-throwing our puny Psyker mages whose heads are about to explode. Carry the Will of the Emperor like a torch in the darkness! Quando omni flunkus moritati!
+Emperor guide thy aim! Roguelikes and -lites span a spectrum, especially when they come as added game modes to big budget titles that aren't roguey themselves. This week we explore Warhammer 40K Darktide: the action RPG featuring two ... sort of ... rogue-ish (heavy squinting) game modes: Expeditions and the Mortis Trials. From the moment I understood the weakness of game genre definitions, it disgusted me. I craved the strength and certainty of roguelikes. I aspired to the purity of the blessed permadeath. Your kind cling to their save files, as if they will not decay and fail you. One day the crude biomass that you call a gameplay loop will wither, and you will beg my kind to save you. But I am already saved, for roguelikes are immortal. Even in death I serve the GROGnissiah.
 
 <div class="container">
   <audio controls style="width: 100%;">
