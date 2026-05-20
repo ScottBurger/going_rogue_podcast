@@ -24,7 +24,7 @@ Emperor guide thy aim! Roguelikes and -lites span a spectrum, especially when th
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/ufo-50-with-woody-ciskowski/id1650474911?i=1000766823529) | [Spotify](https://open.spotify.com/episode/3bEHp3rPCc1wbGyEOGFXGn) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/ufo50.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/warhammer-40-000-darktide/id1650474911?i=1000768755278) | [Spotify](https://open.spotify.com/episode/5vuBEstAMeMx2REnbaOFbt) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/ufo50.txt)
 
 ---
 
