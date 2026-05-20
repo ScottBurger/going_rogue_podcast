@@ -2,7 +2,7 @@
 layout: post
 title: "Warhammer 40,000: Darktide"
 date: 2026-05-20
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/darktide.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/darktide-hive.jpg
 thumbnail-img: /assets/img/darktide-hive.jpg
 share-img: /assets/img/darktide-hive.jpg
-duration: "3:06:19"
-length: 155342941   
+duration: "1:43:00"
+length: 84276096  
 tags: ["2022", action, honorary rogue]
 ---
 
@@ -28,11 +28,10 @@ Emperor guide thy aim! Roguelikes and -lites span a spectrum, especially when th
 
 ---
 
-* 1:56 - Game stats
-* 6:17 - One sentence description
-
-* 2:41:10 - Rankings & final thoughts
-* 2:58:21 - Similar games & show wind down
+* 2:35 - Game stats
+* 4:08 - One sentence description
+* 1:22:10 - Rankings & final thoughts
+* 1:33:08 - Similar games & show wind down
   
 ---
 
