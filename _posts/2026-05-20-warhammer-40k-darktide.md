@@ -30,6 +30,17 @@ Emperor guide thy aim! Roguelikes and -lites span a spectrum, especially when th
 
 * 2:35 - Game stats
 * 4:08 - One sentence description
+* 4:03 - Non-Roguelike Games with Rogue Modes Discussion
+* 7:05 - Lore Overview
+* 17:33 - StarCraft & Warhammer
+* 21:56 - Intro Cinematic & Satire
+* 26:17 - Character Creation, Classes & Hub World Tour
+* 38:32 - Adventure Mode, Main Story & Mission Structure
+* 44:47 - Procedural Generation (Or Lack Thereof) & Roguelike Credentials
+* 51:43 - Expeditions Mode: Node Map, Scrap System & Extraction
+* 56:08 - Mortis Trials: Horde Mode, Wave Perks & Chaos Builds
+* 1:13:20 - Soundtrack & Sound Design
+* 1:17:48 - Servitor Healing Stations & Imperium's Dark Worldbuilding
 * 1:22:10 - Rankings & final thoughts
 * 1:33:08 - Similar games & show wind down
   
