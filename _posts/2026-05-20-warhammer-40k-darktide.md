@@ -29,8 +29,7 @@ Emperor guide thy aim! Roguelikes and -lites span a spectrum, especially when th
 ---
 
 * 2:35 - Game stats
-* 4:08 - One sentence description
-* 4:03 - Non-Roguelike Games with Rogue Modes Discussion
+* 4:08 - One sentence description, Non-Roguelike Games with Rogue Modes Discussion
 * 7:05 - Lore Overview
 * 17:33 - StarCraft & Warhammer
 * 21:56 - Intro Cinematic & Satire
