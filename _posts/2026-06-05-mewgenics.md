@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mewgenics"
-date: 2026-06-03
+date: 2026-06-05
 file: 
 description: "
 "
@@ -16,7 +16,7 @@ length: 84276096
 tags: ["2022", action, honorary rogue]
 ---
 
-Red Dwarf cat quotes
+He's a bad bad kitty, a bad bad kitty!
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -36,7 +36,7 @@ Red Dwarf cat quotes
   
 ---
 
-Next episode: Mewgenics
+Next episode: Hard Reset (2026)
 
 Contact us at grogpodzone@gmail.com!
 
