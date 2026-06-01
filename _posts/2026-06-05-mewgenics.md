@@ -16,7 +16,8 @@ length: 84276096
 tags: ["2022", action, honorary rogue]
 ---
 
-He's a bad bad kitty, a bad bad kitty!
+He's a bad bad kitty! We're snapping our fingers and fighting through the alleways this week with Mewgenics! The long-awaited game by Binding of Isaac creator and roguelite genre legend Edmund McMillen, fans have been wating something like 15 years to experience the cat breeding tactical combat RPG. You are a crazy cat lady, reanimated from the dead by a mad scientist and your goal is to breed cats to send on harrowing adventures through junkyards, spider caves, the moon, and beyond the reaches of the spacetime continuum. All the while maintaining your most impressive collection of freaks (cats) as they create offspring, poop in your house, and defend you from headless horrors rampaging the neighborhood.
+
 
 <div class="container">
   <audio controls style="width: 100%;">
