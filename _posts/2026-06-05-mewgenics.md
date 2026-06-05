@@ -28,11 +28,20 @@ He's a bad bad kitty! We're snapping our fingers and fighting through the allewa
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/mewgenics/id1650474911?i=1000771346517) | [Spotify](https://open.spotify.com/episode/1NlLo6S6nEcqL8LSNPvLld) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
 
 ---
-
 * 0:57 - Listener Request Week & Game stats
 * 3:55 - One sentence description
 * 4:30 - Mewgenics dev history
 * 6:28 - Welcome Roguepod Litecast listeners!
+* 10:25 - NPC Characters, Art Style & Edmund McMillan Tone
+* 16:51 - NPC Designs
+* 29:02 - Cat Generation, House Overview
+* 31:03 - Typical Run Breakdown: Node Map, Acts & Biomes
+* 33:43 - Boss Music with Lyrics & Soundtrack Discussion
+* 49:57 - Combat Mechanics, Character Classes & Unlocks
+* 57:58 - Cat Breeding Meta Progression System Deep Dive
+* 1:07:16 - Genealogy System
+* 1:21:14 - Guillotina House Defense Battle
+* 1:26:35 - Difficulty Modes, Run Length & Off-Ramp Mechanics
 * 1:39:07 - Rankings & final thoughts
 * 1:50:00 - Similar games & show wind down
 * 1:52:19 - Episode 100 details!
