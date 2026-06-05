@@ -32,7 +32,7 @@ He's a bad bad kitty! We're snapping our fingers and fighting through the allewa
 * 3:55 - One sentence description
 * 4:30 - Mewgenics dev history
 * 6:28 - Welcome Roguepod Litecast listeners!
-* 10:25 - NPC Characters, Art Style & Edmund McMillan Tone
+* 10:25 - Art Style & Edmund McMillan Tone
 * 16:51 - NPC Designs
 * 29:02 - Cat Generation, House Overview
 * 31:03 - Typical Run Breakdown: Node Map, Acts & Biomes
