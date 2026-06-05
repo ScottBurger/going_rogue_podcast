@@ -25,7 +25,7 @@ He's a bad bad kitty! We're snapping our fingers and fighting through the allewa
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/warhammer-40-000-darktide/id1650474911?i=1000768755278) | [Spotify](https://open.spotify.com/episode/5vuBEstAMeMx2REnbaOFbt) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/mewgenics/id1650474911?i=1000771346517) | [Spotify](https://open.spotify.com/episode/1NlLo6S6nEcqL8LSNPvLld) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
 
 ---
 
@@ -36,7 +36,7 @@ He's a bad bad kitty! We're snapping our fingers and fighting through the allewa
 * 1:39:07 - Rankings & final thoughts
 * 1:50:00 - Similar games & show wind down
 * 1:52:19 - Episode 100 details!
-* 1:53:40 - Next episode - Will's app/game - Hard Reset
+* 1:53:40 - Next episode - Will's app/game - https://hardreset.app
 * 2:04:10 - Gigi, Ari, Rakanishu, and Molly (see the youtube episode for videos!)
   
 ---
