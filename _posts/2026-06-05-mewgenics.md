@@ -25,7 +25,7 @@ He's a bad bad kitty! We're snapping our fingers and fighting through the allewa
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/mewgenics/id1650474911?i=1000771346517) | [Spotify](https://open.spotify.com/episode/1NlLo6S6nEcqL8LSNPvLld) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/mewgenics/id1650474911?i=1000771346517) | [Spotify](https://open.spotify.com/episode/1NlLo6S6nEcqL8LSNPvLld) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/mewgenics.txt)
 
 ---
 * 0:57 - Listener Request Week & Game stats
