@@ -8,9 +8,9 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, rift wizard, dylan white, pygame"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/darktide-hive.jpg
-thumbnail-img: /assets/img/darktide-hive.jpg
-share-img: /assets/img/darktide-hive.jpg
+cover-img: /assets/img/rw3-hero.jpg
+thumbnail-img: /assets/img/rw3-hero.jpg
+share-img: /assets/img/rw3-hero.jpg
 duration: "1:34:37"
 length: 73085860  
 tags: ["2026", interview, Grogpod, traditional roguelike]
@@ -42,5 +42,5 @@ Outro music: Rift Wizard 3 Boss Theme
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg2zdlSvR60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
