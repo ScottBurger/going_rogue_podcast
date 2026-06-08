@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "Rift Wizard - Interview with Developer Dylan White"
+title: "Rift Wizard 3 - Interview with Developer Dylan White"
 date: 2026-06-10
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, mewgenics, binding of isaac, edmund mcmillan, tyler glaiel"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, rift wizard, dylan white, pygame"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/darktide-hive.jpg
 thumbnail-img: /assets/img/darktide-hive.jpg
 share-img: /assets/img/darktide-hive.jpg
-duration: "1:43:00"
-length: 84276096  
-tags: ["2022", action, honorary rogue]
+duration: "1:34:37"
+length: 73085860  
+tags: ["2026", interview, Grogpod, traditional roguelike]
 ---
 
-He's a bad bad kitty, a bad bad kitty!
+It's a special bonus episode this week! With Rift Wizard 3 launching in June 2026, I sat down with developer Dylan White to talk about the third game's evolution, how its distinguished itself from Rift Wizard 2, and what it takes to make a traditional roguelike game stand out in the ever evolving morass of games being released on Steam these days. Come for the discussion on PyGame, stay for the discussion on metal music band names as monsters!
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="https://grogpod.s3.us-west-2.amazonaws.com/darktide.mp3">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3">
   </audio>
 </div>
 
@@ -28,23 +28,17 @@ He's a bad bad kitty, a bad bad kitty!
 
 ---
 
-* 2:35 - Game stats
-* 4:08 - One sentence description
-* 1:22:10 - Rankings & final thoughts
-* 1:33:08 - Similar games & show wind down
-*  - Episode 100 details!
+
   
 ---
-
-Next episode: Hard Reset (2026)
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: GROGPOD Theme 1 by Balatro composer LouisF - https://louisfmusic.com/
+Intro music: Rift Wizard 3 Title Theme
 
-Outro music: Jesper Kyd - Disposal Unit (Imperium Mix)
+Outro music: Rift Wizard 3 Boss Theme
 
 
 <div class="embed-responsive embed-responsive-16by9">
