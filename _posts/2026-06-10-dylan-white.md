@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/rw3-hero.jpg
 share-img: /assets/img/rw3-hero.jpg
 duration: "1:34:37"
 length: 73085860  
-tags: ["2026", interview, Grogpod, traditional roguelike]
+tags: ["2026", interview, grogpod, traditional roguelike]
 ---
 
 It's a special bonus episode this week! With Rift Wizard 3 launching in June 2026, I sat down with developer Dylan White to talk about the third game's evolution, how its distinguished itself from Rift Wizard 2, and what it takes to make a traditional roguelike game stand out in the ever evolving morass of games being released on Steam these days. Come for the discussion on PyGame, stay for the discussion on metal music band names as monsters!
