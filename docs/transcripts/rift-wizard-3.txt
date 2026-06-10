@@ -1,0 +1,1272 @@
+0:14
+Greetings friends, and thanks for tuning into a special interview episode of The Grog Pod, a roguelike podcast.
+Normally we deep dive a rogue style game ranging from more popular ones such as like like roguelites like Hades or Binding of Isaac, but we also span the spectrum to lesser known traditional roguelike titles such as the one that we're talking about today, Rift Wizard previous episode.
+0:44
+We had a fun time covering this when we reviewed it in 2025 and when the developer Dylan reached out to us to talk about his upcoming release of Rift Wizard 3 here in the summer of 2026.
+There's no way I could say no.
+1:02
+I think all of the stuff that I've seen on the Steam page and yeah, like all all the stuff about it, I was super interested to, to ask questions and learn more and I'm just just a big fan of it.
+So really, yeah, welcome to to an interview episode.
+I had originally budgeted.
+1:19
+We'll only do like about 2020 or 30 minutes at the most.
+And as you can probably see from the the runtime on your MP3 here, we went much longer than that just 'cause it was such a great conversation, great dude to talk with.
+So yeah, well, don't let me get in the way.
+1:36
+Let's without further ado, let's return once more to the ruins of the universe.
+Thank you First off, Dylan for for joining me today.
+1:56
+Oh yeah, thanks for having me, man.
+Creator of of our previous episode Rift Wizard, which made it into our our end of season.
+It survived to the end of season like recap tournament.
+2:11
+So it was, it was among the the better games that we had played throughout throughout the past year or so.
+Well, thank you.
+Thank you.
+Yeah.
+And so, yeah, you know, doing this in in preparation for the launch of Riff Wizard 3, returning to the riff diverse as it were.
+2:32
+But but yeah, so I mean, the big, big new sequel coming out, lots of lots of cool stuff to talk about.
+But I think like maybe starting from from the the first, like what inspired you to create Riff Wizard one in the first place?
+2:49
+It was, it was really Dungeon Crawl Stone Soup.
+I don't know.
+It's like not, I don't know if you know that game.
+It's not like like it's not on Steam, right?
+It's not a commercial game.
+It's this really weird.
+It's like this open source collaborative project.
+Anyway, I like fell in love with that game around probably like 20/14/2015.
+3:11
+And I mean, I had always been into always been.
+It's kind of like weird obscure computer games like I was a early adopter of Rift with or sorry, Rift with Door Fortress, like way back in the day.
+I played Rogue like the original Rogue when I was like 7, you know, like we had a old computer CRT monitor with that game.
+3:29
+And you know, it's funny, like when you're a kid, you, you kind of like develop an imagination around the game you're playing that like makes it out to be a lot more than it is.
+So like in my mind, like in my mind, Rogue was essentially what riff Wizard was, right?
+Like now if you go back and play Rogue, it's actually it's like incredibly simple, right?
+3:49
+Like you, you don't really have much that you can do other than melee attack.
+It's a really, really simple game.
+So then I, I started playing Dungeon Crawl Stone Soup, which is kind of like a little bit closer to like what my fantasy of rogue was where like, like in Dungeon Crawl Stone soup, you can do more than just do a melee attack.
+4:07
+Like even in even the simplest class, Minotaur berserker is like the classic dungeon crawl Stone Soup, like easy mode class.
+There's still like a lot of very interesting decision making around like the potions around the consumable items around you have these like limited use piety abilities and choosing when to use those is like, it's very, very interesting.
+4:29
+But still I, I felt like there was like a good part of dungeon Crawlstone soup and then there was like a filler part, like I felt like I spent a lot of time in Dungeon Crawlstone soup just auto exploring and auto combating.
+Like there are a lot of encounters that are essentially throwaway encounters where you like, you know that you're going to beat, you know that you can beat the goblin by just walking into the goblin, you know, and you're in a narrow hallway and there's like a line of goblins and you just hold down like the arrow key to just like grind through them.
+4:59
+And there's like a lot of that.
+But then there were these moments where like you were, you're in like a very high pressure scenario and you had a lot of options and you had to think about what to do.
+Like often it would be like the the game didn't really have bosses, but it had like it had like the I think vault levels maybe or no, not vaults.
+5:18
+Vault monster house kind of deals.
+Yeah, it would have like, yeah, like monster houses, kind of like you go into one, you go into an like the last level in an area and it would be like really, really hard.
+Like it would have a bunch of higher level monsters.
+And you'd get into like situations that were like tense and difficult.
+5:37
+And you would have to think very carefully about how you allocated your resources.
+I mean, you can even think for because it was a turn based game, you could think for hours about what your next move should be.
+And like I wanted to recapture that like I wanted to, I wanted to like develop that idea.
+Like I wanted a game where every moment or at least as many moments as possible were these high, high pressure moments.
+5:59
+I want and I also wanted it to be, I wanted every one of these moments to be unique and different.
+Like I wanted you to, to play the game over and over again, but see something different every time you played it.
+I didn't start out, you know, it's funny.
+I didn't start out making a game about it being a wizard.
+6:15
+Like originally I was just making, I was just gonna make a rogue.
+Like, you know, I was just gonna make something very similar.
+Dungeon crawlstone soup.
+It was just called Rift.
+It would.
+Actually, it was just so Rift Wizard was not the original name.
+I was originally going to go with Rogue Wizard.
+This, I mean this was after I decided it was going to be a wizard, but it turns out there is already a game called Rogue Wizards.
+6:35
+So I didn't want to, I didn't want to step on that.
+It's not super well known, but you can find it on Steam if you go and go and search for it.
+I don't know what I was going to call it originally.
+I don't, I don't think I had much of I did not have very concrete plants.
+You know, I just wanted to like make a rogue like and I, I made wizard as kind of like the first class was going to be a spellcaster class because it's, it's just like I knew every class was going to have like abilities and have like a lot of optionality to what you could do every turn.
+7:02
+And so the most obvious thing is just to make a wizard with a bunch of spells, right?
+Like if you were making like a warrior or something, you'd have to come up with some original idea about like, well, what are the different things that a warrior can do every turn?
+You have to go deeper than just melee attacking stuff, you know?
+7:18
+Yeah, yeah.
+I always feel like in, in those kind of old like 90s traditional rogue like formats where they just become like grid bumpers and you are, you know, and, and like dungeon, you know, DCSS you're just like walking up and you're just holding the arrow key and you just see like 2-2 sprites like bumping into each other.
+7:36
+Whereas like every like every ranged class feels much more interesting where?
+Yeah, I think you.
+See that DNA in in Rift Wizard?
+Like right from the get go where as far as I remember I don't think there really are any kind of like bump attack spells of sorts.
+7:54
+Yeah, we, we like added one in Rift Wizard 2.
+You can turn into an elephant and like stomp on people in Rift Wizard 2 because people kept asking for it.
+People like I want to, I want to whack people with my staff for more damage.
+You know, I don't know, that's not what the game's about.
+You know, that's definitely, that's definitely not what the game's about, though.
+8:10
+So that's not, that's not in the game except as certain very specific spells they're trying to think.
+We've played, we've played around with ideas like it's hard to have more than one of those in the game, you know, 'cause then you run into weird situations where it's like, you know, what if you're an elephant and you have the flaming, like there was like very early in the game, there was, there's a spell called like conjure flaming sword, I think.
+8:32
+And you could, it would give you another spell after you cast the spell and then you could like do an arc attack and it would be like, I don't know, it was like 180° arc of like fire damage, something like that.
+But you couldn't use it by just walking into stuff you like, still had to select the spell and use the spell.
+8:49
+It felt very bad, which is why I think we removed that after like the original Rift Wizard 1 Next fest demos.
+Like some people might have played it, but like, most people have never seen that spell.
+But yeah, I just wanted like, I wanted to like recapture, like the level, like the level endings in Dungeon Crawl Stone Soup.
+9:06
+And I wanted to like make a game that was really, really focused on the mechanical combat aspect of roguelikes.
+Cause a lot of roguelikes are more focused on the like the fantasy, you know, like just simulating a fantasy world.
+And a lot of roguelikes, like they don't even want to tell you all of the mechanics.
+9:24
+You know, they want to keep a bunch of stuff hidden from you because they want you to play the flavor of the game instead of playing the mechanics of the game.
+And I wanted to do, I wanted to do a game that made you play the mechanics of the game with Rift Wizard.
+Yeah, I feel like there's, there's this kind of new renaissance, it feels weird to say like the Renaissance of traditional roguelikes, but you know, that that kind of like that pivot of you have like these these 90s Titans of like ancient domains of mystery, Angband, Lindley, Dungeon crawl.
+9:56
+And they all have like their very kind of specific flavor.
+And, and yeah, like they're, they're all of a similar, a similar vibe where they have that kind of things like, Oh well, I have to like level up my charisma in order to get a better deal with the shopkeep in order to afford this, you know, this, this shield that won't rust when I go down into the, into the, you know, into the sewers kind of a deal, but.
+10:21
+Oh, that's very lonely.
+Stungeon call.
+Yeah, that's yeah.
+But yeah, like.
+There's net hat net hack is the one that's full of those things, right Where there's like a million gimmicks that you have to know about, like.
+A million gimmicks and yeah, you have to have the wiki open on one side and you're just like, OK, wait a minute, Is this, is this mauve MAA Minotaur, or is it actually a purple M that's a merchant, Yeah.
+10:44
+Yeah, yeah, yeah.
+And does does it have a mechanic that instantly kills me, you know, if I don't immediately like, like, know about it?
+That's yeah, there's this.
+It's a classic, right?
+Yeah, exactly.
+Whoops, now I'm turned to stone.
+Should have known that I had it anyway.
+So I, yeah, I feel like the the the new, the new wave of traditional roguelikes with your with Cogmind, Jupiter, Hell Rift Wizard, like really kind of bringing this like bringing accessibility of like these older styles of games and the things that really worked for audiences back then to a new, to a new audience that, you know, maybe doesn't want to spend 300 hours in net hack in in the the 4th, the 4th Sokoban level trying to figure out like, Oh my God, why?
+11:36
+Yeah, like when we were playing Riff Wizard one for the podcast, it was like, you know, this like this breath of fresh air feels very like, you know, it would be at home on an NES if an NES had like mouse input and.
+Yeah, yeah, just on the mouse.
+11:53
+The keyword thing's funny.
+We'll talk about that later, yeah.
+Yeah, yeah.
+And yeah, like that, that kind of like new, like having just like the idea that like, oh, you have like very nice looking graphics to the tiles.
+12:10
+Like I was playing roof Wizard 2 on, on my Steam Deck and my wife kind of leans over and she's like, oh, and she has like no idea what's happening, but you know, she leans over and she's like, well, that one's clearly like a dancing potato.
+And that one is a, you know, like a happy cow and things like that.
+12:27
+And I'm like, that's not what they are at all.
+But I could see how like from across, you know, like 5 feet away looking at the.
+Screen.
+But so, so, OK, so dungeon crawl had a, had a big impact on Rift Wizard 1.
+I think that makes a ton of sense.
+12:43
+After Rift Wizard 1 comes out, you know, you, you have all this community feedback, you have people, people play testing the game for a long time.
+And you're embarking and on starting on Rift Wizard 2 and you're got all these ideas in the backlog like, OK, I want to do this and that and this and that.
+Were there any were there any games between the end of Rift Wizard 1 and the before the start of development of Rift Wizard 2 that kind of influence the design decisions?
+13:11
+I mean, I would say Rift Wizard 2, like the big thing in Rift Wizard 2 was items and equipment.
+Like the big thing there was like in Rift Wizard 1, you controlled almost everything about your build and like once.
+13:27
+So like once a lot of people started playing the game and started talking about the game with each other, people, people like figured out the best builds and it became very easy to force the best build every game, which I didn't I hadn't really like I hadn't totally anticipated that.
+Like the way that I played Rift Wizard 1 was very different from the way that like players played Rift Wizard 1 like I would.
+13:47
+So in rift wizard one, there were these circles of power that would give you like a discount on spells of the appropriate type.
+And so I would like always just I would see a circle of power and I'd be like, all right, a fire circle.
+Now I have to like buy some fire spells.
+You know, I would just like really, really obey the the suggestions of the game.
+14:06
+But I think players figured out that you you didn't have to do that.
+You know, like the game did not wasn't really making you do that.
+And it was better like the best builds were so much better than the random builds that like I would come up with during the game that, yeah, it was really better just to like learn a build from a guide and kind of force the build and you could ignore the circles.
+14:26
+But what you really had to do was you had to avoid difficult levels while you were getting your build online and you had to you could also, you could use consumable items in order to let like there were consumable items that would like really help you with a level, like a bag of spike balls that summit all the spike balls, like the the best example or drag.
+14:45
+Or like an earthquake or that would like knock down half of the walls of the level kind of deal.
+Yeah, yeah, exactly.
+And like kill a bunch of enemies too, like yeah.
+So like Rift Wizard 1 ended up being, I mean, it was it was awesome, it was a really cool game, but it did lack kind of the spirit of improvisation that like a lot of rogue like that, I think is really like quintessential to the rogue like genre.
+15:07
+Well, and it's funny because rogue did not have that, but like dungeon crawl Stone soup certainly had that.
+It certainly had this aspect where like like in dungeon crawl Stone soup, you would find spellbooks you couldn't even like you could not even guarantee that you could be a fire mage when you're playing a dungeon crawl Stone soup.
+15:23
+Now that was that's like more extreme than I wanted to go.
+So I liked the rift Wizard 2 balance of you can choose your spells and your skills, but you can't quite choose your items.
+And that was I don't know if that was really influenced by any game I was playing at the time.
+15:38
+I'm trying to even think what games I was playing at the time that was like I was playing.
+I was, I don't know, I was playing weird.
+I was playing a lot of city builders at the time.
+Like I was playing like Cities XL which really nothing from cities XL made its way into into Rift wizard 2 like.
+No, no traffic management of.
+Yeah, no traffic.
+15:55
+Well, it kind of was.
+It was like a big map, you know, it's like you could summon a lot of a lot of stuff I played, a lot of was I playing.
+I got really obsessed with team fight tactics.
+Like kind of after Rift Wizard 2 released.
+Oh, Dominions.
+16:10
+Oh, I was playing Dominions 5.
+That's what I was playing when I was developed in Rift Wizard 2.
+Now I remember which is a it's kind of like a multiplayer play by e-mail grand strategy game for for those not in the know, I don't think that much from Dominion's five really made it into Rift Wizard 2.
+16:27
+You know, a lot of stuff from Dominions from the Dominion series certainly made its way into Rift Wizard 1.
+I don't think Rift Wizard two really like I don't think it like leached up that much more because like a lot a lot of what I was doing in Dominions 5 was I so I started playing the game multiplayer and like I don't again, I don't know if you know about the Dominion series and like what the structure of this game is.
+16:46
+I was I was just looking at it because the the the Steam spring sale just ended today.
+So for when people listen to this ages from now, they'll know exactly when this was being recorded.
+But, and I, I was scrolling through my, my endless wish list of stuff like, oh man, I know that like Dominion's 5 is like, and like Conquest of Elysium 5 are like both very highly rated, but I think there was either a, a Conquest 6 or a Dominion six that came out recently.
+17:14
+Yeah.
+Do I get the new one or do I get the one that's highest rated?
+How do I trick my podcast Co host into maybe covering this in the future?
+Because like, that game seems like absolutely catnip for them, 100%.
+That gives me, I love I would everyone should play Dominion 6 once in your life.
+17:31
+It's like, and you should play a multiplayer.
+You should figure out how to you got to play 1 multiplayer game with Dominion 6.
+It's like, it's this really like kind of mechanical crunchy nerdy game when you're playing a single player.
+So you're playing single player and you're like, you're like optimizing all this stuff.
+17:47
+You're like learning about all these formulas and everything and then you play a multiplayer and it become it's like a social deduction game.
+When you play, you know, it's like it's all about diplomacy and like trying to understand like what other people are trying to put together.
+And you can really like like you can put make like a Manhattan Project in that game.
+18:06
+You know, you can have like an idea for like, I'm going to make like this Super Titan factory and you can kind of see what your opponents are doing, but not really It's it's a really cool experience.
+It has nothing to do with Rift Wizard 2 though.
+You know, it has nothing to.
+There was really like, I think as a game developer, you do have to be careful.
+18:24
+Like you don't, you have to know what your game is about, you know, like you have to know what the experience you're trying to create is.
+And it's very tempting to just take elements of your favorite games and just like put all the ones that are making you happy at the time into the game.
+But like, yeah, like Rift Wizard is a single player solo experience, you know, like it is a introspect, it's like a journey into your own mind.
+18:49
+It's not, it is not a social deduction game.
+It is not a social experience.
+It's very, very different from from the Minions 5 which I was playing at the time.
+Yeah, this this question is not on my on my list here, but it it it transitions into my next one.
+19:04
+But I have to ask if you are a a metal head at all because as I was diving.
+Through SO.
+So because like for part of our podcast review that we did for rift wizard one at the very least, like we were going, we were just like amazed at how how creatively titled like all of the spells and skills were in the game.
+19:28
+And there's a lot of them.
+But one of my podcast Co host is a big, big metal head and he's like, you know, like all of these would just go great in like a like a really like obscure metal font that you could never read.
+And just like on a T-shirt like spider Queen or heavens wrath, Mystic memory, nightly oath, word of ice, word of madness, like just.
+19:51
+Great, all be the days of metal socks.
+You're right, you're talking about that.
+But but yeah, like that was one of the advantages of the game being written in π game was me being able to spy through the through the the source code files and being able to kind of like together, like, oh, this is this is how I could like link this to this and this to this and then think like the builds were just like Tidal waving out of that.
+20:17
+So the actual question that I have here, when you were developing Rift Wizard 1, I believe Rift Wizard 2.
+It's also using π game, but what led you to use the Python interface library π Game for development?
+20:35
+Yeah, I mean, it's just fun to write Python Cook.
+That's the whole reason.
+And it's a very important reason when you're writing a game, you you're going to spend all this time doing this thing that everyone's telling you you're crazy for doing and you're just going to be alone.
+And it better be fun, man.
+20:51
+You know, like I tried writing the game in XNA because I kind of like C# too.
+And see, you know, it's nice to have a type safe language.
+It saves you a lot of saves you a lot of grief.
+But with I was like trying to set up a prototype in XNA and it was like, it's taking a long time and there's a lot of annoying stuff like you try to draw a Sprite on the screen in XNA and it like it doesn't, it's like not rendering the pixels 1 to 1.
+21:15
+They're all these like flags and like settings you have to do and like you gotta like and XNA it's like not supported by Microsoft anymore.
+So you gotta use Monogame, which is like the open source port.
+You have to like set it up on your computer and everything.
+It's kind of annoying.
+But like with Python, you just you just install Python And then you like Python pip the like the TCOD library and then it's like there, right?
+21:38
+You might have to like download it and put it in the directory, but it's like, it's just this very easy set up.
+And then you can make an ask.
+You can make an asky maze that your character is wandering around in in like under an hour with like Python And TCOD.
+So it's like, it's just so the time between like starting the project and having something that's like fun to work with and interact with is like very, very low.
+22:03
+And you can develop very fast in Python too.
+Because Python, I mean, there's really no guardrails in Python.
+Like you can do all sorts of stuff that you really shouldn't do in Python.
+It's very permissive of what it lets you do.
+And that's really nice when you're, it's really nice when you're prototyping a game and like game development, it's actually like all prototyping.
+22:20
+Like you're prototyping until like 2 weeks before ship and then you're just like crunching to Polish it and ship it.
+That's kind of what game development is, you know, because like people always get frustrated by that.
+Like you end up throwing out 90% of the stuff you write when you're making games.
+Like I was, you know, I was telling you about how the game was like it was going to have multiple character class.
+22:38
+Like at one point the game had a mana system where actually it was going to be like there's like a Pac-Man element to it where you would, you had an uncapped mana bar.
+You know, you'd start with maybe 0 even.
+And then like every cell of the dungeon would have like 1 mana on it that you could go and pick up kind of like a little bit like Pac-Man.
+22:58
+There's also a game called Desktop Dungeons, which is like kind of surprisingly well known coffee break rogue like, maybe the best known coffee break rogue like, and they have this mechanic where when you unfog a tile you get something.
+You get like XP or something.
+23:14
+I forget exactly what you get.
+Yeah, you get a little bit of XP and yeah, there, there there's some kind of like, I think, yeah, you get like a like a little bit of like HP and I think mana as well.
+But but there's also like HP and mana potion, like, yeah, bigger, bigger chunks of that stuff like within the fog of war somewhere.
+23:34
+You know, I thought it would be a cool mechanic to to steal basically because like it makes you because it makes you want to walk around the level, right?
+It's like actually Rick Wizard kind of has this problem.
+It's very easy if you mess with the mechanics of Rift Wizard, it's very easy to make the optimal play to like stand at a choke point and just like slowly grind stuff down as it comes at you.
+23:56
+So that that's why the game has monster spawners by the way, because the game doesn't, you have to have some.
+There has to be something that like moves the players around the level having one mana on each child didn't really turn it.
+It didn't, it didn't work out in the end.
+Also having one resource that all your spells shared I don't think was good because you kind of just like you would like find the most mana optimal spells and like never use the other ones.
+24:22
+Like people would get.
+One very popular thing to do is you get teleport and you would get a fireball.
+Basically that was all you needed.
+You know, that was all you needed for the whole game.
+And like maybe you get annihilate, you know, for the occasional boss, you know, so like all right, now you have 3 spells.
+24:38
+You know, it's like, and it's like very obvious when you should use fireball and when you should use annihilate.
+So, you know, I moved to the charge system and then with the charge system, I had to take out the mana dots.
+Still had like mana health potions and mana potions of the game.
+But yeah, so like you throw away a lot when you're developing a game.
+So like you have to, it has to be fun to like write new code.
+24:57
+And so I prototyped the game in ASCII because I'm not an artist, you know, I'm a, I'm a programmer mainly, although, you know, I've been been doing a lot of art lately, been doing sketching and figure drawing lately.
+But certainly at the time that I did Rift Wizard, I was not an artist.
+And so I just wanted to make the game in ASCII.
+25:14
+So then I made the game in ASCII.
+It got to the point after a couple months of prototyping with with my friend Jacob, who's now the guy doing most of the coding and design for Rift Wizard 3.
+It did get to the point where like the game was fun in ASCII.
+And I had been careful to like separate the ASCII rendering of the game from the actual mechanics of the game because I had it in the back of my mind the whole time that I probably wanted to make the game some kind of Sprite based thing.
+25:39
+And so I just looked at the options for drawing pictures in Python, you know, for having a game window that had 2D graphics and Poggy was was kind of the best option.
+And I mean, it kind of still is.
+And like, at this point, I'm not going to transition, right?
+Like the Rift Wizard 3 code base is a fork of the Rift Wizard 2 code base, which is a fork of the Rift Wizard 1 code base.
+26:00
+So like, you know, starting your code base from scratch, it's like usually a bad, it's usually a bad, it's like a famously bad decision that Netscape Navigator made way, way back in the day.
+And it's always attractive like, because you always want to be like, man, like there's all this like stupid legacy stuff that's happening.
+26:19
+And there's plenty of stupid legacy stuff that's happening in the Rift Wizard code base, by the way.
+But there's also like there's just years of accumulated learnings and problem solvings.
+And like, throwing that away is it's not a good idea.
+You know, it's just not the right thing to do, especially if you're making something very, very similar.
+26:35
+Like Rift Wizard 2 was very similar for Rift Wizard 1.
+Rift Wizard 3 also very similar to Rift Wizard 2 and to Rift Wizard 1 for that matter.
+Like it has new graphics, but you know, fundamentally it's like it's doing very, very similar things to what Rift Wizard done.
+Like there's a grid, there's sprites on the grid.
+26:51
+The sprites have different frames that they show in different situations.
+So yeah, like I chose π game basically because it was easy to prototype a π game game.
+And then I just never like, I never moved away from it.
+Like the most fragile part of game development is it's the early part, you know, like once you have a game that people like, like you've done the hardest thing, you know, you've, you've passed like the hardest challenge of game design.
+27:16
+So I think you, you kind of, you want to optimize everything for like making it easy to make that initial prototype that like, you have to make an initial pro, like you have to make something that people actually enjoy interacting with.
+And that's really, really hard.
+Like most games never get there.
+27:31
+You know, like most game projects that are abandoned, they're abandoned because they never get to that point.
+I think a lot of games are released on Steam that never get to that point.
+Like there are a lot of games that they could even look really beautiful, but they're not games where like you interact with them and you really love it and you want to like keep doing it for 100 hours, you know, like tell your friend about it.
+27:50
+That's like very, it's very difficult to get a game to that point.
+And so you want it to just be easy to prototype the game and get to that point?
+Yeah, the this database of just of just rogue style games that I have that has like, you know, however many total reviews there are for the games.
+28:09
+I think there's like, I don't know, I think we're, we're up over like like 18,000 Rogue style games on Steam now.
+My God, yeah.
+And and the like, the average number of reviews for that is like less than 1000, right?
+28:29
+You know, it's so long tailed with, you know.
+It's people with it is under 1000.
+It's yeah, yeah.
+Even the big ones are like around 1000.
+Yeah, a lot of them have like 5.
+You know, like the median might be 0, in fact.
+Yeah, I mean, it's it's so long tailed that like yeah, there's there's like exactly like you just said, you know, it's it's so hard to, you know, make something that like it could be I mean, you you could have like all those things firing too, where it's just like you have like the the perfect game that would sell really well, but just like it just somehow doesn't get discovered.
+29:03
+So I'm very, very, very happy that Riff Wizard at the very least caught some some part of the audience and is able to keep.
+It going.
+So, so it sounds like pie game is like your your comfortable established engine at the moment.
+29:20
+And that's, that's all well and good.
+Eventually when rift Wizard 4-5 and six come out, like, do you envision those being like, oh, you know, now that that pie Game 2 has come out?
+Or, you know, if you have like long grand strategy plans, I'm like, well, if I pivoted to Gadot, I could like rift wizard 4.
+29:39
+It's going to be like the a AA3D rift wizard game 4 player coach, you know, couch Co-op joypad support kind of stuff or.
+I think all right, so like any rift wizard like if I ever make rift wizard four or five and I don't know if I ever would like I kind of I kind of have this feeling that like rift wizard 3 is like the definitive rift wizard like I felt like with rift wizard 1 and two, I was kind of like like rift wizard all right, so rift wizard 1, I knew it was a good game when I was about to launch it, or at least my friend like told me it was a good game and I believed him, you know, because I saw that he would like play this more than others, more than the rest of his steam games.
+30:16
+You know, this is Jacob again.
+And I was like kind of nervous about releasing cuz I wanted to do all this stuff, you know, like I wanted to do different character classes and like different biomes and like all kinds of mechanics.
+But like I saw that this like this was a game that was very entertaining and engaging to people and like, like, I should just release that, you know, like if you have that, you should just launch that, even though it wasn't perfect.
+30:39
+And then Rift Wizard 2 was like, I was working on it for a while and I wasn't really sure like when is it done?
+You know, it's like, when is it time to like release Rift Wizard 2?
+It just came to a point where like Rift Wizard 2 was a lot better than Rift Wizard 1.
+But like I just, I thought it was a big improvement over Rift Wizard 1.
+30:57
+But again, like it wasn't perfect.
+Like there was stuff about Rift Wizard 2, like especially the item system and the skill system where like I felt like it just could have it could have been it wasn't perfect, but it was much better than like what was out there right now was like rift wizard 3.
+31:18
+Like, man, I don't know what I would do to let like I really like the crafting system.
+I really like the the graphics too.
+Like I don't I don't think I would make I don't have rift Wizard 4 on my mind right now.
+I think if I were going to make rift Wizard 4, it would probably still be in pie game because I don't know if I would call anything rift wizard 4 that wasn't like a game very similar to to rift Wizard 1-2 and three.
+31:44
+I could imagine doing like like rift wizard 3D, you know, like kind of like a Cubert style, like 3D rotatable side view or maybe like this guy, a Final Fantasy tactic style.
+But that's like not, that's like so different that I wouldn't even call it Rift Wizard anymore.
+32:01
+And like to do a game like that, I would have to start over with the new code base.
+And I don't know if I would use π game or I don't know what I would use actually.
+Like I might be very influenced now by the existence of AI coding agents because like, like you don't have to write every character yourself as a programmer anymore, although you probably do want to.
+32:22
+I mean, we can.
+I saw you had a question about those things.
+I have a lot to say about AI coding agents You might like there are parts of rift Wizards code base that I would never allow a coding agent to write.
+And then there, there are parts of it where it's like, so like the the core engine of like what happens in a turn, like the order in which units are advanced, the way that adding a buff to a unit impacts the stats of a unit, like when when events are triggered, the way that spells are queued and like executed and ordered.
+32:52
+You cannot, you cannot allow a coding agent to make those decisions.
+You know, because it doesn't, it doesn't know what you're going for.
+And like each of those lines of code, that's like code.
+That code is the design of the game.
+Whereas then there's stuff like the UI, you know, and like the UI, it's like 5000 lines of garbage basically.
+33:11
+Like I feel dirty when I write UI code.
+You know, you can have the coding agent write the UI code.
+But so I might like, I might write, I would think a lot more now about writing a game in C using heavy coding agent support.
+Because like I don't like, I don't really like engines like Unity and Gadot where you have to use their Entity Framework and they have like 100,000 lines of code that you don't know about that are like running somewhere.
+33:39
+Like I really like having a, a while loop and then putting code in the while loop.
+You know, like I like knowing every line of code.
+Like Python is really the level of abstraction I like working at because I don't, I don't necessarily want to do like all of the memory management and like pointer arithmetic that C would require you to do.
+33:59
+But like I'm very satisfied just having like garbage collector dot collect at the end of the the end of each frame, you know, or I think I'm like at the end of each level now, like having that level of control is kind of appropriate.
+I love Godot, Godot in Unity, like they make it really easy to do amazing animation and like you can just put animation everywhere.
+34:23
+And like if you look at games that are coming out nowadays, they just have so much more animation than they had 15 years ago.
+Like 15 years ago I remember there's this game Knox.
+It was like a Diablo style game and on the main menu, the cursor would like create sparks when you drag the cursor around.
+34:41
+And this was like amazing for the time.
+Like everyone just played Knox remembers the menu and remembers that the menu was like better than all the other game menus at the time.
+But now, like every game's got this because now you can do this in 20 or 30 minutes.
+You know, you don't even have to be a programmer to this.
+Like your artist can just go into your your project file and decide that like there should be sparks on the cursor in the main menu.
+35:00
+And it's not a big deal for them to implement that.
+And Gadot and Unity have a lot of tools that make it really easy to like put lots of animation into your game and that can make your game feel really like alive and interactive and juicy.
+35:16
+So that is, that is a big advantage of using Unity and Gadot.
+But I don't know if you need that anymore.
+Like now that you have coding agents, it's kind of easy to say like, please add sparks to the well, you don't have to say these.
+You say add sparks to the, to the cursor in the main menu and then, you know, you can write like you can even write a whole paragraph about how the sparks should behave and you could write a paragraph about how the sparks should be implemented.
+35:39
+You know, you say like, well, make a particle system class, you know, instantiate this class, blah, blah, blah.
+And it kind of like it makes an amount of code that you might be uncomfortable with if you were like coding it yourself.
+And like if you're coding yourself, you have to like this is like a 2 day concentration intensive project.
+35:59
+So you like wouldn't do it if you're just making a game in C in like 20-10.
+But maybe in 2027, you know, maybe it might make sense just to write a game in C and make liberal use of coding agents for like the, the UI sugar layer of the game.
+36:15
+So yeah, I don't know, I don't know.
+And the thing was like the coding agents are, you know, they're not that old.
+So they're being iterated on and improved at like a very rapid rate.
+Also they use like GPU compute, which is being like heavily subsidized by like AI bubble venture capital funding.
+36:32
+So like, I don't know, like maybe Claude code will actually be like a lot more expensive in the future.
+Probably not.
+I think the price will go down.
+I think they, you know, I think, I think the algorithmic improvements that they can do to it will outweigh the, and also just the fact that like, you know, NVIDIA is building like you build AGPU and then it exists.
+36:51
+You know, they don't like expire after five years.
+So even if people decide that like they don't care about a lot of the stuff, there will be GPU's around for us cloud code users.
+So I think like 2 years from now, I think I would think like using like writing something in C, using Claude code to do the very programmer intensive UI portion, but then like controlling the tight game, like hand coding the tight game loop.
+37:16
+I think that might that might be something that I'll try in the future.
+Yeah, yeah, 'cause when you were developing and building the the like really laying the foundation for the Rift verse for Rift Wizard 1, like everything had to be handmade because, you know, back in my day we didn't have these fancy LLMS and stuff.
+37:36
+And I thought Piper was pretty fancy at the time.
+You know I got garbage collection.
+Yeah, And then the transition from Rift Wizard one to two, you know, you had, you kind of already have your foundation established.
+You kind of already have your the idea of like, you know, that that game design that makes that game's identity kind of already sort of set.
+37:59
+But how did how did those change between 2:00 and 3:00?
+Like what be in this like Gen.
+AI world where it just kind of seems like you have a genie in a bottle at your fingertips?
+We didn't use it that much, to be honest.
+It was really so like Rift Wizard 3.
+So Jacob is the main programmer on Rift Wizard 3 and he was really going from like like he had not done a lot of programming beforehand.
+38:21
+And so this was like his first big software project.
+So when you're doing your first big software project, you don't really want to use a lot of coding agents because you really want to like, like you want to like learn how software works.
+And so we didn't really use it that much honestly.
+38:38
+Like it wasn't it didn't, we did not use a lot of coding agents for Rift Wizard 3.
+There's a little, I don't know, I think there's like like I would and you know, it's funny.
+So like Rift Wizard is structured like the code is structured in a way where like I wanted it to be easy for me to add spells and monsters and items to the game.
+38:57
+Like I thought it was really because I had worked on games.
+I had worked on games where it was hard to add certain types of content to the game.
+And so there wasn't that much of that type of content because it was just it was like too labor intensive to add that content to the game.
+So I was like really worried in when I was designing Rift Wizard, one that like, like the whole game had to be structured so that you could add a spell in like an hour to the game.
+39:21
+So you can add spells really quickly.
+Like there's not a lot of there's not a lot of boilerplate that you have to do to add a spell to Rift Wizard.
+And so like you can now generative AI is very good at making at implementing spells in rift wizard.
+Like if you tell generative AI like please add lightning ball to the game, it'll do a pretty good job of it.
+39:41
+But like it's not really saving you that much time because like you, you'll generate it with with clawed or copilot or codecs or whatever.
+And then, like, it won't be perfect, you know, it won't be exactly what you want.
+And then you'll have to go and you'll have to tweak it a little bit.
+Yeah, looking at the source code from Earth Wizard one, it was like wow, like the like the actual spells themselves, and I mean this in a good way, like are very like very simple and easy to read.
+40:07
+And I was like scrolling through and I'm like, Yep, there's one that's commented out for some reason.
+But but, but like yeah.
+That one, yeah.
+The aspect of like, you know, using this kind of Death Star to add like another, you know, another class in there for this one kind of specific thing when you could just like copy, paste, change the variable name.
+40:27
+Yeah.
+Is that yeah, you can kind of just copy paste.
+Yeah, yeah, like you're good.
+Like the Marge.
+It's like how much better generative AI is over copy pasting for adding a spell to the game is like really marginal, you know, it's it's not that much.
+It's like 10% faster, you know?
+40:42
+Yeah.
+But so the so Rift Wizard 3 crafting big new system being added in.
+Yeah, I imagine that that like, you know, the, the, the the step function from rift Wizard 1 to 2 where you know, the and I, I, I like and appreciate how similar and different simultaneously they are where I can feel like now today feels like a riff Wizard 2 day or actually I want to go back to riff Wizard 1 to do this.
+41:11
+And they feel like such such.
+I was like just thinking a minute earlier of like, you know, if riff wizard by the time that riff Wizard 6 eventually comes down and it'll be great because it's riff wizard that like I'm getting like Mega Man vibes where like each one is like is so is it's the same.
+41:29
+It's Mega Man.
+You know, you know what you're getting when you pop open the top, but you know, each one is so is so slightly different in the way that it's being implemented that you can go back to Mega Man 2.
+You can play Mega Man 4 and you have a very different experience.
+So I'm curious like what's what sort of inspired putting crafting in and how did how challenging was that from like a system design implementation standpoint?
+41:52
+So the big thing with crafting is like, I wanted to, I wanted to change the balance of how much planning there was versus how much improvisation there was.
+And like I didn't.
+So like Rift Wizard 1 especially is very famous in the roguelike community for being, it's the, it's, it is the roguelike where you have the most agency over what your character becomes.
+42:14
+Like, you choose every spell, you choose every skill.
+And that was really cool.
+That really differentiated Rift Wizard from a lot of other stuff.
+And you really feel like a wizard, you know, like, you really feel like you are like, etching these arcane runes into your spellbook to like, create new magic.
+42:29
+And like, you feel like you're learning about the art of magic when you're playing the game and like understanding how all the different skills and spells interact.
+But then it had this problem where like, there are just these best builds that you keep coming back to.
+So Rift Wizard 2, we added equipment.
+Sometimes you get powerful equipment that would push you in in a certain direction.
+42:48
+I still wanted like I wanted, I wanted more improvisation, you know, I wanted more like the game pushing you where to go, but it didn't want to go all the way to like like what's really popular right now in rogue like game dev is here's a box.
+Pick one of three options.
+43:04
+You know, that's like, and I think there's like something just psychologic.
+It's almost like a psychological fundamental law.
+The like the most relaxing thing for a human being to do is to pick one of three options.
+You know, and they're all these rogue likes where it's just like pick one of three, pick one of three, pick one of three.
+43:22
+I didn't want to go all the way in that direction.
+And I wanted to, to still have this element of like you have a massive array of choices before you and you can do anything at any time.
+So I wanted to keep keep that for spells, but I wanted equipment to be not like that.
+43:40
+And I also, I wanted Rift Wizard 2 has this problem where the SP resource, the resource that you use to buy spells and skills, it's like you're always choosing between adding more like vertical power, like just stacking up more passives versus like horizontally expanding your build, like having more options for what you can do every round.
+44:02
+And usually, like the rational thing to do is to choose more power.
+It's to choose more vertical passive power.
+And if you, because if you don't choose more vertical passive power, you might like fall behind the curve of being able to compete with the levels.
+And the game kind of has to be balanced around almost using the maximum amount of vertical power.
+44:22
+So like in Rift Wizard 2, a lot of the time you would end up with a very small spellbook, which I felt like wasn't like that was not what I was going for in the game.
+Like I really want you to be consider like having you know, 6 or 7 or 8 spells like somewhere around there.
+It's like like I think the most fun runs of Rift Wizard 2 are the ones where for some reason you end up with like 8 or 9 spells, but a lot of the time you just end up with maybe like 2 offensive spells and like a blink and a crowd control spell, you know?
+44:51
+So I wanted to like separate the resources that were being used for increasing your diversity of options versus increasing your the power of all those options.
+So that's that kind of pushed towards crafting.
+And I wanted like, I wanted it to not be totally random what equipment you were getting, but I wanted it to be somewhat random, like more random than power circles.
+45:14
+But I wasn't like like, I didn't want to just take all of the skills from Rift Wizard 2 and turn them into equipment and then remove the skill system and then have like chests where you had where you picked one of three items.
+Like I wanted you to have more control over that.
+And I wanted it to be like something that fell like deep and complex and wizardy, you know, like something like crafting where it feels like you're combining these different, like, like magical regions and like you have different, like things that you can do with them.
+45:42
+You have like, like you find like a fire region and you think about all the different things that you could do for that, like how you can combine that with the spells you have.
+And that I felt was very like, very much in the flavor of like being a wizard, you know?
+And so that's kind of how we arrived at crafting.
+45:59
+And we like tried a bunch of, we tried like a couple different things before we arrived at like, so the way the game works for, for those who don't know is you find ingredients in each ingredient has like some number of tags on it.
+Like you might find a fire nature ingredient, you might find like a, a lightning metal ingredient.
+46:18
+And then there's a bunch of recipes.
+And the recipes are, are like the spells that you can open the crafting and interface and you see all the recipes in the game.
+But instead of just having SP that you can spend on anything, you have Regents that you have to spend on specific things.
+So it's like it's much more restricted what you can craft.
+46:35
+And I mean, you can look ahead to the next portal.
+You can see what ingredients are in that realm.
+And so the way that most of the recipes work is you might need maybe 7 total tags and three of them have to be a specific tag.
+So you can like think about which tags you want to throw away, which tags you need to use for the specific ingredients.
+46:55
+And there's like a lot of, there's a lot of flexibility, but not unlimited flexibility in what you build.
+And I think different players might develop like different ideas of how they want to spend, like how they what they, what they think a metal region is like highest priority to use for like how they want to steer their build when they see like certain types of regions.
+47:15
+So yeah, like that's the crafting system.
+That's kind of how we arrived at it.
+I really like, I like where it is right now.
+Like I feel like every run of Rift Wizard 3 is like so unique just because of what crafting Regents you get.
+And that's like something I felt was a little bit lacking in Rift Wizard 1 and 2.
+47:31
+Nice.
+Yeah.
+The other thing that I'm very excited about with Rift Wizard 3 is the like the very subtle, but I think very interesting change in the art direction.
+And wizard, Wizard 1 and 2 I, I love the art style to it where it's these, you know, very small, but like very personality driven, just like one or two frame alternating like dancing sprites and they just, they have so much adorable character to them.
+48:02
+The your your player character versus Mordred.
+Like I never thought I would hate, hate like the exact like palette swap of my own player character with so much fury.
+But.
+But dude.
+But the but the art style for for three just it.
+48:20
+I mean #1 love it #2 What was the kind of the inspiration for going in that direction where I guess like for, for, you know, audio medium here to describe it looks a little more, I guess hand drawn as opposed to like like chunky pixel art.
+48:41
+It feels a little like grittier, edgier maybe is the wrong word to describe it.
+But you know, it, it's, it's still has that kind of like mystical feel to it in a way.
+Yeah, it was.
+I mean, part of it is just like like K Hoops wanted to improve as an artist and he wanted to do like a more demanding, more aggressive art style.
+49:02
+You know, like the he wanted to go from just like dialing in the things on that 16 by 16 pixel grid to like he is literally, I think he's hand drawing the stuff on the tablet and he just wanted.
+And when you're developing games, like there's always this element of to it.
+It's like, like, why are you making a game at all?
+49:19
+You know, like, why not just work a normal job?
+And it's like, well, you're trying to like explore this artistic side of your existence.
+You know, you're trying to like like you want to just like see how much you can do.
+Like a big motivator for me making Rift Wizard was like as a programmer, I had worked on like a lot of other people's projects.
+49:37
+I had like come in as a contributor to a lot of other large projects and I wanted to do like a whole thing just by myself from the ground up, you know.
+So part of it is that part of it is just like, like we just wanted to see like, like, can we reach like a bigger audience?
+49:56
+If we have like an art style, It's like a little bit more, it's like a little bit more mainstream in a way.
+You know, when you see the pixel art, it's like, I mean, people like you and I like we kind of love it, you know, and like I see that and I'm like, I got to try this game.
+You know, this is a game for me.
+You know, I want like, I want to try this.
+50:12
+I think some people look at that and they're like, you know what, like these guys aren't putting enough effort into this game like this game's not worth my time.
+So it's like, all right, well, you know, let's let's try and this art style does.
+I will tell you this art style requires like 10 times as much effort from K hoops.
+Like the amount of time he has been creating art for this game is way more than the amount of time he spent for Rift wizard 1 and 2.
+50:33
+And just like so artistically speaking, there were like a lot of influences for this really.
+Like the biggest influence which people might consider surprising is just like, like old 20th century, like western but not Disney, like cartoon animation, you know, like that, like Ralph Bakshi, like, like old Warner Brothers.
+50:54
+Like, do you ever watch the really old Lord of the Rings cartoon?
+I was I was just watching a little a little while ago.
+I was watching this clip from the Ralph Bakshi Lord of the Rings movie.
+Where?
+Yeah, that's the one, Yeah, where he dropped the sword.
+Well, the, the, the scene where the, the least intimidating Balrog flies in and it's just like this kind of rotoscoped guy in like a bell bottom costume with just like, but but it has that kind of that like grungy vibe style to it of like the, the acid 70s that I, I almost think of it as as like like Michael bro games.
+51:36
+And I, I don't remember if he does the, all the art himself, but those, those are also games that have a very evocative style where there's like a very kind of unique design to it that that stands out.
+And you see that from like, that was the first thing, you know, that I saw from Rift Wizard 3 was like, whoa, the art is like way different.
+51:57
+I think in a good way.
+Not that one and two were bad.
+You know the that kind of NES pixel art style is is like.
+Standing out is like, really important.
+It's like, yeah.
+So even Rift Wizard 1 and 2, like, say what you will about like the fidelity of the art, it certainly looks different from other games.
+52:13
+You know, And I think like in the age of Steam, like you have to make a game that looks different from other games.
+If you make a game that looks like every other game, like it's not really going to catch people's attention, you know, like people see there's so many games out there now, like there's 18,000 robotics.
+52:30
+Many of them look very similar.
+You know, they have this kind of generic, like it's a little bit anime, it's a little bit Sega Genesis, you know, it's like a very generic style that's very popular.
+And so like I was always encouraging K hoops, like do something weird and stylized.
+52:47
+And he was very open to, you know, he, he kind of wants to do this.
+I think as an artist as well.
+I think all artists like doing stuff like that.
+I think a lot of artists feel very young.
+They feel constrained in their day job, like because in their day job, whether they're like a graphic designer or a character artist on a video game, they're making like things that are, are pretty similar.
+53:07
+And then, you know, you can look at like their Instagram or whatever, or you can look at you just go to their apartment and like see what's like lying around their apartment and they've got like crazy stuff.
+You know, they've gotten something that you've never seen anything like this before.
+It's funny, like I went to, so I started going to this figure drawing meet up with meeting a bunch of I've been meeting a lot of artists lately because I want to kind of develop that part of that part of my personality, especially as a game designer.
+53:30
+You know, I'm like very, I'm very systems focused and very programming focused.
+And like, I was very impressed at first by the people who could like draw photorealistic portraits, you know, like, because I can't do that.
+You know, I'm very impressed when someone could just draw with their eyeball sees.
+53:49
+But a lot of like the really seasoned artists, like they don't care about that anymore.
+They're very interested when they see something that's like different or like creative, you know, like a different way of like representing visual reality on a piece of paper, like a different way of using a pencil or a paintbrush that they hadn't thought of.
+54:09
+So, yeah, I think like K Hoops has been very, you know, very happy to be able to do this.
+Like, because it is a weird art site.
+It does not look like, I can't think of any other game that has art.
+Like it's and it is.
+It's kind of like for a long time, games were really constrained by technology.
+54:26
+Like games were really, they would just they would look at what the state-of-the-art like hardware was and then they would like maximize what they could do.
+Like Far Cry is like a great example.
+The Far Cry era was when like, you know, this new NVIDIA graphics card came out and it had these features and we were just going to use all these features in the game.
+54:45
+And in a way they were photorealistic in a way that they weren't photorealistic.
+It was just like something a graphics card that could do, like, remember bloom lighting, Remember that from like 2013, there's this trend where you could like or like HDR or blue of an HDR. Yeah, that was the pair.
+55:01
+That was the pair.
+And you could like, it's not like what reality looks like.
+Like reality does not look like these things.
+But it was really cool and it was cutting edge and you could use expensive hardware to do it.
+And so games were always kind of dictated by like what the hardware was.
+But I feel like we're in the last like 5-10 years, we've really been getting more into like, all right, we essentially have unlimited hardware capacity.
+55:22
+We can put whatever pixels we want on the screen.
+But like, what are things that we haven't explored yet?
+Like, like Hollow Night comes to mind.
+It's like just this like weird art style where like maybe you could have done this in 2009, you know, but no one was, you know, no one was really like trying out these weird art styles.
+55:41
+Yeah.
+Yeah.
+So I'm pretty, I mean, I'm pretty excited about the new art style.
+I hope people like it, You know, I hope people like it.
+I'm worried that like, like I worry that people liked, like there's probably some people that like drift Wizard 1 and 2, like just because of how they looked, you know, there's some proportion of the audience and they're like not going to be happy that we're trying out this new art style, you know, like, so I, I don't know what can you do?
+56:02
+That's part of why like that's why it's a sequel and not a patch though, right?
+It's like, because we want to try these things that like are new and like, like we couldn't put like the new art style or the crafting system, like that can't be part of Rift Wizard 2.
+You know, that can't be like a patch or DLC like that has to be a new game.
+56:21
+And yeah, it's I just think it's exciting to like start a new project and then like, like you make one change and then you realize you have to change the game in 100 other ways in order to accommodate this, right.
+Like like these sprites are bigger.
+So the battle.
+Yeah, that was.
+56:36
+Going to be my other question.
+Was the like the I forget how big the like the play area, like maximum sizes in Rift Wizard 1 and 2, but it's it's what something like maybe like 128 by 128 squares or like. 60 oh, nowhere near that.
+Oh no God no God, God no.
+56:54
+It's like I think it's 24 by 24 in rift wizard 1 or 22 and then I think it the default in rift wizard 2 is like 28.
+Oh, the rift wizard 2 will let you play at different sizes if your screen has different resolutions.
+So it like, I think it increased, it increased significantly from Rift Wizard 1 to 2.
+57:12
+And there's like a square law thing going on where like if you add five more to like the horizontal and vertical size of the game, like the battlefield becomes like much, much bigger.
+And then so it was interesting like Rift Wizard one, there was like a lot.
+It was a lot more possible to like look at everything on the map.
+57:31
+Rift Wizard 2 was much more like this giant grid of automata and you had to develop an intuition about how they would interact with each other.
+And then Rift Wizard 3, like I did kind of want to go back to something more like Rift Wizard 1.
+And we went, we ended up going even farther in that direction where like, like you can know you can be interacting with like everything in a level all at once in Rift Wizard in Rift Wizard 3.
+57:56
+And so it's like, like all the spells had to be rebalanced to accommodate this, right?
+Like every spell with a radius, the radius probably had to decrease a little bit in Rift Wizard 3 because the level is just smaller, so you're hitting like a higher proportion of the level.
+Yeah, like was that I guess in the development for Rift Wizard 3, you know, you have you have crafting, you have a slightly different like play area, like possibility space, I guess with just like this, the smaller grid as it were.
+58:33
+Were those the hardest things about Rift Wizard 3 development because it's you had like all of the sort of base foundations there?
+Yeah, I would say so I would, I would say crafting was the hardest part.
+I mean, we like, we like tried a bunch of stuff with crafting before we before we kind of got to the current system.
+58:49
+Like there were initial crafting systems that just didn't really like they sounded good on paper.
+That didn't really work.
+You know, we were like, do we really want to do this?
+Like, what are we doing?
+Like what about this other thing?
+You know, what about this other thing?
+And then we let we tried other ideas that just like didn't even make it into the game.
+59:07
+Like I've always kind of wanted to have really complicated multi tile monsters in the game, like a big snake that like coils around itself and like, you know, not like a end by end monster, but just like a monster with a lot of different segments.
+There's, there's this one game, deadly rooms of death.
+59:23
+If you played that game again, it's like a little bit obscure.
+It's like AI don't know if I would even call it a roguelike because there's, there's literally 0 character progression in the game.
+You do not gain gold, you do not gain XP.
+It's just a series of puzzle rooms and you are a guy with a sword and your sword takes up a tile and you take up a tile and you're holding it at a certain angle and your only moves in the game.
+59:45
+Or you can move in the 8 cardinal directions.
+Or you can rotate 45° either clockwise or counterclockwise.
+And whenever your sword touches something, it dies.
+That's, and that's the game.
+And it's, it's very, it's got a lot of really cool monsters, like it's got these big snakes and you can like cut them in half with your sword, you know 'cause it'll just destroy the one cell.
+1:00:04
+It's got like big amalgamations of slime where you like dig through the slime one tile at a time and the slime at a certain growth rate.
+So we like experimented with exploring stuff like that, but it's like, it's hard to put such fundamental, it's hard to fundamental features into a game, which is like complete because a game is like, I don't know, it's like a structure where it's like all these things are in the game for like reasons you've forgotten or reasons that you don't even, you don't even realize why you had to put this into the game.
+1:00:34
+And so like when you mess with that stuff like This is why it's This is why it's challenging to make sequels.
+It's like, because you're not starting from scratch, like you don't have a blank slate.
+Like anything you put into Rift Wizard, it has to work with like the hundreds of spells and monsters and items and everything that's in the game or you have to like update everything to like work with the new thing.
+1:00:56
+So like in the end, I think the scope, so really like the scope of Rift Wizard two or three is that like it's got crafting, it's got the new art style and it's got a it's got a lot of new, new monsters and new spells and new equipment.
+And that's like, like, I don't want to put more into it, you know, like I don't want to have like another like we talked about.
+1:01:17
+Like one thing we talked about doing was maybe instead of just being 20 portals, there could be like realms, you know, like kind of the way that a lot of other roguelikes have where like you start in like the dungeon and then you go into like the underground cave where there's like a swamp somewhere.
+1:01:33
+And you can go into different regions.
+Maybe different regions have like different sets of monsters that appear in them.
+And maybe maybe if you want like fire regions, you have to go to the volcano region.
+We like talked about that.
+There's a problem.
+Like one problem with that is like, OK, I have a fire build, so I want the fire items, so I have to go to the region full of monsters with fire immunity.
+1:01:53
+Like that's pretty weird.
+You know, that's like how you solve that.
+And and it's just like there's just too much other stuff, you know?
+And like, like when you're art, like when you're buying a sequel to a game, like how much new stuff do you want in the game?
+Like there's a certain amount you know, you want like 25% newness, 75% sameness, I think.
+1:02:14
+Yeah, that's, that's real interesting cuz like this this season of the podcast we've been doing like a lot of sequels and Oh yeah, I mean, like again, people know exactly when this is being recorded.
+We're recording our Sleigh the Spire 2 episode tomorrow.
+Oh yes.
+1:02:30
+And that's like another one of like, you know, you have like some game and like, it's also interesting that a lot of classic traditional style roguelakes very rarely have sequels.
+Like, you know, there's there isn't a net hack 2.
+1:02:47
+I mean, we'll, we'll forget that Ultimate Adam exists, but you know, but you know, being able to kind of because, you know, it, it almost becomes like this the singularity that's like this black hole that collapses in on itself of just feature after feature after feature because it's just an ASCII game that you can just keep.
+1:03:04
+Yeah, I think, I think that's kind of a problem for a lot of old Rogue.
+Like I think they do this thing where it's just like one game and they just keep patching it and yeah, it becomes a black hole.
+Like they just add like it gets to a point.
+So it's really hard when you're using that framework to ever remove something from the game.
+1:03:23
+And I think if you can't remove something like every installation of Rift Wizard has removed a lot from the previous game.
+And people complain about that sometimes because it is sometimes one of their favorite things that's getting removed.
+But like if you never remove anything like the game, it just becomes too crowded.
+1:03:40
+Like you get too much stuff in the game and then like it, it doesn't, I don't know, like you can't.
+Also like if you're not making like clearly delineated like installments and sequels, it's hard to make big changes.
+Like it ends up being like this very slow drift.
+1:03:57
+Like I think that's actually something old roguelakes kind of do wrong.
+Like I think, I think if I think dungeon, if there was a Dungeon Crawl 2, I think that might have been better for Dungeon crawl's development than just doing patches.
+And I think a lot of people agree.
+Like a lot of people have a favorite patch of their old traditional rogue.
+1:04:14
+Like, you know, like a lot of people the pick one patch and they're like, you know what, that was the peak, that was where it was best.
+And I think like making sequels is kind of what you have to do.
+Like I think you have to recognize when you're at that best patch, you know, and then you have to say, OK, we're going to stop.
+1:04:30
+We're not like this is like this is the local optimum for like how good the design of this game can be without making huge changes.
+Like I think a lot of so one thing that would happen a lot in old traditional roguelikes is they would get forked, right?
+Like I think Lindley's dungeon crawl was that was a fork of like some other game called dungeon Crawl, right.
+1:04:50
+And then like ADOM 4, there was like a bunch of Adoms.
+There was Tales of Maja L4 was there was like I haven't played the previous three tales of Maja L, but presumably there were three, at least three previous tales of Maja L.
+And like when you make Oh, and even with dungeon crawl, there's like, what's it called?
+1:05:05
+Like B crawl, like bro crawl or something.
+Do you know about this?
+There's like a really cool fork.
+No, I think like the only one, the only like major fork that I know of recently is like Cataclysm Bright Nights, which is a fork for Cataclysm dark days ahead.
+1:05:22
+Yeah.
+And that that one was was let's say Riff Wizard did a lot better on the podcast than Cataclysm did.
+It's it's almost become kind of like this running joke of like another game that's just like it's scope is is so big that like it it it almost kind of seems a little in focus.
+1:05:41
+But I think like there's a fork of that called Bright Nights that I think is supposed to be like, OK, what if we took like this whole like this borderline operating system of features that yeah, that Cataclysm is and like streamline it down into something that's maybe a little more like focused and straightforward, which I think is what Bright Nights is supposed to do.
+1:06:01
+But but I know like like like, you know, you're talking about versioning, like Net hack just got a big new version update recently that I think people are interesting, are diving into and exploring.
+But but yeah, like that, that kind of versioning and sequeling.
+1:06:18
+To buy between like roguelikes that are simulations and roguelikes that are games.
+And like Lynched Wizard was really like, I was very cognizant of the fact that I wanted to make a game, you know, like I wanted to make a thing for players to do.
+But like, that's not like I think Cataclysm and like Door Fortress adventure mode, like people just want to simulate everything.
+1:06:37
+And that's like cool for its own reason, but that's like a very different thing.
+That's very, very different.
+Yeah, related, I guess to the future plans possibly of Rift Wizard or even just maybe like design ethos.
+1:06:55
+One thing that I really like about Rift Wizard is, is, you know, how accessible it is where you don't have to like memorize 3 dozen keyboard commands to to, you know, put a pair of shoes on and kind of thing.
+But but do you see like any kind of like future world in which like Rift Wizard would would come to like a platform like the switch?
+1:07:17
+Like, is that something that like is, is like on your radar?
+Why they're from like, and maybe not even like, specifically like when are we gonna get a Switch release, but more of just like, yeah, yeah.
+In terms of like accessibility and that kind of thing.
+Like how do you see like Riff Wizard in that space compared to some of the other traditional work legs?
+1:07:38
+Yeah, that's a really interesting question.
+So it's like, on the one hand, it would be a very good fit for the Switch because Rift Wizard is like an awesome game to play on the train or in a plane.
+But you can like, you know, you can put it down.
+It's, it doesn't go anywhere.
+You know, it's like it's, it's infinitely replayable.
+1:07:57
+So like if you have a lot of time that you're like trying to burn while you're like on a bus or something, it's like like it makes a lot of sense in that regard to put Rift Wizard on a portable system.
+On the other hand, and I didn't even realize this when I was making Rift Wizard.
+Rift Wizard is like, this is a game that is very tied to keyboard and mouse input.
+1:08:17
+Like this is a game where you have like 20 plus buttons that you can press, You know, like that you have 10 spell buttons, you have 10 consumable buttons in Rift Wizard 1 and two you have like they're all these menus that you can open.
+And like, I think the hardest thing to put on a switch or on like a Steam deck, for instance, if a lot of people ask about as well, is like the the targeting, Like the targeting is really, really mouse.
+1:08:44
+I mean, you can do targeting, you can play the game without the mouse.
+It is possible.
+But then you're cycling through like each individual enemy of like, no, not that one.
+Nope, not that one.
+Nope, not that one.
+And like another really big part of Rift Wizard is mousing over things to see what they do.
+1:09:00
+That's like, that's actually a huge part of the like I was me and my friend were like just messing around with like various vibe coded prototypes the other day and he made something and he was showing it to me and had no tool tips.
+And I was like, how am I supposed to play this?
+But I don't even know what this game is.
+1:09:16
+Luckily I had the designer of the game, you know, sitting right next to me so I could like interrogate him on what everything did.
+But like do man, do not underestimate the importance of the mouse over tool system and rift was this was like, I think this is one of the big important things that rift wizard did that made it kind of like stand out in terms of like, you know, the 18,000 roguelikes is like it's, it's so easy to learn to play.
+1:09:40
+It's a complicated game that's like pretty easy to learn because you just it has this very strict rule that you can mouse over anything and on the right hand side of the screen, it'll explain to you what that thing does and so on.
+Like a switch or a steam deck.
+1:09:55
+You need something like like, all right, maybe you hold down the right shoulder button and like the mouse comes up and you like move the mouse around with the control stick because like even if it's just like a view square, like the view spell, like you can press V in rect wizard and then move the reticle around and it'll like highlight stuff for you.
+1:10:13
+But like it doesn't give you the tool tips to like spells and stuff.
+So then like see spell tool.
+I guess you can see spell tool tips when you're scrolling through the store.
+But yeah, like the game is really, and this is, this is an interesting thing I was thinking about too.
+Like, in a way, this is like a dying genre, mouse and keyboard games, right, 'cause like, like if you talk to someone who's 15, like, they might not know how to type.
+1:10:35
+You know, like our generation, we were the peak typists.
+We are the best typists that ever walks this earth and ever will walk this earth, right, 'cause like, like we would.
+Typing was my social life when I was 14.
+I use like AOL instant messenger, Yahoo messenger, and I think a lot of people in our generation did, but that's like gone now, you know, that's not how people interact with each other now.
+1:10:58
+Now like voice to text is like so like it was terminal when I was when I was voice to text was like, don't waste your time on that, man.
+It's not going to work now.
+Now it just works now.
+You know, I did some disorienting for me for it to work like I was.
+I was like, I was singing karaoke with some people who are younger than me, and they were just using, like, there was like a microphone button on the remote where you could just say the name of the song.
+1:11:21
+And I had it at such a deep level in my mind that that would never work, that I was like, disoriented talking into the remote, you know?
+I just, like, it felt very unnatural to me.
+So like, yeah, like Rick Wizard is a mouse and keyboard game.
+It's really and mouse and keyboard games in a way.
+1:11:37
+The mouse and keyboard, It's like a console, you know And it was like, you know, 198080 something, so like probably 20302040 something it'll be dead, you know and Rift Wizard is very tied to be a mouse and keyboard especially.
+1:11:55
+And so Rift Wizard 2 sorry 3 Rift Wizard 3.
+There's now so much in the game that all the shop UI's have like a search bar.
+Well, OK, I guess we could use the microphone for that.
+You know, I guess the switch switch to probably is a microphone.
+I don't know if it has a microphone or not.
+Yeah, but it would be tough.
+1:12:12
+It would be really tough.
+I think you can make a game very similar to Rift Wizard.
+If you really focused on making a Switch game or making a Steam Deck game, I think you could like, you could make Rift Wizard Gaiden.
+You know, they used to have like Final Fantasy Gaiden, like these little side games from the main game that were like a little different from main game.
+1:12:33
+Like you could do a game that was very similar to Rift Wizard.
+Like you could do a game focused on like a game where you get 4 abilities, you know, like a game where you understood that players would usually not look at the mouse over text of monsters.
+You could do that or, or maybe you like you know, maybe you show the description of the monsters when you start the level and maybe the monsters are a little simpler so you don't have to constantly be mousing over them to see what they're doing.
+1:12:58
+You could make this game, but like the game would it would be a significantly different game than Riff wizard.
+So that's kind of what I that's why I haven't really ever thought about porting Rift Wizard directly to Switch or a Steam Deck.
+All the people do play it on Steam Deck.
+It is playable on Steam Deck.
+Yeah, I think like my like I've I've I kind of hop back and forth between my desktop and and my steam deck for like, like you said, perfect bus game.
+1:13:23
+But yeah, but yeah, it'll be interesting to see where like the current generation of of tablet and iPhone kids, like maybe, maybe they'll see like, oh, these keyboard games are like they're super cool because of how obscure they are.
+And then it just becomes.
+1:13:39
+Retro in 20 years, right?
+Yeah, exactly, exactly.
+So you really you're 20 years ahead of the curve right now of, of popularity.
+But like so, so riff wizard, riff wizard kind of like straddles this, this realm of like the old guard of, you know, old school, like ASCII dungeon crawlers, but you know, the new the new realm of like stuff with graphics and like more kind of user centric accessibility.
+1:14:08
+Like straddling those kind of two, like I was about to say watershed, but like almost almost continental divides.
+Like, what do you wish more people knew about traditional roguelikes, whatever that that concept means to you, who might be coming to it from, you know, the the kind of like mainstream gaming world these days?
+1:14:31
+An interesting question.
+I mean, like, I don't know, like Foo, you know, like in a way like traditional roguelikes, they're not for everyone, you know, like not everyone's going to enjoy traditional roguelikes.
+I don't think you can't make, you cannot turn this concept into a mass market concept, right?
+1:14:48
+Like this will always be like a very nerdy, very like niche thing.
+I mean, I mean, I think a lot of people.
+So there are a lot of traditional robots that are not on Steam that I think people don't know about because like PC gaming is Steam at this point.
+1:15:04
+Like Steam is taking over the whole thing.
+There's like so little and in like new operating systems, right?
+It's like hard to even install like an executable file from a website.
+You know, you have to let like Steam is like the gateway onto the computer for games in like in, as we go forward in computing.
+1:15:22
+So I think a lot of people are going to miss out on the classic.
+Like, it's really cool to play Net hack, man.
+It's really cool to play it like a few times.
+Yeah.
+I mean, I think the thing you need to know is that like there's these games, there's just these games out there on the Internet that like, like they weren't made by a company.
+1:15:38
+They weren't, they were like even less commercial than Rift Wizard, you know, and, and they're weird, you know, like these games are weird because these games are being like a lot of these games, they're made for the amusement of their creator rather than the enjoyment of the players.
+I think like in terms of designers, like, like, I think game designers.
+1:16:00
+So like as a, as a, as a gamer, you don't necessarily have to know every game.
+You know, I think like as a game designer, you're really doing yourself a disservice if you are making a game and you don't play every game that's similar to the game that you're making because you're like spending weeks or months prototyping these concepts And you can just download this game, which is like maybe not exactly what you're making, but very, very similar.
+1:16:23
+So like, I think it's really important as a designer to like know about what games have come before you.
+So I think like, like as a designer, like you got to play Dungeon Crawl Stone Soup.
+Like you just got to do it like cuz now it's so standard Now it's kind of like like it's like film history, right?
+1:16:40
+Like when you go and you get a degree in film studies, you watch all these weird movies that no one watches for fun anymore.
+And then like, like, right, like and like, but there's like special things about these movies.
+Like there's a movie which is the first like Train Robbery sequence.
+1:16:59
+You know, there's a movie which is the first like one shot sequence.
+You know, it's just one really long shot where the camera is moving.
+Like their movies that were the first movie to like do a thing.
+And it's really interesting to see like like what?
+Like, what were roguelikes like before you were picking one item out of three in a box, you know, And like, how did they evolve into that?
+1:17:22
+Like, why did they evolve into that?
+Like, like, obviously everyone has played Slay the Spire, you know, And and that's great because Slay the Spire was like the first roguelike with cards.
+And now there are so, so many roguelikes with cards.
+And you're doing yourself, yourself a disservice if you don't play the first roguelike that put cards into the genre.
+1:17:41
+Yeah.
+I think there's like a Canon, you know, like they're just some game.
+Like you got to play Dungeon Crawl Stone Soup.
+You gotta play Tales of module L4.
+I think Tales of module L4 is like a really, it's a really interesting rogue light.
+They do all these, they're all these and all these old games.
+They do something really good that no game did before them.
+1:18:00
+But then they have like horrible flaws that modern games do not have.
+And then you start to understand, like, why modern games are the way that they are.
+And then you gain an understanding of why you might be able to make a game which is not like that, because you start to understand why this rule exists and like how you could break the rule.
+1:18:20
+Is there anything that you you wish, I guess my my question is written down like, what do you wish traditional roguelikes did differently?
+And the way that I was thinking that that question of was like, you know, net hack Adam Angbad are still like fairly popular despite being like really old games.
+1:18:37
+But like, is there anything about those kind of like and I like I'm I'm hesitant to put the stone soup in that same category because it feels kind of like like like.
+It almost kind.
+Yeah, fit like that and like Tom 4 both feel like these kind of like a modern iterations of it.
+1:18:53
+But like, is there?
+Is there something about those, kind of like the old classics I guess, that that you wish did differently?
+I mean, that's like everything I did in Rift Wizard, right?
+Like Rift Wizard is just like me going through those games and being like, no, no, no, don't do it that way.
+1:19:09
+Do it this way.
+And you know, in a way those games and it's, I'm a Rift Wizard and I play it.
+So I've played, I played my own game quite a bit, you know, like I played like 1000 hours of Rift Wizard, like just recreationally.
+And like that's the bonus of making a game, right?
+It's like you get to play the game you always wanted to exist.
+1:19:29
+And then, but I've gone back afterwards and I've played Dungeon Crawl Stone Soup and it's like, you know what, like this game actually does have some stuff that Rift Wizard doesn't have any more.
+Like there is some cool stuff in these like in a way, like these game like again, they're local optimums, you know, like they've made the best version.
+1:19:46
+Like given all of the design constraints that they have, like, you know, without totally changing the game, they've done a good job, like realizing as much as they can realize of the vision that they have.
+Like like if I was going to make like a fork of like, you know, one of these old like like Tom or net hack or something like.
+1:20:08
+I don't know if I would really have that much to contribute to it without doing like something like Rift Wizard where I just tear down everything and let's start over from the scratch.
+You know, like I think like we were talking about this earlier, like the direction of modern games has been much more towards mechanical transparency.
+1:20:27
+I think a lot of these old games, they're very mechanically opaque because like the original fantasy games, they were trying to like allow you to play Dungeons and Dragons single player or allow you to have like create an interactive experience, which is kind of similar to like reading a novel or watching a fantasy movie.
+1:20:48
+That was like what they like.
+That's what they how they were coming at it.
+Like before there were existing games in the genre.
+Whereas now, now we're like, we're making games for people who are already fans of games where it's like, OK, you like games.
+Well, why do you like them?
+1:21:03
+You know, like what is fun about games?
+And it's like, well, the mechanics, you know, like the systems in the games are what differentiate games from each other and what make games interesting.
+So it's like a very, it's very natural that like now games are like much more open with what their mechanics are like.
+1:21:18
+I mean, again, like if I were forking net hack, I would probably just add tool tips everywhere, you know, And so I would add tool tips to everything and then and then some stuff wouldn't even make sense, right?
+Like like the stuff that just instantly kills you if you don't know how it works, Like does that belong in the game?
+1:21:34
+If you can just right click it and see how it works, you know, like maybe it has to work in a in like a slightly different way, like like cockatrice is still interesting.
+Like if if the cockatrice leaves a corpse where when you step on it, you die.
+Like that's interesting, you know, maybe it's interesting to have a level where there's just like a big swarm of cockatrises and you have to be really careful about what tile you kill them on so you can like leave a path to the exit.
+1:21:59
+You know, actually now I want to play this game now I want to play like net hack handcrafted puzzle mode right where you like make these weird handcrafted, I guess.
+All right, I'm just describing deadly rooms of death.
+Now, now that I think about it, this is enemy ideas for deadly rooms of death it.
+Sounds like a like a net hack Mario Maker level generator of swords challenge maker.
+1:22:18
+Yeah, man, I should, I should vibe.
+Put that up and just make that tomorrow, man.
+That would be, that would be awesome.
+Actually, now that you mentioned it, that would be really cool.
+That would be really, really cool.
+Well, out of 18,000 ish rogue games that are out there and whatever sort of countless more that it that aren't on steam just floating around the the the webs and, and open source frameworks and, and, you know, link rot and whatever you can find on archive.org these days, like out and I guess outside of of the Rift wizard franchise as well.
+1:22:50
+I think, I think I know one of the answers to this, but do you have any favorite rogue, you know, traditional rogue like or rogue light games or?
+Oh, it's it's the three that I mentioned for sure.
+Dungeon Crawlstone soup.
+You know, that's like that's one of my all time favorites.
+Tales of Maja L4.
+1:23:06
+That's one of my like the the character building entails.
+So in dungeon crawl Stone soup is cool just because like walking around the world and gathering loot and thinking about how to spend your limited like that game is all about limited resources.
+It's all about potions and scrolls.
+1:23:22
+And like understand.
+So when you first start playing Dungeon Crawl Stone soup, the most powerful item is the healing potion because you see that your health has gone has gone very low and you know that you will die unless you can heal.
+But oh, good news, there's a healing potion in your inventory.
+So that healing potion gets you out of that situation.
+1:23:39
+And there's like 30 other scrolls and potions in the game that all get you out of different situations and like learning how to which situations you can use which consumables in.
+Like some of the consumables seem totally useless when you first start thinking like there's a scroll of fog.
+1:23:54
+You're like, why do I it just creates fog.
+And like this is garbage.
+Like why do I like I'll I won't even like put it in my I won't even like pick it up.
+You know, when I first start playing, like as you master the game, you like start to understand all the weird interactions in the game.
+That's a very cool game.
+That's a very cool game.
+1:24:10
+And then Tales of Module 4 also a very cool game for a very different reason.
+It does not have the same like level of interactive environment.
+What it has are really, really cool character builds.
+Like I would say Tales of Maja L4 is the game that I wanted Diablo 2 to be.
+1:24:28
+When I first played Diablo 2, we had this giant list of skills, and so like in Diablo 2, you basically pick one skill and put 20 skill points in it.
+That's like your Diablo 2 skill build.
+And then they added skill synergies later.
+So now you can also put the rest of your skill points into the skills that synergize with your skill, but you're kind of just picking one skill.
+1:24:44
+Tales of Maja L4 had really the main mechanic that I think helped was skill cooldowns.
+So like, all right, you have a fireball every six turns and it's very powerful, but what else do you have?
+You know, and so you have to kind of fill out your skill bar and think about like all the different tools that you want to include in your build.
+1:25:01
+You want to think about like, and it did a very good job of trade-offs between like you could put up to five skill points into one skill, which is more reasonable than 20, right?
+Like if you can devote 5 levels of to improving just one action that you take, like, you know, maybe you want to, you know, maybe and maybe you only want to do 3, you know, because if you're like, if you start at 100 damage and you increase by 100 damage each time, like the upgrade from 400 to 500 is not as significant as the upgrade from 100 to 200.
+1:25:30
+And then it's got Diablo style equipment as well, where it's like highly randomized, many different stats, many modifiers, giant tool tips, you know, like they're just tool tips everywhere in Tales of module 4.
+And so you, the game is very replayable and you can try a lot of different things.
+1:25:47
+It's really cool.
+I think that's one.
+And then I think Deadly Rules of Death is one that very few people have played, which is very worth playing.
+Just like the design of the enemies and the design of the levels is like like, I don't know.
+Again, I don't know if it's really roguelike or not.
+1:26:03
+It doesn't fit.
+Like, you know, it only fits half the qualifications for roguelike, but it fits.
+It's like a different half than most modern Steam games that call themselves roguelike will fit, right?
+Like most modern Steam games that are called roguelikes are like they're they're taking it's really about randomized loot, right?
+1:26:21
+Like they're really, they're taking stuff from like arguably Dungeon crawl Stone Soup, but like really it's been like distilled to another level.
+Like really they're taking stuff from like, I don't like, what was the first game to just keep asking you to choose one of three things?
+Was it Vampire Survivors?
+1:26:39
+No, it definitely comes from something before that.
+Gosh.
+Oh, I was.
+I was just what is it?
+It's probably something that I'll remember right as I'm about to go to bed.
+Like, oh, I got to get up and I got to like edit into that recording later.
+But but yeah, I feel like there was there was some game that like that was not nearly.
+1:26:57
+As like coffee maybe?
+It was.
+It was maybe around that time, yeah.
+A Binding of Isaac had a lot of stuff like this I think.
+Yeah, I don't know if it was.
+I want to say it was something less popular than those, but yeah, it it had that kind of like choose one from three kind of mechanism that just kind of like existed in the ether sort of silently and then like, yeah, another game kind of like, Oh well, this is like a system that that seems like it works.
+1:27:27
+Picked it up and like that game was just already more popular and probably just helped to popularize it.
+But yeah, tome tome four we did an episode on.
+I'd like.
+That's one game that I think is severely underrated where like the the like the the mod scene for it is so bespoke and bizarre that like I was able to find a like an old like SNES style tile pack for it.
+1:27:51
+So I could, oh man, I could swap out the graphics to be something maybe a little more unpalatable, but but that's the only.
+Game that I oh I love the graphics to home at.
+Well, yeah, so Windows. 95 you know.
+Yeah, it's it's it's definitely got a style to it there.
+1:28:07
+Home has like just some of the most bizarre character classes were like one of them the Chrono Mancer I was playing a lot.
+Of yeah, yeah, that was weird.
+That's pretty weird.
+Where like you have an actual ability like that you use that is almost kind of like a like a dedicated save scum mechanic or, or being able to encounter like versions of yourself from the future.
+1:28:28
+Like it's just so it's so like, yeah, it's it's it's a wild time.
+But but yeah, dungeon crawl is like we get a lot of like listener requests from like for that specifically.
+And that's been climbing up our our.
+If you have dungeon crawl, you got it.
+1:28:45
+Your dungeon crawl that's like the classic, that's the bridge between like old trad roguelikes and modern roguelikes is really dungeon crawl.
+Yeah, my, my, a little peek behind the production curtain.
+I've been trying to like slowly get my my Co host the the the acquired taste of the traditional roguelike spectrum before just immediately dropping them into the deep end of all right now we're going to play Maria for 50 hours kind of thing and you're all going to have fun, damn it.
+1:29:16
+Yeah, yeah, yeah.
+But yeah, so, so Rift Wizard 3 is coming, coming soon.
+Is there anything else that that's on the horizon, either stuff that you're working on or stuff that you want to shout out that people should be excited for?
+Nothing I'm working on.
+I mean if I had the shout, I saw the shout out on the document.
+1:29:33
+I immediately thought of Pluto IF.
+You not like?
+Pluto.
+Tried Pluto, That looks super cool.
+Crazy, crazy graphics, real weird, real weird spell casting.
+I mean, it's a card, it's a card roguelike, but it's it's a weird one, man.
+1:29:50
+It's a very weird one.
+And it's the art is, I love the way that game is drawn.
+You know, it's like a very unique, very cool art style.
+Sweet.
+Well, it's, it's been great.
+Had a great time.
+Any any any final final thoughts or comments about Rift Wizard roguelikes?
+1:30:10
+Final thoughts about roguelikes.
+Roguelikes are great.
+Roguelikes are good, man.
+Roguelikes are good.
+I don't know.
+It's like, I'm very happy, you know, I'm always happy to see games that, like, require people to think, you know, And like the roguelike genre, it kind of goes in both directions.
+1:30:29
+Like there are roguelike games that are just pick one of three, pick one of three, pick one of three, like total, like, you know, like lose yourself in the experience and don't think at all.
+But I think roguelikes have done a very good job, like like popularizing thinking as a pastime, you know, So like, I hope people, I hope people have the patience to check out roguelikes that make you think.
+1:30:53
+I think Slay the Spire, you know, does a good job, does a good job, make people think.
+I think there's a lot of, you know, it was like an explicit goal of Rift Wizard.
+Like this will be a game that makes people think really hard, like trad roguelikes.
+I think they almost happened upon this thing by just trying to you make a really detailed fantasy simulator where the player has agency and it's turn based and suddenly it's a thinking game.
+1:31:17
+And yeah, I don't know.
+I hope people keep playing games where they think.
+My greatest fear is that gaming will be over in 10 years and everyone will just be on TikTok, doom scrolling TikTok, you know, just like direct dopamine hits, like no thinking, like white collar work will have disappeared due to AI and like the world will just be a giant swamp of idiots.
+1:31:42
+That's my greatest fear, you know?
+So I hope people keep thinking, you know, that's why I think that's my final message.
+Well, I'm hoping let's see if I can point my webcam at it.
+I've got AI, don't know if you can see the the Commodore over there in the corner got.
+A Oh yeah, yeah, yeah.
+And and the the accompanying monitor with it.
+1:31:59
+So the the the the Commodore with with some OG rogue games is is coming soon down the the the.
+Podcast.
+Pipeline so.
+Awesome man, Awesome.
+Well, Dylan, it's, it's, it's been great.
+1:32:15
+It's been a pleasure.
+It's been an honor to to talk with the, you know, creative mind behind the the Rift Wizard games.
+Super Rift Wizard 3 like automatic day one for me, no question like I'm.
+Awesome that I'm awesome.
+Super excited to to see it play with it.
+1:32:32
+Break it open in the run man streaming around.
+You'll you'll probably just like be yelling at the at the screen the whole time.
+Like no, don't pick that.
+What are you doing?
+I have this.
+Terrible.
+No.
+I've learned to be very patient in my years of game design.
+I've learned to be a very patient man after that.
+1:32:48
+It's very attempting to do these things.
+It's very attempting.
+You have to let, you have to honestly watch, play, test and let people make mistakes.
+So you really have to do it.
+Yeah, I have AAI feel like the the hallmark of a good rogue style game is whenever I have like a good build going and there's like some shiny new object or something like presented to me, I'm like, I know picking this is a bad idea.
+1:33:13
+I know it's going to break my build, but I have to play with this shiny new toy and I have to see what it does and well Yep all my build synergy.
+I was totally ruined but look at this cool fireball or spike demon.
+I can summon and but that was pretty sweet.
+Which.
+1:33:29
+Man, Yeah, yeah, yeah.
+Rick was all about that, man.
+It's all about the it's like you could build around everything, you know?
+Like every spell is like, what if I built my entire thing around every skills?
+What if I built my entire thing around that?
+I think that's, yeah, I'm always going for that.
+Well, I'll be I'll be there with Riff for Riff Wizard day one with my metal band shirt saying mega annihilate on it.
+1:33:52
+So.
+Oh, it did.
+It did.
