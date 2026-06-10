@@ -28,8 +28,6 @@ It's a special bonus episode this week! With Rift Wizard 3 launching in June 202
 
 ---
 
-
-  
 ---
 
 Contact us at grogpodzone@gmail.com!
