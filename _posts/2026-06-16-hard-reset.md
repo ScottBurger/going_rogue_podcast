@@ -21,7 +21,7 @@ tags: ["2026", deckbuilder, solo dev, honorary rogue, mobile game, interview]
 Find Will's app at:
 
 * [https://hardreset.app/](https://hardreset.app/)
-* [https://discord.com/VdqP5AWBnz](https://discord.com/VdqP5AWBnz)
+* [https://discord.com/invite/VdqP5AWBnz](https://discord.com/invite/VdqP5AWBnz)
 * [https://bsky.app/profile/hardresetapp.bsky.social](https://bsky.app/profile/hardresetapp.bsky.social)
 * [https://www.youtube.com/@HardResetApp](https://www.youtube.com/@HardResetApp)
 
