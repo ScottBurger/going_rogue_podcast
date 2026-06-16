@@ -1,0 +1,1998 @@
+0:09
+Greetings fellow cyber slum dwellers and welcome to the Grog Pod Rogue like podcast.
+For each episode we resume our existence of deep diving a rogue like game, hack in to some corpo mainframes and if the game jacks enough creds revisit it at the end of season recap tournament.
+0:29
+I am your bargain bin host of the podcast Scott Berger, and with me are my augmented humanoid Co hosts.
+Oh, it's Colin.
+I am a robotic boot used to crush other boots.
+Oh, and it's Andrew.
+He's been muted.
+Harsh man.
+0:46
+I'm trying not to like cough into the into the microphone.
+That delivery was so smooth and so good.
+Everybody knows me.
+It's Andrew the cyber hunk Harshman.
+And this is Will, your nameless Mohawks protagonist.
+1:05
+Very aptly put, because this week we are looking at hard reset.
+The app released May 18th, 2026 on both iOS and Android, and this was developed by, I don't know, maybe someone named Will Wright?
+1:23
+Who?
+Had the name right.
+He made.
+He made The Sims right?
+Oh, yeah, yeah.
+And, and he happens to host a roguelike podcast.
+This is a solo dev effort.
+And it's this person's very first game, which I think deserves a the microphone won't won't pick it up at a very polite golf clap.
+1:41
+A round of applause here.
+I don't have any stats on what the average player time is for that, but but maybe if if one of the developers was here, they could hack into those those numbers as the episode goes on.
+1:57
+What I do have so far is as of June 12th that we are recording today, Happy Trillionaire day everybody by the way that we we have 20 ratings on Apple and 18 ratings on Android with Android says it has over 1000 downloads, which is no small feat to say the least for a game that has only really been out for about a month or so.
+2:20
+But that all aside, will you need to use those wonderful neosteel jaws of yours to describe what in one sentence what one does in hard reset?
+Well, let's see here.
+I should know how this game works.
+2:36
+It's something like hard reset is a cyberpunk roguelike deck builder with a reset the system revolutionary arc against a fascist oligarchical regime.
+And all that fun stuff is just the carrot that's powering A behavioral therapy tool like to to like start and build habits or stop and reduce vices or just to do one off to do's.
+3:00
+And so it's really it's a it's, it's essentially A checklist productivity to do app that is powering this legitimate full game.
+And so if people are watching this on the YouTube feed or I don't remember if Apple allows comments on it, but I, my plan is to intentionally like close down the comments for in order in order to drive people if they really want to say, oh man, this, that episode was so great.
+3:29
+What I want people to do is to follow the link in the description that I'll have for the show notes to go to Will's Discord word for the app because there's a feedback section there.
+I think it would it would be more useful for people to direct into the official hard reset discord to provide feedback good good batter.
+3:49
+Otherwise to to help the development of game there because if if people are just commenting on the YouTube page here that, you know, that makes my SEO look good.
+But the goal here, and I think the goal that I've always had kind of in the back of my mind for this podcast is whenever Will was planning on launching this heroic endeavor of his.
+4:09
+The goal was to provide a like a place to showcase it and a place to not be objective at all.
+And really just like have like the the the celebration balloons released from the ceiling and Hooray kind of thing.
+4:27
+So so that I think is the goal for this episode.
+Instead of our usual thing where we punch, it's.
+Scott's goal, my goal is for an objective thrashing, no?
+There we go.
+No, I, I, I, I tend to agree with Colin there.
+I say RIP into it.
+I know I've got a lot of mean things to say about this, you know, so let's, I don't know, I the more people want to share about what they hate, the better the if they love to, I would love to hear that.
+4:52
+Well, if they want to share that hate on Will's hard reset Discord, then they're more than welcome to.
+But yeah, this is this is something that's been coming for a long time.
+Not even just like like this was something that Will you were working on long before the podcast has existed.
+5:09
+That's right.
+I think I don't remember the exact timeline.
+I know the full time work has been since January of last year, so about a year and a half of working on this full time.
+And then prior to that it was about a few years planning with Janet werewolf, my Co founder.
+And so we've just been basically thinking about this for a very long time.
+5:29
+And the problem that we want to solve, and they're really the, the reason this all came into, into the sphere of our, of what we were concerned about is that we both worked at a company that was doing a similar sort of thing where it's a behavioral therapy app, but it's for people with substance use disorders.
+5:47
+And so the whole goal the app was essentially like, we need to build something to help people like remember and go to like their a, a meetings or to like build their resume for their job applications.
+And so it's all the stuff that's related to recovery as well as like benefiting their life.
+And so I did a bunch of investigation into the science, like what's actually working, read a whole bunch of papers, and the what seemed really clear was that contingency management is an extremely underutilized behavioral therapy.
+6:15
+And the reason that it's underutilized is because it's hard to essentially have a program that's where you get immediate feedback and you have a structure where someone's able to do the system and contingency management.
+For those who don't know, it's, it's a very simple system.
+6:30
+It's just hey, your, your some kind of reward is contingent on a behavior.
+And so yeah, so once you go to your A meeting, the way that it was structured was it was kind of a gamified system.
+But like, you do these things over these little quests and eventually you get real in real life gift cards to go like stuff at at various retailers.
+6:49
+And we found that worked really well.
+But the problem was, yeah, nobody like money doesn't scale well when you have to like sell this to insurance companies and your pitch is like, Oh yeah, it's going to cost you $1000 in rewards for the year.
+It turns out that's not too many people want to do that.
+And so the kind of the what was considered the novel idea at the time anyways, was, hey, you know, what scales well is fun.
+7:12
+And so we are going to make the carrot of this behavioral therapy fun.
+And as long as people value what we are building and like via the, the actual gameplay, all the mechanics, the achievements and all that fun stuff, and actually just maybe a genuine or like a, an enjoyment of the aesthetic, then that should drive positive behavior towards, you know, people becoming a better version of themselves, doing more stuff that they should be doing and stopping the stuff they shouldn't be doing.
+7:40
+Now, are you saying insurance companies don't like fun?
+That's exactly right, that is.
+Actually insurance companies aren't different towards fun but they don't like is paying anyone money.
+That is the truth.
+And, and it's funny because like we, we could show, we showed directionally that and this is like, you know, smallish sample, but like directionally, like we showed that it was working really well.
+8:01
+Even like the ROI because of the, the health benefits of people not going to the emergency room, which completely wipes out like the like the comparison between one ER visit and like the $1000 on the, I think it was $900.00 for the year.
+Like, it just made it so Oh yeah, like 1 emergency room visit was worth many, many, many people using this app.
+8:22
+And so yeah, they just, they needed to have hard, like, you know, basically they need 10 years of science and then like other stuff on top of that, more evidence and someone else doing it before they would consider really dipping their toes.
+And at least that's what I remember from that experience.
+8:38
+And I, I know this, but I want to make sure the context is clear.
+This is a will is talking about a different, an actual company, a different company, different app that he had been working on before.
+This was what, like five years ago now?
+Yeah, something.
+Yeah, something.
+8:53
+Like that so your your current app hard reset is not a is not insurance funded.
+It is not going to give you money.
+It is not for substance use disorder.
+It is the slightly scaled down version for just regular people trying to do laundry or.
+Yeah, there won't be a single Target gift card or V Bucks code coming to you, sadly, But who knows what future releases might hold.
+9:18
+That's very interesting.
+Well, I, I had no idea that that was in your work history.
+And what a shame that such a program couldn't get off the ground.
+That sounds ironically.
+Really helped around today.
+They're just not.
+I don't, I don't think they're doing all that well.
+9:34
+I don't actually.
+I haven't looked into.
+It that's because they modelled their fun theory after Realm of the Mad God instead of Sleigh the Spire.
+No, I think yeah.
+So so people, I guess we we should say like you can go hard reset all one word dot app app that'll take you to the one stop shop where you can find all of the things to download and the discord and all that stuff for for Will's check app is it?
+10:00
+Well, we'll probably get into that more, but.
+Productivity game app.
+Gamify productivity engine.
+But this is, yeah, I think like the the interesting thing about this and I like a long time ago, I was like fully prepared, like, OK, I'm gonna like get my boxing gloves out.
+10:19
+I'm gonna definitely like beat up on on all this because Will gave Cube Chaos a bad rating that one time.
+But act like legitimately like even with my my critic hat on.
+I think this is very interesting and I think there's a lot of like very cool like design concepts in here.
+10:40
+And like particularly for from someone who, and I don't don't mean this as like a dig or anything who is not a programmer and you know, not not a game dev by by trade or, or by history.
+I think it's very impressive.
+10:56
+And I think that like not even just from my feedback, but like all the feedback that you've gotten from other people, like not just us three that have looked at it goes to underline that because like, you know, you kind of see this meme on, I don't know, like various programming circles of like, you know, oh, thanks to Claude, I was able to, to vibe code, vibe vibe code up a productivity app.
+11:20
+It's like that Buzz Lightyear like meme where it's like, I had this great idea and then like the camera pans out and like 10 million other people have the same idea.
+I think this is different than that because like Will was saying, this is actually fun.
+And instead of something like, you know, going like building out your own JIRA application or you know, some kind of Kanban board of like, oh boy, I can't wait to move this sticky note from this side to that side because I went and weeded the Blackberries or something.
+11:48
+Having that kind of engine like some something fun to drive that as the reward, I think is a very interesting angle to spin on.
+Well, I mean like this.
+And this is like in juxtaposition to the current leader in this gamified kind of checklist space, which is Habitica.
+12:07
+And that's also part of the reason that I wanted to build this because I found Habitica to be, uh, unfun and completely unmotivating.
+And basically, if, if you're the kind of person that likes cosmetics for an avatar, and that's, that's pretty much like, that's pretty much what they do.
+They say, hey, you want this like, you know, you want to have this little egg that you can hatch or like, then you should continue doing your chores and you can slowly watch a progress bar.
+12:31
+And that's the fun part.
+And then you get the thing.
+And that's like, not fun at all.
+And so, yeah, the the whole idea here is that we need to have something where the reward was actually like, oh man, I really, they want to progress in the game.
+I want to discover, you know, what is, you know who, who is the benefactor, the anonymous benefactor?
+12:49
+How do I get, you know, these achievements?
+How do I unlock more of the, the, the gear?
+Sure, Yeah, that would be more fun.
+I want to get to the next level, I want to see more enemies, I want to build out my deck.
+Yeah, like there's a lot of motivation to keep you finishing your tasks so that you can play the actual full-fledged game.
+13:08
+And this is also assuming that you are using it as a task management thing.
+I in in in preparation for this podcast.
+I, I, I have used slash played Will's app game on and off for the last six months while he's been developing it and has gotten into a more usable state, including parts where I did use the checklist.
+13:32
+But for the last two weeks ish, I just have a a task that gives me 13 AP and I just click it like 6 times and then I play the game until I run out and then I switch back and I just click it a bunch of times because it is.
+I mean, I won't say that I don't have any criticism as a game, but I think it is a a good enough game to be played on its own without any like Will could strip out the task app part of it and we could still be reviewing it on this podcast as a like, Hey, good job.
+14:03
+You made a fun game.
+So.
+You're, you're absolutely right.
+And, and yes, as far as I know, there is not an official option in the game to just let me, let me play only the deck builder, which I, I so respect.
+Like you still have to because engage with the the the the core, the engine, the core piece, the the checklist.
+14:28
+You have to make a checklist and you have to give yourself a bunch of those unearned points, which I feel like if there was just a button at the very beginning that said, do you want the checklist or do you want just the game?
+That would like compromise the vision in some some way.
+So respect to you will for sticking to your guns, your cyber guns.
+14:45
+Well, my task, my checklist is only play the game, so there we go.
+Oh. 13 beat the I should change it to beat attempt to beat hard reset and give it a 13 point value because it's very hard.
+Even attempting is difficult, so I get.
+15:01
+I pat myself on the back for doing that.
+And I and I think that there's like so earlier this season we covered a a very esoteric Michael bro game 868 hack, which will loved.
+If I recall correctly, there was another game that he developed that also has this kind of very interesting push pull dynamic of ritual to it called Vesper 5, which is like this.
+15:25
+It's a very simplistic game that it's, it's just kind of like, I don't know, like an adventure, like maze, maze pathfinding type game.
+It's very simple.
+But the the crux to it is that you can only make one move in a 24 hour period.
+15:41
+And it becomes like this really big investment of like, oh, do I move up or down in like, you know, in any other game, it would just be like, I don't know, you just press the button, but you have like this, this forced restriction to it, which feels like like I I can I can feel that kind of echo here to some degree.
+16:03
+And I know that it's not inspired at all directly behind it, but I think it's more interesting because of it.
+Because if this was like Colin saying like, Oh yeah, just skip the checklist part, then it just becomes a another like one in, you know, 5 million slate of Spire.
+Like, or if it was just like, I'm not interested in the game, just give me the checklist, Then it would be like the Buzz Lightyear vibe coded habit tracker thing.
+16:26
+But I think that like the because you can't disentangle those two things.
+And there are parts of the deck builder, yes, explicitly rely on the checklist design critically.
+I think it's more interesting because of that.
+And even though that like, yeah, like the deck builder part, you know, they're like slightly the Spire exists and there might be other deck builders that maybe do like the actual gameplay systems in a different way.
+16:53
+But you know, maybe they have like 10 million more development dollars put behind it.
+I think this like symbiosis of getting like the the carrot on the stick being like the silly, the Spire design principles with the goal of oh, maybe I should actually like practice cello for 5 minutes today in order to advance a little bit in within the actual game part is very clever.
+17:22
+And I think that like, yeah, if it was just like one or the other, it would be like, but like because they are combined it, it's better than the sum of its parts.
+I guess that's what I'm trying to say.
+And that's, and that's kind of the whole design philosophy here is that we that this is a checklist first.
+If you're not in the checklist, you know, you're probably not going to enjoy the the app too much.
+17:42
+But if you are and the main complaint that you have about checklist is that they are just too boring, well, this is like supposed to be the direct remedy of that.
+This is not a, like I've said, a progress bar watcher sort of app where you're like, oh, my streak.
+It's, I mean, there are streaks in the in the app, but the streaks actually do something.
+17:58
+And just to give an example of like how these things are tied together in, in hard reset, when you're getting a streak for every 10 consecutive, not days, but like, you know, whatever cadence you have, it could be every other day, you know, every many times a week, as soon as you get 10, you turn 1 momentum point and you get that for every single routine that you might have.
+18:17
+And so this adds up.
+And this momentum is what is used in on in the, the actual game side in the combat, because certain builds actually scale with momentum.
+And so as you do things in real life, you are powering up your character to do more damage, to block more, to draw more.
+18:33
+And so that's one of the, the, the key ways that these things are linked together.
+But also, I think the most fun way that they're linked together is with the they're called maladies, which are kind of like curse cards.
+You can think of them, but it's called for one of them is forgetful.
+And so basically, if you have a task that was due on the previous day and you didn't do it, then what happens is the first time you open the app on the next day, you get presented with this, this confused looking character and this card that says forgetful.
+19:00
+And it lists out exactly what you missed and the date that you missed it.
+And it says that it will be in your deck for the number of combats equal to the number of events you missed.
+And so it's sort of a soft punishment.
+Like it's something we're like, oh man, I just got a curse added.
+19:15
+But after one or two combats or, you know, potentially more, if you missed a lot of tasks, then it'll eventually go away.
+And so that was our kind of a nice little nudge to to make sure that it's not all carrot.
+We're we're using every single tool in our arsenal to try and make it as motivating as possible.
+19:33
+And turns out, yeah, punishment that's useful sometimes.
+Obviously there's a loss aversion is another powerful motivator.
+And then that's how you get like why streaks are so motivating, but to the highest extent possible, really integrating the check with the game is one of the primary goals.
+19:49
+And so you'll see that in the events too.
+Like if you haven't done A to do and it's been on your checklist for like a week and it's just sitting there in your pool of events is one call to do or not to do.
+And what it'll do is say, Hey, here's that that task that you has been sitting on your list for a while.
+If you commit to doing this in the next 48 hours, then you'll get some big prize.
+20:08
+Or you can just, you know, not do it.
+And you can.
+These are all very much opt in sort of things, but everything in the game is oriented around trying to do the the behavior.
+Modification.
+And and those are just a couple examples of the clever design that is throughout this this app.
+20:28
+Real quickly.
+Let me let me let me clarify for the audience here, folks.
+All right, listeners, Will has been a solo dev for a long time.
+I think it's it's maybe affected his outlook and his mindset.
+He said if you don't like checklists, you won't, you might not like this game.
+20:45
+Wrong.
+Again, to reiterate what Colin said, you can totally just game the system and play the card game as much as you want, which is, again to reiterate, worth your time.
+Yeah, like, like even just in the past, like a week or so, I've just been having a, a, a, a task that shows up every day that just says cello and then I just click it and then unclick it and then re click it again and unclick it.
+21:13
+And then like being able to to kind of like Jack Jack up my ability.
+Or is it action points?
+Action points yeah.
+So now I have like 26 action points ready and then like that'll that'll like allow me to do I don't know like 6 or 7 events in a row like between combat or events or shops or things or elite fights and things like that So it so it is it is very easy to just like oh, I just want to play the game part like you can do that.
+21:41
+I think it is maybe more of the goal of this as something that's like, yeah, like the the game is there and the game is like the principal draw.
+But, and maybe we'll talk about this later in terms of like success metrics.
+21:57
+But like, I feel as though the game like this, this app as a whole is more than just the game.
+It is like wanting to try to instantiate that ritual of, of doing the stuff that you don't want to do with this being the carrot on the stick.
+22:13
+So yeah, like.
+For sure I.
+Just I just wanted to make it clear, Yeah, hey, hey, don't write this off.
+If you have checklists, don't don't write this off.
+And what Scott?
+What, where, where?
+Where should we go as our Omega host?
+Are we talking are we talking checklist or are we talking game where?
+22:31
+Should we go?
+First, Yeah, I guess or is.
+There something you had in mind?
+Maybe we can kind of talk about like the overall like game systems to start with 'cause I think that the checklist stuff will tie into that as as we go.
+But but yeah, like when you first boot this game up, your story in hard reset begins with a very Matrix Y style cog Mindish, another game that will really love intro sequence of, you know, like computer text coming up on the screen of, you know, you like a boot sequence on a computer and you were, you know, all this techno Babble stuff going on and you are resuming your existence.
+23:10
+So it like the first time you boot this up, it's kind of the story is sort of in media res of something is already going on and like, oh, I am jumping into this already existing sci-fi ecosystem and you know, you'll be and of course, you know, we'll jump in and smack me down if I'm getting the sequence here wrong at all.
+23:31
+But but I believe that's when it kind of prompts you to like, hey, like set up some tasks here to do and you could just set one up.
+That's just like, I just want to play the game.
+Just give me all the action points for it.
+Boom, you click that and then you can go over to your your Slay the Spire node map where you start off with your your combats.
+23:52
+You have your different event nodes or like upgrades that you can do and very much in, in Slay the Spire fashion, you'll fight an enemy, you'll get a reward.
+You'll have different nodes that give you different stuff.
+24:07
+But, but I think a crucial difference between Sleigh the Spire and this is kind of like your character's, I don't know, loadout because it's, it's much more than just a deck.
+You have like your deck of cards, but you have heart and, and I think very interestingly themed or, or appropriately themed, I should say, for a cyberpunk dystopia aesthetic.
+24:34
+You got hardware and wetware in association with your deck.
+And, and I, and I can just add some color around that too, because this was a, a design choice where, and I've said this, and when we did the, I think when we did Slay the Spire, this was one of my critiques.
+24:50
+Is that what, what the heck does a spinning top have to do with me drawing more cards?
+Like I can't imagine being in battle, whipping out my top, spinning it.
+And then like that suddenly makes it so I can do more stuff.
+What doesn't make any sense at all.
+And so functional gear was one of the main things that I wanted to correct.
+25:08
+And so yeah, we do have, we have a, you're a Cyborg.
+You are a ghost in the machine style Cyborg, which is to say you're essentially just a brain sitting in hardware.
+And so, so all of your, your arms, your legs, your equipment, this is all functional stuff that like Sleigh Aspire essentially has a, a passive effect to it.
+25:25
+And so when I have my industrial lifter arms, that is giving me additional torque, which is kind of the equivalent of strength.
+And, and, and also this is something that Sleigh Aspire doesn't do you, you're able to level this stuff up too.
+So you can have essentially 1 relic or relic type thing where it goes from plus ones torque to plus 2 + 3 and +4 as you acquire these various upgrades throughout the game and what I and.
+25:51
+There are cards associated with each of those.
+Upgrades too exactly so each piece, each piece of hardware has right now 2 cards associated with it and so if you actually swap out that hardware, you lose those cards and you get you know something whatever you add in is what's added.
+26:06
+And so that way you're always able to change your deck and and re synergize as you're going along in a more significant way than if you can only remove one card at a time or, you know, you're limited by kind of the way that I want to say Slate Spire 1000 times, but the way they do.
+26:23
+It well unlike Slate Aspire, at the beginning of the game you are not selecting a character, you are instead selecting your starting piece of of hardware.
+Now, by default you do have torso, legs, arms, but then you get to pick your piece of equipment, your hardware equipment, and there's three choices.
+26:42
+And that is kind of like your starting class selection, kind of like your.
+Character.
+Come on.
+Style.
+Charmander, Bulbasaurus, Squirtle, sort of thing.
+That's how I think.
+That's that's a great way to put it.
+But you, you're always playing cool unnamed protagonist, but every time he is brought back to life as it were rebooted, resuming his existence, you as the player are selecting on the character's behalf 3 between 3 pieces of equipment.
+27:09
+Yeah.
+And the classes are the the equipment is less impactful than a full class.
+Like the difference between ironclad and silent is like a whole different game almost versus these are you can you could you get the same?
+27:27
+It's it's.
+It's like a subclass almost.
+Subclass is maybe a better way to put it, because of course everybody's deck at the beginning of the game is going to have a certain number of fight fight cards and a certain number of flight cards.
+So, you know, it's kind of like, you know, like enslave, Aspire, you've got your, you know, strikes and your whatever the hell the other one is.
+27:47
+But I did want to point out that will, as you say, it's kind of like a Pokémon choose your choose from three starters.
+And it's also like Pokémon in the way that obviously Squirrel's the best and obviously Blaster's the best.
+Pick that every time.
+Well, I've got, I've got some people in discord that would disagree with you there and I the, the builds being discovered are always like blowing me away And, and I, I agreed.
+28:12
+I thought the plasma blaster was like, Oh yeah, this is the obvious pick here, but I don't know, I'm kind of convinced that the reflex enhancer is the way to go these days.
+I'm I'm I'm a card draw boy myself I think.
+Card draw.
+I mean, just from like a pure aesthetic perspective.
+28:28
+I mean, we got, we got Deckard from from, from, from Blade Runner.
+We got the The Colonel from Ghost in a Shell, but we have, of course, critically I.
+Feel like the Colonel from Ghost in the Shell is more car draw.
+Pardon me, Vast the Stampede from Trigun.
+28:46
+What do they all have?
+A signature fucking gun?
+So, I mean, I feel like I just got I got to pick it every time.
+No, that's not true.
+I've I've beaten the game many times with that as my starter and I've I've, I've branched out since then, but perhaps I'm getting too much in the weeds.
+So, yeah, yeah, this this decision to have these different slots and those and those slots to be swappable and those that being associated with different cards is something pretty unique.
+29:12
+I haven't played a lot of deck builders, but I, I've never seen a system like this.
+Again, as you said, in something like Slave Aspire, sort of the industry standard, you're you're you're dropping one card at a time, you're adding one card at a time.
+Whereas in hard reset you are are making pretty big changes throughout the run at your leisure.
+29:33
+Yeah, and, and, and the cool thing about this too, is it, I mean, 'cause I, I agree.
+I mean, I tend to think it is, it is an elegant system that it seems like it works really well.
+But like with the, with, with wetware that you mentioned fight and flight.
+And so this is kind of a separate category where wetware is just cards and like the hardware equivalent is your brain.
+29:50
+And so fight and flight are kind of like the psychological terms where, you know, what do you do in combat, fight or flights?
+I guess there's also fawn and flea and like there's a bunch of other like other F terms, but it's all like psychologically related.
+And that's how you have like grateful cards in there, shame cards in there, demoralize.
+30:07
+That's something that you would be able, you know, shout at people.
+And so that's all very much like the non physical side of things, whereas the hardware is all like the physical stuff that you're doing.
+Yes, yes, of course.
+Of course there are are cards that are not linked to your hardware.
+Thank you for highlighting that.
+And and yeah, as to your point about like the theme and everything, those are all make a lot more sense than a spinning top, for example.
+30:28
+So I appreciate the the dedication to the theme.
+And also of of course, she's the major from Ghost and the Shell.
+How foolish of me, the Colonel.
+What was I thinking?
+Please don't come for me in the non existent comments.
+Yeah.
+30:44
+So so you got hardware wetware, you got your cards, you have effects for things.
+And there there are, I mean, you know, when sleigh the Spire has really just kind of laid the foundation for so much of these things.
+31:02
+It's really hard to innovate on top of those.
+But I do really like that there are some unique takes here on that system where, you know, every, every Spire clone out there has stuff that gives you shield, gives you HP at the end of the round, blah, blah, blah.
+31:20
+But I don't think I've seen one like deflect that reduces any damage you take at or below some threshold down to one.
+Or like the egoless effect that you have in here, where all of your skills are now cost 0 but are exhausted or deleted when you play them.
+31:39
+OK, you actually named 2 examples which actually do have a.
+Direct corollary again, I'm I'm also comically bad at Slay the Spire, so I have not put 3000 hours into it as some people here on this podcast may have.
+31:56
+But it at the very least like those those kinds of effects, like I've seen them in lots of deck builders, but there are ones here that I definitely have not seen.
+So will as the as the source of knowledge here what which are the ones that are not from sleigh this buyer?
+32:14
+An effect.
+Like, yeah, what's your best innovation?
+Put them on the spot.
+What's an absolutely original game design thought that you had Go?
+Let's.
+See what is a radiate though?
+Because I remember you talking about that one I didn't like.
+32:29
+I haven't gotten those cards yet so.
+Yeah, the Irradiator is a pistol style weapon which inflicts the effect irradiated on both yourself and the enemies.
+And so this is the idea with this one is that you're trying to find other stuff to not make it so that you're not getting the negative effect of the irradiated.
+32:49
+But it's essentially a damage over the time thing where you can, as you know, you add on to the enemy and has a half life sort of system where at the end of their turn, they'll, or excuse me, at the beginning, they'll turn, they'll take damage.
+And then the, the amount of the, you know, if they have 10 irradiated, it'll go down to five and then it goes down to half, you know, a rounded up, so 3210.
+33:06
+And so it's it's a similar to a poison effect, but I figured that half life and would fit more with like the irradiated sort of a a theme with this one.
+I realized I just went to try and look up the hard reset wiki because that is always what I will do flexibly, so better get on well.
+33:25
+It's the codex, you can just go.
+I mean the codex has everything in it.
+Is that on the Internet though?
+That's on the that's in the app, and there's a whole section devoted to like showing you everything that's there.
+Who needs the Internet while you got?
+That's a very good feature.
+Well done developer.
+Yeah, but what?
+But where is it on?
+On hard reset dot app?
+33:43
+Hard reset dot app dot wiki.
+Oh, oh, here, here is another specific example.
+Oh, no, wait, no, never mind.
+I I don't want to name any of these cards for fear of being surprised that Oh yeah, actually, that was directly inspired by one specific.
+34:02
+Oh, here we go, full reverse.
+We were talking about full reverse the other day, which of course is a card that you get from the hardware, the leg hardware piece, which is a set of treads, very cogmindesque.
+And the full reverse effect.
+34:18
+It allows you to swap your draw your the cards in your hand.
+Pardon me.
+You swap your draw pile with your discard pile.
+That's that's neat.
+That's a neat switch to room.
+That's cool.
+I've never seen that before.
+Yeah.
+No, that's that's when I really, I really like that.
+And you're actually right, the motorized threads actually that was from Caves of Cud if I were pardon me as my inspiration there.
+34:38
+And they actually they inspired a couple other things in the app too.
+Like in Caves of CUD where you swapped your, your discard and your draw pile.
+Yeah, exactly.
+Yeah, yeah, which will of course you gave Caves of Cud what score again?
+I must have given a nine I I don't remember it.
+It was up there though.
+34:54
+OK, very good.
+Because I'm not sure if our audience necessarily caught that, given that you you played it to after the fact anyway.
+I'll I'll just say here.
+So if you want to, this is one of my favorite cards, but you won't find it out there.
+It's called 0 day.
+35:10
+And there's a mechanic in, in hard reset where we don't have linear upgrade paths for cards.
+You don't just go in and like, Hey, which card do you want to upgrade?
+It has this fixed sort of path that's going down.
+Instead we have hacks.
+And so we have it's more like Monster train or, you know, something, or like a socket system like you think in Diablo, a modifier, you're dropping the, the hack in there and it's modifying it.
+35:32
+And zero day is one that hack 5 random cards for, for this combat.
+And so it'll actually, it shows you those cards, it puts a random hack in there, and then that goes back to wherever it came or you know which.
+There are what, like four or five different hacks there are?
+35:48
+15 different hacks.
+Right.
+Holy crap, got him.
+I'm like, oh, I'm going to undershoot it a little bit, but I I didn't realize. 37 insights, which are kind of like relics for your brain. 70 only, only 71 cards right now and then we have 26 pieces of hardware.
+But the plan?
+36:03
+The plan is like essentially 100% more over the next year.
+Sure, but that is quite a good selection for 1.0.
+I mean, it feels like, I mean, it's definitely a fun game to play.
+And I mean, is the longevity there for a year plus?
+36:19
+I don't know, you could probably beat the game in a few months right now if you're playing at kind of like an average pace, right?
+To touch a little bit more on the hacking system, because I I felt like this was something that.
+Well then, the hack system.
+The hacking system.
+Well, yes, there's no.
+Hacking mini game in this yet?
+36:37
+Type of type of type I was I was actually like very amused in well, that that sounds bad.
+I was very impressed with the idea that like, oh, so like in like Slate Aspire 2 kind of has this in a more sort of restricted format where it's like you get enchantments on cards and you know, you have like your card and you have like a little stamp on there that does like an additional thing.
+37:01
+And they're very hard and rare to come by and they can kind of like make or break your deck and all that stuff.
+And it's kind of a big deal here.
+It's it's a big deal for a different reason, because I think the flexibility because like you can in between combat.
+37:16
+So I don't, I'm pretty sure you can't do this in combat.
+That would be pretty busted.
+But after combat, you can look at your your deck and you can see the hacks that you have available.
+And if you said, well, like I know that I have the boss fight coming up and I know those boss fights move set pretty well.
+37:34
+Maybe I want to move this dupe that has the effect of duplicate this card from this one kind of specific card that I have in my deck to this other one now, because I know that the like the build options that I have for that will will just be like way better.
+37:51
+And I thought that that was kind of a genius moment of like, whoa, like now.
+Yeah.
+I mean, like, you know, you said there's something like 15 hacks in there, but having multiples of those and having like the flexibility of being able to on the fly, like swap them out onto different cards, I think it's super interesting and like it fits.
+38:09
+It fits the theme really well.
+And I was going to say that exactly.
+Well, I think it fits the theme well and it also kind of fits the gameplay style of the game.
+Like theoretically you're only earning between 10 and 20 AP per day or?
+38:26
+Depending on how hard your life.
+Is I don't, I don't know.
+I don't.
+Yeah, I guess that's the IT depends on how, how many points you're putting into, into things for in the task list and how much you're or, or like me, just like clicking and spamming the button.
+But presumably you're doing 2020 APA day, which is 4 events or combats.
+38:46
+So if you're only getting a couple of them, it's nice to be able to have another thing to do.
+Like you're not going to be.
+You can strategize before you go into combat.
+It's a little bit more ways to interact with the game, part of the game when you're like waiting for yourself to do the tasks that earn you the things that you let you play the game.
+39:10
+And also.
+That's a good point.
+I'll just add that like, it fundamentally solved one of the hardest problems of having functional equipment.
+Like having hardware where there's like 2 cards assigned to that hardware means that if you swap that hardware out and you had like something that's fixed, like like the, the enchantments and Slate Aspire, then that's enchantment is gone.
+39:28
+And so in order to, to solve that, we need to do something that you could just pull out of that, of those cards and of the hardware because hardware can have upgrades in it.
+And that way you can just slap it in the new thing that you get.
+And so that was just a really nice way that it kind of worked itself out.
+Totally, totally.
+And I do want to, I do want to compliment you will, on making that system that Scott was talking about of, of swapping around the hacks a lot better over time.
+39:53
+At one point it was pretty jacked up, I'm not going to lie.
+And like, I couldn't move the hacks to the cards I wanted.
+I had to do a weird thing where I would like, I would like frog like, like leapfrog the hack down the list.
+And it was like it was, it was at at at months and months and months ago.
+40:10
+Yeah, pre 1.0 things, you know, everything was like, you know, it takes a little bit of time.
+And, and now having having played it just this week, you know, it's, it's, it works great, works great.
+And it's nice to see that a cool system has has come along in the in the UI along with it.
+40:29
+I have a question that I I thought of while we were doing this.
+So you can get extra versions of cards that are associated with this hardware right?
+Like as card draw, so so you're get, you know, industrial lifter, you get like the big punch or whatever.
+40:45
+If you get an extra version of that card and then you swap out your arms later, you still get to keep that.
+Well, that wouldn't make a lot of sense now would it?
+I mean what?
+Happens.
+What happens?
+You're a plasma blaster and you're like, you know, one of the moves is you're shooting and you lose that plasma blaster, chances are you're not going to be able to shoot anymore.
+41:01
+And so all the hardware cards have apparent hardware.
+And so if you lose that parent, you'll lose everything under it.
+But the what?
+So you just lose all of the extra cards.
+Yeah, I mean, if you if you happen to add more cards to that hardware, because one of the mechanics in the game is that when you're doing a card selection, you get you get presented with wetware cards which are just one off like they're not.
+41:21
+I mean the the brain is the hardware that's and then you also have the opportunity to get more cards for the the hardware that you currently have.
+Sort of the idea there is that you're honing your abilities to use your hardware and that's how you're you're able to do more with it and which.
+Is a relatively new feature if I remember correctly.
+41:36
+I think, yeah, that was like two or three months ago that that was OK, yeah.
+Gotcha.
+Because yeah, when when it it first went into public, not public.
+Well, yeah, I guess whenever I started playing it, I don't remember pull up the pull up the data.
+That was not an option.
+And now it's like, yo, I can get even more Righteous Blast, Indignant Blast, Mad Blast, I forget the name of it.
+42:00
+Cards.
+Amazing.
+My favorite card.
+Let's go.
+Yeah, yeah, yeah.
+Cool.
+And you're happy with that?
+Change the ability to get more hardware specific cards as rewards.
+Yeah.
+The plan is actually we're going to expand on that.
+So right now, there is 2 cards associated with every hardware.
+42:18
+And the ultimate plan is that we have about 5 of different, of different rarities.
+And that way when you're first getting the hardware, the cards you're getting are randomized among those five.
+And then as you go on, you're able to find the new ones and then like, you know, essentially delete the ones that you don't maybe like.
+42:35
+And so that way you can further synergize within the actual hardware and the cards that are available under it.
+OK, neat.
+No, it sounds cool.
+Well, let's plan.
+Yeah.
+So like a lot of the stuff that's.
+Like I planned when you're.
+Out presuming presuming that you're making enough money and you're doing enough stuff and you're no it.
+Doesn't make it.
+42:50
+Doesn't matter if I make money, I'm still going to build this.
+Like if I have to get a real job again, you know, that's, that's fine.
+I'm still going to be building hard reset into the foreseeable future.
+Yeah, I mean, I guess the that the the making the art, making the the cards, making that kind of stuff is the fun part of it.
+43:06
+It's the.
+Animations I think are my favorite thing, like the in combat animations, like when adding the irradiator, if you play a card that adds irradiation now there's like this this animation where the screen tingles like you're going through a electron beam sort of a thing.
+And so it's a it's fun to make all the the, the movements of the characters and all that fun stuff.
+43:25
+Yeah, there was.
+There was an important moment in the development, at least important to me.
+It stuck out.
+At one point, the intro sequence, you added a eye opening animation.
+That was Colin's suggestion, by the way.
+Oh well.
+Excellent suggestion, Colin.
+43:41
+I remember making that for sure.
+For sure, I remember making that.
+Colin So that so that yeah, as you are resuming existence and like waking up on like the Cyborg operating table and getting all of your, you know, new hardware installed, it's it's a it's a neat effect.
+It's like thematic, it's a cool little like, you know, good use of a George Lucas screen wipe, But also it establishes that, oh, like I'm I'm assuming the role of this character.
+44:07
+I'm not I'm not like selecting a character, not building a character like this guy who is looking so cool on all of these cards.
+This is this is who I'm occupying and who The Who is who the protagonist is.
+Because initially when I first played it, I'm like, well, what's going on Is this?
+44:24
+I was a little unclear on like is this is a first person game?
+Is this a third person game?
+What?
+What is?
+Where is the audience in this?
+And it's, it's supposed to be a bit like a mystery in the beginning, like Scott mentioned, like that terminal screen.
+Well, in that text, you're actually, if you read between the lines, you'll see that like you died and like insurance, you didn't have insurance.
+44:42
+You're just basically you're about to be dead forever.
+And then some anonymous benefactor managed to pay for your insurance because for unknown reasons at the beginning of the game and they want to bring you back to life.
+And so you, you get the, your insurance is granted.
+And then you're suddenly open your eyes on that operating table and they, you know, he's talking about how you have the shit tier insurance, which improves over time.
+45:02
+But like, you know, you go from the economy arms to to better stuff.
+But that's kind of the, the theme here is that.
+And I think as an.
+Excellent form of.
+Medal regression or star.
+I think that's AI believe that was a a a book where there's like re cloning essentially is like a big part of it.
+Westworld too.
+I mean, there's like a lot of places that do re cloning, but it really tied in well with the the cyberpunk sort of ghost in the machine or ghost in the shell sort of thing.
+45:24
+Right on.
+I can dig it.
+Well, yeah, also dig.
+It should be mentioned the the actual animation of the cards, the way they draw out, the way that they sort of fly at the enemies as you play them now, it's all really nice and like kinetic, and it feels good to it feels good to play this game and to be whipping and slinging cards around.
+45:43
+Yeah, I I haven't played many portrait style deck builder games on phone.
+But it's a what, excuse me, could, could you underline that, Scott?
+It's a what?
+Vertical portrait mode.
+Wow, that's talk about that innovative mechanic.
+46:01
+Unironically very like you don't see that a lot as you say Scott and like the the mad lad made it work.
+I can't.
+Remember, it feels like it shouldn't.
+When you started, was it sideways?
+No, no, no, day one I I was not going to build this app if I could not if I had to rotate my phone to play it.
+46:23
+And so the first, the first thing I did was like, you know, in the, the bare bones of the MVP was like, can I fit a full hand of cards in a, in a vertical orientation where it actually feels good to play?
+And I think that I think we got there and I, I don't know, I'm, I'm sure there are other games that have like, you know, hand of cards, you know, in a vertical orientation, but this feels like a, I'm just going to pat myself on the back this entire time.
+46:45
+It feels great.
+It's it is actually.
+Really.
+No, I think, I think that's one of the actual like genuine innovations.
+I always every time I play this list by our phone app, I'm like a little disappointed with how janky it feels.
+And I think that your your app is at least as well like feels at least as good to physically do the combat as slate Aspire, which is has got a lot more money put into it than than.
+47:09
+And, and of course we understand that like there are games being ported to phone to mobile that were not designed for that, but the.
+The the no, I don't care.
+OK, well I give a little bit of not.
+For slave, not for a game like Slay the Spire where like they absolutely have the money and the ability to.
+47:31
+If they wanted to port it slightly differently, they could have.
+That's a good point.
+In that case, yeah, they got they got the cash, they got the gold.
+But this, I was just going to say, this game was designed from the ground up, working from the dev himself, that that was a design goal from the very beginning.
+47:48
+And yeah, I think he pulled it off.
+I was playing it in line at the pharmacy the other day, picking up some, some new cough medication and it was it, I mean, yeah, I could have been hunched over playing it with two hands.
+48:04
+I could have been playing a game in, in a landscape mode, Barbaric.
+But it, it felt good to be able to stand up like a, like a real proper human being.
+And, and you know what I, I found myself doing?
+I was doing the pose, you know, and you know, in Goldeneye, when Pierce Brosnan, James Bond like walks in or walks out of the scene and he's kind of like he's holding his gun upwards vertically.
+48:26
+And then he's got his his other arm horizontal and everybody, you guys know what I'm talking about 90s kids.
+That's that's the pose is you can you can play, you can have it right to your face and with one hand be commanding the entire game, which is great.
+48:42
+You can be on a bus holding the bar with one hand and fighting oligarchs with the other.
+So true.
+So.
+True fighting the fighting the AI.
+And it may sound like I'm goofing around, but like, it, it, it, it makes a difference when I play like bilatro on a plane.
+49:00
+Like I'm holding it, I'm holding my phone with my left hand.
+And then I'm like kind of like stabbing at the screen with like my pointer finger.
+Like holding there between your two fingers and like, yeah, yeah, like weird claw grip.
+You're doing so?
+Yeah, exactly.
+We're we're.
+49:16
+That's no good.
+I'm glad.
+That we all hate it.
+Hard reset.
+It wasn't just me.
+Who?
+Hates that.
+Yeah, I, I, I, I won't say that all phone games must be vertical.
+I think there are some games where it's like if you are playing it at, like the closer it is to like a full real time video game, the more I think having it be horizontal is appropriate.
+49:39
+Like I wouldn't want to play a phone racing game and have it be vertical.
+Like that would be ridiculous.
+Sure, makes sense, but.
+Yeah, with hard reset, you can use your phone to play the game in the same way that you use your phone normally.
+Like you don't have to goof around with it.
+49:57
+Very good, good stuff.
+I all right, now that we're now that we're done with the time padding wheel on the back, yeah, I want to talk about No, I want, I mean, this is an actual criticism, but it is something that people will talk about.
+So you made all of the art with AI, correct?
+I didn't, I didn't.
+50:12
+I didn't write any code either.
+I don't even know how to write dark code for flutter.
+I feel like people care less about vibe coding the code bits and they care a lot more about the art stuff.
+Like, I think the art is for the most part pretty good, but I know that some people are going to just be upset about that directly.
+50:32
+Some people, some people on this call.
+Yeah, including Andrew.
+I mean, I feel like Will gets at least a little credit because he put like many hundreds of hours into oh.
+Sure.
+Yeah, he just he used more water to generate it.
+Sure.
+That's better.
+Yeah.
+I I kid.
+50:49
+I kid.
+Kind of.
+Yes.
+Will you have what seems to be a much a more refined and thoughtful way of of generating this art?
+It is.
+It does not reek of AI slop it.
+51:05
+It reeks of like intentional choices, intentional iteration and the end result.
+I mean, it's it's hard to deny that.
+Yeah, it it looks pretty good.
+This this this game looks good.
+Yeah, most of us animated too.
+51:21
+That was I think that was the thing I didn't.
+The slop art I think is just mainly like your static stuff one shot prompt.
+But the animation, I feel like when you play a game like with a Hearthstone, you know, or I'm thinking of Monster Training, where there's like each card is actually animated.
+51:37
+Like that was something that I just knew I needed to have here.
+It's just such a better visual experience.
+Yeah, yeah, What's your, what's your workflow these days?
+I, I mean, I remember talking with you like a year ago about when you're trying to do some of this stuff, but like, how are you?
+Are you like creating a static image and then like building out from that like perfect static image or or are you starting with the idea of the card art or is there how are those influencing each other I.
+52:04
+I think I've got a good example here, which is so for the, the main final boss, and I won't spoil what that is, but I, the, the inspiration that like went into it was there's a scene in Star Trek the Next Generation where a Lieutenant Barclay is in the holodeck and he is, he's now commanding the Enterprise as he's stolen it.
+52:23
+And so, and he's, he's basically been imbued with these super intelligence powers.
+And so he's built a supercomputer around him where there's like lights hitting his, his head from different angles.
+And I thought that was the coolest sort of thing.
+And so I basically took that, uh, like a still from, like from that show.
+52:41
+And I took that in as like a base seed to like convert it into my style and to build in the characters.
+And so it's very much an iterative process, but usually I'll come into these things with like at least a rough idea of the result.
+And it's, it's a process where along the way, if I see something that catches in my eye, then the kind of like the, the, the, the thought that the vision updates and then eventually we kind of like work together in a sense to get to a final result.
+53:05
+And, and to be extremely charitable, it's, it's not like an illustrator might, might take a image that they find inspiring or a pose that they want to replicate and put it on a light board and, and you know, and sketch the rough outline, trace the rough outline of, of something as, as a basis, as a piece of inspiration.
+53:25
+All right, with that out of the way, we won't have to worry about Paramount.
+Contacting us.
+And that's interesting.
+So yeah, yeah, that that makes sense.
+Like if you.
+Yeah.
+I mean, that's that's one of the OR we gonna say Scott?
+Well, well, I think when, when people hear generated or like AI generated art, they think of like the people who are lazily like slapping together something in like not even mid journey, but just like, hey, ChatGPT, give me a, a picture of something that I can use for my farmers market.
+54:00
+Or like, hey, the PTA meeting is coming up.
+I need an image of a bunch of kids like playing in a field.
+And it's like this Studio Ghibli knock off piss filter bullshit that it is #1 not present here, thankfully.
+But like that, like that I think is what people think of immediately when they think of AI generated art in that it is it is someone else's aesthetic and vision that they're effectively like Co opting for like like effectively like clip art purposes.
+54:33
+And what I like, as I'm just kind of scrolling through the card list here, I'm not like I don't see any of that.
+Like you can tell that the art is AI generated.
+It just has that kind of like, I don't know, depth of feel to it, but you can tell that it has like wills, like vision behind it #1 like the cards are all very colorful.
+54:54
+Like there's like very bright yellows and like electric hot pinks and like very good use of like shadow and just like like theme and, and like, like voice to the art.
+55:10
+That is not something that would come out of like give me like a Greg Rotowski 4K image station, blah blah, blah like kind of thing.
+So I'm curious.
+From or or say give me a Dungeons and Dragons character portrait for my zoom game that I play every other week with Andrew Harshman.
+55:32
+Yeah, that's why you just go into the the MacGyver episodes and you just pull out whatever image from IMDb you can.
+Oh yeah, I will.
+I will give it to you, Scott, for for going that route.
+But like so, so one of the recent cards that that will just added was acute exposure and it has this very hilarious looking like almost like from Home Alone where Marv is getting electrocuted.
+55:58
+And that was my inspiration.
+How did you?
+He's like, yeah, that's exactly what I was trying.
+To do there, but like it's, you know, that's that's what comes to mind.
+But it's not like an obvious like trace of it per SE, but it has this very good like glowing effect.
+And there's like this, you know, radiation beam shooting in the skeleton.
+56:16
+Yeah, unintentionally very funny to me.
+But but that was something that you added recently.
+So like when when?
+I guess question for Will as you're going through the ideation process of adding a new card like that, it it clearly is more than just like going into mid journey and saying like, hey, give me a skeleton hit by a green beam.
+56:35
+Copy paste.
+OK, I'm done.
+Yeah, no, it's a, it's a very, like, it's a very iterative process.
+That was actually one where I had to pull it out into GIMP to make some manual edits.
+I think I had to pull it over into Nano Banana because that one's better at understanding specific language.
+So like the I think I in total, I know, I know we added the upper I think that one or the one just before and it was something like 970 different like iterations.
+56:57
+And I know, Oh no, that's a lot of water and I that's that.
+Maybe I actually don't know the actual.
+It's not, it's not Andrew.
+Andrew's the only one that's allowed to like actually comment because all of us, the rest of us eat meat and like a pound of beef is supposedly like 1500 gallons of water.
+57:14
+So every every quarter pounder with cheese you eat is like 10,000 females.
+All in I so appreciate, I hate.
+That Andrew, every time I'm like, no one's allowed to complain and in my mind I have to mentally ask her.
+Except for Andrew the vegan, who is allowed to.
+57:31
+Maybe to simplify my question a little more, just adding that one card.
+I'm sure it took hours and hours of trying to figure out the the the concept behind it and like how does this fit into the broader part of the game?
+But just the art itself, like how long?
+57:48
+Like how many hours do you estimate you must have spent on just the art for that one card?
+That one took me about 5 hours.
+OK, so you know, I can, I can maybe do like 2 a day.
+That's kind of my what I'm that's the bottleneck right now on creating art.
+And what's separate?
+Like how do you know when something is like when it's first like like one shot, It's just, you know, pumped out by mid journey or whatever.
+58:12
+And then you're like, well, I'm not really happy with how this looks.
+I wanted to change that.
+Like what is that?
+What is that sort of like ideation process?
+Like like how?
+How do you know when something fits the aesthetic of the universe that you want it to look?
+Well, I have AI have a quote here from Rick Rubin, which I think highlights this because you know, he he basically says and he's.
+58:30
+Who that is?
+Oh, he's a famous music producer.
+Oh thank goodness I got worried for a mini.
+No technical ability whatsoever, but he's just been a part of like some of the most like like big albums of all times.
+And what he says is that what he brings to the table is the confidence I have in my taste and my ability to express what I feel.
+58:52
+So I don't know like how to put that.
+In other words, it's just like when I see something I like, I just, I feel like I've got a good taste for what I what, what looks good.
+And that's kind of like, I don't know, I'm going to pat myself on the back and get here.
+But like the the iteration process, it's I don't, I don't know, maybe I I am very biased here, but I don't see a lot of other stuff coming out that.
+59:13
+It does help that you are like also fairly artistic in your own personal life.
+Like you, I don't think you would if you were having to do the art manually.
+This isn't the art that you would get out, but I'm sure that given enough time and effort you could have created actual good looking pixel art or some other style of art.
+59:32
+Yeah, I mean it probably.
+Wouldn't have moved.
+It would have cost me about 30 to $40,000 to create the the all the art for the app and that would.
+Have I was about.
+This is not going to happen if that was the case.
+Indeed, and that and that is exactly a point I was going to elucidate.
+So thank, thank you for bringing that up.
+59:50
+Scott, you say when people think of AI art, they they think of slop.
+They also think of the theft of creativity, the theft of of artwork, theft of intellectual property that has been fed into these models.
+And obviously I don't condone that.
+1:00:08
+I don't, I don't like in independent artists, you know, the like digital Pinkertons showing up and like, you know, breaking.
+Their their brushes and stealing their paintings and and taking it off to the Grok factory or the Mid Journey factory.
+1:00:25
+Yeah, I'm still.
+Waiting.
+Throw it into a VAT.
+I'm still waiting for my $3000 clawed copyright settlement check for them ingesting my book into the model, so that'll come in someday hopefully.
+So obviously I don't like that, but unfortunately, you know, that's where we are at this point in human development.
+1:00:47
+And this is a tool that is at least for now, legal to use at a reasonable amount of money so that a, a solo developer has an opportunity to create, well, create, generate artwork for an entire deck builder.
+1:01:04
+And as you say, well, if it weren't for this the the you would have had to shell out.
+Or he would have to spend many, many, many, many hours making art.
+Indeed and.
+You would be not even close to one point owing so I mean it's it's hard to deny that like this is a useful tool for solo devs and also thematically it's still perfect for your game.
+1:01:31
+Well, and I, I, I tend to agree with you overall.
+I think that, well, I, I'm going to put a caveat there because I, I think that the end, the, the direction that AI is taking us ultimately is not going to be a happy place.
+But I, I'll, I'll say that if we just look at what we have right now and it's, it's, it's usefulness and, and kind of compare that to, well, I mean, just in creating this app, I, I actually wrote out, I have 24 sources of inspiration where like I, I am not the original person to come up with like the re cloning idea.
+1:02:01
+Actually, I think that was Robert Nozick in his teleportation experiment.
+And, and then like that kind of like, you know, obviously doing that in Star Trek and other places, but like re cloning is not an original idea.
+And I don't, and I think it's, it's odd that we think that we all have to have our own.
+1:02:16
+The, the thing that has never happened before has to like somehow just burst into existence in our own mind.
+No, actually what we do is we have like everything in our entire lives has impacted the way our brain works.
+And so it like it lights up in certain ways based on the your history.
+1:02:31
+And so when you have an idea for something, that idea is not yours.
+That idea is the result of everything coming before it.
+So in a sense, we are an image generating model.
+We are an LLM of sorts.
+Obviously the architecture is different, but I think that's kind of the underlying idea here is like if you're studying art and you're looking at a bunch of art from other artists and you make something, well, is that yours or is that the credited to everyone's art that you were?
+1:02:57
+No, I'm.
+I'm pretty sure this LinkedIn profile picture that I have that's very clearly ripped off from from Studio Ghibli is my idea.
+I'm the only person that's thought of that.
+Thank you for rescuing us from this topic of conversation.
+What did what did what did Danny on Rogue pod Litecast say to you, Scott, about your opinion on on finding of Isaac?
+1:03:18
+Like thank you for your opinion that is that is a valuable and interesting opinion, but I disagree with it.
+No.
+And yeah, let's we're obviously we're not going to solve the question of AI media generation here today, but it's good that we are discussing it because Colin, you're absolutely right.
+1:03:41
+People, people is going to talk about it.
+It is going to.
+Be I I, I do want to just, yeah, I want this to be a genuine topic of, you know, we're, we're, we're we're not just only softballing will questions.
+And honestly, we've, we've all talked about this like not on this podcast because Will's our friend and has been just developing this for years.
+1:04:00
+So I remember one of the first questions is like, are you going to, how are you going to do the art?
+Cuz that's a real question for small devs.
+And it looks way better than I was expecting, if I'm being honest.
+And I am being honest.
+Furthermore, to be clear, I mean, we, we have a, we have a, a Dungeons and Dragons game.
+1:04:22
+There has been, it's not uncommon for AI art to appear in our Dungeons and Dragons discord, and I've been pretty vocal about giving my pretty well employed fellow players grief about using AI generation and not, oh I don't know, paying an actual real person to create artwork.
+1:04:40
+Like with my character art, of course, Isaiah Xavier Bradley look him up.
+He does wonderful work wonderful work here in beautiful Seattle, WA and he will make a full character design for you for your DND game that you can use and enjoy for years to come.
+So like I've been outspoken about this and even IA pretty big critic of AI generated video and and artwork.
+1:05:05
+Cannot deny that.
+Like this game has a, I'm not going to say visual soul, but it has a distinct aesthetic that looks cool and is consistent throughout.
+And the artwork legitimately looks good.
+Again, this is a nice game to look at.
+1:05:22
+Yeah.
+And I think a lot of the criticism of AI art is like two different criticisms that get kind of mashed into one of like, it looks bad and it's immoral.
+It's like, well, those are two separate criticisms.
+And I think that most of this looks pretty good, and the morality is exactly as questionable.
+1:05:43
+And one could argue.
+Also calling like people have different opinions on how how good or bad it is to.
+Make indeed and and and one could say it's it's it's clear to me that it's like the theme and story of the actual game makes it clear what your position will is on.
+1:06:01
+I'm in the category for this.
+Well, where, pardon me, I should say where the powerful systems that exist in our world are like leveraging AI and using it against the common people.
+Like, like you're, you're on the, you're on the right side, you're on the good guy side is basically my point.
+1:06:19
+And that's clear to me in the game design and the story and the themes.
+Yeah, and I feel I feel like the story like maybe we'll leave a little bit of end game spoilers off the table here specifically, but I think that like the the story, like for example, if this game just had like crappy, but maybe I'll be at charming hand drawn art like Ms. paint style for all the things.
+1:06:42
+I don't think the message for the story would land as well about like why, why like this game exists with like enemies that are specifically drawn out of our current world that we're living in in the year of our Lord 2026 with from political institutions and.
+1:07:08
+No, we straight up about effigies of like the current regime's worst people.
+That's that's kind of what's happening here is a lot of the oligarchs and the fascists you don't like.
+There's kind of a version of them in this game because I don't like them and I want well, I can't say that I like to fight them in combat.
+1:07:25
+That's I'll leave it that.
+We.
+Would like to challenge them to a game of cards.
+It's feeling like a not so different future every day more and more.
+And I feel like that impact is maybe lost a little if like you're trying to do this big heroic boss fight as like you like this scrappy, like slum dweller taking on like the rich and powerful powers that be.
+1:07:54
+If that you know, oligarch is represented by just like a stick figure, maybe that loses a little bit of impact.
+I I I I I don't know when the last time I like disseminated a piece of artwork that I made, but I have kind of AI don't know Sunday morning cartoon style.
+1:08:11
+No, that's too good.
+I have a like 7th grader in the middle of chemistry class drawing on the back of his notebook.
+Like or or a textbook style of like kind of cartoony artwork.
+If the card art was my art.
+1:08:29
+If you had commissioned me to do grayscale, kind of goofy cyberpunk, Far Side, bad imitation of Far Side or The Simpsons, this game would be objectively worse.
+Like that's just the the art.
+1:08:46
+The art does elevate it.
+And a big part of cyberpunk is how it looks like.
+There's obviously political, political themes are the main thing, but also there is a visual that you think of and that cyberpunk is about and the art does a good job of that.
+1:09:07
+Yeah, it's supposed to be like a, a kind of a gritty comic book style is kind of the the the theme that I went with.
+How about?
+The music though, I want to add that to what was it called the music.
+Though.
+Oh yeah, the music is exactly what I wanted to.
+I just, I left my the music on.
+On this one.
+1:09:23
+I there is no music, by the way.
+There's no music, there's no sound.
+Which I think is probably more appropriate for for our phone game.
+I think that is a more allowable choice than if it were for like a full PC game.
+Yeah, and I do want to like put a give a little bit of flavor for this story because we're kind of talking, you know, I don't want to give away the end game like sort of like twists and turns.
+1:09:43
+But I'll say that like your goal as a character, you're kind of a revolutionary protagonist here.
+Your goal is actually to basically give the system a hard reset and you go through and fight the oligarchs, fight the big fascist leader, and then eventually you're you're trying to destroy the AI that has empowered the oligarchs and the fascists.
+1:10:04
+And so it's kind of it's very much a a mirroring of what we're seeing right now in our society.
+And so this whole game is in a sense, like my way of venting my frustration about how the the world works in the, in the direction we're headed with all these, you know, the, the 1, the point 1% having all the wealth.
+1:10:22
+And yeah, it's.
+Yeah, I do feel like it is perhaps extra topical that it Today is the day that Elon Musk has become a trillionaire.
+It's like, oh, what?
+What?
+Terrible.
+Terrible, awful timing.
+1:10:38
+I I didn't even know what you were talking about.
+Yeah, yeah, yeah.
+Earlier like great cool cool 11 further step on on our way to an actual cyber cyberpunk present rather than cyberpunk future.
+Better start growing out my Mohawk.
+1:10:55
+Few more years of inflation, we'll all be trillionaires, right?
+I think yeah, there's.
+And and so on a more micro level, the the way you're achieving those goals is of course you are making your way up the sleigh, the Spire map, node map and you are engaging in various battles with the various underlings, the boot lickers that serve the various cyber.
+1:11:20
+Cops.
+The and the and the robots and androids and things.
+I do like the fact that like.
+Customs Service.
+The the world the world of like oligarchical robots is like intermixed with like these cosmic like mutant horrors roaming around.
+Well, those are.
+1:11:36
+Oh, yeah, yeah.
+Let's actually maybe this is too specific to drill into what is.
+Yeah.
+What's going on with these mutants?
+I assume that like they are sort of the, the failed attempts by these mega corporations to create like, you know, super soldiers or something.
+And like, well, they failed to do that, but like, we can use them as cannon fodder, send them out into the streets to to battle the revolutionaries.
+1:11:57
+You're you're, you're, you're close.
+And I, I know I don't have this explained via the the side missions right now.
+It's all kind of a, a planned right now.
+We have like just the main quest and a couple of side quests, but this one in particular, it gets explained later.
+And yeah, essentially it's the the corporation's what wanted to do.
+1:12:13
+Actually, I should say the oligarchs wanted to be recloned.
+They want to be able to live forever.
+And so they basically put, you know, put together all this effort to start to make, you know, do the experimentation.
+These are kind of like the failed experiments from the reclining experiment from from that development.
+And so they're kind of like they're in the the abandoned zone of the city.
+1:12:31
+And so we can kind of imagine this is just like, I kind of think of it as what is it City ZI think from One Punch Man where it's just like, it's just this place that's overridden with like monsters.
+You just don't go there.
+And so you're you're gonna go through that, of course, because it's the fastest way to get to the headquarters, I always thought.
+1:12:47
+It was it was funny that like the enemies are a a mix of like these like Cronenberg ask nightmares, but you also have like the worst Cronenberg ask nightmares of like Elon Musk or like other like various obvious political stand insurance.
+1:13:04
+And just like yeah, that seems about right for inhuman monsters.
+Yeah.
+They're all in the same category of.
+Means the Elon Musk stand in that obvious I I feel like it looks nothing like him.
+Well, there, there are actually there are two.
+Excalibur is based on them.
+That's because I used the the base image there was Elon's wearing that trench coat when he's trying to do is like goth pose and he's like wanted that image removed from the Internet.
+1:13:26
+And so I'm like, that's the one I need to use.
+And so that was the basis for that.
+The other one was like the him with a flamethrower and that the ones a little bit more recognizable with like hairline and facial.
+Feature interesting because yeah the the the boss Excalibur, which for a long time was the only boss in the game and I, I've fought that guy like dozens and dozens of times.
+1:13:46
+I think at one point I got to ascendancy in quotes like 6 or seven.
+I was pretty happy with myself, but at a certain point I couldn't sustain that no matter how many blasters I had.
+But yeah, Excalibur has like long hair.
+1:14:04
+So like, I get that he's like saying things that are kind of Elon Muskie, but like.
+Yeah, he had long hair in this.
+Picture like I'll share the picture.
+With you.
+I know the image you're talking about, but I guess I forgot the part that he was wearing a cosplay wig.
+Surely it's a wig, right?
+Anyway.
+I think he was just young.
+Yeah, he was just younger.
+1:14:20
+That's neither here nor there though, I suppose, but I am excited to see this image.
+Yeah.
+Earlier we were talking about the wealth of content in terms of the number of cards, the number of hacks, the number of types of events and things.
+Also, there's a wealth of enemies.
+1:14:38
+How many enemies are in this game?
+There's there's kind of a lot.
+There are 21 enemies at at this point.
+Including or not including bosses.
+Including the bosses.
+Including the bosses, another number I hope to double.
+Yeah, right.
+Well, again, great for a one point O.
+1:14:53
+And they are like particularly brutal fights where I was expecting like, oh, what's this an Amazon delivery drone and like it's little helper support bond.
+No problem.
+Oh, oh, oh, that's not good.
+And that was like almost every other fight in this game where it is not easy.
+1:15:13
+Like it is like I've I've put a decent amount of hours in to slate the Spire one and two and some other deck builders.
+And I consider myself of average skill.
+But yeah, there there are some steep hurdles to climb.
+Like like the clankling enemy who is just like a robot who has kind of like the the TV embedded in their chest that has a very menacing, like pumpkin carved out face animation, which I think is very great.
+1:15:37
+But like they, they operate in tandem with each other where they have like a combined strength and you can you can interrupt them by attacking them.
+And I thought, oh man, like I'm I'm gonna be toast.
+Oh, but wait, I have this really good build going here that on card draw I I hit like all the enemies associated with this.
+1:15:57
+I'm like aha, like that's the.
+Hard counter right there is that.
+I know yeah, I I was very pleased to to luck in that one.
+But that hard counter did not work so well with with some other fights, which, yeah, like you, you can't just like steamroll the game with one build.
+Like you have to tap into that flexibility of of the different hardware and wetware and the hacks that you have in order to make make that work, which I think is a good idea.
+1:16:21
+But yeah, like all the enemies in this are are very different from each other.
+They all have a very unique like art aesthetic to it.
+I think.
+Will you were saying one of your like your big inspirations for like future future tech like this is like that kind of like LED robot face kind of thing.
+1:16:40
+Exactly, Yeah.
+And I think that that's very well done here.
+But yeah, I think like the the draw for like the the Screech Elite where it's Stephen Miller.
+Like.
+A microphone, Allegedly.
+Allegedly.
+Yeah, allegedly, Your Honor, for entertainment purposes with a microphone arm and a a loudspeaker cannon for another arm.
+1:17:03
+And his mechanic is all about like spreading hatred as a debuff, but it's a buff for him, but it's a debuff for you.
+And so I do take a lot of pride in like the all the enemies I think are unique.
+I'm not copying Annie's latest buyer monster training of that stuff.
+These are all hopefully, hopefully at least somewhat original.
+1:17:21
+And they all challenge specific build archetypes too, which is another like really important thing to do with enemies.
+Yeah, I guess like we, we've talked a lot about Slave the Spire.
+Obviously I'm kind of curious to like control F through the transcript and see how many times Slave the Spire pops up for this.
+1:17:40
+But yeah, it'll, it'll pop up like 3 times, I guess when like you were obviously a big fan of Slave the Spire before developing Hard reset.
+So was there anything that you were surprised by when you were like deep diving and like really like picking apart Sleigh the Spire one all those years, you know, like I want to make it my own spin on this.
+1:18:04
+Was there something that stood out to you of like, oh, now that I've seen like the deep, dark recesses of the source code of Sleigh the Spire one?
+Whoa.
+Like I didn't expect this like either from an implementation standpoint or even just like a studying standpoint.
+I think what you're talking about, yeah, I did for the master's program, there was a, some work in clustering the, the different builds for Ascension 20 wins.
+1:18:28
+And I had a, a data set which was like basically all these wins and like what happened along the way.
+And so taking the, the final set of like cards and relics and then basically turning, you know, using a custom build clustering algorithm was able to like determine like here are all the major and minor archetypes.
+1:18:44
+And so that wasn't like so surprising, like the the end result was like kind of aligned with what you think.
+Oh yeah.
+You have to like these things go together and those things go together.
+And so it's just a way of kind of quantifying and visualizing that stuff.
+But what I thought was really cool in sort of this recent iteration, because I have to build my own archetypes.
+1:19:00
+I have to build, it's all the card effects from scratch.
+How do I make it all unified?
+I actually took the Do I have the numbers here?
+I took all of the here's another yeah, my my stealing creativity.
+I you could argue yes, but I'm using, I think as inspiration here because I took all of the cards and all the relics from Sleigh the Spire and from Downfall.
+1:19:20
+I put them into a spreadsheet and I extracted 227 of what I'm calling synergy elements, which are like specific, like things in the it's like, you know, plus one strength would be considered like a specific element.
+And then I took all those and I compared them against each other and I added my own like subjective, like synergy score.
+1:19:38
+And then from that as able to basically boil.
+So basically I had this really cool way of figuring out what are all the possible synergies.
+And, and on top of that, like it's sort of a mad Lib style way of generating new effects.
+And so right now, if I have like, if I'm struggling with like how do I make this card work?
+I have a tool built where I can just go in there and like the the it's just like, Oh, instead of having to come up with it from scratch and like I can just look down the list.
+1:20:00
+Here's there's only a finite number of ways to do this sort of thing.
+And like you know, and so many conditions and so many like, and so it's just a super powerful way and a super useful tool.
+Of taking something that is someone else's yet creation, breaking it down into its atomic particles, and then building something new out of that.
+1:20:16
+And I feel like a a follow up to that is that in the wake of Sleigh the Spire 1 and Sleigh the Spire 2 coming out this year, there's a lot of people who have made Sleigh the Spire clones that are more or less just, oh, I really like Sleigh the Spire.
+I'm just going to take those exact systems, which Hard Reset does not.
+1:20:34
+I think it does its own spin, but they'll they'll like glom onto oh, I'll do slay the Spire but with fluffy like marshmallow critters or something and all right, restart.
+That game.
+So I guess like with your process of going through this game dev journey, like is there something that you you wish more first time game devs knew more about before going and embarking on making like their own sleigh the Spire inspired games?
+1:21:10
+Yeah, I mean the the thing that that the common advice and the thing that, you know, I should have done too, but I didn't want to because it's not fun is you got to start marketing like early.
+You got to do like a dev, A dev blog.
+You've got to try to start building the community.
+Me, I'm just like complete, almost completely silent until approaching one point O and oh, what do you know, it actually takes time to organically build an audience.
+1:21:31
+And so I'd say that starting that early is probably a good idea.
+And also it's like, I don't know if, if, if you can afford to like have it not work out and expect maybe not expect that it won't work out, then that's a much better place to be in.
+1:21:47
+So if you like, if you're quitting your job and like this is like, and you're going to do this full time, don't have your life, depending on that, be able to find a way out of that.
+So, so for me, I couldn't do it part time.
+Like that was something like, I just, I work 8 hours a day or whatever when I was doing data science stuff, I come, I can't, I can't do anything more.
+1:22:07
+That's all my creativity, all my productivity is shot at that point.
+And so for the people who can do that, that's great.
+But I needed to take the plunge with full time in order to make this happen.
+And I'll say to all the new devs out there, it's the fucking, it's the greatest thing ever.
+You get to work every day on the thing that you like are are have a complete creative control over.
+1:22:24
+And every day is just like a new exploration of like, can I solve this problem?
+Can I create this thing?
+It's just it's been this is the last year and a half have been like the best year and a half of my entire life.
+Maybe that's because, but you weren't.
+But also, to be clear, would have been a great year if you were just like hanging out and playing video games for a year and a half.
+1:22:44
+That's not true.
+No, not necessarily.
+No, you have to, you have, I firmly believe that if I was just sitting on an island or like, you know, or, or, or playing video games all day, that life gets really tiring really quickly.
+You actually have to like build things and contribute and like solve hard problems that are real in order to feel a sense of fulfillment.
+1:23:03
+And so this I work 5-6 hours a day perfectly satisfies that.
+And then you know the rest of your time is yours.
+Indeed.
+Now, hey, that's great.
+If you want to eat through all your savings, it's a great way to live.
+So hey, this is retire or.
+1:23:19
+Die.
+Exactly.
+Exactly.
+And of course, in order to make sure that you're staying on track with those creative endeavors as fulfilling endeavors, instead of just sitting around playing video games all day, you can get yourself a checklist like the one in this game.
+Hey, that's great answer, Will.
+1:23:36
+That's good practical advice to indie developers, good logistical and and financial advice, etcetera, etcetera.
+It's also really great to hear that you've been so fulfilled.
+That's, that's that's amazing, that's inspiring.
+But I feel like maybe the crux of Scott's question maybe had a little bit more to do with what advice would you give to solo devs who are wanting to take inspiration from a game, but they want to do it in a unique way.
+1:24:07
+Do you do you have any insight into that?
+I mean, I think it's just kind of following a similar pattern where it's, it's you, you, you take an idea, break it down into its its parts and then try and rebuild it or or take that idea, blend it with another idea, break it down, hold it back up.
+1:24:22
+And I think that that's I mean, I'm a big fan of not reinventing the wheel.
+Like if there's something that's and the reason that I picked lay the Spire as like the the core of it.
+And I do add elements from from hates from Pokémon Go star low luck be a land.
+I got a whole long list here of inspiration.
+1:24:39
+But like, I'd say that, yeah, you should just don't, don't, don't try and do something new that that is not necessarily going to be a great idea.
+Like if you have like the map system as an example for Slate Aspire, you see that everywhere because it's a genuinely good design.
+It's kind of hard to improve on it.
+1:24:55
+And you can see people like try to do their variants on it.
+But I say don't waste time.
+For me personally, I just like don't I don't want to waste time with this.
+This works.
+This is perfect.
+This is exactly what I want.
+And so I went and that I just, I basically use that same map style in hard reset, but for other elements, it has to be, you know, your own.
+1:25:13
+And so I think for the, the mechanics of the game and, and the dynamics.
+So the things like hacks and hardware and all that stuff, that's all stuff you kind of have to just, I don't know, those were solving very specific problems.
+And so it often times the the creativity comes out of like, what do I do if people want to get rid of like hardware?
+1:25:30
+Oh, we need to have hacks so you can transfer things around.
+And so I don't have any great advice there with that.
+That was also no that extra mumbling.
+But I mean, yeah, think harder.
+I, I think that's, I think get more ideas.
+Sure, sure.
+Also the, the undervalued or not undervalued, but like a very successful game design strategy has been let's take two good ideas and combine them.
+1:25:53
+This is something that you mentioned earlier.
+Sorry, Colin, what was it?
+What were you saying?
+I was saying like, and honestly, a lot of times you end up with like that you you take 22 ideas or one idea with A twist and then the logical progression leads you off into a path that wasn't quite expected.
+1:26:10
+So three out of the four of us will excluded play in the same DND campaign.
+And I took over DM ING like halfway through the first, our first campaign.
+And I was like, well, I want to put my own twist on the, the, the, the world that whatever, I don't want to just be playing in exactly the same world that our previous DM was now a player.
+1:26:30
+So I was like, we're going to go off into the, the, the sea, into the islands.
+And I had like the world that had been created before, plus like a couple of random facts.
+And the way that the world ended up was way different than I thought it was going to be initially.
+Because it's like, well, if you take A&B&C, the logical conclusion as you like work your way through, you end up with something kind of different.
+1:26:53
+And I feel like that's will kind of describe the same kind of thing where it's like, well, the fact that it's a cyberpunk world imposes some logical things that that create different outcomes.
+Indeed.
+Actually, I just remembered the more the more technical way of putting that in this as an ERRC grid.
+1:27:12
+And that's where you are taking something that exists, you are eliminating part of it, You are reducing another aspect, you're raising an aspect and then you are creating.
+And so you're taking a base idea and going through that process and as a result, you're basically turning that into your own thing.
+1:27:29
+I don't know where I got.
+Anything I was a marketing communications class or a marketing strategy that that that came up.
+Oh errc is.
+Everyone knows the marketing The MBA marketing strategy course is the best place for game to ideas.
+I mean, there's a lot of guys, the blue Ocean strategy, ERC crossing, the CAS and there's a lot of good ideas, synergies, synergies, synergies.
+1:27:51
+Yep, Yep, definitely, definitely.
+Hey, I got while we're while we're in the Q&A section, the unofficial Q&A section of this episode.
+I got a question.
+No consumables there are there's.
+Activated effects and plans for basically more activated effects.
+1:28:07
+Like right now your over shield that sits in your hardware tray.
+You can drag that out and play it like a card right now.
+I know it's not super visible, but you can essentially play it like you would a potion.
+And so in the in the future, yeah, there are plans and there's specifically hardware with like grenades where that will be something that works like what you're talking about.
+1:28:27
+So the grenade bandolier is on in the in the queue or for new hardware, but it's not yet complete.
+So, pardon me, there is a consumable and there will be more.
+Sounds great.
+And you know, oh, you know, that grenade animation is going to be oh so satisfying and sweet.
+1:28:46
+Very good, very good.
+Also, I'm asking this question now with the hopes that by the end of the episode you can provide the answer.
+Which of us played the?
+Most I actually did not dig into.
+I'm going to say it's you though, I'm pretty sure.
+1:29:02
+Yeah.
+Like you were you were you making a lot like throughout the development process, a lot of really great feedback.
+And so I have to imagine you played a ton and I really appreciate.
+That you're too kind.
+You're too kind.
+Honestly, I feel like could have been more vocal.
+No there there is a a pretty vibrant and active discord community throughout the beta period, which is has been great to see.
+1:29:27
+I I pop on there every once in a while.
+But there are some pretty dedicated players which have been giving you a lot of great feedback and have have undoubtedly improved the game vastly as a result of of their comments and your open ears to those comments and that feedback.
+Yeah, I somehow the FPS meathead, the guy who does not supposedly doesn't like deck builders.
+1:29:52
+I played a lot of this game.
+And part of that is that it really takes advantage of the, the, the platform, which is mobile and, and, and a big reason that I played a lot of it was because it's in the bottom of my hand.
+It's convenient, it's right here.
+Cool, let's go rock'n'roll.
+Let's do it.
+1:30:07
+And it's, it's been a lot of fun seeing all the different iterations and all the different updates.
+And yeah, I currently I'm, I'm trying to, I'm trying to get out of my, my, my blaster oriented starting deck predisposition.
+1:30:29
+Standing a branch in the spider, have you unlocked the the spider form starter?
+The starter No.
+Yeah, that's a, there's a, if you get spider form in all, which is basically spider legs in all of your slots, you'll unlock that starter and then you can and that's arguably that might be the best hardware you can has a HP absorbing abilities.
+1:30:49
+I wanted I wanted to unlock that, but I didn't.
+I was like, I think I'll die.
+I like calculated.
+I was like, yeah, I'm pretty sure I don't have the HP to to.
+Well, you're talking about from the events where.
+You're on the event.
+Yeah, and that's, and I love that trade off right where it's like, oh, you can spend HP to get more of these things and that HP is increasing and the big unlock is only after you get all four.
+1:31:09
+So it could be.
+Yeah.
+I was like, I just took.
+I ended up taking just one of them because I was like, wait, this doubled check check.
+Nope, absolutely will not.
+I only have like 14 HP left after taking the first one so probably not.
+1:31:25
+Here's Scott.
+Oh yes, so.
+So.
+Andrew is bringing up a good point about the the hard reset discord, which has seen quite a bit of activity, a lot more activity than I see from other like indie dev discords actually.
+1:31:40
+So it's there's a pretty surprising amount of of stuff going on there.
+So if you if you were to join you, you have quite a lot of stuff to to to look through.
+But.
+Yeah, shout out to the the the folks on there that are just there everyday like and giving me all this feedback.
+I really, really appreciate that stuff.
+1:31:57
+And it's really great too when you when you're able to post the bug or a feature you want and then the next version that comes out.
+Oh my goodness, that makes me feel so good.
+So, so I'm curious, related to that, has there been anything that players either in the Discord or otherwise that you've been able to observe that players of hard reset have done with the app that that has surprised you?
+1:32:19
+Like, oh, I never thought in a million years people would do this with it.
+Yeah, no, there's a there's a an insight interest never sleeps.
+And this is one that might be a little broken as it as one of my players as a discovery, because if you get that early on, basically the idea is that you get 10% more creds every node you travel and turns out exponential growth.
+1:32:44
+If you can get that in act one, it will give you an insane amounts of creds and creds in this game you can use to buy all the upgrades of the shops.
+You can get any hardware you want.
+And so you're basically all the hacks that you want.
+And so it's a, it's a, a way of turning essentially this, this one insight into almost an infinite money glitch.
+1:33:05
+And, and I did not expect that at all.
+And so that's why I mean, it's still in the app right now.
+You can do that.
+And that's The thing is I want to be, I want to allow bills to be broken and crazy and all that stuff because, you know, it's not fun to just, you know, tamp it down and, and not have those in there.
+I just want it to be rare enough.
+1:33:21
+And so I think you.
+Just have to start sending the creditors after or the the banks enforcer after you've earned too much interest.
+Well, that is that, yeah, I definitely have a bounty hunter character that is has been designed and needs to be dropped into the game.
+This seems like a good opportunity for us to talk a little bit about our own strats and our own decks.
+1:33:43
+A Fellas.
+Yeah, I mean I'm I'm objectively bad at like all Spire like games because they require so much thought put into them and I and like also like hard reset itself also requires like some actual strategic planning involved with it, where I I am one to always fall into the shiny rogue light toy trap of oh man, this looks interesting.
+1:34:09
+I know this isn't going to synergize with my build at all, but I have to pick it because like that just looks cool.
+I want to see what happens when I do this and then it does the thing.
+I'm like, OK, I know I'm going to like Biff at this run, but now I know what that thing does.
+I follow that trap almost every single time and there's lots of those little goodies here.
+1:34:28
+So I think, I think I got to the Act three boss once, mostly because I am just a sucker for trying, trying something new and like there's that in this with.
+Spades here.
+1:34:43
+I'm looking at my deck right now and it seems like I'm mostly torque plus debuffs.
+Got the neosteel jaws.
+Got a you know.
+Neosteel plus the irradiator.
+Now that's the combo because.
+I haven't gotten, I haven't gotten irradiator.
+1:34:59
+Oh yeah, that because the Neosteel that actually adds debuffs every time you hit an enemy that.
+Which the flavor of that is that you are blasting.
+You're blasting a cyber cop with a radiation gun and then you are running up and taking a bite out of the irradiated flesh.
+1:35:14
+With your neo steel jaws?
+Exactly.
+Now that now that's pretty metal.
+I have been plasma blast and for for months and months in this game and the enraged blast card, which of course it is free to play and then it adds a copy of it to your deck is is beautiful, is wonderful.
+1:35:31
+We yes, and and there was and there was a build where there was at one point there was a build and I got very worried.
+Scott, Scott, excuse me, will I have a cold?
+My head is kind of a little funky.
+Will there was a time where I was worried because there was a build that came out where enraged blast turned into one AP and I was like, my whole way of life is is being destroyed here.
+1:35:53
+I can't just go blasting for free with no no AP.
+But sure enough, quickly the game was updated and it went back to 0AP Love.
+It I felt that pain too I'm like you know what the whole the whole fun of this is that it's a 0 cost and it duplicates I just need to balance it in a different way it.
+Also that you added the IT like subtracts for for block which I thought it.
+1:36:14
+I think that's an interesting like mechanic because it very much is like, when are you playing this?
+You have to make sure that you're playing it like as the first cards before you do the other stuff and.
+Exactly.
+And so like it, it again feels good to play this game.
+1:36:32
+So like, hey, you, you duplicate, use the hacks to duplicate those enraged blast cards.
+You get 2 equipment slots filled with the plasma blaster.
+And so you have double, double the double.
+And then you're and then like mid battle you, you draw your cards and you have just a bunch of these zero AP feels great.
+1:36:50
+Obviously that exists in other games.
+And then you just you just rapid fire, like fling all of those enraged blasts at your enemies and you know, the animations are going, the enemies are flying around numbers are are Bing Bing Bing coming up.
+And my and my brain is lighting up in in an incredible way.
+But yeah, yeah, all about that torque, you know, and and upgrading the torque a hardware.
+1:37:11
+So do you momentum at all?
+Pardon me.
+Pardon me.
+Momentum.
+I'm I'm.
+Yeah, of course that's a different thing that, but I'm just wondering if you.
+Had done yeah, yeah, yeah, of course I've got a couple psyched up cards in there to get that going.
+But the point is that my favorite build in this game is upgrading the hardware in such a way that I'm dealing just a little bit of extra damage on each attack.
+1:37:32
+And that cascades.
+So like, you know, every attack I'm dealing an extra, you know, 123 damage.
+But I'm slinging out so many attacks that that really adds up.
+And that is of course really exemplified in the leg slot item machine gun Kick.
+1:37:51
+Oh yeah, that's.
+That's where machine gun kick attacks like something like 4 times and it's like 6 * 6 six times.
+And so I'm dealing an extra, you know, 3456 damage on each of those individual attacks.
+And oh Mama, does it feel so good to melt a boss with your machine gun kick and just Bah Bah, Bah, Bah Bah Bah, he's flying around and again, Bing Bing, Bing Bing, Bing brains lighten up.
+1:38:14
+And also what a pleasant, lovely visual.
+Wouldn't we all like to chain gun machine apart some horrible cyber criminal?
+Actually, that was one point.
+If I remember correctly, Machine gun kick is it comes from the Cyborg in One Punch Man.
+1:38:30
+I remember he was like, that was one of his moves and I'm like, oh, that's so cool.
+I got to get that into the game.
+And I was here thinking it was a grindhouse reference, but also my, one of my recent builds, I was, I was doing a lot with one of the energy or pardon me, one of the hardware items that gives you extra energy.
+And like I was getting my energy bar just like huge, just massive, ginormous.
+1:38:51
+And it was and it was, it was great.
+So anyway, all I have to say, there's a lot of ways to play this game and I'm sure it's very, as you've referenced will really gratifying and surprising and fun to see people coming up with builds that you hadn't even conceived of.
+One other question that I have in here before maybe we start looking at at the wind down period other other than like an obvious like sales creds metric that's coming into your bank account.
+1:39:22
+Because there is a, a way to donate money for this game either with a, a monthly or just a one time drop fee.
+Other than like a monetary signal.
+What What are some other signals that you get either from like the app or player activity that kind of indicate to you that hard reset as an app or tool is successful in what it's trying to do?
+1:39:50
+That's a great question.
+I'll tell you what I don't really know at this point.
+It was like in the past two weeks where I started adding an event tagging and getting the telemetry set up, getting a big query tied into it.
+So now I can start to do queries, but that's like it's not.
+Retroactive, so I have to like I'm I've got a marketing push right now and I'm really excited to see what it shows with these these new users, especially your 1237 day one month retention rates.
+1:40:15
+Those are I think, going to be the most important because that's the whole thing here.
+It's like I'm betting that like retention will be really good because it's a fun game and I guess I guess we'll see on that.
+And by the way, it's free to play everyone just so just so you know, it is actually free to play and if you want to pay, you can.
+That just makes it so you can make more moves after like a one week intro period.
+1:40:34
+Yeah.
+I guess another question that I have here, like where do you expect or hope hard reset to be in one year and in three years?
+Well, in one year it would be nice if I had the 2X content complete.
+1:40:49
+I'm imagining that about the year time frame is when I have the web app complete because it's nice to be able to like, you know, if you're at work or whatever, you don't have your phone, like it's just nice to check things off there.
+And then having all the content for all the archetypes, all the, the new gear and all that stuff and all the, all the new events, all the NPCS.
+1:41:06
+Because I, I just really want to buff up all that stuff because all the, the core mechanics, the bones are all there and as well as a lot of the, a lot of the muscle and flesh, but not all of the muscle and flesh.
+And so that's, that's my hope for one year out and three years.
+That's a great question.
+1:41:23
+Ideally, this is a great success and there's enough revenue to like, let me like continue to build this stuff cuz I've got a lot of other app ideas and they're all in this space.
+And this is like by far the most ambitious, but I'd love to make more of these sort of gamified productivity apps.
+1:41:40
+And the the goal here is always just been, I want people to live their best lives.
+And I think the the biggest problem that human beings have, or should say the second after greed is that we have a problem with valuing our future self as much as we value the present as hyperbolic discounting.
+1:41:55
+And so these are all just ways of tricking our brain into doing the stuff that's good for us.
+And so if I can build more apps to do that in three years, and I mean by all means, I'll keep developing a hard reset, make sure that everything's working and build more content as needed.
+But at some point, I feel like, I think I actually, I'll phrase it this way, when you can play hard reset for one year and the content feels fresh throughout that entire year because you're still getting new things, you're still unlocking new things.
+1:42:20
+That's really the goal.
+Because I think in three months, that's kind of what you have right now.
+You can build habits in three months.
+And it's kind of like right now there's a quarterly program you can pay for, right?
+And that's like, that's kind of what I imagined someone would play hard reset for is a three month sort of like a, a hard reset of your, your, your, what you're doing in life.
+1:42:37
+But one year is really the long term goal because that's when you've really built strong habits and you or you'll be able to really cease doing something you want to stop.
+Is that I feel like it bounced around there a bit.
+Hell yeah, sure.
+Yeah.
+We'll say it answers the question.
+Yeah.
+Because I was going to ask another question of like, what criteria would make this feature complete in air quotes?
+1:42:55
+But.
+But yeah, I think that like, you know, there's, there's endless games out there where people can just keep adding more stuff.
+And I feel like this sort of game certainly lends itself in that direction.
+But like something along the lines of Sleigh the Spire, it's elegance is in its completeness.
+1:43:14
+And like if would Slay the Spire one be as good if it had 10,000 cards?
+Maybe not.
+Who knows?
+It would take too long to get the mastery phase.
+I think that's the problem is that you'd still be in the discovery phase and then you're still like, it'd be always confusing about like what to do.
+Whereas over time with Slay the Spire, you get that sense of mastery.
+1:43:31
+And so Dunbar's number, 150 or so, the number of Pokémon in Gen. 1, I think that's a really good target for like the number of of cards to have in a game.
+And I think that's roughly what I'm turning towards.
+Right on, right on.
+Well, collectively, and and I feel like me especially, we've been just, you know, like slobbing on Will's Mr. Mr. Stud here.
+1:43:52
+So maybe I'm going to open it up for more complaints.
+Hey, Will, some of us work late.
+I don't know if, you know that some of us have real jobs or we're out until 12 AM And, you know, it feels pretty lousy to have the app pop up and say, hey, you forgot to do this, yo, I'm still up.
+1:44:12
+The day is not done.
+Go to bed, Andrew.
+What?
+I said.
+Go to bed.
+No, a different.
+No, I mean I.
+Feel like a start of the day, a different time at the start of the day is absolutely in the works.
+It's been requested.
+I think I have a, it's AP 2 ticket right now and so it's definitely into everybody super.
+1:44:31
+You know what that means?
+OK, Priority 20 means it's like the everything's on fire.
+And five means you know, or 4 means you don't really care about it.
+And so 2 means it's like it's it's it's up there.
+It's up there.
+All right.
+Well yeah, maybe add that to your checklist.
+I'm just kidding, it is a checklist.
+1:44:47
+Yeah, well, you know, maybe just bump it up a little bit Now.
+I, I'm, I'm kind of obviously I'm, I'm giving my friend a little extra grief, but unironically, that was kind of annoying when I was having like a good run.
+And I'm glad that it's being addressed after a year and a half of development.
+I have a complaint.
+1:45:04
+I think that the check for check for scheduled to do should be on the right side, not the left side.
+Well, it bugs me every time.
+It bugs me every time I've ever used your app.
+I click the wrong side to check the check.
+Well, thankfully you could just tap the other one.
+1:45:20
+That's not a big deal.
+But there's the designs decision there is inspired by the fact that the check mark is on the very left hand side.
+And if you go down the line, the you want the plus to be aligned with everything else because that the left side then is indicative of completing the thing.
+And so that's why it's in that order.
+1:45:35
+But I understand, I thought about that a lot and I went back and forth and I decided, you know, this is how you, this is how it's going to work.
+What Will's trying to say is a skill issue.
+Get good nudes, yeah?
+Exactly.
+Yeah, Yeah, yeah, yeah.
+That of course, that makes sense.
+Scott, what do you what do you got?
+Let's let's let's grill this Dev.
+1:45:52
+Let's see well, so in my in all the Google Docs that I do for this program, I always have like a general discussion, a good section, bad section and like final thoughts.
+My bad section here.
+I don't know, like I don't have anything there because I didn't want this episode specifically to be like like like a takedown specifically.
+1:46:16
+I wanted like for me personally, I wanted this to be a build up and elevate and showcase kind of thing.
+And yeah, if we're just glazing well for two hours, that's fine.
+But.
+Well, I can complain.
+I know.
+My big complaint is that there's just not enough content.
+I mean, there's like, yeah, I said three months is not really enough.
+1:46:33
+And that is?
+Such a oh, what's my biggest weakness?
+I care too much.
+Not enough content is a real problem.
+I mean like in in a lot of games.
+And so I feel like there's still a lot of work to be done.
+No, no, I think.
+That is an actual like that is also my probably biggest gameplay complaint is like if you're not doing, if you're not very good at the game because you haven't learned it yet or you haven't gotten any of the meta progression, you do see the same and you see the same cards pretty often as rewards.
+1:47:01
+Like, OK, here, here, here's, here's a complaint.
+If I had to put one in there just just to be with the crowd, it makes my phone hot.
+What?
+Like my iPhone, like, yeah, like I'll, I'll be like having it on my phone and like I'm noticing my phone getting like noticeably warm while playing it.
+1:47:18
+And I'm like, you know, I'm pretty sure it's just the fact that I have like a 10 plus year old iPhone.
+Yeah, you think that?
+Has something to do with it, but I mean like this game is graphically at the maximum for like what like, and it's surprising to hear that maybe, but like the, the card floating animation paired with like the holographic oil slick and they're all rotating and doing this and the background's moving in the like there's just a lot of stuff going on.
+1:47:42
+And you can actually, there's a setting in preferences where you can disable, you can go into low graphics mode and that turns off all those animations.
+And that should help a lot with the, the the heat issue, because that is something I noticed as well.
+And that's why I put that in there.
+I didn't even see if there was a preferences well.
+1:47:58
+I knew about it was at last week, but there was still.
+Oh my God.
+Fast mode?
+Hell yeah, Ultra.
+There's Ultra.
+Now, oh, there's ultra now.
+At one point, wasn't fast mode the default mode?
+I think it was, it was always like in the, the, the medium.
+So it was like that was like .66 out of the and so it was like .33 point 66.
+1:48:14
+It's not one point O is fast and now you can go 1.5.
+I see.
+Ultra because at one point development I didn't notice I'm like, is this running slower?
+And then I, I went in and I was like, oh, there's speed settings now.
+Got it very good, very good.
+I had another one, maybe this was addressed.
+I complained about this a long time ago.
+1:48:30
+So I have used this app as a checklist and as a compliment to your game design.
+Like I, I did feel the need to cheat.
+Like even when I was using it as a daily checklist, I was like, at the end of the day I'm like, look, all my tasks are done.
+1:48:48
+I've had a, I've had a a a a productive day.
+As a treat, I'm going to give myself a bunch of points for free and I'm going to play as much of this as I want.
+But but but but but sorry.
+Here's my point.
+When you are playing this legit and using the checklist and only playing the game when you've earned it, it feels kind of bad to have to spend the same amount of AP on a little quick random event as opposed to a full-fledged engaging combat.
+1:49:19
+Which is to say I feel like non combat events nodes should be should require less AP.
+Is that are they the same still or was that changed?
+They are all fine right now.
+And that was done with like a with that was a decision that was made.
+1:49:36
+And the result that the reason for that is there's a 15% chance when you go into a question mark for that to be a combat.
+And so if you're tapping it, spending it immediately, then if it was variable and based on like the what the contents of that, it's, it's unclear to me how that would work because you would basically be saying, well, we're charging you for this much, but it's actually gonna cost this much.
+1:49:59
+We have that hidden behind when you actually activate it and so.
+Couldn't just be a player.
+Couldn't you just give?
+Yeah, but if you go into negative.
+Then no.
+Be close.
+It'd be 5 and then you get a rebate.
+I mean, I guess that's, that's something I I, I honestly haven't really thought too much.
+1:50:16
+About interesting thing but I see what you're saying.
+Or why not just like charge me 3 for the non combat nodes and like if I do get a combat well just lucky me I get I get to play the game.
+I guess the question is, is combat good as an outcome for those things?
+It's good in that you get more content to engage with, but it is bad for your HP.
+1:50:38
+It's bad for your HP, so it's not necessarily the desired outcome.
+When you go to those nodes, it's usually not right like.
+Yeah, most people like steer towards a question marks like early on when they don't understand like the the kind of the meta of the game.
+1:50:53
+Well, that's a question if like if I don't, I don't know.
+I haven't played the game enough to know that the precise, like obviously if you can get through a combat without losing health, that's good because you get card reward and equipment reward and all that fun stuff.
+Credits.
+Credits.
+1:51:09
+Indeed, indeed is that.
+Generally a better outcome than a question mark.
+Well, there's the, the, the amount of variation in all the events is pretty extreme.
+Like some of the events are just bad and some of them are really, really good and so and everything in between And so it's hard for me to give you an expected value on that.
+Yes, they vary similarly.
+1:51:25
+Give me the expected value.
+That was exactly the words I was about to say.
+Interesting.
+I mean, OK, I'll, I'll tell you what I'll I'll put this on the the list for consideration for like changing the value for.
+For consideration, I appreciate you hearing me and I, I guess now that I'm talking about it in, in, you know, person with a kind of person, but like in, in real time with a group of people.
+1:51:44
+It does occur to me that, well, maybe that's just my personal preference, that like, I like the combat that much, that like, I want that reward of getting to play the game, the actual combat part of the game, more than I.
+Actually, here's here's here's a case, though, which may steer us away from this.
+1:52:00
+And I just you've got you're on a note.
+It splits into two one's combat and one is an event.
+You have an events where three you only have three AP.
+So now the amount of AP you have is influencing the direction that you go.
+No, that's why I said.
+That's why I say.
+1:52:16
+It needs to be.
+It always costs five to move, but then you get some back if it's not.
+Well, that's hard to communicate in the UI though, right?
+You know what it would be we.
+Can take this an offline I?
+Think this is.
+But this is the this is the normal session where we this is the end of the episode where we talk about what could the game be better at?
+1:52:34
+And then we get we'll find absolutely like inane, terrible suggestions on how Slate Aspire 2 could be better, which we're we're we're just wrong, but.
+Oh, drawing on the map, that's definitely something I mean.
+Yeah, yeah.
+We should probably.
+We should probably wrap this up though for real instead of just giving.
+1:52:51
+So, yeah, so instead of doing our our standard ranking system here because let's.
+Let's be clear.
+It would just tip the scale so hard it would break.
+It would break the Google sheet, although I would have like ref errors all over the place.
+1:53:07
+It would just be unusable.
+The sheet the Google sheet would get a hard reset.
+So maybe maybe what we can do is we can just do like a quick round round the horn of like final thoughts here.
+Give will the last word as well.
+1:53:23
+I do want to read through some some user reviews as well after that and then we'll do our typical wind down thing.
+So I guess maybe I'll I'll kick us off here with like final thoughts.
+I think this I think hard reset is really good for a first solo dev project.
+1:53:45
+I think it's very.
+Solid candid.
+Well, I mean like I we get a lot of games sent to our the Steam curator that I have set up for the podcast.
+And here's a way to guarantee we don't get any more.
+Yes, Scott.
+Some of those games that people send in are not great, I'm not happy to say, and I think that I think some of those people knew it.
+1:54:12
+But so I have.
+I've genuinely played some very bad games over my gaming tenure and I've played some very heroically amazing games.
+And I think this game I was, I was prepared to like say this, you know, this game is just AI slop.
+1:54:30
+It's just prompt monkey bullshit.
+But there's a lot of really good thought and design and lots of hard work that's been put into this that you just you can't get from something as as lazy as that like that.
+1:54:47
+This this game has a lot of really unique thought from like a gameplay perspective, has a lot of really unique thought from like enemy and story design and flexibility and all that stuff.
+And the fact that it's like, that's just the game part.
+1:55:03
+Like the gamification of like to do lists is something that like people like, I always thought I was like, Oh yeah, I know it's it's gamification stuff, whatever.
+But this really kicks open the door of like, Hey, have you ever thought about like making the game part good?
+Here's an example of that.
+1:55:19
+So I feel like the fact that the the core gameplay part of this is fun makes the the the To Do List part fun also.
+And that can kind of symbiotic relationship is something that is just so elevated by both parts being good that other big time apps that try to do this really need to stop and take note of like, hey, like here's this is a A1 person project effectively that can really like come at you and like, you better watch your back because otherwise your app is going to get a hard reset.
+1:55:59
+I'll just add here too that Janet was a big part of this too.
+Like I would not have built this app at all without her help all along the way.
+So this is definitely not a one person effort.
+Sure, yeah.
+Indeed.
+Hey, earlier I'll I'll go next because my my voice is maybe fading fast potentially.
+1:56:19
+Curse this, this horrid flesh of mine.
+If only I could replace it with hardware and wetware.
+Neo steel throat exactly.
+Forget just the jaws.
+I need the jaws and the throat as well.
+And so when I was using the checklist and, and, and wanting to like give it an honest shot and like only play the game during the day, you know, when I had enough points to to actually play and go to nodes, I found it to be a pretty effective tool and I found it to be pretty motivating.
+1:56:54
+Like, yeah, I'm going to send that e-mail I've been putting off.
+Yeah, I'm going to make that phone call.
+Yeah, I'm going to do a load of laundry, you know, in exchange for the the ability to continue my run that I'm pretty invested in.
+And like the UI of the checklist we talked a little bit about, but it's, it's very good.
+1:57:15
+It's gotten better over the course of development.
+And it also it also looks nice.
+As for the actual game, I think I made it pretty clear that I'm not majorly into this genre, but I'm I'm pretty majorly into the gameplay of this of this deck builder enough to keep me coming back to it pretty consistently.
+1:57:37
+And again, I've like beat the core like game, which is, which has changed, I mean, over the course of development quite a few times and not always with the plasma plaster, but often with the plasma blaster and way at the back of the start.
+1:57:55
+Beginning near the beginning of the episode.
+I, I mentioned my respect for Will's decision to not make it, to not expressly put in a game only mode and to keep the spirit and the functionality and like the the core mission statement of this being a productivity helper, a productivity tool for to help people drop bad habit habits, form new habits, etcetera, etcetera.
+1:58:23
+I'm also extremely impressed and I and I've such a wealth, a well of respect for my Co host and my friend for what he has done with the last year and a half.
+It's again, very inspiring that you took your fate into your own hands and quit your day job and devoted your life to this pursuit.
+1:58:47
+And I think that the fruits of said pursuit are evident and impressive and I'm proud of you and I, I think this is really great.
+Well done.
+I appreciate that.
+Yeah.
+1:59:03
+Good job, good game.
+I hope that it does well enough that you are able to continue developing it.
+I feel like it is a pretty good game and I think that most of the most of the flaws that I see in it with at this point are things you're basically like, yeah, if you had twice as many cards and twice as many enemies, that would solve most of the most of the issues I have.
+1:59:31
+So I hope that you manage to get to that point, even if and, and you know, you, you say like, oh, you, you, you might go have to find a job and you keep working on it.
+And yeah, maybe, maybe like it once it becomes a hobby rather than your full time thing like that.
+I know that the motivation for, for doing stuff like this, that it, it becomes a lot harder to find.
+1:59:52
+But I, I hope that yeah, you're able to keep, keep working on it and then come out with the hard reset to which is like a fantasy theme version of it or whatever.
+Where you use the core, the core like back end structure and you're just, you get to a point where you're just able to make fun game card things and not have to worry about the marketing and the the like learning how to do the SSO login shit and all the other tasks that aren't actually enjoyable to do.
+2:00:21
+So we'll see though.
+Yeah, the next month or two is going to be super critical here in determining like if we are on the right trajectory or not because this is like the first like marketing, like marketing campaign.
+All right, we're dumping money into this.
+Let's see if we can actually get let's see if we can get in front of the right audience here.
+That's the the question because I know the people are out there.
+2:00:37
+It's just a matter of like, can I do, I can I find them because this, this app is meant for me.
+And I know I never look at ads.
+I never like, I have to like.
+I would never be.
+I would never learn about this and.
+So once you get that the grog pod bump there you get 1,000,000 millions of more players.
+2:00:53
+For sure so.
+I guess this is where.
+This is where you get the final word.
+So what do you rate hard reset?
+1010 obviously, no, I'll say that judge it for yourself.
+You can find it on the App Store.
+You can find it in the play Store and it's at hard reset dot app if you just want a QikLink to to go to either of those places.
+2:01:14
+All right, real quick, I know we're we're I can feel Andrew's voice is about to give out in any possible second.
+So real quick, I, I also wanted to highlight like don't don't just take our word for it.
+Take these people's word for it too, who have genuinely been having a good time with the app.
+2:01:31
+I'll read through some of these here that I've collected over the past few months or so.
+Let's see, we got a comment from Reverse Isa Kide who says hey hey just had the most productive day because of your app and it felt like I was gaming.
+So great.
+We have one that I think was from a Reddit post from Fragrant Coffee 1138 who says I gave it a try.
+2:01:54
+You can tell a lot of thought went into it.
+For me personally, it felt a bit too complex.
+I realize I'm looking for something much simpler than I can stick to without overthinking.
+Still really appreciate the work behind it though.
+Another person says let's see.
+Northernmost 1990 says good stuff.
+Exclamation mark.
+2:02:10
+I'm a professional game UI/UX designer, so I got to compliment your UI work in particular.
+It's an area that many solo developers struggle with, but you've done remarkably well.
+This one here I think is I don't.
+I actually don't know where this one came from.
+2:02:25
+I don't know if you posted it in the in the discord from from Nestor who says as a designer I'm in love with your app.
+It's it's being a huge help with my focus and it's a great example of good gamification.
+Thanks you for everything and I hope this bug isn't much work to fix.
+2:02:43
+Exclamation mark.
+Probably a bug report.
+This one I think from the App Store. 5 stars.
+Amazing doing dishes working out feels like a video game and not chores we had.
+I had to throw one in here from your super fan on the discord Crucible who says if I use this app 10% as much as I did before I ran out of things to do in Habitica, a reasonable monthly subscription is more than worth it to me.
+2:03:08
+And there Crucible has been non-stop posting the discord since then, so I thought.
+A champ, yeah.
+Yeah, mega fan so I think it is definitely resonated with them.
+Shout out to Crucible there.
+Xanthus in the discord also says I've actual feedback too, that I'll organize and I'll provide when I have the chance and I'm not getting.
+2:03:27
+Not texting at the Cafe, but I think you've definitely got something fascinating as an app and it includes a very fun game.
+Two more or three, three to go.
+Just wanted to make sure that we end on as high of a note as possible.
+Five star review.
+Really enjoying the app so far.
+2:03:43
+It definitely helped me improve my daily life by making mundane tasks.
+Something I look forward to completing to see how far I can advance on this run.
+I love the idea of adding a rogue like aspect of a deck builder combined with a cyberpunk theme.
+I enjoy finding new ways to improve my life to go further in the game.
+2:04:03
+This one I think also from discord from the stray says awesome app.
+Having fun with it so far.
+Never did so many dishes, ate salads and drank so much water.
+And then this last one, yeah.
+Speaking of water, yeah, that's, that's a good type of water usage.
+That's great.
+2:04:19
+This one, this last one here from the Amazing Frogman says you have the most original game in the entirety of this subreddit.
+I forget where this was posted.
+You're a dev one.
+I frankly don't care that you use AI art at all.
+All caps.
+2:04:35
+What you've created isn't hacky or the same vibe coded product we've seen every day this week.
+Keep doing your thing.
+I wish you and your app all the success this world has to offer.
+Saluting emoji.
+I believe that was the gamification subreddit.
+Yeah, I know.
+I'm, I'm pretty active there.
+Yeah, that was, that was really nice to see that one.
+2:04:52
+But yeah, so that'll that'll wind down our two hour extravaganza of showcasing the marketing week for a hard reset.
+I'm sure, I'm sure we'll revisit this possibly during a mega bowl season just to kind of check in on on how it's progressing.
+2:05:09
+Because as we see like every week, there's that dear idiot dev dot dot dot, you know, there's there's so much new stuff being added to it that by the time that we get towards the end of the year there, it might be a totally different game, Who knows?
+But real quick, some similar games to this that I've been able to find.
+2:05:28
+Feel free to add will if we if we missed any, but have have you heard of this game Slay the Spire?
+I don't know if you've heard of it.
+It's kind of similar.
+I don't know, it feels like it's kind of a RIP off, a hard reset.
+If I'm being honest.
+There's an an I'm actually kind of surprised there aren't more cyberpunk deck building roguelike games out there.
+2:05:45
+You'd think they're like this genre would be ripe for it.
+The only other one that I've been following for a long time played a little bit of called into the grid that feels very much in in kind of the same vibe and universe.
+So it's more of kind of like a 3D space to it.
+2:06:02
+And these these are definitely more game based.
+I would say liberal crime squad by the Dwarf fortress creator Tarn Adams also fits in terms of the the aesthetic and theme here a little bit.
+A stay tuned and 1/2 for when that day comes and I'll put Doncaster in here as well as a another kind of vertically oriented deck builder.
+2:06:23
+But there's also some productivity apps here that I guess maybe are less gamified but are deserving of a shout out.
+There's one called Sparks SPARX, which I think is listed as video game, but I think it's supposed to be kind of productivity based as well.
+2:06:39
+There's one called Zombies comma run exclamation mark that is supposed to be productivity phase.
+And there's a game called Meticulous or I guess an app called Meticulous that you can find on Steam that I interviewed the developer for that back I think in 2024 at PAX for a different game that he was building.
+2:06:58
+But he had mentioned that offhand.
+I'm like, well, have I got a game for you to check out developer?
+It's called this game called Hard Reset.
+You should go give it a look.
+It's pretty dope that some similar games to check out.
+So as we once.
+Oh yeah, go ahead.
+Well, I just said it like they're they're really the original in the space of Gamify.
+2:07:16
+Like really successful gamified apps to do good things would be like Pokémon Go because it wasn't a checklist, but like in terms of like getting people out walking, it was one of the most successful apps ever created.
+And it's a a traditional rogue like to boot as well.
+2:07:32
+So but yeah, that, yeah, I mean, Pokémon Go is like the it's like the Minecraft of productivity to some.
+Well, at least in terms of walking.
+But yeah, yeah, winding down here website, Grogpod dot zone that has all the stuff you can.
+2:07:47
+You can go and find everything there in the show notes.
+We'll be egregious amounts of links to Will's app, the Discord, anything that we have said so far.
+I've been doing a lot of posting on Mastodon over the past few days to to shill our upcoming 100th episode that I have planned.
+2:08:06
+So we have it kind of broken out into three parts.
+And I've at this point revealed all the games for Part 1, which are the 1971 game Star Trek, followed by Pedit 5, Colossal Cave Adventure, and of course 1980s Rogue.
+2:08:22
+So stay tuned for that discussion as well and you can send in if you have any thoughts or opinions on that stuff, you can send it into our e-mail, grogpudzone@gmail.com.
+I've been collecting a lot of stuff about that.
+So will any any plugs that you have about a hard reset or productivity or habitic a bad or.
+2:08:43
+I think, I think I've said it all, I really, really appreciate everyone's time here and, and chatting about all this stuff.
+And shout out to the because he's the one who really inspired me to, to, to go and, and do this and, and make the app.
+OK, cool.
+Yeah, we'll we'll put links to the hard reset dot app that's the the website to go and find all the stuff.
+2:09:02
+You can find the the iOS and Android links there, the discord link as well.
+But yeah, that's gonna that's gonna take us into summer vacation mode.
+We're gonna break out that suntan lotion, the cyber suntan lotion, I should say, and we're gonna get our cocktail drink hacks out for summer break as as half of our Co hosting team conspicuously planned all their vacation time on the same week.
+2:09:25
+So that that felt like a good time for me to put our upcoming interview with a special three.
+A third part of our Caves of Cud coverage with the Caves of Cud composer Craig Hamilton will be coming out two weeks from when this is posted over our summer break.
+2:09:42
+So stay stay tuned and 1/2 for that.
+That was a conversation I had with him way back when.
+It was a lot of fun and a suggestion from NARF, the guy who I believe did all the the UX redesign for the for the Nintendo Switch release, which was chef's kiss for the Steam Deck.
+2:10:00
+But after that, two weeks after that, will be Andrew's pick for.
+Oh yeah, yeah, yeah.
+Let me pop open my my app here.
+All right, let's see your tasks due today.
+Yes, I need to announce that my next episode pick will be Ball X pit.
+2:10:22
+You know what it's called.
+Did I get it right?
+I've heard people call it ball pit but I in my head canonically I've always said ball X pit so I don't know if it's the first case of a silent X ever or what.
+Oh, interesting.
+Interesting.
+But it is from the good folks.
+It's it's produced by Devolver of Gunge and Fame, of course, but they're always producing and putting out bangers, so I expect this to also be a banger.
+2:10:50
+All right, well, yeah, we'll we'll be putting our balls into a pit and shooting them around some sometime after today and after our summer break episode.
+But that, yeah, stay, stay tuned for that, that interview with Craig Hamilton, that was a that was a good one.
+2:11:10
+And then, yeah.
+Until then, we'll see you later.
+Chrome Cowboys.
