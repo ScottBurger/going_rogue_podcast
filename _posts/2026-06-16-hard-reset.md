@@ -19,10 +19,10 @@ tags: ["2026", deckbuilder, solo dev, honorary rogue, mobile game, interview]
 "You don't have the cards!" This week we deep dive the cyberpunk productivity app roguelike deckbuilder hybrid that our very own co-host Will has been developing since 2018! A unique spin on gamification apps, Hard Reset asks the ever-important question of: "what if we made the game part actually fun?" The capitalist oligarchs have taken over and you must stop them by upgrading your cybernetics as provided by a mysterious benefactor. Fight through mutant-filled cyber slums with the help of rocket arms, irradiation blasters, and a helpful hand or two. But don't skimp on those tasks to practice your cello or take out the garbage! Being consistent rewards gameplay with bonuses, and missing days will add consequences to your deck.
 
 Find Will's app at:
-* https://hardreset.app/
-* https://discord.com/VdqP5AWBnz
-* https://bsky.app/profile/hardresetapp.bsky.social
-* https://www.youtube.com/@HardResetApp
+https://hardreset.app/
+https://discord.com/VdqP5AWBnz
+https://bsky.app/profile/hardresetapp.bsky.social
+https://www.youtube.com/@HardResetApp
 
 Hard Reset has already been getting some coverage by other outlets that you can find below:
 * [ParadoxPort - Hard Reset: When To-Do Lists Meet a Dystopian Cyberpunk Game](https://www.youtube.com/watch?v=85z9g3iSgEU)
