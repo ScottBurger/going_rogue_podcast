@@ -38,7 +38,7 @@ Hard Reset has already been getting some coverage by other outlets that you can 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/warhammer-40-000-darktide/id1650474911?i=1000768755278) | [Spotify](https://open.spotify.com/episode/5vuBEstAMeMx2REnbaOFbt) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/hard-reset/id1650474911?i=1000773028170) | [Spotify](https://open.spotify.com/episode/5C102I9zcCGsEeX1x06bMV) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
 
 ---
 
