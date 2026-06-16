@@ -35,15 +35,29 @@ Hard Reset has already been getting some coverage by other outlets that you can 
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/hard-reset/id1650474911?i=1000773028170) | [Spotify](https://open.spotify.com/episode/5C102I9zcCGsEeX1x06bMV) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/darktide.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/hard-reset/id1650474911?i=1000773028170) | [Spotify](https://open.spotify.com/episode/5C102I9zcCGsEeX1x06bMV) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/hard-reset.txt)
 
 ---
 
 * 1:13 - Game stats
 * 2:28 - One sentence description
+* 5:09 - Origin Story: Behavioral Therapy Work & Contingency Management
+* 9:18 - Hard Reset's Purpose vs. Previous Therapy App
+* 12:07 - Habitica Comparison & Fun-as-Reward Design Philosophy
+* 15:25 - Vesper-5 & Checklist-Game Symbiosis Discussion
+* 23:52 - Boot Sequence, Node Map & Game Structure Walkthrough
+* 24:34 - Hardware & Wetware System vs. Slay the Spire Relics
+* 35:10 - Card Codex Stats: 71 Cards, 15 Hacks & Unique Mechanics
+* 43:41 - Combat Animations, Eye-Opening Intro & Protagonist Identity
+* 46:01 - Portrait Mode Innovation & One-Handed Mobile Design
+* 59:50 - AI Art Ethics: Solo Dev Cost Reality & Moral Debate
+* 1:09:43 - Story & Theme: Cyberpunk Anti-Oligarch Revolution Narrative
+* 1:33:43 - Player Build Strategies & Community Discoveries
 * 1:53:00 - Rankings & final thoughts
 * 2:01:13 - Fan Write-Ins
 * 2:05:10 - Similar games & show wind down
+
+
   
 ---
 
