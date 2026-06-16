@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hard Reset"
-date: 2026-06-17
+date: 2026-06-16
 file: https://grogpod.s3.us-west-2.amazonaws.com/hard-reset.mp3
 description: "
 "
