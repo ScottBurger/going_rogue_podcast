@@ -20,13 +20,13 @@ tags: ["2026", deckbuilder, solo dev, honorary rogue, mobile game, interview]
 
 Find Will's app at:
 
-https://hardreset.app/
+[https://hardreset.app/](https://hardreset.app/)
 
-https://discord.com/VdqP5AWBnz
+[https://discord.com/VdqP5AWBnz](https://discord.com/VdqP5AWBnz)
 
-https://bsky.app/profile/hardresetapp.bsky.social
+[https://bsky.app/profile/hardresetapp.bsky.social](https://bsky.app/profile/hardresetapp.bsky.social)
 
-https://www.youtube.com/@HardResetApp
+[https://www.youtube.com/@HardResetApp](https://www.youtube.com/@HardResetApp)
 
 Hard Reset has already been getting some coverage by other outlets that you can find below:
 * [ParadoxPort - Hard Reset: When To-Do Lists Meet a Dystopian Cyberpunk Game](https://www.youtube.com/watch?v=85z9g3iSgEU)
