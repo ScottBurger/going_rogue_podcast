@@ -8,12 +8,12 @@ description: "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, caves of qud, kitfox, gamma world, craig hamilton"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/qud_bg_2.jpg
-thumbnail-img: /assets/img/qud_bg_2.jpg
-share-img: /assets/img/qud_bg_2.jpg
-duration: "2:38:52"
-length: 126479507   
-tags: ["2010", traditional roguelike, honorary rogue, Guest Episode, interview]
+cover-img: /assets/img/qud_ezra.png
+thumbnail-img: /assets/img/qud_ezra.png
+share-img: /assets/img/qud_ezra.png
+duration: "1:28:06"
+length: 74970699   
+tags: ["2010", traditional roguelike, honorary rogue, Guest Episode, interview, music fest]
 ---
 
 Qud returns! For our summer break episode, I grabbed some time with the Caves of Qud composer Craig Hamilton! As Qud is a dramaturgical triad, we couldn't NOT do a third episode talking with the creative mind behind the creative sounds of the game. We're talking DAWS, sci-fi literature, flamethrowers, traditional roguelikes, and so much more! The torsion of an external crank drags a rosin-slathered wheel against a metal cable, whose protestations emerge from the wooden case in a low, melodic groan. 
@@ -24,19 +24,15 @@ Qud returns! For our summer break episode, I grabbed some time with the Caves of
 
 Other topics discussed:
 
-https://www.craigoryhamilton.com/
+[https://www.craigoryhamilton.com/](https://www.craigoryhamilton.com/)
 
-https://store.steampowered.com/app/1247760/Caves_of_Qud_Soundtrack/
+[https://store.steampowered.com/app/1247760/Caves_of_Qud_Soundtrack/](https://store.steampowered.com/app/1247760/Caves_of_Qud_Soundtrack/)
 
-https://stumpyfrog.com/sfr24a-caves-of-qud-3lp/
+[https://stumpyfrog.com/sfr24a-caves-of-qud-3lp/](https://stumpyfrog.com/sfr24a-caves-of-qud-3lp/)
 
-https://eggplant.show/into-the-depths-caves-of-qud-finale
+[https://eggplant.show/into-the-depths-caves-of-qud-finale](https://eggplant.show/into-the-depths-caves-of-qud-finale)
 
-www.decklinsdemise.com/mordor.htm
-
-https://grogpod.zone/2024-07-03-summer-special/
-
-https://grogpod.zone/2025-07-18-music-fest-2/
+[http://www.decklinsdemise.com/mordor.htm](http://www.decklinsdemise.com/mordor.htm)
 
 https://store.steampowered.com/app/224500/Gnomoria/
 
