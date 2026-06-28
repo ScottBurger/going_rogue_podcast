@@ -16,11 +16,32 @@ length: 126479507
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode, interview]
 ---
 
-Wisdom and will! For our summer music fest this year we are interviewing the musical mind behind Caves of Qud: Craig Hamilton. Our 2025 GOTY, Qud holds a special place in our podcast as the only game that warranted a full two other episodes to gracefully cover. Well now we bring a third, covering the musical depth and design inspirations behind one of the most unique and creative gaming experiences in recent memory.
+Qud returns! For our summer break episode, I grabbed some time with the Caves of Qud composer Craig Hamilton! As Qud is a dramaturgical triad, we couldn't NOT do a third episode talking with the creative mind behind the creative sounds of the game. We're talking DAWS, sci-fi literature, flamethrowers, traditional roguelikes, and so much more! The torsion of an external crank drags a rosin-slathered wheel against a metal cable, whose protestations emerge from the wooden case in a low, melodic groan. 
 
 [Part 1 of our Qud Qoverage focusing on the story and soundtrack can be found here](https://grogpod.zone/2025-10-29-caves-of-qud-story/)
 
 [Part 2 focusing on the gameplay and mechanics of Qud can be found here](https://grogpod.zone/2025-11-05-caves-of-qud-gameplay/)
+
+Other topics discussed:
+
+https://www.craigoryhamilton.com/
+
+https://store.steampowered.com/app/1247760/Caves_of_Qud_Soundtrack/
+
+https://stumpyfrog.com/sfr24a-caves-of-qud-3lp/
+
+https://eggplant.show/into-the-depths-caves-of-qud-finale
+
+www.decklinsdemise.com/mordor.htm
+
+https://grogpod.zone/2024-07-03-summer-special/
+
+https://grogpod.zone/2025-07-18-music-fest-2/
+
+https://store.steampowered.com/app/224500/Gnomoria/
+
+https://en.wikipedia.org/wiki/Ultima_Ratio_Regum_(video_game)
+
 
 <div class="container">
   <audio controls style="width: 100%;">
@@ -32,41 +53,22 @@ Wisdom and will! For our summer music fest this year we are interviewing the mus
 
 ---
 
-* 3:44 - Game stats
-* 7:47 - One sentence description
-* 08:09 - Gamma World tabletop RPG comparison
-* 10:08 - Initial bouncing off & polish improvements
-* 14:23 - Tutorial mode & learning curve discussion
-* 19:31 - Character creation & mutation systems
-* 24:48 - Story structure & main quest overview
-* 29:17 - Death mechanics & permadeath options
-* 34:52 - Open world exploration & procedural generation
-* 40:15 - Village generation & faction systems
-* 45:38 - Combat mechanics & weapon variety
-* 51:22 - Skill tree & ability customization
-* 56:47 - Water economy & trade systems
-* 1:02:08 - Equipment & artifact identification
-* 1:07:45 - Mutation system depth & combinations
-* 1:13:31 - Enemy variety & creature encounters
-* 1:19:03 - Interface improvements & accessibility features
-* 1:24:38 - Save system exploits discussion
-* 1:30:15 - Community & modding ecosystem
-* 1:35:52 - Writing quality & atmospheric storytelling
-* 1:41:27 - Endgame content & difficulty scaling
-* 2:07:27 - Rankings & final thoughts
-* 2:25:15 - Similar games & show wind-down
+* 00:00 - Intro Premable
+* 2:17 - Interview Start!
+* 43:19 - Bey Lah
+* 1:24:37 - Wind Down
   
 ---
 
-Next episode: Ball X Pit?
+Next episode: Ball X Pit
 
 Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: Caves of Qud OST - Soundscape I
+Intro music: Caves of Qud OST - 3rd Spore Phase
 
-Outro music: Caves of Qud OST - Onward Romantique / Live and Drink
+Outro music: Caves of Qud OST - Of Chrome, and How (Sultan's Song)
 
 
 <div class="embed-responsive embed-responsive-16by9">
