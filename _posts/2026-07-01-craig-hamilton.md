@@ -56,6 +56,7 @@ https://en.wikipedia.org/wiki/Ultima_Ratio_Regum_(video_game)
   
 ---
 
+
 Next episode: Ball X Pit
 
 Contact us at grogpodzone@gmail.com!
@@ -68,5 +69,5 @@ Outro music: Caves of Qud OST - Of Chrome, and How (Sultan's Song)
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zB6voAH29CA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
