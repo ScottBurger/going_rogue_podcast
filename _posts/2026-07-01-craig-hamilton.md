@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Caves of Qud Part 3: Craig Hamilton - Composer"
+title: "Caves of Qud Part 3: Interview with Composer Craig Hamilton"
 date: 2026-07-01
 file: 
 description: "
