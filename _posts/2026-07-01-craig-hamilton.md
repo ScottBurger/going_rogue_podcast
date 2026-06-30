@@ -2,7 +2,7 @@
 layout: post
 title: "Caves of Qud Part 3: Interview with Composer Craig Hamilton"
 date: 2026-07-01
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/caves_of_qud_3_craig.mp3
 description: "
 "
 explicit: "yes" 
@@ -41,7 +41,7 @@ https://en.wikipedia.org/wiki/Ultima_Ratio_Regum_(video_game)
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="xxxxxxxxxxxx">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/caves_of_qud_3_craig.mp3">
   </audio>
 </div>
 
@@ -57,7 +57,7 @@ https://en.wikipedia.org/wiki/Ultima_Ratio_Regum_(video_game)
 ---
 
 
-Next episode: Ball X Pit
+Next episode: BALL x PT
 
 Contact us at grogpodzone@gmail.com!
 
