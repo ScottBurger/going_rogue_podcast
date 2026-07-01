@@ -20,6 +20,8 @@ O Glorious Shekhinah! To conclude our two-part special on Caves of Qud, we turn 
 
 [Part 1 of our Qud coverage focusing on the story and soundtrack can be found here](https://grogpod.zone/2025-10-29-caves-of-qud-story/)
 
+[Part 3 of our Qud coverage is an interview with the composer Craig Hamilton which you can find here](https://grogpod.zone/2026-07-01-craig-hamilton/)
+
 [You can find the in depth tutorial series we did with BigSimple to learn this massive game here!](https://youtu.be/1sOEBoRN1S8)
 
 <div class="container">
