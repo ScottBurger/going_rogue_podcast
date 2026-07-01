@@ -16,7 +16,7 @@ length: 74970699
 tags: ["2010", traditional roguelike, honorary rogue, Guest Episode, interview, music fest]
 ---
 
-Moon and Sun! Caves of Qud returns for our summer break episode, I grabbed some time with the composer Craig Hamilton! As Qud is a dramaturgical triad, we couldn't NOT do a third episode talking with the creative mind behind the creative sounds of the game. We're talking Digital Audio Workstations, sci-fi literature, flamethrowers, traditional roguelikes, and so much more! The torsion of an external crank drags a rosin-slathered wheel against a metal cable, whose protestations emerge from the wooden case in a low, melodic groan. 
+Moon and Sun! Caves of Qud returns for our summer break episode, I grabbed some time with the composer Craig Hamilton! As Qud is a dramaturgical triad, we couldn't NOT do a third episode talking with the creative mind behind the creative sounds of the game. We're talking Digital Audio Workstations, sci-fi literature, flamethrowers, traditional roguelikes, and so much more! The torsion of an external crank drags a rosin-slathered wheel against a metal cable, whose protestations emerge from the wooden case in a low, melodic groan.
 
 [Part 1 of our Qud Qoverage focusing on the story and soundtrack can be found here](https://grogpod.zone/2025-10-29-caves-of-qud-story/)
 
