@@ -51,7 +51,23 @@ Other topics discussed:
 
 * 00:00 - Intro Premable
 * 2:17 - Interview Start!
-* 44:00 - Bey Lah
+* 3:14 - Craig's Musical Origins: Uncle's Yamaha Keyboard & Early Life
+* 6:22 - Mixtapes, High School Bands & College Hardcore Synth Work
+* 10:10 - Childhood Dream: Astronaut, Video Game Maker or Musician
+* 11:50 - Childhood Gaming: Diablo 1, XCOM & Cinematic Music Influences
+* 17:38 - Film Score Influences: Arrival, Blade Runner & Disney Jungle Book
+* 19:00 - How Craig Got Hired: Dropsy Tracks & Caves of Qud Audition
+* 24:24 - Composition Process: Flavour Text Prompts & Dev Collaboration
+* 26:43 - "Onward": Multiple Versions, Melancholy Quality & New Keyboard
+* 33:53 - Diegetic Sound Design: Golgotha Flamethrower & Theme Park Composition
+* 38:45 - Craig's Favorite Track: "Arrival" & Interstellar Inspiration
+* 44:46 - "Bey Lah Heritage II": Western Aesthetic, Harmonicas & Hedren Influence
+* 47:36 - "Attack on Grit Gate": Desperate Blown-Out Battle Sound Design
+* 52:34 - Favorite Game Soundtracks: FF7, Nuclear Throne, Katamari Damacy
+* 1:05:31 - Craig's 40 Hours of Qud: Exploration Style & Mutant Builds
+* 1:10:47 - The Caves Music: Danger, Oppression & Caving YouTube Inspiration
+* 1:15:14 - Cozy Art Lulling Players Into a False Sense of Security
+* 1:18:36 - Gnome Moria, Ultima Ratio Regum & Procedural Generation Discussion
 * 1:25:21 - Show Wind Down
   
 ---
