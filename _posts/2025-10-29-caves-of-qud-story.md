@@ -22,6 +22,8 @@ Live and Drink! In this extra-special two-part episode, we first examine the dee
 
 [Part 2 focusing on the gameplay mechanics and systems can be found here!](https://grogpod.zone/2025-11-05-caves-of-qud-gameplay/)
 
+[Part 3 of our Qud coverage is an interview with the composer Craig Hamilton which you can find here](https://grogpod.zone/2026-07-01-craig-hamilton/)
+
 [You can find the in depth tutorial series we did with BigSimple to learn this massive game here!](https://youtu.be/1sOEBoRN1S8)
 
 <div class="container">
