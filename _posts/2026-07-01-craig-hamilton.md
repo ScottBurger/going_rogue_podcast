@@ -61,7 +61,7 @@ Other topics discussed:
 * 26:43 - "Onward": Multiple Versions, Melancholy Quality & New Keyboard
 * 33:53 - Diegetic Sound Design: Golgotha Flamethrower & Theme Park Composition
 * 38:45 - Craig's Favorite Track: "Arrival" & Interstellar Inspiration
-* 44:46 - "Bey Lah Heritage II": Western Aesthetic, Harmonicas & Hedren Influence
+* 44:46 - "Bey Lah Heritage II": Western Aesthetic, Harmonicas & Hindren Influence
 * 47:36 - "Attack on Grit Gate": Desperate Blown-Out Battle Sound Design
 * 52:34 - Favorite Game Soundtracks: FF7, Nuclear Throne, Katamari Damacy
 * 1:05:31 - Craig's 40 Hours of Qud: Exploration Style & Mutant Builds
