@@ -45,7 +45,7 @@ Other topics discussed:
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/caves-of-qud-part-2-gameplay-and-mechanics-with-bigsimple/id1650474911?i=1000735349468) | [Spotify](https://open.spotify.com/episode/5k2HuFpjzN9X4GMfClFaq5) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/deadzone-rogue.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/caves-of-qud-part-3-interview-with-composer-craig-hamilton/id1650474911?i=1000774938355) | [Spotify](https://open.spotify.com/show/655SEhPUWIC77oO3hILe0b) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/qud3-craig.txt)
 
 ---
 
