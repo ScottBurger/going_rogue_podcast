@@ -1,0 +1,936 @@
+0:17
+Wisdom and will friends and welcome to our special summer music Fest episode of the Grog Pod Roguelike podcast.
+But this time, instead of me and the Co hosts listening to game music across the rogue spectrum like our last two iterations, instead we're doing an interview episode with Craig Hamilton, the composer of our 2025 game of the year, Caves of Cud.
+0:44
+This was suggested to us by I think the guy who did most of the UI work in the major one point O release for Caves of Cud Narf, who suggested, hey, you should reach out and and talk to Craig.
+And I thought, you know what?
+That is such an amazing idea.
+1:00
+I wish I'd thought of it.
+So credit where credit is due, but great conversation.
+I'd originally booked about 30 minutes for us to talk and we went way over just because it was it was so much fun.
+So you're in for a treat here.
+We've done two previous episodes on Caves of Cud already, one being a deep dive of the story and soundtrack and another one being our kind of standard grog pod episode format where we just kind of more focus on the gameplay mechanics.
+1:27
+So give those a look see, I'll link those in the show notes as well.
+But as we all know, great things in Cud come in threes after all, wink wink.
+So why not a special part three of us talking with the composer of the music about all of the technicalities and where the inspiration comes from and all that great stuff.
+1:47
+Really, really great stuff ahead of you for for here.
+Our next episode after this will be a normal one on the rogue light ball X pit or ball pit, I suppose.
+And then following that is going to be our special big three parter 100th episode bonanza.
+2:04
+So stay tuned for that as well.
+But without any other further ado and all all that boring stuff, let's talk to our composer for Caves of Cud, Craig Hamilton.
+2:30
+Well, thanks Craig, for for joining me here.
+It's it's an honor.
+I feel like I kind of have this sort of asymmetric relationship with you already from just listening to the soundtrack so much and playing the game so much.
+So the first thing that I, you know, have to have to leap into not really a question so much as like a comment of like, thank you for the soundtrack.
+2:52
+It's it's really an incredible feat.
+It's so unique.
+I'm so excited to ask you a whole bunch of questions today about it.
+And it's really not even just like one of my favorite rogue like game soundtracks, but like maybe one of my favorite video game soundtracks ever.
+So yeah, just that's awesome jumping in with a, with a thank you right off the right off the top.
+3:14
+But I guess like actual question wise from from like your background as like a musician and a composer and a like musical artist, like how, how do you like what, what drew you to musical composition in the first place?
+3:30
+Yeah, yeah.
+First off, thank you.
+It's very kind.
+Yeah, the case of cut soundtrack definitely has a special place in my heart as far as like getting started with mutual composition.
+I when I was young, like, I don't know, maybe 5 to like 4 to 6.
+3:51
+I had an uncle in my life who was a really talented musician, played a lot of jazz and he got me AI think it was a Yamaha keyboard at a pretty early age.
+Like just one of the toy ones that had a bunch of song.
+4:07
+Like I had a song mode on it which had you know, like 100 songs and four pads, 4 teal pads for playing samples.
+And I remember like it was you could flex the different sets and one of them was like a jungle set with like monkey sounds and elephant sounds and 1 was like a train sound.
+4:27
+So this like feeds into play around like 5th and 6th grade.
+Did you play with Lego as a kid?
+Oh yeah, I was a big Lego kid growing up, 100%.
+Yeah, so I think by about 5th or 6th grade, I was doing a lot of Lego, especially when I was like, you know, in the room just playing by myself.
+4:48
+And so around that time, I think I kind of got more into music.
+I think maybe around that time my mom gave me a she let me have a radio step in my room.
+So like CD player, cassette player and then two almost like bookshelf speakers.
+5:09
+So yeah, like detachable, which is kind of a, a weird setup for the I for a kid, but yeah, just had it in my room.
+And I would, I would build, I distinctly remember many times building a radio station out of Lego.
+And then I would role play as a DJ.
+5:27
+So I would have, I wouldn't play the radio, so I would play that Yamaha keyboard I was talking about.
+And because it had song mode and you could just, you could play the song and then you could also play along with it.
+So you could like affect whatever key it was going to be in for the, and the base notes.
+5:45
+And then I would interject the, the samples as well.
+And I'd be like you're listening to 96.7 FM, you know, coming up next to whatever.
+And then I would just kind of play a little 2 1/2 or 3 minutes song and move the little Lego figurines around and stuff like that.
+That's awesome.
+6:01
+Yeah.
+So like, that's kind of like the 5th, 6th grade.
+And then 8th and 9th grade, I was staying up really late making mixtapes, you know, running out of bed to pause the the tape on the commercials and then go back to to recording right after that.
+6:22
+Probably like 11th to 12th grade, doing some high school band stuff like, you know, Green Day, Offspring covers guitar.
+And then college is probably where I really got into music.
+I got into like an experimental hardcore band playing synth and guitar.
+6:43
+So like, I think that's probably my first time really playing with synthesizers and getting into sound design.
+And then that did not last very long.
+Like most experimental hardcore bands in college, post college I was doing production by myself, so I was learning how to produce in FL studio and I did like a experimental hardcore band where it was all program programmatics, kind of like Breathe Carolina adjacent.
+7:12
+I was into a band called Horse the Band and then also the Blood Brothers, those trying to do some stuff that kind of like sounded like that.
+And then after that entirely, and that was with another person who was doing Andre.
+He was the screamer in that band.
+7:27
+And then after that it's probably like 5 years of indie electronica pop.
+Yeah.
+Just like very, very prolific to myself making tons and tons and tons of songs.
+Yeah.
+So I think that was probably where I really got into sound design and musical composition.
+7:47
+But that's like kind of like the the lineage.
+Interesting.
+Yeah, I can imagine that like the tool set evolution, like through that period has just it's changed so dramatically.
+And it's, I can totally like understand from a perspective nowadays where it's like, and you kids don't know how good you have it.
+8:03
+But based on like, you know, the like the early 2000s technology versus today kind of deal.
+Like I, I know someone who's done like their own sort of like not quite like OC remix level stuff, but like, you know, dabbling here and there with like Fruity Loop studio and and garage band and stuff.
+8:21
+And it's just like, it seems so beyond my level of like technical understanding.
+But but imagine it like the just the ease of use of those tools is has increased substantially over the years.
+Yeah, I, you know, it's funny because I think by the time I'm getting into working with a doll that's probably, let's say like 2008 maybe, that's probably pretty close.
+8:52
+You know, I feel like dolls are like digital audio workstations, like NFL studio or a logic or a reason, that kind of thing.
+They're pretty, they're pretty good.
+But yeah, like I, it's hard to remember because I've been doing it for so long.
+But I imagine that really probably five years before that, it's, it's pretty difficult, yeah.
+9:15
+Interesting.
+So like when I was when I was growing up, like the musical part of video games, like soundtracks were always something that like really resonated with me, I think even before I even realized it.
+Like growing up and playing something like Super Metroid with like this really like deep atmospheric soundtrack to it, I think had had a much bigger impact on my appreciation for music than I really thought of.
+9:39
+So like in from your perspective, like why, why do music for video games like or, or, you know, for caves of cut in this case?
+But like, have you always had that kind of connection to to games growing up?
+Or is this something that you were like, ah, let's, let's try something new?
+Yeah, I think there's probably a part of me that wanted to I, I don't know, I guess my, so I guess how I would probably center this is in 5th grade or in elementary school.
+10:10
+Did you ever have to do the like, what did you want to be growing up?
+And like you'd you, it asked.
+Like, what are the three things you want it to be?
+Yeah, I remember, I remember that specifically.
+And there is this really cringy presentation that I did where I was like, I want to be a graphic designer.
+And if for whatever reason, I brought like a, a lamp from my house because I couldn't think of anything better and I was like, well, graphic designers make lamps on computers, so here's a lamp.
+10:37
+And I think for whatever reason, I think about that presentation all the time.
+But but I'm guessing you you probably had something much more thoughtful when you had to do that kind of presentation.
+So I don't think they made us present, but my my best friend, who I actually met in fifth grade, it might have been a couple of maybe like a year ago, he actually sent me the picture of he had like a screenshot of my my actual form as a kid that I filled out, which was pretty cool.
+11:10
+And what I said was I wanted to be an astronaut, a video game maker or a musician.
+Those are like my top three, so I think maybe it was always in the cards that I might end up mixing some of those things together.
+11:29
+Yeah.
+I've always had an affinity for space.
+Video games.
+I've played since a pretty young age.
+My mom built computers a bit in the mid to late 90s, probably through like the early 2000s.
+11:50
+So, you know, I grew up playing games on Microsoft DOS.
+I played Diablo 1 as a pretty young kid.
+Yeah.
+And like XCOM, the first XCOM and Terror for the Terror from the Deep, which was the second XCOM game, which is probably one of my favorite games for a while.
+12:11
+And that had a very, very, I would say like a pretty cinematic soundtrack for a game back then.
+Like kind of like haunting.
+Have you played any of the old XCOM games?
+No, I have I have the old original XCOM UFO defense that I got.
+12:30
+I think I'm like a Steam sale and I've been meaning to go back to it of like, OK, I need to like actually see what the origin story for this is.
+Because I think I was reading something about like the original Diablo development and how that was kind of very much inspired by that, like original XCOM design.
+12:50
+That's cool.
+I think, I think what they were saying was like the the exact like isometric sizing of like the tiles at well, I guess tiles at the time, but it's still kind of in the game design are the exact same dimensions that they use for UFO defense.
+And I thought like, well, yeah, yeah, I had that exact thing.
+13:08
+I'm like, OK, yeah, we we've actually covered the very first Diablo game here on the podcast.
+And a big part of that was talking about the music and atmosphere.
+And like, oh man, it's just it, this confluence of all these great elements together.
+13:25
+And I keep thinking, like, all right, I've spent enough time in like the new modern XCOM games, I should go back to the original and really get a a good sense for it.
+But I hear it's brutal.
+It's really hard.
+Yeah, yeah.
+So yeah, I think probably there were some choice games that probably shaped that kind of experience for me from a musical level, like, you know, what kind of heart racing inducing music.
+13:50
+But I think music for games specifically, like, yeah, there's definitely what I thought I would be or wanted to be or had interest in growing up.
+And then I think I also at some point missed collaborating.
+You know, at some point I kind of soured on being in a band because it was really difficult to deal with that, that split.
+14:12
+So I was like, yeah, I'll just make the music all by myself or I will produce it.
+And then I think at some point, yeah, I'm just collaborating.
+And, and I also thought maybe like from the singer-songwriter part of of me, that it would be a way of communicating with others.
+15:10
+Yeah, I guess like when I was researching the, the, the mind behind the music and coming across your website, you know, you have a, a whole bunch of books listed on there.
+And I'm always scrounging for like, you know, what should I add to my own reading list?
+And I'm seeing stuff on there.
+I'm like, oh, I wonder how much like how much of like this has been baked into the the vibe and and emotion behind the caves of Cuds soundtrack.
+15:35
+I'm seeing a lot of like very interesting stuff in here, like the throne of glass series by Sarah J Maas, the annihilation series by Jeff van der Meer, or even like non fiction books like on cryptography and astrophysics.
+I'm reading through that and I'm like, wow, like that's, that's such a broad and but also deep like delve into like the world of like hard science, science fantasy, that kind of stuff.
+16:03
+So like how how has like that kind of diverse background of reading material impacted your like your musical composition style?
+Yeah, that is, that is funny because actually I would say I probably didn't start reading a ton until until, yeah, like the maybe like 2022 is when I kind of started to get back into it.
+16:27
+And then 2023 is just when I was like, I will start, I will start tracking this just so I kind of have a reference of what I was reading throughout the years.
+I think that probably not a ton of this actually made it into my psyche from the perspective of the Cuts soundtrack, at least not super intentionally.
+16:53
+But it probably speaks more to a lot of the science fiction and some of like the occult stuff that I just think it's like generally interesting.
+Like I think religions are are super interesting.
+I think that like the organized and more modern religions and then also kind of the the more forgotten or kind of like subjugated religious practices from the past.
+17:18
+Like that's super interesting.
+I would think that probably more like movies and soundtracks to shows.
+And I think that's probably more of what influences my, I would say like my musical tastes.
+17:38
+I mean, and some of those have parallels, right?
+Like I watched the Annihilation movie before I read the the series and that has like a really interesting soundtrack.
+The movie Arrival has a really interesting soundtrack that's probably one of my favorite or probably one of my favorite soundtracks as like a young adult.
+18:03
+And I'm like, oh, wow, this is like really interesting.
+Like I, I feel something in my chest like this is like pulling on something.
+I would say probably like definitely Blade Runner.
+Like that kind of 80s kind of classic sci-fi soundtrack, but also stuff like the original Disney Jungle Book cartoon, like that kind of really like worldly, you know, booty vibe.
+18:36
+The type of stuff also influences my musical taste.
+Nice.
+So, so how did you first hear about Caves of Cud?
+It's a game that's been in development for a million years.
+Was this something that you heard about like early on in its development and you were like, oh, I want to get involved with that or yeah, like how did you, how did you first hear about it?
+19:00
+And what was your experience like coming onto the project?
+Yeah, so I yeah, I definitely had not heard about Caves of Cud through my own kind of channels at the time.
+I was moderating for a game publisher, or rather I don't think they were a game publisher at the time, but they were going to become one in like the mid twenty 10's.
+19:26
+And I was, this was before I was really interested in specifically like becoming a game developer.
+I guess I'd forgotten that portion of my my childhood.
+And so I was, yeah, I was, I was doing the moderating and then I obviously knew some of the moderators became more familiar with them.
+19:46
+We started to make games together and the pixel artist was part of like the Something Awful through.
+And so they would have been definitely seeing like what the Co developers were doing at the time.
+20:03
+And also and what is the Dropsy creator?
+Yeah, so basically the pixel artist was in the same orbit as Jason and Brian and he kind of just throwing me things that he thought I might be into.
+20:23
+And so he threw me towards drop the, if you know what that is like a click and point adventure game about a clown that I think the Volver Digital published somewhere around the 20, the mid twenty 10s.
+20:40
+And so I did some tracks for that and maybe like 4 to 6 months after that, I think the cut guys were interested in hiring a composer.
+And so yeah, my friend sent me towards them and that was kind of it.
+20:58
+I auditioned with a few of my dropsy tracks and a couple of other things and yeah, they really liked it.
+And so that leads to the first track, which was the overworld track.
+And yeah, you know, that took probably, that took probably about a month and a half to work on.
+21:23
+It was kind of like, yeah, the thing that was supposed to capture the essence of CUD.
+Well, I'd, I'd have to say you nailed it because that that overworld track really, it's just so like, well, I took away from it feeling like hauntingly alien.
+21:42
+And yet one of my podcast Co hosts on the the music and story episode that we did was thinking almost the exact opposite of like, oh, this feels like like an exciting sort of like, you know, cartoon jungle with like, you know, I, I was hearing like, you know, the sort of like weird annihilation universe sounds.
+22:02
+And he was hearing like sort of like a mutated alien Jungle Book sound of like, oh, that actually like that weird roaring beast sounds like a friendly animal that I want to go and hang out with or something.
+And and just the fact that like it can mean something like like that diverse between audiences, I think really speaks to the strength of like the music and like just how well it pairs with like this very weird game.
+23:16
+So I have one question here that's kind of further on in my Google doc, but I think ties in well here.
+So just to show a second for a different podcast, But on the the secret Lives of Games podcast, they were doing the series called into the depths and going through all the stuff in Caves of Cud and there's a whole bunch of episodes on it that go super deep on their caves of Cud finale.
+23:39
+Episode 1 of the Co creators Brian that you just mentioned, he was talking about how he designed one of like these end like the ending cutscenes based on the music that you had provided First.
+I won't go into which one just for spoiler sake, but but was that typical for like the music and game design process?
+23:57
+Like were you given a prompt by by Jason and Brian of like, you know, we want some music that that, you know, evokes this kind of emotion or here's like the scene and setting and then you were developing that music?
+Or was it more kind of like a back and forth iterative process?
+Yeah, yeah.
+So that yeah, it's the answer to that specific question about like them designing songs around the music that was provided first.
+24:24
+And that was pretty a typical for the way that the songs were developed.
+It was primarily like I would get flavour text for an area or a sequence.
+And generally, I was probably asking quite a few more questions just to kind of try to thought out what their intent was behind their words.
+24:52
+Especially like towards the beginning, because a lot of the beginning of soundtrack development, just like trying to figure out what the world is.
+Then also like for me, it's me trying to get my footing and the world, like the overall track was just a ton of that.
+25:08
+Like how do I even, you know, yeah, how do I represent what I, what they understand the project to be based on what I feel like the project is, you know, like fur HUD and like it's also kind of like why I wanted to work on the project.
+25:29
+But like, to me it was described as effectively like a sci-fi post apocalyptic setting with generative stories.
+And it's this world where history and mythos and science have rebuilt and fallen and rebuilt on top of each other.
+25:45
+So yeah, I think the the history layer cake was kind of referenced as well.
+And yeah, just like has this this feeling of this like bizarre world composting, you know, like where the it's just kind of condensed and people aren't even really sure what's real or not anymore.
+26:05
+And then there's like the strong art identity, like Sam's art is amazing for it.
+There's like hieroglyphic, like art that is minimal yet expressive and and then there's like the scan lines and looks like.
+26:21
+How do I represent all of this with, you know, having not really been a part of the the project?
+So yeah, it's a lot of definitely a lot of back and forth.
+Some tracks more back and forth than others.
+Definitely the first one was a ton of back and forth, like, yeah, again, like about like a month and a half.
+26:43
+And then I'll say probably the track that took the most, one of the most the tracks, one of the tracks that took the most time was probably onward.
+And that's one that I kind of kept coming back to also, which is interesting.
+Yeah, that one, that one I like a lot because so that the onward track is the background music for when you come to a village in the game that has a lot of good plot significance to it, but also comes back in sort of like an epilogue for the game.
+27:17
+And when I first heard like that sort of remix of of the onward track later on, I was like, oh, whoa, this like it just it in a good way.
+It hit me kind of like a ton of bricks where I was like, you know, that that historical composting, that that layer cake of stuff really came back like full circle.
+27:38
+And like, wow, that is it's like just such a a great way to kind of revisit that.
+Was that something that like you had like multiple versions of that track and you had thought like, oh, well, we can, you know, we have like multiple versions of this.
+27:55
+We can use it in one sense here and in another sense over here.
+Or was like the second version of that that comes up later specifically designed for that sequence?
+Oh, man, yeah.
+It's so funny because I, it's like, yes.
+And like I have, I have so many versions of Onward.
+I probably have like 4-4 to five versions of Onward before I get to that track.
+28:18
+Yeah, yeah.
+If you, you do artistic things, you write like you record a podcast as well, which is an artistic thing.
+Are you ever at a point where you're like, I need to redo this Like whatever this was?
+Very rarely, but but yeah, I think that comes with with sort of the the quality of of some of the edits that I do sometimes, obviously this one will be better, better edited.
+28:44
+But in in some cases, like if I flub an intro or something, part of I think part of like the design ethos for the podcast is like, you know, it's kind of free, you know, loosey goosey casual sort of thing.
+Not, not produced in, in a, a more professional setting like an NPR official interview.
+29:02
+Like, all right, hang on a SEC.
+Let's let's redo that like 3 or 4 more times kind of deal.
+But I can definitely see for something like for musical composition.
+I mean, I, you can kind of see over my shoulder here that I have a cello case and I suffer from like the, the, the standard adult cello student problem of like, you know, I'm playing through something with my instructor and she'll say, you know, play through this piece of music, whatever.
+29:28
+And then I'll flub like the first like 2 measures or whatever.
+And then I'll go back to the start and then try playing through it and then mess up on the same note and start all over again.
+And, you know, I hear that's like a a very classic problem with adult music students versus just like, yeah, just play it through kind of deal.
+29:44
+Oh yeah, yeah, definitely.
+Yeah.
+I've same thing with like piano.
+Yeah.
+I think the idea is you play slowly and you play, but you play slowly until you can play more quickly, and then you play the entire piece through instead of trying to redo the last few notes or however many notes you you messed up so that you can get through the piece.
+30:06
+Right.
+Yeah.
+So for.
+Yeah.
+So for onward.
+Yeah.
+For some reason it wasn't sitting sitting well with me at certain through certain times of the development.
+And so I kept trying to go through and like redo it and often times it just wouldn't sound the same.
+30:26
+There's this really nice melancholy quality to the original onward that I think just kind of like resonates.
+It's both regal and Yeah, like a little melancholy, and I could never quite capture that again, which was so interesting.
+30:42
+And it's probably one of the best parts of the song.
+Yeah.
+I think at some point, I don't know if I, I broke down Jason and Brian's defenses, but we, yeah, we end up.
+I think it was really Jason that suggested, if I'm, if I'm remembering it correctly, that maybe we do like a remix of Onward for.
+31:05
+Yeah, for the epilogue.
+And at the time, I had just gotten a new keyboard, the Osmos by expressive E and it's this keyboard where it's like hypersensitive.
+31:23
+So you can, as you touch the keyboard, it's sensing where the the depth of the key being pressed and that can be tied to anything.
+So you can play synthesizer sounds very, very quietly to very, very loud within the same note being pressed.
+31:42
+And I was like, perfect.
+I mean, Onward has these horn like sounds and I can play them really gently and I can just, yeah, kind of play the volume of each key.
+Yeah, just affect the timbre of the of the sound.
+31:59
+And that's something that I really wanted to do with Onward.
+And I was like always trying to kind of seek that with all of my all of my other revisions.
+So yeah, so I was just really happy to be able to to do that with Onward.
+And I like the way that Onward Romantic turned out.
+32:31
+The technology behind the stuff that you're using for composition is super interesting to me.
+And I know the the video that you have up that the the Kid Fox YouTube channel put up of you playing the onward suite on that device is, is very interesting.
+32:49
+At least, you know, for me as like someone who does strings, like anything having to do with like keyboards seems again like kind of kind of super intimidating.
+But there's other other tracks here on the soundtrack that have very interesting diegetic sounds to them, like mechanical clanking, dripping water.
+33:12
+Some of like the crunchy foots, at least I interpreted as like crunchy footsteps of like, you know, pilgrims coming to Jopa for the first time in in Memet's morning or something like that.
+But I have to ask about one of the one of the more stand out pieces of music from the soundtrack, the the Golgotha piece, that one I was describing it at the time to my Co hosts of like something like a like a nightmare factorial world where there's all of like, you know, these conveyor belts and like gloopy sewage systems.
+33:53
+So I have to ask, did you, did you actually record a real flamethrower sound for that soundtrack 'cause it certainly sounds like 1?
+Yes.
+So for yeah, so for Gogotha, I did not unfortunately record an actual flame thrower sound for it.
+34:11
+But yeah, the diegetic stuff, yeah.
+Just some of the tracks felt like, at least when Brian and Jason were describing to me the areas like they just had like a lot of stuff going on.
+34:28
+Gogotha specifically, Yeah.
+It just kind of sounds like, you know, like one of those game shows where you have to run.
+Yeah, you have to run through like a series of like Legend of Legends of the Hidden Temple, the like cut style.
+Yeah.
+34:44
+And like the shoot crabs.
+And there are just all these different environmental sounds.
+And I think at the time I was really into this kind of theme.
+It kind of called it like a theme park style composition where I would do it was generally like I would kind of consider it three acts and I would just sort of move through the different acts.
+35:13
+So I think in that one, yeah, you have kind of like the sound of all these robotic actuators and and things like pushing things around inside of Golgotha.
+And then there are, yeah, these like flamethrower trap bits.
+35:32
+And then there are the shoot crabs that kind of start coming out and like dropping into the water.
+Yeah.
+So that's not the only track that has elements like that.
+But that was, I think one of the first ones where that was kind of that was my thought process, like, oh, OK, I can I can kind of express these different things if it feels like you're moving through through the environment.
+36:00
+And that's probably also a thing that I thought of from spending a lot of time at Disney World and going through theme park rides and how those kind of like shift you through the difference, the different actions or sequences in a given like locality.
+36:23
+Yeah, I think the like substrate is kind of interesting as well.
+I really like water sounds.
+So yeah, that was that was fun to do.
+Clam dimension is another one.
+Like the bubbles are, you know, I'm thinking like, yeah, these are clams.
+36:44
+There are lots of clams in clam dimension.
+And you know, this is kind of what I think they would sound like singing.
+And if a bunch of clams were singing, there would also be a lot of bubbles because you know, takes air 2 sings.
+So yeah, you mentioned Jopa as well.
+37:03
+Yes, those are crunchy footsteps.
+I think Jopa also has like some wind and and flag like movements as well.
+So yeah, certain environments kind of called for more diegetic stuff.
+Yeah, they like I, I really can't think of a better like home hometown, starting village Sound than from Jopa, where it feels like this very kind of remote, almost almost sort of like a Tibetan village of, you know, this, this quaint small little town with like, you know, little flapping flags and villager Wanderers coming in every so often looking for, you know what, what treasures may lie up in them, them mountains kind of deal to them.
+37:50
+And it it really is like one of my top like starting village soundtracks, like ever so oh.
+It's really cool.
+Yeah, JOPO almost had more more elements like that to it.
+Like I think I had some archive tinkerer sounds as well.
+38:10
+I definitely pulled back on some of the some of that style of, of composition Once Shell in the Pit came on and started to put in the ambient beds, I just felt like it was going to clash a bit too much.
+38:26
+But yeah, I definitely like that type of element in music.
+And I think that, you know, Shell in the Pit covered that for a lot of the a lot of the space that you're in in the game.
+So I'm glad that it's still there.
+Do you have like a a personal favorite track from the soundtrack?
+38:45
+Yeah, that is a really hard question to answer just because a lot of the tracks as I was writing them were also kind of hitting at different things I was feeling in my, like, personal life at the time.
+39:02
+So yeah, sometimes when I listen to the soundtrack there, there are some pieces that just kind of make me cry a little bit, like tear up, you know, just because they're really beautiful.
+I kind of also remember how I was feeling at the time that I wrote them.
+But when I think about probably like favorite, favorite, it would probably be the sequence leading up to and the piece that's called Arrival.
+39:30
+Oh yeah, I mean, that that one for me, like, yeah, just amazing stuff where like even even before like we did the recording for the podcast, I was, I was listening through the soundtrack and I I hadn't gotten to that part of the game yet, but I was like listening to that piece like over and over again.
+39:50
+I'm like, wow, this.
+It just has such a magnificent, almost sort of Carl Sagany type vibe to it of like the thing that happens in the game when that happens is just so perfect for how the music works with it.
+40:07
+That for me, like, when like, I'd listen to that track like at least a dozen times before I got to that part in the game.
+And then when the part in the game happened, like that marriage of like the gameplay sequence and the music just made everything like, 100 times better as a result.
+Like what when you were composing it, like, did you have, like a specific kind of approach or like something that you wanted to evoke in it that made it your favorite?
+40:34
+Yeah, so.
+Yeah, so as we're getting up to that point, right of development in the game where Jason and Brian and the rest of the team are flushing that out, they're talking to me about the sequence and like you know, bear Thrums big reveal and kind of what comes after that.
+40:56
+And I also get to, because at this point, it's not programmed in the game yet, but I get to see what's coming, right?
+They they show me.
+And yeah, I think something about it really drew me to.
+41:15
+Did you ever watch Interstellar?
+Yes.
+And I think the first time that I watched it, I was like, I was, I was kind of mid on it.
+And then and I'm a, I'm a big Nolan head.
+But the more and more that I've watched it, the more than I'm just like, OK, yeah, I, I'm super on board with it.
+41:32
+Yeah, yeah.
+Like the sound design in the music and Nolan's films are like, are great.
+Probably a pretty big influence on me.
+But like, for this particular spot in the game, I kind of thought about an Interstellar where Cooper and I think it's cars.
+41:52
+They're like riding the event horizon of a black hole to collect data to help save humanity.
+And then they fall into the black hole, right.
+And during that sequence, like space-time is like sparking and arcing across the, the, the front of the spaceship.
+42:12
+And like he sees the ghost of one of those, one of his space, you know, his spaceship crew or not really a ghost, like a reflection of her, like super surreal moment.
+And like something about that sound design, like really spoke to me about like the weirdness of how something like space, nothing really sounds like anything in space because of the vacuum, but just how it's articulated in that movie was really interesting.
+42:40
+And so I incorporated some elements of that, like the kind of like the sequence leading up into a rival, the kind of knocking sound of of things sort of bouncing against the ship.
+I sort of I emulated the sound of the the quote UN quote space-time arching across the spaceship and interstellar.
+43:03
+And then the kind of like the reveal was this sort of like idea of the like what if I could do that HX deep note found but make it sound like it's like fractaling across dimensions.
+Yeah, I think I was trying to evoke this like psychedelic cosmic awe.
+43:25
+And I think I was borrowing a little bit from how I felt when I watched that sequence in Interstellar.
+And then, yeah, I just kind of like trying to invoke that feeling of like the space frontier, you know, you're going where no one has ever gone before, really, like further than most people have gone, right?
+43:47
+You're going up to the spindle, you're ascending.
+And yeah, that's that's what I was trying to invoke with that with a rival.
+Now for something that's almost, almost like thematically on the totally other end of the spectrum, you have Baylaw Heritage 2.
+44:46
+Which I think is, is a lot of people's favorite track that that, that I've heard people say.
+And that one feels to me like a lot more like Wild West, like, you know, Outback kind of like cowboy almost theme to it in a way.
+45:06
+Was was the prompt for that like anything like that?
+Or did you just try to think like, maybe we should try like a different spin for this one?
+And entirely because it seems like a lot of the stuff in in the soundtrack is is very unique.
+And there is like some things that do tie into like, you know, otherworldliness and like interdimensional wackiness and stuff like that.
+45:29
+And then you have something that feels a lot more grounded, like like Baylaw.
+Yeah, yeah.
+So for Baylaw, yeah, Kaylin.
+Kaylin, one of the other developers on the cut team, just like the way that she wrote the Hedren and how they were described to me.
+45:53
+And like the area of of Baylaw felt really, I guess beautiful, beautiful and kind of serene, but also, yeah, I guess invoked a, a feeling of, of the West to me.
+46:09
+So yeah.
+Or I guess like, like Western aesthetic.
+So I think that's kind of why I gravitated towards riding that track that way.
+And I would say also, I believe during that time we were working on the like camp update and I kind of had Western stuff on the brain.
+46:33
+I think I've been working a bit more with harmonicas.
+And yeah, I think that kind of that vibe was just in the air at the time with with some of the stuff that I was working on for CUD.
+There are two other pieces that really stand out in terms of like they're almost more like aggressive impact.
+46:56
+And I was playing this game a lot on on the Steam Deck, but I was amazed at just how how much like this the the music came through, even just like the the little bit of the Steam Deck.
+And I'm very excited to see how Switch users as Caves of Cut is getting released on Switch this year in 2026.
+47:19
+I'm very excited for them to experience this as well.
+We're like, I'm sitting on the couch.
+I'm, you know, finishing a quest.
+I'm like, oh, you know, this is great.
+And then the the Pewdest Templar arrive at Grit Gate and the the soundtrack piece for for attack on Grit Gate happens.
+47:36
+And this is something that I knew that was coming just from listening to it a whole bunch.
+And it has like this very like, you know, intense, like blown out speaker sound to it of like, whoa, like I feel like I'm like my again, I mean this in a good way.
+Like my ears are under assault.
+You know, I'm sitting there on the couch and I'm like sweating bullets just from like, you know, the music and like, oh man, this is this feels super intense.
+48:00
+What was the the kind of design process behind that?
+Because that felt like it was another sort of not out of left field, but like a a very distinct departure from like some of the other music in the game up to that point.
+Yeah, yeah.
+So with attack on Great Gate, the right, the Templar coming, right.
+48:23
+This is on the heels of the battle prep as well that happens.
+And I think during that track or during that battle prep, the track Eminent is playing, which has this like level of uneasiness and kind of urgency, right?
+48:40
+There's like an impending, an impending thing that's about to happen.
+So for me, like just because of the way the Parathyromides are, it just kind of felt like it was going to be really desperate, a desperate fight.
+48:57
+And yeah, I kind of wanted to evoke that desperation a bit.
+So yeah, I don't know.
+I I thought it would be a fight to the death in a lot of ways.
+So I think some of that blown out sound is kind of this trying to evoke this this kind of like the primal element of the Barathromites arming up against the Buddhist Templar.
+49:27
+Another kind of like Fight to the Death ultimate climactic battle sequence happens towards the end of the game with with arrival of the official party.
+And that's where you know the your your final quest of going and securing the spindle from the pewdest Templar forces happens.
+49:46
+And this this soundtrack really reminded me of some like big epic battlescape from like return of the king or something where there's just like all these bear thermites are shooting their laser pistols at the pewdest Templar.
+And then, you know, you have like this 10 story tall Kaiju Gersh Nephilim that comes out of nowhere shooting rainbow lasers and and everything.
+50:10
+And the the soundtrack for it again was just so perfect of like this enormous like final battle.
+And there's one part of it where like it, it almost Harkins back to attack on grit gay where it's like this very like big loud, like it feels very warlike of like just chaotic.
+50:33
+And then you have these almost kind of like silly trumpets that come in.
+And we were, we were speculating at the time that like, oh, the the big monumentous roaring sound from that track is the Gersh, and that the, the silly kind of trumpet sounds are almost just like the puniness of the Pewdest Templar in proportion to them.
+50:57
+Was was that the kind of thought that you had when you were designing it, or is it something totally different?
+That is.
+That's pretty interesting.
+I would say that the brass is definitely the the Buddhist Templar.
+Yeah.
+I think as I was, as I was designing it, it felt like the.
+51:19
+Yeah, that this track was more emblematic of the presence of the Buddhist Templar and the fight against them.
+So we're at like with Attack on Great Date.
+It's like a combination.
+I've designed it more as a combination of the desperation between the Barathrimites fighting off against a Buddhist Templar.
+51:42
+And I think with arrival of the official party, it was more of like a war.
+It felt the first half was more of like a war song of the Buddhist Templar.
+And so then those horns are kind of like I saw them as maybe like a call to arms or the, the first part of the of the song where it's like, you know, like that is the call to arms.
+52:11
+And then the puny, the puny horns is more like commands is how I saw it.
+And then the second-half of the song, I when I was designing it, it felt like it was around the Gersh Nephilim.
+So kind of like more of a horror based found than the part of the song that was invoking the Buddhist Templar to me.
+52:34
+Fascinating.
+Well, outside of the case of CUD world.
+Like do you know, do you have any favorite video game soundtracks in general?
+Yeah.
+So I think probably my first game soundtrack that stuck out to me was the Final Fantasy 7 track or soundtrack, which probably not that big of a surprise just because it had such an impact when it released.
+53:03
+It was one of the 1st 3D RPGs, probably one of the first times I had seen like a 3D game as well.
+I think beyond that, the Legend of Mana as I was growing up was one that I really enjoyed.
+53:21
+Probably middle of my interest in playing games.
+I'd say like Nuclear Throne.
+Really like anything that Yu Kio Kalo does is great.
+I like nuclear throne.
+Dave the diver, I played a little bit of of oh, man, What was the other game he worked on?
+53:41
+Like a, A what do you call that?
+Like one of those competition battle Royale games?
+Yeah.
+Anyway, yeah, I love all that stuff.
+Katamari Damacy, really playful, bright, lots of jazz.
+And then I'd say like as a recent Clare Obscure, really amazing soundtrack.
+54:02
+Yeah.
+What about you?
+Well, I mean, obviously the Caves of Cuts soundtrack is, is way up there.
+But but yeah, for me, like as we've been going through this podcast, I've been adding, you know, some music that that like is in the game towards like the end of the recording and, you know, compiling those in like a playlist for, for the YouTube channel.
+54:23
+And there's some of them that like that are just so weird and wild.
+Like, like the Noita soundtrack that is, is very Scandinavian.
+And they're, they have this hilarious documentary up on their YouTube page of how they were doing their music design process where it was like, it was very like improvisational, like traditional finish instruments and things.
+54:49
+And it just has like this bizarre, unique sound to it that like you've, you've never heard anywhere before.
+I'm like please give me more.
+Yeah, no, Noida soundtrack is really good for some reason.
+Yeah, you just reminded me that I really like the soundtrack to Rim World.
+55:09
+Rim World and then also the soundtrack to Factorial.
+I've played more factorial than I am, I could admit to.
+Yeah, it's like if I'm, if I'm in a rut or I need to close off from the world, then it's like 12 hours of factorial over like a three day stint.
+55:33
+Oh yeah.
+And then the the soundtrack that I was talking about, so I can remember the name of it's Fall Guys.
+Yeah, another like bright, bubbly banger kind of soundtrack.
+56:40
+Though I was curious if you had played Mordor 2.
+Mordor 2.
+The name doesn't quite ring a bell, but but yeah, what what is What is Mordor 2?
+Yeah, so Mordor 2, Mordor 2 is a game.
+56:55
+I think it's made by a group or a guy called Declan's Demise.
+And it's probably one of the first Rogue bikes that I played and I would have played it around.
+I like 2001.
+It's probably when I got introduced to it.
+57:14
+And it is a yeah, it's a, it's a roguelike.
+The graphics are pretty.
+What do they remind me of?
+They it's the type of roguelike where you are, you're moving through the maze.
+57:31
+You have like in the top right, the map of the maze and then as you're moving through it, the image is like first person perspective and you can kind of see the walls to the left and right of you and then like whatever is in front of you.
+And yeah, it's like pretty classic dungeon diving you.
+57:51
+It has like randomly generated weapons and perma death.
+It's probably the first time I ran into that concept of perma death in a video game.
+What was cool about Mordor 2 is that you could actually your body, your your deceased character stayed in the in the game.
+58:14
+So with all the all the items on on that on that character.
+So I think if there was a mechanic in the town where you could pay someone to recover the body or like resurrect for a sea, or you could potentially rediscover your character and get the items back off of the body.
+58:40
+Fascinating yeah, I know that I have some plans to unleash on my Co host them playing.
+I don't know if you've heard of Moria, one of the the classic, even older roguelike games from the early 80s that was not super far removed from the original rogue development, for better or worse.
+59:04
+And yeah, like those, those kinds of games I find are always very fascinating with their like, lack of of investment specifically into things like, you know, really intense 3D graphics allowing them to open up into more kind of bespoke and deeper gameplay systems.
+59:21
+And, you know, obviously Caves of Cut is is a good example of that.
+Yeah.
+Another sort of question on here that I have on my notes is you had mentioned things like, you know, Nuclear Throne among among others, but like do you have a favorite rogue like or or rogue light or, you know, whatever type game?
+59:41
+Yeah, yeah.
+So like definitely from my childhood, Mordor, Mordor 2 was one of them.
+I would say with like the rogue light kind of game genre that kicked off SDL was definitely one of them.
+1:00:02
+Nuclear, nuclear throne definitely.
+And then also Rogue Legacy played a ton of that.
+I did not play 2, but I still really want to and I haven't.
+I have another one that I.
+It's interesting because it's an MMO and I.
+1:00:21
+Probably wouldn't call it a rogue like necessarily but kind of evokes the the feeling of one for me.
+Did you ever play Ultima Online?
+Oh no, But I've heard a lot about it.
+But for those who haven't heard about it, what?
+What is Ultima Online?
+1:00:37
+Yeah, Ultima Online is a a game that when I was introduced to it and I believe it was fairly popular as an emo during that time.
+It was again around that 2000s time period, 2001.
+That's when I got introduced to my best friend who was into a lot of these things that I've been telling you about from that time period.
+1:00:59
+And it was a fantasy game.
+It's developed by the people who made the rest of the Ultimate series and top down isometric like 20 frames a second or something like that.
+And yeah, you could like many MMM OS choose a profession, but really the profession was a skill and one out of like when I was like 40 to 50 skills.
+1:01:29
+So like you could be a blacksmith and to be a blacksmith, you probably also wanted to be a minor because you would go out and mine me.
+Or if you wanted to be a thief or I guess in the double back on the blacksmith, you'd also want to make things.
+1:01:48
+If you're going to make something, you'd have to spec into the type of weapon.
+So I believe there was a skill for weapon Smith, skill for armorsmith, different type, different categories of equipment that you would make.
+And you had a thought cap of a certain amount of levels, so you could spec and maxed out, I want to say maybe 7-7 different skills.
+1:02:16
+So you had to really choose what you wanted to be for.
+Like the for the skills that would correspond to a thief, you could spec into hiding.
+So you could be really you could have a high success rate of hiding and stealth.
+So moving while hiding and then also pickpocketing.
+1:02:37
+So stealing was a skill.
+And with stealing you could actually, you'd have a success rate, increase your success rate of picking someone's pocket.
+And to pick someone's pocket, you could see what was in their inventory and actually take something or put something into their inventory.
+1:02:53
+So there's like a really nice, yeah, like kind of like wide range of possibilities within the system of of the game that they developed.
+So in town, if you stole from someone, it would flag a criminal action.
+1:03:12
+And so a person could kill you in the town with impunity because you're a criminal.
+But you could steal something and then throw it into a trash can and pick it up later.
+And like when you died, all the things that were on you dropped.
+And so someone could pick those things up.
+1:03:28
+So has some of the qualities of, I guess really more of what you'd say, a rogue?
+Yeah, yeah, yeah.
+And there's like a sense of permanence to your death, right?
+If you had things that you really liked on you and you died, well, if someone took them, they were no longer yours.
+1:03:48
+So definitely, I guess that was probably my first introduction to a set of of rules that I think you can kind of see a lineage into rogue light and rogue light themes.
+Fascinating.
+Yeah, there's there's some comparisons that crop up every so often from like the very early Ultima games, like Ultima one or two.
+1:04:10
+And you know, if you squint really hard, like could this be considered a rogue like?
+Maybe it's it always kind of comes down to that, like what parts of the genre definition are you willing to sacrifice in order to to make that kind of comparison?
+1:04:26
+But yeah, I think like the there's, there's another one that kind of blends more into like this traditional concept of what a rogue, you know, like a like a 1980s or early 90s rogue like system would be with that kind of MMO system called Muds or multi user dungeons, which I think have kind of fallen out of like they were sort of the progenitors to to modern Mmos.
+1:04:51
+But you know, there were things that you could kind of spin up on a home server and then have people connect to and almost sort of like, you know, roll your own DND fantasy world.
+And I I don't remember if permadeth was like a big feature in it, but it definitely has that kind of like caves of CUD style, top down tile based graphics and user input style to it.
+1:05:16
+Yeah, I had a friend that was building a like a MUD like in Discord.
+They're using Discord to make one, yeah.
+Well, that's wild.
+Yeah.
+I guess maybe one other question that I have sort of coming back to the the Caves of Cud stuff like it.
+1:05:31
+It certainly sounds like you're you're reasonably familiar with the rogue like genre.
+Like how much how much of the actual game of Capes of Cud have you played?
+Like, do you have like a favorite style of play or a favorite quest?
+Yeah, so I've probably played like about 40, I want to say like 40 hours of CUD.
+1:05:51
+A lot of it is just kind of exploring and getting into adventures.
+Like my, yeah, my typical, my typical protocol for like a new type of game is I spin it up.
+I get through archives or archives quests, I get to the 6th day stilt and then I break out.
+1:06:13
+I just kind of explore from there.
+Especially now, it's just very easy to do.
+You know, you find a place of interest, you find a artifact you or you discover the location of an artifact that sounds really interesting and then you go hunting for it and then along the way stumbling into a bunch of other scenarios.
+1:06:38
+You know, I find a legendary dragonfly that looks really cool and I recruited into my team.
+That's kind of my general way of playing now before and I would say that the way that I currently play, my survivability is fairly high now, which is nice.
+1:06:56
+Before it was I would play with a a mod that I found I think it's called like slime mod.
+And effectively every level you either get a mutation or I think you get a mutation and a chance to grow another appendage.
+1:07:17
+Yeah, it's like a good thing or a really, really good thing happens effectively.
+So you kind of end up with, you know, 9 arms or 9 appendages and just, you know, so many chances to have an overpowered build.
+And that was really compelling to me when the game was a lot more difficult to me.
+1:07:39
+Yeah, there's always something I find very funny about like Berathroom saying, oh, it's finally you, you know, the, the savior of, of cud has arrived.
+And it's, it's this horrible David Cronenberg monster with like 7 heads and like 9 arms and just like poison gas pores and everything.
+1:07:55
+You're our, you're our one hope of, of, of, of of cleansing the plagues of the land.
+Yeah, infected with three fungi.
+And yeah, that's me.
+1:08:29
+Yeah, I guess one other question I had was like the the other way that that one can play the games with like random village starts.
+And the the music that you get from a random village start is different than the one from from Jopa.
+And it has this very unique kind of discordant, almost sort of like alien feel to it, but still feels very cozy in a sense.
+1:08:56
+I'm curious what like what sort of the prompt for that was 'cause it, it's another kind of such a distinct flavor to the game that I think for the most part, I always, I always like after having beaten the game with the Jopa start, I'll always like fire up the random village start and see what kind of like, you know, oh, I've started in a village of Chrome pyramids and, and you know, turtles and whatever kind of like wacky nonsense that the game can throw at you.
+1:09:23
+It seems like such a huge space of variety that like, were you given a prompt of like, just imagine a village of just the craziest stuff that you can imagine and go to town?
+Yeah, that's so funny.
+1:09:39
+I don't really remember the prompt for, I think what we were calling like, alternate village Star Trek.
+Yeah.
+The idea was, I believe, just to invoke, you know, the starting point of a cool journey.
+1:10:00
+And that's kind of what I was going for, Something that had a good rhythm and cadence to it, you know, something you kind of keep coming back to over and over again.
+Yeah.
+And I think the, yeah, I think some of the discordant elements that you were talking about was to sort of set you up for.
+1:10:20
+Yeah.
+You know, like, buckle up, you're in for a, for an interesting ride.
+Whereas Jopa is definitely a bit more peaceful than that.
+Yeah, the, the, the, the titular caves in Caves of Cud also have a very kind of like deep, deep and mysterious feel to the soundtrack to it as well.
+1:10:47
+And I always felt like, you know, whenever I would start going cave diving in my random adventures, like, OK, The Cave cave theme is going, I can definitely feel that there's like danger around every corner.
+And then there's an interesting element that like, once you go deep enough through the caves, the soundtrack changes to something that's like, it feels more, more remote and like, like there's less, less sound in a way, but it almost kind of feels more oppressive.
+1:11:17
+Like for a while I was watching, I was going down the deep rabbit hole of like caving YouTube videos and just seeing like the people like their first person perspective of like going into these really like tight crevices and just like the, the, the solitude and like danger involved with it.
+1:11:37
+I kept coming back to like thinking of like that transition from like the, the early caves music to like the deeper caves.
+We have these flowers that absorb light and you know, around every corner is, is some sort of like decarbonizing turret or or seekers of the sightless way psychic ninjas waiting to ambush you.
+1:12:02
+Was there was there like a a thoughts process of like, oh, I want to design like The Cave music to be like this certain way at the start and then like the more that you've like ventured deeper and deeper.
+It became like this.
+1:12:18
+This like other kind of separate dimension to it.
+Yeah, yeah, I think for a lot of the facts where you were going to be exploring and definitely like The Cave portions, Yeah.
+1:12:34
+I guess like probably the more like the epic Vengeance set pieces.
+Yeah, definitely wanted to have a feeling that you were kind of on your own.
+Definitely a feeling of danger.
+1:12:50
+And also a lot of those tracks I designed and iterated on till I got to a point where I kind of felt them or, and or was in, I don't really know how to call it anything other than like a few state like I was.
+1:13:08
+Yeah, I kind of like designed them until I was in a flow, like in a state of flow as much as or I guess I use that as kind of like a a benchmark for.
+OK, this is like the right sound for this kind of like this deep, this deep feeling in the kind of like lower gut.
+1:13:32
+I know it's kind of a heart.
+That's maybe a weird way to to describe the design process, but yeah, I kind of wanted something that felt like it can just kind of keep playing and keep you keep pushing you forward and forward.
+Yeah, kind of relaxing, but also unnerving in a way.
+1:13:53
+And yeah, I don't know if that really answers your your question, but it was kind of it was central to definitely designing a lot of the dungeon pieces.
+Yeah, I'm trying to remember the delineation because a few pieces we kind of swapped around as the development went forward, like with Overworld, right.
+1:14:21
+Overworld played for a lot of the a lot of the map in CUD.
+And at some point we we decided that we should push that to like later region tracks.
+And then like the earlier regions around Jopa got a song called, I think Deeper, Deeper Dawn.
+1:14:45
+Yeah.
+So it's hard for me to pinpoint where exactly those two tracks are, like what the order is for them.
+Yeah, I mean, I think relaxing and somewhat unnerving feels, feels like it perfectly underscores like the two styles of play that I have in Caves of Cud where, you know, sometimes I'm just like, you know, I'll be a humble water vine farmer going around and doing the water ritual with people and then 5 minutes later I'm being set on fire by dawn gliders in the desert.
+1:15:14
+Yeah, I think that the art really supports that as well, right?
+Like, it just feels really cozy.
+It feels so cozy.
+And then at times you can kind of like, lull you into a false sense of security.
+It's like, yeah, I'm just kind of going through this peaceful section of the jungle or Oh yeah, I've gotten into this like really cozy, this really cozy nook.
+1:15:39
+And then all of a sudden there's there's bones everywhere.
+And then like, oh, I'm in like a feral.
+I'm like a feral hellhound pit.
+Classic.
+1:16:26
+Oh yeah, I thought it was really funny that you listened to the soundtrack the whole way through before.
+Like did you say that you listened to it before you played the game or was it that you listened to it all the way through before getting through the major beats of the game?
+1:16:43
+Yeah, definitely the latter because I was I was kind of in a little intimidated by the scope of the game.
+But having having done a little bit of, you know, light spoiler edge on my part of like, all right, if we're going to be covering for this for the podcast, I at least should probably know roughly how long it will take to beat it and then work backwards from there on how to schedule it.
+1:17:04
+And so I was listening to the soundtrack ahead time, like, wow, there's there's just there's so much like crazy stuff in this game that yeah, when I got to something like, you know, just just looking at the title for moon stare and then being like, well, I have no idea what that is.
+1:17:19
+And then looking on the the mini or the other overworld map of like, you know, scrolling over to the moon stair.
+It's like this, you know, awful, super high level hostile environment and me thinking like omit, like what on earth is over there?
+I'm almost intimidated to go over there and check it out because the the music is so impressive and overwhelming.
+1:17:40
+But yeah, I I definitely spoiled myself on the soundtrack, but hearing it in the game while I was playing, it was like you almost.
+You almost can't spoil it because of how tightly interwound it is to the game play.
+Yeah, no, that's a really good point.
+Yeah.
+1:17:56
+And definitely like not necessarily something that we need to like rehash, but I forgot as far as like experience with rogue lights and rogue lights.
+I did also play Door Fortress like early twenty 10's and it was yeah, I think it was too much for me at the time.
+1:18:20
+Like very cool, right, Just like the concept of it extremely cool.
+Again, generative, generative histories, right.
+And then events and then yeah, just like the scope of what you can get into what the dwarves.
+And then I think because that was difficult for me at the time.
+1:18:36
+When did you ever play No Moria?
+Like like gnome Moria.
+Yes, yes, Gnome Moria.
+No Moria.
+No, but but I think I have a suspicion of what it could entail.
+Yeah, yeah.
+1:18:52
+I think it was because this was before Door Fortress, you know, kind of got released with the incredible, incredible detailed art.
+So I think no, Moria to me was kind of like Door Fortress a little bit lighter and then with, you know, like a graphical overlay to it.
+1:19:16
+And then I would say also I didn't play it, but I think mid twenty 10s there was Ultima Regum ratio.
+Yeah.
+And like, seeing what they were doing with procedural generation, I was like, whoa, this is really interesting.
+1:19:34
+Like I've never seen anything that expressive at the scale of, I think at the time they were still doing ASCII.
+So yeah, like even even like procedurally generating the art that way was really interesting to me.
+1:19:52
+So those were probably like early beats with with that genre.
+Yeah, the my my first experience with Dwarf Fortress in the in the pre steam days of just being like overwhelmed by this tidal wave of ASCII stuff and like seeing how how it is.
+1:20:14
+Like the the, the favorable reaction that it's been getting with the Steam release and you know, talk about another game with like a a great soundtrack to it, Like the the new soundtrack version that they have for the steam releases is amazing.
+But even just like with the old, the old version of Dwarf Fortress where it was just like Tarn strumming on the guitar on a loop for like 10 minutes or whatever, like has such a like a, you know.
+1:20:39
+Incredible.
+Yeah, like foreboding Diablo Tristram feel to it that that I'm I'm so happy that they like have a remixed version of it for the new one that like that carries that kind of tone and theme to it.
+But but yeah, what like there is yeah, like Ultima Ratio Rigum is a is a very interesting one from a procedural general standpoint.
+1:21:05
+The there's one game called Moon Ring that we've had in our to do pile for a long time that has this.
+It's an like a very bespoke and unique like art style to it.
+That's that's very much in that kind of borderline zone between like an Ultima, like top down procedural RPG with like maybe perma death.
+1:21:28
+They they added a like a DLC100 floor dungeon into it that that I think is maybe supposed to emulate that a little more.
+But but there's also.
+I've seen this before, yeah.
+Yeah, yeah, it's, it's, it's pretty zany, I think.
+1:21:44
+I don't know if the if the developer did the music and sound effects to it himself, 'cause I think he was he was involved with and I'm going to get the name of the game wrong, so I may as well look it up to be correct here.
+1:22:02
+But I was originally developed by the yeah, the yeah, the Co creator, the Fable series.
+But yeah, that that one, that one, like artistically is super interesting from from like the sort of genre perspective.
+And I always put like caves of Cud and moon ring up at like the, the, the top spots of like, yes, this is like from, from like the, the evolution of like the traditional roguelike standpoint.
+1:22:27
+It's been very interesting to kind of do this podcast and see how it's been evolving over time.
+Where we've, we've covered some of the, the mystery dungeon games as well that are kind of like the 90s roguelikes, but for consoles.
+And one of them that we talked about was a, a, a remaster of a Super Nintendo game called Sheer and the wanderer.
+1:22:50
+And that one has music by, oh, another person whose name I should look up.
+So that way when I mispronounce it, it will it will be at least somewhat OK.
+Yeah.
+Kochi Sugiyama, that like, it's just a mate, you know, has like this amazing feudal Japan vibe to it that just like sets the tone and stage for for that game perfectly.
+1:23:17
+The Pokémon Mystery Dungeon games also have like very cute, sometimes too cute music to it, but again, very evocative if you know you're designing something that's like a kids game, so to speak.
+Yeah, I yeah, I need to play.
+I definitely want to play a mood or moon ring.
+1:23:36
+Yes, Sharon the Wanderer sounds really interesting.
+I've been wanting to play cog mine as well.
+I don't know why I haven't yet.
+It looks like it's right up my alley.
+But yeah, so like, too busy.
+Yeah, Cog Mind is great.
+It's I feel like that's the one thing that is missing from that game is a soundtrack.
+1:23:52
+Maybe if there was a someone who was really good at composing soundtracks for atmospheric traditional rogue like games was was available.
+Yeah, I think Cog Mind for the podcast, I think is still tied with Hades as my number one game of the podcast because it it just has like this amazing kind of atmosphere and freedom to it that that's just like this.
+1:24:17
+It's unparalleled.
+And I think like the fact that it doesn't have a soundtrack is interesting because it's like you're you're in this like big robot factory.
+Like what use would robots have for music or something?
+But I could almost totally see something like a Golgotha or Tomb of the Eater's vibe to it as I'm playing through it.
+1:24:36
+Yeah, every time I see it, it looks like it has.
+It would have like really tight effects though, like sound effects.
+Yeah, yeah, the sound design just in general for that game is amazing where like you, you have like some, some like really big heavy thermal beam or something.
+1:24:53
+And it'll like do like a charge up like, and then you see like the like that ASCII pallet graphics like change in relation to it.
+And then it shoots out like this cloud of like, you know, letters, letters and numbers out at, you know, whatever sort of robot you're blowing up.
+1:25:10
+It just feels so satisfying to to blow up robots in that game that way.
+Nice.
+Yeah, yeah, I'm going to kind of put this on my my shortlist.
+Sweet.
+Well, do you have anything like coming up project wise that, that you want to, to shout out or or that you want people, more people to know about or to get pumped and excited on that you're working on?
+1:25:36
+Yeah, I mean, there's, there's definitely some more cut stuff that I'm working on.
+Not really taking on a bunch more just because cut stuff keeps you pretty busy.
+Understandable.
+Yeah.
+I mean, if you're if you're spending and I think that the quality really shows that like, you know, if each one of these tracks takes, I was amazed to learn that it takes so long to put these together.
+1:26:01
+But maybe I shouldn't actually be that amazed because, you know, the the investment in time certainly showcases with the quality that comes out.
+But but yeah, I can definitely see that being being a big undertaking with the with the more planned content that's on the horizon for sure.
+1:26:19
+Well, where?
+Where can people find more about what you're what you're currently working on, or what you've done in the past?
+Yeah, I don't really.
+It's so yeah, I don't really do a lot of social media posting.
+I kind of just like I'm on Blue Sky, mostly just to see what my friends are up to and to comment on that every once in a while.
+1:26:41
+If I were going to post about something, it would probably be on my website, craigoryhamilton.com.
+That's probably where I would post general things.
+Yeah.
+So that or Blue Sky, and I think my Blue Sky handle is also Craigory hamilton.com.
+1:27:00
+Sweet.
+Well, once again, thanks for the time.
+Really great to talk with you.
+And yeah, maybe, maybe we'll we'll check back in once the the DLC stuff is out.
+Yeah, Dad, happy to come back on.
