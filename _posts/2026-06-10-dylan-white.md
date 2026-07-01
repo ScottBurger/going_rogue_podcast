@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rift Wizard 3 - Interview with Developer Dylan White"
+title: "Rift Wizard 3: Interview with Developer Dylan White"
 date: 2026-06-10
 file: https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3
 description: "
