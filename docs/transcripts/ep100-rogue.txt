@@ -1,0 +1,1601 @@
+0:14
+This is the 100th episode of the Grog Pod Roguelike Podcast.
+Its continuing mission to explore strange old classics, to seek out new games and novel gameplay mechanics.
+To boldly pod what no one has podcasted before.
+1:01
+Hello all, and welcome to a very special 100th episode of the Grogpod Rooklike podcast, where normally we look at one game every two weeks.
+Deep dive it and revisit the good ones at the end of the year in our recap tournament that we call the Omega Bowl.
+But this is a unique occasion.
+1:17
+The podcast largely covers modern rogue lights such as Hades or Spelunky and as well as more traditional ones like Cog Mind or Caves of Cud.
+But for a podcast that has the word roguelike in the title, it can mean wildly different things to wildly different people depending on what decade you started your gaming career in.
+1:36
+So in order to help bring homage to the games that laid the foundations for what we enjoyed today, I decided a brief history lesson was due.
+This will be a a three-part super episode to really kind of drive home and answer the question of of why should we care about Rogue and these older Rogue light games?
+1:58
+So this is this episode is Part 1, which will be focusing on games of the 1970s that inspired Rogue and what made it such a big deal at the time.
+Which will include 1971's Star Trek as indicated by the lovely intro that we have here.
+2:18
+Followed by 1975's Petit 5 also known as The Dungeon, then followed up by 1976's Colossal Cave Adventure, and then finally with the 1980s Rogue.
+Part 2 of this big 100th episode bonanza will focus on the first true actual organically grown grass fed roguelikes that followed in Rogue's wake.
+2:43
+Meaning 1983's Moria, 1984 is Hack, 1986 is Larne, and 1987's Omega.
+Each of those games could have its own whole deep dive episode in and of itself.
+So please, if you want us to cover any one of these games in the our standard 90 minute ish format, head on over to grogpod dot zone slash request on our website.
+3:09
+You can send us an e-mail at grogpodzone@gmail.com or just leave a comment down below on whatever platform you're you're tuning in on and we will get those requests situated.
+Finally, Part 3 will be a normal episode of ours focusing on a majorly requested game by listeners, but I think exemplifies the spirit of Rogue in a modern context, that being the 2009 release of Brogue by Brian Walker.
+3:37
+So parts 1 and 2 will be me doing a brief historical deep dive of the games, what they're all about, how you kind of play them in their main objectives, reading off some player experiences and some great community correspondence that we have for each of those games.
+And finally, after all that, a a live recording reaction of our first impressions of playing these games.
+3:58
+So I got all of my Co hosts to come in and and sit down and play these games in person here live and at Grog Pod Studios.
+And we have a very special first first ever in person live recording of our very surface level first impressions of playing all these old games here.
+4:17
+So be sure to check the episode description for timestamps for all of these different parts of this episode in case you want to jump around.
+So because I didn't want this to be a nine hour super single episode, listeners should also check out the amazing book Dungeon Hacks, How Net Hack, Aang Band, and Other Roguelikes Changed the Course of Video Games by David L Craddock.
+4:38
+That book does an incredible job of showcasing the world of computer software engineering in the late 70s, in the 80s and also 90s.
+It goes way more in depth about the history of Rogue and all of the the games that kind of helps to inspire it, some of which that we're we're talking about today.
+4:57
+But yeah, the be sure to give that a look as well.
+And yeah, if you want us to cover any more of these games at at that level of depth, write, write us a note and we'll drop it in.
+We'll see how we can get it situated into the schedule, but but with any further ado, let's dial up our warp engines and head back to 1971 and set the stage for procedurally generated permadeth gaming consequences.
+5:28
+Let's start with 1971's Star Trek.
+This is one of the not even just one of the first games on our list here, but is maybe one of like the first computer games or games question mark period like digital digital type games.
+5:48
+This was game developed by Mike Mayfield, a senior in high school in 1971.
+And for context, this was about 400 days after the Apollo 11 moon landing and people would still be NASA was still landing men on the moon a full year after this game came out.
+6:08
+If you can put came out in air quotes here, sort of, we'll get to it.
+Your goal in 1971's Star Trek is to defeat some predetermined number of Klingon warships throughout the Galaxy before time runs out.
+Both the number of Klingon warships and your amount of warp fuel that you have are are kind of randomly set at the beginning of each run.
+6:31
+This game takes about, I would say based on people's play times that are still uploading to YouTube, probably about 90 minutes.
+This is something you could probably sit down and beat in, you know, an hour or two if you're, you know what you're doing.
+And this is a game that really kind of sets the stage for how gaming in the 1970s really worked.
+6:55
+This, it's feels so alien and so foreign of a concept to us now that if you were to say, hey, I would love to go down the street and play a game of Star Trek in 1971, what would that look like?
+Well, you'd have to go to some sort of university computer lab, emphasis on the lab part, and find something like an HP2000C mini computer.
+7:16
+Mini.
+Doing quite the legwork here in that description.
+Some sort of 6 foot tall monstrosity super beast like 2000 LB mainframe computer that was played via like text print out onto something like a teletype.
+7:32
+So you would be typing in all the commands for this stuff and instead of it dumping out to a computer monitor, it would be literally printing onto reams and reams of computer paper.
+So you'd be saying, oh, go fire at the Klingon and then it would make this a horrible printing sound as you see in really like old movies from like the 60s and 70s.
+7:55
+And that's that's your read out.
+That's how you saw the game being played out at the time.
+And I can only imagine how many thousands of forests were cut down just specifically for this game to be printed out.
+Notable features for 1971 this game it features turn based and grid based gameplay, features random level generation enemies that are kind of similar to the player character and something like a food slash fuel clock.
+8:26
+So already kind of setting the stage for rogue type games to come.
+And so why is this one really kind of significant?
+Well, you know, kind of set up top.
+This is one of the first ever video games that it's even remotely similar to what we play today.
+8:41
+There was one that kind of came out in the 60s called Space War exclamation mark.
+But it's almost kind of like like you're playing with an oscilloscope or something like that.
+But I think the legacy for this game really kind of also sets the tone for how roguelike games in the 80s would sort of follow in in its footsteps.
+9:01
+Because in 1972, Mike Mayfield made a version of the Star Trek game programmed in the BASIC programming language.
+And then there was a 1978 version of that that was published in the book Basic Computer Games, which was edited by David All AHL, which then begat zillions of of forks and shareware versions of this game that just kind of exploded all over the place.
+9:28
+There was a 1996 port in the program Language C by Chris Nystrom.
+And even up until 2008, there is a Game Boy Advance port of Superstar Trek by Donnie Russell, who has on his website a whole bunch of of a lot of games that we'll be talking about that have been kind of poured it into more modern programming languages that you can play online.
+9:53
+So you can you can I, I played this game on my Steam Deck on AGBA emulator through retro arch of this 1971 version of gameplay.
+So there it's it has quite a long legacy.
+But anyway, So what does one do in Star Trek 1971?
+10:08
+Well, you have a an 8 by 8 Galaxy of quadrant grids, and each one of those quadrants is broken up into another 8 by 8 sector grid, which is kind of like your individual sort of play space, as it were.
+You have a bunch of different commands like like warp engine control where it has this kind of baffling system where you set your course, but instead of, well, you start like at east and then you go counterclockwise for some weird reason.
+10:38
+Anyway, it's yeah, just heading, heading in direction.
+You have a short range sector scan, which just kind of scans the current quadrant that you're in.
+You have a long range one that will tell you for adjacent quadrants, 3 numbers.
+10:55
+And it could be something like 2:07 where it'd be like, oh, there's two Klingons, there's zero star bases and there's seven stars.
+So if you were to warp to there to fight some Klingons, you would, you would have to be cognizant of that kind of layout of that, of that dungeon quote room, as it were.
+11:15
+You have phasers that you can shoot the the Klingons with.
+You have photon torpedoes, which you have to set a course kind of in the same way that you do with engines.
+And that that one's more of a high risk, high reward sort of deal.
+You have to manage Shields.
+You have damage report assessments, you have your your onboard computer that tells you like all of your previous scans, kind of like your game log as it were, status report of what you need to do next damage, all that kind of stuff like the galactic map and all that.
+11:48
+And so if you have like a goal of say kill 15 Klingon ships before start date 4033, that would give you like 33 days worth of in game time to to navigate from sector to sector, do some scans, find out where the Klingons are, go in there, ZAP them, make sure your Shields are up to defend and all that good stuff.
+12:11
+It does feel very almost kind of like see our our previous episode war SIM meets something kind of like see our previous episode 868 hack or FTL for that matter.
+This game really kind of feels way ahead of its time, even if you're playing a port of of the 1971 version that all these kind of concepts were already there and established so early.
+12:38
+So it's definitely something that like this game feels like a lot of the core concepts through their boom right out of the gate.
+It's worth noting that in this period of time in 1971, like games didn't really exist back then.
+Like if you try to think back to like what was the first video game and maybe thinking of like Pong, that was 1972.
+12:59
+So like a lot of these game concepts I feel like are very advanced for this time for not only, you know, someone who would be in game dev, but like someone who's a senior in high school at the time.
+So I mean, we're a couple years out from the end of the original series of Star Trek.
+13:16
+So I can imagine that there was some sort of, oh man, I really want to to play some or have some more Star Trek in my life and going through the rigmarole of actually programming this thing to into a giant mainframe computer.
+But let's turn to some community correspondence.
+13:33
+I've reached out to the the broader world of people who've played a lot of these older roguelike games, and I wanted to wanting to give more of a of a platform for people's experiences here.
+So with our first letter here, I'll kick us off with messes that we got from one of the Co creators of Angband.
+13:55
+Stay tuned and a half.
+Andy Astrand who writes in to say I played a version of Star Trek on the Tandy TRS80 probably back in 1981.
+This one from Turbo Mat TK says I'm old and I've never heard of this game, which I can definitely sympathize with of that sentiment there.
+14:20
+But we have one from D Sartori who says Star Trek is mini computer era stuff.
+I played it at a computer camp when I was 11.
+In the early 80's the college put on a camp and had not yet switched to micro computers.
+14:35
+So for one year we got to use their PDP 11 timeshare terminals.
+Then I encountered in the Dave All 101 Computer Games book a few years later.
+This one from Dregor says I came across Star Trek 1971 while reading stuff about the early history of video games three years ago.
+14:58
+More specifically, the previous iteration of Superstar Trek that was simply called Star Trek.
+Initially made by Mike Mayfield on his SDS Sigma 7 mainframe in 1971 and ported by himself to an HB2000C mini computer in 1972, that game was the basis for Bob Ledum to make Superstar Trek.
+15:17
+I made my own port of Superstar Trek for Vintage Basic directly from Mike Mayfield's original HP timeshare BASIC code.
+I also made a video on a friend's YouTube channel about Superstar Trek, but it's in French.
+We had fun.
+I made him play through me, he gave me orders and I translated them to Superstar Trek commands.
+15:35
+It was cool to do.
+I deeply love both games as a retro gamer and a Trekkie.
+The longevity of those games are crazy as there were ports of Superstar Trek up to the 80s.
+There has been so much with so many different names like Stellar Track on the Atari 2600 or Starfleet 1 colon The War Begins that came out on Mac and Amiga as late as 1987.
+15:58
+Also there are games mechanics that are still used in current games.
+Definitely an incredible piece of gaming history.
+Cornelius Q says I remember it well.
+Early 1980s it was pretty ubiquitous for micro computers that had the memory to run it.
+DOS, Commodore 64, Apple two, Atari XL.
+16:17
+I'm not sure where I first encountered it, but I did type it into my Commodore 64 from Dave All's Basic Computer Games book back in the 1980s.
+Also making some modifications to make a smoother game play experience on my system.
+As for the game play, it was quite sophisticated for a basic game written in 1970, but by the 1980s it was a bit tedious for gamers who'd become accustomed to arcades style action games like Space Invaders, Pac-Man and Asteroids Slammy, one says.
+16:45
+I remember that they had it on APC at RadioShack.
+Ask your grandparents.
+I'd never used a computer before and it was clueless about what to do.
+Technically my first computer experience, which is why I remembered that game, Hearn Burford says.
+17:02
+As others have said, Star Trek was everywhere by the 1980s.
+Most micro computers had it.
+I had a book of basic programs to type in and Star Trek was one of them.
+My 286 PC came with a floppy disk of games andstartrek.exe was on it.
+The best version I recall was EGA Trek by Niels Anderson if I recall right.
+17:22
+Full graphic snipes, warp engine animations, and lots of additions to gameplay like orbiting and landing on planets to get more dilithium.
+Division class dev says it has the three most important parts of Star Trek, bases, Klingons and stars.
+17:40
+Jorfo says there's a heap of different versions of this.
+My favorite was EGA Trek.
+The interface is daunting at first, but it's addictive once you get the hang of it.
+Unfortunately, the developer had to remove all the trademark infringing terms in later versions.
+17:56
+Visual Star Trek is in some ways an improvement, but it's so mysterious there's no clue who made it and there's no documentation included.
+I also really like Tom Spring's Quote Rescue, which is a lot more action oriented.
+Insanely a Macintosh exclusive.
+18:12
+I'm thinking the best alternative these days is FTL, though I've yet to try it myself.
+Previous episode on the podcast.
+You should check it out.
+Scientist TZ says I had this game for the Commodore 64.
+I would have maybe been nine years old 1987 ish.
+18:29
+It was part of a stack of games that my babysitter's brother gave me.
+I was like sweet Star Trek and then it loaded up and I was like WTF is this?
+I had no idea the game was that old.
+Traditional class 363 says I played A Star Trek clone called Star Command.
+18:46
+Pretty sure it was the first computer game I ever played.
+Enemies weren't Klingons, they were Crimson aliens.
+I was too young to really get what was going on, but just playing a game on a computer was honestly pretty exciting.
+And finally, Emerald Hawk says My dad played this while I watched in the 1980s, probably on the Commodore 64.
+19:03
+I found it very tense and I was always worried about making it to a star base to rearm and refuel.
+Didn't know if there was a goal other than fighting Klingons.
+I think my dad maybe have gotten it trading discs with Co workers, but it's also very possible he bought it somehow.
+19:21
+He was a fan of the original series so obviously he would have been interested in it was we powered down the warp core for our first game.
+I'll leave some extra links for folks to follow to learn more about the history of the 1971 version of Star Trek.
+It's lineage.
+It's, you know, it's impact on gaming as a whole, all that good stuff.
+19:40
+Lots of good links I've been acquiring through my research here.
+I'll dump them all in the episode description if you want to to learn more.
+And I'll do those kind of for all the rest of these games as well so folks can follow up.
+But that way we also don't make each one of these episodes 10 hours long.
+19:55
+But for now, we'll beam down to our next game, the 1975 game Petit 5, also known as the Dungeon.
+20:21
+Our next game on the list is the 1974 release of Petit 5, also known as The Dungeon, developed by Reginald Rusty Rutherford, a grad student and Plato programmer at the University of Illinois at Urbana Champaign.
+20:39
+Your goal in Petit 5 or The Dungeon is to get 20,000 experience points and escape Alive is probably takes about a little less than an hour to beat or so.
+If you're better than the game, and I am, it was.
+20:55
+This was another kind of university grade mainframe game at the time you needed terminal access to the UIUC Plato mainframe system.
+These days you can actually download a Play DoH terminal emulator that you can run locally on your computer.
+21:17
+And if I can understand it right, I think it's still connects to some sort of system that has like shared leaderboards and things.
+Again, I'm not good enough to actually post a leaderboard score yet, but this game is notable for being not only the first ever role-playing game, or computer role-playing game I should say, but the first fantasy themed computer game of any kind and has random enemy encounters.
+21:46
+It does have a static dungeon layout, so the map is for the most part the same every time, and it features XP and levelling up systems for a computer game.
+You can also save your character and come back later, but there is perma death present.
+22:03
+Maybe not necessarily as an intended design feature, more made more of as a limitation if I was programmed at the time, But if your character is is annihilated, then it is it is gone forever.
+You can't reload that character.
+And so the reason why this was kind of a big deal all the time.
+22:22
+This was sort of like the first computer fantasy role-playing game.
+I mean, Dungeons and Dragons that only come out I think like a year or two before this and boom, it's already been instantiated as as a computer game.
+Again, unlike these comically huge computer systems that you had to interact with on this very warm, comforting glow of this, of this terminal that you'd interacted with.
+22:51
+But the just downloading and playing around with this Play DoH terminal emulator is kind of fascinating to see as as a snapshot in time of what it looked like to to work with some of these mainframe systems because you have all sorts of other different file systems on there.
+23:08
+The the like actual keyboard input is way different than your standard QWERTY keyboard as well, which is interesting.
+Like instead of enter, you have next or other other kind of things like that.
+But if you if you navigate through the systems to find Petit 5 inside the Plato terminal, you would be greeted with some lots of lots of texts and explanations as to like how to play the game, which is very nice.
+23:38
+You have this kind of preamble to it, which is, which is kind of fun too.
+It says it is the year 666, the Year of the Beast.
+In the county of Ker Umm, near the town of Mersad, stands the ruined Castle of Rain Thing.
+23:56
+Beneath the castle lie the terrible dungeons of Rain Thing, an incredible maze of rooms and corridors occupied by horrid monsters and piles of ancient treasure.
+You are a brave young fighter preparing to enter this dungeon to kill monsters and amass treasure for every monster you kill and every bit of gold etcetera that you bring out of the dungeon to earn experience.
+24:19
+The greater your experience, the better fighter you are and the harder you are to kill.
+Your object is to reach 20,000 experience points and then retire from dungeonry.
+With an established reputation as well educated young person, you know how to use a sword and have a certain acquaintance with magical and clerical spells.
+24:36
+Of course, these capabilities will improve with your experience level and so you can deep dive a lot of the other kind of stuff in there of like your personal characteristics, your movement and operations, monsters, treasures and so forth.
+24:53
+And yeah, this is this is kind of setting the stage for the the rogue player character for navigating around the dungeon space.
+You know, you are a a little graphical knight that that walks around and you have these walls that are very clearly just like walls of a dungeon and things that look like doors.
+25:15
+But instead of opening and closing doors, this is very Dark Souls that you breakthrough them.
+So instead of you walk up to a door, you press B to breakthrough a door and then you press the direction to indicate what door, and then you breakthrough that door to go into the other side.
+25:32
+And sometimes there might be a monster on the other side of that room and then you you might have to do a kind of like a combat sequence with them, which we'll get to in a second.
+But the different monsters that you can encounter here are evil men levels one to six.
+25:48
+You have goblin types, which are cobalts, goblins, orcs, hobgoblins, knolls and ochres.
+You got giant rats, lizard ants, weasel, scorpions and hogs, zombies, ghouls, whites, wraiths, vampires, sturges, harpies, gargoyles, medusa's wyverns, and of course wouldn't be a fantasy game without him.
+26:08
+The dragon and it says in each sequence of the monsters are listed in order of increasing difficulty of killing and increasing likelihood of hitting you.
+You have two different spell types as well.
+In this game you have magic and clerical spells.
+26:24
+Your magic spells are things like sleep, charm, light, magic missile.
+Your clerical spells are things like cure wounds, prey, hold person, dispel myth, presumably more as well.
+But yeah, when you are running around through this dungeon hunting for, for treasures and, and loot and upgrades and stuff, sometimes you might encounter an enemy in a room where you're given the options of fight run or you throw a spell.
+26:57
+And you can select either your magical spells like, you know, magic missile or blastable invisibility or your clerical ones like Serious Cure or Detect Evil.
+And you just kind of run around in this dungeon, this black and orange dungeon, fighting these these creatures and gaining experience that way.
+27:18
+And that's, that's kind of it.
+Let's I mean, it's, it's, there's a lot going on just with the, the spells and monster types for a game for from 1974.
+But yeah, I think the, the idea here was that, you know, another classic game of being installed on a university mainframe and trying to hide under the radar with being called Pedit 5, which I think was to to avoid being uninstalled from the mainframe by the by the system admins.
+27:50
+So you just give it like a boring name of, of boring file dot TXT or something.
+And then people will be like, that's clearly not a game.
+I shouldn't delete this just yet.
+But this was the first game that kind of translated those DND mechanics into a computer game.
+28:05
+Like, you know, you have HP, you have XP, there are different classes, dungeons, monster, Swiss stats, all the kind of stuff that's just sort of taken right out of the D&D nomenclature there.
+The random encounters, you know, the, the rooms in the actual dungeon were fixed, but the monsters that you encountered in any of the rooms were kind of randomized or procedural.
+28:27
+So you didn't actually know if, oh, in this room that I've gone into before, maybe there might not be a monster this time.
+And yeah, I think this game has kind of been referenced numerous time by the Rogue developers as something of like, man, this game would be great to play if it was just tweaked a little bit here and there.
+28:45
+And I think that's what we'll we'll see in our our upcoming coverage of of Rogue itself.
+But that's just a brief overview of one of these really old pioneering games of this time.
+29:02
+The next one that we'll talk about is really a, a, a, a colossus, as it were, of of the time and another kind of direct inspiration for the OG rogue.
+Let's talk about colossal cave adventure.
+29:22
+You are standing at the end of a road before a small brick building.
+Around you is a forest.
+A small stream flows out of the building and Dana Gully.
+The door is closed.
+29:45
+The door is closed.
+You're inside a building, a wheelhouse for a large spring.
+You see rushing water.
+30:02
+There is a shiny brass lamp nearby.
+Now, before we delve into the deep, dank, mysterious, huge labyrinthine caves of Colossal Cave Adventure from 1976, I want to read off a few quotes from a little bit in the early computing history era that kind of under score the the concept of what computers were roughly at this time.
+30:31
+So let's start with one from the chairman of IBM in 1943 saying quote, I think that there is a world for maybe 5 computers.
+We have a quote out of Popular Mechanics in 1949 says computers in the future may weigh no more than 1 1/2 tons.
+30:49
+And we have our last quote here from the president of Dec Computer Company in 1977 saying there is no reason anyone would want a computer in their home.
+The reason why I lead off with those quotes is that it kind of sets the stage for what computer gaming was really like at this point in sort of the late 70s era.
+31:09
+I mean, people were still connecting to these huge towering mainframe computers.
+And the reason why we call them desktop now computers is maybe a little self relevant, but self-evident.
+But let's jump in.
+Let's spelunk down into 1976.
+31:27
+Colossal Cave Adventure, one of the most classic games of this era, developed in 1976 by Will Crother, a an experienced programmer at Bolt, Baroneck and Newman, which I believe is the company that built the original Arpanet.
+31:46
+The I mean, that's what we're talking about here these days is in this era is the the precursor to the Internet.
+Will Crother was also an experienced caver, and at the time he had written this this original program in Fortran for the PDP10 mainframe system.
+32:02
+A little bit after 1977, Stanford grad student Don Woods found Crothers Code on the network, got his permission, and expanded it to add more puzzles, more treasures, more rooms, and as we'll find out, the goal for this game, the 350 point scoring system that is your goal in Colossal Cave Adventure get 350 points without running out of time and having to disconnect and go do other stuff, or dying to axe wielding dwarves or falling into a pit or other kinds of hazards to to be encountered.
+32:39
+The website How Long to Beat has this pegged at maybe about 5:00-ish hours.
+It says 2 on the load side, 10 on the high side for Colossal Cave.
+And this was at the time, you know, a game that you would connect to via a, a terminal that would be connected to APDP 10 that was spread through the Arpanet.
+33:01
+You'd connect to this thing and you would type Advent, ADVENT and all caps.
+The game would arrive on site by either magnetic tape or something like that and get installed.
+And then basically just all productivity that at that whole place would just go flying out the window.
+33:18
+It was it was really that popular.
+There's been documented cases where productivity just collapses when Adventure showed up at like a research lab.
+Nothing gets done for two weeks.
+And honestly, I can kind of see why even just with my my little dabblings of this game, I can understand why this would be kind of a big deal at the time.
+33:39
+So you type advent it your your terminal screen, just it just shows text.
+You're only looking at text.
+But this is the first interactive fiction game.
+Like this is the first time of you typing something and the computer typing something back at you.
+And so you type in and it says with the text that shoots out at you saying.
+33:57
+Somewhere nearby is colossal cave where others have found fortunes in treasure and gold, though it is rumored that some who enter are never seen again.
+Magic is said to work in The Cave.
+I will be your eyes and hands.
+Direct me with commands of one or two words should you get stuck.
+34:15
+Type help and then more information.
+You type info and then it just says.
+You are standing at the end of a road before a small brick building.
+Around you is a forest.
+A small stream flows out of the building and down the gully.
+And so this really kind of sets the stage for like, wow, OK, let's go and explore.
+34:34
+Let's go on an Ed adventure.
+The game kind of leads you with, with some help, commands about how the the context verb system here works by saying I know of places, actions and things.
+Most of my vocabulary describes places as used to move you there to move.
+34:51
+Try words like forest building downstream, enter east, West, north-south, up or down, those kinds of things.
+I think there's over like 500 context dependent actions that you can take in Colossal Cave Adventure ranging from let's scroll through the list here keys, shell oyster.
+35:15
+We we can't forget the XXYZ Zizzwiz command that I think is a a magic phrase that you learn early on in the game.
+But generally the the first kind of bit of this text based adventure game is you typing verb noun kind of actions to say enter building, get lamp, go out of building, go down to the the slit in the rock, go South of the gate, those kinds of things.
+35:47
+And eventually you are LED from this, this small brick building with with some keys and lamp.
+And then you go down into this cave and you are exploring, you're running into snakes and diamonds and halls of myths and giant pits and things like that.
+36:06
+Really there was kind of almost no parallel to this for 1976 or 1977.
+Even just looking at some crudely hand drawn Ms. Paint maps for for parts of this game is all stuff that you would have to come up with by your own memory.
+36:24
+You'd get out a sheet of presumably graph paper existed at this time, but some sort of line to paper to build out your own map of man, what?
+What even is this game?
+It feels so much bigger than than what it feels like because your imagination is filling in so many of the gaps.
+36:40
+But yes, Colossal Cave Adventure sets sets the tone with being the first adventure game period, the first text based interactive fiction period.
+This LED directly to the building of or the founding, I guess, of the, the PC game company Infocom in 1979, which led to the development of a game called Zork, which I'm sure many people have heard of.
+37:03
+That I think was maybe a more, more more popular commercialized version of like adventure at home, but in a good way, sort of as a way to put it.
+But it's it's also notable that the memory footprint for Colossal Cave adventure on the PDP10 system was pretty big.
+37:21
+Like this was it required a lot of space to reserve for something that was just a game.
+And so this would this would be something that would, you know, obviously, if it was anything else, sys admins would be like, I'm not sure really sure if we really need this on our system here and delete it.
+37:37
+But it was just such a Tour de force of the time, so many complex interactions, so many places to explore that that it really wound up being the thing that kind of sat on the system.
+So yeah, it's it's kind of understandable that that it wouldn't get deleted immediately.
+37:57
+There's there's a really excellent documentary about colossal cave adventure called get lamp that you can find on YouTube.
+I'll link in the show notes that kind of goes goes over colossal cave goes over the how caving impacted development of adventure games and eventually rogue, as we'll find out, and how that kind of led to text.
+38:22
+It's it's really like a great documentary on like the early realm of text based adventure games.
+And I've watched the whole thing.
+I think it's great.
+I think you should watch the whole thing as well.
+It's really a great documentary on that kind of era of of gaming in general.
+38:38
+It's worth noting that also there's a 2023, I guess remaster or remake of Colossal Cave Adventure called Colossal Cave 3D by Roberta Williams, who's the Co founder of Sierra Online and the creator of the King's Quest series.
+And this is kind of turned this text based adventure game on its head a little bit to make it more of a of a modern 3D graphics point and click adventure game.
+39:03
+But it it has all the same kind of trappings of, you know, you're going into this mysterious space.
+There's different kind of actions that you can do because colossal Cave adventure is really a static game.
+All of the encounters are sort of pre baked into it.
+39:19
+There's no real surprises or emerging gameplay here.
+It's, it's a basically just a, a puzzle game that you know, once you've figured out the puzzle that that's how it is and that's how you progress through the game.
+It's very well linear in the sense of, you know, you, you figure out the solution to the puzzle and that's what it is.
+39:36
+But the developers for Rogue were like, this is such a great system.
+We, we wish we could play it more than once and have some sort of fresh experience really reliving that first sense of exploration every time that you boot it up.
+And so like that ethos combined with our previous game of Petit Five with the procedural combat, those are kind of like the two strands of DNA that start us on this rogue journey properly.
+40:07
+It's also worth noting that this colossal cave adventure was inducted into the World Video Game Hall of Fame in 2019, the only game on our entire list that we're talking about for our big Episode 100 bonanza.
+To do so, and as far as far as I know, I think maybe the only Rd. like game on there as I quickly scroll through the Wikipedia list because everyone loves when people do that in real time.
+40:35
+Seeing Mortal Kombat on there, obviously very well deserved.
+Hey, King's Quest, look at that StarCraft, of course.
+But yeah, I I don't think that there's really any, any roguelike games in that list that I remember or if I just didn't write it down.
+But anyway, so colossal Cave adventure, first text based adventure game.
+40:54
+And a lot of the shortcuts for some of those commands are things that we'll see as the the I guess shortcuts are the key bindings that you use for interacting things with rogue.
+So like I for inventory or G, forget those kinds of things.
+41:12
+But enough about me rambling on about the game.
+Let's hear for some some player experiences, starting with Philip C Kavanaugh, who wrote us on our Mastodon Grogpada.
+Came to have place to say, man, growing up during the time you could get software on cassette in a zip lock bag will never be experienced these days.
+41:31
+There was something magical then, Furry Keff writes in to us to say.
+I first played Colossal Cave circa 2000.
+I'm not sure which of the following major influences on me in that period got me to try it, but it may well have been all of them #1 The Jargon File, A glossary of old school hacker jargon. 2.
+41:50
+Inform, an interactive fiction development system 3.
+Steve Maretsky, who was interviewed in the game design book I had and who developed A Mind Forever Voyaging.
+That said, while I definitely appreciate the impact it had, I don't like the game itself very much and haven't played very far into it.
+42:09
+It's kind of the Great Train Robbery of interactive fiction.
+Great in it's time, only of historical interest today.
+Karma 1969 says I played this back in the day and had a love for text adventures in general.
+This was one.
+42:25
+This was the first one that I played.
+Best way I can describe it is that it was magical.
+The idea that you could type text into a computer and it would actually understand.
+Hopefully vocabulary was very limited back then and execute your commands was mind boggling to this 10 year old kid.
+42:41
+Text adventures seem very quaint today, but back then they felt like one of the most sophisticated games you could possibly have played.
+Polyzeno says Colossal Cave Adventure was on the UFWI think University of Washington, although that I guess maybe could be University of Wisconsin, A computer science mainframe, which is where I played it.
+43:02
+I quite enjoyed it and someone had a map showing how large the included area was.
+Having limited time to play it and being a very early game added to the magical effect.
+Years later I got Zork and learned that the series is based on it, Neil Moore writes.
+43:18
+I played Colossal Cave as my first or second text adventure in the early to mid 90s, either right before or right after Zork won.
+I grew up in Kentucky, so the most interesting thing to me is that it is based on a real cave system.
+Will Crother's ex-wife Patricia was part of the caving team that discovered the connection between the Flint Ridge and Mammoth Caves system.
+43:40
+And if you take the wild cave tour at Mammoth Caves National Park, as I've done a couple of times, you can even see some of the rooms of from the game in person, including a brass Lantern hung by a 19th century explorer.
+Maybe even just Stephen Bishop himself.
+43:56
+Also, anyone who's a fan of the genre and particularly early works like this should check out the documentary Get Lamp.
+Yes 100% agreed.
+Finally a comment here from Bub Rascal that says I didn't quote grow up with Colossal Cave but I learned about it and around 2003 or 2004 I was probably in the 6th grade and the Return of the King Lord of the Rings movie was still the popular movie.
+44:22
+Surfing the net, Google or Yahoo directed me towards a new website called Soft Tonic.
+It's basically an aggregator of external download links, similar to download.com or Two Cows downloads, but from Spain.
+Since I was a kid without a video card, money, nor PlayStation 2.
+44:39
+Of course, I visited exclusively for the games and one game caught my attention.
+Sombros de Moria, Shadows of Moria, a free adventure fan game based on The Lord of the Rings.
+Downloaded it and right away it was a terminal console.
+That's how I learned that quote.
+44:55
+Conventional adventures, text adventures, existed and how in the early 2000s, Old Continent, a rabid base of hobbyists, developed their own free text and competed against each other.
+Titles like Sombros de Moria, El Anillo Ricente, The Ruling Ring, Estacion The Station, or La Casa de del Olvido, The House of Oblivion stuck with me to this day.
+45:19
+Eventually this rabbit hole led me to the MS-DOS version of La Aventura Olriquinal, the original adventure, the title for Colossal Cave Adventure that was received in Spain in 1989.
+Mind you, the DOS version I played is probably the least attractive 1A low res CGA mess, but I guess that's not that relevant in a text adventure.
+45:40
+Word of mouth says the Spanish localization is based on the 1982's version, but it's not a direct port.
+My verdict?
+It was fun, but I never beat it.
+This was the 2000s after all, and despite my retro gaming tendencies, for me it was way easier to play text adventures using interpreters designed for Windows 9X and XP than MS-DOS.
+46:00
+One where things like mouse selecting, copy pasting and scrolling wasn't a basic feature.
+Cut me some slack, I was a preteen.
+I must say it was way more beginner friendly than other text adventures I played.
+Ultimately I had a good time the weeks I dedicated to the game despite not having anyone to share this new hobby.
+46:18
+My older brother.
+My older brother by 6 years thought I was an ultra nerd for playing text based games, let alone Lord of the rings text based games.
+Same went for my schoolmates.
+46:56
+This study unit provides A brief overview of the PDP11 computer system.
+Consequently, it deals with some very basic concepts and features that are common to all PDP11 systems.
+All right, well that means it is finally time for us to head into our our final game for Episode 100 Part 1, Rogue from 1980.
+47:24
+Now to do a little bit more context setting here, The most popular games period out of the 1970s up to this point were basically just all arcade games. 1973 saw the release of Pong, maybe like the game that people's I guess at this point grandparents grew up playing. 1976 saw the release of Breakout, which I was shocked to learn was developed in part by Apple Co founder Steve Wozniak. 1978 saw the release of Space Invaders which over the course of the next four years would gross $3.8 billion. 1979 was Lunar Lander, Asteroids and Galaxian.
+48:07
+And finally in 1980, the year of the Rogue was the release of little game that a few people may have heard called Pac-Man that as of 2016 numbers has pulled in $14 billion in revenue.
+So Needless to say, this decade was more or less dominated by arcade games, which have a fundamentally way different architecture and design principle behind them than what we've been talking about so far, which have been mostly like mainframe computer games that have been hacked together by college students.
+48:42
+Arcade games were more or less built by these big mega corpse with specifically designed motherboards to run the game.
+So like fundamentally from an architectural perspective, completely different.
+And so of the games that we've talked about so far, Star Trek, Petit 5, Colossal Cave Adventure, these games, we're all really aimed at the audience, or not even really aimed at the audience for them just was very specifically programmers and computer science students 'cause that was really the only place that you could find those games.
+49:14
+Like you couldn't walk, you couldn't skateboard down to your local arcade and find a a machine for Colossal Cave Adventure with just text being outputted on the screen and have that go up against Space Invaders.
+Really.
+But as we'll we'll see, these games here have a very kind of specific legacy that has LED us to the road down to which our glorious podcast is is finally treading waters for.
+49:43
+So let's talk about Rogue 1980, released developed at UC University of California, Santa Cruz in a collaborative, we'll call it a collaborative effort between Ken Arnold, who's 22 at the time, Glenn Wickman, also in the 20s, and Michael Toy, also in his 20s.
+50:03
+So very young computer programming students at UC Santa Cruz.
+Your goal in the classic 1980 Rogue is to send is to descend to level 25, retrieve the Amulet of Yendor, and then ascend back to level 1 and escape to victory. howlongtobeat.com has this peg somewhere around 10:00-ish hours of gameplay.
+50:27
+I suppose if you were playing on a modern system and this was another game that was played via connecting from a a terminal to APDP 11 mainframe.
+As we've seen with kind of the other other games with Star Trek and Colossal Cave and Petit Five.
+50:42
+I guess to also a similar extent with the Play DoH system, but the notable features here this this really kind of showcases how far ahead of the time this game really was even just being developed by by college kids.
+So we have ASCII symbols as the graphics engine.
+51:01
+A major driver for this was the the thing called the curses library that Ken Arnold had had developed, which is short for cursor optimization sort of pun with curses.
+For a while I thought it had something to do with the the actual fantasy element of rogue, but not so much.
+51:20
+You can kind of think of it as a fork of the system by which you can go through and edit text files in Linux using the the system or the program called VI.
+Let's talk some of the most notable features of of 1980s Rogue and sort of how it compares to the previous games that we've been talking about.
+51:42
+First and foremost is ASCII.
+This game uses ASCII symbols, letters and text, and not just text that you would find from Colossal Cave Adventure, like text being just straight up outputted to the screen.
+This is text as in like little letters running around the screen.
+51:58
+So the ASCII symbols are the graphics engine, and this is powered by the curses library that developer Ken Arnold had created, which was a way to kind of render text on the screen without having to over or to to write over what you had previously wrote.
+52:15
+So like with Colossal Cave Adventure, it would barf out a bunch of text onto the screen.
+You would say get lamp, and then it would like overwrite that text with more text and you could scroll back up to see what it had said.
+But it's just kind of like printed out in this big long scroll of text as opposed to this thing that was just constantly evolving on the screen like you would expect with something like Space Invaders.
+52:37
+Curses stands for cursor optimization, which is sort of a fork of the system for text editing that you would find in the VI editor found in the original Unix.
+And you can think of it as something like an old school open geographics library in a way.
+52:55
+But that that was kind of the major foundational form of how Rogue sort of came together.
+It sets sort of the play space for how it looks, how it how you interact with stuff on it and kind of sets the the stage for all of our rogue like games to come.
+53:13
+Another notable feature, maybe one of the most notable here is procedural level generation.
+So Rogue has kind of a a three by three grid of rooms that have varying shapes and sizes to them, but we have also sort of a random maze of hallways that connect in between them, some not even connecting at all.
+53:33
+And within this three by three grid of dungeons per.
+So each floor is a three by three potential grid with little single tile hallways going between them.
+We also have random items and effects.
+53:50
+So for example, if you pick up a pine staff in one run of this game, oh, this thing might cast a poison on on things and then you end that run and start a new one.
+You pick up another pine staff.
+Oh, this one might actually cast lightning bolts now, and you'll never know unless you actually pick it up and use it.
+54:10
+So we have procedural level generation with how the actual play space is created.
+We also have these different items and randomized effects as well.
+We also have random monsters that are inspired by the D&D universe with some minor changes to avoid copyright issues.
+54:29
+So like changing things to like a Kestrel as opposed to a Cobalt for example.
+You also have permadath like in this case there there is a save file that is generated in the original rogue, but that save file is explicitly deleted when your character is is meets their their end.
+54:49
+In this game you have gold which just acts as kind of a high scoring mechanism, but in another kind of ahead of its time aspect.
+I feel like on on the PDP11 system, you'd be able to see your gold and how it ranked up against other people's gold from other people's adventures.
+55:06
+So it almost kind of acted as like an online leaderboard system way ahead of of Internet based leaderboard games, which is kind of kind of cool.
+You have a hunger clock, which in this case explicitly counts down to say, hey, your hunger level once it gets to 0, bad stuff is going to happen.
+55:25
+And this keeps keeps you moving instead of farming forever and ever to get that that really great loot.
+And also another another notable feature here I'll put on is that this game is closed source.
+The developers for Rogue eventually wanted to commercialize it.
+55:42
+They wanted to sell it, likely following in infocoms footsteps from a clausal cave adventure.
+And the developers eventually partnered with Epyx EPYX to get retail versions released.
+And almost kind of as an underline to this type of game being as as niche and esoteric as it is, even Epics at the time was having a hard time selling what what this game was was all about really.
+56:14
+This game's rise to prominence came with it being packaged with the Berkeley Software Distribution BSD version of Unix 4.2.
+So this was developed at the UC Santa Cruz, but somehow the game code or engine made its way over to to UC Berkeley across the mountains and got packaged with this huge distribution of BSD Unix that eventually that wound up getting placed just about everywhere.
+56:43
+So because of this game's small footprint compared to something like Colossal Cave Adventure, it could spread a lot more easily, and just about every system had Rogue on it at this point.
+Another major feature that Rogue pioneered here is the concept of I think the widely accepted term these days is called grid bumping, where your player character represented as the AT symbol in the game.
+57:12
+Walking around this procedurally generated labyrinth will encounter ice monsters or vampire bats and things like that.
+And your major form of combat in this game is running up to putting your little at symbol by moving them with the the the arrow keys and such to move them next to the enemy and then move them into the enemy.
+57:40
+Like trying to move your character into the space that the enemy character occupies.
+So you are kind of just like bumping your character against the other.
+And under the hood, what this is, is kind of just like 2 spreadsheets attacking each other because you have all the math that all of like the strength, intelligent dexterity, constitution numbers associated with your character that are going into the, the calculation and going up against the similar kind of calculations for, for the enemy that you're trying to fight.
+58:11
+So kind of rolling almost kind of like in D&D combat, combat of like, you know, roll, roll your strength check against the enemy's strength head.
+But just happening like each time that you press the button in a much faster, or at least much faster for us these days, the latency associated with using your terminal to connect to the university mainframe and then get your read out every so often was painfully slow in comparison.
+58:37
+But you know, pressing that button and seeing, oh, am I actually going to defeat the ice monster this time can carry a lot of excitement with it.
+So grid bump and definitely a a major feature instantiated by by Rogue here, but you don't actually want to hear me talk to you about Rogue.
+58:55
+You want to hear people's experiences playing the original Rogue.
+So let's jump into some more community correspondence that I have here, starting with the one and only Jeffrey Olson, the creator of the 90s nostalgic rogue like game Alpha Man.
+59:17
+Who says?
+I was in Graduate School when I discovered Rogue and subsequently began working on Alpha Man, so I was highly distracted by school.
+I do remember liking the wide variety of stuff one would find in Rogue and how it fulfilled my desire to play D&D.
+59:33
+Congratulations on your 100th episode.
+We'll jump to another fun rogue like developer, one who actually have a T-shirt from This one comes from Zeno Rogue, the developer of Hyper Rogue and Hydra Slayer.
+And they say the first version of Rogue I have played was a Palm OS port somewhere around 1999.
+59:56
+The gameplay was as far as I can tell, the same.
+It does not seem to be what you're interested in.
+Yeah.
+Cut that part.
+Kagaku Ninja says I started playing Rogue on APDP 1170 at UCSC in 1980.
+1:00:12
+Glenn Wickman was hanging around at the lab, one of the developers, although Michael Toy had already left.
+There wasn't a lot of available.
+There wasn't a lot available to compete with OG Rogue back in 1980.
+The combination of procedural generation and well tuned power escalation made the game addictive and unlike anything I was aware of.
+1:00:32
+Then after a couple years I discovered the quote Nuclear arrow bug.
+Arrow traps would sometimes miss and leave behind an arrow on the ground.
+The two hit and damage bonuses were uninitialized, so if you found a good one you could insta kill any monster.
+1:00:50
+So optimal cheap play was to explore every square, looking for an arrow trap, locating a death arrow, and then wielding it.
+In 1985 we got a program called Rogomatic written at some other college.
+It was an AI program that played Rogue and had an option for using the nuclear arrow trick.
+1:01:07
+Ketter Racks says that they first heard about Rogue listed on a BBS or bulletin board system and they say it was the most amazing game I'd encountered at that point.
+It was the epics PC version and it just died on my 8088 DOS 3X before dungeon level 15 or so.
+1:01:28
+They go on to say Rogue is suprisingly mature and a lot of fun.
+Anything you'd wish changed, fixed, etcetera had already been in net Hack and Moria and their offspring.
+That is to say, there's no real reason at all to not start your roguelike life from Rogue.
+1:01:45
+Talking more about their computer, they say it was one of the first or so waves of non IBMPCS.
+My dad was was subsidized for it from work.
+But sure, it wasn't the cheapest thing, equivalent to A5 to €10,000 purchase nowadays.
+I guess I could say my life could have turned out completely different without the PC or even the Vic 20.
+1:02:05
+As it happened, I became a computer professional for fun, 268 says.
+What made Rogue special was that every run felt like a new adventure at a time when most games were largely the same every time you played them.
+Evil Dave with a four for the A says I never played Rogue.
+1:02:26
+I had no way of knowing it existed.
+I doubt many people could have grown up playing it in the early 1980s since it was a student game at the time.
+Moria came to me via home copying around 1989 or 1990.
+But OG Rogue you needed to be in the know.
+1:02:42
+They go on to say I think some people might be in the wrong generation to know how inaccessible everything used to be.
+The news that it existed was discoverable for perhaps only a few 100 people gradually rising to thousands, and they're playing it at the university slash large company while goofing off, not installing Unix on their little spectrums or whatever, at their home for their kids.
+1:03:04
+My dad brought a game home and showed it to me once or twice in my whole childhood.
+And it wasn't Rogue.
+Couldn't have been.
+He brought them back on sheets of paper and I sat on his knee helping him type them in.
+Because that's how you brought a game home from work in those days.
+1:03:20
+And in stark contrast Make Cracky writes us to say I played it on the Nintendo Switch last year and had a pretty good time.
+Eurist of Cartilon says I'm in my mid 20s and I play rogue every so often.
+1:03:35
+It holds up great.
+If I wanted to play that type of ASCII rogue like I tend to play sill SIL or sill dash Q.
+But I have Rogue installed on my laptop and playing playing and to play it sparingly on its recent ish switch port as well, PMRR says.
+1:03:53
+I played Rogue and Net Hack and Moria when they came bundled in the early days of Linux in the 90s.
+That's when I honed my first skills.
+That's when I first honed my skills with HJKL Long Jumping Bed 4103 says A flash site I frequented in my youth daily had a section titled Text Base that had four games total.
+1:04:17
+I believe two of them were Zork and Hitchhiker's Guide.
+I can't remember the other one, but Rogue was the 4th.
+What definitely caught my eye was how it wasn't a traditional text adventure, but used ASCII characters as representation of on each tile.
+I thought that was pretty cool.
+1:04:33
+I think the I think I only made it to dungeon depth three.
+I was fairly young, Midnight Crafter says.
+I'm way too young to have experienced the 1980 original, but reading all these stories about BBS and 8088 machines is pure gold.
+It's wild how a text based game from decades ago literally laid the groundwork for games we love today.
+1:04:53
+Pure Respect Robot Parking says a mysterious disk one of my parents brought home from work was their first experience with Rogue.
+The caffeinated one says their first experience with Rogue was playing it off of a floppy disk for their Amigo 1000.
+1:05:09
+And our last correspondence note here from Geely Peace says I played Rogue in the mid 90s when I first went to university.
+It was available on the network.
+I didn't play it all too much as the tech space games like Colossal Cave and others appealed to me more.
+1:05:26
+I spent some time playing Muds and Mushes.
+By the time I played it I'd already been a fan of the gauntlet games so graphically and the turn and the turn based mechanic of Rogue felt quote old, but I wasn't confused the way younger people I've shown it seem to be.
+1:05:44
+I went back now, and I went back now and again to Rogue in the intervening years.
+Fun enough to pass some time like Solitaire and Minesweeper.
+I can see how it appeals much more strongly to other folk.
+Net Hack and others were more fun for me.
+OK, now with that four-game preview sequence in the can, we'll kick it over to future Scott and the Co hosts for a one-of-a-kind live session.
+1:06:13
+We're gonna try to do a live first impressions of what it's like to play Star Trek Petit 5 Colossal Cave Adventure in Rogue 1980 to see how how do we think our experiences of playing these games stack up versus our expectations with them.
+1:06:32
+So let's kick it over to to future Scott here, We're here live.
+1:06:47
+It's a live recording of the Grog Pod.
+And by live, I mean you'll be hearing it recorded.
+But we are live together.
+Yes, we.
+We are not live streaming the the technology just isn't there yet folks.
+As part of our big episode 100 shebang, this is, it's, it's a little unnerving seeing like, 'cause we record online all the time now it's like, oh, I actually have to like, look at, at people's eyes.
+1:07:11
+That's true.
+The pressure's on.
+Just me and Colin are staring.
+You down?
+Yeah, But yes, as I've stated earlier in this Part 1 episode, we have played live here at Grog Pod Studios four games.
+1:07:28
+We've played the 1971 Star Trek, the 1975 Petit 5 for the Play DoH system.
+We've played the 1976 Colossal Cave Adventure and what roguelike podcast live 100th episode Bonanza would be without a live playthrough of the 1980 Rogue.
+1:07:49
+And so I think our, our prompt for this section is what do we think about these games?
+And my, my, my nefarious goal here was to say, like of this era in history of the things leading up to Rogue, How does how do we feel about Rogue now as opposed to like other isolated cases that we may have played it?
+1:08:08
+How do we feel about some of these other games that we've played?
+Have there been any surprises or were they all dog shit or or what?
+Golly.
+Well, Colin, I think you put it very nicely when you said that playing Rogue, it feels like the most polished.
+1:08:26
+You said the most polished of these games is.
+Yeah, is the word you used.
+But with the the corollary of but it just makes me want to play other games that remind me of Rogue, like playing Rogue.
+It made me want to play cog mind and caves of cud because it's got the visual stylings of those.
+1:08:45
+And I'm just like, Oh, like there was something you when the Andrew was playing like 10 minutes ago and he had the slime bolt.
+I was like thought about like, what if that turns you in a slime?
+Like probably doesn't, but it could if you're playing caves of Cud.
+And then I wanted to play Caves of Cud as a slime.
+1:09:01
+Intriguing yes, it's certainly you can.
+You can see how this is, you know, obviously the inspiration that make you want to play more games.
+Rogue, that is, and obviously it's the root, it's the inspiration for an entire genre that we have a podcast about, obviously.
+So yeah, I would appreciate maybe going through this sort of somewhat sequentially, linearly.
+1:09:25
+Sure, yeah.
+Because Rogue is, I mean, the only, well, obviously it's, it's the only roguelike that we played.
+Well, I guess I think.
+I think the Star Trek game is roguelike.
+Well, pardon me, traditional roguelike.
+I mean, these are the ones that are more like roguelites, am I right, folks?
+1:09:40
+No, it's it's, it's, it's the most traditional of the roguelikes, whereas the three other games are distinctly of sort of different subgenres.
+Yeah, as I've kind of gone through with some of my history, preamble and listener letters of of all of these games, maybe let's let's click quickly gloss over Star Trek here. 8 by 8 grid, procedurally generated.
+1:10:08
+You have fuel in Klingon or well, you have to kill a certain amount of Klingons before your time runs out.
+What do we think of Star Trek from a first impressions perspective?
+Well, I didn't understand the map interface at all.
+Initially I thought I was looking at a mini map of the entire possible map.
+1:10:24
+Turns out I was only looking at the specific sector that I was present in.
+It's I expect that when I heard Star Trek 1971, I thought surely this is a Zork text based adventure and surely this is an away mission and you're bopping around on a planet doing stuff and getting frustrated that like, oh, it's not use or fire phaser, it's activate phaser.
+1:10:51
+Gosh.
+But instead it turns out, yeah, you're piloting a ship and it's to steal another thing that Colin said.
+It's similar to Battleship, the board game.
+Battleship.
+It feels like Battleship, the computer game, or like a riff on it in a way.
+1:11:10
+You're hunting, trying to find stuff and then shooting at it.
+But a solitaire.
+Version and a computer version of it.
+Critically, you're trying to destroy 1515.
+Pardon me, 15 Klingon vessels.
+Well, that in 26 turns.
+Well, that both of those numbers are randomized.
+They're randomized.
+1:11:26
+Yeah, so it is rogue like then.
+Yeah, forget what I.
+Said weirdly ahead of its time.
+Well, you know, yeah.
+Anyway, yeah.
+I mean, I thought, I thought that game was interesting.
+I've played a lot of a different version of that That's a a version specifically for the Game Boy Advanced that I played on a Game Boy Advanced emulator on my Steam Deck.
+1:11:48
+And this was an actual commercially released game.
+No, it's for Game Boy.
+No, no, it's like a fan.
+Yeah, you.
+Know, the other thing that this reminded me deeply of is the games that I attempted to play on my TI84IN calculus class in high school.
+1:12:04
+And we like had this weird library of games that we somehow found from somewhere because most of us didn't have calculators that could connect to the Internet, but someone did.
+And then if someone installed these programs, then you could like trade them on this weird cable.
+It's like like all of us playing random games on our calculators in math Class.
+1:12:23
+A weird chunky cable.
+With odd dimensions and these sort.
+Of things, yeah, like.
+What kind of a plug was it?
+Vaguely, I think.
+It was like a proprietary plug.
+Oh, I'm sure.
+It was like 1 kid who had the plug that let you like transfer between calculator.
+1:12:38
+He was.
+He was the literal plug plug.
+And then I do remember like being so bored in class and I was like I wonder if I could make a text based adventure game and I know will kind of did but.
+I thought our reset was his first game.
+Turns out he had TI.
+1:12:55
+Text Dementor.
+Oh, he had ATI 92 which had the full keyboard 'cause he's a fancy lad.
+Wow, hot dog, Hot dog.
+And unfortunately, wills not here today, so we're gonna have to guess what he would have thought of this game.
+I predict that he would have said something about how Star Trek 1971 is is is is a complete slap in the face to the Star Trek.
+1:13:14
+Legacy.
+He's more of a TNG guy.
+Indeed.
+This is the original series.
+So OG which we do get a little bit of graphics, a little bit of ASCII art on the initial page, there's a depiction, an ASCII art depiction of the Enterprise Oregon, a Enterprise class Starship.
+1:13:30
+And whoo, it is extremely rudimentary, but the actual Star Trek logo in ASCII thought looked pretty good, yeah.
+Well, we really have to know what it would look like as printed out on pieces of paper, because of course that was how this game was.
+Played quite Scott, could you regale the listeners with a description of how Star Trek 1971 was actually played originally?
+1:13:54
+I think first made, I think you would play it by like going type, type, type, type and then hearing as the printer burned down yet another forest worth of paper directly into the trash bin.
+And then you were like, wait, how many Klingons did I have to kill?
+1:14:09
+And you're looting through the trash bin, searching through this mile long ream of paper.
+Oh yeah, OK, there it is 'cause it was literally just a giant scroll of paper that would just dump into the trash.
+But.
+Very Warhammer 40,000.
+So yeah, there was, there was no monitor.
+You were punching things in and waiting for it to to print out, which I I mean, maybe you could recycle that paper, we don't know for sure.
+1:14:32
+Yeah.
+And so we, we did not have a teletype on hand today.
+We did instead have, my gosh, is it almost like a 20 year old British laptop of mine playing a web version of it.
+But but you know, close enough to to that experience that we could get in the modern era, I suppose with the the technology that we're limited.
+1:14:54
+With and, and so I have a note here, given that it was played in a very unique way on hardware, which was not people, you know, people didn't have access to this, obviously, What do we, what do we think the install base for Star Trek 1971 was like, how many people actually played this game?
+1:15:14
+Dozens, maybe?
+Maybe cuz I think the IT only became popular if I remember my research right.
+Once it was, the spin off was made.
+Yeah, once Super Star Trek was like the the actual like BASIC code, the code written in the programming language BASIC was published.
+1:15:35
+Then other people could see like here's these 10 pages worth of programming code.
+I could type into my own mainframe, type, type, type, type, and then boom, there it was on that mainframe.
+And then it kind of spread that.
+But there was, I don't know, maybe it was almost like the first StarCraft brood ward, like use map settings, map like like spread of stuff.
+1:15:57
+It's like the same game, but like a little bit of a fork of this and a little bit of a fork of that.
+And then it just like blew up in like the early 80s.
+But like that kind of specific thing generate like is the Genesis from here?
+And this was like one of the first video games, like, oh.
+1:16:12
+That's that's a great.
+Point.
+Yeah.
+I mean that's the.
+Release date of pong this.
+Feels like, like if this came out today, people would be like, you should just make a board game.
+Yeah, like, that's the other, like this could be a board game.
+You could you could, I think, have this exact thing as a board game without it being too difficult.
+1:16:30
+Yeah, I think.
+This exact thing.
+I think this game predates Pong by a year.
+Wow.
+I'm pretty sure the 1971 version of it Belize, because I'm pretty sure Pong was.
+Wikipedia claims like 72.
+Wow.
+For for Pong.
+For pong.
+1:16:45
+Yeah, Yeah, that sounds right.
+This is well, this is way better than Pong we got hold on, we can different.
+Different experience.
+I give it I give it a different experience.
+I I give it.
+I mean, I'm a real time, I'm a real time guy.
+I'm a I'm AFPS meathead, but I mean pong versus 1971 Star Trek.
+1:17:01
+Come on, this has got some This is this is this is has a a story and a narrative loosely and it's and it's.
+But Pong was sort of excited.
+But Pong was like, I, I think Pong is the more innovative game.
+And they're like, hey, it's a game with motion.
+Like that's just basically impossible.
+1:17:17
+Well.
+What about the motion of the paper that it was printing?
+Yeah, this thing was printing.
+No, that's an interesting fact.
+What it That hadn't even occurred to me.
+Like other than that like the real hand games are like like foosball I guess would be the the closest to pong.
+Interesting.
+1:17:32
+Yeah, I suppose so.
+Or yeah, When did and now?
+Now I need to Google more things.
+When did, when did table hockey come out?
+Well, so.
+I mean, the the 70s were also dominated by arcade games which had specialized like motherboards that were made for like that kind of game hardware.
+1:17:50
+Where whereas like or actually pinball pinball's probably.
+Yeah, yeah, pinball too.
+But like these games like that we're looking at here, these were all just like programmed by like college kids in the in the 70s, so.
+Thank God for higher education.
+Something, something good finally came of it.
+1:18:07
+OK, so perhaps we shouldn't dilly dally too long in each individual game.
+So, Star Trek 1971, What is Rogue about it?
+Procedural exploration, random.
+Well, yeah, I guess random setup of stuff.
+1:18:24
+Right, made on a computer before.
+It's it's turn based, it's grid based.
+It has a permadef.
+Does it have a randomized map?
+I guess the.
+Stars are kind of like.
+A map layout, yeah.
+Right, it's ticking a lot of boxes here indeed.
+You know your your quaffin poster is.
+1:18:42
+Permadef Yep should be noticed especially if you go into the computer setting cuz you have to of course access the ship's computer and select self destruct which is an option that they included and is delightful.
+Well done.
+Well done original devs.
+I also have to shout out Colin jumping into a sector with four Klingon warbirds and nuking all of them somehow.
+1:19:04
+Oh yeah.
+Oh yeah, I almost, I forgot to mention.
+I mean he's got to put Shields to Max.
+So.
+And then photon torpedo them all.
+Yeah, yeah, yeah.
+Absolutely 100%.
+Colin is going to be the captain of of the of the Starship of the USS Grog pod.
+Colin actually beat the game while we were playing today in our little Land party setup which Scott has set up a wonderful 4 computer.
+1:19:26
+Yeah, 923 points with four days left, I wrote down.
+Wow.
+Whereas Scott and I killed like a handful of Klingons, and that's as far as we got, yeah.
+I did lose immediately on the first time I played.
+Well done, Captain Collins.
+The time before I was like, oh oops, I forgot to turn on Shields.
+Well.
+That was your engineer's fault.
+1:19:41
+That was not the.
+Captain's fault.
+Well, that was.
+Also your no win scenario.
+Kobayashi Maruya.
+Can you?
+Can you win with no Shields and just hope you dodge?
+Yeah, dexterity, the maximum captain.
+All right, let's move on to our next next game, Petit 5 for the University of Illinois Urbana Champagne Plato Mainframe computer system 1975 or yeah, I think 1975.
+1:20:07
+The very first computer fantasy game.
+Like period first computer.
+Like Role-playing Game, a year after Gary Gygax publishes D&D and Dave Arneson And Dave, of course.
+1:20:22
+Thank you, well a lot of people do forget so I wanted to make sure it got mentioned.
+And this one's kind of a pain in the ass to get up, get up and running because some, like all these other games that we're surrounded with, I'm either running off of, well, we'll get to them.
+But.
+But this one, you have to download a Plato terminal emulator.
+1:20:38
+And presumably it's connecting to some sort of system based on the currently updating leaderboards that are still going on for it, which is impressive.
+But yeah, this is the, as it says, the first dungeon crawl video game right right there on the screen.
+Yeah.
+1:20:54
+What were our initial thoughts for for this game bad?
+Didn't didn't catch me.
+Fair.
+Look, it's maybe not amazing, it's basically not great, but there's the whole package is is not the most look, I don't think it's I don't think it's all bad.
+1:21:15
+I think there's some.
+I think there's some good stuff here.
+Such AI mean I think it was interesting as a like I, I I'm sure it was cool to play it when it was like, wow, I'm amazed that a video game can exist.
+It reminds me it reminds me of like I still have saved on my computer.
+1:21:33
+Some of the like really, really early AI image generating stuff from like 2021 where I'm like, wow, I remember thinking this was so cool and it's like horrendously bad and you're like, whoa, what's so crazy that a computer could AI make this?
+This kind of feels like that to me of like, wow, it's so cool that someone could program and make a game on a computer.
+1:21:56
+This is the Will Smith eating the spaghetti of DVD games.
+Yeah, OK.
+And I I say that with all the love for the people who actually made this, because they were humans making it and with like real effort.
+And I'm sure it was not easy for them to do it.
+1:22:12
+I do not accept your analogy, but I get I get the point you're trying to make of so with this, here's something to consider.
+This comes out right after Dungeons of Dragons and it's, one would think, I mean just based on the content and the enemies and everything, that this is taken from all those Dungeons and Dragons lore, but the Dungeons and Dragons Lord just came out.
+1:22:37
+That's pretty impressive.
+What am I getting at?
+Actually?
+I'm sorry, I want to go back to my list of pros, so check it out.
+The avatar doesn't look half bad.
+That's better than the avatar and Rogue, that's for sure.
+It actually looks like a humanoid person with a sword and.
+I like the Avatar and Rogue better.
+I like the little :).
+1:22:54
+I mean, it's got carrots.
+It's.
+Wholesome.
+It's cute.
+It's the it's the icon.
+You know, the mascot of our show, I suppose.
+But where the heck is it?
+Yeah, well, Petit 5, Welcome to the dungeon.
+Pretty, pretty good.
+Pretty decent title in my opinion.
+1:23:09
+Here's what Here's something that's stood out to me in this game.
+So you're moving around up, down, left, right through corridors.
+And off of these various corridors is a bespoke map.
+You're, you're opening doors, you're breaking open doors and, and doing battle with these various monsters.
+1:23:27
+The like, the, the core stuff is there.
+It's like you're crawling through a dungeon, you're going through a map, and that is it like gets that kind of basic stuff right.
+But what's weird is that the combat is like it's immediately, it's immediately decided, right?
+1:23:44
+If you fight a monster, it just says you win or you don't like it does all the IT does all the math and in one go, which is very interesting.
+It's interesting, it's a novel.
+It's intriguing to me like because it never would occur to me because all these games, I always think of them being round based.
+1:24:04
+But in this it's just like, Nope, You either win or lose and that's it.
+And on the one hand, as an FPS meathead, as someone who loses focus and attention very quickly, I appreciate that.
+Like, the combats are quick.
+You're not wasting a bunch of time.
+1:24:21
+Whereas when you're playing Rogue, sometimes it can be a little bit of a slog going back and forth, back and forth, back and forth.
+So I think there's something to the expediency of the experience that I appreciate.
+But are you making meaningful choices in your combat experience?
+Absolutely not.
+1:24:39
+At least, at least maybe not at the low levels that we were playing, because we would just get bodied by a level 4 man.
+I mean, I guess I don't know how far into this game.
+Like I don't know what the actual like.
+Well, as far as I know, there's is.
+1:24:55
+There even an inventory like there's not.
+Well, from that character stat screen, I think like it tells you what you have equipped, but it's like auto equipping all this stuff for you.
+So it's not like you really have an inventory like in rogue per SE or or next game.
+But but I think there is depth to it because the the currently on or like updating leaderboards to it certainly have people that have ground a lot of XP and gotten a lot of gold in it.
+1:25:23
+Which shows that, you know, there might be something here to at least like, couched within the caveat of like from the very first computer game from 1975, like grounded in that expectation, which is.
+Which for the record, I'm sorry, I do need to come back to the side, Colin, that for the record, I think is an infinitely more interesting and bad and much more of a human achievement than early AI image creation.
+1:25:50
+Oh, no, no, no, I.
+I get what you said.
+At the time it seemed impressive.
+I didn't think it seemed impressive.
+I thought it always looked like crap.
+Oh no, it didn't.
+It didn't look good, but it was like, wow, what a novel thing.
+Not good, but impressive novel that a computer could do it, I suppose, I suppose.
+OK, All right, now that we're coming back to the word novel, maybe it maybe I can more get with your analogy, but but anyway, you know you're right there's.
+1:26:11
+Not maybe it maybe a better thing would be like looking at some of the very early 3D games and we were like, wow, these are so amazing.
+Like the graphics are crazy good, you know, like was I actually, were they actually good or was I just like very impressed that they were in a third dimension?
+1:26:26
+That comparison I can get down with.
+Very good.
+This is like, oh wow, it's so crazy that I can see this on a computer screen and not do it on pen and paper, which is I think what basically this was the the only, the only thing you could do before this was a a a human being is the is the computer and it is describing things for you.
+1:26:47
+Yeah, using your lousy imagination, yeah.
+And it should be noted, unlike Rogue, that this game does have sprites and and little pieces of art for the avatar and also for all the enemies, which I also appreciate.
+The skeleton actually looks like a skeleton.
+That's that's pretty.
+1:27:03
+Yeah.
+This probably would have blown my mind if I was alive in the 70s, but oh, oh, oh, I did want to.
+There's.
+I have a note here.
+First of all, we do have to predict what What do you think Will would think of this game?
+I think he would love it.
+I think this would be his new number one.
+1:27:20
+Slay the what?
+Never heard of?
+It slay the what?
+Give me more of that.
+Welcome to the dungeon.
+Dungeon.
+I mean, shoot, Yeah.
+Well, OK, great.
+And then also I went into the read me documents, into the help menus and read some of the stuff and the game does a pretty good job of educating you and like, all right, this is these are the controls.
+1:27:41
+This is like, you know, how the random encounters work, etcetera, etcetera.
+You know, this is how you get XP.
+You don't actually get the XP until you leave the dungeon.
+You can come back, which is kind of a neat idea and but critically, do you all know what year this game takes place in?
+1:27:57
+I do because I I read the thing for the research purposes.
+Yes, there's a nice, there's a nice page long piece of lore.
+Is it like 4127 or something?
+Well, deep in the future.
+You that that is a good guess, but it's they went the other direction.
+This is of course, a fantasy land, apparently, and it takes place in the year 666, the Year of the Beast.
+1:28:17
+It says at the very top of the.
+Story page and it says what going on about such and such.
+Tampa.
+But you know, OK, we get it.
+You you love your own D&D home brew.
+No, I did appreciate it was charming.
+It was charming.
+All right.
+Well, Colin, you're right, there's not a lot of, there's not a lot of decisions to be made.
+1:28:36
+I was trying to grind and like my decision was like, do I leave the dungeon now to try to get my XP or do I stay?
+And well, yeah, there's not a lot to it.
+There is a magic system, so that's something.
+But like the core combat and the core movement and everything, pretty boring.
+You're right.
+1:28:52
+Yeah, it's just, it's just a risk reward system of how much you want to bank for the for the leaderboard, which for a game of this era, like it like it was enough for me to be like, OK, yeah, like I could see how this could be fun back then.
+Sure is.
+Is it like, how does it compare against stuff now?
+1:29:09
+Not at all.
+But like, for this era, I could see why people would.
+You're building, you're building this off of.
+No, you, you like, you know, the games that are coming out now are built on the shoulders of giants.
+This is not built on the shoulders of anything.
+Games themselves have not been really invented yet.
+1:29:28
+And computer games especially not, I mean, I'm just thinking like board games of that era all so bad.
+And there's nothing that like if you look at the board games that have come out in the last five years compared to the board games that come out in 1970 to 1975.
+There is nothing you there's nothing that they are they were doing then that you couldn't have you know, you couldn't have pulled a board game from now and put it back then.
+1:29:51
+Same rule set.
+Like a lot of these there's are like that's a board with text and graphics on it.
+They just hadn't invented, you know, there wasn't the.
+They didn't know any better.
+And even for not knowing any better, they did a pretty, pretty admirable job, I feel like.
+Yeah.
+But yeah, gameplay not that super compelling.
+So hey, what?
+1:30:07
+What's Rogie about it?
+Scott, You, you told us earlier.
+Well, so static dungeon, random enemy encounters inside magic question mark.
+Is that all that we?
+Well, turn based, grid based, perma death, etcetera.
+The magic, you know, the magic might be, there might be some randomization in the magic, I don't know.
+1:30:25
+But yeah, I mean like for, for a genre that didn't exist yet, it's still, it's ticking more boxes as we as we, yeah, continue our, our March through time.
+Indeed, what's our what's our third game, Scott?
+How many years do we have to progress to get?
+1:30:41
+To we have to progress one year for 1976's Colossal Cave Adventure, which I guess at the back then was just called adventure.
+But not to be confused with Adventure for for the Atari, correct?
+I don't think no.
+1:30:57
+They're those, they're different.
+Yeah.
+So this colossal cave adventure.
+Colossal cave adventure it takes.
+Place, of course, what's what's the setting of this game?
+Setting I believe well it's not explicitly same, but I think this takes place outside of Mammoth Cave's Tennessee, Nebraska.
+1:31:13
+It's.
+Based on a real place.
+Yeah, I think.
+Mammoth Cave is a place.
+Yeah, 'cause the it's.
+Not like this game, but.
+There's no axe wielding.
+Dwarves there are no there's not.
+There's not a snake guarding the the entrance to it.
+OK, but but yeah, so we have 1976 Colossal Cave Adventure, which I forced my Co host to play on a Linux terminal for that exceptionally gritty and authentic experience.
+1:31:37
+But this is the first text adventure game and the game that the rogue developers constantly cite is like one of their primary inspirations.
+So really Rogue 1980 is like a combination of this game.
+Colossal Cave adventure in her previous game, they were just talking about pedit 5 where this is the exploration element.
+1:31:56
+This is there's there's nothing, literally nothing about this game is Rogi perhaps, except maybe like the keyword buttons for like east, West, South I for inventory G forget kind of things.
+But this was this game, like lit the Arpanet question mark at the time on fire with like, Oh my God, like the things that you can you can do anything in this game.
+1:32:23
+There's like, like what it it just seems so mysterious.
+Yeah, I mean the even even now playing in 2026, being able to just like type in random words.
+And sometimes it's like, ha ha, of course you can't do it like that.
+And you're like, oh, they did.
+They literally thought of maybe you would try to do this and then type like programmed in a separate specific response for it.
+1:32:46
+For example, early in the game is that giant snake and you can say I want to fight the snake.
+What did it tell you?
+It's.
+Like, of course you can't fight that snake.
+That would be a bad idea and dangerous.
+Yeah, yeah, yeah it.
+Advised you of how dangerous it would be, yeah.
+But yeah, I included this one because it has such a huge impact on like this game.
+1:33:08
+Started the whole Zork craze.
+Started all interactive fiction as as its own whole thing, I mean.
+This through all of the different like text based games missed anything that's just kind of like wandering around exploring a space, getting items that let you do the next thing.
+1:33:29
+Like I guess it it I can see the direct thread from a game like assuming this is the first one.
+Like all of those things that branch out from it, sure.
+Quite so.
+The limitations on this game are that your commands are limited to 2 words, which.
+1:33:49
+Actually the first 5 letters of each 2.
+Word.
+Pardon me.
+Yeah, the first 5 letters of that of the of 2 words.
+And I came into this I said those are the first game I played today.
+And I sat down with a lot of preconceived notions about text based adventure games and adventure games in general.
+1:34:07
+And I kind of assumed this game was slightly more sophisticated or more in depth than it actually is.
+I was overthinking a lot of the puzzles and whatnot.
+For example, spoilers for a 50 year old game in one of the in one of the first rooms.
+1:34:29
+Pardon me, You start your adventure and again, you're just looking at a text terminal.
+There's like a little introduction.
+It doesn't give you a whole lot of information.
+You can type in help, help is kind of useful, but like it doesn't give you, it doesn't give you like a Dictionary of like potential phrases or something.
+1:34:44
+It gives you like a handful of examples.
+Because I think that's also part of the gameplay.
+Allure is like, I don't, I don't know what's possible yet.
+That's a that's a great.
+I mean, it's trying to be D&D like in D&D you are allowed to say any.
+You're like, I drink the the potion I I caged the snake like ha ha ha.
+1:35:04
+I.
+Fireball the vampires in the middle of the town square with all the very burnable buildings.
+In the weapon range, yeah.
+The DM says you can certainly try this game just says I don't know.
+That word, right.
+So it's yeah.
+And I'm sure that was, was intentional, but I was expecting like, oh, maybe aren't you going to give me like the, the 10 core phrases of like, I don't know, look, walk, use activate cloth.
+1:35:28
+Of course you want like a starter, We'll get to cloth.
+Sure, sure.
+And and you know, hey, I I can appreciate you 2 are totally right that you know, it's that's part of the mystery, that's part of the excitement that like you can type potentially anything into this and maybe it'll work.
+That is very, very exciting concept.
+1:35:45
+It's also, it's also worth noting that there is a modern remaster of this called Colossal Cave on Steam that I have in the Steam family.
+I think you can play it in 4K 'cause it's a 3D, it's a 3D like point and click adventure game that you can like navigate and walk around.
+1:36:03
+But it feels less mysterious 'cause you can just see everything and you can just see like, oh, I need to go and follow this stream down to, to the thing versus like, well, where do I go next?
+So I go to this like mysterious forest.
+Do I go into this cave?
+1:36:18
+But there's a big pit down there.
+What am I supposed to do?
+Whereas in in like the 3D version, it's like it's very obvious what you do and it it kind of narrates like, you know, you get lamp and then it's like you have gotten the lamp and, and those types of things, which is fine, but like.
+Which, sorry, reminds me of my original point.
+1:36:34
+Scott, thank you for Frankie for bringing up the lamp.
+So spoilers for a 50 year old game.
+You start above ground, you're not in the caves yet.
+There's a building.
+You can go into the building, I believe you.
+You can either type building or you can type E to move into the building inside.
+There's some shit in there, including a lamp.
+1:36:50
+Now, immediately in my modern video game brain, I'm thinking, well, I have a lamp.
+There's no guarantee that that's gonna work.
+I need to go and find.
+Like.
+Oil G or or I need to get yeah, oil or the matches or any batteries.
+1:37:06
+And like there's no way to examine the lamp that we could find.
+We tried a bunch of different commands and it's like, well, how do I get more information about these objects?
+Could not figure it.
+Out.
+There's probably some grey beard right now listening to this that's slamming the brakes on their car in the middle of the freeway.
+We're like.
+Examined look perceive it was not.
+1:37:23
+Happening.
+I mean, it does.
+You can interact with it though.
+If you do light lamp, it says something about it.
+You it does turn it on.
+If you say rub lamp, it's like, well, this is an electric lamp.
+So like that's pretty funny.
+It's like this isn't the kind of lamp you're thinking.
+The first thing I did was I tried to look at it and if I'd known it was an electric lamp, it would have saved me like 20 minutes.
+1:37:41
+At a certain point I'm wasting so much time above ground.
+And finally, Scott's like, well, where does the game take place?
+Oh, in the colossal cave.
+OK, I gotta go down there.
+And then.
+And then it's like, oh, I can use the lamp.
+I didn't even occur to me because one of the first, like, sort of gates you hit is that like, oh, well, it's dark.
+1:37:58
+You like, go down and it's dark.
+And it says, oh, it'd be dangerous to move forward.
+You might fall down a pit and die, which I definitely did.
+And that's when you use the lamp and you can actually begin your adventure proper.
+But yeah, it's, it is it is an interesting game.
+And I think I, I don't know, I'm trying to think back to the first time I played Zork and which I enjoyed more.
+1:38:17
+This might have been a more enjoyable gameplay experience.
+For for Zork.
+You mean pardon me, Cave Adventure might have been more fun than my first experience with Zork, but I I don't really.
+Recall are they still making like text based games like this?
+I well, I've not played them.
+1:38:32
+I'd be kind of curious to play a like a truly modern 1 I don't know with.
+The last thing that I saw was something about like.
+Oh with AI?
+Well, yeah, I mean.
+Like, I mean, yeah, AI does actually.
+You could get some weird stuff that just generated from that, but.
+1:38:49
+But like how much of it is?
+Is it a?
+Like let us pre program pre before 2022 right?
+Sure text.
+Not that I'm aware of.
+I've seen a number of like modern attempts.
+It's like, shoot, I'm gonna forget what these games are called.
+1:39:06
+There's like a series of adventure games that came out on a computer and also any S there's Uninvited, which is like a haunted house one there's a dungeon one there's a Is this ring any bells?
+It's a yeah like a point and click.
+And they did a mail agreement, but again, those aren't, those aren't texts.
+So it doesn't doesn't really count.
+1:39:22
+I don't, I don't know, Colin.
+Yeah, well, I'm sure there are many people out there who know and are, yeah, slamming up breaks.
+Yes, sorry I've been blabbing on about this game.
+It was a game I think I spent the most time with, so got a lot of say Yammer about it.
+But Scott, what what's, what's rogue about it?
+1:39:40
+Literally nothing.
+But what's Rogue about?
+This is inspiring the creating, of course, of Rogue because because this game is so static and it's the same game that you play every time.
+Gosh, wouldn't it be great if there was a game that was different every time that you played it and that every time you booted up, the dungeon layout was different and all of the items inside were different.
+1:40:02
+You had no idea what to do.
+And you're like, Oh my God.
+A a Plaid potion.
+Is this gonna set me on fire or is it gonna give me more strength this time?
+I don't know, but I'm backed into a corner against a bunch of ice monsters.
+Better cofit.
+But yeah, I guess let's let's maybe move to our next and final game for this week.
+1:40:23
+Oh, and by the way, Will would have said that this game, Colossal Cave Adventure, was a colossal waste of time.
+I think that's what he would have said, right?
+OK, sadly, he's not here because he why is he not here?
+He's not here because he didn't need to be here for Xander can just tell us what he would say, yeah.
+1:40:42
+Yeah, well, to be clear, you know, no emergencies or anything.
+It's just, you know, he wasn't interested in playing a bunch of old crusty games, which, I mean, it's tough to.
+I can't slate a guy for that because I don't necessarily want to play every old crusty game out there.
+Yes, right.
+Our final wonderful.
+1:40:58
+Our final game, 1980 Rogue, which I so desperately wanted to get up and running on my my wife's original Commodore 64 here that I have under the desk, but sadly I couldn't get it to boot up and solve this RAM issues.
+For the best.
+1:41:15
+Pardon me, You were earlier, Colin and I you, you were telling me and Colin that the Commodore version, the port of Rogue, is really bad.
+Sadly.
+Bad had gotten her running.
+It's like, Oh no, we're playing an inferior version.
+I did have a backup plan for that with my flash card, but but yeah, I think like maybe maybe a future episode of Commodore games are around the corner.
+1:41:40
+I did also buy off of itch dot IO.
+There was someone who's who's making modern Commodore 64 rogue like games which.
+Let's.
+Cut as an all choice podcast.
+A choice that is the only choice that is incredible.
+1:41:56
+I commend them.
+But we have, yeah, we have 1980 Road, which is the EPIX version off of Steam that we played as our emergency backup, playing off my Steam Deck connected to a monitor, as you would expect.
+And yeah, this is this is the titular experience.
+So I feel like I've said, I've said this up top on the earlier part of the episode that each of these games we could revisit in a dedicated, like full on normal 90 minute length episode if there's enough interest.
+1:42:23
+So if people want us to do a, a dedicated deep dive episode on the 1980 Rogue, we might do that if there's enough appeal for that and if we can slot it into the schedule somehow, etcetera, etcetera.
+But for now, like as as a general first impressions of playing this today, what did what did we think of the the originator the first, the best, the perfect roguelike game of rogue.
+1:42:49
+Well, we each did a run and despite I did try to debate the fact but pardon me, we each had a shot at it and I believe Colin got first place.
+Well, cuz he was picking Scott.
+Scott got first place because I took over his run.
+1:43:04
+Like, OK, well.
+Regardless of the way through and then died.
+But I did get second place and I got almost.
+Beaten Scott's score, right, I got to.
+One all on my own.
+I got to the lowest level, but I didn't collect as much gold and that's the only thing that counts the points.
+So yeah, so I think the one of you should talk first is the point, because you're better at the.
+1:43:22
+Game well, I was kind of impressed at how much better I was.
+I don't know if I just got like a God Mode seed or what this time because I feel like the past few times I've booted this up and I was just like Oh my God, what am I even doing This is so painful.
+Ice monsters, kestrels, what are we even doing here?
+1:43:38
+What like what is what is this theme?
+But as I've played more and more of a, of another game that we will play shortly here and I guess all the next games that we're playing, I think I've just kind of like fully grokked the systems and knowing when to take fights, knowing when to use scrolls and potions and things.
+1:43:58
+I think like that that just made me better.
+And I was able to like get pretty far through it.
+So I think like my experience this time was much better than the first times that I played it, which first like buying it and downloading off Steam for like 2 bucks.
+I was like, yeah, I can see why the game is 2 bucks on Steam.
+1:44:16
+But yeah, I think it's like a historical curiosity.
+I know there's like free versions out there and and whatever, but I feel like it holds up better than I expected, especially in the context of some of these older games like Petit 5.
+It I think 1980 Rogue is much better than poor Petit.
+1:44:35
+It would almost certainly have to be.
+Well, and this is a lesson in, you know, gameplay over graphics.
+Petit has better art in my opinion.
+Yeah, it's burning that that graphics card.
+I got pretty hard down there.
+Significant, significantly more engaging artwork than than Rogue.
+1:44:55
+However, Rogue has the far superior menu screen.
+You got the adventurer in the foreground facing off against a giant Kraken monster, and it looks it looks pretty Dang good.
+Yeah, I think that the splash art for the epics one is is pretty decent.
+1:45:11
+But yeah, I think like if you were playing this in 1980, you would.
+It have that.
+No, 'cause it was.
+It was the same thing as like Adventure where you just like open up a terminal, type rogue, hit enter, and then boom you're just in the dungeon.
+You're just in that.
+Never mind.
+Well, never mind.
+OK, Yeah.
+I thought it was interesting playing Rogue because like there were things about it that I don't like and I kept being like, oh, this is like all these other games that that have this thing like, well, no, all those other games are like this and it's very interesting.
+1:45:41
+Like, I don't love the whole identify every object trope, but this is the trope originator.
+And so it is before you know, they're they're trying stuff out and they're like, that's a crazy idea of the novel system that you're putting in.
+1:45:58
+And like very interesting game mechanics that I'm like, oh, this is overdone now.
+Overdone in like rogue stuff, but it's not overdone if you're the first one doing it.
+So like, it's an interesting novel decision that really like changes your gameplay and I think that it leans too hard on identifying everything.
+1:46:21
+But like before that there was no even concept of identifying a mystery object so.
+Quite what?
+What do you think Colin?
+Well, I guess every business you're allowed to answer 2 Scots.
+But why did the following games?
+1:46:40
+What are the games that came after Rogue?
+Why did they keep that that part of the game play, the identification?
+What was so alluring about it, do you think?
+I mean, it does help mix it up like I'm thinking of, you know, Binding of Isaac has all this is the same kind of like.
+1:46:58
+Yes.
+Like true randomization of of pills, Is that what they?
+The best, The best part about that game?
+And you you have to identify them each run and like it does add substantial randomization like you don't immediately know what The thing is going to do.
+1:47:17
+That's a great.
+Point and you have to like risk using it.
+Sure something like Binding of Isaac run variation you do learn more like you use it once and now you know what the rest of the stuff is.
+1:47:32
+Which is also kind of true for for rogue, but like most of the times I was playing is like I've got 5 unidentified scrolls.
+I don't know what they're going to do and I only have a single one of them.
+So it's like even knowing what it is isn't super useful because now it's like great, I know that that scroll would have been useful in this situation and now I don't have it so.
+1:47:55
+Well, it rewards, you know, replaying the game, I guess, or something to that effect.
+Yeah.
+So with this is obviously Rogue introduced a bunch of stuff, a bunch of a bunch of things for the first time, a bunch of things which are very important to the rogue like genre.
+1:48:15
+One thing that I noticed having playing it at the end of, you know, playing rogue after playing these earlier games is that this is like this this it is introducing something kind of subtle, but I think is important, which is the clicky, clacky, gritty movement of going across the room down the hall.
+1:48:34
+That is a little teeny tiny bit of and I'm talking about just literally the rapid input of up, down, left, right, diagonal, blah blah, blah, which you see in like every traditional rogue like basically.
+And you know, Pettit like barely kind of has that.
+1:48:55
+But like, I don't know, it felt like a little bit slower and I don't know, maybe that's just the interface of the.
+Of the well, the dungeons aren't nearly as big and.
+They're nearly as big, yes, critically, a good point.
+What's the grid size like?
+The total grid size in rogue for like a full dungeon if it was like 1 giant room.
+Rogue, I think is 80 by 60 tiles.
+1:49:11
+So that's the maximum that it could physically be built.
+Each room is, I don't know, maybe like 10 by 20 maybe, yeah.
+But but it's like there's larger, there's bigger open spaces, there's more open.
+Spaces.
+But like you're have some randomly generated thing you could potentially click right 80 times to go from one side to the other if there just happened to be a hallway that went straight much, much, much larger than the other ones.
+1:49:32
+And just in terms of like, the delineation of squares is smaller.
+But the the the navigation is something that I don't know, stuck out to me like, Oh yeah, this is this is this this rapid input of directional movement is something that I immediately identified as, oh, this is present throughout the genre and all the way up to, you know, cases of cud, you know, was doing you find yourself doing a lot of that type I.
+1:50:01
+Wasn't comparing it a lot against Cog mind, which is like the first and best, like truly, truly traditional rogue like game that I've played or we've played on the podcast.
+And like most of the stuff is here in rogue like or in Rogue in 1980.
+1:50:20
+It's in a much less streamlined form, but it exists.
+And it's like the rooms are smaller or more simple and like the you know, they're, they're not as the layouts aren't as complex and there's not as much like going on with the rooms.
+But you can see all of these things that exist and it's just like each each successive game is just a refinement of this formula, better and better and better and better and better until you get to the the modern games where you know, got storylines and plots and there's random.
+1:50:53
+Art.
+Yeah, like really interesting pixel art that's going on and like builds and hovering and all that stuff, but it's still just like each thing is a, a, a successive iteration from from this to now.
+Yeah.
+1:51:09
+Yeah, and, and the art in Cog, mine is almost better.
+No, it's I, I, I joke that is one game that I, I booted up very briefly before I started actually being on the show.
+And I've been meaning to go back and play more of it.
+So with Rogue, of course, you're moving around that clickety clackety movement that I I mentioned.
+1:51:30
+And of course, you got your hot keys.
+This is what I was looking for in this is what I was looking for in Colossal Cave adventure.
+It was like a core set of actions and rogue sort of solidifies.
+Here are your your set actions of I for inventory of course, T for throw, S for search and but really important one, Q for quaff, Yes for quaff and potions.
+1:51:56
+Specifically the lowercase T for throw because capital T is take off I think.
+Oh.
+Obvious you don't want to make that mistake in the middle of a dungeon.
+Why My question for for you gentlemen?
+Why don't?
+Actually, now I'm now I'm like, wait, what was the actual?
+There are like there are a lot more keywords in here than I think are strictly necessary.
+1:52:16
+Sure, where where armor versus is a different key for than like where ring.
+It's like I don't know if we really need.
+True.
+But like, but yeah, like the idea of context dependent or like, like more 'cause again, like these were all made by kids who were not like professional game developers for Nintendo at the time that like that, that kind of stuff was I think very much like, like, yeah.
+1:52:45
+I mean, you can find like Nintendo games that have like very obvious like better menu navigation systems to that, but that's not the core audience for these games.
+Like, the core audience for these games are people who use Vim to edit text documents on a main.
+Frame they're in grad school for computer science or like mechanical electrical engineering, they're writing code and directly into industrial units and.
+1:53:11
+And so I, and, but like that is kind of a critical thing of like people say all the time, like, oh, you know, like rogue, like the definition of what rogue likes are now has been stolen by like the more commercially popular games.
+But I think that like while true, I don't think these games were ever intended to be commercially popular, even though that the original Rogue devs intended to sell theirs 'cause I mean, like Colossal Cave Adventure, big hit that started Infocom, they sold Zork commercially and that was a big commercial success.
+1:53:41
+And they that doesn't have graphics, that doesn't have anything like that.
+I mean, it's it's all imagination based.
+But yeah, it's it's weird that like you, you see things that's like, oh, can it run Doom?
+But you never see anyone ask can it run rogue?
+No.
+1:54:00
+So, yeah, I think like my final thoughts, I think for for all these games are like, you can kind of see how rudimentary a lot of these games from the 70s were and why Rogue in the 80s was so impactful because it just, it set the foundation for so many of these things that we see in a lot of the other games that we've covered over 100 episodes.
+1:54:21
+And like, it's just like boom, like right there.
+Like, is it perfect?
+No, not at all.
+Was it commercially successful?
+Also No, but that's fine.
+Yeah.
+And I think that like, is is it worth going back to now?
+I think maybe it's like more of like a historical curiosity.
+1:54:37
+I think the games that we'll play next are maybe better, Maybe, maybe we'll see.
+Probably better.
+Yeah, any, any other final thoughts about these games before we?
+This is my second time actually sitting down for a decent amount of time and then playing Rogue, the original Rogue.
+1:54:56
+And I think that it's is a it's, it's a gameplay experience that holds up fairly well.
+I would argue there's enough happening, there's enough significant randomization, meaningful randomization, that it is still exciting to play for me.
+1:55:19
+But what do we think?
+Will would think probably not great.
+I feel like for me for me, if Rogue feels like a fun mini game, like you could see a Rogue mini game in a different modern game.
+Oh, interesting.
+Like it's got a lot of stuff there, but in comparison to the scope of a modern game, it's very small.
+1:55:39
+And like the the level layout's pretty simplistic.
+But like you could have seen I, I could see Rogue on UFO 50 and it wouldn't have like stood out or maybe like a slightly different graphically with a slightly different user interface, but something that's pretty similar.
+1:55:56
+Similar gameplay loop, right?
+Yeah, totally, totally.
+And as I've asked with all the other games, what's Rogue about?
+Rogue only.
+Everything.
+Nothing because, well, I guess I was hoping you would you were gonna say rogue like about it.
+No, Yeah, this is this is the the Genesis device to bring it back to our Star Trek game here.
+1:56:17
+But yeah, this, this started it all.
+I think it was.
+Here's a better question, I think.
+What is what isn't Rogue like about Rogue like?
+If you look at the modern games that have come out, what what's in Rogue that is different from those games?
+1:56:36
+Like hasn't made it.
+Yeah, that hasn't made the cut for like modern.
+Games.
+I think it's too random in that games that we'll see as part of Part 2 and Part 3 and this is this is maybe not really a real fault of the game at of itself at the time, but later games will be a lot more tactical and it'll feel like you have much more agency over your decisions versus like, oh, you stepped on a trap and now you teleported into a room full of monsters and now you're dead.
+1:57:03
+Congrats.
+Welcome to Rogue.
+Interesting that it is it is more random and people still curse randomization and and monrogue likes I I.
+I talked to a friend of mine recently who said, look, I I just can't, I can't play rogue likes.
+I can't play rogue lights because I can't find a single one that doesn't feel like the the randomness is a constant X Factor that is often against me and it's too frustrating.
+1:57:26
+So yeah, rogue, rogue being even more random than the average modern rogue like is.
+Yeah, I think that I think that might be it.
+Maybe they did rein in the randomness a bit of the genre did I mean as the years have gone by.
+Yeah, right.
+Well, that's gonna do it for Part 1 here for our coverage on the The Rogue and its predecessors for Star Trek Petit 5, Colossal Cave Adventure, and of course, Rogue itself.
+1:57:53
+Next week will be us covering the first real actual rogue likes, including Moria, Hack, Larne and Omega, two of which still have forks of themselves like going to modern day development with Moria leading to Ang band and that leading to to Diablo and hack leading well, as the name would imply, directly to net hack.
+1:58:19
+So next week we'll be doing another kind of like initial first impressions of us playing these games and you know, we'll throw in Larne and Omega in there just for just for funsies.
+But until then, we will see you next time for Part 2 of our Episode 100 coverage bonanza.
+1:58:40
+We've taken a brief look at four members of the PDP11 computer family.
+These and other PDP 11 computers will be discussed in more detail in a later study unit.
+In subsequent study units, we'll also cover PDP11 hardware and programming in much greater detail.
+1:59:00
+Before going on to these study units, we recommend that you first review the material contained in your workbook or even playback portions of this unit.
+When you hear the next tone, shut off the playback unit and refer to the workbook that accompanies this study unit.
+1:59:16
+After you've reviewed the material in this workbook, proceed to the next study unit in this series.
