@@ -1,0 +1,1668 @@
+0:26
+For a podcast that calls itself a roguelike podcast, it's only taken us four years to finally get to the true and official real roguelikes that actually matter.
+This time we are talking Moria, Hack, Larn, and Omega.
+0:43
+It's worth noting that each one of these could be their own full episode, so if you want to see us or hear us talk more in depth about those, let us know down below or send in a request to Grogpodnod's own slash request.
+But first, let's jump into 1983's release of Moria, the very first Rogue Like.
+1:06
+It's also worth mentioning that there's a really great book that has been published that I read through.
+Called dungeon hacks, How net hack, Ng band and other roguelikes.
+Changed the Course of Video Games by David L Craddock.
+This is a great book.
+1:21
+It really goes into a deep dive of the history and development and what what it was really like.
+It really puts you in the shoes of 1983 open source game dev at the time, slash hacking culture.
+1:38
+It's it's a really great insight.
+I can't do it justice here because otherwise this would be a six hour long podcast.
+As much as I want to do that, but go and check out that book.
+It's I'll link it in the show notes down below.
+But let's continue on with our kind of speed run of what this game is, what it's like, and some community correspondence.
+2:23
+Moria 1983 developed by 1 Robert Allen Konecki, who was a 2025 year old college student at the University of Oklahoma at the time.
+And already this is This game has a a pretty stark departure from the original Rogue in that it is way bigger.
+2:44
+There's so much more stuff.
+Going on with it, how long to beat, I think has this peg somewhere around maybe let's call it let's.
+Say 50 ish hours depending on how much you want to choose the game systems.
+And at the time, this was another game that kind of came out that was largely mainframe, big computer lab based, terminal based games.
+3:09
+But, but by the late 80s there was a port of this game called Youmoria made by Jim Wilson that ran on Unix and that was the one that kind of spread out like a like a wildfire.
+So I mean that that's also the version that you can still find today for the most part.
+3:29
+So again, a little anachronistic in our in our history telling here, but but that's a pretty.
+Close version to what you can experience.
+As it were at the time, there's a lot of differences between this and Rogue, although this plays very similar.
+3:45
+You know you got your standard bump, grid bumping, attacking, procedural level generation.
+Food, clocks, magic, etcetera, etcetera.
+But there's some big notable features about Moria that really kind of stand out and help to shape the direction of where things were going with other games kind of up at the top.
+4:03
+One of the most notable ones is this system called Monster Memory.
+And if you want to call it a meta progression system, smirk Smirk you could because the more monsters that you fight in Moria, the game will gradually memorize their capabilities.
+4:20
+And as you use your look command to examine some some big red armored metal centipede or something you'll learn more about.
+Oh yes, I remember encountering 10 previous battles with this metal centipede and it having this much health and maybe doing this much damage and that stuff filling out overtime the more that you fight and defeat them.
+4:43
+Even if I believe your character dies, restarting a new character, you'll still have this kind of progression system for how you remember fighting all these unique enemies so the first time you encountered them.
+Have no idea what this capital letter M is or what it's capable of.
+5:02
+But the more than more that you fight it, the more and more that you'll learn about it.
+So you can come back in in future games to be better prepared.
+Another stark difference is that you get XP for killing and leveling up grants you stat increases.
+5:18
+And so I mean, Moria also places a big emphasis on XP from killing monsters.
+And this is where I think it has kind of the the biggest direct lineage between.
+This game and its eventual successor Ang Band and Ang Band's eventual successor Diablo where?
+5:40
+You have an incentive instead of just to run through the dungeon and collect loot before your hunger clock runs out.
+Here you are more.
+Incentivized to grind monsters.
+Also, notably because you don't really have a food clock in this game, you are just kind of going at your own pace of.
+6:02
+You know, being able to dive 50 levels of this of this dungeon to fight the bow rog at the very bottom and you can take as much time as you want to grind.
+Monsters and fight enemies and collect loot from them and use your word of recall to travel back to town to sell off that gear and create this kind of loot treadmill progression system throughout the game.
+6:35
+And so related to that is this main starting town, which is another big innovation in Moria.
+You have a probably the first instance of this in any game.
+Where you have a little little.
+If you use your imagination, little huts or buildings that kind of dot the town and you know you have one little entrance to the dungeon there, but you have this little town with vendors there that are selling stuff.
+7:03
+You have your magic shop, you got your armor shop, you got your alchemy shop, all that good stuff.
+And you have drunks wandering around through town or intimidating looking fighter type people and it kind of feels like this very living breathing.
+Little town very reminiscent of Diablo's town.
+7:22
+Another major innovation here that Moria has brought to the table.
+Is the concept of a main starting town with vendors which we'll see repurposed again in ING band and a little game that you may have heard of called Diablo.
+This is probably the first instance of this also in any game as far as I know, especially for roguelikes.
+7:42
+We see this in Caves of Cud, we see it in Hades, we see it now just in kind of a lot of different games.
+But this main starting town has kind of a unique atmosphere to it, where you have every so often roving hobos and thieves that can pickpocket you.
+8:02
+In town you have very intimidating looking adventurers and you have your main stores that you can interact with the kind of help set your run up or return to after farming through the dungeon and, you know, get that, get that loot treadmill going.
+8:17
+So you have your general store, you have the Armory, you have your weaponsmith, you have a temple and alchemy shop and a magic shop where you can kind of, you know, determine how your build progresses.
+Oh, maybe I want to, you know, go and spec more into all these different magic spells and stuff.
+8:34
+But again, this is something that feels very Diablo for 1983, You know, almost more more than a decade ahead of it that that you know, you go through this procedural dungeon, you fight monsters, you pick up golden loot, and then you use your word of recall to go back to town, sell off all that garbage you don't want.
+8:55
+And then try to figure out how to progress your build from there.
+You also have a much more in depth RPG style character creation in this in Moria versus the original Rogue which was you were just an adventurer plopped into the dungeons of Doom.
+9:11
+But this time kind of borrowing more from the Tolkien aesthetic, you are have a whole bunch of more options to deal with.
+So you can pick from being a human or a half elf or a halfling or a gnome or a dwarf or a half work Oregon half troll.
+9:27
+You can pick your gender between male or female and then you can roll for your character background which assigns you an early history, gives you starting money in a social class based on that history.
+It's more just kind of like flavored text but but also can determine how much, how much gold you start with.
+9:45
+That can kind of start your build out, good or bad depending on how.
+And so it could be something like, you know.
+You are one of several children of a surf.
+You are a credit to the family.
+You have Hazel eyes, curly blonde hair, and an average complexion or something like that.
+You also have a bunch of different classes that you can pick right out the gate between warrior, mage, Priest, rogue, Ranger or Paladin.
+10:09
+The Tolkien theme here, I think is actually kind of light to be honest, but it it does give you a little bit more of a of a characteristic thrusts to the game than.
+OG Rogue does where that feels.
+Maybe a little more DND inspired in this case you know you are dealing with a few more magic or or items that are kind of tolkinified and as well as the big bad being the Balrog at floor 50 of the dungeon helps to kind of thrusted into the into that more Tolkien narrative so to speak.
+10:43
+But for the most part it still is kind of D&D ish.
+I don't really remember Aragorn using magic missile a whole lot in The Lord of the Rings, but but this is also the first open source rogue like specifically.
+So the seaport, which I guess is called Eumoria now by Jim Wilson, was the one that ran on Unix and that was the one that that really spread out and that one really kind of sets it apart.
+11:09
+From the OG Rogue, which was very much kept closed source but.
+I think the the idea of Rogue being closed source at the time really helped to kind of spur other people to say, well, I don't have the source code available.
+But wouldn't I guess like all these systems are easy enough to kind of internalize and have me build out my own systems that are like Rogue, but what if I did this with it?
+11:36
+Another feature between Moria and Which?
+Almost kind of starts this continental divide of roguelikes between Moria and Ng Band or what are called band games you'll.
+Sometimes see something that's like an asterisk band will maybe come to this more in a dedicated Ng band episode but.
+11:57
+Between band likes and hack likes.
+More on hack in a minute here, But one major principle of Moria is that levels themselves are not preserved when you go.
+Up and down, so notably you can go back to previous.
+Levels, I guess previous and air quotes you can go up to higher depth as it were in Moria, but every time you go up and down stairs in this game, the level that you were just on is re randomized.
+12:25
+This was, I think a A.
+Computational limitation, or not a limitation, but it was, you know, this, it's that kind of Iron Man meme.
+I was limited by the technology of my time sort of thing.
+Where you didn't have to worry about preserving monster locations or items that you had dropped on previous floors because all that stuff would be overwritten when you went to a new floor anyway.
+12:45
+Now, this causes a lot of big gameplay differences between Ng Band and Net Hack, but here we're talking about Ng Band's predecessor Moria, and in a minute we'll be talking about Net Hack's predecessor, Hack.
+But this kind of, you know, you go do it any different staircase, you go up or down it and everything.
+13:07
+Is totally different from what it was a second ago.
+Is a big deal with Moria and Ng band type games, and that's something that we we see here in spades.
+There's also other defining principles.
+Between band likes and hack likes, there's a lot.
+Of items in Moria and N band like games ranging from things like broken sticks to super amazing swords.
+13:28
+Your upgrade paths are really long as opposed to being super short, and your player character by the end is this kind of like God like super powerful character.
+By the end of the game, I think we have this kind of rosy glass.
+'S expectation that, oh, Rogue had this huge impact, but really I think it was Moria and Hack again, we'll come to in a minute A lot to say that kind of drove this initial push of open.
+13:56
+Source early hacker like forks of games and having the source code available and spreading through.
+Usenet was really something that set these games apart and just blew up in popularity versus something that, you know, you either had to have BSD Unix running.
+14:14
+Or access to a PDP11 or all those kinds of things.
+And so, yeah, it's, it's no surprise that that people have.
+Fond memories of Moria and Aangband and all of that stuff down the line from that.
+14:30
+And ING Band itself.
+The family tree from that has had a long and storied history itself.
+So ING Band we get in 1990, which is 7 years after this.
+That follows with the Tales of Majal with or well, I guess Tales of Middle.
+14:46
+Earth kind of directly proceeding from that Tolkien theme.
+But from that we also get Diablo 1 and more recently we get more kind of true to form and paring down the the the game to be as as Tolkien approved as possible with games like Sill SIL or Sill Dash Q but Inkband variants.
+15:12
+Themselves, there's a a a whole lot of them there are.
+Let me check my data here.
+There's probably like over over 70 as far as I know that you can find on ang band dot live, which is a site that you can go to to to play all these different variants that are being constantly maintained.
+15:30
+So.
+So there's a lot to say.
+About Moria, we could definitely do a full episode on this in the future, but in the interest of time and keeping things moving along, let's get to some community.
+Correspondence here.
+I have a few letters written in to us.
+That that we'll kick off with, and starting with Mancube, who writes us in on Macedon.
+15:52
+Grog pot at game dev dot place to say of Moria.
+IMO the best game in the roguelike genre.
+All sorts of enjoyable stuff came afterwards, but nothing better.
+Flexing muscle.
+Emoji.
+I also reached out to friend of the show Dan Reese, who I have previously done a an episode about Dwarf Fortress with which I'll link to in the in the show notes on a different podcast that astute listeners will will recognize Woody frequent guest on this show.
+16:25
+I was a Selda A.
+Infrequent guest on his video game podcast about N64 games at the time.
+And they had a Patreon going that let us talk about any game.
+So I picked Dwarf Fortress and Dan joined me on that episode and we geeked out a whole bunch.
+So I reached.
+16:40
+Out to him about his experience with.
+These older roguelike games.
+And so Dan writes us in to say I didn't play much of the old Star Trek game.
+We came into possession of three or four ancient CP/M desktops.
+They use floppies the size of LP vinyl records.
+16:58
+The machines had printers built into the case of the computer and a monochrome monitor.
+I don't know how we came by these computers.
+My brother was a computer guy, so it may have been some connection of his or possibly with my dad telling some friends of a friend that quote.
+Sure, we'll take those extremely obsolete computers.
+17:15
+My boys will love that I.
+Don't think we had much software for these computers, so we didn't use them much.
+I think there was some sort of spreadsheet software I didn't know how to use or care about.
+What we did have was Star Trek.
+This was a command prompt game where you sent the USS Enterprise around the Galaxy blowing up Klingons, Romulans.
+17:34
+I don't think there was any story at all.
+There was a grid display that would show your location and you had to track your energy Shields, torpedoes, etcetera.
+We didn't have any rule books and never got really far into the game.
+I always got the impression that was an independent project and it didn't seem like Gene Roddenberry style seeing as the whole game was about shooting aliens.
+17:51
+Never played Rogue or Moria but I have a played a lot of Angband.
+My brother somehow procured A floppy disk with Ng band playable on our old.
+Mac LC sometime in the early 90s.
+I was a lonely nerd who didn't have anybody to play Dungeons and Dragons with me, so it was just what I needed to scratch that itch.
+18:10
+I copied save files so I could cheat death, but never beat the game until just a couple years ago.
+The game libraries are on plaintext so I had fun modding weapons to be overpowered and read up on some monster.
+Secrets.
+Because I'm a cheater like that.
+I don't know how it is in Moria, but in Angman many of the monsters and almost all the unique enemies are based on JRR Tolkien's writings.
+18:32
+I break out my brother's copy of the Encyclopedia of Middle Earth so I could get a get the full lore on all the villains.
+I had read The Hobbit and the Lord of the Rings.
+But I had no idea who Castamere the usurper was, for example.
+Of course, in the game Castamere is just a purple letter P, but it helped with the immersion.
+18:51
+The display is an ASCII with the player being the AT symbol, which feels just right.
+It's a pretty classic dungeon crawler where everyone you meet is an enemy.
+There are no puzzles or NPCS or riddles, just killing and dying.
+It's all I needed from a computer game at 14 years old.
+19:07
+There is apparently an active development team and they've been updating the game over the years, adding new classes and tinkering around the edges of the game mechanics.
+I've been playing the most recent version and spent some time on forums reading up on strategies.
+I haven't tried any of the new character classes because I'm really scratching the same itch I had when I was a kid.
+19:24
+Nostalgia is a hell of a drug.
+Our next letter we have in actually is a voice letter sent in by Marco, who also goes by Toma and has a just a an absolute goldmine of 100 plus traditional roguelike reviews up on the resetera.com forums linked to in the show notes And Marco slash Toma here sent sent us in a almost like a 15 minute long.
+19:56
+Voicemail, which great stuff.
+I'll link the the the full unedited.
+Version 1 here in the show notes as well, but but here's some highlights for it related to to Moria, traditional roguelikes, and more.
+Hi, thanks for inviting me.
+20:13
+I am the guy behind writing the 100 rogue like impressions thread that you contacted me about and also working on my own rogue like called Rogue Elements.
+And yeah, you have some really interesting questions so let's just get right into it.
+My personal start into the genre of traditional Rolex was probably around 20 to 25 years ago with ancient domains of Mystery, also called Adam.
+20:38
+Later on it was the likes of Dwarf Fortress, Tales of Magia, probably like a million different England variants.
+I remember when there vividly was like Dragon Ball characters and especially the Chiron series.
+This something really powerful about exploring an imaginative world even on like a very bad computer.
+21:00
+Like these games really nailed that sense of exploration and discovery and just size that especially a young mind would probably be really impressed by mean what is more exciting than venturing into a new world and be able to explore it again and again not knowing what you will discover?
+21:17
+I suppose it did help that I also had a bit of an emotional investment into actually getting these games to work as I didn't have an Internet connection back then and I needed to use my own single floppy disk that I had to transfer games over from the school computer back to my home PC and sometimes in multiple trips just to get a single game to work.
+21:38
+I was incredibly surprised after playing all of these games last year by how much these early games like Rogue or Moria were already bringing to the table.
+Like I played these games for a long time, like the genre of rogue likes, but I never really looked into the roots and like the core games that founded this genre.
+22:00
+And I kind of figured that overtime the community would have expanded on it, would have made them grander, bigger at more features.
+But many features that we come to expect are actually based on what the oldest games in the genre already did.
+22:19
+Like of course they're also based on dungeons and dragon strobes of characters and their abilities.
+But it is still crazy that Moria, like it came from 1989 I believe, already has like 50 enemy types, a persistent town with shopkeepers, different races, abilities at bestiary that unlocks more information and more hints about the enemies.
+22:43
+The more you play the game, the more you kill of that type.
+And honestly, these older games generally feel like they have more content than most traditional rogue legs that are releasing today, which is a testament to how well these old games are still holding up.
+22:59
+Like I was really, really impressed by that.
+And I absolutely think like if you're interested in rogue likes and if you're interested in modern traditional rogue likes back to the turn based Orion, that it's absolutely still worth going back to the quote UN quote old games, because I don't think that the quality or that the the worth of playing them has fallen off as hard as other genres might have.
+23:23
+Yeah, Moria in particular is probably also kind of my white whale and that regard, like I would really love to just take some time to try to dig into trying to make some progress trying to beat it.
+But beating that game, especially without any strategy guides, is basically almost impossible.
+23:42
+Which of course also adds to the allure, even if that type of challenge and difficulty is admittedly also a design concept I don't particularly need in most rogue lives.
+But for that game and where it comes from and also, you know, where games were also intentionally very hard so that you could replay them and you didn't need to spend money on buying many other games, it does feel very special to have that as like a, you know, mountaintop challenge.
+24:11
+So yeah, huge respect each other to everyone who after years of practices to working on that and, you know, making their own character survive in that game, Absolutely impressive.
+And I do want to give it a proper try myself sometime, even if that might take a few months.
+When most people think of traditional role plays, I think they have a pretty stale and boring image of more or less the same type of game in their head.
+24:33
+Like, you know, just you look at the screen, you just see a few letters, you walk into the ladder and the ladder disappears.
+Especially if you take like the the Aski Ryan's with just, you know, with without any graphics.
+But there is quite a lot that they offer that no other game genre really does.
+24:51
+Like when I was play testing rogue elements, which is the rogue like that I'm currently working on, I intentionally gave it to players that like to test that didn't have much or any at all any rogue like experience at all.
+And it was fascinating to see how many players who never experienced these type of games absolutely ended up loving the moment to moment decisions and puzzle nature a game like this can provide.
+25:16
+Like which other games runway does that?
+Like it gives you a new puzzle and a new situation to solve without time pressure with every single step you make and every new dungeon you enter.
+Like every time you start the world, every time you you, you restart, every time you you take a step, every time you open a room, it's a new puzzle.
+25:34
+And most games, it's not a puzzle.
+Like if you open, like if you play a role-playing game, a Final Fantasy, or if you play an action game.
+Like opening a door usually doesn't make every step of the game a puzzle.
+It's a completely different way to think about how to engage with a game, and it's super neat to see that the appeal of that still works if players get eased into the genre with tutorials, you know, appealing graphics, maybe a bit more accommodating difficulty.
+26:04
+So yeah, I really think that genre, it's still very, very special and it's absolutely worth giving a shout out.
+I feel like many gamers are kind of missing out on an incredibly unique and deep game genre because of how small the visibility for these games is, in particular in the wider gaming space, despite, in my opinion, the genre having the most unique and original games basically every year for decades.
+26:29
+So, yeah, the review marathon I did last year was easily one of the most satisfying and enriching gaming experiences I had.
+Maybe less so for the few games that basically barely functioned.
+But that's why I hope that the impressions that I wrote can serve as a good starting point for the community or for people just interested in the genre.
+26:48
+Yeah.
+So thanks for having a practice on topics.
+Thanks for reaching out.
+I do hope more people get inspired and involved in making these games, making more unique ideas.
+Yeah, thanks for having me.
+27:31
+We come to it at last, the great preview of our time.
+We come to 1984's Hack.
+Not Net Hack Hack, the game that is the the precursor to maybe the most famous ASCII game still around.
+27:50
+Maybe even more so than Rogue 1984's hack.
+Was created by high school.
+Students Jay Fenlinson, Kenny Woodland, Mike Thorne, and Jonathan Payne from the Lincoln Sudbury Regional High School as part of a computer class after seeing and playing Rogue at UC Berkeley, where they had incidentally tried to get the source code of the OG 1980 Rogue from Glenn Wickman and Michael Toy.
+28:21
+But they had turned them down because I think the original Rogue devs wanted to commercialize the game and would do so later with a partnership with EPICS.
+So they didn't really want to kind of give out their their source material just yet.
+28:36
+I mean, this was still back in the era when open source development was kind of a new thing.
+So as a result of the high school students kind of hacked together their own version of Rogue from what they remember playing at UC Berkeley.
+28:52
+So that's that's kind of where the game gets its name from hack because of the hacking together from what they remember, as well as the hack and slash gameplay as well, which is one of the main Berlin criteria.
+And so after all their classes ended, they the program computer program had also ended.
+29:13
+So they, but you know, they had a working game at that point.
+So Fenlinson had provided the source code to a local USENIX conference, which was eventually uploaded to Usenet newsgroups.
+Ask your grandparents.
+29:28
+But this is kind of a a proto Internet forum that you would use your gigantic computer to connect to over a phone modem.
+But yeah, kind of pre Internet as it as it were.
+I mean you can.
+Still kind of.
+See archives of these on.
+29:44
+Google Groups and and kind of delve through the history on modern systems, which is kind of fascinating to see.
+But anyway, eventually Mike Steffenson took on the role as the lead maintainer of the Hack source code.
+30:00
+And then he decided to bring in Itzac Miller, a philosophy professor at the University of Pennsylvania, and Janet Waltz, another computer hacker.
+And then they dubbed themselves the Dev Team and wound up renaming their port of the code to Net Hack.
+30:19
+Since their collaboration was done over the Internet, they had expanded the whole bestiary of monsters drew from sources outside of high fantasies like Discworld, which you can see with the one of our the character classes.
+And despite this game being open source, where people could freely download and make a fork of whatever, the maintainers of this, the Dev Team made it so that only a few select members of the dev team could actually make modifications to their version of net hack.
+30:52
+So there's, there's other forks of this like like slash em and hard fought, but but net hack itself has kind of maintained this, this genealogy, this underinterrupted genealogy of the dev team for 40 years.
+Next year's going to be the 40th anniversary, which I think is is going to be a stay tuned and 1/2 for here on the grog pod.
+31:14
+I'm almost certain that we are going to cover the the real full on full-fledged get its own dedicated episode for net hack next year.
+So keep an ear out for that one.
+But your goal in 1984's hack is very simple.
+31:33
+It's very much like rogue.
+It's rogue like, if you will, where you descend 26 floors, you retrieve the Amulet of Yindor, getting a high score of collecting gold along the way.
+I think the the time to beat this ranges anywhere from like 5 to 5000 hours, I guess depending on what version you're you're looking at.
+31:55
+But I think my best guess is probably somewhere around 10:00-ish hours to beat the 1984 version of Hack.
+And some notable features that distinguish this from other versions that we've seen are we got starting pets.
+So you boot the boot this up and immediately you are being followed by a little meowing Kitty cat or a barking puppy who will follow you throughout the dungeon in in the first few levels if you if you're good enough to keep him alive.
+32:24
+You have a more explicit hunger clock here, which you can subside by in a very heavy metal fashion, eating the corpses of your slain enemies in order to keep your hunger clock at Bay, which may or may not have some debilitating deleterious effects.
+32:43
+So for example, if you kill a zombie or some sort of rotting monster and you eat its corpse, you might be sick as a result from that.
+You got some different character classes of stark departure from what we saw in Moria.
+32:59
+Your character classes here range between a caveman, a fighter, a knight, a speleologist, or someone who is I believe it's a a cave scientist, which might be a a reference to colossal cave adventure, who knows.
+33:15
+You have a tourist Speaking of Discworld, and you have a wizard class.
+And each one of these kind of starts with a different starting equipment.
+The wizard starts with a whole bunch of wands and stats.
+So you got your standard kind of DND stats, you got your INT, strength, charisma, etcetera, etcetera.
+33:32
+And for example like a wizard might be more.
+Tilted towards the.
+Intelligence end of the spectrum for casting spells and such.
+Kind of expanding a little bit on our discussion from Moria Hack like games have about 5 primary characteristics that separate them from Moria likes or Ink band likes or band games.
+33:54
+Number one is the persistent level.
+So when you go from one level to another, that previous level is saved in memory, which we kind of take for granted nowadays, but back then was a big deal because so you had so few limited computing cycles that that had to be stored in memory.
+34:10
+And more importantly, if you were to leave and drop weapons or enemy corpses and things on a.
+Previous level you could go back to.
+Them and pick them up so you could leave stuff behind and go back and pick it back up again.
+All that had to be stored in computer memory, which in the year of our Lord 2026 is also becoming a hot commodity.
+34:30
+So maybe we'll be coming back to this day sooner rather than later.
+Anyway #2 complex interaction of properties.
+So for example, this is something where like almost everything, and it has some sort of interaction with everything else in a in a very distinct manner.
+34:49
+And it's kind of hard to list all these out.
+Maybe see our upcoming net hack episode for for more detail.
+But an example of this would be doing something like equipping a silver ring in a weapon slot and then doing damage against creatures that are only vulnerable to silver but not any other weapons.
+35:06
+So there's a lot of that kind of emergent gameplay and system interactivity that you tend to find in in games like Hack, your inventory size is, I guess bigger because, you know, you have the levels that you can act as kind of more storage by just dropping stuff and coming back to it.
+35:29
+But you can also carry on many more different types of items than in like a Moria like game.
+The levels are also much smaller.
+If you know, in Moria you're you're running around this enormous labyrinth that's very maze like.
+But in hack it's it's a little bit more rogue in that you tend to just have like big open squares, small connected hallways between them.
+35:53
+And it's it's oriented to fit more in the the 80 by 20 square or tile size that a a typical terminal would be.
+Other games like your caves of Cuds or Adoms or Moria even tend to be like the level generation is a little outside that window, so it's a little more scoped in here.
+36:17
+Another difference here is you have a shorter equipment upgrade path.
+It's possible that the equipment that you start with right at the beginning of the game could be stuff like your end game equipment almost, depending on how good you you can maintain and upgrade those those charges to your Staffs and such.
+36:35
+Identifying equipment is much more important than upgrading it.
+Here you also tend to I identify items by using them.
+So as opposed to just dumping a scroll of identify on on everything, you might have to actually use a magic ring a few number of times or try to to sell it and see what its its cell value goes for to do different kinds of forms of identification.
+36:59
+There's maybe one one or more several little mini games that you can kind of meta game around within hack and net hack to to identify what items are without actually using identify scrolls on them.
+37:15
+And it has a shower power curve as well.
+So you know, while at Moria, by the end of that, you're some all fearing God killer here instead of, you know, by a factor of increasing your power by a factor of 2 hundreds, maybe like a by a factor of 10 to 20 or something.
+37:32
+There's no surface level town in Hack.
+You are just dumped right into the dungeon.
+And if you come across shops, it's similar to our previous episodes on like Shear and the Wanderer or Pokémon Mystery Dungeon, where you just have these tiny little shops in the dungeon with a, with a vendor there that you'll walk over a whole room full of regex characters trying to figure out which bow that you want and then paying your gold to, to leave or interacting with the shopkeep and all sorts of fun manners if you don't.
+38:06
+So Needless to say, there's a lot to cover with hack.
+It's has a huge legacy.
+There's a, there's so much in it that's going on.
+And we again, we might cover this next year in a, in a fully dedicated super episode with some special guests.
+38:21
+But let's jump to some community correspondence.
+We have a lot of it, so let's get right to it.
+Code and Clarity writes to us on our Mastodon Grogbot, a game dev dot plays to say Hack's influence on procedural generation and early open source game development is immense.
+38:39
+It's fascinating how much depth those original high school developers packed into it, laying the groundwork for Net Hack and an entire genre.
+A true masterpiece of design longevity.
+Spiffy Voxel writes us to say I played Hack in the computer labs at university in the late 80s slash early 90s.
+38:57
+In hindsight, probably too much rather than focusing on coursework.
+No novel. 9058 says same exact same.
+Started college 1984.
+Discovered the basement terminal room connecting to VAX systems running BSD Unix.
+Spent way too much time down there learning about Rogue, Larne, Hack, Moria Hunt.
+39:18
+We pretty much only paused for food, sleep, and occasionally to have some sessions of Cosmic Encounter.
+Great board game.
+One of my more fond memories was discovering a bug in one of the games, probably Larne, where if you started the game and hit Carrot C during the early startup process, literally.
+39:36
+Crashed the vax.
+It was a hilarious shouting of hey I've got something that crashes the system.
+Hearing back no way.
+Saying want me to demonstrate hearing?
+Yeah right, go for it then.
+Proving my case pre Internet baggage says.
+39:52
+I believe I first played Hack in 1984 on a VAX 11750 running BSD Unix at my university.
+We played mad dash, find a scroll, read it, find a potion, quaff it.
+I remember the first halfway decent game I had where I made it down to a level into the teens.
+40:09
+An Umber Hulk showed up and killed me with two hits.
+I'd never seen nor heard of an Umber Hulk before and it completely cracked me up.
+I mean WTF is an Umber Hulk?
+M Bergman, 42, says I played Rogue on a Sun mini computer in the early 80s.
+40:26
+Then we got hack.
+I remember my Co workers dropping everything at 5:00 PM and launching the game, thereby taking down system performance visibly.
+One time it was right after 5:00 PM and my Co worker like me, a guy right out of college, first job, first year, stood up in his cubicle, looked around and shouted hey everybody I just got a scroll that made my hands red.
+40:47
+Does anybody know what it does?
+It's a scroll of confused monster.
+That's how we found out that the division.
+Director, our boss's boss was.
+Playing two.
+Some advice needed says I played two as a kid.
+Even before knowing my alphabet.
+41:02
+I have a strong memory of my father pausing before before hitting aggressively the right arrow to attack a scary monster, as if the extra effort gave him a higher chance of killing it.
+Been there G Calfred 7 writes us to say.
+Been playing Hack since 1983.
+41:20
+Haven't won the damn game yet lol.
+Doctor Barfenstein, great name writes us to say My uncle bought a 286 PC that came with games.
+We had a PCXT ancient, no instructions.
+At the age of eight, my literacy was barely good enough, and we, me and my little bro, weren't even sure that Hack was a game.
+41:43
+We didn't know much about PCs at this stage, so we couldn't help.
+We couldn't access the help file.
+We pushed every key on the keyboard and tried to interpret what each button did by the dialogue.
+Had to consult dictionary.
+For words like quaff.
+And wield.
+It was ages before we learned that question Mark opened the help file.
+42:02
+No Internet, so no access to spoilers.
+We slowly built our own, writing down what we could or what we could eat, etcetera.
+We got good enough to get down into the maze levels.
+I think that was the first times that we got there just by digging down over and over and then freaking out when the floor became undiggable.
+42:19
+Never finished it.
+About a decade later I met a guy in high school.
+He showed me a game called Net Hack and I recognized it instantly.
+Pass 2 says I got a DOS PC in 1988.
+I played some version of Net Hack two first and after liking that checked out hack.
+42:38
+I think version 1.21 because I remember it had colors and that I wasn't used to in net hack.
+Never played much of it as Net Hack seemed superior.
+NT5 says I played Hack very briefly around 1990.
+42:54
+Elementary's school friend had it on his father's PC and he said it's kind of cool because it's quote like D&D, meaning the tabletop RPG that we played.
+So Hack was my first introduction to roguelikes.
+I quickly switched to Net Hack 3 Point O and when it was released in 1993 to Net Hack 3.1.
+43:12
+Concept of junkie says I played Hack in college around 1986 and loved it.
+I used to know what or which machines in the computer lab had 320 kilobytes of RAM.
+I didn't know if it made any difference but I always went for those.
+43:27
+I forget the exact version but I probably have it on my archives.
+I continued following it and Net Hack to this day, but I haven't played much in recent years because it's become so hard.
+Quote my what a yummy mango Drifts writes us to say.
+43:43
+Back in the late 80s, child me had a Mac.
+Occasionally someone would have me a floppy with mysterious goodies on it.
+One of those times it had Net hack for Mac.
+I quickly learned the controls and began exploring.
+I soon began having nightmares of randomly seeing the letter C in a hallway.
+44:01
+Pudgy Ninja says I got a copy of Hack on a shareware disk in about 1987.
+I loved it.
+I was familiar with Rogue, but this had so much more going on.
+There were plaintext files for fortune cookies and maybe the Oracle question mark.
+44:17
+Not sure on that part, but I poured through that for hints.
+The day I figured out how to level Teleport into Hell was huge.
+I just loved discovering interactions.
+This went on to shape the way that I played Net Hack when I first encountered it years later.
+I'm not going to say I was 100% spoiler free, but I did my best to avoid them and my first ascension took took me about 20 years.
+44:40
+After that I dove into the wiki, and that's been fun too.
+Of course you do.
+Says original.
+Hack is one of the first games I remember playing on my dad's Unix machine.
+I was a small child and terrible at it, of course, but I've come back to it later on, and while I don't play as much anymore, I still come back to some variant or another from time to time.
+45:02
+Listener says.
+My friend and I played Hack on my Compaq Luggable in 87 to 88.
+In college we played a lot of it studying.
+We also kept a log of artifacts for each player so when we found the ghost we'd have some idea of what was there.
+45:19
+I haven't thought about that for quite a while, but now that I'm racking my brain I think it's one of the ghosts.
+Was eats dirt?
+I expect I still have the notebook in storage.
+Thor War says I played it on an Amiga in the mid 80s.
+There's a big article about it in Amiga magazine and I was fascinated.
+45:37
+No idea how my dad got his hands on a copy in the pre Internet days.
+Maybe the magazine had a dial in BBS, but it somehow appeared on a floppy in our house and I played the hell out of it.
+Wizard of Yendor 1.
+Great name, says late 80s early 90s for me.
+45:53
+Spent untold thousands of hours playing it.
+Even printed off a guide on a dot matrix printer for reference.
+Still play it to this day.
+Only legit ascended twice.
+Jaso Kisa says I got a copy of Hack from a friend probably around 1985 to 1986.
+46:11
+Took a long time to figure out why my dungeon always collapsed after finding out I needed to to edit the options file to save to drive B with smooth sailings with our Olivetti Mt 21 dot dot dot.
+I can't even imagine how many thousands of hours I've spent playing on different versions.
+46:29
+What kept me coming back?
+Question.
+Mark, it was always.
+A new adventure, and I'm guessing the ASCII quote graphics left much of it to your own imagination.
+Finally, Bouquet.
+Bouquet says.
+My uncle worked at Sun Microsystems back in the day.
+He gave me a dial in account and I'd connect and play hack, hunt the wumpus and Zork.
+46:49
+After a few local computer group meetups I discovered Moria for this Commodore 64.
+Then picked up NET hack on the Unix server in college.
+Took a 20 year hiatus.
+Only really got back into online play about 15 years ago. next game on our list here is 1986's Larne, developed by Noah Morgan, who was a developer at the Digital Equipment Corporation, who are the creators of the PDP mainframes that we've seen.
+47:46
+Basically all of these games either been developed on or exist on for the most part.
+So really the kind of beating heart of the original roguelike scene.
+And in this Inlarn takes a stark departure from a lot of the other games that we've covered thus far in that it is much faster.
+48:05
+So your goal here is that your player character's daughter is sick and needs to be cured within a certain time frame and good standard trope.
+And the the how long to beat for this is much shorter.
+This is a game, a roguelike that you could probably beaten anywhere between 30 minutes to like a couple hours depending on how how pro at ASCII interpretation you are.
+48:28
+The most notable feature here with Lauren is it's I guess maybe hunger clock slash time limit.
+I guess it's not really a hunger clock per SE 'cause you're not going hungry, but you have your, your daughter is going hungry for that poison cure and you only have 300 mobiles in air quotes or or time units.
+48:49
+So so you have that clock to to tick down to beat this game before all hope is lost.
+This game comes with 100 difficulty levels to it as well, which you can almost kind of think of as like early, almost kind of like early ascension levels in a way.
+49:07
+You have sort of an overworld to this game.
+I would say maybe like a cross between like a home village like you would from Moria and maybe like a like an overworld.
+But notably you also have taxes in lard, meaning that after you win the game, your player will owe 5% of your score in taxes, and you're not able to interact with the DND store or the bank in subsequent games until you've paid those taxes and then payments toward the players.
+49:40
+Taxes accumulate across multiple games as well.
+Almost kind of like a taxation meta progression system.
+The the main dungeon to this game is up only 10 levels, but it is very tight, it is very focused and very quick.
+It's almost kind of like you're getting a speed run experience of of a traditional roguelike.
+49:59
+But you also have a parallel dungeon called the Volcano which can be thought of as maybe hard mode.
+That is only 5 levels.
+So if you even wanted a more turbo experience than the turbo, you got a a molten option down there.
+You put up a game alarm and you are greeted with this fun kind of flavored text that says welcome to the game of Larne.
+50:21
+At this moment you face a great problem.
+Your daughter has contracted a strange disease and none of your home remedies seem to have any effect.
+You sense that she is in mortal danger and you must try to save her time.
+Ago you heard of a land of great danger and opportunity.
+50:37
+Perhaps here is the solution you need.
+It's been said that there once was a great magician who called himself Paulinaeus many years ago.
+After many miraculous successes, Paulinaeus retired to the caverns of Larne, where he devoted most of his time to the creation of magic.
+50:53
+Rumors have it that one day Paulinaeus said how to dispel an attacking army in a forest some distance to the north.
+It is believed that he there met his demise.
+The caverns of Lauren, it is thought, must be magnificent in design and contain much magic and treasure.
+One option you have is to undertake a journey into these caverns.
+51:12
+Good luck.
+You're going to need it.
+I think this flavour text is great.
+It really gets you seeded into the moment instead of just being like, all right, Yep, you're in a dungeon, go for it.
+I guess to some extent, maybe the commercial version of EPIX Rogue had like a a manual that had a little more flavour text to it.
+51:32
+But this is this feels very fun to me, even though that like a lot of the stuff doesn't really impact any part of the game at all.
+Like you're not going to some forest in the north to hunt down Polyneus or anything, but but it's good.
+It's some good world setting, I think.
+51:48
+So in the, in the overworld, you have a, your kind of main town that has like a, these are all represented with just like single letters by the way.
+So it's, you're kind of running around a big open space.
+And at first you might be thinking like, oh, is there something wrong with my monitor?
+I'm only seeing like 5 characters on the screen.
+52:05
+That is your overworld.
+Those characters are the, I guess buildings that you go to, but you have a college, a bank that pays interest, you got the tax collector, you have AD and D store, of course, like all rogue legs need and you have a healer.
+So there's, there's some meta systems going on here.
+52:25
+You can go, you can go go down and grind some XP and then you return to town and buy a spell with knowledge and study time.
+But it's worth noting that these, these this time clicks down the the mobile clock.
+And if you're sitting down spending sitting in town and you're spending money, your daughter's death clock is still ticking.
+52:49
+So you have to be very decisive and judicious about what what you're spending your time on between dungeon Dell loving and coming back to town and how much is that going to help you level up to go even further deep down into the town.
+And so Lauren kind of sets the stage for I think the the sub genre of coffee break roguelikes or games that you could really just kind of sit down and play in one sitting.
+53:15
+Maybe.
+Well, let's say like you're taking your time with that coffee for 30 minutes or a couple hours.
+But for things like like Doom RL or stay tuned bro for Part 3 or Hoplite or some of these other games like these are like pretty quick experiences.
+53:32
+And I think they kind of owe a lot back to to Larne, which as is a stark departure from things like Morio, which can take dozens or possibly hundreds of hours to beat or hack.
+Which, you know, as we listened in on some of those letters, some people take years or the decades to beat.
+53:54
+So Larn is a is a good way to kind of dial that back down a little bit to say, hey, you know, maybe these games can actually or maybe should be beatable in an hour or two or something like that.
+We got an e-mail to the podcast for which you too can send in at grogpodzone@gmail.com from Jay, who is the maintainer of the larn.org website.
+54:19
+Who says hi Scott.
+The short version of what I'd like people to know about Lauren is that it is like rogue like espresso.
+It's everything I like about the genre in a delicious concentrated dose :).
+For a longer answer, here is the answer I gave to a Finnish magazine a couple years back.
+54:38
+I think I was about 10 years old, 1986 when I first played Larne.
+My brother was older and in university at the time and he brought the PC version home one day.
+Me and my best friend Rob were obsessed with it.
+We continued to play for decades after.
+54:55
+Rob is still my main beta tester and is undoubtedly one of the best players of the game.
+If you look at the scoreboard, Rob the Warrior of Doom is the top scorer in Larne, and you Larne by a very wide margin.
+I think my favorite part about the game is that it's relatively simple and yet infinitely replayable.
+55:13
+You can dial in the difficulty to whatever you want and it stays well balanced.
+Nowadays, I usually just play at the easiest difficulty and treat it like a relaxing, contemplative koi pond.
+There's never really any danger that I'm going to lose, but it's always fun to see how I'm going to put a win together.
+55:29
+There's almost always something that you can do to get yourself out of a tricky situation.
+Cheers.
+Also read off this this review that Toma who sent in the the very nice long voicemail for for our Moria coverage.
+Who says Lauren is another granddaddy in the genre, defying a lot of the usual roguelike conventions, with the first version appearing in 1986 and getting a graphical overhaul version on the Steam slash phone in recent years.
+55:59
+I love seeing how different the ideas were back then, considering how much of the roguelike structure we take for granted.
+The starting town has a bank to save up some money and office to pay your income taxes in AD and D store.
+You know, the usual roguelike elements.
+None of this is terribly complex, but as with the rest of the game, it gives the game a very distinct personality and challenge.
+56:18
+It's less of an endless vast playground and more of an ever changing and concise puzzle box.
+It only has 10 dungeon levels to conquer, but knowing how and when to approach certain enemies and how to use the dungeon elements to your advantage is a part of the challenge that you will need to figure out instead of the game providing you with everything you need in handy info boxes.
+56:38
+In line with game design of the 80s, a lot of the game information is a bit obscured.
+Not in a way that would make you throw the game at the wall, but quote.
+What does it mean if the game tells me I feel a loss of sense or what are all these statues for or what do I even need to pay taxes?
+56:55
+You will need a healthy dose of curiosity here, but it's all relatively self-contained in just a few dungeon levels.
+You can also keep trying a few times to see what things do without ever feeling like you wasted a ton of time.
+It's very much intended to be a shorter rogue like experience that you can retry and hire difficulty after beating it.
+57:15
+Speaking of which, the game has 99 difficulty levels that you gradually unlock, making this very concise puzzle challenge harder and harder while allowing you to slowly get used to the tools at your disposal and learning new ways to use them, or exploring other spells, slash items, slash level elements that you might not have needed before.
+57:32
+It's a cool system that has a lot of tactical considerations and surprises in store for you, even if the first impression makes it seem a bit dry.
+It's definitely an experience worth looking into and seeing what this puzzle box throws at you.
+Oh also shift plus movement speeds U exploration a ton making it a lot more pleasant to play.
+58:13
+Finally, our last game that we'll we'll talk about here is the 1987 Rogue Like Omega, developed by 1 Lawrence brothers at Rutgers University.
+And the goal here is kind of open-ended.
+58:28
+It's not really very obvious at the start what you should be doing, which we'll get into in a minute.
+But is is, is part of this game's maybe kind of guiding ethos of being an open world roguelike game, which was kind of unheard of for 1987, I mean, let alone open world games in general.
+58:49
+But but as you start, if you visit the the Duke of Rampart, he'll tell you to bring him the head of the Goblin King.
+And if you do that, he'll ask for the holy defender, which can be found in possession of the of the worm, which is located 20 levels below the city's sewers.
+59:09
+And these quests continue until you eventually travel to to different astral planes and bring the Duke, the orb of elemental mastery, where at which point he steps down and you become the Duke, which could be the ending of this game, maybe one of many.
+59:25
+But there's also seven at least different religions that you can join at least six different guilds between things like Wizards, college, Sorcerer's Guild, thieves Guild, mercenaries, the arena, the Paladins, and there's an alignment system being lawful good.
+59:44
+And I think as a paladin you have to maintain lawful good by not proactively hitting monsters otherwise you lose your lawful good status.
+There is also the adepts challenge in which you can literally fight death himself which I believe every time that you kill him I think he he keeps popping back up stronger and stronger and the only way.
+1:00:08
+To really win this encounter is just to jump through the void, which I believe is is some sort of equivalent to winning, but the game just deposits you back into the the main overworld wilderness to kind of continue slogging on.
+So almost kind of something like where it reminds me of like risk of rain in some sense of like annihilating yourself with like the space-time pillar.
+1:00:29
+Anyway, how long to beat has no idea how long this game is.
+I don't think most people know how long this game is, but if I had to gut check I would say anywhere between like maybe 20 to 40 hours maybe just because of how deceptively huge this game is.
+1:00:46
+Like I said kind of earlier.
+Notable features.
+This has a large overworld with multiple cities and dungeons as opposed to just focusing on a single dungeon descent.
+There's elaborate Guild systems, complex character advancement, multiple victory conditions, detailed world simulation, NPC interactions, I mean, you name it, it's got it.
+1:01:06
+For a solo dev effort in 1987 for a traditional ASCII based roguelike game, man, this is it's got quite a lot going on with it.
+One example, I mean, when you first boot up Omega, it kind of sets the stage for this kind of very, very fun, thoughtful flavor that it has going on for it.
+1:01:29
+It will, it'll boot up, it'll tell you who the the Lord of Chaos, the Lord of Law is, who's the the Duke of Rampart right now.
+Even going down to like, you know, all the different like Guild leaders, the high priests, the arch druid.
+1:01:47
+I think these are all randomized every time, unless Humperdinck is the the Lord of Destiny every time, which would be pretty great.
+But but as we advance through you can you can go through like a very in depth, almost Pokémon Mystery dungeon style character creation sequence that asks you a lot of personal details of like how much can you bench press?
+1:02:14
+What's your favorite flavor of ice cream kind of thing that I don't know how much bearing that has on really your character creation.
+But it's kind of fun to to play this little almost kind of character creation Quizlet to start this game with.
+1:02:30
+But but you continue on and eventually the game starts with it's a blink and you miss it kind of the kind of a thing because for something that's played in a in a terminal, it starts with something like, oh, you're just at your average day of work.
+1:02:46
+The text says the project demo is due tomorrow, or that is today at 9:00 AM.
+It's now 3:00 AM.
+Printouts, pizza boxes and Szechuan kitchen trays litter your desk.
+And the bitmap scream seems to warp in and out of focus.
+1:03:02
+The compiler seems to be taking forever.
+You do a routine check on your file system.
+You in almost kind of an inscription like way it.
+It has a list of stuff on there it says how odd.
+The slash secure file system definitely shouldn't be mounted.
+1:03:21
+It must be space used by the Omega team.
+A very hush hush project you know nothing about.
+Well no wonder the compiler is wedged.
+You don't seem to have any disk space left.
+Unfortunately there is no night operator and you don't know the SU password.
+1:03:36
+Pseudo as a word.
+Cursing.
+You figure you can at least find out what the damn Omega group is doing and you the the game like types in these these Linux commands of like you navigating a Unix or I guess in this case Unix file structure of someone going in and reading the the read me for the Omega project and it says if you are reading this file, you should not be reading this file.
+1:04:00
+Call your project cadre leader at once.
+To which the player character says not bloody likely.
+You search for a doc.
+Not big on documentation, huh?
+You search for the source code.
+Wow, that must be mondo Parallel C for the new optical machine.
+1:04:16
+Then you find a a runtime that just says Omega.
+Well hell, what can happen if it does?
+It's not my fault the damn SOP file system is mounted.
+You execute the Omega program.
+The the the readout says this was definitely a mistake.
+1:04:34
+For long moments, nothing seemed to happen.
+There is a flare of bluish light from the workstation screen, like a brightness of 256 on a scale of zero to seven.
+You wake up with a serious headache outside of the massive gates of a walled city.
+You notice a pouch at your side that seems to be filled with gold.
+1:04:53
+You seem to hear a faint voice fading off into the distance.
+Interrupt sigzap AT0X0.
+Dot dot dot and then you are greeted with a giant wall of ASCII that is the city of Rampart.
+1:05:09
+Your little AT symbol is kind of standing in this long Causeway surrounded by capital GS or town guards, and there's more hashtags than you can shake a former Twitter platform at that that indicate the the buildings in the city of Rampart.
+1:05:30
+So you'll you'll notice that you have like your HP, mana, your gold, what level you are, all of your other DND kind of stats as well on the screen.
+But it can be a little visually overwhelming at first like, well, there's this is a lot more stuff to look at than what Lauren was giving me to work with here.
+1:05:47
+You can do stuff like you can talk to the town guards who say moving along, they're peasant.
+Keep keep moving.
+And if you accidentally bump into them, yes, of course they'll bludgeon you to death, like all good fantasy fantasy games.
+But as you are trundling around through the the city of Rampart, there's all sorts of places to go in and visit.
+1:06:07
+It's almost kind of like an Imperial city from from an Elder Scrolls game where you'll you'll have the city gates, you got your pantheon, you have your collegium magi, your mercenaries Guild, your sorcerer's Guild, the bank statue garden.
+1:06:23
+You got the hedge maze, there's a cemetery, you got the main castle, you got the city jail GAOL, which is great.
+Got the order of Paladins.
+And most importantly, you have the arena and gladiators Guild, which I think most people will go down to the bottom right corner for the gladiators Guild and grind some gold there in order to go up to the the to the order of the Paladins.
+1:06:49
+Or you can start getting some decent gear to to start with.
+But typically you'll go to castle Rampart.
+You'll say, oh, I got to go and fight the Goblin King or go go down to the to fight the worm.
+But there's this big nasty hedge maze in the center of town that's filled with all sorts of traps and monsters and such that can throw you off your horse and kill you almost instantly as soon as you have started the game.
+1:07:16
+I kind of want to read through some of this old Usenet thread from alt dot games dot Omega posted by the Mulner Research project on May March 24th, 1993 that kind of goes through like a, a, a guide on how to cheese Omega for for some for an easy victory.
+1:07:39
+But but I won't read through the whole thing.
+It's a big thread.
+I'll maybe link in the show notes here.
+But just to kind of talk through a little bit jumping around around here there to kind of give a little bit of of sense of scale and just depth to what you have in store for Omega.
+They say I got this spoiler from Wreck dot games dot Misk a couple years ago.
+1:08:00
+I don't know what version it refers to, but I've tried it and it works.
+Here's the formula to absolutely destroy the game of Omega.
+Major spoilers.
+As you would expect, the formula mainly revolves around becoming an adept as soon as possible.
+I think that's your like your your rank overall in the game and abusing the infinite wish privilege.
+1:08:19
+If you're familiar with the game, you only need to look at the headings of the various steps.
+Further information is included.
+Blah blah blah blah blah.
+Starts with step one.
+Give one gold piece to the Hospice.
+This makes you marginally lawful so the paladins will accept you.
+1:08:35
+Step 2, become a paladin.
+This gives you free horses, a new one whenever the first one dies or you let go, which from what I've seen happens a lot.
+A free meal and free curing whenever you get sick or whatever.
+It also gives you a lame weapon #3 stock up on food #4 is conspicuously missing #5 Buy some kind of armor.
+1:08:55
+Don't waste money here, The armor eventually will go away.
+Buy soft leather.
+Step 6.
+Go to Woodhenge.
+Talk to the arch Druid.
+Woodhenge is loaded 6 squares north and three squares West of the village of Woodmere, which is at the north fork of the road.
+1:09:12
+Pass through the altar, but do not worship.
+At the northern end of the temple.
+Search for a double hidden door on the West wall.
+The Arch Druid is in the room at the end of the hall.
+You'll gain 3 experience levels for justice talking to them, which will help you survive in the wilderness.
+Do not use the Sea of Chaos trick to gain experience, you need the ability later.
+1:09:31
+Avoid any conflict in the wilderness.
+The creatures are usually way beyond you.
+Next step, go to the Law Stone Ray's constitution.
+It's located in the village of Star View, which is in the northeast corner of the map.
+It is located.
+It is marked with an 8.
+1:09:47
+Keep worshipping the stone into your Max con is raised by 10 the stone.
+The stone glows cosmic.
+Various things may happen to you before this happens.
+Here are the only ones to worry about 1.
+You start to foam at the mouth.
+You become berserk.
+This is no problem unless you moved next to another creature.
+1:10:04
+Avoid this until you are healed.
+Healed.
+Do not move next to any guardsmen or you'll die.
+It's supposed to wait this out before continuing to worship the stone. 2A portal opens and a confused monster appears.
+A monster appears.
+This is the the worst reaction.
+The simplest solution is to go back into the wilderness and re enter the village.
+1:10:21
+The game forgets village information after you leave, so the monster will disappear.
+Three.
+You developed an advanced case of leprosy.
+You become diseased and dropped to 1 HP.
+You get cured at the Tavern drinking totally more drew Do until it totally cures you.
+1:10:39
+If anything, wait for all of your HP to return.
+You are struck by lightning, causing a lot of damage.
+This is why you need your HP to attempt the the worshipping.
+I'll scroll through some of these here and let's maybe jump to to number 16 on the list here.
+1:10:56
+Go to the Temple of Destiny is located 8 squares E and 16 squares South of the village of Scorch.
+But don't go through the desert or over the mountains.
+Go West around the southern mountain range, then South, then east to the jungle.
+You have to go through the jungle.
+1:11:12
+The Temple is surrounded by 8 squares of Chaos Sea.
+This is the landmark to look for.
+The temple is at the center.
+Cross the Sea of Chaos.
+You may do this once only and enter the temple.
+If you got to worship at the altar in the city, you will die.
+Step 17.
+1:11:28
+Enter the abyss.
+It is the 0 character in the middle of the temple.
+You'll have to dismount your horse.
+If you worshipped at any other altar except that of Destiny, the Abyss will not appear. 18 could complete the Adept challenge.
+Need to have intelligence, constitution, power, and strength.
+1:11:44
+All 30 or above enter the four elemental stations, Fire, earth, air, and water.
+Do not back down.
+Death will appear.
+Defeat him with your bare hands, no big deal.
+He should come back to life and laugh at you or some such.
+There is a bug where he does not come back to life but his corpse is labeled.
+1:12:00
+I can't believe you were seeing this.
+Don't pick up the corpse.
+In this case, pick up the Scythe of Death and throw it into the abyss, the blank space in the center.
+Then jump in.
+You should become an adept some quick community correspondence here.
+Ian Badko writes us on our Mastodon Grog pot a game dev dot place to say I remember Omega with great fondness, particularly the create your character via answering questions, opening scene and such quips as Congratulations, you've achieved maximum entropy.
+1:12:31
+Cordon C wrote us to say it is 1993 I am playing Omega.
+It is 2004, I am playing Omega.
+It is 2016 I am playing Omega and it is 2026.
+Once again I am playing Omega.
+1:12:47
+Why?
+I played most of the old roguelikes while avoiding study in the 90s, but Omega is the only one I regularly return to.
+It's not the best of its genre.
+The inventory system is, if I'm being polite, unusual, The early game RNG brutal, the late game too soft, and I've hit more than a few bugs along my journey.
+1:13:08
+However, it was a mega scale that attracted me to the game.
+There is a sense that a whole world, or at least an island, exists around the dungeons that provide most of the usual action.
+There's a town to investigate, which has more happening than just a place to restock.
+1:13:24
+Outside the town is a countryside to explore, with villages, wild animals, and of course, the occasional dungeon. 2 Omega is an early attempt at an open world.
+These early rogue likes are a hive of experimentation.
+They are the indie games of their time.
+1:13:40
+So many ideas were thrown together by people trying to recreate their tabletop RPG sessions.
+For me, Omega succeeded more in this than it failed.
+It feels like there was a world continuing along regardless of the player's actions.
+This isn't true, of course, but it's the impression that counts and that is enough for me.
+1:14:10
+All right, well, welcome back a full.
+Week after our last recording, wink, wink, as it's more of like maybe more of like an hour for us in the in the previous times.
+Yeah.
+So once again we are recording our sort of live first impressions, this time with the real roguelikes, the capital R roguelikes, the first generation, the first wave of games in the wake of Rogue.
+1:14:37
+We have our 1983 roguelike Moria, which has given birth to our wave of Ang Band games and Diablo clones and such.
+We have our 1984 release of.
+Hack.
+Which has given us our 40th anniversary of Net Hack.
+1:14:54
+Coming up next year, we have our 1986 release of Larne and our 1987 release of Omega.
+And yeah, so our our last week we kind of talked about how the games that came before Rogue had influenced it and how Rogue has sort of how do we, how do we feel about Rogue in that context?
+1:15:15
+In this context, it's I feel like it's more of how do we feel about ASCII games?
+We we played all of these in ASCII.
+I guess maybe we'll talk a little bit more about Hack in a minute, but Maskey games particularly from the early 80s as like the first wave of things that I'm sure have had many Polish passes since then.
+1:15:37
+But but there's two biggies and two smallies between the biggies of Moria and.
+Hack and then the two smaller ones of Larne and Omega.
+So I guess maybe I'll open it up to the floor again of how do we feel about this first wave of games within the wake of Rogue since back in this time period?
+1:16:01
+Well, I can tell you how some of the developers feel if you go into the Omega, like read me information, one of the pages explains that.
+Oh well.
+This game is similar to Rogue, but Rogue is a very simple game.
+1:16:19
+It specifically describes it as a simple game and then proceeds to talk about how great their game is and how you know we don't need to worry about this Rogue.
+And interestingly, Omega doesn't even use the term rogue like it.
+It uses the term Rogue style, which I think would have been kind of a fun what What if that had taken off as the genre title Rogue style?
+1:16:42
+Games.
+I almost feel like that might be coming back.
+Because people are so bent out of shape.
+About what rogue like or light differences are.
+Rogue style feels like a much more diplomatic approach to that.
+I think, I think it may be, I think it may be Well, none of these games improved on the graphics issue.
+1:17:02
+Welcome to the Dungeon is still reigning supreme in in the graphics department for Petit.
+Five you.
+Mean for Petit 5.
+Excuse me Petit 5, Welcome to the dungeon.
+In some ways they're worse.
+In fact, I would say that Moria is more visually complicated and it was like harder to to stare at.
+1:17:22
+In a lot of ways, it's visually more complicated.
+There's a lot more stuff going on.
+Yes.
+But in in a in a good and bad way like Rogue is simple enough that you can get away with just having ASCII graphics.
+1:17:37
+These are starting to, you know, there's, there's a lot more stuff.
+Happening it's so more so much more dense yeah exactly yeah yeah, yeah, that's that's a great point yeah totally.
+That's that's very true.
+That's very true would have been nice and and to that point it it makes me it it it reminds me of how thankful we all should be for the graphical update that cud got yeah because even though I mean.
+1:18:03
+Well, Endorf Fortress.
+Endorf Fortress like.
+Obviously you know the fidelity, it's not, it's not super high res, but like having those bespoke images for individual things is.
+It's such a incredible leap forward in terms of the readability and everything.
+1:18:20
+That being said, I think overall ASCII games are perfectly playable.
+I mean not perfectly, but they are playable.
+I understand the there's definitely something like good about ASCII in terms of you can get a lot of visual density in there too.
+1:18:38
+I think that playing I'm right now I'm staring at the screen for Moria and Lauren and I think one of the biggest things that hurts Moria is lack of color like.
+Boy color is.
+Really useful in terms of differentiating things.
+Having it just be pure black and white and is like kind of rough.
+1:18:56
+I guess to be clear for listeners, the the things that we're playing, 'cause there's a lot of different versions for these things that exist out there for Moria.
+We're playing you Moria from oreumoria.org I'm pretty sure is what it is, which is all black and white.
+1:19:12
+I don't I don't think that there's a tile set option.
+Larn we're playing from larn.org.
+Hack, we're playing from Donnie Russell the second's website, which is a JavaScript web, web browser based version of Hack and Omega.
+1:19:29
+We're also playing from Donnie Russell's website with a JavaScript implementation of Omega.
+So some of these.
+Yeah, I know.
+I have no idea what they looked like in their original implementation, but that that's more just a comment of like, Oh yeah, even Moria.
+1:19:45
+And I'm sure that the later versions of Moria derivatives had color.
+And I bet you that that helped in terms of like the readability of the of the game.
+But like you were saying, like with information density, so like Moria is, is the first Rogue.
+1:20:01
+Like like this was the first thing from Rogue's wake.
+And because Rogue wasn't open source, people had to scramble together like, well, like, oh, I think Rogue kind of worked like this.
+So I'll type, type, type, type, make my own Rogue.
+And we can immediately see how stark of a departure Moria is.
+1:20:17
+Honestly it feels like the game genre should probably be moria like and not rogue like.
+Like more stuff feels like this feels more like the rest of the genre than Rogue does to me.
+Interesting.
+Interest in terms of like the twisty passage corridor exploration stuff and like the inventory system and yeah.
+1:20:40
+And the fact that there's a town is, is something that, you know, I associate with rogue like dumb and, and, and even traditional rogue likes.
+Yeah, I think one thing that kind of sets Moria apart from the others, well, we'll get into Omega here in a minute, but maybe length and like how long the game is.
+1:21:02
+So Rogue itself is not well, I mean it's 25 floors.
+You could probably beat that in a few hours if you were really good at it.
+Moria, I think might take.
+What were you?
+What were you telling?
+Us I think it maybe takes 50 hours to be with a single character because the end boss.
+1:21:18
+So you're you're grinding through 50 floors in Moria to fight the Balrog.
+Of Kazaa doom at the bottom.
+As you would expect from a Minds of Moria game.
+And I think the in in in classic Diablo fashion, you're grinding monsters for XP and loot and you you have this loot cycle where you go back to town, you dump all your stuff and you're you're building up your character that way.
+1:21:43
+Versus something like Rogue or maybe even like Hack or some of these other games that your build is much more determined by the stuff you pick up, which I think helps to streamline it.
+So Moria already is kind of a a very stark departure from that with like way more.
+1:21:59
+I almost think of Moria as like a permadeath RPG and less of a rogue like specifically.
+Well, and specifically looking at that as compared to something like Caves of Cud, where Caves of Cud is not kind of like a roguelike RPG, it's explicitly a RPG with roguelike elements, so.
+1:22:21
+Yeah, I mean Moria, the token theme as between our our DND and Tolkien experts here did how much of A of a token aspect do we get from Moria here?
+Well, before we get to that question, it it occurs to me that if I'm remembering correctly, which I I might not be, could Tolkien could have seen Moria?
+1:22:48
+Potentially he could he.
+Or his lawyers may have.
+I did he did he live till?
+Well, maybe not.
+No.
+Oh, my mistake, I thought.
+I thought we were still in like the early 80s probably.
+You know what, never mind.
+I'm a terrible nerd as someone.
+1:23:04
+Who's read a lot about Tolkien?
+I'm guaranteeing that he didn't see it.
+He wasn't.
+That kind of guy, I wonder.
+He wouldn't have liked it.
+That's probably probably wouldn't have liked.
+It Tolkien was a much more he was, yes, meathead.
+Yes, exactly.
+1:23:20
+He was.
+He's like, where's the, where's the first person perspective?
+And oh, the the blood and guts and the ripping and tearing.
+So a great impersonation, by the way, for the record.
+So what do we think as as as as long time D&D heads?
+1:23:37
+I don't know.
+How much D and Tolkien?
+It seems more like D&D than.
+Tolkien.
+Oh, for sure.
+Like it's got the the six stats, you know, right that that.
+Charisma is written out as Chr instead of CHA, but.
+Yeah, but yeah, like it's, I don't, I don't really know how they're used.
+1:23:53
+It didn't seem, I mean, we didn't play it for long enough.
+Yeah.
+I mean Andrew got killed within like 4 seconds of being in.
+The Yeah, first character, I spent a lot of time in town gearing up, and then first room Yeah, didn't.
+Even have.
+Two cobalts jumped me and many such cases, you know, that's what.
+1:24:11
+You get for haggling so bad with the shop.
+That's true.
+This game has a very involved haggling system, y'all, And a lot of like specific, like a big bunch of different, a large collection of lines and and phrases that the shopkeeps will use, which is very entertaining in the in the haggling process.
+1:24:29
+So yeah, it feels a lot like Dungeons and Dragons.
+Obviously your goal is to go and kill the Balrog, which is is, and obviously the game is called Moria.
+So very Lord of the Rings.
+Is it more, is it more D&D than Lord of the Rings?
+I'm not sure.
+Something I do want to call out is that you can stake shut.
+1:24:46
+You can use a spike to spike shut dungeon doors, which is something that you would do in a proper old school dungeon crawl experience in Advanced Dungeons and Dragons, and I was delighted to see that as an option here.
+That is one of the most advanced Dungeons and Dragons things you can do.
+1:25:02
+A spike?
+Shut a door.
+I looked it up.
+Tolkien died in 73, so he definitely did not.
+Not even.
+Close.
+Not even close.
+Definitely.
+Did not, but Tolkien Junior.
+But maybe he played.
+Star Trek Tolkien almost certainly is aware of the existence of this game.
+Indeed, so he had to.
+1:25:19
+Stick.
+I'm not sure he's still alive though.
+No, he's, he's long.
+I think Tolkien was.
+Born in 1892, that's a he's a he's a from a different age thanks to Betsy it.
+Was a simple which age exactly the first?
+Age.
+The The Third Age.
+Boom.
+OK, So yeah, obviously there's no party system.
+1:25:39
+So in that way it doesn't feel super D&D.
+But that's, you know, Lord of the Rings obviously you associate with having a party as well.
+So I don't know, what if you, if you had to say, I don't know, just for funsies.
+Is it more D&D or is it more Lord of the Rings?
+1:25:56
+Colin?
+I would say it's more D&D.
+There you have it.
+You.
+Played way more of it than me so.
+Well, it's just like it's, it's more fantasy video game like you got the, you got the six stats, you're got your like your, your shopkeeps stuff.
+1:26:13
+It, it feels like this feels like a, a, a video game now, like the other ones feel like the, you know, oh, they're on the path to video games, but they're like precursors.
+They're getting there, yeah.
+1:26:28
+Like they're, they're missing a lot of elements, like they haven't settled into the format.
+And even this one still has a couple of things like like Charisma being Chr instead of CHA.
+It's like, but that's a pretty small nitpick in terms of we're we're getting to like, oh, these random 6 stats that we've chosen are like the sticks that are now what, 4040 years later, we're still putting the same 6IN video games.
+1:26:54
+And when it's a choice, when you depart from them, yeah.
+It felt very DND to me also 'cause I was playing once again on my Steam Deck on a Game Boy Advanced Nintendo DS version that you can download of Moria.
+You can play on Retroarch, which is nice.
+1:27:10
+Give me that touch.
+Screen and that 3DS3D capability.
+And I was I was RP ING as as an Aragorn stand in every time called Groggorn that.
+I was like error grog.
+That's a good one.
+Too.
+1:27:26
+So I was like, okay, I'll do Ranger class because I think Ranger has access to magic and like some decent starting stuff and gearing up in town and then like running through and the, the concept of Aragorn running around through a dungeon casting magic missile feels a little off to me, Especially cause like none of the early enemies feel very Tolkien to me.
+1:27:49
+They feel like a giant, like metal centipedes or like worm masses.
+I I haven't read the Silver Aliens.
+So I don't know if.
+Those are in there, but I didn't get the sense from the movies or the books.
+So I I think it's fine for like.
+AD and D fantasy game with.
+1:28:06
+A, you know, a light Tolkien theme of like your objective is go and defeat the Balrog as opposed to like getting the Amulet of Yendor, which is similarly, I don't know, like it's, it's not super deep, but it's, it's fine.
+But yeah, I think Moria feels a lot, a lot bigger, a lot grindier than Rogue.
+1:28:24
+Maybe not necessarily to its advantage, but I could see how at the time if, if, if this was like the only game that you had access to in 1983.
+Yeah.
+I will say that I don't know if I had as much fun in the like 25 minutes that I played of it because it's it's like, oh, it's way more complicated.
+1:28:40
+There's just so many more things.
+Systems exploration is a lot more intense.
+You're like, all right, I actually have to start like figuring out how this map works and like, OK, it's.
+Just the menuing, yeah, yeah.
+Felt very draining honestly.
+But, but I, I can imagine why someone would spend 50 hours to beat this game versus if you're playing 50 hours of the original rogue like, but that's, that's a lot of time in that game if you have any other option.
+1:29:09
+So like and and given the technology of the time, like if you're playing this or I guess like Mario or.
+Yeah, I mean during.
+Gong or what are the other like?
+The other options are pretty like low level in terms of like deep complexity.
+1:29:29
+And this is like, again, I'm an engine playing 50 hours on a single, you know, a single run of of Mario of the original Mario.
+And I don't even think that would had like that was what, 8688?
+Yeah, I think original.
+I'm looking at looking at 85 October of 85.
+1:29:47
+The NES debuted in the United States.
+Yeah, so like vaguely contemporary, but like this is a much more.
+Thank you Wikipedia.
+Complex thinking game than than a Mario or a jump man or what are the the other the arcade games that you could be playing at that time.
+1:30:05
+Yeah.
+I think it's going to scratch a different itch.
+I think roughly at this era in the. 80s like the.
+Atari 2600 was probably the most popular, but the the NES was like skyrocketing to to catch it and and by the end of the 80s it was like NES or nothing.
+1:30:21
+Like poor Commodore sitting under here under the desk was like a distant distant third or maybe 4th.
+Yeah, I mean, I guess eventually like Zelda would come out and that'd be your, your alternate fantasy type game.
+But even that's a it's a very different game than that.
+1:30:38
+Like your your inventory management and magic and various stats and all that stuff.
+Like this is a different a different thing.
+And I could see getting deeply into it then, not now.
+Yeah, let's maybe move to our our next game, our I believe 1984 release of Hack that Yeah, I feel like this this one feels much more rogue in that it it is smaller, like it's it's less visually complicated.
+1:31:13
+We were also because of the version that we were playing.
+It starts us off with like a default, I think the oryx tile set as well, which is kind of like visually bamboozling going from the ASCII of Moria to like, Oh my God, graphics with it's almost like a jump scare.
+1:31:29
+But in some sense, like I can kind of see the appeal of switching back to ASCII for that for or for hack specifically because it is like a simple like, you know, your dungeon rooms are just like big open squares and there's just like one hallway kind of connecting one or the other.
+1:31:47
+But notably, you, you start with a companion, you start with an ally.
+In this case, we all started with little puppies.
+And I don't remember if it's specific to the class, but you know, you have also like weird, weirdly like anachronistic classes in this one between like Cavemen or speleologists or.
+1:32:06
+Yeah, I'm not up to date on what speleology is cave.
+Cave scientists.
+What?
+Yeah.
+Maybe maybe in reference to Colossal Cave adventure could be.
+Well, I mean, you're all supposedly.
+Going into like Spelunky.
+Oh my God.
+We're back to Spelunky.
+Oh God.
+1:32:25
+But yeah, so I think hack generally is is like Rogue but with more stuff and because, you know, developed by high school students, like basically all these games were or college students feels more more dialed back and less huge in scope than Moria, but maybe more approachable.
+1:32:44
+Intriguing.
+Yeah, the map absolutely looks a lot more visually similar to Rogue as as you say, like it's it's it's a rectangle.
+You know, each floor is is a nice it's a it's a a wider rectangle.
+1:33:01
+But like even just yeah, the way that the.
+Rooms connected by passageways.
+Versus nicely.
+Moria is more free form cave system.
+Quite, quite.
+And I did.
+I was happy to see that Hack of course, has has Q for quaff very important.
+1:33:19
+We really need to bring that back into modern Rd. bikes.
+What I, what, what struck me about Hack is because, and I think, I think the reason for this is because you have a companion and it's adding another sort of dimension to the gameplay and the randomness, the random things that can happen in the game.
+1:33:42
+This, this was the first of the games that we played today where I was like, oh, this has an element of that emergent story that I look for in a truly great roguelike experience that like there is a emerging narrative.
+And in this case, I mean, it was pretty simple, but I had my little dog with me, dogs on autopilot, attacking things, fighting.
+1:34:04
+Sometimes he'd, you know, disappear for a period of time.
+I'd be like, oh, no, where's my dog?
+At one point I could not find the dog.
+Turns out dog had fallen down a trap door.
+And then I fell down the same trap door.
+And then at last I'm reunited with my dog, thank goodness.
+But then in the very next battle, I was blinded by a gnome.
+1:34:23
+And I fought and I battled and I could hear, oh, there's a fight happening, but what is what is going on?
+And then I'm feeling around the chamber.
+The sound of the fight has has has has stopped.
+The dungeon room is quiet and I'm feeling around blinded by the gnomes magic.
+And what's this?
+1:34:39
+The next message is you feel the corpse of a dead dog.
+No?
+And my eyesight comes back and I've lost my poor companion.
+And that is a tragic story.
+And something similar happened to me in CUD.
+But like that is is a critical part for my traditional roguelike experience is that there are enough moving parts and enough randomness that you get that that narrative that is spontaneously formed.
+1:35:06
+And I thought that was neat to see in Hack.
+What did anyone mess around with the magic in Hack?
+I did.
+I did not.
+I've I played around with it a bit because I feel like the only class that made sense to me was the wizard cause all the other ones I'm just like, I have no idea what an archaeologist is doing in this game.
+1:35:29
+Like Cavemen.
+I don't know if they start with magic, but the wizard class almost kind of feels like you're starting a like a, a turn based tile based run of Noita in a way, 'cause you start with wands and they do different stuff.
+But yeah, what what about the magic?
+Oh I was just curious what what it's like.
+1:35:47
+Yeah, I think like you as a if you start with the wizard.
+Class I tried to use magic and then I got killed.
+Oh classic.
+But yeah, if you start as a wizard class, you start with a few wands or staves.
+They give you options to like and I think you're also incredibly weak so you are incentivized to just like, ZAP stuff with your wand constantly.
+1:36:08
+Oh, right, right.
+What's what's the button Z for ZAP?
+Z for ZAP folks.
+Also something we could bring back.
+Dedicated, I wouldn't.
+I wouldn't say no.
+But yeah, I think it's like, instead of scouring the dungeon, like if you are just a night class or something, you're scouring the dungeon.
+1:36:25
+Oh, finally I found a wand to do something as like a ranged weapon.
+You're just starting with it.
+And so like that gives you, I think more options to to kind of like, I'm guessing that like starting as a wizard class in hack or net hack is kind of playing on easy mode to some degree because you're already starting with that like maybe glass cannon in a little bit.
+1:36:46
+But yeah, I think it it, it definitely felt more initially intelligible than Moria because in Moria you have to open a book, you have to read a book, you have to Start learning spells.
+And then once you have learned the spell, then I think you have to like do some other menu command in order to cast.
+1:37:03
+Said spell.
+Versus hack felt more streamlined versus just like, yeah, you just zapped the thing.
+Right.
+Yeah, yeah, yeah, totally.
+That is appreciated, having to wield the book.
+And then it's Speaking of Moria.
+What do we think Will would have thought about that game?
+1:37:19
+Yeah.
+Is he much?
+Of a Tolkien head is will a big.
+Tolkien freak?
+I don't know, no.
+Of course I Andrew him here and then Scott and Colin are here, but Will didn't want to put up with these old janky games.
+He's too busy making his own game.
+I mean, yeah, we're bought a house recently moving.
+1:37:37
+We're like, which copies of our various Tolkien books are we keeping?
+Like, well, I have the illustrated hardback version of the Silmarillion, and yours is only paperback.
+So my household is a Tolkien household.
+Well played.
+So I I could say that none of them are really that much like.
+1:37:55
+Well, you can take this home to your, you know, to your beloved, to your fiance and then you 2 can sit down and maybe like Co-op some runs of Moria.
+But enough about Moria, Sorry.
+Yeah, yeah, hack.
+So hack.
+I kind of assumed that it might be since since it birthed net hack.
+1:38:12
+I I thought maybe this is a sci-fi game, but no, we're just referring to the hacking and slashing that one does as your dungeon crawling.
+These are all fantasy title.
+No computer hacking involved.
+I do appreciate that this version of hack that we played a very rudimentary version doesn't feel like it's overwhelming with content about like because with net hack as far as well, there's there's tile based versions of net hack that you can play largely mostly they're ASCII base.
+1:38:42
+But Colin, last week you said something about how wouldn't it?
+Wouldn't it be fun to have Rogue as a mini game in something net hack?
+One of the dungeon branches that you can go down is just a literal full 25 floor playthrough of the original rogue.
+1:38:58
+Cool, great.
+I don't think that's in this one that we played today, but.
+Yeah, probably.
+I mean that's this is regular hack, not net hack, so.
+Yeah, it hasn't had a 40 years worth of nightmarish tech debt crufted over in a in a layer cake of yes, ending with with design choices.
+1:39:20
+So yeah, I think like this version of hack is fine.
+Should we move on to our our next favorite game of Larne?
+Certainly.
+Certainly.
+Yeah, so Larne 1986 I believe is a more of a coffee break roguelike game, something that you can probably beat in closer to 30 minutes to an hour.
+1:39:43
+And this one I think is interesting.
+'Cause it it's.
+Playable on larne.org.
+See the the very nice listener letter that was sent in to us from the maintainer of larne.org.
+Oh my goodness.
+Thank you.
+What a deal.
+1:39:59
+And and yeah, I think that it still feels very playable.
+I think, yeah, color goes a long way.
+It's not as it's not as visually busy as.
+As Moria is the you can.
+Also, it's weird that like despite all these games being ASCII, you can definitely tell one from another from across the room where like.
+1:40:18
+Yeah, the games there's asking, there's.
+I mean, ASCII I feel like does actually encompass a broad range of tile sets within that.
+Like there's the ones that are.
+These are just literally the things that you can see on the keyboard versus, you know, you're starting to add like they're within a tile, but they're you got to get some texture to them.
+1:40:41
+Yeah, and Larne, the the 10th floor normal dungeon feels, feels very compact and and small in scope.
+But again, you're you're on, you're on a fixed time limit because you're poisoned daughter, but.
+1:40:57
+Yeah, this game opens up with a proper storyline and proper motivation for why you are going dungeon delving.
+Whereas almost every other one of the games that we've been playing for this the Episode 100 bonanza, like most of those games, the goal is go into dungeon, get gold, get XP so that you can be the best dungeon Goldman or woman or person.
+1:41:22
+And they don't even tell you that they're just like there is a there is a statue at the bottom.
+Right, yeah, or, or there's one specific yes item at the bottom of the dungeon like.
+What's my motivation for for trying to find the Amulet of Yandor like it exists?
+Quite, quite so in this game.
+1:41:39
+Instead, it starts up and it's like, yo, this is This is why you got to go into this horrible dungeon that no one would actually want to go to in real life.
+It's because your daughter is sick and there's a magical potion in there that could cure her.
+And and to your point, to your point, Scott, this, this game because there's a hard time limit.
+1:42:00
+Your run length is significantly shorter and is much more practical than the 50 hours required for Moria.
+Yeah, yeah.
+And it feels like there's just a lot of stuff you encounter.
+It feels like there's just, if it feels much more generous, it feels way easier.
+1:42:19
+But I'm OK with that.
+It's not impossibly easy even that like, oh, this.
+Is the one that has a straight up difficulty.
+Yes, the setting too.
+So with the 100 difficulty levels.
+Yeah.
+Which, yeah, I think, you know, I, I can appreciate if you're just like, yeah, I'm.
+1:42:35
+I'm a solid Larne. 78 level player and that feels just about right for me versus like booting up Hack or Moria and then walking three steps and you rocks fall and you die and that's it.
+Yeah, 2 Cobalts steal your lunch money and pants you.
+1:42:57
+Jeez.
+How do we feel about the D&D?
+Store in Larne I feel like.
+That that kind.
+It's literally that's the location name.
+Yeah.
+You start in the main town and oh, what's this?
+The merchant shop?
+No D&D store?
+How do I feel about it?
+I couldn't afford nothing there.
+Like, just like real D&D store for me anyway.
+1:43:15
+Yeah, I think like it kind of underlines the the silliness to the game a little bit of like how it's maybe like a little more irreverent of a tone and not taking itself as as seriously as the other game.
+And I did, I did two runs.
+My first run I got killed by a bat in the town square.
+That's fun.
+1:43:31
+Again, that emerging narrative.
+We love that.
+I go, my first move was to go and visit the home and see my sick daughter.
+I'm like, don't worry, dear Papa will be back with the with the magic potion and then literally walk out the door and sailed by a bat dead.
+1:43:47
+Very funny.
+And then my second run, I got killed by an Umberhulk, the classic Dungeons and Dragons monster, the umberhulk, which I feel like has not made it into as many video games.
+So I was, I was happy to see that umberhulk's cool.
+The yes, yes, I concur.
+Not enough of them.
+We need more claw thing.
+1:44:03
+We need more zapping, more umberhulks.
+What are their Dungeons and Dragons stuff is in this game?
+Well, you have a volcano, that's your shorter turbo experience.
+But yeah.
+Yeah, you can.
+Yeah.
+There's the main dungeon or there is the Super hard, only 5 level dungeon, a shorter dungeon, harder dungeon.
+1:44:21
+There's a lot of.
+Thrones.
+There's a lot of Thrones in this one.
+Oh yeah.
+It's a literal game involving Thrones.
+Yes, so you can what did one of the action items is specifically to.
+There's a there's a specific button for sit on throne.
+There's a specific button for remove gems from throne, there's a specific button for bathing in a fountain, and apparently there's mechanics for this.
+1:44:44
+Scott, you're telling us?
+Well, yeah, I think that like at least from hack because of or well, net hack, possibly also in hack elaborate God systems, I think possibly also in Larne as well.
+Fountains are usually associated with like gods or deities.
+1:45:00
+I went and donated a bunch of gold.
+I think I had like 1000 gold.
+I donated 400 in one of the fountains.
+And it's like, it was like you have been heard.
+And then I was blessed with some sort of status, good status condition for a brief amount of time.
+So there are.
+Yeah, there are ways.
+Maybe that God could have, you know, cured your daughter.
+1:45:18
+You know the the gods of Loren work in mysterious ways.
+Quite so, yeah.
+Again, these, these extra elements of like, OK, instead of just being a dungeon crawler, now there are gods, now there are God altars that you can visit.
+1:45:34
+And like just adding, again, just adding these extra elements I love to see because then that increases the complexity of the randomness.
+And there's more of a potential story because there's just more variables involved, which love to see.
+Love to see.
+Indeed.
+And of course, just like our previous game hack, I think that Will would love Larne.
+1:45:57
+I'm pretty confident that after he gets over his Runescape binge Bender, he's probably going to be all Larned up.
+Oh yeah, confident.
+Yeah, A. 100% But yeah, that maybe will transition us to our final game to talk for this evening, 1987's Omega, which for I feel like there's there's a certain class of, of geekdom that maybe a lot of people have heard of Net hack.
+1:46:25
+Maybe fewer people have heard of Moria, but you'll get some more St. cred I feel like if you've played either Larne or Omega or both.
+In this case you have ascended.
+To an extra level of super geekdom like whoa you have played some pretty obscure games that like honestly are have some pretty interesting charm to them Omega like I was pleasantly surprised by with just like booting it up and just like this intro sequence that.
+1:46:53
+You have of like.
+Effectively like your player character getting sucked into your computer and being like instilled into this ASCII fantasy world.
+Yes.
+But.
+It's right, it's rather meta in that way 'cause like it starts with like, oh, you have a project do and you got to finish your program and then it's like you stumble across some some files and it's like, oh, what's that?
+1:47:16
+What's that kooky crazy old Omega team up to let me go boot up their file And then you get Isakai into the fantasy realm again.
+I thought this is going to be a science fiction game.
+None of these except for Star Trek of these old school games that we've been playing for the bonanza, unless I'm forgetting one.
+1:47:36
+They're all fantasy games, which is interesting.
+And I'm starting to wonder, in order to be a traditional rogue like game, does it have to be fantasy?
+No, I don't think so.
+Cuz again, one of the listener letters that has written in Jeffrey Olson, the developer of Alpha Man, which came out I think 91.
+1:47:57
+That's a game we would like.
+Especially because it takes place in modern times.
+It's a very like open world contemporary rogue.
+Like a joke.
+It's.
+Oh, it's contemporary.
+Well, Dumar, Al, Yeah.
+That's a.
+That's yeah, that's.
+True, that's true.
+I realize.
+I just.
+I mean, could, could an argument be made if you wanted to be a real purist, that yo all of these foundational roguelike games, they're all fantasy.
+1:48:20
+And if it ain't fantasy, it ain't a traditional roguelike.
+True, and if you wanted to take it one step further, it has to be a roguelike if it can only be played on a PDP11 mainframe and that weighs at least 1000 lbs.
+Yeah.
+Running on magnetic tape.
+It's a hypothetical question, but interesting.
+1:48:36
+Yeah, No, of course we have very many great examples of modern traditional rogue likes that are sci-fi and whatever else.
+Have you?
+What have you, Right, Omega?
+Yeah, you're Isa.
+Kite away.
+I didn't play it for a super long time, but there's like there's a set of controls for in town and there's a set of controls for being in the wilderness.
+1:48:56
+So we have a separate set of hotkeys which I thought was kind of interesting but also kind of annoying.
+Yeah, I think that kind of underlines this game in a nutshell.
+Interesting but annoying.
+There's there's like this big overwhelming town that you kind of roll through, which feels very visually busy like Moria does.
+1:49:15
+But once you kind of visually understand the systems, it's it's OK.
+But there's a lot going on.
+Like again, a solo dev game.
+It's a it's a big sprawling open world that has multiple different towns, multiple dungeons.
+But if you take one wrong step at any point without searching you.
+1:49:31
+Step on a a trap and you're just instantly dead.
+Yeah.
+Yeah.
+I see.
+Yeah.
+And the developer, which of course, whose name is on the menu screen, Lawrence R Brothers.
+I glanced at that at 1st and I thought a pair of brothers made this game.
+1:49:47
+Wow, that's neat.
+But.
+But no, one, one individual.
+And we commend all of our solo devs.
+We also commend the wonderful keeper of the Lauren website.
+Thank you for writing in.
+But that's also a reminder to thank all of the wonderful keepers, the historians who are keeping all of these games available and playable.
+1:50:05
+And thank you kindly.
+But back to Omega.
+There was there is a lot going on, Scott, as you said.
+And I was quite intrigued and interested and surprised to see that when I got, you know, was in the first town and I go to talk to a guard, which you told me to press T for talk.
+1:50:25
+I did not do that.
+Instead, I directioned into the guard and it asked yes or no.
+Do you want to?
+I'm like, of course, yes.
+And I accidentally, you know, attacked the guard and then was killed, you know, immediately on the spot.
+I just got here.
+I just teleported in and and dead.
+1:50:41
+It's not right there.
+Criminal.
+Scums.
+But the point is, when you do talk to them there, there is a dialogue system of sorts.
+You, there are several different modes of speaking.
+I think I wrote them down somewhere.
+But it's like you can, you know, you can greet, you can threaten, you can surrender.
+And then I think if you just back out of it, it's like slink away or something like that.
+1:51:00
+Something funny.
+So yeah, there does seem to be a lot happening.
+Why?
+Why do we?
+Why do you think we don't hear so much about Omega?
+I think it's because partially because of its obscurity, like 1987 was when Net hack started and so it may have just been completely eclipsed by that.
+1:51:17
+But like Moria like was popular, gave birth to Aang band I think in the early 90s and then like that started to eclipse it.
+And like, I just, I don't really know where you would be able to find stuff about Omega outside of like Usenet, which was already pretty niche at the time.
+1:51:35
+So there was some activity on Usenet for Omega specifically.
+But I could like, I think it's just the brutal randomness that like it.
+If you take one wrong step somewhere in a dungeon, like boom, like your run is over.
+Well, I don't.
+1:51:50
+Know if you would hear that much about Moria or Hack if you if they hadn't spawned other things, that's also.
+True.
+Like them on their own probably not that heard of it's the it's their their lineage that you're.
+Their rogue legacy, if you will.
+Yeah, exactly.
+1:52:05
+I mean, even the same with Rogue, like it's it's all about like tracing back up.
+I like this game.
+What did that that was inspired by this, was inspired by this was inspired by this was directly like branched off of this and then you get back to Rogue.
+Yeah.
+So, yeah, and I think just because there's so much stuff in Omega that it's like, you know, it's so hard to like see and experience all that stuff.
+1:52:34
+But I don't know.
+I would, I would guess maybe there is less than 100 people that have beaten Omega.
+If I had, if I had to guess from like a gut check of like how popular it was at the time and how his legacy has evolved and all that.
+So like seeing all those systems and seeing how they evolve and stuff is like is is hard to share for like, whoa, yeah, you should totally, totally go back and check out this thing.
+1:52:58
+I feel like if there was a it's also like interesting that some of these other games like like maybe have tile options to them if there was some tile option for Omega that I'm sure exists out there.
+But I've intentionally tortured my Co host this time they call Aski.
+1:53:15
+Bombardment Aski.
+Bombardment.
+Specifically for for setting up for our our third part here.
+But but yeah, I think like there's interesting stuff about Omega that's just like.
+Yeah.
+And I think other games do it better, right?
+1:53:31
+Which is.
+Fine, I see, I see, I see.
+Well, I I can say that, you know, it made a pretty positive impression.
+I will say not to totally like dunk on this game from the every time I played it, pretty positive impression.
+Some interesting stuff.
+It's got some good good.
+Charm to it there.
+1:53:46
+Also seem to be romance options because you are asked like what's your character's name?
+But also are you are you into guys or girls?
+What's the deal?
+What's 1 or the other?
+There's no other options, which the fact that there even is an option to like, ask about that.
+And it's not, it's not tied directly to your characters.
+1:54:03
+Gender is honestly fairly progressive.
+Ahead of the time.
+Ahead of its time.
+That's a great way to put it, Omega.
+Very interesting, very interesting.
+And I'm going to go ahead and again, because Will isn't here, we have to just kind of postulate and guess what he would think of these games.
+1:54:20
+I assume since there is a little bit of a cyberpunk sort of bend and and sci-fi element to this game that it's probably his favorite.
+Oh yeah, probably.
+His favorite?
+Definitely.
+And because it it borrows so heavily from Oblivion and and well, no the other way around.
+If if Moria is Will's new slate aspire, then Omega is Will's slate aspire too.
+1:54:43
+I think that's safe to say, and we can all agree.
+Thank you, everyone.
+Is is.
+Yep, nodding along, and we'll tell him that at the beginning of the next episode.
+So do we have any, any final thoughts about like this first generation of unique roguelikes that have emerged in the wake of 1980 Rogue?
+1:55:03
+How, how do we feel about ASCII?
+How do we feel about like the the scope and length of these games as general first impressions?
+I want to wait until after we play broke because I feel like we, I mean, we really did only touch, especially on the second batch, like, you know, 25 minutes into Moria is not playing Moria in a, in a way that like the people who've played it for a long time or, or like you barely haven't.
+1:55:28
+Had time to say speak friend and enter.
+Yeah, exactly so.
+Yeah, I think it'll be interesting to to see the final evolution of of it Brogan that hack.
+Indeed, Colin, there will be more to say about these old games once we play a more sophisticated and, and modernly tuned version of such a game.
+1:55:54
+I will say I already mentioned sort of this, this again, emerging narrative concept that I still love about this genre.
+And I already mentioned that, but I also mentioned that I mean, playing the games.
+I it's really obvious to me, like, Oh yeah, I can totally see how this really grabbed a hold of people and captured their imagination and inspired, you know, an entire genre and, and also inspired an entire generation, several generations of really passionate game developers who wanted to make games in this, in this, this Ave. this type, this genre and build up the genre and improve it.
+1:56:39
+Yeah.
+All right, well, I think that's going to wind down our episode 2 out of our three episode mega mega bonanza here celebration.
+Yo, it's you're upgrading it to a mega bonanza.
+Probably we're on the second episode by episode 3.
+1:56:57
+This is going.
+To be a Omega bonanza and so to play us out from this episode will will be a very Tolkien appropriate level of music featuring another band of adventurers who have befallen afoul of some.
+1:57:16
+Demon of the Deep.
+And potentially a wizard class falling to yet another stupid death.
