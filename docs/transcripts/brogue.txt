@@ -1,0 +1,1738 @@
+0:20
+Greetings friends, and welcome to our finale, our Part 3 of the Grog Pod Roguelike podcast, 100th episode extravaganza.
+I guess maybe I've been calling it bands of this whole time where each normal we we delve into some dungeons, apply some enchantment scrolls of ratings and if the game kills us enough times in some interesting ways, revisited in our end of season recap tournament.
+0:44
+I am your gelatinous ooze host of the podcast Scott Burger and with me searching for the Amy Little Viandor are my Dungeon Diving Co hosts.
+Hey, it's Andy Bonanza himself.
+Brother Andrew.
+It's great to be here.
+And it's B Colin, a cobalt lizard like humanoid of the upper dungeon.
+1:02
+We are finally ending our mega 3 parter 100 episodes with a game that's been highly requested by the listeners.
+So I guess as part of my listen to request week spiel, you can either comment below wherever you're listening to this or go to Grog Pod dot zone request and send us a request there.
+1:20
+That just makes my job easier for data collection stuff.
+But people have been suggesting for us to play brogue our game for this evening for a while.
+And I thought, well, you know, we could do it for our 100th episode.
+But I feel like just dump jumping right into ASCII jumping right into like the the dungeon diving itself could could use a little background and historicity involved, which is why I put my Co host here through the through the gauntlet of history with our previous two episodes.
+1:54
+But yes, we are talking this week about Brogue like the letter B followed by the word rogue.
+Released originally in on November 27th, 2009 and a open source.
+The code got open source and was released as Brogue Community Edition on January 20th, 2020 and you can find this on PC.
+2:19
+The the original run is on the dev's website and you can find the community edition by just web searching Brogue CE or going to GitHub and finding TMEWETTS GitHub page to find it there.
+2:35
+There is an iPad and an iPhone port by 1 Seth Howard and as of about a month ago, we're recording this late July, so probably about early July.
+There was a an Android port made for Brogue as well that people are are quite fond of and we're wishing was there a long time ago.
+2:53
+So this was made, developed and published by one of Brian Walker who is I believe a lawyer by trade and a hobbyist game dev.
+As with all open source freeware shareware games on the Internet, it's hard to pin down how popular this game is, but it has 1400 stars on GitHub, which is not not even close to the most popular open source traditional roguelike games.
+3:24
+The Reddit has 2.3000 followers question mark.
+The way that I'm kind of like aligning it data wise on the back end is like, well, the Steam version of Rogue has 488 total reviews and this is kind of the same game.
+So logic, logic, logic.
+3:40
+Let's say it's like somewhere around the 1000 and 43rd most popular game on Steam somewhere, somewhere thereabouts.
+That's that sounds about right.
+Yeah, you might think the data science is about data and that it's scientific, but really it's, it's kind of a fine art sometimes.
+No, I, I, I commend your attempts to make some, you know, educated guesses and try to approximate it in our, our rating system.
+4:04
+Interesting.
+Interesting.
+Well, that's, that's too high.
+I, I think it should be, pardon me, it's too low.
+Rather, it should be.
+It should be in my opinion.
+But maybe I'm getting ahead of myself.
+Well, it's weird because I was trying to do some data science.
+You Foo here to say, OK, well here's here's some other other games, here's how many GitHub stars they have, how many subreddit followers, blah blah.
+4:23
+Like how does that translate the steam reviews?
+And they're almost like directly oppositely correlated where Cataclysm dark days ahead has 12,000 stars on GitHub, has 518 Steam reviews.
+Barony was recent.
+Well, it's not really a traditional roadway, but you get what I mean.
+4:39
+Was only recently open source, has about like 600 GitHub stars and has 15,000 Steam reviews.
+So it's it's on par with like Ang Band in terms of GitHub popularity I guess, but Shattered Pixel Dungeon's still much popular.
+Yeah, but I'm not sure that like how popular the source code is of a game really.
+5:01
+Like how many comments does Hades have on GitHub?
+Yeah, I mean like it's, it's hard because there's no like download metrics, there's no like central server that's like here's how many.
+Well, we'll we'll get into that.
+But it's it's hard to pull those kind of playtime metrics for for these types of games.
+5:19
+So generally, you know, let's say it's like somewhere in the the 1000 ish range, which is still not the most obscure game that we've ever covered.
+And it's, it's just a, a potion of darkness has been thrown upon our rankings, our metrics, So we will not be able to figure this one out.
+I did go to the the roguelikes discord to the Brogue channel and put a poll up there asking about how many hours have people like career wise dumped into it.
+5:45
+And it's a little bimodal, but I think like generally people have put like about 80 hours of gameplay into it, maybe with I don't know how many data points we need for it to be useful, but but you know, if you knew what you were doing, you could probably beat this game in like a couple hours.
+It's not it's not like overly long.
+6:04
+How?
+Long does a winning run take.
+Probably about a couple hours, depending on what you mean by win.
+If you're having fun, aren't you really winning?
+Isn't that the?
+Recovering the Amulet of Yandor and escaping out of detection.
+Probably a couple hours if you, if you were like better than the three of us at this game and, and were able to do that.
+6:25
+I think the one sentence description for Brogue is that this game, it's rogue, it's it's modernized for the 21st century and it has just enough ASCII attitude to perfect the formula that was first brewed up in in 1980 that I think was sorely needed.
+6:46
+My other snarky comment here was like, this feels like the anti net hack traditional roguelike where we'll get into it, but it's it's very streamlined.
+It's very straightforward in what it's trying to do.
+And I appreciate it a lot for that aspect.
+But yeah, I think like if we had jumped straight in to Brogue, maybe there would be less context of like, oh man, ASCII games.
+7:10
+Like, I don't know, like I feel as though the US playing eight other games prior to this was maybe a a good or bad exercise.
+But at the at the same time, for the listener's sake or for anyone else who's just like, what are all these old ass games giving perspective to?
+7:30
+Like think why people like Brogue so much now, because it is, it is very much an answer to how like bloated and RPG ified traditional rogue legs had gotten I think in in like the 90s.
+But but yeah, I mean, we were, we were here in my office at Grogpod Studios that clacking away on the keyboards, getting overwhelmed by #hallways and, and just like HHJKL movement and all sorts of things.
+8:05
+So it's it's nice for wants to have a game like this that has a mouse first interface to it.
+It does still have a little bit of that old school vibe though.
+Like I so when I first booted it up and was playing, I was like, no, I've been going for a while and I haven't levelled up yet.
+8:22
+Like it's still telling me how much XP these monsters are giving me.
+And then I was like, I don't understand what any of these stats are or how they're like, I should probably go to the wiki and find out what it what it all I'm doing.
+Like, oh, you don't, you don't level up.
+There aren't levels.
+It's just strength and you level up by potions.
+8:39
+Yeah, the most.
+The most?
+Important one stat.
+And that that I think is where this game really shines like with its simplicity and straightforwardness, where there's not even just like there's the one stat of strength.
+So you can kind of think of it as like your level, your like your level up mechanic that like, oh, items you pick up have like a strength requirement or whatever.
+9:03
+But there's like a, there's like a dual stat system where like your player character has strength and you can enchant specific items with enchant scrolls to bring that level requirement down such that you can use like higher powered items or like make them more upgradable, etcetera, etcetera.
+9:22
+But like it like that's it.
+Like that's, that's the leveling system.
+There's no like grinding through hallways for hours and hours and hours.
+Which which honestly pretty, pretty elegant.
+I, I kind of like that idea and it's, it's something that I hadn't seen before.
+9:39
+Certainly you.
+Know tabletop or or video game wise?
+Yeah.
+There's not a tutorial in any way shape or.
+Form the.
+Tutorial is getting swarmed by jellies 10 times ago.
+There's no tutorial, but the the the help page, the question mark page, I I think is great.
+9:57
+It's it's one, it's just one page.
+You can screenshot it.
+You can put it on your second monitor or you can put it on the other side of your monitor while you're running, you know, on your big 27 inch, whatever 4K, which you're going to need all 4K.
+You're going to need all those pixels for rogue rogue.
+Excuse me.
+So like no tutorial, but like, it's, it's quick to grok and like the interface is such that like, you don't have to memorize a bunch of hotkeys.
+10:19
+And so if, if it weren't for those UI things, a tutorial would be absolutely mandatory.
+The fact that there isn't a tutorial, I think is it's, it's, it's far less necessary because the game is so streamlined.
+And I'm going to use that word elegant again.
+And real quick, before we, we move to the next dungeon depth of our discussion, we we have a a from the developer Brian Walker.
+10:44
+Whoa.
+I reached out to to say like, hey, like, you know, Brian, all these all these games.
+Brian, what are your thoughts?
+Brian Walker, Esquire, please.
+OK, well, shoot, I had this whole as soon as you mentioned that he was a lawyer, I would start taking notes.
+I have this whole bit about like, well, I'm just a southern game developer, you understand And you know, you know, this whole like bit about doing, you know, rogue like traditional rogue like law arguments, but.
+11:10
+Better call brogue I'm.
+Going to hold that better call Brogue.
+But now that he's actually written in, we've made contact.
+I, I think I'm going to have to hold back and, and, and maybe cut my 10 minute bit about the roguelike lawyer down to, oh, I don't know, maybe 30 seconds.
+What did Brian have to say?
+That's delightful that he responded.
+11:27
+Thank you, Sir, for your fine game and, and, and your letter.
+What do we have?
+Well, we well, I reached out to him say like, hey, what are your thoughts on on these games?
+And he said back to me, which you too listener can write in podzone@gmail.com.
+He says, hi Scott, thanks for reaching out.
+11:44
+Listening to your slave the Spire 2 episode now.
+Good podcast.
+Exclamation mark.
+Here's an old Usenet post I wrote back in 2009 describing my frustrations with Angband and Net Hack compared with the original Rogue, if that's helpful.
+And it's, it's this huge post that I'll link to in the show notes.
+12:01
+And I won't read all of it, but I have some excerpts here that really kind of like help drive home the, the rationale for like what makes Brogue special in comparison to it or these in comparison to these other two like Titans of traditional or 90s traditional roguelikes.
+12:19
+And so some excerpts here from Brian's post, which was posted January 21st, 2009 on Usenet at Wreck dot games dot roguelike dot Development.
+Brian says after playing other roguelikes OK just Aang Band and Net Hack, and being drawn inevitably back to what I see is the superior experience of the original Rogue, I felt compelled to jot down my thoughts about what makes that original game so great, what makes the other two fall short.
+12:46
+Jumping ahead, you can't.
+You can't view winning as the sole yardstick by which to judge a characters worth.
+Since it is so rare.
+Even I imagine for highly skilled players, the score which in Rogue the amount of gold you accumulate becomes meaningful.
+The food system is a meaningful constraint that forces you to delve ever deeper and precludes any attempt to quote stat grind.
+13:09
+Part of the reason why Rogue can remain fun with such a punishing difficulty curve is its shortness.
+No game will last more than an hour or so at most.
+Dying is a temporary set back in Net Hack or especially Aang Band, a single death can mean days or even weeks of lost effort.
+So developers have compromised by making it all but completely avoidable for relatively skilled players.
+13:30
+Net Hack is notorious for requiring consultation with spoiler files to play well.
+Who can remember all the alchemy combinations or the probabilities of various events when you kick a kick a sink?
+But Aang Band isn't that much better.
+Certain items are found only at certain depths, and some, like stat gains and resistances, are all but required to proceed past other depths.
+13:51
+Proceeding in ignorance on these various thresholds means near certain death of a week's old character.
+Life is just not long enough to figure out all these things by experimentation.
+Ang band and net hack at a certain point devolve into a period of checking the boxes where each number of resistances must be attained before character can adventure further.
+14:10
+Goes on to say Dungeon generation and rogue does change slightly as one goes deeper, but the only change is to make more rooms to be more like mazes, which aren't even particularly enjoyable to navigate.
+Adding different terrain types, doing interesting things with lighting, and tweaking the dungeon generation algorithm in subtle ways as one goes deeper would add a lot to the atmosphere of the original rogue dungeon, so I'll cut it there.
+14:33
+But I think what he's what he's getting after is that, yeah, like these games take a shit load of time to play.
+Like, whoops, you stepped on a trap.
+Like that month long character is now toast because you didn't spam the S button going around the corner.
+14:51
+I had to I had to look up net hack kick async and it the the thing for the the wiki is kicking syncs is fairly safe provided you're above experience level 5.
+Of course.
+It's just like, oh, anytime it's just like, well, you have to be at least level 5 to kick sink safely.
+15:07
+Yeah, and I and I feel like Net hack, Ink Band, those are types of games that are for those players and are like the Mount Everest of roguelikes where it's like you would you need like a team of Sherpas to get up there.
+You have to be consulting the wiki non-stop.
+And like it's a game that you have to be playing, be playing for like 40 years to be, to maybe have fun with.
+15:29
+I don't know.
+So I think like all that to say that brogue Brian Walkers rogue as it were.
+Is that the?
+Is that the name come?
+Yeah, the B is for Brian.
+It's Brians.
+Rogue is what it is effective.
+I thought.
+I actually like that a lot.
+That's incredible.
+15:44
+Well done, Brian.
+Well done, Brian.
+And you make a very persuasive argument about why those other games are not quite so good here in the court of of Grog Pottery.
+We, we hear your arguments and I, I, you know, I don't want to show any bias, but I think it's, I think it's going to hold up here in these hallowed halls.
+16:04
+That's awesome.
+I thought at first I thought, oh, this this game has been in development for too long to be part of the the class of where we were adding bro to everything in like the 20 tens or something or, you know, and and so OK, Brian Walker's rogue, well done, well done.
+16:20
+And and honestly, but but even though, you know, it's not specifically, you know, the Bros version of rogue, it does fear feel bro Y in like the older Internet sense of like, this is my pal, this is my bro, this is my comrade.
+Like brogue is designed in such a way that I feel like it's not, it's not against me necessarily.
+16:38
+It's it's trying to help me out and it's it's yeah, I can, you know, you know, to some extent.
+It's it's it's helpful.
+It's it's it's my bro, you know, interesting about the yes, hit the nail right in the head.
+16:53
+Rogue, the original rogue is fun.
+The randomness is fun because when you die you can restart and be back in a run lickety split.
+Yeah, there were multiple times like this.
+This brogue somehow became like my go to couch game for my Steam Deck and like I don't know how many of those 90s traditional roguelikes could even like fit that mold.
+17:17
+Like, I don't, I don't know, because like you, you.
+Definitely not Star Trek.
+No, definitely not.
+Well, actually the the Game Boy Advance ROM that I have of Star Trek plays pretty well on this anyway.
+I forget.
+I forget about the ROM, of course.
+But you know, firing up like the executable for Angband, it like it pops open like 8 windows, like like 8 separate windows that are all like basically.
+17:42
+But they were all deceived for a 9th window popped open.
+Where I feel like Brogue is just like, hey, what if all that shit was just in the one window and that like, there's just, there's so many like things of like, yeah, like that's how you would do it from a like a, a proper 21st century game design handbook of all the information is up on the screen.
+18:07
+I don't have to press L to like look and then press like 666888668 to like navigate to the monster, hit enter.
+Oh, OK.
+It's a it's a white worm mask.
+Got it.
+What does that do again?
+How many hit points does it have?
+18:23
+All that info is just kind of like very readily accessible in Brogue and and I I welcome it all for it.
+But even before that, like you open up the executable for Brogue, you are welcomed with this like tile, like fire effect almost that I think kind of sets the stage of like, hey, this is a a colorful game.
+18:46
+It it is like tile based like we've seen from.
+We got tiles, we got floors, we got I we got item identification, we've got throwing of potions, we got drinking of potions.
+We don't have any quaffing, which is unfortunate, but we have we've we've got there's so much here that is is of course, very traditional rogue like.
+19:06
+It's still all the all the kind of core old school stuff is here.
+It but it and it has survived a pass of of user friendliness of of UI Jean Issaquah, some very clever, good, excellent stuff and it but it looks good, as you say, the fire effect.
+19:29
+We love that.
+And that's the last bit of fancy animation that we'll get.
+Well, I don't.
+Well, I guess it's.
+I guess that's totally accurate.
+When you when you drink a like, you know, hallucination potion or something, it does get kind of far out and but lightning bolt, sure.
+19:46
+But I guess my point is the menu, I was, I was hoping for a little bit more in, in, in terms of the graphics.
+Now, if you switch on the Sprite mode, you do it.
+It is a little bit which I honestly feel like it's kind of not mandatory, but like, do yourself a favor.
+Yeah, I played exclusively in Sprite mode.
+20:02
+I don't.
+Really interesting, I played exclusively in ASCII mode.
+That is admirable, but I think the sprites are just they're really they they're they're quite.
+I like them a lot.
+They really hit the spot for me for for simple.
+20:20
+Like, what if Atari games actually looked halfway decent?
+You.
+Know I don't really like I know that the the the argument for ASCII is oh, it's letting your imagination do everything but like.
+At a certain.
+Point I I would prefer a tile set that enhances legibility.
+20:40
+I don't like looking at ASCII.
+Sure.
+But, but sorry, perhaps we perhaps we don't want to get into that conversation too much.
+The point is that the default experience is ASCII, but critically, it is color-coded.
+There's a lot of stuff going on with color and there's a lot of good choices happening with the, the choice of what characters are representing what.
+21:01
+So I I would say, you know, hey, Brian, good job on that too.
+But for me, I would like a little a little pixel night, man.
+That's like one color and just a vague outline of here I am, you know, scooching around the dungeon.
+Yeah, it it would be interesting to like I our list of games we should probably go back to and maybe re evaluate after having done so many of these.
+21:26
+Lone Star Axolotl, Realm of the Mad God.
+And Shattered Pixel Dungeon would.
+Probably.
+I think in retrospect, be like similar enough to this of like what if bro was for like Super Nintendo and having that kind of you know, and and build, I guess with phones as a first class interface.
+21:52
+But but yeah, I think like the the use of color here, like the first time that you're attacked by a toad and you start hallucinating and you just see like the colors of the walls are shifting and I'm like, oh, this is like a very hilarious and very clear effect that I am hallucinating.
+22:08
+But it's funny because like the the subtleties of like, oh, now, like the toad that had previously attacked me is now shape shifting into like all these other monsters that you could encounter in the dungeon.
+And then like, you know, you might from your peripheral vision see other monsters walking by that like, oh, it was a cobalt before, but now it's like a Wraith and it's humming or it's twirling or like the status that it's doing is like, I have no idea what the context of any of this stuff is or the true, the true.
+22:35
+Combo, which is the toad, plus the pink slime, which is multiplying and splitting whatnot.
+And you're just like, okay, now I really don't know what is, but it's actually like, okay, I might die now because, oh, maybe there's that real cobalt in there somewhere who's jabbing me and doing actual damage.
+22:54
+Now, now, if you're in the middle of a, a serious run, this is not a good feeling.
+But but in terms of like, just like a gameplay experience and, and a successful, I don't know, achievement, let's say in in game design, like having that feeling of beguilement at an ASCII game is like pretty impressive.
+23:14
+I'm I'm like, oh wow.
+It's this is delivering an experience that I wouldn't have thought necessarily possible.
+And there's other effects like like if you throw potions of cost of gas, it'll like burst into this big pink cloud.
+And then I always just keep thinking of like the rock where, you know, you're barricading the door and they're trying to get out and you're just, you know, keeping them, keeping them in there to be.
+23:38
+The Nicholas Cage film.
+Yes, Nichols Cage documentary The Rock and like and and it has like very, very good like gas effects where like it'll disperse out and then like you open the door and like, oh, there's still gas in there and you close it in like a little bit kind of escapes.
+23:56
+And yeah, like you have great.
+Particle physics in this game.
+Yeah, and like, you know, if you walk over a deep water or something, like the whole screen will go blue and maybe you'll lose an item or two or something like that.
+But like if you have telepathic effects to some of your familiars or like, or scouting the, the, the dungeon level, you'll see like the little blue enemies like walking around it.
+24:21
+And it feels very thematic and good for, for what it's trying to achieve or, or even things like, I mean, we're kind of getting our head over ourselves with some stuff in it.
+But like, but for dungeon effects, you know, you step you, you grab that key from the altar and then, oh, no, the torch has dropped from the other side of the room.
+24:38
+And you see the little fire things start creeping towards you and you're like, oh, this is not good.
+But it's very evocative.
+Very, very, very another another specific example.
+I picked up this great ring of clairvoyance early in a run and I upgraded it or enchanted it, I should say, to make it even better.
+24:56
+And like it had this, this bubble I had this I was running around with this bubble of of see all you know of of of vision of all hidden items.
+And like the way that that was, I'm not describing it very well, but you're just going to have to take my word for it.
+Like it looked cool and it felt like, yes, this is a truly magical item and I truly have like an extra edge in my dungeon delving.
+25:20
+It's it's neat and this game is full of neat stuff like that.
+Now I wish in almost 20 years, not 20 years, OK, 15 years, let's round down in the 15 years that this game has existed.
+I, I do wish that these things have maybe been pushed a little bit further.
+25:36
+I kind of was disappointed a little bit in the modding scene.
+I, I was, I was hoping, I was hoping that we that, that, that specifically like in the story department, I wanted to see a little more in terms of like where are some friendly NPC's?
+25:53
+Where are some potentially some some side quests, maybe where are some just a few extra story elements?
+I was, I was thinking, I don't know why I thought I would see them and and there just weren't really that many.
+Scott, I don't mean to rush you along, but but we do need to talk about the story at some point.
+26:12
+Yeah, the story is you hit new game and you're boom, you're in the dungeon and that's it.
+Why are we in the Dungeon of Doom?
+The Dungeons of Doom.
+Well, you get the amulet.
+Yeah, there, there, there is an amulet.
+Classic.
+Iconic which?
+Amulet the amulet of Yendor so it is it is rogue to AT yeah and even though every time that I web search for for brogue, a specific type of shoe called brogue comes up I think that like.
+26:41
+Don't forget to identify it before you put it on.
+It might be a cursed shoe.
+Am I right folks?
+I mean, yeah, those those wing tips will get you, but yeah, I think that like even even Brian's website for the original brogue, doesn't it?
+Like there's no like background flavor of, of like, Oh yes, you've been recruited by the adventurers Guild as a, as a prank to go down into the dungeons of doom as a, as a trial.
+27:04
+But like, I feel like I kind of, I kind of don't need it.
+I I think in our shattered pixel dungeon episode of like perhaps?
+Perhaps you don't, but sorry, please, please continue.
+Well, yeah, I think that like there's this game, this game almost kind of feels like a chess board to me, where it's like there, that's it.
+27:22
+Like it's just you got the board and the pieces and you have the emergent gameplay of like you versus the the system and all that stuff.
+And yeah, sure, there's probably like a a chess app on Windows 11 that you boot up and it's like, Oh yes, you are the knight of the round table and you must go forth from Kingdom to Kingdom and slay there, you know, fight the various Lords in the game of chess and all that stuff.
+27:46
+And you know what?
+I'm sure that works for for somebody, but.
+Point taken, Scott, I, I you're right.
+My experience of playing a chess match would not be improved if like there was a whole narrative description and a duel between the two pawns and you know, oh, like the dramatic flights of the council as as the castling is happening.
+28:10
+They had to, but I think they've said.
+This for, for some games before, like I, I, yeah, there is a purity to the game that is I, I think at this point it's part of the essence of the game itself.
+Like if you added much more stuff to this game, it would no longer be broke.
+28:29
+I might like the game more, but it would be a different game that I'm liking.
+Sure, Yeah, yeah, yeah, yeah.
+And, and, and to be clear, I'm I'm aware that like, hey, why, why isn't this a, you know, why isn't this a, a, a dating SIM?
+Why isn't this a in depth?
+Why isn't this shoot?
+28:47
+Who am I getting something tail?
+Why isn't this like, you know, why isn't this Alan Wake too?
+Where's my storyline?
+Where am I?
+Where am I cinematics?
+You know, I understand that's a silly thing to say, but as we discussed in the bonanza or earlier, part of the bonanza, I'm very much into the emergent story and the emergent gameplay is part of that.
+29:05
+Of course, Scott, and there are a lot of extra elements and things that sort of do create a narrative of sorts, But I just wish that was kind of pushed a little further, maybe not necessarily by the core game, the main fork, but like I was surprised and, and, and in Google, maybe it's just my browser, like there's a pretty quick auto fill, pretty quick to pop up like Brogue quest mods.
+29:27
+And seemingly there are none as far as I can tell.
+I didn't search very hard, but I couldn't find any.
+So I'll, I'll OK, I'm going to confide in YouTube.
+Don't tell anybody else about this because it's a little embarrassing.
+I started, I started role-playing and I started making up quests for myself.
+I'm like, all right, yo, I'm here in the dungeons of Doom and like, yeah, I want to get that amulet.
+29:45
+Everybody wants the amulet.
+Everybody in the Mama wants that friggin the amulet of the, of the endor.
+But also I'm here to find my fallen brother's sword.
+I must reclaim it from the dungeons of doom.
+And so like, you know, and honestly, that helped a little bit.
+That helped a little bit.
+Pardon me.
+It made me a little bit more engaged and I would get very excited anytime I saw the little sword Sprite icon.
+30:05
+But sorry, we're we're maybe I continued to distract.
+Us.
+Did you ever play Cogmind?
+You, You came on after we played.
+Cogmind.
+I did.
+I did.
+I fired it up you.
+Should go back and play Cogmind because that was the thing that kept like.
+I basically like Cogmind is what I think of when I think of like this is what a traditional work like could be like.
+30:27
+There is story in it.
+There is, I won't even call it like emergent story or that much of a story, but there's an there's, there's ambiance, there's there's a world that feels like there's something that's happening in that world and and you there like looking around and stuff feels like interesting to look at and.
+30:48
+Totally.
+That's.
+I feel like a real part of the thing that's missing is like.
+What are what are we?
+This, this.
+What is the context?
+What are we doing?
+Yeah.
+What are we?
+Just like a cave.
+There's love in it.
+Sometimes it's like, not the world itself, I don't think is like.
+31:04
+Sure, if it would please the court.
+I, I, I just, I want to, I understand this is a rogue like podcast.
+We're talking about a traditional rogue like.
+And like, this is not necessarily the point, but it's been my observation that a good rogue like a good traditional rogue like there is a narrative that emerges.
+And I was just hoping that there would be a few extra elements.
+31:22
+Is is it so, so, so anyway.
+And again, modders, please, you know, get in touch.
+We'll, we'll, we'll put some stuff together and it'll be it'll be great.
+We can do our own or.
+Just play a different game.
+Or play a different game.
+That's fine too.
+So.
+So.
+But back to what?
+What game is here?
+Not the game that Andrew wishes existed.
+And, and thank you, Colin, for reiterating the fact that I need to play Cog, mind.
+31:41
+Yeah, I'll reinstall it.
+I got to clear up some space on my hard drive though first.
+Yeah, probably a whopping 56 megabytes.
+Probably, yeah.
+I think that like and and it it kind of underscores that brogue is like no, like we don't need story.
+We don't need like all of these crazy macro effects.
+31:58
+We don't need 50 levels of dungeon diving.
+We don't need all the stuff like only 40, only well, 40 at a maximum.
+We'll get to that.
+That we're just gonna strip like the essence of these games down to like its absolute core and like build off of like the concept that no, you don't need to grind for XP Your like your character is the items and much much like cog mind that like as you are going through the dungeon, you're picking stuff up and because you are not incentivized to kill monsters for XP that like this.
+32:36
+What was it?
+This was 2009.
+I think Sleigh the Spire was like a few years after this, but it feels very like I don't I don't think that the developers of Slay the Spire played Brogue, but it does seem like it's setting that stage of like the synergies are the point and finding like, oh, like this ring of reaping and like the stealth ring and I do crit effects and that recharges all these things and I got this crazy like synergistic build going.
+33:03
+This feels like the first like inception point of that, because up to this point it was like everything was XP grinds.
+Not even like grinds per SE, because Doom RL came out five years before this and that's that's not so grindy, but like you are like character building and like class selecting based off monster kills.
+33:25
+Anyway, all that to say that like this game is so stripped down that like at its core identity, it is simplicity.
+And yeah, like if there was like a title screen or like a like a splash text of like like we get with with Lauren or or Omega of like here's this like, you know, thin veneer of substance to it that kind of gives you.
+33:46
+Veneer.
+OK, Yeah.
+Like your daughter is poisoned and you gotta, you know, that's the that's the food clock kind of thing.
+But but you know, but but it is it is so stripped down to its bare bones that you're just like, OK, this is like the most distilled play space of it that all the others, all the distractions of all that other other stuff.
+34:10
+You want story dungeons and Dreadmore is right there.
+Go for it.
+You want pretty graphics, dungeons and Dreadmore is right there.
+Go for it.
+You know, there's there's no shortage of other games that kind of do that so.
+I, I would just very quickly like to point to Rift Wizard.
+We discussed this during the original Rift Wizard episode that, that has a tiny bit of story and like, hey, look, that's, that's all I need to start the game.
+34:35
+Like I'd love for there to be story of months in the game, but at the beginning of the game, it's like, yo, we're after the wizard, we're after the red wizard, blah, buddy blah.
+And he's he's wrong.
+More do we need more?
+Do we need to find him?
+We need to we're we're purple cloaked Wizards and let's go.
+And I think I said at the time, this is a tiny little bit of story, but it's doing a lot of heavy lifting.
+34:52
+It is providing the context and is informing all of my decisions and the rest of the game.
+And if there was no intro text to Riff Wizard, that could be objectively be a worse game.
+From from right?
+From.
+Right, We have something to work on our end.
+Because this game is open source.
+35:08
+We're gonna make a Grog Pod fork of Brogue.
+We're gonna put in 10 pages worth of story text, a big long Star Wars scroll.
+Instead of instead of brogue, it's grogue.
+You know, I think I think I think it would be great if there was just a little like, yo, there's here's the quest mod.
+35:26
+You're and you are here.
+You're you're on a you know, you're here to slice so many Medusas or you're here to do XY.
+You know, other things as as maybe just a supplemental mode.
+But anyway, OK, I apologize that I I keep I keep getting this off task.
+So the the story is is simple.
+35:41
+The story is iconic.
+It's it is classic.
+It is the rogue storyline that you are going down to get this amulet.
+What does it do?
+Who cares?
+Why do we need it?
+Who cares?
+Hey I have a gameplay question though.
+What actually happens when you get the amulet?
+35:58
+No maybe no spoilers but like does you have to?
+The actual wind condition is to exit the dungeon of doom with the amulet.
+Does anything happen?
+I mean, in this game you're not expected to clear every level, so like there's still challenges to face as you were exiting the dungeon.
+36:17
+So, but does anything else happen?
+Are there any systems in place to like repopulate certain levels, or are you just kind of having to sneak out and dealing with like whatever's leftover that is?
+With Cobalts again by the time you get to level 1.
+Right.
+Yeah, is, is are the final like 201020 levels just like you know, as you're ascending.
+36:38
+Are you being?
+Inspired.
+Are those boring?
+Like how does that go?
+Dimensional Vespers like you are in Caves of Cud.
+Well, you know, you're probably battling hunger also, but sorry, go ahead, Scott.
+I I think there's, there's kind of multiple parts to it.
+Number one, I have, I have not gotten past like dungeon depth 15 despite my best efforts because this game is brutal.
+36:58
+But to kind of answer your question, like, yeah, levels, so levels are permanent.
+So like dungeon Level 3 will be the same dungeon Level 3.
+If you go up and down to it, it doesn't resell like in more air hangman very hack like in that form or rogue.
+And yeah, so you grab the amulet, notably it I don't think it does anything.
+37:18
+I think it just takes up an inventory slot, which at that point in the game is a big deal because you know, you're losing, Yeah, you're you're losing a spot in your backpack for it.
+So you've picked up this amulet, you're running back up the dungeon.
+I believe that better players than I will do things of like leaving higher tier equipment like dropped on the ground for coming back.
+37:41
+Dead drops.
+Dead drops on the way back specifically because like you're still fighting monsters and stuff on on the way back and the way out.
+And notably, like in the early dungeon levels, there are like these areas that have like, vaults, vaults of items, and they're scattered throughout the dungeon.
+38:01
+Are these marble statues every so often?
+Yes.
+And what you'll notice as you go further down into the dungeon is that those marble statues are filled with all sorts of horrors.
+And I can only imagine I think this is the case, but I'm not totally sure that as you are sending back up, there's even worse horrors in those marble statues as you are coming.
+38:22
+Oh, dungeon depth 30.
+I'm almost out of here.
+It's a good thing I can high 5 those marble statues on my way.
+Oh no.
+OK, well, hold on a minute, You said, oh, this game's distilled down.
+It's like it's, it's the most concentrated rogue experience.
+We don't need all this extra crap.
+38:38
+It's only 40 levels, but it sounds like it's it's actually 80 levels because you have to then backtrack through all of them.
+No.
+Well, so it's 25 levels to get.
+Excuse me, where?
+The amulet.
+Is my mistake.
+Should you feel compelled to do more of a challenge run, there are things called Lumen Stone that take up even more of your inventories.
+39:00
+OK, OK, now I like, I like this.
+I like, I like an additional objective.
+A reason to continue playing this is this is good and then you can also.
+You can exit the dungeon on floor one or floor 40.
+Yeah.
+So if you get down to 40.
+Like.
+Dragons and shit.
+39:17
+Well, I guess lumen stones do give you like a crazy amount of score also.
+So it's like, yeah, if I want to like, boost up my leaderboard points, go and grab them.
+But on the web version of Rogue, which does exist, it should be.
+Or you know, if you're if you're screenshotting from your steam deck and posting it in the discord to to to your dismay that your Co host have beaten your high score.
+39:38
+But but yeah.
+So like lumen stones, you can go beyond dungeon level 25 where the amulet is for like your standard ending, grab the amulet, ascend up an X fill with all the treasure.
+Great.
+You can go further down another 15 floors and get these lumen stones.
+It's basically just like score, score ascension because you're you're inhibiting your backpack.
+39:58
+But but yeah, so so it's 25 floors down and it's the same 25 floors back up and you've already mapped them out.
+So like in theory.
+And again, like another very nice quality of life thing that like you can just I think this is in net hack, but I was I was glad to see it here where you can just like shift comma to go like to, you know, the like the the greater than sign that takes you to the upstairs icon.
+40:25
+To just like hot key, like, OK, go upstairs, go upstairs, go upstairs kind of thing.
+And so like after you've mapped out the dungeon floor and you know where the exits are, like you can escape back up pretty quickly.
+So it's not like, you know, Oh my God, like with with Moria, it's 50 fucking floors of fuck you this of it's a different dungeon floor every time.
+40:45
+And you know, it's going to take you 50 hours to maybe if you've scapped, you know, stacked enough resistances to beat the Balrog down there, just as we saw from the documentary Lord of the Rings, Fellowship of the Ring or I guess, I guess technically Gandalf killed it in the two towers, the documentary Lord of the Rings 2 towers.
+41:03
+So it, it can be like 25 floors and you can beat the game in like a couple hours.
+So it's not, it's not overly.
+Thank you for the correction and I'm really showing my ass here because I didn't play nearly as much of this game as I needed to.
+I mean and as a friend.
+To Wikipedia while we're talking.
+41:19
+So I actually don't have any of this knowledge stored.
+In my brain it's a hard game, like there's a lot of stuff going on here.
+And yeah, I could see how someone could download.
+You see this all the time.
+Some poor soul drunkenly stumbles into the roguelikes discord.
+41:35
+Hey, I like games like Hades.
+What are some other games that I should play?
+And they inevitably say something like you should play Ang Band or Net Hat cuz I'm like an absolute troll.
+Amazing, real quick, Scott, I remember when I was new to Dungeons and Dragons, I went to AI, went to a forum and I said, hey, I'm looking for a fun adventure to run for some first timers and the and of course, the first, the first recommendation.
+42:00
+Oh, run this little ditty tomb of horrors, the the infamously difficult and it, you know, try to kill you adventure, which was specifically designed to be difficult.
+It was a it was a tournament module initially, so I'm glad that that that tradition is alive and well.
+42:16
+Yeah, indeed.
+So somebody somebody trolls and they say that yeah, imagine somebody going from Hades to to Angbad or.
+Yeah, but but I mean.
+What have you.
+Even if people and it's it's hard because I almost want to pitch this question back over to to you. 2 like if if if someone's like, hey, I want to like what's what's like the best traditional rogue like to play as a new player.
+42:39
+A lot of people recommend Brogue as like hey like this like you should play this.
+It's like the best the best like thing of its of its class.
+I feel like the real question would you have to be like, well, what are you starting from?
+42:55
+Sure.
+Like if you're starting from Hades, the answer is don't like play a game that's somewhere between a traditional roguelike and Hades first.
+Like there's a lot of games that are tile based or whatever that we wouldn't call, you know, play play Rift wizard or tomb of the Necro Dancer or or something that's like little bit more on the step towards a traditional rug like because it's not like.
+43:23
+We're we're.
+Lumping all these games into the same same category of rug like this is a vastly different game than than Haiti's or or many of the other kind of games that we've played.
+Like this feels, despite being what the progenitor of the genre, it feels much further from most of the games we play than the average game that we play well.
+43:44
+Colin, you don't have to elucidate the the point that we're hack frauds and this is barely a roguelike podcast.
+Like, look, we know.
+We know, OK.
+I know I also don't care.
+I'm goofing.
+I'm I'm, I'm goofing to some extent, yeah.
+We don't cover these traditional roguelikes maybe as often as we should.
+44:03
+But you know, it's the 100th episode bonanza, so obviously we need too.
+And you know, Scott, to answer your question, I think my first experience with like traditional ASCII roguelikes was was pretty decent.
+Was like was not it was it was.
+44:19
+It was good enough that it made me interested in the genre.
+I didn't like go down a crazy rabbit hole playing only those ever, but like introducing me to the genre.
+It made a strong impression enough that eventually it led me to being interested in in joining this the show with y'all, which was I we became aware of these hyper specific and I've mentioned before these hyper specific fan projects like doom RL.
+44:43
+I played that back in the day.
+I played there was a the the Fox 20th Century Fox sci-fi universe aliens.
+There was an Aliens roguelike where you're like trying to escape a colony.
+45:00
+By the same by the same guy.
+By Xena Morris.
+Is it by the same person?
+Oh, I didn't realize.
+Pardon me.
+Sorry.
+Well done.
+Good job.
+You probably just went to the Chaos Forge website and were just like download, download, download.
+Yeah, there was also like one that was like it was hyper specific.
+It was like, yo, this is a roguelike.
+45:16
+That's or an ASCII game.
+It's less of a roguelike and more of a like AI don't know battle simulator.
+It was it was it was guts in the 100 like man sword fight from like the golden age arc where it's like you're moving around on a grid sword fighting like a bunch of of people.
+45:36
+But the but the point is like, I think part of the reason that I was interested in that is that like it was it was like a topic that I was really interested in.
+Like, oh, I love I love the setting, the aliens universe and like I want a game that is not real time, but it's like hyper specific to my interests.
+45:55
+But but but so that I guess, yeah, I would say, hey, go and try to find a fan project that's of a fandom that you really like and then try it out.
+And that's really going to get your imagination working.
+I think because, well, your imagination's going to be going to have an easier time because it's like it's a it's a setting that you're already interested in.
+46:17
+But like that's kind of AI don't know far fetched recommendation.
+I think if someone says, look, I absolutely have to play one of these traditional roguelikes, What what is it going to be?
+You know, I'm going to say I'm going to say Cave's a cud or I'm going to say I'm going to say probably this game because it's it is hard, but it is not hard to play the interface and the accessibility is is I mean, I didn't play this game.
+46:41
+You're again not nearly as much as I should have, but like it immediately is just so easy to play.
+Similar to CUD, But honestly it's probably easier.
+Like the interface I'd say.
+It's much easier than Kids to CUD in terms of like the complexity of the interface and systems in what you're trying to understand the.
+46:59
+World.
+Yeah, it totally is.
+Maybe a silly thing to.
+Say much more it's it's very.
+Difficult in the terms of like from the border and there's three Cobalts and there's they kill you.
+Yeah, perhaps it's better to say that like this game is a lot easier to like jump into like the start and then then CUD when you know, before you're, you know, engaging with all the advanced systems that case of CUD has.
+47:21
+It's also worth noting that that the community edition of of Brogue comes with different game modes, one of which is an easy mode that I played around with a lot because.
+But it says 80% damage reduction, but you only keep 10% of your gold score, which you know what I'm fine with Because even though like at, you know, once you inevitably lose in this game, like, like me, you're, you're presented with like your local leaderboard of like, oh, you scored this much gold, but also tells you what depth you got to which I kind of almost treated like a secondary leaderboard of like, OK, do I have the tactical knowledge that I can like get to depth 15 regularly?
+48:05
+Like do I understand the game well enough?
+And easy mode, I think is a great way to practice that with the intent of like, OK, yeah.
+Like now I know that like if I come into like a vault room and none of these options seem like they synergize well, I can just grab the key that will take me to the next vault room and see if there's anything better there.
+48:26
+I did find it a little bit frustrating though, because it's basically like there's three modes, very hard mode, very easy mode and sandbox.
+Like there you, you take 20% of the day, it's 20% of the damage, right?
+Not 20% off, so you're basically not playing the game.
+48:44
+I mean even on easy mode it's still like.
+I mean, you lose, but it's.
+Like it's it is not.
+It is not a guaranteed victory by any means.
+It's not a very guaranteed victory and I I played a couple couple rounds and lost on it, but it's like the game obviously isn't balanced around you taking 1/5 of the normal damage so it does not feel like you're getting the the real game experience at all like.
+49:08
+Yes, and, and, but I can see that like if you are constant like me, if you're just constantly getting bullied by jellies or eels on early floors and you're just like, man, I really wish I could see what's what more is in store here.
+Like it's a good way to kind of like preview what's what's ahead in a way.
+49:24
+Yeah, sure.
+It it it is.
+I just wish that there was maybe a medium mode.
+Right.
+Like a regular, like a real a regular game, like normal.
+Sure, sure.
+Sure, you know you say classic, easy and very easy something.
+49:40
+Like maybe this game needs to take a take a few pages, take a page from shoot.
+What's the name of the game?
+Where are my notes?
+My physical notes?
+Which is the one where you have the sick daughter?
+That's.
+Lorne, Lorne in Lorne, you start the game and it's like, what difficulty would you like to play?
+49:58
+And you enter in one through 100 and there you go.
+We fixed it, I mean.
+Or just every game that has difficulty settings.
+Yeah, or like, not exactly.
+I'm too young to die.
+Yeah, yeah, yeah.
+OK.
+So hey, you mentioned you mentioned somebody mentioned a monster.
+50:17
+What kind of monsters we got?
+I want to talk about the ecology of this dungeon of Doom a little bit.
+So of course, you know, on the upper levels we got rats, we got jackals, which I like.
+It's not wolves, not wolves, jackals a little bit different.
+That's kind of neat.
+I like the idea of a dungeon Jackal that's evocative in and of itself.
+50:35
+We got we got rats, we got goblins, we got goblin shamans.
+And then as you get further down, like what, what kind of high tier monsters is this game bringing to the table 'cause I, I ain't never seen any of these things.
+Well, yeah, I mean, so again, with the simplicity of this game, there's not 3000 monsters where you have to constantly remember, oh God, is this like, is this yellow M or is this Canary M something for me to like, freak out about?
+51:02
+Is this capital M or is lowercase?
+M Am I fighting a pit fiend or is this like a, a a bird of paradise?
+You know, it's, it's a big difference.
+Difference and so yeah, like there aren't there might be some levels where there's like a room filled with a a bunch of letter GS in there and you're like, Oh my God.
+51:19
+But it's it's very contextual in.
+Oh no, I've stumbled into a a goon cave.
+It's full of GS.
+What you got?
+Sorry, what you got?
+Bosch enemy.
+Yeah, it's a yeah, it's a goblin.
+But like so like you might have.
+I switched on the sprites immediately.
+51:37
+You might have like little tan icons for them that are just the the standard hired goon goblins, but you have the the pink sprites, which are the goblin conjurers or you have the the green or the teal ones, which are goblin Mystics.
+But like, yeah, it's it's kind of like familiar stuff in the early levels, but later on, like there are there are other enemies like Dar blade masters.
+52:00
+I don't know what a DAR is but they they all have like very interesting and unique like move sets and like AI patterns to them that like.
+Yes, indeed.
+You'll be going through and be like, oh, that's a room that's room with like 2 dar blade masters like OK, I I'll like bait them down this hallway where I'll fight them with my warpike and I'll just like poke at them from a distance.
+52:23
+Great.
+Oh, but wait, like, you can just barely see out of the corner of your eye that like, there's like, stacked on either end either side of the entryway of the hallway, like waiting for you.
+And you're like, oh, that's clever.
+Yeah.
+I don't think I'm going to go in that room anytime soon.
+52:41
+Like, they will eventually they will go out of their way to avoid hallway fights kind of thing.
+So.
+So there's dark.
+Late again, the fact that you're not competing, you know, for XP and it's not just about getting, you know, gold and treasure necessarily to to beat this game.
+This becomes an interesting gameplay decision like am I going to is, is there a risk reward?
+53:01
+Whereas you know, in some like older traditional rogue like, it's like, well, I got to go in there.
+If I want the maximum score, I got to go fight him.
+I got to kill every.
+Of course, of course there was one time where so a higher.
+But but sorry, really quickly though, but OK, Dar blade masters great.
+I'm sure there's some, you know, they have a whole like they're they're we assume some kind of dungeon dwelling, like Marshall race of of of magical elder to Knights of some kind.
+53:24
+But like, come on, what kind of monsters we got?
+We got we got Dragons, we got beholders.
+What we got, we got not a we got nagas, different types of jellies, giant acid, acid mounds, underworms, arrow firing centaurs.
+Underworm.
+I like that.
+Liches.
+You got liches.
+You got your classic dungeon dragon.
+53:43
+Dungeon Dragon.
+It's called the Dungeon Dragon.
+Well, no, it's just called the dragon, but.
+I wish it was called the dungeon Dragon, but it's a dragon.
+OK, beautiful, beautiful.
+You got your.
+We gotta talk about the jellies later.
+Let's remember to talk about jellies.
+You got your Wardens of Yendor.
+You got.
+Well, of course Amulet viandor.
+53:59
+But interesting, there's a whole.
+There's just one ward of Viandor.
+It's the thing that starts is the inevitable monster.
+The unkillable monster that chases you wants to pick up the amulet.
+Really.
+Spoilers.
+That's that's really neat.
+That's cool.
+That's very cool.
+Well done, Brian.
+Well done.
+54:15
+Well done.
+Yes.
+So OK, cool.
+But you were saying, sorry, there was one time.
+Where?
+What?
+What?
+Oh yeah, so and will happen.
+Yeah.
+So, so there's like there's not 10,000 monsters that you have to keep in the back of your mind.
+And the game does a very good job of like, you know, you mouse hover over what it is and it will say like, you know, it did.
+54:34
+Like there is some kind of flavor text to them of like, you know, the you hover over Dar blade master says an elf of the deep.
+The darn Blade Master leaps towards their enemies with frightening speed to engage in deadly sword play, which is like, that's just enough that I I really want to be.
+54:52
+That's that's what I'm saying, yeah.
+The context, the description paint me a little bit of a picture, not not too much of a picture because again, you know, we're using our imaginations.
+The one that's great, the one for the Revenant says this unholy specter stalks the deep places of the earth without fear, impervious to conventional attacks.
+55:09
+Oh yeah, But to answer your.
+Question.
+I got 1 here.
+I got 1 here though, the one of the one of the many jellies, one of the many cubes and and things, the oozes that exist in this wonderful dungeon.
+There's the acid mound, which has a a wonderful description here of what it is.
+55:29
+It's it's the acid mound squelches softly across the ground, leaving a trail of hissing goo in its path.
+Squelch.
+I love a squelch.
+If anyone's read some, some Joe Abercrombie, some first loss series, my man, he loves the word squelch soon as well and he uses it as soon as he can.
+55:50
+And anytime I see a squelch on a, on a page, I, I have my signature, my signature battle cry, which is squelch, squelch, squelch.
+And that's what I did when I read this in the description.
+I love these descriptions of different objects of different monsters.
+You had another example, Scott.
+There was 1 an example where I had a wand of polymorph.
+56:11
+With me and.
+I come around the corner and there's a big frightening ogre.
+I'm like, you know what?
+I don't wanna fight this ogre, I wanna fight something easier.
+What better way to test out my wand of polymorph than to transmute some high level monsters gonna pummel me?
+56:27
+And it's something that, you know, it'll probably be like a cobalt or something.
+A rabbit or no?
+Something that I could easily squash under foot.
+No, I transformed it into a salamander, which one might think, oh that's that's you can just squash that with your.
+Boob, but not the not the garden variety we're talking about a fire, the.
+56:43
+Mythological variety The description for the salamander reeds a serpent wreathed in flames and carrying a burning lash.
+Salamanders dwell in lakes of fire and emerge when they sense a nearby victim, leaving behind a trail of glowing embers.
+And this felt like a Balrog fight to me at like dungeon death, like 6 or something transmute him and then he's just like this cap red capital S is just lumbering towards me with like fire trailing behind like I am going to run away from this and tried all of my potions as grenades.
+57:17
+Nothing worked and like all right, well, what if I run over here?
+And then I got cornered and Baal Rag whipped to death.
+How, how harrowing.
+And that, hey, there's a great example of the emerging narrative.
+I love that.
+That's great.
+That's so.
+See, I look at that and I'm like, This is why I didn't really like this game very much.
+57:37
+Like, I mean, it would have been the storyboard thing.
+Fun, interesting.
+But then you're like throwing unknown potions at it.
+And it's like I felt like a lot of us had just straight randomness that it that I don't enjoy, especially in the earlier levels, like floors one through 6.
+57:57
+Yeah.
+You don't know what any of your stuff does.
+You don't know what the potions are.
+You don't know what the the the squirrels are yet.
+Yeah, this is I, I can, I can 100% sympathize.
+And I feel like this is something that's just absolute catnip for stats majors because the game like you open up the discoveries menu, capital D and it shows you like, hey, here's all the stuff, all the items that you can encounter in the game.
+58:24
+And it has like a little percentage next to them of like, oh, you know, a scroll of protect armor has a 6% chance of dropping.
+But when you're, you're picking up scrolls and potions and things at first, like you don't have any idea what these things are.
+It's a scroll labeled garble knocks or whatever, and the only way that you can figure out what it does is by reading it and you run the risk of reading it and oh, it's a scroll of summon monsters.
+58:49
+Now you're surrounded by ogres and salamanders.
+Ha ha, very funny.
+Now you know in in that discoveries menu, it shows you like little blue and red icons next to the things to tell you which ones are good blue and which ones are bad red.
+Scrolls are like 80% or like 90% like all have good effects.
+59:08
+Potions are 5050, Staffs are like 8020 and wands are also kind of 8020.
+So there is this kind of like implicit like, oh, I don't know if I should use this.
+But like, I think the meta game here and a lot of traditional roguelikes from the 90s have this where it's like, you don't know what this thing is you.
+59:27
+Hated it in everyone.
+Yeah.
+I mean, that's fair.
+That's.
+Fair, but but but but.
+Barony does have an interesting system for this, I forget which I think I wish was more widely adopted.
+Where it's like, you know, you start.
+There any a game that I gave a 6.4?
+That you start identifying the items like there's a little bar that's like so I like.
+59:45
+The idea that actually is a good system.
+You can risk using it immediately, but you don't know what it is.
+Or you can wait and figure it out.
+And that actually that actually I do like that.
+That is a nice you don't get quite as punished for not knowing what your stuff is.
+1:00:00
+And so I think the little meta game that you play early on is you kind of explore around until you have a two or three stack of something.
+Generally the enchantment or life and strength or the enchantment scrolls, life potion and strength potions will like be very abundant.
+1:00:17
+So generally it's, it's kind of annoying, but it's like, oh, you explore the first few levels and you have like 3 stacks of some scroll, one other scroll and like 2 stacks of some potion.
+It's pretty likely that those are enchantment scrolls.
+And so you're probably pretty safe to use them.
+1:00:34
+You don't know.
+And so you run that risk of like, oh, like I've used this.
+Oh, I just used the scroll of protect weapon.
+Well, I only have my starting dagger.
+That's great.
+That's effectively useless, but it's early on that it doesn't really matter that much right now.
+And so, yeah, I agree that it's.
+1:00:50
+Then.
+Intriguing cool acts the next level and then it gets eaten away by an acid slime.
+Well, it asks you if you want to attack it or not and and risk degrading it.
+And so like the scroll stuff is, is like generally safe to use at first.
+1:01:05
+The potions are much more problematic because it's like, I don't know if I'm going to drink this thing.
+And it's going to be like that scene from the documentary, the 1996 documentary The Rock, where you get a you drink the green potion and then all of a sudden your skin starts melting off from caustic gas.
+The idea there is like, okay, I don't know what this potion does.
+1:01:24
+I'm gonna eat it at this group of sleeping enemies and see what happens.
+Okay, nothing happened.
+I'll write that down.
+Like, okay, green potion, safe to use this or like didn't emit any gas.
+Let's put it that way.
+There are some interesting like high level plays associated with this as well.
+1:01:43
+We're like let's say you enter a trap room.
+That's like, OK, this is very obviously I've identified the paralysis trap trigger.
+I know where the vent is like the one vent here.
+I believe what you can do in this case is like you can out gas things by just like throwing a potion.
+1:01:58
+It creates like a little gas BLOB.
+You step on the thing to like do whatever and then the the other gas can't come out because it's blocked by the gas on top of it and you can escape with the there's all like this game is riddled with like those kind of like 10,000 IQ plays on.
+1:02:14
+So you're like, yeah, like it is an absolute much like a game of chess.
+It is an absolute playground for that like super, super high level play that you know, will reveal itself over 80 hours of gameplay if that's your thing.
+1:02:30
+Like if if it is not, that's fine.
+Hey, it's a free game.
+You didn't waste any money.
+Checking it out, but indeed.
+Like I can see, I can see why this system is still here.
+And I appreciate the fact that like, OK, I've used like 3 of my or like I've, I've identified like 6 out of the 16 potions and they're all good.
+1:02:50
+So they're basically all bad, All the rest of them that I have to pick up and all of like the percentages are displayed there that like, OK, 7% chance that like this could be an incineration potion and I have a or I've already identified my potion of fire immunity, so I can pop that.
+1:03:06
+Does it update the percentages?
+It does.
+Okay, so that actually pretty cool.
+I didn't.
+Know that I didn't know about that either and that is intriguing and I was gonna make a whole argument.
+That math in my head.
+No, yeah, this game, I appreciate that it goes out of its way to kind of do that heavy calculation for me so that I don't have to be at worst, it's like, OK, what did I just throw?
+1:03:30
+Like a, you know, there's aquamarine liquid that splashed harmlessly on the ground.
+OK, that one might be safe to drink or it might be a hallucination potion 'cause that doesn't give off any gas or whatever.
+So yeah, like there's it.
+It's it's a meta game that you see in lots of other things.
+1:03:45
+I think it's done the best here in that it's not like super annoying to like hit 25 keyboard commands to do it.
+No kidding.
+No kidding.
+That being said, hey, the lack of a queue button for quaff, I'm really sad to see that be gone.
+1:04:03
+But I get it.
+You know, you can't quaff everything and apply is a is a more reasonable command and that's that's what you're using for, you know, scrolls and and potions and I'm sure other things I can't remember right now.
+Colin, I was going to make some argument about how no, it's it lies at the heart of this genre, the hardcore traditional rogue like.
+1:04:22
+There needs to be random.
+There needs to be that unknown, that fear of the unknown and therefore the excitement.
+But forget all that crap.
+I love that there is a meta game sort of system of mitigating the risk.
+You can't, you can't, you can't.
+Doesn't sound like you can mitigate it 100%, but you can make educated guesses and so you still kind of get the a little bit of excitement, a little bit of a thrill without it being completely random.
+1:04:45
+I'm glad that it's not 100%.
+Random.
+I mean, I get the I understand why it exists.
+It's a meta game mini game that I just don't enjoy playing fair.
+I don't think that it shouldn't be in this game because I think it's part of what this game is, but it just, it's not one that I particularly like.
+1:05:08
+Especially I, I'm sure that it, you know, had I played this game much more and was much better at it, I think it would bug me less.
+But since I'm not good at the game, I don't understand how it works fully yet.
+You know, I've died a lot on floors 5 or 6 or 8 and the number of times where I'm like, I am in a shitty situation.
+1:05:30
+I've got all of these things that I haven't identified yet.
+I guess I'll just die and and then you see, like I had a potion of incineration or something that was the exact solution to this problem on hand, but it was unidentified and I threw a random potion and it wasn't that one like it.
+1:05:50
+It's really like it's the anti one more run feel to me, like it makes me just want to be like, fuck this game.
+I don't want to play it anymore.
+Like rather than like, Oh, I was so close.
+If I'd only like had that one.
+I big brain IP move.
+It's like, Oh, I rolled the dice and I rolled wrong.
+Yeah.
+1:06:06
+And that really that that kind of gameplay thing really frustrates me.
+I I think if I were better at the game, like the more you played, the less times that that would become relevant before you had figured out like a good chance of what?
+Like, oh, these are probably like this is probably a potion that will do some sort of damage, so I'd have a higher chance of being able to throw it.
+1:06:25
+But.
+I think about a month ago to kind of prep for this, I was playing like the same like 2026 O one O 1 dungeon seed for like two weeks of just like I'm going to do whatever I can to beat this one seed.
+And I was just like going through and taking all these meticulous notes of OK, like this, this potion color is this and like medigaming the shit out of it.
+1:06:47
+And like, OK, I'm going to use all of the knowledge that I can to like to just beat the shit out of the randomness and then bend the game to my will.
+And eventually I just got like so tired of like trying to to game it.
+And I'm like, you know what?
+I'm, I'm just going to try to do like like the daily seed or even Even so, the, the brogue forum on Reddit subreddit is still very active and they run like weekly challenges.
+1:07:13
+I think it's like the, the seed for the Sunday of that week or something like that, where like people will post how they like their strategies and things.
+And it's very interesting to read like how people are like what their strategies are.
+And even for this like the past few days, I was like, OK, today I'm just going to play through this daily seed like 5 times and see what happens.
+1:07:34
+And I could totally see that, like OK, Yep, I remember the like this potion over here was good.
+This one was bad.
+I can test that out.
+I'll throw this one over here.
+Yep.
+Boom, they're all on fire.
+Great.
+Identified that thing.
+And yeah, like if you are rolling a new seed every time, like there, you'll recognize some some aspects of the game that it's not quite like there are bits of the dungeon that are just like pre like bespoke hand built elements that are copy pasted that you'll recognize, but there's stuff like that.
+1:08:06
+And you'll you'll be like, OK, Yep, I remember that this this room has the has the door key that I can pick up and it has this one specific trap and I can get around that to get to the the good item vault over here.
+Great.
+Now I actually have like a good weapon to start with.
+There's things like that, but like peppered all throughout here and yeah, like, I can totally see the like, you know?
+1:08:27
+Oh damn, I got checkmated.
+Let me drink all this stuff.
+And now I'm exploded and on fire and confused and hallucinating and not great experience.
+Indeed.
+Indeed.
+But yeah, I want, you know, one, a very critical listener might say get good and and quit being a baby.
+1:08:47
+But I, I would argue that I don't know the, the the runs are not that long.
+And that is for these things are frustrating.
+But I don't think, I don't think it's so bad that I guess we'll I guess we'll see as I play more of this game in the coming weeks, we'll see if my if my fortitude, if my will to continue playing is weathered down by these things or not.
+1:09:13
+But I feel like I feel like it's not so bad that I can't persevere.
+We'll see.
+Yeah, we'll see.
+We'll see.
+Hey, how's the music in this game?
+OK, moving on.
+So we we, but, but I don't know, a fun little fun little, little side bit here.
+What were we what were we doing while playing this game?
+1:09:30
+Were we watching TV?
+Were we listening to stuff?
+What?
+I mean, I was watching Tour de France highlights from my VPN connection to Australia on the Steam Deck on the couch of the cat napping on me, which felt kind of like a quintessential experience.
+And then me taking notes on my phone of like, OK, it's pretty this this section, this dungeon floor here for the seat has this thing.
+1:09:51
+So that way when I come back, I can go and do this.
+But yeah, I think, I think that that that format worked pretty well.
+Yeah.
+Is that is that?
+Is that real?
+Yeah, for the most part, I was trying to listen to a podcast for a while and then I realized that I was not listening to the podcast and I would did miss like a huge chunk of it, so.
+1:10:13
+Valid.
+Valid.
+That's what happens when I listen to our podcast, too.
+So I was listening.
+What was I listening to?
+I was listening to a podcast about.
+Was it relevant at all to this?
+Oh yeah, I was listening to some true crime thing, which I don't think was a good pairing at all.
+1:10:29
+Let me tell you.
+Yikes.
+And then, of course, you know, fantasy power metal, you know, hey, that's that's.
+That does seem like a good fit.
+That's always always a good fit.
+Of course, with rift wizard.
+My my favorite pairing was was specifically black metal, but that's, you know, also a different experience and and more magic centric.
+1:10:50
+What what do, what do we think about the magic system in this game?
+What about?
+What about the zapping that's taking place?
+I think the well, so you have.
+You talked about polymorph earlier, but what else we got?
+I didn't.
+Again, I didn't engage with the magic that much.
+So there was a there's a bunch of different items that you have available and much like Cog mind your build, your character is defined by the stuff that you pick up.
+1:11:10
+I guess.
+Also very similar to our Sheer and the Wanderer episode as well.
+Although in that game you do XP level up based on kills anyway.
+You have staves Staffs.
+Staves.
+Staves.
+It's labeled coolest in this game.
+1:11:26
+Don't know if it's a typo, but maybe.
+It's like a lawyer thing.
+Something stays Old English or is British English and Staffs is American English.
+Maybe.
+What?
+What is a kilometer anyway?
+So you got.
+Staffs.
+You got wands.
+I think the Staffs are supposed to be more like high-powered things than what the wands offer, but like they do different things.
+1:11:52
+So like you have staff of lightning, staff of fireball, poison tunneling, blinking and transmit, obstruction, discord, conjuration, and you have cursed stabs or staves like healing where you would think that like, oh, I'm going to cast this staff at that monster.
+1:12:07
+Oh no, I've healed it.
+Uh oh, again, another like 10,000 IQ big brain play here is there are certain things in the game that are reflective and then you can reflect that healing bolt, which would normally just heal a monster.
+You're back at yourself.
+1:12:24
+Or if you're doing a monster build, you know, you have like a bunch of allies that you've rescued.
+You can just heal them and that's fine.
+So, and likewise a, a haste wand, protection wand.
+Those are kind of things, if you were to cast that an enemy, bad news, but there there's ways to kind of mitigate.
+1:12:39
+And of course, and of course, these items have charges in a old school Dungeons and Dragons fashion, which is, I don't know, fun to see.
+Is it the greatest system for magic items?
+I'm not sure.
+But I enjoy, I enjoy when this thing this, this concept.
+1:12:56
+Comes a lot better than wands, which are just like you have forecasts.
+And then you.
+And then you snap it and throw it in the trash.
+Yeah, well, also notably the enchantment system here, you use an enchantment scroll on let's say Staff of Lightning and it increases the number of charges, decreases the cooldown, makes it do more damage.
+1:13:15
+It basically just like makes everything about the item that you apply to better.
+It lowers the the requirements required to use it and that applies between like Staffs ones or like more offensive melee item.
+Like your Staffs and wands are basically like your only ranged items in the game.
+1:13:32
+Like you'll you'll pick up like javelins and darts and things, but most of your of your power is coming from the.
+That's another thing from old school Dungeons and Dragons that I appreciate is present in a lot of these, you know, traditional Rd. like games do.
+1:13:49
+Y'all?
+Are you 2 familiar with the the history of darts in Dungeons and Dragons?
+No, but I love them in this game.
+I don't, I don't know a ton about it except that in like AD and D, in like first edition, you'd be, you'd have your first level wizard and you'd only have like a handful of spell slots, right?
+1:14:07
+And you start your dungeon delve and you blow those spells in like the first couple of fights with, you know, I don't know, a, let's say a gibbering mound or or something and a, a couple of cockatrice maybe.
+1:14:24
+And then what do you, what is a wizard to do?
+Well, you can throw a dart, which I've always imagined.
+That's just a giant lawn dart.
+A giant lawn dart?
+What's that?
+They hadn't invented canned trips yet.
+They not to my knowledge, as far as I know now I haven't played a ton of AD and D, but that's my understanding is that a lot of a lot of Wizards would would rock around with a bag of, you know, magic components and things, you know, magical items just cast their spells.
+1:14:50
+But then when they were done casting spells, they could they could throw these darts from a distance, which, again, is there a historical precedence for that?
+Because I I'm not sure.
+I have.
+I have trouble imagining what this is.
+I can only assume it's like a lawn dart.
+So.
+So that's fun.
+Yeah.
+There's a wealth of equipment and these and these items, they have different effects.
+1:15:08
+They have different stats.
+They behave differently.
+You might think, oh, surely the sword and the axe are just different, different stat, different, different amounts of damage.
+No, no, no.
+Yeah, this was something that.
+They're slightly different.
+Well, slightly.
+I mean, better to be slightly different than exactly the same, yeah, It's a world of difference.
+1:15:26
+I, I'm, I'm perhaps being a little flippant, but like, I sure come on, guys, we're being a little too easily impressed like, oh the, the.
+Actual I highlight some.
+Features.
+This is such a novel thing, I've never seen it before.
+Yeah, I mean.
+Maybe.
+1:15:42
+Maybe.
+I I'm, I'm not, I'm not as like impressed at the fact that there's, there is an axe in this game, but more of the fact that like it seems like every, every item has like a usefulness to it that there's not like, oh, it's a sword.
+Great.
+I'll just like stab a guy with it.
+1:15:57
+Like a whip will have like, it's like it's very easy to to use early on and it has it's like a very easy ranged weapon.
+When I discovered that like axes don't, don't just hit like the the three spaces in the direction that you're attacking, they hit every single of the 8 spaces around your character.
+1:16:15
+So you're almost kind of incentivized to like, gather enemies around you to attack all of them at once, and you just become this like this unstoppable blender, which which, like for me, the first few times I played this game, like, God, I'm just getting bullied by all these stupid jellies that I'm fighting out in the open like an idiot.
+1:16:34
+They just surround me and then lick me to death.
+And like the figuring out, oh, the axe just hits all of them at the same time and then they're just deleted in two seconds.
+Incredible.
+Like, it's a very simple, it's not very flashy, but it's so simple and effective that I'm like, man, yeah.
+1:16:51
+Like I, I like am excited to see a very specific item when I know that like, OK, Yep, I know exactly what that thing does by looking at it after 2 seconds.
+And I don't have to pull up a wiki to do so.
+Like it is, it's very straightforward.
+1:17:06
+It, it like does a thing and I'm glad that it does it.
+And yeah, that there's not an overwhelming amount of them to the point where, yeah, I'm, I'm like getting overwhelmed from mental cognitive load, which I think is a strength.
+And I think that like there are, you know, much like we talked about, like the cursed consumables, there are cursed weapons that a lot of times like you can just like pick up and then put down the cursed weapon, which I'm very happy for that.
+1:17:35
+Like I think in the in some of the other ones like you.
+Pick.
+Oh yeah, Barony.
+Yeah.
+And then it's just like, Oh no, it's like it's fused in my hand and I can't put it down.
+And yeah, I'm, I'm very glad that like in some cases and another 10,000 IQ thing, you put down the cursed weapon, you put down like a whole bunch of cursed ones in a room.
+1:17:53
+You read a scroll of remove curse and boom, now they're like actually useful instead of having like a -, 1010 hit penalty.
+I did not realize that there's a area of effect for for remove curse.
+Yeah.
+So there's, there's all sorts of, you know, kind of kind of cool.
+1:18:09
+Yeah.
+Like the I mean, we could, we could go on, but it's.
+We sure.
+Well, you could go on.
+There's a lot of these things that I did not interact with or even get close to reaching intriguing what else we got here.
+1:18:25
+I mean, there's no music, but you know, there's of course, you know, you throw on some dungeon synth or some power metal and you're having a good old grand old time.
+So I just want to say real quick, the way this game handles traps is, I mean, it's still aggravating, but like, it's pretty, it's pretty good as far as like AD and D trap experience, like one of the better portrayals of of that type of system.
+1:18:50
+And we don't need to, you know?
+Well, I'm glad you called that out.
+But yes.
+One thing that bugs me about like, Sheer and The Wanderer or like lots of other games that have traps in them, is like, you step on a trap and oh, great, now you're debuffed.
+Like there's no reaction to it.
+And right, What's great about this game is that, yeah, like the traps become more prevalent as the deeper you go and they become more hidden.
+1:19:13
+But they are, they're an element of the dungeon that you can use against your enemies, which is great because there are a lot of times in in cheering where I'm like, you know what?
+This would be great if I could have used this trap against an enemy somehow instead of it just being constantly against me.
+So this is where the darts thing comes in quite a bit.
+1:19:30
+We're like, you can lob a dart at a pressure plate, boom, caustic gas explosion.
+And there have been times where I've been like Congol, lining enemies in a dungeon through this trap room, throw a dart, boom net trap right down on him.
+Great.
+I can go about my day and without having to worry about all these ogres and stuff.
+1:19:47
+So I wish.
+Very immersive SIM love.
+That, yeah, I wish that was in more of these kinds of games that that we had played.
+And I'm glad that it's here because I think Cogmind also does it this way, where it's like this is a thing that just exists.
+1:20:04
+And yeah, if you step on it, it's bad luck, but you can also use this element.
+As a tool in whatever that you're doing and it becomes, it just elevates the sandbox instead of just being a a really lame debuff that you had no way of of knowing was there unless you were sure moved.
+1:20:20
+The the way that you search for them is is kind of interesting.
+Like it gives you a percentage chance every time you, like, take a step around.
+And then a lot like a lot of times they'll be like, huh, there's a a gas vent over there.
+But I wonder if there might be a pit.
+1:20:37
+Yeah, a pressure plate somewhere in this room.
+Right, like.
+You can just click search 5 times and see.
+If you you spy it, it will.
+Clue you in.
+They're like, hey, there's something going on here versus like, whoops, now you're dead.
+For sure there, there are clues.
+1:20:52
+And then you can, you have, yeah, there's, there's, there's an opportunity for the player to react and to engage with those components, with that, with that system and avoid it or try to use it to your advantage, etcetera, etcetera.
+Yeah, it's, it's pretty good.
+1:21:08
+It's pretty good.
+I'm, I'm, I'm here for it.
+And I mean, you know, hey, traps, traps and dungeons, they're like peas in a pod.
+They're just, you know, inexplicably they're, they're linked and forevermore will be.
+And if you get traps right in a dungeon delving game, that's a pretty big achievement.
+1:21:26
+I think we've kind of hit a lot of the points that I had in my doc.
+I did want to read 2 listener letters that they're not super long but you guys thought you were going to escape without some community correspondence but.
+What's I've dropped the traps?
+On top of you.
+1:21:41
+Yeah, but let's, yeah, let's hear, let's hear from the witnesses.
+Sure.
+In the Roguelike Rogues gallery.
+So we got we got one that was sent into our Mastodon from Tim Chase, who writes us to say that my favorite Quick Play roguelike is Into Ruins for the Pico 8, which takes inspiration from Brogue, and Brogue is the only one of the major roguelikes that I've consistently returned to play.
+1:22:09
+Looking forward to the episode.
+And he continues on.
+In both cases, I find that it's a mix of interface simplicity and the complex world interactions.
+It's those times where I sacrifice an orb of life and in the game into ruins into a grassy field of sleeping animals.
+1:22:27
+The spore light causes bats to burst into flame, igniting the grass and orb sparkles, and the spreading fire does significant damage to all the enemies trapped in the grass.
+Or throwing a Brogue Dart onto a trap where it activates I'll effects from a vent that in turn damages enemies.
+Or stepping into a lighted area, getting seen and having enemies flocked to that area to attack me while I step back into the darkness and they sneak and sneak past them the long way around to snatch something that they were blocking.
+1:22:54
+Also I hate aggressive food clocks like neck like net hack while broke has a hunger meter, it's not nearly as aggressive so I don't object as much.
+Him.
+Chase, thank you for writing in.
+And yeah, hey, you know, in these games like the environment, the world, that's that's the ultimate enemy, right?
+1:23:11
+And it feels great to have like, mastery over your environment and like being able to use the dungeon against your enemies.
+Good stuff, good times.
+And bursting.
+I love, I love, you know, I'm a vegan, but I love it when you can light a swarm of bats on fire and use them as a weapon.
+1:23:28
+That's, that's that's the one exception I make.
+That's great.
+I'll read another one here from Kazko who says it wrote into our e-mail grogbugzone@gmail.com It says.
+Brogue was my second or third attempt at trying to get into the genre.
+My first attempt was with a Dungeon Crawl Stone Soup.
+1:23:44
+Having no experience in the genre, it left me feeling very confused and disoriented.
+My first experience with Brogue was completely different.
+I was pleasantly surprised that I could play an entire game using a mouse and I didn't even need to use a wiki to play the game as a new player.
+Not to mention the game looks beautiful without needing a tile set with a great use of colors to where I didn't need even feel the need to.
+1:24:04
+The desire to use a tile set while playing the game my first run instantly got me hooked.
+I remember 1 interaction very distinctly.
+Wasn't very deep, only on D3 or D4.
+When I ran into a goblin conjurer the first time, I fought off a couple of spectral swords before I quickly realized I needed to take out the conjurer to stop the onslaught.
+1:24:22
+Been there.
+The fight slowly moved to a point where I was on a bridge and I couldn't make any more progress forward due to the narrowness of the bridge and the spectral.
+Blades that kept.
+Getting summoned also remembered that I had a staff of fire bolt that I could use to take him out, but this plan has succeeded in killing the goblin conjurer.
+1:24:38
+Unfortunately, however, the bridge that we were fighting on also caught on fire, and I had a couple of turns where I tried to scramble to safety, but the bridge burned out from underneath me and I plunged into the depths below.
+I fell into a pool of water where I was promptly eaten by eels.
+I was blown away.
+1:24:55
+This was the This was my just my first run and I experienced A cinematic fight that surprised me with cool mechanics that I did not expect from a simple looking game with a bunch of letters and symbols.
+I say simple looking, but the game is also gorgeous.
+All caps.
+The more I played this game, the more I fell in love with it.
+1:25:12
+It's also led me to trying a bunch of other variants as well as creating my own K Brogue K for Kosco probably.
+It remains to this day one of my top five favorite games of all time, and I'm glad that I gave the roguelike genre another try so I could discover this gem of a game.
+1:25:29
+Casco that's that's a great example of and I was really I'm I'm pro character death and I'd be in a lot.
+There's not enough characters getting killed and I love an epic cinematic death, that emergent sort of story, even if it ended in tragedy.
+That's that's so cool.
+1:25:44
+That's great.
+I love that.
+Love that story.
+Thank you for for writing in and and sorry, did I hear correctly that they have their own fork that they customized?
+Is that correct?
+Yes, I believe K brogue.
+I don't know if brogue that that one is.
+Yep, it's on GitHub.
+1:25:59
+Maybe that has all of the, you know, NPCS and merchants and and brand storylines that I'm after.
+Sure enough.
+Well, cool.
+It's it's the AI overview says K Brogue is a is well, it refers to as as celebrated.
+So that's good.
+But maybe it's referring to Brogue.
+1:26:15
+But hey, we'll, we'll, I'll, I'll look it up and and and check it out.
+Thank you for writing in.
+Future Scott jumping in here on the recording as after we hit the record button, we we were basically all out on vacation for like a whole weekend.
+1:26:33
+During that time, I think thought to myself, well, you know, it's the big 100th episode spectacular or bonanza.
+I can't not read any more correspondence that we've gotten about brogue.
+So here we go.
+We got buttons 840 who says of of the the question of what hooked them on brogue?
+1:26:56
+It respected my time.
+I started with Tome 4 which I like, but winning a run literally requires killing like 40,000 enemies.
+Then I played Dungeon Crawl Stone Soup which required killing about 2500 enemies to win a run.
+Both of the above games depend a lot of knowledge checks.
+1:27:15
+The way to progress is to just know things or read the wiki, but the wiki cannot really portray the gut feel that comes with experience.
+Threat assessment.
+Brogue is just so much more respectful of my time.
+I do miss the slightly more complicated builds and player stats of other games though.
+1:27:30
+I also feel like Brogue is 95% finished but there's some content that just never really plays a role like upgrading armor and the and the rare and cool runics are fun but less effective than just upgrading a boring broadsword.
+This one from ZZZ ZAP 129 says I play games.
+1:27:51
+I play games since the 80s and one of my faves was pirates exclamation mark where I spent countless hours in that open world.
+I also knew games like Gate of Apps, app Shy, APSHAI if I'm saying that right, and I heard about the original Rogue over 13 years ago.
+1:28:10
+I found a game called Spelunky previous episode which was called a roguelike platformer permaneth and random generated levels.
+It was a lot of fun.
+I read more about classic ASCII roguelike games and found Brogue pretty soon.
+I was instantly hooked.
+1:28:25
+Beautiful ASCII graphics and animation, the world feels organic and alive and the gameplay is flawless.
+What is great, what is great.
+It is hard, but it is fair.
+You can beat every seed if you try hard enough.
+The balance is incredible and the design of the interface is super elegant.
+1:28:42
+Took me a year to beat it and another year to master.
+This was on versions one point 7.2 to one point 7.4.
+It was also on the old forums in the community that was around.
+It was fun as well.
+Still love it to this day.
+Is probably my favorite game ever and it has more play time now than pirates.
+1:29:00
+It is a masterpiece, Kromancer says.
+I loved the older roguelikes in parentheses.
+Moria and Brogue is just challenging, well designed, fun, and for ASCII art it is quite beautiful.
+The challenge is fun because it's hard but fair.
+Every seed with a few standard deviations can probably be beaten if you do it right.
+1:29:19
+This one from ads.
+Adsilkat says.
+I was coming from Net Hack and I was struck by three things right away.
+I was used to being functional but stunned to see that it can be beautiful too.
+Not only that, but more functional since the colors and shading give more info about the environment.
+1:29:39
+Then a monkey stole an item for me and it didn't just run but was smart about the way it ran.
+I would later learn that the creature AI is the result of very technical innovation by Brian Walker, which you wrote about in a very influential article here.
+I'll post this in the in the show notes, but it's a link to Rogue Basin, the the traditional roguelike wiki called The Incredible Power of Dikstra maps.
+1:30:04
+Anyway, back to the letter says the next thing was the great organic feel of the dungeons that made the whole thing feel alive.
+He's talked about that as well.
+He links to YouTube video that I'll put in the show notes.
+Also, it took longer to realize how different the whole game plays.
+1:30:21
+Very focused and more engaged with the player.
+I had always enjoyed how ASCII roguelikes felt so vivid because I was creating an image of the game in my head that was more detailed than any graphics, but it wasn't prepared for the vivid picture Brogue created.
+I still enjoy other roguelikes, but Brogue makes you feel like you're there in a living world in a way that nothing else does.
+1:30:41
+This one from Aggressive Many 949 9. 4. 49 got to get the numbers right, says I have no history of playing roguelikes before Brogue.
+I was introduced to the game by a friend in 2011.
+My first reaction to it was how old is that game and was surprised to find that even modern games use characters instead of graphics to display a dungeon.
+1:31:04
+The hardness and unique emergence of play kept pulling me into it again and again.
+After 500 games of trial and error, I finally beat the game only last year only to find that quote simple.
+Ascension is but the beginning and there is mastery.
+1:31:20
+It's probably the hardest, most unforgiving game I have played and beaten by far.
+And I'll end with this one here from AP Gove that says I've been playing ASCII games from before graphics were generally available, usually to get my DND fix.
+1:31:37
+Before Brogue I had dabbled in several different rogue likes.
+My go to was net hack, but there was a tediousness to it after a while.
+Each game started quite differently with various classes, but they all converged to roughly the same demigod of a character to have any chance of winning.
+1:31:54
+And there was a quote grind aspect to leveling up, acquiring all the necessary immunities, maxing out stats, et cetera.
+But the thing that really bothered me about all the undocumented fiddly bits necessary to survive that couldn't possibly be figured out without reading the spoilers, EG Elbereth and the fact that the game could last weeks only to be ended by some utterly random event.
+1:32:20
+I don't remember exactly how I stumbled upon Barogue, I didn't quote click with me immediately, but over time I started to notice how elegant it was.
+With no experience or skill system, there's never a reason to grind.
+There's a bare minimum number of item types, monsters and commands with no hidden information.
+1:32:38
+So you never you never feel like you have to consult a wiki.
+And yet somehow every game feels different and good tactics are generally rewarded.
+What really hooked me though was when I started doing contests in on the Brogue, the Brogue subreddit reddit.com/R/brogueforum and could see how better players performed in the same dungeon.
+1:33:03
+It was eye opening to see how how making different early decision of what to a chant could make such a huge difference in outcome.
+Well, does that does does that take us to the final dungeon layer of our episode 100 where we slap some or we we read the scroll of ratings Rogue and decide whether or not if this will be a cursed or find out if this will be a cursed scroll or a blessed one.
+1:33:31
+I guess maybe, maybe, maybe we'll kick off with Andrew to start.
+Yeah, I'm kind of I'm in real time.
+I'm using my numpad and I'm I'm thinking about throwing a number on this on this sucker.
+I had initially declared that oh, I haven't played enough.
+1:33:47
+I don't know if I can if I can render issue a judgement on this, but I think I'm gonna with the caveat that I'm gonna play more of it.
+And I and I'm pretty confident the score is going to go up.
+Maybe it'll go down.
+Maybe it's silly of me to do this, but you know, let's let's let's hit apply on the score and let's roll the dice and see if it's a a good score or not.
+1:34:12
+So check it out.
+We were, we've been talking about running around.
+We've been talking about the traps.
+We've been talking about the, the, the random level designs.
+We've been talking about the atmosphere, the evocative nature of this game.
+I want to call out specifically another one of these descriptions.
+There are torches, of course.
+1:34:28
+There are torches in the dungeons of Doom.
+In the Dungeon of Doom there are torches, which we love, and the sprites that are available in like the default setting if you hit Shift G to activate, the lovely little single color torch Sprite is perfect.
+1:34:46
+That's all I need.
+Not too detailed, not too simple, very recognizable.
+And the description for the torch is as follows.
+The torch is anchored firmly to the wall and sputters quietly in the gloom.
+Simple.
+Gives me just enough info that is.
+1:35:02
+That is a quintessential sort of dungeon experience.
+Dungeon description sputtering quietly in the gloom.
+Love it, love that, love that micro poetry that is is present throughout this game.
+So that brings me to the question, does does this game achieve its goal?
+1:35:23
+Do you feel like you are in a dungeon?
+Do you feel like you are delving down into the depths of a hostile hostile architecture?
+Literally a hostile artificial space filled with, you know, trouble and traps and of course, many, many, many oozes.
+1:35:45
+Did we mention, did we mention the pit slime?
+The pit slime is so cool.
+What another cool enemy effect, the pit bloat.
+Rather, when it dies, it creates a pit underneath it and you fall down to the next level.
+That's great.
+All sorts of neat character things.
+But the point.
+But back to my back, to my point.
+Does this feel like a dungeon crawl?
+1:36:00
+It absolutely does.
+And even though I haven't played it that much, it's clear to me that this is a great dungeon simulator, this is a great rogue experience.
+And at minimum this has got to be a 7 out of 10 Andrew points.
+I think it's probably going to go up.
+1:36:16
+Now.
+I have, of course, a different scoring system than my Co host because they kind of pulled a little switcheroo on me and and changed it midway through my tenure here.
+So take that with a grain of salt. 7 out of 10 points Andrew points is going to put this at my new number.
+1:36:33
+Oh, I don't know this is a great podcasting.
+It's going to put it right ahead of dead cells.
+Ever heard of it?
+My new number 37 on our our list and I think I think it's going to go up folks.
+1:36:49
+I think it's going to go.
+Up, Colin.
+Yeah, so I'm going to give it a 6.8.
+I feel like my esteemed Co hosts have been giving it a lot of of extra niceness because it is a because we.
+1:37:07
+Don't want to get.
+Sued the Pinnacle.
+Of the genre by.
+The lawyer who developed this game I'm.
+Sorry and that.
+I kid, I joke.
+Because the diehards of the roguelike community.
+This is a the from the genre that spawned the the genre.
+1:37:23
+It makes us sound like we're not real roguelike people if we don't like real roguelikes.
+But I'm no, I'm sorry.
+You shut your mouth, shut your mouth in.
+A lot of people don't know my turn, my turn to review.
+No, like, and I'm not like rating games on.
+1:37:43
+I'm not really rating games on cost.
+I'm not rating them on how good they were in 2009 or how well they stack up against other games.
+I only had like 4 hours of gameplay in the last two weeks and it was all this game that was the 100% of the video games they've played in the last two weeks and I don't I I wish I had played other games instead.
+1:38:03
+I think this was a good game.
+I like it, it has a lot going for it, but if time is my most critical resource, I don't know if this makes the cut over other games that were made in 2025.
+That being said, I think that there is enough going for it that I understand why people like it.
+1:38:24
+I think if you there are a lot of subtleties that I didn't quite get to like I didn't delve deep enough into the game.
+I didn't learn the nuances enough to like be able to truly appreciate the interests of like, oh, trying to avoid the, the patrol path or stuff like that.
+1:38:41
+So I, I understand why people could get really into this game and like learning those nuances and intricacies could be a very fun experience.
+I just don't think it is going to be the one for me at this point in my life.
+So 6.9 out of 10.
+1:38:56
+If you like roguelikes, this is a very good version of of that.
+I will bring us home next.
+I'm gonna give this game a a big fat 9.
+I think a lot of games that we play for this podcast, I start like that number starts like really high and then averages down the more that I play it.
+1:39:16
+This had the opposite effect for me where the more that I was playing this game like, oh wow, now I know that there's this cool interaction in the game.
+I can use that the next time that I play it.
+And then when I do that, it feels very good and and, and cool to to use that sort of stuff.
+1:39:33
+Are there games that have come out since 2009 that maybe do the Brogue formula better?
+Yeah, sure.
+I think like maybe Cogmind.
+Cogmind is still my number one game of the podcast, tied with Hades.
+But I think that kind of answers what we were talking about in terms of like flavor and maybe like a little bit more of like story type stuff.
+1:39:52
+But Needless to say, like when we played the the epics Steam version of Rogue here live for our our first part of episode 100, you could kind of see some of the cracks and like weathered agedness of a 40 year old game on it.
+1:40:13
+And I think that Brogue has really taken that that essence from the 1980 version of Rogue and really just made it into like, this is what it should have been like.
+Or I mean again, it's it's impossible to kind of take.
+Like mouse UI centered movement and have that be a thing when the computer mouse didn't exist back then.
+1:40:32
+But I think it's it's the quintessential Ness of what I want out of like if someone was like, oh, you should play a rogue, a game that's like Rogue, this is it.
+This is the rogue like game.
+I'm not super keen on Moria, like grinding for 50 hours or like net hack having to have open the wiki to, you know, pick up a cockatrice with with lead gloves so that way I don't get turned to stone with it and all that like wild stuff.
+1:41:03
+This is, it's just so pure and distilled down that it yeah, like it just feels like me versus the dungeon and nothing else matters.
+I think the the dungeon generation style here is the best of the ones that we've played where it feels very organic.
+1:41:20
+It feels like I'm I'm can do those Solid Snake maneuvers of, you know, using my sight lines to figure out where the enemies are and kind of scope out and map out the dungeon.
+I think they're, you know, while the identification system isn't for everybody, and that's fine, I think it's done well enough here that it presents enough of a interesting risk early on to kind of balance out the game to not have it be super samey and really boring to start with.
+1:41:52
+And yeah, I think that like the more that I learn about this game, the more that I'm impressed by it.
+I feel like the having this like, be designed by one dude who's not a professional game developer really speaks volumes about like, his thoughtfulness about the design of it and not going overboard with more stuff.
+1:42:13
+And yeah, I think if I had to put a pin on it like this is the best version of Rogue is this is Brogue?
+Hey gang, future Scott jumping in here once again to highlight that even though we we slap made-up numbers on things, one useful function of it is to highlight a hidden gem scores that we've give games.
+1:42:38
+And I I kind of skipped over this in the rating bits that that follow after this.
+But it's worth pointing out that Brogue is our new #1 hidden gem game of the podcast, which is quite a feat.
+1:42:55
+So even though, you know, some of us were kind of kind of lukewarm on it, some of us were were more good on it.
+I think the fact that for how obscure of a game Brogue is, it ranked really well and I think that that's worth highlighting.
+1:43:11
+So Brogue, I guess it technically has tied Spirit Fall with our new #1 hidden quote UN quote hidden gem game of the podcast.
+But you know, I'm I'm going to give it the honorary number one spot just because it the review volume is so much lower than than than Spirit Fall.
+1:43:30
+So, so yeah, Congrats Brogue new #1 hidden gem game of the podcast.
+You can find more on how we do that sort of methodology on the website.
+But yeah, it's something that I had been thinking about since we recorded.
+And I thought, you know what?
+I need to jump back in and really kind of underline that even though Brogue is super niche and despite the the the twisted form of what we use for the word roguelike nowadays is a marketing term, it is it is super solid.
+1:43:56
+Like it is worth checking out if you're a fan of these kinds of game.
+Yeah, hidden gem #1 so I think our our episode 100 will conclude here with our our overall numeric Whose line is it any way style ratings of Brogue having it pit bloat explode in on our leaderboard at #31 out of if I had had the foresight to do this better, we would have had a perfect 100 games at this point.
+1:44:25
+But we've played 98 games for 100 episodes and Brogue is like in like the top third of that.
+And I think that that's really good for a free solo dev.
+Well, I guess, you know, open source game at this point, ASCII dungeon crawler that is, is a very esoteric type of flavor.
+1:44:45
+And having it be seated right between Risk of Reign 2 and Roboquest is something that like, hey, you know, this is something worth checking out.
+I think you know, for the for the low, low cost of $0.00, what do you got to lose other than you know?
+1:45:01
+Although I do want to point out that I did pay $2.00 on H dot IO to the artist who made the Sprite set because I didn't know you can press shift G to turn it on.
+So I'm like, where do I get this version?
+And I'm like, oh, I guess I got to buy it.
+And I'm like, that's fine.
+That's great.
+Hey, Colin, you were right to hold me in contempt.
+1:45:18
+I was I was out of line.
+Is that a line talking over you?
+But and also now I'm just, you know, a simple country roguelike lawyer.
+But I want to call to the stand a couple of character witnesses.
+Can you tell me what you think Will Wright would have thought of this game?
+1:45:35
+Well, I think you can see by his evident appearance on this podcast how much he loved the game.
+Indeed, indeed, these of course busy but will be joining us, you know, soon, soon enough.
+Busy with the solo dev life?
+1:45:51
+Yes.
+Well, that that'll wrap down our episode.
+Oh wait, no, wait, what am I doing?
+I got the whole section here on the similar games segment.
+What?
+Can't can't do that.
+So some similar games here will briefly talk Rogue FP is basically like a lot of systems from Brogue, but in a first person shooter capacity in a very super hot fashion.
+1:46:16
+The Ground Gives Way is a game that people liken to a lot.
+We've of course referenced Cogmind a whole lot.
+There's a game called Lost Flame that came out relatively recently.
+That's kind of a Dark Soulsian take on this with with good graphical tile sets.
+1:46:34
+It's got it's got some good flavor and world building to it.
+I think that might be a stay tuned shattered pixel dungeon we've done before and we've gotten reaction videos on Will's comments, which is great.
+Jeff Late's powder is a game that is multi platform.
+It has its own mobile app.
+1:46:50
+You can get Game Boy Emulator ROMs for it, which is it's very interesting.
+It's got very garish art style, but it's very interesting.
+There's one called Ivan Ivan that stands for something very long that doesn't really matter, but that and Infra Arcana are two kind of other recommends that people love for their brutality.
+1:47:11
+And then of course, our previous episode on Sheeran the Wanderer and that whole series.
+Sheeran recently just got a new sixth game in the series on Steam, The Mystery of Serpent.
+Coil Island, which has been I've been having some fun with but.
+Check those out.
+Future Scott jumping in once more to talk about another similar game.
+1:47:31
+That soon as I hit that end record button and I look back through the notes.
+Mike, how could I have forgotten this one?
+One that came out about 3 months ago from when we were recording called Tarn Tarn, which is titled as a like a traditional roguelike successor to Brogue specifically.
+1:47:51
+I'll I'll read off a little bit of what the the the author here, marshall.exe has written in and says.
+Welcome to Tarn, a roguelike game inspired by Brogue, which expands on the ideas set in the ladder set in the ladder in many ways.
+Including but not limited to.
+1:48:08
+Even more dungeon levels beyond the northwest, South and east borders of each dungeon level, traversable between multiple stairs connecting each depth.
+A class system with experience leveling and affinity trees.
+Or you could play as the Deprived, which has none and provides the most similar experience to Brogue.
+1:48:25
+And it reminds me of Dark Souls in a little bit.
+New environments, biomes, monsters and items even beyond the final floor decision making.
+Do you explore more of the safer floors or to the rising regional difficulty hints when hovering over terrainer monsters like chance to hit or number of hits to kill, dynamic lighting and stealth play with mouse, keyboard, or both?
+1:48:47
+This is one that's been getting a lot of traction in the traditional roguelike world recently.
+It's very.
+Colorful it looks.
+Very brogue from screenshots, which is great.
+We definitely need more games like this.
+Anyway, that's enough of future.
+Scott back to pass Scott and our regularly scheduled programming socialplugsgrogpodzone@gmail.com Grogpod at game dev dot places the Mastodon grogpods dot zone.
+1:49:09
+You know?
+You know how.
+All this works.
+But yeah, that'll that'll wind down three whole episodes on the world of ASCII world of turn based dungeon crawling.
+But finally, now I have I have freed you from your burden of all of these stupid, overwhelming turn based hack and slash games.
+1:49:29
+So Colin, what have you picked for our game that we are looking at next?
+We're going to go with something completely different, completely on the light side of the broke light like spectrum.
+We're going to go with Nordhold.
+It's a tower defense hex town builder mashup.
+1:49:48
+So I mean, I'm always a sucker for good tower defense, so I.
+Was going to say it's been a while since we've done a tower defense game.
+I don't think I have a specific category for it, but.
+Yeah, I don't think we play them quite often enough to have it be a whole category, but I do love tower defence is always scratches an itch in my brain, so I'm excited to get back to it.
+1:50:10
+Well, as we venture off into vacation land for for a couple weekends, we'll pick it back up with some RTS goodness with Nordhold.
+But but in the meantime, it's depth six.
+You have no strength potions left and the jellies are out in full force.
+1:50:28
+You've got no acts insight.
+You know what time it is.
