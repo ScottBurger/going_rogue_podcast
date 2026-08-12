@@ -1,0 +1,1116 @@
+0:10
+Greetings friends and welcome to the Grog Pod Roguelike podcast where each episode we navigate the maze of a rogue style game, throw some ratings tornadoes at it and if the game survives to the gates at the end of the season, we'll we revisit it and talk about it in our end of year recap tournament episode.
+0:29
+I am your wheat eating host of the podcast Scott Burger and with me are my Stone Mining Co hosts.
+Yeah, this is your hero with the useless spells, Will Wright.
+This is Colin, the guy who just got who sniped.
+I got my my thing that I was going to say got sniped.
+0:47
+I'm also a hero with useless spells that you constantly forget about.
+I'm glad I'm not the only one to think that.
+Yeah, that was that did stand out.
+We'll get into it, sure.
+Andrew is stuck in some sort of weather portal.
+We we haven't unlocked enough glory to to release Andrew onto the podcast yet, but this week we are talking.
+1:07
+Nordhold released March 25th, 2025.
+This is a Steam exclusive and this is the first game published by Water Slaw Germany based Stun Forge Games, but also published by hype train Digital who have done a handful of stay tunes for us to check out in the future.
+1:31
+Not not the least of which includes die in the dungeon, Black book, gatekeeper, Infinity storm edge, wind of change, a mega stay tuned stone Shard and a game that just came out into 1.0 that I've played a little bit of that we've talked a little bit about on our one of our previous music fest episodes, Quasimorph, the traditional roguelike extraction shooter game.
+1:56
+But back to Nordhold.
+Your average player of Nordhold has about 19 hours of gameplay in it.
+And this ranks in on our really exciting spreadsheet of numbers with the number 380.
+Ninth most popular rogue style game on Steam with 3319 total reviews.
+2:16
+But first, Colin, how many workers will you assign to the question of what one does in Nordhold?
+Nordhold is a tower defense game.
+Worst description ever.
+Come on.
+Nordhold is a tower defense game with procedurally generated elements and slight semblance of an economy on the back end.
+2:39
+And Vikings, right?
+And like a really deep.
+Deep themes and music to go with it and all that.
+Yeah, I'm kind of curious like, and this is, this is not a an accusation or an interrogation whatsoever, but I'm curious, Colin, where did you first hear about Nordhold from?
+2:57
+Because this, this feels like a deep pole.
+I feel like I'm kind of like pretty well connected into the world of Roguedom and I had never heard of this.
+So when you when you would pick it, I'm like, oh, this looks interesting.
+It's got like Ravens with like glowing eyeballs and shooting lasers and stuff.
+Yeah, I, I think Steam just randomly recommended to me at some point and I put it on the list of games to consider playing in the future.
+3:22
+And then at some point I was like, I would like to play another tower defense game.
+And this was there and you know, I thought that it it from the the store page, it looks like it's got a lot of the things that I want.
+3:37
+I want a economy City Grove build, something that also has the tower defense things and shoots the lasers and like I really liked Rogue Tower.
+So I was kind of hoping that like rather than playing through that again, I could have a slightly different version of of that with the more city building theme going with it.
+3:58
+Yeah, it's been a while since we've done a tower defense game.
+We haven't really touched much on them.
+There does seem to be kind of like a growing contingent of them.
+But our, our Rogue Tower episode was January 3rd, 2024.
+So it's, it's been a while, it's been a hot minute, but I think we're overdue for a, a tower defense game.
+4:18
+And yeah, I think, you know, I had played this mostly on a plane on my Steam Deck, which seemed like it seemed like an OK way to play it.
+The game is clearly not designed for Steam Deck because all the text was super tiny.
+4:35
+But you know, I, I booted up and I see this this pretty cool splash screen animation that you're greeted with with like this cool castle in the background.
+This really neat imposing like a giant wall and A and a Raven with glowing eyeballs, and I'm just like, OK, this seems interesting.
+4:53
+Seeing that same screen on my 1440P resolution monitor was a bit of a jump scare because it seemed maybe a little less tuned for that high res.
+Also, I don't know, I think like the IT it it didn't give great vibes to me when I saw it on my big screen here.
+5:15
+The rest of the menus and stuff look look fine on on a big screen, but but this is a game that that drops you right into an intro tutorial, which I can certainly appreciate, which pops up with like this.
+This kind of like little, I don't know, like a like a Warcraft or StarCraft like portrait talking Viking man who kind of does like a little bit of grumblies of like, which I was like, OK, yeah, like I, I, I can get down with the vibe for this.
+5:45
+And it, it is very much like here's how to build your first tower and here's like the kind of elements of the screen to click on.
+And I thought this was pretty straightforward and and actually like pretty good because I think the and I'm not I'm not really counting the last spell our episode that we did on that as a as a real tower defense game in air quotes.
+6:06
+That was that felt almost kind of like a hero.
+Otto Badler, maybe?
+Yeah, I mean, I feel like there there's a couple of games that we've played that have been in the just general defense theme.
+The king is watching Last Spell like those are.
+6:22
+They're not all tower defense, but that's got the same like waves of enemy coming in on your thing.
+Yeah, but it doesn't have that quintessential.
+You are plopping a tower down, you're upgrading said tower, doing that all that good fun stuff that we expect from a tower defense game.
+6:39
+But anyway, Warcraft three Olaf kind of walks you through this, how how the kind of gameplay works and just kind of just jumps you right into a main game where it kind of explains that, hey, you have like the City side of the map and you have this kind of maze side where you I think a principal component of this game is it's almost like a worker placement game in a way, from like a board game perspective where you know you have this city, then it's it's like a like a almost kind of looks like a island.
+7:17
+I can't really tell if it is an island, but you know, it's like.
+It's I think it might be an island connected to like demon land or something.
+We dug too deep.
+And yeah, like I, I, I generally like the, the vibe of the art style that's going on here.
+7:36
+It seems maybe like a little too zoomed out or like it feels like it's missing something.
+I don't know, like it feels.
+Extremely technically proficient, like all the technology is very good.
+All of the like statistics that you can see, the like way that you can have your towers pick their targets is like very you.
+7:59
+You can be super precise with how you want them to do it.
+But then yeah, you're like, well, but what am I targeting?
+I It's just like pips on the screen.
+They're indistinguishable from one another, one another, and they don't matter to me.
+Yeah, well, I mean, yeah, so, so as part of this tutorial, your your Scandinavian fellow is walking you through the oh, you need to hire workers from like one of these these little icons on the map.
+8:28
+But in order to do like that requires wheat and you have these these different resources you have to kind of balance throughout the game in order to kind of get this this engine running.
+And basically all of the buildings, as far as I could tell in my embarrassingly limited play time for this game, all require wood.
+8:47
+I mean, yeah, there's there's the four major resources.
+It's not super complicated, but you got wood, stone, wheat and gold.
+All the buildings and kind of like your main cityscape require wood to build.
+Some of your more advanced towers require stone Wheat is for workers and gold is for just kind of like your general purpose resource as far as I can tell.
+9:10
+And yeah, you, you're just kind of set off on this, this quest of higher workers, use workers to get resources, use resources to plop down.
+At least in the tutor, you know, this, this hand holdy intro sequence, it's like you're going to plop down an arrow tower and it's going to pop up the UI and it's going to I, I do like this element where it's like highlighting the aspects of like you need to, there's a lot of stuff on the screen here, but you just got to click here and then boom, you, you kind of got it of like, hey, you know, you plopped down an arrow tower here.
+9:43
+Here's a bunch of upgrades that you can do for it.
+Here's different like focus priorities for them, but don't don't really bother with that stuff just yet.
+Just like increase the fire rate click and then you're on your way and it really just kind of sets you out to explore the question mark and do the thing and stuff.
+10:08
+I'm I'm digging, I'm digging hard here because I feel like I I bounced off this game super hard when I pulled up like just like the bottomless pit of like meta progression stuff to fight through here.
+Wait, did you not eat?
+It at all, did you?
+10:24
+No, I I did not.
+And I feel like every time, so I don't know, like I was playing it on the plane and I'm like, OK, yeah, like the and, and the form factor itself was not a problem.
+Like I felt like I could kind of see everything that was happening on the map just fine.
+10:39
+It was mostly just like, man, what am I signing up for with like this meta progression treadmill where your main buildings have like things that you'll need to do sort of every run of this game and you'll spend gold to kind of increase the efficiency of them as, as you would.
+11:02
+But there's also like meta progression things for each individual building that have like 3 or 4 different levels to them depending on the building that ramp up.
+So it's like, you know, as you progress through a a round of this game, you are building up this meta progression currency called glory pretty great currency name that I as far as like it's just accumulated over time.
+11:23
+I can't tell if there's anything that like, do you, how many waves you.
+Yeah, basically.
+Waves, elites, bosses, everything's kind of variable, but it yeah, you do.
+You just accumulate it just in gameplay in general.
+Right.
+And so you'll use that glory to go to like, let's say your house's menu, I guess the house's icon on the map.
+11:45
+It's like the the game is very clear, it's very readable.
+It feels maybe a bit sterile in in like like it's lacking some kind of personality element to it.
+Like I was excited to see the little like 3D portrait Olaf guy pop up like, oh, is this like, are we gonna have like little StarCraft portraits of like, you know, SCV good to go, Sir kind of thing.
+12:05
+But Nope, none of that.
+So I.
+Mean you do get the heroes, which, well, yeah.
+Well, we'll, we'll get to that in a minute, but you know, you'll you'll open up like this houses menu and the meta progression thing for that will be to like, oh, like you'll increase the number of like starting workers that you have or something like that.
+12:22
+And then you have things like related to your sawmill or your stone mine.
+Start the run with 10 extra stone.
+Yeah, yeah.
+And it's just kind of like a way to sort of jump start your economy to begin with.
+12:38
+And man, I don't know, like the last the I, I, I believe it was the, our, our parallel universe podcast, the rogue pod light cast that dubbed the, the phrase meta slopper.
+12:54
+And I felt like our previous episode of Ball X pit kind of got away with it a little bit because it was like, yeah, it's like, here's the thing that increases this stuff by like 5% or whatever.
+But it was like presented in enough of like a flashy like dopamine activating package.
+13:13
+I'm like, OK, I'm not crazy about the numbers, but I do like this like silly ping ponging, like flashing, like color effect that's going on to activate these things.
+Well, and it kind of felt like at least there, there were some choices to be made.
+Like you could say like, oh I would like to do more of this 'cause I want this other thing.
+13:31
+Right, yeah, it it's it's not like there's never a reason to not meta progress of like, oh, I don't I don't want to upgrade my houses because blah will happen.
+It's just a very much like this is the thing.
+I got to click it.
+13:47
+My biggest critique of the of all of the house stuff is this.
+There's not really choices.
+Like for me, it was always like, OK, it, it felt like a build order.
+Yeah, but and it it came down to like how well can you execute the build order?
+I and honestly, it didn't feel like that mattered very much to because they, they, they were such divergent ways to do things where like you could have a, a really strong worker focus or go with an outpost focus.
+14:14
+You could like rush your, your university things or you could do something else.
+And it's like, it kind of felt like they all mostly like, didn't matter which order you did things in.
+I, I, I, I went with it, Of course, like the put everything into gold right away.
+14:30
+Just don't even worry about the little minions because you're going to end up sacrificing them later anyways.
+And it's just like just yeah, automate everything with gold.
+And because gold is used by every single thing in the game, it's just like, OK, well, yeah, that's not it sounds.
+Like maybe we did have slightly different strategies for it then, but it still wasn't like it didn't force you to change your play style.
+14:52
+Like all of the different rogue like elements were either in the map generation, which wasn't really that.
+I mean it.
+It mattered a lot to how effective your tower defenses were, whether or not it like curved back on itself in a couple like useful spots.
+And I guess there's some amount of randomness in the upgrades that you get for your towers, but there was nothing for like truly like you can't kind of push away to doing a certain style of run.
+15:24
+Like if I want to do the big scythe towers, there's really nothing stopping me from doing that every single run.
+And like it, whereas in like a balloons tower defense, which is actually a legendary, I mean the tower defense franchise, if you've never gone through that, but like they'll have like very specific things where if you are not prepared, if you don't have the ability to detect an invisible balloon, then that round it comes up, you lose or like a lead balloon, if you don't have the ability to pop it open with a cannon, that's going to be a a lose criteria in this game.
+15:53
+It didn't matter what was coming down the chute.
+I mean, they had the the most they had for like the complexity was like, Oh, there's a barrier and unless you kill the guy with that's holding the barrier and protecting all the other things, you can't hurt the other things.
+And so the strategy then is like on all your towers, you just say your first priority is just killed the barrier person and then do whatever else you wanted to target the group.
+16:14
+So that it's just like it's such a because they made it so easy to overcome the only challenge they presented it just like there is no challenge.
+And so I guess like some of them like spawned other little things, but like it was nothing ever felt like I didn't ever feel the need to zoom in and inspect like what was happening with like the way things were dying so they can optimize around.
+16:35
+It was just like, Oh yeah, things are just getting cleaned up as they as they go through and there's not really any problems here.
+Well, and like in in many ways, I very much appreciate the ability to like have your tower super select like, oh, I want it to hit this, then this, then this.
+16:50
+And it like gives you way more options than most of the other tower type defense games I've played.
+But in some ways that's also a hindrance because it's like, whoa, one of the things that I found that got me once or twice early on was the guys that have smaller guys inside them.
+17:05
+So it's like basically pinata and then but you've been like, oh, well, I'll just have my tower specifically target those, which in a lot of the other tower defenses that have had something like that or like, you know, the blimp that has a lot of little balloon inside of it.
+It's like trying to figure out how to trick your towers into hitting that, that thing.
+17:24
+You know, it's like, oh, sometimes it's always the one with a lot of help, but sometimes it's moving slow.
+So you have to like have them.
+It's a slow thing so that it like targets that, you know, you have to kind of like use strategy to outplay your dumb towers.
+But these towers were just smart.
+If you go like, well I'll just automate it so it does it for me.
+17:41
+Yeah, there's.
+It's worth noting that there are 22 different options for what you want your individual towers to focus on, which seems like a lot, but I do appreciate that there are like there's a toggle for like, oh, have this tower like focus on like this thing until it's dead.
+17:57
+Yeah, I mean, that is really nice.
+Yeah, like you, you can copy and paste those focus settings or you can just say, hey, like like all of my volcano towers just apply this setting to all of them and it kind of takes out the.
+18:14
+TDM.
+Well, the TDM and and the like, yeah, yeah, I guess like the TDM of like clicking each and every tower saying, OK, this one, what did I have for that other tower again?
+Oh, I got to go click back on that other one.
+Oh, OK, here's what it is.
+All right, click back, type, type, type, all those things.
+It makes it very streamlined and I I can appreciate that.
+18:34
+Like it's a, it's a very technically proficient game.
+It's got like a lot of like it good options for stuff like that, but I really appreciated the statistics, which is like very nerdy of me, but like like, oh, do you want average damage?
+Do you want DPS per tower or total towers?
+18:51
+Do you want DPS per tower cost?
+You could you could really like feed out, you know how how is how are all your towers doing as a whole?
+You click on each tower individually and you can figure out how much damage they did in that that round by themselves.
+19:07
+So like that you were able to get a lot of information out of it, which has been an issue with me and some of the other games that we've played.
+It was just like, I would love to know at all how that I've won this game will actually give that to you, which is nice.
+Yeah.
+19:23
+Other things that you encounter throughout a run, you will encounter things called like, gosh, what are they called?
+Oracle choices, which I guess these are more of just sort of like passive, either like passive effects or things that just like are a new theme that is happening.
+19:43
+So like for one example, you have like a, it opens up with like this kind of runic book.
+And I think the animation here is kind of neat where like one option might be like the path of expansion in the next 5 waves, your tower construction costs are reduced by 25%, but the cost reduction of tower upgrades per wave is no longer applied.
+20:06
+So they have some, some of these have kind of like trade off effects.
+Another one might be like the path of rarity in the next 5 waves, the chance of encountering uncommon banners increases.
+So it's a, you know, a very light.
+Modifier to your run.
+20:23
+It's a filler.
+Let's just call it what it is.
+I mean, it felt like these were almost inconsequential, like small little modifiers.
+Or oftentimes the one option is just totally like in like invalid, like, oh, the barriers in your next thing are going to be doubled.
+20:38
+But here's the positive effect, right?
+But the barriers, if you're early on, the barriers don't show up until later waves.
+And so it's just like, OK, well, this, this is like I, I guess you're trying to tell me to take this because there's no downside, but there usually would be.
+And it just, I don't know, it felt stupid.
+20:56
+That's what it felt.
+It just felt lame to me.
+And I never, it was like, OK, well, obviously whenever there's a glory option to maximize glory, because the meta progression is where all that you should really be focusing on early on, like always take that.
+And then everything else is just like, no, it doesn't really matter.
+Yeah, yeah.
+21:12
+I mean, like the first few times that I saw some stuff about barriers, I was like, I don't know, like what what are barriers are?
+Are those like little like things that I construct to slow the wave down?
+Like I haven't come across that yet.
+Like why would I pick something I don't have the option to to do yet.
+So yeah, I can see like maybe wait for those options for for later things to come up.
+21:33
+But other, so other than Oracle choices, you have obviously your banner choices.
+And these are things that will like totally change up how your how your towers operate.
+And these are like the, I don't know what's the equivalent like Hades boons of, of things for like for your different towers.
+21:56
+So you know, your, your aforementioned arrow towers, you might get a, a, a banner that says like, oh, like now they shoot like 40% faster or they, you know, shoot in in like triplicates now or something like that.
+But I think a major draw to this game are banner fusions or or I guess tower fusions more specifically, where the idea is that like you collect 3 or sometimes four or two depending on again, the kind of modifiers that you run has banners per tower type and.
+22:33
+Then it's two per.
+It's two per individual type in the beginning.
+So it's just two of one, type, 2 of another and then that gives you a fusion.
+Well, I thought you needed three by default, but there was like a thing that lowered it to 20.
+Well, maybe I maybe that's the medical regression that I'm just remembering is opening that up because in theory, what it's just saying is like, do you get one or two fusions throughout the entire 30?
+22:54
+Like that's all it is.
+Like that's the difference there, because you can't really do more than that.
+Yeah.
+And so like one, one example of this might be like your arrow tower fused with the what was the purple one?
+Oh, shadow.
+It's a Reaper.
+Oh, the shadow.
+The shadow.
+23:09
+Is like 3 different purple ones, purple, pink and.
+Pink, purple where where this one says like enemies killed by the shadow tower can trigger an explosion that transfers the bleed stacks from the arrow tower of the killed enemy with a certain probability and it has like a chance 25% explosion damage, 210%, etcetera etcetera.
+23:30
+So that's a lot of reading right there for an effect.
+But yeah, so this is this is the kind of stuff that defines your build for for a run.
+Did I guess like I, I never really got far enough to like have have this be like a consequential part of any of my runs just because like I, I felt like I was, I was being like anchored down by like my baby level of meta progression slog that I've gone through.
+23:59
+So I I felt like I never really engaged much with these fusion banners because it just seems like such a high hurdle to get to.
+Well, they really compound on each other.
+So like each one by itself doesn't necessarily do that much until like you get a couple of them and then it's like, OK, this is starting to really change what the tower is doing.
+24:24
+But then if you get more and more of them, it's like eventually you kind of just get them all.
+Like by the time you if you're getting to level 30 which is the final wave of before it goes to like the endless mode.
+Like it's not that hard to just get most of the various ones for a tower.
+And you're incentivized to do that too, because the cost of every tower of the same type increases for that one.
+24:45
+So like eventually the, the cost of like the one that you have no upgrades for is like 150.
+If I don't, one's very a very small fraction of what it'll cost to get like one of your early beefy ones.
+And so you're like, Oh yeah, I've got some extra money.
+I'll get 10 of those things or whatever.
+And yeah, well.
+25:01
+I I would say that you're unincentivized though because the IT will only offer you banner rewards for towers that you have one of.
+So if you only have Shadow, Raven and Reaper towers it will only give you banner choices for those three towers.
+25:17
+So like my most recent run when I had those three towers and eventually I just deleted the rest.
+I had no other type of tower because I was like I'm tired of it giving me trash arrow choices like I don't want.
+I didn't realize that was a mechanic.
+Yeah, I I like this.
+Game I'm just like, Oh yeah, like these are.
+25:34
+I don't want I had like a couple arrows to like clean up the things that like finally got through or, you know, love the one that I placed at very beginning.
+I was like, well, delete.
+Now I have I don't have that like one in five chance of having one of my upgrades be useless, and I have the ones that have it are in my fusion.
+25:53
+That is the ones that I get things.
+For was there a particular like tower that you always gravitated to 1st or was it always kind of predicated based on the initial sort of banners that you that you rolled with?
+Like, were you, were you always going, Oh yeah, I'm always going.
+26:09
+Tornado every time, baby.
+That's the thing, it gives you banners based off what towers you have.
+So you can basically just pick what banners you want to get.
+Like if I don't, I I think it shouldn't do that.
+I think it should be like, well, I don't feel like doing lightning, so I won't place a single lightning tower and I'll never get a lightning banner.
+26:28
+So like, it's not.
+I can't believe I didn't.
+Realize this.
+This is just blowing my mind right now that I just played it so inefficiently.
+We'll pause the recording here.
+We'll come back in another six hours.
+I mean, that was no, I still won ever.
+Like after the 4th, after the 4th get round when you're doing all the meta progression stuff, no losses.
+26:46
+After that, it's just like, OK, yeah, we get to a certain point, doesn't really matter.
+But yeah, no, I played it stupidly by having way too many different banners offered that I didn't want.
+Yeah, well, I, I will say that in the very, very beginning, like the best towers are not the cheapest towers and they're not necessarily the most.
+27:08
+Like the Raven Tower, which is like the basically the Super sniper tower fires very slowly.
+You can't just have that in the beginning because it's like, well, it can't wipe out these first six goblins or whatever they are, so you need something else.
+27:23
+The explosion tower right or the the cannon tower?
+Or whatever the mortar tower, Yeah, yeah, you just.
+Like that one's that, that was always my go to.
+Like I would do 1 arrow tower because I'm an idiot and then I would do a lot of the the explosion towers because it's like Yep, everything in the middle is just like masses of dudes that get wiped out by that stuff.
+27:40
+Yeah.
+Then Scythe or Raven or.
+But then, but then after a certain point, you just delete the, the, the, you know, you place 2 arrow towers.
+You just like, well, let's just delete them because they're not getting to that tower anymore.
+And it's just so like there's AI did a couple of runs where I was like trying to figure out if I could just do it without ever placing that at first tower.
+27:57
+And it's, it's you.
+You can, it's hard though, and you really have to have all the meta progression and like, oh, I've start with 75 stones so I can do it.
+But yeah, I mean, I, I think it would be better if his game didn't operate like that.
+If there was some like, you know, like I'm going to compare it to Hades where there's what like 8 gods and you basically choose what God you're going for based off of what that first, you know, you get the first choice to like, OK, I can do these three gods, you know, like, I guess I'll build my run off this.
+28:32
+Well, it was nice though, in that sense that because you had like the gods as one like grouping of things you can get and then you have like the other things that you can get, like the hammer thing, the other up like so it was like in the in the first presentation of rewards, it wasn't like, here's all the gods.
+You have to choose one.
+It's like, oh, you can choose this God or this other thing.
+28:49
+And so you could delay your decision about your specialization until later in the run.
+And so I thought that was a cool mechanic.
+Yeah, I think that this game would benefit from like you get a first starting banner is for all of the towers and perhaps it's always a good one.
+29:07
+And so it kind of like steers your run towards those towers and like helps you like mix up because I think my biggest critique of this game is that it's, it feels very samey after you've played it for a little while like that.
+I, I, I spent the time figuring out what I like to do for my build order, kind of which towers I prefer.
+29:24
+And I have no reason to, if I play it again, I don't necessarily have a reason to try to play it different.
+Like the optimal strategy, this time will be the same as next time.
+Yeah, I almost wish that you couldn't pick from every tower to start every game.
+Right.
+Or something like that, yeah.
+29:40
+Yeah, where it's like maybe you start with just the arrow and volcano mortar towers, but then as you unlock more, it's like, oh, actually you're picking, you know, or you are presented like a more limited pool and oh man, oh, this this run, I only have the shadow frost and arc towers to work with.
+30:01
+How am I going to get those things to fuse together in order to like beat up 3 level 30 with?
+It or like it says you can only place five of all of these towers except for this one Yeah, so in.
+Rogue Tower, how did it?
+You could only like it would present you with options for like the new towers you can get.
+30:17
+You had to actually choose from the options presented.
+So you you don't have the option to produce whatever you want, you have to actually make a selection about what your next tower is going to be from a limited grouping, right?
+Yeah, like they wouldn't even let you.
+Yeah, you couldn't build a tower until one of those tower options came up.
+30:33
+Yeah.
+So if you wanted to have a specific build, that's too bad.
+You had to like adjust to what you're presented with which.
+Yeah, and I feel like.
+Of a good rogue light.
+You know, if you played it for long enough, usually it would give you those, yeah.
+You kind of learn that you can hold out if you needed to you.
+Could like but but it still steers.
+30:49
+You'd be like, well, I guess I'm not doing it.
+It made the early game more interesting.
+You're like, OK, can I get to my late game strategy through this early game?
+Or is this happened to be like well.
+That's fun.
+That's interesting stuff, you know.
+Right.
+This is like, oh, I can just kind of autopilot and I I do think it's interesting in that like this is, I mean, they're not going to implement this feedback, but unlike most of the time where we're like, you should just change the game entirely.
+31:12
+You should just add story.
+This, I think is an actual like change that they could implement in the game or like make it a different game mode when it wouldn't be like an insane amount of programming to do like this is a feasible like a 1.5 update.
+We changed how the rewards were done.
+31:29
+Yeah, or, or as like a separate challenge mode or, or something like that.
+Yeah, but one of the more core features to this game.
+I have to ask Colin, are you a a fame main or a Valdemar Stan?
+31:49
+Oh yes, I'm definitely a man who has a hero character that he knows who that is and remembers those spells.
+Yeah, So what?
+What is it every as I go back to the tab with my?
+It's on the 5th wave and then every something out after that.
+32:04
+So, so as, as you are going through a run of this game, you are exploring the map by just like clicking the explore button that help that opens up the map.
+It like makes the the random walk path as it goes through, but each of those are a separate wave of enemies.
+32:24
+And the first two waves there, it's it's nothing.
+And then you get your first banner choice at wave 3, your first Oracle at wave 4, and these are all the same every time.
+Every run is going to have this exact same sequence where after your fourth round Oracle phase is your fifth round hero choice and Boyd, you got some choices.
+32:44
+Will what?
+What did you think of Brage?
+That means nothing to me.
+And I feel like, you know, that means nothing to me because all the heroes are just like, here's a random image with a random set of things that it gives you and a random spells.
+And it's just like there was number rhyme or reason and basically they were all equally shitty in some way.
+33:05
+Maybe there's some, maybe like, Oh yeah, I want to actually have the spells themselves don't matter at all.
+Maybe you actually wanted some of the one of the perks, like, oh, you come with an extra banner or you come with some gold or wood early on.
+I don't know.
+It's are you saying, are you saying that fanes passive of trading ships costing 40% less is not?
+33:24
+Is that just thing though?
+I feel like they did they not randomize it per like image they I don't know it felt like it would there was number connection between any of the characters or am I misreading that?
+Oh they had like 12 and I'm just like not understanding how that works.
+I feel like I can sympathize with your frustrations because I I'm looking at this screenshot that I took from these 3 heroes.
+33:45
+I'm just like I don't remember anything about these guys other than the one.
+Like I would always pick the one that would just like gave me big resource dumps because like I was like, OK, I've got a really good arrow tower build going right now, arrow like, and I need a a shit load of wood for that.
+Oh, this guy's going to just give me 100 wood right off the bat.
+34:02
+OK, yeah, I'll pick him.
+So the idea is that like you in classic, you know, it's a rogue light because it has a pick one from three option.
+You are presented with three heroes that have art with art question mark and they they have a couple passes.
+34:22
+I'm, I'm digging hard here, people they and they have two passives with them that are like, this is what they do.
+And they're they're like vaguely Nordic slash fantasy themed, I guess.
+And, and each one has like a couple spells.
+34:41
+We're like, you'll, you'll pick one and it's like, OK, do you want to do like frost damage or do you want to do like tornado damage?
+They're all the same spell, though.
+Basically, let's be real here.
+It's all do you want to do damage in an area, or do you want to do slightly different damage in an area, or do you want to hit one thing?
+34:57
+Those are the questions.
+Or the realist choice of all, do you want to pick a guy and then forget those spells exist for the rest?
+Of that is that I never cast.
+I never cast a spell, never after I realized what they were doing, unless they got to the.
+Unless the enemies were getting to the very end, which.
+35:12
+Is Oh no, I would die.
+I would die and then be like, oh right, I could have counted.
+Spell.
+I would pause to be like OK, what are my options here?
+Oh yeah, wait a minute, I can either build some towers real quick or let me just cast this thing I haven't used for 10 rounds.
+Yeah.
+I mean, there were situationally some instances where that was helpful for me where I had some towers that were like if if an enemy is frozen, do like 40% more damage to them or something.
+35:40
+And then your hero ability would be like, oh, like do a damage thing that will freeze all these enemies temporarily in this zone and be like, OK, well, I'll time it so that boss man is like walking through this kills up kill box, freeze them and then the towers will go ham on them.
+But that was that felt kind of like kind of it in terms of like the hero usefulness for me anyway.
+36:01
+But you save them from getting to the end or you slow them down while they're in the in the kill zone.
+That's those are the only two things.
+It's not a deep strategy decision like the king is watching.
+Actually had some like interesting decisions you had to make about like how you were deploying your resources of of your spells as they came in.
+36:18
+And because these are like a very limited thing, you don't get to back every turn.
+It's just like, OK, do I use this round and then I'm screwed next round.
+Like those were like serious considerations, but this was just like a pointless curve currency, it felt like.
+Yeah, I mean, what else do we have to say about the heroes?
+36:35
+There's Eldrick.
+We got Norval.
+Oh yeah, Eldrick.
+Yeah, yeah.
+We can't forget Xander with an X extra elite enemy chances.
+Yeah, so so you'll pick you'll pick a hero and you'll as you progress through through the game, you'll have options to level up your hero.
+36:55
+I don't know why I'm laughing.
+It's just like if there if there was a wiki for this game, I would be this would be one of those episodes where it's just like listen along to the grog pod where I just literally read through the wiki for the game because there's just man, I don't know where to go next.
+37:12
+The yeah, so you'll you'll pick a hero, you'll get more banner options, You'll get mission choices, which I don't remember anything about missions.
+Oh yeah.
+Lose some amount of workers to get a thing in a couple turns.
+That's right, yeah.
+So, well, what did you pick?
+37:30
+What did you always get?
+The rare one.
+No, that was in fact the worst possible decision.
+Why?
+OK, The whole point of getting banners was to get fusions.
+And So what you want is the cheapest banner to get you to a fusion because the fusion is like the power increase is substantial.
+37:46
+A legendary, sure, that's great.
+But like the amount of resources that you'd have to put, is this like it was like 2 workers for five turns or three?
+It was like a way more than four workers for five turns versus 2 workers for two turns.
+That was actually something that was like totally manageable.
+The rare is only two workers for three turns.
+38:02
+So it was only one more turn to get.
+Yeah, yeah.
+So the rare.
+The rare was another option you could also consider but like.
+Mine, that was the one I always did.
+I never did legendary.
+Yeah, Legendary was just a stupid decision, I think.
+But like, I think because the fusions were like where the power was that and that was based on how many having, you know, specific number of banners for each tower.
+38:20
+It's just like, Oh yeah, just give me the cheap 1.
+And I often didn't do any of them at all because I just didn't care and it didn't really matter.
+Mostly I was sacrificing my workers to the demon God.
+I don't remember what.
+I don't know what that was, but that was like get get a legendary artifact thing.
+38:38
+So did you just sacrifice?
+I mean, I, I basically never did that.
+I did that.
+Every single time because after I realized that like workers were actually like the lowest like a low form of end game resource collection, I just.
+I think you're wrong on that point.
+How much stone were you getting per turn?
+38:57
+In the last run that I had, I remember I was getting like 350 would like a 400 stone and like 150 or 200 gold per turn.
+We I we, I dialed down to the minimum to to make sure that I it was just enough so that I was getting like 40 per turn to like get the extra beer or the whatever the festival bonus.
+39:19
+I don't know what the.
+Fuck that was I mean I did the I had the like extra worker Even so when I was getting probably about the same number of total.
+Resources, yeah, I I don't think it really mattered, to be honest.
+I feel like you just chose are you going outposts or going workers?
+If you're going workers or if you're going outposts, the advantage is that you can just burn your workers.
+39:35
+And that was like why I went.
+That way and you.
+Can also send them away on missions and it wouldn't matter you could burn them.
+So it was like a a sort of a double benefit if you get off worker economy.
+It definitely feels like the early game or like early, early in the meta progression treadmill that it's very much like you oh like build up workers like you use workers for.
+39:55
+Maximize workers right away.
+That is the early game goal.
+Yeah, absolutely.
+And then after that it's, it's like this was another thing that kind of ground down my enthusiasm was like, OK, I've got all these workers, but the scaling operation on top of that is the very exciting theme of make worker more efficient.
+40:15
+You don't want more efficient.
+A slight percent increase in efficiency?
+What's wrong with you?
+I'm, I'm OK, I well.
+Maybe number go up?
+This.
+This definitely feels like a game that was made by German IT professionals.
+40:30
+Where like increase efficiency?
+Great, now what?
+OK.
+More.
+Increase, yeah more, more efficiency, yeah like the the whenever I see something that's like increase by like 1%, I'm just like my eyes roll into the back of my head and I'm just like really.
+40:52
+And I think there were two instances of this where it wore me down where one was like you have like a banner pick and it's it's like lightning Surge do this thing, the chance of it is 1.2% or this other one with chain crits, where's the crit chance percent is plus 0.18%.
+41:12
+And I'm just like.
+Yeah.
+But that that's a permanent.
+Each time it got it was a permanent increase.
+So it did like add up over time.
+But I guess, but like you don't I, I never got that sense that like, oh, by the way, this is something that will snowball.
+Because when I got a little bit later a a legendary chain crit and the crit chance was plus 0.42%, I, I wanted to just be like, really, come on.
+41:37
+Well, that's that's the thing about these things is that like this is all very easy to program.
+These are numbers, integers that you change and that's why you would do this.
+It's like, oh, here's more content in in quotation marks for almost no dev time at all.
+And so yeah, the real issue is just it's, it's sort of lazy.
+41:56
+Like we want new effects.
+Like if we're going to have a new thing, like change the, change the mechanic, put something on, it's like it's head and do something different.
+Like don't just have it do more damage, but have like instead of it, you know?
+You know, for a Reaper slashing in an arc, instead of it doing that, it spins around completely, you know that.
+42:16
+I mean, I'll say that the the Mortar Tower is the only one of the only ones that has a that one that's kind of like that that I thought was good, which was like increase fire rate by 45%.
+But it doesn't aim anymore.
+It just shoots at random stuff.
+It ends up not really mattering that much, but like the feel of it is what I want.
+42:33
+You're like cool.
+This is a large increase in goodness in exchange for a pretty big trade off in the early game at least.
+And eventually you just overcome that by having more mortars.
+So it doesn't matter with the large enough AOE.
+But.
+42:49
+Yeah, and it's not like HATES doesn't also fall victim to this trap of like, I increased this one thing by 2%.
+Great.
+But I feel like HATES is like the poster child of egregiously bad meta progression.
+43:05
+Stuff like that, but it gets away with it because all the other stuff around it is so engaging.
+Where?
+Wait, what's the what's the 2% like?
+I don't remember any 2 percents in Hades.
+There were like the mirror of night stuff where you're using like darkness to like build up your meta.
+43:20
+I'm not, I'm not talking about like the boons specifically, but more of just like, you know.
+The boons all all did have like get a cool new thing and also plus 10 damage.
+Yeah, but that was stuff that that by the end of the run, like if you were able to link it together in a in a good way, felt felt very impactful.
+43:39
+Whereas like there there was one option here, like for the legendary barbed arrows where it gave me 7 stacks of bleed and 5% slow where I'm like, OK, that that feels like more substantial.
+I didn't realize that that was something that like, oh, if I get more bleeding, stuff like that will just add on to it.
+44:00
+But yeah, I, I feel like, I mean, the meta progression for me is just like the, the biggest part of this game that I just did not glom onto in the slightest.
+Scott, did you look, did you click on the third option of the three standard modes?
+44:17
+That was endless.
+Right.
+Well, yeah.
+So like when you when you start a game, your options once I navigate to that screenshot that I have your options of gameplay.
+No, I don't think I get a screenshot of it of like just start in normal mode.
+There was one that was locked because I'm bad at this game and hadn't unlocked it, and then there was one that was like, I think almost like a Path of Exile style.
+44:39
+Yeah, the meta mode.
+Yeah, the meta mode talked about where it's just got like 1000 things and then mostly like 1% increased tower damage.
+I saw that and immediately closed in.
+I, I saw that.
+I was like, oh, I'm intrigued, what is this?
+And then I looked more and I was less intrigued.
+44:55
+Yeah, which is interesting.
+Like I can, I can appreciate like trying to do something different, but I mean, yeah, it's just I, I personally don't feel super motivated when I'm presented with like it increased by 1% type deal unless there's like some like we were saying like some sort of other interesting thing to go with it.
+45:18
+I don't know.
+Yeah, I don't know.
+It's like, maybe there's a way that that makes sense, but.
+I mean, I feel like that it, it makes sense for them to have that.
+It's basically a once you've finished the main game, here is a enormous pool of places to dump your weird honor medic currency points that if you just feel like playing this game more, you have a thing.
+45:41
+So you, you know, like you've you've ended the like really fast ramp and now you're on the very long ramp of just like I would like to play this game over and over again.
+I want at least something to do some reward for having beaten my 15th run.
+Well you got a great option for that with the well named ascension system called Ascensions in this game Will was raving about before we hit the record button.
+46:07
+Yeah, I mean, I got all the way up to Ascension 4.
+I'm like, Oh my goodness.
+And I so I don't know how high it goes but.
+I think it goes up to 20. 20 well, you know, classic slate aspire to use that term because we have to have our episode, you know, slate aspire one.
+46:23
+That's a good way, a good thing to model after.
+But yeah, I don't know, I I felt like in this case I didn't care because like after playing like 1 like it's like aspire you go through every build is you have to adjust, adapt and like really it's the the fun comes from like making decisions that matter based on very limited like options.
+46:46
+Or in this game, as Colin stated earlier, you just do the build order you want to right away and there's nothing stopping you.
+So you're playing the same game over and over and over again with the exact same style.
+If you want to, you can mix it up to, but it doesn't really matter anyways, so.
+47:02
+Yeah.
+I thought, I thought I would like try like, OK, I'm like, you know, I'm going to watch some TNG over here.
+I'm going to play this game.
+We're going to do something new.
+And it just ended up being the same game every time and the fun per game just decreases.
+47:20
+And so I say play until you beat it once and then just don't.
+That's about, that's about the content you have.
+So So what did what did Rogue Tower do better than this game?
+So many things.
+Because like that's, that's like the closest analogue that we have to to this.
+47:38
+The the thing that like that I remember the most was like the I mean like the presentation and art style felt very like charming and again, like the.
+Music was excellent.
+Yeah, the theming was.
+Better.
+This game basically doesn't have music.
+Yeah, like it has background, background music, but I, you know, barely hear it.
+47:58
+And when I do hear it, I'm like, yeah, it's like something's happening.
+Chanting, maybe.
+Rogue Tower has, I think that the choices are more meaningful in the towers, and it forces you to, like, pick things that you don't really want to pick, but they're like the best of the options.
+48:15
+And you kind of like, all right, I guess we're doing this for a bit.
+The enemies are, like, much more varied in terms of, you know, they've got the shield, armor and regular health.
+And you, like, you really do have to have strategies to beat all of that.
+And then sometimes they go, like, like, very fast.
+48:31
+So you need to have things that can handle that.
+Yeah.
+I will say the the point in favor of Nordhold is that for me at least, like this game felt much more polished from like AUI and UX perspective.
+Yeah, that like Rogue Tower, I booted it up just to be like, OK, I remember like thinking it was OK at the time, but like how does it compare to this?
+48:57
+Booted up and Rogue Tower doesn't have cloud saves so it started me off from like step 0 where like nothing was unlocked and I remember just like opening up the meta progression menu and just be like Nope no thank you and immediately closing it.
+Oh yeah, cuz it's, it's a branching strategy, right?
+49:12
+Yeah.
+Better branching is better.
+I think in general you didn't really have a branching strategy but for for this game.
+But the big thing that the big thing is just the difficulty ramping with the number of initial offshoots.
+49:29
+If you just have one route that was easy 2 intermediate 3 and 4 is like the insane right?
+And like so.
+So the difficulty was directly related to like, you know, how many entry points do you have for your enemies?
+And that was actually very hard to mitigate when you got to the higher levels, which made it interesting because you could actually lose and like.
+49:49
+Genuinely changed your strategy.
+Absolutely.
+Like OK, I did these two and I was very lucky in that they like curved towards each other so I could cover both lanes with one tower.
+So now I can like focus on ones that just large enough range to do that.
+50:05
+Yeah, I never really felt like I had much agency in like the map design or like or risk reward associated with it, where it was just like hit the explore button.
+That just makes it like a little bit bigger.
+There's maybe like one or two times where I think I saw another option to explore off of, but it felt like Rogue Tower was doing that a lot more frequently And, and like sooner where you were presented with like a branching path option of like, well, like, do you want to go in this direction and maybe like string it out a little bit?
+50:34
+Or do you want to like try to arc it back into a corner sort of thing.
+Whereas with with Nordhold, it just kind of felt like, I don't know, it's just kind of going out into a line of the ocean somewhere.
+Well, actually, I think they were actually similar in that sense because the way it would develop is after each one, like there'd be a probability.
+50:52
+This is me guessing, right?
+So I don't actually know, but like there's a probability that it would fork and after every single one that probability increases.
+And so for most maps, for Nordhold and for Rogue Tower, you would go and eventually, you know, maybe 15/20/25 in some cases tiles in it was split.
+51:13
+Whereas Rogue Tower, it felt like it was more, it happened more frequently and it happened earlier.
+So if your first split like that was actually one of the key things you're looking for in the in like that, the, the gameplay is like, when does that first split happen?
+If that first split happens in like the 1st 10 tiles, you're kind of fucked.
+51:31
+Like it actually really matters.
+And so it felt like that was a defining factor, whereas sometimes like that it would split, but like come back and like be right against all your, your Killzone towers.
+And it was just like super nice.
+And so it felt way more impactful.
+51:49
+And it was, it was a gamble.
+Is it, it was the, it was a slot machine of like, I'm hitting this thing, what's going to happen?
+And oh, it went the way I want.
+It didn't go the way I wanted.
+There was an actual spike in dopamine versus this game where it's like, all right, we're going to unlock another one thing that's not going to split likely and OK, more boring things that have come down the pipe several times before, just like one or two more of them.
+52:15
+And that's kind of how it felt.
+Did either of you 2 pro players engage much with the outpost system at all?
+Yeah.
+And it sounds like Colin didn't, but I.
+Did, but less than will.
+I didn't use it for resources, I just used the forge to make the towers better and then destroyed all the resources around them to make them even better.
+52:31
+What was your question around that?
+My question is what is it?
+Because I never got far enough to engage with it.
+It's just, it's basically a worker replacement program where what you do is you put a camp onto the map and the map has like each little hexagon.
+Is it just it has a quantity of things it produces.
+52:50
+And so if you want to make a forest sort of camp or like a chopping tree sort of camp, it looks in a radius and it says how much wood is there in the radius and it gives you that much per turn.
+So it's very, and it only cost, it costs wood to like set up.
+So it's like would currency as opposed to wheat as a currency for creating workers.
+53:11
+So in that sense, it just was a different way of getting income that was not worker requirement and let you put your workers towards the lighthouse missions to send them away or to sacrifice them for the legendary, whatever the bullshit artifacts that you could get.
+I don't think it made a difference.
+53:27
+I think Colin strategy like, which is the what I did initially is also equally valid, which is just yeah, maximize like workers as fast as possible.
+Like put all your resource like in the power curve.
+You want to like stay just ahead of what the the enemy is doing while putting as many of your resources into the long term development as possible.
+53:47
+Which means just like how much wheat can I produce?
+How much wood can I produce to produce more cabins, to produce more workers.
+And so these are.
+Honestly, listening to how you played it, it sounds like probably the real strategy is to do both.
+Yeah.
+No, that's what it comes down to, yeah.
+Like I realize I if you were able to get that much stuff just off of off of the outpost and I probably wasn't engaging in the outpost system.
+54:09
+Enough the outpost initially are completely shit, but once you have the meta progression upgrades, that's the thing.
+It's like once you have those, then suddenly they become viable and better than I think maybe in better than the workers.
+And so that's kind of what you have to wait to to unlock.
+But what about the the most important and critical function of this game that we haven't talked about yet That basically all rogue light tower defense games are measured by, which is all 2 the cosmetics meta progression shop where you can Oh yeah, your glory to change the the looks of some of your things.
+54:45
+You didn't click on that, did you click on that?
+I clicked on it just to be Oh my God this what what is is this really in the game like I.
+I I don't actually know what that does because I.
+It costs like 2000 glory and you can make your towers look slightly different.
+Was not at all interested in that bullshit, and that's the kind of thing that I am actively against in games.
+55:05
+I don't understand why you offer that.
+That's a terrible, that's a terrible game design decision right there.
+I mean, I can understand the the appeal of it once you've accumulated like 100,000 glory, like you've beaten the game like 25 times, like you've unlocked literally everything.
+55:21
+Well this this YouTube that I was having to watch in order to see what the actual game was like called Hacks are plays has I don't know a 175 videos of him playing Nordhold.
+And that's 175 too many.
+55:37
+That's incredible.
+He's.
+A No no.
+This this game has their dedicated fancy he has.
+From this screenshot, I'm looking at 148,000 glory and I can only assume all of the the cosmetic options already unlocked at this point.
+But like I could see that being a thing like, you know, open that up once I've I've unlocked like literally all of the meta progression.
+56:01
+But like that was another kind of gut punch part of like I've just I've like I'm hour 2 into the game and I'm just like, why?
+Like I know I there's no incentive for me to to engage with this.
+It doesn't cost real money, but the fact that this is here just kind of feels like what, like why?
+56:18
+I don't know, maybe I'm splitting hairs about it like.
+No, you're not.
+This is the.
+Expecting factor, but.
+It felt it felt bad because I I did notice it as well.
+It's like you can either get improve the game through the base mechanics in the most efficient way possible, or you can have a different looking tower that where you don't really have any appreciation of the differences between the aesthetics of the towers in the 1st place.
+56:39
+Like why are you putting any development into this ridiculous branch of nonsense instead of making the game better?
+That's what the it's what the Nord heads wanted.
+I guess, yeah.
+I'm looking through my notes here.
+56:56
+Anything else in here that we're missing?
+Well, I want at some point, and I know I was not even calling about this beforehand, but like I think we can, there is a, there is a formula for the best tower defense game.
+57:13
+And I and I want to come up with it and I think we can develop this game and I think it can be done in a very relatively short order, depending on how many assets we need to create.
+But what is the, the big question on my line is what is the best tower defense game and what are its properties?
+57:30
+And discovering that is something that I'm very interested in.
+And I know, Colin, you're very.
+I also want to make a game, but probably a different one than Will, so we'll see.
+In what ways?
+In what ways is?
+Different I want is like perhaps different things it's.
+It's ants, of course, because they're.
+57:46
+No, no, no.
+I mean, it could be.
+Ants I thought about.
+It might be ants Tower, you don't know for sure.
+And the ants.
+Tower defense game will be cool.
+We were just before this call.
+We're talking about like a a tower defense where it's literally SIM tower, but like where you're defending from, like the the creatures coming up the side walls from the interior and it's just a, you know, A twist on a classic.
+58:08
+But yeah, I don't.
+Know, I mean, that's basically like sleigh this fire, but you're playing as the tower.
+Could be fun.
+You're putting, you're putting your, your goons in the room to make sure that the, the, the, the heroes don't get up.
+I was doing a quick search on Steam DB to see what what the answer to that was of what what is the best tower defense?
+58:28
+It's tags, right?
+Tags Game balloons, right Balloons TD four.
+Well, if we're going by the Steam DB rating methodology, which is infallible and we can't question that.
+According to that it is plants versus zombies game of.
+The year ocean.
+Well, if you want to pull in the terrible.
+Plants versus Zombies power defense.
+58:46
+I mean, it's, I guess I've never played it, but I don't.
+Know I mean the the the the king is watching is as much of A tower defense, I think sure I've not ever played plants versus zombies to be fair, because it looks like such a casual nonsense game, but you know maybe.
+I mean, what is it?
+59:03
+It feels like another game.
+Actually, I think it.
+I think it is.
+Yeah, it's one of those games that's like a secret, like $50 billion, like mega industry that's corrupting the youth like Roblox I'm.
+Guessing or my mom.
+I know my mom played what some of the plants first zombie games for a while.
+It's like the only video game she's ever been into so.
+59:22
+But also listed on here is Colin.
+Have you played Ministry?
+Yes, yes.
+OK, that is.
+Ministry is good.
+Ministry kind of has a, but I, I, I think it's a good got a good interesting vibe.
+Another one that's kind of tower factory, factory tower, something like that.
+59:41
+That was the most close one that I played and I didn't like it in in some ways for similar reasons, like doing a build every time felt like a lot of work.
+It's like OK, now time to build the same factory again because I lost.
+59:57
+There's one.
+Well also I don't know how I forgot to to type this into my similar games list here, but I mean we have we have Ember Ward on this list that I think some of us have tried playing before to.
+Yeah, I played the the demo.
+1:00:13
+Yeah, it was the other one that I was, I, I was between that Dornhuld or that.
+But it's too cutesy for Will, so we didn't want to.
+Play it too.
+What for me?
+Cutesy.
+I mean, I did a demo and you're right.
+You're absolutely right.
+Never mind.
+Balloons tower defense 6 not cutesy, though.
+1:00:31
+Also on this list I orcs must die one which is is very highly rated, but but yeah, there's there's an RTS slash tower defense.
+Well, I don't maybe it's like RTS as the tower defense style game that looks something almost kind of like an SNES StarCraft called the This is a great title by the way, from glory to goo.
+1:00:56
+That seems very interesting.
+This game that came out in 2024 that I somehow never heard of before today that that looks kind of interesting.
+I mean the the Creeper world games I think are highly highly recommend balloons.
+Creeper world's great.
+Creeper world's very cool and fun, I like it a lot.
+1:01:14
+So there's, you know, have.
+You played Creeper World?
+I was about to ask, I didn't want to interrupt, but no, I have not.
+I have no.
+Idea you should absolutely play creeper world 3 and 4.
+You would have his last playing it.
+Scott.
+You could maybe too, but I think it will scratch Will's brain itch a little bit harder.
+1:01:31
+Colin recommendation.
+All right, here we go.
+This does.
+I'm just watching a a preview video of this.
+It seems like an absolute Colin game.
+It it is that's it's very much in my yeah.
+I don't even know what just what that like genre of game is, but like it's like like.
+1:01:50
+Like like zany factoriness engine builder area control.
+Game.
+There's like a there's a few of them that I've gotten like like very into over the years.
+There's just like exponential growth simulator.
+Oh, I'm all about that.
+1:02:05
+That sounds fabulous.
+Yeah, I'll.
+Check it out well for our Nordhole discussion here.
+Is there anything else we want to touch on before hitting rankings?
+Do we want, do we want to go back through the heroes again?
+Because they were.
+They were.
+1:02:22
+I, I do want to like, we kind of talked about it, but I, I was surprised at how much the lack of music actually did kind of bug me.
+Like especially in a game like this where you're kind of doing it repetitively.
+I, I have found that some of the other games that are similar to this that I have liked have had very good music because you're it, it is slightly more prominent because you're not like frenetically doing stuff.
+1:02:47
+This just kind of has like background noise and that is fine, but I would have liked it if it had like slight, slightly more music.
+I know will doesn't care about that, but I I, I.
+Do like it and I think like a note about the music because I was trying to like what on earth am I going to play this episode out with?
+1:03:05
+It kind of starts a little muted for the run, but I think as the run progresses like the musical track layers become more and more like complex and have like more like Nordic like Viking chants and stuff going on in the background.
+1:03:20
+It does feel, I don't know, pretty basic and backgroundy, which I guess is something that you kind of want from a like a game where you're thinking very critically a lot of the time.
+And crucially, the game also starts like the first fresh install.
+1:03:36
+You're playing it for the first time.
+I think like the music and sound effects are already auto tuned down to like 40% or something like that.
+So the I imagine the developers were like, let's let's have the user maybe more focus on actually interacting with the game instead of the distracting background stuff, but it's there.
+1:03:54
+I'm listening to the soundtrack right now.
+There's not much going on here.
+Are you listening to Layered Track 6 or #1I?
+Am listening to Layered Sorry Layers 5 which is track 6 extended.
+OK, there you go.
+Yeah.
+But I mean I'm literally I'm preparing it to rogue tower and the last spell, both of which had like killer slap in soundtracks and it did not detract from the game at all.
+1:04:20
+Yeah, and bonus points for the Rogue Tower dev doing the music for his game, which is very, very metal inspired, but like also like very like it.
+It just seamlessly blends between like your planning phase where it's like very like light background harpsichord music.
+1:04:37
+Then when you hit that battle button, it just like that double bass kick drum kicks in and you're just like, oh, that is so nice.
+Yeah, very, very welcome for and and thematically appropriate for that game as well.
+So maybe the the music is the mathematically.
+1:04:53
+Appropriate for, for for Nordic.
+Some Nordic death metal.
+That would be good.
+Like yeah, anyway.
+Anyway, yeah, OK, let's jump into rankings.
+I think I will be the first to kick us off here, me being bad cop for the first time in a long time.
+1:05:15
+Wow, you.
+Yeah, you have the worst rating.
+Incredible.
+I know, yeah, it's it's I usually try to find the good in a game of like, OK, like this game, like people should check this game out because XYZ.
+This game was hard for me just because like, I don't know, like I just kept bumping up against so many aspects of like the meta progression of like the the dryness of it.
+1:05:39
+It feels very much like your your friends have sat you down for board game night.
+They're like, oh, you're gonna trust me.
+You're gonna love this game.
+It's by the the driest, most German board game inventor ever.
+And the art is, is just like, like barely scribbled on the page.
+1:05:55
+Oh, but don't, don't, don't pay attention to the art.
+It's really the systems.
+You really got to look into the systems.
+And like, you're just like, oh, boy, The only other game I've ever played is like apples to apples.
+What have I signed myself up for here?
+That's kind of like what Nordholt felt like to me.
+1:06:10
+Where like I yeah, I can kind of see how like the systems are there, but it's just all of the other elements are just not there.
+It kind of feels like like if this was an early access game, I'd be like, OK, yeah, this seems like a a very well designed early access game.
+1:06:28
+And once they come out with like the expansion packs that overhaul the art or make the the city area more dynamic or like, you know, you're chopping down wood.
+There's like a tree that falls down like something that's more, I don't know, visible to the game to kind of like wake me up out of my stupor.
+1:06:51
+The fact that it that this is one point O and I I don't know how much more they're going to add to this game because it's already a year old for me anyway.
+This this doesn't really kind of fit like the Scott theme as it were.
+So numbers wise for me it's a 5.5, putting it in the same kind of realm as like Project Zomboid and Just Ahead.
+1:07:12
+What the fuck?
+So that just proves that nonsense.
+You're rating it Here comes the, here comes the five.
+No.
+Mortar of Will's comment and just barely ahead of dungeons to tread more there's there's some goods here with Nordhold.
+1:07:29
+I do like that the UI and the UX in this game is, is, is pretty polished like it is.
+It feels very clear as to what things do and where where to find things to, to go and, and do stuff.
+I think generally the aesthetic for this is good and it is kind of a cool theme.
+1:07:48
+And I like the idea of like the the worker placement meta game where you're like, OK, well, how do I, how do I decide if I want to do a gold build or do I want to brush wood first?
+The tower and or the tower fusion gameplay mechanic is also cool and interesting, I think just for me.
+1:08:06
+I just wish that stuff maybe would have happened a little earlier.
+I'll go next, I'm giving it a 6.7.
+I think it's a pretty good tower defense game for the first.
+Like push was like the the act of figuring out what your build is was enjoyable to me and like a little bit of the lower level meta progression grind.
+1:08:33
+I didn't like mind it quite as much as Scott, but then like boy, the second I beat it I was like, well, I never cared to play this game again like that.
+It did not engender A1 more run feel in me.
+I did play one more run or a couple more runs just to like figure out if there was something else.
+1:08:52
+But yeah, I feel like it's, I think we had said before the podcast started, it kind of felt like it's got all of the technical thing, but not the soul.
+And I think that's generally like there's it just kind of feels like there's something missing.
+1:09:08
+It's not, it doesn't have the like pull to come back of like, oh, the memorable moments of your run or the all the choices that you've made.
+It's like, well, I got better at the game and then I won and then I'm done, which is not exactly what I was hoping for.
+The town building stuff was not what I wanted.
+1:09:27
+You're not actually building the town.
+You're just there is a set thing.
+It's like a list.
+It's it's a list.
+You it would be more efficient as a list because it would be easier to like find things.
+So like I could have it as a ribbon at the top and I'm clicking on the like house tab and then like, oh, click down to like increase worker button.
+1:09:49
+So there wasn't like, you know, bollocks pit at least you're like placing it and you have a little mini game to play.
+So yeah, so 6.7 I think it if you really are looking for a tower defence game and you want to just put like 5 hours and something great, but it's not going to have that level of replayability, at least not for me.
+1:10:09
+You.
+Guys, that leaves me.
+Yeah, it's going to be a 7.0.
+It's not a great game, but it is a game that I enjoyed for a brief period and like Colin, I thought, well, I I beat it.
+Let's let's see if there's more here.
+And the answer is no.
+1:10:25
+So that kind of puts it in the same category as dot age, which is also a 7 point O.
+It's like once you beat it, it's like, oh, is there something?
+Is there another build order?
+Is there more I should be considering?
+And the answer is just no.
+And so this is, I think, pretty pretty much the same for all of my 7 point O games.
+1:10:43
+Like if you can beat it once, that's that's the content.
+Just stop there and you're you'll be happy.
+That's like cold of the lamb, Wildermith, Lone Star.
+These are the my other seven point O is like, yeah, it's something to do.
+But if you want to play a real tower defense game, you know, play rogue tower play.
+1:11:01
+I always say it played Bloons tower defense.
+I don't know about the most recent release or any of that, but like I know that I've had a a really good time figuring that stuff out.
+And yeah, the only advice I'd say for this sort of thing is make decisions count.
+And it feels like if you if on every run your decisions don't really matter.
+1:11:22
+The decisions aren't fun.
+So that's where I stand with this seven point O.
+Right.
+Well, that's going to ram the Viking warship into our ratings list at the number 69 slot, just behind Tales of Maja and just ahead of Stack Lands out of 99 games that we have slogged our way through over the course of four years for so Far Real.
+1:11:48
+And yeah, so some similar games that we've sort of talked about through this episode.
+We talked a lot about Rogue Tower.
+Go and check out our previous episode on that.
+I feel like I probably should have mentioned more about orcs must die death trap in terms of like tower defenseness, even though that is more of like a first person shooter.
+1:12:08
+And this Nordhold is definitely your more classic top down plop tower down and upgraded.
+There's some similar enough elements there, but some other games that we have not talked about bad N is is like a real time strategy tower.
+1:12:26
+Well, real time strategy like defense game, I suppose that also has that kind of very, very good bleak, Norse rainy North Sea kind of vibe to it's very, very striking art direction.
+We got tower dominion, Amber Ward.
+1:12:43
+We talked a little bit about Will for your evaluation purposes.
+Balloons tower defects balloons TD 6 does have a rogue light style downloadable content mode to it that only just recently came out.
+1:13:00
+But other than that, we have towerful defense tower tactics liberation.
+There's, you know, a handful of like these actual like quote UN quote real tower defense rogue light games that have been coming out.
+And of course, we can't leave without mentioning once, once more, from Glory to Goo, maybe the best titled one that I've seen in a while, But but give those a look see.
+1:13:27
+But in the meantime, you can e-mail your GOO to grogpondzone@gmail.com.
+That's it.
+That's a good face Will's making.
+He's AI.
+Don't know.
+About.
+That phrase do right now, if you knew what I mean.
+Mastodon Grogpod at game dev dot plays Grogpod dot zone, the website that has all the stuff.
+1:13:43
+Just go there.
+But yeah, that's gonna wind down our Nord Hold episode and depending on what game Will has in store for us right next.
+My quip to transition into that is, boy, I sure do love breathing unpolluted air.
+1:14:04
+Will what?
+What is the the game that you got queued up for us next year?
+Well, I am looking to make it so that you can't really breathe so well.
+This is Cole LLC.
+This was something in my YouTube popped up, someone had a playthrough.
+1:14:22
+I'm like, what the hell is this shit?
+And turns out it looks really fun and it's a rogue light.
+So I figure it's, it's very much, I think, but not very popular game right now.
+I think it's got like 1000 reviews.
+So I mean more, more more popular than than I've ever known, but still a relatively a small game and looks really fun.
+1:14:43
+And I, I think that I know it's it's a side scroller platformer sort of thing.
+I don't know if you want to really call it that because.
+There's like right up your alley.
+Yeah, so it's a bit of of will should hate this, but it looks fun, so.
+1:14:58
+That's, I mean, it reminds me of like Terraria, which, yeah, exactly.
+I was into that game pretty much so.
+All right, well, that's gonna that's gonna wind down Nord hold here.
+But to play us out from this episode, we'll we'll be sounding the Nordic horn for the hordes becoming.
