@@ -1,0 +1,1565 @@
+0:09
+Greetings friends and welcome to the Grog Pod Roguelike Podcast, where each episode we dig deep into the layers of earth that make up a roguelike or light game.
+A harvest the precious minerals inside for ratings and if those burn clean enough, A revisit it at the end of season recap tournament.
+0:28
+I am your associate Senior Vice President of Mergers and Acquisitions, host of the podcast Scott Berger, and with me are my coal mining bodies filling out the disposable Minion org chart.
+Oh, it's me, Colin.
+Vacuum cleaner filling up, sucking up all that coal that you have to mine.
+0:44
+And they call me old coal shoot Harshman around these parts.
+And this is will your Penguin hidden in the top right of the map that you and I'm sure none of you saw.
+Oh no, I got I got all all sorts of notes about that.
+We are talking this week about Cole LLC released on Steam September 11th 2025, made by solo dev Bye Bye Ocean, based out of I can't wait to butcher the pronunciation of this Abergavany Wales and this I think is their second game.
+1:16
+They had released another game on itch dot IO called Mob Dice, which is more of a more of kind of like a game jam game.
+Your average player of Cole LLC has about 23 hours of gameplay in it not bad and Cole LLC rolls Cole onto the popularity rankings of our data set at the number 730.
+1:39
+Third most popular roguelike game on steam with 1323 total reviews.
+But first will your quota for today is A1 sentence Description of what one does in Coal LLC.
+Coal LLC is a side scrolling collect everything game where you have a quota you to meet every day.
+2:03
+You have to survive 15 days and you're digging.
+You're digging deep into the earth trying to get some coal and other stuff to give you the meta progression and make sure you can meet your quota otherwise you die.
+No, I was very, very excited when Will had had picked his favorite genre of games, that being platformers.
+2:23
+Because we all know astute listeners of this program will know how much Will loves platformer games.
+This is not really a platform.
+I call it a side scroll.
+It's it's, it's, you know, it's in 2 dimensions.
+That's that's the, the extent to which it's a, you know, a platformer in my.
+2:39
+Well, I mean, I feel like to some extent I would argue that it platforming maybe in like the early part of the game feels like a weirdly critical component.
+It's not it, It really isn't.
+And later you, there's no platforming at all because you just fly around everywhere.
+2:54
+So.
+Or jet or hover about.
+Yeah, listeners, I'm only going to acknowledge this, maybe this one time and hopefully never again.
+Will, it is true.
+Will specifically does not like platformers, but that has been expanded into hokum, into a fake and into a falseness that he hates all side scrolling games.
+3:17
+So I will continue.
+You'll probably hear me saying that a lot that he hates side scrollers.
+I can't believe he picked the side scroller.
+Obviously I understand that it's really just platformers.
+All right, that's goes behind the curtain and and now we can resume.
+Yeah, I was I but but Despite that, Will, I was a little bit surprised by your pick of this game.
+3:37
+Was it at all inspired by your enjoyment and your love of Terraria?
+No, not, not really.
+I mean, I did it.
+I did love Terraria, which is in the in the same genre, but this was one where I think I just saw some YouTube like doing some challenge and I'm like, what the hell is this game?
+3:55
+And I'm like, oh, the numbers go up and they go up exponentially, which is something that not all games do or they do an exponential, which is very gradual.
+This one is the massive, I will say.
+That this is a scientific notation.
+Perhaps the most exponential game that I've played, except for the paper clips game.
+4:13
+Maybe if y'all are playing it.
+I never got a single one of these.
+I'm going to be showing my ass here.
+A single E in the expression of any of the sums, any of the numbers.
+Remind me what that even represents?
+It's been a while since.
+I took a.
+Math class.
+Times 10 to the whatever.
+4:30
+So like E10 would be times 10 to the 10th.
+Hell yeah.
+Times 10 to the 10 to the 10th that that might be a game name.
+I don't know.
+Maybe there might be there might be a name for something.
+Yeah.
+So y'all broke the game.
+I I was able to get to the the the quote UN quote true ending, which we'll discuss later, I'm sure, but I didn't get the numbers as pumped as as y'all.
+4:48
+So I'm hoping that over the course of this podcast, you will unearth and reveal the secrets to this game, because I've yet to master it.
+What is the story of this game, Scott?
+What's the story so far?
+Well, the, the deep lore and I hope everyone, I hope, just like every Marvel movie, I hope everyone read their 66 issue comic book series before listening to this podcast to get deep, deep into the lore of Cole LLC where you fire it up and it looks like something your your niece had played around in Ms. Paint with for 20 minutes.
+5:24
+I think the art in this game is, is actually very fun and charming despite how goofy it looks.
+But you fire this game up and there's like some happy clouds and just a weirdly architectured house.
+And what are the clouds of smiling?
+That's also very important, presumably.
+5:40
+The house is oddly shaped because like it's on the edge of a coal pit, so like the foundation is moving and like the frame that of the house is now bending in in strange ways.
+It's the art style.
+I mean, it's in the nicest way.
+It looks like a game that comes preinstalled on a school computer.
+I also like the way this game looks except for the UI.
+6:00
+The UI is like objectively quite ugly.
+The menus.
+The menus I think are rather atrocious, but everything else I enjoy.
+Yeah.
+And well, I think maybe this might be a a, a, a, a, a plot point we revisit here in a minute.
+6:18
+But I think maybe much of the expectations setting around this game might be hinged on the fact that it's listed on Steam for $15.
+Which again, we can, we can kind of pin this here for a minute because that might be a a, a a comparison point for other stuff.
+6:35
+But right, right.
+Of course we're talking about the plot.
+Yeah.
+Yeah, yeah.
+That's.
+You're you are an employee of of Coal LLC presumably.
+Yeah, and you know, there's there's coal and you got to mine it and you got to dump it in the bag or if you if you don't this.
+6:51
+I do appreciate that this game like kind of leans into how absurd it is of the, the, the concept here is extremely simple.
+Folks like you go into this pit, you are literally just like mining away.
+You collect stuff, number go up and if number don't go up, the the worst case nightmare for any business owner, especially those in the petroleum industry.
+7:15
+Then, just like in the petroleum industry, you explode, and with all sorts of little particle effects that go flying across.
+True, and this is where the RNG starts of this game.
+The the direction that the Gibbs of your little Sprite go is randomized.
+7:33
+So, so you are warned about this though the stakes are set up in the in the beginning moments of the game, 'cause you talked to the first NPC, you was standing next to the coal pit, the entrance to the pit to the mine and it's a little frogman, I think.
+And the frogman says oh, you're the new like coal guy, you know.
+7:49
+And he explains like you got to meet your quota everyday.
+You got to meet your quota or else And will you find out pretty soon what our else is because you know, I don't know how far did we get in our first runs?
+Three days 4.
+Days.
+Well it took me a long time to realize that there was like a menu with items and not just employees.
+8:05
+So I got stuck on the third day like 6 times in a row.
+Because of that ugly UI I would argue.
+He's got you there, Colin.
+I mean, that's just, that's pretty much.
+Proof right there.
+It was pretty bad and I was like what the what is happening here like?
+Yeah, indeed.
+8:21
+And there are some critical items in that in so in between each day you.
+In fact, can't beat the game without getting ladders and the other upgrades at.
+Least at least Yeah, initially this is yeah, there are some critical update upgrades which aren't super obvious initially.
+8:38
+Like for example, you can extend the amount of time that you have to mine.
+And I do want to just issue one quick correction, Scott, you're throwing the coal into a, into like a box into like a pile.
+And there's a big sign that says like, stay off my coal or something.
+8:54
+It's like keep, keep away.
+This is mine.
+So, and, and art is as good as you would expect.
+And which is to say, very simple, but charming.
+Yeah, and like you've, you've kind of alluded to the your, your I think his name is cool dude.
+9:10
+If I'm going off of the the naming from the coal LLC Discord emoji naming.
+But anyway, there's a number of of NPCS kind of littering the the surface layer give you objectives to do.
+9:25
+But but yeah, generally, like you are, you start on day one, you're hopping into this coal pit with this little, the world's shittiest pick pick almost said pick axe, but it's just a pick doesn't have an axe.
+9:41
+And you just go tink, tink, tink.
+And I think like the the first few days that you do of this or the first few like runs of this can feel a little, a little tight because that window I think is maybe what like 60 seconds or something.
+9:59
+It goes by very fast.
+And as you tink, tink, tink away and you deposit the coal into the thing you get, you know, so you have your your quota that you have to meet or you explode like any good coal mining employee.
+10:14
+Yeah, it's it's kind of like the beginning similar to is it running man with the explosive collars at the work site, you know, or maybe it's yeah, anyway, it's a little tight, especially since like, oh gosh, that that shitty pick it, it mines so slow If you're mining this grid of of blocks, some of which contain coal, some of which don't.
+10:38
+Yeah, and oh God, who was, who's that bad guy from the Running Man who like was singing opera and like shooting fireballs out of his hands.
+I believe that is sub zero.
+No, no.
+Game Zero, which one was running?
+Man, I, I, I know I'll know it when I see it.
+10:54
+That was.
+That was the.
+There's some themed, like kind of, there's some themed sort of professional wrestler type characters.
+They're trying to kill Arnold Schwarzenegger.
+This is a very important.
+The actual book is like surprisingly like leftist and like like, yeah.
+And they remade it.
+Based.
+11:09
+And they remade it recently and it was.
+What a shame.
+A fine, fine film I.
+Refused to open up, open fire on the innocent people.
+And then they edit it.
+It predicted so much they edited the.
+The In 2017, following a worldwide economics collapse and resource security, the US has become a Totalian police state.
+11:26
+Dynamo, that's who it was.
+OK, now we can move on with the sorry.
+Yeah, it's Dynamo.
+The other guy was a hockey guy.
+Sub zero.
+Now just plain zero.
+OK, Yeah.
+But you become Dynamo later in this game based on the amount of bullshit shooting out of your your fingertips.
+11:42
+But.
+So.
+So yeah, you, you take, you plunk away, you collect coal and whatever excess that you collect beyond the quota for that day is your bonus.
+And that's the stuff that you use as your monetary engine to, to get stuff to make you mine more and faster.
+12:02
+And that allows you to go deeper into the the Earth's substrate down into that those juicy sedimentary layers where where all those, that, that juicy, juicy coal veins are until you hit all of that other more valuable resources like blue coal and orange coal and purple coal.
+12:23
+And that makes the new.
+Bluestone that has coal in it.
+More coal?
+Well, I mean, I I everything.
+I it's actually ice.
+I like the head cannon that like the the coal is actually fundamentally different and it's like somehow better because it's blue or red.
+12:40
+Really, aren't all minerals just coal that hasn't realized its full potential yet for for burning and then turning a a turbine to spin a magnet to make energy?
+Did you know that you can burn diamonds like coal?
+I bet it's very efficient.
+12:56
+It's been learning a lot about diamonds recently, actually, the market for such a thing.
+Don't go burning those though.
+That's that's going to get you in trouble at home.
+I remember my father telling me that when he was a young youngish lad, he had the opportunity in grade school to go on a field trip to see a nuclear powered train, train, train.
+13:24
+That was not what I expected that sentence to end.
+Was this was this a Soviet nuke train that was had a computer hacker in the in the front part of it?
+And who is escaping out to Cuba?
+He did have to use his his school issued laser watch cut his way out of the bottom.
+13:41
+Now I could when I heard the story.
+I was a young lad as well.
+I may be misremembering it.
+Maybe my dad just read a book about it or something or read it like an article.
+But my memory is that he went on a field trip and it's like, yo check it out children, the nuclear age is here.
+13:57
+We have this train that's nuclear powered and my father is imagining like, yo, there's going to be like a giant green glowing fucking like, crystal on the front of this train and like just the raw like neutrons and gamma rays flying off.
+14:14
+This mother is going to be spinning the wheels and it's going to be insane.
+Nope, it's just producing heat.
+Yeah, every source of steam, every source of power is just making every source.
+Of power is it's just steam and it's just like any old regular train and even as like you know like an 8 year old he was like well that fucking sucks and.
+14:34
+One of my friends, so disappointing.
+One of my friends worked for a company that's like doing new nuclear stuff and they are literally reusing old coal power plants and just swapping out the coal for nuclear stuff.
+Incredible.
+Which, hey, you know, as a Duke Nukem fan, as a, as a, as a, you know, FPS meathead, I love nuclear power.
+14:54
+Anyway, moving on.
+However, in this game you never do get uranium, which is a flaw for sure.
+That's a flaw, and there's a.
+Glowing green layer.
+Yeah, but you're not mining uranium.
+You can get a uranium pickaxe eventually I think.
+15:10
+Yeah.
+No, there is that.
+Yeah, yeah.
+But I don't think you ever mined uranium ore.
+That's because the deep sanctions that have been put on Coal LLC are preventing the use of any sort of nuclear, nuclear fissile material.
+Yeah, before we leave the topic of the story, because it's pretty, it's pretty thin, it's pretty light, It's kind of fun.
+15:26
+There's little cast of characters like different animals and things on the top, and you can do little quests for them which give you pretty meaningful upgrades.
+There is uranium.
+You can't bind uranium in this game.
+No SO.
+It's just very, very.
+Deep.
+That's number two that we got your ass on, Colin.
+15:42
+So far that you are, and now you're having to eat crow on the uranium.
+I'm sorry, you wouldn't know that if you had gotten that far, Andrew.
+Oh my gosh, Scott, did you get to the true ending?
+All right.
+Let's call and redirect that, redirect that anger and that that vitriol towards our Omega host who didn't even get to the ending, which we're going to discuss later.
+16:08
+I think I spent maybe about half of my time with Co LC trying to get it to like work properly on the Steam Deck.
+Like once once you get the control schemes mapped out and to to the game's credit, there is a community layout for the Steam Deck that you can boot up that like it.
+16:26
+It basically kind of does everything that you needed to do, but the game clearly is not designed for a handheld interface.
+So that's that's not really a knock on it specifically, but I also feel like in in my researching of trying to figure out like, OK, what what games are even remotely similar to this at all?
+16:45
+I kind of kept getting sucked into those games instead.
+Oh man, I mean like this.
+And and to be fair, I think Cole LLC I think got more fun the more I was kind of engaging with it, But I think I sort of hit that S curve of like, OK, yeah, I think I've sort of seen everything that it has to offer and that's fine.
+17:06
+I think like.
+That's that's fair.
+I just I, I was, I got counter roasted.
+Touché Colin and I, I got roasted reversed on me and I, I lashed out and I apologize, Scott, that's totally fair.
+And I'll be interested to hear about games that are similar because to me, this is a fairly novel and fairly unique gameplay experience.
+17:27
+And the first time I sat down with this game so audience, I just crawled out of a hole.
+Not a not a not a a mine shaft, mind you, but a like AAA story driven video game hole.
+I was playing Alan Wake too, like almost not 100% but like getting close, getting into the 80s and 90s percentages.
+17:48
+And I've been playing the stock of two DLC and I apologize that I missed last last episode but but here I am.
+I emerge blurry eyed and I'm like what are we playing?
+Oh thank goodness.
+A game I can just jump into, hopefully.
+And just another AAA quality, another AAA.
+Quality with with that has just been updated for the the latest Unreal Engine.
+18:08
+They just put out a big engine upgrade.
+No this.
+Is of course.
+It's called the Wheel.
+Engine.
+This is of course the Gadot engine steam real.
+It's not the Unreal Engine, but it is a real, it's a real hardcore like.
+I mean it's.
+Real.
+It's real G I love an engine.
+I like it.
+Goodo.
+18:24
+We love it.
+We love Goodo.
+Goodo strikes Again and I come out and I'm like incredible.
+This is everything I wanted.
+It's a fun, easy to pick up game and the first time I sat out with this game I played it for like 4 hours and ultimately ended up sinking a whole lot of time into it.
+18:41
+But anyway, right before we stop talking about the story, do we have any theories on where on the earth this is taking place?
+Where is this mine located?
+Well, if the true if the true ending is to be believed, probably somewhere over North America.
+18:57
+Oh no, Oh my gosh, just like running, man.
+This game is predicting our future.
+I feel like, hey, who can tell us about the upgrades?
+There's a lot of upgrades.
+Yeah.
+So you, you start a run and I believe when you start a run, it just drops you right into the game and you you have to do one, one day's worth of mining that takes 60 seconds.
+19:18
+It's fine.
+And then after that you end your day and you have this kind of like upgrade buying equipment purchasing sequence where you have a number of these different tabs that Colin missed out on.
+One was employees you got.
+So you got employees, equipment and bonuses and and you can see your inventory there.
+19:38
+You can kind of click and drag things around to do some pregame inventory management.
+Don't accidentally sell your stuff.
+Don't.
+Don't sell your primary mining tool.
+A fear if, especially if if you're only using sapphire rifles and you're like, Oh my God, I don't want to double click this.
+19:55
+Your employees tab allows you to like, again, like any good petroleum industry company allows you to buy your employees into servitude and allows you to kind of like send them down a a number of different sort of upgrade paths where you can have them be out there mining stuff or you can have them.
+20:17
+Sprout wings and fly around and collect things, and then you can upgrade them to collect things faster, or increase their carrying capacity, or mine faster, that kind of stuff.
+And Colin, who is going to, I think, maybe tell us about the barbarian class here as soon as he unmutes himself.
+20:38
+The the yeah, the I was going to point out, sorry, I was trying to do that in a more subtle way than calling.
+Out.
+Nope, that was fair.
+My neighbor was pulling in their garbage and I was muting it so you didn't hear it over the mics.
+But.
+Oh, that's fair.
+That's that's valid.
+They're pulling out the latest delivery of coal that has been mined, was mined the other day.
+20:54
+So, yeah, you, you unlike different classes, which gives you access to like a little bit different equipment and like I think and your workers can have these different classes as well.
+So there's like explosive experts and Barbarians that like mine in a, in an AOE attack.
+21:13
+And then there's like, you know, expert minors and they have different like levels.
+It's pretty involved.
+I was kind of surprised at how many levels there were.
+But unfortunately in practice it doesn't feel very good in my opinion.
+Well, there's a, there's a, there's a strong reason for that.
+21:30
+I think it's because what, what you're talking about on this big grid of all of these items and, or all these different upgrades for the employees.
+Well, we'll leave the, you know, the other upgrades aside for a second.
+But on that menu, basically everything kind of fits on a spectrum.
+Like is it hitting one thing at a time or is it hitting many things at a time?
+21:48
+So you have your you have your, your, your pickaxe people which hit one thing.
+And then you have your, your barbarian class, which just hits like small area of effect.
+And then you have your Bombardier class, which is a large area of effect.
+And then you have the collectors, which are completely useless.
+And I don't they're useless.
+22:04
+I don't understand why the IT was included in the game at all, because the as soon as you get the vacuum cleaner, the the utility of that is out the window.
+It's like it's just completely wasted dollars put into that.
+Interesting.
+I had I had literally hundreds, hundreds of collectors in my last run.
+22:25
+Like a vacuum.
+Cleaner does everything that does.
+Yeah, at a certain point you get a vacuum cleaner, which instead of having to run back to the surface like you're the first, like few runs is very dependent on like you physically returning to the surface to drop off your ore, right.
+But you're having to use like ladders and things to get out, reminding me kind of of lemmings in a certain way.
+22:45
+But then as the run progresses and you unlock more things, the ability to fly, for example, or you get you do the necessary request to get the vacuum.
+You don't have to go back to the surface.
+Interesting.
+But the the vacuum doesn't doesn't get everything like the the the the sphere that it actually sucks stuff up.
+23:04
+It's not that big.
+Well, it it has.
+A.
+Yeah, I mean it is actually.
+That's true when you first unlock.
+So if you do the the quest for Tabatha the mermaid, who's on the far left.
+23:20
+She's a mermaid.
+Screen I believe she's a mermaid.
+She's I.
+Thought she was like a little girl, like a little orphan.
+She's a mermaid.
+She's.
+Of course it's a tie in with the Odyssey, right?
+Yeah, yeah, of course.
+And so brand promotion, yeah, right.
+Yes, you give her five sapphires, she'll give you a little dog that will tell you like, oh hey, the more valuable resources are over in this direction.
+23:42
+You give her 30.
+Dedicated pet, the dog button.
+You need to point that out.
+Good.
+Job.
+Good job.
+Bye bye Ocean.
+Extra whole point.
+It'll tell you where The thing is that you can see on your screen with your eyes.
+Isn't it indicating?
+But isn't it indicating a spot that holds more that spawns more of that resource?
+24:01
+Completely pointless really.
+It's what?
+It's one of the worst upgrades I think I've ever seen in my life.
+That's too bad.
+Well, at least it's aesthetically pleasing.
+Like you have a little like pet that follows you around.
+People pay lots of money for those.
+You pay Tabitha 30 emeralds to get the the first level of the vacuum, which has a very short radius to it.
+24:18
+And the idea is that like you go in, like you press the use button on it and it'll like follow you around.
+Carrying it around.
+Or, or you can like you know, drop it off at a certain point.
+You can go like mine around and then come back to it without having to go all the way up back to the surface and drop your stuff off.
+24:33
+So it's a little bit of a short shortcut there and then 40 Amethyst to upgrade the like the range on the vacuum there you give her rubies and then the vacuum can kind of just go anywhere but.
+Longer, longer cord.
+Well, diamonds is the final one, but like, I think it's worth mentioning that like in addition to these decisions to like go deeper, you're constantly balancing that with like, all right, do I have the DPS right now to like get the things I need?
+24:59
+And if and then and then if you have that DPS, then yes, the range is more important.
+And then at a certain point, the, the way the currency works, the way everything scales, you're going to want to like shift the layers up.
+And so you can actually take the Earth somehow mysterious technology here and shift it up so that you're like starting deeper.
+25:19
+And that way, that's another way of essentially extending the range of the, the the vacuum cleaner and so.
+Important meta progression upgrade because the the deeper layers the blocks contain more of the resource but I I would say that.
+25:35
+Both of those, both the layer shift up and the vacuum itself make the game worse.
+Oh wow, it makes.
+You more bad opinion, OK.
+It makes you more efficient, but it makes the game less it it removes the challenge of the game.
+25:53
+Like how many times you're like, I think that's the, it's my biggest critique of this game is that, you know, the whole is like it gives you all the upgrades that like remove all obstacles.
+It's like, oh, you know, there's a bunch of like chest upgrades where you can climb up ladders faster, but then it immediately gives you the ability to just fly.
+26:11
+Yeah, so.
+You're like well now now this is literally it's not a meaningful choice.
+It is just trash in my upgrade but but doesn't.
+Doesn't.
+Don't some of those vehicles use those stats?
+Eventually you're on the hoverboard and the hoverboard.
+I thought the hoverboard scales.
+26:28
+I thought the speed of the hoverboard scales off of.
+Your only only the left and right movement with the the sprinting speed, all of the like ability to go up and down.
+It's just like it's a constant rate.
+It's just like a constant rate in all directions.
+That kind of stinks.
+And you have to hold shift too the entire game.
+26:43
+No, no.
+No, there's auto run.
+There's an option.
+Unless you hit auto run, in which case there's egg all over my face.
+But we got will what's?
+The auto run.
+Will my option to just enable auto run and then you just run 100% of the time?
+God damn it, I'm I'm holding my watch hand here and I've got a beautiful Bertucci watch.
+27:01
+Practically indestructible solid titanium case here.
+Andrew did mention it in the discord.
+Oh, and so I'm holding my left hand up.
+My hand was turning into a gnarled claw, not unlike the Tree House of Horror the the Monkey's Paw, of course, which was an original creation that Matt Matt Groning came up with.
+27:21
+And until I realized that there was a dedicated pet the dog button, but also an option for auto run.
+Yeah, that needs to be front loaded because it makes the game super, super uncomfortable.
+There's also, I think an auto fire option, which I didn't use, but how use that bound shift is is hell on your on your hand, especially once you've bought the purchased the upgrades to give you more mining time and all that.
+27:46
+Will I, I or we or mostly me interrupted your grand unifying theory of the worker system.
+So it looks it looks complicated.
+It's not.
+There's just two classes, collector.
+Well, there's there's three classes, 1 that's useless.
+28:01
+You say the collector and then there's two other classes, one that's AOE, one that's pinpoint single block damage.
+So what's the key to making workers work good?
+Well, I think early on.
+Speaking as someone with a business degree, how do how do workers work good well.
+Well, if you want to maximize your, you want to synergize your backward overflow.
+28:20
+First of all, if you're not doing that, then you're not going to hit quarterly targets.
+Of course not.
+But but really that the the main thing is like early on, at least this is my interpretation of like optimal play.
+If you're going to use employees at all, which I don't think is actually optimal at all.
+But if you do, then you want to start with the area of effect the the Bombardier class.
+28:39
+Like you want to get the maximum amount of damage and you want basically whatever layer they're landing in initially should be the one that they're able to affect.
+Because as soon as you go beyond that one layer, they essentially break one block over the course of the entire like session.
+And so it's like, well, that's kind of pointless.
+28:56
+But early on, the area of effect of the Bombardier class much better.
+But when you get to the end of the game, the, the bombs are so weak relative to the industrial strength, uranium or whatever you're trying to get through that the, the, the top, the vice senior vice president of pick act, I don't know whatever the fuck it was called.
+29:14
+But like they, they, they basically the single target guys are the ones you want to get.
+I think in the last one I did, I had I think over 3000 of them and my frames per second was struggling mightily when I was around them.
+29:30
+And so I don't recommend that.
+And also they just were terrible.
+Like I go up to them and they, they're all, they're just like they're chipping away at insane speed, right 'cause they're just like I got all the upgrades and they're just sitting there pounding this, this is like uranium and you're like cutting through it like butter.
+If you have similar and just like, what do you, this is a waste.
+29:48
+Why would I ever?
+Well, one, one thing that's interesting about I think maybe the early game, or at least I don't know if this is just the first layer that you drilled through, depending on if you've shifted it, is that there are these little chests that are scattered throughout that you go and and they're surrounded by tougher blocks and you get through those.
+30:08
+You get to the juicy, juicy tender chest inside and it will drop stuff that, I guess if you squint hard enough, kind of looks like something that it might direct a build order direction, maybe where it'll do stuff of like, oh, do you want to increase like your mining speed or do you want to increase like bullet damage or running speed?
+30:27
+It's a pick one from three or you can sell it kind of thing.
+And for the most part, like I was just any anytime like running around finding these chests to crack open and say, OK, does it have bullet damage?
+Because I'm addicted to just buying, buying the rifles and holding down the the auto shoot button and letting that kind of like melt everything for me.
+30:49
+Which, by the way, this is an incredibly good shooting game.
+This is a great shooter.
+For the record, I I agree with you, Scott.
+Yeah.
+So, yeah, you're upgrading your damage, you're upgrading how fast you can mine.
+You can.
+There's upgrades for your employees.
+But as Colin already mentioned, there are a bunch of upgrades that become at the end and I thought they went into the hoverboard but apparently they don't.
+31:08
+Please continue, Scott, what else is in the in the chest, pray tell?
+Well, other things that happen in the chest that can kind of catch you by surprise are gold plated weapons, which basically just destroy everything on the screen that they look at for 10 seconds or so.
+31:25
+And if you're not paying attention and you've like shifted the the layers of the earth, you can almost dig your own grave that I've done multiple times by getting some sort of gold plated mini gun or flamethrower.
+And the entire screen has now been wiped clean and you've fallen like 600 layers to to an area that you can't mine your way out of.
+31:46
+You see that clock ticking down?
+You're like, there's no way.
+There's no way for me to get back up.
+Why don't you have?
+Would you run around with 32 platforms at all points in time?
+No, cuz cuz basically every run I I did the exact same thing.
+I bought 1 infini ladder and I bought whatever the highest value rifle that I could God and I just I just drilled.
+32:05
+I just buy 32 ladders.
+Yes, I'm just saying you're making an initial dig at the very beginning of your run.
+Yeah, so.
+And again and again like this is most likely not optimal play, but not.
+If you misclick if you misclick that ladder.
+Yeah, which is, which is why you just walk over to like one of the starting areas and you just shoot, auto shoot directly downwards until you get to the the layer where it starts taking too long to shoot.
+32:31
+You put your Infinity ladder there, it goes all the way up.
+And then now you have a way to like measure where the center of the map is.
+You can go back up and grab your vacuum and just kind of like I, I wonder.
+If that is generally how I did it as well, but I have like 7 infinite ladders and 32 regular ladders so that this would not become an issue so.
+32:50
+You guys, you guys really didn't do the platforms.
+That was the the cheat.
+That was the best option.
+Anywhere you are, you can go horizontal diagonal like you just drop a platform jump up there.
+Well, like you were saying with, you know, basically.
+Well, hold on a moment.
+I'm sorry, Scott, sorry to interrupt.
+You turned this game into a platformer.
+33:07
+Which is it?
+Which is it?
+Will these platformers or not?
+It unfortunately I am an optimal play enthusiast.
+So platforms are useless.
+They're not useful.
+You just dig your way down until it's flat at the bottom and then jump over to your ladder and then go up.
+33:24
+The goal of the game is to make everything flat so you don't need a platform.
+Intriguing.
+That's a fine, just jump off the ladder at a certain height.
+Now, Yeah, climbing now.
+Now, real quick, I will say well, that the the single grid ladders, the non infinite ladders, those are a real bugger to climb and jump off of.
+33:44
+The the the movement is weird.
+And I can see how like in that case, if you wanted to move diagonally, platforms might be better.
+So that's interesting, that's interesting.
+But where, where, where were we?
+Well, we were talking about, I think, yeah, chest and equipment.
+So like the chest stuff you'll find like basically like passive upgrades for either you or your employees.
+34:06
+But you know, as you prep to go into a run, you're using your excess money, your bonus stuff, to buy stuff like ladders, bombs, dynamite, and an array of all sorts of weapons, including things ranging from axes, battle axes, pickaxes, shotguns, rifles, pistols, poison guns, mini guns, flamethrowers of them.
+34:35
+Have.
+Tanks.
+Fighter jets.
+Pardon me is that is that?
+Something.
+Yes, this is real.
+Which?
+Class is that orbs?
+What what?
+Who gets access to that?
+I don't know, it's like Soviet leader or something.
+Wow.
+Is that a real thing?
+34:50
+Is that is that, is this real?
+But, but you can't.
+Interesting.
+Yeah.
+So the classes have access to different equipment they can purchase, but I think most of the other upgrades are kind of the same.
+Cool.
+And I guess also, crucially, each one of these weapons that you buy has different qualities to it.
+35:08
+So you start with a shoddy pickaxe and you can buy like a copper level of all of those things.
+You could buy sapphire ones that are weight like 10 times more expensive.
+And then it's just, you know, number goes up.
+Everything's more exponentially expensive, going all the way from like amethyst, gold diamond, pink diamond, uranium, moonstone, Onyx I think is the highest tier thing that you can get.
+35:32
+And those will, you know, you, you use iron shotguns to make the copper that you mined through the copper layers very easy.
+Or when you get amethyst battle axes that'll cut through silver stuff very, very quick.
+35:50
+It's just a real.
+There's.
+I didn't.
+I was not aware of this system.
+I think, yeah.
+Pokémon battling thing of weaknesses and resistances.
+Well, it's just, it's just a strength tie ring, Yeah.
+It could be like all the copper sapphire diamond.
+36:06
+These could all just be tier 12345, but they just all have these names which are bad in my like amethyst amethyst pick ass.
+You're going to swing an amethyst pickaxe.
+What are you fucking kidding me right now?
+That's going to do.
+That's going to just shatter.
+That's.
+Going to be now an Amethyst K47.
+36:23
+Right or a gold mini gun.
+Now that's where it's.
+At there's also no toughness or anything, it's all just pure like the the it's just math, like the next blocks down are just a larger pool of HP and your your pickaxe is a larger hit of damage.
+36:39
+What is the?
+Scaler on that.
+It's.
+Is it?
+Is it?
+Is it 10X every single layer and every single upgrade?
+Or is it like 8 or 7?
+I know it was exponential but. 10 I'm looking at it, it's basically it's it's 10X more but then after a certain .8 starts getting more than 10X more, it starts getting like 1000 more.
+37:01
+There you go.
+No wonder they need to start using letters.
+The numbers are getting too Dang big.
+I mean, the last one between is between E22 and E29, so that's seven orders of magnitude higher.
+They're basically like, no stop.
+Seven orders, My God.
+37:18
+So Scott, you were talking about how like you can accidentally, if you get grabbed the wrong upgrade early in your run, actually dig yourself too, too far down and you can't escape or you can't find your way out or you don't have enough ladders and you die.
+37:33
+But hey, it's not a huge deal because at least initially, the run length for this game is relatively short.
+And this game I think has a very good one more run type of a feeling, at least initially when the runs aren't super long.
+What do y'all think?
+37:49
+I would agree if the game was maybe more rogue because there was nothing.
+There was really nothing stopping me from just buying a rifle and buying an Infinity ladder every single time.
+I think like this game would probably be better served if the equipment available was like far more limited.
+38:11
+Or if like, for example, you know your your copper options were like a pistol and a rifle on your iron rifle, or your iron options were like just like a pickaxe and a rifle or you know, something like that of the total available pool, maybe a more limited selection to.
+38:28
+Kind of is, is a solution to that.
+And I think this is kind of like maybe fixes the one of my biggest gripes here is that like those chests that you find, they're almost like they're all they're going to, yeah, pull a pool from a pool of possible rewards, right.
+38:44
+And those rewards typically like you're going to, if you're employee focused, which I did one run of that you'll you'll try and pick that stuff.
+But like most of the time it's like, oh, have your primary weapon do more damage or have it strike faster.
+What other options are you picking?
+And in fact, it's actually probably none.
+39:00
+It's actually better to.
+Potentially.
+It's better to not have anything except your primary because it will focus the upgrades towards whatever you have.
+So that's what most of the time I would never buy a single employee because then it starts giving you employee upgrades more often.
+Yeah, exactly.
+39:15
+That's that's that's another huge problem with this game.
+But I think that that chess scenario, that's where we can have the rogue like right now.
+It's like these these upgrades, which I think you we should RIP those upgrades out and mix them with your actual like tears of like weapons and that kind of thing.
+39:30
+Like, oh, you open this thing now you got an AK and like you put put the actual weapon or item into those chests and you can get obviously that means like rescaling a bunch of stuff to make sure it all like plays really nicely.
+But like that way when I open it up, I'm like, oh man, I've got the poison gun right now and I have to play a little differently.
+39:47
+But that's the other things like the poison gun, the flamethrower, the gun, like everything that's like just doing damage to the stuff around you it.
+Felt.
+Sort of samey and even the poisoning, which is very different and like you, it's a damage over time.
+You spray it at an area, it takes damage, it crumbles and then eventually it all pops.
+40:04
+It's like, well, is that fundamentally different than anything else?
+I mean, I don't, I don't think so.
+I don't know how you solve that, but it feels like it's, it's very same.
+It's like, yes, I'm mining in a slightly different way.
+I don't.
+Is there a solution to that?
+40:19
+I don't know.
+I mean, I think that the the, the real answer is like for almost all of them, the goal ended up just being strip mining.
+Yeah, like mine.
+Every single block that you can see 'cause there's no.
+Hazard there's like like lava or.
+40:35
+Yeah.
+And also there's no like there's no hazards.
+There's no hazards.
+There's no things that you're trying to avoid or like HP, here's a couple blocks that are just arbitrarily much harder.
+So you have to like go around them.
+Well, I, I feel like there was just no decisions to be made.
+40:51
+It was like, well, click on all of the things that I can see until they're not there.
+Wow, these are already these are these would improve the game so much just I think.
+Well, I, I, I think like those, those answers do exist in other two D mining games like Terraria or yeah, your, your, your dwarf fortresses or other things like that.
+41:11
+So, so I think like this game, if its goal is to just be like, yeah, you know, it's just like a fun like 5 to 10 hour game of just dig around, shoot stuff.
+And I, I do have to say the, the dopamine signal that triggers in my brain whenever you pick up like one thing that just makes that little pop and you're picking up like millions of them all at the same time.
+41:32
+It's just it's like popping bubble wrap it like.
+Yeah, yeah, yeah.
+The sound effects are pretty good in this game.
+Like the sound, even though the the workers are not super efficient or good or worthwhile, they're fun to look at.
+There's like a just a bajillion of them, which looked like the animation of like when you win solitaire, you know, on a Windows 98 computer and it's just like just a bunch of overlapping sprites.
+41:52
+And then they're all going the sound of the tapping of all of the the the the pics.
+I very much enjoyed.
+Well, when you have like the dopamine levels I feel like I'm getting it felt most time I was playing this game it felt pretty Dang good.
+But will maybe doesn't think.
+42:08
+So or just the 30,000 over or that if not 33,000 overlapping pic noises.
+Like at some point if you have employees, you want to get away from them as much as possible.
+Just like in real life.
+Yeah, they're just annoying.
+And then you come back at the very end, like we have 30 seconds left.
+42:24
+You take the vacuum cleaning you, you move it over all their stuff that they've been working on because you can't actually affect what they're doing.
+Like a real business owner on the backs of the hard working.
+There you go, there's another upgrade we have direct the workers work faster when you're nearby.
+Or or just direct them like hey work on this area like this.
+42:41
+Can kind of do that.
+You can buy the employee whistle and you whistle it and they'll like appear next to you.
+Oh, it's still like, not really useful.
+What the heck?
+So basically what we're saying is that there's a lot of ideas for Cole LLC #2 now, but but that's we're talking about a lot of things we'd like to see in the game or the next game or whatever.
+43:03
+What what I want to talk a little bit about the gameplay and the fun experience of what we got right now.
+I think this is a very fun game.
+And I think that even though some of the runs feel Sammy, the roguishness is not quite there.
+43:19
+Like it felt great, like winning, completing a day, getting well over your your quotient, your your required amount, gathering a bunch of of of diamonds and sapphires and making a bunch of extra money and then buying the next level of weapon, in my case a mini gun or a different gun.
+43:40
+And that like feeling of having a significantly better item and feeling the power of like, oh, it's melting the blocks even faster and I'm hearing the sounds even faster and I'm seeing my cold number go up quicker and like that consistently delivered and felt great.
+43:56
+And that then, and that isn't always the case in a lot of these games where you're just upgrading a weapon to the next level of weapon.
+Sometimes the next level weapon is a disappointment.
+I was almost there's no one always delighted.
+There's no 1% increase or 2%.
+It's always like the next pickaxe you get, is it?
+44:12
+You said like the thing that you were striking a 10/15/20 thirty times before.
+You're just blasting through it with your next upgrade.
+It's like at least 10 times better.
+Now on the other hand, the chest upgrade, I don't understand why this is, but I would pick up a chest upgrade that said, yo, 100% more damage to your gun.
+44:35
+And in my brain, my little baby baby math brain, it feels like, well, that should be a significant change.
+And then I would start shooting my gun and it would feel basically the same.
+Well, you already have 2100% upgrades and so now it's going to 2200%.
+44:52
+And so it's.
+Not.
+It's not.
+It's not.
+Every time 40. 400%.
+Yeah.
+It doesn't stack.
+Or whatever the term.
+And really, once you're getting to the 10,000%, you're really not doing anything.
+I see, I see.
+Understood.
+OK, so when I pick up 100%, I'm not literally doubling my total damage.
+45:09
+I'm just.
+Adding you are your first time.
+The first time you get it.
+First time.
+The first time.
+OK, well, that explains it.
+That explains it.
+My point still stands.
+The the crates did not feel very good for a lot of reasons that we've already discussed.
+But yeah, how much fun do y'all have when you play this game?
+I mean, we played it a lot, right?
+45:25
+Yeah, I would say that you're you you earlier you said something about like, oh, the one more run feeling and like the the feels good every time.
+And I'm I agree with you in the initial runs, but how much I wanted to play, it was like pretty much a linear decrease.
+45:42
+Every game I played.
+I was like, I like this game less.
+Like if I had if I had rated this game after like two or three hours, I probably would have been like 3 points higher.
+Oof, the antithesis of Ball X Pit.
+Yeah, both Pit based games.
+My gosh.
+45:57
+Wow, yeah.
+Really building a brand here.
+Also, this game includes a purple wizard.
+Hey, come on.
+Does it?
+Well, I didn't think we'd get to this so early.
+Yes, Colin and Will, I couldn't help but notice when when you posted screenshots of your game-winning run, seemingly you have the default skin on.
+46:17
+Excuse me?
+No, I think my.
+You're one of these non default skin people that cares about that stuff and I made a non multiplayer game.
+Oh, you did OK.
+Well then, good job Colin Will.
+Skins only matter in multiplayer games.
+Everyone knows that Everyone knows.
+46:34
+That I I don't know that and I refuse to learn it.
+Just like how letters can exist in math equations, so will but you're right.
+Will the representation of Mohawk is not here in this game.
+But but you're right.
+I mean, I'm kind of I'm kind of joking around.
+I just thought it was funny that the screenshots you posted, I'm like, what the heck, who's this red shirt guy?
+46:53
+Oh, it's the default man.
+No, I very quickly unlocked the purple wizard, the purple wizard robe and and and cloak and I was playing as that.
+Just like we see a purple wizard in that dice game dice O mancer.
+Just like we see the purple wizard in Noida, just like we see the purple wizard in rift wizard.
+Iconic.
+47:08
+We love it.
+Clearly it's always a reference to keep her the seven keys.
+But anyway, I digress.
+What now?
+Don't worry about it.
+What were we?
+Yeah, the fun.
+So Colin, you were having progressively less fun.
+Scott was having about the plateau of fun, but that led that plateau, led him to better games potentially and will why?
+47:27
+Why did you stick with the game?
+Why did you even bother doing more runs after you?
+I have a mix right because I.
+The.
+New classes, the new like objectives were interesting, but then I found the difficulty level was still like after the 1st 30 minutes.
+47:46
+I, I, I think I lost one game in total.
+That's, I think my big critique here is that like, where's the ascension levels?
+And they have like things that are trying to do that maybe.
+But like they have classes, they have a lot of distortions about like, what is the next thing that you want to do to make it hard?
+Do you want to have like your world be flipped upside down?
+48:02
+Do you want to have a funnel design to your world?
+And I'm just like, I don't know, why don't you just like, let me go along the difficulty like slider essentially, like let me work up and you determine in advance like what is the next hardest thing?
+48:17
+So I I have AI had I had a lot of fun and then I realized every game it was just insanely easy to win every single time.
+As soon as you understand, oh, get the vacuum from the mermaid.
+Don't worry about anything else really.
+48:34
+Just vacuum from the mermaid and then make your main weapon more and more powerful.
+Like that's a strategy that wins every single time, And I don't want that.
+Just like in the Odyssey.
+So yeah, I hear what you're saying that yeah, it's an issue and I think we've discussed maybe some.
+48:54
+Potential, and I think that like once once you've like grocked that system and you're like, OK, like this is this is how I beat it every time.
+Like I guess that's like beating the game, right and is like it it feels OK to me that the game would be like OK, Yep, you've you've figured out the system, you've beaten it.
+49:14
+That's it.
+Like, Congrats.
+You're beaten it like, I'm going to go look how many professions are there?
+There's like.
+Too many. 14 or 20?
+Yeah, that was I think, I think that's a big complaint I have is like all the different classes they have the the Barbarians, the assassins, the whatever the heck, they all are so samey.
+49:36
+Like 20 or 22.
+Yeah, that's that's not that that I will argue is not new contents to the to the creator of this because the because the strategy is always 100% the same.
+Yeah, like so I did Assassin and Firestarter.
+These are two two things you unlock fairly early.
+49:52
+Assassin can only use poison guns.
+Firestarter.
+How do you pronounce that a twisted firestata?
+Thank you.
+So both of those are basically just you get a poison gun or you get a fire gun, you can upgrade that gun.
+There are no choices.
+One of them you literally aren't allowed to buy employees.
+50:11
+It's like this mode shouldn't exist.
+It makes the game worse that it exists.
+It is because it feels like you now you, now you are.
+If you're a completionist, you're compelled to do this bad, bad mode.
+So what do we think it should be like kind of Diablo style?
+Like let's do like 5 or 6 classes and let's make them more distinct.
+50:28
+Yeah, I mean, if you're going to have a bunch of different classes, they should actually be different from each other.
+Put the classes in the treasure chest, you're going along.
+You've got a pickaxe.
+You start with every single time, boom, you've got a flamethrower.
+OK.
+But now you want the decisions you make like of the options for the upgrades, like the flamethrower might benefit from like a wider spray and that might be something that's offered versus like a, you know, shoot faster or among other things.
+50:55
+And so, yeah, I mean.
+You could have something like.
+We energize.
+That's all we want.
+The The Vampire Survivor or Pillars of Torment where it's not combine.
+Things.
+The the well that or like the upgrades in that are not make your gun stronger.
+It's more damage to primary weapon, more AOE blah blah blah.
+51:14
+So it's like, oh this upgrade less friendly.
+Fire damage to your workers.
+Yeah, like this upgrade's now good for all the ones that do AOE, but it's not very good for the one that just is like, I want your like, single target damage or interesting decisions.
+51:29
+Yeah, this game doesn't.
+Pass plus 100% to damage versus blocks with no resource in them versus plus 10% damage to the blocks with resources.
+And like sort of those sort of decisions where you're going along, like do I want to like blast through things or like, hey, horizontal damage.
+51:47
+Like the further like if you want to have like the further you go out horizontally, the more in some degree there is a like the better, the better treasure you get, the better rarity depth is still like definitely like based on how much damage you can do, but rarity of item might be horizontal distance.
+52:03
+And so you might want to choose to optimize for horizontal distance where some gun of the laser turret which blasts through many horizontal.
+I don't know whatever.
+Like these are the kind of decisions which we were never asked.
+And I feel like those might make this a lot more interesting for at least beyond the 10 hours of gameplay where you're like, I got it, I'm done.
+52:25
+Cool.
+And I almost wonder like, OK, so maybe this is a good time to talk about the price point because I feel like we we there's this implicit expectation of like, oh, like we would love to have the game have XY and Z like it's missing this feature.
+52:41
+It's missing that it needs to do.
+We would.
+Love to have the game have a lower price point.
+And I think that like, you know, the, the, the biggest stick in my craw for this, for this game was its price point.
+Because I kept thinking like, OK, if if I had like a $15 steam gift card I got from grandma, I'm like, all right, I'm going to use this to buy some play sweet ass rogue light game on on Steam or whatever.
+53:10
+Am I going to buy the Binding of Isaac rebirth at $15?
+Am I going to buy Enter the Gungeon at $15?
+Am I going to buy Bilatro at $15?
+Or am I going to buy Cole LLC at $15?
+And I think that like, you know, I, I can't tell the dev that like, Oh, your pricing strategy is wrong, blah, blah, blah, Because he's obviously sold a lot of games.
+53:30
+And I wonder if there's an element to which that like pricing it at a certain point, maybe filters out a lot of like tidal waves of requests into it that if the game was priced down to like, let's say $5 or God forbid, $2.00 or something, If that would have made the game like so like the barrier to entry being so much lower that the expectations of like, oh, well, the dev needs to do this and needs to do that and needs to do this would be so much higher.
+54:00
+I don't, I don't know what that like what that balance point is.
+My guess is it just I mean the similar number of people who bought it.
+So you're just losing more money leaving money on the table if people are willing to buy it then.
+Sure.
+What does the game go on discount all the time?
+54:15
+What's?
+It does it.
+It goes on sale down to like $9 which still feels.
+Often.
+But yeah, I don't know, maybe every so often I think you know, it could.
+Be some kind of.
+Reason, but like, but that's like the the standard price point for like, you know, I, I don't know if this is easy to make this comparison, but like luck be a landlord, FTL, megabonk, nuclear Thrones, slice and dice like those are all games that are like at that same like $10 price point that I don't know, like this.
+54:44
+This game, I think that I think Koala is fun.
+I think it has a kind of vibe to it of something that to me feels more of like a $5 game.
+And that's not to say it's bad.
+Like Vampire Survivors is $5, Halls of Torment is $5, Brotato's $5.
+55:04
+Like these aren't like low quality games, but I think maybe that there is like a a lower degree of expectation maybe.
+Question Vampire Survivors 5 bucks.
+Yeah, I think so.
+I think vampire is.
+55:20
+Maybe out, but vampire smarters, those have been out for a long time.
+I think that might have been the launch prize, Fellows.
+Let's check.
+Yeah, if that's.
+And while we're checking that, I'm going to.
+Have a different opinion?
+Right.
+I was trying to remind me which of you doesn't care about money and thinks that.
+55:35
+It's it's not that I don't care about money.
+It's not that I don't care about money.
+It's that I think that we should judge your opinion.
+We should judge the games regardless of cost.
+And then you should buy a game if you're like for $15.
+I will only buy games that are 8 and above.
+55:52
+For $5 I'll buy games that are 7 and above.
+Like I don't care that it was made by one person.
+I don't care how much it cost.
+If it's a 10 out of 10 game, then I'm willing to pay many dollars.
+If it's a 5 out of 10 game, I'm not really willing to pay that much.
+56:08
+It doesn't matter.
+I think I, I think I get what you're you're laying down.
+I unfortunately as as, as, as much of A want to be anarchist as I am, I and I'd love to try to divorce myself from capitalism and, and, and the gold standard.
+56:28
+And no, we're not on the gold standard, but you get my point.
+Like, I'd love to have that mindset, but like somehow I'm still like hypnotized and, and I've still, I'm still brainwashed into thinking that like, no, the cost of something is intrinsically tied to my enjoyment.
+So like, I, I get where you're coming from, but I, I haven't come around to it just yet.
+56:46
+I, I am curious not to, not to argue too dramatically.
+What is your, what is your favorite game?
+Like what?
+What are your top three games?
+Best games ever in your opinion?
+Well, Slate.
+Aspire Slate.
+Aspire too.
+Slate, Aspire, the board game and what else?
+57:01
+Like Factorio factorial.
+How would how much would you pay for Factorio?
+Like knowing what you know now and like let's say in a hypothetical where it's like you have to buy it for the first time.
+You know it's your if you know it's going to be the best game ever, like $500.
+57:17
+Most money I would probably pay like 500 or 1000.
+Dollars wow if I we bought yeah 500.
+I mean, I would pay a dollar an hour.
+Interesting.
+Interesting.
+And I put how many hours into?
+599 hours into.
+Effect.
+But we're not gonna we're not gonna put that money up.
+Incredible, though.
+57:33
+We're gonna be like, that's like, let me determine if it's a good game.
+Like I'm not gonna.
+Yeah, I have put that much money up a front though.
+When I bought like Europa Union, Fiscalis, whatever, I paid like $100 upfront to get that plus all the DLC that was that the Internet deemed good in anticipation of playing 100 hours of it.
+57:52
+So as it turns out, my hypothetical actually kind of happened to you fellas.
+Will you called the 500 call and you said 500.
+And I also for a long time I was like, I can't believe people buy consoles to play one game.
+That's ridiculous.
+And then I purchased a $700.00 video card expressly to play stock or two.
+58:11
+So like I've been there and and it was worth it.
+It was worth it.
+Folks at launch don't come at me about the bugs the only way.
+I'm drinking a beer right now that cost like $3.
+Sure.
+So and I.
+What's the point there?
+Like I spend vastly more money.
+58:27
+Like I spent more on the 6 packs for this.
+Honestly, I spent more on the six pack of this beer than I did on this video game.
+Like we price video games very strangely.
+It is extremely.
+It's also worth pointing out that adjusted for inflation, the very first ever Rogue Light game, Toe Jam and Earl for the Sega Genesis being priced $50.00 in the early 90s would be something like $90.00 today.
+58:51
+So I think that like, with that context in mind, like, yeah, this game is an absolute steal at $15.
+Theft Auto 6, I don't even remember.
+Seven, I mean and 64 games were like $60.00 and now we're like how dare they charge us this $15.00 for this game we.
+59:07
+We, we are spoiled.
+We've discussed this before.
+I think I brought the fact that like yo go to see a movie, it's two hours long.
+It costs you like 20 bucks, but like a video game, $20 game can last you, you know, 10's and 10's and 10s of hours.
+But Scott, to, to your question, my experience was I played this game for like 8 hours.
+59:28
+I came home one day and I'm like, I really want to play more of it.
+And honestly, I completely forgot that family sharing has changed the way it works.
+It has changed and I thought, oh, someone else is playing it on the family share.
+I can't play it unless I buy it.
+Well, of course I'm going to buy it.
+I'm so I'm so driven to play this game.
+I'm so into it.
+59:43
+And I went and I went to go purchase it and I did big record scratch and car breaking and like wiggly, wiggly, wiggly what, $15?
+Excuse me, That's a little presumptuous and bold.
+What a what a what a what a presumptuous young man you are sort of situation.
+1:00:03
+Bye bye ocean.
+Your game is definitely worth $15.00, but in this current market it doesn't feel quite right because we're spoiled and there's a bunch of cheaper games that arguably feel a little more advanced, a little more sophisticated.
+I think you're, you're, you're.
+1:00:20
+That's just graphics bias here.
+You you can.
+Buy is.
+Infinitely more interesting, sure.
+I'm, I'm so I, I'm not going to spoil what your score is, but you paid $60.00 for Elden Ring Night Ring, $3030 for Elden Ring.
+1:00:38
+That was for a group of experience play.
+Toys that was for that was for that was for a couple of nights out with my best.
+Pals, my best.
+I mean, I'm just looking for games.
+Games that you rated worse than this that cost significantly more money, no.
+No, no, Colin, again, I, I acknowledge that like this is a silly way of thinking, but but the average consumer, I think is like me and we're being tricked into thinking that this price point is more important than it actually is.
+1:01:03
+So like I acknowledge you're, you're probably right at the end of the day, but like the reality, the material reality at the moment is that I'm still kind of hung up on this and I.
+Will probably I would just prefer I personally rate games without consideration of cost and then you can make that decision based off of what the cost is and my rating.
+1:01:24
+Like if I say it's a 10 out of 10 game that is a different recommendation was like it's 10 to end game and it costs $100.
+Like that factors differently then I wonder game.
+I wonder if.
+Something that like if Steam had the ability to see like in an easier way than me, like pinging the the Steam API back end to get these numbers to be able to see like, oh, here's like the distribution of, of like play times that people have had with the game.
+1:01:51
+That that way you could more easily see like OK, yeah, that's $15.00.
+But if people are getting like an average of like 23 hours of gameplay out of it, that seems like a like a fairly decent value prop or at least gives you more information to make that decision.
+Because I think like, yeah, $15.00 for 23 hours of fun, that seems justified.
+1:02:08
+And that like the, the upper bound for for that number.
+Like people have like 100 hours of gameplay in Co LLC.
+So there's definitely like a a cohort that vibes extremely well with this kind of game that would gladly pay down $15.00 for.
+1:02:26
+And to clarify, I did.
+I did buy it and I felt like I got good value.
+This.
+Is a deeply sacrilegious viewpoint, but I think that.
+For the most part, we.
+Should pay like $5 for a video game and then a dollar per hour of the play of it.
+1:02:43
+That's that's some like NVIDIA like cloud gaming subscription models.
+I mean I think of like factorial squad, like game squad.
+I've put in over 1000 hours like and I paid 30 bucks for it like.
+Well, I I.
+And are you in the pocket of Adobe?
+1:02:58
+Big Adobe.
+I mean, maybe it's a quarter, maybe it's $0.25, but like that would be a more objectively like value oriented.
+It's not going to be that.
+It's like, that's not how.
+Well.
+I don't think I actually want the corporations to do that because I think it would end up being worse.
+1:03:16
+Looking looking at my own play times I my number one played game on steam is unfortunately Planetside 2 with 100 and really 811 hours in it.
+I would not spend $811.00 for Planetside 2.
+Thank God for free to play.
+1:03:32
+But but I get what?
+You're.
+Saying, but like squad, I don't know that I would put $780 in the squad, but maybe that's the the cost of.
+I mean, would you pay, would you pay a a dollar to play with the boys in the morning for a couple hours though, I mean.
+1:03:48
+This is.
+How I ask the real question?
+Maybe if we got squad the board game and then we could do that.
+Yeah, I don't know.
+That's that's a great question.
+I just think.
+In general, we yeah, we're, we're way off topic.
+I think we value video games strangely as we as compared to other stuff, but yeah.
+1:04:06
+Thematically somewhat appropriate in a game where we're, we're mining, you know, precious metals.
+We're, we're discussing economics and things and yeah, where, where, where were we?
+Hey, I got a couple questions about this game #1 what's our, what's our, does anyone have family history with mining, with the mining industry?
+1:04:28
+Does anyone have an actual connection to it?
+What kind of question is that?
+You're talking because.
+I do.
+I'm setting my.
+It's a leading.
+I'm setting myself up I.
+Want.
+I think the answer's no, You know that.
+Go ahead, I.
+Think my family does this you?
+Know, I thought maybe I don't know, back in the day.
+My understanding the the the the Harshman family lore is that my great grandfather was a miner and that his sons were miners.
+1:04:51
+And would anyone care to guess in in an industry that is infamously terrible to its employees?
+What?
+What especially terrible thing do you think my grand Pappy Harshman was?
+1:05:06
+Mining.
+Was he a scab?
+Did he break picket lines?
+Absolutely not.
+How dare you suggest.
+He was mining information for management.
+I bet he was mining something extremely flammable.
+Asbestos the opposite.
+Opposite.
+1:05:22
+Oh yeah?
+Well.
+You got it.
+Ding, Ding, Ding, Ding.
+Ding, nice.
+Yeah, I.
+Knew it.
+Oh yeah, that's.
+That is a big Yikes.
+But but the point is that I've got, I've got miner's blood in my veins and I'm not talking.
+About your ice men.
+The veins of ore.
+That's right.
+And asbestos also in your veins.
+1:05:39
+Yes, that essentially it's a, it's a it's a critical mix.
+I've got it balanced.
+I have a synergy going between asbestos and low cholesterol because of my veganism, but but extra soy.
+So anyway, next question.
+I don't know why I brought that up.
+1:05:55
+I guess it was just fun seeing like.
+Yeah, where's game?
+That's just in this game.
+That's true.
+Where do I get my asbestos chain gun?
+Right, a mini gun.
+So check it out.
+It's fun seeing this cutesy cartoony game like represent this really terrible industry.
+1:06:14
+So I enjoyed that.
+And the fact that you explode at the end is like a fun little nod to like actually mining is bad for the earth and the people and everything.
+But next.
+Question, I'm sorry, how do the workers, how do the workers work?
+Like do they actually have to do they have to go back to the surface to return their stuff?
+1:06:31
+Like I don't understand how the the base pickaxe.
+Person works.
+No, they just, they just, they just mine something.
+The thing that pops out and it's right next to them.
+Understood, can anyone tell me next question how the recoil statistic works?
+That makes no makes no sense to me.
+Like the the option to increase your recoil for a weapon in the treasure rewards.
+1:06:52
+See, you would think that that would be a crazy thing to upgrade, but there was at least one instance where I had some sort of high recoil shotgun that I was using as kind of like a rocket jump system to get back up to the surface.
+And I and I thought to myself, OK, I think like that's a pretty clever way to do it.
+1:07:09
+I so that was there.
+Force, but I couldn't get that to work.
+Shotgun I also work with with a gun with a machine gun.
+So you could.
+Fly basically if you aim down and like.
+It's.
+Not really a family, but it's more like it's like the it's very similar to the jet pack, which we need that immediately get after rich.
+1:07:27
+So it's another useless upgrade, another another.
+Useless.
+Interesting.
+OK, And then lastly, what?
+What the hell?
+What what does the Penguin do?
+What does she give you?
+Makes it so you don't get blown backwards by bombs, which is not a thing that ever really interesting.
+1:07:45
+Hurt me.
+I guess I never did like a a run where I did a lot of bomb stuff but.
+I did use it once to propel myself out of the hole.
+That was kind of fun.
+And actually my great great grandpa, he had to do that once on the job actually to get out of the mind.
+So bye bye ocean.
+But it didn't work because asbestos isn't right, because because it, yes, it dampened the explosion in the fire.
+1:08:05
+Of course, you're so right.
+And the Penguin that he was talking to didn't give him quite the quite the upgrade.
+Well, yeah, they couldn't afford Canaries so they had to use Penguins, but that's been outlawed for a while.
+So anyway which?
+You would think would be more expensive.
+But you'd think but but it's very interesting different time, different time.
+1:08:22
+So hey, bye bye ocean check it out.
+The vacuum great upgrade.
+I think it adds to the experience.
+I think it improves the gameplay.
+Call disagrees.
+All the other upgrades are kind of crap.
+The compass honestly, at first I scoffed at the compass.
+The compass is pretty good because sometimes I would get lost underground and like, Oh no, what do I do?
+1:08:39
+So yeah, basically the point is we need some more upgrades, more meaningful gameplay changing upgrades in my opinion.
+And that's the end of my question segment.
+Thank you gentlemen for elucidating all of my Burning Cole LLC questions.
+Well, as as we're shoveling Cole into the the steam engine here, I'm guessing that's going to pull the the train into ratings depot time.
+1:09:04
+Let's how many more tortured metaphors I can slam into here.
+Anything else before we want to start dumping some numbers on here?
+Because I'm sure everyone's numbers are going to go into scientific notation for this.
+The music could be better it's but it could be worse.
+1:09:20
+That was all there is to say about that.
+I think that's that's in fact true and that's that.
+OK.
+All right.
+I think that is going to do it for main discussion and now for numbers time.
+And you might think, well, why?
+1:09:38
+Why bother just doing these?
+Like who's line is it anyway?
+Numbers for slapping on stuff.
+But I think in the case for for things like this, you know, numbers are numbers and that's what it is.
+It's fine, whatever people interpret numbers differently.
+1:09:53
+But one useful thing for at slapping numbers on the stuff is to understand where these games land for hidden gem status and for a game that involves lots of gems.
+This game, Cole LLC happens to fall on our new #10 of our hidden gem leaderboard, kicking off 868 hack.
+1:10:14
+Wait, how does gem How does hidden gem stack work?
+What is this?
+Well, I think I've talked about this before with as as as the listeners are are are trying to figure out we had a meeting about this, what the Google sheet looks like.
+But the idea is that like for for how popular a game is, if we go off something that's like, oh, popular means good.
+1:10:35
+And then I sweep all of the math explanation under the carpet.
+The idea is that like if a if a game is super niche, but we rate it higher than its niche Ness, then I just like take the difference between those two numbers and then Orient them that way.
+1:10:51
+So the TLDR is that for however popular, like its popularity ranking is versus our podcasts popularity ranking.
+So if this game, if this game was the 90th most, you know, like the 90th equivalent of whatever percentile or something like that, then you know, then it would be like you know about what we expect.
+1:11:14
+So for example, like dead Cells is very highly rated for us, but it's very popular.
+So that's about the expectation, bro.
+Tato, we kind of mashed up quite a bit and that game is super popular.
+So that's a very low on our gym score.
+1:11:31
+But but yeah, I think, yeah, I forgot to mention this on our on our 100th episode, but brogue, I'm giving the new number one spot.
+Yeah, that's what's confusing.
+Yes, I don't have any ratings for the top three, which is why they are the top three, because I skipped them because they are so bad.
+1:11:48
+That's the bad.
+Reason that they're locked in.
+Actually, of the top 6, I have one rating and it's a four point.
+It's it's, it's less than half of what you guys have.
+So these top five.
+They gotta Yeah.
+So what?
+You're saying is what you're saying is cog mine should be higher, I agree.
+1:12:05
+And yeah, we'll we'll have to revalue anyway the.
+Point is, hey yo, this is this game is it's getting a pretty a pretty nice little little pedestal spot in our in our grand ranking system.
+Yeah, I think a a a top 10 hidden gem game is is nothing to sneeze at there.
+1:12:23
+But but in terms of how we feel one by one.
+Oh well, wait a minute.
+Oh, OK never I was looking at the wrong number here.
+OK, yeah, Colin, kick us off with our.
+Yeah, I mean, maybe not, won't come as a surprise, but I I'm going to give this game a 5.9, which is pretty low for me.
+1:12:46
+I.
+I put a fair, I put like 11 hours into the game, so it's not like I didn't play it and it didn't grab me in some ways.
+But like the more I played it, the more frustrated I got at it.
+We've talked a lot about meaningful choices in this podcast, and I feel like this game does not supply them the choices.
+1:13:05
+Are are are.
+Impactful in that the number go up, but they're not meaningful and that they don't change your gameplay that much.
+And like the more I played it and the more that like that was basically just realized that I could just do the same thing over and over again and I just like it.
+1:13:23
+It really soured the game for me and it didn't there wasn't anything else in the game to fall back on.
+It wasn't like, Oh, well, I love the art so much and I love the music and I love the the costumes of the guys like, well, the game really relies on you.
+1:13:39
+You have to really enjoy the core gameplay loop.
+And once that shine is worn off, there wasn't very much there.
+So, you know, if you play a couple hours, just basically do like one run where you do well, great.
+This is kind of where you're like, OK, I don't know if if it if it were $5 and it's a six or 5.9, maybe it's worth it for me.
+1:14:00
+I don't think it was so.
+I'll go next.
+I'm giving it a oddly specific 6.74 because that is the average of all of the all of the average ratings that we've given, 100 games that we've played where yeah, I feel like this game, you know, it, it feels like right, right in the middle somewhere around there.
+1:14:26
+And on my personal rankings, that puts it just behind Lone Star and just ahead of Megabonk, where I feel like I feel like this has a good game, bad roguelike syndrome, where like the ideas behind this are like fun.
+1:14:42
+Like it's a fun experience.
+It's fun to play.
+The rogue elements I think could be tweaked quite a bit to make them, like Colin was saying, have more meaningful decision making.
+And I think for me it it feels like it's a fun game.
+1:14:59
+I don't know if it's $15 fun from like a rogue perspective, but that's kind of, I don't know.
+We talked a lot about that being tilted.
+I think yeah, the biggest actual criticism for it is maybe just the lack of like forced build variety of like, oh, like I can't do the same thing every time, so now I need to do something different.
+1:15:18
+But the things that I like about this game, I do like the fun goofy art style.
+It feels very charming.
+The Ms. paint style quirkiness to it.
+I I feel like is is very cute and welcome in a world of where very high quality art is easily accessible and easy to generate.
+1:15:40
+Walking a.
+Little funny way of putting it, Scott, I, I, I, I hear what you're saying.
+I hear what you're saying.
+I think that the the time limit clock for this game works very well as a as a pressure to kind of like keep you moving.
+It feels very zany at at for the first few runs, but it it's it keeps you on your toes throughout a run.
+1:16:02
+It just feels like a good dumb, zany fun game in a good way.
+It feels very, very low stakes and it doesn't take a million hours to beat and beat and, you know, take mastery of and I feel like, yeah, it's it's good to have short games that you can kind of see everything there is to them.
+1:16:21
+But it still has that kind of long tail to it where, yeah, you can get sucked into for for hundreds and hundreds of hours.
+So 6.74 for me will.
+All right, we'll as we work up the way of the ladder of ratings here 7.5 is a.
+Platform.
+1:16:38
+I had fun.
+I, I, I, I sort of, I watched this game from a YouTube video to start with and it was just like a, hey, let's try the hard thing of, you know, employees only.
+And it was like you can't do any like pick pickaxe upgrades or anything like that.
+1:16:54
+And that's where I was just introduced to the mechanics of the game and how everything works.
+And so I was sold at that point.
+That's when we, when I introduced it to the, the queue here.
+And in playing it, it lived up to expectations.
+Unfortunately, where it kind of fell short was what we've been talking about all along here.
+1:17:14
+Like I, I need to have more meaningful choices as we go through because once you understand the meta of the game, which you understand in the first two hours, maybe it just becomes repetitive.
+And was there anything more to say here?
+1:17:30
+I don't know.
+It's 7.5.
+It's it's a fun game for a little while.
+It's is it worth $15.00?
+That's a different question, but I'll say probably not, to be honest, for the out, like you'll have fun for five to 10 hours.
+And if you, it depends on how you rate your the, the the quality, your hour, but probably not still fun.
+1:17:50
+All right, Andrew, bring us home.
+All right, well, I want to I want to start my my rating section by thanking my Co host for covering Nordhold again.
+I was held up hold up playing Alan Wake 2 and lots of other things.
+1:18:06
+I've just been busy in general.
+So thanks for covering that.
+Thanks for sparing me from having to play a game that I think I would have really not enjoyed it at all.
+So thank you much and also thank you for putting together a fun to listen to episode.
+I really enjoyed it so let's see here ranking this game similar to how like a union might go on strike against the the big bad evil mining corporation and then like some scabs might show up and negotiate different numbers for their contract.
+1:18:36
+My Co host used 1 rating system one day and then overnight changed it on me and so my ranking system is totally borked and I'm down in the ranking minds with a Lantern that is barely on.
+The light is flickering, I'm surrounded by dead Canaries.
+1:18:55
+And the point is my ratings are not to be trusted and don't take them seriously.
+So here's the deal I'm doing like a stat ranking situation and I was gearing up to give this like the same score as like vampire survivors almost.
+And thank goodness I, I stayed my hand because that would have been absurd because I think I have like Vampire Survivors is like my number 5 or something.
+1:19:17
+That being said, I do feel like this game deserves to be maybe like it's own.
+This should be a whole sub genre which we're going to hear about similar games.
+So maybe it's already a sub genre.
+I think it's really fun.
+I think the dopamine was, was flowing in my brain.
+I know that for sure.
+Great shooting experience, etcetera, etcetera.
+1:19:34
+I have a actually a Vampire Survivors update coming over the wire here.
+It launched early access on Steam for $2.99 before the price was increased at launch to $4.99.
+Wild, wild stuff, folks.
+Literally doubling the price in this economy.
+1:19:50
+In this economy, in this economy.
+Now I've got some beef with this game again.
+I was going to rank it higher, but over the course of our conversation, I've realized, oh, thank goodness I didn't rank it higher because like, you know, the difficulty progression is a big problem.
+And I complained about it with three-dimensional.
+1:20:07
+A skateboarding skeleton game that I forget mega bonk where it's like I was unclear on where to go next and that is not a good feeling.
+Now fortunately I was having enough fun with the core gameplay that it's like well, where I'm going to go next it's just trying a different class.
+Now the game doesn't tell you this, but listeners, after you complete the game, you go you complete the core run of 15 days.
+1:20:28
+You should continue on and try to get further because there is a quote true ending and I'm not going to spoil it here because low key, I think it's a pretty fun ending.
+It's very simple, but I think it's very fun and I'm low key mad that it was spoiled for me.
+Colin, I think I would have enjoyed it exponentially more if it had been a surprise.
+1:20:47
+And for that reason, I'm going to put you on the spot.
+I'm going to be a little bit of a of a stinker to you.
+Hey, we're playing a game where vacuums are very important.
+Hey, you haven't gotten back to me about that Dyson vacuum.
+Supposedly you have an extra 1.
+I'm hurting over here.
+My vacuum's busted.
+I got lint everywhere.
+1:21:03
+I got cat hair everywhere.
+What's the word on this?
+Dyson, my man, How many?
+How many sapphires do you need?
+I'm happy to bring you some, you know.
+Oh.
+It's it's still at the condo until we figure out what we're doing with that, but that's unrelated to podcast.
+OK.
+All right.
+Very good.
+I'll, I'll, I'll.
+Have to and also I feel no guilt about spoiling the the splash screen spoilers spoilers it's.
+1:21:24
+Indeed, it's it's it's worth playing to pass the the.
+Standard I guess is the point.
+Andrew's completely wrong here ever and just just disagree.
+Hard disagree.
+OK well anyway at the end of the day this is coming in at 8.01 Andrew points right ahead of Halls of Torments and right behind M Eugenics and I think it is AB tier game B for.
+1:21:50
+Boy, I wish my family had not been in the asbestos mining business.
+Well, that is going to layer shift Cole LLC all the way up to our number 48 out of 100 games that we have played for this podcast.
+1:22:06
+So it's in the upper half.
+Hey, you know, it's in the upper half of the strata there.
+That's not too bad.
+And and yeah, so I think that's a that's an OK place to be some similar games to Cole LLC.
+This was again, a very kind of hard thing to to parse out because what what even is this game to begin with?
+1:22:22
+But our previous episode of Luck Be a Landlord gets compared to this game a lot just in terms of beating beating the quota.
+Our previous episode of Noida, I think is is kind of like what if Cole LLC was like maybe too much game on the complete other end of the spectrum of rogue them.
+1:22:43
+But there's a lot of games that that are in the to do pile here that I think are are also worth mentioning.
+So we got Dome Keeper, which is kind of like a auto battler sort of, you know, you're going down mining stuff, but it has maybe more involved, not quite town building.
+1:23:00
+Or you're going down all right.
+Yeah.
+And then they're.
+Not quite town building, sorry.
+Not quite.
+I mean there's more than this game but but wall world is like what if domekeeper but rotated 90°?
+Oh yes, there's one game that I I love the the wacky art style and number go upness of this called nubbies number factory, which is about as as wild as the name implies.
+1:23:28
+There's I guess technically Terraria hardcore mode could maybe fit into this Co LLC extended cinematic universe, but also dabbled a little bit with deep rock galactic survivors, which hey, it's got mining, it's got it's got, you know, pick one from three.
+1:23:46
+What else do you need?
+Recently released a couple days ago, I think maybe today was we were talking a little bit of some of the worst games we've ever covered down there on the list is is Din's curse recently released?
+Din's Champion is kind of a 2D side scrolling mining rogue light in a way that has all of the goofy charm.
+1:24:06
+And then I saw that Colin and Will were playing this game called Sandestry.
+That's right.
+That that I don't know.
+I'll have to rely on my expert panel here to determine if that's even remotely similar here, but I will name drop it at the very least.
+It's not roguelike.
+OK, I'm taking that off the list out of spite there then, because as we all know, Terraria Hardcore definitely is.
+1:24:25
+But yeah, it's.
+A fixed.
+It's a fixed map, fixed progression, so.
+Scott, which of these games did you find yourself playing more of because you said you kind of got distracted?
+Honestly, Noita, because I booted up and I was just like, you know, I remember well, like how similar is it?
+1:24:42
+And then I would just like blink.
+And then it was just it was all over at that point.
+But actually Wall World kind of sucked me in a little bit because I hadn't played that one.
+But it is extremely similar to Domekeeper.
+But yeah.
+I'm surprised you enjoyed that one so much because yeah, that was, that's when I played as well.
+1:25:00
+And that was I don't know.
+Stay tuned.
+I mean, you know, these are all, these are all games that we easily could cover in the future.
+Easily.
+Just watch us.
+Watch us do it.
+It's easy.
+You have this podcast was hard for us to record listeners.
+We can do with our eyes closed.
+Interesting.
+1:25:15
+Well, I yeah, Noida is one of those games that I will be making a big deal of reranking soon because I'm looking at my list and it's a way too low.
+Way too low.
+Speaking of which, what else we got, Scott?
+Can I?
+Well.
+Yeah, as we wind down here Grog Pod zone at Gmail to come as the e-mail to send all of your asbestos related family mining history stories to our Mastodon, the Grogpod, a game dev dot place which I actually like.
+1:25:44
+I was accidentally trending on Mastodon earlier today because I made a post about this old 1995 IBM PC that I found in the back of an aircraft hangar and I was thinking to myself, this thing could run net hack, right?
+That's.
+The way you share with us.
+1:25:59
+Yeah, yeah, yeah.
+And Grogpod dot Zone is the website that has all the stuff in it.
+Just go there for all the things.
+But Andrew, we've been doing a lot of jumping.
+We've been doing a lot of forward and backward movement, but what's the one movement pattern that we haven't been doing over the past?
+1:26:15
+Two weeks.
+Oh, I think you're talking about a little bit of a, a little bit of D and we're talking strafe folks.
+Strafe the procedurally level designed FPS game and I think it's going to make for a a good episode.
+1:26:34
+Prepare yourselves for some sci-fi FPS, low Poly old school action.
+Exciting.
+This is a game that I feel like I have some weird mandala effect of like this, this game that I don't know if it existed, but I have this distinct memory of playing like a 3D environment shooter, low Poly game, very colorful environment that involved like kicking open doors.
+1:26:58
+And I tried for the longest time to get clawed to figure out what this game was.
+And it's like, I don't know what the hell you're talking about.
+So I'm excited to play this.
+I believe Strafe is another one of our Devolver Digital entries as well.
+So, so so yeah, looking forward-looking forward to that.
+But to play us out from this week from our Cole LLC episode will be the sweet dulcet tones of when your skip level manager asks why that Cole report of yours isn't on their desk yet.
