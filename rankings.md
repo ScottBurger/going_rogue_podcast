@@ -41,7 +41,7 @@ The top 10 "[hidden gems](https://github.com/ScottBurger/going_rogue_podcast/wik
 7. [Slice & Dice](https://grogpod.zone/2024-07-31-slice-and-dice/)  
 8. [Rift Wizard](https://grogpod.zone/2025-01-29-rift-wizard/)  
 9. [Caves of Qud](https://grogpod.zone/2025-11-05-caves-of-qud-gameplay)
-10. [868-HACK](https://grogpod.zone/2026-04-22-868-hack/) 
+10. [Coal LLC](https://grogpod.zone/2026-08-26-coal-llc/) 
 
 
 The full combined ranking data can be found below:
