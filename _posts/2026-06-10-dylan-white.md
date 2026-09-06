@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "Rift Wizard 3: Interview with Developer Dylan White"
-date: 2026-06-10
-file: https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3
+title: "The Void Rains Upon Her Heart: Interview with Developer Angel Polanco"
+date: 2026-09-26
+file: 
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, rift wizard, dylan white, pygame"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, angel polanco, the void rains upon her heart, tvruhh, undertale"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/rw3-hero.jpg
-thumbnail-img: /assets/img/rw3-hero.jpg
-share-img: /assets/img/rw3-hero.jpg
+cover-img: /assets/img/void-rains-hero.png
+thumbnail-img: /assets/img/void-rains-hero.png
+share-img: /assets/img/void-rains-hero.png
 duration: "1:34:37"
 length: 73085860  
-tags: ["2026", interview, grogpod, traditional roguelike]
+tags: ["2026", interview, grogpod, top down action]
 ---
 
-It's a special bonus episode this week! With Rift Wizard 3 launching in June 2026, I sat down with developer Dylan White to talk about the third game's evolution, how its distinguished itself from Rift Wizard 2, and what it takes to make a traditional roguelike game stand out in the ever evolving morass of games being released on Steam these days. Come for the discussion on PyGame, stay for the discussion on metal music band names as monsters!
+At PAX West this year I had a great time interviewing Angel Polanco: the solo dev behind the incredibly well-rated bullet hell roguelite The Void Rains Upon Her Heart! An incredibly interesting game from mechanics, boss designs, art, story, I couldn't wait until our usual end-of-year PAX interview episode to publish. It was a great conversation where we talked in depth about the designs and motivations behind it. Very thankful again to Angel and the support staff handling the booth at PAX for letting me grab some interveiw time at the end of the 2nd of all day showcasing in front of the public!
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="https://grogpod.s3.us-west-2.amazonaws.com/rift-wizard-3-dylan-white.mp3">
+    <source src="">
   </audio>
 </div>
 
@@ -49,11 +49,11 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: Rift Wizard 3 Title Theme
+Intro music: TVRUHH
 
-Outro music: Rift Wizard 3 Boss Theme
+Outro music: TVRUHH
 
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vg2zdlSvR60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xxxxxxxxxxxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
