@@ -18,6 +18,10 @@ tags: ["2026", interview, grogpod, top down action]
 
 At PAX West this year I had a great time interviewing Angel Polanco: the solo dev behind the incredibly well-rated bullet hell roguelite The Void Rains Upon Her Heart! An incredibly interesting game from mechanics, boss designs, art, story, I couldn't wait until our usual end-of-year PAX interview episode to publish. It was a great conversation where we talked in depth about the designs and motivations behind it. Very thankful again to Angel and the support staff handling the booth at PAX for letting me grab some interveiw time at the end of the 2nd of all day showcasing in front of the public!
 
+https://store.steampowered.com/app/790060/The_Void_Rains_Upon_Her_Heart/
+
+https://store.steampowered.com/app/810530/The_Void_Rains_Upon_Her_Heart__Soundtrack/
+
 <div class="container">
   <audio controls style="width: 100%;">
     <source src="">
@@ -35,9 +39,9 @@ Contact us at grogpodzone@gmail.com!
 
 https://grogpod.zone
 
-Intro music: TVRUHH
+Intro music: TVRUHH OST - Blank Melody
 
-Outro music: TVRUHH
+Outro music: TVRUHH OST - Heaven Sends Its Love
 
 
 <div class="embed-responsive embed-responsive-16by9">
