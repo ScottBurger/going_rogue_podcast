@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/qud_ezra.png
 share-img: /assets/img/qud_ezra.png
 duration: "1:28:06"
 length: 74970699   
-tags: ["2010", traditional roguelike, honorary rogue, Guest Episode, interview, music fest]
+tags: ["2010", traditional roguelike, honorary rogue, interview, music fest]
 ---
 
 Moon and Sun! Caves of Qud returns for our summer music episode, as I grabbed some time with the composer Craig Hamilton! Since Qud is a dramaturgical triad, we couldn't NOT do a third episode talking with the creative mind behind the creative sounds of the game. We're talking Digital Audio Workstations, sci-fi literature, flamethrowers, traditional roguelikes, and so much more! The torsion of an external crank drags a rosin-slathered wheel against a metal cable, whose protestations emerge from the wooden case in a low, melodic groan.
