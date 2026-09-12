@@ -1,0 +1,1786 @@
+0:10
+Greetings friends and welcome to the Grog Pod Roguelike Podcast where each episode we crash land onto an alien roguelike game, Pump it full of ratings numbers and if it jibbs hard enough revisit it at the end of season recap tournament.
+I am your head experimental scientist host of the podcast Scott Berger and with me are my extremely low Poly Co hosts.
+0:31
+Oh it's Colin, I'm your puppet faced friendly man that you find in the halls.
+And hello, I am Andrew Harshman.
+I can't claim the title of Doom guy, but maybe I can be the mood guy.
+Hopefully I can bring a a certain mood to this Shooter episode that we have here playing today.
+0:53
+And the game that we are playing today is Strafe Colon gold edition released May 9th 2017 you can find on PC and PlayStation.
+And this was developed by 1 developer who I just had up on the screen and then I accidentally clicked it away and as I vamp pixel Titans, developed by pixel Titans and published by none other than Devolver Digital, who we have done a number of episodes on already.
+1:26
+We've covered so far inscription cult of the lamb, enter the gungen loop hero recently ball X pit.
+But Devolver also that just has like an incredibly growing monster closet of other rogue games, including a stay tuned and a half of downwell, which I guess because we played Velgrass for UFO 50.
+1:47
+We we kind of have a good sense of what that is already.
+But other games like stick it to the stick man very recently released, I think either today or yesterday, shroom and gloom.
+We got four strike micro punk, minos, phantom abyss wizard with a gun break, bleak sword DX.
+2:05
+Oh God, how do I pronounce this?
+10 close colon Omega and serious Sam shatterverse to name a few.
+I think there's like 30 or something Devolver Digital specific rogue style games, so there's there's no shortage of them there.
+But coming back to strafe Colon gold edition, I have I have to do that for the SEO because gotta help you if you're just trying to search strafe on Google.
+2:28
+How long is strafe?
+Your average player of Strafe Gold Edition has about 9 hours of gameplay in it, and it's Bunny hops onto our popularity charts at the number 400 and 90th most popular Rogue style game on Steam with 2454 total reviews.
+2:46
+Andrew, what is your extremely pixelated, low Poly one sentence description of what one does in Strafe Colon Gold Edition?
+Move sideways.
+Oh well of course strafe is a is a is a gore filled retro sci-fi shooter experience where you navigate the corridors of a doomed space colony fighting deeper and deeper into the depths which said depths are of course procedurally configured and assembled out of wonderful little modules.
+3:20
+But you blast, dodge, dip, jump, and of course circle strafe your way to a bullet riddled victory.
+Yeah, retro is right on the nose with this one where it's features did did games.
+3:39
+Did FBS games in the 90s feature unskippable cutscenes or is that a a thing of the modern era 'cause I sort of prep for this.
+I was maybe accidentally playing too much of the Quake Dawn of the Machine free expansion that release in order to get myself in the zone of 90s Bunny hopping highly pixelated combat.
+4:05
+And I remember just being able to like click click click.
+I'm in.
+And I feel like with, with strafe here, booting it up every time I'm like, it's I could see this being hiding some kind of loading screen maybe.
+But I was I was this close and I'm pinching, pinching my fingers here for the audio purposes of of digging into the the game files to find out where those 10 second long cinematic things at the start were to delete those files so I could just jump into the game faster.
+4:35
+I'm starting the game right now.
+I don't remember it taking very long.
+No, To your to your point, it's old school FPS games not known for their unskippable cutscenes.
+It wasn't until half life Half Life invented unskippable cutscenes.
+I'm pretty sure the many things that revolutionized.
+4:51
+I'm kind of joking.
+Yeah, I guess you can't skip the Devolver ad of Splash.
+I mean, I feel like that's that's very, I'm just imagining I'm remembering like the GameCube where it was like like it always had the like every little thing and the like Rare would spin around.
+5:09
+And I mean, I'm assuming that was just all like the Game Cube loading from its tiny stupid discs or before reading its cartridges, which.
+Gentlemen, I'm stuck in the game.
+I I cannot quit strafe, so I'll I'll be there as soon as I can in process.
+5:26
+Thank you.
+So I'll tell you how Retro achieves a few old school retro things, which is that it's it's kind of a glitchy game.
+Oh yeah, I will say my first, my very first experience with it was it not being able to start and I had to look up something and there's like a Steam something about run this code every time it starts and then it'll start for me.
+5:52
+Well, did you blow in the floppy disk before inserting it in and then hitting the turbo button on the front of your PC before starting DOS?
+I forgot that yes, it is.
+It is an old game, so I suppose there's something to be said about that.
+Maybe.
+Scott, I got to tell you, we're off to a terrible start.
+6:09
+I, I come into these FPS episodes wanting to have a interesting, dare I say, deep discussion about FPS design.
+And the first question is, hey, these cutscenes take too long.
+Excuse me?
+Yeah, yeah, it's a very.
+Surface level baloney.
+6:25
+However, you're lucky.
+You're lucky Omega host.
+Lucky because of course you're the old Omega host, but also because this gives me an opportunity to talk about retro, retro ISM and retro FPS game.
+So we're in the middle of like a boomer shooter boom like has been going on for the last like 4 to five years.
+6:40
+This came before the retro shooter boom came out in 2017.
+And so it's it's sort of a forerunner to that whole event.
+Maybe it was too early.
+I'm not totally sure.
+I think you can definitely tell it's too early in certain design choices.
+But one thing I want I did want to point out that is present in this game and present in almost all retro shooters and maybe Strafe should get the credit for this is that we've all kind of memory hold the idea of and we've all like collectively agreed without discussing it.
+7:12
+The shooter community.
+I mean, we've all agreed that oh, retro games, yeah, they had ragdoll physics.
+They definitely did.
+And every newly released retro shooter has them present, even though they did not come along until I mean, gosh, Half Life 2 was like the the big break for rag dolls.
+7:30
+Obviously it existed before that, but it should have.
+I think the reason for that is probably it's just less work.
+You don't have to like, you know, make bespoke death animation, break back those.
+CPU you can just do the single one single death animation for every type.
+Oh yes.
+7:47
+I mean, that was a unique one, always enjoyable in like Goldeneye or whatever that that like era of game where you had you shoot like 15 guys and they'd all be like doing the same death animation just like Domino's down the line.
+8:04
+Like it.
+Once you got a certain amount of them, it stopped being like stupid and started being like delightful.
+Right.
+The tidal wave of of yeah of guys spinning all to the left and throwing their I I.
+I'm pretty sure it is Goldeneye.
+It's a specific like guy falls to his knee and then flops.
+8:20
+Forward I remember Goldeneye, I think Perfect dark.
+Also they they trigger the enemy death animations in sequences and and so like if you if you kill one enemy guy, he'll like he'll fall to his knees and then slowly tip over.
+They'll do animation one.
+8:35
+Yeah, he'll do animation one, then he kill the next and they'll do animation 2 and they they loop over that cycle.
+So if you know exactly like which one's coming next, you'll shoot the guy and then he'll do like the fake like grabbing of like his neck or something as he falls over.
+And then I think they also, I think they tied the voice lines to those the same way.
+8:55
+But but Andrew, to your point about retro gaming or or or this game in particular being kind of maybe a a standard bearer for the time, either a standard.
+Bearer or a Canary in the coal mine like I I'm not sure if this is a heroic thing that Strafe has done or if it was too early for its own good.
+9:16
+Well, and.
+What?
+What do you think?
+Well, I think that so I was trying to figure out where in like the at least the rogue style game pantheon.
+This this landed because 2017 it I mean 11 years ago from the time of this recording.
+9:34
+I also still get a few more Gray hairs when whenever I come to that realization.
+Like wasn't 2017 like 2 years ago?
+I will correct you that it's nine years ago, about 11 years ago.
+Yeah, Colin is great news.
+It's actually Yeah, less it's So do you feel younger now that it's actually?
+9:50
+Oh my God, the color is coming back to my hair.
+Incredible.
+So.
+We, but it's a long, it's a fairly big chunk of time.
+Sure.
+Yeah, it's a it's a big chunk of time.
+And we have covered I think the first rogue style first person game, which was Eldritch in 2013.
+10:07
+And that one was kind of like the first like big one.
+There have been a number of these games that have come out that are just sort of like they're there and then like just kind of ZAP in the ether.
+But, and I'm kind of jumping my similar game segment here a little bit.
+But 2013 was Eldridge, 2014 was Ziggurat, 1/20/15 was a barony, as we all remember from the from the gnomes.
+10:30
+I also previous episode and then 2017 is when we get Strafe along with Immortal Redneck and Everspace, which is kind of like a a modern, I don't know, elite light sort of game.
+It looks neat, maybe not the greatest implementation.
+10:49
+And so I feel like Strafe at the time didn't really have much to go on in terms of like what was already established.
+Like there were plenty of 2D shooting rogue style games like Binding of Isaac and I think Enter the Gungeon had been out at this point maybe or like Nuclear Throne or something.
+11:09
+But not a whole lot of top tier or popular first person or shooter or like first person shooter specifically rogue style games to draw like the first.
+Like I had thought for sure that prey moon crash, the DL like the rogue light DLC for the for the remastered or gosh, what was it?
+11:32
+Not the original prey, the other Prey.
+Prey, the rebranding relaunch.
+The DLC for that one came out in 2018.
+I for whatever reason, I had this craw like the stick of my crop like that one was the first one, but no, this one predates it by a year, which is crazy to me.
+11:51
+And and even then, like these games are only like getting, I don't know, like a few thousand reviews each on steam until we get to like warhammer Vermontide 2, which itself is not a rogue light game, but it has the chaos waste modes, which we'll we'll round up for discussion here and then risk of rain 2 comes out the next year after that.
+12:11
+So I feel like it it's still early days for how this genre mash up is is trying to figure itself out.
+Maybe even today still, I don't know.
+Nightmare Reaper is like the closest thing to this I I feel like but but even Nightmare Reaper doesn't feel quite like the same type of Quake era retro sci-fi FPS.
+12:40
+Like.
+Even its contemporaries that you were describing with like Ziggurat, Ziggurat and and Barony and everything, like, those are all, you know, fantasy.
+And you could maybe argue that, well, that that's only a difference like genre.
+But I, I think there's a little bit more to it than that.
+12:56
+Yeah.
+This is a game that I picked up, oh I don't know, a few years ago and I I was kind of banging my head up against the the brick strafe wall, or pardon me, the diamond plated wall of the sci-fi setting and could not beat it and was getting annoyed with it and put it aside.
+13:18
+And then I picked this game specifically thinking, well, I'm going to hate this.
+But then I ended up enjoying quite a bit and I told, I told my Co host, you know, hey, you don't have to play this game for especially long.
+But I'm, I'm hoping to come, I'm hoping to have a conversation about the mechanics of shooters because I think that this game is, is, you know, it's, it's decent, but I think it fails not just in its roguiness, but I think it, it fails in more fundamental ways related specifically to shooters.
+13:49
+Well, it's also, it's also interesting it it's, it's interesting also from the aspect of like 3D games are way harder to build.
+Like they require so much more design and I was already interrupted.
+Immediately I'm not even talking about that I'm not talking about the proc Gen.
+14:06
+I'm talking about like what do the guns look like how do they move what are the enemies what like like just kind of like basic stuff.
+I think this is Pixel Titan's only game, so perhaps they can be forgiven for, you know, like, you know, they were new and I think they, you know, achieved more or less what they were set out to do.
+14:29
+But it's it's far from a I'm trying to figure out real nice to say this.
+It it's not, you know, it's not, it's not some kind of FPS classic.
+Let's say that, right?
+Yeah, I mean like you, you think of like Half Life Crowbar, you think of Quake Nail Gun, you think of Doom BFG 9000, you think of Strafe and you think of.
+14:54
+Be pretty bad guns like that can be modified to like modified like they're OK, so so folks, for those of you who haven't played this game, this is the format is familiar to modern rogue light players, which is you know, you're going through a procedurally generated level Along the way, you're collecting some amount of loot, you're collecting power ups.
+15:18
+And in this case, there are like modifiers and perks that exist like they're very few and far between and they really don't impact the game that much.
+And those come in the form of like, there's like, I think 4 biomes in this game and like once per Biome approximately, sometimes RNG is different.
+15:38
+You find a machine that will modify your gun.
+You've picked from three starting guns, which for my money, the SMG is the only good one.
+And you start from three guns and then you go to one of these little stations that you find maybe once per Biome and it will put a modifier on your gun.
+And those modifiers, they can't be mixed and matched.
+15:56
+They're not very interesting.
+And also the just the signage of like what the modifier does because it doesn't tell you it has a little image.
+I think the images are totally misleading.
+Yeah, I I think the the the mechanics for the OR or this game just in general, I feel like has kind of an identity crisis of if this game was just an FPS without any rogue light elements to it, it could be pretty good.
+16:22
+Or if this game was just a like a top down shooter in the style of like Binding of Isaac, maybe that could be easier to develop stuff for.
+Oh, question mark 'cause I think.
+They had less.
+Back to your original point of like 3D games are harder to make.
+16:41
+Back to your yeah, your original topic mentioning that perhaps if this had been a top down shooter, they would have had the opportunity to do more modifiers, right?
+More interesting modifiers, modifiers.
+A mix and match perhaps?
+But what's interesting is that like there's what was that like that Warcraft 3 mod for like Counter strike source or like counter Strike 1.6 where it's like you don't even need that many guns.
+17:00
+You just need like wacky effects for stuff.
+And I feel like that is that is kind of like the the lowest bar that I've it's weird that like I haven't I've kind of seen that implemented elsewhere also, but like being able to kind of stack those just like game engine effects.
+17:19
+I don't know if this I don't think this is a custom engine, but yeah, I think like this game I'm so.
+Interested with it?
+Let me, yeah.
+But so when you when you boot up strafe like this game, like hits you in the face with retro nostalgia of like, hey, by the way, like this is this game is like the hottest action from 1996, wink, wink.
+17:41
+And I will say, yeah, the intro is exquisite.
+Like, it's very good.
+I was.
+That's like my favorite part of the game by a large margin.
+And it, it plumps you down in what you assumed to be some kind of some kind of spaceship.
+17:56
+And it has this this very in universe menu system of like in order to start the game, you go over to the computer console and you click on that or if you wanna start the tutorial which I thought the tutorial.
+I meant tutorial.
+Yeah, yeah.
+But yeah.
+Tutorial is excellent.
+Yeah, the tutorial was very fun.
+18:12
+It's very Devolver of I.
+I almost feel like they filmed it on some kind of 1993 VHS camcorder.
+Yeah, live action in the like command and conquer style, like just very good, very, very thematic.
+18:31
+Yeah, and I thought at the time, the tutorial did a pretty decent job of telling me, like, what the game is, how how you maneuver about.
+Let's press this button to reload go over here to like make the machine give you ammo and stuff.
+I'm like, OK, like all of these all of these components by themselves make sense and tutorial like I came out of the tutorial.
+18:53
+I'm like great.
+This feels like I don't know why this game has such mixed ratings on steam so far.
+This is going awesome.
+And then I started the game and I didn't really understand what was going on at first, but but you are you're in this kind of like space station, like main hub zone and you you can walk around and apply different kind of run modifiers for things like an RPG mode or like big head mode or you know all those classic wacky things from the 90s.
+19:25
+But this is where you you can tell it's a rogue light because here's your pick one from three option.
+You can pick your shotgun, you can pick your automatic rifle, the middle one, or you can pick your rail gun.
+And the first time I'm playing this, I'm like, what is going on here?
+19:42
+Like, I guess I just pick up all these three guns.
+Oh no, I just pick up one.
+OK.
+And I accidentally picked up the rail gun for like three runs in a row somehow because I did.
+Like at the very least for me it wasn't immediately obvious how these things are different in like in Half Life for example.
+19:58
+Oh, it's not immediately obvious.
+The three guns that all kind of look the same.
+They're, they're, they're all white and orange.
+They all have kind of like the same kind of paint scheme to them.
+And like, I think that the art style of this game, like I think the aesthetic is cool.
+20:13
+Yeah, but the weapons, at least the starting ones, they don't look distinct enough in my opinion.
+I mean, I can tell the difference.
+Look, I'm not I'm not a total dope.
+Like I can I can I can tell which one's which, but it's not super clear what is happening.
+20:29
+I could tell which one's which after the fact.
+After the fact, sure.
+But yeah, yeah, so right out of the gate, it's like, oh, there's there's, there's a, there's, there's a bit of an issue here.
+So sorry to interrupt.
+Well, and, and yes, and I, I had thought that like, oh, all these kind of guns will, will set sort of an, an initial play style and that like, oh, maybe it, maybe I want to, cuz like you see this with other, with other like rogue shooter games.
+20:55
+Like you pick a class that's like, oh, this guy starts with like a, a fast firing pistol or this one starts with like the very accurate crossbow or something like that.
+And like that kind of sets your initial play style, but you're not kind of like boxed into that for the whole rest of the run, as it were.
+21:10
+Whereas with this, it's like you are just straight up picking like this is the gun that you were going to be using for the whole run.
+There's.
+There's not really build development as they are as is expected in these.
+Times, but the game doesn't tell you that it's it's just like pick a gun and you're like all right, great and then you're running around and you know you're you're doing the I feel like the the movement and shooting of stuff in this game feels good and satisfying, which you're doing a lot of generally.
+21:38
+Speaking I I tend to agree that the core movement is good.
+I have some issues with the jumping with the Bunny hopping, but we'll we'll get to that later.
+Yeah.
+And so it so you are plopped into the the first Biome each, each of these biomes has three levels.
+21:58
+And so you are in Biome one, which is the Icarus, the case mothership.
+Oh, there we go.
+Mothership.
+Pardon me.
+It's yeah, it's not a space colony, it's a ship.
+And so we love to see it.
+It's you know, these things are classic.
+22:14
+They're iconic for a reason.
+And this is the quintessential FPS, sci-fi FPS overrun colony and or spaceship as we see in Doom, as we see in System Shock, as we see sort of a spin off of in Bioshock, the half life, of course.
+22:33
+So like, hey, great, great location.
+I think in terms of like a theme for the first level.
+Awesome.
+So you've, yeah, you've gone, you've teleported from your ship because you've like, you know, come to investigate what's happened, what's befallen the Icarus.
+22:50
+And you show up and the first thing you see, what is the first thing that you see, gentlemen, as you, as you teleport on to the doomed ship that is the Icarus A.
+Maze of Gray corridors that all look the same.
+The starting room, which is the same every time it's got.
+A sign that's falling down, says Icarus.
+23:06
+Or it says.
+Icarus, you've got a dead.
+You've got a Dead Space guy slumped over, you know, very, very aliens style, who's like, you know, his face is like ripped open, his guts are hanging out and there's bullet holes and everything, you know, and, and it's like, oh, there's been a fight here.
+And like, in terms of like the atmosphere for a game where, you know, there's not a lot of storytelling happening, there's some, there's some environmental storytelling happening.
+23:29
+The environmental storytelling is, is, is, is pretty solid.
+So yeah.
+And then you start going into the procedurally generated part, which is a bunch of different 3D modules kind of stuck together.
+And sorry to cut you off, Scott.
+No, yeah, I mean the, and I feel like I don't know if this was me just being like a gas lit by like playing Quake at the same time and kind of setting unrealistic expectations.
+23:53
+But the idea is that for each one of these stages, your goal is to get from point A to point B and point B being like the end of the stage level where you are given some kind of like, I don't, I don't know if there's any benefit to getting a, a quote par time, but that's like, Oh, this is like the par time for beating the level.
+24:15
+And again, this is this is like a ways out from from dead cells.
+But Dead Cells does this in a very smart fashion of like, Oh, if you like speed run through the level, we'll give you some bonuses for it.
+Or if you want to play very methodical, we'll you'll just accrue bonuses that way.
+24:31
+So it's it kind of like rewards you for doing either play style, whereas with this it's it is kind of unclear to me about like why I would want to speedrun it only maybe just for an achievement hunt.
+But the idea is that you get to the end of the end of the the stage and you have this extremely slow opening door on these biomes that plays some 56 K modem connecting sound.
+24:55
+And then I get another couple Gray hairs, but and then you teleport to the next one.
+But there are there are some things that you might have to do depending on the level in terms of finding key cards, picking up severed heads to use them as key cards, trying to figure out where the hell you're supposed to go, following the path of most resistance generally.
+25:18
+And I think like there, there's there's a mantra I think in games about if you have like you're you, you save like your best level of the game for last and you use your second best level at the start in order to kind of hook everybody and make sure they're like, hey, this is starting off on a good foot.
+25:38
+I think this is the worst Biome in the game like to start with because it just seems like an app.
+It seemed like it just seems so like visually unclear like as to where to go, what to do.
+And God help you if you have to find like a like a tiny blue key card on the floor where there's like all of these monsters flying around.
+25:58
+There's all this like acid blood on the floor.
+There's like corpses everywhere.
+Like there's.
+The IMS that never disappear and yeah, like they're limbs.
+Like one enemy, you're fighting lots of enemies.
+One enemy turns into like at least five physics objects that are like flopping around on the ground.
+And then you got all these decals of blood everywhere.
+26:15
+And yeah, it's, it's it's you're right.
+Pardon me.
+I, I said what I think like thematically, this is where you want to start this kind of game.
+It's perfect.
+But you're right about the like with regards to the navigation.
+This is the worst.
+They give you a like a risk map.
+26:33
+I found it.
+Oh my God.
+Extremely.
+Difficult to use that actually now this.
+Let's, let's, let's, yeah, we need to spend.
+Good thing we're getting to this early.
+We need to spend at least 20-30 minutes talking about this, this map.
+Why did they even bother including it?
+This has to be maybe the worst mini map in a game that I've played in a long time and.
+26:51
+That's where it's like, not even an exaggeration.
+And it's not like, so you're running around and like your, your HUD UI generally is like kind of like pretty good.
+It's pretty clear as to what's happening once you go ahead, once you once you grok it, and.
+27:06
+It's like, and it's like an in universe HUD where it's like, yeah, seeing like you're the edges of your helmet and yeah, oh, the, the, the, the, the displays for your ammo and health and stuff are like.
+It's like if you had the helmet on, like, yeah, if you had that helmet on.
+And then when you access the map like physically your, your vision sort of goes down to like deeper in the helmet I guess, which is.
+27:25
+Where I thought it was like on your.
+Wrist and and Scott, what do you see when you hit the map button?
+So you press tab to like.
+I'm guessing this is like a like a StarCraft marine helmet where it's like and you're looking around the thing and like you look down like over to your shoulder and like it it like it tilts the entire like viewing angle of the game, like like at some weird like up and to the right.
+27:51
+So like you can look down and like you see sort of like this, this like cock eyed, like slanted version of the mini map where like you're you're represented by a little arrow.
+And like the generally like the mini map itself.
+It's like kind of clearer, but you can't zoom it out or like there's no indication is like you need to go here.
+28:07
+It's just this like maze of like blue and purple ramps.
+It's and it's fundamentally 3 dimensional, yes.
+So you're like, I cannot tell if this ramp is above or below this ramp because I can't like rotate it around very well.
+And it's all like the perspective is odd and they don't give you like good edge lines.
+28:27
+As an engineer, it upsets me.
+It is a hidden lines or something.
+And like, forget trying to like navigate while you're in this map because the controls are not mapped to your movement on the map.
+28:43
+Meaning when you play, when you press W, your arrow goes in a different direction.
+Like it's, I'm not describing it very well, but like this map is worthless.
+It there is I think a some kind of a code like a color coding that sort of gives you an idea if there's like a door you haven't been.
+29:02
+Through yeah if there's like a blue key card door, I think it will show up as like a blue line that's like once you understand what you're kind of looking at it's like OK the the blue door they need to get through is there there's some blue key on the floor or somewhere I need to go and pick up in order to get through it but if like I don't remember the tutorial like going through this at all and I remember being very surprised I.
+29:24
+Mentioned the map, they should have just scrapped it honestly.
+Like this is this is worse than having them?
+Or in like in classic Doom fashion, just have like a 2D thing like yeah, overlay just straight up on top of the on top of.
+The Diablo, which is like you have boom, the map is on top, which I mean, hey look in those old school games and and doom and Duke Nukem like those sucked.
+29:47
+Those also sucked, but like at least you could navigate through them while the map was up.
+Like it's, it's wild.
+Like I, I think they probably spent a lot of time on that map because it is 3 dimensional and like it has like cool like little holographic effects and stuff that like at a certain point they were in too deep and it's like, well, we got to leave this.
+30:04
+In Yeah.
+And and I feel like if this is, if this is like some kind of space colony or space station, big missed opportunity to not have like the red, green, blue like tram line things.
+Wow of like, you know, oh, there's there's gonna be like a red key card door here, but like, and it's a big maze, sure.
+30:24
+And like you're exploring around, but like, here's the critical path you need to go.
+Like I, I'm like, on the one hand, I can kind of see like, hey, don't spell it out like quake style and like kind of let the player explore.
+But the game like feel feels like like it's being pulled in two directions where one, it wants you to like run around and like shoot and blast stuff constantly.
+30:46
+And then it also wants you to like play very slow and methodical and like like be be like tactical.
+And it doesn't know which one to do.
+And I'm just like, just pick one.
+Like do you want me to like run, run fast and like speed run it?
+Or do you want me to just kind of like peek around every corner, like tip, tip, tip tap, tap and then.
+31:04
+Constantly look at the ceiling to see if the enemies are going to drop on you.
+Yeah.
+There's there's another puzzling choice.
+I don't know why those guys are in the because they there's, yeah, there's an enemy that starts spawned on the ceiling and it'll jump down and attack you.
+But like, because this is a procedurally generated game, like they will spawn and really like puzzling spots.
+31:24
+They're like really obvious.
+It's like, I see you like, what are you, what are you doing up there?
+And that's maybe a good segue into talking about to talking about the enemies.
+We've already kind of touched on the weapons briefly, which there's more to be said on that, but but our general feelings on the weapons is that like they're not amazing.
+31:45
+And hey, this is a first person shooter, The things that do the shooting extremely important, extremely important.
+And if you mess that up, you're off to a bad start.
+Now, these guns aren't like irredeemable.
+They're pretty good.
+They're fun.
+32:01
+They're fun to shoot the the the assault rifle slash SMG.
+It's got a fun little heads up display that tells you a number of bullets.
+Some of the modifiers you put on it can make it, you know, even more fun to use.
+It has a cool like the, it has a nice, you know, stream of, of ejecting brass coming out of it.
+32:19
+And like the, the shells on the ground are just like tiny little cubes, which I love to get this pile of cubes.
+And there's this the the muzzle like heats up and there's this trail of steam coming off of it.
+And then you go to reload it and there is no reloading.
+To me.
+It's just a like golden eye.
+32:36
+It dips out of the screen, there's a sound effect that comes back and that's that's right.
+Like it's and it.
+Feels being a satisfying gun to use.
+It feels like reloading in this game is like totally worthless.
+And I know that there's like shop upgrades and perks that you can get that revolve that like do stuff to reloading.
+32:53
+But again, I'm probably just so Quake pilled at this moment that like you're running around, you're constantly picking up ammo, you're constantly picking up health, you're constantly like doing stuff and like it, it feels bad when like you run out of ammo and then you have to reload because it feels like like, I get that.
+33:11
+It's like that's a thing that you have to think about and like have to take into account, but it just feels like it slows the game down unnecessarily and.
+There's something about the reload animation too that like it feels like the gun is broken for a second.
+You're like shoot, shoot, shoot, shoot, shoot, and then like it just doesn't shoot and you're like, oh, I guess it's doing the reload animation now.
+33:33
+I guess that's what's happening.
+Yeah, like it, it, it's like kind of slow when it starts.
+And so it it you're not, you're not 100% like if you're not paying attention to how much ammo you got, you're like, oh, it just didn't shoot for a second.
+Oh no, it's reloaded.
+OK.
+There's no very quick visible animation.
+33:51
+That's.
+Happening there is not, and I mean it stinks to have to reload in an inopportune time.
+That's just me being bad.
+But well, no, well, also that's just like, you know, first person shooters in general, but like there's something to be said for a satisfying reload.
+It's like this is sort of the pause in between the death dealing and the violence and and dramatically reloading and then charging into the next room.
+34:13
+Feels good in a retro shooter.
+And and that's that's not present here, but I'm sorry I got so hyper focused on on something that I I waylaid us.
+So we've talked a little bit about the the things that shoot all right in this first person shooter and there's some problems with them and there's a problem with the greater arsenal of guns that exists, which we'll discuss I think, in a bit, right.
+34:34
+The the the enemies.
+What are you shooting at?
+My experience with this game, starting it up for the first time is like you, you do a lot of the things that Scott described and the can get again, environmental storytelling.
+The atmosphere is like pretty good, is like pretty iconic, pretty classic.
+34:51
+And then you come into like your first big arena, your first big room full of enemies, and that's when you see a bunch of different enemies, way too many initially, There's way, way too many classifications of enemy presented in the first few room and it the game looks almost like I'm sorry, this is gonna this is gonna come off arch.
+35:10
+I'm not gonna say that it exactly looks like this, but it's adjacent to it.
+It looks like a cheapo steam money grab shooter game that's just made of a bunch of a bunch of.
+Generic.
+Created generic assets because there's not a lot of congruency between all of the all of the different enemies.
+35:32
+And that is bothersome to me.
+Just like I feel like aesthetically they don't really like go together.
+Like within the first room you're fighting the basic bizarro mole man guy.
+That's kind of like your core.
+I think there's.
+35:48
+Like a weird mutated shotgun man who's like a part Barnacle, like his face is like absorbed with barnacles or something.
+And then there's like some fast little like ninja people with like pistols and, and they kind of are a little bit quicker.
+There's the guy that drops from the ceiling who doesn't look like any of these things.
+36:05
+And there's also jellyfish.
+And it's just like I I'm not sure what's happening here.
+It's it's like if you're playing Half Life 1 but like all of the enemies from the late game are just like running around in like the first 5 minutes of the game.
+It's.
+Like it's like you're playing a half life randomizer, Yes.
+36:22
+Yeah, and.
+They're not necessarily.
+They're not necessarily harder.
+They're just.
+All different.
+Yeah, looks wacky to me.
+And then you add that in that also like it's proc Gen. and these things are spawning, you know, somewhat randomly that like I get that there's going to be a certain level of chaos with procedurally generated games and procedurally spawned enemies, but it really like kind of bothers me right out the gate.
+36:46
+And then and then just one other point I want to make on this on this topic is that the the core default, the default enemy that you're you're battling.
+What's the there's a there's a term for this, the the cannon fodder that you're chopping through that you're.
+Shooting.
+37:01
+Through.
+In this game, that is another thing that I think is really fundamental, really important, and the core default enemy needs to be a good enemy.
+Someone, something that is fun to shoot at.
+And these guys are reasonably fun to shoot at, but I think aesthetically they're a total miss.
+37:19
+I don't understand what they are.
+And I think that like having them be the face of the enemy force was a bad call.
+And these again, I don't even I'm not even sure how to describe them.
+They're like little like they're little mole guys.
+They're like janitors.
+37:35
+Janitors.
+Now they might be mutated colonists, but you end up fighting mutated colonists later in the game in a different Biome.
+So I'm very confused by this.
+Maybe there's somebody probably knows the answer to this and it's fun to like jib them apart.
+But I think in general I'm giving them like AC minus or like this core enemy.
+37:53
+The gold standard, of course, is I'm talking about I'm talking about Imps and I'm talking about I'm talking about, shoot, now I'm now I'm really showing my ass the default like mutated possessed space marines that you fight in Doom.
+I'm also thinking my personal.
+38:10
+Favorite is the Monks in Blood.
+They're perfect, they're fun to blow up, and they're also a reasonably decent threat.
+They're fun to.
+Fight I'm thinking of like the Halo one, the the grunts and the elites are like both very they're very classic.
+38:28
+Like 1 is just a like cowardly, cowardly goon thing, but he's got like his own thing.
+And then you turn a corner and it's Elite.
+You're like, OK, this is a fundamentally different feeling enemy.
+And I think what you're describing is like personality to the enemy, yeah.
+Where that's really what it is.
+38:44
+So true.
+So true, because like the Halo grunts could just be like giant purple blobs, but like they're running around.
+They're like all panicking.
+Yeah, exactly.
+Just yeah.
+Just the fact that like, you know, people listening are probably knowing exactly what sort of body animation Colin is doing.
+39:02
+But in this it's like the enemy.
+The enemy designs are are and like this.
+This first Biome doesn't really set the game up for success.
+I think in later biomes the the theming becomes maybe more coherent and like more emergent in with like it's, it's kind of like non verbal storytelling in a way.
+39:23
+But yeah, this this first Biome just doesn't do in any favors where like there's too much stuff happening if it was paired down.
+But like, oh, in this run you're only fighting like 3 out of the 8 enemy types of of this first Biome that you could encounter.
+And one might think, oh, but surely it's going to be boring if there's not enough enemy types.
+39:41
+There's so many enemy types in this first Biome, it's way too many and you need to introduce them just slightly gradually and maybe in the first level, and they're not very.
+Different.
+They're not very differentiated too.
+Like for a couple, it took me a while to realize that like some of them are different, you know, like, oh, oh, it's not just that same guy.
+40:00
+It's the same guy, but with a helmet.
+It's like, oh, and he's got a different weapon.
+Is it that different enemy?
+I'm not sure.
+Oh, it is actually.
+Because they all do the same thing.
+Like they all just like, run directly at you.
+Or just engage and shoot.
+You yeah, they don't they don't like try to hide for cover.
+40:17
+They don't like try to like bait they're like hide around a corner and like try to bait you out or anything.
+It's, it's the enemy AI is, is like very simplistic to a fault.
+And I don't know that the enemy AI even really gets that different or, or changes at all throughout the game.
+40:34
+Like the enemy types change throughout the game, but it's not like, you know, in, in again, we're, we're kind of like maybe unfairly comparing this game to half life or Quake, but even Quake, Quake has what, like 4 enemies.
+40:51
+And I feel like every time that was engaging, I'm like, OK, in order to solve the puzzle of this room that has a grunt on this side and it has the big grenade launching like chainsaw man on the other side, I've got to do this and then do that and then do this.
+Whereas in strafe it's just it's very much more straightforward of just enter room, shoot everything back up into hallway, funnel them down, launch grenade, you're done.
+41:15
+Indeed, yeah.
+A good retro FPS or a good actual, you know, old FPS has distinct enemies with distinct behavior.
+So that as you're describing Scott, when you went to a room, it's it's sort of a puzzle, it's a shooting puzzle.
+And you go about, you set about your task of murdering everything in the room in a specific like informed, strategic way, which is not really present here.
+41:42
+It's.
+Another good.
+Are worse examples.
+It's not.
+It's not that bad.
+I mean, I would argue that the enemies are.
+They have unique behavior, unique enough for this not to be a completeness.
+But it's it's far from a slam dunk.
+Yeah, and another egregious unfair comparison is that one of my favorite FPS, like modern F modern classic FPS games, the 2016 Doom came out just a year before this.
+42:09
+And like obviously you know the developers of Stray for. 10 years.
+Ago.
+Oh my God, I was like that.
+Yeah, but like a more recent game is the Doom game.
+But like, no, no, it's not more recent.
+Yeah, actually I, I really just thought every, the whole time I was playing this game, I was like, I should probably go back and play Doom.
+42:28
+It's so good, it's so good.
+I never, I never got beyond like a couple hours into it and then I got busy and never came back to it.
+I was like, oh, I should play that.
+It it just what game are we covering next week?
+Well, as we all, as we all know, 20. 16 Doom they What's the central rogue like the.
+The yeah traditional rogue like mode where yeah, I'm sure like the developers for this were like they're targeting 2017 release date Doom 2016 comes out like Oh my God, how could we possibly compete?
+42:56
+But I don't think the developers of Immortal Redneck were either were sweating it either.
+But.
+Why isn't there a chainsaw in this game?
+There is one melee weapon that I found accidentally because I thought can I just like start a run without picking one of the three weapons?
+43:12
+What happens for that?
+And I think you can either do fisticuffs to start or when you come into that initial room with the dead other space person, there's a a pipe wrench embedded in them that you pick up.
+I'm like, where like, how come I didn't have a melee option this whole time?
+43:29
+Because this this is maybe like the stingiest game with ammo I've maybe ever come across in a long time, where like and and running out of ammo in this game is a death sentence, as Colin Will knows.
+But having some kind of infinite ammo melee option as like a solid backup, It feels like another kind of missed opportunity of, you know, you got your half life crowbar, you got your your.
+43:57
+Sure, something you could switch to like, oh, you know, if there's a, if there's a really easy enemy or an enemy that's already wounded, like, oh, OK, instead of wasting bullets on them, I'm going to pull out my melee whip and flak them.
+Yeah, totally.
+It's it's unfortunate.
+I'm a little bit torn about the the ammo, the way that the game handles ammo.
+44:15
+I think, I think the RNG is a little bit too wacky, like whether you get ammo pickups and whether you get enough scrap to then spend.
+At these randomly placed in levels.
+You'll find these little crafting stations that are similar to the The Prey reboot where you can spend the scrap that you've been picking up just one of I think 2 currencies.
+44:38
+Also, real quick, the scrap design is also garbage because it just looks like a bundle, like a bundle of like, yeah, like newspaper trash on the ground or like glued together screws and springs.
+And you're just like, what on like I I think the first few runs I was going around I'm like, I don't know what that like, why would I pick this up?
+44:55
+This doesn't look useful.
+Sure.
+Well, yeah, I guess the tutorial does tell you about it, but at the same time.
+It does, yeah.
+It's a teeny tiny and it like blends in.
+I I, I hear you for sure.
+And so here you have like one of those modern rogue like conundrums where like it's not quite a pick three.
+45:13
+It's it's a pick two.
+You can either buy health or ammo or armor.
+Excuse me, the right choice is always ammo.
+And but as you are like learning this game and you're not very good and you're not good at not taking damage, you're of course inclined to purchase more armor.
+45:30
+And it's it's a little bit tricky because I mean, if it's not, it's not a very interesting choice, I guess is my point.
+It's like either you're bad and you pick armor because you've been getting hit too much, or you're good and you're able to buy ammo and that enables you to kill more things.
+45:49
+Yeah.
+And, And sometimes, you know, you'll get unlocked unlucky, and one of these things won't spawn or it'll spawn in a weird spot.
+And because of the level layout, you might not mind it.
+And also, did we mention that everything blends in together?
+There's that, especially on this Biome, but also the the scrap currency is one of two different currencies in this game because you have your your scrap currency, which is indicated by a little recycle icon on your HUD.
+46:14
+And then you have I think it's shop currency or like your meta progression currency throughout throughout the whole game, which yeah, it is coins.
+There's like ways that you can procure them by doing stuff that also was not super clear to me but I somehow.
+46:31
+That dead, that dead body in the first opening level opening screen, you shoot at that thing, it gives a part and spawns a coin, drops a coin.
+Yeah.
+And the coins of course can be spent on.
+What can they could be spent on?
+Are we talking about the shop currency or are we talking about something else?
+46:49
+I think, well, it's shop currency and I believe it is used as currency for unlocking those kind of meta game modes.
+Like I, I, I kind of briefly talked about like, oh, you could do big head mode, RNG RPG mode.
+And I think those, if I remember right, are also unlocked via the same currency.
+47:09
+Big head mode What a what a mode.
+That's how you know it's a nineties 90s hooter game.
+But but the shop I think at the end of every second stage, so you have 3 stages in each Biome and a second stage you get a shop option.
+This is where you can go in and there's a little shopkeep there.
+47:28
+There's a bunch of auto turrets protecting said shopkeep is if you decide to go sicko mode on them.
+But this is a thing where like, yeah, you just you buy stuff and this is where you get perks like jump higher or jetpack or pull scrap from further to you.
+Yeah, used.
+47:44
+The term perk earlier to describe the modifiers that you put on your your gun.
+But there's also like equipment perks maybe or, or maybe they're just items, I don't know.
+But they they, they behave as perks basically, yeah.
+Say double like like passage things.
+There's one that's like a rechargeable shield, one that like when you reload, you shoot up extra bullet, I think.
+48:05
+Yeah.
+And these are Yikes.
+These are just, they're very basic.
+They're as far as I can tell, there's not any synergies to be had between these different pieces of equipment.
+A lot of the time I couldn't even like, afford any of them.
+And so you often times it was just like, well, I can only afford two out of these four options.
+48:23
+I don't know.
+This one sounds like it'll improve my survivability.
+I guess I'll pick this.
+Yeah.
+My most recent run, I got the double jump, which usually is like, oh, such a great thing in these shooting games and these shooters.
+It is.
+And it barely even had an impact on the gameplay really.
+48:42
+It felt like it.
+Well, cuz it doesn't feel like the environments.
+Unnecessary.
+Yeah, it doesn't feel like the environments are designed with that in mind.
+The first Biome is very single floor for the most part.
+A lot of the rooms are just like one, one story tall.
+48:58
+So a double jump doesn't really do much.
+There are some rooms that have interesting verticality to them, but I'm always just like, oh, OK, like this room looks interesting.
+I'm going to back out of this room and shoot them from as far away as possible and not engage with like, like, like again.
+49:13
+Coming back to unfair comparisons, Doom 2016, you are in the level, you're jumping around.
+You're engaged with the enemies at all times because that's part of your reload mechanic is chainsawing open enemies and getting stuff out of them for health.
+Like you get into the flow state, yeah.
+49:30
+Like doing 2016, you got like dead cells, all of those are.
+You're like, you're like, I'm flowing through the level doing stuff at this.
+Yeah.
+It feels like I could see, like six weird guys, just, like, hanging on the ceiling.
+Well, the best strategy here is to stop slowly, pick each of them off, make sure you get a headshot so you're not wasting ammo.
+49:51
+All right, cool.
+Now I can enter the room out.
+Let's check the ceiling again.
+That is, that is a great point.
+This game has a pretty lousy flow state.
+The strafe, the strafe state of this game not so good.
+And and and to build more on that, Colin, a big part of that FPS flow state is the movement.
+50:10
+And I think this games Bunny hopping is kind of lousy in that I was avoiding doing it for a while because I was under the impression that I was taking damage.
+And at first I thought like, yo, the distance to take damn the fall.
+50:26
+The fall damage on this game is way too intense.
+Like you barely fall that that far and you take damage.
+Turns out I was just being fooled by the fact that there's like the sound effect that there should be like a jumping grunt noise.
+But this is a sound effect that when you land from a jump, your character makes a a noise that to me sounded like a pain noise.
+50:46
+And I was like, Oh no, I got moving too fast with my Bunny hopping and I flew too high to the sun and then I fell and I took damage.
+Turns out I wasn't taking damage.
+And then I'm like, and then furthermore, and then I was like, well, why am I so confused about this?
+I've been playing this game for like 10 hours.
+Like how do I not understand this?
+I'll tell you why I was I was further confused like now, hey, look, the sound effect, me being confused by the sound effect, that's kind of on me.
+51:07
+But here's part of the confusion is that some of the time that I was landing during my Bunny hopping, I was legitimately taking damage.
+And that's because there's so much bullshit on the ground in this game.
+Oh yeah, the orange blood.
+The carrot, there's enemies that bleed orange blood and it's acid blood, and then there's also lava and there's also fire.
+51:29
+There's so much shit on the acid healing damage to you and yeah, of course.
+And of course the literal pools of acid.
+It's too much.
+This is supposed to be a high speed run and gun.
+Literally it's in the name of the game.
+Strafe.
+We are circle straight when we are Bunny hopping around with boom boom boom this.
+51:45
+Doesn't feel like there was a lot of strafing in the scene well.
+It's the intention is there right and then but that the.
+Level, but it was too corridory to do strafing.
+Well, I mean.
+I feel like the there's big.
+Enough levels, don't worry, we'll get you there.
+52:01
+Colin in in gold mine.
+And the level.
+Design is not.
+It doesn't.
+It doesn't.
+It could do better.
+For sure the the Goldeneye and perfect dark engine like you move faster when strafing than you do going straightforward, right?
+So you're if you're trying to get a good time in order to unlock the cheat of Big Head mode, you're basically just like strafing through the whole map.
+52:22
+That's right, That's right.
+Is that true in this?
+Game.
+Is that true in this game?
+I don't think so.
+I think you you strafe at the same speed you.
+Move forward.
+That's unforgivable.
+Well all right, look, if that's what your name is, you better be strafed.
+Strafing better be good for you then all.
+Right.
+52:38
+It's like a game called Bunny Hopper.
+You can't.
+Jump conversation I was trying to avoid fellas, obviously you're strafing to avoid the enemy projectiles guys.
+That is the primary thing.
+It's not because it's not some age-old like retro game like, well, when you move diagonally, you're moving faster.
+And the the the devs didn't like edit that out of the code or whatever.
+52:55
+Like there's strafing to be had in this game is just terrible.
+And it slows you down and it and it slows down the flow.
+The flow is no good.
+The flow is no good, Jerry, this strafe state is no good.
+The game's called strafe.
+I know.
+Yeah.
+And and it's just, it's not.
+53:10
+Great, I do like the.
+Fact that you have to shoot open crates to open and that's kind of fun that is there's like there are nice.
+Like little bits and details to it, but like the again, like the identity of it feels like so disjointed that if this was just like an on rails like single linear thing that was like a quake or a half life with this aesthetic, sure yeah, like this would be cool.
+53:33
+And if like the the enemy designs had like maybe a little bit more interesting movement patterns to them or something like I I don't know, like you could even do like a perfect dark game like this and have it be fine.
+But going back to the enemy selection, the first Biome.
+53:48
+I here's here's here's I guess my fate.
+The mole men.
+Sure, keep them, whatever that whatever they are, are the aliens or something, I don't know.
+OK, get rid of the jellyfish, which is an annoying enemy type anyway.
+It's the type of it's like a pain elemental where it just like it locks on to you and it flies towards you and deals damn it.
+54:06
+And it's like it's and it's annoying.
+And then it also has acid blood that's annoying.
+And they spawn from like a thing in the wall.
+Get rid of that crap.
+Save that for the second Biome where you're fighting more.
+You're in like a weird volcanic cavern.
+You're fighting more aliens, more more animal type enemies.
+You get rid of the jellyfish, you get rid of the giant bugs flying around those two enemy types.
+54:27
+Put them in the next Biome.
+We don't need them here.
+Maybe we don't even need them in the game, honestly.
+And then and then you make the enemy behavior a little bit more distinct.
+Now what I will say, let's let's say finally say something nice about this game.
+The gore.
+It says it's the game advertises itself as being like the bloodiest game of 1996 or something to that effect.
+54:46
+The gore, the Gibbs great beautiful love it.
+The blood is is excellent.
+The blood stays on the level, which can be a little as we mentioned, you know when you look at cards and stuff, it kind of muddies up the area.
+But the gore, the impact, the guns themselves might not be that good, but the effect that they are instilling is is excellent.
+55:04
+That feedback is core is the lifeblood.
+I will not let you speak until I finish talking about how in a first person game, your character might as well be the gun and the gun needs to be have an impact.
+And in this game it does have a great impact.
+So we love that.
+It scores a lot of points for me from that and and what do you have to say to that?
+55:24
+It was actually a question, not.
+A comment what is Gib please come again Gib the word Yahoo yeah yeah, I'm so sorry I.
+Need to address this FPS meatheads.
+I apologize.
+I come from the Pacific Northwest where we don't have a super strong accent, but there's a few words that we say in a strange way.
+55:42
+One of them is gib.
+For whatever reason, gib.
+I grew up saying gib that you would gib an enemy or an enemy would be exploded into Gibbs when you hit them with a, with the, the flak cannon or what have you.
+And then when I was an adult, someone started, I started someone saying jib.
+55:59
+And I, I got into a big heated argument with that person, the person who was a college professor actually.
+And but they explained to me that, well, the, the, the core of the word, the word is derived from that term.
+I should say gib jib is derived from the word giblet.
+56:16
+See you were answering.
+A question that I also didn't have, which was which way to pronounce it.
+I didn't know what the term was at all.
+Oh, fascinating.
+Yeah, it's the gore.
+Particles, the bits of of blood like the the arms blowing off.
+Yeah, specifically.
+56:32
+Sorry, I would, yeah.
+No, I was not.
+I was not, not.
+Correcting your pronunciation.
+GIF versus GIF style.
+I was just genuinely unsure what it was.
+Andrew wants to talk about shooter games in a in a certain way, but the podcast is discussing in a different way, which is I do under now that now that you're going to.
+56:50
+Explain the term though.
+I absolutely understand what you're talking about.
+It's got good arm blah physics.
+The the the you are shredding these enemies.
+Apart and it's it's beautiful, it's lovely, it's wonderful.
+But just to clarify for your for your reference, Colin, and I'm glad you asked the question made to get to the end of the episode and not have everyone on the same page with regards to gore and Gibbs and blood.
+57:10
+It is the three-dimensional pieces that are emitted by an enemy.
+I suppose you could argue that in some games they're, they're two-dimensional, but generally speaking, that's, that's a word.
+So yeah, it's and it's, I think it's important.
+Gibbs or Gibbs, the correct one.
+So I believe jib.
+57:26
+Is perhaps the correct one, but people say it different ways different.
+But if you're in the if you're in the soda part of.
+The US it's pronounced Gibbs if you're in the pop part.
+It's the other one that I already just forgot what I just said.
+So true.
+And with that.
+57:44
+What are we?
+Well, we we've ragged.
+We've ragged.
+A lot about the first the first Biome, I think the the second Biome like you go from like spaceship down to like half life like like a low rent half life Zen world and then the brickman beats you.
+58:04
+Oh.
+My God, yeah.
+And then and you're being.
+Chased by the There's a lot of new enemies that are introduced here and it's kind of like oh this this is where the like the things screaming at you out of the vents like oh this is like the the the home world where they where they live and this is like the actual organic creature that they come out of which I I can appreciate like that's like it's like a cool thing and you start off this this Biome by picking up like this unstable reactor core, which I had no idea what I was doing with them like oh I I put this over back in the teleporter and it blew me up instantly I'm like maybe that's not what I use it for but you start this Biome by picking it up and blowing open it was about to compliment the game on like how.
+58:46
+It very organically and intuitively teaches the player what to do with the power core.
+But I guess not.
+And so, yeah, you.
+Grab it and then there's a little.
+Glowing spot to place it which is just beyond and you blow up in a hole in a wall and that is something that you are doing in this Biome periodic yeah you're you're running around kind of like.
+59:08
+A a really deep Turoks Canyon where there's other like grounded spaceships around that have more.
+There's a game with a great jumping sound.
+That's yeah, yeah, yeah.
+He's like yelling.
+His name every time he.
+Jumps.
+Turok Quake.
+59:24
+Also great jumping sound.
+Yeah, Quake icon of.
+Course so but yeah, and this area is I'm I'm reading right now it's called the Badlands.
+According to Reddit, it's.
+Called no black.
+Canyon.
+That's it.
+Yeah.
+All right.
+That's a good name.
+I'm not sure if this is.
+Like a planet that you've gone down to, or if it's like an asteroid perhaps.
+59:42
+But yeah, the wiki, the wiki says it's the planet.
+Oh, OK, that.
+It's this is where those orange aliens are from.
+So that's kind of neat.
+And it's like kind of cool that it's like, oh, now I understand like what kind of is happening a little bit that like they're sort of invading.
+59:57
+But, you know, maybe put one or two of the orange blood enemies in the first Biome, not a bajillion of them.
+And what else?
+Yeah, you've got a big, a big golem man, a big rock man, the big rock man running around chasing you.
+You a Tyranid type Xenomorph.
+1:00:13
+Zerg Enemy yeah, yeah, yeah.
+Which I enjoy fighting.
+They don't really do anything unique, but they're fun to fight.
+They're scary looking.
+Starship.
+Troopers, of course.
+Or what's the?
+It's the.
+Enemy from X.
+Comp to the chrysalids the same vibe like spiky feat man monster but unfortunately this is another.
+1:00:35
+Example of like it looks cool, it looks unique, but like I don't think behaviorally it does anything interesting like this guy needs to be oh, I don't know it needs to be like jumping on the ceiling.
+Oh, you know what they are.
+I just.
+Realized what they skittering.
+1:00:51
+Yeah, Skittering.
+They are almost.
+An exact Polly for Polly Down or a knock off of the Half Life 2 Antlions that just walk directly at you instead of like instead of murrowing, instead of like shooting stuff at you from afar, they just kind of like walk directly at you and go pokey.
+1:01:08
+Poke poke, poke.
+Very Ant lion, yes, sure, for sure or just like.
+Anything I don't know, like a little it'd be annoying, but like a little stunt ability or or maybe they, you know, kind of fight you from a distance Ant line style until you get until you get to a certain range and that's when they charge at you.
+1:01:25
+Like we they look cool and I like them, but they don't offer much in the way of different game mechanics.
+Now, the giant rock guy, as simple as it is, he offers some difference in game play.
+It's like the enemy with the most health that you've encountered throughout the game and he's charging right for you.
+1:01:44
+He's pretty slow though.
+So that I mean, it's simple, but it does change the way that you have to play the game and you end up having to kind of kite him around.
+And if you're smart, if you're lucky, you get a bunch of cannon fodder enemies sort of grouped up with him and then you can pow hit him with an alt fire grenade launcher.
+1:02:01
+I think you can also pick up one of those unstable.
+Reactor cords from one of the down spaceships and like eat them at them to like also do mega damage.
+Indeed.
+It's risky but it can be done.
+It can be done.
+It's also risky, not just because you're going to hurt yourself, but because you need to take one of those batteries to the next spot, but it needs to be placed on a, on a broken, collapsed tunnel to blow open the area to the next place.
+1:02:25
+And, and you know, these sorts of differences in like the door mechanics.
+I, I do honestly appreciate, you know, the, the classic retro FBS thing is that you're looking for and that is present in the first Biome and, and oh gosh, and then, and then in Biome 2, they instead have this collapsed tunnel that you have to blow open.
+1:02:44
+Third Biome has something about collecting power cores so that you can like power up an airlock and so like that.
+That's neat.
+Like I appreciate that they're they're trying like different spins on like classic key card gate gate gated content, gated parts of the levels, but we got to go real.
+1:03:02
+I'm sorry, you're trying to push a sports to the next Biome.
+I got to go back to Biome one.
+Look, the key card, it's being grasped in like the hand, like the rigor mortis hand, a space colonist or whatever.
+Looks cool if you can decipher it from the rest from its surroundings.
+1:03:18
+I think the presentation is cool.
+I think the key card looks good.
+It's like classic.
+The red key card, the blue key card.
+Colin, earlier you said something about something being unforgivable.
+This to me is unforgivable.
+You collect the key card and then you backtrack to the door.
+The blue key card door, the blue door and the game doesn't even give you the satisfaction of using that card on the door to open it as soon as you pick.
+1:03:44
+Up the key card.
+The door opens, which does that makes sense?
+It's pretty, it's got it doesn't even open when you get near it, which is pretty rough, right?
+It's just.
+It's just.
+Open and like the first time I didn't even realize that.
+Like there was a door that had opened.
+1:04:02
+Yeah.
+Yeah, right.
+Yeah.
+You just pick them like I.
+Just I was like, I got a key card.
+And then I finished the level.
+I was like, I guess I didn't use the key.
+Unforgivable.
+Outrageous.
+Outrageous There was the secret hunting in this game stinks, but this is like it must have been.
+This must have been some kind of hacky work around like someone implemented this because they couldn't figure out how to get the doors to work, get the keys to work.
+1:04:21
+I'm not sure.
+I mean it's a lot easier to to program, I suppose, like if the player steps onto the blue key card, all blue doors, you know, unlock equals one or something, you know.
+And then, but then to add insult to injury, when you get to the end of the level, there is a physical door that you do have to press a button to open and then it's the slowest door in the world.
+1:04:42
+You have to wait.
+Like in this fast-paced.
+Game there are such there are a bunch of boneheaded decision in this that are baffling and I I think I don't think it's necessarily the the fault of the devs.
+I think it is perhaps just the era when it was made and we didn't know we didn't know I got it.
+1:05:00
+There was one.
+There was one like they.
+Knew how to do it for like.
+The original Doom.
+Apologies, there are other.
+Baffling.
+Boneheaded decisions.
+The key card?
+Unforgivable.
+There was one one key.
+Card thing that I thought was kind of clever at first that like, oh, oh, I'm stuck at this one obvious key card section.
+1:05:19
+It's like a, it's like a Iris, an eyeball reader thing.
+And I'm like scouring the level.
+I'm like, OK, I've got to find something with like an eyeball in it, I guess.
+And again, this is a kind of like the the action has ground to a halt.
+I'm now in search mode instead of shooting mode.
+Eventually, Oh great.
+1:05:35
+I pick up a head like, oh, cool.
+Like it's, it's like me picking up and holding like a physical like low polygonal head in my hand like that.
+This is kind of cool.
+Oh, I know exactly what I need to use this on.
+Run over to the eyeball scanner thing like you would expect.
+1:05:52
+Put it up to eyeball scanner.
+Wrong eyeball detected.
+Like wait what?
+What are you talking about?
+Wrong eyeball?
+How many other eyeballs are there on this stupid spaceship?
+I think I had to go through two other severed heads to find the correct one for for that eyeball scanner.
+1:06:09
+And I'm just thinking like, was this entirely necessary?
+Like did we need like, and this sounds like really nitpicky where we're just like, actually this game stinks because there were three severed heads that I had to go through.
+But at the same time, like what?
+What is what am I supposed to be doing here?
+1:06:25
+Am I supposed to be like hunting methodically?
+Am I supposed to be running and getting again back to?
+Is this?
+Is this a point and click?
+Magical like spy what do you call it?
+The search one of those one of those games that you'd find like in target for flight bucks like this is a mystery search clue hidden picture game or is this a balls to the.
+1:06:47
+Wall. 90s fast-paced violence fest.
+Like, come on, what's I want a core fest?
+Literally get the lead out of my gun and into the faces of my enemies, which are exploding.
+Yeah, I think in terms of presentation, picking up the severed head for the for the, the ocular, the scan, all, you know, many sci-fi things, of course, but of course, Half life comes to mind.
+1:07:11
+And the retinal scanner.
+But yeah, having to pick up multiple heads.
+Terrible.
+Honestly, I completely forgot about that mechanic.
+I did do that the first time I played it, but I forgot the second time.
+Interesting.
+Interesting.
+Interesting.
+Yeah.
+So I commend them for trying some new things, but get your priorities straight.
+1:07:29
+So what else?
+What else do we have to say about Biome, too?
+It's all volcanic.
+There's more.
+Yeah, Alien.
+Alien world.
+I think like this is where you are going from like alien service world, like you dig, you dig down.
+I think this is where you dig down into this like underground, like a layer level called the burbs.
+1:07:50
+Indeed, Yeah.
+So you're going from the other.
+Right, of course, doesn't make sense.
+You're going from the planet from the planet down to the underground colony, which wonderful level transition.
+You think you're just running into a new part of the caverns and then the floor breaks loose and you are now in a front room, a front room of one of the hab buildings, an apartment block that underground, which is where, you know, space colonists have been living.
+1:08:16
+But of course the colony has descended into chaos and the residents have been mutated into system shock esque mutated individual splicers.
+Splicers.
+And there's one that's a sniper and there's some other ones with guns or something.
+1:08:34
+There's a little frog that you can pick up and and.
+Tickle its belly.
+Yeah, there's some kind of, there's something going on with that.
+Frog that it didn't bother Googling.
+There were so many things in this game where it's like, what does that do?
+I don't care.
+I could Google it.
+I don't care.
+Like I'm not finding enough secrets.
+How do I secret hunt?
+I don't care.
+Yeah, you can pick up the frog now this is where you know, like the sniper, the sniper woman, the sniper lady, sniper colonist.
+1:08:56
+She's pretty good Again, distinct behavior.
+But like everything else in this Biome, kind of this just the same old thing.
+Either an enemy that's a melee anime that's running straight towards you or a or arranged 1 is blasting from afar.
+But at least you know, visually it's kind of interesting.
+1:09:12
+Again, you know, environmental storyteller, etcetera.
+And instead of key cards or blow open, use it.
+Use a power cord to explode your way into the next room.
+You are collecting little batteries to put into this like bank so that you can then activate the airlock to the next area.
+1:09:29
+Did any did either of you discover slash find?
+There's a there's like a soccer field module that's in this Biome.
+I thought that was kind of a fun detail.
+Just like in general, I like, I appreciate the level design and it could have been super boring.
+It could have just been these are sci-fi, like space, space departments or something.
+1:09:48
+But like they put a little extra effort into it.
+So there's things feels more lived in.
+Yeah.
+Yeah, sure.
+And there's.
+Like television sets and gifts, gifts like it like they're sort of a, it seems that the whatever disaster struck was during like the holidays, the Christmas type setup.
+And also like the way that it's like built into the ground of the planet is kind of neat.
+1:10:08
+Like you're seeing these there are like there are like steel and like cement walls into stone rock faces, which is brings to mind what's going to have life.
+And there's also like some some like waterfalls and things of that nature.
+So there's this sort of this cool merger of the artificial habitat that's been built and the actual like natural landscape, which is kind of neat.
+1:10:32
+But now I'm going on way too long and I'm giving this level way too much credit is well, you mentioned you mentioned half Life.
+This, this it feels like this whole game is almost kind of a reverse half life in terms of the biomes that you're progressing through.
+1:10:47
+Because as you as you exit Biome 3 and you go to Biome 4, you arrive at Athena Mega Corp, which for all intents and purposes, I think like you, you also just take like a straight up like Black Mesa transit system to get there from the end of the end of the Biome.
+1:11:08
+But you come to this very clean looking sci-fi laboratory that you could be.
+You could be like, if you're squinting across the room, you're like, was that in half life?
+Do I remember that one with some very like, what was that one Half Life?
+1:11:25
+Was it Half Life 2 or Half Life one that had like the big spider enemy on Zen that had like the big testicle sack hanging under the March?
+Yeah, it appears in Half Life 1.
+I think that enemy is running around this Biome.
+As well and this this one is very much like OK, this is like lock in mode.
+1:11:40
+All of the enemies are are here.
+Now you've got a beefier like big mega super Sentinel guard dudes chasing you around and and these levels are a little bit larger.
+Strafing is a little bit better and like it's, it's a little bit more of an arena design, which I appreciate.
+1:11:58
+Honestly, I barely remember anything about the enemies.
+I I wouldn't know, I didn't get there.
+Well, that's that's a OK, That's a OK and.
+You know, in terms of like a gameplay experience, I only call it.
+I only got there once.
+Fortunately, the one time I got there was the time that I got the run, of course, so I didn't have to, I didn't have to do it again in terms of like the gameplay experience, it was fast and furious and fun and like, you know, I was, it was, I was sweating it.
+1:12:23
+I was sweating it and it felt it felt pretty good.
+But again, the, the level designs were kind of, you know, not super clear to me now in this Biome, the key card mechanic, the the gated area mechanic is that you have to, in order to pass through the force fields.
+1:12:41
+You have to they're a little like count and it like it tells you like there's so many hostiles remaining in this area, you have to kill everything.
+Or do you or or do you?
+I don't know, tell me.
+Because this was something that really.
+Tilted me hard because I was running around this enormous level looking for last remaining enemy.
+1:12:59
+And then I come back up to the computer screen and you have like this laser grid thing that's kind of preventing you from moving.
+And then I saw that like, oh, the screen actually like rotates through a couple different things very slowly.
+So you could be, you could be easily mistaken to think like, oh, I just have to kill this many enemies to pass.
+1:13:15
+You wait like 15 seconds or something.
+It flips to another screen saying override that you can hold down a button.
+It will fill up a meter very slowly.
+Bing.
+And then now the force field has dropped and you can proceed through it 'cause that was unfortunate.
+1:13:30
+Yeah, I was doing that exact thing.
+I'm like, where the hell is this last enemy?
+I'm like taking 10 minutes to scour this enormous level and then like, wait, I could have just skipped this whole thing.
+Are you kidding me?
+Well, I mean it's a decent enough.
+Solution.
+Right.
+It's like either you've killed everything or you've killed so much that, like, you have the time to stand there and hold down the button because you've, you know, cleared all the immediate enemies.
+1:13:51
+But Yikes.
+They shouldn't be hiding that information.
+It needs to be more obvious.
+Good grief.
+Yeah, I was.
+I was a little.
+I was a little, well, number one, I was glad to see that like that was an option, but I was also miffed that like I had spent wasted all that extra time like hunting when I could have just skipped it.
+1:14:09
+So yeah, that's that is that is terrible.
+All right, well, duly noted for next time I play this game, but it but as.
+As we keep talking about half life comparisons the the end of this Biome almost like like almost on the nose puts you in in a boss fight.
+1:14:30
+I think this is the only boss fight in the game as far as I'm aware that the tree guy which not really.
+Yeah, the.
+Alien Mr. Eggs, this is this is tricky, this is tricky.
+Folks, FPS, boss time, it can really make or break an FPS experience.
+1:14:47
+Well, it really makes it, but it could really break an FPS.
+So Colin, you didn't get there.
+So I'll I'll briefly describe what yes, tell me about boss.
+What does boss fight?
+Entails.
+Who is boss?
+You're battling your way through the evil research facility and you one of the scientists or presumably, I don't know, the lead the the the project director, I guess of this evil mutants super soldier making program whatever they're doing.
+1:15:14
+I'm not really he is he is manipulating this control panel and he's like in this column that is is protecting him.
+He's still he's not zombified or.
+Anything.
+He's not, he's not.
+You're you're.
+In this arena, this like semicircle arena below him and he is like controlling this machine to like make these to make enemies spawn critically.
+1:15:37
+But also these 4 turrets come out of the ground and fire at you in like different pattern.
+The patterns are, are kind of unique and interesting and you can dip and dodge and strafe around to avoid them.
+And so I, I, I think it's pretty good.
+And what you're trying to do is that periodically in between these waves of attacks and these turrets popping out, you shoot the turrets to give them the pop back into the ground.
+1:15:58
+The, the column can be attacked and a certain point you breakthrough the shield and then you like different portion.
+And there you go.
+I, I think this is a pretty well FPS there.
+It's, there's like the tiniest bit of like puzzle solving.
+It's like, OK, where's the glowing weak point?
+1:16:13
+Like, what do I have to do here?
+And, and you're trying to, of course, you know, slay the, the Canon fodder enemies and the and the turrets in such a way that you are ready for the next window of dealing damage to the actual boss, a pillar and destroying the structure that he is in.
+1:16:30
+And so you're trying to streamline and, and most efficiently like output damage.
+And hopefully you've saved some, you know, of your ammo for your good weapon, so you can just dump out a bunch of DPS when those opportunities rise.
+Yeah, I thought this was fun.
+I thought it was a good.
+Wink and a nod to the test chamber from Half Life One.
+1:16:51
+Yeah, definitely.
+It evokes the feeling.
+Of that initial chamber half life.
+And as you say, this game is almost doing half life in reverse.
+Very interesting there, Scott.
+But in my experience of this, I've only did this boss fight once.
+It was pretty tense.
+1:17:07
+It was kind of going down to the wire.
+And so it felt really good.
+And yeah, that's that's how mine that.
+Though, well, that that's how mine felt and this felt like the first time that the game was actually like being generous with ammo to some degree where I felt like I was running out of ammo, but like like I would pick up some special gun like, OK, now I can use this.
+1:17:26
+And then like it did feel tense.
+It felt like tense in a good way, but but and like and as you're getting towards the end of the boss fight, like the room is filling up with blood too.
+So I'm like, Oh no, am I going to like, yes, of course, yeah, the race against time there.
+Is a ticking clock of the of the blood.
+1:17:42
+The blood is is very present in the.
+Spinal.
+Biome there's like gore spattered everywhere, Grizzly Laboratory and then the the game has sort of like an interesting epilogue sequence where it's like you think OK, that's the end of the game.
+Not so because a number of the evil scientists leftover doing all of this unethical science, space science, sci-fi science, they have escaped onto your ship, the ship that you begin each run on where you pick your weapon and you have to go through and clear out your own space vessel before you can safely which I I almost.
+1:18:23
+Thought at first that like it was actually you the whole time that was the bad guy because like the people on your ship were the ones doing all the experimentation.
+And then you were going on like in a revenge tour of like I've seen the horrors of what you people have created.
+And then you're like going through your own ship and like massacring all the, the space people on your ship.
+1:18:41
+But I, I like the idea that they have hijacked it better.
+That maybe sits a little bit better with me that I mean, that was my interpretation that like, oh, they're.
+Trying to escape and so they hop on your ship and, and that's where it got surprisingly tense for me, 'cause it's like, you know, I only got like 20 health.
+1:18:58
+I can't, I can't screw this up.
+I I, I honestly don't want to do another hour long run of this, or at least it would, it wouldn't feel that good if I had to at this moment.
+And so it came down.
+Yeah, I was, I was able to do it.
+But like the last couple of encounters is like there's one guy, I see him.
+I really need to be strategic about it, but in a good way.
+1:19:15
+It wasn't like in previous parts of the game where I was felt like I was slowing down unnecessarily.
+And then you sail off and mission successful, I suppose, for for John Straffman.
+Well, that ends regular.
+1:19:30
+Mode and at the end it says Congrats scrapper, you've unlocked new game plus mode.
+When activated, you will have to survive an additional unique level in each zone.
+Do you have what it takes?
+And I saw that and I was like cool, I'm done.
+1:19:46
+Don't need to play any more of this.
+You weren't incentivized.
+I tried out new game.
+Plus, and I feel like the run length of this game is already kind of long and adding an extra level Biome is maybe a little too much.
+If you really love this game, I think this is probably a good mode for for you.
+1:20:01
+I'm sure there's some people this game really clicks with.
+Perhaps the other thing advertised with New Game Plus is that you can put more than one modifier.
+You can put two modifiers on your gun.
+That's kind of intriguing.
+Why?
+Is that not in the base?
+1:20:16
+Game and then I mean I only did one run so maybe they should maybe give the devs the benefit of the doubt that some of these gun modifiers actually interact.
+I but the one combination that I grabbed did not.
+1:20:35
+I picked up the alternate fire railgun modifier and the ricochet mire, both of which are bad in different ways and they don't interact.
+When I did the alt fire railgun it did not ricochet and I was like well that is incredible miss.
+1:20:53
+That is incredibly unfortunate.
+But perhaps some of the other ones do actually synergize.
+I don't know.
+OK look gentlemen, we have made it this far without talking about another pillar of FPS game, just first person shooter.
+1:21:09
+We are shooting.
+The shooting needs to be good.
+The guns that are doing the shooting need to be good.
+The things that are being shot need to have a certain good quality as well.
+They need to be good to kill.
+They need to be good to get shot.
+But of course, there's a greater question of like, we're just talking about the act of shooting and like, there's got to be a nice variety, right?
+1:21:31
+We need an arsenal.
+Oh, FBS games are defined by their arsenal, the variety of weapons and how you strategically pick certain ones for certain occasions to deal with certain types of enemies, certain combinations of enemies, etcetera, etcetera.
+1:21:47
+What do we think of the arsenal and how the arsenal is handled in this game?
+I always wonder how.
+Much the zoom like noise filter thing can pick up certain certain noise elements that I try to do over the microphone.
+1:22:02
+So I'll try to get this one really close to the microphone, make sure the zoom picks it up.
+Didn't quite.
+Didn't quite for for closed captioning.
+It was fart noise.
+Oh, I thought you were doing sort of.
+Like a drowning.
+1:22:18
+Like something circling the drain and like going down into the depths.
+Yeah.
+So here's and I think Will who's who's not present today because he played very little of this.
+Perhaps it perhaps right, Right.
+He was.
+He was being experimented on by.
+1:22:35
+A mad scientist and his arms have been.
+Jimmed off like he didn't.
+Play it in his game, the Bum.
+No, this I would I would have been interested to, you know, pick his brain a little bit about some of the the gun designs.
+But anyway, he posted a screenshot of like someone, I believe someone involved with the development, like describing why they designed the arsenal, the gun system the way and like it kind of makes sense.
+1:23:02
+Like I, I understand, like logically, like I get what they're trying to do.
+I just don't think it works very well.
+And let me let me see if I can explain this.
+I'm like, oh, this will correct me if I get it wrong.
+The way that strafe works is that you pick from one of three the very beginning of the game.
+That's your gun.
+1:23:18
+That is the gun that you are picking up ammo for.
+That's the gun that you're potentially or you're definitely manufacturing ammo, a crafting vending machines things, and that's a gun that you can critically reload.
+Any other gun that you pick up in the game does not reload and you can't make more ammo for it.
+1:23:37
+And.
+You cannot make more ammo for it.
+You use.
+It and then when it's out of ammo, you can throw the gun or you can hit someone with it for a decent amount of that's kind of nice.
+And so like all the other guns are like disposable.
+So they're basically like power ups and they are fairly distinct and some of them feel pretty good to use.
+1:23:54
+There's like a grenade launcher, the truth.
+There's I think a slightly better shotgun.
+There's like a single shot magnum type thing.
+It's like a blade thrower or something.
+Yeah.
+Oh yes, yes, yeah, I did enjoy.
+Shooting that it's sort of a shirking gun, yeah, a Warhammer 40,000, but like, it fires like a spinning disc that is pretty satisfying to use and has great utility, But it's it's it's kind of perplexing.
+1:24:20
+And I on the one hand, I commend them for like trying something unique.
+They tried something unique with the key cards and they but I think this was like just too much of A gamble.
+It's again, it's it's pretty foundational to like have a cool, interesting wide variety of guns and for them to be like so fleeting and experience.
+1:24:41
+You're like, you're barely using these.
+You're barely turning to these other weapons.
+Yeah, it wasn't.
+It wasn't a choice.
+It was just I randomly get to shoot a different gun for a little bit but it's not like and that's even what the dev mentioned in the post that it's.
+Like you're supposed to just kind of like use these, like these are disposable and they're like just like a quick power up and you're done with it.
+1:25:00
+Yeah, I mean.
+Meaningful choice.
+Is something we've said a?
+Lot on this podcast and it's like where are the choices in this game, right?
+Well, your choice is to be good or not good.
+You can either add.
+A.
+A item to your machine gun that that shoots 3 bullets at the same time in a very widespread pattern which is super overpowered.
+1:25:22
+Or you can replace that with a slow charge up, extreme low accuracy, spread everywhere option that burns through all of your ammo in three seconds.
+And you're like, wow, I'm really great that I picked that up from the Macarena dancing robot that mods my gun and now I'm completely out of ammo and all these other guns don't have any other ammo.
+1:25:46
+And I've just kind of like borked my whole run here.
+And it's and it's and it's annoying because like these other guns are like they're cool.
+Like I would love to like use the rocket launcher or like the plasma gun or the air burster or the inflator more.
+1:26:01
+But like, or, or have those as like build archetype things that like, oh, now like I have to use this gun as like the the weakness to this one specific enemy who's chasing me or something like that.
+Yeah.
+Like Colin saying there's no decision making to be made other than, you know, oh, this other guns better.
+1:26:19
+I'll use this as a short time for like, you know, for almost kind of like your stand in for like quake quad damage for 30 seconds.
+But the fact that it sits in your inventory for as long as you want it to gives you this impression that like, oh, I should hang on to this because like I've picked up this thing.
+1:26:35
+It has very limited ammo.
+I don't I don't want to waste it like that's that's like the initial impression that everybody has, but the fact that it's like the exact opposite.
+It's like no use.
+This does not come across at all.
+And like, even from like the gameplay flow state, I mean, sure, like I'll pick it up and I'll like use it a little bit and then I'm back to my main gun.
+1:26:55
+But to what end?
+I I have a couple potential potential.
+Solutions.
+I'll star of Providence.
+Perhaps they should just force you to use it as soon as you pick it up, like it is equipped and you shoot it for as long as you have ammo and that's it.
+1:27:11
+And that you can't switch to any other gun.
+Yeah.
+But you can't switch off of it or.
+Maybe like you pick it up with your free hand and your dual wielding for a short period of time.
+That'd be kind of cool.
+I think that would be kind of neat.
+Too.
+But then maybe you run the risk of like people waiting to pick up a gun until the ideal moment, but in which case, I don't know, make the enemies drop them maybe.
+1:27:32
+And so like you take them up and then you know, it pops up on the screen, you got 2 guns and you have a little extra firepower.
+Or maybe like you swap your main gun for a different gun and like you pair the arsenal down a bit and you make it.
+The guns are distinct, but it's just as it's not, it's not it ain't great.
+1:27:51
+It ain't great, folks.
+Now a game that does it better is Roboquest.
+Roboquest does a much better job.
+Now, one could argue that they're not really comparable because Roboquest is much bigger.
+The the scale of the game is arguably like and like Strafe's not interested in having like specific loot and like weapon stats.
+1:28:09
+And but I don't it's one of those.
+Things where it's like, well, that may be that you need to think bigger if you're going to make the game, Yes, perhaps.
+Perhaps.
+So yeah, it's it is.
+I did have more fun than the first time I played this game, but I keep coming away from Strafe just being disappointed.
+1:28:29
+And part of the reason that I am disappointed is because there's certain elements of this game, of this idea of this aesthetic, of the look, of the graphics that holds promise for me.
+And it's a shame that it's not better.
+Think about your time, boys, for judgement.
+1:28:45
+I think so.
+Yeah, OK, rating number time.
+I think it's time again for me to be bad cop to start us off with here.
+So I'll I'll land us down on the alien planet with with my ranking.
+1:29:01
+I'm going to give this.
+I don't know, I guess I'm going to give this a big fat 5, tying it with Warhammer 40K Dark tide, our previous episode in that I think that I think Warhammer, like Dark Tide is a better overall game.
+1:29:18
+Dark Tide's rogue modes aren't super great, but they're I think they're also maybe more designed for people that have like completed a character and like here's end game content for you to do.
+So it's kind of a different mission objective.
+But for how I was playing it, I feel like Strafe doesn't really know what it wants to do.
+1:29:37
+I'll start off with my bad points first on a high note.
+I think the level design, especially for the first Biome is really bad.
+I think that like it's it's super hard to understand where to go and like what to do.
+I think that like the weapon sandbox like we were just describing is also kind of baffling that like, Oh well, like if I only have the one gun, then I should be able to upgrade that into some like sort of like super BFG 9000 thing like you maybe would following like the doom 2016 design.
+1:30:07
+But no, you can only just like mod it once and that's it.
+And I feel like even like Doom RL, the traditional rogue like maybe did a lot of these kind of RPG mechanics better that like what just like take that and just make it in 3D.
+Is is my, is my suggestion here maybe.
+1:30:26
+And like we just got discussed, no real meaningful decisions of like, oh, I want to spec into this.
+I want to do this instead of that because of this never really popped up.
+But but yeah, I think like I'm conflicted because there is some good stuff in this game.
+I think the, the core FPS fundamentals here are good.
+1:30:44
+Like there are interesting weapons to use.
+The the movement is fluid and responsive.
+It feels good to like move around and shoot stuff.
+So it kind of it ticks those boxes very well.
+I like the art aesthetic.
+The the low Poly, gritty, chunky pixel action feels very good.
+1:31:03
+It feels very on brand for this and we didn't really talk about the music at all.
+I think the music in this game is very fun.
+It adds a lot of good momentum and spice to it.
+And I think the fact that this game is short, like if you pop it onto easy mode like I did and then you can beat it in like two hours.
+1:31:21
+And if you're like, you know what, that was great, I'm done with it.
+That's great.
+Maybe we need more games that are are short that you can just experience in a couple hours and don't have to sync 3000 hours into.
+So I think maybe it's not up sum up my thoughts.
+I think it was like fun to play on ease mode a few times, but once I beat it, I didn't really have any motivation to go back to it because I felt like I'd kind of seen everything it had to offer at that point.
+1:31:46
+And maybe that's OK, but I don't know, it feels like for this sort of genre, the ability to have more interesting stuff to avail itself just wasn't really there for me.
+So for me it comes in at a 5 Andrew.
+1:32:04
+Yes well, so I was expecting I picked this game before I played it again before I picked it back up and my memory was that it was much worse than my my current experience.
+So I was I was going to come in hot with I had already planned I had a zinger planned out weeks and weeks in advance.
+1:32:24
+I want to point out that in enter the Gungen there are a bunch of guns that are specific reference to other Devolver games.
+And so of course in enter the gungen there is a strafe gun.
+It's just called I think the strafe gun.
+And I was going to joke that like that gun in enter the gungen is better than all of strafe, but that is a little bit rude and not totally accurate.
+1:32:49
+It this game.
+I I ended up enjoying more than I expect, as, as I've mentioned times, but it's is it if it fails to be a very good rogue like, there's there's not really there aren't really builds.
+There aren't fun synergies.
+1:33:06
+You can't make like a broken weapon.
+You can't reach like a certain level of power, like in, say gungen or or really any of the games that we've we've covered, which is unfortunate.
+I thought perhaps a new game plus there's some kind of broken synergy.
+I wasn't able to find one in the one run that I did.
+1:33:23
+So hey, in terms of good, I've got just some some basic lists here.
+So imagine like you've reached the end of of level 11 and some you know, retro FPS game, real old school FPS.
+Your stats are coming down the screen.
+So we got in the good category, the gore's good sound effects, good soundtrack done by the same gentleman who did Kingdom 2 crowns.
+1:33:44
+Love that the in world HUD that's fun.
+The smoke trails shells great.
+That's like the end of my my good list, but also that you know the movement is good, so so bad bad things no, no arsenal, the core, the 32 core guns.
+1:34:00
+They look too similar.
+The gun animations are lacking no reloads the bad cannon fodder enemies you don't get to use the key card.
+What else?
+I I guess we kind of covered everything.
+There's so many points in my in my note document that says acid blood sucks and it does suck.
+1:34:16
+Like it was cool and like, you know, the first time you played an alien franchise Xenomorph game.
+But the thing about this game is that the core gunplay is pretty good and it's like close to being it feels very close to being great.
+1:34:34
+And I mentioned earlier that I keep coming away with the feeling of disappointments and it's a shame that we didn't get like a strafe 2.
+I feel like this formula there is, there is the potential for really good retro FBS game with procedurally generated level design, which would enable replayability, which is something that retro shooter games lack.
+1:35:01
+Or they're they're they're short and if you add in gun modifiers, you can expand out the gameplay even more.
+So I wish we had a strafe 2 for now.
+I guess we kind of have to settle for Hell Ripper.
+What's it called?
+I don't remember that other one and Roboquest, which is very good.
+1:35:20
+But the problem with the Roboquest is that it's not strictly speaking, it's not a retro aesthetic.
+So I, I look, I look forward to having people ride in, tell me if maybe there is something in this blocky style that is similar.
+And I also look forward to other developers trying their hand at this again.
+1:35:40
+And I would also settle for like a Roboquest Retro Edition that is just blockier and maybe with a handful of new gameplay features that would be good.
+So all I have to say, everybody knows that my ranking system is totally different because I was bamboozled by my Co host.
+1:35:57
+This gets 5.74 Andrew points.
+This is AD tier game.
+Sorry to do it to you.
+It's AD tier shooter.
+I I apologize.
+It's not without merit.
+It's not it's not a waste of time by any means.
+You should play it.
+It's fun.
+But it is going to be my new number 7676.
+1:36:16
+Excuse me, my new number 46 right behind Barony, right ahead of 868 hack and that does it for me.
+OK.
+Well, coming in with the.
+Highest the smoke off the barrel coming in with the highest.
+Score, which is wow, that's.
+Not what I expected out of this, but you neither.
+1:36:35
+I feel like that is mostly because I don't have a strong feeling about this game one way or the other.
+But yeah, honestly playing this game, the most feeling it is given for me is appreciation for Dead Zone Rogue.
+I feel like that's the game that act Andrew actually wants a low Poly remake of because I feel like I mean.
+1:36:56
+I had some.
+Criticisms of that game, but I did enjoy playing it and I thought it had some good like combination stuff and thematically somewhat similar, you know, spaceship AI corporation something, something, something.
+So I was coming into this episode with a pithy quote like Andrew that I don't know if really applies.
+1:37:18
+I was going to say that this game kind of feels like comfort food but for someone else, like someone else's comfort food.
+But now because I was assuming it was going to be Andrew's comfort food, it does not seem to be that either.
+So but like.
+1:37:34
+It has a lot of things.
+It has a lot of things that I think other people would find fun that I don't care about as much just because I don't care that much about first person shooters.
+I definitely haven't played as many.
+I I didn't I was not as into the 90s first person shooter wave or early 2000s as maybe some of my contemporaries.
+1:37:56
+So I don't have quite the the same level of like nostalgia bomb for it.
+I was disappointed by the lack of choices that you could make in this game.
+But I did like, you know, if you just kind of run around and you don't care about that much if you're going to win, you can't get any kind of like a fun flow state of like shooting stuff.
+1:38:16
+It does not feel like that's how you're supposed to play the game optimally, but it can be fun if you play it like that.
+But yeah, so I'm going to give it a 6.3, which is pretty rough for being the top scorer of the three of us.
+But, you know, it is what it is.
+1:38:35
+I've been looking a lot on the Reddit and stuff, no one has posted anything on their separate in like 6 years.
+So I think that this is the best and optimal state of this game.
+And I think that the company's out of Commission so we're probably not getting a strength to.
+Indeed I was.
+1:38:51
+I was noticing.
+That as well, and it's and it's a shame and I'm sorry to be flacking all over this thing and just being I don't know, I fear, I fear that I may be coming off as as as I want to be clear that my criticisms come from a place of love and extreme passion for for this style of game.
+1:39:13
+And it is, I think again, I think, I think I can think it can be forgiven that this was a early attempt at this style and hopefully someone else can pick up the mantle and and improve upon it.
+And there's again a few a few contemporary games that are are close close, but not quite now I I do I forgot to address something that I was posting a screenshot the starting there's a level at the beginning, I think of the second level of the first Biome.
+1:39:42
+There's a starting room that's the same or more or less the same each time you spun into it kept posting that to our Discord with the the trivia question of what is what is of note about this specific level design and I I was going to out you all as you know not being able to figure it out but.
+1:40:03
+I'm gonna, I'm gonna.
+I'm.
+Gonna wait.
+I'm gonna.
+I'm gonna.
+Leave it open.
+The bounty remains open if if one of my coasts can can tell me what is noteworthy about this this level design so that remains open and listeners who are really interested.
+I again, I think it's not.
+1:40:19
+It's not the.
+Opening room to E1M1 Doom.
+Boom, Ding, Ding, Ding, Ding.
+Ding, there it is.
+There it is.
+I can see it in the pillars.
+Now I was like, why is there like a shattered window there?
+And they're like, I got it now.
+It's not an exact copy.
+1:40:35
+It's forgivable that.
+Maybe you wouldn't recognize it at first, but yes, that is the the starting room is the first thing you see in Doom of course, and I remember why I gave it like.
+Straight up a full extra point added on to this game for the tutorial like I really, really liked the tutorial with the like the tutorial.
+1:40:53
+I didn't replay it so with like the.
+You know, like.
+Army lady video, like live action but like in a 480P pixel quality stuff can be really good.
+They're committed to that bit.
+Like it was, it was.
+Like really I thought it was.
+1:41:09
+An excellent intro to the game, and I wish that I had like the rest of the game as much as the intro.
+Right.
+Yeah, that that aesthetic.
+And that energy is like, yeah, yeah, exactly.
+And then it was part in the excellent vibes if they had.
+Kept it so quite strong, strong start.
+1:41:26
+What is similar we've talked about, we mentioned?
+Robo Quest we mentioned Hell Reaper Death Scyther you you you sound like.
+Some like a like a a boomer grandpa describing all these bone storm 2 idiot.
+No, Yeah.
+1:41:42
+So really cannot remember the name of it.
+I mentioned it.
+Earlier I did say it right the first time.
+And of course, a dead zone rogue.
+Yeah, well.
+Yeah, I guess our final rankings are gonna put Strafe, Cole and Gold Edition at our our new 81 out of 101 games that we have played.
+1:42:00
+But yeah, similar games we have done previous episodes on Nightmare, Reaper, Roboquest, Dead Zone, Rogue.
+I feel like those ones have maybe taken that formula that I mean it kind of feels like someone had to had to do it wrong first for other people to know how to do it right.
+1:42:19
+And maybe that's what the Strafe legacy is, is that like, you know, people are figuring out all these game mechanic mash ups all the time and you know, it didn't work this way, but what if we took what they didn't just tweak it a little bit and then you get some other game.
+So some other ones on here that I think kind of do the formula better that have come later.
+1:42:40
+There's a game called Impaler, which is a very boomer shooter, single room arena style game.
+It has the very like doom, like 2D Sprite.
+Very what is that engine called?
+3DS or the the build engine?
+1:42:58
+Yeah, that's it, Build.
+It's a very build engine looking.
+Game I went through the rigmarole of getting Jeezy doom installed on my steam deck so I can play it in handheld mode to play doom infinite, which is a rogue light Jeezy doom mod of the OG doom.
+1:43:18
+So you have to have doom 2 installed to to play it.
+But it that's it's very interesting.
+It's like it's it's almost the exact answer to this game of like what if it was actually done with like Binding of Isaac style broken, broken build synergies.
+You have a source world, which is like kind of the same idea, but with the the half life 2 source source engine that seems like it might have potential.
+1:43:43
+There's tower of guns, which feels very the name is very on point.
+You got the ziggurat one and two games.
+The first ziggurat game is is a little feels a little dated, but the second one, I think it's as of recording right now.
+1:43:59
+It is on sale for like 4 bucks and it's it plays pretty well.
+I mean it, it has a very fantasy wow looking aesthetic, very orcs must die kind of aesthetic to it, but it is it's very fluid.
+It has like a very good FPS feel to it.
+1:44:17
+Void breaker is a solo, I don't know how a solo dev effort that looks really good.
+There's a demo up on steam for it.
+I think it's also being sold.
+The price point might seem a little high, but from the demo that I played in like definite staying tuned and and and Scott means that.
+1:44:34
+Literally to some extent like the the game seems like it's shaping up nicely.
+It looks good, but also like the graphics are are pretty high fidelity.
+Yeah, this is a good looking game like for sure one that has more of kind of like the.
+Toned down aesthetic that's kind of closer to strafe.
+1:44:51
+It's space beast, terror, fright, which I think is, is, Yeah, is meant to be.
+Yeah, I've got it on our future.
+Games somewhere maybe?
+That one seems like.
+It would be fun to play 4 player Co-op with the with the horror element associated with that.
+1:45:07
+And then finally one that I had to include here because it I think it also ticks the boxes of boomer shooter and rogue light aspect with quote broken build synergies.
+Spare devil is what if FPS but bowling alley themed.
+1:45:24
+That just seems so completely unhinged that I I would be so on board for to to at least tinker around with on my own free time.
+So, yeah, but, and it's like the, the, but you know, there's like the, the, the, the, the cursed bowling alley animations that people make where it's like, oh, you know, the, the, the bowling pins are shooting each other kind of thing.
+1:45:47
+It's like, like, what if that was a whole game?
+So that seems delightfully unhinged, like the the roulette game, the.
+Russian roulette game.
+Yeah, yeah, yeah.
+And that, yeah.
+That's.
+That's wild.
+That's something I can just.
+1:46:04
+See see the Steam trailer playing in everyone's eye reflections here and just being like what?
+What?
+Like the icon on the store.
+Is very funny, but that is going to wind.
+Down our strafe colon Gold edition.
+Scott, I'm sorry, I have a quick teaser for for a similar.
+1:46:20
+Games I think it's going to be the next game that I pick will be another first person game, but with a bit of A twist, a bit of a twisteroo.
+It's it's going to be something unique.
+I'm not going to announce the game just yet, but but there's gonna be less of a focus on shooting, more of a focus on on movement, on on personhood.
+1:46:38
+I think it will even.
+Be appropriate.
+For the forthcoming spooky Halloween season.
+But Scott, yeah, if they, if people want to reach us, where can we be messaged at?
+People want to send in.
+Their own FPS meathead experiences from the 90s.
+1:46:54
+They can send those into the e-mail grogpodzone@gmail.com.
+They can see all of our wacky posts on Mastodon Grogpod at Game Dev dot Place and the website Grogpod dot Zone.
+Just go there that has all the stuff you know.
+You know how websites work, Instagram kids.
+1:47:10
+But as we wind down our episode on Strafe call and Gold Edition, this time we we move four years into the future from from the glory of graphics of 1996 from strafe all the way into the year 2000 with Diablo 2.
+1:47:32
+Now, OK, hang on.
+You're you're you're slamming the brakes on the highway, as most listeners to this podcaster are always doing.
+You're pulling out your half life 2 crowbar.
+You're attacking the other people on the road saying they've done it again, They've picked another not roguelike game.
+1:47:48
+How dare they?
+What are they doing with this podcast, this platform that they've set up?
+I originally wanted to do this one right after our Episode 100 coverage as a bumper as an answer to the the original roguelike games of Moria, Hak LARN and Omega which directly inspired Diablo, which directly.
+1:48:07
+Inspired Diablo.
+And having this be kind of because we did Diablo one last year as well.
+I wanted this one to be a a follow up, not just because we have Diablo 2 Resurrected, which is the actual game that we'll be playing.
+So maybe not exactly your 2000, but if you squint hard enough, but the remaster of it and the idea that like, oh, this is an action RPG with a hardcore permadeath mode, squint, squint, you know, pounding all the definitions into shape until they until they submit.
+1:48:42
+I think it'll make for an interesting discussion.
+I think we'll have some interesting guests line up as well.
+And yeah, it'll be interesting to see just how busted this warlock run that we're doing will be before we actually get to the recording time.
+Yes, yes, yes, and and and one last.
+1:48:59
+Thing very important, very important for us to mention, you know, if for the naysayers out there say, you know, hey, this isn't a rogue light.
+I mean, we did Diablo 1.
+If we didn't do Diablo 2, that would be like covering Slay the Spire 1 and not covering Slay the Spire 2.
+1:49:18
+So exactly, thank you.
+Good, good.
+Glad we got that in there.
+Yes, yes, the free bingo space has has been taken out.
+Excellent indeed, should be fun looking.
+Forward to it, and I look forward to reporting on my Amazon's glorious death.
+1:49:36
+Well, as we are already.
+Overburdened from this episode?
+God, I can't believe we actually almost somehow made it two hours with Strafe Colon Gold Edition.
+We will be summoning up with our Necromancers Diablo 2 Resurrected next, and we'll be looking forward to all of your hateful comments about why we shouldn't be covering it in that episode.
+1:49:58
+So playing us out from this here will be some strafe soundtrack tunes to tear 2 but also to RIP 2.
