@@ -2,7 +2,7 @@
 layout: post
 title: "The Void Rains Upon Her Heart: Interview with Developer Angel Polanco"
 date: 2026-09-16
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/the-void-rains-upon-her-heart-interview.mp3
 description: "
 "
 explicit: "yes" 
@@ -24,7 +24,7 @@ https://store.steampowered.com/app/810530/The_Void_Rains_Upon_Her_Heart__Soundtr
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/the-void-rains-upon-her-heart-interview.mp3">
   </audio>
 </div>
 
