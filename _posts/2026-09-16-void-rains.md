@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Void Rains Upon Her Heart: Interview with Developer Angel Polanco"
-date: 2026-09-26
+date: 2026-09-16
 file: 
 description: "
 "
@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/void-rains-hero.png
 thumbnail-img: /assets/img/void-rains-hero.png
 share-img: /assets/img/void-rains-hero.png
-duration: "1:34:37"
-length: 73085860  
+duration: "0:50:12"
+length: 60414432   
 tags: ["2026", interview, grogpod, top down action]
 ---
 
@@ -27,21 +27,7 @@ At PAX West this year I had a great time interviewing Angel Polanco: the solo de
 [Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/rift-wizard-3-interview-with-developer-dylan-white/id1650474911?i=1000772046890) | [Spotify](https://open.spotify.com/episode/0eM64mcGRRNFgUjjUS5gFn) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/rift-wizard-3.txt)
 
 ---
-* 1:51 - Interview Start
-* 2:49 - Dungeon Crawl Stone Soup as Primary Design Inspiration
-* 6:15 - Original Concept: Not a Wizard Game at First
-* 9:06 - Core Design Goal: Every Encounter High-Pressure & Unique
-* 13:11 - Rift Wizard 2: Items System Added to Fight Forced Builds
-* 16:46 - Dominions 5 Influence & Knowing Your Game's Identity
-* 20:35 - Why Python/Pygame: Fast Prototyping & Fun to Code
-* 22:38 - ASCII Prototype Origins & Discarded Pac-Man Mana Mechanic
-* 32:22 - AI Coding Agents: Core Logic Hand-Coded, UI Outsourced
-* 41:52 - Crafting System Design: Balancing Planning vs. Improvisation
-* 47:31 - Rift Wizard 3 Art Direction: Ralph Bakshi & 70s Animation
-* 56:36 - Grid Size Changes Across Versions & Rebalancing Challenges
-* 1:02:14 - Sequel Philosophy: 75% Familiarity, 25% Novelty
-* 1:07:17 - Switch & Steam Deck Portability: Mouse-Keyboard Dependency Problem
-* 1:22:50 - Dylan's Favorite Roguelikes & Final Thoughts on Genre
+* 3:06 - Interview Start
 
 ---
 
