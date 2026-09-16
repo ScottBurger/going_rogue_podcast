@@ -32,6 +32,17 @@ At PAX West this year I had a great time interviewing Angel Polanco: the solo de
 
 ---
 * 3:06 - Interview Start
+* 4:10 - PAX Weekend Impressions
+* 7:00 - Record-Breaking Steam Reviews
+* 8:14 - Solo Dev Life: Programming, Art, Music & Community Bug-Hunting
+* 9:28 - Development Prioritization: Following Gut Feeling to Avoid Burnout
+* 11:02 - Touhou & Kirby Design Inspirations
+* 13:15 - Difficulty Design & Accessibility
+* 15:56 - Boss Design Philosophy: Start Simple, Combine Mechanics Progressively
+* 27:39 - Undertale Influence: Pacifist-Only Path, Love Bosses Into Acceptance
+* 31:17 - Hades-Like Story Driven Narrative
+* 34:08 - Player Character Designs: Alien Looks & Deeply Human Feelings
+* 45:43 - Success Beyond Expectations, Game as Diary & Future Plans
 
 ---
 
