@@ -28,7 +28,7 @@ At PAX West this year I had a great time interviewing Angel Polanco: the solo de
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/rift-wizard-3-interview-with-developer-dylan-white/id1650474911?i=1000772046890) | [Spotify](https://open.spotify.com/episode/0eM64mcGRRNFgUjjUS5gFn) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/rift-wizard-3.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/rift-wizard-3-interview-with-developer-dylan-white/id1650474911?i=1000772046890) | [Spotify](https://open.spotify.com/episode/1ITSbMOCPNEZokPnQ8Asjy) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/rift-wizard-3.txt)
 
 ---
 * 3:06 - Interview Start
