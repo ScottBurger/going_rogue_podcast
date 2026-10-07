@@ -2,7 +2,7 @@
 layout: post
 title: "Combolands"
 date: 2026-10-07
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/combolands.mp3
 description: "
 "
 explicit: "yes" 
@@ -20,7 +20,7 @@ C-c-c-combo maker! This week we hunt through the forests of new roguelite releas
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/combolands.mp3">
   </audio>
 </div>
 
@@ -28,10 +28,10 @@ C-c-c-combo maker! This week we hunt through the forests of new roguelite releas
 
 ---
 
-* 01:44 - Game Stats
-* 03:36 - One Sentence Description
-* 1:18:46 - Rankings & Final Thoughts
-* 1:31:02 - Similar Games & Show Wind Down
+* 01:13 - Game Stats
+* 03:01 - One Sentence Description
+* 1:04:58 - Rankings & Final Thoughts
+* 1:14:02 - Similar Games & Show Wind Down
   
 ---
 
