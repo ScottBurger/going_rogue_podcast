@@ -24,7 +24,7 @@ C-c-c-combo maker! This week we hunt through the forests of new roguelite releas
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/diablo-2-resurrected-with-robert-lippens/id1650474911?i=1000791223196) | [Spotify](https://open.spotify.com/episode/50Ggzi28NeZCZO0GQJQGjy) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/diablo2.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/combolands/id1650474911?i=1000793591967) | [Spotify](https://open.spotify.com/episode/7LymmRrToBkSzHa3N5MR7k) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/diablo2.txt)
 
 ---
 
