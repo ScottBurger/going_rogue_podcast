@@ -11,8 +11,8 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/combolands_hero.jpg
 thumbnail-img: /assets/img/combolands_hero.jpg
 share-img: /assets/img/combolands_hero.jpg
-duration: "1:46:30"
-length: 89366712   
+duration: "1:25:42"
+length: 71952408   
 tags: ["2026", deckbuilder]
 ---
 
