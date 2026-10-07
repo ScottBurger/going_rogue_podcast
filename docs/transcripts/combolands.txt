@@ -1,0 +1,1371 @@
+0:14
+Greetings friends and welcome to the Grog Pod Roguelike podcast, where each episode we chop down the luscious forest of a roguelike or roguelight game, pump it full of multiplier effects, and the game shoots out good enough ratings at the end.
+0:31
+Revisited in our end of season recap tournament.
+I am your aged Druid host of the podcast Scott Berger, and with me are my fellow medieval counselors.
+A It's the Bilatro bro, also known as the Bilat bro.
+0:46
+Andrew Harshman.
+Hello.
+And it's me calling the train engineer building tracks to connect all your little tiles.
+And this is Will, I guess I'll, I'll take the walls then.
+You took my railroad, so I'll be at the wall.
+Will the wall.
+No man on earth can make you fall today we are talking combo lands released August 24th, 2026, a hot and fresh 43 days ago.
+1:11
+I don't know if that's in a record for us picking a hot off the press game, but it's certainly up there.
+We we have covered a number of of games pretty close off of the release schedule.
+I believe this is a Steam exclusive for the moment.
+This will also also be one of those interesting podcast episodes that listen back like 5 years from now after Combo Lands has won all the game of the year awards and everything.
+1:34
+Wow I can't believe how wrong they got it.
+This is a developed and published by 1 Crux Games A2 dev team out of South Africa who have pro.
+I think they built kind of a prototype of this on their itch dot IO page called Tiny Towns, but they have also developed a kind of a terraforming, sort of like a peaceful terraforming game called Terra Nil as well.
+2:01
+Your average player of combo lands has about 19 hours of it.
+Colin, were you saying that you'd played Terra Nil just a second ago?
+I haven't.
+I haven't played it, but I've never really heard of it.
+Yeah, yeah, it was weird.
+Like I kept seeing it pop up like this.
+Looks all too familiar.
+Combo lands.
+2:16
+Average player has about 19 hours of gameplay in it and combo lands combos up on the leaderboard at the number 662.
+Just 4 off most popular rogue light game.
+2:32
+Wait.
+Let's hear that.
+Sorry, let's hear that number one more time. 662.
+Wow, Kraken 1000 almost 500 for a new release.
+That's pretty impressive.
+But.
+Overwhelmingly positive scores, of course.
+Yeah, it is.
+It is climbing the rigs. 1553 total reviews as of recording today, October 6th.
+2:55
+But Colin, you have been summoned to the Combo Council to give your one sentence description of what one does in combo lands.
+You are presented with a small island and you must place little tiles buildings on this island in a strategic and aesthetically pleasing way to build points and build your city, build your little, build your little metropolis.
+3:19
+Will's giving me a scowl.
+It's.
+Synergy buildings.
+You didn't mention anything about combos in the I feel.
+You know what?
+Yeah, there are combos in there.
+I don't know if there are combos in here like.
+I saw I saw zero little like pizza filling stuffed cracker snacks in this game.
+3:42
+It's a little combo joke for for Halloween.
+And and in order to have combos, there needs to be a combo breaker, and there wasn't a single one of those, let alone a fighting game announcer.
+No, no folgore, no orchid, no cinder.
+3:58
+There actually is a combo breaker though.
+When you get when you get to a high of ascension level you start getting the the negative random event things.
+Oh, that's like a tower that randomly transforms anything that's nearby.
+My word, so that's where all the never mind.
+4:16
+All right, so this game we're going to you're going to start up this game and right out of the gate you're going to notice a a cover.
+What what looks like the cover of a board game.
+I'm assuming that the developers are, are some board game heads.
+4:32
+What are what are board game players called these days?
+Is there a nickname?
+Or.
+Some meeple meeples, some some chit heads.
+Nope, don't say that.
+Some some work work replacements aficionados.
+4:51
+Come on.
+I'm not.
+I'm not getting any.
+We're spitballing.
+Here Bos.
+For your euro players, Bos.
+Teutonic Bros.
+OK, OK, I like that this is this sounds good, but it.
+But the point is, yeah, and not and not those crappy board games, not American board games, not that Ameritrash we're talking about European action.
+5:10
+But in this case, we got of course some game developers from the continent of Africa, which again, I assume that they are in the board games because this has a board game aesthetic.
+The mechanics bring to mind a board game, but of course it's it's wielding the medium well.
+5:28
+I think if this was an actual board game, it would be slow and arduous and boring.
+But because it is a video game, you can automate a lot of those combos and that stuff happening.
+So that's nice.
+Well, you would be, you would be forgiven thinking that this was some sort of PvP board game based on the like the Steam capsule art when you first download it and then that same art being presented to you right when you booted up, which I think we were, we were kind of discussing in in the Discord.
+5:55
+Like, yeah, we were.
+It it, it looks AI generated and I say that as kind of like like, oh, it looks AI generated in like a bad way, but like I.
+I don't think it is.
+I think it's just in a generic arts like digital art style which is what AI has copied.
+6:13
+Right, sorry, I, I, I mentioned what looks like a board game cover for the art on the title screen, but I didn't actually describe what it is You've got like this, this group of, I don't know, Renaissance era city officials of sorts.
+6:28
+Council of Yeah, the smaller Council of the King.
+Right.
+The council, yeah.
+And they're sitting at a table and then sort of lording over them literally is a, a, a king with a white beard.
+He's looking very imposing, very much in control of the situation.
+And he's looking down on the table.
+6:44
+It's covered with the literal like building of the city.
+But then all the cards they're holding, all the cards that are just like nothing.
+There's no cards in this game.
+It felt out of play.
+There's no cards, There's no weird.
+I don't like it.
+Hold on a minute.
+No, there's no, there's no cards.
+7:00
+What do you?
+Those are the buildings.
+It's a card draw and they're they're not like card.
+Shaped well we can we can get into the the specific mechanics in a bit but yeah we.
+Should probably move on beyond though, and.
+The art, but yeah, the art I'm sure there's probably, I think you're right.
+It's just it looks a little bit generic and and so it looks like what ARAI art is sometimes, often times aping.
+7:22
+And and to yeah, I think like to be clear, I don't think it is ARAIR 'cause I pulled the like the steam capsule art from from my C drive in order to do all of the the Youtubing stuff as well.
+But but like you can, you can kind of see like the like the stroke marks on the stuff where it has like this kind of like imperfection to it that I feel like mid journey or other sort of like AI art generated stuff like wouldn't wouldn't intentionally do.
+7:50
+So I I can see that this like being designed by a human, which is fine, but I feel like my bigger problem with it is like it sets the expectation that like, oh, I'm gonna be playing cards as like this farmer lady or this like gruff looking pirate man or and like there's this scowling king guy and they.
+8:08
+Look like combatants, right?
+Like they look like they're playing against each other as opposed to all on the same team, Yeah.
+It it's very much a solitaire game.
+Yeah, I mean, this, this could be the cover to one of many.
+Colin, help me out here.
+What's that?
+What's that card card game that you play that inspired Slate Aspire?
+8:28
+It's four players.
+Dominion.
+Dominion Yeah, this this looks like it could be one of.
+Like Minion inspired.
+Mansions.
+Oh, but oh, the Dominion art.
+Let's.
+Well, the better the better end of this.
+Wish is that it was AI generated.
+Yeah, I kid, I kid.
+8:45
+Dominion, of course.
+Interesting.
+I didn't.
+I didn't realize y'all had like examined this artwork so closely.
+I for one, did not think like it set any expectations at all, Just like all right, this is I think I would if you talk to the devs, I'm sure they would say something to the effect of like, well, this is kind of like an extraction of like what's happening and and I can.
+9:08
+Also they all.
+Be like, look kind of hungry, not hungry.
+They look, they look angry.
+They do look like they're at all with each other and not working together.
+But we all know who cares.
+You're on the.
+Well, but yeah, yeah.
+So you're on the menu.
+For a split second.
+Yeah, you press start and that's when the.
+Story starts.
+9:24
+What's the story, Colin?
+Take it away.
+The deep Lord, there's an island and you have to build little things on it.
+And there's a, a small tutorial of, you know, here's how you place things and you put things next to each other.
+And, you know, often times they'll be, you know, oh, this building gets plus 30 points if it's near for every farm that's nearby.
+9:44
+And then you'll have another one that's like for everything that uses farm, you know, manufacturing stuff, this gets an extra times one for everyone that's in there or something.
+So you're slowly building up a little like mosaic of tiles to generate points and there's what like 8 milestones that you have to get through 1/2?
+10:09
+345678.
+That's correct, 9 I guess.
+I guess the 9 is the Yeah 9 is like the last one.
+Yeah.
+So each, each one represents like a, a size of city.
+So you're slowly building up your little city and you have to, you have to reach a certain number of points.
+10:29
+Yeah, yeah, that's true.
+I guess it's.
+The same as like, yeah, a, a, a, but yeah, you get, you get a certain number of of turns, it's like 4 or 5 or whatever to get to the next milestone.
+But even before that you have to pick what guilds you want to play with.
+10:50
+Yeah, but not not the first play, the first play through.
+You don't, right?
+I guess that's.
+True, 'cause you the the very first playthrough.
+They just tell you which ones, right?
+I don't know if you unlock the Marshall.
+You're correct.
+From the tutorial, but yeah so but yeah.
+11:08
+No, it, it, it picked for the very first game.
+It picks the, the, the, the yeah, the guilds for you, because it's like place this exact building here.
+Yeah, but yeah, there's, there's what 7 guilds?
+Yeah, 7 guilds.
+So so you start with three unlocked.
+11:24
+In Monster Train style, you are.
+You're picking two.
+You're setting up a combo already of what's?
+Right out the gate.
+And what I don't?
+Know how much I love a game that delivers on the promise of its title?
+11:39
+Boom, lands right out the gate.
+First thing you see, there's the land.
+Wow is that is that is there a randomly generated is that randomly symbol incredible?
+And then, yeah, as you say, you're picking your two guilds.
+That's a combo rat.
+They get combo land, slam dunk pow.
+But what were you saying, Scott?
+11:56
+Does what it says on the tin, Yeah.
+So yeah, tutorial sequence, which I kind of don't remember much of.
+I guess it was it was straightforward enough that that it it got me set up to actually play the game pretty well from what I remember.
+But yeah, so so you are, you go through tutorial sequence, but generally you fire up this game and you have to pick up the pick two out of seven, if you've unlocked them all guilds between frontier, agricultural, Marshall, civic, commercial, maritime or industrial.
+12:30
+And these all like their, their names kind of imply, have different sort of effects, different kinds of buildings that you draw out of.
+Yes, different pools of different.
+Parts right, of course, and and this is also where you set your, your, I guess your difficulty or ascension levels as well from new baby mode that I was playing on up to Regent, I think is is the ascension 20 effectively for for this one.
+13:03
+Or 20 or. 10 there there are 10 and I have them written down somewhere.
+Because it's not really relevant what they're.
+Well, yeah, so but like for each one of these, it's like it's it's an ascension style system where like each difficulty you add on is like adds on all the previous difficulty things of like, oh, you get less gold for finishing milestones and then you push it up a little more.
+13:26
+And then buildings can roll with increased cooldown modifier.
+So they they just additively stack up to up to level 10 in which a hazard spawns every second milestone after after village.
+So.
+Yeah, it's funny that it's it's, it's very much modeled after what they know works well, which I, I obviously as someone who has also done that, I appreciate it.
+13:49
+I get it.
+Yeah.
+But yeah, this, this just kind of like dumps you right out into into your land and you're, you're surveying, you're looking at all right.
+What?
+What if I signed myself up for it this time?
+How?
+14:06
+Do we?
+You can you can see the land before you pick the right correct, right, Which is interesting.
+I don't I I didn't play it quite enough for that to become like I can, I can look at and be like, Oh yeah, this, this definitely in civic and and maritime, but you you could theoretically.
+14:25
+Well, it's interesting because when like, I don't know what kind of screenshots I was looking at where I thought that, oh, this will be a game where you start off in like the Stone Age or something with like Berry pickers and hunter gatherers or something.
+And then you're building up like the Super metropolis of the modern age, kind of like in a SIM City or like, you know, SIM kind of scenario like that, progressing through time.
+14:47
+As opposed to situation.
+Yeah, Yeah.
+I was really caught off guard when suddenly I was building train tracks.
+Whoa, whoa, whoa.
+Excuse me.
+Don't bring those tracks around my people.
+They they have.
+They are.
+They are not prepared for this type of complication.
+15:04
+You will Add all their minds if you if you introduce the concept of of steam.
+They don't they barely, they barely even know what steam is steam powered things, let alone my God.
+Yeah, it's a little unclear to me what the time period is and it's, I guess it doesn't really matter like whatever.
+But I feel like it's not at time period.
+15:20
+It's like a more.
+It's like you found a new island and you're colonizing it.
+Kind of, yeah.
+These islands, these lands that are being comboed conveniently empty, ripe for the taking folks, there's no there's no problem just stealing this land because.
+15:39
+Well, that's because we've already, we've already bombarded it from the air, we've already sent in the colonists, ways of colonists coughing on all of the natives and we've cleared it out.
+There are, critically, there are some ruins on some of them.
+So there are signs that there have been people here before, but there aren't there now.
+15:56
+Interesting.
+So all of the crimes against humanity have been taken care of, have been done in a different, have been perpetrated by other players in other games.
+And you can play this game with a clean conscience that you're just here to make.
+What?
+What, what?
+What do we laugh about clean conscience?
+16:13
+I had a clean conscience when I was playing this game.
+Yeah.
+So you, you, your land, they throw you in.
+And you're, of course, looking for for combinations.
+You're trying to place buildings adjacent to each other so that they combo with each other, or you're trying to place buildings within range of other buildings to create combos and generate more.
+16:34
+What?
+What are we generating points I mean.
+Like combo?
+Yeah, combo points, land points.
+Land points.
+It's population.
+It's population.
+Is that what it is?
+Because it says in the bottom left like next milestone 500 and it has like a little meeple next.
+16:50
+To it, a meeple symbol is a population.
+You want to build your population.
+Real quick, though, we got to talk about the meeples.
+These meeples are horrific visages, vaguely humanoid almost.
+Like shadows?
+Yeah, shadows of of humanity.
+17:07
+They look like imagine like what if?
+What if the outline?
+What if the?
+The the you're talking about the little shadows that cross the land around buildings.
+And stuff.
+Yeah, but at first I thought they were like birds or something.
+Like imagine the Stonehenge stones.
+Those are the, that's the proportions of these people.
+17:23
+They look deranged.
+Dare I say it now?
+And and and but.
+Then they're very small.
+Thankfully, I from from this from this altitude that you're looking.
+At, but I mean, hey, at this, at this pixel count, you know, at this, at this level of clarity, which is like, you know, very pixelated, very nice looking.
+17:43
+It's it's about the best you can do.
+So, you know, I obviously I'm joking, but but it did, I was a little put off initially like, oh, what the heck's happening?
+And then when they start moving around, I was like, oh.
+Boy, yeah, for for how much we were kind of clowning on like the initial like splash screen art.
+I think the the actual in game pixel art for this looks really good.
+18:01
+I think like this would be like an absolutely goaded SNES game if if it came out back then you had to use like little Mario paint mouse to like click and drag stuff.
+But like it just, it feels very wholesome and cozy.
+18:17
+And yeah, I mean like it, it just has that very nice vibe and aesthetic to it where like if you're if your your parents don't want you playing that gambling game with all them gestures in it, with those numbers go up, you could play this and they wouldn't have a problem with it.
+18:34
+So.
+Yeah, I hear an Australian child who's not allowed to play bilatro because it's illegal on that island because of Gambley.
+I know they chased that.
+I'm just goofing.
+You can.
+You can play combo lands and combo lands almost has a well, not almost, but it has a very competitively satisfying series of sounds that it plays when it's scoring.
+18:59
+It's absolutely trying to do the bellatro build up sound thing, the flame, and it does.
+Honestly it does a decent good job of it.
+Well, not as good as bilatro obvious.
+I mean, So what we're trying to like what it tries to do is in Bellatro there is a flame that builds up into a burning like a pyre when you're like getting massive combos.
+19:21
+And so to replicate that, they have little pieces of like a city that like fly in and stick together to form, like start to build up into what looks like a metropolis.
+And it just, it does not have this.
+19:36
+It's not as action-packed.
+It's something that's not as nearly as satisfying about that.
+I don't know.
+I feel like I see what they're trying to do.
+I feel like they went in the wrong direction with that.
+And I don't know what the right way of representing the flame is.
+But it's not a city growing quickly because basically what happens is.
+19:53
+You.
+Get the combos of the city goes up and then it just basically disappears and it's just like, oh, OK, so you're like it's like resembling a city building quickly.
+I don't know, it didn't it didn't click with me.
+I I understand what they're trying to do there and it still felt like it fell flat.
+20:08
+I don't know is that I think it's.
+I just blabbed for like 10 minutes about the the stick man in this game, the sick people, and so maybe I shouldn't be throwing stones in my little glass house here, but this is the second instance of us over analyzing an element of the game on the main menu here.
+20:26
+What is the thought about if it's not?
+Over analyzing the stacking of these things, I think it's sort of building a cityscape sort of it's you're seeing like the skyline.
+I liked it.
+It would be like it reminded me of like it brought to mind what if like Bilatro had like an animation of like stacking chips and of them piling up.
+20:43
+I I thought it was kind of a nice effect, but.
+I think I I think I can agree nor.
+Is it even a meaningful part of the gameplay?
+Well, I mean, I can kind of agree with both sides in that on one, unlike Andrew's side, it does feel very satisfying to have that like womp, womp, womp of like the like it actually building up and it there's there's a lot of very satisfying like monkeys see number go up neuron activation meme going on here for me at least.
+21:14
+But at the same time, like I can see from Will's perspective that like it, it kind of feels like the artistic direction with that is saying, well, Bellatro did it and Bellatro was successful.
+So we'll do it also because we want to be like Bellatro, whereas I feel like it would and it it kind of like plays against itself there where it feels like this game might be better suited to lean into the coziness instead of just like the that's the stuff like dopamine injection that Bilatro gives you.
+21:48
+What's the cozy equivalent of that?
+I mean.
+Sitting sitting by like a rainy window with a cat in your lap with a mug of cocoa like.
+Just more rain starting to pour harder and.
+No, I don't think that that's what this I think that's not this game.
+22:06
+Like it has a cozy aesthetic, but at the core of it, it is really like some worker placement euro board game kind of stuff.
+Yeah, so give me like a worker just like a he's just like, he's really muted and he's sitting there in the corner like an avatar and it's just his face and he's just like, yeah, OK.
+22:23
+And then as you like progressively like it gets more and more intense.
+He just starts getting so psyched up.
+He starts getting, he starts going Super Saiyan and he starts getting like, Oh my God, you are building like and that.
+Would be so excited to live here.
+That would be in his.
+22:38
+In his his construction hardhat like flies off his head and he's got like the same hair underneath.
+Oh my God, if what you point past a certain point, the construction helmet rise off like that, that's when you know it's getting intense.
+This is like the the blocker plane changes colors, right?
+So like that same sort of thing, sure, but it's just more like cool rather than oh, here's a city coming together and it's slowly.
+23:01
+Getting taller people on the thing.
+Could be the shadow the shadow the.
+Shadow people could be, could be celebrating as it gets bigger and bigger, right?
+They're the ones.
+That.
+They're the ones that benefit.
+Right, that's true from.
+Gentrification.
+Let's see, Where were we?
+23:18
+Yeah, there there are.
+There are buildings in this game.
+Coincidentally, anything on the map is a building as well.
+So like when you first look at the map and you see the kind of terrain features that you're, you're procedurally generated and given with between rocks and sand and bumblebee flower patches and Berry Berry shrubs and herbs and things you like.
+23:45
+Those are all classified as buildings.
+And the things that you, you know, draw three out of your pool and plop down one of them are also building.
+So like all the little units on the on the map are are classified as buildings and each one of these buildings that you are pulling out of your, your your dual monster train style combo bag have what is it?
+24:08
+I think there there's what's the term that like there are ones that are like aligned to that particular civic.
+And then there's like neutral ones and I forget like they have a specific term for that.
+But like, for example, you'll pick out like a the Marshall one where it's like, oh, the the IT has like a common rarity to it and it has all these different tags associated with it, like training or fortification or scene of things like that.
+24:33
+And then that those are sort of like the tags that you're playing off of where if it says, oh, like, if this you place down this thing, it's going to trigger all of the the training buildings in range.
+So that's that's what you're kind of building your synergy web off of as you as you play through any one of these specific milestones.
+24:55
+And I do really like the the aspect of like you, you can pick a thing and you can kind of like hover over different areas to be like, is like, is this good?
+Should I pick this?
+Like would this work well over here?
+You can kind of like preview the action, but you can go back and say, no, that was the garbage pick.
+25:11
+I would never do that.
+I want to pick this other one instead.
+I do appreciate that a lot.
+That definitely helped with my selection strategy at the very least.
+I don't know if that's like a limited feature on higher ascensions, like if you can't do that, but it definitely does seem like this game feels like it it is maybe not kind of like pitching you an underhand of like yeah, sure, like you can you can kind of go at it in super chillax mode, but I I got definitely like cozy chill maxed vibes out of my playthroughs at the very least.
+25:46
+Well, those are good.
+Those are.
+Good for like the, the, the immediate decision, but for long term decisions, you really need to have a, an understanding of all the guilds that you're using.
+Because something might be the case where it's like, oh, well, every turn adjacent, it's going to produce rocks.
+Another thing is like, Oh well, if a rock is adjacent, it's going to produce this.
+26:04
+And whenever something is produced for this other building, it's going to trigger it.
+And like when things are like, you have to know, like this is the specific like configuration of like a set of like 5 things.
+And if you don't know that in advance and you're just kind of placing them one at a time, looking like dragging it over the map like you're talking about and looking at like, oh, this is where it's going to go, where it's going to produce the most right now, you might not get that full sense of like what's going to be best for the long run.
+26:30
+So in that sense, like it's very, it's very much a game that says, yeah, play it and just be cozy.
+If you want to use just like every turn, just like an optimal turn or look at the long term once you start to get a sense of the mastery.
+And then I think that's the impression this game is trying to teach you is that like if you want to excel in the long term, you have to like essentially memorize what all of the things do and no proper configuration.
+26:56
+Well, you can like that has a little rainbow deck thing in the bottom right that you can click and it it it shows you like the pool of options that come with the particular two different two different councils that you have picked along with.
+27:13
+Like you know, there are there are more rare ones, there's more common ones, there's ones that you haven't unlocked yet by just virtue of playing with them more.
+So you can you can kind of see what you're in for with that grouping.
+Although it did anyone else try looking up the wiki for this game and trying to poke around and it was I the only one I didn't.
+27:32
+Pull it up once now.
+I clicked on the wiki just now and it tried to give me a virus for what I don't know.
+I just looked up Convolen's wiki and it definitely was like McAfee virus.
+Click here.
+Click allow to.
+Yeah, I don't know.
+So maybe it was a different wiki that you were looking at.
+27:49
+I would hope so, but the the wiki that I was looking at was maybe not much better in that it seemed How?
+Much better.
+Oh no.
+Very because I was trying to find out like, all right, what what are all the counselors in this game?
+What do they do?
+And I'm trying to like and again, like this game has been out for like a little more than a month.
+28:06
+So again, we're nitpicking over.
+And how dare, how dare they have the wiki immediately.
+I know that, but that's what you tune in for.
+So I was trying, but I was trying to just find like basic info about like, what is this one specific thing here?
+Like what?
+What are all the options doing?
+28:21
+Cuz like I'm supposed to be quote UN quote working as opposed to looking at the combo lands wiki on my phone.
+And I was like, am I just dumb?
+Like did I not know how to know how to like navigate this wiki?
+But it seems like very uniquely designed in that.
+28:38
+And like, I don't know if this is like a fan wiki or if this is the official wiki, but like, it feels very like like prescriptive as opposed to descriptive of like, oh, the counselors.
+In order to like use the counselors, you have to do XY and Z.
+I'm like, that's great that I don't care how to use them.
+28:55
+Like just tell me all the data about them and stuff.
+But but yeah, so so I guess like related to the decks and things like again, you don't you don't need the external wiki, quote UN quote V wiki, just the little deck thing, the bottom right kind of tells you all that you're in for.
+29:11
+But yeah, I guess like to Will's point, if you want to be like killing it on higher ascension levels, knowing all of those deep interactions of all right, got a bunch of rocks on this map here.
+What what uses a lot of rock synergies?
+29:28
+What synergizes with those things?
+How can I get all that stuff up and running optimal play center Yeah, just make make number go big and writing down all that all that good stuff.
+But but yeah, what the?
+29:43
+Oh my God.
+I'm sorry I just opened the Reddit and there's a lot of posts about people being like here's my build that does like 14,000,000 because you can go to an endless note afterwards and it's like every single tile is filled and it's doing actually wait, it's E 14.
+30:04
+So what is that?
+That's actually like in the billions or trillions, I think.
+Billions 10 to the 9 I think.
+OK, so so they're well into the trillions.
+Then Dome.
+That's why he's the Omega host.
+Yeah, so apparently we're not playing this game right because we're not getting millions to millions and millions of points.
+30:21
+Well, I.
+Billions and billions.
+I only played this game to the end of a given playthrough and did not really engage with endless mode at all because for me I don't know, like didn't really seem worth it.
+It doesn't seem like it's the point of the game to me.
+Yeah, I mean, yeah, number go up is fine, neuron activation, etcetera.
+30:40
+But I think like the real meat of the game here is like understanding that synergy puzzle of, oh, now I have this this passive relic that allows me to place things on any tile type and I'm not restricted anywhere.
+Like that just totally opens up my play style and stuff.
+So you have a shop that you can unlock by paying gold the first time.
+31:02
+Yeah.
+How long did it take everyone to unlock the shop?
+It took me extremely.
+It took me years and years for this town to open one single shop.
+That's a bad sign for the economy.
+It took maybe at least an hour I think.
+31:19
+All right, OK.
+At least one full playthrough, because I was like, oh, I need gold to unlock this thing, sure, how do I get gold again?
+And then by that time I was like halfway through a failing run.
+I'm like, oh maybe I should just restart this and figure out how to actually play and maybe.
+31:35
+Just restart it.
+Well, yeah, and this is normally where we would review the wonderful merchant character, which does not exist.
+Sadly this is an empty shop, but hey, the pixel art's.
+Good.
+Yeah.
+Where's my merchant?
+Cat.
+But yeah, the shop here also feels very bilatro in that you have things that are like not quite well, like is this is this another bilatro ISM or is it a splay the Spire ISM?
+32:08
+Or is that, or is it just like the state of rogue style deck builders these days where you have and and it's not always, but you have like a big chest that will give you some sort of like passive artifact type thing.
+You have a a smaller thing that gives you like potions, which are like one time consumables.
+32:26
+You have things like, oh, you can spend gold to like get a little hammer that you can use to remove specific buildings or you can, you know, pay gold to get more re rolls and and things like that.
+But you can also like pay for blueprints, which are like buildings that you can just like plonk down for free that are from any, I think like any council that you have unlocked thus far 'cause I don't think I saw any that were like, oh, whoa, what the hell is this thing?
+32:53
+This is totally different.
+But but that's a kind of a good way to sort of spice up your build with like, oh, here's one from the Marshall.
+The Marshall people who like that will totally add 10X molt to this one building here and that's kind of it.
+33:10
+I don't know.
+I don't know.
+I don't think that there's any kind of like interest mechanic or any sort of other type things going on there.
+Well, unlike and I, we have to use this term slate aspire.
+Unlike slate aspire, there isn't this idea of the items or things that you can get which are unique to the merchant.
+33:31
+So in that game that there there are specific things that are like you can only get this from a merchant in that game.
+In in this game, there is just a here is everything that is already presented to you, but you can just spend gold essentially to get it.
+So it felt a little bit, I mean, that's the.
+Only way you can get the relics though.
+33:47
+Actually, you know that that's true.
+You can only get relics through this.
+And there's not like in the gameplay itself, there's not like, oh, you did this thing, you, you beat an elite.
+There's not an elite you can beat to get a thing.
+It's always only through the the shop interface.
+So in that way, maybe this game's better than.
+34:06
+What?
+Is that what you're saying?
+Let me.
+Go back into my rankings here.
+Let me add another.
+What is your point that there's nothing unique with the merchant?
+In this game.
+But you just proved that that's not the case.
+Actually, it's incorrect.
+We'll fix that in post.
+I'll just edit that I think.
+That it is in fact Slay the Spire that has that problem.
+34:23
+No Elites, yeah.
+I think the closest thing that this has to the elite type thing is that once you get to the higher levels they have the the Guild people are like you must, you must complete a little quest for me.
+34:39
+And.
+Then you get a reward for doing it.
+Yeah, yeah.
+I was not super thrilled with.
+They were like, OK, but some of them were like, well, this is just impossible.
+So you bet you didn't, just you chose them based off which one was feasible, not which one was like an interesting.
+34:55
+Feasibility compared with like, oh, this thing's going to increase the your fishing or agriculture if you're not doing that at all, it's just like I have no interest in doing this.
+And so even completing it has like it feels.
+Yeah.
+And if you don't, if you don't complete it, if you complete it, you get like points or like unlocking stuff.
+35:16
+No, no, you, you complete it, you get something usually or like an A score multiplier.
+If you don't complete it you get less like meta progression points I think.
+It's like 50% less for that section of the.
+Yeah, no, it's like it's basically inconsequential if you didn't, as far as I could tell.
+35:34
+I mean like it's slightly slower.
+Yeah, there's not like a giant meteor that comes down from space and like nukes half of your thing because the the farmer girl was displeased that you did not.
+That would actually be kind of funny if they were.
+Like the harvest God.
+Yeah, like if they were vengeful God spirits that like, oh, I need to I need to fulfill 30 wheat or or beside it.
+36:00
+Yeah, like you're gonna reap the whirlwind here and and, you know, have all sorts of plague effects going on and stuff.
+But well, I guess like that that one of my bullet points later on in my doc here is the comparisons against this.
+Like we have lots of comparisons with Bilatro, lots of comparisons with Lucky Landlord, obviously comparisons with dot, age question mark.
+36:22
+Yeah, not age has like.
+Way.
+More character and like interest and excitement in like the story and the lore.
+Oh no, the the the the town.
+Well, I guess wise man, let's call him like he is.
+36:37
+He is foreseen this horrible forthcoming cataclysm and we need to work together to resolve that to to defend ourselves against it.
+And like and you've got a little villagers running around and they're making all their quirky little made-up language noises Ma tosta and like that stuff is all great.
+36:58
+That being said, like dot age I found to be pretty miserable to play.
+Yeah.
+I was just saying.
+This is way more fun to play in my opinion, in terms of like just raw, like dopamine hits and good sound effects and things like that.
+No, they're three different games like this, you felt.
+37:13
+Like you were being reported for stuff dotted felt like you were being punished mostly.
+Yeah, yeah, yeah, Dotted did feel.
+Like, oh, you failed all of your things get burned.
+Apocalypse Now.
+Yeah, but but the fact that it was like so cute and whimsical and and and fun and endearing made it pretty enjoyable.
+37:36
+Yeah, so but it's it's it's certainly similar.
+It's what it's it's grid based, it's town building to a certain extent in dot age.
+I mean, you're looking, obviously you're looking for, you know, builds and and a town that functions well, just like in combo lands.
+But I mean I think the game playing combo lands is is is unique in that it is so combo heavy.
+37:56
+Real quick on so the the the council request things that we're kind of talking about this, this maybe feels sort of like the weakest element to me where it like I'm not I'm not entirely sure what the council are supposed to be doing like it feels.
+38:14
+Like, no idea.
+And you're trying to get like council votes or something.
+Voting for what?
+I thought I was in charge.
+I thought I was ruling this island with an iron fist.
+I thought I was the de facto ruler #1 in charge.
+And then I got a samurai and some country yokel telling me like, oh, we need such and such buildings built.
+38:35
+You need things built.
+What?
+What are you guys doing during the day?
+It feels more like like I need you to get more like a quid pro quo of some sort.
+Like hey man, if you build ME3 military buildings I'll give you a bonus.
+Yeah, but it's kickbacks.
+38:52
+It's kickbacks and that's not allowed.
+Yeah, quid pro quo, scratching of backs is not allowed on this island nation.
+It shouldn't be at least.
+But but what's going on with the with the council votes?
+I, I couldn't figure that out.
+And there is a council button that you click on and you see a little table with the NPCS there.
+39:10
+Good artwork, no idea what they're doing there though.
+Yeah, this wasn't super clear to me either where it's like you the the council vote itself is a consumable.
+It goes into your like your potion slot zone.
+And so for example, 1 council vote a consumable would be add a vote to council member.
+Council members have various passive effects at different numbers of vote.
+39:27
+Oh, OK.
+So so this is like, for example, if you fulfill the farmer girls, the council vote thing for like the first level, the first like thing that event that that happened. 1st.
+Milestone of that happens, it'd be like, oh, all of your farms get like plus .25 multiplier or something like that.
+39:49
+And then I'm guessing that the way that that's written, council vote means like, oh, I can add more council votes to that thing that I have completed in order to unlock the 2nd and tertiary level passive effects to it.
+But I didn't.
+I guess that's like that's not really spelled out the tutorial.
+40:07
+I feel like just.
+It's it's mostly just the vote terminology is weird.
+Like it's more like the heart system from Stardew Valley than a vote is.
+Yeah, voting implies like someone wins and everyone else loses, but that's not the case at all.
+Yeah.
+40:23
+That's like if it was going to be I certainly.
+Agree with that.
+There should be like what the the idea of like someone having more than one vote.
+It's like I, I don't are, are you voting for them?
+Are they voting for you?
+It's not really clear what the it's the political system of this island is.
+40:40
+Sure.
+At a certain point in my run, I thought there would be like, the council is now taking a vote and if you have secured enough of a specific council person's support, then like, you get a bonus.
+I, I Yeah.
+40:56
+Support.
+That support is a better term than vote.
+Like, this is how much of the agriculturalists, like, support that you have.
+And when they have, when you have enough support, you get like, these benefits.
+Like, I don't want a vote.
+What's the vote mean?
+The vote mean, yeah.
+The vote is a whole political implication that I feel like really distracts us from what's actually happening.
+41:16
+Well, well, when you see when someone gets first past the post, then they win all of the electoral votes for that area.
+And it's a very fair and balanced system that we shouldn't abandoned in in favor of frank choice voting whatsoever.
+So it, it also kind of bugs me about this, that like there's some like screen where you, you like, you go to this like big empty hall where there's like two or three of the councillors just kind of like mulling about and.
+41:42
+Yeah, yeah, that's the indeed this that mysterious screen.
+I yeah, you go there and and what do you do?
+Well, you just kind of like look at them, I guess, like, I don't know, they're just kind of like loafing around like all, like all city useless City Council members.
+They're loafing around on the taxpayers dime.
+41:58
+They're not, they're just sitting around.
+They're not even like dynamically like poking, poking at the cards that they're playing down like in the splash art and like making scowls at each other, just kind of like they're.
+Oligarchs for their faction, of course.
+I mean, they're they're they're.
+I think, I think the terminology, I think that this game gets the terminology wrong.
+42:16
+I think the two things that you're picking from should be called factions.
+And then the people that are you're voting for should be the guilds and you're supposed to get the support from the guilds.
+Like that makes conceptual sense to me.
+42:32
+You get the like support from the industrial Guild.
+Cool.
+Instead of the counselor, which is like, what do you are you are you voted in by like farms?
+Are you voted in?
+Are are you helping me?
+What you know, decide what classes I need to take, how many credits are left?
+42:47
+Like what's going on here?
+With this, are you a lobbyist?
+What are we?
+What are we doing here?
+And we should have waited to play this game for next month, huh?
+But I'm.
+I'm.
+Going to look it up now though.
+I mean, is there, is there, is there a vote, is there, is that even a term that?
+43:04
+Exists snap election.
+Yeah, yeah, we're gonna dissolve Marshall Parliament.
+Yeah, dissolve Parliament.
+How did it work?
+Martial law.
+How did it work in the king is watching cuz there were also like factions right?
+Or am I misremembering?
+I feel like there is.
+I feel like this game is a combination and and and the king of the king is watching is like one of the things that would include in that, but I can't remember exactly the.
+43:26
+Game.
+So the votes are they're just, they're just the consumables, I guess that we described.
+Yeah, Yeah, they are.
+Were you OK?
+Alright, I see.
+I see.
+And then I've never had a situation where I've got a vote and it's sitting in my like things I can spend, like potions or, or built or blueprints, and I'm like, oh, should I spend this or not?
+43:41
+It's like, no, just use it right away.
+Why wouldn't I use this right away?
+Yeah.
+It was always like, I felt like, am I dumb?
+Am I missing something?
+Is there a strategy to holding this?
+No, you just, you want it, right?
+I don't.
+Know for the king King is watching you had a bunch of advisors and you they they were basically like small modifiers to your your play style.
+44:04
+You're like, oh you know you pick the stone man and your castle is 100 HP stronger.
+You pick the owl and you get to choose a spell every five waves.
+So like, not really at all the same as this, but maybe a better system it's.
+44:22
+Been a while so my mistake no.
+No, but like I think a better it's it's a more interesting system, but you also you choose those at the beginning of the game, so or the beginning of the run.
+Did anybody have any notable moments that stood out of like, oh man, I was on the ropes and then boom boom boom this happened?
+44:43
+I got a paint that changed the like type of a thing.
+So it was like changed it from something to sacred, which let it proc off of the thing that was next to it, which like doubled by point production.
+44:59
+That was fun.
+That was cool paint.
+The I posted a picture to the chat on this and this was I put walls around a single building and when you put walls around a building it's a 3X molt.
+Molt is also of course using Bilatro and in the case of this building it's 1 is.
+45:17
+Like it's like based.
+On the value of your heirlooms, which is like your relics of facts, whatever you want to consider it.
+And it was just an insane amount of value because I just got the most expensive heirlooms or whatever the heck.
+And yeah, it just, almost all of my points just came from this single building that was surrounded by walls.
+45:36
+And it was just like, Oh yeah, that's.
+It's your holy shrine.
+Yeah, exactly.
+It's just like no one else.
+Matters.
+Exactly.
+And that was that was pretty, that was pretty cool.
+That's a very unique experience too.
+I don't have it not had another run like that.
+Yeah, because it felt like for me, and again, I'm still playing on noob noob ass baby mode, but for me it it it felt kind of samey each run where and maybe this was me just kind of building myself into a corner where I wasn't like, oh, like look at all these, look at all these flowers over here.
+46:09
+I'm going to go mass apiaries and I'm going to trigger off those and then I'm going to have this really big build going on over here.
+I guess I don't know, like I did have some runs that were, that were pretty varied from each other, but it didn't feel like I had like a build archetype going, if that makes sense, Cuz it always felt like it was, it was kind of like, all right, what do I need to do in order to generate points right now?
+46:35
+And like, I guess you do so there, there are buildings and resources and things on the map that trigger every so many they they say weeks, but it's effectively like turn actions.
+They're like, oh, this building here in three turns, 3 weeks will trigger and then that will consume all the points.
+46:56
+And then it'll give you this big point explosion.
+I felt like this, and this is probably a deep insight into how meager my brain calculation is on the couch with the cat in my lap playing on the Steam Deck with the teeny tiny text, which I will say this game, like it's not supported on the Steam Deck.
+They have plans to support it.
+47:12
+It plays it plays surprisingly well.
+I could see this being a very good switch game if it was switch native, but maybe I wasn't trying to like min Max and optimize like to the NTH degree.
+And maybe that was my downfall, but I don't know.
+47:28
+Like will you you were you've gotten like the furthest through the ascension levels than than any of us did.
+Like were you getting out like a pen and paper and being like, all right, in order to beat this one, I've got to synergize and get all the stuff going deep strategy.
+All the strategies that emerged were just on the fly and they were always like, oh, this thing gives me molds.
+47:49
+OK, well, now I see this thing.
+I know I don't want to like put it in the epicenter of like this radius because if I have, if I put it off to the side, then I can include three of them instead of one right in the middle.
+And so just understanding like the dynamics of like here is the thing that produces and then understanding that like I can have more stuff around it and that's a better way of doing it on the perimeter as opposed to right in the middle.
+48:14
+Like it's a very I mean, it's all very faction dependent.
+And so that's like fishing is what I'm referring to right now with the maritime function.
+But like, it's something that you just, I don't know, you it, it comes on the fly and you don't have to plan in advance.
+And for the most part, it just kind of came naturally for like, Oh yeah, this is the synergy I'm looking for.
+48:33
+And based on the characteristics they give you in the descriptions, you can make decisions in advance, which are seemingly most mostly obvious for like combining things together.
+And then they combine together and you're like, oh, that's, that's nice.
+OK.
+And so that feels good.
+So I don't know it.
+48:49
+I don't know if that answered your question.
+But, oh, there it is.
+You thought he could get through without a humble brag.
+Oh, yeah, It just comes naturally, you know, whatever.
+Say that to my 7 doomed settlements.
+All the horrible little Stonehenge people.
+I'm sorry.
+49:05
+In pain as they, as they shrivel away into nothingness, die of starvation.
+Well, I'm sorry, I thought you did say something earlier about like, you know, if you're just placing buildings based on how much, how many points they're going to give you immediately, then you're going to lose.
+49:22
+You have to have some understanding of how the buildings work at least a little bit.
+Yeah, OK, a little bit.
+But not it doesn't.
+It's not a super.
+It's not.
+A you look like a few moves in advance in in like a game of chess.
+You're playing at a level of you're you're 1000 ELO.
+That's what you need to.
+Do yeah, OK, OK.
+49:38
+That was that doesn't help at all.
+Scott I I agree.
+I I didn't feel like I had a huge amount of time to plot.
+That's not totally true.
+I guess I started unfortunately, I would try a new Guild and when I would get a new Guild, which didn't happen very often.
+49:55
+Took me forever to get more guilds I would like or, or when I pardon me, like for example, when I, when I like the second run or something or third run.
+I, I tried out Marshall for the first time and in classic Andrew fashion, I completely misunderstood how certain buildings worked and they weren't functioning the way I thought.
+50:13
+And I thought I had a plan and it didn't.
+It didn't pan out at all.
+You asked earlier about if there were any like big like come from behind win moments.
+And unfortunately, the times this happened, like the times that I randomly, the times I generated a ton of points and got that got those little sounds of the things clicking and clacking and the number going up and the little pieces of the city skyline coming together.
+50:39
+Initially it was like, I was very confused, like, well, wait, hold on, what did I do?
+What, what happened?
+And then I'm like kind of trial and error ring trying to figure out, OK, all right, now I get it.
+And, and, and to the game's credit, the way that it lays out information when you like, you know, hover over and click on cards and things.
+50:54
+It's it's quite clear about like here's the terminology here, the definitions and and it's also it doesn't, it's not a it's not a ton of text.
+It's nice and concise, which I I really appreciate.
+So, so will a bit of a bit of planning, a bit of understanding of all the cards, but not necessarily a big involved chess like thinking a million moves ahead.
+51:20
+Colin, how much planning or not were you doing going into your runs?
+One second here.
+We're hot off the wire.
+We have an update from Colin.
+It seems like Colin Colin's microphone did not pass the council vote at the moment.
+So while while he troubleshoots his technical difficulties that that vengeful farmer girl, I mean, she's just holding the grudge here in the meantime, like did were, were there any like councils that stood out as like, oh, this one is like the best one by far?
+51:52
+Because for me it felt like.
+The Guild do you mean?
+Which Guild?
+The Guilds.
+Are the best.
+Well, not even just like what cards, but like, oh, like this Guild synergizing with this one in a really great way.
+Cause for me, like it felt, it felt like it took forever to unlock a new Guild and like being able to.
+52:12
+And again, like, I haven't really played this game all that much, but I was expecting like after more than like four or five hours to unlock like maybe more than just like 4 out of the seven.
+There's some that like that unlock by like saying, Oh, you have to, you have to spend like so many out of like the potion slots or you have to do you, you have to like accrue so much gold or, or think like those kinds of challenges to do.
+52:39
+But it felt kind of, I don't know, anchored in a way that like, Oh well, like I I want what I think what I wanted out of this was like at the end of like the first run, I should have like another faction to play with.
+52:54
+And then like I have, oh, a shiny new toy to play with.
+I can play with that one and then like some other faction.
+And then at the end of that one, I might like have a very easy on ramp to get to the next one.
+Like the carrot is like right there.
+We're just going to play one more run in order to get this new council unlocked.
+53:11
+But it felt like I'm.
+Have you played the the?
+Did you unlock the civic 1?
+Oh, he's back.
+I'm back.
+I did unlock, I did do one run with that which was very different and I'm like.
+This is great, that was the more the most interesting of the unlocks that I've gotten so far.
+53:27
+I do agree with you with it like it does take seem like it takes a little bit too long to unlock all the factions, especially considering how many like combinatorics there's going to be. 7 factions is that right Yeah yeah.
+So I.
+Guess maybe not.
+In 10 hours, like it feels like, you know, a little more than an hour per.
+53:47
+Well, I also wonder if you yeah, I mean, I do dopamine want it now.
+But at the same time I wonder if you do unlock those things faster by maybe not necessarily playing on higher difficulties, but if you are playing on higher difficulties, you are doing more of those actions that wind up unlocking those other those other groups.
+54:08
+But yeah, I don't know, I don't know why it just it to me just felt really slow for for those unlocks where like Bilatera, you're unlocking like a new deck, like every time that you're playing it almost it felt like, and I'm just like, Oh no, my, I've just I have too many options.
+54:23
+My Juke is my juice is my juice is too stinky is what I'm trying to say.
+And I've never heard.
+That phrase before but.
+I think it's just that like the, the, the guilds are the only thing that unlock that feels meaningful.
+Like, well, you unlock other buildings for your various guilds, but that doesn't feel it's like it's a thing that happened.
+54:46
+I can't see immediately like how this is gonna like Wow this is so good now I'm gonna use that in the next run.
+It's not like you're unlocking a new map type or something.
+Yeah, and almost always I, after I'm done with a run, I like, don't want to play that same faction again.
+So it's like, cool, here's the thing that I unlocked for a Guilt that I'm not going to play with now.
+55:05
+You want Here's the big difference between Bilatro and this game, which is Bilatro is based on poker.
+Everyone knows what a pair is.
+Three of a kind, four of a kind, straight flush.
+These are all concepts that are like things we know.
+This game has to start with an abstraction.
+55:22
+It has to start with what is it to to have a farm?
+Well, farm is and it have to you have to read the print.
+You have to understand.
+Okay means all the open spaces around this thing get points on the basis of it being open right and not having anything on it.
+55:40
+It's just like there's a a layer there of interference for just casual understanding where Bilatro for a casual player immediately like you know what everything is and everything that is a value add on top of that is just an immediate connection point.
+55:58
+Whereas with this game, it's like here's an abstraction and an abstraction on an abstraction.
+There's layers which are in order to digest and I think that's a problem with a lot of games.
+And that's why there is such a focus in general across all of roguelikes on like, can we find a game that people know already and can we build on top of that?
+56:20
+Whereas this right here is you're starting with the abstraction level, which is like the farm.
+What is a farm?
+Every game has a different definition for what that is.
+What is a doc?
+What is all these town bell?
+Even something like What does adjacent mean?
+56:38
+Yeah, what?
+Is exactly is diagonal adjacent?
+It took me a while to be like, okay, if it's not diagonal is adjacent unless it specifically tells me it's not and.
+And then that's just a, that's a, a fundamental problem that we, we that can't really be overcome except for by basically building on a foundation, which is, here are games that people already know, which I think is an interesting dynamic in the, in the, in the realm of roguelikes is like, Oh, well, there's all these games that are based on here's blackjack, here's poker, here's slots, here is, you know, it's an interesting dynamic.
+57:14
+And this game just unfortunately has to battle uphill against the abstractions on top of abstractions.
+I will fully expose that I basically had no idea what any blackjack or any any poker hands were prior to playing bilatro and I would be pulling up the little guy like every six seconds.
+57:30
+I still did it now because I was like, what Royal?
+OK, I know.
+Well, I think I know what a flush is, but.
+Fort Collin, Will and I played so much poker in high school.
+So much.
+Yeah, we were busy learning, right, Scott?
+Yeah, yeah.
+57:46
+See I was learning what a field hospital.
+I was learning the field hospital, I was learning the composter, I was learning what a well did and and the skip action.
+So all those things would you like?
+Yeah, I mean the yeah, I, I, I, I can, I can agree with the building off the established vocabulary bit.
+58:03
+I think this game kind of builds off that established vocabulary from like the the Euro game, like board game aspect.
+Because a lot of them like Agricola or like other farming games like Key Flower and such have have that kind of like shared vocabulary of harmishness that like, oh, like the farm plot makes manure, manure builds into XY and Z other systems, that kind of thing.
+58:25
+It, it feels like fairly intuitive.
+There is that a little bit of like learning curve associated with Oh, like the the field hospital is a, is a healing tagged thing and these other things that trigger healing tags and untrigger like what?
+58:42
+What are the trigger conditions that unplacement And then you do this thing and then you remove the building to place another other one in that same spot to re trigger all the things.
+There's there's a learning curve, but I didn't think that the learning curve for this game was like insurmountable, no.
+It's just an obstacle.
+58:58
+That's the point.
+Like for the flush, you know that you all your cards have to be the same, but like, oh, here's the modifier, which means that like one of the two colors is also included in that color.
+Like that's just it's you're starting with all the colors are the same as an automatic like immediate understanding.
+59:15
+And then you have one modifier versus like here is a base rule and here's a rule on top of that.
+And so the the whole point here is that there's just a slight cognitive load that you have to bear in order to get into this game.
+And as I check my poker hand, look up CHEAT SHEET here real quick.
+59:33
+Well, for people who are. 5 cards of the same.
+Basic games.
+Sorry, my apologies, let me add that.
+Now in Poisson you see is when you the enemy pawn moves and.
+And castling can only be none of these conditions.
+Let's see.
+59:50
+I mean I, I, I have to look up which how to how to set up the chess board every time I play?
+White Queen on her color.
+I mean sure, but which is closer, Bishop or knight?
+They go into sending order of point value, obviously y'all.
+Except for the.
+Rook.
+1:00:06
+You got the.
+You got the castle, you got the Bishop, you got the.
+Knight, where's the horse go?
+No, no, God.
+Oh no, I bungled it.
+No, no, of course, cuz the cuz the the clergy is of course hanging out with.
+The You got the rock Bishop horse, King queen, Bishop, rock horse.
+1:00:26
+These are all the the DLC councils that you'll be able to buy for combo lands Game of the year edition.
+You're playing on a chess board instead, and you're getting all the synergies that way.
+Any other?
+Is there music in this game?
+There is, but I think the the music I think is is very good in this game.
+1:00:45
+It it adds to the coziness big time, yes.
+Yeah, I don't think it was.
+It's good, exceptionally good, but I thought it was a nice.
+It's it's good like thinky background music, like it, it doesn't like jump out of like, oh, I'm being distracted by this thing.
+It feels like it complements the the like the way that I'm thinking very well.
+1:01:04
+Yeah, I agree.
+Let's see other points from the dock here.
+Like is, is this game too derivative?
+Like does this game, like you see this, I feel like a lot now where it's like like the new hotness in roguelikes and it's X game meets Y game and it's the greatest thing since Z thing is, is this is this a good example of those like bilatro meets city builder type games or or or descriptions or marketing material for that kind of thing?
+1:01:40
+How many hours do you all have and how many you plan to play?
+I think that the the the core factor is like I have thousands of hours playing slate Spire it and in this game I have 10 or 11 and I feel like I don't at this point feel the need or want even to open this game up again.
+1:02:00
+I have all the guilds unlocked.
+There are things to do, but it's just like, is the core gameplay loop something that I'm interested in?
+I mean, you know, it was good.
+It's good for what it is.
+And if I didn't have the context of the other games that have already mastered their domain and that have demanded 6070, eighty, 100 plus hours from me, I'd say, Oh yeah, this is fascinating.
+1:02:24
+But if you have that in your understanding of like what's possible, this game looks a little less, a little less cool.
+It's still good.
+It's still looking at all of what already exists.
+That's good.
+But no, it's not a masterpiece by itself.
+1:02:39
+No, in my opinion.
+Well, I'm sorry to bring up this tired old argument again, but for some people, for some people, everybody's different, different strokes for different folks.
+The cost of the game does matter.
+And this is a game you can get for less than 10 bucks.
+1:02:56
+And it's quick to it's it's, it's, it's cheap and you can pick it up and you start playing it and you start feeling dopamine hits immediately.
+I think there's something to be said for that and without it being overly disposable, but is it too derivative?
+1:03:11
+I think it's doing something pretty unique.
+I mean like the way that I feel when I'm playing a good like shooter, the way that my FPS meathead brain like lights up as I'm I'm feeling the reward centers in my brain illuminate with with all the headshots and and explosions happening.
+1:03:32
+That feeling this game did not completely replicate, but it's the closest I've ever gotten in a in a city builder to like there being that constant feed of of enjoyment like I get when I'm playing a fast-paced action game.
+1:03:49
+And I think there's there's something to be said for that.
+I think it's doing something pretty unique and and interesting.
+I, I wish that the game was maybe slightly more expensive and slightly more complicated.
+I, I, I, I kind of wish there was more of a story.
+1:04:04
+I wish there were like more events and things happening.
+There's not enough of a narrative.
+Like even just like I would have, it would have gone so far for me for Hey, each time I fire up a new run, like it gives me just, you know, selected from a, from a table of, you know, 500 things like a reason for why my guys are here or what is happening or just just anything.
+1:04:26
+And like, I don't know, is there a reason to beat ascendancy 20?
+Does anything happen or change or there's no like goal?
+There's no story goal.
+Agreed.
+Yeah.
+Yeah, I mean, agreed on that front.
+Luckbee a landlord has the extremely thin veneer of you gotta beat your landlord just collecting your rent.
+1:04:46
+But like it's.
+But it's so relatable and it's, it's enough.
+Yeah, as.
+You said it's like it, it's just like enough of a hook that it's like, and, and you know, you're getting like emails from your, your comrades who are giving you re rolls and item banishments, which it's, it's like it's not necessary, but it's like a welcome little bit of flavor to it.
+1:05:04
+That like if, if the council people had that kind of extra character to them that like, oh, I really want to satisfy the, the conditions for, for the mercantile guy, because I love it when he really sends that zinger over to farm girl and then she has to like look all bemused about it.
+1:05:26
+Like, I don't know, like again, not necessary.
+Bilatro doesn't have any of that, and that's doing just fine.
+You're slowly uncovering the reason why all these islands are mysteriously empty.
+Oh yeah, that's that's something right there.
+1:05:41
+I like that.
+They're like, these islands are always empty, but there are ruins here.
+Curious central government What?
+What do you have to say about this?
+What's this portal where these these trolls with siege engines are walking out of them in a 2D plane?
+Anything else we want to cover about combo lands before moving on to our combo riffic rating numbers that we slap onto them?
+1:06:09
+Except for judgement.
+Ultimate, ultimate judgement time.
+All right.
+Well, we, we have some numbers very appropriate for Halloween spooky season here and starting up with our spookiest number of the evening.
+Andrew, kick us off.
+Oh no, I'm the spookiest.
+1:06:26
+Which is a shame because I like this game enough that I've been playing at the whole podcast.
+That's right, That's right.
+And you never would have guessed.
+I'm sure you could have guessed the flashing lights and everything.
+And then it's so funny because then there was a question of like, well, how many stages are there?
+I'm like, well, I'm playing the game right now.
+I can, I can look at it right now and I still got it wrong.
+1:06:44
+So just goes to show how incompetent I am with these types of games.
+So yeah, I don't, I don't like city builders in general, but I I do like this game a fair bit, I imagine.
+I mean, at the I, I am guaranteed to play more of it because I'm at least going to finish the run that I'm currently on.
+1:07:03
+Almost cut the wall, almost got the wall around this, this great little engine of a bunch of watchtowers that I have in a, in a that are what you can't build next to each other normally, except there's a town square and I've got a big like forest and I'm making a building forest.
+1:07:21
+And I've got this fun combo going and I want to see it through and it's enjoyable.
+And, you know, it'd be that much better if there was a reason, if there was context to what I was doing this for, Like, and that's, I mean, this game seems plenty, you know, successful.
+1:07:40
+So hopefully they'll roll out some updates and some changes or, you know, maybe they're already working on a sequel.
+So what do we have here in terms of scoring?
+So yeah, I'll have to say my experience of these types of games is very different because my my brain and my video game interests are very different, as is my scoring system.
+1:07:59
+Scott.
+Scott was smiling before I.
+I didn't think you were going to get there.
+I thought, is this going to be the day?
+Is this going to be the day?
+So let's not look too hard too closely at these numbers because my my scores are all goofy, all right?
+5.75 Andrew points.
+1:08:15
+I knew that I wanted to make it higher than dot age dot age I like, but in terms of like the actual fun that I was having, I knew that it had to be better.
+And then I started looking at other games that I I ranked above that and that takes me to Spelunky.
+1:08:33
+Curse that game.
+Curse that game combo lands is better.
+At the very least it's it's not evil like Spelunky is.
+So it's my new number 49 right below 868 hack and right above Spelunky.
+1:08:50
+Who's next?
+I'll go next for me.
+Where did my numbers Chico like?
+I like this game.
+I do.
+I had a fun time playing it.
+There were just kind of like a couple sticks in my craw that I think might just be like a symptom of US playing the game so early that I could totally see overtime them polishing up, changing up and maybe like a year from now.
+1:09:17
+The game kind of like is totally different.
+Well, maybe not totally different, but you know, kind of touching on all the things that I that I pointed on.
+So for me it's going to be a 6.8 Scott points just ahead of Lone Star and just a behind Kingdom new lands.
+1:09:34
+Yeah, I mean, like overall I had fun with this game.
+I like the aesthetic it it has a very good cozy game feel to it.
+The the music feels very appropriate for for what you're doing.
+This feels like another good sort of secret math game where if you want to trick children into learning good math principles, but you don't want to do it using devilish poker hands, then this would be a good a good other option for you.
+1:10:06
+I like the pixel art.
+I think the the little, the little effects as your town grows and yeah, like the little people walking around and doing stuff and it, it feels like it kind of comes live in a way.
+And I think a lot of a lot of the little things that I have are just kind of nitpicks that I think will probably be resolved over time.
+1:10:28
+But if I had to put a number on it right now, that's what it would be.
+I don't think there's anything here that's like crazy innovative, but it's still fun.
+Like it's still a good fun game for all ages that yeah, I could see this being like a a good Nintendo Switch game if it ever gets a release on there.
+1:10:48
+So yeah, six 6.8 for me.
+We will have whose column is this?
+We'll go next all.
+Right, it's going to be 7.0 real true points, which are obviously the real way of thinking about this game.
+1:11:06
+I think it's interesting.
+I'm looking at the difference between all of y'all's scores for dot age and combo lands and seeing like what?
+What are the differences there?
+And so Scott, you had dot age at. 7.0 We're getting call outs.
+What?
+1:11:22
+What is this, the Omega?
+Ball and combo lands is at 6.8, so you a big reduction.
+Colin, you had dot age at six point O and this one's at 7.1, so the opposite direction.
+Spoiler.
+Whoa, I don't care.
+1:11:39
+Wait a minute.
+You're right.
+Sorry.
+How dare it doesn't matter, Yeah.
+Now we got to regrade your last one hold.
+That one, my mistake there.
+And then we have Andrew consistent, solid.
+Thank you. 5.7 dot age 5.8 combo lands.
+1:11:56
+You know what you feel about these sort of games.
+And I feel the same.
+It's a 7.0 and a 7.0.
+That's that was my point here.
+Apologies again for throwing or for for giving call and score away there.
+But yeah, that it's all it.
+It feels fine.
+1:12:13
+And I got to say, if you want something novel, that's the thing that at this price point, like right now, when I'm looking for one hour, 1 exact hour of fun, this is the game that I turned to.
+And I I think that that's a good decision.
+1:12:29
+Like I've played every single possible way you can do is play this bar.
+I can play it every possible way you can do Monster Train Bilatro Lucky Landro look all the novelty I have extracted this game still has novelty left.
+1:12:47
+There are new things to think about.
+I haven't done a lot of the stuff that this game has done, and so am I going to continue playing this game?
+I I said to call in early this week.
+I had a prediction like I probably won't, but like no, I will I I'm still having fun every like every game I'm playing.
+1:13:03
+I just lost the last one and now I'm eight.
+I'm excuse me, I'm seven wins to two losses and I'm excited to see like I have no idea what the next pairings going to bring, but if I have an hour to kill and I don't want it to be playing Project Zomboy, which I'm back into again for some reason, then it's going to be this game because it's a great hour of my time.
+1:13:25
+So 7.0 and I think, yeah, it's definitely worth it.
+All right, Colin Combo.
+Finishing up with 7.1.
+Oh, who could have guessed?
+The the highest of the yeah, I know I I like just I mean, I'm going to go back to comparing it to to dot age because I think that is the most comparable game.
+1:13:42
+I I did like this game of a a fair bit more than that.
+I liked the vibe of playing it.
+I like the feeling of playing it more.
+It is a cozy, satisfying solitaire game where you're building the little points.
+1:14:01
+I think that there's it it, it does feel like it's not quite there.
+It is still missing something that made like Belatra or like it doesn't quite have the one more run as much.
+For me, I kind of agreed with what Scott was saying.
+1:14:19
+It was felt a little bit samey.
+The runs didn't feel like particularly different from each other, like you were absolutely doing like different buildings, but the strategy kind of always felt roughly similar.
+But like the run length is excellent.
+1:14:36
+It felt very bite sized in a way that I enjoyed.
+I don't know how much like longevity I'll get out of it, but it's in terms of a dollar per hour per fund.
+I think it scored pretty well.
+So give me a 7.1 but 7.1 with a pretty strong recommendation for playing it if you think it looks good all.
+1:14:58
+Right.
+Well, that is going to place combo lands as their number 64 out of 103 games that we have played for the podcast with the spookiest overall average rating of all the games.
+Very appropriate for October with. 6.66.
+1:15:17
+Which I I did not intend, but it was a happy accident.
+So I was like, oh, if we had played, if we had played combo lands earlier and then Diablo 2 for for Spooktober.
+But no, we're keeping the Spooktober train going with a, with a solid 6.66.
+I mean like 64 out of 103.
+1:15:34
+Yeah, I mean like this yeah, this game was fun so similar games to combo lands previous episodes obvious lucky landlord bilatro dot age that we've talked about.
+I guess I'll probably throw in against the storm here as well as like a city builder rogi type game.
+1:15:54
+I feel like I should maybe go back to that and give it another another look see, but some in the city builder end of the spectrum.
+I don't know that these two are rogue lights specifically.
+They are definitely like like score chasing type games.
+1:16:10
+But there is a game called just straight up Islanders that you are.
+It's it's almost kind of like a 3D combo land in a way, but it's I guess less run ending doom if you screw up a building placement.
+Same I think goes for for how do I pronounce this dwarf romantic with AK that also feels kind of like an endless carcasones style.
+1:16:35
+Like build out the world in every direction kind of a thing and watch all the stuff snap to each other.
+Yeah, I just, I play Dorf romantic.
+It's fun.
+Yeah, there's one game that's on sale right now if I think for 2 bucks that maybe no one has ever heard of called City Limits, which I believe is another kind of rogue style more I think focused on like actual like city type stuff.
+1:16:58
+But there's I think coming out soon, if it's not out already, maybe tomorrow we'll see a profit margin like profit as in like a religious profit margin that I was gifted a steam key by one of the the Ogs of the roguelike world who who developed the game.
+1:17:17
+Another kind of fun like city sort of engine builder, factorial belt resource moving type game.
+I did a a very short, frantic 20 minute video review.
+The only video review that we've done for this one on the YouTube channel.
+1:17:34
+That one's fun.
+There's one that involves a dragon called feed the scorch pot, which looks interesting.
+And then kind of like pivoting to other sort of score chaser type Rd. games.
+There's there's a couple mahjong ones, but there's one.
+1:17:51
+What's that?
+How do I, how do I pronounce this one?
+AO Tenjo infinite hands that I think is more kind of Belatro pilled.
+On that side of the spectrum, there's Clover pit, which is a very luck be a landlord style slot machine Belatro list or Belatro like sort of game.
+1:18:10
+And then finally, like you, you want to see number go up the game Q, like the letter Q-UP is the number go up game created by the developers of the universal paper clip game.
+That one has like a dedicated rogue light mode that you have to unlock after a certain point, but it is maybe the most unhinged number go up game I've played in a long time that is.
+1:18:34
+That's the that's the coin flipping one, right?
+That's the coin, the coin flipping E sport game QR that has like will written all over.
+It Oh my God, I'll do this right now like paper clip game.
+Are you kidding me?
+That was that was like such a good game.
+What?
+What is this?
+This it is.
+It is quite the send up of the E sports world, but it definitely has is.
+1:18:55
+It rogue light can wait, can I pick?
+This one you could pick it I I would I would say it counts.
+Because I don't think it's, I don't think this is rogue light.
+There there is.
+A what do you what do you call heads or tails that's meaningful gameplay impacting RNG?
+Y'all ribs right?
+Interrupt.
+1:19:11
+But bad news.
+My my run has ended in disaster.
+I couldn't get the wall around so close and that mold would have been so beautiful.
+But anyway, yeah, it's you can pick it.
+Go ahead and pick, it will.
+We'll see.
+I'll look into it, but I'm excited based on what you're saying so far.
+1:19:28
+Go ahead.
+Yeah.
+Maybe maybe give it a trial run or two.
+But but it's it's very much a kind of RPG style game up until you quote beat it in a way that unlocks this hacker mode, which is it that that itself is very rogue light.
+1:19:44
+It is very much run based, but it is it is somehow even more unhinged than the base game, which is saying something.
+So give all those similar Asterisk games a look see.
+But as we wind down here from combo lands as the as the sun starts to set and we get that very nice little animation where it goes into night time mode and all the little meeples are going into their little huts for cozy time.
+1:20:12
+You can send your Cozy Time emails to the e-mail grogpodzone@gmail.com.
+Our Mastodon page is grogpod at game dev dot place the website.
+Just go there grogpod dot zone your one stop shop for everything.
+But as, as I kind of alluded to earlier, it's it's Spooktober.
+1:20:30
+We're getting into the the the scary season, as it were, but the time for fear is now emphasis on time in that our next episode, a listener request week episode.
+We are coming back to the world of Greek mythology with we've been doing a lot of sequels this this season, but what better sequel to kind of wrap up spooky season with or continue spooky season than Hades too?
+1:20:58
+It's time to kill some time.
+But yeah, we are.
+We are going to be saying a lot of death to Kronos and brewing all sorts of witches.
+I'm sorry.
+What?
+There's a time mechanic in this game.
+There's.
+Kill time, yeah.
+1:21:14
+All right, I guess we'll get to it.
+Yeah, well, that that's who we're killing in.
+I haven't followed Haiti's too at all.
+So thank you.
+That information.
+Yeah, it's spooky.
+The underworld, that's scary.
+That's what Halloween's all about, getting scared.
+And it'll also be scary for me because famously, I kind of had a rotten time with the original Haiti's.
+1:21:33
+So we'll see if this addresses any of my complaints or whether my complaints were in fact completely unfounded.
+Unlikely.
+Well, if you like.
+Listeners, thank you.
+Listeners, this of course, is a big one.
+So we we got to cover it and by God we are getting it done.
+1:21:50
+Yeah, get get your big witches hats out, get your your shredded ABS ready to grate some cheese off of.
+Yeah, this will be a fun one.
+I am I am way ahead of the Co hosts on this one.
+I intentionally played way far ahead than everybody else because I felt like we're gonna have to have someone who knows what they're talking about for this one.
+1:22:09
+So yeah, that'll that'll you'll.
+Forget I'm unemployed right now and I I might give you a run for your money here we'll.
+See, I, I mean, yeah, my only advice for Hades, too much like Hades 1 is like, just just play at a pace that feels right.
+1:22:25
+I felt like maybe I was here for a second.
+Yeah, 8 hours a day.
+Just quit your job.
+No, no, in addition to my full time job.
+Is it, is it, is it 1.0 yet or is it still yeah?
+It 1.0 almost exactly 1 year ago.
+Oh wow, OK, I'm really out of the loop.
+1:22:41
+I I meal.
+OK, so.
+We're going to get those plantations ready to go.
+We're going to be there.
+There's so many things that I just want to just like jump, jump out of right now and just say like, well, what about this part and that thing and all these.
+We're we're we're gonna get all of our Matt Damon Odysseus impressions ready for two weeks.
+1:23:01
+So, But yeah, so combo lands, we'll wrap it up here and playing us out for this episode, we'll cozy up with some pumpkin spice drinks next to the fire with some fire music from the combo lands.
