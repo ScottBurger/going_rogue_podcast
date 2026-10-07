@@ -24,12 +24,23 @@ C-c-c-combo maker! This week we hunt through the forests of new roguelite releas
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/combolands/id1650474911?i=1000793591967) | [Spotify](https://open.spotify.com/episode/7LymmRrToBkSzHa3N5MR7k) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/diablo2.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/combolands/id1650474911?i=1000793591967) | [Spotify](https://open.spotify.com/episode/7LymmRrToBkSzHa3N5MR7k) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/combolands.txt)
 
 ---
 
 * 01:13 - Game Stats
 * 03:01 - One Sentence Description
+* 4:16 - Splash Art: Board Game Cover, King & Council Aesthetic Debate
+* 10:29 - Guild System: 7 Guilds, Pick 2 in Monster Train Style
+* 13:03 - Ascension Difficulty System: Additive Modifiers Stacking to Level 10
+* 16:50 - The Meeples: Horrific Shadow People & In-Game Pixel Art Praised
+* 18:34 - Scoring Animations: City Building vs Balatro Flames
+* 23:18 - Building System: Terrain Features & Placed Tiles All One Category
+* 33:31 - Shop Design: Relics, Blueprints & No Elite Monsters?
+* 37:56 - Council Request System
+* 45:17 - Winning Moments
+* 55:05 - Abstraction on Abstraction vs Universal Poker Knowledge
+* 1:03:49 - Wish List For Future Content
 * 1:04:58 - Rankings & Final Thoughts
 * 1:14:02 - Similar Games & Show Wind Down
   
