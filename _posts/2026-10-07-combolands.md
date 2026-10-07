@@ -16,7 +16,7 @@ length: 71952408
 tags: ["2026", deckbuilder]
 ---
 
-C-c-c-combo maker! This week we hunt through the forests of new roguelite releases and encounter Combolands: the town-building, deck-building, point-building game that takes its inspiration from the greats like Balatro and Luck Be A Landlord. Choose two of seven guilds to harness the power of natural resources, trade goods, sand fighting pits, and bees to clear a point goal every milestone. Grow your town council and make number go up!
+C-c-c-combo maker! This week we hunt through the forests of new roguelite releases and encounter Combolands: the town-building, deck-building, point-building game that takes its inspiration from the greats like Balatro and Luck Be A Landlord. Choose two of seven guilds to harness the power of natural resources, trade goods, sand fighting pits, and bees to clear a point goal every milestone. Grow your town council and make number go up! 
 
 <div class="container">
   <audio controls style="width: 100%;">
