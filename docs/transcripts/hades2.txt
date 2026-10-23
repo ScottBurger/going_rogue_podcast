@@ -1,0 +1,2027 @@
+0:14
+Greetings friends, and welcome to the Grog Pod Roguelike Podcast, where each episode we kill some time by delving deep into the underworld of a roguelike slash roguelite game.
+Player judgment cards with ratings and if it ascends the highest peaks, revisit it in our end of season recap tournament.
+0:33
+I am your sneering aged Titan host of the podcast Scott Berger and with me are my Olympian Co hosts.
+This is will the boon you always want to miss.
+And this is Colin.
+Just a little friendly shade along the way cheering you on.
+0:49
+Lastly, the resident Hades hater Andrew Harshman.
+As if.
+Mr. Cronus himself.
+Yeah, a little bit of a title spoiler, but this is yeah, another listener request week where if you were listening to this and you're like, boy, I sure would like to have the the the Grog pod fellows check out a game.
+1:12
+You can do that by either bombarding our e-mail grogpodzone@gmail.com.
+You can go to Grog pod dot zone slash request if you want to fill out a Google form there as well or just, I don't know, comment below you.
+You know how these things work.
+But anyway, we this week to keep Spooktober season rolling, we are talking Hades 2 released in early access May 6th 2024 and one point OA little more in the year ago September 25th, 2025.
+1:43
+Another kind of find it everywhere sort of game again.
+Steam, Nintendo Switch PlayStation, Xbox it's on all the biggies and this is another developed slash published by 1 Supergiant games are famous for developing bastion, transistor, Pyre and Hades one kind of the indie darling game dev studio and.
+2:03
+And yeah, Hades 2 summons its little spirit triangle on the popularity rankings of the number 21 most popular roguelike game on Steam with 123,791 total reviews.
+2:19
+Your average player of Hades 2 has about 76 hours of gameplay in.
+Average like you're as.
+Mean or median?
+You're 50th percentile.
+Oh wow.
+OK.
+Yeah, which is not.
+Which is one of the reasons why I started playing this back in March.
+I don't think I believe that number because I'm looking at the like all the achievements, they're like 47% of players have achieved this and it's like reached the third stage.
+2:48
+Yeah, I mean, well, we'll get into it there.
+There's a lot, there's a lot going on in this game.
+But our one sentence description.
+I reached out to the the Hades community for this time as a per our listener request week gimmick.
+And according to user, I want switch patch in all caps.
+3:08
+Hades, too, can be succinctly summarized as hot woman fights her grandpa and gets a polycule of other hot people.
+Yeah, I think, I think that sounds about right.
+But yeah, I think coming back to the the game length here, I knew this was gonna be a mega game and I thought, OK, well, I'm gonna get it a little bit ahead of the curve here just so I can be a little educated myself.
+3:33
+I don't know how dedicated the rest of the the The crew will be to try to mainline one of these huge Hades games in two weeks.
+So I started this months and months and months ago and maybe maybe a little appropriate for this specific game kind of being in a race against time itself for our two week evaluation period.
+3:54
+But people in the Haiti's discord, they were saying let's see this one from Cole Ford Colon 3 ratio supremacy.
+Andrew would get that one.
+If says if they're experienced with roguelikes, it'll probably take them all like 2 days to win a run.
+4:11
+And yeah, I think that right, yeah, yeah, yeah.
+We'll get to that in a second.
+And I think another reason why we kind of do our Omega Bowl stuff at the end of the end of the year is also sort of like a long tail ramp of like, well, if like we enjoyed playing the game, but we want more time to kind of slow boil it.
+4:29
+Put put it in that big witchy cauldron pot and let it simmer for for just a little while longer before we we talk about at the end of the year.
+That's that's another sort of reason why we do our gimmicky end of year recap tournament.
+So, yeah, two weeks kind of a lot to to cram in for this game.
+4:47
+And I was kind of happy that I only maybe a couple days ago just rolled, not even just rolled credits, but I got the the one of the many and other supplemental endings to this game.
+Yeah, there is kind of a shit load of stuff in this game.
+5:06
+We thought there was a lot of stuff in Hades 1.
+I feel like this is maybe like twice as much game in this one.
+Well, you'd know better I I did not actually finish this and I, I finished Hades one, but I only have 12 hours into this one so.
+Well, as Colin's voice has been stolen and put in into a time vortex by by our our resident sand loving Titan here.
+5:35
+Yeah, I think like I I had heard that that this game was like twice as much Haiti's.
+So I kind of set that expectation of like, all right, another first game.
+Well, I mean, it is Haiti's 2, so that's just.
+Good math Yeah, surface.
+And then you have the surface in them below, right.
+5:50
+So that is that their idea of how it double S 'cause I don't know if that quite lines up, but maybe?
+Yeah, I mean it, it is that when we'll we'll sort of get into the the different biomes in a minute.
+But yeah, I think like, even if like this game was just just like your sort of main critical path like you had from the first game, there would still I think be quite a bit of extra content associated with it.
+6:15
+But yeah, I do think that, like it I, I can almost see them at super giant games being like, OK, look, people are gonna want a Hades 3.
+We're sick and tired of making these damn Hades games.
+We're just gonna put Hades 3 into Hades 2 and just say fuck it, we're done with it.
+6:31
+And oh, you, you want, you guys want Hades?
+You want all of the meta progression?
+Well, buckle up, boyo, You're gonna get a meta progression fire hose with as many resources as you can shake one of those little branches that you can pick up off the ground at.
+And yeah, I think part parts of parts of the ending that I've gotten to have also sort of signaled that like maybe Super Giant is kind of done with this series that not like in a bad way, but they're just like, yeah, I think we kind of like want to move on to other stuff.
+7:04
+I don't know what else they could say with with like how much that they've done with this game.
+As well, they can have the long lost cousin and the great great grandfather and and establish that's a very strong relationship that we all know and can relate to right at you know, as opposed to well the experience so far with.
+7:24
+Clones.
+Robots media archetype.
+It could be.
+It could be your.
+Child you're rebelling against your own children.
+You could be the Titans in the next one and you've been overthrown and you have to fight your way back.
+Yeah, killing.
+7:39
+You're killing.
+I like that one.
+That's a good.
+Yeah, you got to.
+Consume them really appeals to the young married couple with a young child.
+I think that that's a fun.
+That's that's fun.
+There, my understanding is that there's a sort of a growing trend of adult children, children cutting their children or, pardon me, cutting their parents off for whatever reason.
+8:01
+And, and these parents like taking to the Internet and complaining about their entitled adult children.
+But yeah, I, I kind of, I kind of like the idea of a, a, a sequel playing off of that idea.
+Well, we're covering this October.
+And I, I think that that brings me to my first complaint about this game.
+8:19
+Was anyone scared of playing this?
+I don't, I don't think it's very scary.
+It's.
+When the ghost, when that ghost in your room, you know when you salute and the and she gives you the adapt voice, you know that was slightly not.
+8:34
+I mean that had a valence of scariness.
+Good old Dora.
+That's OK, That's a good point.
+I.
+Feel like the the 1st 2 stages worlds, what are what are we calling them?
+Biomes.
+Biomes.
+Yeah.
+Or meh, not that scary.
+8:49
+The last one starts to get a little bit like you're running around in the weird spooky underworld.
+It's it's I guess maybe scary though.
+Yeah, it's, it's not, it's not.
+Horror, I I know I joke, I joke of course, but you know the the underworld of course, just in terms of the theme.
+I I suppose matches in October now Scott, you you already or will you already mentioned the going up and the going down.
+9:14
+I started up this game and I'm like, yo, this looks the same.
+It plays the same.
+It's the the the euro and French fries health pickup is literally the same piece of artwork.
+I compared them in Ms. Paint and I'm like what?
+9:33
+How is this a sequel?
+And then and then like 5 hours in, they introduce, oh, there's a battle going on on Mount Olympus too, so you also need to go up.
+And I was intrigued by that.
+Have I actually bothered to unlock one of the gates to go up yet?
+9:52
+No.
+So my first question is mechanically, that's kind of intriguing.
+Like, hey, it's all about going up in the first game.
+This is now you could go in in both directions.
+Sounds kind of neat, but I'm not.
+I'm not sure mechanically what that equates to other than just more levels.
+10:10
+Can can you all explain to me what what you got this two direction situation is?
+Well, well, there's.
+Both of them are just 4.
+Yeah.
+I mean, it's, it's, it's a different sequence of levels, different bosses, different dialogues, different.
+10:26
+Like it's just like another type of run that you can do structurally, it's basically the same.
+But there's I think a lot of like little like very smart, subtle tweaks that they've made in both directions that like make this a game that can kind of stand on its own and be more original.
+10:47
+Like we've we've talked like a lot of sequels this year.
+And one of the things that I was interested to compare this with was like, OK, like, how does this compare with like Monster Train 2 or Slay the Spire 2 'cause this is another like big name sequel game.
+11:02
+Like how does it differentiate from its originator that all that kind of stuff.
+So maybe to answer your question, why go?
+So like, yeah, a big draw to this game is that there's two different paths now.
+You can go down into the Underworld and then you can also like climb up Mount Olympus.
+11:19
+And the reason why you would do the Mount Olympus 1 is that a it's a more difficult path that if you're like, this is this is baby stuff.
+I've beaten Hades one on Max heat.
+This is like I can just like mainline this game in two days.
+11:37
+It's super easy mode.
+You have it's it's a more challenging kind of sequence of biomes to go through different boss fights, different mechanics, different like art styles, I guess.
+And if that's something that you're like, OK, yeah, you know, that is something that sounds like a draw.
+11:53
+But if if you're like, I don't know, like I'm kind of man on the Hades formula to begin with, I don't know that that is really gonna change your mind on it really that much.
+Yeah, it it, it hasn't changed my mind on it, but but I do from just from from a pure like game design perspective, it does seem like a pretty a fairly clever move in my opinion, even though I haven't actually experienced any element of it as of yet.
+12:22
+I mean, it is nice more it is nice just as a second option.
+I mean, Haiti's one, you basically have you're, you're doing the same path every time.
+This one you are doing the same path every time, but there's two of them that you can do and there's still.
+It's the same path for each of them.
+12:37
+Well, and then they had a slight motivation, right, to like vary it up because you have to collect the the meta progression substances that are available on each of the the levels extending upward or downward, right.
+So you need the flowers, you need to have the, the iron, you need to have the whatever.
+12:54
+Yeah.
+And so it's just like, Oh well, I've got the next meta progression thing means I need to have this thing.
+I guess I should go down and it feels like a slight pull, which is, I guess supposed to be satisfying.
+And I, I guess maybe it is, but it, it feels so like on its face, like this is obviously what we're trying to trap you in doing.
+13:12
+But I don't know for for me it didn't really, it didn't do much.
+Yeah, I, I wish there was.
+I don't know.
+I have absolutely no idea how you would do this, but it doesn't feel like, oh, there's a build that works so well for the underworld that doesn't work well for the overworld.
+13:28
+Like for the most part, a strong build for one is a strong build for the other and you're you're getting for the most part the same boons so.
+Well, generally at at like early parts of the game, I would say yes that like these games are weird because they have such like a big like U-shaped difficulty curve to them where like the more that you play like yeah, the easier it gets.
+13:55
+But then like you are effectively incentivized to play with the the new, new revamped heat system called fear system in this one that that works kind of the same way.
+But I would say that like the higher and higher fear levels that you play at do kind of dictate specific play styles.
+14:14
+And there are like the different shapes of the environment that you're playing in also kind of warrants builds with like certain designs to them that like, you know, you would, you would want to prioritize like this kind of weapon and this sort of play style over that one.
+14:35
+Yeah, I was going to say it's really, it's, it's the bosses that feel different the the random field combats, you know, generally the flow is similar from up, up and down.
+And NPCS you meet along the way can like be like, you know, totally hinge on how your play style evolves as well.
+14:57
+So again, just like Hades 1, I feel like this game is is so flexible that you could easily fall into the trap of just doing the same build every time.
+But I think it's it's like very lightly touched in a smart way here that has actually gotten me to play around with a lot of systems that I never thought I would from the first game to be like, Oh, oh, I want to go and try this thing.
+15:23
+Oh, I want to go and try that thing and see like what this thing does now and oh, what what if I incorporate this bit into it?
+This was a game that I was very happy to go into unspoiled because I had I'd like I bought Hades 2, I think early access the first day it came out.
+I'm like, I'm just going to buy it.
+15:40
+I know it's going to be great.
+I'm not going to look into anything about it until it comes out.
+One point O and I was glad that I did because ending story reasons as people will also probably agree with, but I was I was very gladly surprised when things popped up and I was like, Oh, that's something new that like I I would never have thought of for this game.
+16:04
+So you know and in some cases like maybe there's maybe too much going on in this, but I mean I don't know I think I've put like 110 hours into this game since March.
+I've.
+Never heard of 10.
+That's more than my Hades.
+I just looked at that.
+16:20
+I was at 102 hours.
+I think, yeah, I think I've put more time into this than Hades one, which maybe not surprising because there's twice as.
+There's twice as much stuff.
+There's twice as much stuff, so but yeah, there there, there is like a lot more resource farming.
+There's a lot more meta progression stuff kind of going on.
+16:37
+It maybe feels a little top heavy to start with.
+But I think the more that I played it and the more that I kind of slow burned it and not like trying to beat the game in two days for a podcast, the more fun that I had with it.
+Yeah.
+But the the biggest change with Hades 2 is your girl Hades.
+16:57
+In this one, you are playing Millennui, who is Zagarius's lesser known sister, who like you would think that this is kind of like a contrived thing from from Greek mythology.
+They're like, oh, well, we need a we need a, a girl character.
+17:13
+What what can we dig up with?
+But also having gotten to one of the one of the main NPCS that you interact with, the end of their kind of main storyline, the more that I'm like, oh, that I get, OK, I see what you did there.
+I don't.
+Understand.
+17:29
+You're saying that's the biggest difference.
+That felt like the smallest difference.
+It's the same character, essentially.
+Just genderless apparent difference apparent.
+OK, I guess I mean like surface level immediately apparent difference.
+Because well, the reason why I say is Hades 1 is angsty teen boy angry at his father's syndrome game.
+17:49
+This is melancholy goth teen girl wanting to.
+On a roaring rampage of revenge.
+Yes, organizing the the resistance fighters to to reclaim her Kingdom.
+So it's a it's a little more of like a like somber, melancholy tone to it.
+18:10
+But like your main player character is less zippy and zappy and more like, oh, I'm, I'm kind of the the serious 1 here.
+And everyone else is like this like frantic court jester, like dancing around.
+And she's like, you're not taking this mission seriously kind of thing.
+So I think.
+18:26
+Honestly, I appreciate it.
+I'm not a big fan of Zagreus his whole like tone, and I think it's a product of like the when the game came out.
+But but anyway, I, I, I like that.
+I think the character design is good.
+18:42
+I think the acting is good.
+I I enjoy playing this character more.
+Than the previous character, I, I felt like they like I now I've put about 20 hours into it now and I feel like at this point now I am like all on board with her motivation and everything.
+19:01
+I feel like at the start of it especially, they did not do a very good job of settling me on like the motivation of the primary character.
+It's like, yeah, it's like, why?
+Do we want to kill him?
+I mean, it feels like.
+He's like what?
+Hey, your step mom says you should kill the guy.
+19:19
+You've never met the guy He he killed your parents.
+You also didn't meet them either though.
+So like there is motivation but it's less like snap.
+I get it boy, mad at dad like you're.
+I I don't care if you're my dad.
+19:36
+Get and then get out of my house.
+My my house, my rules.
+Like that is an immediate like trope.
+You can understand the conflict immediately this one.
+Is grounded me?
+I want to get.
+I want to be not grounded anymore.
+Oh.
+My yeah exactly this one takes a little longer to like get the me the the the player on board with the like.
+19:54
+I want to kill Kronos as well.
+It's way, yeah, it is less relatable.
+We'll, we'll, we'll get there.
+I think when, when it does get there, I think for me anyway, it was like I was just like a GOG.
+I'm like what?
+But we'll, we'll get to that moment.
+20:12
+At one point you probably won't get to that my.
+Past that, am I waiting to experience that?
+Well I mean it's it I feel like it's less will oriented cuz cuz I rolled credits on Hades one.
+I felt like the story for Hades 1 resonated with me like personally better.
+20:29
+But I think the the cuz like what Colin's talking about, it's like your motivation feels important for Millennui for your player character, but like but why?
+And I think that like that question why is answered very well.
+20:46
+Once you beat Kronos the first time and then like on like on subsequent times that you beat it, it starts like drip feeding into that like that why question to the point where it's like this.
+This was a thing with like the I won't spoil the the original ending, or maybe I'll hold off on like the actual ending here as well.
+21:06
+But like this was something that like people had consternation with with the original ending.
+They rewrote it in in a much better way and I felt like after after, you know, you do the standard Hades thing of beating the game 10 times and you get the quote true ending that it felt like got it.
+21:23
+OK, Yep.
+And then like even after that, like other bonus additional content stuff that has dripped into that, it's more of like it's just added like even more depth to it.
+Then I'm like, wow, okay.
+Like it felt like okay, yeah, like pretty good, pretty solid.
+21:41
+Like it's answering that why motivation question to start with.
+And then it was just like.
+That's maybe not a great way to sell the game.
+How many wins does it take?
+I've had two wins against Kronos.
+You're saying it takes?
+You, you have to beat.
+21:57
+So for the true ending to this game, much like Hades 1, you have to beat the game 10 times.
+But you have to you beat and it gets.
+It gets easier and easier, as you might expect.
+But you beat Kronos five times and then eventually the Headmistress of the Crossroads, Hecatee your your your step mom.
+22:18
+Spoilers.
+Wow.
+Wow, I never would have guessed.
+No, she's.
+So I'm glad to hear that.
+But asterisk.
+Asterisk.
+Says basically like spells it out very clearly of like, look, I think you've you've done enough in the underworld now like you need to go up to Mount Olympus and do some stuff there to to actually seal the deal here.
+22:37
+So, so there is like a, a plot motivation to thrust you up into the mountains and meet the gods there.
+And then once you, once you do the thing and then you are sent on your final mission to do the thing.
+That stuff happens and it comes, it comes together very nicely at the end in a way that I think resolves that.
+23:00
+Why question of like, cuz Colin, you're asking like, well, I've never met this guy.
+Why?
+Why should I care that we kill him?
+It is comes up it that.
+Comes up sure, I my guess is that Hades 2 has a better like when the when the whole game is done, when you get the true final ending.
+23:20
+Hades 2 probably has a more comprehensive and compelling story because really Hades 1 you get the story right from the get go and there is no change to it other than I mean I guess there's like a small.
+Change.
+There's a twist.
+There's there's a.
+There's a little bit of A twist, but it's still mostly like get out from being grounded.
+23:39
+Like the the, the fundamental story does not evolve substantially beyond.
+That you're getting mommy and daddy back together.
+In in Hades one, they drop you kind of in media res and it's just like you're starting a run characters talking, explaining, like I'm getting out of here, I'm blowing this pop stamp, blah, blah, blah, and that like and for the type of story that that is that works.
+24:02
+Where is it?
+I think Colin is saying that it would have been nice to maybe not be immediately dropped into a run, maybe get just a little bit more story or a little just just a little more something, something to.
+Set up and.
+What's happening?
+I think there should have been some flashback where she like, remembers bad things happening, which here's the little kid.
+24:21
+There's, there's some of that, I think, well, there's.
+Well, I don't, no, no, but that's not, I'm not saying that there's not that.
+I'm saying that they should have had that after like the first run.
+So you're like OK like cool I get the motivation.
+She vaguely remembers like a bad thing happening when she was a kid.
+24:38
+Like as far as I can tell she can't even like when you start the game she cannot remember her parents at all.
+So instead the 1st.
+Flashback is to something almost as traumatizing, a game of childhood hide and seek.
+Right, Yeah, it's the first flashback, which was.
+24:54
+It really reads as like a child raised in a monastery being trained as a religious zealot to go assassinate another religious figure.
+Yeah, and and you, you could, you could be, you could be sharing in the sentiment of another character who says, well, I don't know, like, you know, why like this seems like your quest, like why, why is this something that like I should kind of care about sort of thing?
+25:28
+So I feel like that that is something that is brought up on.
+I mean, you're raising a great point and it's echoed in the game and answered in the game, I feel.
+Like I want Scott's you.
+You heard it here.
+Spoil it all please.
+No, no, I don't.
+I don't want.
+25:44
+That you know that I'll I'll spoil it for Will in the.
+Discord OK I spoil most games.
+Yeah, well, I'll, I'll, I'll spoil it in the for Will in the discord.
+There you go.
+So.
+But Scott, you're assuring us that, oh, it's, it has lots of payouts and addresses all these things.
+26:01
+And now here's the thing.
+This.
+Isn't their first rodeo big giant?
+Yeah, I, I, I kind of don't want to jump to the end of their just yet, but I felt like beating Kronos the first time for me was like like a super motivating moment of I have to see more of this.
+26:18
+And like, I think the theme of how they do that and Will's kind of throwing his hands up in the air I think is something that probably won't resonate with everybody here.
+But I would, I would be curious to because Colin, you have not beaten Kronos yet.
+I beat Kronos once.
+26:34
+OK, so I have not beaten the over the surface world.
+OK.
+So you have kind of that context of.
+What I'm I have the yeah, I have the very first hint of the context.
+I somewhat disagree with Will.
+I thought that it was a compelling enough, like, OK, cool.
+I want to do this again now because I feel like it will be revealing more of the story as I do that.
+26:51
+OK.
+I think I think that did a better job than Haiti's one in some ways, where a lot of it is like, well, I got to escape from dad again.
+Yeah, All right, so so let's so we have our goal in mind.
+We'll we'll get there.
+But first we have to like, you know, you are, as Andrew said, you're starting in media res kind of the first game, like all right, Steph to Kronos time.
+27:14
+We're on the mission and you're running around your first Biome of Erebus, which you could be easily confused pallet swap wise with Elysium from the first game.
+And it's probably important to point out from the first game, you are going from the lowest depths of the underworld up to the surface.
+27:29
+But in this game you're doing the opposite.
+You're starting kind in the surface question mark area and going down it to the Earth score starting in Erebus, which is I guess it's Elysium adjacent kind of the area around the your crossroads home base.
+27:47
+But, you know, typical Haiti's fashion you are.
+Your first run is doomed to lose no matter what, and you'll get sent back to your home base, the crossroads, where it's kind of your your very Halloweeny home base.
+28:04
+Oh yeah, serious Halloween vibes here.
+Yeah, and you know, your your goofy roommate Dora, who's who scares you.
+Wait.
+Notably though, you don't have to die.
+You're like in a dream essentially as you go down.
+Is that, am I interpreting that right?
+28:20
+Like you're in a dream state.
+For your first run or for the whole game?
+Like every time that you're coming back, like the respawn process in the in Hades one was you die, you actually die.
+You get you your physical body, you're just, you're actually fucked up.
+And then you respawn in a pool of blood.
+28:36
+And in this game, it feels like, Oh, yeah, you're actually like, maybe just.
+There's once you smoke bomb ninjas away every time.
+Yeah, I think it's you.
+Smoke bomb ninjas away.
+It's like the last.
+I think that the conceit is last second before you die.
+You.
+OK, so nonsense.
+28:52
+OK, you.
+Just got all way back here on that.
+I thought it was like maybe like magic.
+Every time she was going up or down was like somewhat of a of a dream of sorts.
+But I get OK.
+There's parts of that.
+Would have appreciated a more satisfying answer to this, but yeah, Nemesis, your your rival does reference it.
+29:12
+And it's like, oh, I thought you were going to use your move or she said something like that.
+Your, your use your special trick or what have you, Which I guess is yes, as, as you say, calling it's a ninja smoke bomb.
+Yeah.
+But the ladder get you.
+Next time, smoke bomb away.
+29:28
+It's a it's a share in the Wanderer ladder that you used to escape the dungeon and go back to the hub world.
+And so your first.
+I thought it was some kind of time magic, but I'm like, oh, that doesn't make sense because you're fighting Kronos, You don't have the Kronos power.
+29:43
+It it does, it actually would make more sense.
+Like we stole a we stole a chip of of Kronos or something.
+It does.
+It does look very similar to like Tony Stark or Benedict Cumberbatch using like the time reversal thing on his on his arm with the time stone.
+29:59
+So it does.
+I could see how you could see.
+That well, and also it does give you like the the same like slash death animation typey thing where it looks like you're dying and then you're like, no, no, there's some triangles that go around you.
+Yeah, so you return to Shadow by going back to the Crossroads.
+That's where Headmistress Hecate sits by the the very appropriate witch's cauldron, sometimes surrounding it with other a little bit of a jump scare from the second Biome or second or third biomes from the first game with these witch.
+30:31
+That character is that you're like, Oh my God, do I need to attack?
+Nope, Nope.
+They're on my side this time.
+But like standing around them, standing around the cauldron doing very Halloweeny witchy incantations around it.
+You got your muscle mommy nemesis.
+30:47
+You got Odysseus conspicuously missing his Matt Damon accent in this one, as well as some others who kind of pop in and out every so often.
+And you have other parts of this that you meta progress over time to unlock and.
+And these are all one to one matches to hades 1 characters.
+31:05
+Am I right?
+Not really, no.
+What do you mean?
+They're .75 to one matches. .75 to OK, so so Nemesis.
+Nemesis is.
+Essentially the first Mel Mel.
+Melies or whatever his name is.
+31:23
+Danatos.
+Odysseus is Achilles.
+Yep, Muslim mommy doesn't have Haiti Stew.
+Yeah, Haiti Stew is like all the characters are like, oh, this is the Hades we have at at home, you know?
+Oh my gosh, I think they're more they're.
+31:38
+More the skeleton.
+Literally the same.
+The same.
+Except for like now, a general who has lots of.
+Experience.
+Well, OK, so so well.
+Here's The thing is like Did anyone in Haiti's One Progress Skelly's quest line far enough to make to bridge?
+31:54
+This.
+In Haiti's one, if you if you progress his his meter high enough, it's hinted at that he was a great general called Skelemias from way back when and.
+Then yeah, I.
+Think I did.
+Yeah.
+And then in this game it just comes right out and then he is like, it's a skeleton named Skelemias, but he's being coy about whether or not if it's actually him from the from the first one.
+32:16
+There's there's subtle also like subtle hints later in the game that kind of point to that.
+But but yeah, I mean like.
+It's straight up says.
+It's straight up No, he he says.
+That he is this OK like.
+In the, in the thing for the lucky tooth or whatever, it's like luckier tooth.
+It's it's, I mean, he's, he's coy, but it's like a pretty obvious coy.
+32:36
+If you know, but yeah, so, so they're they're effectively kind of stand insurance from how they operated from the first game, I mean.
+You know you want to be recognizable.
+There's certain.
+I can't believe I'm defending this.
+You want it to be fresh but recognizable.
+32:54
+And also there's certain, you know, upgrade functions and stuff that you need these NPCS.
+Give me new personalities, that's what I'm asking for.
+It felt like the same personality is just different body or slightly different body in many cases.
+Yeah.
+Maybe Odysseus mode?
+33:09
+The ghost is.
+What?
+Odysseus and Achilles are very similar.
+Yeah, they're both.
+They're like Marshall hot guys standing around.
+And then in the Doom character with Anatos, like, yeah, do you have this like absolutely ripped twink like over in the corner?
+33:24
+Yeah, it's.
+Just the thing.
+Sure.
+OK, yeah, I mean there's.
+And you're you're sarcastic.
+A sister lady that's called a A.
+Thwunk, by the way, a twink hunk so.
+I might be that might be that.
+And and there's gardening also.
+Who the ghost, the ghost NBC in this game?
+33:41
+Who is she a standing for?
+Do we think who she's Deusa closest?
+She's like, Oh, she's.
+Deusa lady.
+Yeah, that's.
+Right.
+And let me guess, just like Deusa cannot be romanced?
+That is right, that is correct.
+But there's, there's a, there's a coward death.
+33:58
+There's a good reason.
+There's a good reason for that.
+So but you can't you can't skinny dip in the with her in the the hot tub, so.
+Tub in this game my God they thought of.
+Everything you can skinny dip with everyone in the hot tub, apparently.
+Take back everything that I said about.
+34:14
+Including heads being.
+Including that including with your stepmom.
+Yeah, so there's there's, yeah, we got, we got farming stuff to get your your Witch's brew stuff going.
+Probably the biggest one here that that's different.
+34:30
+It's still operates on a similar mechanism.
+Hades 1, you have the Mirror of Night where you're like, OK, I've got all this meta progression currency.
+What things do I want to kind of turn on and off to make my my character operate a certain way?
+In this case it's Arcana cards which is kind of AI think it's like a 5 by 5 grid of cards that you eventually unlock a 30 grasp that allows you to again.
+34:58
+It's like 1 of like 50 meta progression currencies in this game.
+Probably too many, I mean.
+This one is like the main meta progression currency that's.
+Right, the main one.
+The one that gives you your depth defiance is the one that gives you your re rolls those.
+Kinds of.
+I will say that I liked this.
+35:15
+I like this better than the mirror.
+It's one of the it's one of the places where I like, Oh no, this is genuinely better.
+Like there's some there's someones in the the 5 by 5 grid that are 0 cost to activate, but they have like other activation conditions that are mutually exclusive with some of the other 0 cost ones.
+35:35
+So that's it's it's rather than just being purely more is better.
+You have to like plan out your build a little bit more.
+I agree.
+I I.
+Yeah, in a more interesting way.
+And yeah, so that, so you have those things and then you have your starting weapons.
+35:51
+You have 6 starting weapons that you can choose from.
+You start with the witch's staff, but you can unlock some some ninja blades.
+You got some cool torches.
+You got a big, big fuck you axe.
+You have a.
+36:06
+Floating.
+Skull and then you literally just have a straight up mech suit slash jet pack as well, which I thought was quite quite a fun idea, but also these and this is another kind of major departure from the first game is that so first game you have your main attack ability, you have a special attack and you have a cast.
+36:26
+You also have a dash too, but that those are kind of like and and you have a like a a super special move.
+And those are sort of your main kind of combat options, as it were in this game.
+You have your your main attack, you have your special, you have your cast, which is operates in a totally different way.
+36:45
+You have your dash and then you have a hex, but your attack special and cast have Omega versions as well.
+They were taking notes from the podcast and these are things that like you hold down the button to kind of charge them up.
+They use magic.
+37:00
+So you have a magic meter now and they do some kind of like supercharged special version of what it is depending on the weapon and the weapon variant that you've selected.
+And you know, in classic Hades fashion, you know the hammers that add totally other side grades to your weapon as well.
+37:19
+But I thought this was a super interesting new like spice to add that didn't totally like it didn't like completely change the gameplay flow, but added like just enough of like a new thing to it to make it interesting.
+And the cast itself from Hades 1 is like this little like, I don't know why it took me so long to figure out like what the fuck the cast was, but like, it's like this little diamond that Zagarius kind of throws or, or something like that.
+37:44
+Classic Greek God diamond of.
+Course and in this case it's a classic Greek God witchcraft hex circle that drops down, which acts as both a net and a force field that if enemies are caught in the hex, they they're trapped in there and can't move out of it.
+38:03
+But it also operates as a force field so that you can wall off areas to keep enemies out from it.
+So if they if you have like a a bottleneck zone, you can just like the StarCraft throw down a force field blam and then all the enemies are like bunched up on the other side and you can just like waylay them from and you and you can walk in and out of the circle no problem.
+38:23
+It took me a while to understand the utility of the cast, but cast is very good.
+Being able to pin enemies is very good, and especially once you get the cast upgrades that like certain gods let you do ones that can you like throw it further away.
+38:42
+And so that is like a tier S tier.
+Or dealing damage in the hex area, or freezing people in the.
+Hex or the freezing in the Yeah, freezing in the like.
+The best.
+Absolute best.
+Right, yeah, It's like they're both slowed and they're trapped and slowed and yeah, well, it it.
+38:59
+Depends because with some of the weapons, like if you are running in and just doing like a big like nuke burst damage, maybe you don't want Demeter's like freeze cast that does like damage over time.
+You want like a big nuke cast.
+So like Poseidon's cast, you drop it and just like bam, yeah, nuclear Poseidon detected like boom, like like big, big damage dump all at the same time.
+39:25
+Like there's there's lots of creative, I think like the the build, the combat build options in this game are maybe better and more creative than they are in the first one because of this.
+And I, I think the boons are better, yeah.
+Like not not crazy better, but just they're slightly more nuanced.
+39:40
+They're slightly better tuned.
+If if you guys say so I I that wasn't my experience, but maybe I need to play more.
+Maybe I'm bad at this game.
+I'm not sure.
+So the hex yeah, so just to just to make sure I'm understanding correctly.
+I didn't realize you could use it as a force field as a wall.
+39:58
+That's only if you charge it up.
+Cast is cast rather, excuse me, the cast when you the Omega version of of of the cast.
+Either either version works either version.
+I mean it works in the wall kind of in that once they walk in, they stop being able to move.
+So like it is essentially becomes wall.
+40:16
+Affirmative.
+Affirmative.
+Yeah, I too even not knowing that specific function, Scott, I think it was a good a good supplement, didn't it didn't totally upend the combat that we know and love from Hades one, but it was a nice addition that that socketed in and added distance system well.
+40:35
+And then you got the hex, which is, yeah, it's also completely new thing.
+Yeah.
+So in Hades one, it was like, oh, you know, you can get like the the the Super boon from Zeus and you hit right trigger and Zeus goes ham and he's like it's Zeus in time.
+40:51
+He throws down all the Zeus's at everybody.
+But in this one, instead, you have a new one of the the new gods to the game Cellini, who again, like we had played so much D&D with the the the character say Loon.
+Yeah, yeah.
+41:07
+But a jump scared me a little bit.
+I'm like, hey, wait a minute.
+I think they got it wrong here.
+But but the Greek God Salini of the Moon, not say Lune, who kind of takes over this this right trigger like mega, mega thing.
+And I think this is another thing that's done very well where you you get one of her boons and it's like, OK, do you want it starts you off with like, OK, a theme of this kind of specific superpower.
+41:30
+Like do you want to go invincible?
+Do you want to like jump in the air and do a super nuke?
+Do you want to do a Kamehameha beam?
+Do you want to heal?
+Do you want to turn your enemies into sheep?
+Heal which is the best?
+I think you might all agree.
+Heal's very good, but it's all, I mean, healing, like all these things is better.
+41:48
+The worse you are at the game, the better.
+The less damage you take, the less you need it so.
+And there are again just.
+Never get hit will.
+Some bosses just kind of sit in one spot and are very susceptible to giant nukes, and other bosses who maybe control time are completely unaffected by your selection of time altering super moves, which I think is a neat addition.
+42:16
+So so yeah, like the you select and.
+You can't turn him into a sheep.
+Unfortunately, and the next time you pick up 1 of Celini's boons here, it gives you like this kind of tech tree of like randomly like laid out options of things that you can pick from that upgrade and add like side benefits to your hex.
+42:39
+So your hex is something that is either act like available after a certain amount of time or after a certain amount of magic spent.
+So it also incentivizes you to say, OK, if I had the Super nuke, I have to spend so much of my magic in order to to use that.
+What is like a like a build that I can do in order to like chew through my magic meter to power that thing up.
+43:01
+How do I get stuff to rebuild my magic meter over time?
+There's a lot of like good synergy systems built around that that I think you're very smartly designed that yeah, I think I think works, works very well with this.
+So that's, that's kind of like your main sort of combat stuff in the game.
+43:21
+But yeah, there's, there's between Celini, there's also some other new gods like Hera, the Queen of the Olympians, who adds hitch, which is kind of a, a curse that does like chain chain damage.
+So like you you hitch a bunch of enemies together and you hit one of them it like change that damage to others.
+43:39
+You have Hephaestus who is kind of like an armor slash like big like big like clonking like hammered and God of the forge.
+God of the Forge, very Colin coded.
+STR right?
+Yeah, OK.
+Just want to make.
+Sure, I like it.
+I like him a lot.
+Yeah, I was gonna say like the little ham, the actual hammer and the the, the, I guess the Tong, the metal Tong Sky, what's his hestus?
+44:05
+Yeah, both of them.
+Those are the only STR I know of at this point.
+You are you thinking of Hestia?
+Daedalus Hammer is obviously the best.
+Yeah, Daedalus hammer, but also the metal Toms guy.
+Yeah, the metal Toms guy.
+Yeah, Festus, that's the one.
+We're talking Festus.
+44:20
+OK, Yeah.
+I don't know the name.
+I never done.
+How many Greek mythology books do you have on your bookshelf back there?
+I've got none none.
+I mean, the big problem, the big problem with him is like he is, he is king of burst damage.
+Yeah, it's like, cool, you're going to do 400 damage, but then you basically you can't.
+44:37
+You don't have a special fun thing for 14 seconds.
+Yeah, so like it takes up one of your, your like weapon slots boons.
+But if you have like, let's say you're doing a skull build, which like, let's say you're, you're dashing into a group of enemies or like you load up a skull into your special, you special dash into a bunch of enemies and that blows them up.
+45:00
+You drop a nuke cast with like Hephaestus in that group of enemies.
+Bam, hammer comes down and then you like dash out to do damage.
+That it's like that kind of a build is like totally different than something where like, you know, you're, you're sitting like way back, like summoning a bunch of torches orbiting you and just like shooting from the safety from across the map.
+45:22
+Like there's, there's so many different build options in this game that yeah, like the the new camera thing works really well for stuff like that.
+For other stuff it doesn't work quite as well, but there's there's so many.
+Like it's better for boss fights as opposed to some of the other like hitch the the one from Hera which is like lets you 30% of the damage of something against the like one goes against the other.
+45:45
+Great.
+Very good against like low level mobs or whatever in the in the main runs.
+Not as good against bosses.
+Yeah, but but other some other new gods.
+We got a Hestia who who does burn damage.
+46:01
+We got Apollo who does kind of like big big like damage percent increases but also does days which gives you dodge percent chances.
+Shout out to Hestia's dope costume design, like her skirt is like one of those like iron braziers, like inverted.
+46:22
+And like you can see on the exterior, there's like the I like the new character designs, the new God designs and critically all of the gods blink.
+I complained about this in 80s one.
+Some of them blink and some of them don't, but I kept track.
+46:38
+All of these characters be blinking.
+So good job.
+You find folks at the the the the developer that has the name Giant.
+Big giants, Yeah, that's the.
+One right, Super giant, super giant, big old giant.
+I thought that was a joke the first time you did it.
+46:54
+And then?
+No, no it wasn't.
+It's very real.
+These are some nice smooth looking blinking animations, which I mean look, I would have preferred there to be like actual.
+Human beings live.
+Some of these characters live action motion capture.
+47:11
+Well, you know, let's maybe not.
+It's not going to have more GET.
+Actual Greek gods to do it, actually.
+There we go gods, come on, if anybody can do it, it is super giant.
+But and and sorry were there.
+Are there any other new additions?
+There's, there's a, what are they called, like elements and infusions, which are this took me a while to kind of figure out, but each boon that you pick has like a little resource icon next to it, like an air, water, earth, fire, ether kind of thing.
+47:42
+And these are things that are kind of themed towards the gods.
+So for example, if you're picking a lot of boons from Hestia, the the goddess of the hearth, a lot of them are going to be burned.
+They're going to be fire things and if you collect a bunch of those and like other gods might have fire things as well.
+47:58
+So like Apollo has a few of them, but he also has some air ones.
+Zeus has lots of air.
+Hephesus has lots of rock ones, Aries has lots of rock.
+I think he's all rock, but they all have like different kind of distributions to him.
+48:13
+If you if you have a certain amount of them, you can get other boons unlocked as well.
+So for example, like one with Zeus is like if you have 5 of the little air swirly ones, then it's set.
+It's it's like you can get an infusion of like ever.
+48:31
+Any damage that you do has a minimum damage of 50 and it's like, OK, well that doesn't sound that much because I'm doing like these big new camera things that are doing like 500 damage and stuff.
+But if you have like the really dinky like twin twin blades and you're going and doing like normally like 30 or like, you know, 20 or 30 damage, all of a sudden that's spiked up to 50.
+48:55
+Or if, if one of your animal familiars, we haven't even talked about the animals yet.
+Your your cat Tula, you put down a cast and now you have like this energy beam between you and the cat that does pretty minimal damage.
+But if it scales up to 50, it becomes like this God destroying mega beam.
+49:14
+So there's all there's like, yeah.
+So so there's things like that that it can it can give you a sense of like a high level of where your build is kind of going and what other gods would sort of synergize well with that?
+Because if you're like really top heavy in One Direction, maybe you want to go with gods that like build into that as opposed to something that's like totally off to to the other direction, which is nice.
+49:41
+I'd say my biggest, my biggest problem with the infusions is that for the most part, you get them and they require.
+There's a, there's a, a set amount of this like element that you need in order for you to be offered the infusion.
+And then there's usually a higher set point for that infusion to actually start doing something.
+49:59
+And sometimes you don't get to that second set and just wasted a boon, which is really frustrating.
+Like one of the runs I had recently, it was like I just needed one more water and I had like 4 boons in a row and I'm like, I didn't see a single water the whole the whole time.
+50:16
+So I guess I just don't get my 25% extra damage.
+Yeah, but fates be cruel like that, man.
+Yeah, but it felt bad.
+Yeah.
+I mean, that's fair.
+Yeah.
+That's that's one of those things, yeah.
+50:32
+And so so as as you so you're doing all that stuff and you're kind of like set up zone, but you you go into into Erebus, your first Biome and you're going through the the typical Hades flow of mowing down enemies and picking up your God boons and things and running into characters and talking with NPC quest lines and all that stuff.
+50:52
+And your your first boss encounter is, wouldn't you know it, Headmistress Hacatee?
+What?
+Who says?
+Well, if you're gonna be prepared to go on this quest, you gotta beat up the teacher in order to get out of here kind of thing.
+51:08
+And I thought this was like a good first boss fight because having played so much Hades one, there's a lot of like little subtle parallels between this and like the the titular Hades boss fight from the first game.
+It's kind of it's kind of toned down a little, but it's still kind of like thematically there, which is fun.
+51:27
+And so you know a few different phases of the boss fight she'll throw like this polymorph ball at you, which if you are MLG pro gamer enough, you can actually dodge through and not get affected by.
+I I am not that.
+51:42
+That's for that's for darn sure.
+Yeah, her Warcraft three move, which gets me every Dang time.
+That's good to know.
+Yeah, well, Scott, you've you've you've won me over on this fight.
+I thought at first, oh, this is so hacky.
+This is such an old trope.
+51:59
+Or, oh, you need to do this like practice fight with your your teacher and that.
+But you're right.
+Those parallels between having to fight a father or pardon me, an adult, a parent figure, a parental figure is quite striking.
+52:15
+Good stuff.
+And like mechanically I find it to be a much less annoying fight than some of the Hades 1 battles.
+Almost got it my first try.
+Almost now I but I was I was able to cinch it.
+52:31
+I I refused all the upgrades.
+I said no, no, no, I must beat this first boss with no meta progression, with no upgrades.
+And I eventually got it after, I don't know, I think it maybe took me three tries and you get.
+But yeah, So what does that, what does that ball do?
+52:46
+Of course it turns you into a sheep.
+First time that happened, I was equal parts delighted and horrified.
+Yeah, cuz you are just this defenseless little cartoon sheep with like all these giant energy flames rolling around and hecate saying now what do?
+53:04
+What do you say now little sheepy?
+And you're just, you are literally a little sheep carrier and you can like dodge as the sheep to like dodge enemy attacks and things which.
+Is like 30%, you know, efficiency.
+Sure.
+Yeah.
+And it doesn't last.
+I don't.
+Know like really, I feel like if I get hit or not, I usually don't take any damage I don't think.
+53:24
+Either but like but you, you, you move slower and your your jump, your your your space move or whatever is much shorter.
+Sure, but it's enough to avoid the.
+It depends on the attack move set.
+So she has a bunch of different attack move sets and like there's a few that will hit you.
+53:41
+Regardless, Collins bragging, well, I.
+Inevitably takes the damage.
+I think that's true.
+Well, you know what?
+You're a liar, so there's that, you know?
+And furthermore.
+Yeah, so, so you, you beat Hekati and she'll say like, you know, oh, you're, you're you're getting so strong, Padawan, get out, get out there and go, go kill Kronos and do all those good stuff.
+54:05
+And in your, in your little transition zone, in your scene between scenes, this is where you I think you encounter Kronos the first time who shows up as kind of like this question mark figure.
+And the first time I was like, I don't know who this guy is.
+This like very anybody.
+It could be anybody.
+This very tall, imposing, shadowy figure.
+54:22
+Pharaoh looking Mamma jamma hanging out.
+Here.
+Who's like oh.
+Mysterious mumbo jumbo.
+Are you lost, little girl?
+And like, Oh well, I'm not lost.
+I'm, I'm, you know, out on a mission.
+OK, well, very well, little girl.
+Continue your mission kind of thing.
+54:38
+I like how she strongly rebuffs him.
+And just like, mind your own business, you, you old piece of crap, the old shadow man shut up.
+And it's like.
+Yeah, that's right.
+Get on, get on your way.
+You got a mission?
+Do we got a mission?
+Do.
+Let's go.
+I was very confused the first time I I saw him because I just gotten something about morose the the Doom guy.
+55:00
+And so I was like, oh, this must be Doom.
+And then I was just confused.
+And then like eventually Doom Guy showed up in the thing and I was like, wow, you're very different looking now that you're not a shadow.
+Yeah, and he and he, you know, he's got his space.
+And like friendly now and.
+55:15
+And his double barreled shotgun.
+And the EME 1M1 point.
+He's like, yeah, you're going down to hell too, let's go.
+Yeah, it.
+Says very, very mysterious figure at first.
+This drops you into Oceanus, the second Biome, and this was one that.
+55:32
+Rapture from Bioshock one here we are fighting big daddies and.
+Everyone's everyone's favorite water, water level from every game and this so the the soundtrack from a part of this Biome was something I was going to play for one of our music fest episodes, but we said no, we're going to we're going to cover Hades 2 at some point.
+55:53
+And I was listening to the music at that time without having any context for it.
+I'm like, I don't know, like lyrics in a, in a Hades boss fight theme.
+I don't like I can kind of like visualize what it might be.
+I'm thinking like the hydra boss fight from the the first game but like do the lyrics really do anything here?
+56:12
+What was that game that we played that was like trying to be the Super punk rock game?
+Rain breaks.
+Yeah, Rain breaker, never mind.
+Yeah, it's like that, but better.
+Yeah, but, but crucially, you.
+Start Rainbreaker just has a title track.
+56:29
+These guys they couldn't handle.
+Oh, it's it's not the type of music I always listen to, and it's on the main menu of this game.
+I don't know how to handle it.
+Yeah.
+I don't know.
+I like the music.
+I like.
+Sorry, sorry.
+It's like that, except the fight is better.
+Yeah, it well, it's done in a very interesting way here because your expectation you drop into Oceanus and you have this kind of like very like like angelic sounding womanly like and the main.
+57:01
+Character.
+She's like, oh, what's that?
+What's that singing?
+What?
+That singing sounds so nice.
+And if you know, if you're a Greek, if you're a Greek mythological myth head like me, if you're a #1 Odyssey fan, if you were getting those IMAX tickets six months in advance, you know, oh, those sirens are coming.
+57:20
+I can't wait.
+Christopher Nolan, buckle up.
+Here we go, bud, for leave.
+Leave the tree SAP at home because I want my eardrums getting drilled by this song.
+Come on now.
+And you get down there and, and what, what, what do you, what do you eventually lead to guys?
+57:36
+And I think this is another like one of many really nice little quality details to this game that didn't need it, but I'm glad it's there.
+As you progress further through Oceanis, the the music gets louder and becomes like, like you're, you're coming closer to something.
+57:54
+And eventually you get to your boss fight room and I I'm, I'm thinking like, oh, like, oh, am I I'm gonna like fight the sirens or something, right?
+They're gonna be like these sexy like serpent, serpent like, yeah, mermaids.
+58:11
+And they're gonna like try to tempt me with their, their sensual ways.
+And I'm dropped into something that looks like like a meth head Dolly Parton concert where this this clamshell opens up in this horrid beast that greets you.
+58:27
+Minnesota Dolly Parton.
+Yeah, Minnesota, yeah, like it's definitely mid, mid America like.
+That I thought this, this made me howl with laughter the first time that I saw her.
+I was like, this was a really great reversal of expectation.
+58:44
+OK, lady.
+Yeah, Who you, lady?
+Are you here to come see our concert?
+And like, Skila, the leader of the Siren band, this is like an actual, like, I, I was very happy that Andrew had gotten to this point.
+Like, I was refreshing the Steam achievements every day.
+59:01
+Like has he gotten to the Skila boss fight yet?
+'Cause I was like.
+You're you're fighting an actual music band here where one of them is on.
+Like you have Skila, the leader of the Sirens, you have Roxy and and Jetty rock in a hard place.
+59:18
+Get it?
+And one of them is on a drum set, the other is on a key tar rolling around the stage and the other is on vocals screaming at you.
+And just like the artwork associated with this is just so hilarious of like a like a washed up rock star, washed up literally rock star who's just like so obsessed with like our biggest fan is here.
+59:44
+I I thought this was very funny.
+And every subsequent encounter that I had with Scylla and the sirens was like very was just like very well written, very funny.
+Like I was looking forward to that boss fight as in, you know, in contrast to like the Theseus and Asterius.
+1:00:05
+I was, I was going to say Asterius and the other guy, but.
+From from the first game who I was just like man I just can't stand Theseus.
+I was very excited for every one of my skillet.
+Encounters and also I think the fight itself is very good, like it's it's probably my favorite of the boss fights.
+1:00:23
+Like it's a it's got well, it's got three people, which I think is actually does like you.
+You have to it means you a little more stuff going on.
+Their individual hits aren't as bad, but you have to be like paying attention to more stuff.
+1:00:40
+Right, and having to keep track of like 3 different moves sounds like it might be frustrating, but it's well designed.
+Yeah, another nice detail is when you knock out one of them, the background music which is playing during this whole thing, it's it's them playing a rock concert.
+1:00:56
+You knockout the drums, the drums from the music in the background will, will come, will cut out.
+Or if you knockout still the lead vocals, it'll just go to the backup singers instead.
+The clamp, the clamp closes and you hear her, but like it's still a it's a muted version and which I think is like, Oh my God, that's.
+1:01:14
+Very good.
+It's it's really, I think this is this is definitely in my opinion the best fight so far.
+I haven't seen all the fights, but like most of them.
+So this is very good.
+Yeah, very, a very well thought out, designed written kind of kind of encounter.
+1:01:31
+You beat them and then she'll always end with something like thanks for coming to our show.
+And then looks like the clamshell closes and all that good stuff.
+I, you know, at first I'm a hater and I, I went into this and I was like, oh, oh, the sirens.
+1:01:47
+They're a band.
+OK, I got it right.
+They sing.
+So now they're, they're in a band.
+I roll.
+But, but you know, I, it, it won me over.
+And I what, what, what the the factor that really turned me over to the right way of, of seeing that this is a very good fight and very fun and very thematic and enjoyable and exciting.
+1:02:09
+What was the actual song?
+I thought the song was a bit of a bop.
+And there there are multiple songs.
+I don't know how many exactly, but yeah.
+And and I mean, just and, and like, the lyrics are very like clever and good.
+Save your breath because tonight you're gonna drown.
+1:02:25
+That's that's great.
+Love it.
+Love it.
+I'll post, I'll post real quick here in the in the discord.
+So the part of the the fear challenge is that you can do the valve rivals that'll like remix up the boss fights.
+The remix for for skill is quite fun in that her art style is changed a little bit here and that a a a new band member who I won't spoil, joins the fight.
+1:02:54
+And then if you go and talk to to Odysseus afterwards, he'll say, yeah, they've been collabing for a while.
+Have you not been paying attention?
+It'll it'll play off like like Malenui is kind of like super out of touch with the music scene.
+And Odysseus is like, yeah, everyone knows that Skilla and that other thing have been collabing like forever.
+1:03:15
+Everybody knows.
+Everybody knows that's that's funny.
+I have no idea what you're talking about.
+Based on this image I'm still a little lost but.
+I'll, I'll.
+Accept.
+That OK, Yeah.
+Yeah.
+That was bad, right?
+Just got to keep playing.
+Yeah, discography.
+The Best Song is of course I am going to claw out your eyes and then drown you to death because I mean, that's just a.
+1:03:36
+That's a.
+Green I I've been singing that to myself for the past week.
+I It's a good song and it's a great day.
+Now now before we leave this boss fight, I did not have the same issue, have not had the same issue with this boss fight as I did with Mugenix use of lyrics in boss fights where I was lobbying for YO.
+1:03:55
+They need to put out a patch where in Mugenix, maybe you hear the song one time with the lyrics and then it goes to only instrumentals for like 10 or 15 minutes and then it cycles back.
+This, this in 80s too.
+This this boss fight does the same thing where it's just like on repeat is the song with like very specific instrumentation and very specific lyrics and that can grade on you.
+1:04:20
+But it could it's runs the chance of grading on you, but it did not grade on me.
+So I guess the question is, what's the difference between this and eugenics?
+One's a turn based and one is you're really shouldn't be focusing on the song, you should be focusing on the fight.
+Boom.
+Yeah, I think the boss fights in this game don't last nearly as long as they do in Eugenics.
+1:04:38
+Also that, yeah.
+Yeah, like a fraction as as much.
+Yeah, that makes sense.
+There you have it.
+Well, after Oceanis that leads us to the fields of mourning, which I think this is another really good mix up of the formula where now you're almost kind of entering like a Diablo style open open area zone where it's this very like tormented, sorrowful field of like these dead trees and just mucus pits.
+1:05:08
+And I don't know, like boxing man, enemies and things.
+But I I like the design of this this Biome a lot.
+If nothing else, just to kind of like break up the pacing some because you go into an area and it'll say like, Oh, these are like the three boon options that you have, but they're like scattered in this huge environment that you can run up to any one of them at any time.
+1:05:30
+And then you unlock it.
+But then enemies are going to come circle like a, a circle around you and you beat up on them.
+You go to the next one.
+And yeah, I think that like this, it's, it's just, it's that's kind of it.
+But it does give you like options at the end instead of just like this boon or that boon.
+1:05:49
+It's like this set of three or that set of three.
+And there's a lot of like consternation of like, oh, I don't know, like, do I want this?
+I really want that one, but I don't want the other two really.
+And this one, this choice over here.
+I really like those two, but I don't want that one.
+So I think it does offer another kind of interesting level of of decision making.
+1:06:08
+And despite how big these environments are, they do have like these little trees that you can go up to and hit a button to say like just can you just map it out for me, please?
+And it'll send out these little these little lines to say like, all right, you got an objective over here, one over here.
+1:06:24
+Go get em Tiger kind of thing.
+But what I really like about this area here is the boss fight for this, which again didn't know anything about this going into it.
+Go to the OR the area before the boss fight.
+You see these giant like foot like footprint marks going past the field and you're like, when we going to be fighting like a fucking dinosaur next or something.
+1:06:48
+And then you go into this enormous battle arena and out pops demonic Cerberus, who notably in Hades 1 you could not fight in this game.
+He comes out as kind of like this tormented super super demon hound where like his paws have like embedded little like the souls of the damned in his in his paws.
+1:07:16
+And there's just like these giant like fire breathing effects and giant explode like if it like this felt maybe the most metal boss fight despite having fought literally just a metal band a minute ago.
+But it's the easiest though, right?
+It is the easiest, I think, yeah, because he's just like a huge target that if you, if you're doing like big concentrated nuke damage, you can just run up and drop a bunch of nukes and just run around him the whole.
+1:07:40
+He's like he's circle straight.
+That's the strategy, and it just seems to like always work.
+He is he's easy or than I would expect for the third boss, but there are some bills that are bad against him.
+So if if you it does require you to he has a lot of large area effects.
+1:07:57
+So if you can't like dodge in and out or you have to get like close to hit him, it's a little.
+Harder if you didn't realize there was a Sprint function for like 5 hours.
+Yeah yeah, the well, I previously called the developers cowards for not making you kill your own dog in Hades one, but they've redeemed themselves.
+1:08:20
+Now you get to fight a horribly mutated version of Cerberus in this game.
+Yeah, it's pretty a pretty dramatic fight.
+The cameras, in a way, zoomed out just to capture the full epic scale.
+It does.
+It does.
+Change its zoom too, like midway through, like it'll like zoom out a little bit to give you a bigger sense of the battlefield.
+1:08:41
+Yeah, it's like thing, the attacks are about to get very big and very importantly, you can pet Cerberus later, so.
+What's the condition for that by the way?
+Spoiler that's not.
+Spoilers, you just have to go find Hades in the next level.
+1:08:58
+No, I've I've found Haiti several times and I've.
+Said well.
+You can pet dogs well.
+Asterisk Asterisk.
+You can attempt to pet the dog.
+You can pet the dog later, deep into spoiler territory.
+Maybe I maybe I maybe I was a bad, bad person and I just saw that there was the ability to pet, to click the button, to pet and I didn't actually do it.
+1:09:21
+I've been.
+Trying to pet every time I like, hey, don't pet me.
+And I'm like, all right, all right.
+I just saw I just saw RB to pet and I said cool you can pet the dog and they didn't.
+Oh bad, Colin, bad.
+I didn't realize that you could actually pet him.
+1:09:38
+No beast love treats for Colin tonight.
+Wow.
+Yeah.
+So after cast out of the podcast.
+So after your your Cerberus boss fight, you, you don't kill him, you soothe him and he shakes off his demoness and turns back into fluffy, happy Cerberus mode and kind of stomps off.
+1:09:59
+But up next, you are breaking back in to level 1.
+You're going back to Tartarus, baby.
+And this was another thing that I was like, you drop in to to this and it's like, it's like someone else has moved into your childhood home and put up the gaudiest decorations possible.
+1:10:18
+And you're just like, Oh my God.
+Like it's so familiar and yet so alienating at the same time.
+Where like you have this exact same design art for like Tartarus from Hades one with this gaudy like gilded everything like sand everywhere marble statues.
+1:10:37
+Best look, everyone loves it.
+OK, the gold has to be everywhere.
+You're you are dropped into the future east wing of the White House with with this version of Tartarus that the music is also very nicely remixed here where it is.
+1:10:55
+It's like the Hades 1 Tartarus theme remixed to like with like little like clicking second hand like clock sounds to it for time.
+And oh, it's just it's so it it feels so good of like, OK, instead of breaking out and going up to the surface from the first game, you are breaking in and now like you're in the inner sanctum from the first game.
+1:11:20
+It's like, it's like in Pokémon Gold Silver where like you go to the red blue area for the first time and you're like, holy shit.
+Like I didn't like, I didn't know that this was possible.
+And so you're running around and like fighting these enemies from Hades 1 Tartarus that are kind of like super powered versions of themselves with like a Kronos time theme to them.
+1:11:43
+There's like lots of sand and like time effects.
+You get caught in things and frozen and like little, little sand domes and things like that.
+But one of the, the, the conversation option you have for this area, I was like, oh, who am I going to?
+Is it, is it going to be Sisyphus?
+1:11:58
+Am I going to run into Boldy?
+Well, you go through that door and you enter Baldi's chamber and wouldn't you know it, there's a hooded figure there who is very sad and just like oh, it just breaks your heart to see him.
+Your father, Lord Hades is bound in chains and is just.
+1:12:19
+He doesn't even recognize you at first.
+He's like, who are you?
+Why do you have glowing red hot feet like I?
+Mean absentee father hasn't seen you since you were baby.
+That's fair.
+But you eventually have this kind of very solemn family moment.
+1:12:35
+And Cerberus is there.
+And again, if you attempt to pet him, he'll go.
+And I don't know you, lady, get away from me kind of a thing.
+And you're like, but I just wanna pet that doggy.
+And it is just it's just like a gut punch the first time that you see it.
+But he'll give you Hades will gift you one of his superpowers from like the Hades one boss fight of like either those soul urns that pop up or like his dash attack or like the the homing cast things like all of the all of like the cool abilities that he had from the first game.
+1:13:07
+He'll grant you one of them to be like, all right, go fuck up Kronos for me here.
+And like the the penultimate chamber that you come to is the first chamber from Hades, one that you starred in that were like Zag does his like superhero landing of like I'm getting out of your dad kind of thing.
+1:13:23
+It is that exact chamber, but but the.
+Lord of Time has moved in.
+Oh, wait.
+Or yeah, there was something else.
+Caron.
+Caron has set up shop, so it's a.
+Caron is set up that guy.
+But yeah, you you do a swan dive into the sand and then you come out from like you're you're fighting in the lobby zone of Hades one the house area you come out of instead of like a pool of blood, you're coming out of just this like sand pit coughing up.
+1:13:54
+And there sits Kronos on his throne, his like shabby looking throne that he's erected over where Hades and Persephone's throne was from the first game.
+And you have this very narrow battle arena that you're fighting in.
+And you know, oh, what are you doing here, granddaughter?
+1:14:12
+You can't stop my plans.
+Twirling mustache if you had one.
+And he's got like these like biblical Evangelion like wings going and shit like that.
+So.
+And it is.
+It is a fuck you up boss fight in the first few.
+1:14:27
+Times Is he a compelling villain?
+I I think so.
+The more that you fight him, the more back story you get to him, the more compelling he gets, I think.
+OK, because I right now I feel like not compelling at all.
+I need him to be more bigoted.
+I need him to be like Grandfather Finger.
+1:14:43
+Yeah, He should be more racist.
+He should be more like.
+He should be just like what?
+What is his motivations?
+Like, I I don't know.
+It just seems like, OK, you want some power, OK.
+And you don't like some gods?
+Like what is your deal?
+Dude, well, his.
+I got.
+1:14:58
+I got.
+You there should.
+Be like using some out of date language and you have to be like grandpa, you can't say that anymore.
+It's not loud.
+I mean the real.
+No, like he could be he could be, you know, going on about all the mortals are are terrible or, you know, or he could be talking shit about, you know, certain gods or what have you.
+1:15:15
+Sure, sure.
+I.
+I all the Greek gods are bad.
+So why is Kronos worse than Hades?
+Oh.
+Well or over.
+The over the lizards or whatever mom at the not.
+Your dad, I guess.
+Scott, Scott had you off over the course.
+1:15:31
+Eventually.
+I'm sure you get these things but it's not apparent from the first.
+Sure, he's just like oh he's a different guy, you know 1 feudal Lord is just as bad as the next.
+That's my impression.
+So far, all billionaires. 12 hours.
+I, I mean, I went out of my way to alt tab and make a note the first time the Kronos like actually reveals himself and he like teleports you to your worst nightmare.
+1:15:56
+Andrew Harshman's worst nightmare, which is having to play Haiti's one again transports you to the to the river, the Styx or whatever level and you have to like play through a segment and like his it's it's it's subtle, but it made a big impact.
+Like his portrait is like appearing like larger than life and like kind of scrolling across the screen and, and it was pretty.
+1:16:21
+He made it very dramatic entrance.
+And I think that the I think that the performance is extremely good, really sells it.
+But I hear you like if you if you make a list, it's like, why is Kronos bad?
+And it's like, well, if the list is just, he made an exciting appearance.
+1:16:37
+I liked his artwork and I thought the guy talked good.
+He's not bad because my dad murdered him.
+Classic.
+Well, OK, fair fair.
+My dad did chop him up into a million bits and then he came back and he didn't kill my dad, he just put them into like Stacey's bubble.
+1:16:52
+So arguably he's morally more correct.
+Well, also I think throughout the game it's kind of stated that yeah, like the House of Hades has been put into time stasis.
+Third time out.
+The the the three fates who control the fate of the universe have been cast out into who knows where, and everything is in chaos and disarray.
+1:17:12
+And Mount Olympus is well, yeah.
+So Mount Olympus is simultaneously being attacked by monsters under his direction.
+And so it's like, what?
+What all is this?
+We have to stop him because he's out of control.
+And so you, you do a phase one boss fight and he's like, that's enough.
+1:17:31
+And then he, this isn't even my final form and he goes into round two mode, which has all sorts of like ticking clock mechanics and like super nukes and things.
+It's very it's, it's pretty stressful the first few times.
+Any any sundials?
+1:17:49
+I.
+Don't know our glasses made your underground?
+Your underground there there are there are sand, there are the little sand.
+The usual.
+Sand.
+Clock.
+Who who shoot a life giving energy beams to him that you have to knock out.
+So but yeah, kind of a kind of a stressful boss fight.
+1:18:08
+But eventually as you progress through the game and you grind as much meta progression as you feel comfortable doing, you will beat second form Kronos and get to an ending of the game.
+I don't know how deep we want to go here specifically because.
+1:18:24
+I really feel like this is probably where we should end with the the sure spoilers and story but.
+Yeah.
+And the game rewards you playing at multiple times and beating it.
+Oh, it was so much story.
+Not like in Haiti's one where they're just spoon feeding you these teeny tiny little morsels of additional information.
+1:18:42
+I don't.
+Want a waste of time.
+I I with so in my view, without spoiling the section as much as I can, I really liked this a lot.
+I was worried that Colin would hate it because of how Colin reacts to certain things of how that theme and I guess I don't know, trope work time travel.
+1:19:05
+Yeah, maybe, maybe we'll put it with that.
+And I think it's done in a way here that like it gets away with it in a as logically consistent as like how wild Greek mythology can get.
+And literally you are defeating the physical embodiment of time itself.
+1:19:21
+So let's get crazy.
+I only hate time paradoxes.
+OK, strap in also.
+OK, well.
+That's good.
+That's a problem.
+Maybe not.
+I guess there's not really any.
+Yeah.
+Anyway, I'll put a bow on that A.
+Multiverse.
+1:19:36
+Or is this a Star Trek?
+Is it tenant?
+Is it tenant the game?
+No.
+Great.
+All right, I'm I'm in OK or looper.
+It's not looper, it's.
+Yeah, it is, I think.
+I'm OK with Back to the Future.
+It's, I would say it's, it's more.
+1:19:53
+Back to the Future's just silly.
+It doesn't.
+It's not, it's not.
+It doesn't take itself seriously.
+It's more in that.
+Direction about like what's allowable in time travel call and goes.
+This is not OK.
+This game is definitely more Back to the Future and less tenant, but as you know, you can you can defeat Cronus as many times as you want, but it's not going to like fully stop him until you go up to Mount Olympus.
+1:20:14
+And I think we should talk about some of the stuff here just a little bit.
+I know we're getting a little long in the tooth, but it's worth talking about some of the other biomes and boss fights here.
+So your other option is to go up instead of going out, where you have to do some meta progression stuff in order to get up to to the surface and survive longer than like 90 seconds or something.
+1:20:33
+And if the pitch for this is pretty dope, I forget which NPC you're talking to, but they're like, yo, check it out.
+You got to get up to Mount Olympic.
+And there's been some hints of this like, oh, things are happening.
+It's like, what's that all about?
+The person who finally spills the beans is like, we are under attack.
+1:20:49
+There's a war, man.
+There's a war happening up on those holy cliffs and we need to drop you behind enemy lines so you can destroy the invading monster forces.
+I'm like wow that sounds pretty awesome that I'm going to get to be like a one woman guerrilla warfare fighting machine.
+1:21:05
+Like talking like commando, all hell is up route to break loose.
+Like talking commando style.
+This is spoiler for Andrew, sorry.
+But then of course, the first time you get up there you are like, oh, the air is poisoned, I can't breathe and I die.
+Well, and what was interesting is I thought this was going to go like Hades one where it's like, oh, this is just like 1 Biome.
+1:21:25
+And that like you, you have like it's a speed run where like you have 90 seconds.
+Like Zagre is from the first game to like go and speed run as fast you can or whatever.
+But you eventually get a thing that turns off like that time limit so you can you can actually progress.
+So there it's a it's another kind of five Biome sequence.
+1:21:44
+You come up to the surface, the city of Aphira, which again is another kind of interesting thing where you have 5 gates.
+It's it's just this like big open like town square and you have like 5 like little.
+Well, you have like, I don't know, ten options around the edge of it, but you only have to activate 5 little.
+1:22:03
+It's the rat zone.
+It's the rat zone from 80s one.
+It is, but it's done in a better way, sure.
+Yeah, yeah.
+It doesn't have quite as many like weird sub chambers.
+Right.
+So it's just like basically one chamber and like little bonus chambers that you can easily skip if you if you're in speed running mode.
+1:22:19
+But but this is like a good way to kind of like set an initial build of like, OK, how do I want like my initial boons to go?
+It gives you a lot more creative player freedom in that way.
+Right, because you can see all the boon choices beforehand, right?
+So you're like, I could go 3 Poseidons right now.
+1:22:37
+Oh.
+That's that's pretty clever.
+The the boss fight for this one is Polyphemus, the Cyclops from the Odyssey.
+There's a lot of Odyssey references with this.
+Odyssey, the world famous Odyssey and Fanta they had.
+They made a 40 foot puppet for that for that sequence.
+1:22:56
+Obviously, seriously, you know, rendered over and modified in post production, obviously, but you know for the actual in in person filming.
+What a deal.
+Now critically Scott, this this cyclops that we see in Hades too.
+What kind of a one eye situation are we looking at?
+1:23:12
+Is it the one big No, it's.
+A bandana with one eye.
+Painted over.
+Oh, intriguing.
+Oh, 'cause he's already been blinded potentially and.
+Then he's got two big eyes on his chest.
+Whoa, nipple eyes.
+OK.
+They're not quite nipple eyes, but.
+1:23:28
+Very good.
+They're pectoralized.
+The the art design.
+It's good art.
+Yeah, he's very well designed.
+He has like a very thick like gangster Brooklyn accent, which is very funny.
+And he's like, every time you interact with him, he's like, what are you doing in my side of town kind of thing looking for his, for his cutlets and all of his GABA ghoul and all that.
+1:23:51
+So pretty probably the easiest boss fight in the game.
+I would say for sure the the remix boss fight for this is way harder, more interesting because one of the NPCS from this level joins in and causes all sorts of poison mayhem.
+1:24:08
+But it's a it's lots of it's, it's very interesting.
+The next Biome is the rift of Thessaly, which is where all of Kronos warships of the dead are sailing to go and assault Mount Olympus.
+And you are jumping from a Halloween themed worship of the dead to another warship of the dead.
+1:24:28
+And I was thinking to myself, like, man, if if there was like a level that was like the most Andrew coded of this whole game, it would be this one where it's just like pirate mania, like undead sailors, like peg leg toten boss mini bosses.
+1:24:44
+Why is Why is Andrew a pirate?
+I feel like a lot of Andrew's D&D stuff is pirate theme for some reason I guess.
+I'm out of the loop on that.
+I'm, I'm, I'm always, you know, living it up on.
+The house.
+Going to sometimes pirate metal concerts, sometimes I'm attending metal concerts on actual ships.
+1:25:02
+So I, I, I think you're very much the opposite of off base with that Scott, you're very on base.
+Check it out.
+And so this is this is another Odyssey reference you can encounter Searcy's island with with a bunch of little piggies running around with, with one of the piggies having a sailor tattoo on their butt, which is a good, good little cut there there.
+1:25:25
+There's neat little interactions if you advance Odysseus's affinity meter with all of these kind of other elements in the game that tie in very nicely.
+This is one of them.
+And another neat detail, like some, some things that Cersei offers you is like, I can make you smaller and you'll like be less likely to take damage, or I can make you bigger and tankier.
+1:25:50
+And Milenowie's voice actress, like the the pitch to her voice will change as a result.
+You you get slightly bigger, her voice gets a little just a little noticeably deeper.
+Get slightly smaller and her voice gets just a little bit a little bit a little bit more mousy and it it gets a little annoying after a while, but I I had the.
+1:26:10
+Bigger version there for a while and I, I noticed that as well.
+I'm like, that's some attention to detail and that that is, and and the characters react to like, Oh my God, you're a giant freak right now.
+And like it's, it's, it's pretty great.
+And then this is where your boss fight of fighting heiress the the I guess Goddess of Chaos shows up Toten the the rail, the yeah, the goddess of strife who shows up toting the the gun that Zagarius uses in hates one to to blast you with, which is a pretty annoying boss fight.
+1:26:47
+I think.
+Like once you kind of figure out her move set pattern it becomes less annoying, but it's definitely a big skill check.
+Take me take.
+Me like 3 maybe four tries to get past that one.
+Yeah, it's it's tough.
+There's a lot of like flaming oil patches on the ground.
+1:27:03
+She's doing lots of big like area of effect nuke damage.
+For the most part you can just like run in circles around her, which when she's like doing her area of effect shooting stuff kind of trivial trivializes her boss fight a lot.
+The the remix for this one is a lot harder because then she's using the Lucifer version of the adamant rail with the laser beam.
+1:27:27
+So which is fun, but but all that takes you finally to Mount Olympus and this this has like a full on orchestral like actual orchestra music backing to it.
+You're running up the snowy slopes.
+1:27:42
+You have two different options for your room choices where you can either go into like little palaces zones, which are tight quarter areas or I love this part.
+You can take this giant like catapult system up the mountainside that will like hero drop you like slam damage on to the next room to like nuke enemies, But then you have to fight like in a bigger open area.
+1:28:08
+So it it kind of gives you more player choice of like, OK, well, this Boone is here, but it's going to be a big wide open area.
+This Boone is here was going to be in tight quarters.
+How is my build going to react to that?
+There are some other unique Olympians that you can initially only encounter here until you give them some nectar and get their keepsake and then you can encounter them wherever.
+1:28:29
+But Athena shows up here with like in Hades one.
+She was a very like reserved wizened, the goddess of enlightenment, and he or she has this kind of 10,000 yard death stare of like we must kill just like 100% bloodlust mode.
+1:28:47
+And she'll drop in every so often with like you're fighting a bunch of enemies that's getting out of control.
+All these like arrows will shoot down from the sky and nuke everything and she'll just like slam down like ready to fuck everyone's shit up and just has like these giant like murder.
+1:29:03
+Still best here, like I remember her being like one of the best possible.
+Hades one.
+I mean, you only get one boot from her, so like, yeah, you're not available forever.
+It's just like a in that specific scenario in the world Tier 3.
+World and importantly you can get the the dash reflect from her and when you pick it up she's.
+1:29:24
+One that the one.
+She's she's like Artibus for the underworld, Yeah.
+Like.
+She shows up every once in a while, you can usually get one.
+And if you pick up that one, she'll quit like your brother's favorite kind of a thing, which is very funny, but she'll she'll also offer.
+1:29:41
+Clearly the best moon.
+Yeah, but she'll also offer death defiance refills as well.
+So like if you're, if you're like down on your last one or out and you can bait her to come out and then she'll refill your meter, which is nice.
+This is where you can also encounter Aries where you can get his boons and stuff going.
+1:30:00
+And this is where you also encounter Colin.
+Have you encountered Dionysus out out here yet?
+That wasn't that.
+That was another top tier belly laugh moment for me.
+I was like wow, OK, this seems about right for what I would expect for the God of partying.
+1:30:18
+Maybe I'll I'll leave it there for other people to be.
+Excited for that, yeah.
+We should probably Dionysus.
+Is excited too, yeah.
+We're we're getting towards towards spoilers for, for for me as well, so.
+But yeah, another very funny kind of sequence that'll take you to the Prometheus boss fight, which is another very interesting one.
+1:30:37
+The the the the Titan of foresight who stole fire from the gods to give it to mortals, has a very interesting character arc in and of himself through the end game and through the epilogue as well.
+So he has he has a lot of stuff to say in this game, but he he has this annoying little eagle that'll attack you at 1st and he has these like.
+1:30:58
+Spoiler spoilers.
+Have you not gotten to Prometheus yet or?
+No, I have but like twice.
+OK.
+Definitely spoilers for Andrew.
+Yeah, and I'll try to keep it light from from here on, because looking at the Steam achievements, very few people have actually gotten this far in the game, which is astounding to me.
+1:31:17
+Which is why I'm I'm I'm skeptical about the 70 something hours for the the game had been in early access for some.
+That probably didn't have achievos.
+Yeah.
+Yeah, that.
+Makes sense you get the like.
+People who played. 100 hours before Olympus was even out yet.
+1:31:35
+Right?
+But even then, all the content had been out for.
+Me and it took me at least 70 hours to like get to this point.
+I was taking my time.
+I was really savoring that nectar the whole the whole way.
+I was kind of skipping a lot of dialogue here and there.
+1:31:51
+But every so often I would like stop to just like immerse myself in it.
+And it still took me a long time.
+Like there's a lot of stuff here.
+But but yeah, not that it especially matters for our review.
+Of the game but do we do we know anything about the early access journey of this game I I remember a Co worker of mine being very excited when early access started and then at some point I heard mention of like them not having all of the levels completed or something that sounds right yeah that they hadn't finished missing.
+1:32:24
+They hadn't finished the.
+All this when they did the early access that.
+Makes sense.
+That makes sense, sure.
+But this?
+I mean, honestly.
+And and I think they redid.
+Some of the.
+Story.
+At some point, yeah, they did.
+They did a very extensive rewrite of the ending which.
+1:32:40
+Having having like seen what the original was versus what it is now, I think they did a good job.
+Now I think I can see why they did it the original way.
+I don't think the original way maybe worked as well, but yeah I think like now this might be a first in early access gaming.
+1:33:02
+I I don't know if I've heard of this happening.
+Obviously I've heard of many changes happening to gameplay and levels and content, but for a story to be sort of pseudo play tested in early access and then to be changed before 1.0, that's that's that's quite intriguing.
+1:33:21
+That's quite interesting.
+And I wouldn't say that it was like massively changed with.
+Like, oh, it turns out like Kronos was a robot the whole time.
+And if you were in a robot dream, it wasn't like quite that drastic, but there was like, I think some good things that were.
+1:33:38
+It's like it's like you're making a real nice Stew and you're like the Stew is good.
+But if I just add like a little pinch of salt here and a little bit of like eye of Newt there, like, oh, now oh, OK, this is like this is how it should have been.
+I'm going to go back and redo the recipe now and just kind of make sure that this is how it is from now on.
+1:33:57
+And I think that's kind of how the ending is now.
+So like you play through and you experience like the fold, like beat both bosses five times ending.
+You'll see what it has to offer and be like, OK, yeah, that was great.
+And then if you go back and look at the original one, you're like, yeah, I can see why they would make that change.
+1:34:13
+OK.
+But yeah, it's it's it's not anything super drastic.
+Well, we're living in, you know, an exciting age of game design.
+Where?
+This, this early access option exists And, and in fact, there's a lot of games that we've covered where we, we, you know, we, we like a game, but we don't love a game.
+1:34:31
+And we think and we and we say, hey, you know, gosh, this would have been a great early access situation.
+It's a shame that they one point owed prematurely.
+So I guess it's yeah, that's it's interesting, interesting system and sounds like they made some necessary alterations.
+1:34:50
+Yeah, remixes the I guess like closing.
+Out the Prometheus boss fight stuff, he has this gimmicky kind of encounter where it's like he'll he'll like give you a warning of like, hey, there's like these three lanes of the battlefield and they're going to go in like this kind of specific like explosion sequence got to keep him memorized and I think like the first like 1010 or 15 times I fought him, I was writing down the sequence because I'm like I can't keep this in my head.
+1:35:17
+Are you kidding me?
+That was probably overkill.
+I can do it now without writing it down by just like paying attention because of three things is hard to store in memory.
+Of course, there's a lot.
+Going on the the dartboard.
+Puzzle from.
+Blueprints.
+OK, Yeah, yeah, yeah.
+1:35:33
+The the the famously impossible.
+Puzzle that no famously living human being could ever solve, let alone let alone me me because I'm yeah, the best.
+I give up the parlor puzzle more than that one, but anyway, so that's, well, that's.
+Kind of an interesting mechanic.
+1:35:49
+I mean, they've designed so many of these boss fights.
+They're still coming up with fresh interesting stuff.
+So you got to remember the the the order or else you take like a a life ending amount of damage, a lot of damage or pretty you take a pretty huge chunk of damage.
+I know.
+Because I took a lot of 40 damage.
+1:36:06
+Ouch.
+Both times it's hit me, I have died.
+So or both?
+Both times it has hit me.
+In both of the times that I fought him, it has ended my run.
+So that's the amount of damage that it has done to me.
+Again, another another MLG pro gamer move is that.
+1:36:22
+Like as the like the the flame wave is approaching you, if you are like skilled enough to like dodge through it, you can dodge that way as well.
+But like you, you are incentivized to like dodge laterally to the safety zone.
+So it's one of those things that's like, yeah, OK, this this is like a neat little thing.
+1:36:39
+It ties into the character well of like a foresight and things like that.
+So it's neat.
+Like, it's a neat little like new kind of gimmick to it that definitely adds to the challenge.
+And the remix boss fight for this is just like, Jesus Christ, if you wanted it to be even more difficult, that'll take you.
+1:36:59
+And I'll keep this area very spoiler free because I don't know that.
+Am I the only one that has gotten past Prometheus?
+Yep.
+Yeah, I bought them once.
+Humble brag hour.
+Continues.
+Scott Berger all.
+Right, look how many hours, right?
+It can't be.
+1:37:14
+It's got to be like an hour, like a A.
+Progress per hours and what I'm hearing is not so much progress per hour.
+So you know he's stopping to smell the roses and, and and taking his.
+Time with the game No, I thank you.
+I applaud your your efforts and your having infinitely more skill to me at this game.
+1:37:33
+So yes, you're the only one.
+So tell us what?
+Tell us the wonders you.
+No, don't, don't, don't tell us.
+I actually.
+Do not want.
+You to spoil it.
+Well, OK, so I I'll just give you like the the the think that I'm going to.
+I'm going to turn off my volume.
+All right, well, well, as Colin turns off his volumes, I'll give everyone else like the.
+1:37:51
+Vegas, The Vegas hints that you you defeat Prometheus and then you're on your your final ascent to the top of Mount Olympus.
+And this is where it gets into like not quite fuck you mode, but like it is like you all right.
+1:38:07
+You better have your build locked in buddy, because it is like skill check time after skill check time like this is going to make sure that like can you do the damage?
+Do you have the survivability?
+Can you like dash in and out of combat?
+And at first it's another one of those like how this is impossible.
+1:38:23
+No one can ever beat this.
+You'll understand the move sets and things like that and eventually become like the meta progression will ease you along into it and eventually you'll be bodying it.
+I think the final boss fight for this is excellent and I think it's, well, it's well designed.
+1:38:41
+It's very hard, but that boss fight and the stuff that comes after it is.
+Yeah, I think it's it's worth checking out at the very least to to say Yep, I I've mastered the combat system and maybe maybe I'll, I'll put a pin in it.
+1:38:59
+So yeah, I'll, I'll, I'll thumbs up for Colin here to say it's safe spaceships.
+All right, Scott is.
+Promising an epic.
+Battle on the top.
+The the, the, the, the epic peaks of Mount Olympus.
+All right, Yeah, I'm going to hold.
+1:39:15
+I'm all you know to this pitch.
+Wait.
+I'm back in.
+What?
+What's that?
+Is it?
+The I hear the clock ticking, Cronus, Cronus telling us it's time to wrap this one up and to go for judgement.
+Oh, but we still have to talk about no, can't.
+That's.
+That's spoiler territory.
+1:39:31
+That's spoiler territory.
+That's spoiler territory.
+How about, how about that?
+No, that's spoiler.
+Oh yeah, like all my last like 5 pages of my Google notes.
+Yeah, I guess.
+I think I think it is fine and appropriate.
+For us not to.
+Talk through the whole story of the whole game.
+1:39:46
+Agreed.
+Agreed.
+Yeah, and and.
+Yeah, and of course and, and and Scott understands.
+That due to his can't tell by his good-natured joke.
+Why'd they put traps back in this game?
+That stinks, but.
+We'll talk about that in final judgement.
+Who now has the loathsome task?
+1:40:03
+Well, I guess like before we do that, is there Yeah, any other outstanding?
+Comments or what?
+Have you?
+I guess and guess not, other than Poseidon's new art feeling like a jump.
+Scare at first, but maybe better than the first one.
+Yeah, I guess I like Narcissus.
+Yeah, that.
+1:40:19
+That's my favorite character.
+By far the Arch.
+Back with the.
+Hair.
+Oh my God, what's character?
+I love narcissist.
+I thought he.
+Was voiced.
+By by Nicholas Cage.
+At first, he's just like.
+Oh I'm narcissist and it's so hard being me.
+1:40:36
+I'm like, they just keep giving me another suitor, my notes say.
+Oh, Narcissus.
+Winky emoji.
+I love that they gave him such a goofy voice.
+Yeah, he sounds like a total doofus.
+OK, that that was the.
+Last important thing other than.
+1:40:53
+All of the the deep lore and all that.
+Oh, maybe one other thing I'll say is like at first, a lot of the NPCS in the game maybe feel like a little wooden at like at first, but I think they all of the ones that I have maxed out the affinity for and it's been a lot of them, like they, they all have interesting story arcs to them.
+1:41:13
+And some of them where I was like, man, this character is like super annoying.
+Like why am I doing this?
+Like maxing out their affinity?
+I'm like, OK, like they've grown on me now.
+And I think that like even ones that are a little hit and miss to start do do wind up paying off in interesting ways.
+1:41:30
+And though maybe that's my last even even artificial folks.
+Yeah, I would say so.
+It would be right to.
+Classify him as a twunk.
+Is that right?
+Just.
+No, he's just regular twink.
+OK, tough.
+To tough to tell.
+I mean, I felt like there was a. 6 back there.
+1:41:45
+So what's the?
+What's the?
+Really.
+He's.
+Skinnier weight, weight class.
+I mean, I feel like he's probably. 11. 8190 for the philosophers, great philosophers for the ages.
+It's tough to say.
+We'll do some research.
+And get back to you.
+OK, it's a good.
+1:42:00
+Question OK, judgement time has arrived where we're we're.
+Not picking up any other Arcana cards and we're activating the one in the bottom right with Lord Hades's art on it.
+The judgement time has come, and as such, Andrew is going to kick us off here first.
+1:42:17
+Oh well, what can I say about Hades too?
+Listen, folks.
+I joined this podcast late.
+We were using one ranking system and it didn't make sense to me then.
+And then as soon as I buy into it, they buy these guys, They trick me and they change it all every time.
+1:42:33
+Every time.
+This is what people TuneIn for.
+People, please don't be burning effigies.
+Of me don't be calling for my dismissal from the podcast.
+I don't mean to offend too much with what may seem like a low score.
+1:42:51
+All right, so here's the deal, Hades.
+I think that there's a few things that objectively it does does incorrectly and I do not like.
+I think there's some objectively annoying things about the writing and some of the characters and mechanics.
+Here's here's here's the deal.
+1:43:07
+Basically, I just don't mesh well with the the Hades gameplay.
+I don't completely hate it, but it doesn't it doesn't totally work for my fun brain centers.
+It doesn't quite mesh with my brain.
+I find it for the game experience to be fairly frustrating and just for example of like my just sort of the fact though, like default incompatibility with this game.
+1:43:28
+The first time I saw the character Nemesis, name's a little on the nose, Eh?
+The first time I saw her run cycle, I was like, yo, I play as her like, I want to be playing that game with those mechanics like and, and as a result, I'm not going to be giving this the most glowing of reviews.
+1:43:47
+I gave it the same score, exactly the same as Hades.
+It is 7.87 Andrew points, making it AB tier game B as in boy oh boy, look at that Narcissus.
+And so that makes it my new number like 24/25 in my stack ranked list.
+1:44:09
+All right, up next on Nemesis's chopping block.
+Is will?
+Well, by all means call in and trying to dismiss.
+Me, you'll be unsuccessful of course, and you know my opinion is going to be not much better to be honest I mean we're at an 8.0 here to be clear, I gave Hades 1 and 9.0.
+1:44:33
+Why the decline?
+Well, this feels too unoriginal and which is to say like it's still very good content.
+I am at 12 hours in, the previous game at 102 hours and I feel bored already.
+1:44:51
+It's the same game but with a worse a much worse story, at least from my perspective.
+At 12 hours in, I don't understand the motivations of the characters.
+I don't care about the motivations.
+1:45:08
+And so if you don't have the motivations of the characters driving the meta progression, what are you left with?
+The gameplay.
+The gameplay is the same.
+I don't love an action game.
+I don't.
+I don't care about the Binding of Isaac style running around like shooting things at in directions and avoiding the things shooting at.
+1:45:26
+That all bores me.
+I want a strategy game.
+I don't care about real time tactics.
+So I think it's a beautiful game, don't get me wrong, I think it's for its category, it is at the maximum, but it still does not resonate with me as a gamer who wants something more strategic, something more, I don't know, not shallow with the, the, the story so far.
+1:45:55
+And I, I know I don't care about story in general and this game is very deep into that, but it, the story delivered so far is not compelling from my point of view. 8.0 still pay.
+Play the play the game.
+Play the damn game, please. 8.0 is well above my 6.0 recommendation threshold.
+1:46:14
+So do it.
+But, you know, yeah, it's good.
+Colin, how many nectars are you going to bestow onto Hades?
+2 here I'm.
+Going to give it 8.9 nectars so for.
+For reference, I gave Hades one a 9.3, so I'm giving it slightly worse than Hades one.
+1:46:33
+I am not quite as down on the story as Will, but I do think that it it does not have as strong of a hook.
+I think the story starts out slow.
+Maybe it does get better eventually, but the fact that I put 20 hours in and I'm not like fully, fully invested in the story is a little bit of a criticism.
+1:46:53
+Not that much, seeing as I still almost give it a nine.
+I think the gameplay is still excellent.
+I think in some ways the gameplay might be better than Hades one.
+If this game had come out first and then Hades one, I would probably think that this was a better game than it.
+1:47:16
+I think some of the like like, oh, this feels like the same character as the old game.
+If it were reversed, the Hades one would just be like, oh, it feels the same.
+So I like the the power up system with the arcana better.
+1:47:33
+I think I like the boons a little bit better.
+And overall, I mean, I liked Hades one a lot.
+I liked Hades 2 a lot like if you are missing, if you are considering doing a, a playthrough of Hades one again, just play Hades 2 now like that's I, I feel like it was it's been a while since I played Hades 1.
+1:47:54
+So this feels like, oh, I just decided to play it again and that was a delight.
+All right.
+Well, I will bring us back to the crossroads here.
+And for my rating, I'm going to give it a 9.35, which is just ahead of risk of rain one and just behind risk of rain 2.
+1:48:14
+And what's it relative to the your original rating though?
+So my my.
+Haiti's one for me is.
+A 9.5 tied in first place on my rankings with Cogmind with 9.5 in that.
+I think the reason why I'm giving and you know, a difference between a 9.35 and 9.5 is just like you know, who cares?
+1:48:36
+I think Hades one was maybe more original at the time and Hades 2 is kind of just taken like ain't broke, don't fix, Polish up what's there and add more stuff, great.
+But like Hades one just kind of emerging out of Zeus's head from nothing Athena style with like all of those concepts and frameworks and things.
+1:48:59
+And yeah, like it's borrowing a lot from the previous super giant games.
+But like it has, it's the only rogue light game formula with egregious meta progression that I can like, give it a pass because of how much other great stuff is in it.
+And if it was any other game that had this level of like farming for things and having to do things over and over and over and over and over again in order to get like one extra little Mcguffin token to put into the Mcguffin box to get the thingy, I would hate it.
+1:49:27
+But I think this game is just firing on all cylinders again so well that that, yeah, I think like it.
+It deserves that kind of top rating.
+And the only the only thing I feel like I can kind of knock it for is just like that little bit of like the other one was just it was it just came out of nowhere and just defined so many new like great things that the yeah, like this is literally just standing on the shoulders of giants, which is not a bad thing, But but my, I guess my only bad things that I have here.
+1:49:58
+I think the early game grind feels a little rough.
+I remembered like booting this back up in like March time from being like, man, what if I signed myself up for.
+And I think in retrospect, I probably would have played with God Mode on just to kind of like circumvent like that kind of early game grind for resources and stuff. 100 hours in, still having fun and like the resources are like not I don't even give it a second thought anymore.
+1:50:24
+But yeah, like if if like my save file was nuked today and I had to start it all over from the beginning, I don't know that I would.
+But that's just what you sign up for in a Hades game.
+The goods here, you know, Super Giant has done it again.
+The top tier art, the top tier voice acting, story, gameplay, attention to detail, all those things.
+1:50:41
+Like this game is good enough to to be its own game without anyone having to play Hades one ever.
+I think if if you were someone who was like, I don't know if Hades is is really for me.
+I want something that's more like female forward in a in a well designed and respectful manner, then bam, like this is it for you.
+1:51:02
+Like this is like all the characters I think from my perspective are very well written.
+The story arcs are very interesting, wacky time travel mechanics.
+Yeah, sign me the fuck up. 100%.
+They're even just like the the first few rooms that you play in this game are much snappier, much faster.
+1:51:21
+Like the first like Biome that you play through in this is way faster than the first game.
+There's plenty of off ramps where you're if you're like, yeah, I'll just like beat the first boss and just call it quits.
+Great.
+If you want to try to beat the harder boss, that's another great off ramp.
+If you're motivated enough to try to do all the like wild ending stuff, there's that also.
+1:51:42
+It, it is Hades it is.
+It's the everything you would want from a sequel from Hades 1 and the sequel to the sequel in one game.
+And I can see kind of why the hints as to where they're going with maybe their next game direction.
+1:51:58
+And I, I totally applaud the Supergiant for having developed Hades, the the Hades games the way that they have done.
+I don't know if what else they could do with another Hades game.
+I'd love to see them do something else and just see what else, what else can they cook up with because this is just an absolute banger.
+1:52:17
+Had a great time with it.
+I'm very excited to dabble with it more before a Mega Bowl season. 9.35 for me.
+That'll put it overall on our rankings at our new number 10 all time out of, as I scroll past it, 104 games and what was Hades, just for reference, Haiti Hades is in our top five.
+1:52:39
+It is the number, right?
+No one.
+Has rated Hades 2 better than Hades 1.
+Just as a points of clarification here, that's that's the way it turned out.
+And there's and there's things that Hades 2 does better than Hades 1.
+Sure.
+But on on the whole I think we it seems like except for one.
+1:52:57
+Except for Andrew score, which it looks like it's the same unless I unless there's multiple, correct.
+I gave it the same score.
+Yeah, it feels like Yeah, it's.
+It's the same or worse, so.
+Yeah, that's but I mean Haiti's two being nestled right behind.
+Vampire Survivors and just ahead of Monster train like that feels good.
+1:53:14
+Like I think all all of our top 15 games are solid bangers.
+All of our top 20 games are solid bangers.
+Caves have cut it too.
+Oh my God, that feels right.
+I Oh yeah, great.
+Just ahead, just looking at this letter again, yeah, I think a mega.
+Bowl season will be.
+Very interesting for us to talk.
+1:53:30
+About all these games in comparison to each other.
+But but yeah, that will jump me into games that are similar to Hades that if you're like, oh man, I really I really love Hades, but I don't really want to spend 100 hours like collecting these little nectar things to give to people.
+1:53:47
+You can check out our previous episode of Hades one, which is similar to Hades 2.
+What there's a lot of Haiti's like games that have come out that I think have tried to simplify the formula a little bit.
+There's one called, it's a little hard to Google search, but called Redacted, which is like it's based in I think the Callisto Protocol cinematic universe.
+1:54:10
+But it is a very top down Haiti's like game.
+You're like kind of like a sci-fi prison moon riot control officer, like running around doing Hades like things.
+You have the game hell clock Ravens, watch curse of the dead gods are all kind of like top down like action Hades like games.
+1:54:28
+You have one game that is called warm snow, which is like a Chinese mythal.
+It's like it's like the Chinese mythology version of Hades, which is I played a little bit of the demo.
+It seems interesting.
+One that has come out relatively recently.
+I think it's called lost and Random colon the Eternal die which is another top down Hades like you have sworn.
+1:54:49
+Ember Knights I think is more kind of a Co-op version.
+Tiny Rogues has been on my radar for a long time and then there's also one that I forgot to put on this list but I am looking desperately for it right now.
+Before people jump on me, Shape of Dreams is a game that is very Haiti's like.
+1:55:05
+It's very Diablo like as well in some regards in terms of I guess maybe more, I don't know Diablo 3 like with the action cooldown stuff, but people, people talk a lot about Shape of Dreams in comparison to Haiti's of like you like Haiti's combat.
+1:55:21
+You like that formula, but you don't want to dump like 100 hours of of investment into visual novel romance guides, then shape of dreams.
+It is for you.
+So give those a check and continue to send in your games.
+1:55:39
+You want us to check out grogpodzone@gmail.com the e-mail our Mastodon grogpod at game dev dot place fun roguelike adjacent postings there Grogpod dot zone has all the website stuff your one stop shop.
+But to close out spooktober Hades too has been very witchy.
+1:55:58
+We got our we got our witchy women.
+I was waiting for the Seinfeld.
+Thank you.
+We've we've.
+Closed out all of our spells and hexes with with our top 10 Hades 2 episode here.
+1:56:14
+But Spooktober is not over yet.
+Andrew, what?
+What have you got in your grasp for our next episode?
+Yes, yes, I changed it previously.
+My pick.
+I'm picking yet another first person game, but oh, are we going to be first person shooting?
+1:56:30
+No, we're going to be first person climbing.
+We are going to be make it our way up the weird spooky, maybe liminal space.
+I'm not sure.
+Maybe scary architecture game known as bare knuckle.
+1:56:49
+This is a this is a climbing white knuckle, white knuckle, white knuckle.
+Excuse me?
+We're not playing the Japanese.
+Version of Streets of Rage.
+My mistake.
+My mistake as much as I would want to.
+And it's so funny because I was.
+I was.
+Complimenting the game earlier, I'm like, oh, what a clever.
+1:57:04
+Title.
+Yeah.
+Bare knuckle.
+Which white knuckle?
+White knuckle.
+I literally did it twice in a row.
+There, let me see, Daisy.
+So white knuckle.
+I'm very much white Bear.
+White Bear I'm.
+Looking forward to hopefully even memorizing the name of the game for dedication.
+1:57:24
+I don't know after how many hours do you think is good?
+I feel like it's.
+Gonna be like a a boss fight at 10 hours.
+Maybe you'll get past that.
+There's no escaping time, so I don't know.
+We'll see.
+Yeah.
+This one I'm very excited for.
+I I interviewed the developers.
+For this at PAX last year.
+1:57:39
+So in our in our PAX 2024 end of year episode, no, end of end of year 2025 episode, I think I, I interviewed the developers for, for white knuckle and one of them.
+But like as soon as I was like actually playing the game and like re listening, like and having her voice come in over the intercom, I'm just like, Oh my God, like I can't like not think about that anymore now.
+1:58:01
+But that was a fun interview.
+Maybe I'll link that in the show notes for from when we talk about it.
+But yeah, white knuckle very excited.
+That game has quite some stuff going on in it, which I'm very excited to check out and I'm very excited to learn about more speed climbing isms from from our resonant climbing experts here on the pod.
+1:58:21
+But until then, to to wind down this episode.
+You may have been hearing some some some some background singing, some some light music that drawing us to the end here.
+1:58:38
+But the surprise?
+It's time to dry drown out this episode, because we're going to cloud claw out your eyes and drown you to death.
