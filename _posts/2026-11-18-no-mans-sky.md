@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No Man's Sky"
+title: "No Man's Sky (with Dahlia and Lauren)"
 date: 2026-11-08
 file: 
 description: "
@@ -13,7 +13,7 @@ thumbnail-img: /assets/img/hades2_hero.jpg
 share-img: /assets/img/hades2_hero.jpg
 duration: "2:02:58"
 length: 102411456   
-tags: ["2016", action, early access, honorary rogue]
+tags: ["2016", action, early access, honorary rogue, Guest Episode]
 ---
 
 
