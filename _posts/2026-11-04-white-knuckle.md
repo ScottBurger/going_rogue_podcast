@@ -17,6 +17,8 @@ tags: ["2025", action, early access]
 
 The Mass...it hungers! This week we're chalking up our hands to summit White Knuckle: the precision platformer horror roguelite that blends Half-Life, Portal, and SCP into an adrenaline-packed horror hunting you down at every turn. You are a newly recruited maintenance worker arriving on site to service some haunted siloes. Luckily someone had the good sense to install some hand holds to help you escape, as well as leaving rebar rods, pills, fully loaded syringes, and cute gigantic grubs behind. Grip your way out of the substructure, uncover the horrifying experiments left behind, and seek the surface!
 
+Scott was able to interview the devs of White Knuckle for our[ 2025 winter special episode which can be found here!](https://grogpod.zone/2025-12-31-winter-special3/)
+
 <div class="container">
   <audio controls style="width: 100%;">
     <source src="">
