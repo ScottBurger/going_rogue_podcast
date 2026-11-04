@@ -2,7 +2,7 @@
 layout: post
 title: "White Knuckle"
 date: 2026-11-04
-file: 
+file: https://grogpod.s3.us-west-2.amazonaws.com/white-knuckle.mp3
 description: "
 "
 explicit: "yes" 
@@ -11,6 +11,7 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/wuckle.jpg
 thumbnail-img: /assets/img/wuckle.jpg
 share-img: /assets/img/wuckle.jpg
+duration: "1:38:50"
 length: 102411456   
 tags: ["2025", action, early access]
 ---
@@ -21,7 +22,7 @@ Scott was able to interview the devs of White Knuckle for our[ 2025 winter speci
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/white-knuckle.mp3">
   </audio>
 </div>
 
@@ -29,10 +30,10 @@ Scott was able to interview the devs of White Knuckle for our[ 2025 winter speci
 
 ---
 
-* 01:08 - Game Stats
-* 03:00 - One Sentence Description
-* 1:38:39 - Rankings & Final Thoughts
-* 1:49:53 - Similar Games & Show Wind Down
+* 01:04 - Game Stats
+* 02:21- One Sentence Description
+* 1:21:43 - Rankings & Final Thoughts
+* 1:32:10 - Similar Games & Show Wind Down
   
 ---
 
@@ -45,7 +46,7 @@ https://grogpod.zone
 
 Intro music: GROGPOD Theme 3 by Balatro composer LouisF - https://louisfmusic.com/
 
-Outro music: 
+Outro music: White Knuckle OST - Lockdown 
 
 
 <div class="embed-responsive embed-responsive-16by9">
