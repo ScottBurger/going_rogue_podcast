@@ -32,6 +32,17 @@ Scott was able to interview the devs of White Knuckle for our[ 2025 winter speci
 
 * 01:04 - Game Stats
 * 02:21- One Sentence Description
+* 4:00 - Control Scheme: Left Click & Right Click as Your Two Literal Hands
+* 5:38 - Early Access Status, Difficulty Curve & Stress Factor
+* 11:33 - Permadeath Anxiety
+* 15:00 - Room Memorization, Module Rotation & Variety
+* 22:40 - Item System: Pitons, Rebar, Power-Ups & DNA Altering Perks
+* 25:46 - The Mass
+* 33:02 - Score System 
+* 36:13 - Music & Sound Design
+* 38:11 - Biome One: Deep Storage Silos, Giant Fans & Barnacle Enemies
+* 41:47 - Interlude Lockdown: Safe Zone, Save System & Floppy Disc Biological Backup
+* 52:22 - Pipe Works: Drainage System, Waste Heap Strider vs. Pipe Organ
 * 1:21:43 - Rankings & Final Thoughts
 * 1:32:10 - Similar Games & Show Wind Down
   
