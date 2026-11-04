@@ -26,7 +26,7 @@ Scott was able to interview the devs of White Knuckle for our[ 2025 winter speci
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/hades-2/id1650474911?i=1000797385164) | [Spotify](https://open.spotify.com/episode/2LykgLM8PERcbTB2UKVyKB) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/hades2.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/white-knuckle/id1650474911?i=1000799752602) | [Spotify](https://open.spotify.com/episode/64P4A8A3zX2xfBw4Ze9MrE) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/hades2.txt)
 
 ---
 
