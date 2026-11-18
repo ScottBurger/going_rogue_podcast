@@ -11,9 +11,9 @@ voices: "scott, will, colin, andrew"
 cover-img: /assets/img/nms_hero.jpg
 thumbnail-img: /assets/img/nms_hero.jpg
 share-img: /assets/img/nms_hero.jpg
-duration: "2:02:58"
-length: 102411456   
-tags: ["2016", action, early access, honorary rogue, Guest Episode]
+duration: "1:51:01"
+length: 91275480   
+tags: ["2016", action, honorary rogue, Guest Episode]
 ---
 
 You have learned the Gek work for "procgen"! This week we explore the biggest galaxy in gaming with No Man's Sky: the famously panned disaster game at launch that has successfully launched back into the orbit of good games through years of updates and content. But how much is TOO much? With gameplay systems ranging from bounty hunting, space goods smuggling, story missions, language barriers, and of course Pokemon battles, surely one of these will be able to scratch that roguelite itch across 18,000,000,000,000,000,000 star systems?
