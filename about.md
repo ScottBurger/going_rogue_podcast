@@ -34,6 +34,8 @@ BigSimple - [YouTuber showcasing Caves of Qud](https://youtube.com/@bigsimple) a
 
 Robert Lippens - Podcasting mentor and friend of the show for 20 years
 
+Lauren Johnson - DnD dungeon master, cozy game enthusiast
+
 
 ## What is a Roguelike?
 
