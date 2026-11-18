@@ -1,0 +1,1607 @@
+0:14
+Greetings travellers and welcome to the Grog Pod Roguelike podcast where each episode we explore a vast Galaxy of a roguelike or roguelite game, scan it for some raiding nanites and if it's valuable enough, revisit it at the end of season recap tournament.
+I am your evolutionary mistake.
+0:31
+Host of the podcast Scott Berger and with me are my nomadic alien Co hosts.
+This is Will Wright, the slime preventing you from opening up that grate.
+And Colin, the procedurally generated herbivore just wandering around your base.
+And I'm Lauren, the rotund BLOB with no mouths.
+0:50
+This week we are talking No Man's Sky released August 12th 2016.
+A surprisingly find it everywhere kind of game nowadays.
+PC, Xbox, PlayStation, Nintendo Switch even and I think as of maybe like a week ago iOS if you can believe it.
+1:09
+This No Man's Sky developed and published by one Hello Games based out of Guilford, Surrey in Great Britain, which I think at the time was maybe like a ten person studio during the initial development of No Man's Sky.
+But they are known for 2010 release of mobile game Joe Danger before No Man's Sky and coming soon 2027 a game called Light No Fire.
+1:37
+Oh I guess there was another game that they released in 2020 but who cares about that 2027 Light No Fire which I can only describe as like instead of like No Man's Sky being like a like a billion planets, this is just one planet but maybe really big.
+It gives me vibes of like the science based dragon MMO meme but like single planet.
+1:59
+Anyway, No Man's Sky, if this was tagged in any capacity as a rogue light game, which we'll get to in a second, this would probably be on our on our database that we have the number 5 most popular rogue light game on Steam with 425,186 total reviews.
+2:23
+Your average player of No Man's Sky has about 36 hours of gameplay in it.
+But all that to say, Lauren, you've encountered A bemused alien biped who doesn't speak your language.
+What is your one sentence description to them about what one does in No Man's Sky?
+2:42
+I would say it's a game where you fly around in a spaceship all over planets and space, you scan various flora and fauna and then you die from pirates or exposure.
+That's my.
+One quick.
+Explanation.
+2:58
+Great explanation the die part has not hit me yet despite playing on perma death mode for 15 hours close a couple times but but yeah, maybe my my first bullet point that I have here my Google doc.
+We we say every so often on the program that it's OK to like or not like a game and that all all devs go to heaven.
+3:18
+I think this is going to be an all devs go to heaven episode because this game has had kind of like quite the history when it first launched versus now.
+But I'm also kind of curious from Will's perspective, what what kind of inspired you to pick No Man's Sky specifically?
+3:37
+Well, what?
+A decade ago?
+When?
+When it started?
+How long ago was that dude it?
+Was 26 nearly a decade?
+Yeah, over a decade.
+I, I played over a decade release and I like everyone, like a lot of people were vast very disappointed.
+3:55
+It was all hyped up.
+It's going to be this great cool thing and it ended up just being really lame.
+And so I, I refunded the game.
+I'm like, that was just terrible.
+A decade goes by.
+I see, you know, it's popping up in some feeds and occasion and I'm like, Oh my God, it's got a very positive rating these days.
+4:12
+Well, I mean, you know, a decade to work on it.
+Maybe they figured it out and they, they put together something amazing.
+And so that's, that's, that was why I picked it as we'll get into I, I don't know if the experience really lines with the very positive rating, but I, I guess it appeals to a very particular target market, which I just might not be a part of.
+4:35
+Yeah, this.
+I feel like No Man's Sky is kind of the poster child for games that have had atrocious launches, but I don't know how many games have launched so badly and yet.
+Maybe not for us specifically on this show, but maybe for other people.
+4:51
+This game I think has successfully somehow dug itself out of quite the incredible ratings hole from when it first launched.
+So when it first launched, August 1st 2016 on Steam, it shows something like 50,000 reviews on release week, which hey, not so bad. 47% positive.
+5:11
+Ouch.
+Like just ow, that's not the only thing that's a crash landing here in this game.
+But but I was looking at the reviews and like it I got I got to give the the the head of hello games at least some props here, Sean Murray for like shutting up and delivering.
+5:28
+And I was just like looking kind of like parsing through the steam reviews.
+And it's just like every so often there's this big positive bump, big positive bump and then after one of them shits, it just keeps on streaming in.
+So it's like launch week abysmal.
+And then like over the course of like two years, July 2018, that's when this, the next update kind of brings it back in into relevance a little bit.
+5:51
+And then November 2019 is when the synthesis update comes out.
+And then it just keeps getting more and more positive ever since.
+And so it goes from like 50,000 reviews on release week, 47% positive to now 425,000 reviews, 85% positive.
+6:08
+You know that like that's not bad.
+Like that's certainly like a hell of a hole to dig out of.
+Lauren, what, what was your experience on on like initial launch?
+Were you?
+Were you also kind of left flabbergasted?
+I got it on the PlayStation.
+6:24
+I got it on disk.
+It it's probably still in my PlayStation at this like right now.
+I went into it, I think knowing what to expect and it I thought it was still fun.
+It was something new and unique.
+It definitely didn't live up to the hype, which makes me think what it is now.
+6:42
+I think is what they wanted to release then and it took 10 years to get there, so it's interesting that it even released then.
+But for what it was like, I'm much more of a casual gamer.
+I would say.
+So it was like, I thought it was fun flying to different planets.
+6:57
+Definitely not as good as it is now, but I had low expectations.
+So, so I'm going to go into this with, I only played like a little over an hour of it and then realized that no, I'm so I'm not even giving it a rating this time because I, I know I, I did not give it enough time and I knew I wasn't going to be able to because this, this feels like a lot of the games that like open world survival crafting game, which is a genre that I am.
+7:24
+I don't, I've put a lot of hours into that genre and I have played many games that, you know, the Steam suggests games like this.
+It's like, oh, Valheim, like 7 Days to Die, like those.
+Those are similar feeling games.
+7:42
+And I know that in order to get something out of them, you need to play a lot of hours and I'm just not going to be able to put it in 15 or 20 hours.
+So but it does.
+It's interesting that like I, I bounced off it pretty hard because I I didn't feel like it had a very good hook right at the beginning.
+7:59
+I spent a lot of time just running in a line and I was like, wow, I could it.
+It is is a little slow at the start, so.
+Which is interesting because I, I almost had the opposite experience where I, I knew that this game had like an abysmal launch and I was like, you know what, that's fine, I'll wait until it's good.
+8:16
+And then like will, I was kind of seeing all these headlines of like, oh, this thing came out like, oh, this like that thing that they just really sounds really cool.
+But I don't know, like, is the game like playable now?
+Surely it is like look at all these like cool things that people are doing in all these videos and stuff.
+8:35
+So I was, I was excited when will pick this 'cause I'm like, yeah, like we'll bend the rules here and there that like this isn't explicitly a rogue light or like game really.
+But it is like the most procedural generation game, which is like one of the core pillars.
+And it has a, a, an optional perma death mode that I exclusively played on.
+8:55
+So I feel like that, that at least like leans it enough into Gray zone territory.
+I'm like, all right, yeah, it's fine.
+And it gave me the excuse of like, OK, I've had, I, I have this, this text document, this note Notepad++ doc on my computer from like 11 years ago or something that shows how much I delete stuff off this thing.
+9:14
+But like in it, it's like, it's called like next Gen. games.
+And in it is stuff like Tom Clancy's The Division and No Man's Sky and like 6 other games that never launched because they turned into vaporware.
+And I'm like, Oh my God, I've been thinking about this game for a long time.
+9:30
+So like the opportunity actually like have a reason to kind of deep dive it and look into it was exciting.
+But I kind of went in blind.
+I'd had seen Will, like pop, you know, the pop up in the corner of the screen.
+Will is now playing No Man's Sky.
+I'm like, OK, he's still playing it for like 70 hours or something.
+9:48
+It's got like, it's gotta have some hook here 67.
+Actually, yeah.
+We're rounding that up, we're rounding up to 100. 70.6 on my steam.
+So, yeah, so there's like, I was excited cause like, OK, clearly there's something to hook here.
+10:07
+And this game starts with, I would say like a mildly interesting hook where, you know, it's, it's like this, this Galaxy style loading screen, you're flying through the stars.
+You're and like a big hook of this game is like, look at all these stars.
+You can go to each one of these, they're gonna have like a zillion planets, a zillion stars.
+10:25
+There's something like, what's the actual number here 'cause Sean Murray went on Stephen Colbert 11 years ago to, to pitch that the game had something like 18 quintillion stars or planets or something like that.
+And that.
+And it's funny because like Stephen Colbert is like when you get bored after like looking at the first trillion of them.
+10:47
+And so, and in this loading screen, like you are seeing, I think presumably like most of them are just kind of like eye candy.
+But every so often it'll pop up like a named system that flies by.
+It's like, oh, maybe this is something that like you can actually go and visit and it will like land you on some some godforsaken hellhole planet.
+11:08
+But it starts with this blank screen of saying like begin initialization, which it's a kind of blinking you miss it thing.
+But I think like story wise for the game, it kind of it kind of gives you like a hint as to what's going on maybe that you wake up on, you know, procedurally plant generated planet numbers, 6952 or whatever, all sorts of weird shit going on around you.
+11:33
+And you know, there's a a smoldering crater where your ship has crashed and you're tasked with your kind of first mission of like, all right, rebuild your ship.
+You got to get to figure out, I don't know who I am.
+I don't know, you know what I'm doing here.
+All I know is that I must laser point at minerals kind of thing.
+11:51
+So yeah, I think like for me, at least visually, it was a pretty strong hook because it's like, oh, like this is this experience that I'm looking at.
+I know for sure no one else is gonna have this exact same experience.
+12:07
+And this is something that we see, you know, a a a lot in for games that we covered for this podcast.
+But like the the level of detail, like it's all, you know, 3D model stuff.
+And you know, oh, this rock over here, look at this rock.
+Like this rock is so much different than than any rock that I.
+12:24
+Was thinking that with every rock I saw just Oh my goodness.
+Wow, so different.
+But, but in my world, like I, I so I spawned on like some like hellhole acid planet or toxicity planet and I'm, I'm like scrambling around.
+12:41
+I'm like, Oh no, I'm like taking constant toxic damage.
+I'm in permadeath mode.
+I'm going to die in like 5 minutes.
+This is going to be embarrassing.
+And I'm running around like trying to trying to scavenge stuff and I'm hiding in the ship to avoid all sorts of bad radiation stuff.
+And I'm coming across things like a like a like a giant like MEX suit that's just unpowered kind of sitting in the middle of nowhere.
+13:00
+I'm like, I don't know if this thing's just gonna spontaneously come alive and like groat me for no reason.
+Like I was simultaneously like terrified and excited about every little detail, which I think is kind of how I felt about every system in this game.
+And then my excitement just kind of constantly went downwards at like a constant rate.
+13:20
+For every planet you hit, it went down just a little bit more.
+Just a little bit.
+But yeah, I'm, I'm curious like what was everyone else's kind of first?
+Like it sounds like Colin, like you were, you didn't feel like getting out of the burning craft ship.
+You were just like, now just leave me to die.
+I I was on a hot world.
+13:38
+Hot world.
+OK, it was.
+Hot, you know.
+It's really interesting.
+I remember starting on like I'm fine planet there is a storm every now and then but like you wouldn't die really fast.
+It sounds like you might start on a just a hellscape.
+Yeah, well, what was your hellscape that you started on?
+13:54
+I know that I was.
+I had a friend of mine, Janet was watching at the time.
+We're like, we're going to get into this.
+It's going to be a lot of fun, new, new game.
+And right away, we're like, oh, OK, we're getting a lot of resources.
+OK, There's a lot more resources.
+Hey, look, this thing doesn't like us at the Sentinel.
+14:10
+It's one of these flying drones that are out there.
+They don't like it when you mine resources start getting attacked.
+You know, like, well, OK, well, I don't have anything, but I like to play a little bit more dangerously when when Janet and I are together.
+14:26
+And so it was just a matter of like, I died almost I think within the first, yeah, 1015 minutes because I ended up getting the star level rating that, you know, Grand Theft Auto style, like danger level up high enough to where there were a bunch of stuff attacking me and I'm like all.
+Right.
+Well, what kind of stuff attacks you I planned for.
+14:45
+So I I looked at 79 minutes and I did not have, I did not get attacked by anything.
+Your plan?
+What is the different?
+Levels sensitive yeah different levels of drone activity some of them are attack on sites some of them are just very active and then.
+And I saw one drone the whole time.
+15:00
+Well, I guess no, I got unlucky.
+No Predators.
+Collin the problem is you have to go and explore 15 billion more planets in order to come across a Sentinel 1.
+So you you get you just got to just got to get out there in in in the verse, man, you got to.
+I feel like it was like at least half the planets had like some significant some degree of Sentinel presence.
+15:24
+And I feel like at some of like where you would find one within like 15 minutes of running around.
+And especially like what I was doing is I was just killing everything Insight because that's what I did.
+And they don't like.
+It when you kill animals and I'm just like, oh, let me kill that.
+Let me kill that because I was like, I don't, I, I like to, when I start a game, I have a, a, a thing where I'm like, I need to know, do I take fall damage?
+15:44
+What happens when I die?
+I'm like, I just go through and like try and break things right away so that I know like what the constraints are and so I can play within them.
+And fall damage what?
+What will hurt you?
+How many animals can you just run up and like, punch in the brain?
+How much damage can you do?
+Can you?
+16:00
+Yeah.
+Do you?
+Do you drown like?
+When you fight the guards, did they fight you back forever?
+Yeah, exactly.
+Colin, did you even get off planet?
+I got off planet and then went back on off planet.
+Well, that's what it that was the next mission thing.
+16:15
+You had to go back down to the planet to find the the base building stuff.
+Well, you, you, yeah, I guess like crucially, you go to a a different, I think it's supposed to be a different planet.
+I don't know if you go down to the same one, but but yeah, so like your your mission kind of starts off as like, hey, you got like this this cool looking Starship with like it's stubby little nose that that you know, you got to run around and find like carbon and other stuff to like rebuild.
+16:45
+Oh, but like for this one specific thing you have to it, it's it's tutorializing you on like, hey, here's like this this crafting system that's in the game that like you run around, you can you can scan things like, oh, this plant here is like carbon.
+17:02
+This one over here is like oxygen.
+Here's like a big ammonia or like a ammonia deposit kind of thing and every.
+Time too.
+It's units received and that's like, there's so many like key phrases in the game that you just hear thousands of times.
+17:20
+Yeah, and it's, it's almost kind of like half Pokémon snap and half.
+I'm trying to think like, what's like, what's something that's grindier than Minecraft?
+Like there's, there's some like aspect of this game that feels simultaneously very interesting and just like excruciatingly grindy where like, yeah, you're, you're running around like you, you get units, which are effectively one of like the 65 currencies you're juggling in this game by scanning stuff, by, by selling things.
+17:55
+But like, yeah, you, you, you turn on your, your Metroid style X-ray visor.
+You can scan a plant and you know, units received, you can use that to go and buy stuff.
+But in order to rebuild your ship, you know, you gotta mine some stuff.
+You build your kind of like crafting engine that just looks like a little, I don't know, high tech whirring space bean.
+18:21
+You put carbon in on one end.
+You put something out, you know, it's it's like your factorial style furnace of like coal wood.
+And then you get like something out that you use and then, you know, that's kind of your.
+Notably without the automation, though it's all very much a very manual thing and output.
+18:39
+You have to manually collect them.
+Unless there's, you know, something that I'm missing from 50 hours down the line of like, oh, actually it does turn into like a space level factorial madness simulator.
+But so you know, you, you, you rebuild your ship and you know, for me anyway, I was like, OK, finally I can get off this God forsaken hellhole and get up into space and I'm like, oh, wow, this looks like really cool with like lot like it's very colorful.
+19:06
+It's very like, I almost think like science fantasy in a way where it's like, it's not trying to be a space SIM.
+It's very definitely going for like, artistic grandeur in a way.
+I appreciated that to be.
+I mean, that was one of the better things is like, yeah, especially going in and out of atmospheres and the space stuff.
+19:25
+It's all very.
+Well, it looks really good.
+Like the art, the art design for this game and artistic direction I think is really good.
+So like you are, you're flying around in space and then you're you're like getting it's, it's, there's so much happening like maybe the first couple hours where it can feel kind of overwhelming.
+19:42
+But you get your first like interspace transmission from some person or thing that you're not quite sure what's happening.
+And it's like you are not alone.
+And you're like, well yeah, I got that from like the 1st 10 seconds with these horrible mutated freaks walking around in this planet with like no necks and just like 2 giant legs and a tail like.
+20:02
+Butterfly wings on their face.
+Exactly.
+Yeah, Like each of these planets has procedurally generated rocks, procedurally generated plants, procedurally generated freaks of nature that will make Darwin spin in his grave.
+All of the terrain is randomly generated, and it sounds like a lot.
+20:23
+And it is, but each of these planets is really only like 5 things I was going.
+To say like if you were to like do a sort of a, a cluster analysis on like the different styles, there would be a very finite.
+I mean, like certainly there's an infinite number of ranges between zero and one.
+20:39
+But when we, I mean, there's just, there's what it really collapses down into is like something like, oh, there are 100 styles of plants.
+There are maybe a bit more styles of of animal where someone have 4, you know, 4 legs, 2 legs flying, like there's only so many categories.
+20:59
+And so it, it feels like this infinite sort of illusion is very quickly shattered.
+As soon as you've experienced like a certain number of worlds, you're like, oh, there are like so many categories and I can immediately identify what this one fits into.
+21:15
+Did you, did you notice that with your your gameplay?
+Yeah, I I kind of noticed it, but at the same time I was kind of excited to see what sort of new horrible freaks we're gonna be on whatever that's.
+My favorite part?
+Whatever other planet cause like one of the first things that I encountered was like this weird like, I don't know like cat like tiger body with like shark fins, green pustules and like tiger stripes.
+21:43
+It has like long, I don't know, like fish feet and like some sort of horrible shrunken head of like a cat with like long, long spiked, like Mohawk whiskers and it's.
+So many shrunken heads.
+21:59
+I've noticed a lot of shrunken heads.
+I mean, yeah, and, and I'm just like, you know, I, I can kind of see like the sliders that are moving back and forth to like make this.
+But at the same time I'm like, you know, like the and like walking right next to it is just some like, like visually undistinct orb with a mouth or something like that.
+22:21
+And then like other things are like like giant, like 10 foot tall.
+I don't know like.
+The creatures, lots of like scorpion Stinger claws, yeah.
+You all saw some of the weird ones like mine weren't.
+Maybe they were.
+I'm just I think they're normal.
+22:37
+One of my pets is like a pineapple and just like it doesn't have any limbs.
+It just like stomps around 1's just like a writhing mass of snakes, but there's no face.
+It just rolls around.
+Like those seem better than what you're just.
+The the egg thing that kind of slides around with the eels out the back end.
+22:54
+Yeah, yeah.
+There's one that I liked on this, this water world I was running around.
+It's like it's like a like a plant animal where like it, it just has like roots for a body and it walks around on all fours and it has like this cool like like leaf mane on it like instead of fur, it's like leaves and it just has like a flower for a face.
+23:20
+With like, yeah, that's great, yeah.
+Like, like it's delightfully unhinged.
+They don't really do anything interesting other than just kind of like walk around and like look at stuff.
+I guess.
+Like they they kind of they can't.
+Attack you.
+They can and they can.
+23:35
+Interact with each other too.
+They they hunt each other like I don't know if you've seen them like they will attack like if there's a predator and they'll they'll be predators and like non predators essentially.
+And so you can actually see them like kill other things, but.
+Yeah, they won't do anything unless you do something to them.
+Really.
+Which I was kind of shocked by because I kept thinking like, OK, any minute now one of these things is just going to turn and lock eyes with me and say, Oh, no fresh meat and just going to start like chowing down on me.
+24:01
+How dare you assume they have eyes?
+They oh, they could smell me coming.
+I haven't taken off that spacesuit in who knows how many years, but but like one of them comes around like like the Ridge and it's just this enormous beast.
+And I'm thinking, well, I don't have any guns on me.
+24:18
+I I'm going to have to just run the other way.
+And it just kind of like walks up to me and just kind of like looks around and just like walks past.
+I'm like, OK, well, maybe it's it's vision is based on movement or something, but I was kind of shocked that like the game felt like very peaceful to me that like very casual, even though even though I was playing on perma death mode, I kept thinking like this.
+24:39
+It didn't really feel like I was under any threat really at any given moment.
+Right.
+I think you're not realistically there is no significant danger ever, especially or I should say after the first like 10 hours.
+24:54
+And that's when you have enough shield and Environmental Protection, enough like upgrades to make it so there is essentially no threat.
+Like there's, there's essential, there's a long tail of things, for instance, like that you can do to your spaceship to make it so it's like absolutely perfect.
+25:13
+But by the time you get 1020% into the upgrades, you win every single combat in space there is.
+And so it's like, well.
+Bold of you to assume I died a lot to pirates.
+I died a lot to pirates.
+25:28
+Well, OK, well, that that that was my experience was like, oh, as soon as you get like the infra knife and you're like, oh, OK, and you get like an upgrade for it.
+You're just you kind of.
+And I guess if you have sodium too, that's the other thing is if you have excess sodium, you can just always manually replenish Shields.
+25:44
+And so if you just have mind a resource, which is very common on a lot of surfaces, you can just essentially just recharge indefinitely.
+And so it just felt like that was like a hack almost to just oh, auto win every fight just by having endurance via doing a little grinding on the the planets.
+26:02
+I don't know that felt it felt odd to have that be a thing, but it was.
+Yeah, this game, so, you know, we we've talked a little bit about, you know, you, you launch into space, you get some mysterious signal from mysterious stranger of like, hey, that, you know, you have to go and investigate the source of this, this signal, which inevitably like leads you to in general, I think some other planet within.
+26:24
+I think it's usually like a four or five planet system.
+For the most part in any given solar system that you're in, you'll fly and you'll you'll land on another one.
+It might have some other kind of impediment, I guess.
+So instead of toxicity, it's like, oh, there's radiation pockets around or it's super hot or it gets like really cold at night And environmental hazards.
+26:46
+That's the word I'm looking for.
+And you'll have like this, this environmental hazard meter that you have to juggle between that and like your oxygen or life meter.
+And the game kind of continues along with like the main sort of quest of like, oh, this mysterious signal was coming from over here and it's instructing me to start doing like this base building stuff.
+27:07
+And I, my eyes just kind of like rolled in the back of my head and like, oh, here we go where it's just, you know, like go, go and go and mine stuff and then go and like plop down things to make a building like, OK, fine, whatever.
+Open up building menu, plop down like wood floor, stone floor, other kind of materials.
+27:27
+And I, I don't know why, like I just kind of got immediately triggered when I saw like build like a stone Hut in like this game where you're like flying through space and you're mining like atoms to like absorb into your spacesuit.
+And like, I'm just going to build a Neanderthal Hut here on the edge of the, the space frontier.
+27:46
+But this planet I landed on was like, it was hellhole because there was nothing there and nothing, I mean like basically no resources within like walking distance of the base.
+And I was just like, Oh my God, this is so I'm going to like run around on foot on this planet for like how long to like mine all this stuff 'cause it's like you need, you need this resource, but this resource is like refined in the little furnace oven thing from this other thing.
+28:14
+And my eyes are just kind of like rolling around.
+I'm like get.
+Your chromium from the copper?
+Come on.
+Well, yeah, but in order to do more flying around in space, you got to recharge this thing on your spaceship, all that stuff.
+Eventually I get to the point where I'm like, OK, I can finally get off this stupid desert planet 'cause it would it get super cold at night.
+28:31
+So I'd have to like dig into the the of the little bit of the earth that you can just.
+Drill straight classic hole.
+Yeah, yeah, I went, I went, I went Minecraft mode and I dug straight down and.
+You don't make it down far enough and you got to keep going because you keep almost dying.
+28:47
+Yeah, and trying to trying to outrun the frost on the surface.
+So I get back up, hop in the hop in the the space plane again, like get me off the stupid grind planet where I see it's like, oh, that's actually like one of like a couple different of these main story objectives that are going on.
+29:05
+Like, OK, yeah, like I don't grinding building crafting stuff in games.
+Like I'm just, I don't know.
+So over it for survival games, blast off into space.
+Like what's the space station thing?
+Fly up to that like, whoa, OK, where was this like 25 minutes ago?
+29:25
+Each of these solar systems will have a like a big space station drawer list.
+Oh, OK.
+Like all the ones I encountered anyway, on my on my, you know, backwater outer outer rim planets.
+You come up to this space station and there's, you know, a bunch of different designs for them.
+29:43
+And it's this big imposing, like Death Star looking thing.
+You're like, Oh no, what have I signed up for in this?
+You get pulled in by a tractor beam and it's all like very good set dressing of like, wow, look at like all this cool alien bullshit that's happening.
+And you know, you, you get pulled in and you land down and your ship it like opens up and you're like, Oh my God, there's aliens here.
+30:05
+Like things that are like walking and talking and, you know, not, not all of like these these brainless freaks that I've been blasting with my laser the past hour or so.
+And then you get out and you're like, I've like, can I talk to one of these guys?
+What's going on?
+Where?
+Like, who am I?
+30:20
+Where am I?
+You talk to one of them and they, they just respond back to you.
+Bleek blorp, bleek, bleek, bleek glorp.
+They're like, what?
+Yeah, you can't.
+Shoot them on them.
+Go ahead.
+Yes, you also cannot shoot them in the space station at least.
+30:38
+Got to lure them out well.
+You you can you can encounter them outside the space stations, but generally like a system, each system of planets will be, is it correct for me to say like owned or dominated by like one of these 33 major species?
+30:55
+So you have the the Geck who are these cute little like parrot parrot looking Shorty boys.
+You got the the Viking who are beefier, taller warlike species.
+And then you have the Korvax, Korvox Korvax, who I guess are just robot people.
+31:17
+TV heads.
+Yeah.
+Oh, they remind me.
+They remind me of the Mass Effect, the people with the that could never leave their their their suits.
+I don't actually know if they were a robot people.
+I feel like there was a biological entity there.
+Well, well, they are.
+They're from the.
+31:32
+'Cause there is another, there's a fourth faction which is actually robotic.
+Yes.
+I'm not sure if you guys are that stage in the.
+Game.
+I think I'm I just got to that.
+Spoiler Oh my gosh.
+I should have played with that.
+Well, if if if if you're counting the Sentinels as 1/4.
+No, I wasn't that.
+31:48
+I guess that'd be the, I mean, like you could, yeah, you could say that There's, there's Sentinels, there's the, there's the whole.
+So, so you have like these three different species, they have three different languages.
+And when you're first talking to them, you have no idea what they're saying and you can't really interact with them a whole lot.
+32:08
+Throughout your travels, you will find things that kind of give you little drips and dribbles of words of like, you know, you come up to this big mysterious pillar and you activate it and it says you have learned the GECK word for the.
+And the next time you talk to one of these, you know, cute looking beaked creatures, it'll be, you know, garbled, garbled, smargle, bargle, bargle the.
+32:32
+And you're like, OK, like I could understand one of those 65 words you just said.
+That's a little helpful.
+But I think like in order to actually interact with some of these species more, you have to engage with the system more and more, which, you know, it just kind of comes with playing it more.
+32:53
+But I think my first system was a Viking 1.
+So there were mostly like these big tall warrior looking dudes, like walking around the space station.
+And this is where like it's it's kind of your central hub for doing most of your stuff in the game.
+33:09
+It's where you get mission quests.
+It's where you can kind of fast travel through teleporters.
+You can get upgrades for your ship, for your little multi tool gun laser.
+You can you can talk to dudes.
+There's various like main story missions that have you come back and forth to to these space stations and things.
+33:30
+But this this for me was kind of a turning point of like, OK, finally, like this is something way more interesting to me than like running around finding like this rock blast.
+OK, like find this other rock blast and this kind of kicks off your your story quest down the the Artemis path.
+33:51
+Can I ask you a quick question?
+Do you think well too bad?
+Do you think your experience would have been better if you started in the space station and then you got acquainted with that before it was a go out and explore and get on?
+Like do you think that the the way the way the tutorial worked with like how do you gather things to like save?
+34:09
+Yourself was, I think like the the main story mission of the whole game is the tutorial, which is kind of a problem like the, I don't think the, the fundamental like core gameplay loop is interesting enough that like, I don't know that there's any real way that you could do it with the way that with the resources that the game has right now.
+34:31
+I don't know 'cause like you like you, you want to like teach people like, hey, this is how you mine resources.
+This is how you like scan stuff.
+This is how you fly through space.
+But I kept thinking in the back of my mind of like for what?
+Like why like what?
+What am I supposed to be doing with all this?
+34:48
+And.
+There, yeah, there isn't a guy saying like, bring me back 10 carbon and you go and you pick it up for him.
+It's it's just for your own use or self satisfaction of getting the carbon.
+Like, yeah, if there was like, oh, Fred, Gleepgorp needs 25 oxygen molecules in order to do blah, like that would give me more, I think, kind of incentive to engage with that system, so.
+35:13
+Is there like a tech tree that you're trying to build up to?
+Is that?
+Like but like you don't have to.
+Oh yeah, but you don't have to.
+But yes.
+But like, is that the?
+Does that feel like it's a compelling enough thing to like?
+That's why I played.
+35:30
+That's why I played it for the 67 hours.
+This is because it felt like oh I'm not actually having fun but I am not at like I don't have the very best set of of doodads for my multi tool so therefore.
+35:46
+Slot.
+Yeah, I need to get a slot.
+I need to get like the ultimate, like the, I need to get the there's a a Diablo like rolling aspect for when you are, there are a bunch of modules that go into your inventory and those essentially determine your stats.
+36:04
+And so a module is one of these things where you kind of open it up and it'll have a bunch of stats that are randomized along a bunch of different criteria, just like in Diablo.
+And it's like you got the good one.
+Great, keep that.
+But obviously most of them are shit.
+36:20
+And so you're if you're trying to get the maximum rolls on all of like the best tier loots, you have to do a lot of grinding to be and then open opening up these loot boxes.
+And for me, as someone who just needs one more run, you know, I probably played a little longer than I would have otherwise as a result of this this system, but it did feel hollow because at 10 hours in the game, I had every you there's one thing you need to defeat everything in like pretty much everything like forever.
+36:53
+And that's like the ability to stun things.
+There's like an unlock where like if you shoot something, it stuns for five seconds.
+And so regardless of the number of enemies, you can just go do it, dude.
+Everything's just stunned and you're like, all right, Well, that is the hardest thing in the game that I see the level 5 of the Sentinel threat that, you know, the five star sort of Grand Theft Auto a style thing like yeah, you shoot it like once every 5 seconds and it just like it's completely frozen.
+37:19
+And so it does feel very odd that that is how it all works.
+And but for whatever reason, I still felt like, well, I know I could do it at only 10 hours in, but I need to have the most efficient killing device possible.
+37:34
+It explains a lot in my life.
+Honestly.
+This is a look if you look at my but it it's kind of fun I guess to kill things faster.
+I don't know.
+It there's a weird the the the 2 two thing in this game where like it sounds really boring and grindy and something that like I would absolutely hate.
+37:56
+But when I'm doing it, when I'm like in like in the moment of doing the thing, I'm like like my brain is like totally off.
+I'm just like super Zen of like, I'm just gonna run around here.
+I'm just gonna like look at stuff and it just like.
+I'm gonna fly to this next solar system to scan the planets.
+38:12
+Maybe I'll land on one and I'll just kind of hang out, put a base down.
+Keep going it.
+Kind of reminds me so the, the, the one of the other things that was potentially competing is, you know, my, my sit around and watch game is Factoria where I can just, you know, sometimes I just watch my factory run for a while, just look at all the little things going and it's not even like, is it fun?
+38:34
+I don't know if it's fun, but it's distracting.
+It tickles something in your your noodle.
+Well, I think like the one thing that's interesting about this game is that like there's this game isn't has no shortage of systems and things, but it's like none of them talk to each other.
+38:50
+So like you can you can do base building, you can do like smuggling missions, you can hunt pirates, you can do cooking, you can craft things.
+You can make your Starship better.
+You can you can most like I think relatively recently, a few months ago, like all these aliens are just kind of like walking around.
+39:11
+You can like make them, make the, you can make them pets and things.
+You can kind of tame them and.
+Pokémon Battles.
+Yeah, you can use them for straight up Pokémon battles in the game, which like there's fishing, there's like talking with different MPC quests, there's expeditions, like seasonal content kind of thing.
+39:30
+Oh yeah, the multiplayer stuff which?
+There's there's there's.
+Could you?
+Find other people in the game.
+Yes, yeah.
+You have to.
+Yeah, you have to search for it.
+You don't just happen upon someone.
+OK.
+Yeah, yeah.
+So, so there's no shortage of things to do in this game, but it's like, OK, well, why?
+39:52
+Why would I do fishing?
+Why would I engage with these Pokémon battles?
+Like they're, they're all like different spokes on a, on like a hub wheel that like don't really kind of talk to each other at all.
+Like doing Pokémon battles in this game doesn't feel like it has any kind of integration or like advancement of like the base building stuff, for example.
+40:15
+Maybe it does, but it's like not like, oh, in order to like beat the Ash Ketchum of the Pokémon stuff, I have to like build the Super Bass in order to do XY and Z to satisfy these other things.
+They all feel very separate.
+Which if you're into that, if you are into just like, oh, I'm just going to jump in this game, I'm only going to do this one thing and focus on this one thing.
+40:37
+That could be fine.
+But I feel like there's a lot left on the table for like, yeah, there's a lot of stuff to do, but for for what purpose are you?
+I mean to to your point, like I, I think one of the the ways to vastly improve that overall for new players is everyone starts in the same Galaxy, right?
+40:58
+I'm not mistaken.
+There's the Euclid.
+Euclid Galaxy I think.
+I think that is the shared instance.
+So, so, so the like way, way, way, way, way, more of the things to be discovered are already discovered in that Galaxy as opposed to the other ones that are generated.
+41:13
+But it in that Galaxy.
+If there was the, the Galaxy NPC leader of the, you know, the big four, the, you know, the ash catch and whatever, like then suddenly there's like, oh, there's something that is something that everyone is has a challenge to go and try and do, which it feels like maybe more important, like because there's sort of a leaderboard inherent in that.
+41:36
+And so for the people that like were like, Oh, well, I don't know why I was like looking at all the, I don't know, I scanning all of these stupid animals now suddenly like, well, maybe I'll find the special world where there's the, the bronchiosaurus with like the extra long neck that has the really long neck attack, which is super effective.
+41:54
+And like that kind of thing would be something that might drive a player to like, I don't know, keep playing because you're, you're always, every world is a loot box you're opening up.
+It's like, oh, what's going to be in this world?
+Here's my new pack.
+I'm going to draw cards out of it.
+Oh, no shinies in this one.
+You got to beat the Elite 4.
+42:11
+That's that's.
+One from each of the factions.
+And, and so if we, if we just had that sort of a dynamic, I think just for the subsystem with within the entire game, which is the, the, the, the, the procedurally generated animals and then the holodeck battle sort of things that they go on.
+42:28
+I think that would drastically improve the engagement retention for, for, for those systems.
+But that's not how it is now.
+Now it's like, well, oh, I fight MPCS and they I get what?
+Maybe a few units that are worth nothing.
+42:45
+I don't.
+I actually know what the reward is.
+I don't know why.
+What's my incentive to play this?
+It's very slow, it's clunky, and it doesn't feel good when you win, so why do you're going to do it at all?
+I guess maybe a question to Lauren, because maybe Lauren, like have have you actually been playing since launch or did you just like did you have a big burst of activity in one spot?
+43:04
+No, I play it every now and then.
+I play it with my sister too.
+I haven't done the the the pet battles.
+But again, as a fairly casual player, I think it's kind of nice that it isn't all tied together.
+If I want to go hokey battle, I'm going to do it.
+43:21
+If I want to.
+My thing is I go to different planets and I find the language stones like, hey, I can understand most of the GECK now because I just go fly around and find language.
+Like there's no obligation really to do anything.
+I've beat most of the story now.
+The stories are just like, go here, look at this, go here, look at this.
+43:38
+So it's nice that I just do what I want to.
+I don't have to do any one thing.
+Mm hmm.
+And has has that like changed significantly as they've added these new systems?
+Like when you were first playing, did you always go and do like activities like AB and C and now you always do activities like GQ and and F instead?
+44:01
+No, it stayed the same.
+I've been doing the same things.
+Maybe there's some new requests like the with the anomaly and all that.
+I I interact with the anomaly, but other than that the planets and the quests and the general gameplay has not changed.
+44:17
+Yeah, yeah, We should probably talk about the anomaly as well, because that factors into one of like the main kind of stories and quests where, you know, you're you're going to these different planets, you're scanning these different signals and you're interacting with this illusive figured called Artemis, who isn't quite sure, like, oh, I crashed and like, I don't know where I am, what's going on.
+44:38
+Kind of they're just as confused as you are.
+At some point you get a a way to summon the anomaly, which is kind of like this shared space station instance that everyone has access to, like all the players of No Man's Sky.
+44:55
+It's kind of, it's almost like you're standing for like a central hub world, but like the shared space station.
+And it has this funny thing of like it exists outside of time and space and you can like summon it and it'll just like poop like pop up like in your local system wherever and you'll go into it.
+45:14
+And now you're like outside the boundaries of space-time.
+And then that's where that is, Colin, is where you will see other players of No Man's Sky coming in and out that you can like me, you can run around their ship and just like gesture at things and jump up and down at them and stuff.
+45:31
+Very Dark Souls.
+And this is where you can do like expeditions to like do shared missions with other players as well to get more rewards for things.
+This is where one of the the main story in PCs Nada is.
+45:50
+And all of the NPCS on this space station are very look very different.
+You can understand everything that they're saying.
+So no language barrier there.
+But they are all like uniquely designed and they all look like wildly crazy compared to all the other aliens that you've seen so far.
+46:09
+But this is where you know, you'll exchange like, oh, I met this, this weird signal named Artemis with this priest entity, nada person.
+And they'll be like, oh, like they, they start telling you about all of all of like the travelers and things like that.
+And then the this is where the story kind of like I was gonna say like bifurcates, but almost trifurcates in a in a few different paths where you can kind of hunt down like, Hey, what's the deal with this Artemis person that you eventually come across this other signal having to do with with Atlas, which is this kind of unsettling giant will themed Hal 9000 space station.
+46:52
+Themed.
+What is that all about?
+Well, it's very imposing.
+It's very.
+Am I imposing what it's?
+About what?
+About me imposing?
+What are you talking about?
+And yeah, so like your, your story can kind of take you in a bunch of different, different directions here.
+47:09
+I don't know how how, Lauren, you said you've beaten, you've beaten most or all of these.
+I think so, yeah.
+I beat those I think pretty early on.
+There's not much left for me to do in main storyline, yes.
+All, all 18 quintillion planets.
+47:26
+But generally, without going into too much spoiler territory, the idea is that like, oh, you know, you're kind of like unraveling the mystery of like your place in this big Galaxy of stars.
+Why?
+Like all of the stuff is here, like everyone's sort of role to play.
+47:45
+And I seem to recall there's some kind of hook here having to do with the center of the Galaxy.
+And you are kind of your main thrust story wise is you're on the edge of the Galaxy, center of the galaxy's over here.
+48:02
+You gotta make your way over there, but.
+No, I haven't done that.
+OK.
+Yes, I have not done that.
+I know.
+We just looked and I'm I'm pretty far out there still.
+That was really funny.
+That's one of the first things I did.
+I was like, oh, now that I like I, I invested like all the points in the traveling far, I'm like, oh, I'll spend 3 hours watching house and also just warping continuously in the black holes and just warping, warping, warping to see how fast I can get to the center just to see what the heck was there.
+48:30
+That was like that was like my this game is so fucking boring, but I'm also doing a stupid personal question just to see what the fuck is there and I don't know if I don't know if that was fun, but that was The thing is.
+Well, is the Galaxy different near the center?
+Is there like denser something planets?
+48:49
+More stars close by.
+No, I don't.
+More civilization.
+It felt like exactly the same density of everything all the way through.
+Maybe I'm missing something there, but there's there's a big something about.
+Question number 2.
+Are you a human?
+Where are the other humans?
+49:05
+That's that's a great.
+Question is that part of the the secret secrets?
+There's no humans.
+Like as far as I know there's no homo sapiens at all in this game.
+I.
+Don't think so.
+What are?
+What are you You.
+Can.
+Choose what?
+Yeah, you can choose what?
+What race you want to be.
+What's the human race?
+Well, all of like the the main alien civilizations have a lot of like Star Trek syndrome going around where like they're clearly human bodies, but they have some fucked up alien forehead thing that that's how they're no.
+49:32
+I don't know the the parrot people.
+I mean like, that's a pretty.
+Tree.
+Guy wait, So what am I if I start my game right now?
+79 birds in.
+Well, OK, you are, you are a human asterisk in the sense that there's story things related in the game, that there's more to it than that.
+49:52
+Are you?
+A weird looking alien creature to them.
+I don't I don't get that impression that like you're off putting.
+Well, there's.
+A lot of people get are offended by our presence.
+That's that's definitely true.
+Yeah, they they look.
+Like a geck.
+Wait, yeah.
+They're offended by anyone though.
+50:08
+If you look like a geck, why can't you speak geck language?
+Maybe my character is stupid.
+Well, well, Lauren, what you're describing, you went to a space station to like use the cosmetic appearance changer thing.
+Oh, you had plus surgery to make yourself look like a geck?
+Nanites.
+50:23
+Right, really.
+I mean, I've always been a GECK.
+Or, or is that from the the the Space Anomaly?
+There's some area 'cause I went through and I was like messing around with like the presets and I'm like, oh, this, this is like a different way that my character can look from like the base, the ask like normal looking slightly future astronaut kind of thing where presumably one of those options you can like, oh, I want to, I want to be a cute little geck parrot person running around.
+50:49
+That's exactly what I did.
+Yes, yes.
+OK.
+But yeah, like to answer Colin's question, like your player character is for all intents and purposes like a human or like some kind of species neutral traveler, the traveler in airplanes.
+51:09
+Are you a shapeshifter?
+They just always see what whatever race they are or species they are.
+How?
+How?
+OK, before we proceed.
+Never mind, I don't actually wailers.
+I don't want to.
+Do we want to like take this?
+Because there are there are layers to that answer but not interesting in my opinion.
+51:26
+But.
+I don't care about spoilers, but I also don't care if we don't want to discuss the spoilers, so.
+I feel like we should we, we spoil everything on this show, right?
+I think what what would be more interesting in this game is if like, and you can tell that like this game is very much a layer cake that like they started with a thing and then they added more stuff on and then they added more stuff on and then they added more stuff on.
+51:47
+Yeah, but I don't ever get the sense that, like, they had a good vision as to what this game was supposed to be and that there's no through line to execute on that.
+Because like I think the story missions that I've been doing like, oh, like this is like, it's pretty cool.
+52:04
+What?
+OK, go ahead.
+Sorry, but.
+But I feel like, well, I, I think it's pretty cool in theory because like, if this was like the main through line central pillar of the game was like uncovering this story in this mystery and all the other stuff around it, like built into that.
+52:22
+Like, oh, in order to in order to do this, I have to build a base to do this and unlock this next part of the story.
+I think that would like that.
+It feels like backwards to me with how it is right now.
+Or it's like, well, they started with like, you know, you're running around just like looking at stuff in a procedurally generated humongous Galaxy.
+52:41
+OK, Yep, they they definitely did that check box to what end?
+Like if their goal was like, what when Sean Murray was doing that Colbert interview and he's like, you know, we wanted to make a procedurally generated universe where nothing you saw was the same twice.
+52:57
+They executed on that check mark in service of what question mark?
+Because it's just like a big open playground of stuff to look at, which is fine.
+Like that's fine for what they're trying to do, but it's like, oh, like they were this, they were this close to getting some kind of like caves of Cud in space type thing going here.
+53:21
+Wait wait, that that was AI did not expect that.
+What do you mean by that?
+What I mean by that is like, so in Caves of Cud Lauren, for your context, previous episode that we've done, it's a big open world game that you can kind of just run around like fuck around and do whatever you want, but like the through line to that game.
+53:39
+I mean, there's a lot of.
+I mean, I have to the the the map is of a distinct shape and even if like the individual cells are procedurally generated, there is a very much a strong through line that's very much planned beginning to end.
+53:55
+Yeah.
+It doesn't matter like what the specific little shape of a world or a tile in that game is.
+Yeah, I I agree and like to expand on that.
+Like if instead No Man's Sky was like like a static overworld Galaxy, let's say.
+And there was like, oh, a point of interest over here of like a globular cluster and a point of interest over here of like this nebula and, you know, things like that to like guide you to the center like that.
+54:22
+That would be better, I think in, in that capacity.
+Because what it is right now is like, you know, it's it almost kind of feels like all these different amusement park rides that you can just kind of go do it independently, which is fine if you like, you like those individual activities.
+And I was very excited to to capitalize on all these thoughts into like one specific thing.
+54:41
+And much like the game, I think I have also forgotten and lost the plot of.
+What it was, let me this is what I think you're trying to say is that like, yes, the procedural generation adds a lot to replayability, adds a lot to having the the feeling of a very unique experience.
+54:58
+But layered on top of this, there's a it's very important that games still keep the bespoke aspect.
+Like yes, have of a Galaxy where there are bajillions of whatever, but just make sure that like in that bajillions of whatever that like players have like goals they can set where there are like, oh, here is this like you are the big ideas on these different things and you have to like go out to them.
+55:25
+And there's like a world where no matter how procedurally, like how weird the creatures are, they're still going to be the giant altar to the thing with all the minions around it.
+Or like just just ideas of, of of that sort where they're like, you know, here's the cult, the spiritual leader across the half the Galaxy.
+55:43
+And like your goal is to like infiltrate and like that sort of thing is important because otherwise it just feels like everything is the same.
+And like there's no overarching sort of like pull.
+And it feels like with with No Man's Sky, the story that they build is one of the most bland recreations of Plato's allegory of The Cave that you've ever seen.
+56:10
+And like, it feels like the philosophy 50.5, it's not even a 101, It's half a 101 course.
+And it just feels like, oh, that's what you're getting at.
+Like, yeah, I get it.
+56:25
+I know this is stuff that like every human being who's seen the Matrix understands like or or has taken any sort of philosophy.
+It's just like, yeah, OK, that's your big idea.
+I'm not left with this.
+Wow moments going through your story.
+56:41
+And so I don't know.
+That's that's my, that's my summary of all that stuff.
+Yeah, where?
+Where is Planet GECK?
+I want to go to the GECK home world, see all the little the little GECK dudes running around in.
+Geck houses.
+Yeah, like their little their little parrot huts and then like poking at bird seed on the floor and stuff.
+57:00
+I want to see what what this the whatever this no man's guy guy is, I want him to just come out and be like, yeah, it's out there, you guys just haven't found it yet.
+What other quadrillion?
+There's one world among the the the the.
+There's four.
+There's one for each.
+That that would be both.
+57:17
+Just like a very funny blurry screenshot of a like a single.
+Planet.
+It's it's a, it's a camera photo of his screen blurry, showing like towers and gecks doing their thing, like, oh, it's out there.
+Somewhere I mean, I can see why they didn't do that, but like, because like if you had like, here's the home world and as you go further away from the home world, it gets like it's most concentrated in that race.
+57:41
+And then it kind of like disperses and you might have in the home world like sort of like in different quadrants of the Galaxy for every.
+But then what you get is a very bland playthrough if you because every time you go through, you might start over here primarily in like the GECK system and then just never find one that is of the other races.
+58:02
+And so I feel very bland very quickly.
+And so I can see why they make it so every single system essentially has AI think a, just a random role of equal probability for each of the, what is the dominant like race here?
+And so it feels very like, oh, this is so weird cuz like every single, nearly every single system has like a space station where there's like focused on one race and like of like, you know, one like mercantile type, right?
+58:29
+Like there's like there's a few different like types of factions they can have, but it's just like it feels very odd that it's not.
+There's no concentration that everything is just like every new system is a complete randomization.
+Like, why would that be?
+58:45
+If you think about the logistics of traveling between systems, it just doesn't make any sense.
+It's.
+Not I guess, I guess there's the, there's the why would that be from like our like human perspective?
+And then why would that be from like the the games, like story trying to like retcon?
+59:02
+Well, the reason why that is is because blah, blah, blah, that that kind of like tries to tries to, you know, hand wave away.
+Oh, the reason, you know, the other.
+There's a reason for that.
+Don't.
+Don't worry about it.
+Yeah, but you have to have your games have to have a kind of internal consistency.
+59:17
+Like you can, you can basically just say your, your world is whatever, like fantasy magic stuff.
+You can just say there's magic because there's magic.
+But then, like, once you've established the rules for your fictional piece of content, it needs to, like, be internally consistent with itself or you're going to break that, like, sense of consistency.
+59:42
+Yeah.
+Consistency of like disbelief, suspension of disbelief goes away because you're like, well, I don't like, I don't know how to play the game with the rules of this game by its own rules.
+So I mean, I think like just spitballing, you say, oh, there's like wormholes and stuff.
+1:00:00
+I mean, you have to add that.
+But like, oh, let's branch out in a way that is easier to get from one planet to another.
+Like you could I could I could think of.
+Theoretical reasons why you could have a distribution like that.
+It doesn't sound like they've implemented anything like it, but.
+They call them black holes.
+1:00:16
+By the way, there are no wormholes, even though that is what the black hole is.
+So it's very unusual that you enter a black hole and you're able to leave somewhere else.
+It is a wormhole.
+Maybe it's just a.
+Is it 1 to 1 though?
+Or is it like?
+There's there's only a thing that you can enter.
+And it randomly shoots you out somewhere, right?
+1:00:33
+Yeah, but it's like it's so in the entire Galaxy map, if you're at like this, it's always distance from the center.
+So if you enter at 650 light years from the center, it's going to be 1000 light years.
+Then you're like, no matter what you're going to be like, you're going to be with about like 2 to 8, I don't know, some, some small number of light years closer to the center.
+1:00:53
+And so you'll be like over here, but instead of 650, it'll be 640 light years from the absolute.
+Center Can you go back outward?
+No, and that's not really explained.
+That's where my home base is.
+Well, well, you can Space station quick travel back.
+1:01:11
+Yeah, you can always just like warp through any, like if you have a base anywhere in any Galaxy, because there's many galaxies, you can always just go back and like view them, so.
+It's so there you go.
+That's how they get all all mixed up.
+They just went through all the black holes.
+Oops.
+Oops, all black holes.
+1:01:28
+I do find it very funny they all.
+Scrambled up by space God, Tower of Babel style.
+I, I do find it very funny that like it, it, it feels very Christopher Columbus that like you come to some like, or some new system and you're like, wow, none of these planets have been explored before.
+1:01:45
+And you're like scanning it.
+Discovered by discovered by Scott, discovered by Lauren.
+And then you land on it and there's Gecko already there.
+There's a Viking.
+They're like, Oh yeah, we we've been here the whole time.
+How's it going?
+And that like, they have a space station there already.
+1:02:01
+They're already fast traveling, like to the center of the Galaxy.
+And you're like, I've just discovered this rock I.
+Named it.
+You're standing there for 5 minutes and like there'll be like a whole squadron of like ships that fly over your head as you come up to a space station that are here like a.
+1:02:20
+Trade Terminal Station Trade.
+Terminal and you're just like, oh hey, you've been here for a while, right and it's just like nothing has actually been unexplored.
+And so it just feels like there's this odd mix of like, are you truly exploring the unexplored, the final frontier, or are you just.
+1:02:36
+It's good to you.
+Sure, I discovery.
+Single every single planet, every single moon, everything has stuff on it because they don't have bland, boring worlds, right.
+And so this is another part that like breaks this like this idea they want to sell you that like you're really exploring.
+1:02:56
+No, they just have to they have a concentration of different things that they have to put on the map and they do it in a certain specific way so that you always have within traveling in a straight line over 5 minutes, you'll have X probability of meeting this type of encounter, that type of encounter, etcetera, etcetera.
+1:03:14
+One thing's planned.
+That's that's why this plan.
+Yeah, I mean, like I, I, I think you're, you're not wrong on there.
+There was this one like pithy YouTube comment that I saw somewhere that I took a screenshot of.
+That's like No Man's Sky lore, war empires, subjugation, No Man's Sky gameplay.
+1:03:30
+You have learned the Gek word for the.
+I was just watching, Sorry.
+Go ahead.
+Yeah or yeah, which like I I can kind of like, yeah, like I get it.
+I mean there's there's a lot of like text lore behind the scenes, but like the fundamental moment to moment gameplay, like like the core gameplay itself.
+1:03:51
+It's not fundamentally like that hard or challenging.
+It can be very Zen.
+It can be very like, you know, koi pond farming or like what was that game that came out recently?
+They had all the the OR you know, it's like a power watch simulator in space almost that like, you know, it's it's it's Zen.
+1:04:11
+And I think that's kind of the core gameplay that they were going for.
+Then they added all this other more interesting stuff on top that's like, Oh yeah.
+Like that could have been like a super awesome like space opera game.
+But maybe that's not what they were going to go in for.
+But Lauren, you were saying before I cut you off with GECK the.
+1:04:28
+Geck the I just watched a a video when it was released 10 years ago and it was saying scan build, trade, like fight and it's literally everything that I am still doing.
+And then they've just added these upgrades onto it, which I remember when it did come out first come out they said you're never going to we're never going to make a second game.
+1:04:51
+We're just going to keep adding on to this one.
+So I can't appreciate that while it is the same game and can be boring or Zen like, they're still working on it, they still do things.
+Maybe they don't get it quite right.
+I think I have a soft spot for it.
+Yeah, and like the people that are fans of this game, I think have been very supportive of how the game has evolved over time.
+1:05:13
+Because just today, like November 17th, 2026, when we're recording, the Game Awards for better or worse are coming out soon.
+And this has been nominated for two categories for Best Ongoing Game and Best Community Support for like how they've been constantly adding stuff to the game that players of the game really like and enjoy and engage with.
+1:05:38
+So I think like, yeah, that, you know, they could have cut and like after like the abysmal launch, like they could have just said, like, fuck it, we're not, we're retiring from video games forever.
+And we're not going to like Polish this up into like an actual good experience.
+I feel like the, the stuff that I was playing around with, like, felt like it looked, it looks very visually impressive.
+1:05:58
+The art design's very good for the most part.
+It wasn't super glitchy.
+Uh, and yeah, like there's, there's a lot of these interesting systems, one thing, but like there is this and maybe I'll, I'll bring it back to this anecdote here afterwards.
+1:06:16
+But like, like Will was saying, you know, you're flying around in, in this, this solar system and there's all like these space freighters that are like space warping in and it looks really cool.
+And you're like, well, like I can fly up to these these space freighters and like, whoa, oh, I can go in this one.
+1:06:33
+What?
+And like this was like a cool thing for me where I'm like, oh, this is pretty sweet.
+I can go into this like humongous Star Destroyer looking thing.
+I can get out of my ship and I can like walk around and look at stuff.
+I'm like, oh, I'm like, I'll talk to this guy.
+Oh, this guy doesn't really seem to like me very much.
+1:06:48
+All right, how about this guy?
+Oh, he doesn't like me very much either.
+All right, well, I'll just kind of run around and explore.
+But like the second I tried running up like one of the staircases, I just like clipped right through it and just like fell through the bottom of the, of the space freighter.
+1:07:03
+And like pretty sure that's not supposed to happen.
+And I spent like 5 minutes like 'cause I was like floating around in space and I had to like space jetpack my way back onto the freighter, run like around to where I can find like the big captain of the ship.
+And he's like, hey, I can sell you this big space freighter for like 13 million space bugs.
+1:07:22
+And I'm like, oh, I could buy a giant space freighter.
+What do you do with a space?
+Freighter, that's a great question.
+You.
+You.
+Build on it, Yeah.
+You send ships out to do things, they come back, then you do it again.
+Get more space bucks.
+Not much.
+Is it real space bucks or is it special freighter space bucks?
+1:07:41
+I don't remember.
+Units a different resource, Scott, how many plants have you landed on?
+I would say maybe 20 planets.
+OK.
+Probably 200.
+Lauren will see.
+Will you say 200, Lauren?
+I mean, you've played it over a much longer time period, so I feel.
+1:07:58
+Like, yeah, on the Steam I would say probably 200 and then PlayStation, who knows, But I have like 8 to 10 bases and that's just like on a planet in a system that I liked.
+What what are your bases like?
+Cuz my base is the the little base node and then a power generation, the supply and then a teleporter and that is the extent of what all my bases are.
+1:08:21
+If it's a place I don't like much, yes, but then there's a couple where it's like I have to have and I made them pretty colors and then I put some decorations and then another one I made like walls and lifted it up and put some stairs going in.
+Do you have a pretty Corvette as well and that you're very proud of and that has?
+1:08:38
+I have 1234 or five of the.
+That's see, that's a particular player style I think is.
+Like getting used to that but you're.
+Just like you know at.
+Some point you're like, you know what, I'm going to make the most beautiful ship.
+1:08:54
+Yeah, where, you know, Well, why don't you have a big giant base?
+I'm utilitarian bespoken I.
+Most beautiful mountain.
+There was no point in ever having any.
+Will has Will has no need for seven space Lambos parked in his like giant flying space garage.
+1:09:10
+He's just all about the business.
+Just going to the unit, it's.
+It's so weird though, 'cause like with Kerbal Space Program, I spent, I remember I was up until 3/4 AM one night, just like refining the very smallest details on a single stage to orbit craft where it was just the most beautiful thing I've ever made.
+1:09:32
+And I was like, this is, I love making spacecraft.
+And yet in this game, I'm just like, no, like anything I attach to this, all the little things, they're not actually affecting the ship.
+They're just like the cosmetic, I guess maybe that's the big difference is like in kernel space program, when you're changing the position of something slightly angling, you're like creating a physical difference for a simulation of actually trying to go through an atmosphere and get into space.
+1:09:59
+And so in this game it was just like, Oh yeah, anything you do doesn't matter.
+You aim, ship up, go, and that's it.
+That's how you go into space.
+And so it felt inconsequential, and that's.
+Uninteresting.
+And like for all the survival crafting games, how much I care about building the base is very much directly related to how much making the base better makes the more efficient gameplay loop.
+1:10:24
+Exactly like sorting chest.
+How, how like I've spent a lot of hours in Minecraft for like our, our community server just building stuff for the supply room.
+And like I built, I spent many hours in Minecraft mapping everything around.
+1:10:43
+Not really for me, but so I could build a giant room with a giant map that everyone else could see.
+And maybe I would have done that just for myself because it was like a task, a thing to do that felt like it had utility.
+It sounds like this game is for a very specific kind of player.
+1:11:01
+Like not one that's looking for a lot of questing that's important and effects everything.
+Not one that's really survivally or wants quest to check off the list.
+What else?
+1:11:17
+Yeah, I guess like Lauren, I'm curious like if if you are excited to like jump back into No Man's Sky, like today to go do something, what would be like the number one thing that you're like, Oh, yes, I'm stoked to jump back in, booted up and go do blah?
+1:11:33
+As Lamid as it is, just fly to a different Galaxy, see what kind of planets they have, land on one, see how it's the same and how it's different, and then go to the next one.
+Because really, like we said before, it's the same 10 plants.
+It's the same 20 animal parts put together, the same like 5 rocks.
+1:11:53
+Yeah.
+I know, it's just different.
+I need to find out so my brother has 130 hours in human sky so now I need to find out what and I'm going to see him over the weekend so.
+What what is his gaming style and what does he like about it?
+Would be really interesting to hear.
+Yeah, he and I don't have exactly the same taste in video games, but like he he really likes Subnautica, I think, which I also haven't played so but yeah, I like the kind of exploration he kind of games.
+1:12:21
+That's that's my guess of why he would like it.
+But I I feel like there's a very subtly different version of this game that I also really like for the exploration.
+Like I I keep going back to Minecraft because it's the most procedurally generated game that I can directly compare and I've spent many many many hours just exploring stuff and as a self self given quest and felt about like filling out the map about that.
+1:12:48
+Yeah, when I play Minecraft, I just explore, so maybe that's why I like this game so much.
+I think it's all coming together.
+That's funny, 'cause I like the Oh, go ahead.
+I liked the the atmosphere of Minecraft much better than I like the atmosphere of this game, even though it is beautiful in sun.
+Yes, pun pun not intended, but now intended.
+1:13:08
+Like something about the the way that you have to traverse the landscape was more satisfying to me right off the bat.
+So interesting.
+I mean, like once you get into space, there's not really like stop behind going from plant to planet.
+Like there's it's push button to go forward.
+1:13:24
+There's no like I have to jump over this mountain.
+You might want to have like a certain type of planet for a certain type of resource, but I know.
+That's a different, that's a different thing though.
+That's like trying to figure out like what node you want to go to versus the physical act of getting jumping over the logs and the trees and the the go around a pit kind of thing.
+1:13:44
+Lauren, will, did either of you engage much with like the smuggling system in?
+The game I did a little.
+Was there any aspect of it where like, oh, in order to like smuggle this cargo from like the bounty hunter, like the the ne'er do well, planetary systems where it needs to go?
+1:14:02
+Like were you using like the the planet systems of like, oh, I gotta hide, I gotta hide from the space cops behind this planet over here and wait for them to go past or anything?
+There's not really space cops, but you'll be flying and someone will scan you and scan that you have valuable or smuggled material and they'll attack you for it.
+1:14:19
+And there are, you can outrun them.
+And I think there are Shields that can protect you from that.
+But yeah, you do get you try people try to break your ship and steal your stuff.
+And becoming like the best Han Solo in the Galaxy at doing that.
+Like, does that change in any way?
+1:14:36
+Like you're standing with the alien races.
+Do you get any like cool thing?
+For it, I think there is a pirate faction and it gives you, you can buy more stuff.
+I think you have like a reputation with them.
+I have one planet that's a smuggler.
+1:14:52
+It instead of having a space base, it's a smuggler's base and I can't do some certain things there because I'm not cool enough if I remember correctly.
+You're gonna have at least three eye patches before you can enter this cool pirate Hut.
+Yeah, I think like, a lot back to, like, when I was first playing The Witcher 3 and I was like, I'm not really super interested in, like, the world of this game.
+1:15:16
+Like, it looks really cool.
+I've heard a lot of good stuff about it.
+Gwent.
+Yeah, like.
+Gwent.
+All I know is that there is this stupid trading card game in it that I have to be the best at.
+And it was like a dumb enough hook for me to like hook me along into the main.
+1:15:31
+Like that got me into the game where I was like, yeah, like, I don't know about like all this fantasy magic stuff.
+And then like, oh, but in order, like I have to go and complete this quest over here to get this Gwent card that I have to use to beat this other guy.
+And then like it, it tied so neatly into the main story of the game that like, yeah, you could just only engage with that.
+1:15:54
+But like it enriched the experience of the other stuff that like what you're describing with the piracy thing.
+It's like, okay, well you can do you can be like the most Omega pirate in the Galaxy.
+Is that going to make the Viking get along with the GECK better as a result?
+1:16:11
+I mean like.
+That's that and that's the problem.
+Is it like the the best way, the best way to make units in this game is completely unrelated to any of that stuff.
+Like they they make it so that yes, there is a you can you can make units doing anything.
+You can just go to worlds and scan things and make units and you can like.
+1:16:30
+Amplify these units.
+It's unknown.
+The The Voice Lady units received.
+But the best way to do it ultimately is going to be this manufacturing process where you're building the most advanced components, basically, and selling them for like 15,000,000 a pop or whatever the heck they are.
+1:16:51
+And so it's like if you have a, a, a, a, a, a, a network of worlds that are set up to build the parts to like make this thing, you can just make billions very, very quickly.
+But if you don't want to do that, then you could still just like there's a certain type of mission you can take, which is like emergency missions, which is like if you go into the world you use, you basically take your ship, you run it around the outside of the world to find this thing as fast as possible.
+1:17:20
+You go down into the atmosphere and you look in like, oh, is there a ship there?
+Is there a new like a free ship?
+If there's a free ship available, you go there, you claim it, you go up to the the spaceport and then you're like, Oh yeah, I'm going to sell this.
+And sometimes it depending on the type of ship you can get, you get like something like 50 million of the unit things, which is like a good amount of units.
+1:17:40
+And then like 50 million units covers essentially all costs for most useful things.
+Which is interesting because all of the there, there is a, an inventory management system where if you have a multi tool, a spaceship, your own personal inventory, these are all things that are capped on how many slots they have.
+1:18:04
+And you can just naturally earn these like upgrades to expand your inventory, or you can spend something on the order of like 75,000,000 of this resource, which is to say, until you get to the late game, you essentially cannot purchase this stuff.
+1:18:22
+But they made this like Valve, a pressure valve for like, you have so much money, we don't know what you should do with it.
+So therefore, we're going to tell you that like, well, you can buy everything in the game, but that's pointless because we know what you want is an extra inventory slot.
+1:18:38
+And so here's your pressure Valve right here with like adding one more slot to your inventory.
+And that felt so incredibly lame because you can just earn inventory slots through like standard missions and like, it's just like a but.
+Not that last extra 1.
+1:18:55
+Yes, yes, it actually it takes more time, but it's just like it's it's a it's a matter of the the economy just feels so spoiled in a sense.
+I don't know, I really did not like this aspect of of the game and it just felt really weird.
+1:19:12
+Like it's like almost dangling like the hey, you should keep playing for like billions.
+I know you're not making that much now, but like you should keep playing for that because you'll get slightly expanded inventory and.
+I like the dangle.
+The dangle kept me going.
+1:19:28
+Oh man, I don't know.
+I I it didn't do much for me.
+I just felt like this is gross.
+I don't care At a certain point, especially it didn't even really matter.
+Of course I'm I'm someone who's maxed out the personal inventory.
+So what am I saying?
+You know, like I, I went through it, I experienced the process.
+1:19:44
+You're mad about it.
+But I'm mad about it because it didn't feel satisfying.
+It just felt like I didn't like it, no.
+I guess I'm curious, like has, has the No Man's Sky experience made you more or less interested in their next light no fire game?
+1:20:02
+And I think for me, like, I don't know, maybe slightly excited for it because like.
+I like the idea that it's only just one planet instead of a bajillion different planets.
+I don't know how many players they're planning on interacting with each other all at the same time.
+And I'm hoping that Hello Games has kind of taken the lessons of instead of all these disconnected independent gaming modules, like separated from each other that are all kind of like lumped into this garbage garbage bag.
+1:20:33
+This this.
+Really.
+You score a little early there, Scott.
+This very nice compostable expensive bag A.
+Compostable.
+That you get from the chest.
+Freezer.
+Filled with body parts, you know, like if they I'm I'm hopeful I'm I'm still a little skeptical.
+1:20:51
+It's probably going to be one of those things like yeah, I'll wait and see what like the first few months of light no fire looks like before actually like maybe getting invested into it in any kind of serious capacity.
+But like, I would hope that them as a studio have kind of learned that like, oh, maybe like instead if we have some kind of like central through line narrative to it and then Add all the other stuff on onto that to help enrich and engage the main core gameplay experience.
+1:21:20
+That's what I'm hoping that they do for the next game.
+Cuz like it feels like the ideas of what they're doing here are all good.
+Like it looks cool.
+The ideas for it are cool.
+It's just like a cool game that maybe leaves a bit on the table with like the stuff, the independent systems just not talking to each other.
+1:21:42
+I'm watching the steam like the the video steam introduction and the video for light no fire.
+Yeah, it looks, yeah.
+Cool.
+But looking at it and really thinking about it, it looks very No Man's Sky, where maybe there's not a lot of quests, not a lot of you got to fight the big bad at the end of it.
+1:22:03
+It looks like it just might be like, do an explorer, big, big planet.
+I don't know how that's different than Minecraft necessarily.
+I guess we'll see.
+But I think go into it maybe with low expectations and you'll enjoy it more.
+Uh huh.
+1:22:20
+I don't know.
+I'm going to get a Bayesian approach here and just say, well, I know what my prior is and so I'm just going to have that be my expectation until I have evidence one way or the other.
+Well, I guess before we jump into ratings and slapping some some numerical scanned numbers on this, is there anything else we want to touch on or talk about?
+1:22:43
+I'm kind of curious Lauren from your like, so for listener context, Lauren is our current DND dungeon master.
+So we, we have to be nice on this episode or, or in our next DND session, all of our characters are going to be mysteriously killed for no reason from your DND ING experience.
+1:22:59
+Like how like how does, I mean, No Man's Sky is kind of like the poster child for procedurally generated everything.
+You know, everything is new and random and cool and different all the time.
+But like, like how does, how does that jive from like creating like from your perspective of like creating an experience for people to interact with, like creating some kind of sandbox for your player characters to to muck around and get trouble in?
+1:23:26
+Yeah, that's tough because while it is a big broad, so much big beautiful space, it's also the same few things over and over again, which I feel like is something that can really happen in D&D.
+Like dungeon, prison break.
+1:23:44
+This room is puzzle, this room is fight.
+So while it can be anything, it really can fall into the same buckets.
+And it's, I think trying to break out of those buckets or like not railroad and make it more expansive, I think is the goal of a good DM.
+1:24:04
+That's what I try to do if I do it, yeah, but that's the attempt.
+I would say that your DM ING is definitely more bespoke than.
+Really good.
+Yeah, I mean there by almost by definition, it is handcrafted by a human to be for me exactly so.
+1:24:23
+That's true.
+Good, okay, anything we want to talk about before putting this on the galactic map?
+Seeing some nods of heads.
+Is there a music?
+Yeah, I guess we could talk about this.
+There is music.
+1:24:39
+I thought the music to this game was really good because when, when you like discover a thing or like, or was it like milestone achieved or something like that, like you, you've walked 10,000 kilometers whether you wanted to or not, The little milestone achieved that comes up.
+1:24:58
+And it does have like this very good musical, like bit to it where it's like, Oh yeah, like this.
+Like it feels ironically like way more impactful than maybe it actually is.
+But like when you're flying around through space or like you're in combat, like the music does, I think a really good job of underlining like, oh, this is like a cool thing to be looking at and experiencing with.
+1:25:23
+Whether or not if it's like actually that cool is maybe up for debate, but I like the music in this game a lot.
+I liked it until you're on your settlement and you get your third pirate raid and it's the same stupid music in the same 10 minutes.
+1:25:40
+Though it does feel really good when you're just like walking around.
+You get a milestone or like what is it?
+You land on a planet and you get like cool music.
+The the ones that don't happen all the time I did like, but then the ones that piss you off could really piss you off and it's very emotional.
+1:25:59
+Yeah, yeah, it does.
+It does the the emotional part of the music very well.
+But like, yeah, like you're saying if you're trying to get the the stupid Sentinel police force off of your back and you're just like, oh, I'm trying to escape.
+But like the music just keeps going and going and going.
+You're like oh God, please mute.
+1:26:16
+Well, I like the air.
+One last grievance if I can.
+Is.
+And so you go to these space stations and there's all, you know, the three races there and you want to learn their language.
+And so you talk to people that are just wandering around the station.
+1:26:32
+And it's just this the clunkiest sort of dialogue possible where the amount of weight you have with like, here's I have an introduction statement.
+What would you like to do?
+And then it's just like you're waiting.
+Then you select something like, Oh, I want to learn a language, a word from you.
+1:26:50
+Then you have to have the response.
+And it's just like the, the amount of time and also repetition of having to, Oh, I'm going to go through this menu and then I'm going to have to talk to you again to like, you taught me the word.
+Now I want to use that word in a conversation.
+And so it's just like, that's a common thing that you want to do is learn a word and then use it.
+1:27:11
+And it's just like the time and energy it takes to go through those screens.
+It's just so infuriating.
+And made me like.
+It totally turned me off from like, oh, I want to learn all the words in your language so I can talk with you to be like, shut the fuck up.
+1:27:28
+I don't give a shit about you or your entire species because you people talk so repetitively and it's just like, I don't give me the same intro every time.
+I know you have a whole dialogue you want to give me before we can get to like my selection, but I just that really pissed me off and that that honestly that's going to account for maybe .5 to almost 1.0 of the the the amount of a loss this game is going to have from a 10.
+1:27:59
+I kept thinking to myself, like either your player character is the stupidest person in the Galaxy, where like, you'd think you'd pick up like the language a little quicker than one word at a time, because I feel like I can understand my cat's language better than like some of these aliens where And then like, second, how come you can't buy a fucking dictionary at these stupid space stations?
+1:28:22
+Like like just learning one word at a time.
+You'd think that like the the the the dictionary for the for the GECK, you could buy for like 10,000 units or they could just like hand you one and be like, man, this guy, this guy really needs some Duolingo.
+Of universal translator.
+1:28:38
+Just stick that you've got you've got faster than light like travel.
+You're telling me you can't translate something where the all these species literally exist in every single Galaxy?
+That's just nonsense.
+That's not well will the the the word is has a lot of nuance to it as as Bill Clinton will tell you that you know, but there's you have to have a very specific definition of what that could be and between GECK and Viking.
+1:29:05
+I mean it's totally different in Spanish there's 2 words that are is or to be so it true you don't know, maybe they have 3 words for is.
+You have learned the the Viking word for seven.
+You know what?
+The worst part is I've started to reach the point where I'll it's like, what kind of what word do you want to learn?
+1:29:25
+And it's like a friendship word, a trade word, a, a weird word.
+And they've I've started to get repeats.
+So I had go through really, yes, I go through all of that and it's like the same word.
+I got like two people ago.
+Huh.
+And they only.
+You can only do it once too.
+1:29:41
+Yeah, yeah, cuz like when you interact with that NPC and that space station or trade hub or whatever, like it'll say, oh, like you've already visited this NPC and you've exhausted their dialogue kind of a thing.
+But like, yeah, that's interesting.
+I thought it would like like if you've completed the dictionary for that race or something or or even like you know that.
+1:29:59
+Category.
+Yeah, like if you've, if you've used up all that stuff, it would just like either delete that option or it would say, you know, oh, because you know, all of the GECK words for friendship, you've instead learned the GECK word for, you know, hostile invader or something like that.
+1:30:18
+You'd think.
+Well, Geck, you just want to maximize trade because that way in the free text of the like or the the conversation, if you mentioned trade, they're much more likely to like that.
+I never actually understood that dynamic exactly.
+But like with the space people, the Cova, that's the one.
+1:30:39
+Yeah.
+If you have mentioned technology, they love that in their in the conversations more often than not.
+And so I don't know, I feel like they have a phrase they say that they want you to interpret it and respond accordingly to.
+But even if you don't understand what they're saying because you don't know what their words are, if you just know what faction they're in, you're going to get it right.
+1:30:57
+Like half the time if you just say, oh, you are the angry species.
+Well, here's an angry word.
+Oh, well, now we can both be angry together.
+And now I.
+Yeah, I lost a whole faction Rep point when talking with one GECK trader as part of like this main mission quest who like was talking blah blah blah and like kind of hinting at like economic stuff and wanting to trade.
+1:31:20
+But I used it's the word interloper with them and they're.
+Like boom.
+How dare you?
+How dare you?
+How wooed?
+So yeah.
+All right, let's rate this game.
+Let's, let's, let's do it.
+We got we got a hard.
+Cut off here, I think OK, yeah, yeah, let's let's in traditional fashion going worst to 1st and the worst of the the zeroth rating will will have Colin kick us off here.
+1:31:45
+Oh, I mean, I'm not actually giving it a rating.
+I feel like I probably would end up somewhere between Will and Scott.
+I have played enough resource collecting games to know that I don't have time to do it right now.
+1:32:01
+Or if I were, if I, I would have had to sacrifice something else in my life in order to make the 10 hours needed to play this game.
+And I didn't want to do it for what I expected the game to be.
+So yeah.
+Well said.
+I'll go next.
+1:32:17
+I kind of have like 2 minds of this game, one as just like a base game in and of itself and then one for like rating for a roguelike, roguelike podcast specifically.
+So I think my rating of a of A5 sounds a little harsh, but I'm I'm grading that on the aspect of of like how good it is as a rogue light specific game.
+1:32:39
+I'm kind of like square pegging round holing a little bit here, but I'm putting it kind of in the same grouping for like Warhammer 40K Dark Tide.
+Also not a rogue light, but has some kind of modes that you can kind of squint at maybe.
+And then strafe gold edition, which fun game, bad rogue light syndrome.
+1:32:57
+And I, I don't know, I kind of feel like maybe similar here as like a base game in and of itself.
+I don't know, I could go as there were times where it was like on average, maybe like a 6.5 and like sometimes we've got up to like a 7, maybe 7.5.
+1:33:13
+I think like the initial interacting with stuff the first time was like, oh, this is like an 8 That's I'm so on board for this and then just kind of backslid.
+So, so for me, it's kind of like a in 5:00-ish territory.
+I think like the, the bad parts of this, you know, we talked a lot about like the, there's a lot of systems in this game, but they're all kind of super disconnected.
+1:33:34
+I think if they talked to each other better, that would feel better.
+The, the grinding, like the farming stuff.
+I don't know, like, like what Colin was saying.
+I didn't, I just don't know if I have like, you know, there are legitimate adult reasons why.
+And then for me, it was more of just like a motivation reason of like, I don't really feel like motivated to ZAP down to 100 stones in order to get the carbon that I need to farm snore.
+1:34:02
+And I think like there is another previous episode on our UFO 50 game coverage.
+We talked at length about the game Planet Zoldath, which this No Man's Sky almost feels like a AAA version of planet Zoldath where you are doing resource farming, talking to aliens you can't understand, looking for stuff on a galactic treasure map, kind of taking the same boxes.
+1:34:26
+But I think the goods here there's there's some interesting stuff going on.
+I think this game looks very good.
+It's very visually impressive.
+Lots of great detail for things the the procedural generation for better worse is well done.
+I don't think I've seen two aliens that look remotely close to each other.
+1:34:45
+And for the most part like they they delivered on what they were set out to do.
+Like they made a procedurally generated universe.
+It's the the poster child for a Galaxy wide and an inch deep.
+But they made it a Galaxy wide, damn it.
+And yeah, I mean, there's a lot of things that I think I want this game to be that it's it's maybe not specifically designed for, but I think like it when this game goes on sale for like 25 bucks, I think it's it's a fine $25 game, I think.
+1:35:16
+Yeah.
+So that'll do it for me.
+Let's kick over to Will next.
+Well, did any of you play Starfield?
+No.
+Yes, that was the Terraria one that.
+Is no, that was Starbound.
+Oh.
+Yeah, Starfield is the is.
+1:35:33
+Is Starfield is the Skyrim of the space?
+Bethesda, I think, right?
+Yes, yeah.
+So if you know, you guys play.
+So that is the closest game to this and I have a lot of problems with that one.
+Unfortunately, since you guys haven't played that, you won't really understand what I'm trying to say when I say this game has so many of the same problems that that game was trying to solve over the same, like over a much longer period.
+1:36:02
+Which is to say that like procedural generation is not a solution for intrigue.
+And what Starfield had going on is that they tried to layer in more story and the story felt flat and bad and it was not a good game.
+1:36:20
+But this game story was worse on AI mean like I was so uninterested every single time I flow into I flew into the space anomaly and I had to go see nada for the next thing.
+1:36:39
+I'm like, OK, I'm going to talk to this alien creature.
+He's going to say, oh, good job finding the thing.
+Well, well, then you can talk to this person about this thing.
+And it just like there was nothing about that character with any sort of flair whatsoever.
+1:36:58
+Every single creature you come across is flat and boring.
+And at least from my point of view, there was nothing intriguing about any of them.
+There was no character.
+There was no.
+There was no personality that really resonated across any of the creatures they made.
+1:37:18
+All the dialogue was clunky.
+And so the whole story itself, which is supposed to drive that, the story itself is supposed to drive you across the Galaxy.
+Because without the story, then you just have the open world sandbox where that's boring in like 20.
+1:37:34
+I mean, like that's that's boring very, very quickly.
+And so the story is what tried to pull me through this because I'm like, well, I got it.
+There are worlds, you explore them and then the story being driven by this.
+Nothing.
+1:37:49
+This was just flat.
+And I somehow made it through to 67 hours because I'm like, here's the one thing I can do.
+I can go down to a world, I can shoot something, I can get into a level 5 conflict and I can fight a giant Sentinel robot and that is my game.
+1:38:07
+And I did that more often than anything else.
+I would try and get into combat, shoot things and be able to kill the big bad thing, but you can only do that so many times.
+So I don't know I'm I'm rambling here.
+This game isn't bad, but it's certainly not good, which is why it's going to get my 6.5 rating where 6 is my minimum threshold for recommend and so it's like yeah, it's above my.
+1:38:35
+If you have nothing better to do with your life right now, then yes, you could play this game and for certain players, not me, for certain players, you're going to love it.
+But if you're like me, you're going to just be like.
+So take that as you will. 67 hours played just out of spite.
+1:38:54
+Honestly nothing better to do at this point in my life.
+That's.
+For the course for well, yeah, I played a lot of games for many hours out of spite.
+All right, Lauren, bring us home.
+What?
+What did what did we get wrong?
+What did we get right about about No Man's Sky?
+1:39:11
+What?
+What do you, what do you want people to take away from No Man's Sky?
+I feel like my scale is different than you gentlemen.
+I say like a 5 is middle of the road, like it's good, it's bad.
+I would put this, I was going to say 5, but I think I'm going to move it to a six because it's not, it's something it doesn't piss me off.
+1:39:37
+It's something I can do.
+If I'm bored, I'll play it.
+It's fun to play multiplayer like you just kind of do what you want easy.
+I think there's nothing much to it and that makes it, in my opinion, fun to play.
+So not for everyone, but you know it's better than average.
+1:39:56
+Well said.
+Yeah.
+And that will wind up putting No Man's Sky on our main list of rankings here at our new number. 85th game out of 100 out of 106.
+Yeah, seems right.
+That we've played, but I guess like, you know, to to kind of under score that, you know, that there's very few games I think on our list that that like are straight up not recommends.
+1:40:21
+There's I think so we have a steam curator and I feel like on there you can give like a recommend a not recommend an informational.
+And I feel like the only games that we actively like would push people away from of like do not do not play this game are like our F tier level games.
+1:40:39
+And this is outside that threshold.
+So it's not, it's not down there luckily, but it is.
+It's like, you know, like it'll, it'll drive for some people.
+But I think of the 106 games that we have played, it is our new number, 85th on the list.
+1:40:58
+OK, So what is the gem score and why is it -81?
+Well, I can go into all the the gory math, but I know that we're running long here.
+The, the TLDR is that like the, the, it's, I think the fifth most popular or fifth highest volume of ratings.
+1:41:18
+If it was a rogue light game on Steam and if it was just in the universe of our games here on the podcast, it would be like the fourth highest by volume.
+And so the the discrepancy between its overall rank.
+Most controversial.
+1:41:36
+I wonder what kind of comments we're going to get on this one.
+Yeah, no, nobody cares.
+Yeah, that's true.
+I don't know.
+I, I know I said that, but I also, yeah, that's what I.
+Thought yeah, nobody actually cares about the rating numbers, but it they are useful for for some things like the gems score but some similar games to No Man's Sky.
+1:41:53
+I, I, I got a list of ones here that are actual rogue lights that we could cover in the future.
+One from Collin's two play in the future list.
+At some point approaching Infinity is kind of like what if No Man's Sky, but like a a top down turn based grid based space RPG that has kind of like a more kind of Star Trek the original series, like like wackiness to it.
+1:42:18
+It's fun, like it's got a good like goofy art style to it that we could certainly look at in the future.
+There's one game that has cropped up a number of times in my research here from the early 2000s called Strange Adventures in Infinite Space, which is more of like a bite size, like takes 10 to 15 minutes to play kind of game.
+1:42:41
+I think it's freeware now, but it is one of those games that's like, it's a very of its time, early 2000s, like goofy space exploration simulator, go out, get McGovern, Mcguffin, bring it back.
+Everything's blowing up.
+Craziness ensues.
+There's one game that came out a while back called Everspace, which is more of like the space mining aspect of No Man's Sky, which is another very visually bespoken interesting game.
+1:43:09
+Crying Suns is one that has come up a few times that is is kind of kind of like 1/2 step between I think No Man's Sky approaching Infinity and like Stellaris or something like that.
+Seems very interesting.
+Maybe more of like a a squad management XCOM kind of game.
+1:43:26
+I, I mentioned a little bit the UFO 50 game planet Zoldath, which is a little tongue in cheek way of me saying like what if what if No Man's Sky, but like on the NES, give it a look.
+And then here's here's a list of games that because No Man's Sky is not really marketed as a rogue light.
+1:43:42
+Someone's to check out here.
+Astro near I think is very No Man's Sky, but but more kind of focused in its, in its delivery.
+Star Control 2 or the OR the Erquan Masters is I think what I want No Man's Sky to be in terms of like wacky aliens.
+1:43:59
+It's a big universe, but not overly big and kind of like a ticking clock mission.
+Elite Dangerous is maybe kind of closer to every space, but another kind of like space SIM game.
+You got * Sector, which is not on Steam, but it comes up a lot in terms of games that are still kind of doing their own thing.
+1:44:19
+And is it another very good space space trading simulator game?
+I, I wanted to talk for like 25 minutes straight about and it's this isn't even really a game, but it's a, a planetarium software simulator called space engine.
+1:44:36
+But I have like, I have like I have like 90 hours in.
+That is maybe like the most jaw-dropping space exploration experience you could, you could have.
+The reason why I say that is because like it it is it has realism at its core and it is like it does have a lot of like procedurally generated randomized stuff in it.
+1:44:57
+It's not it's not a game.
+There's no game to it.
+But if you want to see like the sunset on Mars or if you want to see the highest cliffs in the solar system or if you want to see the black hole at the center of the Milky Way, or if you wanted to see what it's like to fault like fall into a black hole from a more realistic perspective, Space engine, I'm you, you, you at the very least have to just like go and look at it on Steam and be like, whoa, OK, it is, it is in an incredible piece of software.
+1:45:28
+Again, I'm maybe I could like stealth edit in like another 35 minutes of me just like gabbing about it within within the show here.
+But I've gotten the the watch tapping signal to to to wrap it up here.
+So we're going to we're going to wrap it up.
+1:45:44
+Lauren, thank you for being on the program.
+Is there anything that you want to plug before we wind?
+Down no before we.
+Spool down the hyper drives OK, well any.
+Other games you've been playing recently that you liked?
+I've just been playing Wow.
+Playing Wow for the first time.
+1:46:01
+There you go.
+Yeah, pretty fun, good time.
+I've I've heard of this wow thing grogpodzone@gmail.com the e-mail address that you can send all of your great experiences with space engines specifically too.
+We are.
+1:46:16
+On matching right now, by the way.
+Yeah, yeah, yeah, Mastodon, Grog pot again, Dev dot plays all sorts of shit posting there.
+Grog pot dot zone, the website.
+That's where we got all the stuff.
+But yeah, that'll that'll wind down our Galaxy sized episode on No Man's Sky here.
+1:46:35
+But before we do that, we we've we've talked a lot about numbers here in this episode.
+Colin, what are we looking at for our next episode?
+We're going to play Nubby's number Factory, where we're going to make number go up in Peggle style.
+1:46:52
+Chaos.
+I'm not sure.
+It looks nuts.
+I'm excited.
+I think Will's going to like it best of Will face.
+He says.
+He doesn't think he's going to like it, but I'm hoping.
+But he'll play it.
+I'm hoping for a bolotro style hit of pure number go up dopamine.
+1:47:08
+Yeah, I'm excited.
+Yeah.
+The art style for that game is delightfully unhinged.
+Yeah, Nubbies, Nubbies Number Factory closing out this episode, but the play us out from this will be some some tunes from No Man's guys you're looking up from your acid planet's surface.
+1:47:24
+To see that.
+Super Moon hanging low over the horizon.
