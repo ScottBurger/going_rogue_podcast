@@ -6,7 +6,7 @@ file: https://grogpod.s3.us-west-2.amazonaws.com/no-mans-sky.mp3
 description: "
 "
 explicit: "yes" 
-keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, white knuckle"
+keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, no mans sky, hello games, Sean Murray"
 voices: "scott, will, colin, andrew"
 cover-img: /assets/img/nms_hero.jpg
 thumbnail-img: /assets/img/nms_hero.jpg
