@@ -24,12 +24,21 @@ You have learned the Gek work for "procgen"! This week we explore the biggest ga
   </audio>
 </div>
 
-[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/hades-2/id1650474911?i=1000797385164) | [Spotify](https://open.spotify.com/episode/2LykgLM8PERcbTB2UKVyKB) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/hades2.txt)
+[Custom RSS](https://grogpod.zone/feed.xml) | [Apple Podcasts](https://podcasts.apple.com/us/podcast/no-mans-sky/id1650474911?i=1000802635057) | [Spotify](https://open.spotify.com/episode/2k6jEDk8yN6zEBfmDEC1wZ) | [YouTube Music](https://music.youtube.com/playlist?list=PL-ShOmyMvd4jYFChE6tgj0JYG8RKK4xe0) | [Transcript](https://github.com/ScottBurger/going_rogue_podcast/blob/master/docs/transcripts/no-mans-sky.txt)
 
 ---
 
 * 01:01 - Game Stats
 * 02:39 - One Sentence Description
+* 3:37 - 2016 Initial Impressions & Launch History
+* 10:07 - 18 Quintillion Planets & Starting Scenario
+* 20:02 - Procedurally Generated Creatures
+* 24:39 - Dangers & Threats
+* 29:05 - First Space Station: Three Alien Species
+* 35:13 - Diablo-Style Module Rolls
+* 38:50 - Game Systems Design
+* 44:17 - The Space Anomaly: Shared Hub Outside Time & Space
+* 51:47 - What's The Central Vision Here?
 * 1:29:09 - Rankings & Final Thoughts
 * 1:39:20 - Similar Games & Show Wind Down
   
