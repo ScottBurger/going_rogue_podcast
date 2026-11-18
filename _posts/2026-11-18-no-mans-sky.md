@@ -1,26 +1,26 @@
 ---
 layout: post
-title: "No Man's Sky (with Dahlia and Lauren)"
-date: 2026-11-08
-file: 
+title: "No Man's Sky"
+date: 2026-11-18
+file: https://grogpod.s3.us-west-2.amazonaws.com/no-mans-sky.mp3
 description: "
 "
 explicit: "yes" 
 keywords: "steam, roguelike, podcast, gaming, rogue-like, rogue-lite, roguelite, white knuckle"
 voices: "scott, will, colin, andrew"
-cover-img: /assets/img/hades2_hero.jpg
-thumbnail-img: /assets/img/hades2_hero.jpg
-share-img: /assets/img/hades2_hero.jpg
+cover-img: /assets/img/nms_hero.jpg
+thumbnail-img: /assets/img/nms_hero.jpg
+share-img: /assets/img/nms_hero.jpg
 duration: "2:02:58"
 length: 102411456   
 tags: ["2016", action, early access, honorary rogue, Guest Episode]
 ---
 
-
+You have learned the Gek work for "procgen"! This week we explore the biggest galaxy in gaming with No Man's Sky: the famously panned disaster game at launch that has successfully launched back into the orbit of good games through years of updates and content. But how much is TOO much? With gameplay systems ranging from bounty hunting, space goods smuggling, story missions, language barriers, and of course Pokemon battles, surely one of these will be able to scratch that roguelite itch across 18,000,000,000,000,000,000 star systems?
 
 <div class="container">
   <audio controls style="width: 100%;">
-    <source src="">
+    <source src="https://grogpod.s3.us-west-2.amazonaws.com/no-mans-sky.mp3">
   </audio>
 </div>
 
@@ -28,15 +28,15 @@ tags: ["2016", action, early access, honorary rogue, Guest Episode]
 
 ---
 
-* 01:08 - Game Stats & Listener Request Week Returns!
-* 03:00 - One Sentence Description
-* 1:38:39 - Rankings & Final Thoughts
-* 1:49:53 - Similar Games & Show Wind Down
+* 01:01 - Game Stats
+* 02:39 - One Sentence Description
+* 1:29:09 - Rankings & Final Thoughts
+* 1:39:20 - Similar Games & Show Wind Down
   
 ---
 
 
-Next episode: Dwarf Fortress
+Next episode: Nubby's Number Factory
 
 Contact us at grogpodzone@gmail.com!
 
@@ -44,7 +44,7 @@ https://grogpod.zone
 
 Intro music: GROGPOD Theme 3 by Balatro composer LouisF - https://louisfmusic.com/
 
-Outro music: 
+Outro music: No Man's Sky OST - Supermoon
 
 
 <div class="embed-responsive embed-responsive-16by9">
