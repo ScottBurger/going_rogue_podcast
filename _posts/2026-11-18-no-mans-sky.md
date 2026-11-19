@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No Man's Sky"
+title: "No Man's Sky (with Lauren J)"
 date: 2026-11-18
 file: https://grogpod.s3.us-west-2.amazonaws.com/no-mans-sky.mp3
 description: "
